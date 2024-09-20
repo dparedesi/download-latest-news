@@ -1,0 +1,203 @@
+Title: Three Stocks: Constellation Energy, CrowdStrike, and Intel
+URL: https://moneymorning.com/2024/09/20/three-stocks-constellation-energy-crowdstrike-and-intel/
+Time Published: 20240920T202744
+Summary: Constellation Energy Corporation Shares of Constellation ( CEG ) finished the week on top of the S&P 500 performance leader board after a 20%-plus rally on Friday. Shares ripped higher after signing a 20-year power purchase agreement with Microsoft ( MSFT ) as tech giant plans for AI expansion.
+--------------------------------------------------
+Title: Check Out What Whales Are Doing With CRWD - CrowdStrike Holdings  ( NASDAQ:CRWD ) 
+URL: https://www.benzinga.com/insights/options/24/09/40965532/check-out-what-whales-are-doing-with-crwd
+Time Published: 20240920T200814
+Summary: Financial giants have made a conspicuous bearish move on CrowdStrike Holdings. Our analysis of options history for CrowdStrike Holdings CRWD revealed 44 unusual trades. Delving into the details, we found 38% of traders were bullish, while 45% showed bearish tendencies.
+Content: Options ActivityIdentify Smart Money MovesSee what positions smart money is taking on your favorite stocks with the Benzinga Edge Unusual Options board.
+--------------------------------------------------
+Title: Why CrowdStrike Stock Was Climbing Today
+URL: https://www.fool.com/investing/2024/09/20/why-crowdstrike-stock-was-climbing-today/
+Time Published: 20240920T160834
+Summary: Positive commentary from Wall Street helped lift the stock.
+Content: Shares of CrowdStrike (CRWD 8.10%) were moving higher today after the company got a bullish analyst note from Citigroup. The analyst built on earlier Wall Street comments that the company seems to have escaped the worst of the backlash that followed its July incident when a faulty software update shut down flights and banking operations, and disrupted other industries.
+As of 11:11 a.m. ET, CrowdStrike stock was up 4.5% on the news.
+
+Image source: Getty Images.
+
+Wall Street thinks the worst is behind CrowdStrike
+This morning, Citi was the latest Wall Street firm to issue a bullish rating on the stock following the Fal.Con conference earlier this week. Citi commended management's transparency on the earlier software update debacle and cited evidence of customer resilience, noting churn is lower than expected and the cybersecurity company has done a good job of maintaining its pricing. 
+Citi reiterated a buy rating on CrowdStrike with a $300 price target. While that implies just a 4% rise in the stock, the note is clearly a positive as CrowdStrike is still trading below where it was before the incident happened.
+Earlier in the week, a number of other research firms, including DA Davidson, Evercore ISI, Jefferies, and Truist all reiterated buy ratings on the stock and said the customer backlash following the software incident had largely passed.
+
+
+
+
+
+
+Can CrowdStrike keep gaining?
+It's certainly a good sign that CrowdStrike has survived the worst of the incident, but the stock is still expensive and growth was slowing prior to the outage.
+If the company is truly back on track, the stock should move higher, but investors should be mindful of the valuation as its price-to-sales ratio was 20. Expect the volatility in the stock to continue.
+--------------------------------------------------
+Title: CrowdStrike Holdings, Inc. Investors Reminder: Kessler Topaz Meltzer & Check, LLP Reminds CrowdStrike Holdings, Inc. Shareholders of Deadline in Securities Fraud Class Action Lawsuit - CrowdStrike Holdings  ( NASDAQ:CRWD ) 
+URL: https://www.benzinga.com/pressreleases/24/09/g40942279/crowdstrike-holdings-inc-investors-reminder-kessler-topaz-meltzer-check-llp-reminds-crowdstrike-ho
+Time Published: 20240919T152800
+Summary: RADNOR, Pa., Sept. 19, 2024 ( GLOBE NEWSWIRE ) -- The law firm of Kessler Topaz Meltzer & Check, LLP ( www.ktmc.com ) informs investors that a securities class action lawsuit has been filed in the United States District Court for the Western District of Texas against CrowdStrike Holdings, Inc. ( ...
+--------------------------------------------------
+Title: DEADLINE REMINDER: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of CrowdStrike - CrowdStrike Holdings  ( NASDAQ:CRWD ) 
+URL: https://www.benzinga.com/pressreleases/24/09/g40941372/deadline-reminder-faruqi-faruqi-llp-investigates-claims-on-behalf-of-investors-of-crowdstrike
+Time Published: 20240919T145300
+Summary: Faruqi & Faruqi, LLP Securities Litigation Partner James ( Josh ) Wilson Encourages Investors Who Suffered Losses Exceeding $100,000 In CrowdStrike To Contact Him Directly To Discuss Their Options
+--------------------------------------------------
+Title: The Zacks Analyst Blog Alaska Air, Delta Air, CrowdStrike and American Airlines
+URL: https://www.zacks.com/stock/news/2338295/the-zacks-analyst-blog-alaska-air-delta-air-crowdstrike-and-american-airlines
+Time Published: 20240919T110400
+Summary: Alaska Air, Delta Air, CrowdStrike and American Airlines are included in this Analyst Blog.
+--------------------------------------------------
+Title: CROWDSTRIKE SHAREHOLDER ALERT: CLAIMSFILER REMINDS INVESTORS WITH LOSSES IN EXCESS OF $100,000 of Lead Plaintiff Deadline in Class Action Lawsuit Against CrowdStrike Holdings, Inc. - CRWD - CrowdStrike Holdings  ( NASDAQ:CRWD ) 
+URL: https://www.benzinga.com/pressreleases/24/09/g40931430/crowdstrike-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-le
+Time Published: 20240919T015852
+Summary: NEW ORLEANS, Sept. 18, 2024 ( GLOBE NEWSWIRE ) -- ClaimsFiler, a FREE shareholder information service, reminds investors that they have until September 30, 2024 to file lead plaintiff applications in a securities class action lawsuit against CrowdStrike Holdings, Inc. ( the "Company" ) CRWD, if ...
+--------------------------------------------------
+Title: CrowdStrike Launches AI Security Posture Management To Enhance Cloud Protection - CrowdStrike Holdings  ( NASDAQ:CRWD ) 
+URL: https://www.benzinga.com/markets/equities/24/09/40925721/crowdstrike-launches-ai-security-posture-management-to-enhance-cloud-protection
+Time Published: 20240918T175840
+Summary: The company has introduced AI Security Posture Management ( AI-SPM ) and announced the general availability of Data Security Posture Management ( DSPM ) as integrated features of CrowdStrike Falcon Cloud Security.
+--------------------------------------------------
+Title: Investors in CrowdStrike Holdings, Inc. Should Contact The Gross Law Firm Before September 30, 2024 to Discuss Your Rights - CRWD - CrowdStrike Holdings  ( NASDAQ:CRWD ) 
+URL: https://www.benzinga.com/pressreleases/24/09/g40925099/investors-in-crowdstrike-holdings-inc-should-contact-the-gross-law-firm-before-september-30-2024-t
+Time Published: 20240918T172600
+Summary: NEW YORK, Sept. 18, 2024 ( GLOBE NEWSWIRE ) -- The Gross Law Firm issues the following notice to shareholders of CrowdStrike Holdings, Inc. CRWD. Shareholders who purchased shares of CRWD during the class period listed are encouraged to contact the firm regarding possible lead plaintiff ...
+--------------------------------------------------
+Title: Airline Stock Roundup: ALK's Bullish Q3 View, AAL's Labor Update
+URL: https://www.zacks.com/stock/news/2338108/airline-stock-roundup-alks-bullish-q3-view-aals-labor-update
+Time Published: 20240918T162000
+Summary: Alaska Air issues an improved earnings outlook for Q3. American Airlines receives positive labor-related news.
+--------------------------------------------------
+Title: Where Will CrowdStrike Holdings Stock Be in 1 Year?
+URL: https://www.fool.com/investing/2024/09/18/where-will-crowdstrike-holdings-stock-be-in-1-year/
+Time Published: 20240918T140000
+Summary: The cybersecurity stock has been in recovery mode of late, but can it sustain its momentum for the next year?
+Content: Shares of CrowdStrike Holdings (CRWD 8.10%) have delivered healthy gains of 56% in the past year. But a closer look at the recent stock price action makes it clear that the high-flying cybersecurity company's rally has come to a screeching halt, thanks to a faulty software update that knocked down many global IT systems on July 19.
+More specifically, CrowdStrike stock is down 34% from the 52-week highs it hit in early July. However, the cybersecurity specialist has witnessed a recovery recently. Its fiscal 2025 second-quarter results (for the three months ended July 31) seem to have eased investors' concerns about the fallout of the outage.
+
+Does this mean investors should consider buying CrowdStrike stock now following its recent pullback, in anticipation of more gains in the coming year? Let's find out.
+Wall Street seems to be bullish about CrowdStrike stock
+Out of 51 analysts covering CrowdStrike stock, 82% rate it as a buy, while only 2% rate it as a sell. It's also worth noting that the stock has a 12-month median price target of $315, which points toward a 21% jump in its shares from current levels. The Street-high price target of $540 suggests that CrowdStrike could jump an impressive 108% from current levels.
+The bullish analyst outlook despite the global IT outage a couple of months ago -- which reportedly led to a massive loss of $5.4 billion at Fortune 500 companies, according to cloud monitoring and insurance services provider Parametrix -- stems from the company's modest guidance cut. CrowdStrike has reduced its fiscal 2025 revenue guidance to a range of $3.89 billion to $3.9 billion, down from the earlier range of $3.98 billion to $4.01 billion. That translates into a reduction of 2.5% at the midpoint.
+
+
+
+
+
+The updated guidance means that CrowdStrike's top line is on track to grow 27.5% in the current fiscal year. Management pointed out on the latest earnings conference call that the compensation packages to make up for the outage would affect its subs
+--------------------------------------------------
+Title: CrowdStrike Partners With Dazz To Streamline Cloud Security; Launches Financial Services Subsidiary - CrowdStrike Holdings  ( NASDAQ:CRWD ) 
+URL: https://www.benzinga.com/markets/equities/24/09/40915550/crowdstrike-partners-with-dazz-to-streamline-cloud-security-launches-financial-services-subsidia
+Time Published: 20240918T104111
+Summary: CrowdStrike Holdings, Inc. CRWD disclosed a partnership with Dazz to strengthen visibility and protection within CrowdStrike Falcon Cloud Security by incorporating Dazz's security remediation insights.
+--------------------------------------------------
+Title: Major News for CrowdStrike Investors
+URL: https://www.fool.com/investing/2024/09/18/major-news-for-crowdstrike-investors/
+Time Published: 20240918T090500
+Summary: The stock has climbed in the triple digits over five years.
+Content: Until July, shares of CrowdStrike Holdings (CRWD 8.10%) were flying high, having gained more than 50% since the start of the year. And that was part of a triple-digit increase over the past five years. That's as the company wowed existing customers and potential ones with its platform powered by artificial intelligence (AI) to protect their businesses from cyberattacks.
+In fact, CrowdStrike has become such a cybersecurity powerhouse that when the company launched a faulty software update in July, the world seemed to screech to a halt. Airlines, hospitals, and other businesses across sectors faced blue screens and couldn't continue with their daily operations.
+It launched a fix within about an hour, but some customers took weeks to recover. And the outage could have cost Fortune 500 companies more than $5 billion, according to insurance firm Parametrix.
+Following this outage -- which experts call the world's biggest ever -- investors fled CrowdStrike stock, worried about the impending impact. But now, some major news from CrowdStrike offers us an encouraging clue about how this might affect the cybersecurity provider in the coming months.
+
+Image source: Getty Images.
+
+CrowdStrike's Falcon platform
+First, a few details about CrowdStrike's cybersecurity platform, Falcon, which gathers data from across an enterprise and beyond in order to determine potential threats. Customers can choose among 28 modules according to their specific security needs. And a significant number of customers have signed on for several, with adoption rates for five or more modules at 65% in the recent quarter.
+
+
+
+
+
+All of this has helped earnings to soar. For example, in the recent quarter, ended about two weeks after the July outage, the company reported a 32% increase in annual recurring revenue, a subscription gross margin of 78% under generally accepted accounting principles (GAAP), and record operating cash flow and free cash flow. On top of this, CrowdStrike has more than $4 billion in ca
+--------------------------------------------------
+Title: CROWDSTRIKE SHAREHOLDER ALERT BY FORMER LOUISIANA ATTORNEY GENERAL: KAHN SWICK & FOTI, LLC REMINDS INVESTORS WITH LOSSES IN EXCESS OF $100,000 of Lead Plaintiff Deadline in Class Action Lawsuit Against CrowdStrike Holdings, Inc. - CRWD - CrowdStrike Holdings  ( NASDAQ:CRWD ) 
+URL: https://www.benzinga.com/pressreleases/24/09/g40912034/crowdstrike-shareholder-alert-by-former-louisiana-attorney-general-kahn-swick-foti-llc-reminds-inv
+Time Published: 20240918T014849
+Summary: NEW ORLEANS, Sept. 17, 2024 ( GLOBE NEWSWIRE ) -- Kahn Swick & Foti, LLC ( "KSF" ) and KSF partner, former Attorney General of Louisiana, Charles C.
+--------------------------------------------------
+Title: Bragar Eagel & Squire, P.C. Reminds Investors That Class Action Lawsuits Have Been Filed Against Indivior, CrowdStrike, DXC, and Five Below and Encourages Investors to Contact the Firm - CrowdStrike Holdings  ( NASDAQ:CRWD ) , DXC Technology  ( NYSE:DXC ) 
+URL: https://www.benzinga.com/pressreleases/24/09/g40911850/bragar-eagel-squire-p-c-reminds-investors-that-class-action-lawsuits-have-been-filed-against-indiv
+Time Published: 20240918T010000
+Summary: NEW YORK, Sept. 17, 2024 ( GLOBE NEWSWIRE ) -- Bragar Eagel & Squire, P.C., a nationally recognized shareholder rights law firm, reminds investors that class actions have been commenced on behalf of stockholders of Indivior PLC INDV, CrowdStrike Holdings, Inc.
+--------------------------------------------------
+Title: CRWD INVESTOR ALERT: Bronstein, Gewirtz & Grossman LLC Announces that CrowdStrike Holdings, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit! - CrowdStrike Holdings  ( NASDAQ:CRWD ) 
+URL: https://www.benzinga.com/pressreleases/24/09/g40906717/crwd-investor-alert-bronstein-gewirtz-grossman-llc-announces-that-crowdstrike-holdings-inc-investo
+Time Published: 20240917T180000
+Summary: NEW YORK, Sept. 17, 2024 ( GLOBE NEWSWIRE ) -- Attorney Advertising--Bronstein, Gewirtz & Grossman, LLC, a nationally recognized law firm, notifies investors that a class action lawsuit has been filed against CrowdStrike Holdings, Inc. ( "CrowdStrike" or "the Company" ) CRWD and certain of its ...
+--------------------------------------------------
+Title: Alaska Air Gains 18.2% in a Month: What Should Investors Do Now?
+URL: https://www.zacks.com/stock/news/2337384/alaska-air-gains-182-in-a-month-what-should-investors-do-now
+Time Published: 20240917T164900
+Summary: With ALK's shares appreciating lately, we assess the current positioning of the stock to determine if it's a good investment choice at this juncture.
+--------------------------------------------------
+Title: Zscaler and CrowdStrike Announce New AI and Zero Trust Cybersecurity Integrations - CrowdStrike Holdings  ( NASDAQ:CRWD ) , Zscaler  ( NASDAQ:ZS ) 
+URL: https://www.benzinga.com/pressreleases/24/09/g40904101/zscaler-and-crowdstrike-announce-new-ai-and-zero-trust-cybersecurity-integrations
+Time Published: 20240917T160257
+Summary: SAN JOSE, Calif. and LAS VEGAS, Sept. 17, 2024 ( GLOBE NEWSWIRE ) -- ( Fal.Con 2024 ) -- Zscaler, Inc. ZS, the leader in cloud security, today announced a new set of AI and Zero Trust integrations with the CrowdStrike Falcon® cybersecurity platform to advance security operations.
+--------------------------------------------------
+Title: Zscaler and CrowdStrike Announce New AI and Zero Trust Cybersecurity Integrations
+URL: https://www.globenewswire.com/news-release/2024/09/17/2947702/0/en/Zscaler-and-CrowdStrike-Announce-New-AI-and-Zero-Trust-Cybersecurity-Integrations.html
+Time Published: 20240917T160200
+Summary: Expanded Offerings Enhance Zero Trust Enforcement and Modernize the Security Operations Center Expanded Offerings Enhance Zero Trust Enforcement and Modernize the Security Operations Center ...
+Content: SAN JOSE, Calif. and LAS VEGAS, Sept.  17, 2024  (GLOBE NEWSWIRE) -- (Fal.Con 2024) -- Zscaler, Inc. (NASDAQ: ZS), the leader in cloud security, today announced a new set of AI and Zero Trust integrations with the CrowdStrike Falcon® cybersecurity platform to advance security operations. The latest integrations with Zscaler Zero Trust Exchange™ Platform, Zscaler Data Fabric for Security, and CrowdStrike Falcon® Next-Gen SIEM modernize security operations to provide advanced threat detection, response, and risk management. Security operations center (SOC) teams are under constant pressure to assess and manage risks, detect threats early, and respond swiftly to security incidents–all while facing an increasingly complex threat landscape. Siloed security data streams from disparate sources and arbitrary risk assessment mechanisms across diverse environments create operational inefficiencies and delay response times that increase an organization’s cybersecurity risks and possibility of a breach. “Zscaler’s latest integrations with CrowdStrike represent a significant step forward in our collective mission to ease day-to-day work streams for IT security and SOC teams,” said Punit Minocha, EVP of Business Development and Corporate Strategy, Zscaler. “Together, we can deliver a synergistic approach to risk management, threat detection, and policy enforcement.” “To defeat today’s threats, organizations must transform the SOC by harnessing the power of AI and automation to eliminate blind spots and stop adversaries,” said Daniel Bernard, chief business officer at CrowdStrike. “CrowdStrike’s partnership with Zscaler is a critical step in advancing zero trust enforcement, empowering organizations to transform their SOC, closing the gap between security and IT operations.” The latest collaboration between Zscaler and CrowdStrike delivers: Coordinated Threat Sharing, Detection and Response: Through the Falcon Foundry for Zscaler app, which serves as a foundation for Zscaler’s int
+--------------------------------------------------
+Title: CrowdStrike Holdings Unusual Options Activity For September 17 - CrowdStrike Holdings  ( NASDAQ:CRWD ) 
+URL: https://www.benzinga.com/insights/options/24/09/40900254/crowdstrike-holdings-unusual-options-activity-for-september-17
+Time Published: 20240917T134724
+Summary: Investors with a lot of money to spend have taken a bullish stance on CrowdStrike Holdings CRWD. We noticed this today when the trades showed up on publicly available options history that we track here at Benzinga. Whether these are institutions or just wealthy individuals, we don't know.
+Content: Options ActivityIdentify Smart Money MovesSee what positions smart money is taking on your favorite stocks with the Benzinga Edge Unusual Options board.
+--------------------------------------------------
+Title: Here's What Delta Air Lines Big News Means to Investors
+URL: https://www.fool.com/investing/2024/09/17/heres-what-delta-air-lines-big-news-means-to-inves/
+Time Published: 20240917T111000
+Summary: The headline numbers were mixed, but management's commentary on industry dynamics was bullish.
+Content: The devil is in the details. Despite some mixed-headline numbers from Delta Air Lines' (DAL -0.40%) latest investor update, one aspect of management's commentary is bullish for the company and much of the industry. Here's an unpacking of what management says and why you can feel more comfortable holding the stock afterward.
+Mixed-headline numbers
+For those investors unaware of summer events, airlines suffered flight delays and cancellations due to a CrowdStrike software update that crashed Microsoft operating systems. Delta Air Lines was particularly badly hit, impacting its revenue and earnings lines.
+
+Investors need to account for the impact (hopefully, a one-off issue) when gauging the company's third-quarter performance and full-year guidance. In doing so, it's clear that two of the three key-operating metrics the airline guides toward align with prior guidance; but one, cost-per-available seat mile (CASM-Ex) adjusted for fuel, is slightly disappointing.
+The table below shows that the midpoint of the implied guidance excluding CrowdStrike (fourth column) is 3%, the same as the guidance given in the Q2 earnings presentations. Similarly, implied guidance excluding CrowdStrike is similar for available seat miles.
+However, the implied guidance for CASM-Ex is higher than the prior estimate. While a difference of 2.5% compared to 1% to 2% may not appear to be a big deal, it's a closely followed number in the industry, and increasing CASM-Ex will decrease profit margins.
+
+
+
+
+
+
+Image source: Getty Images.
+
+That's one reason the stock sold off initially after the recent trading update on the Morgan Stanley Laguna Conference. The other reason is that management told investors that its full-year earnings per share would be at the midpoint or above the initial guidance of $6 to $7 when excluding the $0.45 impact from CrowdStrike.
+On balance, guidance for underlying earnings at the midpoint of prior guidance, but with costs (CASM-Ex) rising more than expected, is a slight ov
+--------------------------------------------------
+Title: Uh-Oh! Alphabet Is Selling Its Stake in 2 Historically High-Flying Artificial Intelligence  ( AI )  Stocks
+URL: https://www.fool.com/investing/2024/09/17/alphabet-selling-stake-in-2-high-flying-ai-stocks/
+Time Published: 20240917T090600
+Summary: These once-sizable artificial intelligence (AI) holdings for Google parent Alphabet have been paired down big-time over the last two quarters.
+Content: Five weeks ago, what can arguably be described as the most important data release of the third-quarter occurred -- and I'm not talking about the July inflation report.
+No later than 45 calendar days following the end to a quarter (Aug. 14 in the latest instance), institutional investors with at least $100 million in assets under management are required to file Form 13F with the Securities and Exchange Commission. A 13F provides a clear-cut rundown of which stocks Wall Street's brightest, and often richest, investors bought and sold in the latest quarter. Even though these snapshots are up to 45 days old when filed, it offers invaluable insight into the stocks, industries, sectors, and trends have the attention of money managers.
+
+Image source: Getty Images.
+
+However, 13F filings are a necessity for more than just investment institutions. Some of Wall Street's largest and most-successful companies hold sizable stakes in other businesses, including Nvidia, and are required to file a 13F on a quarterly basis.
+One such company, which has nearly $2 billion invested across 42 stocks, is Alphabet (GOOGL 0.89%) (GOOG 0.86%), the parent of search engine Google, streaming platform YouTube, and autonomous ride-hailing service Waymo, among other ventures.
+Alphabet is a search engine juggernaut... and much more!
+Most investors are familiar with Alphabet because of its world-leading Google search engine.
+
+
+
+
+
+In August, Google accounted for a mammoth 90.48% share of worldwide search, per GlobalStats. In fact, Google has held at least a 90% monthly share of global internet search dating back more than nine years. This makes it the undisputed go-to for businesses wanting to target users with their message(s) and affords parent Alphabet unbelievable ad-pricing power.
+
+You're probably also familiar with YouTube, the second most-visited social media site on the planet, with approximately 2.5 billion monthly active users. The launch of Shorts -- short-form videos lasting 60 seconds or 
+--------------------------------------------------
+Title: Shareholders of CrowdStrike Holdings, Inc. Should Contact Levi & Korsinsky Before September 30, 2024 to Discuss Your Rights - CRWD - CrowdStrike Holdings  ( NASDAQ:CRWD ) 
+URL: https://www.benzinga.com/pressreleases/24/09/g40883256/shareholders-of-crowdstrike-holdings-inc-should-contact-levi-korsinsky-before-september-30-2024-to
+Time Published: 20240916T165100
+Summary: NEW YORK, Sept. 16, 2024 ( GLOBE NEWSWIRE ) -- Levi & Korsinsky, LLP notifies investors in CrowdStrike Holdings, Inc. ( "CrowdStrike" or the "Company" ) CRWD of a class action securities lawsuit.
+--------------------------------------------------
+Title: This Week's 5-Stock Rate Cut Watchlist
+URL: https://moneymorning.com/2024/09/16/this-weeks-5-stock-rate-cut-watchlist/
+Time Published: 20240916T115617
+Summary: Technology Stock of the Week: F5 Networks Recent developments in the cybersecurity space have put a focus on F5 Network ( FFIV ) 's network security products. Since the failure of several Crowdstrike ( CRWD ) systems over the summer, F5 Networks has announced the development of their robust ...
+--------------------------------------------------

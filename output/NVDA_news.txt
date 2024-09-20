@@ -1,0 +1,609 @@
+Title: Prediction: This $80 Billion Market Could Be the Next Big Growth Driver for Nvidia Stock
+URL: https://www.fool.com/investing/2024/09/20/prediction-this-80-billion-market-could-be-the-nex/
+Time Published: 20240920T210000
+Summary: Nvidia has built a solid position for itself in this fast-growing data center niche that could help generate sizable revenue for the company in the long run.
+Content: Graphics processing units (GPUs) have been Nvidia's (NVDA -1.59%) bread-and-butter business for a long, long time. The company initially made its name producing GPUs meant for deployment in personal computers (PCs) for gaming and content creation, before eventually striking gold with its data center GPUs that are now in red-hot demand thanks to artificial intelligence (AI).
+As it turns out, data center compute chips now produce the majority of Nvidia's revenue. The company sold $22.6 billion worth of data center GPUs in the second quarter of fiscal 2025 (which ended on July 28). The segment's revenue shot up 162% year over year, accounting for 75% of the company's top line. However, there is another niche within the data center business where Nvidia is now gaining impressive traction.
+This particular business segment is now bigger than Nvidia's gaming business, and it could turn out to be a key growth driver for the company in the long run. Here's a closer look at this emerging business that could supercharge Nvidia's growth.
+
+Nvidia is making terrific progress in this $80 billion market
+Nvidia sells two types of data center chips. The first are the GPUs, which are already generating several billion dollars in revenue for the company each quarter. The second type of Nvidia's data center chips is its networking chips, which are also selling like hotcakes as the company's latest quarterly results show.
+Nvidia sold $3.7 billion worth of networking chips in the previous quarter, up 114% from the same quarter last year. The company's networking revenue in the first half of the fiscal year stood at $6.8 billion, translating into an annual revenue run rate of nearly $14 billion. The global data center networking market is estimated to generate $37.6 billion in revenue this year. If Nvidia indeed ends fiscal 2025 with $14 billion in data center networking revenue, it would end up controlling 37% of this market.
+
+
+
+
+
+What's worth noting here is that Nvidia is reportedly grow
+--------------------------------------------------
+Title: Intel shares pop on report Qualcomm has approached it about takeover
+URL: https://www.cnbc.com/2024/09/20/qualcomm-reportedly-approached-intel-about-takeover.html
+Time Published: 20240920T195111
+Summary: The deal, if it were to happen, would be one of the largest technology mergers in years.
+--------------------------------------------------
+Title: Why Vertiv is a "Strong Buy" Tech Stock and Long-Term AI Investment
+URL: https://www.zacks.com/stock/news/2339467/why-vertiv-is-a-strong-buy-tech-stock-and-long-term-ai-investment
+Time Published: 20240920T192800
+Summary: Vertiv (VRT) is a picks-and-shovels AI stock working with the current king of AI, Nvidia, and will grow no matter who eventually dominates artificial intelligence.
+--------------------------------------------------
+Title: Post-Fed Rate Cut: Buy, Hold, or Sell NVIDIA Stock?
+URL: https://www.zacks.com/stock/news/2339465/post-fed-rate-cut-buy-hold-or-sell-nvidia-stock
+Time Published: 20240920T190500
+Summary: NVIDIA stock always performs well after interest rate cuts and gets access to cheaper capital. Time to Buy?
+--------------------------------------------------
+Title: Is SLB's Premium Stock Valuation Still Justified? Buy, Sell, or Hold?
+URL: https://www.zacks.com/stock/news/2339460/is-slbs-premium-stock-valuation-still-justified-buy-sell-or-hold
+Time Published: 20240920T184500
+Summary: SLB's strong fundamentals drive premium valuations with high growth expectations, but there remains some uncertainty.
+--------------------------------------------------
+Title: The Ups And Downs Of AI Stocks This Week - Microsoft  ( NASDAQ:MSFT ) , Alphabet  ( NASDAQ:GOOGL ) 
+URL: https://www.benzinga.com/markets/24/09/40964193/the-ups-and-downs-of-ai-stocks-this-week
+Time Published: 20240920T183939
+Summary: This week has been a bit down in general and in regards to the technology sector, particularly companies focused on artificial intelligence ( AI ) , has once again taken front and center stage in the stock market.
+--------------------------------------------------
+Title: How To Find Stocks That Will Soar For A Very Long Time
+URL: https://www.benzinga.com/opinion/24/09/40963396/how-to-find-stocks-that-will-soar-for-a-very-long-time
+Time Published: 20240920T173806
+Summary: If you can flash back to basic physics classes without opening traumatic wounds, you will remember the three laws of motion. They apply to market and stock trends just as much as they do in the physical world.
+--------------------------------------------------
+Title: Intel Is Turning Its Foundry Business Into a Subsidiary. Time to Buy?
+URL: https://www.fool.com/investing/2024/09/20/intel-is-turning-its-foundry-business-into-a-subsi/
+Time Published: 20240920T172900
+Summary: Investors should take a closer look at the chipmaker after its latest strategic pivot.
+Content: The brutal sell-off in Intel (INTC 3.31%) stock may finally be over. The stock seems to have resurged on news that the company plans to turn its foundry business into a subsidiary. It also expanded its deal with Amazon, inking a new agreement to produce artificial intelligence (AI) chips for Amazon Web Services (AWS). That could transform it into a major player in the AI server chip market.
+Nonetheless, considering the stock's performance in recent months, one could question whether this recent bounce is a sign that a sustainable recovery for Intel is coming, or if investors should continue to avoid the stock.
+Intel's new lease on life
+Without a doubt, Intel has fallen into decline, and its attempted return to prominence under CEO Pat Gelsinger has not gone as planned. The company made ambitious plans to spend tens of billions on new foundries to create a third-party chip manufacturing business that could compete with Taiwan Semiconductor Manufacturing (TSMC) and Samsung.
+It also made technical improvements and boldly claimed that it would return to process leadership by 2025. However, its planned $25 billion to $27 billion in capital expenditures over the next year will take a considerable toll on its balance sheet. Also, multiple sources told Reuters that chips Intel produced for Broadcom failed that company's tests, calling into question how well Intel can compete in that business.
+The fact that Intel suspended its dividend and is laying off over 15% of its workforce shows that it has fallen well short of its goals. That news in August sent the stock to multiyear lows.
+
+
+
+
+
+Yet its foundry business has shown potential for improvement. Intel will turn that business into a separate subsidiary, giving it its own operating board and the ability to raise capital separately. Additionally, the aforementioned deal with AWS could help make Intel's foundry business a top company in its industry.
+Intel stock's new investment thesis
+Intel's stock was down by about 60% year t
+--------------------------------------------------
+Title: Taiwan Semiconductor Unusual Options Activity For September 20 - Taiwan Semiconductor  ( NYSE:TSM ) 
+URL: https://www.benzinga.com/insights/options/24/09/40962453/taiwan-semiconductor-unusual-options-activity-for-september-20
+Time Published: 20240920T164807
+Summary: Investors with a lot of money to spend have taken a bullish stance on Taiwan Semiconductor TSM. We noticed this today when the trades showed up on publicly available options history that we track here at Benzinga. Whether these are institutions or just wealthy individuals, we don't know.
+Content: Options ActivityIdentify Smart Money MovesSee what positions smart money is taking on your favorite stocks with the Benzinga Edge Unusual Options board.
+--------------------------------------------------
+Title: Four Stocks Set to Outperform as "AI Goes Nuclear"
+URL: https://moneymorning.com/2024/09/20/four-stocks-set-to-outperform-as-ai-goes-nuclear/
+Time Published: 20240920T151247
+Summary: The Situation AI takes massive amounts of energy to do even the simplest of tasks. Those billions and billions of calculations are now taking a bite out of the energy grids all around the world. According to the International Energy Agency ( IEA ) , data centers around the world currently account ...
+--------------------------------------------------
+Title: 1 Favorable Trend That Explains the 99% Increase in Taiwan Semiconductor's Stock Price
+URL: https://www.fool.com/investing/2024/09/20/1-favorable-trend-that-explains-the-99-increase-in/
+Time Published: 20240920T150800
+Summary: Spending for all things AI is ramping up.
+Content: Shares of Taiwan Semiconductor Manufacturing (TSM -1.21%) have soared over the last year, largely due to the soaring demand for cutting-edge chips capable of handling artificial intelligence (AI) workloads and a rebound in the broader semiconductor sector.
+TSMC, as the company is also known, is the world's largest contract manufacturer of semiconductors, serving companies like Apple, Nvidia, Broadcom, and AMD. It controls more than half of the third-party foundry market and is responsible for an estimated 90% of the advanced chips churned out by third-party manufacturers.
+That makes TSMC one of the most important companies in the world, as semiconductors are essential components in most modern technology.
+Its revenue growth has been accelerating and it has been generating strong margins. The chart below helps show why the stock has jumped by 99% over the last 12 months.
+Cloud infrastructure spending is soaring
+Amazon, Microsoft, and Alphabet are the biggest cloud infrastructure providers in the world, and all three have ramped up their capital expenditures over the last four quarters as the AI boom has gathered momentum.
+
+
+
+
+
+
+GOOGL Capital Expenditures (Quarterly) data by YCharts.
+Combined, those three companies have added about $17 billion in capital expenditures to build new data centers and meet demand for the processing power to underpin new generative AI technologies. While some investors have criticized Microsoft and Alphabet, suggesting that they have been overspending on AI infrastructure, those companies have defended those investments, insisting that the risks of underspending and losing the AI race are greater than the risks of overspending.
+A significant slice of that added spending is going toward chips that come out of TSMC's facilities, as the foundry giant manufactures plenty of high-end chips on behalf of Nvidia and others. As long as those companies are ramping up their capital expenditures, investors can expect TSMC stock to keep outperforming.
+--------------------------------------------------
+Title: SLB & NVIDIA Partner to Drive AI Innovation in Energy Sector
+URL: https://www.zacks.com/stock/news/2339392/slb-nvidia-partner-to-drive-ai-innovation-in-energy-sector
+Time Published: 20240920T150300
+Summary: SLB partners with NVIDIA to develop AI solutions for the energy sector, enhancing exploration, production, data management, and sustainable energy initiatives.
+--------------------------------------------------
+Title: 5 Hidden Gem AI Stocks to Buy Now
+URL: https://www.zacks.com/stock/news/2339271/5-hidden-gem-ai-stocks-to-buy-now
+Time Published: 20240920T150200
+Summary: It's not all about NVIDIA. Who will build and cool those data centers?
+--------------------------------------------------
+Title: 4 Top No-Load Mutual Funds to Build a Solid Portfolio
+URL: https://www.zacks.com/stock/news/2339267/4-top-no-load-mutual-funds-to-build-a-solid-portfolio
+Time Published: 20240920T144700
+Summary: Invest in no-load mutual funds like FSENX, FSELX, VSMIX and DRGVX that have performed well so far and will continue to give high returns in the future.
+--------------------------------------------------
+Title: Infosys Adds New AI Client: How Should Investors Play the Stock?
+URL: https://www.zacks.com/stock/news/2339325/infosys-adds-new-ai-client-how-should-investors-play-the-stock
+Time Published: 20240920T143100
+Summary: While INFY is benefiting from major deal wins and rapid growth in digital services, its high valuation may cap further stock gains.
+--------------------------------------------------
+Title: Investors Bet OpenAI Is On The Path To 'Building A Trillion-Dollar Company' As Sam Altman-Led ChatGPT Maker Aims To Raise $5B And More In Upcoming Funding Round - Microsoft  ( NASDAQ:MSFT ) 
+URL: https://www.benzinga.com/news/24/09/40959309/investors-bet-openai-is-on-the-path-to-building-a-trillion-dollar-company-as-sam-altman-led-chatgpt
+Time Published: 20240920T143002
+Summary: Investors are showing strong confidence in Sam Altman-led OpenAI as the company seeks to raise $5 billion or more in its latest funding round. What Happened: The San Francisco-based start-up, backed by Microsoft Corp. MSFT is finalizing a new fundraising round that values the company at $150 ...
+--------------------------------------------------
+Title: Market Clubhouse Morning Memo - September 20th, 2024  ( Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA ) 
+URL: https://www.benzinga.com/trading-ideas/24/09/40959306/market-clubhouse-morning-memo-september-20th-2024-trade-strategy-for-spy-qqq-aapl-msft-nvda-googl-m
+Time Published: 20240920T142948
+Summary: Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA. Our proprietary formula, exclusive to Market Clubhouse, dictates these price levels. This dynamic equation takes into account price, volume, and options flow.
+--------------------------------------------------
+Title: How Apple Stock Could Gain From Friday's S&P 500 Rebalancing: What Investors Should Know - Microsoft  ( NASDAQ:MSFT ) , Apple  ( NASDAQ:AAPL ) 
+URL: https://www.benzinga.com/news/24/09/40958207/how-apple-stock-could-gain-from-fridays-s-p-500-rebalancing-what-investors-should-know
+Time Published: 20240920T134839
+Summary: Apple Inc AAPL is one of the stocks that could be volatile Friday with S&P 500 and several market indexes rebalancing along with the quarterly triple witching event that sees the expiration of stock options, index futures and index options.
+--------------------------------------------------
+Title: Got $2,000? 2 Top Growth Stocks to Buy That Could Double Your Money
+URL: https://www.fool.com/investing/2024/09/20/got-2000-2-top-growth-stocks-buy-double-money/
+Time Published: 20240920T134600
+Summary: The tech sector players hold the potential for considerable growth.
+Content: An investment budget of $2,000 may sound relatively modest when some stocks trade at higher prices per share than that. Nonetheless, many people have started their investing journeys with less, and whatever sum you're beginning with, the goal is, of course, to turn it into substantially more.
+If you're looking for stocks with the potential to double at a relatively rapid pace, the tech sector is a good place to focus your search. These two tech stocks could make even a modest investor significantly wealthier over time.
+1. AMD
+Advanced Micro Devices (AMD -0.50%) may not appear well-positioned to double at first glance. The semiconductor stock has lagged behind market leader Nvidia in the artificial intelligence (AI) chip space, and its revenue growth indicates that its gaming and embedded segments are also struggling.
+Now, however, AMD is pushing full speed ahead into the AI accelerator market. While it sells merchant AI accelerators and added some new releases in this category recently, it has pivoted heavily into custom AI chips.
+Moreover, the market is likely overlooking one key factor in its valuation of AMD: how AI chips have transformed chip companies. Three years ago, Nvidia's data center business (which includes its AI chips) was not its largest segment. Now, it makes up 88% of its revenue.
+
+
+
+
+
+AMD could soon follow that path. In the second quarter, its revenue rose by only 9% yearly to $5.8 billion. That was far below the triple-digit percentage growth of Nvidia's top line.
+However, AMD's data center revenue grew by 115% to $2.8 billion. Consequently, the data center segment is now its largest, accounting for 48% of company revenues. Assuming that trend continues, its total revenue should continue to grow even if other segments lag.
+AMD's net income is also on the path to recovery. It reached $265 million in Q2, up from just $27 million in the prior-year period.
+
+It still has a high P/E ratio, but its price-to-sales (P/S) ratio is only 11. Not only is that 
+--------------------------------------------------
+Title: Bitcoin's Correction Ends, But Must Hit A Key Target To Reach $70K, Says 10x Research; European Drug Agency Backs Novo Nordisk's Wegovy For Obesity-Related Heart Failure - Top Headlines Today While US Slept
+URL: https://www.benzinga.com/news/24/09/40957358/bitcoins-correction-ends-but-must-hit-a-key-target-to-reach-70k-says-10x-research-european-drug-agen
+Time Published: 20240920T130357
+Summary: Bitcoin's Correction Ends, But It Has To Break This Target To Surge To $70K: 10x Research FBI Arrests 2 People Allegedly Behind $230M Bitcoin Heist: Laundered Proceeds Were Spent On Globetrotting, High-End Wheels, And Designer Handbags
+--------------------------------------------------
+Title: How Much Is Nvidia Stock Really Worth?
+URL: https://www.fool.com/investing/2024/09/20/how-much-is-nvidia-stock-really-worth-a-discounted/
+Time Published: 20240920T130321
+Summary: Nvidia stock investors might be surprised by the outcome of the discounted cash-flow valuation.
+Content: Fool.com contributor Parkev Tatevosian conducts a discounted cash flow valuation for Nvidia (NVDA -1.59%) stock.
+*Stock prices used were the afternoon prices of Sept. 17, 2024. The video was published on Sept. 19, 2024.
+--------------------------------------------------
+Title: Aethir partners with Filecoin to solve GPU shortage, boost AI
+URL: https://cointelegraph.com/news/aethir-filecoin-tackle-gpu-scarcity-ai-web3-cloud-computing
+Time Published: 20240920T123000
+Summary: Aethir and Filecoin's partnership integrates GPU leasing services with decentralized storage, advancing AI and Web3 infrastructure.
+--------------------------------------------------
+Title: The Best Stocks to Invest $1,000 in Right Now
+URL: https://www.fool.com/investing/2024/09/20/the-best-stocks-to-invest-1000-in-right-now/
+Time Published: 20240920T121500
+Summary: Why TSMC and Arm Holdings are two top investment choices.
+Content: Technology continues to shape the world we live in -- so perhaps, not surprisingly, the tech sector remains one the best places to invest. And when a tech company can provide services that are high in demand, this puts it in a special category all its own.
+Let's look today at two such tech stocks to invest $1,000 in right now -- two companies that are go-to players in the complex process of chipmaking.
+Taiwan Semiconductor
+As the largest semiconductor contract manufacturer in the world, Taiwan Semiconductor Manufacturing (TSM -1.21%), or TSMC for short, is essentially the go-to company in the artificial intelligence (AI) infrastructure buildout. Whether Nvidia continues to hold its massive lead in AI chips with its graphic processing units (GPUs), or Advanced Micro Devices makes inroads, or companies begin to turn to custom chips from Broadcom, TSMC wins regardless.
+
+As long as more and more chips are needed, whether for AI data centers or smartphones, TSMC benefits. On that front, capital expenditures (capex) related to AI just continue to increase.
+For example, the top four hyperscale companies in the U.S. increased their capex budgets from $145 billion in 2023 to $202 billion in 2024, much of that directed toward AI. And that spending is only expected to increase as the large language models (LLMs) models needed for AI training advance, needing exponentially more computing power and GPUs. 
+
+
+
+
+
+So far, the demand for TSMC's services are showing up in its results, with second-quarter revenue rising 33% in U.S. dollars and 40% in New Taiwan dollars. The strong revenue growth has continued in the current quarter, with 45% revenue growth in July and 33% in August in local currency.
+
+Image source: Getty Images.
+
+With demand for its services so high, TSMC is in a strong position and will benefit not only from increased production, but also increased prices for its services, which it plans to raise next year. There are already reports that the company is set to raise pr
+--------------------------------------------------
+Title: Huawei to step up AI ecosystem development despite US tech sanctions
+URL: https://www.scmp.com/tech/tech-trends/article/3279382/huawei-step-ai-ecosystem-development-across-industries-despite-us-tech-sanctions
+Time Published: 20240920T121238
+Summary: 'In 2024 and over the next five years, Huawei will invest even more into ecosystem development,' deputy chairman Eric Xu Zhijun said.
+--------------------------------------------------
+Title: The Zacks Analyst Blog NVIDIA, Microsoft and Micron Technology
+URL: https://www.zacks.com/stock/news/2338951/the-zacks-analyst-blog-nvidia-microsoft-and-micron-technology
+Time Published: 20240920T121100
+Summary: NVIDIA, Microsoft and Micron Technology are included in this Analyst Blog.
+--------------------------------------------------
+Title: INVESTOR DEADLINE MONDAY: Robbins Geller Rudman & Dowd LLP Announces that Vicor Corporation Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - VICR - Vicor  ( NASDAQ:VICR ) 
+URL: https://www.benzinga.com/pressreleases/24/09/g40955156/investor-deadline-monday-robbins-geller-rudman-dowd-llp-announces-that-vicor-corporation-investors
+Time Published: 20240920T111533
+Summary: SAN DIEGO, Sept. 20, 2024 ( GLOBE NEWSWIRE ) -- Robbins Geller Rudman & Dowd LLP announces that purchasers or acquirers of Vicor Corporation VICR common stock between April 26, 2023 and February 22, 2024, inclusive ( the "Class Period" ) , have until Monday, September 23, 2024 to seek ...
+--------------------------------------------------
+Title: Forget Nvidia: 1 Artificial Intelligence  ( AI )  Stock to Buy Instead
+URL: https://www.fool.com/investing/2024/09/20/forget-nvidia-artificial-intelligence-ai-stock/
+Time Published: 20240920T111500
+Summary: Like Nvidia? Then you'll love this under-the-radar AI stock.
+Content: I love Nvidia stock. Who wouldn't? Over the past year, shares have risen in value by more than 160%. Most of this rise can be attributed to rapid growth in demand for AI components. As the industry leader in graphics processing units (GPUs) -- a critical component for most AI infrastructures -- the company has seen demand skyrocket in recent years.
+But Nvidia isn't the only company benefiting from the rise of AI. There's one significantly smaller business that is primed to benefit as well even if the market hasn't caught on yet.
+
+Bet on AI with this under-the-radar stock
+Everyone's talking about AI these days. The fervor has sent the valuations of most AI businesses soaring. Yet some companies haven't seen their market caps surge as much as others. One relatively small AI business in particular has fallen under the radar. There are risks to investing in this business but also massive potential upside.
+The company in question is none other than SoundHound AI (SOUN -0.80%). I wrote about this AI business a few months ago. Since then, shares have appreciated in value by more than 20%. But the latest bump in valuation could prove to be just the beginning.
+As its name suggests, SoundHound AI is focused on AI applications related to sound. This will be one of the biggest ways everyday consumers engage with AI technologies. Whether it's asking your phone what song is currently playing or chatting with a customer-support agent that's actually a robot in disguise, the revolution has already begun. But interacting with AI using your voice is still in the very early innings. In a few years, we may be discussing all sorts of things with the help of an AI agent.
+
+
+
+
+
+SoundHound, for example, has already implemented its technology across a handful of automaker brands, including Kia, Hyundai, and Jeep which allows drivers to discuss maintenance issues and other mechanical questions directly with the vehicle. SoundHound has also partnered with restaurants, including Applebee's and 
+--------------------------------------------------
+Title: Buffalo Bills fans can buy bonds to finance the team's new stadium
+URL: https://www.cnbc.com/2024/09/20/buffalo-bills-fans-can-buy-bonds-to-finance-the-teams-new-stadium.html
+Time Published: 20240920T110001
+Summary: Buffalo Bills fans will have the opportunity to help finance their favorite NFL team's new stadium.
+--------------------------------------------------
+Title: Asia Markets Advance, Europe Edges Lower And Gold Clocks New High At $2,630 - Global Markets Overview - SmartETFs Asia Pacific Dividend Builder ETF  ( ARCA:ADIV ) 
+URL: https://www.benzinga.com/markets/asia/24/09/40954672/asia-markets-advance-europe-edges-lower-and-gold-clocks-new-high-at-2-630-global-markets-overview
+Time Published: 20240920T104923
+Summary: On Thursday, September 19, U.S. markets closed higher following the Federal Reserve's 50-basis-point rate cut, which also signaled potential further reductions. Fed Chair Jerome Powell downplayed recession risks, while analysts remained hopeful for a soft landing amid inflation control efforts.
+--------------------------------------------------
+Title: Opinion: This Is the Best Artificial Intelligence  ( AI )  Stock to Buy Right Now
+URL: https://www.fool.com/investing/2024/09/20/opinion-this-is-the-best-artificial-intelligence/
+Time Published: 20240920T104500
+Summary: Taiwan Semiconductor Manufacturing is slated to be a winner in the AI race.
+Content: Naming the single best artificial intelligence (AI) stock to buy right now is no easy task. There are many considerations: what the company could do, what it's doing now, how expensive the stock is, and whether it has room to expand. All of these factors weigh into determining the best AI stock right now.
+I think I've found the candidate with the perfect combination: Taiwan Semiconductor Manufacturing (TSM -1.21%). It's one of the few companies I know that excels in all of the factors I mentioned above, which makes a compelling investment case for the stock.
+2024 has been an excellent year for TSMC
+Taiwan Semiconductor -- also known as TSMC -- is the world's largest contract chip manufacturing company. Essentially, customers come to it with a chip design and TSMC produces it for them. Apple iPhones wouldn't be the same without TSMC, and Nvidia GPUs wouldn't be creating incredible AI models.
+With the rising demand for AI chips, TSMC's 2024 monthly revenue has far exceeded that of 2023. Granted, 2023 was a relatively weak year for chip demand. However, continued outperformance month over month is a great sign that TSMC's business is picking up.
+
+
+
+Month
+Revenue Growth (YoY)
+
+
+January
+7.9%
+
+
+February
+11.3%
+
+
+March
+34.3%
+
+
+April
+59.6%
+
+
+May
+30.1%
+
+
+June
+32.9%
+
+
+July
+44.7%
+
+
+August
+33%
+
+
+
+Data source: Taiwan Semiconductor. YoY = year over year. 
+
+
+
+
+
+Taiwan Semiconductor also has great tailwinds upcoming. Apple accounts for about 25% of its revenue in any given year, and it's no secret that iPhone demand hasn't been that high. With Apple's AI model, Apple Intelligence, only available on iPhones 15 and newer models, this could ignite an upgrade cycle that will result in massive sales for TSMC.
+TSMC is already developing the next generation of chips, even though its latest generation of 3-nanometer chips was just recently launched and is still growing in popularity. The 2nm chip can offer a 10% to 15% speed improvement over the 3nm chip when configured for the same power c
+--------------------------------------------------
+Title: 3 Artificial Intelligence  ( AI )  Stock-Split Stocks That Could Help Set You Up for Life
+URL: https://www.fool.com/investing/2024/09/20/3-ai-stock-split-stocks-that-could-help-set-you-up/
+Time Published: 20240920T102500
+Summary: Stock splits are sweeping the AI sector. Here's how to take advantage.
+Content: Back in the dot-com boom era, stock splits became commonplace in response to soaring share prices. Amid the current artificial intelligence (AI) boom, a similar pattern could be developing. Already, several AI companies have split their shares, and more splits could be on the way among the others that are trading at lofty prices.
+Investors should understand that stock splits don't fundamentally change the value of a stock or the underlying business, but they usually come in the wake of significant share price appreciation, and signal management's confidence that the stock can keep going higher.
+There's also evidence, according to a Bank of America study, that stocks outperform in the year after they split. While there's no guarantee that any given stock-split stock will beat the S&P 500, it does offer historical evidence that the average stock-split stock does. On that note, these three AI stock-split stocks look like long-term winners.
+
+Image source: Getty Images.
+
+1. Nvidia
+Nvidia (NVDA -1.59%) needs little introduction at this point. The AI chip superstar has paced the sector, gaining roughly 700% since the start of 2023. Nvidia's most recent stock split -- a 10-for-1 split -- took effect after the market closed on June 7, and the stock is down since then.
+Nvidia continues to show a lot of upside potential even as its market cap is now hovering just shy of $3 trillion. The company has a huge lead in data center GPUs, the cutting-edge chips needed to power AI models like ChatGPT, and it seems likely that its lead will only get wider following the launch of chips built on its new Blackwell platform in the fourth quarter.
+
+
+
+
+
+
+Additionally, the company is on pace to keep growing rapidly; revenue rose 122% year over year in its fiscal 2025 second quarter to $30 billion. 
+While some investors are concerned about the possibility of an AI sector bubble, there's still plenty of evidence that demand for Nvidia's components is soaring. The latest anecdote to support that 
+--------------------------------------------------
+Title: Should FlexShares US Quality Large Cap ETF  ( QLC )  Be on Your Investing Radar?
+URL: https://www.zacks.com/stock/news/2338897/should-flexshares-us-quality-large-cap-etf-qlc-be-on-your-investing-radar
+Time Published: 20240920T102008
+Summary: Style Box ETF report for ...
+--------------------------------------------------
+Title: Should Goldman Sachs MarketBeta U.S. 1000 Equity ETF  ( GUSA )  Be on Your Investing Radar?
+URL: https://www.zacks.com/stock/news/2338903/should-goldman-sachs-marketbeta-us-1000-equity-etf-gusa-be-on-your-investing-radar
+Time Published: 20240920T102006
+Summary: Style Box ETF report for GUSA ...
+--------------------------------------------------
+Title: Salesforce CEO Marc Benioff Slams Microsoft's Copilot, Compares It To Failed 'Clippy' Assistant: '…Like We're Selling Science Projects To Companies' - Microsoft  ( NASDAQ:MSFT ) 
+URL: https://www.benzinga.com/news/24/09/40954193/salesforce-ceo-marc-benioff-slams-microsofts-copilot-compares-it-to-failed-clippy-assistant-like-wer
+Time Published: 20240920T100935
+Summary: Salesforce CEO Marc Benioff has criticized Microsoft Corporation's MSFT Copilot by comparing it to the infamous "Clippy" assistant, which was ultimately removed in 2007.
+--------------------------------------------------
+Title: U.S. Money Supply Is Finally Growing Again, and It's Flashing a Big Buy Sign for These 3 ETFs
+URL: https://www.fool.com/investing/2024/09/20/us-money-supply-is-finally-growing-again-and-its-f/
+Time Published: 20240920T100500
+Summary: These ETFs could all benefit as money supply growth accelerates over the next year.
+Content: If there's one thing that's characterized the current bull market, it's the rise of big tech stocks leading the next generation of artificial intelligence (AI) innovation. Capital has piled into the biggest names in the market, including Nvidia, Microsoft, Alphabet, Amazon, and Meta Platforms. All five have played significant roles in the advancement of AI, and together, they account for 63% of the S&P 500's returns through the first half of 2024.
+As a result of the meteoric rise of the world's biggest companies, market concentration is near levels investors haven't seen since the 1970s. While those big AI tech companies have produced solid earnings results, propelling their stocks higher, market concentration has historically always reversed course. One market indicator suggests the market may be about to broaden out.
+
+Image source: Getty Images.
+
+U.S. money supply is finally growing again
+Decelerating growth in money supply is typically tied to an increase in market concentration among a few large stocks, according to Khuram Chaudhry, head of European Quantitative Strategy at J.P. Morgan.
+Think about it from the perspective of a business owner: If the money supply is tight, there's less access to cash to grow your business. If you're a very large business already, though, you can produce enough cash from operations that you don't need to worry about outside funding. Investors understand this dynamic, and the big get bigger. That trend is exacerbated by the high capital requirements of building an AI business, which is what's currently driving the bull market.
+The money supply grew quickly in 2020 as the government injected cash into the economy with stimulus checks, and the Federal Reserve cut interest rates to 0%. Starting in 2021, we saw the after-effects of those policies start to take hold. We naturally saw slower growth, as measured by the U.S. M2 money supply. M2 includes cash in circulation, deposit accounts, money market accounts, and certificates of depos
+--------------------------------------------------
+Title: Prediction: Nvidia Stock Is Going to Soar in the Remainder of 2024
+URL: https://www.fool.com/investing/2024/09/20/prediction-nvidia-stock-going-soar-remainder-2024/
+Time Published: 20240920T092900
+Summary: Nvidia CEO Jensen Huang recently squashed concerns about the company's latest artificial intelligence chips.
+Content: Nvidia (NVDA -1.59%) stock jumped 150% in the first half of 2024, but it has been in a slump since mid-July as investors digested some potential headwinds.
+There was a rumored delay with the company's latest artificial intelligence (AI) chips for the data center, which are responsible for the majority of the company's revenue. Analysts have also questioned how long Nvidia's top customers will continue spending billions of dollars on their AI aspirations.
+However, those concerns might have been put to rest over the last few weeks. Here's why Nvidia stock could soar to new highs before the end of 2024.
+
+All eyes are on the new Blackwell GPUs
+Nvidia's flagship H100 graphics processor (GPU) for the data center set the benchmark for the AI industry last year. GPUs are designed for parallel processing, which means they can handle multiple tasks at once while maintaining a high throughput. They also have built-in memory so they are ideal for processing large volumes of data, which is critical when training AI models and performing AI inference.
+According to Nvidia CEO Jensen Huang, data center operators could spend $1 trillion building GPU infrastructure over the next few years. That presents a substantial opportunity, which is why the company continues to design new chips with more processing power and better energy efficiency to stay ahead of the competition.
+
+
+
+
+
+Nvidia is now shipping its new H200 GPU, which can perform AI inference at almost twice the speed of the H100, while consuming half the amount of electricity. But the company recently unveiled an entirely new GPU architecture called Blackwell, which promises an even greater leap in performance.
+The new Blackwell-based GB200 NVL72 system, for example, will perform AI inference at a staggering 30 times the pace of the equivalent H100 system. Each individual GB200 GPU will be priced between $30,000 and $40,000, which is similar to what many customers originally paid for the H100, so it's going to drive an incredib
+--------------------------------------------------
+Title: 1 Super Semiconductor Stock to Buy Hand Over Fist for the AI Revolution
+URL: https://www.fool.com/investing/2024/09/20/1-semiconductor-stock-buy-hand-fist-ai-revolution/
+Time Published: 20240920T092800
+Summary: Semiconductor service companies will be critical to the artificial intelligence boom, but they don't attract as much attention from investors as chipmakers like Nvidia.
+Content: Artificial intelligence (AI) is primarily deployed using centralized data centers, but it's slowly migrating to computers and smartphones, which could drive a productivity boom across the economy. None of that would be possible without the advanced semiconductors supplied by companies like Nvidia, Advanced Micro Devices, and Micron Technology.
+Some smaller companies provide critical equipment and services to those chip giants, but they tend to get less attention from investors. Axcelis Technologies (ACLS -0.92%), for example, supplies chip manufacturers with ion implantation equipment critical to the fabrication process, and AI is already driving up demand for the company's products.
+Axcelis stock is very cheap relative to its peers right now. Here's why it might be a great buy as the AI revolution gathers momentum.
+
+Image source: Getty Images.
+
+A unique way to invest in the AI revolution
+Ion implantation is a necessary part of the fabrication process for central processing units (CPUs), memory chips, and power devices (which regulate electric power in high-current applications). The power device segment has been especially lucrative for Axcelis over the last couple of years, thanks to the electric vehicle industry, which constantly looks for ways to charge batteries more quickly and squeeze more miles out of every charge.
+But data centers built for AI present a new opportunity in this space because they consume a lot of energy. Some of Axcelis' customers started using silicon carbide-based trench MOSFET (metal oxide semiconductor field effect transistor) power devices for their AI infrastructure. The silicon carbide chemistry is more heat-efficient and robust under heavy workloads than the traditional silicon chemistry, but it's more implant-intensive, which creates a direct tailwind for Axcelis' business.
+
+
+
+
+
+AI chips also present a growing opportunity for Axcelis. Many data center graphics processing units (GPUs) designed by Nvidia come with built-in memory, whi
+--------------------------------------------------
+Title: Surprise! Billionaire Money Managers Are Selling Shares of Nvidia and Piling Into 2 Off-the-Radar Stock-Split Stocks.
+URL: https://www.fool.com/investing/2024/09/20/billionaires-sell-nvidia-buy-2-stock-split-stocks/
+Time Published: 20240920T085100
+Summary: While investors flocked to the most-anticipated stock split of 2024, billionaires took the opportunity to buy shares of two other top-notch stock-split stocks.
+Content: Although artificial intelligence (AI) has been an exceptionally popular market trend that has helped power the growth-fueled Nasdaq Composite and benchmark S&P 500 to new heights, the enthusiasm shown by investors for stocks conducting splits has played an equally vital role in lifting select equities higher in 2024.
+A stock split allows a publicly traded company to adjust its share price and outstanding share count by the same factor. Splits are purely a cosmetic tool in the sense that they have no impact on a company's underlying operations or its market cap. Rather, they're designed to increase or decrease a company's share price, often with a very clear purpose.
+A reverse split aims to increase a company's share price, usually with the goal of maintaining its listing on a major stock exchange. Since this type of split is often conducted by struggling businesses, it's one that investors tend to shy away from.
+
+Image source: Getty Images.
+
+On the other hand, forward stock splits reduce a company's share price to make it more nominally affordable to retail investors and/or employees who can't purchase fractional shares. This type of split is typically completed by top-notch businesses that are out-innovating and out-executing their peers. Unsurprisingly, this is where a majority of investors focus their attention.
+Since 2024 began, a little over a dozen prominent businesses have announced or completed a stock split; only one was a reverse split.
+
+
+
+
+
+Billionaire investors have certainly taken note of the outperformance of the Class of 2024 stock-split stocks. However, their outlook for this group is mixed.
+While most investors have been fixated on brand-name stock-split stocks, such as Nvidia (NVDA -1.59%), billionaire money managers have been quietly sending shares of Nvidia to the chopping block in favor of two off-the-radar stock-split stocks.
+Wall Street's smartest and richest asset managers are passing on Nvidia
+Though it was Walmart that officially kicked off
+--------------------------------------------------
+Title: Meet the New Stock-Split Stock That Outperformed Nvidia in the First Half and Wall Street Thinks Could Almost Double
+URL: https://www.fool.com/investing/2024/09/20/meet-stock-split-stock-outperformed-nvidia/
+Time Published: 20240920T084000
+Summary: Should you be optimistic about this player too?
+Content: Nvidia has been a tough act to follow in recent years. The artificial intelligence (AI) chip giant has delivered triple-digit increases in earnings quarter after quarter, and the share price has followed. Nvidia stock has soared more than 2,400% over the past five years, and considering the company's focus on innovation, this stellar performance may continue.
+Though Nvidia has garnered the greatest share of investor attention in recent times, another tech player actually outperformed this AI powerhouse in the first half of the year. And this company followed in Nvidia's footsteps recently by announcing a stock split, a move to bring a high-flying share price down to earth -- and make the stock more accessible for a broader range of investors.
+Now, Wall Street predicts this player's gains may be far from over. Let's meet the new stock-split stock that analysts think could nearly double within the coming 12 months...
+
+Image source: Getty Images.
+
+A triple-digit first-half gain
+And this stock is Super Micro Computer (SMCI 4.59%), a company that saw its stock price soar 188% in the first half, surpassing Nvidia's 149% increase. Though individual forecasts vary, the average Wall Street estimate calls for the stock to climb 90% from today's level.
+It's important to note that this once high-flying stock has been wading through difficult waters in recent weeks. A short report released by Hindenburg Research, alleging troubles at the company, has weighed on the shares. In an unrelated move, Supermicro delayed the filing of its 10-K annual report, and this has represented an additional headwind.
+
+
+
+
+
+I see these as short-term pressures, but they don't change Supermicro's long-term story. And considering the 20% decline in the stock since the short report, it looks dirt cheap right now -- it trades for only 13 times forward earnings estimates, down from more than 45 times earlier in the year.
+
+In recent days, some analysts have highlighted the potential of Supermicro. For exam
+--------------------------------------------------
+Title: Forget Nvidia: This Top ETF Could Turn $25,000 Into Over $1 Million
+URL: https://www.fool.com/investing/2024/09/20/forget-nvidia-this-top-etf-could-turn-25000-into-o/
+Time Published: 20240920T082700
+Summary: The Invesco QQQ Trust has generated massive 400% returns over the past 10 years.
+Content: Nvidia is a stock that's been synonymous with generating high-powered returns in recent years. The chipmaker is a big player in the artificial intelligence market, as its chips are the go-to option for many tech companies building out their chatbots and other next-gen products. But Nvidia also isn't a cheap investment -- its market cap is around $3 trillion. Trying to earn a high return with a stock that's already one of the most valuable companies in the world won't be easy, especially with expectations being so high for the business at this point.
+If you want to earn a big return and turn $25,000 into more than $1 million, there is a safer and better way to do so -- assuming that you're willing to be patient. An exchange-traded fund (ETF) can allow you to generate some massive gains over the years, while also allowing you to keep your risk fairly low. You won't be overly exposed to just a single stock, the way you would be if you only bought shares of Nvidia.
+An ETF that can be ideal for growth investors is the Invesco QQQ Trust (QQQ -0.19%). Here's why it can be a no-brainer buy.
+
+The Invesco fund gives investors broad diversification in many growth stocks
+If you want exposure to the top growth stocks in the world, odds are you'll look to the Nasdaq exchange, where many top tech stocks trade. The Invesco fund will narrow the list even further, however, giving you exposure to just the top 100 non-financial stocks on the exchange. This means you'll avoid some of the riskier stocks on the Nasdaq. Instead, you'll get access to some of the best and brightest growth stocks in the world.
+Nvidia is one of the top holdings in the ETF, but it only accounts for 8% of its total weight. The ETF also holds shares of Costco Wholesale, Alphabet, Amazon, and many other big-name stocks. Although it's heavily skewed toward tech stocks (they account for half of the fund), other sectors of the market are represented in the fund as well, including healthcare, industrials, and consumer
+--------------------------------------------------
+Title: 1 Simple Way to Invest in Artificial Intelligence  ( AI )  Stocks Just Like Cathie Wood
+URL: https://www.fool.com/investing/2024/09/20/1-simple-way-to-invest-in-artificial-intelligence/
+Time Published: 20240920T081700
+Summary: Investors can own a slice of top artificial intelligence companies like Tesla, Nvidia, and Alphabet with this Ark Invest exchange-traded fund.
+Content: Cathie Wood is the founder and chief investment officer of Ark Investment Management, which operates several exchange-traded and private funds. She is one of the most bullish voices on Wall Street when it comes to the long-term potential of technology stocks, which is reflected in Ark's various portfolios.
+Each Ark fund has a unique theme designed to give investors exposure to different segments of the technology sector. The Ark Autonomous Technology and Robotics ETF (ARKQ), for example, invests in companies developing autonomous mobility solutions, robotics, and neural networks, all of which are powered by artificial intelligence (AI). 
+That ETF is actively managed, so it can be a great way to invest in the emerging AI industry under the direction of a seasoned professional like Wood. However, it does come with risks.
+
+Image source: Tesla.
+
+The Ark Autonomous Tech and Robotics ETF runs a very concentrated portfolio
+This Ark ETF was established in 2014 and currently manages $739 million in assets. Since it has a specific focus on autonomous technologies and robotics, its portfolio is highly concentrated and holds just 37 stocks. 
+Its top five holdings represent 23.9% of the total value of that entire portfolio, but they include a couple of the biggest names in the AI space:
+
+
+
+
+
+
+
+
+
+Stock
+
+
+Ark ETF Portfolio Weighting
+
+
+
+
+
+
+1. Tesla
+
+
+11.11%
+
+
+
+
+2. Komatsu 
+
+
+3.92%
+
+
+
+
+3. Deere & Company
+
+
+3.34%
+
+
+
+
+4. Taiwan Semiconductor Manufacturing
+
+
+2.91%
+
+
+
+
+5. Archer Aviation
+
+
+2.67%
+
+
+
+
+Data source: Ark Invest, Cathie's Ark. Portfolio weightings are accurate as of Sept. 17, 2024, and are subject to change.
+Tesla is more than just an electric vehicle manufacturer. It's also a leading developer of fully autonomous self-driving software, which could transform the company's economics over the long term. In fact, Cathie Wood says Tesla is the biggest AI opportunity in the world, and she thinks its stock could soar more than 1,000% by 2029.
+John Deere manufactures both regular an
+--------------------------------------------------
+Title: Meet the Supercharged Growth Stock Headed to $10 Trillion by 2030, According to 1 Wall Street Analyst
+URL: https://www.fool.com/investing/2024/09/20/meet-the-supercharged-growth-stock-headed-to-10-tr/
+Time Published: 20240920T073500
+Summary: Numerous growth drivers and strong tailwinds should combine to drive this artificial intelligence (AI) pioneer higher.
+Content: There's no denying that artificial intelligence (AI) has generated a lot of buzz since early last year. Recent technological advances have taken these algorithms to the next level, enabling them to generate original content of all stripes, improve productivity, and streamline processes.
+Companies on the leading edge of this trend have profited from these advances in technology. In fact, six of the world's seven most valuable companies, when measured by market cap, have embraced the paradigm shift of generative AI and staked their claims to profits from these next-generation systems. Topping the charts are Apple and Microsoft, the only two companies that currently boast a market cap of more than $3 trillion.
+However, one company that appears ordained to make a name for itself as a founding member of the $10 trillion club is Nvidia (NVDA -1.59%). The pioneer in graphics processing units (GPUs) is nipping at the heels of the current leaders with a market cap of $2.8 trillion but seems destined to break new ground.
+Let's look at the numerous growth drivers that could send Nvidia stock to new heights.
+
+Image source: Getty Images.
+
+Shall we play a game?
+Nvidia revolutionized gaming a quarter of a century ago when the company pioneered the GPU, which produced lifelike images in video games. The secret to its success is parallel processing, or the ability of these advanced chips to process a multitude of mathematical calculations simultaneously. It wasn't long before Nvidia realized the vast potential of this discovery and pivoted to tailor this technology to a host of other applications.
+
+
+
+
+
+The company has since adapted GPUs to power cloud computing, data centers, machine learning, autonomous driving, generative AI, and more.
+The tale of the tape
+Over the past 10 years, Nvidia's revenue has grown by 2,350% (as of this writing), while its net income has surged 9,490%. While it hasn't all been in a straight line, the company's consistently strong performance has driven imp
+--------------------------------------------------
+Title: Forget Nvidia: Buy This Magnificent Tech Stock Instead
+URL: https://www.fool.com/investing/2024/09/20/forget-nvidia-buy-this-magnificent-stock-instead/
+Time Published: 20240920T071000
+Summary: This tech player is on track to prosper in the artificial intelligence market.
+Content: Nvidia (NVDA -1.59%) has been the stock everyone is talking about for quite some time -- and for good reason. The company dominates the artificial intelligence (AI) chip niche with a market share of about 80%, and this has translated into record earnings. Even better, Nvidia's focus on innovation means its dominance is likely to last.
+That said, Nvidia's stock isn't cheap, and it has lost some ground recently. It's down by about 7% over the past month, and is off by about 15% from the all-time high it touched this summer. I think that loss of momentum is temporary, though, and believe this top tech company still represents a fantastic long-term investment.
+But right now, there exists a stock that has recently picked up momentum, is at an earlier stage in its latest growth story, and is inexpensive. This player, too, represents a great long-term investment. That's why, today, I would forget Nvidia and buy this magnificent tech stock instead.
+
+Image source: Getty Images.
+
+A focus on cloud infrastructure
+So which company am I talking about? One that was long known for its database software, but now is on its way to becoming a key player in the world of AI: Oracle (ORCL 0.24%). The tech company put a focus on cloud infrastructure and services as the AI boom accelerated, and this has turned out to be a smart strategy.
+Today, the cloud services segment is the company's biggest business, and its operating income and earnings per share have taken off. Other financial metrics are showing amazing growth too. Cloud infrastructure revenue, for example, soared 45% year over year to $2.2 billion in its recently completed fiscal 2024 first quarter. Importantly, its remaining performance obligations surged 53% to $99 billion. This metric of yet-to-be-billed revenue offers visibility into its future growth.
+
+
+
+
+
+I also like the fact that Oracle's return on invested capital, which dropped in recent years, is starting to head higher again -- showing that the company is progressively b
+--------------------------------------------------
+Title: Nvidia, Tesla Rally As Dow, S&P 500 Surge To Fresh Highs After Fed Cuts Rates: Fear Index Remains In 'Greed' Zone - NVIDIA  ( NASDAQ:NVDA ) 
+URL: https://www.benzinga.com/news/earnings/24/09/40952252/nvidia-tesla-rally-as-dow-s-p-500-surge-to-fresh-highs-after-fed-cuts-rates-fear-index-remains-in-g
+Time Published: 20240920T064242
+Summary: The CNN Money Fear and Greed index showed further improvement in the overall market sentiment, while the index remained in the "Greed" zone on Thursday. U.S. stocks settled higher on Thursday, with the Dow Jones index and S&P 500 hitting fresh record highs during the session.
+Content: Earnings CalendarNever Miss Important CatalystsSort by estimates, projected upside, profit surprises, and more to easily find new stocks to invest in or check up on your portfolio.
+--------------------------------------------------
+Title: Middlefield Canadian Income PCC - Half-year report
+URL: https://www.globenewswire.com/news-release/2024/09/20/2949482/0/en/Middlefield-Canadian-Income-PCC-Half-year-report.html
+Time Published: 20240920T060000
+Summary: Middlefield Canadian Income PCC ( the "Company" ) Including Middlefield Canadian Income - GBP PC ( the "Fund" ) , a cell of the CompanyRegistered No: 93546Legal Entity Identifier: ...
+Content: Middlefield Canadian Income PCC (the "Company")Including Middlefield Canadian Income – GBP PC (the “Fund”), a cell of the CompanyRegistered No:  93546Legal Entity Identifier: 2138007ENW3JEJXC8658 HALF-YEARLY FINANCIAL RESULTS The information set out in this announcement is the Company’s full unedited half-yearly financial results (unaudited) for the period ended 30 June 2024 (the "HYFR"). The HYFR is expected to be printed and posted to all shareholders within September 2024. The Company will also make the HYFR available in the ‘Trust Documents’ section of the Company’s website at https://middlefield.com/funds/uk-funds/middlefield-canadian-income-trust/ and the Company will make a further announcement once the HYFR has been uploaded to the Company’s website and to the National Storage Mechanism at https://data.fca.org.uk/#/nsm/nationalstoragemechanism Enquiries: Hilary JonesJTC Fund Solutions (Jersey) LimitedSecretaryTel.: 01534 700 000 Dean OrricoPresidentMiddlefield International LimitedTel.: 01203 7094016 END OF ANNOUNCEMENT Middlefield Canadian Income Trust Half Yearly Report 30 June 2024 LON: MCT Focusing on high levels of stable and increasing income together with capital growth, this Fund invests in high quality, Canadian large capitalisation businesses. Middlefield Limited, the Fund’s investment manager, is a private and independent firm located in Toronto, Canada, and is regulated by the Ontario Securities Commission. RiA - A Responsible Investment Association Member Further details about the Responsible Investment Association are available on the website at www.riacanada.ca Financial Highlights 2024 DIVIDENDS PAID1.325p per share quarterly 5.3p per share Dividend Guidance for 20241 YIELD5.1% SHARE PRICE103p NAV PER SHARE121.22p NET ASSETS£129.1m 1.     This is a target only and does not constitute, nor should it be interpreted as a profit forecast. Why Middlefield Canadian Income PCC? Who is this fund for? This Fund is for long-term investors seeking divid
+--------------------------------------------------
+Title: US stocks firmly positive; S&P 500, Dow at Record High
+URL: https://www.business-standard.com/markets/capital-market-news/us-stocks-firmly-positive-s-p-500-dow-at-record-high-124092000227_1.html
+Time Published: 20240920T043100
+Summary: US equities rallied on Thursday after the Federal Reserves 50 basis point rate cut. The major averages pulled back off their best levels late in the trading session but remained firmly positive. The Dow jumped 522.09 points or 1.3 percent to 42,025.19, the Nasdaq soared 440.68 points or 2.5 ...
+--------------------------------------------------
+Title: Richtech Robotics Introduces Scorpion, an AI-Powered Single-Arm Beverage Service Robot, and Announces Distribution Partnership for 500 Robots Over Five Years
+URL: https://www.globenewswire.com/news-release/2024/09/20/2949465/0/en/Richtech-Robotics-Introduces-Scorpion-an-AI-Powered-Single-Arm-Beverage-Service-Robot-and-Announces-Distribution-Partnership-for-500-Robots-Over-Five-Years.html
+Time Published: 20240920T024500
+Summary: Leveraging NVIDIA accelerated computing and offering personalized drinks, Scorpion is expected to save costs, generate revenue, and provide an unforgettable customer experience ...
+Content: Leveraging NVIDIA accelerated computing and offering personalized drinks, Scorpion is expected to save costs, generate revenue, and provide an unforgettable customer experience  LAS VEGAS, Sept.  19, 2024  (GLOBE NEWSWIRE) -- Richtech Robotics Inc. (Nasdaq: RR) (“Richtech Robotics”), a Nevada-based provider of AI-driven service robots, today launches Scorpion, its AI-powered, single-arm beverage service robot. Providing customized drink recommendations based on preferences and mood, Scorpion leverages NVIDIA AI technologies to support its cocktail and wine tasting programs. Additionally, Richtech Robotics signed a distributor agreement with Park 34 Liquor Store Inc., under which the distributor has agreed to sell a minimum of 500 Scorpion units over five years, followed by a minimum of 500 units per year annually. Scorpion will make its debut on September 26th at Park 34 Liquor Store Inc.’s 1936 Wine and Spirits store in New York, NY, where it will offer a variety of wine and liquor tastings for customers. Scorpion is designed with the ability to engage with customers, and its interactive personality and entertaining presence provide an unforgettable, novel experience. It is developed to provide consistent beverage quality and service and to be adaptable to many environments. Created to offer advanced service and a viral experience, the robot is expected to save costs and generate revenue for companies. As an end-to-end solutions provider, Richtech Robotics will work closely with clients to implement Scorpion into their businesses, from conception to installation and ongoing support and service. “We are focused on providing solutions that streamline operations, increase efficiency, and create cash flow for our clients. With that focus, we are proud to unveil Scorpion, sleek in design, agile in its offerings, and eye-catching for customers,” said Matt Casella, Richtech Robotics President. “By incorporating NVIDIA technologies with our own capabilities, we are helping
+--------------------------------------------------
+Title: Artificial Superintelligence Alliance  ( FET )  gains 75% in a month - Here is why
+URL: https://cointelegraph.com/news/artificial-superintelligence-alliance-fet-gains-75-in-a-month-here-is-why
+Time Published: 20240919T202149
+Summary: AI-focused tokens and stocks have had a blockbuster year, and FET's chart could be a hint that the trend will continue.
+--------------------------------------------------
+Title: Nvidia Stock Is Surging Today -- Time to Invest in the Artificial Intelligence  ( AI )  Leader?
+URL: https://www.fool.com/investing/2024/09/19/nvidia-stock-is-surging-today-time-to-invest-in-th/
+Time Published: 20240919T192401
+Summary: Did the Fed's rate cut just open the door for Nvidia stock to go on another huge rally?
+Content: Nvidia (NVDA -1.59%) stock is jumping Thursday following the Federal Reserve's recent interest rate cut. The company's share price was up 4.9% as of 3 p.m. ET.
+
+The Fed announced yesterday that it would be cutting interest rates by 50 basis points -- coming in higher than the 25-basis-point cut that many investors and analysts had anticipated. While the initial reaction to the rate cut didn't spur gains for the broader market, investors quickly became more bullish after weighing the move from the central banking authority. 
+Investors have been eagerly awaiting a pivot to rate cuts as a potential bullish catalyst for the stock market and growth stocks in particular. After getting the chance to soak up some additional commentary on the economic outlook, investors are seeming more confident that inflation is under control and that the economy will avoid a recession in the near term.
+Is Nvidia stock a buy after the Fed's rate cut?
+If the economy stays relatively healthy and avoids contraction, the Fed's shift to rate cutting could help pave the way for a new bull rally that spurs big gains for Nvidia stock. Of course, there's still significant uncertainty on that front, and additional risk factors including geopolitical tensions could inject new bearish sentiment despite the rate cut.
+But while investors shouldn't take the rate policy pivot as a clear indicator that Nvidia will continue to surge, the business is firing on all cylinders and continues to look like a worthwhile artificial intelligence (AI) stock for long-term investors. In addition to strong demand from hyperscale cloud companies and other large enterprises, Nvidia will likely see rising demand from government customers. The company has highlighted the importance of having "sovereign AI" as a key national priority for governments around the world, and spending from public sector customers is likely still in early stages of ramping up.
+
+
+
+
+
+Nvidia also has major new product releases set to hit in the fourth
+--------------------------------------------------
+Title: Semiconductor Market Still Overvalued: 2 Stocks to Watch
+URL: https://www.zacks.com/commentary/2338757/semiconductor-market-still-overvalued-2-stocks-to-watch
+Time Published: 20240919T190100
+Summary: Secular growth prospects for the Semiconductor - General industry remain bright, with valuation still playing spoilsport. Our eyes are on DINRF and NVDA.
+--------------------------------------------------
