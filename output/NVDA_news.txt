@@ -1,17 +1,17 @@
 List of news related to NVIDIA NVDA:
-Title: AI investing explained: Key words to know
-URL: https://finance.yahoo.com/video/ai-investing-explained-key-works-170000380.html/
-Time Published: 2024-09-20T17:00:00Z
-Description: Artificial intelligence has been a major theme on investors' minds in 2024, with key AI players like Nvidia (NVDA) driving markets higher. Yahoo Finance...
+Title: Tech Stocks Pull Back Friday, Hitting the Brakes on Fed-Fueled Rally
+URL: https://www.investopedia.com/tech-stocks-pull-back-friday-fed-rally-magnificent-seven-8715869
+Time Published: 2024-09-20T15:19:15Z
+Full Content:
+Tech stocks pulled back in early trading Friday, hitting the brakes on the market’s rally in the wake of the Federal Reserve’s supersized rate cut this week. The S&P 500 was down about 0.4% Friday after hitting record highs Thursday, with the energy and industrials sectors leading broad-based declines and its tech sector down about 0.6%. The tech-heavy Nasdaq fell 0.6%. Semiconductor stocks including Onsemi (ON), ASML (ASML), and NXP Semiconductors (NXPI), were among the stocks leading losses on the major indexes, pulling the PHLX Semiconductor Index down 2%. The Magnificent 7 stocks were mixed. AI darling Nvidia (NVDA), Amazon (AMZN), Microsoft (MSFT), and Tesla (TSLA) lost ground, while Meta Platforms (META) and Alphabet (GOOGL) were slightly higher. Apple (AAPL) advanced as its iPhone 16 hit stores. Some analysts have suggested this week’s cut could set the stage for tech stocks to gain over the last few months of the year and into next year, with Wedbush analysts writing yesterday that “the green light is back on for the tech growth trade.” While the Fed cautioned this week against assuming more jumbo cuts lie ahead, markets are largely expecting the central bank to continue aggressively cutting rates this year, according to CME Group's FedWatch tool based on fed funds market data.
 --------------------------------------------------
 Title: Tech Stocks Pull Back Friday, Hitting the Brakes on Fed-Fueled Rally
 URL: https://finance.yahoo.com/news/tech-stocks-pull-back-friday-151915986.html/
 Time Published: 2024-09-20T15:19:15Z
 Description: Tech stocks pulled back in early trading Friday, hitting the brakes on the market’s rally in the wake of the Federal Reserve’s supersized rate cut this week.
 --------------------------------------------------
-Title: Tech Stocks Pull Back Friday, Hitting the Brakes on Fed-Fueled Rally
-URL: https://www.investopedia.com/tech-stocks-pull-back-friday-fed-rally-magnificent-seven-8715869
-Time Published: 2024-09-20T15:19:15Z
-Full Content:
-Tech stocks pulled back in early trading Friday, hitting the brakes on the market’s rally in the wake of the Federal Reserve’s supersized rate cut this week. The S&P 500 was down about 0.4% Friday after hitting record highs Thursday, with the energy and industrials sectors leading broad-based declines and its tech sector down about 0.6%. The tech-heavy Nasdaq fell 0.6%. Semiconductor stocks including Onsemi (ON), ASML (ASML), and NXP Semiconductors (NXPI), were among the stocks leading losses on the major indexes, pulling the PHLX Semiconductor Index down 2%. The Magnificent 7 stocks were mixed. AI darling Nvidia (NVDA), Amazon (AMZN), Microsoft (MSFT), and Tesla (TSLA) lost ground, while Meta Platforms (META) and Alphabet (GOOGL) were slightly higher. Apple (AAPL) advanced as its iPhone 16 hit stores. Some analysts have suggested this week’s cut could set the stage for tech stocks to gain over the last few months of the year and into next year, with Wedbush analysts writing yesterday that “the green light is back on for the tech growth trade.” While the Fed cautioned this week against assuming more jumbo cuts lie ahead, markets are largely expecting the central bank to continue aggressively cutting rates this year, according to CME Group's FedWatch tool based on fed funds market data.
+Title: AI investing explained: Key words to know
+URL: https://finance.yahoo.com/video/ai-investing-explained-key-works-170000380.html/
+Time Published: 2024-09-20T17:00:00Z
+Description: Artificial intelligence has been a major theme on investors' minds in 2024, with key AI players like Nvidia (NVDA) driving markets higher. Yahoo Finance...
 --------------------------------------------------
