@@ -1,14 +1,15 @@
-# Stock News Fetcher
+# News Article Aggregator
 
-This Python script fetches the latest news articles for specified stock symbols using the Alpha Vantage API. It saves individual news files for each symbol and creates a consolidated news file containing all the fetched news.
+This project consists of two Python scripts that fetch and aggregate news articles from different sources: NewsAPI and Alpha Vantage. Both scripts use a common configuration file and output structure.
 
 ## Features
 
-- Fetches news for multiple stock symbols
-- Retrieves article content from news URLs
-- Implements error handling and logging
-- Creates individual news files for each symbol
-- Generates a consolidated news file
+- Fetch news articles from NewsAPI or Alpha Vantage
+- Process multiple queries or stock symbols
+- Retrieve full article content when possible
+- Implement error handling and logging
+- Create individual news files for each query/symbol
+- Generate a consolidated news file
 - Configurable through a config file
 
 ## Requirements
@@ -26,33 +27,66 @@ This Python script fetches the latest news articles for specified stock symbols 
    pip install requests beautifulsoup4 configparser
    ```
 
-2. Create a `config.ini` file in the same directory as the script with the following structure:
+2. Create a `config.ini` file in the same directory as the scripts with the following structure:
    ```ini
-   [Symbols]
-   list = AAPL,GOOGL,MSFT
+   [Queries]
+   list = 
+       IFS(intercorp financial services stock price),
+       KSPI(Kaspi.kz stock price),
+       CRWD(CRWD stock price),
+       # Add more queries as needed
 
    [API]
-   key = YOUR_ALPHA_VANTAGE_API_KEY
+   newsapi_key = YOUR_NEWSAPI_KEY
+   alphavantage_key = YOUR_ALPHAVANTAGE_KEY
+
+   [Settings]
+   news_limit = 5
    ```
-   Replace `YOUR_ALPHA_VANTAGE_API_KEY` with your actual Alpha Vantage API key.
+   Replace `YOUR_NEWSAPI_KEY` and `YOUR_ALPHAVANTAGE_KEY` with your actual API keys.
 
 ## Usage
 
+### NewsAPI Article Aggregator
+
 Run the script using Python:
-```
-python news-stocks.py
-```
+    ```
+    python newsapi_article_aggregator.py
+    ```
 
+### Alpha Vantage News Fetcher
 
-The script will create an `output` folder containing:
-- Individual news files for each symbol (e.g., `AAPL_news.txt`)
+Run the script using Python:
+    ```
+    python alphavantage_news_fetcher.py
+    ```
+
+Both scripts will create an `output` folder containing:
+- Individual news files for each query/symbol (e.g., `IFS_news.txt`)
 - A consolidated news file (`consolidated_news.txt`)
+
+## Key Differences
+
+1. **API Source**: 
+   - `newsapi_article_aggregator.py` uses NewsAPI
+   - `alphavantage_news_fetcher.py` uses Alpha Vantage API
+
+2. **Query Format**:
+   - NewsAPI: Uses full queries (e.g., "intercorp financial services stock price")
+   - Alpha Vantage: Uses stock symbols (e.g., "IFS")
+
+3. **Concurrency**:
+   - NewsAPI script uses concurrent.futures for parallel processing
+   - Alpha Vantage script processes queries sequentially
+
+4. **Content Retrieval**:
+   - Both attempt to fetch full article content, but with slightly different approaches
 
 ## Customization
 
-- Adjust the number of days to look back for news by modifying the `timedelta(days=5)` in the `get_latest_news` function.
-- Change the limit of news articles fetched per symbol by modifying the `limit` parameter in the `get_latest_news` function.
+- Adjust the number of days to look back for news by modifying the `timedelta(days=5)` in the respective `get_latest_news` functions.
+- Change the limit of news articles fetched per query/symbol by modifying the `news_limit` in the config file.
 
 ## Note
 
-Be mindful of API rate limits when using this script. Alpha Vantage has usage restrictions depending on your subscription plan.
+Be mindful of API rate limits when using these scripts. Both NewsAPI and Alpha Vantage have usage restrictions depending on your subscription plan.
