@@ -47,7 +47,7 @@ This project consists of two Python scripts that fetch and aggregate news articl
 
 ## Usage
 
-### NewsAPI Article Aggregator
+### NewsAPI Article Aggregator (preferable)
 
 Run the script using Python:
     ```
