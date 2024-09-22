@@ -40,15 +40,11 @@ jobs:
         git config --global user.name 'GitHub Action'
         git config --global user.email 'dparedesi@uni.pe'
         git add output/*
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update news files" && git push)
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update news files"
+          git push
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-#    - name: Commit CSV files and row count
-#      run: |
-#        git add politicians_trades.csv top_100_stock_and_options_data.csv
-#        git commit -m "Daily update CSV files"
-#        git push origin HEAD:${{ github.ref }}
-#      env:
-#        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
