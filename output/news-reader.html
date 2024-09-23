@@ -167,13 +167,33 @@
     <script>
         function toggleSidebar() {
             const sidebar = document.getElementById('sidebar');
+            if (!sidebar.classList.contains('visible')) {
+                // Reset scroll position when opening the sidebar
+                sidebar.scrollTop = 0;
+            }
             sidebar.classList.toggle('visible');
+            if (sidebar.classList.contains('visible')) {
+                document.addEventListener('click', closeSidebarOnClickOutside);
+            } else {
+                document.removeEventListener('click', closeSidebarOnClickOutside);
+            }
+        }
+
+        function closeSidebarOnClickOutside(event) {
+            const sidebar = document.getElementById('sidebar');
+            const toggleButton = document.querySelector('.toggle-button');
+            if (!sidebar.contains(event.target) && event.target !== toggleButton) {
+                hideSidebar();
+            }
         }
 
         function hideSidebar() {
             const sidebar = document.getElementById('sidebar');
             if (sidebar.classList.contains('visible')) {
                 sidebar.classList.remove('visible');
+                document.removeEventListener('click', closeSidebarOnClickOutside);
+                // Reset scroll position
+                sidebar.scrollTop = 0;
             }
         }
 
