@@ -6,20 +6,22 @@
     <title>News Reader</title>
     <style>
         :root {
-            --ios-blue: #007AFF;
-            --ios-background: #F2F2F7;
-            --ios-text: #000000;
-            --ios-secondary-text: #8E8E93;
-            --ios-separator: #C6C6C8;
-            --ios-card-background: #FFFFFF;
+            --ios-blue: #1D9BF0; /* Twitter's blue color */
+            --ios-background: #000000; /* Twitter's background color */
+            --ios-text: #E7E9EA; /* Twitter's main text color */
+            --ios-secondary-text: #71767B; /* Twitter's secondary text color */
+            --ios-separator: #2F3336; /* Twitter's separator color */
+            --ios-card-background: #16181C; /* Twitter's card background color */
         }
         
-        body.dark-mode {
-            --ios-background: #1C1C1E;
-            --ios-text: #FFFFFF;
-            --ios-secondary-text: #8E8E93;
-            --ios-separator: #38383A;
-            --ios-card-background: #2C2C2E;
+        @media (prefers-color-scheme: light) {
+            :root {
+                --ios-background: #FFFFFF;
+                --ios-text: #0F1419;
+                --ios-secondary-text: #536471;
+                --ios-separator: #EFF3F4;
+                --ios-card-background: #F7F9F9;
+            }
         }
         
         body {
@@ -36,7 +38,6 @@
         
         .container {
             padding: 20px;
-            padding-top: 60px; /* Increased top padding to account for the fixed button */
             padding-bottom: 80px;
         }
         
@@ -117,24 +118,12 @@
             font-size: 20px;
         }
         
-        .mode-toggle {
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            z-index: 1002;
-            background: none;
-            border: none;
-            color: var(--ios-text);
-            font-size: 24px;
-            cursor: pointer;
-        }
-        
         .news-item {
             background-color: var(--ios-card-background);
-            border-radius: 10px;
+            border-radius: 16px; /* Twitter uses more rounded corners */
             padding: 15px;
             margin-bottom: 15px;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            border: 1px solid var(--ios-separator);
         }
         
         .news-title {
@@ -195,8 +184,7 @@
         }
     </style>
 </head>
-<body class="dark-mode">
-    <button class="mode-toggle" onclick="toggleDarkMode()">☀️</button>
+<body>
     <div class="container">
         <h1>Latest News</h1>
         <div id="news-container"></div>
@@ -370,26 +358,6 @@
             document.getElementById('loading').style.display = 'block';
             document.getElementById('error').style.display = 'none';
             fetchNews(url);
-        }
-
-        function toggleDarkMode() {
-            const body = document.body;
-            const modeToggle = document.querySelector('.mode-toggle');
-            body.classList.toggle('dark-mode');
-            if (body.classList.contains('dark-mode')) {
-                modeToggle.textContent = '☀️';
-                localStorage.setItem('darkMode', 'enabled');
-            } else {
-                modeToggle.textContent = '🌙';
-                localStorage.setItem('darkMode', 'disabled');
-            }
-        }
-
-        // Check for saved user preference, otherwise use dark mode as default
-        const darkMode = localStorage.getItem('darkMode');
-        if (darkMode === 'disabled') {
-            document.body.classList.remove('dark-mode');
-            document.querySelector('.mode-toggle').textContent = '🌙';
         }
 
         fetchFileList();
