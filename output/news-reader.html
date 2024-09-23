@@ -149,14 +149,6 @@
         .news-content {
             font-size: 16px;
             color: var(--ios-text);
-            max-height: 4.5em;
-            overflow: hidden;
-            position: relative;
-            transition: max-height 0.3s ease;
-        }
-        
-        .news-content.expanded {
-            max-height: none;
         }
         
         .show-more {
@@ -313,25 +305,22 @@
 
                         const newsContent = document.createElement('div');
                         newsContent.className = 'news-content';
-                        newsContent.textContent = contentMatch[1].trim();
-
+                        const fullContent = contentMatch[1].trim();
+                        
                         const showMoreBtn = document.createElement('button');
                         showMoreBtn.className = 'show-more';
                         showMoreBtn.textContent = 'Show more';
+
+                        // Initially hide the full content
+                        newsContent.textContent = `${fullContent.slice(0, 200)}...`;
+                        
                         showMoreBtn.onclick = () => {
-                            const isExpanding = !newsContent.classList.contains('expanded');
-                            const scrollPosition = window.pageYOffset;
-                            const newsItemTop = newsDiv.getBoundingClientRect().top + scrollPosition;
-                            
-                            newsContent.classList.toggle('expanded');
-                            showMoreBtn.textContent = newsContent.classList.contains('expanded') ? 'Show less' : 'Show more';
-                            
-                            if (!isExpanding) {
-                                // If collapsing, scroll to the top of this news item
-                                window.scrollTo({
-                                    top: newsItemTop,
-                                    behavior: 'smooth'
-                                });
+                            if (showMoreBtn.textContent === 'Show more') {
+                                newsContent.textContent = fullContent;
+                                showMoreBtn.textContent = 'Show less';
+                            } else {
+                                newsContent.textContent = `${fullContent.slice(0, 200)}...`;
+                                showMoreBtn.textContent = 'Show more';
                             }
                         };
 

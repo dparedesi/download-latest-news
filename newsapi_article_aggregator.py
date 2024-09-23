@@ -126,7 +126,6 @@ def process_news_item(item, session):
     content = get_article_content(item['url'], session)
     
     if content:
-        content = truncate_content(content)
         news_item['content'] = f"Full Content:\n{content}"
     else:
         news_item['content'] = f"Description: {item['description']}"
@@ -135,11 +134,6 @@ def process_news_item(item, session):
 
 def format_news_item(item):
     return f"{item['title']}\n{item['url']}\n{item['time_published']}\n{item['content']}\n{'-' * 50}"
-
-def truncate_content(content, max_length=5000):
-    if len(content) > max_length:
-        return content[:max_length] + "... (truncated)"
-    return content
 
 def sanitize_filename(filename):
     return re.sub(r'[\\/*?:"<>|]', "", filename)
