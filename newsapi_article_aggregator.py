@@ -10,6 +10,7 @@ from requests.packages.urllib3.util.retry import Retry
 import concurrent.futures
 import re
 import json
+from operator import itemgetter
 
 def setup_logging():
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -90,42 +91,50 @@ def get_latest_news(query, session, api_key, news_limit):
             data = response.json()
         except json.JSONDecodeError as e:
             logging.error(f"Error decoding JSON for query {query}: {str(e)}")
-            return f"Error decoding JSON for {query}"
+            return []
 
         if "articles" not in data or not data["articles"]:
             logging.info(f"No news found for {query}")
-            return f"No news found for {query}"
+            return []
 
         news_items = []
         with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
-            news_items.append(f"List of news related to {query.replace("+", "")}:")
             future_to_item = {executor.submit(process_news_item, item, session): item for item in data["articles"][:news_limit]}
             for future in concurrent.futures.as_completed(future_to_item):
-                news_items.append(future.result())
+                try:
+                    result = future.result()
+                    if result:
+                        news_items.append(result)
+                except Exception as e:
+                    logging.error(f"Error processing news item: {str(e)}")
 
-        return "\n".join(news_items)
+        return news_items
 
     except requests.RequestException as e:
         error_message = f"Error fetching news for {query}: {str(e)}"
         logging.error(error_message)
-        return error_message
+        return []
 
 def process_news_item(item, session):
-    news_item = []
-    news_item.append(f"Title: {item['title']}")
-    news_item.append(f"URL: {item['url']}")
-    news_item.append(f"Time Published: {item['publishedAt']}")
+    news_item = {
+        'title': f"Title: {item['title']}",
+        'url': f"URL: {item['url']}",
+        'published_at': item['publishedAt'],
+        'time_published': f"Time Published: {item['publishedAt']}",
+    }
     
     content = get_article_content(item['url'], session)
     
     if content:
         content = truncate_content(content)
-        news_item.append(f"Full Content:\n{content}")
+        news_item['content'] = f"Full Content:\n{content}"
     else:
-        news_item.append(f"Description: {item['description']}")
+        news_item['content'] = f"Description: {item['description']}"
     
-    news_item.append("-" * 50)
-    return "\n".join(news_item)
+    return news_item
+
+def format_news_item(item):
+    return f"{item['title']}\n{item['url']}\n{item['time_published']}\n{item['content']}\n{'-' * 50}"
 
 def truncate_content(content, max_length=5000):
     if len(content) > max_length:
@@ -141,15 +150,23 @@ def process_query(query_tuple, session, api_key, news_limit, output_folder):
     
     latest_news = get_latest_news(query, session, api_key, news_limit)
     safe_symbol = sanitize_filename(symbol)
-    with open(os.path.join(output_folder, f'{safe_symbol}_news.txt'), 'w', encoding='utf-8') as f:
-        f.write(latest_news)
     
-    if latest_news.startswith("No news found") or latest_news.startswith("Error fetching news"):
-        logging.warning(latest_news)
+    if not latest_news:
+        logging.warning(f"No news found for {query} (Symbol: {symbol})")
+        with open(os.path.join(output_folder, f'{safe_symbol}_news.txt'), 'w', encoding='utf-8') as f:
+            f.write(f"No news found for {query}")
         return None
     else:
+        # Sort news items by date
+        sorted_news = sorted(latest_news, key=lambda x: x['published_at'], reverse=True)
+        formatted_news = [format_news_item(item) for item in sorted_news]
+        news_content = f"List of news related to {query.replace('+', '')}:\n\n" + "\n\n".join(formatted_news)
+        
+        with open(os.path.join(output_folder, f'{safe_symbol}_news.txt'), 'w', encoding='utf-8') as f:
+            f.write(news_content)
+        
         logging.info(f"Successfully processed {query} (Symbol: {symbol})")
-        return f"News for {symbol} ({query}):\n{latest_news}\n\n{'='*70}\n\n"
+        return {'symbol': symbol, 'query': query, 'news': sorted_news}
 
 def main():
     setup_logging()
@@ -157,25 +174,29 @@ def main():
     output_folder = create_output_folder()
     session = create_session()
     
-    consolidated_news = []
+    all_news = []
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
         future_to_query = {executor.submit(process_query, query_tuple, session, config['api_key'], config['news_limit'], output_folder): query_tuple for query_tuple in config['queries']}
-        try:
-            for future in concurrent.futures.as_completed(future_to_query, timeout=300):  # 5 minutes timeout
-                query_tuple = future_to_query[future]
-                try:
-                    result = future.result()
-                    if result:
-                        consolidated_news.append(result)
-                except Exception as exc:
-                    logging.error(f'{query_tuple[1]} (Symbol: {query_tuple[0]}) generated an exception: {exc}')
-        except concurrent.futures.TimeoutError:
-            logging.error("Execution timed out after 5 minutes")
+        for future in concurrent.futures.as_completed(future_to_query):
+            query_tuple = future_to_query[future]
+            try:
+                result = future.result()
+                if result and result['news']:
+                    all_news.extend(result['news'])
+            except Exception as exc:
+                logging.error(f'{query_tuple[1]} (Symbol: {query_tuple[0]}) generated an exception: {exc}')
 
-    with open(os.path.join(output_folder, 'consolidated_news.txt'), 'w', encoding='utf-8') as f:
-        f.write("\n".join(consolidated_news))
-    logging.info("Consolidated news file created successfully")
+    if all_news:
+        # Sort all news items by date
+        sorted_all_news = sorted(all_news, key=itemgetter('published_at'), reverse=True)
+        consolidated_news = [format_news_item(item) for item in sorted_all_news]
+
+        with open(os.path.join(output_folder, 'consolidated_news.txt'), 'w', encoding='utf-8') as f:
+            f.write("\n\n".join(consolidated_news))
+        logging.info("Consolidated news file created successfully")
+    else:
+        logging.warning("No news found for any query. Consolidated news file not created.")
 
 if __name__ == "__main__":
     main()

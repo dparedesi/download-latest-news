@@ -35,7 +35,7 @@ def load_config(config_file):
             parsed_queries.append((query.strip(), query.strip()))
     return {
         'queries': parsed_queries,
-        'api_key': config['API']['alphavantage_key' if 'alphavantage' in config_file else 'newsapi_key'],
+        'api_key': config['API']['alphavantage_key'],
         'news_limit': int(config['Settings']['news_limit'])
     }
 
