@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Reader</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 90%;
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        .news-item {
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        .news-item:last-child {
+            border-bottom: none;
+        }
+        .news-title {
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .news-url {
+            font-size: 14px;
+            color: blue;
+            text-decoration: underline;
+            word-break: break-all;
+        }
+        .news-time {
+            font-size: 12px;
+            color: gray;
+        }
+        .news-content {
+            font-size: 16px;
+        }
+        .input-container {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 20px;
+        }
+        .input-container input {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .input-container button {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .input-container button:hover {
+            background-color: #0056b3;
+        }
+        .loading {
+            text-align: center;
+            font-size: 16px;
+            color: #007BFF;
+        }
+        .error {
+            text-align: center;
+            font-size: 16px;
+            color: red;
+        }
+        @media (min-width: 600px) {
+            .input-container {
+                flex-direction: row;
+            }
+            .input-container input {
+                width: calc(100% - 100px);
+                margin-bottom: 0;
+                margin-right: 10px;
+            }
+            .input-container button {
+                width: 80px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Latest News</h1>
+        <div class="input-container">
+            <input type="text" id="news-url-input" placeholder="Enter news URL">
+            <button onclick="loadNews()">Load News</button>
+        </div>
+        <div id="news-container"></div>
+        <div id="loading" class="loading" style="display: none;">Loading...</div>
+        <div id="error" class="error" style="display: none;">Error fetching news. Please try again.</div>
+    </div>
+
+    <script>
+        async function fetchNews(url) {
+            try {
+                const response = await fetch(url);
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                const text = await response.text();
+                const newsContainer = document.getElementById('news-container');
+                newsContainer.innerHTML = ''; // Clear previous news items
+                const newsItems = text.split('----').filter(item => item.trim() !== '');
+
+                newsItems.forEach(item => {
+                    const newsDiv = document.createElement('div');
+                    newsDiv.className = 'news-item';
+
+                    const titleMatch = item.match(/Title:\s*(.*)/);
+                    const urlMatch = item.match(/URL:\s*(.*)/);
+                    const timeMatch = item.match(/Time Published:\s*(.*)/);
+                    const contentMatch = item.match(/Full Content:\s*([\s\S]*)/);
+
+                    if (titleMatch && urlMatch && timeMatch && contentMatch) {
+                        const newsTitle = document.createElement('div');
+                        newsTitle.className = 'news-title';
+                        newsTitle.textContent = titleMatch[1];
+
+                        const newsUrl = document.createElement('a');
+                        newsUrl.className = 'news-url';
+                        newsUrl.href = urlMatch[1];
+                        newsUrl.textContent = urlMatch[1];
+                        newsUrl.target = '_blank';
+
+                        const newsTime = document.createElement('div');
+                        newsTime.className = 'news-time';
+                        newsTime.textContent = timeMatch[1];
+
+                        const newsContent = document.createElement('div');
+                        newsContent.className = 'news-content';
+                        newsContent.textContent = contentMatch[1].trim();
+
+                        newsDiv.appendChild(newsTitle);
+                        newsDiv.appendChild(newsUrl);
+                        newsDiv.appendChild(newsTime);
+                        newsDiv.appendChild(newsContent);
+                        newsContainer.appendChild(newsDiv);
+                    }
+                });
+            } catch (error) {
+                console.error('Error fetching news:', error);
+                document.getElementById('error').style.display = 'block';
+            }
+        }
+
+        function loadNews() {
+            const newsUrl = document.getElementById('news-url-input').value;
+            if (newsUrl) {
+                fetchNews(newsUrl);
+                document.getElementById('loading').style.display = 'block';
+            } else {
+                alert('Please enter a valid URL.');
+            }
+        }
+    </script>
+</body>
+</html>
