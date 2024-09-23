@@ -1,1 +1,1 @@
-No news found for intercorp financial services stock price +IFS
+Error fetching news for intercorp financial services stock price +IFS: 429 Client Error:  for url: https://newsapi.org/v2/everything?q=intercorp+financial+services+stock+price+%2BIFS&from=2024-09-18&sortBy=publishedAt&language=en&apiKey=14b91ebbeacd4409abd38d03bb222849&pageSize=50
