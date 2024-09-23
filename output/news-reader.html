@@ -2,160 +2,178 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>News Reader</title>
     <style>
+        :root {
+            --ios-blue: #007AFF;
+            --ios-background: #F2F2F7;
+            --ios-text: #000000;
+            --ios-secondary-text: #8E8E93;
+            --ios-separator: #C6C6C8;
+        }
         body {
-            font-family: Arial, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.5;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
-            display: flex;
-            flex-direction: column;
-            height: 100vh;
+            background-color: var(--ios-background);
+            color: var(--ios-text);
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
         }
         .container {
-            display: flex;
-            flex: 1;
-            overflow: hidden;
+            padding: 20px;
+            padding-bottom: 80px;
+        }
+        h1 {
+            font-size: 34px;
+            font-weight: bold;
+            margin-bottom: 20px;
         }
         .sidebar {
-            width: 250px;
-            background-color: #333;
-            color: white;
-            overflow-y: auto;
-            padding: 10px;
+            width: 100%;
+            background-color: var(--ios-background);
             position: fixed;
             left: 0;
-            top: 0;
             bottom: 0;
-            transform: translateX(-100%);
-            transition: transform 0.3s ease;
+            height: 70%;
+            transform: translateY(100%);
+            transition: transform 0.3s cubic-bezier(0.4, 0.0, 0.2, 1);
             z-index: 1000;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            box-shadow: 0 -1px 10px rgba(0,0,0,0.1);
+            overflow-y: auto;
+            -webkit-overflow-scrolling: touch;
         }
         .sidebar.visible {
-            transform: translateX(0);
+            transform: translateY(0);
         }
         .sidebar h2 {
-            font-size: 20px;
-            margin-top: 0;
+            font-size: 22px;
+            font-weight: bold;
+            margin: 20px 0;
+            text-align: center;
+            color: var(--ios-text);
         }
         .sidebar ul {
             list-style: none;
             padding: 0;
+            margin: 0;
         }
         .sidebar li {
-            margin: 10px 0;
+            padding: 12px 20px;
+            border-bottom: 1px solid var(--ios-separator);
         }
         .sidebar a {
-            color: white;
+            color: var(--ios-blue);
             text-decoration: none;
-        }
-        .sidebar a:hover {
-            text-decoration: underline;
-        }
-        .content {
-            flex: 1;
-            padding: 20px;
-            margin-left: 250px;
-            overflow-y: auto;
-            transition: margin-left 0.3s ease;
-        }
-        .content.collapsed {
-            margin-left: 0;
+            font-size: 17px;
+            display: block;
         }
         .toggle-button {
             position: fixed;
-            top: 10px;
-            left: 10px;
-            background-color: #007BFF;
+            bottom: 20px;
+            right: 20px;
+            background-color: var(--ios-blue);
             color: white;
             border: none;
-            padding: 10px;
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            font-size: 24px;
             cursor: pointer;
             z-index: 1001;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
         }
         .news-item {
-            margin-bottom: 20px;
-            padding-bottom: 10px;
-            border-bottom: 1px solid #ddd;
-        }
-        .news-item:last-child {
-            border-bottom: none;
+            background-color: white;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 15px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
         }
         .news-title {
-            font-size: 18px;
+            font-size: 20px;
             font-weight: bold;
+            margin-bottom: 8px;
+            color: var(--ios-text);
         }
         .news-url {
             font-size: 14px;
-            color: blue;
-            text-decoration: underline;
-            word-break: break-all;
+            color: var(--ios-blue);
+            text-decoration: none;
+            word-break: break-word;
         }
         .news-time {
-            font-size: 12px;
-            color: gray;
+            font-size: 14px;
+            color: var(--ios-secondary-text);
+            margin-bottom: 8px;
         }
         .news-content {
             font-size: 16px;
+            color: var(--ios-text);
+            max-height: 4.5em;
+            overflow: hidden;
+            position: relative;
+            transition: max-height 0.3s ease;
+        }
+        .news-content.expanded {
+            max-height: none;
+        }
+        .show-more {
+            background-color: transparent;
+            border: none;
+            color: var(--ios-blue);
+            cursor: pointer;
+            font-size: 16px;
+            padding: 5px 0;
+            margin-top: 10px;
         }
         .loading {
             text-align: center;
             font-size: 16px;
-            color: #007BFF;
+            color: var(--ios-blue);
+            padding: 20px;
         }
         .error {
             text-align: center;
             font-size: 16px;
-            color: red;
-        }
-        @media (max-width: 600px) {
-            .sidebar {
-                width: 100%;
-                height: 200px;
-                overflow-x: auto;
-            }
-            .content {
-                padding: 10px;
-                margin-left: 0;
-            }
-            .toggle-button {
-                top: 10px;
-                left: 10px;
-            }
+            color: #FF3B30;
+            padding: 20px;
         }
     </style>
 </head>
 <body>
-    <button class="toggle-button" onclick="toggleSidebar()">☰</button>
     <div class="container">
-        <div class="sidebar" id="sidebar">
-            <h2>News Files</h2>
-            <ul id="file-list"></ul>
-        </div>
-        <div class="content" id="content" onclick="hideSidebar()">
-            <h1>Latest News</h1>
-            <div id="news-container"></div>
-            <div id="loading" class="loading" style="display: none;">Loading...</div>
-            <div id="error" class="error" style="display: none;">Error fetching news. Please try again.</div>
-        </div>
+        <h1>Latest News</h1>
+        <div id="news-container"></div>
+        <div id="loading" class="loading" style="display: none;">Loading...</div>
+        <div id="error" class="error" style="display: none;">Error fetching news. Please try again.</div>
+    </div>
+    
+    <button class="toggle-button" onclick="toggleSidebar()">☰</button>
+    
+    <div class="sidebar" id="sidebar">
+        <h2>News Files</h2>
+        <ul id="file-list"></ul>
     </div>
 
     <script>
         function toggleSidebar() {
             const sidebar = document.getElementById('sidebar');
-            const content = document.getElementById('content');
             sidebar.classList.toggle('visible');
-            content.classList.toggle('collapsed');
         }
 
         function hideSidebar() {
             const sidebar = document.getElementById('sidebar');
-            const content = document.getElementById('content');
             if (sidebar.classList.contains('visible')) {
                 sidebar.classList.remove('visible');
-                content.classList.remove('collapsed');
             }
         }
 
@@ -164,8 +182,23 @@
                 const response = await fetch('https://api.github.com/repos/dparedesi/download-latest-news/contents/output');
                 const files = await response.json();
                 const fileList = document.getElementById('file-list');
+                
+                // Add "All news" as the first item
+                const allNewsItem = document.createElement('li');
+                const allNewsLink = document.createElement('a');
+                allNewsLink.href = '#';
+                allNewsLink.textContent = 'All news';
+                allNewsLink.onclick = () => {
+                    const consolidatedNewsUrl = files.find(file => file.name === 'consolidated_news.txt').download_url;
+                    loadNews(consolidatedNewsUrl);
+                    hideSidebar();
+                };
+                allNewsItem.appendChild(allNewsLink);
+                fileList.appendChild(allNewsItem);
+
+                // Add other news files
                 files.forEach(file => {
-                    if (file.name.endsWith('.txt')) {
+                    if (file.name.endsWith('.txt') && file.name !== 'consolidated_news.txt') {
                         const listItem = document.createElement('li');
                         const link = document.createElement('a');
                         link.href = '#';
@@ -211,7 +244,8 @@
                         const newsUrl = document.createElement('a');
                         newsUrl.className = 'news-url';
                         newsUrl.href = urlMatch[1];
-                        newsUrl.textContent = urlMatch[1];
+                        const domain = new URL(urlMatch[1]).hostname.replace('www.', '');
+                        newsUrl.textContent = domain;
                         newsUrl.target = '_blank';
 
                         const newsTime = document.createElement('div');
@@ -222,13 +256,25 @@
                         newsContent.className = 'news-content';
                         newsContent.textContent = contentMatch[1].trim();
 
+                        const showMoreBtn = document.createElement('button');
+                        showMoreBtn.className = 'show-more';
+                        showMoreBtn.textContent = 'Show more';
+                        showMoreBtn.onclick = () => {
+                            newsContent.classList.toggle('expanded');
+                            showMoreBtn.textContent = newsContent.classList.contains('expanded') ? 'Show less' : 'Show more';
+                        };
+
                         newsDiv.appendChild(newsTitle);
                         newsDiv.appendChild(newsUrl);
                         newsDiv.appendChild(newsTime);
                         newsDiv.appendChild(newsContent);
+                        newsDiv.appendChild(showMoreBtn);
                         newsContainer.appendChild(newsDiv);
                     }
                 });
+                
+                // Scroll to the top of the content area
+                window.scrollTo(0, 0);
             } catch (error) {
                 console.error('Error fetching news:', error);
                 document.getElementById('error').style.display = 'block';
