@@ -12,6 +12,14 @@
             --ios-secondary-text: #8E8E93;
             --ios-separator: #C6C6C8;
         }
+        
+        body.dark-mode {
+            --ios-background: #1C1C1E;
+            --ios-text: #FFFFFF;
+            --ios-secondary-text: #8E8E93;
+            --ios-separator: #38383A;
+        }
+        
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             font-size: 16px;
@@ -23,15 +31,18 @@
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
         }
+        
         .container {
             padding: 20px;
             padding-bottom: 80px;
         }
+        
         h1 {
             font-size: 34px;
             font-weight: bold;
             margin-bottom: 20px;
         }
+        
         .sidebar {
             width: 100%;
             background-color: var(--ios-background);
@@ -48,9 +59,11 @@
             overflow-y: auto;
             -webkit-overflow-scrolling: touch;
         }
+        
         .sidebar.visible {
             transform: translateY(0);
         }
+        
         .sidebar h2 {
             font-size: 22px;
             font-weight: bold;
@@ -58,21 +71,25 @@
             text-align: center;
             color: var(--ios-text);
         }
+        
         .sidebar ul {
             list-style: none;
             padding: 0;
             margin: 0;
         }
+        
         .sidebar li {
             padding: 12px 20px;
             border-bottom: 1px solid var(--ios-separator);
         }
+        
         .sidebar a {
             color: var(--ios-blue);
             text-decoration: none;
             font-size: 17px;
             display: block;
         }
+        
         .toggle-button {
             position: fixed;
             bottom: 20px;
@@ -91,30 +108,47 @@
             justify-content: center;
             box-shadow: 0 2px 10px rgba(0,0,0,0.2);
         }
+        
+        .mode-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 1002;
+            background: none;
+            border: none;
+            color: var(--ios-text);
+            font-size: 24px;
+            cursor: pointer;
+        }
+        
         .news-item {
-            background-color: white;
+            background-color: var(--ios-background);
             border-radius: 10px;
             padding: 15px;
             margin-bottom: 15px;
             box-shadow: 0 1px 3px rgba(0,0,0,0.1);
         }
+        
         .news-title {
             font-size: 20px;
             font-weight: bold;
             margin-bottom: 8px;
             color: var(--ios-text);
         }
+        
         .news-url {
             font-size: 14px;
             color: var(--ios-blue);
             text-decoration: none;
             word-break: break-word;
         }
+        
         .news-time {
             font-size: 14px;
             color: var(--ios-secondary-text);
             margin-bottom: 8px;
         }
+        
         .news-content {
             font-size: 16px;
             color: var(--ios-text);
@@ -123,9 +157,11 @@
             position: relative;
             transition: max-height 0.3s ease;
         }
+        
         .news-content.expanded {
             max-height: none;
         }
+        
         .show-more {
             background-color: transparent;
             border: none;
@@ -135,12 +171,14 @@
             padding: 5px 0;
             margin-top: 10px;
         }
+        
         .loading {
             text-align: center;
             font-size: 16px;
             color: var(--ios-blue);
             padding: 20px;
         }
+        
         .error {
             text-align: center;
             font-size: 16px;
@@ -149,7 +187,8 @@
         }
     </style>
 </head>
-<body>
+<body class="dark-mode">
+    <button class="mode-toggle" onclick="toggleDarkMode()">☀️</button>
     <div class="container">
         <h1>Latest News</h1>
         <div id="news-container"></div>
@@ -284,8 +323,20 @@
                         showMoreBtn.className = 'show-more';
                         showMoreBtn.textContent = 'Show more';
                         showMoreBtn.onclick = () => {
+                            const isExpanding = !newsContent.classList.contains('expanded');
+                            const scrollPosition = window.pageYOffset;
+                            const newsItemTop = newsDiv.getBoundingClientRect().top + scrollPosition;
+                            
                             newsContent.classList.toggle('expanded');
                             showMoreBtn.textContent = newsContent.classList.contains('expanded') ? 'Show less' : 'Show more';
+                            
+                            if (!isExpanding) {
+                                // If collapsing, scroll to the top of this news item
+                                window.scrollTo({
+                                    top: newsItemTop,
+                                    behavior: 'smooth'
+                                });
+                            }
                         };
 
                         newsDiv.appendChild(newsTitle);
@@ -311,6 +362,26 @@
             document.getElementById('loading').style.display = 'block';
             document.getElementById('error').style.display = 'none';
             fetchNews(url);
+        }
+
+        function toggleDarkMode() {
+            const body = document.body;
+            const modeToggle = document.querySelector('.mode-toggle');
+            body.classList.toggle('dark-mode');
+            if (body.classList.contains('dark-mode')) {
+                modeToggle.textContent = '☀️';
+                localStorage.setItem('darkMode', 'enabled');
+            } else {
+                modeToggle.textContent = '🌙';
+                localStorage.setItem('darkMode', 'disabled');
+            }
+        }
+
+        // Check for saved user preference, otherwise use dark mode as default
+        const darkMode = localStorage.getItem('darkMode');
+        if (darkMode === 'disabled') {
+            document.body.classList.remove('dark-mode');
+            document.querySelector('.mode-toggle').textContent = '🌙';
         }
 
         fetchFileList();
