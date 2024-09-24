@@ -38,7 +38,8 @@ def load_config(config_file):
     return {
         'queries': parsed_queries,
         'api_key': config['API']['alphavantage_key' if 'alphavantage' in config_file else 'newsapi_key'],
-        'news_limit': int(config['Settings']['news_limit'])
+        'news_limit': int(config['Settings']['news_limit']),
+        'exclude_domains': config['Settings']['exclude_domains']
     }
 
 def create_output_folder():
@@ -67,7 +68,7 @@ def get_article_content(url, session):
         logging.error(f"Error fetching article content: {str(e)}")
         return ""
 
-def get_latest_news(query, session, api_key, news_limit):
+def get_latest_news(query, session, api_key, news_limit, exclude_domains):
     url = "https://newsapi.org/v2/everything"
     params = {
         "q": query,
@@ -76,7 +77,7 @@ def get_latest_news(query, session, api_key, news_limit):
         "language": "en",
         "apiKey": api_key,
         "pageSize": news_limit,
-        "excludeDomains": "etfdailynews.com"
+        "excludeDomains": exclude_domains
     }
 
     try:
@@ -139,11 +140,11 @@ def format_news_item(item):
 def sanitize_filename(filename):
     return re.sub(r'[\\/*?:"<>|]', "", filename)
 
-def process_query(query_tuple, session, api_key, news_limit, output_folder):
+def process_query(query_tuple, session, api_key, news_limit, exclude_domains, output_folder):
     symbol, query = query_tuple
     logging.info(f"Processing query: {query} (Symbol: {symbol})")
     
-    latest_news = get_latest_news(query, session, api_key, news_limit)
+    latest_news = get_latest_news(query, session, api_key, news_limit, exclude_domains)
     safe_symbol = sanitize_filename(symbol)
     
     if not latest_news:
@@ -175,7 +176,7 @@ def main():
     all_news = []
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
-        future_to_query = {executor.submit(process_query, query_tuple, session, config['api_key'], config['news_limit'], output_folder): query_tuple for query_tuple in config['queries']}
+        future_to_query = {executor.submit(process_query, query_tuple, session, config['api_key'], config['news_limit'], config['exclude_domains'], output_folder): query_tuple for query_tuple in config['queries']}
         for future in concurrent.futures.as_completed(future_to_query):
             query_tuple = future_to_query[future]
             try:
