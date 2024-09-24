@@ -154,7 +154,10 @@ def process_query(query_tuple, session, api_key, news_limit, output_folder):
         # Sort news items by date
         sorted_news = sorted(latest_news, key=lambda x: x['published_at'], reverse=True)
         formatted_news = [format_news_item(item) for item in sorted_news]
-        news_content = f"List of news related to {query.replace('+', '')}:\n\n" + "\n\n".join(formatted_news)
+        
+        # Remove "-etfdailynews" from the query for the header
+        clean_query = query.replace('-etfdailynews', '').strip()
+        news_content = f"List of news related to {clean_query.replace('+', '')}:\n\n" + "\n\n".join(formatted_news)
         
         with open(os.path.join(output_folder, f'{safe_symbol}_news.txt'), 'w', encoding='utf-8') as f:
             f.write(news_content)
