@@ -75,7 +75,8 @@ def get_latest_news(query, session, api_key, news_limit):
         "sortBy": "publishedAt",
         "language": "en",
         "apiKey": api_key,
-        "pageSize": news_limit
+        "pageSize": news_limit,
+        "excludeDomains": "etfdailynews.com"
     }
 
     try:
