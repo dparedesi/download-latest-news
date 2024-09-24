@@ -1,1 +1,58 @@
-No news found for Taiwan Semiconductor +TSM -etfdailynews
+List of news related to Taiwan Semiconductor TSM:
+
+Title: Arm Holdings Joins Elite List; Offers New Buy Point
+URL: https://www.investors.com/research/arm-holdings-stock-chip-semiconductor/
+Time Published: 2024-09-23T15:49:51Z
+Description: Arm stock is flashing a buy point of a base. Shares have gained 89% so far this year.
+--------------------------------------------------
+
+Title: TSMC, Samsung Reportedly Mulling UAE Chip Megafactories
+URL: https://www.investopedia.com/tsmc-samsung-reportedly-mulling-uae-chip-megafactories-8716642
+Time Published: 2024-09-23T13:34:44Z
+Full Content:
+Taiwan Semiconductor Manufacturing Co. (TSM) and Samsung Electronics reportedly have been considering building large new chip-making factories in the United Arab Emirates amid surging demand for artificial intelligence (AI) computing. According to The Wall Street Journal, the projects being discussed "involve complexes that could contain numerous factories and cost over $100 billion in aggregate," but "government officials and industry executives say substantial technical and political hurdles remain." Among the hurdles on the technical side: The need for "super-clean water" to rinse silicon wafers—an issue when most of the UAE's water is produced via desalination—and "concerns about the availability of engineering talent to staff major new factories far from the companies' home bases." The report also said that the two companies have had talks with U.S. officials worried that the advanced AI chips produced would make their way to China, a key trading partner of the UAE. Government subsidies globally have been helping the chip industry expand in the U.S., Europe, and Asia. In the U.S., the government has been doling out billions in grants as part of the CHIPS and Science Act of 2022 to ensure production is done domestically. TSMC's American depositary receipts (ADRs), which edged higher as markets opened Monday, are up almost 70% this year.
+--------------------------------------------------
+
+Title: 5 Things to Know Before the Stock Market Opens
+URL: https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-september-23-2024-8716562
+Time Published: 2024-09-23T11:45:22Z
+Full Content:
+Intel (INTC) shares are surging in premarket trading as Apollo Global Management reportedly mulls an investment, days after another report of a Qualcomm (QCOM) takeover approach; Palantir Technologies (PLTR) and Dell Technologies (DELL) become members of the S&P 500 today; Taiwan Semiconductor Manufacturing Co. (TSM) and Samsung Electronics reportedly have been considering building UAE chip megafactories; AstraZeneca (AZN) shares are falling as its breast cancer drug misses its target; and China's sudden call for a press briefing tomorrow is raising expectations of a massive stimulus plan by regulators. U.S. stock futures are edging higher after the Federal Reserve's jumbo-sized interest-rate cut last week. Here's what investors need to know today. Intel (INTC) shares are jumping 4% in premarket trading after Bloomberg reported on Sunday that asset manager Apollo Global Management has offered to invest as much as $5 billion in the struggling chipmaker. The news came after The Wall Street Journal reported on Friday afternoon that Qualcomm (QCOM) has approached Intel about a potential acquisition. Intel shares have lost more than half their value this year. Palantir Technologies (PLTR) stock is slipping 1% and Dell Technologies (DELL) is edging lower in premarket trading as the two companies join insurer Erie Indemnity (ERIE) in becoming members of the S&P 500 today. However, the data-analytics firm and the PC maker have both seen their shares gain in the runup to today's benchmark index entry. The companies will be replacing American Airlines Group (AAL), Etsy (ETSY), and Bio-Rad Laboratories (BIO). Taiwan Semiconductor Manufacturing Co. (TSM) and Samsung Electronics reportedly have been considering building large new factories in the United Arab Emirates to meet surging demand for artificial intelligence (AI) computing. According to The Wall Street Journal, the projects being discussed "involve complexes that could contain numerous factories and cost over $100 billion in aggregate," but "government officials and industry executives say substantial technical and political hurdles remain." AstraZeneca's (AZN) American depositary receipts (ADRs) are falling about 2% after the pharma giant said its experimental cancer drug datopotamab deruxtecan, jointly developed with Japan's Daiichi Sankyo, failed to meet goals in a Phase 3 breast cancer trial. The news comes just weeks after the Anglo-Swedish firm said a late-stage trial of the same drug didn't significantly improve patients' overall lung cancer survival rates. China announced plans for an ad-hoc press briefing tomorrow on the economy by its financial regulators, including its top central banker—fueling investor hopes that Beijing is planning to issue large stimulus measures to boost the hard-hit economy. Bloomberg reported that some economists are expecting the regulators to cut policy rates or the amount banks need to set aside as reserves, and also measures to support the country's troubled housing market. The People's Bank of China also lowered its 14-day reverse repurchase rate Monday.
+--------------------------------------------------
+
+Title: Is Taiwan Semiconductor Manufacturing Company Limited (TSM) the Best Future Stock For The Long-Term?
+URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-limited-110110866.html/
+Time Published: 2024-09-21T11:01:10Z
+Description: We recently compiled a list of the Best Future Stocks For The Long-Term. In this article, we will look at where Taiwan Semiconductor Manufacturing Company...
+--------------------------------------------------
+
+Title: Nvidia's CEO Just Explained Why This Is the Artificial Intelligence (AI) Chip Stock to Own
+URL: https://finance.yahoo.com/news/nvidias-ceo-just-explained-why-103000601.html/
+Time Published: 2024-09-21T10:30:00Z
+Description: Jensen Huang said this is the best company in the industry "by an incredible margin."
+--------------------------------------------------
+
+Title: 1 Favorable Trend That Explains the 99% Increase in Taiwan Semiconductor's Stock Price
+URL: https://biztoc.com/x/fb848744804ff5fc
+Time Published: 2024-09-20T15:58:16Z
+Full Content:
+Shares of Taiwan Semiconductor Manufacturing (NYSE: TSM) have soared over the last year, largely due to the soaring demand for cutting-edge chips capable of handling artificial intelligence (AI) workloads and a rebound in the broader semiconductor sector.TSMC, as the company is also…
+--------------------------------------------------
+
+Title: What's Going On With Taiwan Semiconductor Stock On Thursday?
+URL: https://finance.yahoo.com/news/whats-going-taiwan-semiconductor-stock-141129000.html/
+Time Published: 2024-09-19T14:11:29Z
+Description: Wednesday, Taiwan Semiconductor Manufacturing Co (NYSE:TSM) promoted Rose Castanares, executive vice president of the Arizona unit, as president. Castanares,...
+--------------------------------------------------
+
+Title: What's Going On With AI Related Stocks Nvidia, AMD, Broadcom And Super Micro On Thursday?
+URL: https://finance.yahoo.com/news/whats-going-ai-related-stocks-130724617.html/
+Time Published: 2024-09-19T13:07:24Z
+Description: Semiconductor stocks especially the ones linked to artificial intelligence technology led by Nvidia Corp (NASDAQ:NVDA), Broadcom Inc (NASDAQ:AVGO), Advanced ...
+--------------------------------------------------
+
+Title: A Once-in-a-Decade Investment Opportunity: 1 Artificial Intelligence (AI) Semiconductor Stock to Buy Hand Over Fist Right Now (Hint: It's Not Nvidia)
+URL: https://finance.yahoo.com/news/once-decade-investment-opportunity-1-123000805.html/
+Time Published: 2024-09-19T12:30:00Z
+Description: The AI chip market is expected to eclipse $200 billion by early next decade.
+--------------------------------------------------
