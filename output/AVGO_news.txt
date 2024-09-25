@@ -1,5 +1,12 @@
 List of news related to Broadcom AVGO:
 
+Title: What You Need to Know About Super Micro's 10-for-1 Stock Split
+URL: https://www.investopedia.com/what-you-need-to-know-super-micro-computer-stock-split-8716990
+Time Published: 2024-09-23T20:54:05Z
+Full Content:
+Server maker Super Micro Computer (SMCI) announced a 10-for-1 stock split last month that will take effect after the closing bell on Sept. 30. Here's what you need to know about the split. Shareholders will receive nine new Super Micro shares for every one they already own. Their overall stake in the company won’t change, but the stock will subsequently trade for 10% of its previous price. In other words, if Super Micro shares were trading at $1,000 before the split, an investor holding one share before the split would hold 10 shares priced at $100 each after the split. (Companies can also hold reverse splits, as some have done lately.) Super Micro shares skyrocketed early in 2024 to a high of nearly $1,200 due to surging demand for artificial intelligence infrastructure. They traded closer to $600 when the split was announced, and closed Monday at about $465. The shares have lost more than half their value over the past six months, thanks in part to disappointing recent results. Even so, the stock is still roughly 65% higher year-to-date. The move would be the latest split by a high-flying tech stock, with Broadcom (AVGO) and Nvidia (NVDA) having already split their shares 10-for-1 this year.
+--------------------------------------------------
+
 Title: Broadcom unveils 200G optical DSP for AI data centers
 URL: https://www.investing.com/news/company-news/broadcom-unveils-200g-optical-dsp-for-ai-data-centers-93CH-3627765
 Time Published: 2024-09-23T13:05:48Z
@@ -62,16 +69,4 @@ Title: 3 Artificial Intelligence (AI) Stock-Split Stocks That Could Help Set You
 URL: https://finance.yahoo.com/news/3-artificial-intelligence-ai-stock-102500881.html/
 Time Published: 2024-09-20T10:25:00Z
 Description: Stock splits are sweeping the AI sector. Here's how to take advantage.
---------------------------------------------------
-
-Title: What's Going On With AI Related Stocks Nvidia, AMD, Broadcom And Super Micro On Thursday?
-URL: https://finance.yahoo.com/news/whats-going-ai-related-stocks-130724617.html/
-Time Published: 2024-09-19T13:07:24Z
-Description: Semiconductor stocks especially the ones linked to artificial intelligence technology led by Nvidia Corp (NASDAQ:NVDA), Broadcom Inc (NASDAQ:AVGO), Advanced ...
---------------------------------------------------
-
-Title: 1 Stock-Split Stock Set to Join Nvidia, Apple, Microsoft, Amazon, Alphabet, and Meta In the $1 Trillion Club
-URL: https://finance.yahoo.com/news/1-stock-split-stock-set-084700719.html/
-Time Published: 2024-09-19T08:47:00Z
-Description: This company's artificial intelligence presence spans across semiconductors, cybersecurity, and data center software.
 --------------------------------------------------

@@ -1,5 +1,32 @@
 List of news related to NVIDIA NVDA:
 
+Title: Are these 4 exciting ASX ETFs strong buys right now?
+URL: https://www.fool.com.au/2024/09/24/are-these-4-exciting-asx-etfs-strong-buys-right-now/
+Time Published: 2024-09-23T22:01:26Z
+Description: Let's take a closer look at four great options for investors to consider buying.
+The post Are these 4 exciting ASX ETFs strong buys right now? appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: What You Need to Know About Super Micro's 10-for-1 Stock Split
+URL: https://www.investopedia.com/what-you-need-to-know-super-micro-computer-stock-split-8716990
+Time Published: 2024-09-23T20:54:05Z
+Full Content:
+Server maker Super Micro Computer (SMCI) announced a 10-for-1 stock split last month that will take effect after the closing bell on Sept. 30. Here's what you need to know about the split. Shareholders will receive nine new Super Micro shares for every one they already own. Their overall stake in the company won’t change, but the stock will subsequently trade for 10% of its previous price. In other words, if Super Micro shares were trading at $1,000 before the split, an investor holding one share before the split would hold 10 shares priced at $100 each after the split. (Companies can also hold reverse splits, as some have done lately.) Super Micro shares skyrocketed early in 2024 to a high of nearly $1,200 due to surging demand for artificial intelligence infrastructure. They traded closer to $600 when the split was announced, and closed Monday at about $465. The shares have lost more than half their value over the past six months, thanks in part to disappointing recent results. Even so, the stock is still roughly 65% higher year-to-date. The move would be the latest split by a high-flying tech stock, with Broadcom (AVGO) and Nvidia (NVDA) having already split their shares 10-for-1 this year.
+--------------------------------------------------
+
+Title: Why Some Analysts Say Qualcomm's Potential Takeover of Intel is 'Impractical'
+URL: https://www.investopedia.com/qualcomm-reportedly-approached-intel-about-a-takeover-analysts-are-skeptical-8716846
+Time Published: 2024-09-23T20:47:06Z
+Full Content:
+Intel (INTC) shares have gained ground as investors reacted to a Wall Street Journal report late Friday that said Qualcomm (QCOM) had made a “takeover approach” to the beleaguered chipmaker. However, securities analysts are less keen on the idea, with those at Bank of America calling it “intriguing but perhaps impractical.” A Qualcomm takeover could offer Intel a lifeline for its struggling foundry business, which produces chips for outside customers, the firm noted in a research note released on Saturday. Intel could fill its manufacturing facilities with Qualcomm products, and Qualcomm could become a significant customer for Intel’s silicon wafers. That said, Intel is saddled with more than $50 billion in debt, and Qaulcomm has just $13 billion in cash on its balance sheet, making a takeover deal difficult, the BofA analysts said. In addition, the move could “create confusion given potential for headcount and roadmap disruptions,” making such a merger a potential boon for rivals such as Nvidia (NVDA) and Advanced Micro Devices (AMD). For a Qualcomm-Intel deal to go through, it likely would require a level of buy-in from the U.S. and Chinese governments, analysts at JPMorgan wrote over the weekend. Qualcomm could look for the U.S. government to provide a capital commitment to the foundry business, the success of which is important to domestic semiconductor production. Then there’s regulatory approval from China, which analysts acknowledge would be a major obstacle for such a move. The country "historically has taken years to even consider medium sized transactions," the BofA analysts said. Over the weekend, Apollo Global Management offered to invest as much as $5 billion in Intel, according to a Bloomberg report. Intel previously agreed to sell Apollo a 49% stake in a chipmaking site in Ireland in June. Shares of Intel gained 3.3% on Monday, while Qualcomm stock was down 1.8%.
+--------------------------------------------------
+
+Title: Dow Jones Up As Palantir Pops Amid Move; Elon Musk Makes This Boast As Tesla Soars (Live Coverage)
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-nasdaq-sp500-intel-palantir-mike-johnson/
+Time Published: 2024-09-23T20:07:48Z
+Description: The Dow Jones was digging in on the stock market today. Intel and Palantir stock were rising. Tesla CEO Elon Musk issued an EV boast.
+--------------------------------------------------
+
 Title: Intel needs Qualcomm, but it's not a two-way street, analysts say
 URL: https://qz.com/qualcomm-wouldnt-benefit-much-takeover-intel-chips-ai-1851654828
 Time Published: 2024-09-23T18:42:00Z
@@ -302,29 +329,4 @@ Title: Intel Stock Jumps On Report It Was Approached By Qualcomm About Possible 
 URL: https://www.investors.com/news/technology/intel-stock-intc-qualcomm-qcom-takeover-report/
 Time Published: 2024-09-20T20:18:32Z
 Description: Intel stock rallied on a Wall Street Journal report that Qualcomm had recently approached the chip giant about a possible takeover.
---------------------------------------------------
-
-Title: AI investing explained: Key words to know
-URL: https://finance.yahoo.com/video/ai-investing-explained-key-works-170000380.html/
-Time Published: 2024-09-20T17:00:00Z
-Description: Artificial intelligence has been a major theme on investors' minds in 2024, with key AI players like Nvidia (NVDA) driving markets higher. Yahoo Finance...
---------------------------------------------------
-
-Title: Tech Stocks Pull Back Friday, Hitting the Brakes on Fed-Fueled Rally
-URL: https://www.investopedia.com/tech-stocks-pull-back-friday-fed-rally-magnificent-seven-8715869
-Time Published: 2024-09-20T15:19:15Z
-Full Content:
-Tech stocks pulled back in early trading Friday, hitting the brakes on the market’s rally in the wake of the Federal Reserve’s supersized rate cut this week. The S&P 500 was down about 0.4% Friday after hitting record highs Thursday, with the energy and industrials sectors leading broad-based declines and its tech sector down about 0.6%. The tech-heavy Nasdaq fell 0.6%. Semiconductor stocks including Onsemi (ON), ASML (ASML), and NXP Semiconductors (NXPI), were among the stocks leading losses on the major indexes, pulling the PHLX Semiconductor Index down 2%. The Magnificent 7 stocks were mixed. AI darling Nvidia (NVDA), Amazon (AMZN), Microsoft (MSFT), and Tesla (TSLA) lost ground, while Meta Platforms (META) and Alphabet (GOOGL) were slightly higher. Apple (AAPL) advanced as its iPhone 16 hit stores. Some analysts have suggested this week’s cut could set the stage for tech stocks to gain over the last few months of the year and into next year, with Wedbush analysts writing yesterday that “the green light is back on for the tech growth trade.” While the Fed cautioned this week against assuming more jumbo cuts lie ahead, markets are largely expecting the central bank to continue aggressively cutting rates this year, according to CME Group's FedWatch tool based on fed funds market data.
---------------------------------------------------
-
-Title: Tech Stocks Pull Back Friday, Hitting the Brakes on Fed-Fueled Rally
-URL: https://finance.yahoo.com/news/tech-stocks-pull-back-friday-151915986.html/
-Time Published: 2024-09-20T15:19:15Z
-Description: Tech stocks pulled back in early trading Friday, hitting the brakes on the market’s rally in the wake of the Federal Reserve’s supersized rate cut this week.
---------------------------------------------------
-
-Title: Jim Cramer on Advanced Micro Devices (AMD): The ‘Only Company on Earth’ That Can Catch Up to Nvidia (NVDA)
-URL: https://finance.yahoo.com/news/jim-cramer-advanced-micro-devices-135125264.html/
-Time Published: 2024-09-20T13:51:25Z
-Description: We recently published a list of Jim Cramer’s Top Picks: 10 Stocks to Buy and Sell. Since Advanced Micro Devices, Inc (NASDAQ:AMD) ranks 2nd on the list, it...
 --------------------------------------------------
