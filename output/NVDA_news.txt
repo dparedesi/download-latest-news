@@ -1,5 +1,45 @@
 List of news related to NVIDIA NVDA:
 
+Title: Is AMD a Legitimate Threat to NVIDIA? What Investors Should Watch
+URL: https://biztoc.com/x/6ef3123e740855ea
+Time Published: 2024-09-24T14:18:07Z
+Full Content:
+When it comes to the advanced graphical processing units (GPUs) that are powering the AI revolution in data centers, there really are only two games in town: NVIDIA NASDAQ: NVDA and Advanced Micro Devices NASDAQ: AMD. Both make GPUs used to do the complex computational work required for…
+--------------------------------------------------
+
+Title: Jensen Huang has lost nearly $27 billion in net worth since Nvidia shares peaked in June — here's how to diversify your own portfolio to protect against market swings
+URL: https://biztoc.com/x/d6567e15323ab62e
+Time Published: 2024-09-24T11:56:09Z
+Full Content:
+We adhere to strict standards of editorial integrity to help you make decisions with confidence. Some or all links contained within this article are paid links.The story of Nvidia (NVDA) founder and CEO Jensen Huang is a compelling testament to the American Dream.His journey began…
+--------------------------------------------------
+
+Title: Nvidia stock: Morgan Stanley says Hopper/Blackwell demand is strong
+URL: https://www.investing.com/news/stock-market-news/nvidia-stock-morgan-stanley-says-hopperblackwell-demand-is-strong-432SI-3629545
+Time Published: 2024-09-24T11:20:03Z
+Full Content:
+NVIDIA (NVDA) is experiencing strong demand for its Hopper and Blackwell GPUs, according to Morgan Stanley analysts. The investment bank said in a note Tuesday that Nvidia’s Blackwell chips are now entering volume production, with demand from major customers driving significant growth potential for the company. Morgan Stanley reports that Oracle recently announced plans to build a Zettascale AI supercluster powered by 131,000 Nvidia (NASDAQ:NVDA) Blackwell GPUs, delivering 2.4 ZettaFLOPS of AI performance. Oracle’s request for more GPU supply has provided a boost to Nvidia’s outlook, as well as to its suppliers in the semiconductor industry. "At a recent event, Oracle reportedly requested more GPU supply, which was upbeat news for the Asia AI semi/system supply chain," wrote the bank. Morgan Stanley now expects TSMC’s CoWoS (Chip-on-Wafer-on-Substrate) capacity to increase to 80,000-90,000 wafers per month by 2025, up from a previous estimate of 70,000. In the near term, Nvidia’s Hopper GPU demand is said to remain strong, alleviating concerns about potential inventory risks. According to Morgan Stanley, the Hopper H200 chips are seeing increased demand from smaller cloud service providers and sovereign AI projects. Meanwhile, Blackwell chips are expected to see 450,000 units produced in the fourth quarter of 2024, translating into a potential revenue opportunity exceeding $10 billion for Nvidia. Morgan Stanley also notes that while Nvidia is still resolving some technical challenges with its GB200 server racks, these issues are part of the normal debugging process for new product launches. Hon Hai, Nvidia’s assembly partner, is reportedly on track to begin shipments of the GB200 server rack by late Q4 2024. Morgan Stanley maintains a bullish outlook on Nvidia’s AI supply chain, favoring it over memory, PC, and cloud segments as Nvidia continues to capitalize on the growing demand for AI semiconductors.
+--------------------------------------------------
+
+Title: Prediction: 1 Stock That Will Be Worth More Than Apple 10 Years From Now
+URL: https://finance.yahoo.com/news/prediction-1-stock-worth-more-111500940.html/
+Time Published: 2024-09-24T11:15:00Z
+Description: Apple is the largest company in the world, but it could lose its crown to a fast-growing tech giant that has been outperforming the iPhone maker.
+--------------------------------------------------
+
+Title: Comparing Many Models: An Uptrend for Nvidia?
+URL: https://www.r-bloggers.com/2024/09/comparing-many-models-an-uptrend-for-nvidia/
+Time Published: 2024-09-24T09:00:00Z
+Full Content:
+Posted on September 24, 2024 by Selcuk Disci in R bloggers | 0 Comments Since April, Nvidia has tried to hold above the point forecasting line. As predictive intervals’ slopes are slightly up; could Nvidia continue an uptrend? Source code: Copyright © 2024 | MH Corporate basic by MH Themes
+--------------------------------------------------
+
+Title: Nvidia Stock Investors Just Got Good News From Wall Street: The Artificial Intelligence (AI) Boom Is Thriving
+URL: https://finance.yahoo.com/news/nvidia-stock-investors-just-got-080600877.html/
+Time Published: 2024-09-24T08:06:00Z
+Description: Concerns about the sustainability of Nvidia's dominance in artificial intelligence chips may be overblown.
+--------------------------------------------------
+
 Title: Are these 4 exciting ASX ETFs strong buys right now?
 URL: https://www.fool.com.au/2024/09/24/are-these-4-exciting-asx-etfs-strong-buys-right-now/
 Time Published: 2024-09-23T22:01:26Z
@@ -271,7 +311,7 @@ Title: What You Need To Know Ahead of Micron's Earnings Report Wednesday
 URL: https://www.investopedia.com/micron-technology-q4-fy2024-earnings-preview-8716098
 Time Published: 2024-09-21T11:00:00Z
 Full Content:
-Micron Technology (MU) will report fiscal fourth-quarter earnings after the bell Wednesday, with analysts expecting the memory chip maker and Nvidia (NVDA) partner to swing to a profit. The Street expects the company to report net income of $975.41 million for the quarter, compared to a loss of $1.43 billion a year earlier. Revenue is projected to nearly double to $7.66 billion, according to estimates compiled by Visible Alpha. Micron has grappled with growing inventories, and Citi analysts recently lowered their price target for the stock to $150 from $175, citing its high inventory and weakness in demand for legacy memory components. However, the analysts said inventory buildup could ease by the end of the year, adding they "expect Micron’s revenue and gross margins to increase for the next several quarters." The analyst consensus for Micron’s fiscal first quarter of 2025 is revenue of $8.4 billion and EPS of $1.45, according to Visible Alpha. Morgan Stanley analysts also lowered their price target for Micron to $100 from $140 ahead of the company's earnings report, pointing to high inventories and signs of "persistently weak demand across all end markets except AI." Micron could see demand improve next year, the analysts said, fueled by "an AI-driven upgrade cycle for edge devices, continued strength in datacenters, and the potential for a traditional server refresh." Micron shares rose close to 2% to $90.90 Friday and have gained about 6.5% since the start of the year.
+UPDATE—Sept. 25, 2024: This article has been updated to reflect more recent analyst estimates and share price information. Micron Technology (MU) will report fiscal fourth-quarter earnings after the bell Wednesday, with analysts expecting the memory chip maker and Nvidia (NVDA) partner to swing to a profit. The Street expects the company to report net income of $1 billion for the quarter, compared to a loss of $1.43 billion a year earlier. Revenue is projected to nearly double to $7.65 billion, according to estimates compiled by Visible Alpha. Micron has grappled with growing inventories, and Citi analysts recently lowered their price target for the stock to $150 from $175, citing its high inventory and weakness in demand for legacy memory components. However, the analysts said inventory buildup could ease by the end of the year, adding they "expect Micron’s revenue and gross margins to increase for the next several quarters." The analyst consensus for Micron’s fiscal first quarter of 2025 is revenue of $8.4 billion and EPS of $1.45, according to Visible Alpha. Morgan Stanley analysts also lowered their price target for Micron to $100 from $140 ahead of the company's earnings report, pointing to high inventories and signs of "persistently weak demand across all end markets except AI." Micron could see demand improve next year, the analysts said, fueled by "an AI-driven upgrade cycle for edge devices, continued strength in datacenters, and the potential for a traditional server refresh." Micron shares were little changed in pre-market trading Wednesday, ahead of the company's earnings report, and have gained about 10% since the start of the year.
 --------------------------------------------------
 
 Title: Nvidia's CEO Just Explained Why This Is the Artificial Intelligence (AI) Chip Stock to Own
@@ -292,41 +332,4 @@ URL: https://biztoc.com/x/79d15acc51d95158
 Time Published: 2024-09-21T09:58:26Z
 Full Content:
 Wall Street has fallen in love with the artificial intelligence (AI) trend. This is not surprising, considering that PwC analysts expect AI to add nearly $15.7 trillion to the global economy annually by the end of 2030.Semiconductor giant Nvidia's (NASDAQ: NVDA) shares have gained…
---------------------------------------------------
-
-Title: Bitcoin Still Has More Upside Potential Than Any Tech Stock, and That Includes Nvidia
-URL: https://finance.yahoo.com/news/bitcoin-still-more-upside-potential-093000608.html/
-Time Published: 2024-09-21T09:30:00Z
-Description: Bitcoin could soar in value by more than 21,000% during the next two decades, leaving tech stocks in the rearview mirror.
---------------------------------------------------
-
-Title: Move Over, Nvidia: Billionaires Are Selling Its Shares and Buying Up These 2 Artificial Intelligence (AI) Stocks Instead
-URL: https://finance.yahoo.com/news/move-over-nvidia-billionaires-selling-083300873.html/
-Time Published: 2024-09-21T08:33:00Z
-Description: Many billionaires are shifting some of their AI investments toward Super Micro Computer and Microsoft.
---------------------------------------------------
-
-Title: Nvidia's principal accounting officer sells shares worth over $520,000
-URL: https://www.investing.com/news/stock-market-news/nvidias-principal-accounting-officer-sells-shares-worth-over-520000-93CH-3626559
-Time Published: 2024-09-21T01:12:49Z
-Full Content:
-Nvidia Corp (NASDAQ:NVDA) has reported a recent transaction involving the sale of company shares by Principal Accounting Officer, Donald F. Robertson Jr. According to the latest filing, Robertson sold a total of 4,500 shares, resulting in over $520,000 in proceeds. The sales occurred on September 20, 2024, with prices ranging from $116.18 to $118.15. Specifically, 3,300 shares were sold at an average price of $116.18, with a range of $115.70 to $116.64. Another 900 shares were sold at an average price of $117.19, within a range of $116.77 to $117.73, and the final 300 shares were sold at an average of $118.15, with prices between $118.06 to $118.27. This transaction was executed in accordance with a Rule 10b5-1 trading plan previously adopted by Robertson on October 6, 2023. Rule 10b5-1 plans allow company insiders to establish pre-arranged plans to buy or sell company stock when they are not in possession of material non-public information, providing a defense against claims of insider trading. Additionally, the filing disclosed that on September 18, shares of Nvidia's common stock were withheld by the company to satisfy tax obligations due in connection with the vesting of restricted stock units, which had been reported earlier. The total value of these withheld shares was $805,893, at a price of $115.59 per share. After these transactions, Robertson's holdings in Nvidia stock have been adjusted to 492,409 shares. The filings also noted minor adjustments to the total shares owned, including shares purchased through the company's Employee Stock Purchase Plan and shares issued upon the vesting of restricted stock units. Investors and followers of Nvidia Corp can find further details regarding the specific number of shares sold at each price point upon request to the Securities and Exchange Commission (SEC), Nvidia, or the security holder of the issuer. In other recent news, OpenAI, the firm behind the popular ChatGPT technology, is currently in the process of a significant financing round that could potentially value the company at $150 billion. This valuation is contingent on the AI company's ability to successfully restructure and remove a profit cap for its investors. The proposed funding round, amounting to $6.5 billion, is reportedly attracting strong interest from both existing and new investors, including tech giants Microsoft (NASDAQ:MSFT), Nvidia, and Apple (NASDAQ:AAPL). In related developments, Nvidia's significant stock rally has been a major contributor to the S&P 500's performance, with the chipmaker's shares marking a 140% increase this year. The surge came after Nvidia's CEO announced robust demand for the company's chips. In the banking sector, companies like JPMorgan Chase (NYSE:JPM), Bank of America, and Wells Fargo saw their shares increase after reducing their prime rates. This followed the Federal Reserve's recent announcement of a half a percentage point cut to support the world's largest economy. Market participants are now anticipating a further 25 basis point rate cut at the Fed's November meeting. These recent developments highlight the dynamic nature of the investment landscape, with companies like OpenAI and Nvidia making significant strides in their respective sectors. Nvidia Corporation (NASDAQ:NVDA) has demonstrated robust financial performance with several key metrics indicating a strong market position. According to InvestingPro data, Nvidia's revenue for the last twelve months as of Q2 2025 reached an impressive $96.31 billion, marking a significant growth of 194.69%. This substantial increase is also reflected in the company's gross profit margin, which stands at a high 75.98% for the same period, showcasing Nvidia's ability to maintain profitability despite costs. InvestingPro Tips highlight that Nvidia is not only a prominent player in the Semiconductors & Semiconductor Equipment industry but also boasts an impressive gross profit margin, which aligns with the data mentioned. Additionally, analysts have revised their earnings upwards for the upcoming period, signaling confidence in the company's future performance. These insights suggest that Nvidia is well-positioned for continued growth and profitability. For investors seeking more in-depth analysis, there are 21 additional InvestingPro Tips available for Nvidia, offering a comprehensive view of the company's financial health and market potential. These tips can be accessed through the dedicated InvestingPro page for Nvidia at https://www.investing.com/pro/NVDA. To provide further context to the article, it's worth noting that Nvidia's stock price has experienced a large uptick over the last six months, with a total return of 26.89%. This positive momentum is part of a longer trend, with the year-to-date price total return reaching an astounding 134.29%. The company's ability to maintain dividend payments for 13 consecutive years also underscores its commitment to shareholder returns, which may reassure investors following the insider sale transaction detailed in the article. This article was generated with the support of AI and reviewed by an editor. For more information see our T&C.
---------------------------------------------------
-
-Title: A takeover of Intel could push Qualcomm into new realm: Strategist
-URL: https://finance.yahoo.com/video/takeover-intel-could-push-qualcomm-211642687.html/
-Time Published: 2024-09-20T21:16:42Z
-Description: Amid reports that Qualcomm (QCOM) approached Intel (INTC) about a possible takeover, Futurum Group chief market strategist Cory Johnson sits down with Josh...
---------------------------------------------------
-
-Title: Prediction: This $80 Billion Market Could Be the Next Big Growth Driver for Nvidia Stock
-URL: https://finance.yahoo.com/news/prediction-80-billion-market-could-210000430.html/
-Time Published: 2024-09-20T21:00:00Z
-Description: Nvidia has built a solid position for itself in this fast-growing data center niche that could help generate sizable revenue for the company in the long run.
---------------------------------------------------
-
-Title: Intel Stock Jumps On Report It Was Approached By Qualcomm About Possible Takeover
-URL: https://www.investors.com/news/technology/intel-stock-intc-qualcomm-qcom-takeover-report/
-Time Published: 2024-09-20T20:18:32Z
-Description: Intel stock rallied on a Wall Street Journal report that Qualcomm had recently approached the chip giant about a possible takeover.
 --------------------------------------------------

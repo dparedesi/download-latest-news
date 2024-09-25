@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Taiwan Semi Secures $7.5B Boost for Arizona Expansion, Aims for Advanced Chip Production: Report
+URL: https://finance.yahoo.com/news/taiwan-semi-secures-7-5b-150501068.html/
+Time Published: 2024-09-24T15:05:01Z
+Description: On Monday, Taiwan Semiconductor Manufacturing Co (NYSE:TSM) bagged the government’s approval for an additional $7.5 billion infusion into Taiwan...
+--------------------------------------------------
+
 Title: Arm Holdings Joins Elite List; Offers New Buy Point
 URL: https://www.investors.com/research/arm-holdings-stock-chip-semiconductor/
 Time Published: 2024-09-23T15:49:51Z
