@@ -11,6 +11,7 @@ import concurrent.futures
 import re
 import json
 from operator import itemgetter
+import os.path
 
 def setup_logging():
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -35,12 +36,33 @@ def load_config(config_file):
             parsed_queries.append((match.group(1), match.group(2)))
         else:
             parsed_queries.append((query.strip(), query.strip()))
+
+    api_keys = [config['API'][f'newsapi_key{i}'] for i in range(1, 6)]
+ 
+    api_key_file = config['Settings']['api_key_file']
+    
     return {
         'queries': parsed_queries,
-        'api_key': config['API']['alphavantage_key' if 'alphavantage' in config_file else 'newsapi_key'],
+        'api_keys': api_keys,
+        'api_key_file': api_key_file,
         'news_limit': int(config['Settings']['news_limit']),
         'exclude_domains': config['Settings']['exclude_domains']
     }
+
+def get_next_api_key(api_keys, api_key_file):
+    if os.path.exists(api_key_file):
+        with open(api_key_file, 'r') as f:
+            content = f.read().strip()
+            last_index = int(content) if content else -1
+    else:
+        last_index = -1
+    
+    next_index = (last_index + 1) % len(api_keys)
+    
+    with open(api_key_file, 'w') as f:
+        f.write(str(next_index))
+    
+    return api_keys[next_index]
 
 def create_output_folder():
     folder_path = 'output'
@@ -173,10 +195,12 @@ def main():
     output_folder = create_output_folder()
     session = create_session()
     
+    api_key = get_next_api_key(config['api_keys'], config['api_key_file'])
+    
     all_news = []
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
-        future_to_query = {executor.submit(process_query, query_tuple, session, config['api_key'], config['news_limit'], config['exclude_domains'], output_folder): query_tuple for query_tuple in config['queries']}
+        future_to_query = {executor.submit(process_query, query_tuple, session, api_key, config['news_limit'], config['exclude_domains'], output_folder): query_tuple for query_tuple in config['queries']}
         for future in concurrent.futures.as_completed(future_to_query):
             query_tuple = future_to_query[future]
             try:
