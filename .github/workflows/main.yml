@@ -3,7 +3,9 @@ name: Daily News Fetch
 on:
   schedule:
     # Runs at 3 AM and 3 PM UTC daily
-    - cron: "0 3,15 * * *"
+    # - cron: "0 3,15 * * *"
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:       # Allows manual triggering as well
 
 jobs:
@@ -25,12 +27,20 @@ jobs:
 
     - name: Update config with API keys
       env:
-        NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+        NEWSAPI_KEY1: ${{ secrets.NEWSAPI_KEY1 }}
+        NEWSAPI_KEY2: ${{ secrets.NEWSAPI_KEY2 }}
+        NEWSAPI_KEY3: ${{ secrets.NEWSAPI_KEY3 }}
+        NEWSAPI_KEY4: ${{ secrets.NEWSAPI_KEY4 }}
+        NEWSAPI_KEY5: ${{ secrets.NEWSAPI_KEY5 }}
         ALPHAVANTAGE_KEY: ${{ secrets.ALPHAVANTAGE_KEY }}
       run: |
+        sed -i "s/newsapi_key1 = .*/newsapi_key1 = $NEWSAPI_KEY1/" config.ini
+        sed -i "s/newsapi_key2 = .*/newsapi_key2 = $NEWSAPI_KEY2/" config.ini
+        sed -i "s/newsapi_key3 = .*/newsapi_key3 = $NEWSAPI_KEY3/" config.ini
+        sed -i "s/newsapi_key4 = .*/newsapi_key4 = $NEWSAPI_KEY4/" config.ini
+        sed -i "s/newsapi_key5 = .*/newsapi_key5 = $NEWSAPI_KEY5/" config.ini
         sed -i "s/alphavantage_key = .*/alphavantage_key = $ALPHAVANTAGE_KEY/" config.ini
-        sed -i "s/newsapi_key = .*/newsapi_key = $NEWSAPI_KEY/" config.ini
-   
+
     - name: Run NewsAPI script
       run: |
         python newsapi_article_aggregator.py
@@ -39,11 +49,11 @@ jobs:
       run: |
         git config --global user.name 'GitHub Action'
         git config --global user.email 'dparedesi@uni.pe'
-        git add output/*
+        git add output/* last_used_api_key.txt
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "Update news files"
+          git commit -m "Update news files and last used API key"
           git push
         fi
       env:
