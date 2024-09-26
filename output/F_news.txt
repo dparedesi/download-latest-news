@@ -1,5 +1,18 @@
 List of news related to Ford stock price F:
 
+Title: Top Stock Movers Now: Hewlett Packard Enterprise, Salesforce, Visa, and More
+URL: https://www.investopedia.com/top-stock-movers-now-hewlett-packard-enterprise-salesforce-visa-and-more-8718143
+Time Published: 2024-09-25T17:18:42Z
+Full Content:
+U.S. equities were mostly lower at midday Wednesday, a day after the Dow Jones Industrial Average and the S&P 500 closed at fresh record highs. The Dow and the S&P 500 were down, and the Nasdaq was little changed. Hewlett Packard Enterprise (HPE) shares jumped following an upgrade and price target increase from Barclays on the information technology firm's reach into the artificial intelligence (AI) market. An AI play lifted shares of Salesforce (CRM), which bought startup data management provider Zoomin for $450 million. Cintas (CTAS) shares climbed after the uniform and other business supplies provider posted better-than-expected results and raised its guidance as its gross margin improved. General Motors (GM) and Ford Motor (F) shares fell following downgrades from Morgan Stanley, which pointed to competition from Chinese automakers. Shares of Global Payments (GPN) declined when the financial technology firm told investors it was updating its "strategic focus" as it gave guidance for the next three fiscal years. Visa (V) shares declined for a second day on word the U.S. Department of Justice (DOJ) has filed an antitrust lawsuit against the payment processor. Oil futures dipped. Gold prices reached another all-time high. The yield on the 10-year Treasury note gained. The U.S. dollar was up on the euro, pound, and yen. Most major cryptocurrencies moved lower. TradingView
+--------------------------------------------------
+
+Title: GM Stock Cut To Sell By Morgan Stanley On China Reversal
+URL: https://www.investors.com/news/gm-stock-general-motors-downgrade-morgan-stanley-china-reversal/
+Time Published: 2024-09-25T13:28:56Z
+Description: General Motors stock and Ford were hit with downgrades as Morgan Stanley warned of market share losses amid a rising threat from China.
+--------------------------------------------------
+
 Title: FORD OCTOBER 7 DEADLINE: Ford Motor Company has been Sued for Securities Fraud; Contact BFA Law before October 7 Court Deadline (NYSE:F)
 URL: https://www.globenewswire.com/news-release/2024/09/25/2952822/0/en/FORD-OCTOBER-7-DEADLINE-Ford-Motor-Company-has-been-Sued-for-Securities-Fraud-Contact-BFA-Law-before-October-7-Court-Deadline-NYSE-F.html
 Time Published: 2024-09-25T11:09:00Z
