@@ -1,5 +1,56 @@
 List of news related to NVIDIA NVDA:
 
+Title: Dow Jones Futures: Techs, China Stocks Fall; Nvidia, Tesla Rival In Buy Areas
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-stocks-fall-nvidia-tesla-rival-in-buy-areas/
+Time Published: 2024-09-25T11:14:02Z
+Description: The S&P 500 set a closing high while the Nasdaq topped 18,000 again.
+--------------------------------------------------
+
+Title: Got $3,000? 2 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term
+URL: https://finance.yahoo.com/news/got-3-000-2-artificial-103200463.html/
+Time Published: 2024-09-25T10:32:00Z
+Description: These AI stocks have delivered terrific returns so far in 2024, and they still have room to climb.
+--------------------------------------------------
+
+Title: 10 Things to Know About Nvidia Before You Buy or Sell
+URL: https://biztoc.com/x/89385c1b0ee46136
+Time Published: 2024-09-25T10:29:33Z
+Full Content:
+Nvidia (NASDAQ: NVDA) has been one of the hottest stocks on the planet in recent times. The shares have soared 2,500% over the past 5 years -- and just this year they've climbed more than 130%. This is thanks to the company's dominance in the high-growth artificial intelligence (AI) chip…
+--------------------------------------------------
+
+Title: Nvidia Stock: Buy, Sell, or Hold?
+URL: https://biztoc.com/x/e11436312e7bbcc4
+Time Published: 2024-09-25T10:29:32Z
+Full Content:
+Following its massive run over the past five years, perhaps no stock captures as much investor attention as Nvidia (NASDAQ: NVDA). The company has become the exemplar for the artificial intelligence (AI) infrastructure buildout, and no company has benefited from AI as much as…
+--------------------------------------------------
+
+Title: Nvidia Stock: Buy, Sell, or Hold?
+URL: https://finance.yahoo.com/news/nvidia-stock-buy-sell-hold-095700206.html/
+Time Published: 2024-09-25T09:57:00Z
+Description: Regarding this AI stock, a case can be made for each, but there is one right answer.
+--------------------------------------------------
+
+Title: Forget Nvidia: Putting $300 to Work in These 3 Unstoppable Stocks Right Now Would Be a Smarter Move
+URL: https://finance.yahoo.com/news/forget-nvidia-putting-300-3-092100243.html/
+Time Published: 2024-09-25T09:21:00Z
+Description: These magnificent businesses have what it takes to handily outperform artificial intelligence (AI) leader Nvidia moving forward.
+--------------------------------------------------
+
+Title: Oracle Founder Larry Ellison Just Delivered Fantastic News for Nvidia Stock Investors
+URL: https://biztoc.com/x/b579e9a437e95151
+Time Published: 2024-09-25T08:37:38Z
+Full Content:
+Larry Ellison owns 42% of Oracle (NYSE: ORCL), a $465 billion technology giant that is building some of the most powerful data centers for artificial intelligence (AI) development.Nvidia (NASDAQ: NVDA) supplies Oracle and most other tech companies with data center chips called graphics…
+--------------------------------------------------
+
+Title: Jim Cramer Highlights NVIDIA Corporation (NVDA)’s Ambition To Create More Powerful Chips That Can Accomplish Incredible Tasks
+URL: https://finance.yahoo.com/news/jim-cramer-highlights-nvidia-corporation-074433290.html/
+Time Published: 2024-09-25T07:44:33Z
+Description: We recently compiled a list of the Jim Cramer’s 10 Stock Picks That Could Change Your Investment Game. In this article, we are going to take a look at where ...
+--------------------------------------------------
+
 Title: Predictive Analysis and Descriptive Analysis with Azure Stream Analytics, Machine Learning and Power BI
 URL: https://www.mssqltips.com/sqlservertip/8083/predictive-analysis-and-descriptive-analysis-with-azure/
 Time Published: 2024-09-25T04:42:58Z
@@ -280,58 +331,4 @@ URL: https://biztoc.com/x/f8a5cbe209406742
 Time Published: 2024-09-22T13:37:12Z
 Full Content:
 Analyst’s Disclosure: I/we have a beneficial long position in the shares of NVDA either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no…
---------------------------------------------------
-
-Title: What To Expect in the Markets This Week
-URL: https://www.investopedia.com/what-to-expect-in-the-markets-this-week-8715614
-Time Published: 2024-09-22T11:00:00Z
-Full Content:
-Federal Reserve officials will speak this week, providing more insight into their recent decision to reduce interest rates. Friday's release of the August Personal Consumption Expenditures (PCE) Price Index will show whether inflation continues to slow. Investors can expect fresh data on new and pending home sales, along with an update on housing prices, and consumer sentiment surveys. Micron Technology (MU), Costco Wholesale (COST), Accenture (ACN), and more will also report earnings. Monday, Sept. 23 Tuesday, Sept. 24 Wednesday, Sept. 25 Thursday, Sept. 26 Friday, Sept. 27 Following last week’s closely watched Federal Reserve decision to enact a jumbo-sized interest rate cut, investors will hear from Fed officials this week about their impressions of the U.S. economy. Fed Chair Jerome Powell will deliver pre-recorded opening remarks at Thursday’s 2024 U.S. Treasury Market Conference, his first remarks since last week’s press conference. Other notable speakers will deliver remarks at the event, including New York Fed President John Williams, Fed Vice Chair Michael Barr, Treasury Secretary Janet Yellen, and Securities and Exchange Commission Chair Gary Gensler. Atlanta Fed President Raphael Bostic, Minneapolis Fed President Neel Kashkari, and Boston Fed President Susan Collins are also scheduled to deliver remarks this week. On Friday, market watchers will likely be focused on the latest inflation data, as the August reading of the Personal Consumption Expenditures (PCE) Price Index will show whether price pressures continue to cool. The July PCE reading showed the Fed’s preferred inflation measurement was down to an annual rate of 2.5%, still higher than the central bank’s target. Investors will look for more progress on inflation. KB Home’s earnings report on Tuesday could also provide some insight into the health of the housing market. According to a Bank of America analysis, the Fed’s interest rate decision is likely to drive down mortgage rates and potentially improve homebuilders' performance. Memory chip maker and Nvidia (NVDA) partner Micron Technology will report earnings Wednesday, after Morgan Stanley recently downgraded its stock, warning about the health of the memory chip market. Micron’s report comes after its prior quarter earnings were lower than analysts projected, and its revenue guidance disappointed investors. Costco’s earnings on Thursday follows its recent decision to raise membership fees for the first time in seven years, effective Sept. 1. Analysts are expecting the retailer to report higher year-over-year revenue and profit, with memberships rising to 75 million.
---------------------------------------------------
-
-Title: After The Fed Rate Cut: Soft Landing Checklist
-URL: https://www.forbes.com/sites/bill_stone/2024/09/22/after-the-fed-rate-cut-soft-landing-checklist/
-Time Published: 2024-09-22T10:38:32Z
-Full Content:
-While the aggressive rate cut was a good start, whether it will prevent the economy from descending ... [+] into recession remain unknown. This article will identify some data to gauge the effectiveness of the Fed’s actions in supporting the economy. Chair Powell and the Federal Reserve delivered a larger-than-expected half percentage point (0.50%) decrease in short-term interest rates last week. While the rate cut was a virtual certainty, the path forward and whether it will prevent the economy from descending into recession remain unknown. This piece will identify some data to gauge the effectiveness of the Fed’s actions in supporting the economy. Because of the aggressive first move from the Fed, the odds of an economic soft landing should be considered higher than before the move. Though the real (after-inflation) Federal Funds rate remains above 2023, there are likely more rate cuts in the pipeline. After-Inflation Federal Funds Rate Futures pricing assumes another cut to short-term interest rates of at least 25 (0.25%) basis points at the November Fed meeting and a 50% chance of a 50 (0.50%) basis point rate cut. The December meeting has expectations identical to those for November. Number Of Rate Cuts Expected In seven of the last nine easing cycles, the economy was either in recession when the rate cuts began or ended in recession. Still, stocks usually rose in the twelve months after the cuts started. Stocks and the Magnificent 7 reacted positively to the outsized rate cut. The Magnificent 7, consisting of Microsoft (MSFT), Meta Platforms (META), Amazon.com (AMZN), Apple (AAPL), NVIDIA SPDR Dow Jones Industrial Average ETF Trust (NVDA), Alphabet (GOOGL), and Tesla (TSLA), underperformed the S&P 500 on the week but are now only 6.6% below their early July highs. The S&P 500 reached a new all-time high during the week, eclipsing the July 16 high. Stock Market Performance The U.S. economy remains resilient, with the Atlanta Fed’s estimate of third-quarter GDP at 2.9%. These estimates provide a real-time estimate of economic growth since quarterly GDP reports are provided with a significant lag. 3Q 2024 U.S. GDP Growth Estimate Other valuable high-frequency reports are the initial and continuing filings for unemployment benefits. These claims have improved lately, but any significant softening in the labor market should be seen here first. Initial Jobless Claims The job market has softened. While the unemployment rate at 4.2% remains low on an absolute basis, it has risen off the lows enough to trigger the Sahm Rule, which has an unblemished track record of forecasting recession. There are several reasons to believe that the Sahm Rule might be overstating the risk of recession during this cycle. Monitoring the prime-age, 25 to 54 years old, employment-to-population ratio should help signal when concern about the rising unemployment rate is warranted. The rising prime-age employment-to-population ratio is evidence of some less dire outcomes in the labor market and the economy so far. The employment-to-population ratio is a monthly statistic updated in the monthly jobs report, and so is the unemployment rate. Prime-Age Employment-To-Population Ratio: 3 Month Average Separately, defensive stocks, less impacted by the economy, have often outperformed the more economically sensitive cyclical stocks during these easing cycles since they tend to correspond with periods of economic uncertainty or eventual contraction. Last week showed a better performance for economically sensitive stocks, bolstering the case that markets also viewed the Fed’s actions as supportive of better odds of avoiding recession. Cyclicals Versus Defensives Banks tend to underperform the S&P 500 before and often during recessions since their loan losses and profits are inexorably tied to the economy. Bank stocks significantly outperformed last week, adding to the optimistic view of the impacts of the more significant Fed rate cut on the economy. U.S. Banks Relative Performance Finally, the consumer is crucial for the health of the economy. Looking at the relative performance of the consumer discretionary sector can help indicate when the consumer and, by extension, the U.S. economy might be in trouble. The equal-weighted S&P 500 consumer discretionary index is used; otherwise, Amazon.com (AMZN) would dominate the analysis given its massive size in the capitalization-weighted index. Consistent with the other measures shown, consumer discretionary stocks outperformed. Consumer Discretionary Relative Strength Based on the indicators reviewed in this analysis and current economic data, the base case remains a soft landing. This COVID-related economic cycle is unlike any other, so our typically reliable yield curve and Sahm rule indicators should be viewed more skeptically than usual. The initial reaction to the larger-than-expected 50 basis point rate cut from the Fed has been positive across the soft landing checklist. It indicates that market participants are assigning higher odds of avoiding recession following Chair Powell’s aggressive start to easing monetary policy. If history is any indicator, success in avoiding a recession is no sure thing. Since markets reflect a higher likelihood of a soft landing, investors should expect price declines for stocks and other risk assets if recession probabilities increase. Since the eventual outcome remains unknown, investors should be mindful of their asset allocation and consider rebalancing after the robust stock gains. Owning high-quality and less economically sensitive stocks alongside technology and cyclical companies should benefit equity portfolios if the economy and earnings falter. Disclosure: Glenview Trust currently has holdings of Microsoft (MSFT), Meta Platforms (META), Amazon.com (AMZN), Apple (AAPL), NVIDIA (NVDA), and Alphabet (GOOGL) within its recommended investment strategies.
---------------------------------------------------
-
-Title: Billionaires Are Deciding to Sell Shares of This Well-Known Stock
-URL: https://biztoc.com/x/f59b4d195b65338a
-Time Published: 2024-09-22T10:26:28Z
-Full Content:
-The hottest stock in the market over the past couple of years has been Nvidia (NASDAQ: NVDA). As artificial intelligence (AI) technology advanced, Nvidia capitalized, having prepared for this revolution over the past two decades.But after Nvidia's stratospheric rise, several major hedge…
---------------------------------------------------
-
-Title: 2 Stock-Split Stocks to Buy Before 2025
-URL: https://biztoc.com/x/45a2e1ecadd18f5f
-Time Published: 2024-09-22T10:15:24Z
-Full Content:
-Companies that split their stocks are usually experiencing phenomenal growth that has sent their share price soaring. It's not uncommon to see a fast-growing company issue multiple stock splits over several years. For example, leading chip supplier Nvidia (NASDAQ: NVDA) has split its…
---------------------------------------------------
-
-Title: 2 Stocks That Could Soar in 2025, According to This Metric
-URL: https://biztoc.com/x/e32740c0081dca61
-Time Published: 2024-09-22T09:30:41Z
-Full Content:
-Nvidia (NASDAQ: NVDA) and Meta Platforms (NASDAQ: META) have rocketed higher this year. But these companies are benefiting from powerful trends in data center spending and digital advertising that could send their share prices to new highs in 2025.These stocks trade at relatively low…
---------------------------------------------------
-
-Title: Billionaires Are Deciding to Sell Shares of This Well-Known Stock
-URL: https://finance.yahoo.com/news/billionaires-deciding-sell-shares-well-093000344.html/
-Time Published: 2024-09-22T09:30:00Z
-Description: These big-name investors sold the AI leader before its summer swoon.
---------------------------------------------------
-
-Title: 2 Stocks That Could Soar in 2025, According to This Metric
-URL: https://finance.yahoo.com/news/2-stocks-could-soar-2025-082000217.html/
-Time Published: 2024-09-22T08:20:00Z
-Description: This valuation metric points to more upside for these tech stocks.
---------------------------------------------------
-
-Title: These S&P 500 stocks are on my watchlist for a stock market crash
-URL: https://www.fool.com.au/2024/09/22/these-sp-500-stocks-are-on-my-watchlist-for-a-stock-market-crash/
-Time Published: 2024-09-21T20:30:00Z
-Description: I'd love to load the boat with these world-class stocks. 
-The post These S&P 500 stocks are on my watchlist for a stock market crash appeared first on The Motley Fool Australia.
 --------------------------------------------------
