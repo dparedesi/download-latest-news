@@ -70,9 +70,3 @@ URL: https://finance.yahoo.com/news/3-reasons-buy-broadcom-stock-110000619.html/
 Time Published: 2024-09-21T11:00:00Z
 Description: Broadcom's custom AI chips are in high demand, and it looks like the market is just getting started.
 --------------------------------------------------
-
-Title: 3 Artificial Intelligence (AI) Stock-Split Stocks That Could Help Set You Up for Life
-URL: https://finance.yahoo.com/news/3-artificial-intelligence-ai-stock-102500881.html/
-Time Published: 2024-09-20T10:25:00Z
-Description: Stock splits are sweeping the AI sector. Here's how to take advantage.
---------------------------------------------------

@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Dow Jones Futures: Nvidia, Tesla Rival Jump Into Buy Areas With Stock Market At Bullish Levels
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-tesla-rival-jump-buy-areas-bullishlevels/
+Time Published: 2024-09-24T22:23:02Z
+Description: The S&P 500 set a closing high while the Nasdaq topped 18,000 again.
+--------------------------------------------------
+
 Title: Taiwan Semi Secures $7.5B Boost for Arizona Expansion, Aims for Advanced Chip Production: Report
 URL: https://finance.yahoo.com/news/taiwan-semi-secures-7-5b-150501068.html/
 Time Published: 2024-09-24T15:05:01Z
@@ -42,11 +48,4 @@ Title: Nvidia's CEO Just Explained Why This Is the Artificial Intelligence (AI) 
 URL: https://finance.yahoo.com/news/nvidias-ceo-just-explained-why-103000601.html/
 Time Published: 2024-09-21T10:30:00Z
 Description: Jensen Huang said this is the best company in the industry "by an incredible margin."
---------------------------------------------------
-
-Title: 1 Favorable Trend That Explains the 99% Increase in Taiwan Semiconductor's Stock Price
-URL: https://biztoc.com/x/fb848744804ff5fc
-Time Published: 2024-09-20T15:58:16Z
-Full Content:
-Shares of Taiwan Semiconductor Manufacturing (NYSE: TSM) have soared over the last year, largely due to the soaring demand for cutting-edge chips capable of handling artificial intelligence (AI) workloads and a rebound in the broader semiconductor sector.TSMC, as the company is also…
 --------------------------------------------------
