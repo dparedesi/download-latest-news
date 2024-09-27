@@ -70,9 +70,3 @@ URL: https://finance.yahoo.com/news/blackrock-inc-nyse-blk-large-140022801.html/
 Time Published: 2024-09-22T14:00:22Z
 Description: Key Insights Given the large stake in the stock by institutions, BlackRock's stock price might be vulnerable to their...
 --------------------------------------------------
-
-Title: $1.3 million Madeira home sale among the week's top property transfers
-URL: https://finance.yahoo.com/news/1-3-million-madeira-home-030035601.html/
-Time Published: 2024-09-21T03:00:35Z
-Description: Find out what property is selling for in your neighborhood
---------------------------------------------------
