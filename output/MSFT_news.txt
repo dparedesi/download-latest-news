@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: pwb-backtest added to PyPI
+URL: https://pypi.org/project/pwb-backtest/
+Time Published: 2024-09-26T07:01:01Z
+Description: A toolbox library for quant traders
+--------------------------------------------------
+
 Title: Vistra Stock Powers Higher as Analysts Lift Price Targets
 URL: https://www.investopedia.com/vistra-stock-powers-higher-as-analysts-lift-price-targets-8718392
 Time Published: 2024-09-25T21:10:59Z
