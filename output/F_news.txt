@@ -39,9 +39,3 @@ URL: https://finance.yahoo.com/news/gm-stock-drops-on-bernstein-downgrade-the-pr
 Time Published: 2024-09-23T19:05:30Z
 Description: After a steep run-up in GM stock, Bernstein analysts are warning investors to take caution.
 --------------------------------------------------
-
-Title: Elon Musk Agrees To Brazil’s Orders About X — Is There Also Hope For A Tesla Turnaround?
-URL: https://cleantechnica.com/2024/09/22/elon-musk-agrees-to-brazils-orders-about-x-is-there-also-hope-for-a-tesla-turnaround/
-Time Published: 2024-09-22T22:44:46Z
-Description: Elon Musk, CEO of X, has acquiesced to his legal team’s advice and has agreed to comply with directives from Brazil’s Supreme Court. Originally, he had refused to obey what he perceived as illegal orders to censor anti-democratic voices on his social network.…
---------------------------------------------------
