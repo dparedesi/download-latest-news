@@ -1,5 +1,23 @@
 List of news related to Costco stock price COST:
 
+Title: Why Costco Stock Was Pulling Back Today
+URL: https://finance.yahoo.com/news/why-costco-stock-pulling-back-161551798.html/
+Time Published: 2024-09-27T16:15:51Z
+Description: The retail giant's quarterly results came up a bit short on the top line.
+--------------------------------------------------
+
+Title: Costco's Latest Quarter Shows Its Business Model Continues To Work Beautifully
+URL: https://finance.yahoo.com/news/costcos-latest-quarter-shows-business-145025215.html/
+Time Published: 2024-09-27T14:50:25Z
+Description: On Thursday, Costco Wholesale Corporation (NASDAQ: COST) issued its fiscal fourth quarter earnings. While slightly coming short on revenue, the warehouse...
+--------------------------------------------------
+
+Title: Stock market today: Dow gains as Fed's favored inflation gauge cools
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-gains-as-feds-favored-inflation-gauge-cools-133048271.html/
+Time Published: 2024-09-27T13:30:48Z
+Description: The market is looking to August's PCE print to calculate whether another jumbo cut is coming.
+--------------------------------------------------
+
 Title: 5 Things to Know Before the Stock Market Opens
 URL: https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-september-27-2024-8719210
 Time Published: 2024-09-27T11:54:29Z
