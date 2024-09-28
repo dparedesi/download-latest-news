@@ -1,5 +1,24 @@
 List of news related to Costco stock price COST:
 
+Title: 5 Things to Know Before the Stock Market Opens
+URL: https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-september-27-2024-8719210
+Time Published: 2024-09-27T11:54:29Z
+Full Content:
+The Federal Reserve's preferred measure of inflation is due this morning; U.S. stock futures are steady after Thursday's jump and the S&P 500's record close; Costco Wholesale (COST) shares are slipping in premarket trading after disappointing quarterly revenue numbers; almost 1.2 million electricity customers are without power in Florida as Helene slams the state as a Category 4 hurricane; and Intel (INTC) reportedly rebuffs a bid by Arm Holdings (ARM) for its product division. Here's what investors need to know today. Market watchers will be focused on the Fed's preferred inflation measure to gauge the future path of interest rates, after last week's half-percentage-point cut signaled the central bank's view that price pressures are easing. The Personal Consumption Expenditures (PCE) index is expected to have risen 2.3% year-over-year in August, down from 2.5% in July, according to a survey of economists by Dow Jones Newswires and The Wall Street Journal, but the "core" number is expected to have risen to 2.7% from 2.6%. U.S. stock futures are little changed after major indexes surged Thursday, with the S&P 500 closing at a record high after a strong earnings report from Micron (MU) sent chip stocks sharply higher and shares of companies with exposure to the Chinese economy jumped on reports of additional government stimulus. The Nasdaq finished higher for a fourth straight session yesterday, while the Dow Jones Industrial Average inched closer to another record high of its own. Costco Wholesale (COST) shares are slipping 1% in premarket trading after the warehouse retailer's quarterly revenue missed analysts' expectations as growth slowed. The company's fiscal fourth-quarter sales growth was just 1% year-over-year, offsetting earnings that topped forecasts. Investors will be watching how higher membership fees could affect the company’s results going forward. Hurricane Helene landed in Florida as a Category 4 storm Thursday night with wind speeds of around 140 miles per hour, with about 1.2 million customers losing power in the state, according to PowerOutage.us. Helene weakened to a tropical storm as it moved farther inland over Georgia, but a "life-threatening storm surge, winds, and heavy rains continue," the National Hurricane Center said. Troubled chipmaker Intel (INTC) has rejected a bid by chip designer Arm Holdings (ARM) for its product division, Bloomberg reported late Thursday. Earlier this week, the news outlet reported that Apollo Global Management had offered to invest as much as $5 billion in Intel, days after The Wall Street Journal said that Qualcomm (QCOM) had made a "takeover approach" for it. Intel shares, which are little changed in premarket trading, are down more than 50% this year. American depositary receipts (ADRs) of Arm are edging lower.
+--------------------------------------------------
+
+Title: Stock market today: US futures tread water in wait for the Fed-favored PCE inflation print
+URL: https://finance.yahoo.com/news/live/stock-market-today-us-futures-tread-water-in-wait-for-the-fed-favored-pce-inflation-print-112227022.html/
+Time Published: 2024-09-27T11:22:27Z
+Description: The market is looking to August's PCE print to calibrate whether another jumbo cut is coming.
+--------------------------------------------------
+
+Title: Costco Stock: Buy, Sell, or Hold?
+URL: https://finance.yahoo.com/news/costco-stock-buy-sell-hold-074500894.html/
+Time Published: 2024-09-27T07:45:00Z
+Description: Up 38% this year, this Wall Street darling commands a premium valuation on Wall Street.
+--------------------------------------------------
+
 Title: We're upping our price target on Costco after another steady quarter fortifies our thesis
 URL: https://www.cnbc.com/2024/09/26/were-upping-our-price-target-on-costco-after-another-steady-quarter-fortifies-our-thesis.html
 Time Published: 2024-09-27T00:36:21Z
@@ -39,16 +58,16 @@ Description: Brian Cornell became the first external CEO hire in the history of 
 --------------------------------------------------
 
 Title: What Wall Street Analysts Think of Costco’s Stock Ahead of Earnings
+URL: https://finance.yahoo.com/news/wall-street-analysts-think-costco-205734017.html/
+Time Published: 2024-09-25T20:57:34Z
+Description: Costco Wholesale will report fiscal fourth-quarter earnings after the bell Wednesday, and analysts are projecting growth on the top and bottom lines.
+--------------------------------------------------
+
+Title: What Wall Street Analysts Think of Costco’s Stock Ahead of Earnings
 URL: https://www.investopedia.com/what-wall-street-analysts-think-of-costco-s-stock-ahead-of-earnings-8718320
 Time Published: 2024-09-25T20:57:34Z
 Full Content:
 Costco Wholesale (COST) will report fiscal fourth-quarter earnings after the closing bell Thursday, with analysts projecting growth on the top and bottom lines—but very little further appreciation for the shares. The membership-based bulk retailer has seen its stock climb about 40% this year. Of the 19 analysts tracked by Visible Alpha, 13 have a buy rating on Costco's stock. The consensus price target of $912.94 represents only a slim premium to Wednesday's close of $908.42. Costco is projected to report $2.27 billion in net income on just shy of $79.96 billion in revenue, up from $2.2 billion and $78.9 billion, respectively, a year earlier. Investors will be watching closely for the company’s first results since raising its membership price for the first time in seven years. Here’s what you need to know about Costco’s upcoming earnings report.
---------------------------------------------------
-
-Title: What Wall Street Analysts Think of Costco’s Stock Ahead of Earnings
-URL: https://finance.yahoo.com/news/wall-street-analysts-think-costco-205734017.html/
-Time Published: 2024-09-25T20:57:34Z
-Description: Costco Wholesale will report fiscal fourth-quarter earnings after the bell Wednesday, and analysts are projecting growth on the top and bottom lines.
 --------------------------------------------------
 
 Title: Grab this Costco membership Groupon deal to get a free $20 gift card

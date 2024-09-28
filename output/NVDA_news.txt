@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: Billionaires Are Selling Nvidia Stock and Buying Up This Cryptocurrency Instead
+URL: https://finance.yahoo.com/news/billionaires-selling-nvidia-stock-buying-084200567.html/
+Time Published: 2024-09-27T08:42:00Z
+Description: The only asset that can soar higher than Nvidia? Some billionaires think it could be Bitcoin.
+--------------------------------------------------
+
+Title: Cathie Wood Says Software Is the Next Big AI Opportunity -- 1 Spectacular Stock You'll Regret Not Buying if She's Right
+URL: https://finance.yahoo.com/news/cathie-wood-says-software-next-082600252.html/
+Time Published: 2024-09-27T08:26:00Z
+Description: Software could be the next frontier for companies looking to make money from artificial intelligence.
+--------------------------------------------------
+
+Title: NVIDIA Corporation (NVDA): Are Hedge Funds Bullish On This High Volume Stock Right Now?
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_04c18c7c-013d-4bb9-aebf-10f9c1949c39
+Time Published: 2024-09-27T07:34:29Z
+Description: None
+--------------------------------------------------
+
 Title: NVIDIA Corporation (NVDA) Rises After CEO Jensen Huang Confirms Full Production and Q4 Shipping of Blackwell Chips, Projecting $10 Billion in Revenue
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f3fd0e8e-7980-4b74-970a-a23191bc472a
 Time Published: 2024-09-27T04:29:11Z
@@ -150,16 +168,16 @@ The post 2 ASX ETFs to buy and hold forever in your superannuation fund appeared
 --------------------------------------------------
 
 Title: Micron Stock Pops on Strong Outlook Driven by 'Robust AI Demand'
+URL: https://finance.yahoo.com/news/micron-stock-pops-strong-outlook-215002085.html/
+Time Published: 2024-09-25T21:50:02Z
+Description: Micron Technology shares surged in extended trading Wednesday as the memory chip maker's revenue and outlook blew past expectations, driven by "robust AI...
+--------------------------------------------------
+
+Title: Micron Stock Pops on Strong Outlook Driven by 'Robust AI Demand'
 URL: https://www.investopedia.com/micron-stock-pops-on-strong-outlook-driven-by-robust-ai-demand-8718491
 Time Published: 2024-09-25T21:50:02Z
 Full Content:
 Micron Technology (MU) shares surged in extended trading Wednesday as the company's revenue and outlook blew past expectations. The memory chip maker and Nvidia (NVDA) partner swung to a profit of $887 million or 79 cents per share in the fiscal fourth quarter, from a loss of $1.43 billion or $1.31 per share a year ago. Revenue nearly doubled to $7.75 billion, topping analysts' estimates. Micron CEO Sanjay Mehrotra said the revenue gains were driven by “robust AI demand," and that the company is moving into fiscal 2025 “with the best competitive positioning in Micron's history." Micron said it expects current-quarter revenue to reach a record high between $8.5 billion to $8.9 billion, with the low end of that range above the analyst consensus. The company's projection for diluted earnings per share (EPS) of between $1.46 and $1.62 also exceeded estimates. Shares of Micron jumped more than 13% to $108.34 in extended trading Wednesday following the release.
---------------------------------------------------
-
-Title: Micron Stock Pops on Strong Outlook Driven by 'Robust AI Demand'
-URL: https://finance.yahoo.com/news/micron-stock-pops-strong-outlook-215002085.html/
-Time Published: 2024-09-25T21:50:02Z
-Description: Micron Technology shares surged in extended trading Wednesday as the memory chip maker's revenue and outlook blew past expectations, driven by "robust AI...
 --------------------------------------------------
 
 Title: Vistra Stock Powers Higher as Analysts Lift Price Targets
@@ -300,24 +318,4 @@ URL: https://www.investing.com/news/stock-market-news/alibaba-nvidia-lead-aftern
 Time Published: 2024-09-24T18:23:24Z
 Full Content:
 Tuesday's market has seen notable movements in various stocks, with mega-cap and large-cap categories experiencing significant intra-day shifts. Alibaba (NYSE:BABA) and Nvidia Corp (NASDAQ:NVDA) are among the stocks rallying, while Visa Inc (NYSE:V) has seen a downturn. Here are the day's major stock movers, providing a snapshot across market cap sizes. Mega-Cap Movers: Large-Cap Stock Movers: Mid-Cap Stock Movers: Small-Cap Stock Movers: For real-time, market-moving news join Investing Pro. This article was generated with the support of AI and reviewed by an editor. For more information see our T&C.
---------------------------------------------------
-
-Title: Top Stock Movers Now: Nvidia, Freeport-McMoRan, Visa, and More
-URL: https://www.investopedia.com/top-stock-movers-now-nvidia-freeport-mcmoran-visa-and-more-8717491
-Time Published: 2024-09-24T17:33:17Z
-Full Content:
-Major U.S. stock indexes were slightly higher at midday Tuesday after China announced a new stimulus package to boost China's economy. The S&P 500 and Dow climbed to record highs, while the Nasdaq was also in the green. U.S.-traded shares of Chinese companies and shares of U.S.-based companies with significant exposure to China surged, with Caterpillar (CAT) leading gains in the Dow. Las Vegas Sands (LVS) and Wynn Resorts (WYNN) were also higher. Shares of Freeport-McMoRan (FCX), Newmont (NEM), and other gold miners advanced as the precious metal hit another all-time high. Shares of artificial intelligence darling Nvidia (NVDA) also climbed as Morgan Stanley analysts said the chipmaker is seeing strong demand for its Hopper and Blackwell GPUs. Visa (V) shares slumped on reports U.S. regulators will file a lawsuit against the credit card company, accusing it of hurting consumers by monopolizing payment processing technology. Shares of other credit card providers dropped as well. Shares of Regeneron Pharmaceuticals (REGN) lost ground after a federal judge ruled against the biotech firm’s claim that Amgen (AMGN) infringed on the patent for its Eylea eye treatment. Amgen shares were lower as well. Oil futures climbed and the yield on the 10-year Treasury note rose. The U.S. dollar gained versus the yen, but fell to the euro and pound. Most major cryptocurrencies were lower. TradingView
---------------------------------------------------
-
-Title: Morgan Stanley: NVIDIA To Earn $10 Billion In Revenue From Blackwell Chips Alone In Q4 2024
-URL: https://wccftech.com/morgan-stanley-nvidia-to-earn-10-billion-in-revenue-from-blackwell-chips-alone-in-q4-2024/
-Time Published: 2024-09-24T16:29:29Z
-Full Content:
-This is not investment advice. The author has no position in any of the stocks mentioned. Wccftech.com has a disclosure and ethics policy. Wall Street is rapidly pivoting away from gnashing its proverbial teeth over NVIDIA's peaking margins just a few weeks back to now rushing to incorporate the Blackwell production ramp-up in its collective bullish thesis, replete with expectations of a phenomenal surge in revenue from the GPU manufacturer's latest flagship product. For the benefit of those who might not be aware, the rumors of a Blackwell architecture design flaw had dominated the narrative around NVIDIA throughout the summer, with analysts contending that the flaw's rectification would relegate the Blackwell production ramp-up to a predominantly calendar year 2025 phenomenon. Then, while announcing its earnings for the June-ending quarter, NVIDIA confirmed the rumors of a minor design flaw but noted that the shortcomings were rectified by making a few minor changes to the photomask - a specific template that is used to create bespoke patterns on semiconductor wafers. Critically, the company announced at the time that it expected to start shipping Blackwell products in the December-ending quarter, with Hopper shipments also expected to increase. $NVDA Morgan Stanley says Hopper/Blackwell demand is strong - Nvidia’s Blackwell chips are now entering volume production, with demand from major customers driving significant growth potential for the company - The Hopper H200 chips are seeing increased demand from smaller… — Kaushik (@BigBullCap) September 24, 2024 Now, Wall Street appears to be front-running NVIDIA's relatively cautious guidance by going a giant step forward. To wit, Morgan Stanley has now disclosed that it expects NVIDIA to ship 450,000 Blackwell chips in the December-ending quarter, earning ~$10 billion in revenue from this architecture alone: "Blackwell chips are expected to see 450,000 units produced in the fourth quarter of 2024, translating into a potential revenue opportunity exceeding $10 billion for NVIDIA." While Morgan Stanley concedes that NVIDIA is still in the process of resolving a few "technical challenges" with its GB200 server racks, the Wall Street titan posits a qualifier that such issues are a part of a "normal debugging process for new product launches." What's more, Morgan Stanley still sees a very healthy demand profile for NVIDIA's H200 chips, courtesy of sovereign AI projects and smaller cloud service providers continuing to expand their capacity. Subscribe to get an everyday digest of the latest technology news in your inbox Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com © 2024 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
---------------------------------------------------
-
-Title: If there’s a nuclear renaissance, here are the stocks to watch, says UBS
-URL: https://finance.yahoo.com/news/nuclear-renaissance-stocks-watch-says-130900212.html/
-Time Published: 2024-09-24T13:09:00Z
-Description: There’s genuine excitement in the air around nuclear power. Here are companies that can benefit.
 --------------------------------------------------
