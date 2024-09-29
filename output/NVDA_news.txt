@@ -1,5 +1,18 @@
 List of news related to NVIDIA NVDA:
 
+Title: These Were the 5 Biggest Companies in 1989, and Here Are the 5 Biggest Companies Now
+URL: https://finance.yahoo.com/news/were-5-biggest-companies-1989-152100930.html/
+Time Published: 2024-09-28T15:21:00Z
+Description: What's changed in 35 years?
+--------------------------------------------------
+
+Title: Nvidia's buyers, Boeing's strike, Elon Musk and Bernie Sanders on Ozempic: Business news roundup
+URL: https://qz.com/nvidia-ai-chips-boeing-strike-elon-musk-sanders-ozempic-1851659736
+Time Published: 2024-09-28T13:00:00Z
+Full Content:
+2 / 12 When Nvidia (NVDA) reported $30 billion in revenue in its second-quarter earnings results, the AI chipmaker disclosed that almost half of that came from only four customers. Read More 3 / 12 Sotheby’s — one of the world’s largest and most storied brokers of art, jewelry, and other collectibles — could be in trouble. A weakened art market and controversial business decisions by billionaire owner Patrick Drahi have left the auction house mired in debt. Read More 4 / 12 The union representing striking Boeing machinists is criticizing the company’s efforts to rally support for a contract that workers deem insufficient. The International Association of Machinists and Aerospace Workers (IAM) says that it wants to work toward an agreement at the bargaining table or nowhere. Read More 5 / 12 The largest union of maritime workers in North America is threatening to go on a full strike across the East and Gulf Coasts, which could devastate the U.S. economy if a deal isn’t reached by early next week. Read More 6 / 12 Google (GOOGL) has reportedly paid $2.7 billion to acquire a chatbot that allows you to talk to AI versions of celebrities. The whopping sum, however, also brings in the company’s top employees — including a former Googler. Read More 7 / 12 Nvidia (NVDA) chief executive Jensen Huang is $2.3 billion richer thanks to a recent bump in Nvidia stock. Shares of the chip giant were up more than 2% in pre-market trading, after closing up about 2% at $123.51 apiece Wednesday. The uptick in the company’s stock brought its market capitalization back above $3 trillion, recovering ground from recent losses and bringing Nvidia back into the coveted club. Read More 8 / 12 Vice President Kamala Harris on Wednesday outlined her $100 billion plan to boost U.S. manufacturing and take on China while helping middle-class Americans. Read More 9 / 12 The health benefits of blockbuster weight loss drugs are bridging the stark political divide in the United States. Progressive Sen. Bernie Sanders of Vermont said on Tuesday, in a Senate committee hearing on high anti-obesity drug prices, that he agreed with Elon Musk, a supporter of Former President Donald Trump, when it comes to expanding access to GLP-1 weight loss drugs. Read More 10 / 12 Here’s a look at the world’s top 15 cities for startups, their deal values, and their deal counts 11 / 12 The pharmaceutical company is developing weight loss drugs by targeting “the biology of human aging” 12 / 12
+--------------------------------------------------
+
 Title: My Favorite "Magnificent Seven" Stocks to Buy Now (Hint: Nvidia's Not One)
 URL: https://finance.yahoo.com/news/favorite-magnificent-seven-stocks-buy-110000601.html/
 Time Published: 2024-09-28T11:00:00Z
@@ -257,16 +270,16 @@ The post 2 ASX ETFs to buy and hold forever in your superannuation fund appeared
 --------------------------------------------------
 
 Title: Micron Stock Pops on Strong Outlook Driven by 'Robust AI Demand'
+URL: https://finance.yahoo.com/news/micron-stock-pops-strong-outlook-215002085.html/
+Time Published: 2024-09-25T21:50:02Z
+Description: Micron Technology shares surged in extended trading Wednesday as the memory chip maker's revenue and outlook blew past expectations, driven by "robust AI...
+--------------------------------------------------
+
+Title: Micron Stock Pops on Strong Outlook Driven by 'Robust AI Demand'
 URL: https://www.investopedia.com/micron-stock-pops-on-strong-outlook-driven-by-robust-ai-demand-8718491
 Time Published: 2024-09-25T21:50:02Z
 Full Content:
 Micron Technology (MU) shares surged in extended trading Wednesday as the company's revenue and outlook blew past expectations. The memory chip maker and Nvidia (NVDA) partner swung to a profit of $887 million or 79 cents per share in the fiscal fourth quarter, from a loss of $1.43 billion or $1.31 per share a year ago. Revenue nearly doubled to $7.75 billion, topping analysts' estimates. Micron CEO Sanjay Mehrotra said the revenue gains were driven by “robust AI demand," and that the company is moving into fiscal 2025 “with the best competitive positioning in Micron's history." Micron said it expects current-quarter revenue to reach a record high between $8.5 billion to $8.9 billion, with the low end of that range above the analyst consensus. The company's projection for diluted earnings per share (EPS) of between $1.46 and $1.62 also exceeded estimates. Shares of Micron jumped more than 13% to $108.34 in extended trading Wednesday following the release.
---------------------------------------------------
-
-Title: Micron Stock Pops on Strong Outlook Driven by 'Robust AI Demand'
-URL: https://finance.yahoo.com/news/micron-stock-pops-strong-outlook-215002085.html/
-Time Published: 2024-09-25T21:50:02Z
-Description: Micron Technology shares surged in extended trading Wednesday as the memory chip maker's revenue and outlook blew past expectations, driven by "robust AI...
 --------------------------------------------------
 
 Title: Vistra Stock Powers Higher as Analysts Lift Price Targets
@@ -305,17 +318,4 @@ URL: https://www.investing.com/news/stock-market-news/energy-giants-chevron-exxo
 Time Published: 2024-09-25T18:51:11Z
 Full Content:
 Wednesday's trading session is witnessing notable fluctuations among stocks across the board, with energy behemoths Chevron (NYSE:CVX) and Exxon Mobil (NYSE:XOM) experiencing declines, while NVIDIA (NASDAQ:NVDA), Duolingo (DUOL) and Vistra Energy Corp (NYSE:VST) enjoy gains. Here's a look at some of the significant intra-day stock movements, focusing on the mega-cap and large-cap categories. Mega-Cap Movers: - NVIDIA (NVDA): +2.1%; shares continue to gain as the CEO is done selling stock for now Large-Cap Stock Movers: Mid-Cap Stock Movers: Small-Cap Stock Movers: For real-time, market-moving news join Investing Pro. This article was generated with the support of AI and reviewed by an editor. For more information see our T&C.
---------------------------------------------------
-
-Title: Micron stock jumps as Q1 revenue forecast tops analyst estimates
-URL: https://finance.yahoo.com/news/micron-stock-jumps-as-q1-revenue-forecast-tops-analyst-estimates-172951187.html/
-Time Published: 2024-09-25T17:29:51Z
-Description: Investors reacted to the chipmaker's higher-than-expected first quarter revenue guidance of $8.5 billion to $8.9 billion, above the $8.3 billion analysts...
---------------------------------------------------
-
-Title: Nvidia stock is stuck in a rut. But it's still up huge for the year
-URL: https://qz.com/nvidia-stock-down-summer-high-market-cap-3-trillion-1851657249
-Time Published: 2024-09-25T17:03:30Z
-Full Content:
-Ever since shares of Nvidia (NVDA) reached an all-time high in June, the chipmaker’s stock has experienced some turbulence — but its market cap is still up over 150% so far this year. Nvidia’s shares were up 2.37% during mid-day trading Monday at $123.73 per share — down around 9% from its record-high close price of $135.58 on June 18, days after it initiated a 10-for-1 stock split. Still, the chipmaker’s shares have climbed around 156.86% so far this year, boosting its market cap just above $3 trillion and making it the third-most valuable company in the world. Compared with a year ago, Nvidia’s stock is up over 190%. The company has been one of the biggest winners of the generative artificial intelligence boom due to high demand for its Hopper graphics processing units, or GPUs, which are used for training and inferencing of some of the world’s most powerful AI models. Meanwhile, samples of Nvidia’s latest AI platform, Blackwell, are shipping to customers, and the product is expected to ramp up in the fourth quarter into fiscal year 2026. In August, reports that Blackwell was delayed due to design flaws sent Nvidia’s shares down. In June, Nvidia briefly surpassed Apple in total market cap and crossed the $3 trillion threshold for the first time. Just weeks later, it overtook both Apple and Microsoft to become the world’s most valuable public company. Despite falling back into third place, Nvidia remains the most valuable semiconductor company in the world. In February, it became the first semiconductor company to reach a $2 trillion valuation after reporting record fourth-quarter earnings. However, despite reporting another record quarter that beat Wall Street’s expectations, Nvidia’s shares slipped in August, reflecting unimpressed investors who want more from the chipmaker. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
 --------------------------------------------------
