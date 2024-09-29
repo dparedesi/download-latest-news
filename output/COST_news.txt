@@ -76,16 +76,16 @@ Description: Brian Cornell became the first external CEO hire in the history of 
 --------------------------------------------------
 
 Title: What Wall Street Analysts Think of Costco’s Stock Ahead of Earnings
-URL: https://finance.yahoo.com/news/wall-street-analysts-think-costco-205734017.html/
-Time Published: 2024-09-25T20:57:34Z
-Description: Costco Wholesale will report fiscal fourth-quarter earnings after the bell Wednesday, and analysts are projecting growth on the top and bottom lines.
---------------------------------------------------
-
-Title: What Wall Street Analysts Think of Costco’s Stock Ahead of Earnings
 URL: https://www.investopedia.com/what-wall-street-analysts-think-of-costco-s-stock-ahead-of-earnings-8718320
 Time Published: 2024-09-25T20:57:34Z
 Full Content:
 Costco Wholesale (COST) will report fiscal fourth-quarter earnings after the closing bell Thursday, with analysts projecting growth on the top and bottom lines—but very little further appreciation for the shares. The membership-based bulk retailer has seen its stock climb about 40% this year. Of the 19 analysts tracked by Visible Alpha, 13 have a buy rating on Costco's stock. The consensus price target of $912.94 represents only a slim premium to Wednesday's close of $908.42. Costco is projected to report $2.27 billion in net income on just shy of $79.96 billion in revenue, up from $2.2 billion and $78.9 billion, respectively, a year earlier. Investors will be watching closely for the company’s first results since raising its membership price for the first time in seven years. Here’s what you need to know about Costco’s upcoming earnings report.
+--------------------------------------------------
+
+Title: What Wall Street Analysts Think of Costco’s Stock Ahead of Earnings
+URL: https://finance.yahoo.com/news/wall-street-analysts-think-costco-205734017.html/
+Time Published: 2024-09-25T20:57:34Z
+Description: Costco Wholesale will report fiscal fourth-quarter earnings after the bell Wednesday, and analysts are projecting growth on the top and bottom lines.
 --------------------------------------------------
 
 Title: Grab this Costco membership Groupon deal to get a free $20 gift card
@@ -113,16 +113,4 @@ URL: https://www.investing.com/news/company-news/costco-shares-downgraded-to-hol
 Time Published: 2024-09-24T10:29:40Z
 Full Content:
 On Tuesday, Truist Securities adjusted its stance on Costco Wholesale (NASDAQ:COST), moving from a Buy rating to Hold. The firm has set a price target for Costco at $873.00. The downgrade reflects a cautious view on the stock's current valuation despite the company's strong market position and its success in gaining market share across various retail segments. According to Truist Securities, Costco has established significant barriers to entry in the retail sector and continues to exhibit robust business performance. "However, some changes like the shift towards scanning IDs on entry and packaging changes to their chickens could add some sls headwinds, key catalysts are in the rearview mirror and the stock's valuation leaves little room for error," said Truist analysts in a note to cients. Additionally, Truist Securities notes that while Costco's stock has seen substantial growth, increasing by approximately 60% over the past 12 months compared to the S&P 500's 30% gain, the stock is now trading at around 54 times forward twelve-month earnings per share (EPS), which is considered a multi-decade high. The analysts from Truist Securities stated, "The business remains strong, it is gaining share vs. virtually all classes of trade and likely has the highest barriers to entry in all of retail, in our view." Despite this, the firm suggests that the major catalysts for Costco's stock performance have already occurred. In other recent news, Costco Wholesale Corp (NASDAQ:COST) has made significant updates to its bylaws, introducing a cure process for shareholder director nominations. This move is part of a larger effort to refine the company's corporate governance practices and enhance communication with shareholders. Costco has seen considerable analyst activity and strong sales growth. Redburn-Atlantic revised its rating from "Buy" to "Neutral," citing concerns over the stock's valuation, despite raising the price target to $890. Oppenheimer, Stifel, and Baird maintained positive ratings, with Oppenheimer and Stifel raising their price targets to $955 and $915 respectively, due to robust sales growth and positive earnings estimates. Costco reported a 6.7% rise in U.S. comparable sales and a significant 23.3% growth in consolidated e-commerce sales. The company's non-foods category experienced a low double-digit increase, contributing to the robust performance. Baird maintained an Outperform rating with a consistent price target of $975, emphasizing Costco's steady global core comparable sales and a slight increase in its fourth-quarter earnings per share forecast. As investors digest the cautious stance from Truist Securities on Costco Wholesale (NASDAQ:COST), a glance at the real-time data from InvestingPro provides additional context for the stock's current valuation. Costco holds a significant market capitalization of $406.57 billion, with a high Price/Earnings (P/E) ratio of 56.7, which aligns with Truist's concerns about the stock trading at a multi-decade high earnings multiple. Despite the high valuation, Costco's revenue growth remains robust, with a 7.75% increase over the last twelve months as of Q3 2024. From an operational standpoint, Costco's gross profit margin stands at 12.5%, a figure that may raise some eyebrows considering the InvestingPro Tip that highlights the company's weak gross profit margins. However, investors might find solace in the company's ability to maintain dividend payments for 21 consecutive years, coupled with a strong return over the last year, which could signal a continued commitment to shareholder returns despite the high valuation metrics. For those seeking more detailed analysis, InvestingPro offers additional tips, including insights on Costco's cash flow capabilities and its position within the Consumer Staples Distribution & Retail industry. With 17 more InvestingPro Tips available, investors can further evaluate the company's financial health and market position by visiting the dedicated InvestingPro page for Costco at https://www.investing.com/pro/COST. This article was generated with the support of AI and reviewed by an editor. For more information see our T&C.
---------------------------------------------------
-
-Title: 4 Bulletproof Dividend Growth Stocks I'd Love to Buy After a Dip in Price
-URL: https://finance.yahoo.com/news/4-bulletproof-dividend-growth-stocks-104500574.html/
-Time Published: 2024-09-23T10:45:00Z
-Description: With all due respect to current shareholders, I'd love a nice dip in price from any of these top-tier operators.
---------------------------------------------------
-
-Title: 3 Pitfalls of Shopping at Costco Everyone Should Know About
-URL: https://finance.yahoo.com/news/3-pitfalls-shopping-costco-everyone-090038977.html/
-Time Published: 2024-09-23T09:00:38Z
-Description: Shopping at Costco isn't without its downsides. Here are three pitfalls you might encounter.
 --------------------------------------------------
