@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: My Favorite "Magnificent Seven" Stocks to Buy Now (Hint: Nvidia's Not One)
+URL: https://finance.yahoo.com/news/favorite-magnificent-seven-stocks-buy-110000601.html/
+Time Published: 2024-09-28T11:00:00Z
+Description: Not all the "Magnificent Seven" stocks are strong buys right now.
+--------------------------------------------------
+
+Title: Why China stocks are now a buy for U.S. investors
+URL: https://finance.yahoo.com/news/why-china-stocks-now-buy-092200069.html/
+Time Published: 2024-09-28T09:22:00Z
+Description: Unusual action for the S 500, a hot bond market and interviews with acting HUD secretary and AT’s chief operating officer
+--------------------------------------------------
+
+Title: Will Nvidia Stock Drop as Much as Supermicro? 3 Points to Consider.
+URL: https://finance.yahoo.com/news/nvidia-stock-drop-much-supermicro-090300308.html/
+Time Published: 2024-09-28T09:03:00Z
+Description: Nvidia has some advantages over its troubled partner.
+--------------------------------------------------
+
 Title: Why Nvidia stock could soar over 500% by the end of the decade, former consulting exec says
 URL: https://finance.yahoo.com/news/why-nvidia-stock-could-soar-232147803.html/
 Time Published: 2024-09-27T23:21:47Z
@@ -300,22 +318,4 @@ URL: https://qz.com/nvidia-stock-down-summer-high-market-cap-3-trillion-18516572
 Time Published: 2024-09-25T17:03:30Z
 Full Content:
 Ever since shares of Nvidia (NVDA) reached an all-time high in June, the chipmaker’s stock has experienced some turbulence — but its market cap is still up over 150% so far this year. Nvidia’s shares were up 2.37% during mid-day trading Monday at $123.73 per share — down around 9% from its record-high close price of $135.58 on June 18, days after it initiated a 10-for-1 stock split. Still, the chipmaker’s shares have climbed around 156.86% so far this year, boosting its market cap just above $3 trillion and making it the third-most valuable company in the world. Compared with a year ago, Nvidia’s stock is up over 190%. The company has been one of the biggest winners of the generative artificial intelligence boom due to high demand for its Hopper graphics processing units, or GPUs, which are used for training and inferencing of some of the world’s most powerful AI models. Meanwhile, samples of Nvidia’s latest AI platform, Blackwell, are shipping to customers, and the product is expected to ramp up in the fourth quarter into fiscal year 2026. In August, reports that Blackwell was delayed due to design flaws sent Nvidia’s shares down. In June, Nvidia briefly surpassed Apple in total market cap and crossed the $3 trillion threshold for the first time. Just weeks later, it overtook both Apple and Microsoft to become the world’s most valuable public company. Despite falling back into third place, Nvidia remains the most valuable semiconductor company in the world. In February, it became the first semiconductor company to reach a $2 trillion valuation after reporting record fourth-quarter earnings. However, despite reporting another record quarter that beat Wall Street’s expectations, Nvidia’s shares slipped in August, reflecting unimpressed investors who want more from the chipmaker. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
---------------------------------------------------
-
-Title: You.com founder talks the future of AI: Opening Bid
-URL: https://finance.yahoo.com/video/com-founder-talks-future-ai-123000892.html/
-Time Published: 2024-09-25T12:30:00Z
-Description: In the rapidly evolving landscape of artificial intelligence, 2024 is set to usher in a new era of AI agents collaborating with humans to enhance business...
---------------------------------------------------
-
-Title: Dow Jones Futures: Techs, China Stocks Fall; Nvidia, Tesla Rival In Buy Areas
-URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-stocks-fall-nvidia-tesla-rival-in-buy-areas/
-Time Published: 2024-09-25T11:14:02Z
-Description: The S&P 500 set a closing high while the Nasdaq topped 18,000 again.
---------------------------------------------------
-
-Title: Got $3,000? 2 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term
-URL: https://finance.yahoo.com/news/got-3-000-2-artificial-103200463.html/
-Time Published: 2024-09-25T10:32:00Z
-Description: These AI stocks have delivered terrific returns so far in 2024, and they still have room to climb.
 --------------------------------------------------
