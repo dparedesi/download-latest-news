@@ -1,5 +1,36 @@
 List of news related to NVIDIA NVDA:
 
+Title: If You Bought 1 Share of Nvidia at Its IPO, Here's How Many Shares You Would Own Now
+URL: https://finance.yahoo.com/news/bought-1-share-nvidia-ipo-223100016.html/
+Time Published: 2024-09-28T22:31:00Z
+Description: The chipmaker has created a veritable windfall for investors.
+--------------------------------------------------
+
+Title: Should You Sell Nvidia; Buy China? That's What This Billionaire Investor Is Doing
+URL: https://finance.yahoo.com/news/sell-nvidia-buy-china-thats-223000736.html/
+Time Published: 2024-09-28T22:30:00Z
+Description: Rotating out of Nvidia is becoming popular among billionaires.
+--------------------------------------------------
+
+Title: Meet the 3 Supercharged Growth Stocks That Will Be Worth $4 Trillion by 2025, According to 1 Wall Street Analyst
+URL: https://finance.yahoo.com/news/meet-3-supercharged-growth-stocks-220100848.html/
+Time Published: 2024-09-28T22:01:00Z
+Description: Some investors are wondering which company will reach a $4 trillion valuation first. They might be missing the forest for the trees.
+--------------------------------------------------
+
+Title: Super Micro: Assessing the Potential Risk and Reward
+URL: https://finance.yahoo.com/news/super-micro-assessing-potential-risk-204318477.html
+Time Published: 2024-09-28T20:43:18Z
+Full Content:
+Super Micro Computer (SMCI) got off to an incredible start this year as shares more than quadrupled from January to mid-March. This surge made Super Micro eligible for S&P 500 inclusion, with the technology hardware stock (with links to AI) being added to the index on March 18, 2024. In hindsight, that would have been a great time to take profits or Short the stock, as shares are down by more than 50% since then. One of the major developments has been the report by Hindenburg Research, which contained worrying allegations about the company’s financial reporting. In assessing those allegations along with Super Micro’s fundamentals I hold a neutral rating on the stock. The Hindenburg report is actually the main reason I am neutral instead of bullish on SMCI stock, and I believe it has caused hesitancy among many AI stock analysts and investors. The accusations are pretty straightforward. According to Hindenburg, Super Micro engaged in accounting manipulation which included “sibling self-dealing and evading sanctions”. Anyone who thinks this sounds far fetched may wish to remember that the SEC charged Super Micro with widespread accounting violations in August 2020. Hindenburg’s report also argued that most of the people involved with that accounting malpractice are back on Super Micro’s team. Hindenburg’s team interviewed several Super Micro salespeople and employees when compiling their report. It doesn’t help that Super Micro delayed its 10-K filing to assess internal controls shortly after Hindenburg went public with its concerns. While this might simply be a coincidence, the timing is worrisome. Looking back several years, Super Micro had failed to file financial statements in 2018 and was briefly delisted from the Nasdaq as a result. Near the beginning of this month, Super Micro publicly issued a denial of the accusations, with CEO Charles Liang hitting back, stating that Hindenburg’s report contained, “misleading presentations of information”. Super Micro hasn’t provided any additional statements since then. Super Micro’s status as part of the fast moving world of AI is one of the few reasons that I am neutral instead of bearish SMCI stock. The exciting prospects for the company’s business and the serious nature of the Hindenburg allegations basically offset each other. It’s hard to know what’s real and what’s false here, but most people concede that the AI industry as a whole offers compelling growth prospects. Nvidia (NVDA) has been posting triple-digit year-over-year revenue growth for several quarters. Other tech giants have incorporated artificial intelligence into their core businesses and delivered impressive results for their shareholders. For instance, Alphabet (GOOGL) saw its cloud revenue rise by 28.8% year-over-year as many businesses rushed to create their own AI tools. The artificial intelligence industry is also projected to maintain a 19.3% compounded annual growth rate from now until 2034, according to Precedence Research. The AI industry should continue to grow, and that should lift Super Micro. The company should benefit from Nvidia’s growth, which is why the company posted exceptional revenue and net income growth during Nvidia’s ascent. That’s what we saw for several quarters. We just don’t know how accurate all the numbers were, if the allegations targeting the firm have merit. While it’s impossible to overlook Hindenburg’s allegations against Super Micro, it’s still worthwhile assessing the company’s previous quarterly results. Shares were dropping even before Hindenburg released its report. While in March 2024 I argued that SMCI stock faced risks, I felt that shares presented a tremendous buying opportunity in late-summer, until Hindenburg muddied that optimism. For its last reported quarter, Super Micro posted net sales of $5.31 billion, representing a 143% year-over-year jump. Meanwhile, net income rose by 82% year-over-year, reaching $353 million. At the time of the release, my primary concern was Super Micro’s declining net profit margin. Super Micro currently trades at a 20x trailing P/E ratio, seemingly enough to compensate for any further erosion in profit margins. SMCI stock has a ridiculously low 13.6x forward P/E ratio, but with the recent speedbumps (the Hindenburg report and DOJ investigation) investors seems reluctant to bid the valuation multiple any higher right now. We don’t yet have tangible proof that Super Micro has engaged in any wrongdoing, as alleged by Hindenburg. Their report, however, has certainly cast a black eye on the stock. I expect that Super Micro would have significantly outperformed its fiscal 2023 results even excluding any misdealings. The Super Micro controversy added a new chapter on September 26, as news crossed the wires that the U.S. Department of Justice is now probing the company. SMCI stock tumbled an additional 12% on this news, and shares were recently trading at less than one-third of their all time high in March. There’s a high risk/reward on the shares at this point, but the elevated risks have relegated me to the sidelines with a neutral rating. Super Micro shares bounced back by more than 4% on Friday, September 27, suggesting that many investors believe that the long-term potential for the business is worth the heightened uncertainty. Although the ratings for this stock could change quickly, Super Micro currently has 2 Buy ratings, 10 Hold ratings, and 1 Sell rating from the 13 analysts that cover the stock. The average price target for SMCI is $613.92, which implies potential upside of nearly 50%. Again though, it’s quite possible that several research brokerages have placed their SMCI ratings under review. SMCI stock does have a few low price targets including $454, $375 and $325 from CFRA, Wells Fargo (WFC), and Susquehanna respectively. All of these price targets were established before the DOJ probe was announced, so even they could drop lower. There’s an old adage that suggests, “You either die a hero or live long enough to be the villain”. That quote seems apropos for this company. Super Micro earned many investors hefty profits during its rise above a stock price of $1,000 per share. Those who entered the story late, including after SMCI stock was added to the S&P 500, have not fared well. Many investors are sitting on significant losses right now. Depending on what those investors do, it’s hard to tell how much more downside Super Micro shares may have until more clarity on the ordeals is available. If the company’s recent financials are accurate, SMCI shares look quite attractive here. Shares can surge quickly if the Hindenburg report loses relevance, although that outcome difficult to predict. I’m a big fan of Super Micro’s industry and business potential related to AI, which prevents me from being downright bearish. I have a neutral stance here. Meanwhile, I don’t expect shares of SMCI to rebound above $460 (the approximate price prior to news of the DOJ probe) without any resolution to the two main threats to shareholder value. Disclosure Sign in to access your portfolio
+--------------------------------------------------
+
+Title: Nvidia Stock (NVDA) Is Still a Long-Term Winner, No Matter the Noise
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a0088e70-bc07-48e1-851b-d6623aaf07c3
+Time Published: 2024-09-28T18:40:19Z
+Description: None
+--------------------------------------------------
+
 Title: These Were the 5 Biggest Companies in 1989, and Here Are the 5 Biggest Companies Now
 URL: https://finance.yahoo.com/news/were-5-biggest-companies-1989-152100930.html/
 Time Published: 2024-09-28T15:21:00Z
@@ -270,16 +301,16 @@ The post 2 ASX ETFs to buy and hold forever in your superannuation fund appeared
 --------------------------------------------------
 
 Title: Micron Stock Pops on Strong Outlook Driven by 'Robust AI Demand'
-URL: https://finance.yahoo.com/news/micron-stock-pops-strong-outlook-215002085.html/
-Time Published: 2024-09-25T21:50:02Z
-Description: Micron Technology shares surged in extended trading Wednesday as the memory chip maker's revenue and outlook blew past expectations, driven by "robust AI...
---------------------------------------------------
-
-Title: Micron Stock Pops on Strong Outlook Driven by 'Robust AI Demand'
 URL: https://www.investopedia.com/micron-stock-pops-on-strong-outlook-driven-by-robust-ai-demand-8718491
 Time Published: 2024-09-25T21:50:02Z
 Full Content:
 Micron Technology (MU) shares surged in extended trading Wednesday as the company's revenue and outlook blew past expectations. The memory chip maker and Nvidia (NVDA) partner swung to a profit of $887 million or 79 cents per share in the fiscal fourth quarter, from a loss of $1.43 billion or $1.31 per share a year ago. Revenue nearly doubled to $7.75 billion, topping analysts' estimates. Micron CEO Sanjay Mehrotra said the revenue gains were driven by “robust AI demand," and that the company is moving into fiscal 2025 “with the best competitive positioning in Micron's history." Micron said it expects current-quarter revenue to reach a record high between $8.5 billion to $8.9 billion, with the low end of that range above the analyst consensus. The company's projection for diluted earnings per share (EPS) of between $1.46 and $1.62 also exceeded estimates. Shares of Micron jumped more than 13% to $108.34 in extended trading Wednesday following the release.
+--------------------------------------------------
+
+Title: Micron Stock Pops on Strong Outlook Driven by 'Robust AI Demand'
+URL: https://finance.yahoo.com/news/micron-stock-pops-strong-outlook-215002085.html/
+Time Published: 2024-09-25T21:50:02Z
+Description: Micron Technology shares surged in extended trading Wednesday as the memory chip maker's revenue and outlook blew past expectations, driven by "robust AI...
 --------------------------------------------------
 
 Title: Vistra Stock Powers Higher as Analysts Lift Price Targets
@@ -287,35 +318,4 @@ URL: https://www.investopedia.com/vistra-stock-powers-higher-as-analysts-lift-pr
 Time Published: 2024-09-25T21:10:59Z
 Full Content:
 Shares of Texas-based power generator Vistra (VST) surged nearly 6% higher on Wednesday, the largest daily gain of any S&P 500 stock. Vistra is no stranger to market-leading upticks, having surpassed Nvidia (NVDA) as the top-performing stock in the benchmark index this year. Despite the run-up in Vistra's stock price in 2024, several investment firms suggested there could be more upside potential for shares of the utility company. In research notes published this week, Jefferies boosted its price target on Vistra shares to $137 from $99, while Morgan Stanley lifted its target on the stock to $132 from $110. Analysts described catalysts that could help Vistra stock extend its march higher. Jefferies pointed to the firm's acquisition last week of the remaining 15% noncontrolling interest in its Vistra Vision subsidiary, which includes nuclear generation facilities as well other renewable and energy-storage assets. Analysts equated the Vision deal to buying back shares at a discount. The report from Jefferies also focused on the recent announcement from fellow electricity generator Constellation Energy (CEG) that it will restart a shuttered nuclear plant to provide power to Microsoft (MSFT) data centers. The analyst team believes the deal "confirms and expands" their thesis that Vistra stands to benefit from data-center opportunities, while the terms of the 20-year power purchase agreement (PPA) between Constellation and the software giant set a precedent for lucrative agreements in the future. So far in 2024, Vistra shares have more than tripled in value.
---------------------------------------------------
-
-Title: Is NVIDIA Corporation (NVDA) the Best Stock To Buy Right Now According To Billionaire Cliff Asness?
-URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-best-stock-210800515.html/
-Time Published: 2024-09-25T21:08:00Z
-Description: We recently compiled a list of 10 Best Stocks To Buy Right Now According To Billionaire Cliff Asness. In this article, we will look at where NVIDIA...
---------------------------------------------------
-
-Title: MGM Resorts International (MGM): Balancing Las Vegas Dominance with Macao’s Rebound
-URL: https://finance.yahoo.com/news/mgm-resorts-international-mgm-balancing-204919344.html/
-Time Published: 2024-09-25T20:49:19Z
-Description: We recently published a list of 10 Best Hotel Stocks To Buy Now. In this article, we are going to take a look at where MGM Resorts International (NYSE:MGM...
---------------------------------------------------
-
-Title: Breaking down Intel’s wild week
-URL: https://finance.yahoo.com/news/breaking-down-intels-wild-week-204638857.html/
-Time Published: 2024-09-25T20:46:38Z
-Description: Intel has had quite a wild week. And it might not slow down anytime soon.
---------------------------------------------------
-
-Title: Nvidia stock edges up as industry report predicts 'unprecedented levels' of investment in AI data centers
-URL: https://finance.yahoo.com/news/nvidia-stock-edges-up-as-industry-report-predicts-unprecedented-levels-of-investment-in-ai-data-centers-172648847.html/
-Time Published: 2024-09-25T20:01:02Z
-Description: Nvidia stock rose on Wednesday following a bullish industry report on AI spending.
---------------------------------------------------
-
-Title: Energy giants Chevron, Exxon slip among Wednesday's afternoon market cap stock movers
-URL: https://www.investing.com/news/stock-market-news/energy-giants-chevron-exxon-slip-among-wednesdays-afternoon-market-cap-stock-movers-93CH-3632740
-Time Published: 2024-09-25T18:51:11Z
-Full Content:
-Wednesday's trading session is witnessing notable fluctuations among stocks across the board, with energy behemoths Chevron (NYSE:CVX) and Exxon Mobil (NYSE:XOM) experiencing declines, while NVIDIA (NASDAQ:NVDA), Duolingo (DUOL) and Vistra Energy Corp (NYSE:VST) enjoy gains. Here's a look at some of the significant intra-day stock movements, focusing on the mega-cap and large-cap categories. Mega-Cap Movers: - NVIDIA (NVDA): +2.1%; shares continue to gain as the CEO is done selling stock for now Large-Cap Stock Movers: Mid-Cap Stock Movers: Small-Cap Stock Movers: For real-time, market-moving news join Investing Pro. This article was generated with the support of AI and reviewed by an editor. For more information see our T&C.
 --------------------------------------------------
