@@ -1,5 +1,18 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: TikTok's owner is reportedly developing an AI model with Huawei's chips
+URL: https://qz.com/tiktok-owner-bytedance-develop-ai-model-huawei-chips-1851660657
+Time Published: 2024-09-30T15:39:00Z
+Full Content:
+As the U.S. escalates export controls on China, TikTok’s owner is reportedly planning to use a homegrown chipmaker for an artificial intelligence model it’s developing. ByteDance is planning to build an AI model using chips from Huawei, Reuters reported, citing three unnamed people familiar with the matter. The company wants to use Huawei’s Ascend 910B chips to train the model, the people said. ByteDance has reportedly ordered over 100,000 of Huawei’s chips, but, as of July, has received less than 30,000 of them. One person told Reuters the model under development is expected to be less powerful than ByteDance’s Doubao model, which was released last August. “The entire premise here is wrong,” a spokesperson for ByteDance said in a statement shared with Quartz. “No new AI model is being developed.” Huawei did not immediately respond to a request for comment. The company’s Ascend 910B chip is used for less intense AI model inferencing, people told Reuters, but training requires more compute power, and therefore, more advanced chips. And Huawei was reportedly having a hard time increasing production of the Ascend 910B — China’s best alternative to Nvidia’s (NVDA) chips that cannot be sold to Chinese customers under U.S. trade restrictions. The chip fabrication machines Huawei uses to produce the advanced chips are designed for older generations of chips, The Information reported, and repurposing them was causing certain components to break down. Since the U.S. began implementing trade restrictions on advanced chips, including those designed by Nvidia, in 2022, ByteDance has sought chips from Chinese companies, and worked on developing its own. ByteDance has designed two chips with Taiwan Semiconductor Manufacturing Company (TSM) that it plans to mass produce by 2026, The Information reported. The Chinese government, meanwhile, is encouraging tech companies to buy AI chips from local companies, and become less dependent on Nvidia, Bloomberg reported. Nvidia has developed three AI chips for the Chinese market in compliance with export controls, including the H20, which ByteDance has ordered hundreds of thousands of. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
+--------------------------------------------------
+
+Title: Dow Jones Falls Ahead Of Powell Speech; Nvidia Falls, Tesla Reverses Higher
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-powell-speech-nvidia-stock-nvda-tsla/
+Time Published: 2024-09-30T13:48:46Z
+Description: Nvidia and Tesla led the stock market lower Monday morning,
+--------------------------------------------------
+
 Title: Taiwan Semiconductor Manufacturing Company (TSM) Reports Strong August Sales, Considers Mega Chip Factory Partnership with Samsung in UAE
 URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-tsm-074829732.html
 Time Published: 2024-09-30T07:48:29Z
@@ -43,15 +56,15 @@ Time Published: 2024-09-27T02:23:40Z
 Description: None
 --------------------------------------------------
 
-Title: Micron's Post-Earnings Pop Leads Other Chip Stocks Higher
-URL: https://www.investopedia.com/micron-s-post-earnings-pop-leads-other-chip-stocks-higher-8718665
+Title: Micron's Post-Earnings Pop Leads Nvidia and Other Chip Stocks Higher
+URL: https://www.investopedia.com/micron-post-earnings-pop-leads-nvidia-and-other-chip-stocks-higher-8718665
 Time Published: 2024-09-26T12:02:33Z
 Full Content:
 Micron Technology (MU) shares surged Thursday after the memory chip maker's revenue and outlook blew past expectations, leading Nvidia (NVDA) and other semiconductor stocks higher. Shares of Micron were up over 12% in intraday trading, while shares of partner Nvidia (NVDA) also gained before reversing course. Advanced Micro Devices (AMD), Broadcom (AVGO), and Taiwan Semiconductor Manufacturing Company (TSM) rose as well, boosting the tech-heavy Nasdaq. Nvidia, Micron, and other chip companies have seen their revenue and stock prices climb amid a boom in demand for infrastructure to support artificial intelligence (AI). Micron CEO Sanjay Mehrotra said Wednesday the company's fiscal fourth-quarter sales nearly doubled from a year ago to $7.75 billion, driven by "robust AI demand." Mehrotra also said the company's sales are expected to continue growing, projecting current-quarter revenue could reach a record high between $8.5 billion to $8.9 billion. UPDATE—Sept. 26, 2024: This article has been updated to reflect more recent share price information.
 --------------------------------------------------
 
-Title: Micron's Post-Earnings Pop Leads Nvidia and Other Chip Stocks Higher
-URL: https://www.investopedia.com/micron-post-earnings-pop-leads-nvidia-and-other-chip-stocks-higher-8718665
+Title: Micron's Post-Earnings Pop Leads Other Chip Stocks Higher
+URL: https://www.investopedia.com/micron-s-post-earnings-pop-leads-other-chip-stocks-higher-8718665
 Time Published: 2024-09-26T12:02:33Z
 Full Content:
 Micron Technology (MU) shares surged Thursday after the memory chip maker's revenue and outlook blew past expectations, leading Nvidia (NVDA) and other semiconductor stocks higher. Shares of Micron were up over 12% in intraday trading, while shares of partner Nvidia (NVDA) also gained before reversing course. Advanced Micro Devices (AMD), Broadcom (AVGO), and Taiwan Semiconductor Manufacturing Company (TSM) rose as well, boosting the tech-heavy Nasdaq. Nvidia, Micron, and other chip companies have seen their revenue and stock prices climb amid a boom in demand for infrastructure to support artificial intelligence (AI). Micron CEO Sanjay Mehrotra said Wednesday the company's fiscal fourth-quarter sales nearly doubled from a year ago to $7.75 billion, driven by "robust AI demand." Mehrotra also said the company's sales are expected to continue growing, projecting current-quarter revenue could reach a record high between $8.5 billion to $8.9 billion. UPDATE—Sept. 26, 2024: This article has been updated to reflect more recent share price information.

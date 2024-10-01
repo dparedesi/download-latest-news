@@ -1,5 +1,11 @@
 List of news related to Ford stock price F:
 
+Title: A dockworkers strike could shut down East and Gulf ports. Will it affect holiday shopping?
+URL: https://richmond.com/news/nation-world/business/dockworkers-strike-consumer-impact-holiday-shopping/article_9d936731-ba5b-5e74-9825-0176c201192d.html
+Time Published: 2024-09-30T14:30:00Z
+Description: U.S. ports from Maine to Texas could shut down if a union representing 45,000 dockworkers carries through with a threatened strike early Tuesday.
+--------------------------------------------------
+
 Title: Ford Makes Another Smart Move With EVs
 URL: https://finance.yahoo.com/news/ford-makes-another-smart-move-160900589.html/
 Time Published: 2024-09-29T16:09:00Z
