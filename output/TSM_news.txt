@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Nvidia Stock Slips As China Tells Companies Not To Buy Its Chips
+URL: https://www.investors.com/news/technology/nvidia-stock-nvda-china-chips-restrictions/
+Time Published: 2024-09-30T20:30:01Z
+Description: The AI chip leader tested a key level, while peers also fell slightly.
+--------------------------------------------------
+
 Title: TikTok's owner is reportedly developing an AI model with Huawei's chips
 URL: https://qz.com/tiktok-owner-bytedance-develop-ai-model-huawei-chips-1851660657
 Time Published: 2024-09-30T15:39:00Z
