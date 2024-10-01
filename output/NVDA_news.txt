@@ -1,5 +1,12 @@
 List of news related to NVIDIA NVDA:
 
+Title: 1 simple reason this multi-billion-dollar investor sold 84% of their Nvidia shares
+URL: https://www.fool.com.au/2024/09/30/1-simple-reason-this-multi-billion-dollar-investor-sold-84-of-their-nvidia-shares/
+Time Published: 2024-09-30T02:06:25Z
+Description: Nvidia Corp (NASDAQ: NVDA) shares have been more or less the headline act in global stock markets this year. The …
+The post 1 simple reason this multi-billion-dollar investor sold 84% of their Nvidia shares appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
 Title: Is Microsoft Corp (NASDAQ:MSFT)’s Edge in AI Fading Away?
 URL: https://finance.yahoo.com/news/microsoft-corp-nasdaq-msft-edge-220215158.html/
 Time Published: 2024-09-29T22:02:15Z
@@ -310,10 +317,4 @@ Title: Amazon's AI strategy is set to deliver a chip advantage: Morning Brief
 URL: https://finance.yahoo.com/news/amazons-ai-strategy-is-set-to-deliver-a-chip-advantage-morning-brief-100006194.html/
 Time Published: 2024-09-26T10:00:06Z
 Description: Risks to rivals Microsoft and Google have made Amazon more attractive to investors.
---------------------------------------------------
-
-Title: 2 Semiconductor Stocks That Could Go Parabolic
-URL: https://finance.yahoo.com/news/2-semiconductor-stocks-could-parabolic-091500046.html/
-Time Published: 2024-09-26T09:15:00Z
-Description: Here are two semiconductor stocks that could add serious sizzle to your portfolio.
 --------------------------------------------------
