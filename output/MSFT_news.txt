@@ -54,28 +54,3 @@ URL: https://finance.yahoo.com/news/flch-etf-surging-chinese-stocks-172526511.ht
 Time Published: 2024-09-27T17:25:26Z
 Description: Chinese stocks are surging after China announced a new stimulus plan, and the China-focused Franklin FTSE China ETF (FLCH) could have plenty of upside ahead....
 --------------------------------------------------
-
-Title: pwb-toolbox added to PyPI
-URL: https://pypi.org/project/pwb-toolbox/
-Time Published: 2024-09-26T19:56:23Z
-Full Content:
-pip install pwb-toolbox Copy PIP instructions Released: Sep 30, 2024 A toolbox library for quant traders The pwb-toolbox package is designed to provide tools and resources for systematic trading strategies. It includes datasets and strategy ideas to assist in developing and backtesting trading algorithms. For detailed instructions on how to use this package effectively, please refer to the associated Substack publication by visiting: https://blog.paperswithbacktest.com/. To install the pwb-toolbox package: To login to Huggingface Hub with Access Token The pwb-toolbox package offers a range of functionalities for systematic trading analysis. Here are some examples of how to utilize the package: Contributions to the pwb-toolbox package are welcome! If you have any improvements, new datasets, or strategy ideas to share, please follow these guidelines: Please note that all contributions are subject to review and approval by the maintainers. To build the package, run: To upload the package to PyPI, run: The pwb-toolbox package is released under the MIT license. See the LICENSE file for more details. For any questions, issues, or suggestions regarding the pwb-toolbox package, please contact the maintainers or create an issue on the repository. We appreciate your feedback and involvement in improving the package. Happy trading! 0.1.1 Sep 30, 2024 0.1.0 Sep 26, 2024 Download the file for your platform. If you're not sure which to choose, learn more about installing packages. Uploaded Sep 30, 2024 Source Uploaded Sep 30, 2024 Python 3 Status: all systems operational Developed and maintained by the Python community, for the Python community. Donate today! "PyPI", "Python Package Index", and the blocks logos are registered trademarks of the Python Software Foundation. © 2024 Python Software Foundation Site map Supported by
---------------------------------------------------
-
-Title: Why Lam Research (LRCX) Stock Is Up Today
-URL: https://finance.yahoo.com/news/why-lam-research-lrcx-stock-183026084.html/
-Time Published: 2024-09-26T18:30:26Z
-Description: Shares of semiconductor equipment maker Lam Research (NASDAQ:LRCX) jumped 7.5% in the morning session as semiconductor stocks, especially the memory chip...
---------------------------------------------------
-
-Title: Meta stock hits all-time high as Wall Street bets on AI vision
-URL: https://finance.yahoo.com/news/meta-stock-hits-all-time-high-as-wall-street-bets-on-ai-vision-142944019.html/
-Time Published: 2024-09-26T14:29:44Z
-Description: Meta stock hit an all-time high as investors bet on its AI vision.
---------------------------------------------------
-
-Title: pwb-backtest added to PyPI
-URL: https://pypi.org/project/pwb-backtest/
-Time Published: 2024-09-26T07:01:01Z
-Description: A toolbox library for quant traders
---------------------------------------------------
