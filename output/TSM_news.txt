@@ -55,15 +55,3 @@ URL: https://finance.yahoo.com/news/1-top-tech-stock-buy-084500479.html/
 Time Published: 2024-09-28T08:45:00Z
 Description: The foundry giant is set to spend big in the coming years, and there's one company that could stand to win big.
 --------------------------------------------------
-
-Title: 2 Artificial Intelligence (AI) Stocks to Buy Instead of Nvidia
-URL: https://finance.yahoo.com/news/2-artificial-intelligence-ai-stocks-140000719.html/
-Time Published: 2024-09-27T14:00:00Z
-Description: Why Broadcom and TSMC look poised to be AI chip winners.
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing Company Limited (TSM) Considers to Partner With Samsung To Build Mega Chip Factories in the United Arab Emirates According to Reports
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c8bc1fd8-7186-4fdb-9b5f-9421e35e2c82
-Time Published: 2024-09-27T02:23:40Z
-Description: None
---------------------------------------------------

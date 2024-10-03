@@ -1,5 +1,12 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Guess which ASX tech stock just rocketed 41% on a new government deal
+URL: https://www.fool.com.au/2024/10/02/guess-which-asx-tech-stock-just-rocketed-41-on-a-new-government-deal/
+Time Published: 2024-10-02T01:37:57Z
+Description: Investors are sending the ASX tech stock soaring on the heels of a new government deal.
+The post Guess which ASX tech stock just rocketed 41% on a new government deal appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
 Title: What You Need To Know About AI Chipmaker Cerebras' IPO Filing
 URL: https://www.investopedia.com/what-you-need-to-know-about-ai-chipmaker-cerebras-filing-for-an-ipo-8721122
 Time Published: 2024-10-01T18:45:23Z
@@ -80,10 +87,4 @@ Title: Better Artificial Intelligence (AI) Stock: Microsoft vs. Oracle
 URL: https://finance.yahoo.com/news/better-artificial-intelligence-ai-stock-083000971.html/
 Time Published: 2024-09-28T08:30:00Z
 Description: Both companies benefit from the adoption of AI in the cloud, but one of them stepped up its game recently.
---------------------------------------------------
-
-Title: FLCH ETF: Surging Chinese Stocks Could Drive More Upside Ahead
-URL: https://finance.yahoo.com/news/flch-etf-surging-chinese-stocks-172526511.html/
-Time Published: 2024-09-27T17:25:26Z
-Description: Chinese stocks are surging after China announced a new stimulus plan, and the China-focused Franklin FTSE China ETF (FLCH) could have plenty of upside ahead....
 --------------------------------------------------
