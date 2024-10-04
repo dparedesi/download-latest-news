@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA Corporation (NVDA) Maintains Strong Pricing for Hopper Line Ahead of Blackwell Launch, with Stable Aftermarket Prices for H100, Says Susquehanna Analyst
+URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-maintains-strong-065147213.html/
+Time Published: 2024-10-03T06:51:47Z
+Description: We recently compiled a list of the AI News Investors Probably Missed. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) ...
+--------------------------------------------------
+
 Title: NVIDIAがAI普及に向けた新事業グループ設立を発表、「次世代AIチップBlackwellの需要は狂気的」とジェンスン・フアンCEO
 URL: https://news.livedoor.com/article/detail/27302465/
 Time Published: 2024-10-03T05:00:00Z
@@ -231,14 +237,14 @@ Full Content:
 As the U.S. escalates export controls on China, TikTok’s owner is reportedly planning to use a homegrown chipmaker for an artificial intelligence model it’s developing. ByteDance is planning to build an AI model using chips from Huawei, Reuters reported, citing three unnamed people familiar with the matter. The company wants to use Huawei’s Ascend 910B chips to train the model, the people said. ByteDance has reportedly ordered over 100,000 of Huawei’s chips, but, as of July, has received less than 30,000 of them. One person told Reuters the model under development is expected to be less powerful than ByteDance’s Doubao model, which was released last August. “The entire premise here is wrong,” a spokesperson for ByteDance said in a statement shared with Quartz. “No new AI model is being developed.” Huawei did not immediately respond to a request for comment. The company’s Ascend 910B chip is used for less intense AI model inferencing, people told Reuters, but training requires more compute power, and therefore, more advanced chips. And Huawei was reportedly having a hard time increasing production of the Ascend 910B — China’s best alternative to Nvidia’s (NVDA) chips that cannot be sold to Chinese customers under U.S. trade restrictions. The chip fabrication machines Huawei uses to produce the advanced chips are designed for older generations of chips, The Information reported, and repurposing them was causing certain components to break down. Since the U.S. began implementing trade restrictions on advanced chips, including those designed by Nvidia, in 2022, ByteDance has sought chips from Chinese companies, and worked on developing its own. ByteDance has designed two chips with Taiwan Semiconductor Manufacturing Company (TSM) that it plans to mass produce by 2026, The Information reported. The Chinese government, meanwhile, is encouraging tech companies to buy AI chips from local companies, and become less dependent on Nvidia, Bloomberg reported. Nvidia has developed three AI chips for the Chinese market in compliance with export controls, including the H20, which ByteDance has ordered hundreds of thousands of. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
 --------------------------------------------------
 
-Title: Stock market today: S&P, Nasdaq edge higher to start jobs report week as Powell set to speak
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-nasdaq-edge-higher-to-start-jobs-report-week-as-powell-set-to-speak-145516037.html/
+Title: Stock market today: US stocks start jobs report week mixed with Powell set to speak
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-edge-lower-to-start-jobs-report-week-as-powell-set-to-speak-145516186.html/
 Time Published: 2024-09-30T14:55:16Z
 Description: The market is bracing for the September US jobs report, set to test the upbeat tone in stocks.
 --------------------------------------------------
 
-Title: Stock market today: US stocks start jobs report week mixed with Powell set to speak
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-edge-lower-to-start-jobs-report-week-as-powell-set-to-speak-145516186.html/
+Title: Stock market today: S&P, Nasdaq edge higher to start jobs report week as Powell set to speak
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-nasdaq-edge-higher-to-start-jobs-report-week-as-powell-set-to-speak-145516037.html/
 Time Published: 2024-09-30T14:55:16Z
 Description: The market is bracing for the September US jobs report, set to test the upbeat tone in stocks.
 --------------------------------------------------
@@ -309,10 +315,4 @@ URL: https://www.fool.com.au/2024/09/30/1-simple-reason-this-multi-billion-dolla
 Time Published: 2024-09-30T02:06:25Z
 Description: Nvidia Corp (NASDAQ: NVDA) shares have been more or less the headline act in global stock markets this year. The …
 The post 1 simple reason this multi-billion-dollar investor sold 84% of their Nvidia shares appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: Is Microsoft Corp (NASDAQ:MSFT)’s Edge in AI Fading Away?
-URL: https://finance.yahoo.com/news/microsoft-corp-nasdaq-msft-edge-220215158.html/
-Time Published: 2024-09-29T22:02:15Z
-Description: We recently published a list of 10 Trending AI Stocks to Watch for the Rest of 2024. Since Microsoft Corp (NASDAQ:MSFT) ranks 2nd on the list, it deserves a ...
 --------------------------------------------------
