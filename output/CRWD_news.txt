@@ -1,5 +1,12 @@
 List of news related to Crowdstrike CRWD:
 
+Title: What You Need To Know Ahead of Delta's Earnings Next Thursday
+URL: https://www.investopedia.com/what-you-need-to-know-ahead-of-delta-earnings-q3-fy-2024-preview-8721983
+Time Published: 2024-10-03T18:21:51Z
+Full Content:
+Delta Air Lines (DAL) reports third-quarter results before the bell next Thursday, Oct. 10, its first report since July's worldwide IT outage caused by a CrowdStrike (CRWD) software update forced the carrier to cancel thousands of flights, costing it an estimated $500 million. Analysts expect a slight year-over-year gain in revenue to $15.69 billion, with net income projected to tick lower to $1.10 billion, according to analysts' consensus estimates compiled by Visible Alpha. All 10 analysts covering Delta tracked by Visible Alpha have a "buy" or equivalent rating on the airline's stock, with an average target price of $61.40, about 30% above Thursday afternoon's share price of $47.38. In July, Delta posted record second-quarter revenue, but a number of costs rose at least 20%, leading profit to come in well below what analysts had expected, and shares fell 4% that day. Revenue could continue its strong pace set in the first two quarters of the year, as airlines have said travel demand has remained strong, with July 4 travel setting TSA checkpoint records. However, Delta is also likely to have lost out on some revenue and incurred costs handling the mid-July IT outage. Delta's Q2 results came about a week before the IT outage that hindered Delta's operations for several days. Chief Executive Officer (CEO) Ed Bastian estimated that the canceled flights and compensation for passengers cost the airline at least $500 million. Delta was the hardest hit of the major airlines, and said it has considered legal action against CrowdStrike and Microsoft (MSFT), but the tech companies have said they aren't responsible for the age of Delta's IT infrastructure or how the airline responded to the outage.
+--------------------------------------------------
+
 Title: CrowdStrike Expands CrowdStrike Marketplace to Meet Growing Demand for Integrated Cybersecurity Solutions
 URL: https://www.investing.com/news/press-releases/crowdstrike-expands-crowdstrike-marketplace-to-meet-growing-demand-for-integrated-cybersecurity-solutions-93CH-3647437
 Time Published: 2024-10-03T13:56:04Z
