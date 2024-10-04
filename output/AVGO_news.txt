@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Dow Jones Futures: Nvidia Rises Late On CEO Huang's 'Insane' Comment
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-nvidia-rise-off-support/
+Time Published: 2024-10-02T22:02:41Z
+Description: The indexes held their ground Wednesday but need to show more strength.
+--------------------------------------------------
+
+Title: Better AI Chipmaker Stock: Broadcom vs. Qualcomm
+URL: https://finance.yahoo.com/news/better-ai-chipmaker-stock-broadcom-220000114.html/
+Time Published: 2024-10-02T22:00:00Z
+Description: Both semiconductor giants are benefiting from the AI craze.
+--------------------------------------------------
+
 Title: Why Nvidia, Micron, Broadcom, and Other Artificial Intelligence (AI) and Semiconductor Stocks Slumped on Tuesday
 URL: https://finance.yahoo.com/news/why-nvidia-micron-broadcom-other-190347467.html/
 Time Published: 2024-10-01T19:03:47Z

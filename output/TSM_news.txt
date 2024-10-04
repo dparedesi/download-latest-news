@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Dow Jones Futures: Nvidia Rises Late On CEO Huang's 'Insane' Comment
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-nvidia-rise-off-support/
+Time Published: 2024-10-02T22:02:41Z
+Description: The indexes held their ground Wednesday but need to show more strength.
+--------------------------------------------------
+
 Title: Dow Jones Futures Fall After Jobs Data; Tesla Slides On Q3 Deliveries
 URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-adp-jobs-data-nvidia-stock-nvda/
 Time Published: 2024-10-02T13:04:43Z
@@ -42,22 +48,4 @@ Title: Dow Jones Futures Due As China Stimulus Keeps Coming; Tesla Near Buy Poin
 URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-china-stimulus-tesla-buy-point-deliveries/
 Time Published: 2024-09-29T19:22:28Z
 Description: The S&P 500 and Dow Jones hit all-time highs last week.
---------------------------------------------------
-
-Title: Prediction: Apple's iPhone 16 Could Become a Runaway Hit, and Here Is 1 Stock to Buy Hand Over Fist Before That Happens
-URL: https://finance.yahoo.com/news/prediction-apples-iphone-16-could-154500672.html/
-Time Published: 2024-09-28T15:45:00Z
-Description: Apple's latest smartphones appear to be in solid demand, which bodes well for one of its key suppliers.
---------------------------------------------------
-
-Title: 3 Reasons to Buy Taiwan Semiconductor Stock Like There's No Tomorrow
-URL: https://finance.yahoo.com/news/3-reasons-buy-taiwan-semiconductor-130000237.html/
-Time Published: 2024-09-28T13:00:00Z
-Description: TSMC outperformed the indexes over the past five years.
---------------------------------------------------
-
-Title: 1 Top Tech Stock to Buy Hand Over Fist Before TSMC's Spending Splurge Begins
-URL: https://finance.yahoo.com/news/1-top-tech-stock-buy-084500479.html/
-Time Published: 2024-09-28T08:45:00Z
-Description: The foundry giant is set to spend big in the coming years, and there's one company that could stand to win big.
 --------------------------------------------------
