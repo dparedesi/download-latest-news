@@ -1,5 +1,17 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Why Nvidia and TSMC Stocks Just Popped, but Intel Dropped Today
+URL: https://finance.yahoo.com/news/why-nvidia-tsmc-stocks-just-155108818.html/
+Time Published: 2024-10-03T15:51:08Z
+Description: Nvidia stock just got a double dose of good news.
+--------------------------------------------------
+
+Title: Dow Jones Futures Fall After Jobless Claims; Nvidia Rallies, Tesla Slides
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-nvidia-stock-nvda-tesla-tsla/
+Time Published: 2024-10-03T13:10:40Z
+Description: Nvidia rebounded further from its 50-day line, while Tesla extended Wednesday's losses.
+--------------------------------------------------
+
 Title: Taiwan Semiconductor Manufacturing Company Limited (TSM) Maintains Technological Edge Over Rivals; Analysts Bullish on Long-Term Growth with Price Target of $250
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6fc93dce-e9dd-4563-960e-87742f2e3cd3
 Time Published: 2024-10-03T07:40:32Z
