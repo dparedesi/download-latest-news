@@ -1,5 +1,18 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Why Vistra Stock Jumped to Another Record High on Thursday
+URL: https://www.investopedia.com/vistra-stock-record-high-ai-power-demand-data-centers-8722946
+Time Published: 2024-10-03T20:58:37Z
+Full Content:
+The gains keep coming for shares of independent power producer Vistra Corp. (VST), which jumped more than 5% on Thursday to notch one of the best performances in the S&P 500 and set a new record closing high. The Texas-based electricity provider has ridden a wave of enthusiasm about using nuclear capacity to power energy-intensive artificial intelligence (AI) processes. These AI-driven expectations have helped Vistra surpass Nvidia (NVDA) as the top-performing stock in the S&P 500 in 2024, up a whopping 244% year to date. The most recent push higher for the red-hot Vistra stock came after Sundar Pichai, CEO of Google parent Alphabet (GOOGL), said the tech giant is exploring ways to power its data centers using electricity from nuclear plants. Vistra shares gained 5.7% on Thursday to close at $132.45, bucking a broader downturn for U.S. stocks. In an interview with Japan's Nikkei, Pichai said Google is evaluating investments in a variety of energy technologies as it aims to achieve its ambitious goal of net-zero carbon emissions by 2030. The CEO provided no details as to where Alphabet might source nuclear power. However, announcements this year by other big tech firms support the idea that U.S.-based nuclear generators are poised to benefit from the opportunity. For instance, Amazon (AMZN) said in March that it would lean on nuclear generation to meet some of its power demand. Microsoft (MSFT) also reached an agreement in September with Vistra competitor Constellation Energy (CEG) to procure power from the currently shuttered Three Mile Island nuclear plant in Pennsylvania. Analysts have expressed optimism that Microsoft's deal with Constellation Energy could set a precedent for more agreements between big tech and nuclear generators. On Thursday, analysts at RBC Capital Markets increased their price target on Vistra stock to $141 from $105.
+--------------------------------------------------
+
+Title: The S&P 500 is almost never this expensive. It’s a disaster waiting to happen.
+URL: https://finance.yahoo.com/news/p-500-almost-never-expensive-163000428.html/
+Time Published: 2024-10-03T16:30:00Z
+Description: We’ve surpassed 1929 levels.
+--------------------------------------------------
+
 Title: If You'd Invested $1,000 in Amazon Stock 27 Years Ago, Here's How Much You'd Have Today
 URL: https://finance.yahoo.com/news/youd-invested-1-000-amazon-162149816.html/
 Time Published: 2024-10-03T16:21:49Z
