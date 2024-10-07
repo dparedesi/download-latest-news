@@ -1,5 +1,30 @@
 List of news related to NVIDIA NVDA:
 
+Title: Robust Job Gains Remove Recession Fears
+URL: https://www.forbes.com/sites/bill_stone/2024/10/06/robust-job-gains-remove-recession-fears/
+Time Published: 2024-10-06T11:00:00Z
+Full Content:
+The jobs report was so broadly strong that it signaled the end of the recent labor market cooling ... [+] trend. The September jobs report on Friday put to rest any fears that the labor market might be on a path to cool enough to endanger U.S. economic growth. On the contrary, the report was so broadly strong as to give rise to worries that the Federal Reserve might pause further cuts and reignited wage growth might be a looming danger. Employment grew by 254,000 nonfarm jobs, which was well above expectations, and the upwardly revised 159,000 in August. The household survey data was also robust at a gain of 430,000 jobs, with the research series, which mirrors the payroll report criteria, soaring by a whopping 666,000. Monthly Job Growth The unemployment rate was reported at 4.1% but was close to 4.0% at 4.05%, down from 4.2%. Unemployment Rate Wages crept up to 4.0% year-over-year, above the expectations of 3.8%, which reinforces the strength of the labor demand but might raise questions about renewed inflation pressures. The only blemish on the jobs report was the average workweek hours falling to 34.2, a four-year low also seen in July and January. Hours & Wage Growth The high-frequency initial and continuing filings for unemployment benefits confirm that the cooling trend in the labor market has stabilized, with both measures off their respective peaks. Initial Jobless Claims Before the recent decline, the unemployment rate had risen enough off the lows to trigger the Sahm Rule, which has an unblemished track record of forecasting recession. However, there are several reasons to believe that the Sahm Rule might be overstating the risk of recession during this cycle. Monitoring the prime-age, 25 to 54 years old, employment-to-population ratio should help signal when concern about the rising unemployment rate is warranted. The rising prime-age employment-to-population ratio is further evidence that the labor market does not yet pose an imminent threat to the health of the economy. Prime-Age Employment-To-Population Ratio: 3 Month Average Stocks had another positive week, with the S&P 500 near all-time highs by Friday’s market close. The Magnificent 7, consisting of Microsoft (MSFT), Meta Platforms (META), Amazon.com (AMZN), Apple (AAPL), NVIDIA SPDR Dow Jones Industrial Average ETF Trust (NVDA), Alphabet (GOOGL), and Tesla (TSLA), moved higher as well. Stock Returns Looking below the surface, the more economically sensitive cyclical stocks outperformed defensive stocks, which are less impacted by the economy. The lower probability of recession after the healthy jobs report is reflected in the better performance of economically sensitive companies. Cyclicals Versus Defensives The crucial economic reports before the next Federal Reserve meeting on November 7 include Thursday’s consumer inflation (CPI) and another monthly jobs report. Consensus estimates expect September CPI to slow to 2.3% year-over-year from 2.5%. The Cleveland Fed’s CPI supports this view and should leave the door open to a 25 basis point cut at the November meeting. U.S. CPI Estimate Futures pricing reacted to the strong jobs report by slashing the expected pace of 2024 rate cuts. A short-term interest rate cut of 25 (0.25%) basis points at the November and December Fed meetings is implied. In response to the slower expected pace of rate cuts, the 2-year and 10-year Treasury yields rose to 3.92% and 3.97%, respectively. Expected Fed Rate Cuts Friday’s job report increases the probability that the Federal Reserve can engineer a soft landing with the U.S. economy remaining remarkably resilient. The Atlanta Fed’s estimate of third-quarter GDP is at 2.5%, according to their last update on October 1. As the fears of recession recede and have been reflected in all-time high stock prices, earnings will likely need to be the next catalyst for higher prices. Third-quarter earnings season kicks off at the end of the week as if on cue. Disclosure: Glenview Trust currently has holdings of Microsoft (MSFT), Meta Platforms (META), Amazon.com (AMZN), Apple (AAPL), NVIDIA (NVDA), and Alphabet (GOOGL) within its recommended investment strategies.
+--------------------------------------------------
+
+Title: Nvidia, Microsoft, SoftBank, and Cathie Wood's Ark Invest Are Betting Big on This AI Startup
+URL: https://finance.yahoo.com/news/nvidia-microsoft-softbank-cathie-woods-102300615.html/
+Time Published: 2024-10-06T10:23:00Z
+Description: OpenAI just closed one of the largest private funding rounds in American history.
+--------------------------------------------------
+
+Title: Prediction: These 2 Stocks Will Join Nvidia, Meta, Apple, Amazon, and Microsoft in the Trillion-Dollar Club by 2030
+URL: https://finance.yahoo.com/news/prediction-2-stocks-join-nvidia-100000345.html/
+Time Published: 2024-10-06T10:00:00Z
+Description: These companies have been on fire for a while, but they haven't peaked yet.
+--------------------------------------------------
+
+Title: 3 Stock-Split Stocks to Buy Before They Soar as Much as 215%, According to Select Wall Street Analysts
+URL: https://finance.yahoo.com/news/3-stock-split-stocks-buy-090300539.html/
+Time Published: 2024-10-06T09:03:00Z
+Description: The evidence is clear that stock-split stocks tend to outperform the broader market.
+--------------------------------------------------
+
 Title: Could Nvidia Stock Soar if Kamala Harris Becomes President?
 URL: https://finance.yahoo.com/news/could-nvidia-stock-soar-kamala-100700879.html/
 Time Published: 2024-10-05T10:07:00Z
@@ -289,22 +314,4 @@ Title: Meet the Best-Performing Stock in the Entire S&P 500 This Year -- No, It'
 URL: https://finance.yahoo.com/news/meet-best-performing-stock-entire-091700047.html/
 Time Published: 2024-10-02T09:17:00Z
 Description: This energy stock has tripled in 2024 so far, comfortably outperforming every other stock in the S&P 500 including Nvidia.
---------------------------------------------------
-
-Title: 1 Bargain-Basement Stock-Split Stock to Buy Hand Over Fist in the 4th Quarter and 1 Highflier to Shy Away From
-URL: https://finance.yahoo.com/news/1-bargain-basement-stock-split-084100762.html/
-Time Published: 2024-10-02T08:41:00Z
-Description: Two stock-split stocks that are veritable monopolies within their respective industries could go in opposite directions in the fourth quarter (and beyond).
---------------------------------------------------
-
-Title: 4 Billion-Dollar Reasons to Buy Nvidia Stock Right Now
-URL: https://finance.yahoo.com/news/4-billion-dollar-reasons-buy-084000462.html/
-Time Published: 2024-10-02T08:40:00Z
-Description: Nvidia's revenue is already soaring. But could more major gains be ahead?
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA): One of the Most Widely Held Stocks by Hedge Funds
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_09c37304-3194-438e-93a0-d4ca23c7f716
-Time Published: 2024-10-02T08:34:27Z
-Description: None
 --------------------------------------------------
