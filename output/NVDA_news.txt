@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: A GE spinoff's stock is surging as it positions itself as the 'supermarket' for AI energy demand
+URL: https://finance.yahoo.com/news/a-ge-spinoffs-stock-is-surging-as-it-positions-itself-as-the-supermarket-for-ai-energy-demand-140019819.html/
+Time Published: 2024-10-06T14:00:19Z
+Description: GE Vernova has become a Wall Street favorite as an AI power play.
+--------------------------------------------------
+
+Title: NVIDIA Corp. (NVDA): Hedge Funds Are Bullish On This NASDAQ Stock Right Now
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_28f39a51-dae1-43d0-8f9c-307052bf0230
+Time Published: 2024-10-06T13:26:32Z
+Description: None
+--------------------------------------------------
+
+Title: Nvidia's CEO Says Demand for Its New Chips Is "Insane." Is It Time to Buy the Stock?
+URL: https://finance.yahoo.com/news/nvidias-ceo-says-demand-chips-111500464.html/
+Time Published: 2024-10-06T11:15:00Z
+Description: Why demand for Nvidia's GPUs is likely to remain robust for the foreseeable future.
+--------------------------------------------------
+
 Title: Robust Job Gains Remove Recession Fears
 URL: https://www.forbes.com/sites/bill_stone/2024/10/06/robust-job-gains-remove-recession-fears/
 Time Published: 2024-10-06T11:00:00Z
@@ -296,22 +314,4 @@ Title: The Ultimate Artificial Intelligence (AI) Stock to Buy Hand Over Fist Rig
 URL: https://finance.yahoo.com/news/ultimate-artificial-intelligence-ai-stock-132900718.html/
 Time Published: 2024-10-02T13:29:00Z
 Description: This chip stock is not only cheaper than Nvidia, but it is set to grow at a faster pace than the AI pioneer as well.
---------------------------------------------------
-
-Title: Dow Jones Futures Fall After Jobs Data; Tesla Slides On Q3 Deliveries
-URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-adp-jobs-data-nvidia-stock-nvda/
-Time Published: 2024-10-02T13:04:43Z
-Description: Nike plunged on earnings, while Nvidia is trying to find support at a key level.
---------------------------------------------------
-
-Title: Missed Nvidia? 10 Other S&P 500 Stocks Will Make You Much Richer
-URL: https://www.investors.com/etfs-and-funds/sectors/sp500-forget-nvidia-other-stocks-will-make-you-richer/
-Time Published: 2024-10-02T12:00:23Z
-Description: It's hard not to love Nvidia — given its huge run this year.
---------------------------------------------------
-
-Title: Meet the Best-Performing Stock in the Entire S&P 500 This Year -- No, It's Not Nvidia
-URL: https://finance.yahoo.com/news/meet-best-performing-stock-entire-091700047.html/
-Time Published: 2024-10-02T09:17:00Z
-Description: This energy stock has tripled in 2024 so far, comfortably outperforming every other stock in the S&P 500 including Nvidia.
 --------------------------------------------------
