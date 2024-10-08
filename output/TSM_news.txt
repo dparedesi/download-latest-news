@@ -42,15 +42,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6fc93dce
 Time Published: 2024-10-03T07:40:32Z
 Description: None
 --------------------------------------------------
-
-Title: Dow Jones Futures: Nvidia Rises Late On CEO Huang's 'Insane' Comment
-URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-nvidia-rise-off-support/
-Time Published: 2024-10-02T22:02:41Z
-Description: The indexes held their ground Wednesday but need to show more strength.
---------------------------------------------------
-
-Title: Dow Jones Futures Fall After Jobs Data; Tesla Slides On Q3 Deliveries
-URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-adp-jobs-data-nvidia-stock-nvda/
-Time Published: 2024-10-02T13:04:43Z
-Description: Nike plunged on earnings, while Nvidia is trying to find support at a key level.
---------------------------------------------------
