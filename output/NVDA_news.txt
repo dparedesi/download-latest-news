@@ -1,5 +1,24 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq slide as 10-year Treasury yield, oil jump
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-tumbles-400-points-tech-leads-nasdaq-sp-500-lower-as-10-year-yield-tops-4-200136477.html/
+Time Published: 2024-10-07T18:58:28Z
+Description: Investors have overhauled their views on interest rate cuts after a blowout jobs report, ahead of a week of key inflation data and the start of earnings...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq slide as investors rethink rate cut bets, 10-year treasury jumps
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-10-year-treasury-yield-oil-jump-185828133.html/
+Time Published: 2024-10-07T18:58:28Z
+Description: Investors have overhauled their views on interest rate cuts after a blowout jobs report, ahead of a week of key inflation data and the start of earnings...
+--------------------------------------------------
+
+Title: Nvidia, Adobe among Monday's afternoon market cap stock movers
+URL: https://www.investing.com/news/stock-market-news/nvidia-adobe-among-mondays-afternoon-market-cap-stock-movers-93CH-3651907
+Time Published: 2024-10-07T18:28:09Z
+Full Content:
+Monday's trading session is showcasing significant movements across the board from mega-cap to large-cap stocks. Notable mega-cap companies like Nvidia Corp (NASDAQ:NVDA) are experiencing a surge, while others such as Adobe Systems Incorporated (NASDAQ:ADBE) face declines. In the large-cap arena, Super Micro Computer, Inc. (NASDAQ:SMCI) is capturing attention with a substantial leap in its stock price. Here are the key stock movers of the day in each market cap category. Mega-Cap Movers:Nvidia Corp (NVDA): Hosting investor presentation; +4.49%; YTD return: 152.31%Amazon.com Inc (NASDAQ:AMZN): downgraded to equal weight at Wells Fargo; -2.7%; YTD return: 22.75% Tesla Motors (NASDAQ:TSLA): -2.43%; YTD return: 0.64% Adobe Sys Inc (ADBE): -3.1%; YTD return: -14.98% Large-Cap Stock Movers: Super Micro Compu (SMCI): Introduces full-scale liquid cooling for data centers; +17.43%Air Prods & Chem (APD): activist investor takes stake; +9.3% RenaissanceRe Holdings Ltd (NYSE:RNR): -9.66%; YTD return: 43.41% Everest Re Group Ltd (NYSE:EG): -8.48%; YTD return: 16.84% Kinsale Capital Group Inc (NYSE:KNSL): -7.67%; YTD return: 45.54%MicroStrategy Inc (MSTR): +7.7%; gains on Bitcoin rise; YTD return: 179.46% Arch Capital Group (NASDAQ:ACGL): -6.94%; YTD return: 54.65%Ke Holdings Inc (BEKE): -5.79%; YTD return: 62.67% Burlington Stor (NYSE:BURL): -6.38%; YTD return: 35.89% Vistra Energy Corp (NYSE:VST): -5.35%; YTD return: 262.35% Mid-Cap Stock Movers:Arcadium Lithium (ALTM): Confirms Approach by Rio Tinto (NYSE:RIO); +32.79%Hims & Hers (HIMS): +11.64%; added to S&P SmallCap 600 YTD return: 98.43% Vista Outdoor Inc (NYSE:VSTO): +10.27%; sells Revelyst for $1.125B; YTD return: 34.73% Biohaven Pharmaceutical Holding Co (NYSE:BHVN): +8.53%; YTD return: 11.29%Social Capital Hedosophia Hold III (CLOV): -8.43%; YTD return: 324.33%Oscar Health (OSCR): -8.74%; YTD return: 120.11% Palomar Holdings Inc (NASDAQ:PLMR): -9.26%; YTD return: 85.37% Halozyme Therapeutics (NASDAQ:HALO): -8.74%; YTD return: 60.12% Generac Holdings (NYSE:GNRC): +7.81%; upgraded at OTR, gains on hurricane Milton; YTD return: 23.94% Small-Cap Stock Movers: Scholar Rock Holding Corp (NASDAQ:SRRK): Apitegromab shows promise in SMA motor function trial; +321.83%Duckhorn Portfolio (NAPA): acquired for $11.10/share; +103.52%MYT Netherlands Parent (MYTE): +55.69%; YTD return: 35.11%Heritag Insr Hld (HRTG): -24.04%; YTD return: 86.96%Chanson International Holding (CHSN): -26.3%; YTD return: 1113.93% Ehang Holdings Ltd (NASDAQ:EH): +19.91%; YTD return: 4.29%Serve Robotics (SERV): +18.24%; YTD return: -64.92% Universal Insurance Holdings Inc (NYSE:UVE): -18.62%; YTD return: 34.66%Torrid Holdings (CURV): -14.37%; YTD return: -38.47%HCI (HCI): -17.33%; YTD return: 33.65% For real-time, market-moving news join Investing Pro. This article was generated with the support of AI and reviewed by an editor. For more information see our T&C. Monday's trading session is showcasing significant movements across the board from mega-cap to large-cap stocks. Notable mega-cap companies like Nvidia Corp (NASDAQ:NVDA) are experiencing a surge, while others such as Adobe Systems Incorporated (NASDAQ:ADBE) face declines. In the large-cap arena, Super Micro Computer, Inc. (NASDAQ:SMCI) is capturing attention with a substantial leap in its stock price. Here are the key stock movers of the day in each market cap category. Mega-Cap Movers: Large-Cap Stock Movers: Mid-Cap Stock Movers: Small-Cap Stock Movers: For real-time, market-moving news join Investing Pro. This article was generated with the support of AI and reviewed by an editor. For more information see our T&C.
+--------------------------------------------------
+
 Title: Super Micro Computer Stock Surges as AI Demand Drives Shipments
 URL: https://finance.yahoo.com/news/super-micro-computer-stock-surges-165635373.html/
 Time Published: 2024-10-07T16:56:35Z
@@ -294,16 +313,4 @@ Title: Appaloosa Management’s David Tepper Urges Caution on NVIDIA Corporation
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_42c808c4-de27-4a52-8ef6-e03471f75ebe
 Time Published: 2024-10-03T08:37:44Z
 Description: None
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA) Maintains Strong Pricing for Hopper Line Ahead of Blackwell Launch, with Stable Aftermarket Prices for H100, Says Susquehanna Analyst
-URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-maintains-strong-065147213.html/
-Time Published: 2024-10-03T06:51:47Z
-Description: We recently compiled a list of the AI News Investors Probably Missed. In this article, we are going to take a look at where NVIDIA Corporation (NASDAQ:NVDA) ...
---------------------------------------------------
-
-Title: NVIDIAがAI普及に向けた新事業グループ設立を発表、「次世代AIチップBlackwellの需要は狂気的」とジェンスン・フアンCEO
-URL: https://news.livedoor.com/article/detail/27302465/
-Time Published: 2024-10-03T05:00:00Z
-Description: アメリカの半導体大手・NVIDIAが、総合コンサルティング会社のアクセンチュアと提携して新しい事業グループである「NVIDIA Business Group」を設立し、生成AI技術に習熟した専門家3000人を配置すると発表しました。アクセンチュア and NVIDIA Lead Enterprises into Era of AIhttps://newsroom.accenture.com/news/2024/accenture-and-nvidia-lead-enterprises-into-era-of-ai…
 --------------------------------------------------
