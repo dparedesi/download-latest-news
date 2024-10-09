@@ -1,5 +1,12 @@
 List of news related to Broadcom AVGO:
 
+Title: Broadcom Announces Merchant Silicon 50G PON Solution
+URL: https://www.telecompetitor.com/broadcom-announces-merchant-silicon-50g-pon-solution/
+Time Published: 2024-10-08T13:13:21Z
+Description: Broadcom Announces Merchant Silicon 50G PON Solution
+Palo Alto, Calif. — October 7, 2024 — Broadcom Inc. (NASDAQ: AVGO) today announced the general availability of the BCM68660 and BCM55050, the industry’s first merchant silicon 50G PON Optical Line Terminal-…
+--------------------------------------------------
+
 Title: One of Wall Street's Cheapest Tech Stock-Split Stocks Is Ready to Take Center Stage This Week
 URL: https://finance.yahoo.com/news/one-wall-streets-cheapest-tech-090600979.html/
 Time Published: 2024-10-07T09:06:00Z
