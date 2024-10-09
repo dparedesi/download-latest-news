@@ -1,13 +1,13 @@
 List of news related to Amazon stock price AMZN:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq slide as 10-year Treasury yield, oil jump
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-tumbles-400-points-tech-leads-nasdaq-sp-500-lower-as-10-year-yield-tops-4-200136477.html/
+Title: Stock market today: Dow, S&P 500, Nasdaq slide as investors rethink rate cut bets, 10-year treasury jumps
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-10-year-treasury-yield-oil-jump-185828133.html/
 Time Published: 2024-10-07T18:58:28Z
 Description: Investors have overhauled their views on interest rate cuts after a blowout jobs report, ahead of a week of key inflation data and the start of earnings...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq slide as investors rethink rate cut bets, 10-year treasury jumps
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-10-year-treasury-yield-oil-jump-185828133.html/
+Title: Stock market today: Dow, S&P 500, Nasdaq slide as 10-year Treasury yield, oil jump
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-tumbles-400-points-tech-leads-nasdaq-sp-500-lower-as-10-year-yield-tops-4-200136477.html/
 Time Published: 2024-10-07T18:58:28Z
 Description: Investors have overhauled their views on interest rate cuts after a blowout jobs report, ahead of a week of key inflation data and the start of earnings...
 --------------------------------------------------

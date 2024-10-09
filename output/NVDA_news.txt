@@ -1,5 +1,12 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia: What are investors are asking?
+URL: https://www.investing.com/news/stock-market-news/nvidia-what-are-investors-are-asking-3652483
+Time Published: 2024-10-08T08:28:46Z
+Full Content:
+Investing.com -- Analysts at Citi have been on the road marketing in Boston and Europe, where they discussed with investors key topics regarding the Nvidia (NASDAQ:NVDA) stock. According to the Wall Street firm, the company's AI adoption “remains in 3rd/4th innings as enterprise AI demand takes off next with AI agents.” Analysts expect Nvidia stock to remain range-bound through the CES event in early 2025 before new product launches, such as Blackwell GPUs, drive a sales and margin inflection. Citi notes that a recurring investor concern is Nvidia's gross margin trajectory. The bank predicts that gross margins will bottom out at around 72% in the January quarter, stabilizing in the mid-70s once the Blackwell series ramps up. Another focal point for investors is the competition between Nvidia’s GPUs and custom application-specific integrated circuits (ASICs). While ASICs can be advantageous for fixed-function applications, Nvidia GPUs offer versatility. As AI models expand, Nvidia's GPUs, which are capable of handling various applications, will likely see continued demand, analysts said. Moreover, enterprises favor multi-cloud strategies, and GPUs allow applications to run across different cloud platforms without rewriting. Citi also highlights that data center operators prioritize the total cost of ownership (TCO) and return on investment (ROI), areas where Nvidia continues to lead due to its ability to run diverse applications, including AI. “As NVDA runs various applications including AI, the data center operators rely on NVDA to have the hardware to run multiple applications rather than buying accelerators that are limited in their use cases,” analysts said in a Monday note. At the same time, investors are also keeping a close eye on Nvidia’s vertical integration strategy, which has progressed from chips to entire systems, a response to the slowdown of Moore’s Law. As for the Blackwell sales mix, the shift towards the GB200 format from the B100’s 8-GPU format is also expected to optimize TCO and ROI, Citi’s note states. Looking ahead, investors are optimistic about the long-term ROI, particularly with Nvidia’s emphasis on AI across large markets like social media and e-commerce. However, patience will be required as generative AI matures into disruptive business models. “We expect to see positive ROI data points next year led by GPU-as-a-service providers,” analysts said. With a Buy rating and a price target of $150, Citi remains bullish on Nvidia, with potential risks stemming from competition in gaming and possible market volatility in the auto and data center segments.
+--------------------------------------------------
+
 Title: Cramer Congratulates NVIDIA Corporation (NVDA) On Its GPU’s 25-Year Anniversary
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ef110fe-d2a7-4877-b868-f6857fc67b96
 Time Published: 2024-10-07T22:08:46Z
@@ -53,16 +60,16 @@ Monday's trading session is showcasing significant movements across the board fr
 --------------------------------------------------
 
 Title: Super Micro Computer Stock Surges as AI Demand Drives Shipments
-URL: https://finance.yahoo.com/news/super-micro-computer-stock-surges-165635373.html/
-Time Published: 2024-10-07T16:56:35Z
-Description: Super Micro Computer shares soared Monday as the server maker reported booming demand for artificial intelligence is driving shipments of its GPUs.
---------------------------------------------------
-
-Title: Super Micro Computer Stock Surges as AI Demand Drives Shipments
 URL: https://www.investopedia.com/super-micro-computer-stock-surges-as-ai-demand-drives-shipments-8724295
 Time Published: 2024-10-07T16:56:35Z
 Full Content:
 Super Micro Computer (SMCI) shares soared Monday as the server maker reported strong shipments of its graphics processing units (GPUs), driven by artificial intelligence (AI) demand. The company said it recently deployed 100,000 GPUs with its liquid cooling technology to “some of the largest AI factories ever built.” Super Micro Computer also announced a new lineup of direct liquid cooling products for servers that it said could help AI firms cut their energy costs. CEO Charles Liang said the company’s liquid cooling solutions “are now cooling massive, state-of-the-art AI factories, reducing costs and improving performance.” Liang added that data center operators are coming to Super Micro Computer “to meet their technical and financial goals for both the construction of greenfield sites and the modernization of existing data centers.” Super Micro Computer shares were up over 13% at $46.77 in intraday trading Monday, and have gained about two-thirds of their value since the start of the year. Shares of AI chipmaker Nvidia (NVDA), a partner of Super Micro Computer, also got a boost Monday and have more than doubled in value in 2024 so far. TradingView CORRECTION—Oct. 7, 2024: This article has been corrected to reflect Super Micro Computer reported it deployed 100,000 graphics processing units (GPUs).
+--------------------------------------------------
+
+Title: Super Micro Computer Stock Surges as AI Demand Drives Shipments
+URL: https://finance.yahoo.com/news/super-micro-computer-stock-surges-165635373.html/
+Time Published: 2024-10-07T16:56:35Z
+Description: Super Micro Computer shares soared Monday as the server maker reported booming demand for artificial intelligence is driving shipments of its GPUs.
 --------------------------------------------------
 
 Title: Super Micro shares surge as AI boom drives 100,000 quarterly GPU shipments
