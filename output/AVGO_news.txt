@@ -56,15 +56,3 @@ URL: https://finance.yahoo.com/news/2-top-artificial-intelligence-ai-072000219.h
 Time Published: 2024-10-05T07:20:00Z
 Description: These two tech companies are getting a nice boost thanks to AI -- a trend that could continue in the long run.
 --------------------------------------------------
-
-Title: Stock Market Week: Tesla's Robotaxi Arrival, JPMorgan's Q3 Kickoff
-URL: https://www.investors.com/research/investing-action-plan/stock-market-week-teslas-robotaxi-arrival-jpmorgans-q3-kickoff/
-Time Published: 2024-10-04T21:09:24Z
-Description: An important week for the stock market includes Tesla's robotaxi reveal and earnings from JPMorgan, Delta Air Lines and Wells Fargo.
---------------------------------------------------
-
-Title: Nvidia Still Missing, But One Mag 7 Makes This Elite Screen
-URL: https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-buy-meta-stock-ignore-nvidia-other-magnificent-seven-stocks/
-Time Published: 2024-10-04T17:05:18Z
-Description: Top funds again shunned Nvidia, but they did buy into into one Mag 7 member — Meta stock.
---------------------------------------------------
