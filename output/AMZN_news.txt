@@ -1,5 +1,12 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Reddit Stock Rises as Jefferies Calls Stock a 'Buy' on AI Strengths
+URL: https://www.investopedia.com/reddit-stock-rises-as-jefferies-calls-stock-a-buy-on-ai-strengths-8725540
+Time Published: 2024-10-09T16:57:54Z
+Full Content:
+Reddit (RDDT) shares climbed Wednesday after analysts at Jefferies initiated coverage of the social media platform with a "buy" rating, citing its success within Google search results and its artificial intelligence (AI) use cases. The firm issued a price target of $90 per share, a 27% premium over Tuesday's closing price and well above the analyst consensus from Visible Alpha. Reddit's user growth accelerated to 51% in the second quarter, the firm noted, its highest level in four years. A big reason for that is the success of a revamped web platform the company debuted last year, which has led to "deeper integration into Google search." The company's average revenue per user is actually well below rivals Pinterest (PINS) and Snapchat (SNAP), which suggests a "long runway for increased monetization," analysts said. Reddit’s large library of user posts are a valuable resource for companies developing generative AI models, Jefferies said. The company has established about $325 million in contract licensing revenue over the next three years, led by deals with Alphabet's (GOOGL) Google and OpenAI. Going forward, the firm suggested that partnerships with companies such as Amazon (AMZN) and Anthropic could be in the cards, which would mean more high-margin revenue streams. Shares of Reddit climbed about 2% intraday Wednesday and are up about 43% since the company's IPO in March.
+--------------------------------------------------
+
 Title: 5 Top Stocks To Buy In November
 URL: https://www.forbes.com/sites/investor-hub/article/top-stocks-buy-now-november-2024/
 Time Published: 2024-10-08T16:12:55Z
