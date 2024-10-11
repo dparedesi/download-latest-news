@@ -1,5 +1,31 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia's Blackwell AI Processors Are Sold Out For Next 12 Months
+URL: https://www.investors.com/news/technology/nvidia-stock-nvda-blackwell-on-schedule/
+Time Published: 2024-10-10T15:55:23Z
+Description: Nvidia’s next-generation artificial intelligence processors, called Blackwell, are sold out for the next 12 months. Nvidia stock rose.
+--------------------------------------------------
+
+Title: PC shipments fall in Q3 despite AI push by Microsoft, chipmakers
+URL: https://finance.yahoo.com/news/pc-shipments-fall-in-q3-despite-ai-push-by-microsoft-chipmakers-151502305.html
+Time Published: 2024-10-10T15:15:02Z
+Full Content:
+The global PC industry hit a snag in the third quarter, as worldwide shipments declined for the first time in three quarters — despite hype around so-called artificial intelligence PCs and growth in the US and Japan. According to Gartner, third quarter PC shipments, or devices sent out to retailers for sale, fell 1.3% year over year to 62.9 million units from 63.8 million units in the same period in 2023. Shipments dropped the most in China, with Gartner reporting a 10% collapse in demand in the country as government and state-affiliated entities sought out fewer desktops. Shipments in Europe, the Middle East, and Africa took a less dramatic hit than China, dropping 1.5% due to a flurry of events that Gartner says distracted consumers, including elections in the UK and France and sporting events like the Olympics. The US, meanwhile, saw a 5.6% increase in shipments, while Japan saw double-digit growth in the quarter. Still, the PC industry is in the midst of a broader comeback after years of declines and the massive amount of growth it experienced at the onset of the pandemic. At the time, consumers and enterprises bought up virtually as many PCs as they could get their hands on to ensure they had the means to work and stay entertained while stuck in their homes for months on end. But that boom meant people who might have been holding off on buying PCs ended up purchasing them sooner than they otherwise would have, pulling future sales forward. With so many customers outfitted with new PCs, demand crumbled, leading to an extended slump that lasted roughly two years, including the worst decline in 17 years in 2023. The slump hit companies ranging from PC manufacturers for Microsoft (MSFT) to chipmakers Intel (INTC), AMD (AMD), and Nvidia (NVDA). In Q2 2023, as sales struggled, Microsoft reported that its Windows OEM sales, or sales of its Windows operating system to laptop and desktop manufacturers, fell 39% year over year. Intel and AMD saw similar declines, with Intel reporting that its first quarter 2023 Client Computing Group revenue, the organization responsible for PC chip sales, dropped an incredible 38% compared to Q1 2022. AMD reported a 65% year-over-year drop in net revenue in its Client group in 2023 from $2.1 billion to $739 million. The shipment declines come as the PC industry is pushing the concept of AI PCs, or computers outfitted with neural processing units (NPUs) or high-powered graphics cards that can run AI applications locally rather than via the cloud. Microsoft is pushing its own version of AI PCs it refers to as Copilot+ PCs, which meet certain hardware requirements such as powerful NPUs. But the marketing doesn’t seem to be paying off. According to Gartner analyst Mikako Kitagawa, AI PCs “did not boost the demand for PCs since buyers have yet to see their clear benefits or business value.” What’s more, she said, the end of Windows 10 support in 2025 didn’t drive updates in areas like China. There’s still plenty of debate about whether AI will become a huge selling point for consumer electronics, whether that’s PCs or smartphones. So far, Microsoft has shown off a number of potentially useful AI features for Windows 11, including its Click to Do option that provides you with a context-sensitive set of options to take action on what you’re viewing on your screen. Microsoft says you can do things like remove or blur the background in a photo or perform a visual search using Bing, allowing the search engine to search for content based on images rather than words. But it’s not clear yet if AI is a major selling point for consumers. Jefferies recently downgraded Apple’s stock saying that expectations for AI-powered iPhones are overblown. And if that holds true, you can bet it’ll be the same for PCs. Regardless of the declines in Q3 or whether AI proves to be the kind of catalyst the industry needs, Kitagawa says PC shipments should improve for the year as a whole and blow up in 2025. “At the worldwide level, PC demand will see more uptake toward the end of 2024 and more robust growth in 2025, when the PC refresh will be at its peak,” said Kitagawa. Email Daniel Howley at dhowley@yahoofinance.com. Follow him on Twitter at @DanielHowley. For the latest earnings reports and analysis, earnings whispers and expectations, and company earnings news, click here Read the latest financial and business news from Yahoo Finance. Sign in to access your portfolio
+--------------------------------------------------
+
+Title: Morgan Stanley Details What Caused NVIDIA’s Blackwell Hiccup, Asserts That The Blackwell Production Ramp-Up Appears “Quite Strong”
+URL: https://wccftech.com/morgan-stanley-details-what-caused-nvidia-blackwell-hiccup-asserts-that-the-blackwell-production-ramp-up-appears-quite-strong/
+Time Published: 2024-10-10T14:30:20Z
+Full Content:
+This is not investment advice. The author has no position in any of the stocks mentioned. Wccftech.com has a disclosure and ethics policy. Given the quantum of fund inflows into AI-related investment themes, Wall Street appears laser-focused on NVIDIA's Blackwell production ramp-up as a guarantor of sorts for the secular AI tailwind. Today, Morgan Stanley has penned yet another note on NVIDIA's latest GPU architecture, this time choosing to divulge some additional information regarding what exactly caused a production bottleneck over the summer. As we've noted in previous posts, NVIDIA had confirmed the rumors of a minor Blackwell design flaw during its recent earnings call, but assured investors that the resulting low-yields issue was rectified by implementing a few minor changes to the photomask - a specific template that is used to create bespoke patterns on semiconductor wafers. NVIDIA $NVDA Blackwell ramp appears "quite strong" and issues with initial Blackwell silicon are "totally behind us", says Morgan Stanley, reiterating at 'Overweight' with a $150 price-target: "In the shorter term, the Blackwell ramp appears to be quite strong, with no major… — Stock Talk (@stocktalkweekly) October 10, 2024 Now, Morgan Stanley is out with its own take on the Blackwell production hiccup, noting that the low-yields issue was only discovered in the post-packaging stage. The ensuing scrapping of the subpar units resulted in a loss of "CoWoS and HBM3e," which were already in short supply and only aggravated NVIDIA's supply problems. Morgan Stanley goes on to note: "But those issues are behind the company and there is high conviction in prior guidance that they will have several billion in Blackwell revenue in the January quarter." Elsewhere, Morgan Stanley has reiterated that it now sees a "quite strong" Blackwell production ramp-up, "with no major changes to the roadmaps and every indication that business remains robust with very high forward visibility, in line with all of our checks." In a critical insight, Morgan Stanley notes: "Any new Blackwell orders now that aren't already in queue will be shipped late next year, as they are booked out 12 months or so, which continues to drive strong short term demand for Hopper which will still be a major factor though the year." Of course, the Wall Street titan has already stated that it sees NVIDIA shipping up to 450,000 units of the Blackwell GPUs in the December-ending quarter, resulting in between $5 billion and $10 billion in revenue. Moreover, Morgan Stanley believes that NVIDIA will produce between 700,000 and 800,000 units of Blackwell GPUs in Q1'25, which corresponds to a 3x sequential increase in volumes. At the same time, the bank sees Hopper volumes at 1.5 million units in Q4'24, and at around 1 million units in Q1'25. Subscribe to get an everyday digest of the latest technology news in your inbox Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com © 2024 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+--------------------------------------------------
+
+Title: Who Says ETFs Are 'Boring?' These 10 Are Up 100% Or More This Year
+URL: https://www.investors.com/etfs-and-funds/etfs/sp500-who-says-etfs-are-boring-these-10-are-up-more-this-year/
+Time Published: 2024-10-10T12:00:45Z
+Description: Thrill-seekers looking for bigger returns can find them with ETFs.
+--------------------------------------------------
+
 Title: Macro Guru Hugh Hendry Betting on Bitcoin (BTC) and Lower Interest Rates for 2025 – Here’s Why
 URL: https://dailyhodl.com/2024/10/10/macro-guru-hugh-hendry-betting-on-bitcoin-btc-and-lower-interest-rates-for-2025-heres-why/
 Time Published: 2024-10-10T07:04:16Z
@@ -306,28 +332,4 @@ Title: Super Micro shares surge as AI boom drives 100,000 quarterly GPU shipment
 URL: https://finance.yahoo.com/news/super-micro-shares-surge-ai-164038782.html/
 Time Published: 2024-10-07T16:40:38Z
 Description: A boom in generative artificial intelligence technology has bumped up demand for the hardware required to process the large amounts of data genAI uses...
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA): Hedge Funds Are Bullish On This Momentum Stock Now
-URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-hedge-funds-111504701.html/
-Time Published: 2024-10-07T11:15:04Z
-Description: We recently compiled a list of the 8 Best Momentum Stocks To Invest In Right Now. In this article, we are going to take a look at where NVIDIA Corporation...
---------------------------------------------------
-
-Title: One of Wall Street's Cheapest Tech Stock-Split Stocks Is Ready to Take Center Stage This Week
-URL: https://finance.yahoo.com/news/one-wall-streets-cheapest-tech-090600979.html/
-Time Published: 2024-10-07T09:06:00Z
-Description: This brand-name tech stock is set to split its shares for the first time in almost a quarter of a century.
---------------------------------------------------
-
-Title: NVIDIA Corp. (NVDA): Analysts Are Bullish On This Quality Stock Right Now
-URL: https://finance.yahoo.com/news/nvidia-corp-nvda-analysts-bullish-190749677.html/
-Time Published: 2024-10-06T19:07:49Z
-Description: We recently compiled a list of the 10 Best Quality Stocks to Buy According to Analysts. In this article, we are going to take a look at where NVIDIA Corp...
---------------------------------------------------
-
-Title: A GE spinoff's stock is surging as it positions itself as the 'supermarket' for AI energy demand
-URL: https://finance.yahoo.com/news/a-ge-spinoffs-stock-is-surging-as-it-positions-itself-as-the-supermarket-for-ai-energy-demand-140019819.html/
-Time Published: 2024-10-06T14:00:19Z
-Description: GE Vernova has become a Wall Street favorite as an AI power play.
 --------------------------------------------------

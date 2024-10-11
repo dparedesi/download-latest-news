@@ -1,5 +1,12 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Delta Stock Falls as Quarterly Results, Outlook Disappoint
+URL: https://www.investopedia.com/delta-stock-falls-as-quarterly-results-outlook-disappoint-8726123
+Time Published: 2024-10-10T12:41:58Z
+Full Content:
+Shares of Delta Air Lines (DAL) declined in premarket trading after the carrier's third-quarter results and fourth-quarter sales outlook came in below analysts' estimates. The carrier also confirmed costs of around $500 million that Chief Executive Officer (CEO) Ed Bastian had estimated following the CrowdStrike (CRWD)-caused global IT outage in July that resulted in 7,000 Delta flight cancellations over a five-day period. Delta posted third-quarter adjusted earnings per share (EPS) of $1.50 on revenue of $15.68 billion, below consensus expectations of analysts polled by Visible Alpha. Delta also projected fourth-quarter revenue growth of between 2% and 4%, lower than estimates. Fleshing out details of the damage from the IT outage this summer, Delta said it lost out on direct revenue of $380 million, largely from refunds and customer compensation, and incurred additional costs of roughly $170 million. The costs were slightly offset by $50 million in saved fuel expenses from canceling the 7,000 flights over five days. Delta shares, which had risen by more then 25% this year through Wednesday's close, were down 3% less than an hour before the opening bell.
+--------------------------------------------------
+
 Title: 3 beaten-up US stocks Aussie investors are buying the dip on
 URL: https://www.fool.com.au/2024/10/10/3-beaten-up-us-stocks-aussie-investors-are-buying-the-dip-on/
 Time Published: 2024-10-10T03:57:42Z
