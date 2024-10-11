@@ -88,18 +88,18 @@ Time Published: 2024-10-09T12:00:19Z
 Description: S&P 500 earnings season is kicking off.
 --------------------------------------------------
 
-Title: Analyst Report: NVIDIA Corp
-URL: https://finance.yahoo.com/research/reports/ARGUS_3656_AnalystReport_1728473526000/
-Time Published: 2024-10-09T11:32:06Z
-Full Content:
-Nvidia Corp., based in Santa Clara, California, is a visual computing company with worldwide operations and markets. The company operates through two segments, Graphics and Compute & Networking. The company's four main markets are gaming, professional visualization, data center, and automotiv James Kelleher, CFA
---------------------------------------------------
-
 Title: Market Digest: NVDA, GEV
 URL: https://finance.yahoo.com/research/reports/ARGUS_41456_MarketSummary_1728473526000/
 Time Published: 2024-10-09T11:32:06Z
 Full Content:
 Talk about an undecided market. As of the close on Monday, October 7, in four of the past five days, the closing range of the S&P 500 (SPX) was 13.6 points. That is two-tenths of 1% based on the price of the index. For the Nasdaq, the range in four out of five days was 14.76 points or eight one-hundredths of 1%. The Nasdaq 100's (QQQ) range was 0.83 points or two-tenths of 1%. The Nasdaq and the QQQ tested their 21-day exponential a few times and remain perilously close to breaking that average, while the SPX has come close to the average on several occasions intraday. Third-quarter EPS season is now underway and the next three weeks will be very heavy with earnings reports. Just prior to and just after earnings reports, companies are in a blackout period. During that time, a company cannot repurchase its stock. So in April/early May, July/early August, October/early November, and January/early February, there is an absence of demand that can create weakness in the overall market. First-quarter 2024 share buybacks on the S&P 500 were $237 billion and for the 12-months ending March 2024, buybacks were $817 billion. C AMD GOOG GOOGL GOOGL, HUM, NVDA, AVGO, ESYJY, EJTTF, HBI, ZTNO, INTC, ADBE, AMD, RGEN, AMZN, MRVL META
+--------------------------------------------------
+
+Title: Analyst Report: NVIDIA Corp
+URL: https://finance.yahoo.com/research/reports/ARGUS_3656_AnalystReport_1728473526000/
+Time Published: 2024-10-09T11:32:06Z
+Full Content:
+Nvidia Corp., based in Santa Clara, California, is a visual computing company with worldwide operations and markets. The company operates through two segments, Graphics and Compute & Networking. The company's four main markets are gaming, professional visualization, data center, and automotiv James Kelleher, CFA
 --------------------------------------------------
 
 Title: Nvidia just made two moves that could push its stock to the next level
@@ -270,14 +270,14 @@ Full Content:
 This is not investment advice. The author has no position in any of the stocks mentioned. Wccftech.com has a disclosure and ethics policy. Citi has penned an important investment note on NVIDIA today, touching on the stock's immediate prospects and the likely trajectory of the GPU manufacturer's margins as the Blackwell production ramp-up gets underway. Off the bat, Citi has asserted that NVIDIA's under-pressure gross margins will bottom out in the low-70s percents in Q1 2025, with the Wall Street titan continuing to view the ~72 percent level as the likely trough. After Q1, Citi expects NVIDIA's gross margins to stabilize in "the mid-70s%" as the Blackwell architecture ramps up. The bank notes: "While we are bullish on another strong +40% Y/Y cloud data center capex growth next year, we expect the stock to likely remain range bound through CES Jan before Blackwell driven Y/Y sales and gross margin inflection in the Apr-Q." On the topic of the GPU competition that is rapidly heating up, Citi perceives no immediate threat as NVIDIA's products currently lead the market on multiple metrics, including the Total Cost of Ownership (TCO) and the Return on Investment (ROI). The bank believes data centers prefer NVIDIA's GPUs for the flexibility that they offer: "As NVDA runs various applications including AI, the data center operators rely on NVDA to have the hardware to run multiple applications rather than buying accelerators that are limited in their use cases." According to the bank, an enterprise operating across multiple cloud-based platforms has to re-write its applications specific to every cloud operator, which poses a huge pain point. In contrast, "with NVDA GPUs, enterprises write their applications once as it will be transferable across clouds." What's more, NVIDIA's large installed base already constitutes a strong pull for developers, who desire "the largest possible adoption of their applications." On the topic of the Blackwell sales mix, Citi asserts that the GB200 chip will attract a greater proportion of orders from customers instead of the "B100’s 8-GPU format," owing to the former's favorable TCO and ROI metrics. In light of its positive - if a bit dampened - view on NVIDIA, Citi has maintained its Buy rating on the stock with a target of $150 per share. Subscribe to get an everyday digest of the latest technology news in your inbox Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com © 2024 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq slide as 10-year Treasury yield, oil jump
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-tumbles-400-points-tech-leads-nasdaq-sp-500-lower-as-10-year-yield-tops-4-200136477.html/
+Title: Stock market today: Dow, S&P 500, Nasdaq slide as investors rethink rate cut bets, 10-year treasury jumps
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-10-year-treasury-yield-oil-jump-185828133.html/
 Time Published: 2024-10-07T18:58:28Z
 Description: Investors have overhauled their views on interest rate cuts after a blowout jobs report, ahead of a week of key inflation data and the start of earnings...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq slide as investors rethink rate cut bets, 10-year treasury jumps
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-10-year-treasury-yield-oil-jump-185828133.html/
+Title: Stock market today: Dow, S&P 500, Nasdaq slide as 10-year Treasury yield, oil jump
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-tumbles-400-points-tech-leads-nasdaq-sp-500-lower-as-10-year-yield-tops-4-200136477.html/
 Time Published: 2024-10-07T18:58:28Z
 Description: Investors have overhauled their views on interest rate cuts after a blowout jobs report, ahead of a week of key inflation data and the start of earnings...
 --------------------------------------------------
@@ -290,16 +290,16 @@ Monday's trading session is showcasing significant movements across the board fr
 --------------------------------------------------
 
 Title: Super Micro Computer Stock Surges as AI Demand Drives Shipments
-URL: https://finance.yahoo.com/news/super-micro-computer-stock-surges-165635373.html/
-Time Published: 2024-10-07T16:56:35Z
-Description: Super Micro Computer shares soared Monday as the server maker reported booming demand for artificial intelligence is driving shipments of its GPUs.
---------------------------------------------------
-
-Title: Super Micro Computer Stock Surges as AI Demand Drives Shipments
 URL: https://www.investopedia.com/super-micro-computer-stock-surges-as-ai-demand-drives-shipments-8724295
 Time Published: 2024-10-07T16:56:35Z
 Full Content:
 Super Micro Computer (SMCI) shares soared Monday as the server maker reported strong shipments of its graphics processing units (GPUs), driven by artificial intelligence (AI) demand. The company said it recently deployed 100,000 GPUs with its liquid cooling technology to “some of the largest AI factories ever built.” Super Micro Computer also announced a new lineup of direct liquid cooling products for servers that it said could help AI firms cut their energy costs. CEO Charles Liang said the company’s liquid cooling solutions “are now cooling massive, state-of-the-art AI factories, reducing costs and improving performance.” Liang added that data center operators are coming to Super Micro Computer “to meet their technical and financial goals for both the construction of greenfield sites and the modernization of existing data centers.” Super Micro Computer shares were up over 13% at $46.77 in intraday trading Monday, and have gained about two-thirds of their value since the start of the year. Shares of AI chipmaker Nvidia (NVDA), a partner of Super Micro Computer, also got a boost Monday and have more than doubled in value in 2024 so far. TradingView CORRECTION—Oct. 7, 2024: This article has been corrected to reflect Super Micro Computer reported it deployed 100,000 graphics processing units (GPUs).
+--------------------------------------------------
+
+Title: Super Micro Computer Stock Surges as AI Demand Drives Shipments
+URL: https://finance.yahoo.com/news/super-micro-computer-stock-surges-165635373.html/
+Time Published: 2024-10-07T16:56:35Z
+Description: Super Micro Computer shares soared Monday as the server maker reported booming demand for artificial intelligence is driving shipments of its GPUs.
 --------------------------------------------------
 
 Title: Super Micro shares surge as AI boom drives 100,000 quarterly GPU shipments
