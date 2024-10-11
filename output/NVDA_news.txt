@@ -1,5 +1,12 @@
 List of news related to NVIDIA NVDA:
 
+Title: AMD is going after Nvidia with new AI chips
+URL: https://qz.com/ai-chip-market-reach-500-billion-amd-data-center-nvidia-1851669774
+Time Published: 2024-10-10T17:15:00Z
+Full Content:
+Advanced Micro Devices (AMD) announced new artificial intelligence chips to boost its rivalry with other chipmakers, including Nvidia (NVDA). The chipmaker launched its new Instinct MI325X accelerators and Ryzen AI PRO 300 series processors along with other leading-edge computing chips on Thursday at its Advancing AI conference in San Francisco. “The data center and AI represent significant growth opportunities for AMD, and we are building strong momentum for our EPYC and AMD Instinct processors across a growing set of customers,” AMD chief executive Lisa Su said in a statement. With its new chips, AMD is “delivering leadership compute to power our customers’ most important and demanding workloads,” she added. By 2028, AMD sees the market for data center AI accelerators reaching $500 billion, Su said, adding that the chipmaker is “committed to delivering open innovation at scale through our expanded silicon, software, network and cluster-level solutions.” At Computex in June, Su announced AMD’s next-generation MI325X AI accelerator with improved “performance and memory capabilities for the most demanding AI” processing, which she said would be available in the fourth quarter. She also unveiled the Ryzen AI PRO 300 series which will be used for AI laptops, including Microsoft’s (MSFT) Copilot+ PCs. Like rival Nvidia, Su said in June that AMD has “expanded our roadmap so it’s now on an annual cadence, that means a new product family every year.” AMD expects to launch its next-generation Instinct MI350 series accelerators in the second half of 2025, the chipmaker said. Its Instinct MI400 Series accelerators are planned for 2026. The company’s Instinct MI300X accelerators were launched in December, and are used by some of the world’s leading AI models from OpenAI, Meta (META), and open-source models on Hugging Face. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
+--------------------------------------------------
+
 Title: Nvidia's Blackwell AI Processors Are Sold Out For Next 12 Months
 URL: https://www.investors.com/news/technology/nvidia-stock-nvda-blackwell-on-schedule/
 Time Published: 2024-10-10T15:55:23Z
@@ -114,18 +121,18 @@ Time Published: 2024-10-09T12:00:19Z
 Description: S&P 500 earnings season is kicking off.
 --------------------------------------------------
 
-Title: Market Digest: NVDA, GEV
-URL: https://finance.yahoo.com/research/reports/ARGUS_41456_MarketSummary_1728473526000/
-Time Published: 2024-10-09T11:32:06Z
-Full Content:
-Talk about an undecided market. As of the close on Monday, October 7, in four of the past five days, the closing range of the S&P 500 (SPX) was 13.6 points. That is two-tenths of 1% based on the price of the index. For the Nasdaq, the range in four out of five days was 14.76 points or eight one-hundredths of 1%. The Nasdaq 100's (QQQ) range was 0.83 points or two-tenths of 1%. The Nasdaq and the QQQ tested their 21-day exponential a few times and remain perilously close to breaking that average, while the SPX has come close to the average on several occasions intraday. Third-quarter EPS season is now underway and the next three weeks will be very heavy with earnings reports. Just prior to and just after earnings reports, companies are in a blackout period. During that time, a company cannot repurchase its stock. So in April/early May, July/early August, October/early November, and January/early February, there is an absence of demand that can create weakness in the overall market. First-quarter 2024 share buybacks on the S&P 500 were $237 billion and for the 12-months ending March 2024, buybacks were $817 billion. C AMD GOOG GOOGL GOOGL, HUM, NVDA, AVGO, ESYJY, EJTTF, HBI, ZTNO, INTC, ADBE, AMD, RGEN, AMZN, MRVL META
---------------------------------------------------
-
 Title: Analyst Report: NVIDIA Corp
 URL: https://finance.yahoo.com/research/reports/ARGUS_3656_AnalystReport_1728473526000/
 Time Published: 2024-10-09T11:32:06Z
 Full Content:
 Nvidia Corp., based in Santa Clara, California, is a visual computing company with worldwide operations and markets. The company operates through two segments, Graphics and Compute & Networking. The company's four main markets are gaming, professional visualization, data center, and automotiv James Kelleher, CFA
+--------------------------------------------------
+
+Title: Market Digest: NVDA, GEV
+URL: https://finance.yahoo.com/research/reports/ARGUS_41456_MarketSummary_1728473526000/
+Time Published: 2024-10-09T11:32:06Z
+Full Content:
+Talk about an undecided market. As of the close on Monday, October 7, in four of the past five days, the closing range of the S&P 500 (SPX) was 13.6 points. That is two-tenths of 1% based on the price of the index. For the Nasdaq, the range in four out of five days was 14.76 points or eight one-hundredths of 1%. The Nasdaq 100's (QQQ) range was 0.83 points or two-tenths of 1%. The Nasdaq and the QQQ tested their 21-day exponential a few times and remain perilously close to breaking that average, while the SPX has come close to the average on several occasions intraday. Third-quarter EPS season is now underway and the next three weeks will be very heavy with earnings reports. Just prior to and just after earnings reports, companies are in a blackout period. During that time, a company cannot repurchase its stock. So in April/early May, July/early August, October/early November, and January/early February, there is an absence of demand that can create weakness in the overall market. First-quarter 2024 share buybacks on the S&P 500 were $237 billion and for the 12-months ending March 2024, buybacks were $817 billion. C AMD GOOG GOOGL GOOGL, HUM, NVDA, AVGO, ESYJY, EJTTF, HBI, ZTNO, INTC, ADBE, AMD, RGEN, AMZN, MRVL META
 --------------------------------------------------
 
 Title: Nvidia just made two moves that could push its stock to the next level
@@ -326,10 +333,4 @@ Title: Super Micro Computer Stock Surges as AI Demand Drives Shipments
 URL: https://finance.yahoo.com/news/super-micro-computer-stock-surges-165635373.html/
 Time Published: 2024-10-07T16:56:35Z
 Description: Super Micro Computer shares soared Monday as the server maker reported booming demand for artificial intelligence is driving shipments of its GPUs.
---------------------------------------------------
-
-Title: Super Micro shares surge as AI boom drives 100,000 quarterly GPU shipments
-URL: https://finance.yahoo.com/news/super-micro-shares-surge-ai-164038782.html/
-Time Published: 2024-10-07T16:40:38Z
-Description: A boom in generative artificial intelligence technology has bumped up demand for the hardware required to process the large amounts of data genAI uses...
 --------------------------------------------------
