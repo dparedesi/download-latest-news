@@ -1,5 +1,18 @@
 List of news related to NVIDIA NVDA:
 
+Title: AMD Stock Climbs as Anticipation Builds for Upcoming AI Event
+URL: https://finance.yahoo.com/news/amd-stock-climbs-anticipation-builds-205327660.html
+Time Published: 2024-10-09T20:53:27Z
+Description: AMD's Bold AI Ambitions Could Lift Earnings, Challenge Nvidia's Reign
+--------------------------------------------------
+
+Title: Nvidia Supplier Astera Labs Jumps Over 15%—Here’s Why
+URL: https://www.investopedia.com/nvidia-supplier-astera-labs-jumps-over-15-percent-here-is-why-8725464
+Time Published: 2024-10-09T20:23:13Z
+Full Content:
+Astera Labs (ALAB) shares jumped Wednesday after the Nvidia (NVDA) supplier announced new products to support artificial intelligence (AI). The company introduced two new fabric switches that Nvidia Senior VP of GPU Engineering Brian Kelleher said will support the chipmaker's AI infrastructure "across a wide variety of AI and [high-performance computing] workloads." Astera, which went public in March, said in its initial public offering (IPO) filing that its customers include several key players in the AI space such as Nvidia, as well as Advanced Micro Devices (AMD). Jefferies analysts said the new products could help Astera diversify its offerings and expand the market for its products. The analysts held a "buy" rating for the stock, with a price target of $65, about 6% above Wednesday's closing price of $61.22. Astera Labs shares surged over 15% Wednesday, and have gained about 70% from their IPO price in March.
+--------------------------------------------------
+
 Title: Nvidia shares are up 25% in the last month, rallying near a record ahead of tech earnings
 URL: https://www.cnbc.com/2024/10/09/nvidia-stock-up-25percent-in-a-month-as-stock-closes-in-on-new-record.html
 Time Published: 2024-10-09T17:48:00Z
@@ -73,6 +86,12 @@ URL: https://finance.yahoo.com/research/reports/ARGUS_3656_AnalystReport_1728473
 Time Published: 2024-10-09T11:32:06Z
 Full Content:
 Nvidia Corp., based in Santa Clara, California, is a visual computing company with worldwide operations and markets. The company operates through two segments, Graphics and Compute & Networking. The company's four main markets are gaming, professional visualization, data center, and automotiv James Kelleher, CFA
+--------------------------------------------------
+
+Title: Nvidia just made two moves that could push its stock to the next level
+URL: https://www.marketwatch.com/story/nvidia-just-made-two-moves-that-could-push-its-stock-to-the-next-level-6b2a708b
+Time Published: 2024-10-09T11:25:00Z
+Description: New AI model and strategic partnership with Accenture are aggressive and defensive.
 --------------------------------------------------
 
 Title: NVIDIA Corporation (NVDA): Stock That Will Make You Rich in 5-10 Years
@@ -237,14 +256,14 @@ Full Content:
 This is not investment advice. The author has no position in any of the stocks mentioned. Wccftech.com has a disclosure and ethics policy. Citi has penned an important investment note on NVIDIA today, touching on the stock's immediate prospects and the likely trajectory of the GPU manufacturer's margins as the Blackwell production ramp-up gets underway. Off the bat, Citi has asserted that NVIDIA's under-pressure gross margins will bottom out in the low-70s percents in Q1 2025, with the Wall Street titan continuing to view the ~72 percent level as the likely trough. After Q1, Citi expects NVIDIA's gross margins to stabilize in "the mid-70s%" as the Blackwell architecture ramps up. The bank notes: "While we are bullish on another strong +40% Y/Y cloud data center capex growth next year, we expect the stock to likely remain range bound through CES Jan before Blackwell driven Y/Y sales and gross margin inflection in the Apr-Q." On the topic of the GPU competition that is rapidly heating up, Citi perceives no immediate threat as NVIDIA's products currently lead the market on multiple metrics, including the Total Cost of Ownership (TCO) and the Return on Investment (ROI). The bank believes data centers prefer NVIDIA's GPUs for the flexibility that they offer: "As NVDA runs various applications including AI, the data center operators rely on NVDA to have the hardware to run multiple applications rather than buying accelerators that are limited in their use cases." According to the bank, an enterprise operating across multiple cloud-based platforms has to re-write its applications specific to every cloud operator, which poses a huge pain point. In contrast, "with NVDA GPUs, enterprises write their applications once as it will be transferable across clouds." What's more, NVIDIA's large installed base already constitutes a strong pull for developers, who desire "the largest possible adoption of their applications." On the topic of the Blackwell sales mix, Citi asserts that the GB200 chip will attract a greater proportion of orders from customers instead of the "B100’s 8-GPU format," owing to the former's favorable TCO and ROI metrics. In light of its positive - if a bit dampened - view on NVIDIA, Citi has maintained its Buy rating on the stock with a target of $150 per share. Subscribe to get an everyday digest of the latest technology news in your inbox Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com © 2024 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq slide as 10-year Treasury yield, oil jump
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-tumbles-400-points-tech-leads-nasdaq-sp-500-lower-as-10-year-yield-tops-4-200136477.html/
+Title: Stock market today: Dow, S&P 500, Nasdaq slide as investors rethink rate cut bets, 10-year treasury jumps
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-10-year-treasury-yield-oil-jump-185828133.html/
 Time Published: 2024-10-07T18:58:28Z
 Description: Investors have overhauled their views on interest rate cuts after a blowout jobs report, ahead of a week of key inflation data and the start of earnings...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq slide as investors rethink rate cut bets, 10-year treasury jumps
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-10-year-treasury-yield-oil-jump-185828133.html/
+Title: Stock market today: Dow, S&P 500, Nasdaq slide as 10-year Treasury yield, oil jump
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-tumbles-400-points-tech-leads-nasdaq-sp-500-lower-as-10-year-yield-tops-4-200136477.html/
 Time Published: 2024-10-07T18:58:28Z
 Description: Investors have overhauled their views on interest rate cuts after a blowout jobs report, ahead of a week of key inflation data and the start of earnings...
 --------------------------------------------------
@@ -257,16 +276,16 @@ Monday's trading session is showcasing significant movements across the board fr
 --------------------------------------------------
 
 Title: Super Micro Computer Stock Surges as AI Demand Drives Shipments
+URL: https://finance.yahoo.com/news/super-micro-computer-stock-surges-165635373.html/
+Time Published: 2024-10-07T16:56:35Z
+Description: Super Micro Computer shares soared Monday as the server maker reported booming demand for artificial intelligence is driving shipments of its GPUs.
+--------------------------------------------------
+
+Title: Super Micro Computer Stock Surges as AI Demand Drives Shipments
 URL: https://www.investopedia.com/super-micro-computer-stock-surges-as-ai-demand-drives-shipments-8724295
 Time Published: 2024-10-07T16:56:35Z
 Full Content:
 Super Micro Computer (SMCI) shares soared Monday as the server maker reported strong shipments of its graphics processing units (GPUs), driven by artificial intelligence (AI) demand. The company said it recently deployed 100,000 GPUs with its liquid cooling technology to “some of the largest AI factories ever built.” Super Micro Computer also announced a new lineup of direct liquid cooling products for servers that it said could help AI firms cut their energy costs. CEO Charles Liang said the company’s liquid cooling solutions “are now cooling massive, state-of-the-art AI factories, reducing costs and improving performance.” Liang added that data center operators are coming to Super Micro Computer “to meet their technical and financial goals for both the construction of greenfield sites and the modernization of existing data centers.” Super Micro Computer shares were up over 13% at $46.77 in intraday trading Monday, and have gained about two-thirds of their value since the start of the year. Shares of AI chipmaker Nvidia (NVDA), a partner of Super Micro Computer, also got a boost Monday and have more than doubled in value in 2024 so far. TradingView CORRECTION—Oct. 7, 2024: This article has been corrected to reflect Super Micro Computer reported it deployed 100,000 graphics processing units (GPUs).
---------------------------------------------------
-
-Title: Super Micro Computer Stock Surges as AI Demand Drives Shipments
-URL: https://finance.yahoo.com/news/super-micro-computer-stock-surges-165635373.html/
-Time Published: 2024-10-07T16:56:35Z
-Description: Super Micro Computer shares soared Monday as the server maker reported booming demand for artificial intelligence is driving shipments of its GPUs.
 --------------------------------------------------
 
 Title: Super Micro shares surge as AI boom drives 100,000 quarterly GPU shipments
@@ -309,23 +328,4 @@ Title: Nvidia's CEO Says Demand for Its New Chips Is "Insane." Is It Time to Buy
 URL: https://finance.yahoo.com/news/nvidias-ceo-says-demand-chips-111500464.html/
 Time Published: 2024-10-06T11:15:00Z
 Description: Why demand for Nvidia's GPUs is likely to remain robust for the foreseeable future.
---------------------------------------------------
-
-Title: Robust Job Gains Remove Recession Fears
-URL: https://www.forbes.com/sites/bill_stone/2024/10/06/robust-job-gains-remove-recession-fears/
-Time Published: 2024-10-06T11:00:00Z
-Full Content:
-The jobs report was so broadly strong that it signaled the end of the recent labor market cooling ... [+] trend. The September jobs report on Friday put to rest any fears that the labor market might be on a path to cool enough to endanger U.S. economic growth. On the contrary, the report was so broadly strong as to give rise to worries that the Federal Reserve might pause further cuts and reignited wage growth might be a looming danger. Employment grew by 254,000 nonfarm jobs, which was well above expectations, and the upwardly revised 159,000 in August. The household survey data was also robust at a gain of 430,000 jobs, with the research series, which mirrors the payroll report criteria, soaring by a whopping 666,000. Monthly Job Growth The unemployment rate was reported at 4.1% but was close to 4.0% at 4.05%, down from 4.2%. Unemployment Rate Wages crept up to 4.0% year-over-year, above the expectations of 3.8%, which reinforces the strength of the labor demand but might raise questions about renewed inflation pressures. The only blemish on the jobs report was the average workweek hours falling to 34.2, a four-year low also seen in July and January. Hours & Wage Growth The high-frequency initial and continuing filings for unemployment benefits confirm that the cooling trend in the labor market has stabilized, with both measures off their respective peaks. Initial Jobless Claims Before the recent decline, the unemployment rate had risen enough off the lows to trigger the Sahm Rule, which has an unblemished track record of forecasting recession. However, there are several reasons to believe that the Sahm Rule might be overstating the risk of recession during this cycle. Monitoring the prime-age, 25 to 54 years old, employment-to-population ratio should help signal when concern about the rising unemployment rate is warranted. The rising prime-age employment-to-population ratio is further evidence that the labor market does not yet pose an imminent threat to the health of the economy. Prime-Age Employment-To-Population Ratio: 3 Month Average Stocks had another positive week, with the S&P 500 near all-time highs by Friday’s market close. The Magnificent 7, consisting of Microsoft (MSFT), Meta Platforms (META), Amazon.com (AMZN), Apple (AAPL), NVIDIA SPDR Dow Jones Industrial Average ETF Trust (NVDA), Alphabet (GOOGL), and Tesla (TSLA), moved higher as well. Stock Returns Looking below the surface, the more economically sensitive cyclical stocks outperformed defensive stocks, which are less impacted by the economy. The lower probability of recession after the healthy jobs report is reflected in the better performance of economically sensitive companies. Cyclicals Versus Defensives The crucial economic reports before the next Federal Reserve meeting on November 7 include Thursday’s consumer inflation (CPI) and another monthly jobs report. Consensus estimates expect September CPI to slow to 2.3% year-over-year from 2.5%. The Cleveland Fed’s CPI supports this view and should leave the door open to a 25 basis point cut at the November meeting. U.S. CPI Estimate Futures pricing reacted to the strong jobs report by slashing the expected pace of 2024 rate cuts. A short-term interest rate cut of 25 (0.25%) basis points at the November and December Fed meetings is implied. In response to the slower expected pace of rate cuts, the 2-year and 10-year Treasury yields rose to 3.92% and 3.97%, respectively. Expected Fed Rate Cuts Friday’s job report increases the probability that the Federal Reserve can engineer a soft landing with the U.S. economy remaining remarkably resilient. The Atlanta Fed’s estimate of third-quarter GDP is at 2.5%, according to their last update on October 1. As the fears of recession recede and have been reflected in all-time high stock prices, earnings will likely need to be the next catalyst for higher prices. Third-quarter earnings season kicks off at the end of the week as if on cue. Disclosure: Glenview Trust currently has holdings of Microsoft (MSFT), Meta Platforms (META), Amazon.com (AMZN), Apple (AAPL), NVIDIA (NVDA), and Alphabet (GOOGL) within its recommended investment strategies.
---------------------------------------------------
-
-Title: Nvidia, Microsoft, SoftBank, and Cathie Wood's Ark Invest Are Betting Big on This AI Startup
-URL: https://finance.yahoo.com/news/nvidia-microsoft-softbank-cathie-woods-102300615.html/
-Time Published: 2024-10-06T10:23:00Z
-Description: OpenAI just closed one of the largest private funding rounds in American history.
---------------------------------------------------
-
-Title: Prediction: These 2 Stocks Will Join Nvidia, Meta, Apple, Amazon, and Microsoft in the Trillion-Dollar Club by 2030
-URL: https://finance.yahoo.com/news/prediction-2-stocks-join-nvidia-100000345.html/
-Time Published: 2024-10-06T10:00:00Z
-Description: These companies have been on fire for a while, but they haven't peaked yet.
 --------------------------------------------------
