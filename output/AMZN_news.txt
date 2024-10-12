@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Dow Jones Rises After Inflation Data; Tesla Plunges On Robotaxi Event
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-tesla-stock-tsla-robotaxi/
+Time Published: 2024-10-11T13:47:44Z
+Description: Tesla stock plunged Friday following the company's robotaxi event.
+--------------------------------------------------
+
 Title: Amazon Pharmacy to Double Service Areas, Offer Same-Day Medication Delivery
 URL: https://www.benzinga.com/news/large-cap/24/10/41270285/amazon-pharmacy-to-double-service-areas-offer-same-day-medication-delivery
 Time Published: 2024-10-10T14:25:17Z
