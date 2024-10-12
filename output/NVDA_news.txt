@@ -304,16 +304,16 @@ Description: None
 --------------------------------------------------
 
 Title: Nvidia Overtakes Microsoft as World's Second-Largest Company by Market Cap
+URL: https://finance.yahoo.com/news/nvidia-overtakes-microsoft-worlds-second-212158781.html/
+Time Published: 2024-10-07T21:21:58Z
+Description: Nvidia's market capitalization overtook Microsoft's on Monday, making it the second-largest company in the world behind Apple.
+--------------------------------------------------
+
+Title: Nvidia Overtakes Microsoft as World's Second-Largest Company by Market Cap
 URL: https://www.investopedia.com/nvidia-overtakes-microsoft-as-second-largest-company-by-market-value-8724587
 Time Published: 2024-10-07T21:21:58Z
 Full Content:
 Nvidia's (NVDA) market capitalization overtook Microsoft's (MSFT) on Monday, making it the second-largest company in the world behind Apple (AAPL). Nvidia shares climbed just over 2% Monday, lifting the chipmaker's market cap to $3.13 trillion, ahead of Microsoft's $3.04 trillion. Super Micro Computer (SMCI), a partner of Nvidia, reported strong shipments of its GPUs driven by artificial intelligence (AI) demand, helping send shares of both companies higher. Nvidia and Microsoft have been jockeying with Apple for the top spot by market cap in recent months. In June, Nvidia briefly took the crown when it surpassed Microsoft, but Microsoft later reclaimed the title, and Apple has since pulled ahead. Nvidia's stock price has more than doubled in value since the start of the year, as demand for its AI chips surged. Analysts suggested Nvidia shares could still climb higher, given the strength of AI spending trends and seasonal tailwinds. Semiconductor companies typically perform better in the fourth quarter than they do in the third quarter, with Nvidia “still set to lead," Melius Research analysts said Monday, adding "the setup here is still pretty darn good." Melius holds a price target of $165 for Nvidia, a 29% premium on Monday's closing price of $127.72. That compares to an average price target of $152.52, according to Visible Alpha.
---------------------------------------------------
-
-Title: Nvidia Overtakes Microsoft as World's Second-Largest Company by Market Cap
-URL: https://finance.yahoo.com/news/nvidia-overtakes-microsoft-worlds-second-212158781.html/
-Time Published: 2024-10-07T21:21:58Z
-Description: Nvidia's market capitalization overtook Microsoft's on Monday, making it the second-largest company in the world behind Apple.
 --------------------------------------------------
 
 Title: What Wall Street Thinks of AMD Stock Ahead of Thursday's 'Advancing AI' Event
@@ -330,8 +330,8 @@ Full Content:
 This is not investment advice. The author has no position in any of the stocks mentioned. Wccftech.com has a disclosure and ethics policy. Citi has penned an important investment note on NVIDIA today, touching on the stock's immediate prospects and the likely trajectory of the GPU manufacturer's margins as the Blackwell production ramp-up gets underway. Off the bat, Citi has asserted that NVIDIA's under-pressure gross margins will bottom out in the low-70s percents in Q1 2025, with the Wall Street titan continuing to view the ~72 percent level as the likely trough. After Q1, Citi expects NVIDIA's gross margins to stabilize in "the mid-70s%" as the Blackwell architecture ramps up. The bank notes: "While we are bullish on another strong +40% Y/Y cloud data center capex growth next year, we expect the stock to likely remain range bound through CES Jan before Blackwell driven Y/Y sales and gross margin inflection in the Apr-Q." On the topic of the GPU competition that is rapidly heating up, Citi perceives no immediate threat as NVIDIA's products currently lead the market on multiple metrics, including the Total Cost of Ownership (TCO) and the Return on Investment (ROI). The bank believes data centers prefer NVIDIA's GPUs for the flexibility that they offer: "As NVDA runs various applications including AI, the data center operators rely on NVDA to have the hardware to run multiple applications rather than buying accelerators that are limited in their use cases." According to the bank, an enterprise operating across multiple cloud-based platforms has to re-write its applications specific to every cloud operator, which poses a huge pain point. In contrast, "with NVDA GPUs, enterprises write their applications once as it will be transferable across clouds." What's more, NVIDIA's large installed base already constitutes a strong pull for developers, who desire "the largest possible adoption of their applications." On the topic of the Blackwell sales mix, Citi asserts that the GB200 chip will attract a greater proportion of orders from customers instead of the "B100’s 8-GPU format," owing to the former's favorable TCO and ROI metrics. In light of its positive - if a bit dampened - view on NVIDIA, Citi has maintained its Buy rating on the stock with a target of $150 per share. Subscribe to get an everyday digest of the latest technology news in your inbox Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com © 2024 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq slide as 10-year Treasury yield, oil jump
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-tumbles-400-points-tech-leads-nasdaq-sp-500-lower-as-10-year-yield-tops-4-200136477.html/
+Title: Stock market today: Dow, S&P 500, Nasdaq slide as investors rethink rate cut bets, 10-year treasury jumps
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-10-year-treasury-yield-oil-jump-185828133.html/
 Time Published: 2024-10-07T18:58:28Z
 Description: Investors have overhauled their views on interest rate cuts after a blowout jobs report, ahead of a week of key inflation data and the start of earnings...
 --------------------------------------------------
