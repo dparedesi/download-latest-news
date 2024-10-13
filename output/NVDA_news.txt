@@ -214,18 +214,18 @@ Time Published: 2024-10-09T12:00:19Z
 Description: S&P 500 earnings season is kicking off.
 --------------------------------------------------
 
-Title: Analyst Report: NVIDIA Corp
-URL: https://finance.yahoo.com/research/reports/ARGUS_3656_AnalystReport_1728473526000/
-Time Published: 2024-10-09T11:32:06Z
-Full Content:
-Nvidia Corp., based in Santa Clara, California, is a visual computing company with worldwide operations and markets. The company operates through two segments, Graphics and Compute & Networking. The company's four main markets are gaming, professional visualization, data center, and automotiv James Kelleher, CFA
---------------------------------------------------
-
 Title: Market Digest: NVDA, GEV
 URL: https://finance.yahoo.com/research/reports/ARGUS_41456_MarketSummary_1728473526000/
 Time Published: 2024-10-09T11:32:06Z
 Full Content:
 Talk about an undecided market. As of the close on Monday, October 7, in four of the past five days, the closing range of the S&P 500 (SPX) was 13.6 points. That is two-tenths of 1% based on the price of the index. For the Nasdaq, the range in four out of five days was 14.76 points or eight one-hundredths of 1%. The Nasdaq 100's (QQQ) range was 0.83 points or two-tenths of 1%. The Nasdaq and the QQQ tested their 21-day exponential a few times and remain perilously close to breaking that average, while the SPX has come close to the average on several occasions intraday. Third-quarter EPS season is now underway and the next three weeks will be very heavy with earnings reports. Just prior to and just after earnings reports, companies are in a blackout period. During that time, a company cannot repurchase its stock. So in April/early May, July/early August, October/early November, and January/early February, there is an absence of demand that can create weakness in the overall market. First-quarter 2024 share buybacks on the S&P 500 were $237 billion and for the 12-months ending March 2024, buybacks were $817 billion. C AMD GOOG GOOGL GOOGL, HUM, NVDA, AVGO, ESYJY, EJTTF, HBI, ZTNO, INTC, ADBE, AMD, RGEN, AMZN, MRVL META
+--------------------------------------------------
+
+Title: Analyst Report: NVIDIA Corp
+URL: https://finance.yahoo.com/research/reports/ARGUS_3656_AnalystReport_1728473526000/
+Time Published: 2024-10-09T11:32:06Z
+Full Content:
+Nvidia Corp., based in Santa Clara, California, is a visual computing company with worldwide operations and markets. The company operates through two segments, Graphics and Compute & Networking. The company's four main markets are gaming, professional visualization, data center, and automotiv James Kelleher, CFA
 --------------------------------------------------
 
 Title: Nvidia just made two moves that could push its stock to the next level
