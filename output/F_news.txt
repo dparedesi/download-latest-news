@@ -1,5 +1,12 @@
 List of news related to Ford stock price F:
 
+Title: Show HN: A dataset of all HN submission texts (2006-2024) in Markdown
+URL: https://huggingface.co/datasets/nixiesearch/hackernews-stories
+Time Published: 2024-10-13T10:39:12Z
+Full Content:
+This dataset is based on nixiesearch/hackernews-comments dataset: The dataset is available as a set of JSONL-formatted files with ZSTD compression: The id field matches the id field from the upstream nixiesearch/hackernews-comments dataset. You can also use this dataset using Huggingface datasets library: and then: Apache License 2.0 Some elements in this dataset have been identified as opted-out, or opted-in, by their creator.
+--------------------------------------------------
+
 Title: Ford Motor Company (F): Driving Growth with Ford Pro Solutions
 URL: https://finance.yahoo.com/news/ford-motor-company-f-driving-152217172.html
 Time Published: 2024-10-12T15:22:17Z
