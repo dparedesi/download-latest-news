@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Chip-Gear Giant ASML Crashes On Q3 Report, Pulls Down Nvidia, Other Stocks
+URL: https://www.investors.com/news/technology/asml-stock-crashes-on-q3-report/
+Time Published: 2024-10-15T16:10:11Z
+Description: ASML stock tumbled on Tuesday after the company reported disappointing third-quarter bookings and lowered its 2025 guidance.
+--------------------------------------------------
+
 Title: Nvidia and other chip stocks surge with no sign of AI spending slowdown — for now
 URL: https://finance.yahoo.com/news/nvidia-and-other-chip-stocks-surge-with-no-sign-of-ai-spending-slowdown--for-now-212335257.html
 Time Published: 2024-10-14T21:23:35Z

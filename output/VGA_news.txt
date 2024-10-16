@@ -1,5 +1,11 @@
 List of news related to Vanguard Group Inc:
 
+Title: (PR) Intel and AMD Form x86 Ecosystem Advisory Group
+URL: https://www.techpowerup.com/327734/intel-and-amd-form-x86-ecosystem-advisory-group
+Time Published: 2024-10-15T17:11:05Z
+Description: Intel Corp. (INTC) and AMD (NASDAQ: AMD) today announced the creation of an x86 ecosystem advisory group bringing together technology leaders to shape the future of the world's most widely used computing architecture. x86 is uniquely positioned to meet custom…
+--------------------------------------------------
+
 Title: NN Group N.V. (AMS:NN) is largely controlled by institutional shareholders who own 54% of the company
 URL: https://finance.yahoo.com/news/nn-group-n-v-ams-074535473.html
 Time Published: 2024-10-13T07:45:35Z
