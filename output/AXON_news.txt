@@ -1,5 +1,11 @@
 List of news related to Axon Enterprise AXON:
 
+Title: The Future of Big Iron: An Interview with IBM’s Christian Jacobi
+URL: https://morethanmoore.substack.com/p/the-future-of-big-iron-telum-ii-and
+Time Published: 2024-10-15T09:13:07Z
+Description: An Interview with IBM’s Christian Jacobi
+--------------------------------------------------
+
 Title: AppLovin shares down after Goldman Sachs downgrades to 'neutral' from 'buy'
 URL: https://www.investing.com/news/stock-market-news/applovin-shares-down-after-goldman-sachs-downgrades-to-neutral-from-buy-3661538
 Time Published: 2024-10-14T11:44:42Z
