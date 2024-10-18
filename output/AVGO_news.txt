@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Dow Jones Futures: Nvidia In Buy Area With Taiwan Semi Due; Why Nuclear Stocks Are Radioactive
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-buy-area-taiwan-semi-earnings-nuclear-stocks/
+Time Published: 2024-10-16T21:34:31Z
+Description: The stock market is strong with Nvidia in a buy area ahead of Taiwan Semiconductor. Nuclear stocks are too hot to handle now.
+--------------------------------------------------
+
+Title: Nvidia, Broadcom Eye Breakouts. These 2 IPOs Join In.
+URL: https://www.investors.com/research/breakout-stocks-technical-analysis/nvidia-stock-broadcom-ipo-stocks-viking-rubrik/
+Time Published: 2024-10-16T20:05:19Z
+Description: As Nvidia and Broadcom target breakouts, two IPO stocks look to launch moves of their own.
+--------------------------------------------------
+
 Title: Blowout Growth From 3 Stocks Is About To Leave Nvidia In The Dust
 URL: https://www.investors.com/etfs-and-funds/sectors/sp500-blowout-growth-from-3-stocks-is-about-to-leave-nvidia-in-the-dust/
 Time Published: 2024-10-16T12:00:41Z
@@ -10,7 +22,7 @@ Title: Dow and Nasdaq slump as ASML leads a chip stock rout
 URL: https://qz.com/dow-nasdaq-slump-asml-nvidia-1851673026
 Time Published: 2024-10-15T17:51:00Z
 Full Content:
-The Dow and other major indexes experienced losses Tuesday afternoon as chipmakers struggled amid news of potential export caps. In the afternoon, the Dow Jones Industrial Average dropped 118 points, or 0.28%, to 42,939. The tech-heavy Nasdaq and S&P 500 shed 0.8% and 0.4%, respectively. Shares of Dutch semiconductor equipment manufacturer ASML (ASML+2.19%) plummeted following the company’s disappointing third-quarter bookings and a downward revision of its 2025 guidance. During afternoon trading, ASML’s stock dropped by more than 16%, reflecting investors’ concerns about the company’s outlook. “While there continue to be strong developments and upside potential in AI, other market segments are taking longer to recover,” CEO Christophe Fouquet said in the company’s earnings report. “It now appears the recovery is more gradual than previously expected.” ASML is the only company in the world that makes the equipment needed for advanced chip manufacturing, and nearly half of ASML’s revenue for the second quarter came from sales to China. However, due to export restrictions from the U.S. and the Netherlands, the company is now facing a more challenging business outlook in China. Shares of Nvidia (NVDA+2.34%) fell over 5% Tuesday, a day after after closing at a record high. The chipmaker’s stock was down less than 1% in pre-market trading, but had fallen by about 5% by midday. The drop occurred following a report that the U.S. could cap sales of advanced artificial intelligence chips from U.S.-based chipmakers to certain countries. Biden administration officials in recent weeks have discussed putting a ceiling on export licenses for advanced AI chips, including those from Nvidia and rival AMD (AMD+0.67%), to countries in the Middle East, citing national security concerns, Bloomberg reported. Among major semiconductor stocks, Advanced Micro Devices (AMD+0.67%) fell by 4.9%, Micron Technology (MU+3.44%) declined by 3.5%, and Broadcom (AVGO+3.85%) decreased by 3.5% on Tuesday. –Britney Nguyen contributed to this article Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
+The Dow and other major indexes experienced losses Tuesday afternoon as chipmakers struggled amid news of potential export caps. In the afternoon, the Dow Jones Industrial Average dropped 118 points, or 0.28%, to 42,939. The tech-heavy Nasdaq and S&P 500 shed 0.8% and 0.4%, respectively. Shares of Dutch semiconductor equipment manufacturer ASML (ASML+2.48%) plummeted following the company’s disappointing third-quarter bookings and a downward revision of its 2025 guidance. During afternoon trading, ASML’s stock dropped by more than 16%, reflecting investors’ concerns about the company’s outlook. “While there continue to be strong developments and upside potential in AI, other market segments are taking longer to recover,” CEO Christophe Fouquet said in the company’s earnings report. “It now appears the recovery is more gradual than previously expected.” ASML is the only company in the world that makes the equipment needed for advanced chip manufacturing, and nearly half of ASML’s revenue for the second quarter came from sales to China. However, due to export restrictions from the U.S. and the Netherlands, the company is now facing a more challenging business outlook in China. Shares of Nvidia (NVDA+0.92%) fell over 5% Tuesday, a day after after closing at a record high. The chipmaker’s stock was down less than 1% in pre-market trading, but had fallen by about 5% by midday. The drop occurred following a report that the U.S. could cap sales of advanced artificial intelligence chips from U.S.-based chipmakers to certain countries. Biden administration officials in recent weeks have discussed putting a ceiling on export licenses for advanced AI chips, including those from Nvidia and rival AMD (AMD+0.07%), to countries in the Middle East, citing national security concerns, Bloomberg reported. Among major semiconductor stocks, Advanced Micro Devices (AMD+0.07%) fell by 4.9%, Micron Technology (MU+2.54%) declined by 3.5%, and Broadcom (AVGO+2.68%) decreased by 3.5% on Tuesday. –Britney Nguyen contributed to this article Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
 --------------------------------------------------
 
 Title: Chip-Gear Giant ASML Crashes On Q3 Report, Pulls Down Nvidia, Other Stocks
@@ -31,16 +43,4 @@ URL: https://finance.yahoo.com/news/tech-stocks-fuel-market-surge-204804483.html
 Time Published: 2024-10-14T20:48:04Z
 Full Content:
 Stock markets soared to new highs today, with the S&P 500 and the Dow Jones Industrial Average climbing by 0.8% and 0.5%, respectively, amid robust gains in technology stocks. The Nasdaq Composite also rose by 0.9%, nearing a record itself, fueled by Nvidia's 3% surge as it approaches an all-time high. This upswing marks the continuation of a five-week rally driven by solid bank earnings and optimistic inflation data. Warning! GuruFocus has detected 2 Warning Sign with MSFT. Despite today's federal holiday leaving U.S. government offices and banks shuttered, the stock market remained active, though no significant earnings or economic data releases were scheduled. The coming days, however, promise a slew of earnings reports and crucial economic updates. Tech giants Microsoft (MSFT, Financial), Apple (AAPL, Financial), Meta Platforms(META, Financial), Alphabet(GOOGL, Financial), and Broadcom(AVGO, Financial) all escalated high, contrasting with Amazon's(AMZN, Financial) slight dip. Meanwhile, Boeing (BA, Financial) faced a downturn, shedding over 1% following an announcement of significant job cuts and anticipated pre-tax earnings charges totaling $5 billion in the third quarter. Caterpillar also saw a decline, dropping nearly 2% after Morgan Stanley downgraded its stock. In the cryptocurrency sector, Bitcoin surged over 5% to reach about $66,000. Coinbase saw a 10% increase, and Marathon Digital Holdings rose by 7%. Commodities experienced some volatility, with crude oil futures dropping by 2% due to ongoing Middle East tensions, which are potentially impacting global supply. Gold futures also fell, down about 0.5% to approximately $2,660 an ounce. This article first appeared on GuruFocus. Sign in to access your portfolio
---------------------------------------------------
-
-Title: Dow Jones, S&P 500 At Highs, Bulls Running; New China Stimulus
-URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-china-stimulus/
-Time Published: 2024-10-12T18:13:18Z
-Description: The Dow and S&P 500 hit record highs and many leaders flashed buy signals.
---------------------------------------------------
-
-Title: Broadcom, 'Top Pick' AI Play, Leads 5 Stocks Near Buy Points
-URL: https://www.investors.com/news/broadcom-ai-stocks-near-buy-points/
-Time Published: 2024-10-12T12:00:26Z
-Description: Uber gapped up Friday as Tesla wasn't seen as a ride-hailing theat.
 --------------------------------------------------
