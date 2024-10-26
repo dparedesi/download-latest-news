@@ -1,5 +1,18 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Nvidia And Other Chip Stocks Rise On Analyst Comments. These Are The Top Picks.
+URL: https://www.investors.com/news/technology/nvidia-stock-ai-chip-stocks-rise-analyst-comments/
+Time Published: 2024-10-25T16:30:15Z
+Description: Artificial intelligence chip stocks rose Friday amid encouraging reports from Wall Street analysts. Nvidia stock was among the gainers.
+--------------------------------------------------
+
+Title: Tesla's Stock Taps the Brakes, But It's Still Rising—And So Is the Magnificent Seven
+URL: https://www.investopedia.com/tesla-stock-taps-the-brakes-but-its-still-rising-magnificent-seven-8734228
+Time Published: 2024-10-25T14:27:17Z
+Full Content:
+Yesterday's hit stock has cooled a bit today—but it's still working its way higher. Shares of EV maker Tesla (TSLA) were up nearly 3% in early trading Friday to around $268, outperforming the benchmark S&P 500. (Read today's markets coverage here.) That's less dramatic than the numbers the stock turned in Thursday as the company saw its shares rise 22%, its biggest percentage gain in more than a decade, on the back of an earnings report and outlook investors cheered. Today's move has the stock on track for a weekly gain of about 21% from last Friday's close of $220.70. It has the company's market capitalization at around $840 billion, according to Visible Alpha data. Analysts tracked by Visible Alpha have yet to catch up to Tesla's latest ride higher, with their mean price target at about $232. It also comes as the other six of the so-called Magnificent Seven megacap tech shares—Alphabet (GOOGL), Amazon (AMZN), Apple (AAPL), Meta Platforms (META), Microsoft (MSFT) and Nvidia (NVDA)—rose, with all but Apple up more than 1% in recent trading. That would point toward general optimism ahead of quarterly financial results from Apple, Alphabet, Microsoft, and Meta that are expected next week.
+--------------------------------------------------
+
 Title: Amazon's SWOT analysis: e-commerce giant's stock faces growth hurdles
 URL: https://www.investing.com/news/company-news/amazons-swot-analysis-ecommerce-giants-stock-faces-growth-hurdles-93CH-3679170
 Time Published: 2024-10-24T01:46:20Z
