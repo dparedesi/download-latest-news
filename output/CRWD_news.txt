@@ -1,5 +1,12 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Delta Sues Crowdstrike Over July IT Outage That Affected Thousands Of Flights
+URL: https://www.investopedia.com/delta-sues-crowdstrike-over-july-it-outage-that-affected-thousands-of-flights-8734903
+Time Published: 2024-10-26T15:38:18Z
+Full Content:
+Delta Air Lines (DAL) is suing cybersecurity company CrowdStrike Inc. (CRWD) over a faulty software update in July that brought its operations to a halt and affected more than a million customers. In a lawsuit Friday, Delta said the software update that affected Microsoft (MSFT) Windows-based systems across the world was "catastrophic" for the company, leading to days of canceled or delayed flights. The airlines estimates that the debacle cost it $500 million, along with loss of future revenue and damaged reputation. The complaint alleges breach of contract, gross negligence and intentional misrepresentation or fraud by omission on CrowdStrike's part. Delta, which was among the most severely affected by the outage, took this legal action after months of finger-pointing among the three companies. Previously, both CrowdStrike and Microsoft had criticized Delta's handling of the situation, saying that the airline refused offers for help. “While we aimed to reach a business resolution that puts customers first, Delta has chosen a different path,” a CrowdStrike spokesperson told CNBC. “Delta’s claims are based on disproven misinformation, demonstrate a lack of understanding of how modern cybersecurity works, and reflect a desperate attempt to shift blame for its slow recovery away from its failure to modernize its antiquated IT infrastructure.” CORRECTION: This article has been updated with the correct spelling of CrowdStrike in several instances, and of Delta Air Lines.
+--------------------------------------------------
+
 Title: CrowdStrike Holdings (CRWD) Registers a Bigger Fall Than the Market: Important Facts to Note
 URL: https://finance.yahoo.com/news/crowdstrike-holdings-crwd-registers-bigger-214520065.html
 Time Published: 2024-10-22T21:45:20Z
