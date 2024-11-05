@@ -1,5 +1,11 @@
 List of news related to Axon Enterprise AXON:
 
+Title: Dow Jones Futures Fall Amid Election Shifts; Big S&P 500 Winners On Tap, Nvidia To Join Dow
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-election-sp-500-winners-nvidia-to-join-dow-intel/
+Time Published: 2024-11-03T23:03:00Z
+Description: The Federal Reserve meets this week. Nvidia will replace Intel in the Dow Jones.
+--------------------------------------------------
+
 Title: GitHub Copilot for Xcode
 URL: https://mjtsai.com/blog/2024/10/31/github-copilot-for-xcode/
 Time Published: 2024-10-31T17:58:58Z
