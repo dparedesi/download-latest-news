@@ -1,5 +1,12 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia Might Invest in xAI at a $75 Billion Valuation
+URL: https://www.nextbigfuture.com/2024/11/nvidia-might-invest-in-xai-at-a-75-billion-valuation.html
+Time Published: 2024-11-04T07:47:57Z
+Full Content:
+Home » Artificial intelligence » Nvidia Might Invest in xAI at a $75 Billion Valuation The New York Post reports NVDA is looking to make a strategic investment in Elon Musk’s AI venture, xAI. xAI is exploring a new funding round in January 2025, which could value the company at $75 billion. xAI last raised a $6 billion round with a $24 billion valuation earlier 2024. xAI is doubling the size of its 100,000 H100 chip AI data center now. This could be installed and running in a month. xAI will be getting 300,000 Nvidia B200s. B200s are the next generation Nvidia chips with 20 Petaflops of performance. Nvidia CEO Jensen Huang described xAI installing 100,000 H100s in 19 days as superhuman. Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and fundraiser for high potential early-stage companies. He is the Head of Research for Allocations for deep technology investments and an Angel Investor at Space Angels. A frequent speaker at corporations, he has been a TEDx speaker, a Singularity University speaker and guest at numerous interviews for radio and podcasts. He is open to public speaking and advising engagements. Musk privately holds an AI company and is claiming that most of the future value of Tesla is from AI. As an investor, how do you know what portions of robotaxi value will be owned by Tesla and what will be owned by xAI? How do you know that Musk won’t make the AI driver an xAI asset and license it to Tesla? How can you be sure enough in future AI driver ownership to make Tesla worth investing in? Comment
+--------------------------------------------------
+
 Title: Dow Jones Futures Fall Amid Election Shifts; Big S&P 500 Winners On Tap, Nvidia To Join Dow
 URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-election-sp-500-winners-nvidia-to-join-dow-intel/
 Time Published: 2024-11-03T23:03:00Z
