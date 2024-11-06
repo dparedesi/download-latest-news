@@ -1,5 +1,12 @@
 List of news related to NVIDIA NVDA:
 
+Title: company-package added to PyPI
+URL: https://pypi.org/project/company-package/
+Time Published: 2024-11-05T09:00:13Z
+Full Content:
+pip install company-package Copy PIP instructions Released: Nov 5, 2024 A Python package for modeling companies across various sectors. The Company Package is a Python package designed to model companies across different sectors. Ensure you have Python 3.6 or higher. You can install the package and its dependencies from source with: or from PyPi with: Here's a quick example of how to use the package: Visit our documentation page. Contributions are welcome! Fork our repository and submit a pull request. This project is licensed under the MIT License - see the LICENSE file for details. 0.0.2.post0 Nov 5, 2024 0.0.1.post2 Nov 5, 2024 0.0.1.post1 Nov 5, 2024 0.0.1.post0 Nov 5, 2024 0.0.0b0.post12 pre-release Nov 5, 2024 Download the file for your platform. If you're not sure which to choose, learn more about installing packages. Uploaded Nov 5, 2024 Source Uploaded Nov 5, 2024 Python 3 Status: all systems operational Developed and maintained by the Python community, for the Python community. Donate today! "PyPI", "Python Package Index", and the blocks logos are registered trademarks of the Python Software Foundation. © 2024 Python Software Foundation Site map Supported by
+--------------------------------------------------
+
 Title: Stock market today: Dow leads stocks lower as Wall Street braces for Election Day
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-leads-stocks-lower-as-wall-street-braces-for-election-day-210042676.html
 Time Published: 2024-11-04T21:00:42Z
