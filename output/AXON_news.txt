@@ -1,5 +1,11 @@
 List of news related to Axon Enterprise AXON:
 
+Title: How real-world businesses are transforming with AI - The Official Microsoft Blog
+URL: https://blogs.microsoft.com/blog/2024/11/12/how-real-world-businesses-are-transforming-with-ai/
+Time Published: 2024-11-12T17:13:48Z
+Description: One of the highlights of my career has always been connecting with customers and partners across industries to learn how they are using technology to drive their businesses forward. In the past 30 years, we’ve seen four major platform shifts, from client serv…
+--------------------------------------------------
+
 Title: How CFOs Can Adapt Their Budgeting To Today’s Economic Reality
 URL: https://www.forbes.com/sites/cfo/2024/11/12/how-cfos-can-adapt-their-budgeting-to-todays-economic-reality/
 Time Published: 2024-11-12T17:00:30Z
