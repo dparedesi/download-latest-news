@@ -1,1 +1,14 @@
-No news found for Rocket Lab +RKLB
+List of news related to Rocket Lab RKLB:
+
+Title: SpaceX Rival Rocket Lab's Stock Soars to All-Time High With Launch Planned for 2025
+URL: https://www.investopedia.com/spacex-rival-rocket-lab-stock-soars-to-all-time-high-with-launch-planned-for-2025-8744456
+Time Published: 2024-11-13T18:47:33Z
+Full Content:
+Shares of SpaceX competitor Rocket Lab USA (RKLB) soared over 40% to an all-time high in intraday trading Wednesday after the company reported results that topped estimates and announced a deal with a commercial satellite constellation operator, with the first launch of its reusable Neutron rocket slated for next year. The new contract will see Rocket Lab launch two Neutron satellite deployment missions beginning in mid-2026. The rocket is expected to make its debut launch in mid-2025, which the company says gives it an opportunity to vie for pieces of a $5.6 billion U.S. government initiative overseen by the Space Force. Requests for proposals opened on Oct. 30, and approved vehicles are expected to be on-ramped to the program in spring 2025. The company reported third-quarter revenue of $104.81 million, up 55% year-over-year and beating the analyst consensus compiled by Visible Alpha. Its net loss of $51.94 million or 10 cents per share was narrower than expected. With Wednesday's surge, shares of Rocket Lab have nearly quadrupled in value in 2024. The announcement comes after competitor Elon Musk’s SpaceX was tapped by Space Force to conduct a series of missions worth $734 million in upcoming years. Rocket Lab estimates that more than 10,000 commercial and government satellites will need launch services by 2030, supporting a total addressable market of roughly $10 billion.
+--------------------------------------------------
+
+Title: Dow Jones Rises As Nvidia-Backed AI Stock Dives; SMCI Falls Further As Deadline Looms (Live Coverage)
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-backed-ai-stock-super-micro/
+Time Published: 2024-11-13T17:16:10Z
+Description: The Dow rose after inflation data, as an Nvidia-backed AI-stock dropped despite an earnings beat. Super Micro fell on the stock market today.
+--------------------------------------------------
