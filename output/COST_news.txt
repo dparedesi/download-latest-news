@@ -1,5 +1,11 @@
 List of news related to Costco stock price COST:
 
+Title: Dow Jones Futures: Stock Market Falls, Tesla Skids On Trump EV Threat; Palantir Makes Big Move
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-skids-trump-ev-threat-palantir-nasdaq-listing/
+Time Published: 2024-11-15T03:23:39Z
+Description: The Trump trade is waning after last week's huge gains. Here's what to do.
+--------------------------------------------------
+
 Title: [Removed]
 URL: https://removed.com
 Time Published: 2024-11-14T15:40:53Z
@@ -26,10 +32,4 @@ URL: https://removed.com
 Time Published: 2024-11-12T15:35:44Z
 Full Content:
 Coming soon.
---------------------------------------------------
-
-Title: Black Friday 2024 deals: The best early sales we could find from Amazon, Best Buy, Apple, Samsung and more
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_224b72e6-bb1f-4eab-b819-e146b2c96a17
-Time Published: 2024-11-10T18:29:06Z
-Description: Black Friday may technically just be one day, but it’s evolved to consume the entire month of November in the US at this point. For the past few years, retailers like Amazon, Walmart and Target have ushered in the holiday shopping season earlier and earlier, …
 --------------------------------------------------
