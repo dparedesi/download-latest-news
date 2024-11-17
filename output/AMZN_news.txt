@@ -5,9 +5,3 @@ URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-n
 Time Published: 2024-11-13T17:16:10Z
 Description: The Dow rose after inflation data, as an Nvidia-backed AI-stock dropped despite an earnings beat. Super Micro fell on the stock market today.
 --------------------------------------------------
-
-Title: Nvidia Stock Called 'Must-Own,' 'Once-In-A-Lifetime Opportunity'
-URL: https://www.investors.com/news/technology/nvidia-stock-called-once-in-a-lifetime-opportunity/
-Time Published: 2024-11-11T14:12:24Z
-Description: Nvidia stock received price-target increases Monday from two Wall Street analysts who gushed about the chipmaker's AI opportunity.
---------------------------------------------------
