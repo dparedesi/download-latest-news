@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia (NVDA) Pre-Earnings: Analysts Expect 88% Earnings Growth in Q3 - TipRanks
+URL: https://slashdot.org/firehose.pl?op=view&amp;id=175490943
+Time Published: 2024-11-18T06:52:55Z
+Description: Nvidia (NVDA) Pre-Earnings: Analysts Expect 88% Earnings Growth in Q3TipRanks Stock rally stumbles with Nvidia earnings on tap: What to know this weekYahoo Finance Should You Buy Nvidia Stock Before Nov. 20? Wall Street Has a Compelling Answer.The Motley Fool…
+--------------------------------------------------
+
 Title: Bitcoin Hits An All-Time High, But Nvidia Has Outperformed It Dramatically Over The Last Five Years
 URL: https://www.benzinga.com/startups/24/11/42026926/bitcoin-hits-an-all-time-high-but-nvidia-has-outperformed-it-dramatically-over-the-last-five-years
 Time Published: 2024-11-17T19:30:38Z
@@ -139,16 +145,16 @@ Description: SoundHound AI stock continued its roller-coaster ride on Thursday. 
 --------------------------------------------------
 
 Title: Super Micro Computer stock craters over late financial report. Will it get delisted?
+URL: https://www.yahoo.com/tech/super-micro-computer-stock-craters-162300818.html
+Time Published: 2024-11-14T16:23:00Z
+Description: Shares of Super Micro Computer (SMCI) hit a new 52-week low on Thursday morning as the AI-focused hardware company struggles with filing its quarterly report...
+--------------------------------------------------
+
+Title: Super Micro Computer stock craters over late financial report. Will it get delisted?
 URL: https://qz.com/super-micro-computer-nasdaq-delisting-1851698595
 Time Published: 2024-11-14T16:23:00Z
 Full Content:
 Shares of Super Micro Computer (SMCI+16.20%) hit a new 52-week low on Thursday morning as the AI-focused hardware company struggles with filing its quarterly report (Form 10-Q) for the period ending September 30. The San Jose-based company notified the U.S. Securities and Exchange Commission of the delay in a recent filing, saying it needs more time to select and engage a new accounting firm to review financial statements for fiscal 2024. Having already missed the deadline for its 2024 Form 10-K or annual report, Super Micro faces a potential Nasdaq delisting. After receiving a non-compliance letter in September, Super Micro has until November 16 to submit a plan to Nasdaq (NDAQ+1.30%) to regain compliance, or it could face delisting for the second time in five years. On Thursday morning, the company’s stock was trading at $18, down more than 7%. Compared to its March peak of $123, the price has plunged over 85%, erasing over $55 billion in value. Super Micro makes hardware that supports AI applications. The stock has thrived for much of this year and entered the Fortune 500 at No. 498 as part of a frenzy over AI and related tools. As a key partner and reseller of Nvidia’s (NVDA-1.32%) GPUs and other components, Super Micro integrates the technology into its servers to support AI workloads. Super Micro CEO Charles Liang and Nvidia CEO Jensen Huang are both Taiwanese immigrants and have a long-standing relationship. Super Micro Computer went through a rough phase in September when a short seller, Hindenburg Research, published a scathing report accusing the company of accounting red flags and questionable business dealings, including alleged sanctions evasion from exports to Russian and Chinese firms. More recently, the server company’s auditor, Ernst & Young, resigned. The departure follows months of disagreement over Super Micro Computer’s governance practices and board independence. After these events, Super Micro’s stock price experienced a significant decline, dropping 33% so far in 2024 and 35% over the past 12 months. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
---------------------------------------------------
-
-Title: Super Micro Computer stock craters over late financial report. Will it get delisted?
-URL: https://www.yahoo.com/tech/super-micro-computer-stock-craters-162300818.html
-Time Published: 2024-11-14T16:23:00Z
-Description: Shares of Super Micro Computer (SMCI) hit a new 52-week low on Thursday morning as the AI-focused hardware company struggles with filing its quarterly report...
 --------------------------------------------------
 
 Title: 'Trees don’t grow to the sky': Nelson Peltz says the stock market's Trump 'euphoria' won't last
