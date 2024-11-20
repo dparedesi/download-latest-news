@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Tracker</title>
+    <style>
+        body {
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 16px;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        }
+        .stock-container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 24px;
+        }
+        .header img {
+            width: 40px;
+            height: 40px;
+        }
+        h1 {
+            color: #333;
+            font-size: 2rem;
+            margin: 0;
+        }
+        .stock-card {
+            background: white;
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 16px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            position: relative;
+        }
+        .stock-symbol {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+        .current-price {
+            font-size: 1.8rem;
+            margin-bottom: 16px;
+        }
+        .metrics {
+            display: flex;
+            gap: 16px;
+            align-items: center;
+        }
+        .change-pill {
+            padding: 8px 16px;
+            border-radius: 24px;
+            font-weight: 500;
+            font-size: 1.1rem;
+        }
+        .negative {
+            background-color: #fce8e6;
+            color: #c5221f;
+        }
+        .positive {
+            background-color: #e6f4ea;
+            color: #137333;
+        }
+        .high-info {
+            padding: 8px 16px;
+            border-radius: 24px;
+            background-color: #666;
+            color: white;
+            font-size: 1.1rem;
+        }
+        .opportunity-badge {
+            position: absolute;
+            top: 24px;
+            right: 24px;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-weight: 500;
+        }
+        .high-opportunity {
+            background-color: #fce8e6;
+            color: #c5221f;
+        }
+        .medium-opportunity {
+            background-color: #fff7e6;
+            color: #b06000;
+        }
+        .low-opportunity {
+            background-color: #e6f4ea;
+            color: #137333;
+        }
+        .sort-controls {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .sort-button {
+            padding: 8px 16px;
+            border-radius: 20px;
+            border: none;
+            background: white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.2s;
+        }
+        
+        .sort-button:hover {
+            background: #f0f0f0;
+        }
+        
+        .sort-button.active {
+            background: #333;
+            color: white;
+        }
+        
+        .sort-direction {
+            font-size: 0.8em;
+        }
+        .loading-container {
+            text-align: center;
+            padding: 40px;
+            display: none;
+        }
+        .loading-spinner {
+            width: 50px;
+            height: 50px;
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid #333;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto;
+        }
+        .loading-text {
+            margin-top: 20px;
+            font-size: 1.2rem;
+            color: #666;
+        }
+        .progress-bar {
+            width: 300px;
+            height: 10px;
+            background-color: #f3f3f3;
+            border-radius: 5px;
+            margin: 20px auto;
+        }
+        .progress {
+            width: 0%;
+            height: 100%;
+            background-color: #333;
+            border-radius: 5px;
+            transition: width 0.3s ease;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="stock-container">
+        <div class="header">
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAADK0lEQVR4nO2ZW0hUQRjHf5aaZmZkQpbdLB8KKrqQ0UNEQg9VPUQR9GBYkBYVdKPoqaKgyxNBUZQRJQXRgy9daLtQUFBEYmTRxbKy1CjXMtMMV2dhnZ3d2T1n3c0O+8FwZs7MfP/vzJyZby7QQgsttKAXfcBpoBa4D7wG3gLvgRfAI+AKcBwYBxiJYABwEWgEvFHaDWA+0L6pJ58BPAb+RjHpQPYR2OZbRUzRAbgB/NE48TDrBcqAoU01+dXAFw2TDbZvwFGgXVNMvgxo0DjJUO0XsA9oG8/JbwU8cZp0sNUDh4GUeEz+YFNP3m/3gE7xmPwjDZP0AK+AKuAUsBmYCQwGugGpQBugNZAJDAXGAwuBncBZ4GacJKQBX2OYvAd4COwABsXoQwowGbgMfI+RPzXAEuCXpsl7gPNxWGEpwDLgU4y+/QTWAj9imLgH2B8nR5MNPIiRj++BZcDPGCbuAQ7FydFsoDpGfr4EFgHfYpi4BzgWJ0ezgIcx8vURmA18iXHyHuBknBzNBO7GyNtbYArwMQ6T9wBn4uRoOnArRv7eABOBd3GavAc4FydHOwM3Y+TxFTAGeKlh8h7gYpwczQAux8jnc2Ao8ETD5D3ApTg5mgVcj5HX6kDOqHPyHuBqnBztAVyLkd9ngX7AXQ2T9wDX4+RoNnA7Rp4fA72BGxom7wFux8nRvsC9GPmuAnoAFzRM3gPcj5OjA4HHMfL+EOgGlGmYvAd4GidHhwJPYuT/LtAZOKFh8h7gWZwcHQk8i1GOXALaAbs1TN4DvIiTo2OAlzHKk7NAKrBNw+Q9wOs4OToeeB2jXDkBJAEbNEzeA7yNk6OTgHcxypeTQfVAqYbJe4D3cXJ0GvAhRjlzNCiPFmuYvAf4FCdHZwCfY5Q3+wN6AAs0TN4DfImTo3OArzHKnT0BmcB0DZP3AN/i5Oh84FuM8qckIAWYrGHyHuB7nBxdCvyIUQ5tDGgLjNcweQ/wM06OrgR+xSiPVgW0AkZpmHxC0RY4FcUPsxvAiKZ2oDEwDrgP/A2a8B9VYxwAcprLgVhoAWjhf+Ef/+JD0oHnGYcAAAAASUVORK5CYII=" alt="Stock Tracker">
+            <h1>Stock Tracker</h1>
+        </div>
+        <div class="sort-controls">
+            <button class="sort-button active" data-sort="change">
+                Daily Change
+                <span class="sort-direction">▼</span>
+            </button>
+            <button class="sort-button" data-sort="potential">
+                Upside Potential
+                <span class="sort-direction">▼</span>
+            </button>
+        </div>
+        <div class="loading-container" id="loadingContainer">
+            <div class="loading-spinner"></div>
+            <div class="progress-bar">
+                <div class="progress" id="progressBar"></div>
+            </div>
+            <div class="loading-text">Loading stock data... <span id="progressText">0</span>%</div>
+        </div>
+        
+        <div id="stockData"></div>
+    </div>
+
+    <script>
+        const stocks = [
+            'ASTS', 'FN', 'MPWR', 'APO', 'KSPI', 'RKLB', 'MA', 'AVGO', 'GOOGL', 'NU',
+            'JPM', 'CRWD', 'AMZN', 'NVDA', 'TSM', 'MSFT', 'KKR', 'BLK', 'CBRE', 'COST',
+            'CAT', 'IBN', 'PG', 'CMG', 'COP', 'AAPL', 'EME', 'NMIH', 'CRH', 'DHI',
+            'ESQ', 'KO', 'AXP', 'META', 'ELV', 'GEV', 'ANET', 'IBKR', 'SPOT', 'XOM',
+            'NFLX', 'HWM', 'FTNT', 'SOLV', 'NVO', 'LLY'
+        ];
+        const API_KEY = 'csv6m39r01qq28mn260gcsv6m39r01qq28mn2610'; // Replace with your API key
+        
+        async function getStockData(symbol) {
+            const [quoteResponse, basicDataResponse] = await Promise.all([
+                fetch(`https://finnhub.io/api/v1/quote?symbol=${symbol}&token=${API_KEY}`),
+                fetch(`https://finnhub.io/api/v1/stock/metric?symbol=${symbol}&metric=price&token=${API_KEY}`)
+            ]);
+            
+            const quoteData = await quoteResponse.json();
+            const basicData = await basicDataResponse.json();
+            return { quote: quoteData, metrics: basicData };
+        }
+
+        function getOpportunityLevel(upsidePotential) {
+            if (upsidePotential > 50) return ['high-opportunity', 'High Opportunity'];
+            if (upsidePotential > 20) return ['medium-opportunity', 'Medium Opportunity'];
+            return ['low-opportunity', 'Near High'];
+        }
+
+        function displayStockData(symbol, data) {
+            const change = data.quote.c - data.quote.pc;
+            const changePercent = (change / data.quote.pc) * 100;
+            const changeClass = change >= 0 ? 'positive' : 'negative';
+            
+            const weekHigh = data.metrics.metric['52WeekHigh'];
+            const upsidePotential = ((weekHigh / data.quote.c) - 1) * 100;
+            const [opportunityClass, opportunityText] = getOpportunityLevel(upsidePotential);
+            
+            return `
+                <div class="stock-card">
+                    <div class="opportunity-badge ${opportunityClass}">${opportunityText}</div>
+                    <div class="stock-symbol">${symbol}</div>
+                    <div class="current-price">$${data.quote.c.toFixed(2)}</div>
+                    <div class="metrics">
+                        <span class="change-pill ${changeClass}">
+                            ${change >= 0 ? '▲' : '▼'} $${Math.abs(change).toFixed(2)} (${Math.abs(changePercent).toFixed(2)}%)
+                        </span>
+                        <span class="high-info">
+                            $${weekHigh.toFixed(2)} (+${upsidePotential.toFixed(2)}%) 52-Week high
+                        </span>
+                    </div>
+                </div>
+            `;
+        }
+
+        let currentSort = {
+            field: 'change',
+            ascending: false
+        };
+
+        function toggleSort(field) {
+            if (currentSort.field === field) {
+                currentSort.ascending = !currentSort.ascending;
+            } else {
+                currentSort.field = field;
+                currentSort.ascending = false;
+            }
+            updateStockPrices();
+            updateSortButtons();
+        }
+
+        function updateSortButtons() {
+            const buttons = document.querySelectorAll('.sort-button');
+            buttons.forEach(button => {
+                const isActive = button.dataset.sort === currentSort.field;
+                button.classList.toggle('active', isActive);
+                if (isActive) {
+                    const direction = currentSort.ascending ? '▲' : '▼';
+                    button.querySelector('.sort-direction').textContent = direction;
+                }
+            });
+        }
+
+        async function updateStockPrices() {
+            const stockDataDiv = document.getElementById('stockData');
+            const loadingContainer = document.getElementById('loadingContainer');
+            const progressBar = document.getElementById('progressBar');
+            const progressText = document.getElementById('progressText');
+            
+            loadingContainer.style.display = 'block';
+            stockDataDiv.innerHTML = '';
+            let stockResults = [];
+
+            // Collect all stock data
+            for (let i = 0; i < stocks.length; i++) {
+                const symbol = stocks[i];
+                try {
+                    const data = await getStockData(symbol);
+                    const change = data.quote.c - data.quote.pc;
+                    const changePercent = (change / data.quote.pc) * 100;
+                    const weekHigh = data.metrics.metric['52WeekHigh'];
+                    const upsidePotential = ((weekHigh / data.quote.c) - 1) * 100;
+                    
+                    stockResults.push({
+                        symbol,
+                        data,
+                        changePercent,
+                        upsidePotential
+                    });
+
+                    // Update progress
+                    const progress = Math.round(((i + 1) / stocks.length) * 100);
+                    progressBar.style.width = `${progress}%`;
+                    progressText.textContent = progress;
+
+                } catch (error) {
+                    console.error(`Error fetching data for ${symbol}:`, error);
+                }
+            }
+
+            // Sort and display results
+            stockResults.sort((a, b) => {
+                const multiplier = currentSort.ascending ? 1 : -1;
+                if (currentSort.field === 'change') {
+                    return (b.changePercent - a.changePercent) * multiplier;
+                } else {
+                    return (b.upsidePotential - a.upsidePotential) * multiplier;
+                }
+            });
+
+            const htmlContent = stockResults
+                .map(result => displayStockData(result.symbol, result.data))
+                .join('');
+
+            stockDataDiv.innerHTML = htmlContent;
+            loadingContainer.style.display = 'none';
+        }
+
+        // Add event listeners for sort buttons
+        document.querySelectorAll('.sort-button').forEach(button => {
+            button.addEventListener('click', () => {
+                toggleSort(button.dataset.sort);
+            });
+        });
+
+        // Initial load
+        updateStockPrices();
+    </script>
+</body>
+</html>
