@@ -272,44 +272,48 @@
             });
         }
 
+        let stockResults = [];
+
         async function updateStockPrices() {
             const stockDataDiv = document.getElementById('stockData');
             const loadingContainer = document.getElementById('loadingContainer');
             const progressBar = document.getElementById('progressBar');
             const progressText = document.getElementById('progressText');
             
-            loadingContainer.style.display = 'block';
-            stockDataDiv.innerHTML = '';
-            let stockResults = [];
+            // Only fetch data if we don't have it already
+            if (stockResults.length === 0) {
+                loadingContainer.style.display = 'block';
+                stockDataDiv.innerHTML = '';
 
-            // Collect all stock data
-            for (let i = 0; i < stocks.length; i++) {
-                const symbol = stocks[i];
-                try {
-                    const data = await getStockData(symbol);
-                    const change = data.quote.c - data.quote.pc;
-                    const changePercent = (change / data.quote.pc) * 100;
-                    const weekHigh = data.metrics.metric['52WeekHigh'];
-                    const upsidePotential = ((weekHigh / data.quote.c) - 1) * 100;
-                    
-                    stockResults.push({
-                        symbol,
-                        data,
-                        changePercent,
-                        upsidePotential
-                    });
+                // Collect all stock data
+                for (let i = 0; i < stocks.length; i++) {
+                    const symbol = stocks[i];
+                    try {
+                        const data = await getStockData(symbol);
+                        const change = data.quote.c - data.quote.pc;
+                        const changePercent = (change / data.quote.pc) * 100;
+                        const weekHigh = data.metrics.metric['52WeekHigh'];
+                        const upsidePotential = ((weekHigh / data.quote.c) - 1) * 100;
+                        
+                        stockResults.push({
+                            symbol,
+                            data,
+                            changePercent,
+                            upsidePotential
+                        });
 
-                    // Update progress
-                    const progress = Math.round(((i + 1) / stocks.length) * 100);
-                    progressBar.style.width = `${progress}%`;
-                    progressText.textContent = progress;
+                        // Update progress
+                        const progress = Math.round(((i + 1) / stocks.length) * 100);
+                        progressBar.style.width = `${progress}%`;
+                        progressText.textContent = progress;
 
-                } catch (error) {
-                    console.error(`Error fetching data for ${symbol}:`, error);
+                    } catch (error) {
+                        console.error(`Error fetching data for ${symbol}:`, error);
+                    }
                 }
             }
 
-            // Sort and display results
+            // Sort the stored results
             stockResults.sort((a, b) => {
                 const multiplier = currentSort.ascending ? 1 : -1;
                 if (currentSort.field === 'change') {
@@ -319,6 +323,7 @@
                 }
             });
 
+            // Display results
             const htmlContent = stockResults
                 .map(result => displayStockData(result.symbol, result.data))
                 .join('');

@@ -174,11 +174,28 @@
             color: #FF3B30;
             padding: 20px;
         }
+        
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        
+        .stocks-icon {
+            font-size: 24px;
+            color: var(--ios-blue);
+            text-decoration: none;
+            padding: 8px;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Latest News</h1>
+        <div class="header">
+            <h1>Latest News</h1>
+            <a href="my-top-stocks.html" target="_blank" class="stocks-icon" title="View My Top Stocks">📈</a>
+        </div>
         <div id="news-container"></div>
         <div id="loading" class="loading" style="display: none;">Loading...</div>
         <div id="error" class="error" style="display: none;">Error fetching news. Please try again.</div>
