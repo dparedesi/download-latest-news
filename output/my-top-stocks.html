@@ -57,10 +57,10 @@
             padding: 16px;
             margin-bottom: 12px;
             display: grid;
-            grid-template-columns: auto auto 1fr auto auto;
+            grid-template-columns: auto 1fr auto auto;
             grid-template-areas: 
-                "symbol price . change opportunity"
-                "high-info high-info high-info high-info high-info";
+                "symbol price . change"
+                "high-info high-info high-info high-info";
             align-items: center;
             gap: 8px;
         }
@@ -70,14 +70,14 @@
             font-weight: 700;
             margin: 0;
             color: #FFFFFF;
+            min-width: 80px;
         }
         .stock-price {
             grid-area: price;
             color: #71767B;
             font-size: 1.4rem;
             font-weight: 400;
-            margin-left: 4px;
-            margin-right: auto;
+            margin: 0;
         }
         .change-pill {
             grid-area: change;
@@ -88,8 +88,6 @@
             display: inline-flex;
             align-items: center;
             gap: 4px;
-            justify-self: end;
-            margin-right: 6px;
             white-space: nowrap;
         }
         .negative {
@@ -101,15 +99,13 @@
             color: #30d158;
         }
         .opportunity-badge {
-            grid-area: opportunity;
             padding: 4px 8px;
             border-radius: 12px;
             font-weight: 400;
             font-size: 0.75rem;
             white-space: nowrap;
             opacity: 0.9;
-            justify-self: end;
-            margin-left: 0;
+            margin-left: 8px;
         }
         .high-opportunity {
             background-color: rgba(48, 209, 88, 0.15);
@@ -130,6 +126,9 @@
             margin-top: 12px;
             padding-top: 12px;
             border-top: 1px solid rgba(142, 142, 147, 0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
         .sort-controls {
             display: flex;
@@ -253,9 +252,9 @@
         }
 
         function getOpportunityLevel(upsidePotential) {
-            if (upsidePotential > 50) return ['high-opportunity', 'High Opportunity'];
-            if (upsidePotential > 20) return ['medium-opportunity', 'Medium Opportunity'];
-            return ['low-opportunity', 'Near High'];
+            if (upsidePotential > 50) return ['high-opportunity', 'HO'];
+            if (upsidePotential > 20) return ['medium-opportunity', 'MO'];
+            return ['low-opportunity', 'NH'];
         }
 
         function displayStockData(symbol, data) {
@@ -269,7 +268,6 @@
             
             return `
                 <div class="stock-card">
-                    <div class="opportunity-badge ${opportunityClass}">${opportunityText}</div>
                     <div class="stock-symbol">${symbol}</div>
                     <div class="stock-price">$${data.quote.c.toFixed(2)}</div>
                     <div class="change-pill ${changeClass}">
@@ -277,6 +275,7 @@
                     </div>
                     <div class="high-info">
                         $${weekHigh.toFixed(2)} (+${upsidePotential.toFixed(2)}%) 52-Week high
+                        <span class="opportunity-badge ${opportunityClass}">${opportunityText}</span>
                     </div>
                 </div>
             `;
