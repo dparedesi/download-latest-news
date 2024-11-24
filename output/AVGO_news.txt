@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Dow Jones Futures: Stay Cool In Hot Market; Forget Nvidia, Meet The New AI Chip Leader
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-forget-nvidia-ai-chip-leader-astera-labs/
+Time Published: 2024-11-23T13:02:35Z
+Description: Despite megacap weakness, it was a strong week for indexes and leading stocks.
+--------------------------------------------------
+
+Title: Nvidia Chipmaker, Three Breakouts Among Five Stocks To Watch
+URL: https://www.investors.com/news/nvidia-chipmaker-taiwan-semiconductor-stocks-to-watch/
+Time Published: 2024-11-23T13:00:31Z
+Description: A strong market is offering more stocks in buy range or setting up.
+--------------------------------------------------
+
 Title: Dow Jones Futures: Nvidia Earnings Double But Stock Falls. This AI Chip Play Signals Breakout.
 URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-ceo-jensen-huang-nvidia-stock/
 Time Published: 2024-11-21T12:07:46Z

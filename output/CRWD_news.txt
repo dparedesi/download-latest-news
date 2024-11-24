@@ -1,1 +1,13 @@
-No news found for Crowdstrike +CRWD
+List of news related to Crowdstrike CRWD:
+
+Title: Dow Jones Futures: Stay Cool In Hot Market; Forget Nvidia, Meet The New AI Chip Leader
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-forget-nvidia-ai-chip-leader-astera-labs/
+Time Published: 2024-11-23T13:02:35Z
+Description: Despite megacap weakness, it was a strong week for indexes and leading stocks.
+--------------------------------------------------
+
+Title: Amid Booming AI Server Sales, Dell Stock Rallies Furiously Ahead Of Results
+URL: https://www.investors.com/research/earnings-preview/dell-stock-ai-servers-earnings-crowdstrike-earnings/
+Time Published: 2024-11-23T12:30:31Z
+Description: After a 50% pullback, buyers have been scooping up Dell stock amid strong demand for the company's AI servers.
+--------------------------------------------------
