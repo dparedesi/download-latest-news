@@ -206,8 +206,7 @@
 <body>
     <div class="stock-container">
         <div class="header">
-            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAADK0lEQVR4nO2ZW0hUQRjHf5aaZmZkQpbdLB8KKrqQ0UNEQg9VPUQR9GBYkBYVdKPoqaKgyxNBUZQRJQXRgy9daLtQUFBEYmTRxbKy1CjXMtMMV2dhnZ3d2T1n3c0O+8FwZs7MfP/vzJyZby7QQgsttKAXfcBpoBa4D7wG3gLvgRfAI+AKcBwYBxiJYABwEWgEvFHaDWA+0L6pJ58BPAb+RjHpQPYR2OZbRUzRAbgB/NE48TDrBcqAoU01+dXAFw2TDbZvwFGgXVNMvgxo0DjJUO0XsA9oG8/JbwU8cZp0sNUDh4GUeEz+YFNP3m/3gE7xmPwjDZP0AK+AKuAUsBmYCQwGugGpQBugNZAJDAXGAwuBncBZ4GacJKQBX2OYvAd4COwABsXoQwowGbgMfI+RPzXAEuCXpsl7gPNxWGEpwDLgU4y+/QTWAj9imLgH2B8nR5MNPIiRj++BZcDPGCbuAQ7FydFsoDpGfr4EFgHfYpi4BzgWJ0ezgIcx8vURmA18iXHyHuBknBzNBO7GyNtbYArwMQ6T9wBn4uRoOnArRv7eABOBd3GavAc4FydHOwM3Y+TxFTAGeKlh8h7gYpwczQAux8jnc2Ao8ETD5D3ApTg5mgVcj5HX6kDOqHPyHuBqnBztAVyLkd9ngX7AXQ2T9wDX4+RoNnA7Rp4fA72BGxom7wFux8nRvsC9GPmuAnoAFzRM3gPcj5OjA4HHMfL+EOgGlGmYvAd4GidHhwJPYuT/LtAZOKFh8h7gWZwcHQk8i1GOXALaAbs1TN4DvIiTo2OAlzHKk7NAKrBNw+Q9wOs4OToeeB2jXDkBJAEbNEzeA7yNk6OTgHcxypeTQfVAqYbJe4D3cXJ0GvAhRjlzNCiPFmuYvAf4FCdHZwCfY5Q3+wN6AAs0TN4DfImTo3OArzHKnT0BmcB0DZP3AN/i5Oh84FuM8qckIAWYrGHyHuB7nBxdCvyIUQ5tDGgLjNcweQ/wM06OrgR+xSiPVgW0AkZpmHxC0RY4FcUPsxvAiKZ2oDEwDrgP/A2a8B9VYxwAcprLgVhoAWjhf+Ef/+JD0oHnGYcAAAAASUVORK5CYII=" alt="Stock Tracker">
-            <h1>Stock Tracker</h1>
+            <h1>📈Stock Tracker</h1>
         </div>
         <div class="sort-controls">
             <button class="sort-button active" data-sort="change">
@@ -252,8 +251,8 @@
         }
 
         function getOpportunityLevel(upsidePotential) {
-            if (upsidePotential > 50) return ['high-opportunity', 'HO'];
-            if (upsidePotential > 20) return ['medium-opportunity', 'MO'];
+            if (upsidePotential > 25) return ['high-opportunity', 'HO'];
+            if (upsidePotential > 10) return ['medium-opportunity', 'MO'];
             return ['low-opportunity', 'NH'];
         }
 
