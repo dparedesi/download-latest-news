@@ -34,6 +34,7 @@
         .stock-container {
             max-width: 800px;
             margin: 0 auto;
+            padding: 0 8px;
         }
         .header {
             display: flex;
@@ -52,95 +53,107 @@
         }
         .stock-card {
             background: var(--ios-card-background);
-            border-radius: 12px;
+            border-radius: 16px;
             padding: 16px;
             margin-bottom: 12px;
-            display: flex;
-            flex-wrap: wrap;
-            align-items: center;
-            gap: 12px;
-            position: relative;
-        }
-        .stock-symbol {
-            font-size: 1.5rem;
-            font-weight: bold;
-            margin: 0;
-            display: flex;
+            display: grid;
+            grid-template-columns: auto auto 1fr auto auto;
+            grid-template-areas: 
+                "symbol price . change opportunity"
+                "high-info high-info high-info high-info high-info";
             align-items: center;
             gap: 8px;
         }
-        .stock-price {
-            color: var(--ios-secondary-text);
+        .stock-symbol {
+            grid-area: symbol;
             font-size: 1.5rem;
+            font-weight: 700;
+            margin: 0;
+            color: #FFFFFF;
+        }
+        .stock-price {
+            grid-area: price;
+            color: #71767B;
+            font-size: 1.4rem;
+            font-weight: 400;
+            margin-left: 4px;
+            margin-right: auto;
         }
         .change-pill {
-            padding: 6px 12px;
-            border-radius: 20px;
-            font-weight: 500;
-            font-size: 0.9rem;
+            grid-area: change;
+            padding: 4px 8px;
+            border-radius: 16px;
+            font-weight: 400;
+            font-size: 0.85rem;
             display: inline-flex;
             align-items: center;
             gap: 4px;
+            justify-self: end;
+            margin-right: 6px;
+            white-space: nowrap;
         }
         .negative {
-            background-color: rgba(255, 69, 58, 0.1);
+            background-color: rgba(255, 69, 58, 0.2);
             color: #ff453a;
         }
         .positive {
-            background-color: rgba(48, 209, 88, 0.1);
+            background-color: rgba(48, 209, 88, 0.2);
             color: #30d158;
         }
-        .high-info {
-            padding: 6px 12px;
-            border-radius: 20px;
-            background-color: rgba(142, 142, 147, 0.2);
-            color: var(--ios-text);
-            font-size: 0.9rem;
-        }
         .opportunity-badge {
-            position: absolute;
-            right: 16px;
-            padding: 6px 12px;
-            border-radius: 20px;
-            font-weight: 500;
-            font-size: 0.9rem;
-            background-color: rgba(48, 209, 88, 0.1);
+            grid-area: opportunity;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-weight: 400;
+            font-size: 0.75rem;
+            white-space: nowrap;
+            opacity: 0.9;
+            justify-self: end;
+            margin-left: 0;
         }
         .high-opportunity {
-            background-color: rgba(48, 209, 88, 0.1);
+            background-color: rgba(48, 209, 88, 0.15);
             color: #30d158;
         }
         .medium-opportunity {
-            background-color: rgba(255, 159, 10, 0.1);
+            background-color: rgba(255, 159, 10, 0.15);
             color: #ff9f0a;
         }
         .low-opportunity, .near-high {
-            background-color: rgba(142, 142, 147, 0.1);
+            background-color: rgba(142, 142, 147, 0.15);
             color: #8e8e93;
+        }
+        .high-info {
+            grid-area: high-info;
+            color: #71767B;
+            font-size: 0.9rem;
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px solid rgba(142, 142, 147, 0.1);
         }
         .sort-controls {
             display: flex;
-            gap: 12px;
-            margin-bottom: 20px;
+            gap: 8px;
+            margin-bottom: 16px;
             flex-wrap: wrap;
         }
         
         .sort-button {
-            padding: 8px 16px;
-            border-radius: 20px;
+            padding: 6px 12px;
+            border-radius: 16px;
             border: 1px solid var(--ios-separator);
             background: var(--ios-card-background);
             color: var(--ios-text);
-            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
             cursor: pointer;
             display: flex;
             align-items: center;
-            gap: 8px;
+            gap: 6px;
             transition: all 0.2s;
+            font-size: 0.9rem;
         }
         
         .sort-button:hover {
-            background: var(--ios-separator);
+            background: rgba(255, 255, 255, 0.1);
         }
         
         .sort-button.active {
