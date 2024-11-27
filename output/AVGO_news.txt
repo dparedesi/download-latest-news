@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Dow Jones Futures Fall: Nvidia Stock Tumbles To Key Level; Fed Inflation Data Looms
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-nvidia-stock-nvda-fed-inflation-data/
+Time Published: 2024-11-26T00:17:21Z
+Description: Tesla reversed lower after hitting a new high, while Apple is nearing a buy point.
+--------------------------------------------------
+
 Title: Dow Jones Futures Rallies 300 Points As Tesla Nears New High; Bitcoin Stock MicroStrategy Jumps
 URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-tesla-tsla-bitcoin-microstrategy-mstr/
 Time Published: 2024-11-25T13:30:08Z
@@ -29,10 +35,4 @@ Title: Nvidia Chipmaker, Three Breakouts Among Five Stocks To Watch
 URL: https://www.investors.com/news/nvidia-chipmaker-taiwan-semiconductor-stocks-to-watch/
 Time Published: 2024-11-23T13:00:31Z
 Description: A strong market is offering more stocks in buy range or setting up.
---------------------------------------------------
-
-Title: Dow Jones Futures: Nvidia Earnings Double But Stock Falls. This AI Chip Play Signals Breakout.
-URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-ceo-jensen-huang-nvidia-stock/
-Time Published: 2024-11-21T12:07:46Z
-Description: Revenue guidance was only slightly above consensus.
 --------------------------------------------------
