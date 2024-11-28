@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Dow Jones Futures: S&P 500 Hits Highs As Bitcoin Skids; CrowdStrike Leads Movers Late
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-bitcoin-crowdstrike-earnings-movers/
+Time Published: 2024-11-27T03:52:44Z
+Description: Amazon and megacaps helped the major indexes offset weak breadth.
+--------------------------------------------------
+
+Title: CrowdStrike Earnings Beat. Cybersecurity Firm's Quarterly Revenue Tops $1 Billion.
+URL: https://www.investors.com/news/technology/crowdstrike-stock-crowdstrike-earnings-news-q32024/
+Time Published: 2024-11-26T21:17:08Z
+Description: CrowdStrike stock dipped on the cybersecurity firm's Q3 earnings report with analysts focused on the impact of July's IT outage.
+--------------------------------------------------
+
 Title: 5 investing trends for 2025—and 15 stocks to help you bet on them
 URL: https://fortune.com/2024/11/26/investing-stocks-gold-ai-etf/
 Time Published: 2024-11-26T10:00:00Z
