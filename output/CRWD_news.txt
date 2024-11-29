@@ -1,5 +1,17 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Dow Jones Futures: Stock Market Falls Into Thanksgiving Holiday; Nvidia Defends Key Level
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-thanksgiving-nvidia/
+Time Published: 2024-11-28T03:58:08Z
+Description: The major indexes declined Wednesday amid earnings turkeys, but came off lows.
+--------------------------------------------------
+
+Title: Dow Jones Slides, Nvidia Falters As Trump Rally Sputters; Warren Buffett's Berkshire Hits All-Time High (Live Coverage)
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-dow-jones-nvidia-stock/
+Time Published: 2024-11-27T21:09:19Z
+Description: The Dow Jones and other indexes were down Wednesday after October's inflation data. Nvidia broke a key level on the stock market today.
+--------------------------------------------------
+
 Title: CrowdStrike delivers better-than-expected Q3 print, lifts annual forecast
 URL: https://www.investing.com/news/stock-market-news/crowdstrike-beats-q3-estimates-on-cybersecurity-demand-3743129
 Time Published: 2024-11-27T10:44:48Z
@@ -63,16 +75,4 @@ URL: https://finance.yahoo.com/news/keybanc-raises-crowdstrike-holdings-inc-0654
 Time Published: 2024-11-24T06:54:31Z
 Full Content:
 We are experiencing some temporary issues. The market data on this page is currently delayed. Please bear with us as we address this and restore your personalized lists. We recently compiled a list of the 14 AI Stocks on Wall Street's Radar. In this article, we are going to take a look at where CrowdStrike Holdings, Inc. (NASDAQ:CRWD) stands against the other AI stocks that are on Wall Street's Radar. Latest reports from tech news platform TechCrunch indicate that MatX, a chip-design startup focused on supporting large language models, has raised $80 million in a funding round. This follows the $25 million seed round it held less than a year ago. The latest round, led by Spark Capital, values the company at a pre-money valuation in the mid-$200 million range and a post-money valuation in the low $300 million range, per TechCrunch. MatX was co-founded two years ago by former Google TPU team members Mike Gunter and Reiner Pope, who aim to address the global shortage of AI-specific chips. Read more about these developments by accessing 10 Best AI Data Center Stocks and 10 Buzzing AI Stocks According to Goldman Sachs. The company’s chips are optimized for AI workloads of 7 billion to 20 billion parameters or more, providing high performance at lower costs. MatX highlights its advanced interconnect technology, which enhances scalability for large clusters. The co-founders claim their processors are designed to outperform NVIDIA GPUs, with a goal of achieving tenfold efficiency in training LLMs and delivering results. The AI hardware sector has seen growing investor interest amid increasing demand for chips tailored for generative AI. Read more about these developments by accessing 30 Most Important AI Stocks According to BlackRock and Beyond the Tech Giants: 35 Non-Tech AI Opportunities. For this article, we selected AI stocks by combing through news articles, stock analysis, and press releases. These stocks are also popular among hedge funds. Why are we interested in the stocks that hedge funds pile into? The reason is simple: our research has shown that we can outperform the market by imitating the top stock picks of the best hedge funds. Our quarterly newsletter’s strategy selects 14 small-cap and large-cap stocks every quarter and has returned 275% since May 2014, beating its benchmark by 150 percentage points (see more details here). Security personnel at their consoles, monitoring a global network of threats in real-time. Number of Hedge Fund Holders: 74 CrowdStrike Holdings, Inc. (NASDAQ:CRWD) provides cloud-delivered protection across endpoints and cloud workloads, identity, and data. The firm is harnessing artificial intelligence to streamline and strengthen cyber protection. On November 22, KeyBanc raised the price target on the stock to $395 from $345 and kept an Overweight rating on the shares. The advisory sees a high bar for October security reporters given strong stock performance despite muted Q3 security earnings results thus far, saying its checks have been solid, the advisory told investors in a research note. Results for Crowdstrike were strong, with several partners noting a bounce back this quarter and no mentions of customer migrations away from them, the advisory says. Overall CRWD ranks 7th on our list of the stocks on Wall Street's radar. While we acknowledge the potential of CRWD as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns, and doing so within a shorter timeframe. If you are looking for an AI stock that is more promising than CRWD but that trades at less than 5 times its earnings, check out our report about the cheapest AI stock. READ NEXT: 8 Best Wide Moat Stocks to Buy Now and 30 Most Important AI Stocks According to BlackRock. Disclosure: None. This article is originally published at Insider Monkey. Sign in to access your portfolio
---------------------------------------------------
-
-Title: Dow Jones Futures: Stay Cool In Hot Market; Forget Nvidia, Meet The New AI Chip Leader
-URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-forget-nvidia-ai-chip-leader-astera-labs/
-Time Published: 2024-11-23T13:02:35Z
-Description: Despite megacap weakness, it was a strong week for indexes and leading stocks.
---------------------------------------------------
-
-Title: Amid Booming AI Server Sales, Dell Stock Rallies Furiously Ahead Of Results
-URL: https://www.investors.com/research/earnings-preview/dell-stock-ai-servers-earnings-crowdstrike-earnings/
-Time Published: 2024-11-23T12:30:31Z
-Description: After a 50% pullback, buyers have been scooping up Dell stock amid strong demand for the company's AI servers.
 --------------------------------------------------
