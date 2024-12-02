@@ -17,9 +17,3 @@ URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures
 Time Published: 2024-11-27T03:52:44Z
 Description: Amazon and megacaps helped the major indexes offset weak breadth.
 --------------------------------------------------
-
-Title: Dow Jones Futures Fall: Nvidia Stock Tumbles To Key Level; Fed Inflation Data Looms
-URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-nvidia-stock-nvda-fed-inflation-data/
-Time Published: 2024-11-26T00:17:21Z
-Description: Tesla reversed lower after hitting a new high, while Apple is nearing a buy point.
---------------------------------------------------
