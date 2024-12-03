@@ -1,1 +1,7 @@
-No news found for Amazon stock price +AMZN
+List of news related to Amazon stock price AMZN:
+
+Title: AI Stock Nebius Group Jumps After Nvidia Joins $700 Million Investment
+URL: https://www.investors.com/news/technology/nebius-stock-nebius-group-nvidia-investment/
+Time Published: 2024-12-02T15:03:53Z
+Description: Nebius stock jumped on the news that Nvidia had joined a $700 million private placement for Nebius Group, which offers AI infrastructure.
+--------------------------------------------------

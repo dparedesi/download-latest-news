@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: AI Stock Nebius Group Jumps After Nvidia Joins $700 Million Investment
+URL: https://www.investors.com/news/technology/nebius-stock-nebius-group-nvidia-investment/
+Time Published: 2024-12-02T15:03:53Z
+Description: Nebius stock jumped on the news that Nvidia had joined a $700 million private placement for Nebius Group, which offers AI infrastructure.
+--------------------------------------------------
+
 Title: Bitcoin Strategy: Here’s What Michael Saylor Told Microsoft’s Leadership
 URL: https://bitcoinist.com/bitcoin-strategy-what-michael-saylor-told-microsoft/
 Time Published: 2024-12-02T07:15:21Z
