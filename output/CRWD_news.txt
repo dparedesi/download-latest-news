@@ -1,5 +1,12 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Security Money: Of Course Okta Should Be In The Index - BSW #374
+URL: https://securityweeklytv.libsyn.com/security-money-of-course-okta-should-be-in-the-index-bsw-374
+Time Published: 2024-12-02T21:56:00Z
+Full Content:
+This week, it's time for Security Money. Of course Okta should be in the Security Weekly 25 Index, Duh! Here are all the companies that now comprise the index: SCWX Secureworks Corp PANW Palo Alto Networks Inc CHKP Check Point Software Technologies Ltd. RBRK Rubrik Inc GEN Gen Digital Inc FTNT Fortinet Inc AKAM Akamai Technologies, Inc. FFIV F5 Inc ZS Zscaler Inc OSPN Onespan Inc LDOS Leidos Holdings Inc QLYS Qualys Inc VRNT Verint Systems Inc. CYBR Cyberark Software Ltd TENB Tenable Holdings Inc OKTA Okta Inc S SentinelOne Inc NET Cloudflare Inc CRWD Crowdstrike Holdings Inc NTCT NetScout Systems, Inc. VRNS Varonis Systems Inc RPD Rapid7 Inc FSLY Fastly Inc RDWR Radware Ltd ATEN A10 Networks Inc Show Notes: https://securityweekly.com/bsw-374
+--------------------------------------------------
+
 Title: International Markets and CrowdStrike (CRWD): A Deep Dive for Investors
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_840c93c7-8079-4725-a46a-049e67fcef94
 Time Published: 2024-12-02T18:29:28Z
@@ -10,10 +17,4 @@ Title: Salesforce Headlines Busy Week Of Software Earnings, Along With These Hig
 URL: https://www.investors.com/research/earnings-preview/salesforce-headlines-busy-week-software-earnings/
 Time Published: 2024-11-29T15:51:08Z
 Description: Top performing software names like Salesforce, Samsara, Docusign and Rubrik headline a busy week of earnings in the technology sector.
---------------------------------------------------
-
-Title: Dow Jones Futures: Stock Market Falls Into Thanksgiving Holiday; Nvidia Defends Key Level
-URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-thanksgiving-nvidia/
-Time Published: 2024-11-28T03:58:08Z
-Description: The major indexes declined Wednesday amid earnings turkeys, but came off lows.
 --------------------------------------------------
