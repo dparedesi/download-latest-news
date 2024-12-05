@@ -12,9 +12,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_840c93c7
 Time Published: 2024-12-02T18:29:28Z
 Description: None
 --------------------------------------------------
-
-Title: Salesforce Headlines Busy Week Of Software Earnings, Along With These Highfliers
-URL: https://www.investors.com/research/earnings-preview/salesforce-headlines-busy-week-software-earnings/
-Time Published: 2024-11-29T15:51:08Z
-Description: Top performing software names like Salesforce, Samsara, Docusign and Rubrik headline a busy week of earnings in the technology sector.
---------------------------------------------------
