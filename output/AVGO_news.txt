@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Nvidia Rival Marvell's Custom AI Chip Business Drives Earnings Beat. Shares Jump.
+URL: https://www.investors.com/news/technology/marvell-stock-marvel-earnings-custom-ai-chips-q32024/
+Time Published: 2024-12-04T15:03:56Z
+Description: Marvell posted fiscal Q3 earnings and revenue that topped estimates amid strong demand for its custom chips for artificial intelligence applications.
+--------------------------------------------------
+
+Title: Dow Jones Futures Rise 200 Points After Surprise Jobs Report, Powell Speech Next; Salesforce Soars On Earnings
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-report-powell/
+Time Published: 2024-12-04T13:58:40Z
+Description: Key earnings movers include Salesforce, Marvell and Okta.
+--------------------------------------------------
+
 Title: Dow Jones Falls After Jobs Data; Tesla Slides On Elon Musk Pay Package Rejection
 URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-tesla-stock-tsla-elon-musk/
 Time Published: 2024-12-03T15:03:14Z
