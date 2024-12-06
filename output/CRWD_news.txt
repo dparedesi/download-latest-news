@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: SentinelOne Revenue Beat, Guidance Underwhelms. Shares Fall.
+URL: https://www.investors.com/news/technology/sentinelone-stock-sentinelone-earnings-news-q32024/
+Time Published: 2024-12-04T21:30:54Z
+Description: SentinelOne stock fell after the cybersecurity firm reported Q3 revenue that edged by estimates while guidance came in slightly above views.
+--------------------------------------------------
+
 Title: CrowdStrike Helps Secure the End-to-End AI Ecosystem Built on AWS
 URL: https://www.investing.com/news/press-releases/crowdstrike-helps-secure-the-endtoend-ai-ecosystem-built-on-aws-93CH-3753888
 Time Published: 2024-12-04T13:20:09Z
