@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: The Stock Market's Simmering Rally: Indexes Keep Setting New Highs
+URL: https://stockcharts.com/articles/chartwatchers/2024/12/the-stock-markets-simmering-ra-126.html
+Time Published: 2024-12-07T00:11:52Z
+Description: The first trading week in December started on a positive note, with the S&P 500 ($SPX) and Nasdaq Composite ($COMPQ) notching new all-time highs, while the Dow Jones Industrial Average ($INDU) pulled back slightly. Despite the small upmoves for most days, it …
+--------------------------------------------------
+
+Title: Dow Jones Futures: Nasdaq Runs Toward 20,000 But These Risks Are Mounting
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-nears-20000-nvidia-apple-meta-microsoft/
+Time Published: 2024-12-07T00:10:38Z
+Description: The index is starting to look stretched. Four tech titans are flashing buy signals.
+--------------------------------------------------
+
 Title: Oracle Stock Probes All-Time Highs With Software Giant In New Growth Phase
 URL: https://www.investors.com/research/earnings-preview/oracle-stock-probes-all-time-highs-software-giant-in-new-growth-phase/
 Time Published: 2024-12-06T15:17:52Z
@@ -28,7 +40,8 @@ Description: Oppenheimer Asset Management came out on Thursday and detailed two 
 Title: Broadcom: This AI Powerhouse Is A Strong Buy
 URL: https://seekingalpha.com/article/4742334-broadcom-this-ai-powerhouse-is-a-strong-buy
 Time Published: 2024-12-05T14:50:53Z
-Description: Broadcom's AI revenues, driven by the VMWare acquisition, are expected to significantly increase. Read why I remain very bullish on AVGO stock.
+Full Content:
+BlackJack3D/E+ via Getty Images BlackJack3D/E+ via Getty Images The last time we discussed Broadcom (NASDAQ:AVGO) in a public article, the stock began rebounding from a post-earnings pullback after hitting the $135-140 support level. Following the sell-the-news earnings announcement, Broadcom seemed inexpensive. Broadcom is approximately 25% higher now Are You Getting The Returns You Want? All-Weather Portfolio vs. The S&P 500 Join The Financial Prophet And Become A Better Investor! Don't Hesitate! Take advantage of the 2-week free trial and receive this limited-time 20% discount with your subscription. Sign up now and start beating the market for less than $1 a day! This article was written by Victor Dergunov is an independent investor and author with 20 years experience. He preaches diversification and shares investment ideas across all market sectors. Victor aims to help readers build portfolios that perform well in all economic conditions. Analystâs Disclosure: I/we have a beneficial long position in the shares of AVGO either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article. I am long a diversified portfolio with hedges. Seeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.
 --------------------------------------------------
 
 Title: Dow Jones Futures Fall After Jobless Claims; Nvidia Tries To Extend Win Streak
@@ -66,23 +79,4 @@ Title: Find The Next Palantir Or Under-The-Radar IPO With This Tool
 URL: https://www.investors.com/how-to-invest/stock-screener/
 Time Published: 2024-12-03T14:27:01Z
 Description: Use the IBD Stock Screener to find companies that meet your custom criteria.
---------------------------------------------------
-
-Title: Broadcom Inc. (AVGO) Among Billionaire Ken Fisher’s Top Stock Picks Heading Into 2025
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b778c23c-2918-4eb3-849e-6ed7568b8a6e
-Time Published: 2024-12-02T21:51:19Z
-Description: None
---------------------------------------------------
-
-Title: Billionaire Ken Fisher Pours $800,000,000 Into JPMorgan Chase in Massive Bet on US Bank – Here’s His Top Picks As 2025 Arrives
-URL: https://dailyhodl.com/2024/12/02/billionaire-ken-fisher-pours-800000000-into-jpmorgan-chase-in-massive-bet-on-us-bank-heres-his-top-picks-as-2025-arrives/
-Time Published: 2024-12-02T19:09:22Z
-Full Content:
-Billionaire Ken Fisher is dramatically increasing his firm’s position in US banking giant JPMorgan Chase. New SEC filings show Fisher, who founded the $244 billion Fisher Asset Management, has increased the firm’s JPMorgan Chase (JPM) holdings by about $800 million in Q3, adding 4.04 million shares. That’s a 31% rise in the firm’s exposure to the bank, bringing its total holdings to 16.78 million shares. As 2025 arrives, Fisher Asset Management’s has also added to its top holdings – Apple (AAPL), Microsoft (MSFT), NVIDIA (NVDA), Amazon (AMZN) and Aphabet (GOOGL). In addition, Seeking Alpha reports the firm has increased exposure to a long list of companies, including Taiwan Semiconductor (TSM), Advanced Micro Devices (AMD), Walmart Stores (WMT), Home Depot (HD), Meta Platforms (META), JPMorgan Chase (JPM), Exxon Mobil (XOM), Salesforce.com (CRM), Procter & Gamble (PG), Netflix (NFLX), Chevron Corp (CVX), ASML Holdings (ASML), Visa Inc. (V), Adobe Inc. (ADBE), RTX Corporation (RTX), Canadian Natural Resources (CNQ), Charles Schwab (SCHW), Abbott Labs (ABT), BHP Billiton (BHP), Bank of America (BAC), Booking Holdings (BKNG), Broadcom (AVGO), BlackRock Inc. (BLK), Caterpillar (CAT), Costco Wholesale (COST), Citigroup (C), Capital One Financial (COF), Eli Lilly (LLY), Freeport-McMoRan (FCX), Goldman Sachs (GS), Intuit (INTU), Intuitive Surgical (ISRG), Lam Research (LRCX), Morgan Stanley (MS), Mastercard Inc. (MA), Merck Inc. (MRK), Oracle Corporation (ORCL), PepsiCo (PEP), Shell plc (SHEL), ServiceNow (NOW), TotalEnergies (TTE), Toyota Motor (TM), Thermo Fisher Scientific (TMO), Union Pacific (UNP) and UnitedHealth (UNH). Meanwhile, the firm reduced exposure to American Express, Novo-Nordisk, and Stryker Corp. In Q3, Fisher Asset Management grew its portfolio by about six percent, from $230 billion $244 billion. The firm has about 160,000 clients and about $260 billion in total assets under management. Generated Image: Midjourney Covering the future of finance, including macro, bitcoin, ethereum, crypto, and web 3. Categories Bitcoin • Ethereum • Trading • Altcoins • Futuremash • Financeflux • Blockchain • Regulators • Scams • HodlX • Press Releases ABOUT US | EDITORIAL POLICY | PRIVACY POLICY TERMS AND CONDITIONS | CONTACT | ADVERTISE JOIN US ON TELEGRAM JOIN US ON X JOIN US ON FACEBOOK COPYRIGHT © 2017-2024 THE DAILY HODL © 2024 The Daily Hodl
---------------------------------------------------
-
-Title: Why Broadcom Inc. (AVGO) Is the Best Stock to Buy For Long Term Growth?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_33ef3d88-0964-4e3d-a2af-61aeaae1218c
-Time Published: 2024-12-02T13:32:22Z
-Description: None
 --------------------------------------------------
