@@ -11,9 +11,3 @@ URL: https://stockcharts.com/articles/chartwatchers/2024/12/the-stock-markets-si
 Time Published: 2024-12-07T00:11:52Z
 Description: The first trading week in December started on a positive note, with the S&P 500 ($SPX) and Nasdaq Composite ($COMPQ) notching new all-time highs, while the Dow Jones Industrial Average ($INDU) pulled back slightly. Despite the small upmoves for most days, it …
 --------------------------------------------------
-
-Title: Warren Buffett Stocks: What's Inside Berkshire Hathaway's Portfolio?
-URL: https://www.investors.com/research/warren-buffett-stocks-december-2024/
-Time Published: 2024-12-03T18:36:15Z
-Description: The Berkshire Hathaway chief sticks to a winning formula, but he does not sit still.
---------------------------------------------------
