@@ -1,5 +1,18 @@
 List of news related to Meta stock price META:
 
+Title: Baillie Cools on Tech in Favor of ‘Boring’ Infrastructure Stocks
+URL: https://financialpost.com/pmn/business-pmn/baillie-cools-on-tech-in-favor-of-boring-infrastructure-stocks
+Time Published: 2024-12-10T06:22:50Z
+Description: Baillie Gifford & Co., known for investing in hyper-growth tech stocks, now likes “boring” US infrastructure companies as it sees a building boom after many years of under-investment.
+--------------------------------------------------
+
+Title: Baillie Cools on Tech in Favor of ‘Boring’ Infrastructure Stocks
+URL: https://finance.yahoo.com/news/baillie-cools-tech-favor-boring-060229038.html
+Time Published: 2024-12-10T06:02:29Z
+Full Content:
+We are experiencing some temporary issues. The market data on this page is currently delayed. Please bear with us as we address this and restore your personalized lists. (Bloomberg) -- Baillie Gifford & Co., known for investing in hyper-growth tech stocks, now likes “boring” US infrastructure companies as it sees a building boom after many years of under-investment. Most Read from Bloomberg Brace for a Nationwide Shuffle of Corporate Headquarters A Chicago Skyscraper Cements the Legacy of a Visionary Postmodern Architect Cloud Computing Tax Threatens Chicago’s Silicon Valley Ambitions NYC’s Run-Down Bus Terminal Gets Approval for $10 Billion Revamp Kansas City Looks Back on its Long, Costly Ride With Microtransit “We think there’s going to be a massive building boom certainly in the US, the UK and in some other places,” Stuart Dunbar, a partner at the Edinburgh-based firm, told Bloomberg in Tokyo. Baillie Gifford still likes some US big tech stocks but is underweight on many of them now because of high valuations, he said. “In parts of Europe and in the US, the infrastructure is just falling apart. It’s been under-invested for 50 years and it’s getting to the point where it can’t be ignored any longer, with bridges falling down literally,” Dunbar said. “It’s quite an unexpected source of growth, like building aggregates suppliers, drainage systems providers,” he said, mentioning companies such as Advanced Drainage Systems Inc. and Stella-Jones Inc. as among its favorites. Baillie Gifford has been known for its big bets in large tech firms such as Tesla Inc., Meta Platforms Inc. and Amazon.com Inc. But it’s now underweight most such US stocks — an unusual stance for the firm — despite its positive long-term view on them, Dunbar said. Investment in suppliers of water pipes and utility poles is by no means a departure from its growth stock strategy, though. “We will look wherever we need to look to try to find the companies that we think have got the ability not only to grow quickly, but to do so profitably,” Dunbar said. For tech stocks, Nvidia Corp.’s high valuation depends on continued growth, according to the investment manager. Nvidia, which makes chips used for AI data centers, trades at 34 times expected earnings, well above 23 times for the S&P 500 index. “That growth isn’t likely sustainable in the long term unless we start to see meaningful value coming through from applications of AI, so we’ve been top-slicing it,” Dunbar said, adding that Baillie Gifford still holds Nvidia and doesn’t have a negative view. Baillie Gifford is more cautious on Google parent Alphabet Inc., fretting that “AI could be a Google killer,” Dunbar said. On the other hand, it’s still a fan of Amazon because strong research and development spending allows it keep a solid competitive position. Meta also has a strong data set on which the firm can build AI capabilities, while Tesla has “incredible robotics and energy businesses” even though its rival BYD Co. “makes better cars at half the price,” he added. BYD is among China tech shares that Baillie Gifford sees coming back, despite headwinds from threats of tariffs from the US, and Europe in the case of EV makers. Elsewhere, the investment manager thinks digital banking is an important trend, betting on fintech firms such as Nu Holdings Ltd. in Brazil and Adyen NV in the Netherlands. Most Read from Bloomberg Businessweek Grand Theft Auto VI Will Rule the Video Game Industry in 2025 Dubai’s Alleged Crypto Scams Are Raking in Billions Trump Agenda Won’t Hurt Global Economy as Much Next Year as in 2026 Trump’s Manufacturing Revival Doesn’t Add Up for These Businesses The Quest to Turn Human Waste Into Medicine ©2024 Bloomberg L.P. Sign in to access your portfolio
+--------------------------------------------------
+
 Title: Oracle stock is down almost 8% after earnings miss and elevated cloud expectations
 URL: https://www.businessinsider.com/oracle-stock-down-earnings-miss-elevated-expectations-cloud-ai-2024-12
 Time Published: 2024-12-10T04:10:48Z
@@ -18,6 +31,12 @@ Title: Stocks Finish Near Day's Lows Amid Nvidia's Bad Day; Amazon Streak Ends A
 URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-stock-palantir-pltr/
 Time Published: 2024-12-09T21:23:08Z
 Description: The Dow Jones and S&P 500 were little changed Monday. Nvidia stock sank on a China probe while Palantir popped on the stock market today.
+--------------------------------------------------
+
+Title: Reddit's Growth 'Still Early' After 200% Post-IPO Run, Analyst Says
+URL: https://www.investors.com/news/technology/reddit-stock-rddt-stock-upgrade-ai-morgan-stanley/
+Time Published: 2024-12-09T21:04:25Z
+Description: Reddit stock touched new highs Monday following a bullish upgrade from analysts at Morgan Stanley. Shares are up more than 220% from its IPO.
 --------------------------------------------------
 
 Title: AMD Tumbles 2% Pre-Market After BofA Downgrade and AI Market Warnings
