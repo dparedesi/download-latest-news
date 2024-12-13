@@ -1,5 +1,11 @@
 List of news related to Axon Enterprise AXON:
 
+Title: Upcoming Nasdaq-100 changes could boost the stocks of these 11 companies
+URL: https://www.marketwatch.com/story/upcoming-nasdaq-100-changes-could-boost-the-stocks-of-these-11-companies-12095eea
+Time Published: 2024-12-12T12:17:00Z
+Description: There are also a bunch of companies that may be removed from the Nasdaq-100 as part of its reconstitution before the end of the year.
+--------------------------------------------------
+
 Title: MicroStrategy’s Bitcoin Play Raises Questions About Nasdaq 100 Inclusion
 URL: https://finance.yahoo.com/news/microstrategy-bitcoin-play-raises-questions-202554080.html
 Time Published: 2024-12-11T20:25:54Z
