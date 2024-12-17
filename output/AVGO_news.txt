@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Stock Market Today: Dow Jones Up As Bitcoin Play Pops; Cathie Wood Loads Up On This AI Stock Amid 48% Plunge
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-nasdaq-sp500-bitcoin-cathie-wood-palantir-nvidia-super-micro/
+Time Published: 2024-12-16T16:06:22Z
+Description: The Dow Jones index was steady on the stock market today. MicroStrategy rose on a Nasdaq move. Cathie Wood bought a plunging AI stock.
+--------------------------------------------------
+
+Title: Broadcom Inc. (AVGO) is Attracting Investor Attention: Here is What You Should Know
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_82665962-b20b-4344-8eba-1835a0c8df72
+Time Published: 2024-12-16T14:00:20Z
+Description: None
+--------------------------------------------------
+
 Title: S&P 500 Banking Giant Leads Five Stocks To Watch Amid Market Rally
 URL: https://www.investors.com/news/sp-500-goldman-sachs-fortinet-stocks-to-watch/
 Time Published: 2024-12-14T13:00:35Z
@@ -55,7 +67,7 @@ Title: Broadcom stock soars 20% as AI demand powers the company to a $1 trillion
 URL: https://qz.com/broadcom-stock-market-cap-ai-chip-apple-1851720618
 Time Published: 2024-12-13T15:46:00Z
 Full Content:
-Broadcom (AVGO+10.82%) has surpassed the $1 trillion market cap for the first time after it reported a 220% jump in artificial intelligence revenue. The chipmaker’s shares were up by about 20% during Friday morning trading, pushing its market cap to $1.02 trillion. Broadcom stock is up by about 10o% so far this year. The San Jose-based company reported revenues of $14.05 billion for the fourth quarter ended in November — a 51% increase from the previous year. Net income was $4.32 billion — a 23% year-over-year increase. Meanwhile, revenue in Broadcom’s semiconductor solutions group, which develops its AI chips, rose 12% from the same quarter last year to $8.23 billion. “Semiconductor revenue was a record $30.1 billion driven by AI revenue of $12.2 billion,” Broadcom CEO Hock Tan said in a statement. “AI revenue which grew 220 percent year-on-year was driven by our leading AI XPUs and Ethernet networking portfolio.” On the company’s earnings call, Tan said Broadcom sees “our opportunity over the next three years in AI as massive.” He added that “specific hyperscalers have begun their respective journeys to develop their own custom AI accelerators.” Tan said Broadcom is developing AI chips, which it refers to as XPUs, with three of its hyper-scale customers, and that the company expects each customer to deploy one million AI chips in networked clusters by 2027. This could lead the total market opportunity for its XPUs and other AI networking to be between $60 billion and $90 billion in fiscal year 2027, Tan said. Broadcom set revenue guidance at $14.6 billion for the first quarter of fiscal year 2025. Earlier this week, The Information reported that iPhone maker Apple (AAPL+0.98%) is developing its first AI chip, internally known as Baltra, with Broadcom. The AI chip could reportedly start mass production by 2026. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
+Broadcom (AVGO-4.49%) has surpassed the $1 trillion market cap for the first time after it reported a 220% jump in artificial intelligence revenue. The chipmaker’s shares were up by about 20% during Friday morning trading, pushing its market cap to $1.02 trillion. Broadcom stock is up by about 10o% so far this year. The San Jose-based company reported revenues of $14.05 billion for the fourth quarter ended in November — a 51% increase from the previous year. Net income was $4.32 billion — a 23% year-over-year increase. Meanwhile, revenue in Broadcom’s semiconductor solutions group, which develops its AI chips, rose 12% from the same quarter last year to $8.23 billion. “Semiconductor revenue was a record $30.1 billion driven by AI revenue of $12.2 billion,” Broadcom CEO Hock Tan said in a statement. “AI revenue which grew 220 percent year-on-year was driven by our leading AI XPUs and Ethernet networking portfolio.” On the company’s earnings call, Tan said Broadcom sees “our opportunity over the next three years in AI as massive.” He added that “specific hyperscalers have begun their respective journeys to develop their own custom AI accelerators.” Tan said Broadcom is developing AI chips, which it refers to as XPUs, with three of its hyper-scale customers, and that the company expects each customer to deploy one million AI chips in networked clusters by 2027. This could lead the total market opportunity for its XPUs and other AI networking to be between $60 billion and $90 billion in fiscal year 2027, Tan said. Broadcom set revenue guidance at $14.6 billion for the first quarter of fiscal year 2025. Earlier this week, The Information reported that iPhone maker Apple (AAPL+0.77%) is developing its first AI chip, internally known as Baltra, with Broadcom. The AI chip could reportedly start mass production by 2026. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
 --------------------------------------------------
 
 Title: S&P 500 Is 20% Overvalued — Watch For These Warning Signs: Analyst
