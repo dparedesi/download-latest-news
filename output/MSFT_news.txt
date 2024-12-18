@@ -53,9 +53,3 @@ Description: See the rest of the story here.
 
 thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…
 --------------------------------------------------
-
-Title: Dow Jones Futures Fall After Tesla, Titans Push Nasdaq Above 20,000; What To Do Now
-URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-tops-20000-tesla-hits-high/
-Time Published: 2024-12-12T11:48:06Z
-Description: Keep an eye on the Nasdaq and sentiment. Adobe tumbled late on guidance.
---------------------------------------------------
