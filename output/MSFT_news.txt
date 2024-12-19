@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Dow Jones Futures: Hawkish Fed Rate Cut Due As Nvidia Leads Market Slide; Tesla Keeps Rising
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-hawkish-fed-rate-cut-nvidia-tesla/
+Time Published: 2024-12-17T22:38:46Z
+Description: The Dow is in its longest losing streak since 1978 as Nvidia woes mount. Tesla runs higher as the Fed decision looms.
+--------------------------------------------------
+
 Title: Dow Jones Falls As These 2025 Risks Loom; Nvidia Dives On Microsoft News
 URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-ai-stock/
 Time Published: 2024-12-17T15:56:15Z
@@ -57,18 +63,4 @@ URL: https://markets.businessinsider.com/news/currencies/bitcoin-cryptocurrency-
 Time Published: 2024-12-14T09:30:02Z
 Full Content:
 MicroStrategy's bet on bitcoin has fueled a wild rally in the shares of the business software company — and it's driving more companies to copy the strategy. MicroStrategy's crypto playbook has catapulted its stock up 501% this year. Though its core business is software, piling up an enormous trove of bitcoin has become its guiding star. Now, other firms are stocking up. Mimicking MicroStrategy's approach, corporate bitcoin adopters include the crypto firm Marathon Holdings and Japan's Metaplanet. Biopharma company Acurx Pharmaceuticals also recently announced the approval by its boar for a $1 million purchase. Though bitcoin holdings aren't unique to MicroStrategy, the move is generally rare for firms outside the crypto industry to invest. That could be changing, though, industry sources told Business Insider. "Speculative transactions, previously inherent in the crypto market, are becoming a thing of the past, and the ever-growing interest of institutions in creating reserves based on bitcoin confirms this," Gracy Chen, CEO of the cryptocurrency exchange Bitget, told BI. In a December note, Bernstein analysts suggested that bitcoin will replace gold as the world's premier "store of value" asset and become a standard holding in corporate treasuries. Chen noted that bitcoin has gained a reputation as a hedge against inflation and economic crises, which could be attractive to companies as the world grows more volatile. The argument is emerging more and more — recently, a think tank pushed for Microsoft to consider buying bitcoin for this reason, with a similar proposal being floated to Amazon shareholders. Of course, bitcoin's triple-digit rally this year also spurs dreams of hefty profit, with MicroStrategy's wild stock rally exhibit A. The firm has raked in tokens by selling interest-free convertible debt, which rewards the buyer if bitcoin keeps rising. The success of these has turbocharged its stock price. "At a bitcoin price of $97,400, the value of the bitcoins that the company has created this year is ~$7.7bn, and we believe it is important to note that it created that value without the capital outlays and operational costs associated with bitcoin mining," Benchmark Company managing director Mark Palmer wrote in November. But for firms trying to replicate this, caution is necessary here, Chen said. New entrants face a much steeper bitcoin price than when MicroStrategy started buying. Companies that buy bitcoin using leverage also expose themselves to heightened risks if bitcoin suddenly drops: while the crypto's price may erode, debt obligations do not. Though this same concern has crept up for MicroStrategy, Palmer told BI that the firm has survived previous sell-offs, and has diversified means of buying bitcoin. "If we were to see the price of bitcoin drop such that MicroStrategy was trading at a discount to its [net asset value], then it would be in a position to create shareholder value through share buybacks, and I think that's a big part of the flexibility the company has created," he said. Not all shareholders want to see companies jump on the crypto bandwagon. On Wednesday, Microsoft investors voted down the think tank proposal that pushed for the tech titan to buy bitcoin. Ahead of the decision, the board similarly recommended that shareholders reject the idea. This was expected, Chen said, as most Microsoft shareholders likely value the software giant's asset stability. "The company's investment in Bitcoin may mean additional risk in investing in MSFT, while many invested in MSFT as a predictable good business," she told BI, later adding: "For shareholders who build their own diversified portfolios, mixing assets like cryptocurrencies into corporate balance sheets can complicate the valuation of a company and distract from the core business objectives for which investors are buying its shares." Check out Business Insider's picks for best cryptocurrency exchanges Check out Business Insider's picks for best cryptocurrency exchanges Indices Commodities Currencies Stocks Jump to
---------------------------------------------------
-
-Title: Microsoft Stock Today: Here's Why MSFT Stock Is Now A Buy In December
-URL: https://www.investors.com/research/microsoft-stock-today-msft-stock-buy-december/
-Time Published: 2024-12-13T20:15:57Z
-Description: Microsoft stock has been building a new base. But it's moving nicely past this alternate entry point.
---------------------------------------------------
-
-Title: Crypto Currents: Activist investor Starboard takes stake in Riot
-URL: https://thefly.com/permalinks/entry.php/id4038635/$BTC;$ETH;$DOGE;$XRP;$LTC;RIOT;IREN;HUT;MARA;CLSK;CORZ;MSTR;CAN;AGMH;MSFT;AMZN;COIN;BTBT;GREE;SDIG;WULF-Crypto-Currents-Activist-investor-Starboard-takes-stake-in-Riot
-Time Published: 2024-12-13T14:42:27Z
-Description: See the rest of the story here.
-
-thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…
 --------------------------------------------------
