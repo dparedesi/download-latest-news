@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: CrowdStrike Holdings (CRWD) Announces Integration with Salt Security for Enhanced API Attack Detection
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c3bafbe5-24b9-4273-aa60-b53cfc78dcf2
+Time Published: 2024-12-19T10:25:07Z
+Description: None
+--------------------------------------------------
+
 Title: CrowdStrike hits $1 billion sales milestone with SHI
 URL: https://www.investing.com/news/company-news/crowdstrike-hits-1-billion-sales-milestone-with-shi-93CH-3779235
 Time Published: 2024-12-18T13:04:54Z

@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: ExlService, Stock of The Day, Transforming Into AI-Led Play
+URL: https://www.investors.com/research/ibd-stock-of-the-day/exlservice-stock-ai-drives-accelerating-growth/
+Time Published: 2024-12-18T21:00:27Z
+Description: The Nvidia partner continues to shfit from business process outsourcing to data analytics and artificial intelligence.
+--------------------------------------------------
+
 Title: Walmart had a gangbusters year
 URL: https://qz.com/walmart-2024-strategic-wins-retail-tech-consumers-1851724008
 Time Published: 2024-12-18T17:23:00Z
