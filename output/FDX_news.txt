@@ -44,9 +44,3 @@ URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-n
 Time Published: 2024-12-17T01:59:18Z
 Description: Alphabet, Amazon, Apple and Tesla all set record highs Monday.
 --------------------------------------------------
-
-Title: FedEx Stock Today: This Bull Put Spread Collects $95 Immediately
-URL: https://www.investors.com/research/options/fedex-stock-today-bull-put-spread-collects-95/
-Time Published: 2024-12-16T20:23:18Z
-Description: The breakeven point for the bull put spread is 254.05.
---------------------------------------------------
