@@ -45,9 +45,3 @@ URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-dives-1
 Time Published: 2024-12-19T02:04:09Z
 Description: The Dow Jones lost 1,100 points as the stock market plunged on the Fed rate outlook. Tesla was a big loser. Micron dived late on guidance.
 --------------------------------------------------
-
-Title: Dow Jones Futures: Nvidia Triggers Sell Signal As Fed Meeting Looms
-URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-stock-nvda-fed-meeting/
-Time Published: 2024-12-17T01:59:18Z
-Description: Alphabet, Amazon, Apple and Tesla all set record highs Monday.
---------------------------------------------------
