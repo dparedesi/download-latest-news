@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Dow Jones Futures Fall After Funding Bill Averts Shutdown; Nvidia, Tesla Rally
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-funding-bill-nvidia-stock-nvda-tsla/
+Time Published: 2024-12-23T13:00:17Z
+Description: Nvidia and Tesla rallied sharply higher, while Apple is at new highs.
+--------------------------------------------------
+
 Title: AI Boom Meets Tariff Doom: How to Time Semiconductor Stocks
 URL: https://stockcharts.com/articles/chartwatchers/2024/12/ai-boom-meets-tariff-doom-how-112.html
 Time Published: 2024-12-20T19:47:56Z
