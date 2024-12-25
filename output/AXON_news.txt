@@ -1,5 +1,12 @@
 List of news related to Axon Enterprise AXON:
 
+Title: Palantir, MicroStrategy, Axon Stocks Fall on Their First Day in Nasdaq 100
+URL: https://www.investopedia.com/palantir-microstrategy-axon-stocks-fall-on-their-first-day-in-nasdaq-100-8765776
+Time Published: 2024-12-23T16:07:52Z
+Full Content:
+It hasn't been a great kickoff for the newest members of the Nasdaq 100 Index. Shares of Palantir Technologies (PLTR), MicroStrategy (MSTR), and Axon Enterprise (AXON) all began the session trading lower on their first day of being included in the prestigious index. The Nasdaq said on Dec. 13 that the three would be part of its index before today's opening bell as part of its annual reconstitution. Also weighing on MicroStrategy shares was the company's update on a stock sale it announced Oct. 30, aimed at raising up to $21 billion, and a new bitcoin (BTC) purchase. It noted in a regulatory filing that between Dec. 16-22, it had sold about 1.3 million shares, valued at $561 million. MicroStrategy added that approximately $7.08 billion of shares remained available for purchase. The largest corporate holder of the cryptocurrency also reported that from Dec. 16-22, it had paid the same amount to acquire an additional 5,262 bitcoins. The average price was $106,662, close to the cryptocurrency's all-time high. MicroStrategy explained that as of Sunday, it owned 444,262 BTC. Despite today's selloff, shares of Palantir Technologies and MicroStrategy have skyrocketed 360% and 445%, respectively, this year, while Axon Enterprise shares have jumped 140%. TradingView
+--------------------------------------------------
+
 Title: Bitcoin proxy MicroStrategy officially debuts on Nasdaq-100
 URL: https://cryptobriefing.com/bitcoin-proxy-debuts-nasdaq-100/
 Time Published: 2024-12-23T14:16:22Z
