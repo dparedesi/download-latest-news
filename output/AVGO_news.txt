@@ -63,9 +63,3 @@ URL: https://www.investors.com/etfs-and-funds/mutual-funds/mutual-funds-enjoy-ba
 Time Published: 2024-12-26T12:00:45Z
 Description: Back-to-back years of nearly 25% gains for the big-cap S&P 500 raises the bar for stock mutual funds in 2025.
 --------------------------------------------------
-
-Title: Dow Jones Futures: Market Rallies Into Holiday; Tesla Surges, Nvidia Tops Buy Point
-URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-santa-claus-rally-tesla-surges-nvidia-buy-point/
-Time Published: 2024-12-25T02:05:30Z
-Description: The Santa Claus rally got off to a strong start with Tesla leading the Nasdaq higher. Nvidia just topped a buy point.
---------------------------------------------------
