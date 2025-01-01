@@ -12,9 +12,3 @@ URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-n
 Time Published: 2024-12-30T13:03:09Z
 Description: Nvidia offered a new buy point, while Tesla threatened to extend Friday's losses.
 --------------------------------------------------
-
-Title: Dow Jones Futures Fall Ahead Of Jobless Claims; Nvidia Hits Buy Point
-URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-buy-point-nvda-stock/
-Time Published: 2024-12-26T13:05:05Z
-Description: Nvidia hit a buy point Tuesday, while Tesla continued to rebound.
---------------------------------------------------
