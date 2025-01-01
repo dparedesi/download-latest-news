@@ -1,5 +1,12 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: AMD's Next Big Move: Northland Names It a Top Pick for 2025
+URL: https://finance.yahoo.com/news/amds-next-big-move-northland-065521816.html
+Time Published: 2024-12-31T06:55:21Z
+Full Content:
+We are experiencing some temporary issues. The market data on this page is currently delayed. Please bear with us as we address this and restore your personalized lists. Recently, Northland analysts reiterated their Outperform rating for Advanced Micro Devices (AMD. Financial) and set a price target a price target of $175, or nearly a 40% upside from Tuesday's $125 close. Northland has AMD among its top picks for 2025 because it is also a confidence play, as the firm should be able to increase market share in AI GPUs, server CPUs, and PC clients. Warning! GuruFocus has detected 6 Warning Signs with AMD. Embedded gaming remains one of the headwinds for AMD, and its strategic roadmap is to overcome the respective headwinds and take full advantage of the growing demand for AI-driven technology. The projections say AI-related revenue could reach up to $5.2 billion by 2024 and increase to $9.5 billion by 2025, indicating solid growth potential. AMD's Turin CPUs also beat Intel's Granite Rapids in data center workloads, which is a big driver of its expected 10% growth in non-AI data center revenue to $8.5 billion in 2025. Also on the cusp of a possible PC market refresh cycle is the phase-out of Microsoft (MSFT, Financial) support for Windows 10, which could help push AMD client revenue up by 25%, year over year, to $7.9B in 2025, driven by upside potential. Despite the challenges in the gaming and embedded markets, Northland forecasts gaming revenues to remain flat, and embedded revenue is expected to return to $4 billion in 2025. The recent $333 million investment in AI cloud startup Vultr continues the company's focus on developing AI infrastructure and pushes its edge in the GPU market even further alongside Nvidia. AMD is positioned strongly financially and has a forward-looking innovation focus that is worth watching in the tech space. This article first appeared on GuruFocus. Sign in to access your portfolio
+--------------------------------------------------
+
 Title: Today in Apple history: Microsoft hits the height of its ’90s power
 URL: https://www.cultofmac.com/apple-history/microsoft-hits-height-of-its-90s-power
 Time Published: 2024-12-30T18:40:40Z
