@@ -30,16 +30,3 @@ URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-n
 Time Published: 2024-12-31T13:04:43Z
 Description: Nvidia is setting up to retake a key level, while Tesla looked to snap a three-day skid.
 --------------------------------------------------
-
-Title: Intel's Stock Falls 3% On Weak Performance and Product Delays
-URL: https://finance.yahoo.com/news/intels-stock-falls-3-weak-164001773.html
-Time Published: 2024-12-30T16:40:01Z
-Full Content:
-We are experiencing some temporary issues. The market data on this page is currently delayed. Please bear with us as we address this and restore your personalized lists. Shares of Intel Corporation (INTC, Financial) dropped 3% on Monday as investors are growing concerns over its long-term strategy, and leadership is primarily responsible for this. The company was recently struggling after CEO Pat Gelsinger left the job. That is where Iohaveny has left investors wondering about the path ahead for the company and its struggle to compete in the crowded market for chipmaking. Investors have fumed at Intel's slow progress in trying to recapture its leadership position and shift to focus on AI chips alongside its struggles in its foundry business. Warning! GuruFocus has detected 8 Warning Signs with INTC. Operating a chip factory isn't easy, and Intel has been working with Taiwan Semiconductor Manufacturing Company (TSM, Financial) on 3nm technology while making that step. And while these strategic shifts have yet to fully bear fruit, success has eluded short-term growth. Fierce competition from rivals such as AMD and NVIDIA continues to erode Intel's market share, increasing pressure to turn the Company's ship around in the ever-changing semiconductor universe. Forecasters say Intel can rebound by 2025 if it stabilizes its finances and copes with new product tablets. Nonetheless, it reflects growing investor sentiment that could continue as the stock's current decline reflects a tough 2024 outlook for businesses across all sectors. This article first appeared on GuruFocus. Sign in to access your portfolio
---------------------------------------------------
-
-Title: Dow Jones Futures Fall 290 Points As Nvidia Offers New Buy Point; Tesla Extends Losses
-URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-stock-nvda-buy-point-tesla-tsla/
-Time Published: 2024-12-30T13:03:09Z
-Description: Nvidia offered a new buy point, while Tesla threatened to extend Friday's losses.
---------------------------------------------------
