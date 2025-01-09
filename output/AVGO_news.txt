@@ -24,16 +24,3 @@ URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures
 Time Published: 2025-01-04T13:10:32Z
 Description: The major indexes fell for the week, but rallied back from Thursday's lows. Leading stocks shined.
 --------------------------------------------------
-
-Title: Nvidia Tops Semiconductor Rankings as Fund Managers Bet Big on AI-Led Growth
-URL: https://finance.yahoo.com/news/nvidia-tops-semiconductor-rankings-fund-192926636.html
-Time Published: 2025-01-03T19:29:26Z
-Full Content:
-We are experiencing some temporary issues. The market data on this page is currently delayed. Please bear with us as we address this and restore your personalized lists. An industry analysis by Bank of America finds Nvidia (NASDAQ:NVDA) remained the most actively owned semiconductor stock among active U.S. fund managers as ownership rises to 72% as of December 2024, up from 70% at the end of September.Traversing fund manager ownership, Broadcom ( AVGO) with 54.6%, Applied Materials ( AMAT), Advanced Micro Devices (AMD), Qualcomm (QCOM), Texas Instruments (TXN), behind Nvidia.Under the guidance of Vivek Arya, Bank of America analysts noted that although trust in Nvidia's long-term development is still high, the stock's portfolio weighting has somewhat altered to 1.01 times, from 0.99 times in September but remains below the 1.03 times recorded in December 2023.Nvidia (+2%), Broadcom (+2.4%), ON Semiconductor ( ON) (+0.4%), and Cadence Design Systems ( CDNS+) (+0.2%). Quarter-wide ownership rises Applied Materials (-4.4%), Lam Research ( LRCX), (-4%), Qualcomm (-3%), AMD (-2.8%), and Intel (-2.6%), experienced the greatest declines consecutively.The ongoing dominance of Nvidia underlines its appeal with fund managers projecting the long-term possibilities of artificial intelligence and high-performance computing in the semiconductor sector. This article first appeared on GuruFocus. Sign in to access your portfolio
---------------------------------------------------
-
-Title: Nvidia Hits Buy Point Amid CES Chip Buzz; Is Nvidia A Buy Now?
-URL: https://www.investors.com/research/nvda-stock-is-nvidia-a-buy-january-2025/
-Time Published: 2025-01-03T16:52:22Z
-Description: Nvidia stock soared past the 50-day moving average on Friday and hit a buy point ahead of the CES event on Monday when it will reveal its latest chips.
---------------------------------------------------

@@ -53,9 +53,3 @@ URL: https://financialpost.com/investing/etfs-surged-past-c500-billion-last-year
 Time Published: 2025-01-04T01:33:33Z
 Description: ETF assets under management stood at $519 billion at the end of December thanks to strong market returns and inflows of $76 billion. Read on
 --------------------------------------------------
-
-Title: 13 LGBTQ+ elected lawmakers join the 119th Congress
-URL: https://www.advocate.com/politics/119th-congress-lgbtq-members
-Time Published: 2025-01-03T17:49:47Z
-Description: From Sarah McBride to Tammy Baldwin, here are the queer lawmakers in the 119th Congress.
---------------------------------------------------
