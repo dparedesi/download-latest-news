@@ -69,9 +69,3 @@ URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures
 Time Published: 2025-01-06T12:54:32Z
 Description: Nvidia already flashed an early entry Friday. CEO Jensen Huang looms tonight.
 --------------------------------------------------
-
-Title: Dow Jones Futures: Market Jumps; Nvidia Leads New Buys As CEO Jensen Huang Looms
-URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-ceo-jensen-huang/
-Time Published: 2025-01-04T13:10:32Z
-Description: The major indexes fell for the week, but rallied back from Thursday's lows. Leading stocks shined.
---------------------------------------------------
