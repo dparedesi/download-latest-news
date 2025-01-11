@@ -1,5 +1,35 @@
 List of news related to Broadcom AVGO:
 
+Title: Stock Market Tumbles As Yields Spike; Nvidia, Tesla, Delta, Meta, Jobs Report In Focus: Weekly Review
+URL: https://www.investors.com/news/stock-market-tumbles-yields-spike-nvidia-tesla-delta-meta-jobs-report/
+Time Published: 2025-01-10T17:04:40Z
+Description: The S&P 500 and Nasdaq are below their 50-day lines.
+--------------------------------------------------
+
+Title: As Nvidia Loses Support, This IBD 50 Stock Fights To Hold It
+URL: https://www.investors.com/research/ibd-stock-analysis/interactive-brokers-stock-ibkr-nvidia-broadcom/
+Time Published: 2025-01-10T16:12:19Z
+Description: While Nvidia fights for support, Interactive Brokers eyes AI-fueled breakout.
+--------------------------------------------------
+
+Title: Funds Bet On Apple, Google And This Tesla Rival To Kick Off 2025
+URL: https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-buy-apple-stock-google-tesla-rival-byd/
+Time Published: 2025-01-10T15:49:17Z
+Description: After a long absence, Apple returns to list of new buys by top funds.
+--------------------------------------------------
+
+Title: JPMorgan, Goldman Sachs, Chip Giant TSMC Set To Kick Off Q4 Earnings Season
+URL: https://www.investors.com/?p=9624000&preview=true&preview_id=9624000
+Time Published: 2025-01-10T15:27:59Z
+Description: JPM stock gapped up in October on strong Q3 results. Investors expect a strong Q4 when the company reports Wednesday.
+--------------------------------------------------
+
+Title: Dow Jones Futures Fall With Jobs Report Due; New Tesla Model Y, Delta, Nvidia Chipmaker In Focus
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-taiwan-semiconductor-jobs-report/
+Time Published: 2025-01-10T12:15:12Z
+Description: Nvidia chipmaker Taiwan Semiconductor reported strong sales. Tesla launched the new Model Y in China. The jobs report looms.
+--------------------------------------------------
+
 Title: Japanese Chipmaker Rapidus Sets Sight on Broadcom to Emulate Taiwan Semiconductor's Market Dominance
 URL: https://finance.yahoo.com/news/japanese-chipmaker-rapidus-sets-sight-135452535.html
 Time Published: 2025-01-09T13:54:52Z
