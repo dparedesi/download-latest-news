@@ -1,5 +1,12 @@
 List of news related to NVIDIA NVDA:
 
+Title: Древний ноут и нвидия
+URL: https://www.linux.org.ru/forum/linux-hardware/17845081
+Time Published: 2025-01-11T10:01:26Z
+Full Content:
+nouveau, nvidia, ретро Есть такая карта При загрузки модуля nouveau на экране даже не изображение, а что-то странное и постепенно гаснет. Т.е. режим некорректно устанавливается При этом fbset показывает такое Но если вместо загрузить nvidiafb, то всё корректно вносите местного шлимазла который утверждал что на старых-то картах нуво работает нормально Когда-то давно нормально работало, во всякие tuxkart, tuxracer и думы поиграть можно было. Именно с nouveau Когда-то давно нормально работало Тогда и nouveau был другим. Груз обратной совместимости мешает развитию, есть такое мнение. Так что, есть какая-то возможность насильно скормить nouveau какой-нибудь modeline или типа того? В параметрам modinfo сходу не нахожу подобного. О Сервере - Правила форума - Правила разметки (LORCODE) - Правила разметки (Markdown) Сообщить об ошибке https://www.linux.org.ru/
+--------------------------------------------------
+
 Title: Investing Action Plan: JPM Conference; UnitedHealth, Taiwan Semiconductor Earnings
 URL: https://www.investors.com/research/investing-action-plan/investing-action-plan-jpm-conference-unitedhealth-taiwan-semiconductor-earnings/
 Time Published: 2025-01-10T22:19:14Z
@@ -317,11 +324,4 @@ Title: Which Top AI Semiconductor Stocks are Positioned for Growth?
 URL: https://stockcharts.com/articles/chartwatchers/2025/01/which-top-ai-semiconductor-sto-445.html
 Time Published: 2025-01-07T21:24:00Z
 Description: On Tuesday, January 7, 2025, CES (Consumer Electronics Show) 2025 opens its doors in Las Vegas for a four-day event. As the world's largest technology expo, CES is the hub for global tech innovation,  spotlighting the cutting-edge advancements that will defin…
---------------------------------------------------
-
-Title: [Removed]
-URL: https://removed.com
-Time Published: 2025-01-07T21:18:11Z
-Full Content:
-Coming soon.
 --------------------------------------------------
