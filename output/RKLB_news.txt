@@ -1,5 +1,11 @@
 List of news related to Rocket Lab RKLB:
 
+Title: Stock Market Panic: Why Strong Jobs and Inflation Signal Trouble Ahead
+URL: https://stockcharts.com/articles/chartwatchers/2025/01/stock-market-panic-why-strong-494.html
+Time Published: 2025-01-10T23:28:42Z
+Description: December non-farm payrolls data came in much hotter than expected. More jobs were added, the unemployment rate dipped slightly, and average hourly wages rose. Overall, it was a solid employment report, but the stock market didn't like the news. Throw in the r…
+--------------------------------------------------
+
 Title: Rocket Lab to Provide Hypersonic Test Launches for Department of Defense
 URL: https://www.spacedaily.com/reports/Rocket_Lab_to_Provide_Hypersonic_Test_Launches_for_Department_of_Defense_999.html
 Time Published: 2025-01-10T02:49:07Z
