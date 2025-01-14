@@ -11,9 +11,3 @@ URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures
 Time Published: 2025-01-10T12:15:12Z
 Description: Nvidia chipmaker Taiwan Semiconductor reported strong sales. Tesla launched the new Model Y in China. The jobs report looms.
 --------------------------------------------------
-
-Title: Dow Jones Futures: Stock Market Sells Off As Nvidia, Palantir Tumble; What To Do Now
-URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-sells-off-nvidia-palantir-tumble/
-Time Published: 2025-01-08T00:50:19Z
-Description: The stock market sold off Tuesday as yields rose and growth stocks fell sharply.
---------------------------------------------------
