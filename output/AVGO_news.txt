@@ -14,15 +14,15 @@ Description: None
 --------------------------------------------------
 
 Title: Jim Cramer on Broadcom Inc. (AVGO): ‘It’s Not Too Late To Get On Board’
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0d3defdf-7b3d-40aa-8059-2c19f272f0f0
-Time Published: 2025-01-11T01:36:08Z
-Description: We recently compiled a list of the 10 S&P 500 Stocks on Jim Cramer’s Radar. In this article, we are going to take a look at where Broadcom Inc. (NASDAQ:AVGO) stands against the other S&P 500 stocks. Jim Cramer, host of Mad Money, recently discussed the curren…
---------------------------------------------------
-
-Title: Jim Cramer on Broadcom Inc. (AVGO): ‘It’s Not Too Late To Get On Board’
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_69f798c9-bc25-4b4a-90fd-b6b3a15fa158
 Time Published: 2025-01-11T01:36:08Z
 Description: None
+--------------------------------------------------
+
+Title: Jim Cramer on Broadcom Inc. (AVGO): ‘It’s Not Too Late To Get On Board’
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0d3defdf-7b3d-40aa-8059-2c19f272f0f0
+Time Published: 2025-01-11T01:36:08Z
+Description: We recently compiled a list of the 10 S&P 500 Stocks on Jim Cramer’s Radar. In this article, we are going to take a look at where Broadcom Inc. (NASDAQ:AVGO) stands against the other S&P 500 stocks. Jim Cramer, host of Mad Money, recently discussed the curren…
 --------------------------------------------------
 
 Title: Billionaires Pour ~$1,777,000,000 Into Three Assets in Major Portfolio Overhaul: Report
@@ -30,34 +30,4 @@ URL: https://dailyhodl.com/2025/01/10/billionaires-pour-1777000000-into-three-as
 Time Published: 2025-01-11T01:04:37Z
 Full Content:
 Several billionaire money managers have modified their portfolios and poured about $1.8 billion into new assets, according to a new report. Billionaires Philippe Laffont, Stanley Druckenmiller, Chase Coleman, Stephen Mandel and Larry Robbins are accumulating AI-centered equities, reports The Motley Fool. The investors have specifically targeted US semiconductor and software giant Broadcom (AVGO), purchasing a total of 1,728,646 shares valued at about $1.47 billion in the third quarter of last year. The firm’s AI revenue has surged in recent months, powering a 125% rise in the stock over the last year. The wealthy investors have also purchased roughly 1,749,613 shares of Amazon, worth about $245 million, as the company’s cloud platform Amazon Web Services (AWS) implements generative AI solutions for customers. Lastly, the billionaires have bought 621,445 shares of Taiwan Semiconductor Manufacturing (TSM), worth about $62 million, betting on the world’s largest chip manufacturer. The billionaires’ new plays in artificial intelligence come as analysts at PwC forecast the total addressable market for AI will hit $15.7 trillion by 2030, as the groundbreaking technology transforms business and manufacturing worldwide. Generated Image: Midjourney Covering the future of finance, including macro, bitcoin, ethereum, crypto, and web 3. Categories Bitcoin • Ethereum • Trading • Altcoins • Futuremash • Financeflux • Blockchain • Regulators • Scams • HodlX • Press Releases ABOUT US | EDITORIAL POLICY | PRIVACY POLICY TERMS AND CONDITIONS | CONTACT | ADVERTISE JOIN US ON TELEGRAM JOIN US ON X JOIN US ON FACEBOOK COPYRIGHT © 2017-2025 THE DAILY HODL © 2025 The Daily Hodl
---------------------------------------------------
-
-Title: Stock Market Tumbles As Yields Spike; Nvidia, Tesla, Delta, Meta, Jobs Report In Focus: Weekly Review
-URL: https://www.investors.com/news/stock-market-tumbles-yields-spike-nvidia-tesla-delta-meta-jobs-report/
-Time Published: 2025-01-10T17:04:40Z
-Description: The S&P 500 and Nasdaq are below their 50-day lines.
---------------------------------------------------
-
-Title: As Nvidia Loses Support, This IBD 50 Stock Fights To Hold It
-URL: https://www.investors.com/research/ibd-stock-analysis/interactive-brokers-stock-ibkr-nvidia-broadcom/
-Time Published: 2025-01-10T16:12:19Z
-Description: While Nvidia fights for support, Interactive Brokers eyes AI-fueled breakout.
---------------------------------------------------
-
-Title: Funds Bet On Apple, Google And This Tesla Rival To Kick Off 2025
-URL: https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-buy-apple-stock-google-tesla-rival-byd/
-Time Published: 2025-01-10T15:49:17Z
-Description: After a long absence, Apple returns to list of new buys by top funds.
---------------------------------------------------
-
-Title: JPMorgan, Goldman Sachs, Chip Giant TSMC Set To Kick Off Q4 Earnings Season
-URL: https://www.investors.com/?p=9624000&preview=true&preview_id=9624000
-Time Published: 2025-01-10T15:27:59Z
-Description: JPM stock gapped up in October on strong Q3 results. Investors expect a strong Q4 when the company reports Wednesday.
---------------------------------------------------
-
-Title: Dow Jones Futures Fall With Jobs Report Due; New Tesla Model Y, Delta, Nvidia Chipmaker In Focus
-URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-taiwan-semiconductor-jobs-report/
-Time Published: 2025-01-10T12:15:12Z
-Description: Nvidia chipmaker Taiwan Semiconductor reported strong sales. Tesla launched the new Model Y in China. The jobs report looms.
 --------------------------------------------------
