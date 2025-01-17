@@ -1,5 +1,12 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Taiwan Semiconductor earnings beat by $0.06, revenue topped estimates
+URL: https://www.investing.com/news/stock-market-news/taiwan-semiconductor-earnings-beat-by-006-revenue-topped-estimates-3815643
+Time Published: 2025-01-16T05:57:22Z
+Full Content:
+Investing.com - Taiwan Semiconductor (NYSE: TSM) reported fourth quarter EPS of $2.24, $0.06 better than the analyst estimate of $2.18. Revenue for the quarter came in at $26.88B versus the consensus estimate of $26.33B. Taiwan Semiconductor's stock price closed at $206.80. It is up 3.00% in the last 3 months and up 100.87% in the last 12 months. Taiwan Semiconductor saw 5 positive EPS revisions and 0 negative EPS revisions in the last 90 days. See Taiwan Semiconductor's stock price’s past reactions to earnings here. According to InvestingPro, Taiwan Semiconductor's Financial Health score is "great performance". Check out Taiwan Semiconductor's recent earnings performance, and Taiwan Semiconductor's financials here. Stay up-to-date on all of the upcoming earnings reports by visiting Investing.com's earnings calendar
+--------------------------------------------------
+
 Title: The U.S. wants to block China from TSMC's and Samsung's advanced chips
 URL: https://qz.com/biden-administration-china-advanced-chips-tsmc-samsung-1851739913
 Time Published: 2025-01-15T16:35:00Z
