@@ -1,5 +1,11 @@
 List of news related to Rocket Lab RKLB:
 
+Title: SpaceX’s Starship blew up. Elon Musk says it’s ’barely a bump in the road’.
+URL: https://www.marketwatch.com/story/spacexs-starship-blew-up-elon-musk-says-its-barely-a-bump-in-the-road-c7672ae3
+Time Published: 2025-01-17T13:16:00Z
+Description: SpaceX CEO Musk has described the explosion of the company’s Starship spacecraft during its seventh flight test Thursday as “barely a bump in the road,” underlining the momentum behind the commercial space giant.
+--------------------------------------------------
+
 Title: Rocket Lab's Second Reentry Class Spacecraft for Varda Operating on Orbit Supporting Payloads for Air Force Research Lab and NASA
 URL: https://www.investing.com/news/press-releases/rocket-labs-second-reentry-class-spacecraft-for-varda-operating-on-orbit-supporting-payloads-for-air-force-research-lab-and-nasa-93CH-3815510
 Time Published: 2025-01-15T23:48:03Z

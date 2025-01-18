@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stock Market Today: Dow Jones Rises; Nvidia Gains As Bitcoin Soars Past $104,000 On Trump Plans (Live Coverage)
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-stock-bitcoin-trump/
+Time Published: 2025-01-17T16:06:05Z
+Description: Dow Jones and other indexes soared in the stock market today as investors await Inauguration Day on Monday. Bitcoin cleared $103,000.
+--------------------------------------------------
+
 Title: Microsoft Is Riding The Wave To Long-Term Growth Through AI And Cloud
 URL: https://www.forbes.com/sites/gurufocus/2025/01/16/microsoft-is-riding-the-wave-to-long-term-growth-through-ai-and-cloud/
 Time Published: 2025-01-16T15:46:20Z
