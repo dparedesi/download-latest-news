@@ -80,9 +80,3 @@ URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures
 Time Published: 2025-01-16T11:51:19Z
 Description: UnitedHealth dragged on the Dow after Wednesday's market rally.
 --------------------------------------------------
-
-Title: AI-Fueled Energy Stock Has This Edge Over The Nvidias Of The World
-URL: https://www.investors.com/research/breakout-stocks-technical-analysis/baker-hughes-stock-bkr-artificial-intelligence/
-Time Published: 2025-01-15T15:30:07Z
-Description: While Nvidia loses support in a risky late-stage base, Baker Hughes taps strong growth and AI to drill a breakout.
---------------------------------------------------
