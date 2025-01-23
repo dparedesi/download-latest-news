@@ -1,5 +1,11 @@
 List of news related to JPMorgan stock price JPM:
 
+Title: Using Expected Range To Pick Strikes For Netflix Stock Bull Put Spread
+URL: https://www.investors.com/research/options/netflix-stock-earnings-bull-put-spread/
+Time Published: 2025-01-21T19:36:49Z
+Description: An expected range based on the options market is easy to calculate and helps decide strikes for spread trades.
+--------------------------------------------------
+
 Title: Healthy Returns: Biotech and pharma M&A is off to a good start in 2025 — but will it last?
 URL: https://www.cnbc.com/2025/01/21/healthy-returns-biotech-pharma-ma-picks-up-in-2025.html
 Time Published: 2025-01-21T19:35:11Z
