@@ -1,5 +1,17 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Is Taiwan Semiconductor Manufacturing Company Limited (TSM) Among Billionaire Dan Loeb’s Top Stock Picks?
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_13ac97cf-d953-4a38-b1df-9063b3701378
+Time Published: 2025-01-24T01:54:08Z
+Description: None
+--------------------------------------------------
+
+Title: NVDA, TSMC, and Broadcom: Top Semiconductor Plays as SMH Hits New Highs
+URL: https://stockcharts.com/articles/chartwatchers/2025/01/nvda-tsmc-and-broadcom-top-sem-903.html
+Time Published: 2025-01-23T19:43:25Z
+Description: In the last quarter of 2024, semiconductors have been walking a tightrope between tariff fears and supply chain uncertainties. Geopolitical tensions between the US and China cast a long shadow over the industry, holding our proxy, VanEck Vectors Semiconductor…
+--------------------------------------------------
+
 Title: Nvidia Stock Rallies As Chipmaker Named To Stargate AI Venture
 URL: https://www.investors.com/news/technology/nvidia-stock-rallies-stargate-ai-project/
 Time Published: 2025-01-22T22:06:26Z
