@@ -118,13 +118,13 @@
       align-items: center;
     }
 
-    /* Sort Buttons + Progress Bar in the same row */
+    /* Sort buttons + progress bar in one row, wrapping if needed */
     .sort-controls {
       display: flex;
+      flex-wrap: wrap;
       align-items: center;
       gap: 12px;
       margin-bottom: 16px;
-      flex-wrap: wrap;
     }
     .sort-button {
       padding: 6px 12px;
@@ -151,14 +151,16 @@
       font-size: 0.8em;
     }
 
-    /* Minimal progress bar - no spinner or text. */
-    .progress-bar {
+    /* A container for the bar so it can center if it wraps to a new line */
+    .progress-bar-container {
       width: 120px;
       height: 6px;
       background-color: var(--ios-separator);
       border-radius: 3px;
       overflow: hidden;
-      display: none; /* hidden by default */
+      display: none; /* hidden until we load stocks */
+      margin-left: auto;
+      margin-right: auto;
     }
     .progress {
       width: 0%;
@@ -175,7 +177,7 @@
       <h1>📈Stock Tracker</h1>
     </div>
 
-    <!-- Sort controls + subtle progress bar side by side -->
+    <!-- Sort buttons + bar container in one flex row -->
     <div class="sort-controls">
       <button class="sort-button active" data-sort="change">
         Daily Change
@@ -185,13 +187,11 @@
         Upside Potential
         <span class="sort-direction">▼</span>
       </button>
-      <!-- The small progress bar container -->
-      <div class="progress-bar" id="progressBarContainer">
+      <div class="progress-bar-container" id="progressBarContainer">
         <div class="progress" id="progressBar"></div>
       </div>
     </div>
 
-    <!-- Container for dynamically added stock data -->
     <div id="stockData"></div>
   </div>
 
@@ -214,7 +214,7 @@
     // Keep track of current sorting
     let currentSort = {
       field: 'change',   // 'change' or 'potential'
-      ascending: false   // false means descending
+      ascending: false   // false = descending
     };
 
     // ---------------------------------------------------------------
@@ -350,7 +350,7 @@
     }
 
     // ---------------------------------------------------------------
-    // 7) Toggle sort (Daily Change or Upside Potential)
+    // 7) Toggle sort
     // ---------------------------------------------------------------
     function toggleSort(field) {
       if (currentSort.field === field) {
@@ -377,10 +377,10 @@
     }
 
     // ---------------------------------------------------------------
-    // 8) On page load, set up, then load incrementally
+    // 8) On page load
     // ---------------------------------------------------------------
     document.addEventListener('DOMContentLoaded', () => {
-      // Attach click to the sort buttons
+      // Set up sort button clicks
       document.querySelectorAll('.sort-button').forEach(button => {
         button.addEventListener('click', () => {
           toggleSort(button.dataset.sort);
