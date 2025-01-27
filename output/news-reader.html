@@ -14,7 +14,7 @@
       --ios-separator: #2F3336;
       --ios-card-background: #16181C;
     }
-    
+
     body {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
       font-size: 16px;
@@ -250,7 +250,7 @@
   </div>
 
   <script>
-    // POINT THIS TO YOUR RAW GITHUB URL FOR "consolidated_news.txt"
+    // Your consolidated news file's raw URL
     const DEFAULT_CONSOLIDATED_URL = 'https://raw.githubusercontent.com/dparedesi/download-latest-news/main/output/consolidated_news.txt';
 
     let fileListFetched = false; // track if we've fetched the file list
@@ -299,7 +299,6 @@
       }
     }
 
-    // Fetch the GitHub file list
     async function fetchFileList() {
       try {
         fileListFetched = true; // only fetch once
@@ -307,7 +306,7 @@
         allFiles = await response.json();
         const fileListElem = document.getElementById('file-list');
 
-        // "All news" option
+        // "All news"
         const allNewsItem = document.createElement('li');
         const allNewsLink = document.createElement('a');
         allNewsLink.href = '#';
@@ -322,7 +321,7 @@
         allNewsItem.appendChild(allNewsLink);
         fileListElem.appendChild(allNewsItem);
 
-        // List other .txt files with article counts
+        // Others
         for (const file of allFiles) {
           if (file.name.endsWith('.txt') && file.name !== 'consolidated_news.txt') {
             const articleCount = await countArticlesInFile(file.download_url);
@@ -349,8 +348,9 @@
       try {
         const resp = await fetch(url);
         const text = await resp.text();
-        // We only count items that contain "Title:"
-        const items = text.split('----')
+        // Only count items that have "Title:"
+        const items = text
+          .split('----')
           .map(item => item.trim())
           .filter(item => item.includes('Title:'));
         return items.length;
@@ -359,10 +359,9 @@
       }
     }
 
-    // Create placeholders for skeleton loading
     function createPlaceholders(count = 5) {
       const container = document.getElementById('news-container');
-      container.innerHTML = ''; // clear
+      container.innerHTML = '';
       for (let i = 0; i < count; i++) {
         const placeholder = document.createElement('div');
         placeholder.className = 'placeholder';
@@ -376,7 +375,6 @@
       }
     }
 
-    // Main function that fetches and displays a given news file
     async function fetchNews(url) {
       try {
         const response = await fetch(url);
@@ -386,10 +384,10 @@
         const text = await response.text();
 
         const newsContainer = document.getElementById('news-container');
-        newsContainer.innerHTML = ''; // Clear placeholders / previous items
+        newsContainer.innerHTML = '';
 
-        // Filter out invalid items (must contain "Title:")
-        const newsItems = text.split('----')
+        const newsItems = text
+          .split('----')
           .map(item => item.trim())
           .filter(item => item.includes('Title:'));
 
@@ -438,9 +436,10 @@
 
             // Show first 200 chars
             newsContent.textContent = trimmedFullContent.slice(0, 200) + '...';
-            newsContent.style.maxHeight = '3.6em'; // ~ 2-3 lines
+            // Let’s do ~3 lines at typical 1.5 line-height
+            newsContent.style.maxHeight = '4.5em';
 
-            // Show more/less button
+            // Show more/less
             const showMoreBtn = document.createElement('button');
             showMoreBtn.className = 'show-more arrow-down';
             showMoreBtn.textContent = 'Show more ';
@@ -455,14 +454,14 @@
                 showMoreBtn.classList.remove('arrow-down');
                 showMoreBtn.classList.add('arrow-up');
               } else {
-                // Collapse it again
+                // Collapse
                 newsContent.textContent = trimmedFullContent.slice(0, 200) + '...';
-                newsContent.style.maxHeight = '3.6em';
+                newsContent.style.maxHeight = '4.5em';
                 showMoreBtn.textContent = 'Show more ';
                 showMoreBtn.classList.remove('arrow-up');
                 showMoreBtn.classList.add('arrow-down');
 
-                // Scroll back to this news item
+                // Scroll back to this item
                 newsDiv.scrollIntoView({ behavior: 'smooth', block: 'start' });
               }
             };
@@ -476,41 +475,33 @@
             newsContainer.appendChild(newsDiv);
           }
         });
-
-        // Scroll to the top of the content area
+        // Scroll to the top
         window.scrollTo({ top: 0, behavior: 'smooth' });
       } catch (error) {
         console.error('Error fetching news:', error);
         document.getElementById('error').style.display = 'block';
       } finally {
-        // Hide "Loading..." or placeholders
+        // Hide placeholders / "Loading..."
         document.getElementById('loading').style.display = 'none';
       }
     }
 
-    // Convert raw time string to a localized format
     function formatTimeString(rawTime) {
       try {
         const dateObj = new Date(rawTime);
         if (!isNaN(dateObj.getTime())) {
           return dateObj.toLocaleString(); 
         }
-        // fallback if date parsing fails
         return rawTime;
       } catch {
         return rawTime;
       }
     }
 
-    // High-level load news logic
     function loadNews(url) {
-      // Clear errors
       document.getElementById('error').style.display = 'none';
-      // Show placeholders
       createPlaceholders();
-      // Mark loading
       document.getElementById('loading').style.display = 'block';
-      // Actually fetch the news content
       fetchNews(url);
     }
   </script>
