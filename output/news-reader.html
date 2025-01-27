@@ -1,372 +1,518 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>News Reader</title>
-    <style>
-        :root {
-            --ios-blue: #1D9BF0; /* Twitter's blue color */
-            --ios-background: #000000; /* Twitter's background color */
-            --ios-text: #E7E9EA; /* Twitter's main text color */
-            --ios-secondary-text: #71767B; /* Twitter's secondary text color */
-            --ios-separator: #2F3336; /* Twitter's separator color */
-            --ios-card-background: #16181C; /* Twitter's card background color */
-        }
-        /*
-        @media (prefers-color-scheme: light) {
-            :root {
-                --ios-background: #FFFFFF;
-                --ios-text: #0F1419;
-                --ios-secondary-text: #536471;
-                --ios-separator: #EFF3F4;
-                --ios-card-background: #F7F9F9;
-            }
-        }*/
-        
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-            font-size: 16px;
-            line-height: 1.5;
-            margin: 0;
-            padding: 0;
-            background-color: var(--ios-background);
-            color: var(--ios-text);
-            -webkit-font-smoothing: antialiased;
-            -moz-osx-font-smoothing: grayscale;
-        }
-        
-        .container {
-            padding: 20px;
-            padding-bottom: 80px;
-        }
-        
-        h1 {
-            font-size: 34px;
-            font-weight: bold;
-            margin-bottom: 20px;
-        }
-        
-        .sidebar {
-            width: 100%;
-            background-color: var(--ios-background);
-            position: fixed;
-            left: 0;
-            bottom: 0;
-            height: 70%;
-            transform: translateY(100%);
-            transition: transform 0.3s cubic-bezier(0.4, 0.0, 0.2, 1);
-            z-index: 1000;
-            border-top-left-radius: 10px;
-            border-top-right-radius: 10px;
-            box-shadow: 0 -1px 10px rgba(0,0,0,0.1);
-            overflow-y: auto;
-            -webkit-overflow-scrolling: touch;
-        }
-        
-        .sidebar.visible {
-            transform: translateY(0);
-        }
-        
-        .sidebar h2 {
-            font-size: 22px;
-            font-weight: bold;
-            margin: 20px 0;
-            text-align: center;
-            color: var(--ios-text);
-        }
-        
-        .sidebar ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
-        
-        .sidebar li {
-            padding: 12px 20px;
-            border-bottom: 1px solid var(--ios-separator);
-        }
-        
-        .sidebar a {
-            color: var(--ios-blue);
-            text-decoration: none;
-            font-size: 17px;
-            display: block;
-        }
-        
-        .toggle-button {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            background-color: var(--ios-blue);
-            color: white;
-            border: none;
-            width: 44px;
-            height: 44px;
-            border-radius: 22px;
-            font-size: 18px;
-            cursor: pointer;
-            z-index: 1001;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
-        }
-        
-        .toggle-button::before {
-            content: "\2630"; /* Unicode for hamburger menu icon */
-            font-size: 20px;
-        }
-        
-        .news-item {
-            background-color: var(--ios-card-background);
-            border-radius: 16px; /* Twitter uses more rounded corners */
-            padding: 15px;
-            margin-bottom: 15px;
-            border: 1px solid var(--ios-separator);
-        }
-        
-        .news-title {
-            font-size: 20px;
-            font-weight: bold;
-            margin-bottom: 8px;
-            color: var(--ios-text);
-        }
-        
-        .news-url {
-            font-size: 14px;
-            color: var(--ios-blue);
-            text-decoration: none;
-            word-break: break-word;
-        }
-        
-        .news-time {
-            font-size: 14px;
-            color: var(--ios-secondary-text);
-            margin-bottom: 8px;
-        }
-        
-        .news-content {
-            font-size: 16px;
-            color: var(--ios-text);
-        }
-        
-        .show-more {
-            background-color: transparent;
-            border: none;
-            color: var(--ios-blue);
-            cursor: pointer;
-            font-size: 16px;
-            padding: 5px 0;
-            margin-top: 10px;
-        }
-        
-        .loading {
-            text-align: center;
-            font-size: 16px;
-            color: var(--ios-blue);
-            padding: 20px;
-        }
-        
-        .error {
-            text-align: center;
-            font-size: 16px;
-            color: #FF3B30;
-            padding: 20px;
-        }
-        
-        .header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 20px;
-        }
-        
-        .stocks-icon {
-            font-size: 24px;
-            color: var(--ios-blue);
-            text-decoration: none;
-            padding: 8px;
-        }
-    </style>
+  <meta charset="UTF-8"/>
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  <title>News Reader</title>
+  <style>
+    :root {
+      --ios-blue: #1D9BF0;
+      --ios-background: #000000;
+      --ios-text: #E7E9EA;
+      --ios-secondary-text: #71767B;
+      --ios-separator: #2F3336;
+      --ios-card-background: #16181C;
+    }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      margin: 0;
+      padding: 0;
+      background-color: var(--ios-background);
+      color: var(--ios-text);
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    .container {
+      padding: 20px;
+      padding-bottom: 80px;
+    }
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      font-size: 34px;
+      font-weight: bold;
+      margin: 0;
+    }
+
+    .stocks-icon {
+      font-size: 24px;
+      color: var(--ios-blue);
+      text-decoration: none;
+      padding: 8px;
+    }
+
+    /* Sidebar */
+    .sidebar {
+      width: 100%;
+      background-color: var(--ios-background);
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      height: 70%;
+      transform: translateY(100%);
+      transition: transform 0.3s cubic-bezier(0.4, 0.0, 0.2, 1);
+      z-index: 1000;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+      box-shadow: 0 -1px 10px rgba(0,0,0,0.1);
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+    .sidebar.visible {
+      transform: translateY(0);
+    }
+
+    .sidebar h2 {
+      font-size: 22px;
+      font-weight: bold;
+      margin: 20px 0;
+      text-align: center;
+      color: var(--ios-text);
+    }
+
+    .sidebar ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .sidebar li {
+      padding: 12px 20px;
+      border-bottom: 1px solid var(--ios-separator);
+    }
+
+    .sidebar a {
+      color: var(--ios-blue);
+      text-decoration: none;
+      font-size: 17px;
+      display: block;
+    }
+
+    /* Toggle Button */
+    .toggle-button {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: var(--ios-blue);
+      color: white;
+      border: none;
+      width: 44px;
+      height: 44px;
+      border-radius: 22px;
+      font-size: 18px;
+      cursor: pointer;
+      z-index: 1001;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+    }
+    .toggle-button::before {
+      content: "\2630"; /* Unicode for hamburger menu icon */
+      font-size: 20px;
+    }
+
+    /* News Items */
+    .news-item {
+      background-color: var(--ios-card-background);
+      border-radius: 16px; /* Twitter-like */
+      padding: 15px;
+      margin-bottom: 15px;
+      border: 1px solid var(--ios-separator);
+    }
+
+    .news-title {
+      font-size: 20px;
+      font-weight: bold;
+      margin-bottom: 8px;
+      color: var(--ios-text);
+    }
+
+    .news-url {
+      font-size: 14px;
+      color: var(--ios-blue);
+      text-decoration: none;
+      word-break: break-word;
+    }
+
+    .news-time {
+      font-size: 14px;
+      color: var(--ios-secondary-text);
+      margin-bottom: 8px;
+    }
+
+    .news-content {
+      font-size: 16px;
+      color: var(--ios-text);
+      transition: max-height 0.3s ease;
+      overflow: hidden;
+    }
+
+    .show-more {
+      background-color: transparent;
+      border: none;
+      color: var(--ios-blue);
+      cursor: pointer;
+      font-size: 16px;
+      padding: 5px 0;
+      margin-top: 10px;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .arrow-down::before {
+      content: "▼";
+      font-size: 12px;
+    }
+    .arrow-up::before {
+      content: "▲";
+      font-size: 12px;
+    }
+
+    /* Loading and Error */
+    .loading {
+      text-align: center;
+      font-size: 16px;
+      color: var(--ios-blue);
+      padding: 20px;
+    }
+    .error {
+      text-align: center;
+      font-size: 16px;
+      color: #FF3B30;
+      padding: 20px;
+    }
+
+    /* Skeleton Placeholder for loading each article */
+    .placeholder {
+      background-color: var(--ios-card-background);
+      border-radius: 16px;
+      border: 1px solid var(--ios-separator);
+      margin-bottom: 15px;
+      padding: 15px;
+      animation: pulse 1.5s infinite;
+    }
+    .placeholder-line {
+      height: 14px;
+      border-radius: 7px;
+      background-color: var(--ios-separator);
+      margin-bottom: 10px;
+    }
+    .placeholder-line.short {
+      width: 40%;
+    }
+    .placeholder-line.medium {
+      width: 60%;
+    }
+    .placeholder-line.long {
+      width: 90%;
+    }
+
+    @keyframes pulse {
+      0%   { opacity: 0.7; }
+      50%  { opacity: 0.4; }
+      100% { opacity: 0.7; }
+    }
+  </style>
 </head>
 <body>
-    <div class="container">
-        <div class="header">
-            <h1>Latest News</h1>
-            <a href="my-top-stocks.html" target="_blank" class="stocks-icon" title="View My Top Stocks">📈</a>
-        </div>
-        <div id="news-container"></div>
-        <div id="loading" class="loading" style="display: none;">Loading...</div>
-        <div id="error" class="error" style="display: none;">Error fetching news. Please try again.</div>
-    </div>
-    
-    <button class="toggle-button" onclick="toggleSidebar()"></button>
-    
-    <div class="sidebar" id="sidebar">
-        <h2>News Files</h2>
-        <ul id="file-list"></ul>
+  <div class="container">
+    <!-- Header -->
+    <div class="header">
+      <h1>Latest News</h1>
+      <a href="my-top-stocks.html" target="_blank" class="stocks-icon" title="View My Top Stocks">📈</a>
     </div>
 
-    <script>
-        function toggleSidebar() {
-            const sidebar = document.getElementById('sidebar');
-            if (!sidebar.classList.contains('visible')) {
-                // Reset scroll position when opening the sidebar
-                sidebar.scrollTop = 0;
-            }
-            sidebar.classList.toggle('visible');
-            if (sidebar.classList.contains('visible')) {
-                document.addEventListener('click', closeSidebarOnClickOutside);
-            } else {
-                document.removeEventListener('click', closeSidebarOnClickOutside);
-            }
-        }
+    <!-- News container + placeholders -->
+    <div id="news-container"></div>
+    <div id="loading" class="loading" style="display: none;">Loading...</div>
+    <div id="error" class="error" style="display: none;">Error fetching news. Please try again.</div>
+  </div>
 
-        function closeSidebarOnClickOutside(event) {
-            const sidebar = document.getElementById('sidebar');
-            const toggleButton = document.querySelector('.toggle-button');
-            if (!sidebar.contains(event.target) && event.target !== toggleButton) {
-                hideSidebar();
-            }
-        }
+  <!-- Hamburger button -->
+  <button class="toggle-button" onclick="toggleSidebar()"></button>
 
-        function hideSidebar() {
-            const sidebar = document.getElementById('sidebar');
-            if (sidebar.classList.contains('visible')) {
-                sidebar.classList.remove('visible');
-                document.removeEventListener('click', closeSidebarOnClickOutside);
-                // Reset scroll position
-                sidebar.scrollTop = 0;
-            }
-        }
+  <!-- Sidebar with lazy-loaded file list -->
+  <div class="sidebar" id="sidebar">
+    <h2>News Files</h2>
+    <ul id="file-list"></ul>
+  </div>
 
-        async function fetchFileList() {
+  <script>
+    // POINT THIS TO YOUR RAW GITHUB URL FOR "consolidated_news.txt"
+    const DEFAULT_CONSOLIDATED_URL = 'https://raw.githubusercontent.com/dparedesi/download-latest-news/main/output/consolidated_news.txt';
+
+    let fileListFetched = false; // track if we've fetched the file list
+    let allFiles = [];           // store the GitHub file list once fetched
+
+    // On page load, automatically load the default consolidated news
+    document.addEventListener('DOMContentLoaded', () => {
+      createPlaceholders();
+      loadNews(DEFAULT_CONSOLIDATED_URL);
+    });
+
+    // Toggle sidebar (open/close)
+    function toggleSidebar() {
+      const sidebar = document.getElementById('sidebar');
+      if (!sidebar.classList.contains('visible')) {
+        sidebar.scrollTop = 0; // reset scroll on open
+      }
+      sidebar.classList.toggle('visible');
+
+      if (sidebar.classList.contains('visible')) {
+        document.addEventListener('click', closeSidebarOnClickOutside);
+        // Lazy-fetch the file list if not done
+        if (!fileListFetched) {
+          fetchFileList();
+        }
+      } else {
+        document.removeEventListener('click', closeSidebarOnClickOutside);
+      }
+    }
+
+    // Close sidebar when clicking outside
+    function closeSidebarOnClickOutside(event) {
+      const sidebar = document.getElementById('sidebar');
+      const toggleButton = document.querySelector('.toggle-button');
+      if (!sidebar.contains(event.target) && event.target !== toggleButton) {
+        hideSidebar();
+      }
+    }
+
+    function hideSidebar() {
+      const sidebar = document.getElementById('sidebar');
+      if (sidebar.classList.contains('visible')) {
+        sidebar.classList.remove('visible');
+        document.removeEventListener('click', closeSidebarOnClickOutside);
+        sidebar.scrollTop = 0; // reset scroll
+      }
+    }
+
+    // Fetch the GitHub file list
+    async function fetchFileList() {
+      try {
+        fileListFetched = true; // only fetch once
+        const response = await fetch('https://api.github.com/repos/dparedesi/download-latest-news/contents/output');
+        allFiles = await response.json();
+        const fileListElem = document.getElementById('file-list');
+
+        // "All news" option
+        const allNewsItem = document.createElement('li');
+        const allNewsLink = document.createElement('a');
+        allNewsLink.href = '#';
+        allNewsLink.textContent = 'All news';
+        allNewsLink.onclick = async () => {
+          const consolidatedNews = allFiles.find(file => file.name === 'consolidated_news.txt');
+          if (consolidatedNews) {
+            loadNews(consolidatedNews.download_url);
+          }
+          hideSidebar();
+        };
+        allNewsItem.appendChild(allNewsLink);
+        fileListElem.appendChild(allNewsItem);
+
+        // List other .txt files with article counts
+        for (const file of allFiles) {
+          if (file.name.endsWith('.txt') && file.name !== 'consolidated_news.txt') {
+            const articleCount = await countArticlesInFile(file.download_url);
+            const listItem = document.createElement('li');
+            const link = document.createElement('a');
+            link.href = '#';
+            const baseName = file.name.replace('_news.txt', '');
+            link.textContent = `${baseName} (${articleCount} articles)`;
+            link.onclick = () => {
+              loadNews(file.download_url);
+              hideSidebar();
+            };
+            listItem.appendChild(link);
+            fileListElem.appendChild(listItem);
+          }
+        }
+      } catch (error) {
+        console.error('Error fetching file list:', error);
+      }
+    }
+
+    // Count how many valid articles are in the file
+    async function countArticlesInFile(url) {
+      try {
+        const resp = await fetch(url);
+        const text = await resp.text();
+        // We only count items that contain "Title:"
+        const items = text.split('----')
+          .map(item => item.trim())
+          .filter(item => item.includes('Title:'));
+        return items.length;
+      } catch {
+        return 0;
+      }
+    }
+
+    // Create placeholders for skeleton loading
+    function createPlaceholders(count = 5) {
+      const container = document.getElementById('news-container');
+      container.innerHTML = ''; // clear
+      for (let i = 0; i < count; i++) {
+        const placeholder = document.createElement('div');
+        placeholder.className = 'placeholder';
+        placeholder.innerHTML = `
+          <div class="placeholder-line long"></div>
+          <div class="placeholder-line medium"></div>
+          <div class="placeholder-line short"></div>
+          <div class="placeholder-line long"></div>
+        `;
+        container.appendChild(placeholder);
+      }
+    }
+
+    // Main function that fetches and displays a given news file
+    async function fetchNews(url) {
+      try {
+        const response = await fetch(url);
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        const text = await response.text();
+
+        const newsContainer = document.getElementById('news-container');
+        newsContainer.innerHTML = ''; // Clear placeholders / previous items
+
+        // Filter out invalid items (must contain "Title:")
+        const newsItems = text.split('----')
+          .map(item => item.trim())
+          .filter(item => item.includes('Title:'));
+
+        newsItems.forEach(item => {
+          const newsDiv = document.createElement('div');
+          newsDiv.className = 'news-item';
+
+          const titleMatch = item.match(/Title:\s*(.*)/);
+          const urlMatch = item.match(/URL:\s*(.*)/);
+          const timeMatch = item.match(/Time Published:\s*(.*)/);
+          const contentMatch = item.match(/Full Content:\s*([\s\S]*)/);
+
+          if (titleMatch && urlMatch && timeMatch && contentMatch) {
+            const [ , rawTitle ] = titleMatch;
+            const [ , rawUrl ] = urlMatch;
+            const [ , rawTime ] = timeMatch;
+            const [ , fullContent ] = contentMatch;
+
+            // Title
+            const newsTitle = document.createElement('div');
+            newsTitle.className = 'news-title';
+            newsTitle.textContent = rawTitle.trim();
+
+            // URL
+            const newsUrl = document.createElement('a');
+            newsUrl.className = 'news-url';
+            newsUrl.href = rawUrl.trim();
+            newsUrl.target = '_blank';
             try {
-                const response = await fetch('https://api.github.com/repos/dparedesi/download-latest-news/contents/output');
-                const files = await response.json();
-                const fileList = document.getElementById('file-list');
-                
-                // Add "All news" as the first item
-                const allNewsItem = document.createElement('li');
-                const allNewsLink = document.createElement('a');
-                allNewsLink.href = '#';
-                allNewsLink.textContent = 'All news';
-                allNewsLink.onclick = () => {
-                    const consolidatedNewsUrl = files.find(file => file.name === 'consolidated_news.txt').download_url;
-                    loadNews(consolidatedNewsUrl);
-                    hideSidebar();
-                };
-                allNewsItem.appendChild(allNewsLink);
-                fileList.appendChild(allNewsItem);
-
-                // Add other news files
-                files.forEach(file => {
-                    if (file.name.endsWith('.txt') && file.name !== 'consolidated_news.txt') {
-                        const listItem = document.createElement('li');
-                        const link = document.createElement('a');
-                        link.href = '#';
-                        link.textContent = file.name.replace('_news.txt', '');
-                        link.onclick = () => {
-                            loadNews(file.download_url);
-                            hideSidebar();
-                        };
-                        listItem.appendChild(link);
-                        fileList.appendChild(listItem);
-                    }
-                });
-
-                // Load consolidated news by default
-                const consolidatedNewsUrl = files.find(file => file.name === 'consolidated_news.txt').download_url;
-                loadNews(consolidatedNewsUrl);
-            } catch (error) {
-                console.error('Error fetching file list:', error);
+              const domain = new URL(rawUrl.trim()).hostname.replace('www.', '');
+              newsUrl.textContent = domain;
+            } catch {
+              newsUrl.textContent = rawUrl.trim();
             }
+
+            // Time
+            const newsTime = document.createElement('div');
+            newsTime.className = 'news-time';
+            newsTime.textContent = formatTimeString(rawTime.trim());
+
+            // Content
+            const newsContent = document.createElement('div');
+            newsContent.className = 'news-content';
+            const trimmedFullContent = fullContent.trim();
+            let isExpanded = false;
+
+            // Show first 200 chars
+            newsContent.textContent = trimmedFullContent.slice(0, 200) + '...';
+            newsContent.style.maxHeight = '3.6em'; // ~ 2-3 lines
+
+            // Show more/less button
+            const showMoreBtn = document.createElement('button');
+            showMoreBtn.className = 'show-more arrow-down';
+            showMoreBtn.textContent = 'Show more ';
+
+            showMoreBtn.onclick = () => {
+              isExpanded = !isExpanded;
+              if (isExpanded) {
+                // Show the full text
+                newsContent.textContent = trimmedFullContent;
+                newsContent.style.maxHeight = 'none';
+                showMoreBtn.textContent = 'Show less ';
+                showMoreBtn.classList.remove('arrow-down');
+                showMoreBtn.classList.add('arrow-up');
+              } else {
+                // Collapse it again
+                newsContent.textContent = trimmedFullContent.slice(0, 200) + '...';
+                newsContent.style.maxHeight = '3.6em';
+                showMoreBtn.textContent = 'Show more ';
+                showMoreBtn.classList.remove('arrow-up');
+                showMoreBtn.classList.add('arrow-down');
+
+                // Scroll back to this news item
+                newsDiv.scrollIntoView({ behavior: 'smooth', block: 'start' });
+              }
+            };
+
+            newsDiv.appendChild(newsTitle);
+            newsDiv.appendChild(newsUrl);
+            newsDiv.appendChild(newsTime);
+            newsDiv.appendChild(newsContent);
+            newsDiv.appendChild(showMoreBtn);
+
+            newsContainer.appendChild(newsDiv);
+          }
+        });
+
+        // Scroll to the top of the content area
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      } catch (error) {
+        console.error('Error fetching news:', error);
+        document.getElementById('error').style.display = 'block';
+      } finally {
+        // Hide "Loading..." or placeholders
+        document.getElementById('loading').style.display = 'none';
+      }
+    }
+
+    // Convert raw time string to a localized format
+    function formatTimeString(rawTime) {
+      try {
+        const dateObj = new Date(rawTime);
+        if (!isNaN(dateObj.getTime())) {
+          return dateObj.toLocaleString(); 
         }
+        // fallback if date parsing fails
+        return rawTime;
+      } catch {
+        return rawTime;
+      }
+    }
 
-        async function fetchNews(url) {
-            try {
-                const response = await fetch(url);
-                if (!response.ok) {
-                    throw new Error('Network response was not ok');
-                }
-                const text = await response.text();
-                const newsContainer = document.getElementById('news-container');
-                newsContainer.innerHTML = ''; // Clear previous news items
-                const newsItems = text.split('----').filter(item => item.trim() !== '');
-
-                newsItems.forEach(item => {
-                    const newsDiv = document.createElement('div');
-                    newsDiv.className = 'news-item';
-
-                    const titleMatch = item.match(/Title:\s*(.*)/);
-                    const urlMatch = item.match(/URL:\s*(.*)/);
-                    const timeMatch = item.match(/Time Published:\s*(.*)/);
-                    const contentMatch = item.match(/Full Content:\s*([\s\S]*)/);
-
-                    if (titleMatch && urlMatch && timeMatch && contentMatch) {
-                        const newsTitle = document.createElement('div');
-                        newsTitle.className = 'news-title';
-                        newsTitle.textContent = titleMatch[1];
-
-                        const newsUrl = document.createElement('a');
-                        newsUrl.className = 'news-url';
-                        newsUrl.href = urlMatch[1];
-                        const domain = new URL(urlMatch[1]).hostname.replace('www.', '');
-                        newsUrl.textContent = domain;
-                        newsUrl.target = '_blank';
-
-                        const newsTime = document.createElement('div');
-                        newsTime.className = 'news-time';
-                        newsTime.textContent = timeMatch[1];
-
-                        const newsContent = document.createElement('div');
-                        newsContent.className = 'news-content';
-                        const fullContent = contentMatch[1].trim();
-                        
-                        const showMoreBtn = document.createElement('button');
-                        showMoreBtn.className = 'show-more';
-                        showMoreBtn.textContent = 'Show more';
-
-                        // Initially hide the full content
-                        newsContent.textContent = `${fullContent.slice(0, 200)}...`;
-                        
-                        showMoreBtn.onclick = () => {
-                            if (showMoreBtn.textContent === 'Show more') {
-                                newsContent.textContent = fullContent;
-                                showMoreBtn.textContent = 'Show less';
-                            } else {
-                                newsContent.textContent = `${fullContent.slice(0, 200)}...`;
-                                showMoreBtn.textContent = 'Show more';
-                            }
-                        };
-
-                        newsDiv.appendChild(newsTitle);
-                        newsDiv.appendChild(newsUrl);
-                        newsDiv.appendChild(newsTime);
-                        newsDiv.appendChild(newsContent);
-                        newsDiv.appendChild(showMoreBtn);
-                        newsContainer.appendChild(newsDiv);
-                    }
-                });
-                
-                // Scroll to the top of the content area
-                window.scrollTo(0, 0);
-            } catch (error) {
-                console.error('Error fetching news:', error);
-                document.getElementById('error').style.display = 'block';
-            } finally {
-                document.getElementById('loading').style.display = 'none';
-            }
-        }
-
-        function loadNews(url) {
-            document.getElementById('loading').style.display = 'block';
-            document.getElementById('error').style.display = 'none';
-            fetchNews(url);
-        }
-
-        fetchFileList();
-    </script>
+    // High-level load news logic
+    function loadNews(url) {
+      // Clear errors
+      document.getElementById('error').style.display = 'none';
+      // Show placeholders
+      createPlaceholders();
+      // Mark loading
+      document.getElementById('loading').style.display = 'block';
+      // Actually fetch the news content
+      fetchNews(url);
+    }
+  </script>
 </body>
 </html>
