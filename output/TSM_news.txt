@@ -17,9 +17,3 @@ URL: https://stockcharts.com/articles/chartwatchers/2025/01/nvda-tsmc-and-broadc
 Time Published: 2025-01-23T19:43:25Z
 Description: In the last quarter of 2024, semiconductors have been walking a tightrope between tariff fears and supply chain uncertainties. Geopolitical tensions between the US and China cast a long shadow over the industry, holding our proxy, VanEck Vectors Semiconductor…
 --------------------------------------------------
-
-Title: Nvidia Stock Rallies As Chipmaker Named To Stargate AI Venture
-URL: https://www.investors.com/news/technology/nvidia-stock-rallies-stargate-ai-project/
-Time Published: 2025-01-22T22:06:26Z
-Description: Nvidia stock surged after the chipmaker was named a technology partner for a massive U.S. AI infrastructure project called Stargate.
---------------------------------------------------
