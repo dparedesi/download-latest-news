@@ -1,5 +1,12 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Nuix share price crashes 40% on earnings update and global tech sell-down
+URL: https://www.fool.com.au/2025/01/28/nuix-share-price-crashes-40-on-earnings-update-and-global-tech-sell-down/
+Time Published: 2025-01-28T01:23:21Z
+Description: A new Chinese AI chatbot has caused a global sell-off in tech stocks.
+The post Nuix share price crashes 40% on earnings update and global tech sell-down appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
 Title: What Is DeepSeek? What to Know About the Chinese AI Startup That Spurred a Stock Selloff
 URL: https://www.investopedia.com/what-is-deepseek-chinese-ai-startup-that-spurred-a-stock-selloff-ai-chatgpt-8780896
 Time Published: 2025-01-27T17:56:34Z
@@ -45,10 +52,4 @@ Title: Microsoft Earnings Report Will Key On Azure Growth, AI Adoption
 URL: https://www.investors.com/news/technology/microsoft-stock-fiscal-q2-earnings-preview/
 Time Published: 2025-01-24T21:07:18Z
 Description: Wall Street is expecting Microsoft's sales and earnings growth to slow when it posts fiscal Q2 results Wednesday. Microsoft stock dipped.
---------------------------------------------------
-
-Title: The Most Underrated Mistake Destroying Your Retirement – December Dividend Income Report
-URL: https://thedividendguyblog.com/the-most-underrated-mistake-destroying-your-retirement/
-Time Published: 2025-01-23T19:31:22Z
-Description: In 2016, I made a life-changing decision: I took a sabbatical, put my family in a small RV, and drove to Costa Rica. Upon my return in 2017, I officially quit my job as a private banker at National Bank and started working full-time on my baby: Dividend Stock…
 --------------------------------------------------
