@@ -1,5 +1,31 @@
 List of news related to NVIDIA NVDA:
 
+Title: The Clock Has No Hands
+URL: https://realinvestmentadvice.com/resources/blog/the-clock-has-no-hands/
+Time Published: 2025-02-01T09:49:07Z
+Description: Inside This Week's Bull Bear Report
+
+
+<ul><!-- wp:list-item -->
+
+<li>The Clock Has No Hands</li>
+
+
+
+
+<li>How We Are Trading It</li>
+
+
+
+
+<li>Research Report - Bullish Exuberance Returns Following The Inauguration</li>
+
+
+
+
+<li>Youtube - Before The Bell</…
+--------------------------------------------------
+
 Title: “Made In America” Is Easier Said Than Done
 URL: https://www.forbes.com/sites/greatspeculations/2025/01/31/made-in-america-is-easier-said-than-done/
 Time Published: 2025-02-01T00:08:46Z
@@ -331,11 +357,4 @@ URL: https://qz.com/nasdaq-nvidia-ai-stock-rebounds-deepseek-crash-1851749534
 Time Published: 2025-01-28T18:51:04Z
 Full Content:
 The Nasdaq and other major indexes rebounded on Tuesday, recovering from the sharp sell-off triggered by DeepSeek’s crash, which had sent AI stocks tumbling. Nvidia, which plunged over 16% on Monday, regained more than 7% in the rebound. By the late afternoon, the tech-heavy Nasdaq surged 408 points, or 2%, while the S&P 500 and Dow Jones Industrial Average rose 1% and 0.3%, respectively. Meanwhile, investors are closely watching the Federal Reserve’s two-day policy meeting, due on Wednesday. Nvidia (NVDA-4.02%) stock saw a slight turnaround Tuesday after the chipmaker suffered its biggest single-day market value loss because of an artificial intelligence chatbot challenger in China. Other major chip stocks also recovered a bit on Tuesday, including Broadcom (AVGO+2.39%) and Taiwan Semiconductor Manufacturing Co. (TSM+0.19%). This week, significant earnings reports are due from big tech companies, such as Apple (AAPL-1.60%), Tesla (TSLA+0.64%), Meta (META-0.04%), and Microsoft (MSFT+0.25%). Other than tech giants, Visa (V+0.33%), Mastercard (MA-1.26%), Novartis (NVS-0.12%), and others will also share their financial report cards. — Rocio Fabbro contributed to this article Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
---------------------------------------------------
-
-Title: “DEEP-CRASH!”
-URL: https://dailyreckoning.com/deep-crash/
-Time Published: 2025-01-28T15:05:49Z
-Full Content:
-By Greg Guenthner Posted January 28, 2025 The opening salvo of a hot artificial intelligence battle just dumped a bucket of cold water on the stock market. Big Tech spiraled lower to kick off the trading week after a Chinese AI firm called DeepSeek made huge waves in the industry. The ten-second version of this story is DeepSeek can do everything the other major AI firms can do, and more — all for a fraction of the cost, time, and equipment. As far as I can tell, there’s still plenty of arguing about the details of just how powerful this thing is by folks a lot smarter and more tech-savvy than me. The first rumblings of DeepSeek’s amazing achievements hit the market Friday, causing scattered selling in chip king Nvidia Corp. (NVDA). Shares ended the day down more than 3%. Not a great day — but also not the end of the world, as NVDA was able to post its second straight week of gains. But tech investors became noticeably nervous Sunday evening. By Monday morning, the DeepDeek fiasco sparked a mini-panic that ripped through the semiconductors and tech at large. The Nasdaq Composite gapped down nearly 3.5% to kick off the new trading week, while NVDA steadily dropped all morning, losing 17% by the closing bell. NVDA isn’t the only casualty of the DeepSeek crash. Speculators dumped their Big Tech shares, Bitcoin, and anything even remotely associated with the AI boom. The financial media wasted no time playing up the ugly numbers. Bloomberg was one of the first to note that the NVDA rout was the biggest in market history. “Nvidia shares tumbled as much as 18% Monday, the biggest drop since March 2020,” Bloomberg reports. “In early afternoon trading in New York, the decline erased $560 billion from the company’s market capitalization. That eclipsed the previous record — a 9% drop in September that wiped out about $279 billion in value — and was the biggest in US stock-market history.” What Bloomberg failed to note in its headline (and what is obvious from the above graph) is that due to its sheer size, NVDA’s notable drops during its incredible two-year rally make up 80% of the biggest single-day market-cap losses in history. The lesson: big numbers are big! Plus, these huge drops didn’t stop the stock from rallying more than 1,200% off its 2022 bear market lows. In case those gains fail to impress you, please note that yesterday’s drop shoved NVDA below its 200-day moving average for the first time in two years. I know it’s all too easy to get sucked into the bearish narrative after watching yesterday’s action unfold. But instead of focusing on the hundreds of billions in market cap that disappeared, I’m far more interested in what the rest of the market has to say in reaction to the NVDA situation. We’ve already witnessed the premarket panic, NVDA dropping double-digits, and other big tech names falling in sympathy. And while most market-watchers are hung up on hoping and praying NVDA catches a bid off these panic lows, we can use the confusion to our advantage. For starters, I’m keeping an eye on tech names that have little involvement in the AI ecosystem. While the Nasdaq Composite finished lower by more than 3% on Monday, more than 1,600 components finished the day in positive territory. Of these stocks, 150 gained more than 5%. Sharp declines in NVDA, ORCL, AVGO, MSFT, GOOG, and TSLA masked many of the positives happening under the surface. Then there are stocks outside of the tech sphere (Yes, they exist!)… Perhaps you’ve heard of the Dow Jones Industrial Average. The Big Board had a big day Monday. While everyone was sweating NVDA, the Dow posted a modest gain of 0.65%. But here’s the kicker: Every single stock in the Dow finished the day in the green. This looks more like a rotation than a selloff. While investors are ditching NVDA, they’re clearly putting money work elsewhere. Consumer staples, discretionary, and financials all managed to post gains yesterday. Finally, is the DeepSeek revelation a catalyst for a major trend reversal in China? The iShares China Large-cap ETF (FXI) posted a gain of almost 1% on Monday while the American tech sector faltered. At this point, we don’t know how much of the DeepSeek news is hype, panic, or somewhere in between. But investors are reacting favorably to Chinese names. Remember, these stocks have been a sloppy mess for years. They stopped going down as of early last year and have been trying to produce a steady uptrend ever since. We’ll see if this news is a game changer and leads to a bigger move higher in FXI. NVDA is not the stock market – no matter how much the financial media insists otherwise. Judging by Monday’s action, we’ll have little trouble finding viable trade ideas outside of the AI trainwreck. We might even get a reprieve from AI insanity thanks to a slew of tech earnings hitting later this week. TSLA, META, MSFT, IBM, and NOW report on Wednesday afternoon. AAPL and INTC follow on Thursday afternoon. If these aren’t enough distractions for you, we also have a Fed meeting and rate decision on Wednesday, GDP Thursday, and this morning’s durable orders to dissect. The market tends to have a short memory during busy trading periods. With a full slate scheduled this week, the NVDA strife could fall off the front page faster than you could imagine…
 --------------------------------------------------
