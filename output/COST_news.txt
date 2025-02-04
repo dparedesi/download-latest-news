@@ -7,14 +7,14 @@ Description: “There might not be a better deal.”
 READ MORE...
 --------------------------------------------------
 
-Title: Costco, Teamsters reach tentative deal in the U.S., averting strike
-URL: https://financialpost.com/news/retail-marketing/costco-unionized-workers-reach-tentative-deal-averting-strike
-Time Published: 2025-02-01T12:23:36Z
-Description: The union representing Costco workers reached a new agreement with the retailer, avoiding a strike by thousands of employees. Read more.
---------------------------------------------------
-
 Title: Costco, Unionized Workers Reach Tentative Deal, Averting Strike
 URL: https://financialpost.com/pmn/business-pmn/costco-unionized-workers-reach-tentative-deal-averting-strike
 Time Published: 2025-02-01T12:23:36Z
 Description: The union representing Costco Wholesale Corp. workers reached a new tentative agreement with the retailer, avoiding for now a strike by thousands of employees.
+--------------------------------------------------
+
+Title: Costco, Teamsters reach tentative deal in the U.S., averting strike
+URL: https://financialpost.com/news/retail-marketing/costco-unionized-workers-reach-tentative-deal-averting-strike
+Time Published: 2025-02-01T12:23:36Z
+Description: The union representing Costco workers reached a new agreement with the retailer, avoiding a strike by thousands of employees. Read more.
 --------------------------------------------------
