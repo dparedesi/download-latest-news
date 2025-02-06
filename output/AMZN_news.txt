@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Amazon Earnings Option Trade Can Return $230
+URL: https://www.investors.com/research/options/amazon-option-trade-earnings/
+Time Published: 2025-02-05T15:19:55Z
+Description: Today, we're looking at selling a cash secured put to take advantage of the high implied volatility around the earnings announcement.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq recover as traders assess tariff developments, new jobs data
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-recover-as-traders-assess-tariff-developments-new-jobs-data-210134859.html
 Time Published: 2025-02-04T21:37:04Z
