@@ -1,5 +1,11 @@
 List of news related to Costco stock price COST:
 
+Title: S&P 500 Sectors Play Musical Chairs: How To Win the Game With Options
+URL: https://stockcharts.com/articles/chartwatchers/2025/02/sp-500-sectors-play-musical-ch-365.html
+Time Published: 2025-02-05T19:33:35Z
+Description: The trading week started with investors worried about tariffs, but the 30-day delay of tariffs on imports from Canada and Mexico shook off those worries. The three broad stock market indexes — S&P 500 ($SPX), Nasdaq Composite ($COMPQ), and Dow Jones Industria…
+--------------------------------------------------
+
 Title: Why CFOs Need To Control Prices In A Disrupted Economy
 URL: https://www.forbes.com/sites/cfo/2025/02/04/why-cfos-need-to-control-prices-in-a-disrupted-economy/
 Time Published: 2025-02-04T17:18:41Z
@@ -19,16 +25,4 @@ URL: https://www.thekitchn.com/costco-del-monte-bananas-review-23707917
 Time Published: 2025-02-02T15:30:00Z
 Description: “There might not be a better deal.”
 READ MORE...
---------------------------------------------------
-
-Title: Costco, Unionized Workers Reach Tentative Deal, Averting Strike
-URL: https://financialpost.com/pmn/business-pmn/costco-unionized-workers-reach-tentative-deal-averting-strike
-Time Published: 2025-02-01T12:23:36Z
-Description: The union representing Costco Wholesale Corp. workers reached a new tentative agreement with the retailer, avoiding for now a strike by thousands of employees.
---------------------------------------------------
-
-Title: Costco, Teamsters reach tentative deal in the U.S., averting strike
-URL: https://financialpost.com/news/retail-marketing/costco-unionized-workers-reach-tentative-deal-averting-strike
-Time Published: 2025-02-01T12:23:36Z
-Description: The union representing Costco workers reached a new agreement with the retailer, avoiding a strike by thousands of employees. Read more.
 --------------------------------------------------
