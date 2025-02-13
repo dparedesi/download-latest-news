@@ -1,5 +1,12 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: The top 6 chip producers in the world by revenue share
+URL: https://qz.com/top-chip-producers-revenue-share-fab-tsmc-samsung-1851758309
+Time Published: 2025-02-12T10:00:00Z
+Full Content:
+Chip foundries are responsible for producing a critical part of every piece of technology in the world. Taiwan Semiconductor Manufacturing Company (TSM) is perhaps the most well-known chip manufacturer, known for fabricating advanced chips designed by Nvidia (NVDA) and Apple (AAPL). The Taiwan-based chipmaker has a 92% share in advanced AI chip production, according to data from Boston Consulting Group, cited by JPMorgan (JPM). Total global chip foundry revenue was $131.7 billion in 2024, according to TrendForce data cited by the firm. Seven chip foundries, including U.S.-based Tower (TSEM) and Taiwan’s Powerchip Semiconductor Manufacturing Corporation, each have a 1% share of total global revenue, according to the data, while 3% of the total is shared by “Others.” Taiwanese chipmakers command a 70% share of the total revenue, while Korean companies made up 11%, and Chinese chip foundries had 8%. Here are the top six chip producers in the world by revenue share. Chinese pure-play foundry Hua Hong Semiconductor had a 2% share of total chip foundry revenue in 2024. China’s partially state-owned, pure-play chip foundry, Semiconductor Manufacturing International Corporation, also known as SMIC, had a 5% share of total chip foundry revenue in 2024. U.S.-based chip designer and manufacturer GlobalFoundries (GFS) had a 6% share of total chip foundry revenue in 2024. Taiwan’s first chip company, United Microelectronics Corporation (UMC), had a 6% share of total chip foundry revenue in 2024. Samsung, one of the world’s main producers of high-bandwidth memory chips, had a 10% share of total chip foundry revenue in 2024. Taiwan Semiconductor Manufacturing Company had a 62% share of total chip foundry revenue in 2024.
+--------------------------------------------------
+
 Title: OpenAI may be trying to wean itself off Nvidia
 URL: https://qz.com/openai-training-chip-alternative-nvidia-1851759359
 Time Published: 2025-02-10T17:26:00Z
