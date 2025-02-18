@@ -24,9 +24,3 @@ URL: https://finance.yahoo.com/news/intel-stock-skyrockets-12-u-165931216.html
 Time Published: 2025-02-13T16:59:31Z
 Description: Intel's Domestic Chip Boom: 12% Surge Fuels New AI Processor Race
 --------------------------------------------------
-
-Title: Tesla's stock slide looks to be unrelenting
-URL: https://finance.yahoo.com/news/teslas-stock-slide-looks-to-be-unrelenting-111050162.html
-Time Published: 2025-02-12T11:10:50Z
-Description: Tesla's shares continue to sell off as concerns mount on Elon Musk's many distractions.
---------------------------------------------------
