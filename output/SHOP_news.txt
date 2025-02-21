@@ -1,1 +1,7 @@
-No news found for Shopify stock price +SHOP
+List of news related to Shopify stock price SHOP:
+
+Title: Shopify Stock Doesn't Have A Dividend; Here's How To Make Your Own
+URL: https://www.investors.com/research/options/shopify-stock-covered-calls-option/
+Time Published: 2025-02-19T16:51:25Z
+Description: This long-term covered call strategy allow you to turn Shopify stock into an income play, even though it doesn't have a dividend.
+--------------------------------------------------
