@@ -1,5 +1,11 @@
 List of news related to Axon Enterprise AXON:
 
+Title: Dow Jones Futures Fall As Walmart Tumbles; Alibaba Jumps After Palantir, Axon, Cava Dive
+URL: https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-palantir-axon-cava-dive/
+Time Published: 2025-02-20T12:10:49Z
+Description: Axon Enterprise and Cava suffered ugly expectations breakers. Palantir also sold off.
+--------------------------------------------------
+
 Title: Cybersecurity jobs available right now: February 18, 2025
 URL: https://www.helpnetsecurity.com/2025/02/18/cybersecurity-jobs-available-right-now-february-18-2025/
 Time Published: 2025-02-18T05:00:45Z
