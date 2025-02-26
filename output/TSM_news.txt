@@ -5,9 +5,3 @@ URL: https://finance.yahoo.com/news/apple-invest-500-billion-u-184301057.html
 Time Published: 2025-02-24T18:43:01Z
 Description: A new 250,000-square-foot factory in Texas will produce servers for Apple Intelligence, opening in 2026.
 --------------------------------------------------
-
-Title: Chipping Away at Intel Puts Semiconductor ETFs in Focus
-URL: http://www.etf.com/sections/news/chipping-away-intel-puts-semiconductor-etfs-focus?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss
-Time Published: 2025-02-20T14:00:00Z
-Description: A potential Intel breakup is affecting ETFs like FTXL and FEPI that hold the chip giant, as well as those holding Broadcom and TSMC, which are linked to the ...
---------------------------------------------------

@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Broadcom Inc. (AVGO): A High Growth Mega Cap Stock You Can Buy and Hold for the Next 5 Years
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_806dac03-1c95-420b-8b54-97cdc568b13b
+Time Published: 2025-02-24T22:42:19Z
+Description: None
+--------------------------------------------------
+
 Title: Nvidia may be the stock of the decade, investor says
 URL: https://finance.yahoo.com/news/nvidia-may-be-the-stock-of-the-decade-investor-says-133731722.html
 Time Published: 2025-02-24T13:37:31Z
@@ -10,28 +16,4 @@ Title: Are semiconductor companies due for a shift in 2025?
 URL: https://finance.yahoo.com/video/markets-semiconductor-companies-due-shift-212659895.html
 Time Published: 2025-02-21T21:26:59Z
 Description: Semiconductor stocks are experiencing mixed reactions in 2025, especially after Chinese AI model DeepSeek rattled the market earlier this month. Citi Head of...
---------------------------------------------------
-
-Title: Cboe Canada Welcomes Seven New Yield Shares ETFs by Purpose Investments
-URL: https://financialpost.com/pmn/business-wire-news-releases-pmn/cboe-canada-welcomes-seven-new-yield-shares-etfs-by-purpose-investments
-Time Published: 2025-02-20T15:05:11Z
-Description: TORONTO — Cboe Canada Inc. (“Cboe Canada”) is pleased to announce that Purpose Investments has launched seven new Yield Shares ETFs (“Purpose Yield Shares ETFs”), expanding their suite of single stock, yield-focused funds. The ETFs provide exposure to some of…
---------------------------------------------------
-
-Title: Chipping Away at Intel Puts Semiconductor ETFs in Focus
-URL: http://www.etf.com/sections/news/chipping-away-intel-puts-semiconductor-etfs-focus?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss
-Time Published: 2025-02-20T14:00:00Z
-Description: A potential Intel breakup is affecting ETFs like FTXL and FEPI that hold the chip giant, as well as those holding Broadcom and TSMC, which are linked to the ...
---------------------------------------------------
-
-Title: Nvidia Stock Pauses Despite Debut Of Blackwell. What The King Of AI Chips Needs Now.
-URL: https://www.investors.com/news/technology/nvidia-stock-blackwell-ai-chips/
-Time Published: 2025-02-20T13:00:19Z
-Description: Nvidia stock was flying high on Blackwell expectations until DeepSeek and custom AI chips took it down. Investors want to see the next act.
---------------------------------------------------
-
-Title: What Nvidia bulls are whispering about before its big earnings report
-URL: https://finance.yahoo.com/news/what-nvidia-bulls-are-whispering-about-before-its-big-earnings-report-120347483.html
-Time Published: 2025-02-20T12:03:47Z
-Description: The Street is gearing up for another big read on the AI trade with Nvidia earnings.
 --------------------------------------------------
