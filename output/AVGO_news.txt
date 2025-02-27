@@ -18,9 +18,3 @@ URL: https://finance.yahoo.com/news/nvidia-may-be-the-stock-of-the-decade-invest
 Time Published: 2025-02-24T13:37:31Z
 Description: Nvidia's position remains dominant, says one veteran investor.
 --------------------------------------------------
-
-Title: Are semiconductor companies due for a shift in 2025?
-URL: https://finance.yahoo.com/video/markets-semiconductor-companies-due-shift-212659895.html
-Time Published: 2025-02-21T21:26:59Z
-Description: Semiconductor stocks are experiencing mixed reactions in 2025, especially after Chinese AI model DeepSeek rattled the market earlier this month. Citi Head of...
---------------------------------------------------
