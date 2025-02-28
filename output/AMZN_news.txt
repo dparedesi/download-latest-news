@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Nvidia posts earnings beat, but future margins are a 'little concerning': What Wall Street is saying
+URL: https://finance.yahoo.com/news/nvidia-posts-earnings-beat-but-future-margins-are-a-little-concerning-what-wall-street-is-saying-103444002.html
+Time Published: 2025-02-27T10:34:44Z
+Description: Nvidia's outlook catches extra scrutiny by the markets.
+--------------------------------------------------
+
 Title: Nvidia's beat and raise eases investors' concerns about 4 things nagging the stock
 URL: https://www.cnbc.com/2025/02/26/nvidias-beat-and-raise-eases-investors-concerns-about-4-things-nagging-the-stock.html
 Time Published: 2025-02-27T01:52:21Z

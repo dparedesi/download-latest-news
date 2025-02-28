@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Nvidia posts earnings beat, but future margins are a 'little concerning': What Wall Street is saying
+URL: https://finance.yahoo.com/news/nvidia-posts-earnings-beat-but-future-margins-are-a-little-concerning-what-wall-street-is-saying-103444002.html
+Time Published: 2025-02-27T10:34:44Z
+Description: Nvidia's outlook catches extra scrutiny by the markets.
+--------------------------------------------------
+
 Title: Nvidia Stock Braces For AI Chipmaker's Fiscal Q4 Report (Live Coverage)
 URL: https://www.investors.com/news/technology/nvidia-stock-nvda-fiscal-q4-2025-earnings/
 Time Published: 2025-02-26T13:34:14Z
