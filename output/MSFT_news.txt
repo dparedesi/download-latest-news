@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Nvidia's beat and raise eases investors' concerns about 4 things nagging the stock
+URL: https://www.cnbc.com/2025/02/26/nvidias-beat-and-raise-eases-investors-concerns-about-4-things-nagging-the-stock.html
+Time Published: 2025-02-27T01:52:21Z
+Description: Shares of Nvidia remain below their Jan. 24 close around $142, the Friday before all the DeepSeek turmoil started.
+--------------------------------------------------
+
 Title: Amazon debuts gen AI-powered Alexa+, as it seeks to breath life into its aging assistant
 URL: https://finance.yahoo.com/news/amazon-debuts-gen-ai-powered-alexa-as-it-seeks-to-breath-life-into-its-aging-assistant-165348226.html
 Time Published: 2025-02-26T16:53:48Z
