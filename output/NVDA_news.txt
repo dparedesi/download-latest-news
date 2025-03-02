@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: CFNAI Index Suggests Economy Is Slowing
+URL: https://realinvestmentadvice.com/resources/blog/cfnai-index-suggests-economy-is-slowing/
+Time Published: 2025-03-01T09:53:03Z
+Description: The #RealInvestmentReport is our weekly newsletter which covers our thoughts on the current market environment, the risk to capital relative to the market, and how we are positioned currently. It includes our MacroView, analysis on markets and sectors, and ou…
+--------------------------------------------------
+
+Title: Jim Cramer on NVIDIA Corporation (NVDA): ‘There Are People Who Think It’s Dramatically Overvalued. And I Don’t Get That’
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_864a4b90-d107-4026-8896-20194347d640
+Time Published: 2025-03-01T08:02:54Z
+Description: None
+--------------------------------------------------
+
 Title: What are AI tokens - what investors must know before investing in AI tokens?
 URL: https://economictimes.indiatimes.com/markets/cryptocurrency/what-are-ai-tokens-what-investors-must-know-before-investing-in-ai-tokens/articleshow/118643037.cms
 Time Published: 2025-03-01T06:15:05Z
