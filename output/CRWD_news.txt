@@ -1,5 +1,12 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Security Money: Sailpoint's IPO Saves the Index - BSW #385
+URL: https://securityweeklytv.libsyn.com/security-money-sailpoints-ipo-saves-the-index-bsw-385
+Time Published: 2025-03-05T10:00:00Z
+Full Content:
+After Sophos acquires Secureworks, Sailpoint's IPO saves the index. The Security Weekly 25 index is now made up of the following pure play security vendors: SAIL SailPoint Ord Shs PANW Palo Alto Networks Inc CHKP Check Point Software Technologies Ltd RBRK Rubrik Inc GEN Gen Digital Inc FTNT Fortinet Inc AKAM Akamai Technologies, Inc. FFIV F5 Inc ZS Zscaler Inc OSPN Onespan Inc LDOS Leidos Holdings Inc QLYS Qualys Inc VRNT Verint Systems Inc. CYBR Cyberark Software Ltd TENB Tenable Holdings Inc OKTA Okta Inc S SentinelOne Inc NET Cloudflare Inc CRWD Crowdstrike Holdings Inc NTCT NetScout Systems Inc VRNS Varonis Systems Inc RPD Rapid7 Inc FSLY Fastly Inc RDWR Radware Ltd ATEN A10 Networks Inc Show Notes: https://securityweekly.com/bsw-385
+--------------------------------------------------
+
 Title: CrowdStrike shares tumble on light guidance. Here's why we're upgrading the stock anyways
 URL: https://www.cnbc.com/2025/03/04/crowdstrike-shares-tumble-on-light-guidance-heres-why-were-upgrading-the-stock-anyways.html
 Time Published: 2025-03-05T00:34:00Z
