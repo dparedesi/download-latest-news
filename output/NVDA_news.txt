@@ -1,5 +1,12 @@
 List of news related to NVIDIA NVDA:
 
+Title: U.S. Stocks Give Up Post-Trump Election Advance While Bitcoin Clings to Gain
+URL: https://www.coindesk.com/markets/2025/03/07/u-s-stocks-give-up-post-trump-election-advance-while-bitcoin-clings-to-gain
+Time Published: 2025-03-07T08:46:37Z
+Full Content:
+The stock market tariff tantrum of the past few weeks has seen the Nasdaq 100 and S&P 500 give up all their gains since the early November election victory of Donald Trump even as bitcoin (BTC) remains in positive territory. Both equity gauges are now more than 2% lower, while bitcoin is up over 20% in the same time frame. Market leader Nvidia (NVDA), whose chips are in demand for uses in AI, for instance, is lower by more than 20% since Trump's triumph. On the flip side, Meta Platforms (META) is the stand out stock in the so-called magnificent seven technology companies having gained about 10%. While bitcoin buyer Strategy (MSTR) is down over 50% from its all-time high in November, it remains up 20% since the election. Though bitcoin bulls are surely disappointed in the price performance of late — the world's largest cryptocurrency has slumped about 20% from $109,000 the day before Trump was inaugurated on Jan. 20 — the current price of $88,000 is still up roughly 20% from its level just prior to the November election. James Van Straten is a Senior Analyst at CoinDesk, specializing in Bitcoin and its interplay with the macroeconomic environment. Previously, James worked as a Research Analyst at Saidler & Co., a Swiss hedge fund, where he developed expertise in on-chain analytics. His work focuses on monitoring flows to analyze Bitcoin's role within the broader financial system. In addition to his professional endeavors, James serves as an advisor to Coinsilium, a UK publicly traded company, where he provides guidance on their Bitcoin treasury strategy. He also holds investments in Bitcoin, MicroStrategy (MSTR), and Semler Scientific (SMLR). About Contact
+--------------------------------------------------
+
 Title: NVIDIA CEO の ジェンスン フアン と業界の先駆者たちが GTC 2025 で AI の次なる展開を明らかに
 URL: https://prtimes.jp/main/html/rd/p/000000506.000012662.html
 Time Published: 2025-03-07T04:40:02Z
@@ -213,14 +220,14 @@ Time Published: 2025-03-03T15:21:00Z
 Description: Nvidia and Broadcom reportedly are testing Intel’s manufacturing technology. That’s a potentially encouraging signal for the business.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as Trump tariffs stalk markets
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-tariffs-stalk-markets-143036021.html
+Title: Stock market today: Dow, S&P 500, Nasdaq slip as Trump tariffs stalk markets
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-trump-tariffs-stalk-markets-143036001.html
 Time Published: 2025-03-03T14:30:36Z
 Description: March trading is kicking off on a positive note as investors brace for tariffs, the monthly jobs report and key retail earnings.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq slip as Trump tariffs stalk markets
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-trump-tariffs-stalk-markets-143036001.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Trump tariffs stalk markets
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-tariffs-stalk-markets-143036021.html
 Time Published: 2025-03-03T14:30:36Z
 Description: March trading is kicking off on a positive note as investors brace for tariffs, the monthly jobs report and key retail earnings.
 --------------------------------------------------
