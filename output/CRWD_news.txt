@@ -1,34 +1,13 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Analyst Sees Path to $10 Billion ARR for Crowdstrike Holdings (CRWD) Despite ‘Rocky’ Near Term
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3d3b63be-904f-4517-9bae-f2a962d60711
+Time Published: 2025-03-09T20:16:01Z
+Description: None
+--------------------------------------------------
+
 Title: Market Movers in Action: How to Identify High-Probability Dip-Buying Setups
 URL: https://stockcharts.com/articles/chartwatchers/2025/03/market-movers-in-action-how-to-438.html
 Time Published: 2025-03-06T22:44:32Z
 Description: If the essence of stock investing is to buy low and sell high, then buying not just low, but at a steep discount, optimizes your potential returns. This strategy is what's popularly called "buying the dip."Aside from avoiding falling knives, buying the dip as…
---------------------------------------------------
-
-Title: Dow surges 500 points on hopes of tariff relief
-URL: https://qz.com/dow-surges-500-points-trumps-tariff-relief-1851767913
-Time Published: 2025-03-05T20:05:14Z
-Full Content:
-The Dow Jones Industrial Average rose by nearly 500 points, recovering from a steep decline earlier in the week as the major U.S. automakers are given a one-month exemption from new tariffs on Canadian and Mexican imports. “We spoke with the Big Three auto dealers. We are going to give a one month exemption on any autos coming through USMCA,” President Donald Trump said, according to a statement provided by White House Press Secretary Karoline Leavitt during a news conference. The news follows comments from Commerce Secretary Howard Lutnick, who indicated that there might be potential tariff relief for Canada and Mexico. He suggested that the U.S. could be moving toward a compromise that is a “middle ground.” As the day ended in New York, the S&P 500 added 1.1%, while the Nasdaq 100 climbed 1.4%. The Dow Jones Industrial Average added 485 points or 1.1%. Meanwhile, the job report came weak, raising concerns about stagflation. General Motors (GM-0.91%) stock surged more than 3% as the broader market rebounded in the morning. The rally appeared to be driven by investor optimism following Lutnick’s remarks suggesting potential tariff relief for Canada and Mexico. Meanwhile, Ford (F-0.15%) also jumped 5% in the afternoon following the news. Shares of pharmaceutical giant Moderna (MRNA+1.35%) surged over 6% on Wednesday after strategic insider stock purchases by the company’s CEO and a board director. According to a recent Securities and Exchange Commission (SEC) filing, CEO Stephane Bancel and board director Paul Sagan acquired $6 million worth of Moderna shares. Shares of Novo Nordisk (NVO-9.48%) climbed 3.5% after the company announced plans to sell its weight loss drug Wegovy at less than half its usual monthly price through a new direct-to-consumer online pharmacy. CrowdStrike (CRWD-7.81%) stock fell 9% on Wednesday after the cybersecurity software company provided disappointing earnings guidance. The company gained significant attention last year following a widespread global tech outage linked to its software. — William Gavin contributed to the article Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
---------------------------------------------------
-
-Title: How to build a $500,000 ASX share portfolio from scratch
-URL: https://www.fool.com.au/2025/03/06/how-to-build-a-500000-asx-share-portfolio-from-scratch/
-Time Published: 2025-03-05T18:00:00Z
-Description: Getting rich in the share market isn't as hard as you might think.
-The post How to build a $500,000 ASX share portfolio from scratch appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: Security Money: Sailpoint's IPO Saves the Index - BSW #385
-URL: https://securityweeklytv.libsyn.com/security-money-sailpoints-ipo-saves-the-index-bsw-385
-Time Published: 2025-03-05T10:00:00Z
-Full Content:
-After Sophos acquires Secureworks, Sailpoint's IPO saves the index. The Security Weekly 25 index is now made up of the following pure play security vendors: SAIL SailPoint Ord Shs PANW Palo Alto Networks Inc CHKP Check Point Software Technologies Ltd RBRK Rubrik Inc GEN Gen Digital Inc FTNT Fortinet Inc AKAM Akamai Technologies, Inc. FFIV F5 Inc ZS Zscaler Inc OSPN Onespan Inc LDOS Leidos Holdings Inc QLYS Qualys Inc VRNT Verint Systems Inc. CYBR Cyberark Software Ltd TENB Tenable Holdings Inc OKTA Okta Inc S SentinelOne Inc NET Cloudflare Inc CRWD Crowdstrike Holdings Inc NTCT NetScout Systems Inc VRNS Varonis Systems Inc RPD Rapid7 Inc FSLY Fastly Inc RDWR Radware Ltd ATEN A10 Networks Inc Show Notes: https://securityweekly.com/bsw-385
---------------------------------------------------
-
-Title: CrowdStrike shares tumble on light guidance. Here's why we're upgrading the stock anyways
-URL: https://www.cnbc.com/2025/03/04/crowdstrike-shares-tumble-on-light-guidance-heres-why-were-upgrading-the-stock-anyways.html
-Time Published: 2025-03-05T00:34:00Z
-Description: The cybersecurity provider's outlook may contain a level of conservatism.
 --------------------------------------------------
