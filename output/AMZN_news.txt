@@ -1,13 +1,19 @@
 List of news related to Amazon stock price AMZN:
 
-Title: Stock market today: Nasdaq, S&P 500 lead losses as market sell-off accelerates
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-lead-losses-as-market-sell-off-accelerates-133040005.html
-Time Published: 2025-03-10T13:30:40Z
-Description: US stocks looked set to build on losses of over 2% for the major indexes as March's struggles looked to continue.
+Title: Amazon stock is trading cheaply on 1 valuation metric after broader stock market rout
+URL: https://finance.yahoo.com/news/amazon-stock-is-trading-cheaply-on-1-valuation-metric-after-broader-stock-market-rout-123250389.html
+Time Published: 2025-03-11T12:32:50Z
+Description: The sell-off in tech is severe.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq sink after S&P's worst week since September
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-after-sps-worst-week-since-september-133040234.html
+Time Published: 2025-03-10T13:30:40Z
+Description: US stocks looked set to build on losses of over 2% for the major indexes as March's struggles looked to continue.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq, S&P 500 lead losses as market sell-off accelerates
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-lead-losses-as-market-sell-off-accelerates-133040005.html
 Time Published: 2025-03-10T13:30:40Z
 Description: US stocks looked set to build on losses of over 2% for the major indexes as March's struggles looked to continue.
 --------------------------------------------------
