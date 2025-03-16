@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Don’t do anything about your 401(k) until Tuesday
+URL: https://www.marketwatch.com/story/dont-do-anything-about-your-401-k-until-tuesday-b56d815c
+Time Published: 2025-03-15T17:35:00Z
+Description: This key report should drop then.
+--------------------------------------------------
+
 Title: This 15.6% Dividend Is A Smart ‘Buy The Dip’ Play
 URL: https://www.forbes.com/sites/michaelfoster/2025/03/15/this-156-dividend-is-a-smart-buy-the-dip-play/
 Time Published: 2025-03-15T14:02:00Z
