@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: NTT DATA and CrowdStrike Expand Partnership to Strengthen AI-Powered Cyber Resilience
+URL: https://financialpost.com/pmn/business-wire-news-releases-pmn/ntt-data-and-crowdstrike-expand-partnership-to-strengthen-ai-powered-cyber-resilience
+Time Published: 2025-03-17T12:15:31Z
+Description: TOKYO & AUSTIN, Texas — NTT DATA, a global digital business and IT services leader, and CrowdStrike, a global cybersecurity leader, today announced an expanded partnership to power NTT DATA’s managed cybersecurity services with the AI-native CrowdStrike Falco…
+--------------------------------------------------
+
 Title: 3 no-brainer ASX ETFs to buy after the market selloff
 URL: https://www.fool.com.au/?p=1777165
 Time Published: 2025-03-13T16:08:00Z
