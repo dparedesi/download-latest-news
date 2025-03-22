@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: ‘A Safe Haven in a Volatile Market’: Morgan Stanley Picks 3 Top Cybersecurity Stocks to Buy
+URL: https://finance.yahoo.com/news/safe-haven-volatile-market-morgan-110954608.html
+Time Published: 2025-03-21T11:09:54Z
+Description: If the last few months have proven anything, it’s that even a long-term bull run is still open to volatile market forces. The S&P 500 has been flirting with ...
+--------------------------------------------------
+
 Title: NTT DATA and CrowdStrike Expand Partnership to Strengthen AI-Powered Cyber Resilience
 URL: https://financialpost.com/pmn/business-wire-news-releases-pmn/ntt-data-and-crowdstrike-expand-partnership-to-strengthen-ai-powered-cyber-resilience
 Time Published: 2025-03-17T12:15:31Z
