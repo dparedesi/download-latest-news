@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Micron Plunges 8% on Sinking Margins: Time to Sell the Stock?
+URL: https://finance.yahoo.com/news/micron-plunges-8-sinking-margins-190000434.html
+Time Published: 2025-03-24T19:00:00Z
+Description: The sequential decline in profitability, coupled with pricing pressures and bearish technical indicators, make MU stock a risky bet at current levels.
+--------------------------------------------------
+
 Title: Broadcom (AVGO) Pushes AI Leadership with VMware Explore 2025 Expansion
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0b5c0515-556f-493f-a81b-b787269f9564
 Time Published: 2025-03-22T16:34:50Z
@@ -10,10 +16,4 @@ Title: AI Play Broadcom Stock Flashes Renewed Technical Strength
 URL: https://www.investors.com/news/technology/stocks-flashing-renewed-technical-strength-broadcom-2/
 Time Published: 2025-03-21T12:00:00Z
 Description: Top-rated Broadcom earns the No. 2 rank among its peers in the Electronics-Semiconductor Fabless industry group.
---------------------------------------------------
-
-Title: 4 Tech Stocks Positioned for Strong Growth in the Rest of 2025
-URL: https://finance.yahoo.com/news/4-tech-stocks-positioned-strong-140900915.html
-Time Published: 2025-03-20T14:09:00Z
-Description: Here, we present four tech stocks, AVGO, ZM, NVDA, and FTNT, which are poised to perform well in the rest of 2025.
 --------------------------------------------------

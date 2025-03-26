@@ -30,9 +30,3 @@ URL: https://www.investors.com/etfs-and-funds/mutual-funds/best-municipal-bond-f
 Time Published: 2025-03-21T12:25:19Z
 Description: Which mutual funds should you buy? If you want the best municipal bond funds, here are 55 that beat the benchmark in four time periods.
 --------------------------------------------------
-
-Title: Vanguard Announces Cash Distributions For the Vanguard ETFs
-URL: https://financialpost.com/globe-newswire/vanguard-announces-cash-distributions-for-the-vanguard-etfs-89
-Time Published: 2025-03-20T15:52:48Z
-Description: (VXC, VUS, VUN, VSP, VFV, VGH and VGG) TORONTO, March 20, 2025 (GLOBE NEWSWIRE) — Vanguard Investments Canada Inc. today announced the final March 2025 cash distributions for certain Vanguard ETFs, listed below, that trade on Toronto Stock Exchange (TSX). Uni…
---------------------------------------------------
