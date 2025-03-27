@@ -18,21 +18,3 @@ URL: https://financialpost.com/investing/pelletier-with-economic-indicators-flas
 Time Published: 2025-03-24T10:00:35Z
 Description: Just because the markets and economies are uncertain it doesn’t mean your portfolio needs to be as well. Read on to learn more
 --------------------------------------------------
-
-Title: Best Mutual Funds Awards 2025: Best U.S. Taxable Bond Funds
-URL: https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-awards-2025-best-us-taxable-bond-funds/
-Time Published: 2025-03-21T12:25:57Z
-Description: Considering mutual funds to invest in? These are the best bond funds (U.S. taxable), based on outperforming their benchmark in four periods.
---------------------------------------------------
-
-Title: Best Mutual Funds Awards 2025: International Stock Funds
-URL: https://www.investors.com/etfs-and-funds/mutual-funds/best-international-stock-funds-mutual-fund-awards-2025/
-Time Published: 2025-03-21T12:25:54Z
-Description: Considering mutual funds to buy? We list the best international stock funds to consider based on their record over the short and long term.
---------------------------------------------------
-
-Title: Best Mutual Funds Awards 2025: Best Municipal Bond Funds
-URL: https://www.investors.com/etfs-and-funds/mutual-funds/best-municipal-bond-funds-mutual-fund-awards-2025/
-Time Published: 2025-03-21T12:25:19Z
-Description: Which mutual funds should you buy? If you want the best municipal bond funds, here are 55 that beat the benchmark in four time periods.
---------------------------------------------------
