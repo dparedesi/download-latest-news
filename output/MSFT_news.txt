@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: AI CEO issues grave warning about the future of Nvidia
+URL: https://www.thestreet.com/technology/ai-ceo-issues-grave-warning-about-the-future-of-nvidia-
+Time Published: 2025-03-26T22:03:00Z
+Description: Despite its recent progress, the AI leader may be at serious risk of falling into a trap.
+--------------------------------------------------
+
 Title: CoreWeave’s IPO Valuation Is Rotten To The Core
 URL: https://www.forbes.com/sites/greatspeculations/2025/03/26/coreweaves-ipo-valuation-is-rotten-to-the-core/
 Time Published: 2025-03-26T13:40:25Z
