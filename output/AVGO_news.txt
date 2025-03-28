@@ -1,5 +1,23 @@
 List of news related to Broadcom AVGO:
 
+Title: Solid Results Boosted Broadcom’s (AVGO) Performance in Q4
+URL: https://finance.yahoo.com/news/solid-results-boosted-broadcom-avgo-130515687.html
+Time Published: 2025-03-27T13:05:15Z
+Description: Renaissance Investment Management, an investment management company, released its Q4 2024 “Large Cap Growth Strategy” investor letter. A copy of the letter...
+--------------------------------------------------
+
+Title: Unveiling Market Trends: What's Triggering a Midweek Bearish Shift?
+URL: https://stockcharts.com/articles/chartwatchers/2025/03/unveiling-market-trends-whats-220.html
+Time Published: 2025-03-27T12:06:13Z
+Description: Wednesday's stock market price action revealed a caution sign, and with it, any hope that rose from Monday's price action just got buried. The Tech sector sold off, with the Nasdaq Composite ($COMPQ) falling over 2%.The chart of $COMPQ indicated hesitation. O…
+--------------------------------------------------
+
+Title: Startup Nexthop AI Roils Networking Market Vs. Nvidia, Arista, Cisco
+URL: https://www.investors.com/news/technology/nvidia-stock-nexthop-ai-arista-stock-ai-stocks/
+Time Published: 2025-03-27T12:00:04Z
+Description: New networking competition is coming from a startup founded by Arista's ex-COO.
+--------------------------------------------------
+
 Title: Broadcom Teams with Audi to Deliver Next-Generation IT-Based Factory Automation Powered by VMware Cloud Software
 URL: https://www.globenewswire.com/news-release/2025/03/27/3050297/19933/en/Broadcom-Teams-with-Audi-to-Deliver-Next-Generation-IT-Based-Factory-Automation-Powered-by-VMware-Cloud-Software.html
 Time Published: 2025-03-27T08:00:00Z
