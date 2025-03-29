@@ -1,5 +1,25 @@
 List of news related to NVIDIA NVDA:
 
+Title: What's happening with the NextDC share price?
+URL: https://www.fool.com.au/2025/03/29/whats-happening-with-the-nextdc-share-price/
+Time Published: 2025-03-28T18:45:00Z
+Description: The NextDC share price has been tanking. What’s going on? 
+The post What's happening with the NextDC share price? appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: Tesla, Nvidia lose ground as markets take a tumble on bad economic news
+URL: https://qz.com/shares-plunge-tesla-nvidia-gm-apple-amazon-lululemon-1851773125
+Time Published: 2025-03-28T18:14:00Z
+Full Content:
+Tesla’s (TSLA) status as the “winner” of President Donald Trump’s new auto tariffs didn’t protect it from a tech-led market selloff on Friday, as the stock followed Nvidia (NVDA) and the rest of the Magnificent 7 lower after new economic numbers pointed toward the possibility of stagflation. The tech-heavy Nasdaq Composite index fell 2.7%, the S&P 500 declined 2%, and the Dow Jones Industrial average shed 715.8 points, or 1.7%. Google parent Alphabet (GOOGL) led the Mag 7 lower, plunging 4.9%, Amazon’s (AMZN) stock fell 4.3%, Tesla slid 3.5%, and Nvidia eased 1.6%. The personal consumption report for February released Friday showed the core PCE deflator — the Federal Reserve’s favored inflation measure — heating up while real household spending weakened. That creates a situation where the Fed is torn between curtailing price gains and supporting growth. “Today’s report highlights the difficult predicament the Fed is now confronting,” Citigroup (C) economists wrote. “Ultimately, we expect Fed officials to dovishly lean toward their full-employment mandate, but that would depend on upcoming data and in particular on ... March spending and inflation.” Trump’s trade war is also weighing on investors. The 25% tariffs on all car, truck, and auto part imports that the president announced Wednesday evening continued to depress automakers’ stocks Friday, with Stellantis (STLA) dropping 4.1%, Ford (F) down 2%, and General Motors (GM) off 1.1%. The ADRs of Toyota (TM), Volkswagen (VWAGY) and Honda (HMC) also declined. Separately, Lululemon’s (LULU) stock plunged 14% after the athleisure wear maker’s sales and profit projections missed analyst expectations. The company has scrambled to update its product line to compete with trendier brands, Reuters (TRI) reported. Chris Grisanti, chief market strategist at MAI Capital Management, said he was surprised by the relatively benign market reaction to the auto tariffs, which were more hawkish than he’d anticipated. He now expects new duties on April 2 to also be hawkish, possibly followed by another muted reaction from investors. Chairman Jerome Powell and his fellow policymakers will probably wait longer to see the impact of Trump’s tariffs, especially on inflation, before making any decision on cutting rates, Grisanti told Quartz. “The only way I see Trump getting the Fed on his side is if he tanks the economy,” Grisanti said. “We can slice and dice these economic numbers as much as we want, but the Fed is on hold until we get some tariff clarity.” Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
+--------------------------------------------------
+
+Title: CoreWeave stock seesaws after IPO in first big test of AI trade
+URL: https://finance.yahoo.com/news/coreweave-stock-seesaws-after-ipo-in-first-big-test-of-ai-trade-173445419.html
+Time Published: 2025-03-28T17:34:45Z
+Description: The AI cloud computing provider CoreWeave made its debut on the Nasdaq Friday under the ticker CRWV. The stock fell around 6% immediately after shares began ...
+--------------------------------------------------
+
 Title: Nvidia-Backed CoreWeave Downsizes IPO Amid Heightened AI Worries
 URL: https://www.investors.com/news/technology/coreweave-ipo-prices-low-nvidia-backed-startup-ai-stock-demand/
 Time Published: 2025-03-28T13:57:25Z
@@ -303,24 +323,4 @@ Title: Micron Plunges 8% on Sinking Margins: Time to Sell the Stock?
 URL: https://finance.yahoo.com/news/micron-plunges-8-sinking-margins-190000434.html
 Time Published: 2025-03-24T19:00:00Z
 Description: The sequential decline in profitability, coupled with pricing pressures and bearish technical indicators, make MU stock a risky bet at current levels.
---------------------------------------------------
-
-Title: U.S. stock market today: Markets surge – Dow Jumps 500 points, S&P 500 gains 1.5%, Nasdaq rises 1.8% as Trump’s tariff flexibility boosts investor optimism – Here’s what to watch next
-URL: https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-today-markets-surge-dow-jumps-500-points-sp-500-gains-1-5-nasdaq-rises-1-8-as-trumps-tariff-flexibility-boosts-investor-optimism-heres-what-to-watch-next/articleshow/119432236.cms
-Time Published: 2025-03-24T15:41:47Z
-Full Content:
-(Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. How IPL franchises stack up in profit and power amid league cricket's billion-dollar battle A sudden spike, then an odd silence: Insider deals in IndusInd shares have a tricky pattern Time to replace Collegium with Appointments Commission? Hang Seng is making Indian investors smile, but there are risks you must weigh Accenture pours cold water over quick tech revival hopes Stock Radar: Focus on private banking stocks! HDFC Bank looking attractive to buy after profit taking? Greenland slams US ahead of Usha Vance’s visit Tariff tensions rise but Sensex soars Trump dominates Canada election campaign Finance Bill classic case of patchwork solutions: Tharoor Trump slams Gov Polis over ‘worst’ portrait in Colorado state Capitol First Venezuelan deportation flight arrives under US deal ‘Will bring home the Canadian promise’: Poilievre Israeli airstrike on Gaza hospital kills Hamas leader Trump's fresh advice to Harris ahead of potential California Gov run US airstrike in Sanaa kills 1, injures 13 Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Commodities Top Story Listing Top Prime Articles Top Definitions Top Slideshow Private Companies Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Intel has a shot at being 'viable' with new CEO at the wheel: Analyst
-URL: https://finance.yahoo.com/news/intel-has-a-shot-at-being-viable-with-new-ceo-at-the-wheel-analyst-143519196.html
-Time Published: 2025-03-24T14:35:19Z
-Description: Intel has a chance at brighter days under new CEO Lip-Bu Tan, but it will take a while, Band of America analyst Vivek Arya said.
---------------------------------------------------
-
-Title: Magnificent 7 stocks rise as Trump may narrow on tariffs
-URL: https://qz.com/magnificent-seven-stocks-rise-trump-reciprocal-tariffs-1851771876
-Time Published: 2025-03-24T13:57:00Z
-Full Content:
-Magnificent 7 stocks rose during Monday morning trading after reports that the Trump administration is considering excluding some tariffs that are set to go into place on April 2. Microsoft (MSFT) and Apple (AAPL) stocks were up by less than 1%, while Alphabet (GOOGL) rose by 1.2% at the market open. Amazon (AMZN) and Nvidia (NVDA) were up by more than 2% during early morning trading, while Meta (META) rose by close to 4%, and Tesla (TSLA) climbed by more than 5%. Tesla stock was up by more than 4% before the market open on Monday, while shares of Meta, Nvidia, and Amazon were up by more than 2% during pre-market trading. Alphabet, Apple, and Microsoft stocks were all up by more than 1%. S&P 500, Nasdaq, and Dow Jones Industrial Average futures all gained in pre-market trading after Bloomberg and the Wall Street Journal reported that the White House is narrowing its focus for reciprocal tariffs that President Donald Trump will announce on April 2. The Trump administration will exclude some of the reciprocal tariffs it plans to put on other countries, including U.S. allies, on April 2, Bloomberg reported, citing officials familiar with the matter. Additionally, Trump will reportedly not announce the separate, industry-specific tariffs that he has previously spoken about. Countries without tariffs on the U.S. or that have a trade surplus with the U.S. will not be targeted by the reciprocal tariffs, an official told Bloomberg. However, President Trump reportedly wants to announce rates that are effective immediately. “April 2nd is going to be liberation day for America,” Trump reportedly said on Friday. “We’ve been ripped off by every country in the world, friend and foe.” He added that the tariffs will bring the U.S. “tens of billions.” Despite a more targeted approach, the tariffs will still largely impact major U.S. import partners, the Wall Street Journal reported. The White House reportedly now is focused on implementing tariffs on about 15% of nations with which the U.S. has an ongoing trade imbalance. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
 --------------------------------------------------
