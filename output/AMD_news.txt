@@ -1,1 +1,8 @@
-No news found for Advanced Micro Devices stock price +AMD
+List of news related to Advanced Micro Devices stock price AMD:
+
+Title: AMD Stock Slips as Jefferies Downgrades, Says Nvidia Has 'Significant' Advantage
+URL: https://www.investopedia.com/amd-stock-slips-as-jefferies-downgrades-says-nvidia-has-significant-advantage-11704214
+Time Published: 2025-03-27T15:52:30Z
+Full Content:
+Advanced Micro Devices (AMD) shares lost ground Thursday as Jefferies analysts downgraded the stock, saying they expect the performance gap between AMD's latest products and Nvidia's (NVDA) to widen. The analysts downgraded AMD's stock to a "hold" and cut their price target to $120, down from a "buy" rating and $135 price target previously. That's well below the $139 average target of analysts tracked by Visible Alpha, five of whom have issued "hold" ratings, compared to seven "buy" and one "sell" rating. AMD shares were down close to 4% near $106 in recent trading Thursday, and have lost more than 40% of their value over the last 12 months. Citing performance tests conducted with three open-source artificial intelligence (AI) models in recent weeks, Jefferies wrote that Nvidia's H200 graphics processing unit (GPU) still has a "significant performance advantage" over AMD's MI300x, and that they expect the gap could "expand further" with Nvidia's Rubin and Blackwell lines. Nvidia's GPU "outperformed AMD by a wide margin" across most of the analysts' tests. Despite AMD's product having some advertised advantages like higher memory bandwidth, they "do not result in superior real-world performance," the analysts wrote. They also said "expectations of mounting competition" from Intel (INTC) contributed to the downgrade, as they believe Intel could have "fairly competitive chips" by next year under its new CEO.
+--------------------------------------------------
