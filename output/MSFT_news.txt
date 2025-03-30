@@ -1,5 +1,12 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: CoreWeave Stock Finishes First Trading Session at IPO Price
+URL: https://www.investopedia.com/coreweave-stock-finishes-first-trading-session-at-ipo-price-11704899
+Time Published: 2025-03-28T17:47:40Z
+Full Content:
+Shares in CoreWeave (CRWV), a cloud computing company backed by Nvidia (NVDA), ended their market debut flat following a $1.5 billion initial public offering that priced below its expected range. Shares of CoreWeave opened at $39 Friday. It ended the day at $40, its IPO price, trading as high as almost $42 and as low as around $37.50. The company's IPO pricing lagged the expected range of $47 to $55 per share. CoreWeave, which makes money by providing its clients with access to data centers, had also cut the deal's size, selling 37.5 million shares, fewer than the 49 million previously anticipated. Data centers are used to develop artificial intelligence models. The company, which relies on Microsoft (MSFT) for a large portion of its sales, also depends on Nvidia chips for its business. The IPO was the largest by a tech firm in the U.S. since the $5.2 billion offering by chip designer Arm Holdings (ARM) in September 2023, according to Dealogic, and the largest in the U.S. since the $1.75 billion listing by LNG exporter Venture Global in January. CoreWeave was founded in 2017 as a crypto miner before pivoting to selling cloud infrastructure. This article has been updated since it was first published to reflect fresh trading data.
+--------------------------------------------------
+
 Title: Nvidia-Backed CoreWeave Downsizes IPO Amid Heightened AI Worries
 URL: https://www.investors.com/news/technology/coreweave-ipo-prices-low-nvidia-backed-startup-ai-stock-demand/
 Time Published: 2025-03-28T13:57:25Z
