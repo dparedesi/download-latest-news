@@ -51,9 +51,3 @@ URL: https://finance.yahoo.com/news/vanguard-met-blackstone-carlyle-private-1102
 Time Published: 2025-03-27T11:02:00Z
 Description: (Bloomberg) -- Vanguard Group held discussions with major alternative asset managers in recent months to explore potential tie-ups that would market private ...
 --------------------------------------------------
-
-Title: Vanguard Announces Cash Distributions for the Vanguard ETFs
-URL: https://financialpost.com/globe-newswire/vanguard-announces-cash-distributions-for-the-vanguard-etfs-90
-Time Published: 2025-03-25T18:26:04Z
-Description: (VBU, VBG, VGAB, VAB, VSB, VSC, VCB, VGV, VLB, VRE, VDY, VRIF, VVSG, VCIP, VBAL, VCNS and VGRO) TORONTO, March 25, 2025 (GLOBE NEWSWIRE) — Vanguard Investments Canada Inc. today announced the final March 2025 cash distributions for certain Vanguard ETFs, list…
---------------------------------------------------
