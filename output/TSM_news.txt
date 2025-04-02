@@ -1,10 +1,22 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Taiwan Semiconductor Manufacturing (TSM): Among Billionaire Ken Fisher’s Top Growth Stock Picks
+URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-tsm-among-203251595.html
+Time Published: 2025-03-31T20:32:51Z
+Description: We recently published a list of Billionaire Ken Fisher’s Top 13 Growth Stock Picks. In this article, we are going to take a look at where Taiwan...
+--------------------------------------------------
+
 Title: Nvidia To Invest Billions In U.S. Supply Chain As Tech Companies Commit To Trump's Onshoring Pledge
 URL: https://www.benzinga.com/25/03/44567096/nvidia-to-invest-billions-in-u-s-supply-chain-as-tech-companies-commit-to-trumps-onshoring-pledge
 Time Published: 2025-03-31T19:00:19Z
 Full Content:
 Benzinga Rankings give you vital metrics on any stock – anytime. Leading artificial intelligence chip maker Nvidia NVDA plans to invest hundreds of billions of dollars in the U.S. supply chain over the next four years. CEO Jensen Huang told the Financial Times that the increased U.S. production was being made possible thanks to suppliers such as the Taiwan Semiconductor Manufacturing Company TSM and Foxconn FXCOF. “Overall, we will procure, over the course of the next four years, probably half a trillion dollars worth of electronics in total,” Huang told the FT. “And I think we can easily see ourselves manufacturing several hundred billion of it here in the U.S.” Don't Miss: Huang, speaking on March 18 during his company’s GTC convention, believed the Trump administration’s “America First” policy would enable his company to ramp up chip production in the U.S. “Having the support of an administration who cares about the success of this industry and not allowing energy to be an obstacle is a phenomenal result for AI in the U.S.,” he told the FT. Huang’s sentiments follow pledges by other tech companies to onshore manufacturing in the U.S. rather than overseas. Apple has committed to spending $500 billion in the U.S. over the next four years, expanding teams and facilities in Michigan, Texas, California, Arizona, Nevada, Iowa, Oregon, North Carolina, and Washington. Trending: Invest in the Future of Digital Engagement. Own a Piece of the $100 Billion Metaverse Today for Just $500. TSMC has already committed a $100 billion investment in a chip fabrication plant in Arizona, which President Donald Trump has said would create thousands of jobs bringing Taiwan Semiconductor’s investment to "about $165 billion." “TSMC investing in the U.S. provides for a substantial step up in our supply chain resilience,” Huang told the FT. TSMC’s Taiwan-based production facilities have been an increasingly pivotal part of Nvidia and Apple’s manufacturing process, which Trump was once keen to change, previously threatening to impose tariffs on Taiwan. By pledging to build new facilities in the U.S., Trump said that Taiwan avoided a 25% tariff. “TSMC already has plants in the US and Japan, and it’s now building a new plant in Germany,” Taiwanese presidential office spokesperson Karen Kuo told the Guardian. “These have nothing to do with tariffs. TSMC’s global expansion is a crucial development.” See Also: Hasbro, MGM, and Skechers trust this AI marketing firm — invest pre-IPO from $0.55 per share now. Trump has been basking in a wave of tech commitments to manufacture products in the U.S. “GE Aerospace GE announced on Tuesday a nearly $1 billion investment in U.S. manufacturing, the latest company to do so under the Trump administration… It marks the latest company to put money back into the U.S. economy,” Trump said. Other tech companies or those that finance them have also announced big U.S.-based investments. Meta META has announced a $65 billion investment, most of which will be used to construct new data centers to fuel its AI operations. This follows investments from Google, Microsoft MSFT, and Amazon AMZN in data centers as the AI arms race heats up. Trump has announced a joint venture between OpenAI, SoftBank, and Oracle ORCL called Stargate, which aims to invest at least $100 billion in U.S. data centers. Many of these data centers will house the incredibly powerful GPU computers powering the AI revolution. Nvidia currently has between 70% and 95% of the AI chip market used in GPUs. Read Next: Benzinga Rankings give you vital metrics on any stock – anytime. © 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Trade confidently with insights and alerts from analyst ratings, free reports and breaking news that affects the stocks you care about.
+--------------------------------------------------
+
+Title: Is Taiwan Semiconductor Manufacturing Company Limited (TSM) the Best Very Cheap Stock to Buy According to Billionaires?
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_966a42ba-cc97-414d-af2d-f85169d28fde
+Time Published: 2025-03-31T13:43:21Z
+Description: None
 --------------------------------------------------
 
 Title: Is Taiwan Semiconductor Manufacturing Company Limited (TSM) the Top Growth Stock in David Tepper’s Portfolio?
@@ -17,16 +29,4 @@ Title: Is Taiwan Semiconductor Manufacturing (TSM) the Best ADR Stock to Buy Acc
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e86efe77-8945-4876-834f-27f81e93a402
 Time Published: 2025-03-28T21:30:35Z
 Description: None
---------------------------------------------------
-
-Title: Unveiling Market Trends: What's Triggering a Midweek Bearish Shift?
-URL: https://stockcharts.com/articles/chartwatchers/2025/03/unveiling-market-trends-whats-220.html
-Time Published: 2025-03-27T12:06:13Z
-Description: Wednesday's stock market price action revealed a caution sign, and with it, any hope that rose from Monday's price action just got buried. The Tech sector sold off, with the Nasdaq Composite ($COMPQ) falling over 2%.The chart of $COMPQ indicated hesitation. O…
---------------------------------------------------
-
-Title: Is Intel Corp. (INTC) the Best Semiconductor Stock to Buy According to Billionaires?
-URL: https://finance.yahoo.com/news/intel-corp-intc-best-semiconductor-014202076.html
-Time Published: 2025-03-27T01:42:02Z
-Description: We recently published a list of 10 Best Semiconductor Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Intel...
 --------------------------------------------------
