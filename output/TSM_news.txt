@@ -1,5 +1,35 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Stock market today: Nasdaq futures lead stock plunge, Dow drops 1,000 points as Trump's punishing tariffs rip through markets
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-futures-lead-stock-plunge-dow-drops-1000-points-as-trumps-punishing-tariffs-rip-through-markets-000611007.html
+Time Published: 2025-04-03T00:06:57Z
+Description: US stock futures plunged after President Donald Trump announced 10% tariff on all US trading partners, sending shockwaves through markets and the global...
+--------------------------------------------------
+
+Title: *20% ON EU...
+URL: https://finance.yahoo.com/news/live/trump-tariffs-live-updates-trump-reveals-liberation-day-tariffs-across-over-150-countries-191201863.html
+Time Published: 2025-04-02T22:07:36Z
+Description: *20% ON EU...
+
+ 
+ 
+ 
+ (Top headline, 3rd story, link)
+
+ 
+
+ 
+
+ 
+ Related stories:Trump unleashes tariffs...
+10% global; Higher rate for 'worst offenders'...
+*34% ON CHINA...
+*46% ON VIETNAM...
+*24% ON JAPAN...
+*26% ON INDIA... *MORE...
+Highest import…
+--------------------------------------------------
+
 Title: Taiwan Semiconductor Manufacturing (TSM): The Best Foreign Stock to Buy According to Billionaires
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c806b022-4658-41ac-b2bd-e2153685f8f8
 Time Published: 2025-04-02T13:49:24Z
@@ -10,7 +40,7 @@ Title: Intel will spin off its 'non-core' businesses, new CEO says
 URL: https://qz.com/intel-will-spin-off-its-non-core-businesses-new-ceo-sa-1851773990
 Time Published: 2025-04-01T16:17:30Z
 Full Content:
-Intel (INTC+2.09%) will spin off some of its non-core businesses, newly minted CEO Lip-Bu Tan said at the company’s Vision 2025 conference in Las Vegas on Monday. “Going forward at Intel, we will redefine some of our strategy and then free up the bandwidth. Some of the non-core business, we will spin it off, but really focus on our core business and how to expand that using AI and Software 2.0,” Tan said in what was his first public appearance as company CEO. Tan didn’t directly name which businesses were going to be considered core versus non-core. Tan was named CEO earlier last month, coming on the heels of a rocky time in the tech giant’s history. “It had been a tough period for quite a long time for Intel, we fell behind on innovation and as a result, we have been too slow to adapt and meet your needs,” Tan said, addressing the crowd of customers and investors in Las Vegas. “I will pull together strong teams to correct the past mistakes and start to earn your trust. My motto is very simple: under-promise and over-deliver, that has been my trademark,” he added. The company has been struggling to keep pace with competitors like Nvidia (NVDA-6.03%), which replaced Intel in the Dow Jones Industrial Average back in November 2024. The company has also been the target of possible acquisitions and has been working with investment bankers at Morgan Stanley (MS-8.35%) and Goldman Sachs (GS-8.23%) to right its business, including by potentially splitting its foundry division. Broadcom (AVGO-8.55%) is reportedly looking to buy Intel’s chip design and marketing unit, while Taiwan Semiconductor Manufacturing Company (TSM-5.58%) is eyeing Intel’s chip manufacturing plants. Intel’s former CEO Pat Gelsinger, who was ousted in December, had helmed an initiative to revamp the company’s foundry division, which designs and manufactures chips. Tan in his speech, also committed to build out the chips foundry business. “Global demand for chip production is growing, and you need supply chains that are flexible, resilient, and secure. Intel foundry plays a crucial role. We will continue to advance our foundry strategy to meet your needs,” Tan said. Other top priorities for Intel going forward will be to retain and recruit top engineering talent and to return to its roots of “an engineering-first company,” Tan said. Tan also emphasized that he would like to see Intel act more like a startup. “Most importantly, we will simplify the way we work. Bureaucracy kills innovation. In my career, I’ve seen how small, focused teams can move very fast and innovate and take on incumbents, and we’re going to practice that in Intel,” Tan said. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
+Intel (INTC+2.16%) will spin off some of its non-core businesses, newly minted CEO Lip-Bu Tan said at the company’s Vision 2025 conference in Las Vegas on Monday. “Going forward at Intel, we will redefine some of our strategy and then free up the bandwidth. Some of the non-core business, we will spin it off, but really focus on our core business and how to expand that using AI and Software 2.0,” Tan said in what was his first public appearance as company CEO. Tan didn’t directly name which businesses were going to be considered core versus non-core. Tan was named CEO earlier last month, coming on the heels of a rocky time in the tech giant’s history. “It had been a tough period for quite a long time for Intel, we fell behind on innovation and as a result, we have been too slow to adapt and meet your needs,” Tan said, addressing the crowd of customers and investors in Las Vegas. “I will pull together strong teams to correct the past mistakes and start to earn your trust. My motto is very simple: under-promise and over-deliver, that has been my trademark,” he added. The company has been struggling to keep pace with competitors like Nvidia (NVDA-7.00%), which replaced Intel in the Dow Jones Industrial Average back in November 2024. The company has also been the target of possible acquisitions and has been working with investment bankers at Morgan Stanley (MS-9.63%) and Goldman Sachs (GS-9.14%) to right its business, including by potentially splitting its foundry division. Broadcom (AVGO-10.34%) is reportedly looking to buy Intel’s chip design and marketing unit, while Taiwan Semiconductor Manufacturing Company (TSM-6.87%) is eyeing Intel’s chip manufacturing plants. Intel’s former CEO Pat Gelsinger, who was ousted in December, had helmed an initiative to revamp the company’s foundry division, which designs and manufactures chips. Tan in his speech, also committed to build out the chips foundry business. “Global demand for chip production is growing, and you need supply chains that are flexible, resilient, and secure. Intel foundry plays a crucial role. We will continue to advance our foundry strategy to meet your needs,” Tan said. Other top priorities for Intel going forward will be to retain and recruit top engineering talent and to return to its roots of “an engineering-first company,” Tan said. Tan also emphasized that he would like to see Intel act more like a startup. “Most importantly, we will simplify the way we work. Bureaucracy kills innovation. In my career, I’ve seen how small, focused teams can move very fast and innovate and take on incumbents, and we’re going to practice that in Intel,” Tan said. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
 --------------------------------------------------
 
 Title: Here’s What Boosted Taiwan Semiconductor Manufacturing Company Limited (TSM) in 2024
@@ -54,11 +84,5 @@ Benzinga Rankings give you vital metrics on any stock – anytime. Leading artif
 Title: Is Taiwan Semiconductor Manufacturing Company Limited (TSM) the Best Very Cheap Stock to Buy According to Billionaires?
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_966a42ba-cc97-414d-af2d-f85169d28fde
 Time Published: 2025-03-31T13:43:21Z
-Description: None
---------------------------------------------------
-
-Title: Is Taiwan Semiconductor Manufacturing Company Limited (TSM) the Top Growth Stock in David Tepper’s Portfolio?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e9ba7540-a59e-4346-ba75-9a828398b65e
-Time Published: 2025-03-29T23:19:44Z
 Description: None
 --------------------------------------------------
