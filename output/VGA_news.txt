@@ -1,5 +1,18 @@
 List of news related to Vanguard Group Inc:
 
+Title: ASX shares are on sale! What are you buying?
+URL: https://www.fool.com.au/2025/04/04/asx-shares-are-on-sale-what-are-you-buying/
+Time Published: 2025-04-04T04:37:22Z
+Description: Stocks are being hit hard. There are opportunities everywhere. 
+The post ASX shares are on sale! What are you buying? appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: ETF Investing: Should I buy VTS or A200?
+URL: https://www.fool.com.au/2025/04/04/etf-investing-should-i-buy-vts-or-a200/
+Time Published: 2025-04-03T20:45:07Z
+Description: Are you investing in ETFs? Let's check out the Vanguard US Total Market Shares Index ETF (ASX: VTS) or the BetaShares Australia 200 ETF (ASX: A200).
+--------------------------------------------------
+
 Title: Flying Astrobee Robots On ISS Augur Guardian Spacecraft Of The Future
 URL: https://www.forbes.com/sites/kevinholdenplatt/2025/04/02/flying-astrobee-robots-on-iss-augur-guardian-spacecraft-of-the-future/
 Time Published: 2025-04-03T02:34:51Z
@@ -25,12 +38,4 @@ Title: Northern Star Resources Limited (ASX:NST) is a favorite amongst instituti
 URL: https://finance.yahoo.com/news/northern-star-resources-limited-asx-001954926.html
 Time Published: 2025-03-31T00:19:54Z
 Description: Key Insights Significantly high institutional ownership implies Northern Star Resources' stock price is sensitive to...
---------------------------------------------------
-
-Title: Suspicious login
-URL: https://www.bleepingcomputer.com/forums/t/806790/suspicious-login/
-Time Published: 2025-03-30T19:51:39Z
-Description: Suspicious login - posted in Virus, Trojan, Spyware, and Malware Removal Help: Received a notification on my phone stating that someone logged in into my Twitter account, it happened while I was asleep.  Ive run a Malwarebytes scan, it showed no results:
- 
-Ma…
 --------------------------------------------------
