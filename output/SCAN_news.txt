@@ -100,15 +100,3 @@ URL: https://finance.yahoo.com/news/meta-pins-snap-social-media-115903221.html
 Time Published: 2025-04-01T11:59:03Z
 Description: The ongoing market correction is hitting tech stocks particularly hard. Some popular social media and internet stocks are now significantly lower than their ...
 --------------------------------------------------
-
-Title: Methode Electronics, Inc. (MEI): A Bull Case Theory
-URL: https://finance.yahoo.com/news/methode-electronics-inc-mei-bull-130031421.html
-Time Published: 2025-03-31T13:00:31Z
-Description: We came across a bullish thesis on Methode Electronics, Inc. (MEI) on Substack by DeepValue Capital. In this article, we will summarize the bulls’ thesis on ...
---------------------------------------------------
-
-Title: AppLovin Corporation (APP): Among Top High-Risk, High-Reward Growth Stocks To Buy Now
-URL: https://finance.yahoo.com/news/applovin-corporation-app-among-top-024724612.html
-Time Published: 2025-03-31T02:47:24Z
-Description: We recently curated a list of 11 High-Risk High-Reward Growth Stocks To Buy Now. Here, we take a detailed look at AppLovin Corporation (NASDAQ:APP) and its...
---------------------------------------------------
