@@ -110,16 +110,16 @@ Description: This is what could next to Apple shares.
 --------------------------------------------------
 
 Title: It was a bad day for Nvidia
+URL: https://finance.yahoo.com/news/bad-day-nvidia-204800121.html
+Time Published: 2025-04-03T20:48:00Z
+Description: Nvidia (NVDA) fell with other Magnificent 7 stocks on Thursday as the market reacted to new tariffs — but the company also may’ve slipped because a major...
+--------------------------------------------------
+
+Title: It was a bad day for Nvidia
 URL: https://qz.com/nvidia-stock-trump-tariffs-hsbc-downgrade-ai-1851774647
 Time Published: 2025-04-03T20:48:00Z
 Full Content:
 Nvidia (NVDA-5.83%) fell with other Magnificent 7 stocks on Thursday as the market reacted to new tariffs — but the company also may’ve slipped because a major bank downgraded it for unrelated reasons. The chipmaker’s shares were down 6.6% during pre-market trading on Thursday morning, less than a day after President Donald Trump announced reciprocal tariffs against U.S. trade partners. At the market open Thursday, Nvidia’s shares were down 4.9% — and then fell an additional 1.3% during mid-day trading. The company ended the day down 7.8% at the market close. However, Altimeter Capital chief executive Brad Gerstner told CNBC that he expects Nvidia to fair well amid the Trump administration’s new tariffs. “The growth and the demand for GPUs is off the charts,” Gerstner said during an appearance on “Fast Money Halftime Report.” He added that semiconductors are exempted from the tariffs — a “wise exception” — because of the global AI race. Meanwhile, HSBC (HSBC-6.37%) analyst Frank Lee downgraded his rating for the company’s stock from “buy” to “hold” on Thursday, citing concerns over Nvidia’s ability to continue its strong growth. Lee said Nvidia had previously had strong pricing power due to its dominance of the market for graphics processing units, or GPUs, which are essential to powering generative artificial intelligence models, according to MarketWatch (NWSA-5.04%). However, that pricing power could have less of an impact in the future, as the company hasn’t raised average selling prices. It “is likely to cap earnings upside momentum,” Lee reportedly said in the note. He also noted that Nvidia’s earnings and guidance beats in the last three quarters have been shrinking, due to “increasing market focus on Nvidia’s earnings as well ongoing uncertainty over its Blackwell supply chain ramp-up.” Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
---------------------------------------------------
-
-Title: It was a bad day for Nvidia
-URL: https://finance.yahoo.com/news/bad-day-nvidia-204800121.html
-Time Published: 2025-04-03T20:48:00Z
-Description: Nvidia (NVDA) fell with other Magnificent 7 stocks on Thursday as the market reacted to new tariffs — but the company also may’ve slipped because a major...
 --------------------------------------------------
 
 Title: Analyst Explains Why NVIDIA (NVDA) Investors Having Hard Time ‘Keeping The Faith’ After DeepSeek
