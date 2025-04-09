@@ -5,28 +5,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d5580291
 Time Published: 2025-04-06T20:46:46Z
 Description: None
 --------------------------------------------------
-
-Title: Analysts see challenges for Apple over tariffs
-URL: https://www.thestreet.com/investing/analysts-see-challenges-for-apple-over-tariffs
-Time Published: 2025-04-03T22:37:00Z
-Description: This is what could next to Apple shares.
---------------------------------------------------
-
-Title: Intel, TSMC Set To Form Chipmaking Joint Venture in the US, Report Says
-URL: https://www.investopedia.com/intel-tsmc-set-to-form-chipmaking-joint-venture-in-the-us-report-says-11708780
-Time Published: 2025-04-03T20:38:55Z
-Full Content:
-Intel (INTC) and Taiwan Semiconductor Manufacturing Company (TSM) have tentatively agreed to form a joint venture that would run the U.S. company’s foundry business. TSMC, the world's largest chip manufacturer, will own a 20% stake in the combined company, according to reports citing The Information. TSMC declined to remark on the reports, while Intel did not immediately respond to a request for comment. Intel’s foundry division produces chips for third-party customers. The business has long been the subject of deal speculation, including a report last month that TSMC approached several other chipmakers about a joint venture to operate Intel’s chipmaking facilities. The report of a tentative deal also comes less than a day after President Trump announced a sweeping package of tariffs against goods imported from other countries. Intel shares gained 2% Thursday, while TSMC shares lost close to 8% amid a broad-based decline as worries about the new tariffs rattled markets. (Read Investopedia's live coverage of today's markets here.)
---------------------------------------------------
-
-Title: Declines of Nvidia (NVDA), Taiwan Semi (TSM) Will Prove Overdone in the Long-Term, Analyst Says
-URL: https://finance.yahoo.com/news/declines-nvidia-nvda-taiwan-semi-150005428.html
-Time Published: 2025-04-03T15:00:05Z
-Description: Over the long term, today’s declines of Nvidia (NVDA) and Taiwan Semi (TSM) will prove to be overdone, Wedbush analyst Matt Bryson told CNBC today. However, ...
---------------------------------------------------
-
-Title: Stock market today: Nasdaq futures lead stock plunge, Dow drops 1,000 points as Trump's punishing tariffs rip through markets
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-futures-lead-stock-plunge-dow-drops-1000-points-as-trumps-punishing-tariffs-rip-through-markets-000611007.html
-Time Published: 2025-04-03T00:06:57Z
-Description: US stock futures plunged after President Donald Trump announced 10% tariff on all US trading partners, sending shockwaves through markets and the global...
---------------------------------------------------
