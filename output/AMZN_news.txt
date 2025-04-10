@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Two Banks Lower Their Price Targets on Amazon (AMZN) Stock
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7a830a94-a9a1-4c40-80ec-e4905007a614
+Time Published: 2025-04-09T15:43:28Z
+Description: None
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq soar as Trump announces '90 day pause' on tariffs for most countries, ups levies on China
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-as-trump-announces-90-day-pause-on-tariffs-for-most-countries-ups-levies-on-china-133616912.html
+Time Published: 2025-04-09T13:36:16Z
+Description: US stocks were traded on both sides of the flat line in another volatile session as Wall Street girded for President Trump's massive tariffs.
+--------------------------------------------------
+
 Title: ASX market correction presents rare buying opportunities
 URL: https://www.fool.com.au/2025/04/09/asx-market-correction-presents-rare-buying-opportunities/
 Time Published: 2025-04-09T01:55:00Z
