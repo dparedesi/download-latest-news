@@ -1,5 +1,18 @@
 List of news related to Amazon stock price AMZN:
 
+Title: ASX market correction presents rare buying opportunities
+URL: https://www.fool.com.au/2025/04/09/asx-market-correction-presents-rare-buying-opportunities/
+Time Published: 2025-04-09T01:55:00Z
+Description: With the All Ords in market correction territory, many quality ASX stocks look to be trading at long-term bargain levels.
+The post ASX market correction presents rare buying opportunities appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: Is Amazon.com, Inc. (AMZN) the Best Big Data Stock to Buy According to Analysts?
+URL: https://finance.yahoo.com/news/amazon-com-inc-amzn-best-180552690.html
+Time Published: 2025-04-08T18:05:52Z
+Description: We recently published a list of 13 Best Big Data Stocks to Buy According to Analysts. In this article, we are going to take a look at where Amazon.com, Inc. ...
+--------------------------------------------------
+
 Title: U.S. stock market today: Market rallies - Dow jumps 1,400 pts, Nasdaq up 3.6%, S&P 500 gains 3.4%; Apple, Tesla, Nvidia lead tech rally on easing trade fears and bullish sentiment — Is this the start of a sustained market comeback?
 URL: https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-today-market-rallies-dow-jumps-1400-pts-nasdaq-up-3-6-sp-500-gains-3-4-apple-tesla-nvidia-lead-tech-rally-on-easing-trade-fears-and-bullish-sentiment-is-this-the-start-of-a-sustained-market-comeback/articleshow/120099502.cms
 Time Published: 2025-04-08T15:11:31Z
@@ -18,30 +31,4 @@ Title: LTL stocks bloodied post-Liberation Day, estimates cut ahead of Q1 report
 URL: https://finance.yahoo.com/news/ltl-stocks-bloodied-post-liberation-110000341.html
 Time Published: 2025-04-07T11:00:00Z
 Description: Less-than-truckload stocks bore the brunt of Liberation Day tariffs, falling 18% on average following the announcement and adding to an already down year...
---------------------------------------------------
-
-Title: Retail Investors Pour $4,700,000,000 Into Stock Market in One Day Amid Market Meltdown: JPMorgan Chase
-URL: https://dailyhodl.com/2025/04/04/retail-investors-pour-4700000000-into-stock-market-in-one-day-amid-market-meltdown-jpmorgan-chase/
-Time Published: 2025-04-04T17:53:31Z
-Full Content:
-Retail investors are trying to time the market and take advantage of the multi trillion-dollar market meltdown triggered by Trump’s new tariffs. A new note to clients from JPMorgan Chase says mainstreet investors poured $4.7 billion into stocks on Thursday, representing the largest collective allocation in 10 years, reports Reuters. Retail is primarily buying small-cap technology stocks in its attempt to buy the dip – a sector that institutional investors have increasingly bet against. Retail investors are also focusing on Mag 7 stocks like Nvidia (NVDA) and Amazon (AMZN), although they are net sellers of Tesla (TSLA). More than $5 trillion has been wiped out of US markets in the past two days amid President Trump’s massive tariff hikes, which have sparked fears of a global trade war and an impending economic downturn. Today at time of publishing, the Dow Jones Industrial Average is down 1,602 points, representing a 3.9% drop, with the S&P 500 down 244 points for a 4.5% decline. Generated Image: Midjourney Covering the future of finance, including macro, bitcoin, ethereum, crypto, and web 3. Categories Bitcoin • Ethereum • Trading • Altcoins • Futuremash • Financeflux • Blockchain • Regulators • Scams • HodlX • Press Releases ABOUT US | EDITORIAL POLICY | PRIVACY POLICY TERMS AND CONDITIONS | CONTACT | ADVERTISE JOIN US ON TELEGRAM JOIN US ON X JOIN US ON FACEBOOK COPYRIGHT © 2017-2025 THE DAILY HODL © 2025 The Daily Hodl
---------------------------------------------------
-
-Title: Warren Buffet's market wisdom when stocks fall is all in this 19th century poem
-URL: https://qz.com/warren-buffet-berkshire-hathaway-trump-tariffs-dow-tech-1851774798
-Time Published: 2025-04-04T16:35:00Z
-Full Content:
-This week, President Donald Trump’s new tariffs sent shockwaves through the stock market, triggering a sharp sell-off as investors reacted to escalating trade tensions between the U.S. and China. The Dow Jones Industrial Average plunged 1,400 points, marking one of its steepest declines in years. As the Magnificent 7 tech stocks – Amazon (AMZN+9.56%), Apple, and Tesla (TSLA+19.44%) among them – slid, concerns about price increases and supply chain disruptions began to grow. In times like these, many investors look for guidance when the market turns volatile. Warren Buffet, the chairman of Berkshire Hathaway (BRK.A+4.10%), has some advice when market declines occur: Stay calm and avoid panic. In his 2017 shareholder letter, Buffet stressed the importance of sticking to a long-term strategy, regardless of how volatile the market becomes. “When major declines occur ... that’s the time to heed these lines,” Buffet noted, pointing to Rudyard Kipling’s 19th century poem “If–.” “If you can keep your head when all about you are losing theirs . . . If you can wait and not be tired by waiting . . . If you can think – and not make thoughts your aim . . . If you can trust yourself when all men doubt you... Yours is the Earth and everything that’s in it.” Buffet added that the market will always experience ups and down, and investing involves the risk that the expected objective won’t always be attained. “The light can go from green to red without pausing at yellow,” he said. Those who stay financially secure and patient during downturns are the ones who ultimately emerge stronger, he added. As Trump’s tariffs continue to rattle markets, create uncertainty, and spark volatility, Buffet’s advice is more relevant than ever. The legendary investor has previously likened the tariffs to “an act of war,” partly because “the Tooth Fairy doesn’t pay ‘em!” Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
---------------------------------------------------
-
-Title: Wall Street now hates these 10 stocks because of Trump tariffs
-URL: https://finance.yahoo.com/news/wall-street-now-hates-these-10-stocks-because-of-trump-tariffs-135445636.html
-Time Published: 2025-04-04T13:54:45Z
-Description: Wall Street is wasting no time adjusting their views on certain stocks in the wake of bruising Trump tariffs.
---------------------------------------------------
-
-Title: Wall Street hunts for cheap tariff-proof stocks after the carnage
-URL: https://finance.yahoo.com/news/wall-street-hunts-for-cheap-tariff-proof-stocks-after-the-carnage-124255618.html
-Time Published: 2025-04-04T12:42:55Z
-Description: The hunt for cheap stocks begins.
 --------------------------------------------------
