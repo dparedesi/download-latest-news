@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Veteran fund manager revises Marvell position after big M&A deal
+URL: https://www.thestreet.com/investing/veteran-fund-manager-revises-marvell-position-after-big-m-a-deal
+Time Published: 2025-04-08T23:33:00Z
+Description: The lead portfolio manager for TheStreet Pro Portfolio takes a hard look at the AI-chip maker.
+--------------------------------------------------
+
 Title: Stock market today: Dow loses steam as S&P 500, Nasdaq reverse gains after early rally, White House confirms 104% tariffs on China
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-loses-steam-sp-500-nasdaq-reverse-gains-as-white-house-confirms-104-tariffs-on-china-173605365.html
 Time Published: 2025-04-08T17:36:05Z
