@@ -1,5 +1,19 @@
 List of news related to NVIDIA NVDA:
 
+Title: The 3 ASX ETFs I'd buy to build a bulletproof portfolio
+URL: https://www.fool.com.au/2025/04/13/the-3-asx-etfs-id-buy-to-build-a-bulletproof-portfolio/
+Time Published: 2025-04-12T18:30:00Z
+Description: These funds could be great options for investors that are building a strong portfolio.
+The post The 3 ASX ETFs I'd buy to build a bulletproof portfolio appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: Apple, Nvidia, and Microsoft can 'breathe a huge sigh of relief' after Trump's China tariff exemptions
+URL: https://qz.com/trump-tariff-exemptions-china-apple-microsoft-nvidia-1851775941
+Time Published: 2025-04-12T17:39:00Z
+Full Content:
+The ever-growing U.S. tariffs on imports from China won’t bite Big Tech so badly after all, after the Trump administration late Friday laid out significant exemptions from its wider trade war that include smartphones, laptop computers, chips, and more. The exemptions, published by U.S. Customs and Border Protection, amount to a huge break for tech giants such as Apple (AAPL), Nvidia (NVDA), and Microsoft (MSFT), and for the broader tech industry, even as uncertainty persists over the direction of President Donald Trump’s trade war. It means some of the most crucial and high-end technology imports — which overwhelmingly aren’t made in the U.S. — won’t be subject to Trump’s 125% tariff on China, or his baseline 10% tariff on almost every other country. A Wall Street analyst quickly called it “the best news possible for tech investors.” “The U.S. tech industry has a loud voice and despite initial strong pushback against exemptions within the White House, the reality of the situation was finally recognized in the Beltway,” Wedbush Securities analyst Dan Ives wrote in a note Saturday. “There is still clear uncertainty and volatility ahead with these China negotiations. Big Tech firms like Apple, Nvidia, Microsoft and the broader tech industry can breathe a huge sigh of relief this weekend into Monday.” The exemptions follow a pattern from Trump’s first term, when Apple in particular saw significant success in lobbying Trump for trade war carveouts. Making products such as the iPhone in America would be almost economically impossible. Wedbush had warned earlier this month that Apple faced a “complete disaster” from the China tariffs. And the Trump administration’s move came as its trade war has driven days of volatility in financial markets, as well as cratering consumer confidence and growing recession fears. Ives called the exemptions “a big step forward for U.S. tech to get these exemptions and the most bullish news we could have heard this weekend. ... Big Tech is back off the cliff with these exemptions and this changes the entire situation for tech stocks with this black swan event for the industry removed.” Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
+--------------------------------------------------
+
 Title: NVIDIA Corporation (NVDA): Cantor Calls Nvidia the Top AI Bet with Massive Upside Potential
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ae22ba93-922f-4cb6-ade6-76f8367624f6
 Time Published: 2025-04-12T16:09:52Z
