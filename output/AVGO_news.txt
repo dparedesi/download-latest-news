@@ -54,28 +54,3 @@ URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-so
 Time Published: 2025-04-09T13:36:16Z
 Description: US stocks were traded on both sides of the flat line in another volatile session as Wall Street girded for President Trump's massive tariffs.
 --------------------------------------------------
-
-Title: Veteran fund manager revises Marvell position after big M&A deal
-URL: https://www.thestreet.com/investing/veteran-fund-manager-revises-marvell-position-after-big-m-a-deal
-Time Published: 2025-04-08T23:33:00Z
-Description: The lead portfolio manager for TheStreet Pro Portfolio takes a hard look at the AI-chip maker.
---------------------------------------------------
-
-Title: Stock market today: Dow loses steam as S&P 500, Nasdaq reverse gains after early rally, White House confirms 104% tariffs on China
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-loses-steam-sp-500-nasdaq-reverse-gains-as-white-house-confirms-104-tariffs-on-china-173605365.html
-Time Published: 2025-04-08T17:36:05Z
-Description: Investors are digesting tariff whiplash after the White House confirmed plans to levy 104% tariffs on China, set to go into effect at 12:01am ET.
---------------------------------------------------
-
-Title: Broadcom (AVGO) Chart Analyzed, Options Trade Proposed in Wake of Today’s Rally
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b1e6054a-6f8a-4695-9d3a-103b80b8328c
-Time Published: 2025-04-08T16:54:23Z
-Description: None
---------------------------------------------------
-
-Title: Nvidia stock pops 8% as chip stocks rise on hopes for tariff relief
-URL: https://qz.com/chip-stocks-rising-nvidia-broadcom-intel-1851775238
-Time Published: 2025-04-08T15:03:00Z
-Full Content:
-After taking a beating for the past week, chip stocks climbed Tuesday morning as part of a broader market rally. Nvidia (NVDA) shares had lost almost 15% over the previous three trading sessions but had clawed back 8% by midday Tuesday before retreating slightly. Meanwhile, other leading chip makers, including Broadcom (AVGO), Intel (INTC), Micron Technology (MU), Lam Research (LRCX), Applied Materials (AMAT), Samsung, and Cisco (CSCO) were also up Tuesday. Nvidia’s slide accelerated last week after HSBC analyst Frank Lee downgraded the stock from a “buy” to a “hold,” noting that Nvidia’s earnings and guidance beats in the last three quarters have been shrinking due to “increasing market focus on Nvidia’s earnings as well ongoing uncertainty over its Blackwell supply chain ramp-up.” Meanwhile, other chip stocks were getting better reviews from analysts. For instance, GuruFocus research shows that Broadcom has received a “Strong Buy” rating from nearly 88% of brokerage analysts. Trump’s trade war had sunk chip stocks as fears over slowing demand and high prices took hold. However, semiconductors are exempt from new tariff rates imposed on a slate of countries, which should insulate chip makers from some tariff turmoil. Also of concern: Data centers planned by major IT companies have been delayed or shelved as uncertainty surrounding ROI increases. Microsoft (MSFT) announced yesterday that it has abandoned its $1 billion data center project in Licking County, Ohio, citing a strategic investment review. Data centers are a key driver of chip manufacturing growth. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
---------------------------------------------------
