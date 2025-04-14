@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: 5 big analyst AI moves: Apple upgraded after pullback, Citi cautious on Nvidia
+URL: https://finance.yahoo.com/news/5-big-analyst-ai-moves-103010519.html
+Time Published: 2025-04-13T10:30:10Z
+Description: Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.
+--------------------------------------------------
+
 Title: The 3 ASX ETFs I'd buy to build a bulletproof portfolio
 URL: https://www.fool.com.au/2025/04/13/the-3-asx-etfs-id-buy-to-build-a-bulletproof-portfolio/
 Time Published: 2025-04-12T18:30:00Z
