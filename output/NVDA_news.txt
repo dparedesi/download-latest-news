@@ -45,14 +45,14 @@ Time Published: 2025-04-11T13:48:20Z
 Description: None
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq edge lower after China signals tariff restraint, bank earnings roll in
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-after-china-hits-back-in-trade-war-bank-earnings-roll-in-133100286.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as bond yields surge, China-US trade war in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-bond-yields-surge-china-us-trade-war-in-focus-133100857.html
 Time Published: 2025-04-11T13:31:00Z
 Description: Wall Street is set to wrap up another week of tariff-fueled turmoil.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as bond yields surge, China-US trade war in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-bond-yields-surge-china-us-trade-war-in-focus-133100857.html
+Title: Stock market today: Dow, S&P 500, Nasdaq edge lower after China signals tariff restraint, bank earnings roll in
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-after-china-hits-back-in-trade-war-bank-earnings-roll-in-133100286.html
 Time Published: 2025-04-11T13:31:00Z
 Description: Wall Street is set to wrap up another week of tariff-fueled turmoil.
 --------------------------------------------------
