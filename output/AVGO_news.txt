@@ -48,21 +48,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e8c26526
 Time Published: 2025-04-10T12:41:13Z
 Description: None
 --------------------------------------------------
-
-Title: Broadcom Inc. (AVGO): One of the High Growth Dividend Paying Stocks to Invest in
-URL: https://finance.yahoo.com/news/broadcom-inc-avgo-one-high-201955948.html
-Time Published: 2025-04-09T20:19:55Z
-Description: We recently published a list of the 10 High Growth Dividend Paying Stocks to Invest in. In this article, we are going to take a look at where Broadcom Inc. (...
---------------------------------------------------
-
-Title: Taiwan Semiconductor Stock Rebounds After 4-Day Slide
-URL: https://www.investors.com/news/technology/tsm-stock-taiwan-semiconductor-rebounds-after-4-day-slide/
-Time Published: 2025-04-09T18:42:33Z
-Description: Taiwan Semiconductor Manufacturing faces a host of challenges that have weighed on TSM stock lately. But TSM stock rose Wednesday.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq soar as Trump announces '90 day pause' on tariffs for most countries, ups levies on China
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-as-trump-announces-90-day-pause-on-tariffs-for-most-countries-ups-levies-on-china-133616912.html
-Time Published: 2025-04-09T13:36:16Z
-Description: US stocks were traded on both sides of the flat line in another volatile session as Wall Street girded for President Trump's massive tariffs.
---------------------------------------------------
