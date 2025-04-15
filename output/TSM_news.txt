@@ -1,5 +1,18 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Nvidia Says It Will Make AI Supercomputers in US, With $500B Commitment to AI Infrastructure
+URL: https://www.investopedia.com/nvidia-says-it-will-make-ai-supercomputers-in-us-with-usd500b-commitment-to-ai-infrastructure-11714581
+Time Published: 2025-04-14T16:24:23Z
+Full Content:
+Nvidia (NVDA) on Monday announced plans to build supercomputers entirely in the U.S., with the chipmaker and its partners set to invest up to $500 billion in American AI infrastructure over the next four years. “The engines of the world’s AI infrastructure are being built in the United States for the first time,” Nvidia CEO Jensen Huang said in a release, adding "American manufacturing helps us better meet the incredible and growing demand for AI chips and supercomputers, strengthens our supply chain and boosts our resiliency.” Nvidia said its supercomputer manufacturing plants in Texas, being built in partnership with Foxconn and Wistron, are set to ramp production in the next 12 to 15 months. The chipmaker said its Blackwell chips have already started production at Taiwan Semiconductor Manufacturing Company's (TSM) facilities in Arizona. Nvidia shares were about 1% lower in recent trading, and have fallen about 18% since the start of the year, as concerns about tariffs and other factors have weighed on tech giants.
+--------------------------------------------------
+
+Title: Is Taiwan Semiconductor Manufacturing (TSM) the Top Stock in Ken Griffin’s Portfolio to Buy According to Analysts?
+URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-tsm-top-130818655.html
+Time Published: 2025-04-14T13:08:18Z
+Description: We recently published a list of Top 10 Stocks in Ken Griffin’s Portfolio to Buy According to Analysts. In this article, we are going to take a look at where ...
+--------------------------------------------------
+
 Title: Is Taiwan Semiconductor Manufacturing (TSM) the Top Tech Stock to Buy According to Billionaire Ken Fisher?
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dcb0802b-7d02-419d-ab80-13b88867b0a2
 Time Published: 2025-04-11T15:07:30Z
