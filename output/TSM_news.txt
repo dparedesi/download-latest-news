@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Nvidia Announces Plans For U.S.-Made AI Supercomputers
+URL: https://www.investors.com/news/technology/nvidia-stock-us-made-ai-supercomputers/
+Time Published: 2025-04-14T17:23:06Z
+Description: Nvidia announced plans to make artificial intelligence supercomputers in the U.S. with its partners. Nvidia stock was little changed.
+--------------------------------------------------
+
 Title: Nvidia Says It Will Make AI Supercomputers in US, With $500B Commitment to AI Infrastructure
 URL: https://www.investopedia.com/nvidia-says-it-will-make-ai-supercomputers-in-us-with-usd500b-commitment-to-ai-infrastructure-11714581
 Time Published: 2025-04-14T16:24:23Z
