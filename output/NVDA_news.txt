@@ -1,9 +1,29 @@
 List of news related to NVIDIA NVDA:
 
+Title: K-Means Clustering Analysis of Apple, Microsoft, and Nvidia
+URL: https://www.r-bloggers.com/2025/04/k-means-clustering-analysis-of-apple-microsoft-and-nvidia/
+Time Published: 2025-04-15T10:33:20Z
+Full Content:
+Posted on April 15, 2025 by Selcuk Disci in R bloggers | 0 Comments The exemption of key electronic components from tariffs is likely to positively impact Apple more, which manufactures approximately 90% of its iPhones in China, compared to other tech giants like Microsoft and Nvidia. Furthermore, the k-means clustering chart shows that Apple has diverged year to date, specifically after the April 2 tariffs. Source code: Copyright © 2025 | MH Corporate basic by MH Themes
+--------------------------------------------------
+
+Title: Where to invest $10,000 into ASX ETFs in April
+URL: https://www.fool.com.au/2025/04/15/where-to-invest-10000-into-asx-etfs-in-april/
+Time Published: 2025-04-15T08:30:00Z
+Description: Here are a couple of funds that could be great destinations for your hard-earned money this month.
+The post Where to invest $10,000 into ASX ETFs in April appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
 Title: Nvidia (NVDA) Stock Slides as Market Rises: Facts to Know Before You Trade
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7d505303-4cf4-44df-a36a-69b56adbc09d
 Time Published: 2025-04-14T21:45:15Z
 Description: None
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq rally for 2nd day, Apple jumps on tech tariff reprieve
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-for-2nd-day-apple-jumps-on-tech-tariff-reprieve-200038586.html
+Time Published: 2025-04-14T20:00:38Z
+Description: Wall Street is bracing for another week of tariff-fueled whiplash.
 --------------------------------------------------
 
 Title: Jim Cramer Urges NVIDIA (NVDA) Holders: “Don’t Be Shaken Out by Wall Street”

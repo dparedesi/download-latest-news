@@ -6,6 +6,12 @@ Time Published: 2025-04-14T23:04:37Z
 Description: US stock futures fell as President Trump's rapid trade policy shifts kept investors on edge ahead of the next batch of corporate earnings.
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq rally for 2nd day, Apple jumps on tech tariff reprieve
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-for-2nd-day-apple-jumps-on-tech-tariff-reprieve-200038586.html
+Time Published: 2025-04-14T20:00:38Z
+Description: Wall Street is bracing for another week of tariff-fueled whiplash.
+--------------------------------------------------
+
 Title: Bullish Notes Issued on Amazon (AMZN), JPMorgan (JPM)
 URL: https://finance.yahoo.com/news/bullish-notes-issued-amazon-amzn-182741554.html
 Time Published: 2025-04-14T18:27:41Z
