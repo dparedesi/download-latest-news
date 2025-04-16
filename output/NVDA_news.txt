@@ -1,5 +1,24 @@
 List of news related to NVIDIA NVDA:
 
+Title: Tale of 2 playbooks: As mom and pop rush in, the smart money backs off
+URL: https://qz.com/investor-flows-nasdaq-dow-s-p-500-gs-1851776287
+Time Published: 2025-04-15T17:42:00Z
+Full Content:
+As markets swing wildly on tariff headlines and economic uncertainty, a curious split is emerging: Retail investors are diving in, while institutional players are stepping back. Even as big banks report blowout trading revenue, the underlying behavior suggests churn — not conviction. Retail flows into U.S. stocks have surged this past week, with everyday investors “aggressively buying the dip,” according to Vanda Research, even as volatility spikes and recession warnings linger. Trading app data shows a notable uptick in activity, especially among tech names and single-stock bets. In short: Main Street is leaning in. Hedge funds have slashed their equity exposure by nearly $45 billion over the past 30 days, according to data shared by The Kobeissi Letter, marking a sharp divergence from the retail crowd. While the pullback intensified following Trump’s April 2 “Liberation Day” speech, when tariff rhetoric escalated and volatility spiked, the retreat has been underway for months. Goldman Sachs (GS) reported that hedge funds sold the largest volume of stocks in a single week since 2010, according to a client note reviewed by Reuters. That week followed Liberation Day — but it capped a broader selloff that began earlier this year. In fact, back in February, Goldman flagged that hedge funds were already unloading global equities at the most aggressive pace since 2013, dumping nearly every sector except real estate as tariff announcements began to roll out. The selling has been broad-based, spanning regions and industries, with IG describing the pace as “unprecedented” and highlighting the move as a clear signal of mounting risk aversion. The timing matters: Major U.S. indexes have yet to recover to pre–Liberation Day levels, and professional money managers appear more cautious in the face of policy whiplash. Rather than piling into rebounds, many seem to be reallocating or sitting tight — reflecting a stark contrast with retail investors still buying dips. Looking further out, stocks remain broadly underwater for the year, with the S&P 500 down around 8%, the Dow off about 5%, and the Nasdaq trailing with a 12% decline. Small-cap stocks have been hit even harder, with the Russell 2000 down more than 15% year-to-date. In contrast, gold has emerged as a standout performer, with the PHLX Gold/Silver Index up nearly 39% amid rising demand for (at least perceived) safe-haven assets. Goldman Sachs, JPMorgan Chase (JPM), and Morgan Stanley (MS) made over $12 billion in equities trading revenue in the first quarter, capitalizing on surging client activity. But the story isn’t necessarily one of aggressive bets on battered stocks — it’s one of reaction and repositioning. Busy trading desks signal motion, not conviction. Apple (AAPL), Microsoft (MSFT), Nvidia (NVDA), and other retail/institutional favorites are still under pressure. If “buy the dip” enthusiasm was dominant among pros, you’d likely see stronger rebounds in these names. Similarly, if broad-based bullish conviction were driving flows, we’d likely see sharper index recoveries. So, while the earnings boom reflects the central role these firms play in helping clients reposition quickly in response to shocks, it does not always signal bullish sentiment. Just now, it may signal the opposite. While institutional players are rotating, rebalancing, or simply waiting things out, retail investors appear to be betting on a comeback—or perhaps are just conditioned by years of dip-buying muscle memory. Whether that confidence is rewarded or punished will depend on what happens next in Washington and on Wall Street. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
+--------------------------------------------------
+
+Title: Advanced Micro Devices, Inc. (AMD): Faces China Risk and Nvidia’s Lead
+URL: https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-172154696.html
+Time Published: 2025-04-15T17:21:54Z
+Description: We recently published a list of 10 AI Stocks to Watch Amid Market Volatility. In this article, we are going to take a look at where Advanced Micro Devices...
+--------------------------------------------------
+
+Title: NVIDIA Corporation (NVDA): Shielded from China Tariffs, Says BofA
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4e197625-1c58-439f-8630-4db0ec31eb6d
+Time Published: 2025-04-15T17:14:32Z
+Description: None
+--------------------------------------------------
+
 Title: Nvidia (NVDA) Is “Best Place to Hide Right Now,” Analyst Says
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7b956281-4a79-4e06-9d8f-e909e3379251
 Time Published: 2025-04-15T14:44:08Z

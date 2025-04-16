@@ -1,5 +1,11 @@
 List of news related to Vanguard Group Inc:
 
+Title: Malwarebytes detecting outbound trojan connection from system32/dllhost.exe.
+URL: https://www.bleepingcomputer.com/forums/t/807598/malwarebytes-detecting-outbound-trojan-connection-from-system32dllhostexe/
+Time Published: 2025-04-15T18:50:12Z
+Description: Malwarebytes detecting outbound trojan connection from system32/dllhost.exe. - posted in Virus, Trojan, Spyware, and Malware Removal Help: Hello, I have never posted to a forum like this but I have been having an issue recently and based on some of the other …
+--------------------------------------------------
+
 Title: One Label Under Blackmail: The Early Intersections of Diddy and the Epstein Network
 URL: https://www.activistpost.com/one-label-under-blackmail-the-early-intersections-of-diddy-and-the-epstein-network/
 Time Published: 2025-04-15T16:00:00Z
