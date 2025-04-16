@@ -6,6 +6,12 @@ Time Published: 2025-04-14T23:04:37Z
 Description: US stock futures fell as President Trump's rapid trade policy shifts kept investors on edge ahead of the next batch of corporate earnings.
 --------------------------------------------------
 
+Title: Bullish Notes Issued on Amazon (AMZN), JPMorgan (JPM)
+URL: https://finance.yahoo.com/news/bullish-notes-issued-amazon-amzn-182741554.html
+Time Published: 2025-04-14T18:27:41Z
+Description: Investment banks JMP Securities and CFRA today issued bullish notes on Amazon (AMZN) and JPMorgan (JPM), respectively. However, both banks cut their price...
+--------------------------------------------------
+
 Title: Is JPMorgan Chase & Co. (JPM) The Cheap NYSE Stock to Invest in According to Hedge Funds?
 URL: https://finance.yahoo.com/news/jpmorgan-chase-co-jpm-cheap-204524668.html
 Time Published: 2025-04-11T20:45:24Z
