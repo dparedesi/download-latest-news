@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Exclusive-Nvidia kept some China customers in the dark about new US chip clampdown, sources say
+URL: https://finance.yahoo.com/news/exclusive-nvidia-kept-china-customers-071125162.html
+Time Published: 2025-04-16T07:11:25Z
+Description: Nvidia did not warn at least some major customers in advance about new U.S. export rules it was told about a week ago requiring it to obtain licenses to sell...
+--------------------------------------------------
+
+Title: Chipmaker stocks slide as Nvidia faces $5.5B charge with US restrictions
+URL: https://cointelegraph.com/news/chip-maker-stocks-slide-nvidia-faces-us-ai-chip-restrictions
+Time Published: 2025-04-16T06:03:52Z
+Description: Chipmaking giants Nvidia and AMD have seen their share prices slide in after-hours trading after Nvidia said US restrictions on artificial intelligence chips to China would cause it to face major costs.Nvidia stated in an April 15 regulatory filing that it is…
+--------------------------------------------------
+
 Title: NVIDIA Blackwell GeForce RTX がすべてのゲーマー向けに登場、価格は 299 ドルから
 URL: https://prtimes.jp/main/html/rd/p/000000532.000012662.html
 Time Published: 2025-04-16T04:46:46Z
