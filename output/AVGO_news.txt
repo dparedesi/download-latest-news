@@ -1,5 +1,12 @@
 List of news related to Broadcom AVGO:
 
+Title: Why New China Chip Export Curbs Could Affect Far More Than Just Nvidia, AMD
+URL: https://www.investopedia.com/why-new-china-chip-export-curbs-could-affect-far-more-than-just-nvidia-amd-11717188
+Time Published: 2025-04-17T16:38:53Z
+Full Content:
+Tech losses weighed on the major indexes Thursday, extending yesterday's sell-off amid worries tightening restrictions on exports to China could have wide-reaching impacts. The tech sector led losses on the S&P 500 as shares of Nvidia (NVDA) dropped over 3% in recent trading, making it one of the leading decliners on the Dow Jones Industrial Average. The stock had tumbled close to 7% Wednesday after the chipmaker said it's set to take a $5.5 billion charge due to new export curbs on the sale of its H20 chips to China. Shares of Advanced Micro Devices (AMD), which also warned it would likely take a hit from new China export restrictions, slipped 1%. Broadcom (AVGO), Micron Technology (MU), and other semiconductor stocks were lower as well, along with shares of server maker and Nvidia partner Super Micro Computer (SMCI) and several other AI hardware makers. (Read Investopedia's live coverage of today's market action here.) "Rising AI restrictions are likely to impact other key AI-levered computing, networking and optical stocks (AVGO, AMD, MU, ARM, MRVL, COHR, LITE) and raise concerns around enhanced restrictions in other areas," Bank of America analysts said following the news from Nvidia. Like Morgan Stanley analysts, they added Nvidia's write-down indicates a "low probability of future licenses" to circumvent the new restrictions, and that AI diﬀusion rules set to take effect in May could further limit sales of American AI hardware to a broader set of countries. Wedbush analysts told clients in a note Thursday, "We expect hardly any tech companies to give guidance over the next month given this Twilight Zone backdrop. While the Nvidia news is concerning it's not a shock as we are in the middle of a trade war between the US and China and expect more punches thrown by both sides before cooler heads prevail and negotiations in some form can begin to play out over the coming weeks/months."
+--------------------------------------------------
+
 Title: Traders Expect a Big Netflix Stock Move After Earnings—Here’s How Much
 URL: https://www.investopedia.com/traders-expect-a-big-netflix-stock-move-after-earnings-here-is-how-much-11716319
 Time Published: 2025-04-16T21:04:08Z
