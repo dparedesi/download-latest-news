@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Is Broadcom Inc. (AVGO) the Best Blue Chip Stock to Buy According to Billionaires?
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b37fe9eb-f6c2-47e6-a95d-044466310c7f
+Time Published: 2025-04-16T19:16:23Z
+Description: None
+--------------------------------------------------
+
 Title: Jim Cramer: Broadcom (AVGO) Needs “Recognition” Beyond the White House—“Orders Are Good”
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_204f2c53-2ca4-4931-9903-92e2488cdf7f
 Time Published: 2025-04-16T13:24:59Z
@@ -66,11 +72,4 @@ Title: 5 big analyst AI moves: Apple upgraded after pullback, Citi cautious on N
 URL: https://finance.yahoo.com/news/5-big-analyst-ai-moves-103010519.html
 Time Published: 2025-04-13T10:30:10Z
 Description: Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.
---------------------------------------------------
-
-Title: The 3 ASX ETFs I'd buy to build a bulletproof portfolio
-URL: https://www.fool.com.au/2025/04/13/the-3-asx-etfs-id-buy-to-build-a-bulletproof-portfolio/
-Time Published: 2025-04-12T18:30:00Z
-Description: These funds could be great options for investors that are building a strong portfolio.
-The post The 3 ASX ETFs I'd buy to build a bulletproof portfolio appeared first on The Motley Fool Australia.
 --------------------------------------------------
