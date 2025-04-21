@@ -31,9 +31,3 @@ URL: https://cointelegraph.com/news/chip-maker-stocks-slide-nvidia-faces-us-ai-c
 Time Published: 2025-04-16T06:03:52Z
 Description: Chipmaking giants Nvidia and AMD have seen their share prices slide in after-hours trading after Nvidia said US restrictions on artificial intelligence chips to China would cause it to face major costs.Nvidia stated in an April 15 regulatory filing that it is…
 --------------------------------------------------
-
-Title: Advanced Micro Devices, Inc. (AMD): Faces China Risk and Nvidia’s Lead
-URL: https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-172154696.html
-Time Published: 2025-04-15T17:21:54Z
-Description: We recently published a list of 10 AI Stocks to Watch Amid Market Volatility. In this article, we are going to take a look at where Advanced Micro Devices...
---------------------------------------------------
