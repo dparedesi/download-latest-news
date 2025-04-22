@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Former Intel CEO on Nvidia: You have to be 10x better to dethrone the king
+URL: https://finance.yahoo.com/news/former-intel-ceo-on-nvidia-you-have-to-be-10x-better-to-dethrone-the-king-171633066.html
+Time Published: 2025-04-21T17:16:33Z
+Description: Closing the gap with the AI chip leader won't be easy.
+--------------------------------------------------
+
 Title: Chicken, crypto and Nvidia: The companies that helped Trump’s inauguration shatter fundraising records
 URL: https://finance.yahoo.com/news/chicken-crypto-and-nvidia-the-companies-that-helped-trumps-inauguration-shatter-fundraising-records-160942136.html
 Time Published: 2025-04-21T16:09:42Z
