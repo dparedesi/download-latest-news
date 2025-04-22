@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: The biggest questions facing Big Tech ahead of earnings
+URL: https://www.cnbc.com/2025/04/21/tech-earnings-trump-tariffs-tesla-apple-alphabet-meta-microsoft-amazon-nvidia.html
+Time Published: 2025-04-21T13:19:32Z
+Description: All of the megacap companies have significant exposure to President Donald Trump's sweeping tariffs, which will be a major topic on earnings calls.
+--------------------------------------------------
+
 Title: Microsoft’s (MSFT) AI Power Play Trumps Ongoing Tariff War
 URL: https://finance.yahoo.com/news/microsoft-msft-ai-power-play-105550417.html
 Time Published: 2025-04-19T10:55:50Z
