@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures sink with Trump's tariffs, Fed bashing in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-with-trumps-tariffs-fed-bashing-in-focus-070402536.html
+Time Published: 2025-04-21T07:04:02Z
+Description: Investors prepared for another week of developments on President Trump's fast-moving tariff policies and for the kickoff of Big Tech earnings reports.
+--------------------------------------------------
+
+Title: TSMC warns of limits of ability to keep its AI chips from China
+URL: https://finance.yahoo.com/news/tsmc-warns-limits-ability-keep-053115583.html
+Time Published: 2025-04-21T05:31:15Z
+Description: (Bloomberg) -- Taiwan Semiconductor Manufacturing Co. listed the challenges of ensuring export control compliance by its customers, months after the...
+--------------------------------------------------
+
 Title: Tesla's biggest fan on Wall Street says Elon Musk faces a 'Code Red Situation'
 URL: https://qz.com/tesla-q1-earnings-stock-elon-musk-doge-trump-1851776989
 Time Published: 2025-04-21T00:58:00Z
