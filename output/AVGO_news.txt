@@ -1,27 +1,19 @@
 List of news related to Broadcom AVGO:
 
+Title: Is Broadcom Inc. (AVGO) the Most Promising Long-Term Stock According to Analysts?
+URL: https://finance.yahoo.com/news/broadcom-inc-avgo-most-promising-042510618.html
+Time Published: 2025-04-22T04:25:10Z
+Description: We recently published a list of the 11 Most Promising Long-Term Stocks According to Analysts. In this article, we are going to take a look at where Broadcom ...
+--------------------------------------------------
+
+Title: The Future of Compute: Nvidia's Crown Is Slipping
+URL: https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia
+Time Published: 2025-04-21T22:06:14Z
+Description: Demand consolidation, changing compute mix, custom silicon, and distributed training will hurt NVIDIA's pole position.
+--------------------------------------------------
+
 Title: Is Broadcom Inc. (AVGO) the Best Long Term Stock to Buy According to Billionaires?
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c5a6f0de-844f-4220-a431-6be49cc15868
 Time Published: 2025-04-18T14:28:34Z
 Description: None
---------------------------------------------------
-
-Title: Purpose Investments Inc. Announces April 2025 Distributions
-URL: https://financialpost.com/globe-newswire/purpose-investments-inc-announces-april-2025-distributions
-Time Published: 2025-04-17T23:31:28Z
-Description: TORONTO, April 17, 2025 (GLOBE NEWSWIRE) — Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of April 2025 for its open-end exchange-traded funds and closed-end funds (“the Funds”). The ex-distribution date for all Open-E…
---------------------------------------------------
-
-Title: Purpose Investments Inc. Announces April 2025 Distributions
-URL: https://www.globenewswire.com/news-release/2025/04/17/3063921/0/en/Purpose-Investments-Inc-Announces-April-2025-Distributions.html
-Time Published: 2025-04-17T23:30:00Z
-Full Content:
-April 17, 2025 19:30 ET | Source: Purpose Investments Inc. Purpose Investments Inc. TORONTO, April 17, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of April 2025 for its open-end exchange-traded funds and closed-end funds (“the Funds”). The ex-distribution date for all Open-End Funds is April 28, 2025. The ex-distribution date for all closed-end funds is April 30, 2025. Estimated April 2025 Distributions for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund The April 2025 distribution rates for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund are estimated to be as follows: Purpose expects to issue a press release on or about April 25, 2025 , which will provide the final distribution rate for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund. The ex-distribution date will be April 28, 2025. (1) Dividend is designated as an “eligible” Canadian dividend for purposes of the Income Tax Act (Canada) and any similar provincial and territorial legislation.(2) Purpose US Preferred Share Fund Non-Currency Hedged – ETF Units have both a CAD and USD purchase option. Distribution per unit is declared in CAD, however, the USD purchase option (RPU.U) distribution will be made in the USD equivalent. Conversion into USD will use the end-of-day foreign exchange rate prevailing on the ex-distribution date. About Purpose Investments Inc. Purpose Investments is an asset management company with more than $21 billion in assets under management. Purpose Investments has an unrelenting focus on client-centric innovation and offers a range of managed and quantitative investment products. Purpose Investments is led by well-known entrepreneur Som Seif and is a division of Purpose Unlimited, an independent technology-driven financial services company. For further information please contact:Keera HartKeera.Hart@kaiserpartners.com905-580-1257 Commissions, trailing commissions, management fees and expenses all may be associated with investment fund investments. Please read the prospectus and other disclosure documents before investing. Investment funds are not covered by the Canada Deposit Insurance Corporation or any other government deposit insurer. There can be no assurance that the full amount of your investment in a fund will be returned to you. If the securities are purchased or sold on a stock exchange, you may pay more or receive less than the current net asset value. Investment funds are not guaranteed, their values change frequently and past performance may not be repeated. TORONTO, April 21, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose” or “Purpose Investments”) announced today that it has changed the risk rating for Purpose Global Innovators Fund (TSX:... TORONTO, April 17, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”), the firm behind the world’s first spot Bitcoin ETF and spot Ether ETF, is expanding its digital asset suite with the...
---------------------------------------------------
-
-Title: Why New China Chip Export Curbs Could Affect Far More Than Just Nvidia, AMD
-URL: https://www.investopedia.com/why-new-china-chip-export-curbs-could-affect-far-more-than-just-nvidia-amd-11717188
-Time Published: 2025-04-17T16:38:53Z
-Full Content:
-Tech losses weighed on the major indexes Thursday, extending yesterday's sell-off amid worries tightening restrictions on exports to China could have wide-reaching impacts. The tech sector led losses on the S&P 500 as shares of Nvidia (NVDA) dropped over 3% in recent trading, making it one of the leading decliners on the Dow Jones Industrial Average. The stock had tumbled close to 7% Wednesday after the chipmaker said it's set to take a $5.5 billion charge due to new export curbs on the sale of its H20 chips to China. Shares of Advanced Micro Devices (AMD), which also warned it would likely take a hit from new China export restrictions, slipped 1%. Broadcom (AVGO), Micron Technology (MU), and other semiconductor stocks were lower as well, along with shares of server maker and Nvidia partner Super Micro Computer (SMCI) and several other AI hardware makers. (Read Investopedia's live coverage of today's market action here.) "Rising AI restrictions are likely to impact other key AI-levered computing, networking and optical stocks (AVGO, AMD, MU, ARM, MRVL, COHR, LITE) and raise concerns around enhanced restrictions in other areas," Bank of America analysts said following the news from Nvidia. Like Morgan Stanley analysts, they added Nvidia's write-down indicates a "low probability of future licenses" to circumvent the new restrictions, and that AI diﬀusion rules set to take effect in May could further limit sales of American AI hardware to a broader set of countries. Wedbush analysts told clients in a note Thursday, "We expect hardly any tech companies to give guidance over the next month given this Twilight Zone backdrop. While the Nvidia news is concerning it's not a shock as we are in the middle of a trade war between the US and China and expect more punches thrown by both sides before cooler heads prevail and negotiations in some form can begin to play out over the coming weeks/months."
 --------------------------------------------------
