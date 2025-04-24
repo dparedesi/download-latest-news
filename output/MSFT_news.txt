@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Big Tech earnings kick off as tariff uncertainty continues to roil markets
+URL: https://finance.yahoo.com/news/big-tech-earnings-kick-off-as-tariff-uncertainty-continues-to-roil-markets-160016313.html
+Time Published: 2025-04-23T16:00:16Z
+Description: Big Tech is preparing for its first earnings since Trump launched his global trade war.
+--------------------------------------------------
+
 Title: Cloud Infrastructure Growth Could Cool This Year Despite AI Excitement, Analyst Says
 URL: https://www.investors.com/news/technology/amazon-stock-cloud-microsoft-google-tariffs-q1-outlook/
 Time Published: 2025-04-22T20:05:21Z

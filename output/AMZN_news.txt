@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Big Tech earnings kick off as tariff uncertainty continues to roil markets
+URL: https://finance.yahoo.com/news/big-tech-earnings-kick-off-as-tariff-uncertainty-continues-to-roil-markets-160016313.html
+Time Published: 2025-04-23T16:00:16Z
+Description: Big Tech is preparing for its first earnings since Trump launched his global trade war.
+--------------------------------------------------
+
 Title: Bitcoin analysts target $95K as Trump’s trade war cools — Do BTC futures agree?
 URL: https://cointelegraph.com/news/bitcoin-analysts-target-95k-as-trump-s-trade-war-cools-do-btc-futures-agree
 Time Published: 2025-04-22T21:21:13Z
