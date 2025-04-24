@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Taiwan Semiconductor (TSM) Target Trimmed to $215 as Analysts Say ‘Slowdown Makes Sense’
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ec4a907e-02de-4fab-ae6d-f117d29a5222
+Time Published: 2025-04-22T17:40:45Z
+Description: None
+--------------------------------------------------
+
 Title: Taiwan Semiconductor Manufacturing Company Limited (TSM) Upgraded to Buy as AI and iPhone Demand Drive Growth Despite Tariff Concerns
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_de53c7c3-7868-4b67-8c01-816ffe18243c
 Time Published: 2025-04-22T07:56:04Z
@@ -28,10 +34,4 @@ Title: Is Taiwan Semiconductor Manufacturing (TSM) the Best WallStreetBets Stoc
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7fa1abc2-5bb2-4990-99d0-7cc6109f89b7
 Time Published: 2025-04-19T20:08:23Z
 Description: None
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing (TSM) Expects AI Revenue to Double in 2025 Despite Tariff Uncertainty
-URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-tsm-expects-014118397.html
-Time Published: 2025-04-18T01:41:18Z
-Description: We recently published a list of 10 AI Stocks Surging on News Today. In this article, we are going to take a look at where Taiwan Semiconductor Manufacturing ...
 --------------------------------------------------
