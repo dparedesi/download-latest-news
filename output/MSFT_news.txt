@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Vertiv Gaining Share As AI Data-Center Buildout Continues, Says CEO
+URL: https://www.investors.com/news/technology/vertiv-stock-vrt-ai-data-center-buildout-continues/
+Time Published: 2025-04-24T17:37:40Z
+Description: Solid Q1 results from Vertiv reflect the continued growth of the AI data-center market and company-specific gains, the firm's CEO says.
+--------------------------------------------------
+
 Title: Jim Cramer Slams Microsoft Corporation (MSFT)’s Spending: ‘$80 Billion Isn’t Enough, Partner’
 URL: https://finance.yahoo.com/news/jim-cramer-slams-microsoft-corporation-005157311.html
 Time Published: 2025-04-24T00:51:57Z
@@ -19,14 +25,14 @@ Time Published: 2025-04-23T18:45:08Z
 Description: A number of stocks jumped in the afternoon session after President Trump clarified that he had no intention of removing Federal Reserve Chair Jerome Powell, ...
 --------------------------------------------------
 
-Title: Pure Storage, Health Catalyst, AMD, Micron, and FormFactor Stocks Trade Up, What You Need To Know
-URL: https://finance.yahoo.com/news/pure-storage-health-catalyst-amd-184507001.html
+Title: Wayfair, Robinhood, Noodles, Upstart, and AppLovin Shares Skyrocket, What You Need To Know
+URL: https://finance.yahoo.com/news/wayfair-robinhood-noodles-upstart-applovin-184507498.html
 Time Published: 2025-04-23T18:45:07Z
 Description: A number of stocks jumped in the morning session after President Trump clarified that he had no intention of removing Federal Reserve Chair Jerome Powell, a ...
 --------------------------------------------------
 
-Title: Wayfair, Robinhood, Noodles, Upstart, and AppLovin Shares Skyrocket, What You Need To Know
-URL: https://finance.yahoo.com/news/wayfair-robinhood-noodles-upstart-applovin-184507498.html
+Title: Pure Storage, Health Catalyst, AMD, Micron, and FormFactor Stocks Trade Up, What You Need To Know
+URL: https://finance.yahoo.com/news/pure-storage-health-catalyst-amd-184507001.html
 Time Published: 2025-04-23T18:45:07Z
 Description: A number of stocks jumped in the morning session after President Trump clarified that he had no intention of removing Federal Reserve Chair Jerome Powell, a ...
 --------------------------------------------------
