@@ -1,5 +1,17 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Taiwan Semiconductor Manufacturing Company Limited (TSM): Among Prem Watsa’s Stock Picks With Highest Potential
+URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-limited-140849017.html
+Time Published: 2025-04-23T14:08:49Z
+Description: We recently compiled a list of Billionaire Prem Watsa’s 10 Stock Picks With Highest Potential. In this article, we are going to take a look at where Taiwan...
+--------------------------------------------------
+
+Title: The buying opportunity of a lifetime is coming. But not before a 40% drop for the S&P 500, says this strategist.
+URL: https://www.marketwatch.com/story/the-buying-opportunity-of-a-lifetime-is-coming-but-not-before-a-40-drop-for-the-s-p-500-says-this-strategist-b3aa3bd5
+Time Published: 2025-04-23T13:35:00Z
+Description: Thomas Kee argues that the S 500 is far from being fairly valued, but what will be a painful process of correcting that is finally getting under way.
+--------------------------------------------------
+
 Title: Intel to announce plans this week to cut over 20% of staff
 URL: https://finance.yahoo.com/news/intel-announce-plans-week-cut-082610466.html
 Time Published: 2025-04-23T08:26:10Z
@@ -34,10 +46,4 @@ Title: Taiwan Semiconductor Manufacturing Company (TSM) Holds AI Line Through Ta
 URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-tsm-131843534.html
 Time Published: 2025-04-20T13:18:43Z
 Description: We recently published a list of Top 10 AI Stocks in the Spotlight This Week. In this article, we are going to take a look at where Taiwan Semiconductor...
---------------------------------------------------
-
-Title: Is Taiwan Semiconductor Manufacturing (TSM) the Best WallStreetBets Stock to Buy According to Hedge Funds?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7fa1abc2-5bb2-4990-99d0-7cc6109f89b7
-Time Published: 2025-04-19T20:08:23Z
-Description: None
 --------------------------------------------------
