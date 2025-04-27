@@ -1,5 +1,12 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: This Event Could Be the Next Catalyst for Intel's Stock
+URL: https://www.investopedia.com/this-event-could-be-the-next-catalyst-for-intel-stock-11722067
+Time Published: 2025-04-26T09:00:00Z
+Full Content:
+Shares of Intel (INTC) finished the week on a down note after its latest financial outlook disappointed investors. The stock’s next catalyst might be just a few days away. Lip-Bu Tan, who presided over the chip company’s quarterly results Thursday for the first time as CEO, will on Tuesday give the keynote address at an event associated with Intel’s Foundry business, which makes chips for other companies. Bank of America analysts in a Friday note said the event could be paired with the announcement of partnerships with other big tech firms. Intel has sought to grow the Foundry business; early last year, it spoke of ambitions to be the world’s second-largest foundry behind Taiwan Semiconductor Manufacturing Co. (TSM) by 2030. Its 2024 foundry revenue, however, fell from a year earlier—it came in north of $17 billion, roughly 30% of the company’s total—and its operating loss widened. This year reports have suggested that Intel might look to sell a stake in the Foundry operation to TSMC; that company, however, has denied talks. Investors were tracking the possibility that a spinoff or sale of Foundry might be in the works well before Tan took over. Investors continue to look for signs of dealmaking. Optimism about a range of possibilities, ranging all the way up to a sale of the entire company, has moved the shares in recent months. That could still be the case. But Tan has said cost-cutting is also a priority: On Thursday, while not formally announcing layoff plans reported earlier in the week, he made clear they are coming. Bank of America analysts, who have a neutral rating for Intel's stock and a $23 price target that is a few cents above the Street consensus compiled by Visible Alpha, said Intel is “too big to turn around quickly, but optionality [is] still there.” The stock has lost over a third of its value in the past year through Friday's close.
+--------------------------------------------------
+
 Title: Is Taiwan Semiconductor Manufacturing Co. Ltd. (NYSE:TSM) the Most Promising Stock According to Analysts?
 URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-co-ltd-203542420.html
 Time Published: 2025-04-25T20:35:42Z
