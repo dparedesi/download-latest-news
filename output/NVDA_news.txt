@@ -12,17 +12,17 @@ Time Published: 2025-04-26T14:22:45Z
 Description: None
 --------------------------------------------------
 
-Title: It’s time to buy tech stocks: 4 ways to find winners while the market is down
-URL: https://www.marketwatch.com/story/its-time-to-buy-tech-stocks-4-ways-to-find-winners-while-the-market-is-down-52b5ca92
-Time Published: 2025-04-26T13:00:00Z
-Description: Investors can take advantage of a chance to buy quality stocks at cheaper levels, and use tools that help them buy shares at the right price.
---------------------------------------------------
-
 Title: Nvidia stock slides, Apple gets a warning, and Tesla short-sellers cash in: Markets news roundup
 URL: https://qz.com/nvidia-apple-tesla-netflix-stock-markets-1851777876
 Time Published: 2025-04-26T13:00:00Z
 Full Content:
 2 / 11 Nvidia (NVDA) stock fell more than 6% Monday as investors digested growing fallout from the Biden and Trump administrations’ efforts to curb the company’s chip sales to China. Read More 3 / 11 A firm that has already downgraded Apple (AAPL) stock is keeping its Sell recommendation on the shares, saying in a new report that the stock still has a long way to fall. Read More 4 / 11 As Tesla (TSLA) prepares to report its first-quarter 2025 earnings after the bell Tuesday, investors are watching closely for updates on two long-delayed projects: the company’s affordable EV and its autonomous robotaxi platform. Read More 5 / 11 U.S. stocks dropped sharply Monday, continuing a volatile stretch for Wall Street as geopolitical tensions, earnings anxiety, and Federal Reserve uncertainty continue to collide. Read More 6 / 11 Gold prices blasted past $3,500 an ounce for the first time early Tuesday, a record driven by a perfect storm of geopolitical turmoil and strategic central bank moves. Read More 7 / 11 As markets swirl amid tariffs and trade war concerns, one company is looking rather recession-proof: Netflix (NFLX). The company was one of the rare bright spots in trading Monday, rising almost 2% after delivering a blockbuster first quarter that had experts comparing the company with Big Tech instead of Big Media. Netflix posted nearly $3 billion in profit and a 31.7% operating margin on $10.5 billion in revenue. Read More 8 / 11 Shares of major U.S. defense contractors tanked Tuesday, with Northrop Grumman (NOC) and RTX (RTX) ranking among the S&P 500’s steepest decliners after earnings reports flagged cost overruns, shrinking margins, and rising tariff exposure — even as revenue remained strong. Read More 9 / 11 It’s no secret that living in some states can be much more expensive than residing in others. And if you’re looking to save money, where you call home might be standing in your way. Read More 10 / 11 Boeing (BA) stock rose more than 6% on Wednesday after the aerospace giant reported a lower-than-expected first-quarter loss and reaffirmed its full-year forecast — a rare upside surprise for a company that’s spent months under a microscope. Read More 11 / 11
+--------------------------------------------------
+
+Title: It’s time to buy tech stocks: 4 ways to find winners while the market is down
+URL: https://www.marketwatch.com/story/its-time-to-buy-tech-stocks-4-ways-to-find-winners-while-the-market-is-down-52b5ca92
+Time Published: 2025-04-26T13:00:00Z
+Description: Investors can take advantage of a chance to buy quality stocks at cheaper levels, and use tools that help them buy shares at the right price.
 --------------------------------------------------
 
 Title: Is NVIDIA Corporation (NVDA) the Most Promising Stock According to Analysts?
@@ -147,7 +147,7 @@ Title: Nvidia, other chipmakers jump on eased tariff concerns
 URL: https://qz.com/nvidia-chip-makers-tarrifs-cathie-wood-1851777574
 Time Published: 2025-04-23T20:00:55Z
 Full Content:
-Chip stocks were among the market leaders on Wednesday thanks to President Donald Trump’s statement the day before that tariffs on China “will come down substantially,” as well as vote of confidence by famed investor Cathie Wood. Wood’s Ark Investment Management bought up stock in several chipmakers on Tuesday, including $1.1 million shares of Nvidia (NVDA). On Wednesday, Nvidia jumped more than 5%, approaching its 21-day moving average. Palintir Technologies (PLTR) also had a strong performance Wednesday, rising more than 7%, while Super Micro Computer (SMCI) shot up by 10.2% during the day, AMD (AMD) rose 8.1%, Micron (MU) jumped 6.8%, and Broadcom (AVGO) more than 7%. Although semiconductors and other electronics are currently exempt from steep U.S. tariffs on goods imported from China, administration officials have said those exemptions are temporary, and tariffs would probably be imposed on the sector in a month or two. Those threats have weighed heavily on chip stocks in recent days, but late Tuesday Trump said those tariffs “will come down substantially” and he intends to be “very nice” to China in trade negotiations. As a result, the PHLX Semiconductor Index, which tracks the 30 largest U.S.-listed companies in the semiconductor sector, was up about 4% in trading on Wednesday. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
+Chip stocks were among the market leaders on Wednesday thanks to President Donald Trump’s statement the day before that tariffs on China “will come down substantially,” as well as vote of confidence by famed investor Cathie Wood. Wood’s Ark Investment Management bought up stock in several chipmakers on Tuesday, including $1.1 million shares of Nvidia (NVDA+0.54%). On Wednesday, Nvidia jumped more than 5%, approaching its 21-day moving average. Palintir Technologies (PLTR+6.03%) also had a strong performance Wednesday, rising more than 7%, while Super Micro Computer (SMCI+0.90%) shot up by 10.2% during the day, AMD (AMD+2.02%) rose 8.1%, Micron (MU+2.76%) jumped 6.8%, and Broadcom (AVGO-1.52%) more than 7%. Although semiconductors and other electronics are currently exempt from steep U.S. tariffs on goods imported from China, administration officials have said those exemptions are temporary, and tariffs would probably be imposed on the sector in a month or two. Those threats have weighed heavily on chip stocks in recent days, but late Tuesday Trump said those tariffs “will come down substantially” and he intends to be “very nice” to China in trade negotiations. As a result, the PHLX Semiconductor Index, which tracks the 30 largest U.S.-listed companies in the semiconductor sector, was up about 4% in trading on Wednesday. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
 --------------------------------------------------
 
 Title: Ultimate Insider Marjorie Taylor Greene’s #3 Stock Pick: NVIDIA Corporation (NVDA)
@@ -217,66 +217,4 @@ Title: Intel to announce plans this week to cut over 20% of staff
 URL: https://finance.yahoo.com/news/intel-announce-plans-week-cut-082610466.html
 Time Published: 2025-04-23T08:26:10Z
 Description: (Bloomberg) -- Intel Corp. is poised to announce plans this week to cut more than 20% of its staff, aiming to eliminate bureaucracy at the struggling...
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA): Among Stocks That Could 10X Over the Next 2 Years
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6de45c50-0cfa-45ad-ad64-806e35c456d1
-Time Published: 2025-04-22T22:30:43Z
-Description: None
---------------------------------------------------
-
-Title: Bitcoin analysts target $95K as Trump’s trade war cools — Do BTC futures agree?
-URL: https://cointelegraph.com/news/bitcoin-analysts-target-95k-as-trump-s-trade-war-cools-do-btc-futures-agree
-Time Published: 2025-04-22T21:21:13Z
-Description: Bitcoin (BTC) surged to a 45-day high above $91,000 on April 22, and the upward movement coincided with gold reaching a new all-time high. The price gains reflect investors' concerns over a potential economic recession amid ongoing global trade tensions.The t…
---------------------------------------------------
-
-Title: Dow Rallies 1,000 Points as Hopes Rise for U.S.-China Trade Deal
-URL: https://finance.yahoo.com/news/dow-rallies-1-000-points-194819045.html
-Time Published: 2025-04-22T19:48:19Z
-Description: Investor sentiment remains volatile amid Trump's repeated public attacks on Federal Reserve Chair Jerome Powell.
---------------------------------------------------
-
-Title: Tesla short-sellers are feasting on the stock plunge
-URL: https://qz.com/tesla-tsla-short-selling-earnings-1851777345
-Time Published: 2025-04-22T19:14:09Z
-Full Content:
-As Tesla (TSLA) prepares to report its first-quarter 2025 earnings after the bell Tuesday, investors are watching closely for updates on two long-delayed projects: the company’s affordable EV and its autonomous robotaxi platform. The two initiatives once were expected to define Tesla’s next chapter — but concerns about CEO Elon Musk’s political entanglements are clouding the outlook. Analysts, including Wedbush’s Dan Ives, have voiced worries that Musk’s leadership focus has splintered. Since accepting his controversial role in the Trump administration’s Department of Government Efficiency, Musk has faced protests and backlash that analysts say may be affecting the brand. Tesla’s stock has plunged 40% year-to-date, impacted by falling deliveries, fierce competition from Chinese EV giants like BYD (BYDDY), and political headwinds. But there’s one group of investors that’s thriving: short sellers. According to S3 Partners, traders betting against Tesla have made an estimated $11.5 billion in profits so far this year — making it the most profitable short globally, surpassing Nvidia (NVDA). Short interest has climbed 15% as bearish sentiment builds. Public perception is also shifting. A recent CNBC (CMCSA) All-America Economic Survey found that 47% of Americans now hold a negative view of Tesla, indicating significant potential challenges for the brand’s image. Shares rose about 5% Tuesday amid a pre-earnings and larger market bounce. But with investor nerves fraying, Tesla’s Q1 report could be a decisive moment in the company’s 2025 story — for bulls and bears alike. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
---------------------------------------------------
-
-Title: Nvidia (NVDA) Stock Identified as Top AI Stock by Veteran Investor
-URL: https://finance.yahoo.com/news/nvidia-nvda-stock-identified-top-180624372.html
-Time Published: 2025-04-22T18:06:24Z
-Description: Doug Clinton, the CEO of Intelligent Alpha, told CNBC recently that Nvidia (NVDA) is his “top AI pick.” Intelligent Alpha uses AI to create its stock...
---------------------------------------------------
-
-Title: NVIDIA (NVDA) Maintains Positive Momentum Despite China Export Restrictions, Says Susquehanna
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c40b47c9-53b5-4398-80c2-91bba75017e9
-Time Published: 2025-04-22T17:40:29Z
-Description: None
---------------------------------------------------
-
-Title: 10 ‘pure value’ stocks favored by analysts to soar 20% to 96% over the next year
-URL: https://www.marketwatch.com/story/10-pure-value-stocks-favored-by-analysts-to-soar-20-to-96-over-the-next-year-72910f06
-Time Published: 2025-04-22T16:45:00Z
-Description: This year’s broad price decline has led to some very low price-to-earnings valuations in the stock market.
---------------------------------------------------
-
-Title: Is NVIDIA (NVDA) the Most Promising Long-Term Stock According to Analysts?
-URL: https://finance.yahoo.com/news/nvidia-nvda-most-promising-long-145923660.html
-Time Published: 2025-04-22T14:59:23Z
-Description: We recently published a list of the 11 Most Promising Long-Term Stocks According to Analysts. In this article, we are going to take a look at where NVIDIA...
---------------------------------------------------
-
-Title: Former Intel CEO on Nvidia: You have to be 10x better to dethrone the king
-URL: https://freerepublic.com/focus/f-chat/4312551/posts
-Time Published: 2025-04-22T14:51:17Z
-Full Content:
-Skip to comments. Posted on 04/22/2025 7:51:17 AM PDT by SunkenCiv Now that Pat Gelsinger is no longer occupying the corner office at embattled chipmaker Intel (INTC), he can acknowledge one thing about the semiconductor industry.Nvidia (NVDA) has a wide, wide lead over its rivals on the tech front..."They have built meaningful moats around their franchise," he added.Gelsinger led aggressive efforts to turn around Intel for more than three years. He slashed thousands of jobs, improved costs, secured CHIPS Act funding, built chip foundries, and promised fast AI chips that could compete with Nvidia and AMD (AMD).He was fired in early December amid missed financial targets, lack of progress on the AI chip front, and a cash drain on the foundry business.Intel's fourth quarter sales fell 7% year over year to $14.3 billion, and net earnings plunged 76%. The company forecasts it will only break even on the profit line this year.Analysts think Nvidia may post upward of $5 per share in earnings in 2025. Nvidia's stock is up 1,220% over the past five years, while Intel's has dropped 69%.Intel announced Lip-Bu Tan as its new CEO in March.Tan was the CEO of Cadence Design Systems (CDNS) from 2009 to 2021. After serving on Intel's board for two years, he left in August 2024 following clashes with Gelsinger over how to position the business.Tan frequently pushed for a better artificial intelligence strategy to take on Nvidia and faster decision making at the notoriously bureaucratic Intel...Tan will get to outline his strategy publicly -- and detail how he will navigate Trump tariffs -- when the company announces first quarter results on April 24 after the market close. (Excerpt) Read more at finance.yahoo.com ... Let the chips fall where they may................ What do you think - is Intel coming back? Is he also implying that AMD is 10x better than Intel? Intel Agencies Caught in Massive Voter Fraud USAWatchdog.com ^ | 4FEB2025 | Greg Hunter Posted on 2/5/2025, 10:19:32 AM by Tom Tetroxide Dr. Jerome Corsi has a Harvard PhD in political science. He has written more than 30 books with many of them becoming best-sellers. Dr. Corsi’s latest project is about voter fraud. Corsi says he can prove Donald Trump really did win in 2020. There were also countless down-ballot thefts in 2020 and in 2024. Dr. Corsi and others have uncovered a grand scam that dates back to the early 2000’s that has cheated people into office that actually lost. The architects of the steal can be traced back to U.S. intel agencies. Dr. Corsi created a website for this project called GodsFiveStones.com and explains, “GodsFiveStones.com is named after the David and Goliath Bible story. This is when David picks up five smooth stones from the brook, and they are the exact ones needed to kill Goliath. That’s what we are aiming to do is to kill this Goliath of voter fraud.” The voter fraud is hidden in the voter rolls that every state government maintains. Corsi says, “You look at state records, and there might be 12 million records and there might be 2 million false records. They look legitimate until you really analyze them, and then you realize they are duplicates or clones. If you send out people to canvas them, there is nobody there. They are falsified and hidden in the data base. It’s like a card marking scheme. . . . They did not use the algorithms in the 2024 Election for President because we were on the lookout for it. The down-ballot elections (House, Governor and Senate) used these algorithms, and they cheated.” Corsi estimates they cheated 20 House Democrats and 5 Democrat Senators into office in 2024. snip I recommend “The nVidia Way” book. It’s an interesting read, much of the success is around their culture. Jensen just outworks everyone, requiring it of everyone. They behave as though the next breakthrough in tech will kill the company, so be first and never get complacent. That said, it seems he sacrifices his life to just work. I was in a company bought by Intel. They were constantly distracted by different ideas. They seemed to have no focus. They also didn’t listen, there was a certain arrogance about the Intel employees. They’re way behind in AI hardware and software. It’s not just the hardware. The CUDA software opened doors into unanticipated markets. That said, from a stock point of view, imho...they’re going to enter the ‘trough of disillusionment’ on the Gartner Hype Cycle. The possibilities hit regulatory aspects. The recent market performance may be reflecting this but it’s hard to see due to the other volatility (e.g. tariffs). Long term buy, looking for another dip - over 30% down since start of the year. I used to work for Intel, but I was in and out before Pat came to power. But a good friend who worked there for a LONG time used to work for Pat and says that he’s a very smart engineer, and he thought the right person for the job as CEO. When things didn’t go so well under his leadership my friend said he believed the issue was that Pat was an engineer, and that the board of directors (who make all the decisions ANYWAY), didn’t WANT an engineer to lead the company, they wanted more of a finance guy. So here we are. A different world but when I was supporting government development projects the two big leaders would be Program Manager (focusing on Cost and Schedule) and Chief Engineer (focusing on technical requirements). I never worked with a Chief Engineer who gave a fig about technical requirements. The Chief Engineers always focused on Cost and Schedule. Always the money. Never the engineering. I know a bunch of former Intel people who now work at AMD they say Intel is in a death spiral and while AMD needs to spend and upgrade their Server lab spaces they are poised to kick some Intel ass. The only thing the new CEO brings is customer feedback on fabless design needs. True something very missing from Intel but it might not be enough. DEI has destroyed the inner workings of Intel started by Obama. It has not been the same place since Paul Otellini retired. Intel had a long track record of forcing out experienced people and replacing them with Indian workers. Those experienced engineers went to AMD, Nvidia, Apple and IBM. I went to IBM where for the first time after 30 years, felt like I was being treated like a professional. You were just a number at Intel. Disclaimer: Opinions posted on Free Republic are those of the individual posters and do not necessarily represent the opinion of Free Republic or its management. All materials posted herein are protected by copyright law and the exemption for fair use of copyrighted works. Free Republic Browse · Search General/Chat Topics · Post Article FreeRepublic, LLC, PO BOX 9771, FRESNO, CA 93794 FreeRepublic.com is powered by software copyright 2000-2008 John Robinson Disclaimer: Opinions posted on Free Republic are those of the individual posters and do not necessarily represent the opinion of Free Republic or its management. All materials posted herein are protected by copyright law and the exemption for fair use of copyrighted works.
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA) Price Target Cut to $160 Amid Tariff Uncertainty, Long-Term Growth Intact
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f55f3615-16dc-4ad8-ae10-523ee20689fc
-Time Published: 2025-04-22T12:56:42Z
-Description: None
 --------------------------------------------------
