@@ -50,14 +50,14 @@ Time Published: 2025-04-23T18:45:08Z
 Description: A number of stocks jumped in the afternoon session after President Trump clarified that he had no intention of removing Federal Reserve Chair Jerome Powell, ...
 --------------------------------------------------
 
-Title: Wayfair, Robinhood, Noodles, Upstart, and AppLovin Shares Skyrocket, What You Need To Know
-URL: https://finance.yahoo.com/news/wayfair-robinhood-noodles-upstart-applovin-184507498.html
+Title: Pure Storage, Health Catalyst, AMD, Micron, and FormFactor Stocks Trade Up, What You Need To Know
+URL: https://finance.yahoo.com/news/pure-storage-health-catalyst-amd-184507001.html
 Time Published: 2025-04-23T18:45:07Z
 Description: A number of stocks jumped in the morning session after President Trump clarified that he had no intention of removing Federal Reserve Chair Jerome Powell, a ...
 --------------------------------------------------
 
-Title: Pure Storage, Health Catalyst, AMD, Micron, and FormFactor Stocks Trade Up, What You Need To Know
-URL: https://finance.yahoo.com/news/pure-storage-health-catalyst-amd-184507001.html
+Title: Wayfair, Robinhood, Noodles, Upstart, and AppLovin Shares Skyrocket, What You Need To Know
+URL: https://finance.yahoo.com/news/wayfair-robinhood-noodles-upstart-applovin-184507498.html
 Time Published: 2025-04-23T18:45:07Z
 Description: A number of stocks jumped in the morning session after President Trump clarified that he had no intention of removing Federal Reserve Chair Jerome Powell, a ...
 --------------------------------------------------
