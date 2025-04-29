@@ -24,27 +24,3 @@ URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-co-ltd-20
 Time Published: 2025-04-25T20:35:42Z
 Description: We recently published a list of the 11 Most Promising Stocks According to Analysts. In this article, we are going to take a look at where Taiwan...
 --------------------------------------------------
-
-Title: Jim Cramer Praises Taiwan Semiconductor (TSM): “That Earnings Call Was Spectacular”
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5f3a6613-1580-4e30-b77e-960d824e82a2
-Time Published: 2025-04-23T22:13:45Z
-Description: None
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing Company Limited (TSM): Among Prem Watsa’s Stock Picks With Highest Potential
-URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-limited-140849017.html
-Time Published: 2025-04-23T14:08:49Z
-Description: We recently compiled a list of Billionaire Prem Watsa’s 10 Stock Picks With Highest Potential. In this article, we are going to take a look at where Taiwan...
---------------------------------------------------
-
-Title: The buying opportunity of a lifetime is coming. But not before a 40% drop for the S&P 500, says this strategist.
-URL: https://www.marketwatch.com/story/the-buying-opportunity-of-a-lifetime-is-coming-but-not-before-a-40-drop-for-the-s-p-500-says-this-strategist-b3aa3bd5
-Time Published: 2025-04-23T13:35:00Z
-Description: Thomas Kee argues that the S 500 is far from being fairly valued, but what will be a painful process of correcting that is finally getting under way.
---------------------------------------------------
-
-Title: Intel to announce plans this week to cut over 20% of staff
-URL: https://finance.yahoo.com/news/intel-announce-plans-week-cut-082610466.html
-Time Published: 2025-04-23T08:26:10Z
-Description: (Bloomberg) -- Intel Corp. is poised to announce plans this week to cut more than 20% of its staff, aiming to eliminate bureaucracy at the struggling...
---------------------------------------------------
