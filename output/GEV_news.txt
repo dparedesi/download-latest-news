@@ -5,9 +5,3 @@ URL: https://www.cnbc.com/2025/04/25/were-putting-a-weekly-winner-in-the-bullpen
 Time Published: 2025-04-25T18:21:40Z
 Description: Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
 --------------------------------------------------
-
-Title: GE Vernova To Navigate Tariffs, Analyst Sees Forex Gains Offsetting Headwinds
-URL: https://finance.yahoo.com/news/ge-vernova-navigate-tariffs-analyst-205525104.html
-Time Published: 2025-04-24T20:55:25Z
-Description: B Of A Securities analyst Andrew Obin revised the estimates upward for GE Vernova Inc. (NYSE:GEV) following the company’s first-quarter results reported on...
---------------------------------------------------
