@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Dividend Investor Who Earned $18,000 a Month Despite 'Bloody' Selloff Shares His Top 6 Stock Picks
+URL: https://finance.yahoo.com/news/dividend-investor-earned-18-000-172305100.html
+Time Published: 2025-04-30T17:23:05Z
+Description: Defensive equities and safe-haven assets are gaining attention as recession warnings grow louder. JPMorgan Chase (NYSE:JPM) now believes there's a 60% chance...
+--------------------------------------------------
+
 Title: NVIDIA Corporation (NVDA): Among Billionaire Cliff Asness’ Stock Picks with Huge Upside Potential
 URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-among-billionaire-152246683.html
 Time Published: 2025-04-30T15:22:46Z
@@ -57,6 +63,12 @@ Time Published: 2025-04-30T10:56:07Z
 Description: TAIPEI (Reuters) -Taiwan's ASE Technology Holding Co. has yet to decide how it will support a plan by Nvidia to build artificial intelligence servers worth...
 --------------------------------------------------
 
+Title: Is NVIDIA Corporation (NVDA) a Stock That Should Double in 3 Years?
+URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-stock-double-080555655.html
+Time Published: 2025-04-30T08:05:55Z
+Description: We recently published a list of the 30 Stocks That Should Double in 3 Years. In this article, we are going to take a look at where NVIDIA Corporation...
+--------------------------------------------------
+
 Title: Why are stocks climbing when a recession looks more likely? Here’s one possible reason. - MarketWatch
 URL: https://slashdot.org/firehose.pl?op=view&amp;id=177213651
 Time Published: 2025-04-30T01:52:25Z
@@ -73,6 +85,12 @@ Title: Jim Cramer Says NVIDIA (NVDA) Being ‘Punished’ for Doing Business Wit
 URL: https://finance.yahoo.com/news/jim-cramer-says-nvidia-nvda-204643808.html
 Time Published: 2025-04-29T20:46:43Z
 Description: We recently published a list of Top 10 Buzzing Stocks You Should Watch Today. In this article, we are going to take a look at where NVIDIA Corporation...
+--------------------------------------------------
+
+Title: Super Micro stock sinks as server maker fans AI spending worries with cuts to revenue, profit estimates
+URL: https://finance.yahoo.com/news/server-maker-super-micro-cuts-204557939.html
+Time Published: 2025-04-29T20:45:57Z
+Description: (Reuters) -AI server maker Super Micro Computer on Tuesday cut its third-quarter revenue and profit expectations due to delays in customer spending...
 --------------------------------------------------
 
 Title: Trump’s Tariffs Are Sabotaging America’s A.I. Leadership
@@ -294,10 +312,4 @@ Title: NVIDIA Corporation (NVDA): Among Billionaire Steve Cohen’s Large-Cap St
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1ad654b9-0a6e-490f-b4ec-613b014fbbcd
 Time Published: 2025-04-26T04:28:23Z
 Description: None
---------------------------------------------------
-
-Title: This common worry about Nvidia is ‘laughable,’ Morgan Stanley says - MarketWatch
-URL: https://slashdot.org/firehose.pl?op=view&amp;id=177147041
-Time Published: 2025-04-26T03:13:02Z
-Description: This common worry about Nvidia is ‘laughable,’ Morgan Stanley saysMarketWatch Nvidia Stock Rises. What Alphabet and Intel Earnings Mean for the Chip Maker.Barron's Nvidia's Stock Is Trading As If It's 2022 Again (NVDA)Seeking Alpha Wall Street Is Screaming to…
 --------------------------------------------------
