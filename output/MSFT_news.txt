@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Big Tech, Big Data, Big Moves: Why This Week Could Be a Market Game-Changer
+URL: https://stockcharts.com/articles/chartwatchers/2025/04/big-tech-big-data-big-moves-wh-231.html
+Time Published: 2025-04-29T22:34:24Z
+Description: Speaking overall, the stock market hasn't changed course after last week's bounce; the upside momentum is still here, albeit acting a little tentative. One piece of news that may have helped move the market higher on Tuesday, though, was President Trump's dec…
+--------------------------------------------------
+
 Title: Jim Cramer on Microsoft Corporation (MSFT): “Penalty will be severe” – Azure Must Deliver or Face PE Pressure
 URL: https://finance.yahoo.com/news/jim-cramer-microsoft-corporation-msft-123806955.html
 Time Published: 2025-04-29T12:38:06Z
@@ -36,23 +42,4 @@ Title: It’s time to buy tech stocks: 4 ways to find winners while the market i
 URL: https://www.marketwatch.com/story/its-time-to-buy-tech-stocks-4-ways-to-find-winners-while-the-market-is-down-52b5ca92
 Time Published: 2025-04-26T13:00:00Z
 Description: Investors can take advantage of a chance to buy quality stocks at cheaper levels, and use tools that help them buy shares at the right price.
---------------------------------------------------
-
-Title: Navigate Market Shifts Like a Pro: Utilize This Key Indicator Effectively
-URL: https://stockcharts.com/articles/chartwatchers/2025/04/navigate-market-shifts-like-a-496.html
-Time Published: 2025-04-25T23:29:21Z
-Description: After weeks of uncertainty, the stock market finally gave us something to smile about. The major indexes just wrapped up four straight days of gains, and optimism is starting to creep back in. Could this be the shift we've been waiting for?Let's break it down…
---------------------------------------------------
-
-Title: What Wall Street is saying about Alphabet ahead of earnings
-URL: https://finance.yahoo.com/news/wall-street-saying-alphabet-ahead-152537404.html
-Time Published: 2025-04-25T15:25:37Z
-Description: Alphabet (GOOGL), the parent company of Google, is scheduled to report first quarter 2025 results after the market close on Thursday, April 24, with a...
---------------------------------------------------
-
-Title: MSFT Stock: Weathering Tariffs, Winning With AI
-URL: https://www.forbes.com/sites/greatspeculations/2025/04/25/msft-stock-weathering-tariffs-winning-with-ai/
-Time Published: 2025-04-25T11:31:36Z
-Full Content:
-ByTrefis Team ByTrefis Team, Contributor. BERLIN, GERMANY - APRIL 25:The Microsoft Copilot app is displayed on a smartphone on April 25, 2025 ... More in Berlin, Germany. (Photo Illustration by Thomas Trutschel/Photothek via Getty Images) Microsoft’s stock has declined approximately 7% this year, primarily due to investor concerns about potential tariff impacts. However, this concern appears largely overblown as Microsoft’s business model centers around Azure cloud services and software rather than hardware, making it substantially less vulnerable to tariff-related disruptions than hardware-focused tech companies. Separately, for another strong tech name, see Should You Buy GOOG Stock After A Q1 Beat? Looking beyond short-term fluctuations reveals an impressive trajectory: Microsoft's stock has gained approximately 65% since early 2023, driven by: Microsoft has demonstrated solid fundamental performance with a 32% revenue increase, growing from $198 billion in 2022 to $262 billion in the trailing twelve months. This growth is fueled by several enduring factors: Despite a slight margin contraction (from 36.7% to 35.4%) due to increased AI and R&D investments, Microsoft maintains an exceptionally healthy 35% net margin. The company's EPS has increased 29% from $9.65 in 2022 to $12.41 in the trailing twelve months. Microsoft has demonstrated remarkable resilience during market downturns: Microsoft has positioned itself as essential infrastructure for the AI revolution. Similar to how Nvidia provides the GPU processing power, Microsoft delivers the computing resources, data storage, and networking capabilities that underpin AI development across numerous companies, including OpenAI. This allows investors exposure to the broader AI growth story without needing to predict which specific AI application will ultimately dominate. Microsoft represents a compelling investment opportunity despite near-term volatility. Its cloud-first business model shields it from significant tariff impacts, while its position as fundamental infrastructure for the AI revolution provides substantial long-term growth potential with less risk than pure-play AI companies. Currently trading around $390, Microsoft's stock has a trailing price-to-earnings (P/E) ratio of 31x. Although this is higher than the 24x P/E ratio observed in 2022, it is still below the stock's four-year average P/E of 35x, suggesting potential for further appreciation. Learn more about Trefis RV strategy that has outperformed its all-cap stocks benchmark (combination of all 3, the S&P 500, S&P mid-cap, and Russell 2000), to produce strong returns for investors. Separately, if you want upside with a smoother ride than an individual stock like Microsoft, consider the High Quality portfolio, which has outperformed the S&P and clocked >91% returns since inception.
 --------------------------------------------------
