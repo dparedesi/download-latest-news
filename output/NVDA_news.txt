@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia CEO gets first base salary pay bump in 10 years
+URL: https://finance.yahoo.com/video/nvidia-ceo-gets-first-salary-171512943.html
+Time Published: 2025-05-02T17:15:12Z
+Description: Nvidia (NVDA) CEO Jensen Huang is getting a raise — his first base salary pay bump in a decade. Huang's 2025 base pay is now $1.5 million, up 50% from 2024. ...
+--------------------------------------------------
+
 Title: Nvidia CEO Jensen Huang got his first raise in a decade
 URL: https://qz.com/nvidia-ceo-jensen-huang-pay-salary-compensation-stock-1851778812
 Time Published: 2025-05-02T13:43:00Z
@@ -306,10 +312,4 @@ URL: https://www.investopedia.com/nvidia-stock-drops-on-report-huawei-is-develop
 Time Published: 2025-04-28T16:46:25Z
 Full Content:
 Nvidia (NVDA) shares led losses on the Dow and S&P 500 Monday afternoon following a report China's Huawei Technologies is preparing to test a rival artificial intelligence chip. According to The Wall Street Journal, Huawei "is gearing up to test its newest and most powerful artificial-intelligence processor, which the company hopes could replace some higher-end products" from Nvidia. Citing people familiar with the matter, the Journal said that "Huawei has approached some Chinese tech companies about testing the technical feasibility of the new chip, called the Ascend 910D." Shares of Nvidia, which declined to comment on the report, were down close to 4% in recent trading. They've lost a fifth of their value since the start of the year, and have yet to fully recover from their plunge on Jan. 27 that wiped nearly $600 billion from the company's market cap when Chinese startup DeepSeek said its models rivaled those of OpenAI's Chat GPT at a fraction of the cost. Earlier this month, Nvidia said it is expecting to record a $5.5 billion first-quarter charge after the U.S. limited exports of its H20 chips to China. This article has been updated since it was first published to reflect Nvidia declined to comment.
---------------------------------------------------
-
-Title: Analysts revise Nvidia price target on chip demand
-URL: https://www.thestreet.com/investing/stocks/analysts-revise-nvidia-price-target-on-chip-demand
-Time Published: 2025-04-28T16:03:00Z
-Description: This is what could happen next to Nvidia shares.
 --------------------------------------------------
