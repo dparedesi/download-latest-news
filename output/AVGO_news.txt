@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Stock market today: Nasdaq surges as AI trade reignites amid Big Tech earnings, Dow, S&P 500 rise for 8th day
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-surges-as-ai-trade-reignites-amid-big-tech-earnings-dow-sp-500-rise-for-8th-day-200051889.html
+Time Published: 2025-05-01T20:00:51Z
+Description: Microsoft and Meta's strong earnings reports eased investor fears of an economic slowdown amid President Trump's tariffs.
+--------------------------------------------------
+
 Title: US stock market today: Dow Jones, S&P, Nasdaq up - Here's top gainers, top losers, major stocks, data to consider
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-dow-jones-sp-nasdaq-up-heres-top-gainers-top-losers-major-stocks-data-to-consider/articleshow/120798411.cms
 Time Published: 2025-05-01T16:05:22Z

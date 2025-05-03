@@ -13,16 +13,16 @@ Description: We recently published an article titled Charles Akre’s and John N
 --------------------------------------------------
 
 Title: Microsoft stock surges 9% as Azure earnings smash expectations and the AI boom rolls on
+URL: https://finance.yahoo.com/news/microsoft-stock-surges-9-azure-142000692.html
+Time Published: 2025-05-01T14:20:00Z
+Description: Microsoft (MSFT) stock rose sharply Thursday morning, a day after the tech giant blew past Wall Street’s expectations in its fiscal third-quarter earnings...
+--------------------------------------------------
+
+Title: Microsoft stock surges 9% as Azure earnings smash expectations and the AI boom rolls on
 URL: https://qz.com/microsoft-stock-q3-earnings-azure-ai-1851778631
 Time Published: 2025-05-01T14:20:00Z
 Full Content:
 Microsoft (MSFT-0.92%) stock rose sharply Thursday morning, a day after the tech giant blew past Wall Street’s expectations in its fiscal third-quarter earnings report. The stock was up about 9% in mid-morning trading. It’s now up about 3% so far this year, having fully recovered from April’s trade war-induced bloodbath in tech stocks. Microsoft racked up $70.1 billion in revenue, up 13%, and $25.8 billion in net income, up 18%, fueled by relentless demand for cloud and AI. Earnings came in at $3.46 per share, easily topping consensus estimates of $3.22. Microsoft’s quarter drew gushing praise from analysts both on and off the earnings call, with Wedbush calling it “an Aaron Judge-like performance” (referring to the New York Yankees slugger). Azure beat both the Street and internal targets, with AI workloads accounting for nearly half the cloud platform’s growth. The company reaffirmed its $80 billion FY25 capital expenditures forecast and said infrastructure investments will continue to rise in FY26 — putting to rest speculation about data center cutbacks. Microsoft’s cloud engine kept roaring in Q3, with Azure and other cloud services surging 33% year-over-year, powering a 21% increase in the all-important Intelligent Cloud segment, which hit $26.8 billion. Server product revenue rose 22% as demand for AI infrastructure stayed hot. The Productivity and Business Processes segment brought in $29.9 billion, up 10% from last year, driven by steady growth in Microsoft 365 and Dynamics. Microsoft 365 Commercial revenue rose 11%, with its cloud-based suite climbing 12%, while consumer revenue grew 10%. Dynamics 365 jumped 16%, lifting Dynamics overall by 11%. On an earnings call, executives offered a confident and detailed account of accelerating enterprise demand. CFO Amy Hood emphasized that while most of the quarter’s upside came from non-AI services, digital-native companies are increasingly building everything — AI or not — in Azure. The result: a seamless pipeline converting Microsoft’s massive capital expenditures into revenue faster than skeptics expected. Wedbush raised its price target on the stock 8.4%, from $475 to $515, noting that chatter around potential data center pullbacks is now “put to rest.” As the line between AI and non-AI workloads continues to blur — and AI demand proves strong even amid an uncertain macro picture — Microsoft looks to be increasingly positioning itself as the core infrastructure provider of the AI era. In other words, hyperscaling has arrived — and it seems here to stay. —Catherine Baab contributed to this article. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
---------------------------------------------------
-
-Title: Microsoft stock surges 9% as Azure earnings smash expectations and the AI boom rolls on
-URL: https://finance.yahoo.com/news/microsoft-stock-surges-9-azure-142000692.html
-Time Published: 2025-05-01T14:20:00Z
-Description: Microsoft (MSFT) stock rose sharply Thursday morning, a day after the tech giant blew past Wall Street’s expectations in its fiscal third-quarter earnings...
 --------------------------------------------------
 
 Title: What’s Happening With LLY Stock?
