@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Apple to Source Billions of US-Made Chips in Supply Chain Shift
+URL: https://finance.yahoo.com/news/apple-source-billions-us-made-015600364.html
+Time Published: 2025-05-02T01:56:00Z
+Description: (Bloomberg) -- Apple Inc. plans to source more than 19 billion chips from the US this year, part of a global supply chain shift to gradually lessen its...
+--------------------------------------------------
+
 Title: ‘It’s The Key’: Chips Giant Breaks Ground On Third US Plant
 URL: https://freerepublic.com/focus/f-news/4314260/posts
 Time Published: 2025-04-30T20:56:22Z
