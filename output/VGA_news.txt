@@ -19,9 +19,3 @@ URL: https://finance.yahoo.com/news/treasury-market-world-order-brings-190000314
 Time Published: 2025-04-28T11:57:26Z
 Description: (Bloomberg) -- The “Sell America” trade that gripped markets this month has left a potentially lasting dent in investors’ willingness to hold the US...
 --------------------------------------------------
-
-Title: Institutions own 44% of Galenica AG (VTX:GALE) shares but retail investors control 55% of the company
-URL: https://finance.yahoo.com/news/institutions-own-44-galenica-ag-065315778.html
-Time Published: 2025-04-27T06:53:15Z
-Description: Key Insights Galenica's significant retail investors ownership suggests that the key decisions are influenced by...
---------------------------------------------------

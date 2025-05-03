@@ -18,9 +18,3 @@ URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fu
 Time Published: 2025-04-30T12:41:48Z
 Description: US stock futures slipped lower as Wall Street braced for a busy day of Big Tech earnings and digested President Trump's latest move on tariffs.
 --------------------------------------------------
-
-Title: April jobs report, Big Tech earnings in focus amid stock market recovery: What to know this week
-URL: https://finance.yahoo.com/news/april-jobs-report-big-tech-earnings-in-focus-amid-stock-market-recovery-what-to-know-this-week-113503429.html
-Time Published: 2025-04-27T11:35:03Z
-Description: With the stock market in all-out rally mode for the first time since President Trump's tariff announcements, key updates on the health of the US economy and ...
---------------------------------------------------
