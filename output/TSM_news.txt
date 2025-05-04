@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Stock Market Wrap: Stocks Rebound as May Kicks Off with a Bang—What Investors Should Know
+URL: https://stockcharts.com/articles/chartwatchers/2025/05/stock-market-wrap-stocks-rebou-188.html
+Time Published: 2025-05-02T22:05:33Z
+Description: We just wrapped up a busy week jam-packed with key economic data and big tech earnings. And we have some positive news: the market held up pretty well. May is off to a good start.Strong earnings from META Platforms (META) and Microsoft (MSFT) gave the stock m…
+--------------------------------------------------
+
 Title: Apple to Source Billions of US-Made Chips in Supply Chain Shift
 URL: https://finance.yahoo.com/news/apple-source-billions-us-made-015600364.html
 Time Published: 2025-05-02T01:56:00Z
@@ -29,16 +35,4 @@ Title: Jim Cramer on Taiwan Semiconductor (TSM): “One of the greatest manufact
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0ffbfffb-ea77-4517-92d5-4503b3a609c4
 Time Published: 2025-04-29T11:49:06Z
 Description: None
---------------------------------------------------
-
-Title: Taiwan Semiconductor (TSM): Among Billionaire Stephen Mandel’s Stocks with Huge Upside Potential
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ef5758ea-0ea9-4f1b-8562-63b73d002469
-Time Published: 2025-04-28T18:40:30Z
-Description: None
---------------------------------------------------
-
-Title: Stocks have had a good bounce. But here’s why this investment manager thinks lows will be retested.
-URL: https://www.marketwatch.com/story/stocks-have-had-a-good-bounce-but-heres-why-this-investment-manager-thinks-lows-will-be-retested-cac54561
-Time Published: 2025-04-28T13:30:00Z
-Description: Dan Niles worries that we’ve just seen a bear market rally and valuations are still too high
 --------------------------------------------------
