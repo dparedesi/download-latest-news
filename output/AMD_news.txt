@@ -23,9 +23,3 @@ URL: https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-214525987.htm
 Time Published: 2025-04-30T21:45:25Z
 Description: Investment bank Seaport Global recently started coverage of chip maker Advanced Micro Devices, Inc. (AMD) with a $110 price target and a Buy rating. Seaport ...
 --------------------------------------------------
-
-Title: Is Advanced Micro Devices, Inc. (AMD) the Worst-Performing Blue Chip Stock So Far in 2025?
-URL: https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-141510609.html
-Time Published: 2025-04-29T14:15:10Z
-Description: We recently published a list of 11 Worst-Performing Blue Chip Stocks So Far in 2025. In this article, we are going to take a look at where Advanced Micro...
---------------------------------------------------
