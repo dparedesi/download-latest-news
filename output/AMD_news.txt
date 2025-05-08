@@ -1,15 +1,15 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
-Title: AMD stock whipsaws as Wall Street balances better than anticipated Q1 results with AI uncertainty
-URL: https://finance.yahoo.com/news/amd-stock-whipsaws-as-wall-street-balances-better-than-anticipated-q1-results-with-ai-uncertainty-202218785.html
-Time Published: 2025-05-06T20:22:18Z
-Description: AMD shares wipsawed in early trading Wednesday as Wall Street tried to make sense of the company's future outlook.
---------------------------------------------------
-
 Title: AMD posts better than anticipated Q1 earnings, stock jumps on strong Q2 outlook
 URL: https://finance.yahoo.com/news/amd-posts-better-than-anticipated-q1-earnings-stock-jumps-on-strong-q2-outlook-202218392.html
 Time Published: 2025-05-06T20:22:18Z
 Description: AMD posted better-than-expected Q1 earnings after the bell on Tuesday.
+--------------------------------------------------
+
+Title: AMD stock whipsaws as Wall Street balances better than anticipated Q1 results with AI uncertainty
+URL: https://finance.yahoo.com/news/amd-stock-whipsaws-as-wall-street-balances-better-than-anticipated-q1-results-with-ai-uncertainty-202218785.html
+Time Published: 2025-05-06T20:22:18Z
+Description: AMD shares wipsawed in early trading Wednesday as Wall Street tried to make sense of the company's future outlook.
 --------------------------------------------------
 
 Title: AMD Reports First Quarter 2025 Financial Results
