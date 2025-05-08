@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: How students at Roaring Kitty’s high school became top stock pickers
+URL: https://www.marketwatch.com/story/how-students-at-roaring-kittys-high-school-became-top-stock-pickers-d7231a3a
+Time Published: 2025-05-06T14:03:00Z
+Description: Don’t call them copycats: A group of students at Keith Gill’s old high school have been finding purpose and success in learning about stock trading.
+--------------------------------------------------
+
 Title: Taiwan Semiconductor Manufacturing Company Limited (TSM) Highlighted for Strong AI-Driven Growth Potential
 URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-limited-112652268.html
 Time Published: 2025-05-06T11:26:52Z
@@ -22,16 +28,4 @@ Title: Taiwan Semiconductor Manufacturing Company Limited (TSM): Among Ken Fishe
 URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-limited-141957641.html
 Time Published: 2025-05-03T14:19:57Z
 Description: We recently published an article titled Billionaire Ken Fisher’s 10 Technology Stock Picks with Huge Upside Potential. In this article, we are going to take ...
---------------------------------------------------
-
-Title: Stock Market Wrap: Stocks Rebound as May Kicks Off with a Bang—What Investors Should Know
-URL: https://stockcharts.com/articles/chartwatchers/2025/05/stock-market-wrap-stocks-rebou-188.html
-Time Published: 2025-05-02T22:05:33Z
-Description: We just wrapped up a busy week jam-packed with key economic data and big tech earnings. And we have some positive news: the market held up pretty well. May is off to a good start.Strong earnings from META Platforms (META) and Microsoft (MSFT) gave the stock m…
---------------------------------------------------
-
-Title: Apple to Source Billions of US-Made Chips in Supply Chain Shift
-URL: https://finance.yahoo.com/news/apple-source-billions-us-made-015600364.html
-Time Published: 2025-05-02T01:56:00Z
-Description: (Bloomberg) -- Apple Inc. plans to source more than 19 billion chips from the US this year, part of a global supply chain shift to gradually lessen its...
 --------------------------------------------------

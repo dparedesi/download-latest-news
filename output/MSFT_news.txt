@@ -1,5 +1,23 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: AMD stock whipsaws as Wall Street balances better than anticipated Q1 results with AI uncertainty
+URL: https://finance.yahoo.com/news/amd-stock-whipsaws-as-wall-street-balances-better-than-anticipated-q1-results-with-ai-uncertainty-202218785.html
+Time Published: 2025-05-06T20:22:18Z
+Description: AMD shares wipsawed in early trading Wednesday as Wall Street tried to make sense of the company's future outlook.
+--------------------------------------------------
+
+Title: AMD posts better than anticipated Q1 earnings, stock jumps on strong Q2 outlook
+URL: https://finance.yahoo.com/news/amd-posts-better-than-anticipated-q1-earnings-stock-jumps-on-strong-q2-outlook-202218392.html
+Time Published: 2025-05-06T20:22:18Z
+Description: AMD posted better-than-expected Q1 earnings after the bell on Tuesday.
+--------------------------------------------------
+
+Title: Industrial name with AI ties makes a key move to boost its growing data center business
+URL: https://www.cnbc.com/2025/05/06/industrial-name-with-ai-ties-makes-a-key-move-to-boost-its-growing-data-center-business.html
+Time Published: 2025-05-06T19:26:38Z
+Description: The deal will give Dover a business that has experienced a double-digit organic growth rate over the last three years.
+--------------------------------------------------
+
 Title: What Is VTSAX and How Does It Work? A Beginner’s Guide
 URL: https://typeforyou.org/vtsax/
 Time Published: 2025-05-06T19:03:48Z
@@ -43,16 +61,4 @@ Title: Analysts revise Amazon stock price target after earnings
 URL: https://www.thestreet.com/investing/stocks/analysts-revise-amazon-stock-price-target-after-earnings
 Time Published: 2025-05-04T13:33:00Z
 Description: This is what could happen next to Amazon shares.
---------------------------------------------------
-
-Title: Stock Market Wrap: Stocks Rebound as May Kicks Off with a Bang—What Investors Should Know
-URL: https://stockcharts.com/articles/chartwatchers/2025/05/stock-market-wrap-stocks-rebou-188.html
-Time Published: 2025-05-02T22:05:33Z
-Description: We just wrapped up a busy week jam-packed with key economic data and big tech earnings. And we have some positive news: the market held up pretty well. May is off to a good start.Strong earnings from META Platforms (META) and Microsoft (MSFT) gave the stock m…
---------------------------------------------------
-
-Title: Is Microsoft (MSFT) the Best NASDAQ Stock to Buy According to Billionaires?
-URL: https://finance.yahoo.com/news/microsoft-msft-best-nasdaq-stock-191141698.html
-Time Published: 2025-05-02T19:11:41Z
-Description: We recently published a list of 10 Best NASDAQ Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Microsoft...
 --------------------------------------------------
