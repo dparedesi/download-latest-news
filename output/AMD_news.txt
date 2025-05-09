@@ -6,16 +6,16 @@ Time Published: 2025-05-07T12:54:27Z
 Description: The stock market is heading for a higher open today on hopes for China trade talks.
 --------------------------------------------------
 
-Title: AMD posts better than anticipated Q1 earnings, stock jumps on strong Q2 outlook
-URL: https://finance.yahoo.com/news/amd-posts-better-than-anticipated-q1-earnings-stock-jumps-on-strong-q2-outlook-202218392.html
-Time Published: 2025-05-06T20:22:18Z
-Description: AMD posted better-than-expected Q1 earnings after the bell on Tuesday.
---------------------------------------------------
-
 Title: AMD stock whipsaws as Wall Street balances better than anticipated Q1 results with AI uncertainty
 URL: https://finance.yahoo.com/news/amd-stock-whipsaws-as-wall-street-balances-better-than-anticipated-q1-results-with-ai-uncertainty-202218785.html
 Time Published: 2025-05-06T20:22:18Z
 Description: AMD shares wipsawed in early trading Wednesday as Wall Street tried to make sense of the company's future outlook.
+--------------------------------------------------
+
+Title: AMD posts better than anticipated Q1 earnings, stock jumps on strong Q2 outlook
+URL: https://finance.yahoo.com/news/amd-posts-better-than-anticipated-q1-earnings-stock-jumps-on-strong-q2-outlook-202218392.html
+Time Published: 2025-05-06T20:22:18Z
+Description: AMD posted better-than-expected Q1 earnings after the bell on Tuesday.
 --------------------------------------------------
 
 Title: AMD Reports First Quarter 2025 Financial Results
@@ -42,10 +42,4 @@ Title: Will AMD Stock Climb on Strong Data Center Revenues in Q1 Earnings?
 URL: https://finance.yahoo.com/news/amd-stock-climb-strong-data-151700693.html
 Time Published: 2025-05-05T15:17:00Z
 Description: Advanced Micro Devices' first-quarter 2025 earnings are likely to benefit from strong client and data center growth amid weakness in the Gaming and Embedded ...
---------------------------------------------------
-
-Title: If You Invested $10K In AMD Stock 10 Years Ago, How Much Would You Have Now?
-URL: https://finance.yahoo.com/news/invested-10k-amd-stock-10-120227828.html
-Time Published: 2025-05-03T12:02:27Z
-Description: Advanced Micro Devices (NASDAQ:AMD) operates as a semiconductor company worldwide. It is set to report its Q1 2025 earnings on May 6. Wall Street analysts...
 --------------------------------------------------
