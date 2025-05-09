@@ -12,11 +12,29 @@ Time Published: 2025-05-07T22:15:42Z
 Description: Nvidia stock rose 3% to end the trading day Wednesday, following a Bloomberg report that the Trump administration plans to repeal AI chip export restrictions...
 --------------------------------------------------
 
+Title: NVIDIA Corporation (NVDA): Among Billionaire Mario Gabelli’s Large-Cap Stock Picks with Huge Upside Potential
+URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-among-billionaire-220012587.html
+Time Published: 2025-05-07T22:00:12Z
+Description: We recently published a list of Billionaire Mario Gabelli’s 10 Large-Cap Stock Picks with Huge Upside Potential. In this article, we are going to take a look...
+--------------------------------------------------
+
+Title: Arm Stock Falls Despite Record Revenue as Outlook Misses the Mark
+URL: https://www.investopedia.com/arm-earnings-q4-fy2025-11729270
+Time Published: 2025-05-07T20:51:28Z
+Full Content:
+Arm Holdings (ARM) delivered an outlook that came in below analysts' expectations, sending shares lower in extended trading Wednesday. The chip designer and Nvidia (NVDA) partner said it anticipates fiscal first-quarter adjusted earnings per share of 30 cents to 38 cents, short of the 41 cents called for by Wall Street, according to Visible Alpha. Arm's revenue forecast, of $1 billion to $1.1 billion, was also lower than the analyst consensus at the midpoint of its range. Arm shares fell some 9% in after-hours trading. The stock is up less than 1% so far in 2025 through Wednesday’s close. In its fiscal fourth quarter, Arm posted record revenue of $1.24 billion, up 34% year-over-year and above the analyst consensus from Visible Alpha. Adjusted net income was $584 million, or 55 cents per share, compared to $376 million, or 36 cents per share, a year earlier, surpassing Wall Street’s estimates. Arm's royalty revenue improved 18% to a record $607 million, while its license and other revenue gained 53% to $634 million.
+--------------------------------------------------
+
+Title: Nvidia CEO sounds the alarm on China
+URL: https://www.thestreet.com/technology/nvidia-ceo-sends-strong-message-on-china
+Time Published: 2025-05-07T19:37:00Z
+Description: Nvidia stock is down 15% year-to-date.
+--------------------------------------------------
+
 Title: Is NVIDIA Corporation (NVDA) the Best Dow Stock?
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c3962cda-53b6-44c6-a7ef-9ac9233da8f4
 Time Published: 2025-05-07T18:26:24Z
-Full Content:
-Yahoo is part of the Yahoo family of brandsThe sites and apps that we own and operate, including Yahoo, AOL, Engadget, Rivals, In The Know and Makers.Yahoo family of brands. If you do not want us and our partners to use cookies and personal data for these additional purposes, click 'Reject all'. If you would like to customise your choices, click 'Manage privacy settings'. You can withdraw your consent or change your choices at any time by clicking on the 'Privacy & cookie settings' or 'Privacy dashboard' links on our sites and apps. Find out more about how we use your personal data in our privacy policy and cookie policy.
+Description: None
 --------------------------------------------------
 
 Title: NVIDIA Corporation (NVDA): Long-Term Growth Confidence Builds Despite Modest Portfolio Weighting
