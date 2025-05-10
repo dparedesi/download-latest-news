@@ -12,6 +12,12 @@ Time Published: 2025-05-08T23:19:14Z
 Description: We recently published a list of Billionaire Bruce Kovner’s 10 Stock Picks with Huge Upside Potential. In this article, we are going to take a look at where...
 --------------------------------------------------
 
+Title: Veteran Wall Street trader's move will surprise Nvidia investors
+URL: https://www.thestreet.com/investing/stocks/veteran-wall-street-traders-move-will-surprise-nvidia-investors
+Time Published: 2025-05-08T23:10:13Z
+Description: The lead portfolio manager for TheStreet Pro Portfolio talks investing with a market veteran.
+--------------------------------------------------
+
 Title: Nvidia and other chipmakers are getting a big win as Trump kills the 'AI diffusion rule'
 URL: https://finance.yahoo.com/news/why-trump-killing-ai-diffusion-162500313.html
 Time Published: 2025-05-08T17:04:00Z
