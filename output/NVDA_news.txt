@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: MSFT, PLTR, and NVDA: Daniel Ives Picks the Best AI Stocks to Buy
+URL: https://finance.yahoo.com/news/msft-pltr-nvda-daniel-ives-102032665.html
+Time Published: 2025-05-10T10:20:32Z
+Description: AI promises to transform nearly everything about our world, in ways possibly more profound than anything since the Industrial Revolution kicked off in the...
+--------------------------------------------------
+
+Title: The Weekend: Interest rate cuts and trade deals lift the mood
+URL: https://uk.finance.yahoo.com/news/interest-rate-cuts-trade-deals-warren-buffett-david-attenborough-100305050.html
+Time Published: 2025-05-10T10:03:05Z
+Description: Key moments from the last seven days, plus a glimpse at the week ahead
+--------------------------------------------------
+
 Title: Genocide, Blood, and Dividends
 URL: https://dailyreckoning.com/genocide-blood-and-dividends/
 Time Published: 2025-05-09T22:00:48Z
@@ -197,16 +209,16 @@ Time Published: 2025-05-06T22:01:44Z
 Description: Speaking at the Milken Institute Global Conference, Nvidia (NVDA) CEO Jensen Huang explains how "every job will be affected" by AI. But he also says that AI ...
 --------------------------------------------------
 
-Title: AMD stock whipsaws as Wall Street balances better than anticipated Q1 results with AI uncertainty
-URL: https://finance.yahoo.com/news/amd-stock-whipsaws-as-wall-street-balances-better-than-anticipated-q1-results-with-ai-uncertainty-202218785.html
-Time Published: 2025-05-06T20:22:18Z
-Description: AMD shares wipsawed in early trading Wednesday as Wall Street tried to make sense of the company's future outlook.
---------------------------------------------------
-
 Title: AMD posts better than anticipated Q1 earnings, stock jumps on strong Q2 outlook
 URL: https://finance.yahoo.com/news/amd-posts-better-than-anticipated-q1-earnings-stock-jumps-on-strong-q2-outlook-202218392.html
 Time Published: 2025-05-06T20:22:18Z
 Description: AMD posted better-than-expected Q1 earnings after the bell on Tuesday.
+--------------------------------------------------
+
+Title: AMD stock whipsaws as Wall Street balances better than anticipated Q1 results with AI uncertainty
+URL: https://finance.yahoo.com/news/amd-stock-whipsaws-as-wall-street-balances-better-than-anticipated-q1-results-with-ai-uncertainty-202218785.html
+Time Published: 2025-05-06T20:22:18Z
+Description: AMD shares wipsawed in early trading Wednesday as Wall Street tried to make sense of the company's future outlook.
 --------------------------------------------------
 
 Title: 10 tech stocks that could rally up to 41% — and make good use of your money
