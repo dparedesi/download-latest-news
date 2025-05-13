@@ -1,5 +1,17 @@
 List of news related to Axon Enterprise AXON:
 
+Title: Bullish Sign for S&P Flashes With More Stocks Shouldering Rally
+URL: https://financialpost.com/pmn/business-pmn/bullish-sign-for-sp-flashes-with-more-stocks-shouldering-rally
+Time Published: 2025-05-12T10:02:01Z
+Description: There are plenty of reasons to doubt the stock market’s recent advance — trade-deal progress is scant, economic data is souring and outlooks from US firms are the worst in years. In spite all of that, one measure, at least, suggests that investor confidence i…
+--------------------------------------------------
+
+Title: Bullish sign for S&P flashes with more stocks shouldering rally
+URL: https://financialpost.com/news/bullish-sign-sp-flashes-stocks-shouldering-rally
+Time Published: 2025-05-12T10:02:01Z
+Description: An equal-weighted version of the S&P 500 Index has outperformed the standard cap-weighted S&P 500 for six consecutive sessions
+--------------------------------------------------
+
 Title: Asian stocks mixed after hopes for China-U.S. talks, trade deal with UK lift Wall Street
 URL: https://japantoday.com/category/business/asian-stocks-are-mixed-after-hopes-for-china-us-talks-trade-deal-with-the-uk-lift-wall-street
 Time Published: 2025-05-09T07:35:12Z
