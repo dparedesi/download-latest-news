@@ -5,22 +5,3 @@ URL: https://finance.yahoo.com/news/crowdstrike-holdings-inc-crwd-reported-19513
 Time Published: 2025-05-10T19:51:37Z
 Description: Calling IT security giant CrowdStrike Holdings, Inc. (CRWD) “one of the greatest companies in tech,” well-known investor Josh Brown on CNBC said that the...
 --------------------------------------------------
-
-Title: Price Target on CrowdStrike (CRWD) Raised by Japanese Bank After Layoffs
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4d573d11-a3d3-49d9-bcfe-708d6986101a
-Time Published: 2025-05-07T18:33:53Z
-Description: None
---------------------------------------------------
-
-Title: CrowdStrike Stock Slides as Cybersecurity Firm Plans Job Cuts
-URL: https://www.investopedia.com/crowdstrike-stock-slides-as-cybersecurity-firm-plans-job-cuts-11729958
-Time Published: 2025-05-07T18:30:22Z
-Full Content:
-CrowdStrike Holdings (CRWD) shares slid Wednesday, a day after the cybersecurity company said in a regulatory filing it plans to cut roughly 500 jobs, or 5% of its workforce. CrowdStrike "continues to scale its business with focus and discipline" toward a target of $10 billion in ending annual recurring revenue (ARR), it said Tuesday. In March, the company reported ending ARR of $4.24 billion as of Jan. 31. CrowdStrike expects to incur between $36 million and $53 million in layoff-related charges, including $7 million in its fiscal 2026 first quarter, the filing said. The company plans to report current-quarter results on June 3, with those charges excluded from its adjusted figures. The company added it sees Q1 results "in-line with or above" its March guidance and affirmed its full-year outlook. In a letter to employees, CEO George Kurtz said CrowdStrike is at a "market and technology inflection point, with AI reshaping every industry." "AI flattens our hiring curve, and helps us innovate from idea to product faster," Kurtz added. "It streamlines go-to-market, improves customer outcomes, and drives efficiencies across both the front and back office." Shares of CrowdStrike fell 5% in recent trading but are up 23% in 2025.
---------------------------------------------------
-
-Title: Jim Cramer on CrowdStrike Holdings, Inc. (CRWD): ‘George Kurtz Keeps Winning in Cybersecurity’
-URL: https://finance.yahoo.com/news/jim-cramer-crowdstrike-holdings-inc-172250963.html
-Time Published: 2025-05-07T17:22:50Z
-Description: We recently published a list of Jim Cramer Reveals Trump’s Potential Secret Weapon In China Trade Talks & Discusses These 10 Stocks. In this article, we are ...
---------------------------------------------------

@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA Corporation (NVDA): Among the Best Stocks to Buy According to Jim Simons’ Renaissance Technologies
+URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-among-best-204918361.html
+Time Published: 2025-05-11T20:49:18Z
+Description: We recently published a list of 15 Best Stocks to Buy According to Jim Simons’ Renaissance Technologies In this article, we are going to take a look at where...
+--------------------------------------------------
+
 Title: Former OpenAI CTO Mira Murati's $2B AI Startup Thinking Machines Lab Sets $50M Investment Minimum, Backed By Andreessen Horowitz And Sequoia Capital
 URL: https://www.benzinga.com/news/25/05/45336180/former-openai-cto-mira-muratis-2b-ai-startup-thinking-machines-lab-sets-50m-investment-minimum-backed-by-andreessen-horowitz-and-sequoia-capital
 Time Published: 2025-05-10T21:08:58Z
@@ -97,7 +103,7 @@ Title: Here’s why Trump killing the ‘AI diffusion rule’ is a win for chipm
 URL: https://qz.com/nvidia-amd-trump-biden-ai-chips-china-rule-1851779738
 Time Published: 2025-05-08T16:25:00Z
 Full Content:
-The U.S. government plans to withdraw a rule introduced under the Biden administration that had aimed to restrict exports of advanced AI chips — a policy that had posed challenges for major semiconductor companies like Nvidia (NVDA) and AMD (AMD). “The Biden AI rule is overly complex, overly bureaucratic and would stymie American innovation,” a spokeswoman from the Commerce Department said in a statement. The Trump administration intends to issue a revised version of the rule, which was set to come into effect on May 15. This process could take months to finalize, sources told Axios. The regulation in question — titled the Framework for Artificial Intelligence Diffusion — would have limited exports of AI chips to over 100 countries. These restrictions aimed to prevent countries from bypassing U.S. export controls, particularly in relation to China. Chipmakers had criticized the rules, however. They argued it would give an advantage to Chinese competitors, such as Huawei, as they develop and sell their own AI hardware, foregoing an opportunity to ensure that much of the world would rely on American technology. The rule would have affected Nvidia’s ability to sell its high-demand graphics processing units, or GPUs, in markets such as India, Mexico, Singapore, and Switzerland. The shift could reflect a relaxing stance toward regulating AI, offering a momentary boon for chipmakers. Since Bloomberg first reported the reversal on Wednesday, Nvidia and AMD stocks have gained 4.4% and 3.4%, respectively. But any respite could prove temporary, and obstacles persist when it comes to accessing the crucial Chinese market. Nvidia’s most powerful chips, including the A100 and H100, are already banned from export to China, as a result of Biden-era restrictions. Last month the Trump administration also introduced new license requirements for less powerful chips by Nvidia and AMD in order to comply with export controls. Nvidia said these requirements on its H20 chips had resulted in a $5.5 billion hit to its quarterly earnings, according to a Securities and Exchange Commission filing. The company’s earnings are scheduled to be released May 28. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
+The U.S. government plans to withdraw a rule introduced under the Biden administration that had aimed to restrict exports of advanced AI chips — a policy that had posed challenges for major semiconductor companies like Nvidia (NVDA-1.54%) and AMD (AMD+0.47%). “The Biden AI rule is overly complex, overly bureaucratic and would stymie American innovation,” a spokeswoman from the Commerce Department said in a statement. The Trump administration intends to issue a revised version of the rule, which was set to come into effect on May 15. This process could take months to finalize, sources told Axios. The regulation in question — titled the Framework for Artificial Intelligence Diffusion — would have limited exports of AI chips to over 100 countries. These restrictions aimed to prevent countries from bypassing U.S. export controls, particularly in relation to China. Chipmakers had criticized the rules, however. They argued it would give an advantage to Chinese competitors, such as Huawei, as they develop and sell their own AI hardware, foregoing an opportunity to ensure that much of the world would rely on American technology. The rule would have affected Nvidia’s ability to sell its high-demand graphics processing units, or GPUs, in markets such as India, Mexico, Singapore, and Switzerland. The shift could reflect a relaxing stance toward regulating AI, offering a momentary boon for chipmakers. Since Bloomberg first reported the reversal on Wednesday, Nvidia and AMD stocks have gained 4.4% and 3.4%, respectively. But any respite could prove temporary, and obstacles persist when it comes to accessing the crucial Chinese market. Nvidia’s most powerful chips, including the A100 and H100, are already banned from export to China, as a result of Biden-era restrictions. Last month the Trump administration also introduced new license requirements for less powerful chips by Nvidia and AMD in order to comply with export controls. Nvidia said these requirements on its H20 chips had resulted in a $5.5 billion hit to its quarterly earnings, according to a Securities and Exchange Commission filing. The company’s earnings are scheduled to be released May 28. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
 --------------------------------------------------
 
 Title: Trump ditches controversial Biden AI chip rule. But what is going to replace it?
@@ -128,83 +134,4 @@ Title: Trump To Revise AI Chip Curbs. What Does That Mean For Nvidia And AMD?
 URL: https://www.investors.com/news/technology/trump-ai-chip-exports-nvidia-amd/
 Time Published: 2025-05-08T01:11:32Z
 Description: Trump reportedly plans to revise AI chip export curbs. But it is unclear what the change could mean for Nvidia stock and AMD.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Trump touts 'major' US-UK trade deal
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-trump-touts-major-us-uk-trade-deal-231641954.html
-Time Published: 2025-05-07T23:16:41Z
-Description: Trump said he's poised to unveil a "major" trade deal, boosting optimism that the tide has turned in the tariff hostilities.
---------------------------------------------------
-
-Title: Nvidia stock rises on report that Trump administration will repeal Biden’s AI chip curbs
-URL: https://finance.yahoo.com/news/nvidia-stock-rises-on-report-trump-administration-plans-to-repeal-bidens-ai-chip-curbs-221542763.html
-Time Published: 2025-05-07T22:15:42Z
-Description: Nvidia stock rose 3% to end the trading day Wednesday, following a Bloomberg report that the Trump administration plans to repeal AI chip export restrictions...
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA): Among Billionaire Mario Gabelli’s Large-Cap Stock Picks with Huge Upside Potential
-URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-among-billionaire-220012587.html
-Time Published: 2025-05-07T22:00:12Z
-Description: We recently published a list of Billionaire Mario Gabelli’s 10 Large-Cap Stock Picks with Huge Upside Potential. In this article, we are going to take a look...
---------------------------------------------------
-
-Title: Arm Stock Falls Despite Record Revenue as Outlook Misses the Mark
-URL: https://www.investopedia.com/arm-earnings-q4-fy2025-11729270
-Time Published: 2025-05-07T20:51:28Z
-Full Content:
-Arm Holdings (ARM) delivered an outlook that came in below analysts' expectations, sending shares lower in extended trading Wednesday. The chip designer and Nvidia (NVDA) partner said it anticipates fiscal first-quarter adjusted earnings per share of 30 cents to 38 cents, short of the 41 cents called for by Wall Street, according to Visible Alpha. Arm's revenue forecast, of $1 billion to $1.1 billion, was also lower than the analyst consensus at the midpoint of its range. Arm shares fell some 9% in after-hours trading. The stock is up less than 1% so far in 2025 through Wednesday’s close. In its fiscal fourth quarter, Arm posted record revenue of $1.24 billion, up 34% year-over-year and above the analyst consensus from Visible Alpha. Adjusted net income was $584 million, or 55 cents per share, compared to $376 million, or 36 cents per share, a year earlier, surpassing Wall Street’s estimates. Arm's royalty revenue improved 18% to a record $607 million, while its license and other revenue gained 53% to $634 million.
---------------------------------------------------
-
-Title: Nvidia CEO sounds the alarm on China
-URL: https://www.thestreet.com/technology/nvidia-ceo-sends-strong-message-on-china
-Time Published: 2025-05-07T19:37:00Z
-Description: Nvidia stock is down 15% year-to-date.
---------------------------------------------------
-
-Title: Is NVIDIA Corporation (NVDA) the Best Dow Stock?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c3962cda-53b6-44c6-a7ef-9ac9233da8f4
-Time Published: 2025-05-07T18:26:24Z
-Description: None
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA): Long-Term Growth Confidence Builds Despite Modest Portfolio Weighting
-URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-long-term-173408257.html
-Time Published: 2025-05-07T17:34:08Z
-Description: We recently published a list of 10 AI Stocks Getting Wall Street’s Attention Right Now. In this article, we are going to take a look at where NVIDIA...
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA): Among Billionaire Ray Dalio’s Bridgewater’s Stock Picks with Huge Upside Potential
-URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-among-billionaire-170206910.html
-Time Published: 2025-05-07T17:02:06Z
-Description: We recently published a list of Billionaire Ray Dalio’s Bridgewater’s 10 Stock Picks with Huge Upside Potential. In this article, we are going to take a look...
---------------------------------------------------
-
-Title: Jim Cramer Asserts that NVIDIA Corporation (NVDA) Will Experience Sizeable Demand
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_71da09b2-90ff-4d6d-bb97-9e9eb51ec8d5
-Time Published: 2025-05-07T16:05:35Z
-Description: None
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA): Among Billionaire Louis Bacon’s Stock Picks with Huge Upside Potential
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4b4f6b65-934c-43e4-a286-675a2eb95cc0
-Time Published: 2025-05-07T13:27:38Z
-Description: None
---------------------------------------------------
-
-Title: Nvidia (NVDA) CEO Says AI Will Reshape Every Job
-URL: https://finance.yahoo.com/news/nvidia-nvda-ceo-says-ai-125313845.html
-Time Published: 2025-05-07T12:53:13Z
-Description: Huang urges early adoption as stock drops 15% in 2025
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA): Among David Tepper’s Stock Picks with Huge Upside Potential
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_01161f69-3511-424d-86de-0f977498aaf0
-Time Published: 2025-05-07T11:58:06Z
-Description: None
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA): Among Most Popular Stocks on Robinhood in 2025
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_88ad2a27-d590-42d0-97b7-bdcd575ecdd3
-Time Published: 2025-05-07T11:55:29Z
-Description: None
 --------------------------------------------------
