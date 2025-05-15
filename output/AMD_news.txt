@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Advanced Micro Devices, Inc. (AMD) – MI300X, EPYC Chips Fuel AMD Growth Despite China Export Headwinds
+URL: https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-215228677.html
+Time Published: 2025-05-13T21:52:28Z
+Description: We recently published a list of 10 AI Stocks Surging on News and Ratings. In this article, we are going to take a look at where Advanced Micro Devices, Inc. ...
+--------------------------------------------------
+
 Title: AMD Launches EPYC 4005 Chips For Small Business And Cloud
 URL: https://finance.yahoo.com/news/amd-launches-epyc-4005-chips-162357386.html
 Time Published: 2025-05-13T16:23:57Z
