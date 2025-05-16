@@ -11,9 +11,3 @@ URL: https://www.marketwatch.com/story/now-that-trade-deals-are-getting-done-her
 Time Published: 2025-05-12T12:38:00Z
 Description: UBS strategists led by Sean Simonds have a timely note about how now the questions will be less on policy uncertainty and more on outcome uncertainty.
 --------------------------------------------------
-
-Title: Trump is hailing $2 trillion in new company investments. Most of it comes from Big Tech.
-URL: https://finance.yahoo.com/news/trump-is-hailing-2-trillion-in-new-company-investments-most-of-it-comes-from-big-tech-123034731.html
-Time Published: 2025-05-10T12:30:34Z
-Description: President Trump has touted $2 trillion in new company investments since Inauguration Day. The lion's share comes from Big Tech, according to a Yahoo Finance ...
---------------------------------------------------
