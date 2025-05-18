@@ -1,5 +1,11 @@
 List of news related to Bank of America stock price BAC:
 
+Title: Stock market today: S&P 500 notches 5-day win streak, Nasdaq gains 7% for week as Wall Street shakes off trade war worries
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-notches-5-day-win-streak-nasdaq-gains-7-for-week-as-wall-street-shakes-off-trade-war-worries-200047210.html
+Time Published: 2025-05-16T20:00:47Z
+Description: Relief over easing trade tensions is giving way to concern about the impact of President Trump's tariffs.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq little changed as US stocks eye a weekly win
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-little-changed-as-us-stocks-eye-a-weekly-win-133103646.html
 Time Published: 2025-05-16T13:31:03Z

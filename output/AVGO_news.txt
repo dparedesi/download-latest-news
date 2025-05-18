@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: The Stock Market's Comeback: Key Takeaways for Investors
+URL: https://stockcharts.com/articles/chartwatchers/2025/05/the-stock-markets-comeback-key-506.html
+Time Published: 2025-05-16T23:16:39Z
+Description: If you didn't check in on the stock market the last couple of weeks, you might be surprised to see how strong they were this week.The three major stock indexes — S&P 500 ($SPX), Nasdaq Composite ($COMPQ), and Dow Jones Industrial Average ($INDU) — broke throu…
+--------------------------------------------------
+
 Title: Leverage Shares by Themes continues product expansion with a new single stock Leveraged ETF, bringing investors an exciting opportunity to amplify exposure to Broadcom (AVGO)
 URL: https://www.globenewswire.com/news-release/2025/05/16/3083177/0/en/Leverage-Shares-by-Themes-continues-product-expansion-with-a-new-single-stock-Leveraged-ETF-bringing-investors-an-exciting-opportunity-to-amplify-exposure-to-Broadcom-AVGO.html
 Time Published: 2025-05-16T14:00:00Z
@@ -56,30 +62,4 @@ Title: What Makes Broadcom (AVGO) A Leader in Critical Technology Markets?
 URL: https://finance.yahoo.com/news/makes-broadcom-avgo-leader-critical-123710088.html
 Time Published: 2025-05-13T12:37:10Z
 Description: Baron Funds, an investment management company, released its “Baron Technology Fund” first quarter 2025 investor letter. A copy of the letter can be...
---------------------------------------------------
-
-Title: Tesla Rides Market Rally Back Into $1 Trillion Club
-URL: https://www.investopedia.com/tesla-rides-market-rally-back-into-usd1-trillion-club-11733417
-Time Published: 2025-05-12T21:08:01Z
-Full Content:
-Tesla (TSLA) shares surged Monday, pushing the company's market capitalization back above $1 trillion, amid a broad market rally after the U.S. and China agreed to temporarily lower tariffs. Shares of Tesla rose nearly 7% to close at $318.38 Monday, bringing the company's market cap to $1.02 trillion. That makes the Elon Musk-led automaker one of just nine American companies worth $1 trillion or more, along with Microsoft (MSFT), Apple (AAPL), Nvidia (NVDA), Amazon (AMZN), Alphabet (GOOGL), Meta (META) Berkshire Hathaway (BRK.A, BRK.B), and Broadcom (AVGO). Tesla's stock has climbed for three consecutive weeks, but the shares are still down more than 20% for 2025. The EV maker has faced a political backlash over CEO Elon Musk's involvement in the Trump administration's cost-cutting efforts, with shares erasing much of their gains in the wake of President Donald Trump's election win. Last month, Musk said he would step back from Trump's Department of Government Efficiency to spend more time with Tesla. Sales have lagged, including in China, where the company shipped fewer vehicles in April than it did a year earlier. Last month marked Tesla's seventh straight month of year-over-year declines in shipments from China, according to preliminary data from the China Passenger Car Association.
---------------------------------------------------
-
-Title: Jim Cramer sees 4 stocks as our biggest winners of easing U.S.-China trade tensions
-URL: https://www.cnbc.com/2025/05/12/jim-cramer-sees-4-stocks-as-winners-of-easing-us-china-trade-tensions.html
-Time Published: 2025-05-12T19:26:08Z
-Description: Monday's trade announcement signals an easing of geopolitical tensions between the world's two largest economies.
---------------------------------------------------
-
-Title: Now that trade deals are getting done, this out-of-favor stock-market strategy may shine
-URL: https://www.marketwatch.com/story/now-that-trade-deals-are-getting-done-heres-why-this-out-of-favor-stock-market-strategy-may-shine-006e16f3
-Time Published: 2025-05-12T12:38:00Z
-Description: UBS strategists led by Sean Simonds have a timely note about how now the questions will be less on policy uncertainty and more on outcome uncertainty.
---------------------------------------------------
-
-Title: Tech Stocks Rally on US-China Trade Deal
-URL: https://www.investopedia.com/tech-stocks-rally-on-us-china-trade-deal-11732798
-Time Published: 2025-05-12T12:26:11Z
-Full Content:
-Shares of tech firms surged in early trading Monday after the U.S. and China agreed to temporarily slash tariffs while they work out a long term deal. All of the Magnificent Seven stocks—Tesla (TSLA), Alphabet (GOOGL), Microsoft (MSFT), Meta Platforms (META), Apple (AAPL), Nvidia (NVDA), and Amazon (AMZN)—advanced along with global indexes on the de-escalation of the trade war with China. The Roundhill Magnificent Seven ETF (MAGS) was up 4% shortly after the markets opened. Shares of chipmakers Marvell Technologies (MRVL), Broadcom (AVGO), Intel (INTC), and AMD (AMD) also rose sharply. Tech stocks had gotten hammered after President Donald Trump's "Liberation Day" tariff announcement in early April prompted one of the worst stock sell-offs in decades, with Apple shares losing 16% of their value in their worst 2-day stretch since September 2008. UPDATE—This article has been updated with the latest share price information.
 --------------------------------------------------
