@@ -5,9 +5,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a45bdff7
 Time Published: 2025-05-17T21:28:06Z
 Description: None
 --------------------------------------------------
-
-Title: Novo Nordisk strikes $2.2 billion deal with Septerna to develop new obesity treatments
-URL: https://finance.yahoo.com/news/novo-nordisk-strikes-2-2-110348231.html
-Time Published: 2025-05-14T11:03:48Z
-Description: COPENHAGEN (Reuters) -Novo Nordisk has struck a collaboration and licensing deal with U.S. biotech Septerna to develop oral small molecule medicines for...
---------------------------------------------------

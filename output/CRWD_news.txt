@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: CrowdStrike (CRWD) Downgraded as Analysts Await Better Entry Point
+URL: https://finance.yahoo.com/news/crowdstrike-crwd-downgraded-analysts-await-110157231.html
+Time Published: 2025-05-18T11:01:57Z
+Description: We recently published a list of 10 Trending AI Stocks on Wall Street Right Now. In this article, we are going to take a look at where CrowdStrike Holdings...
+--------------------------------------------------
+
 Title: CrowdStrike: Why I Have No Plans To Sell
 URL: https://seekingalpha.com/article/4787899-crowdstrike-why-i-have-no-plans-to-sell
 Time Published: 2025-05-18T08:06:07Z
@@ -10,10 +16,4 @@ Title: CrowdStrike Downgraded Ahead Of First Quarter Earnings Report
 URL: https://www.investors.com/news/technology/crowdstrike-downgraded-ahead-of-first-quarter-earnings-report/
 Time Published: 2025-05-15T15:58:33Z
 Description: CrowdStrike stock fell amid a downgrade to neutral from Mizuho Securities ahead of the cybersecurity firm's first quarter earnings report.
---------------------------------------------------
-
-Title: CrowdStrike Holdings, Inc. (CRWD): Among the Best Growth Stocks to Buy and Hold for the Long Term
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4b062cd6-dc5c-4441-a9e1-1acfc6fd05af
-Time Published: 2025-05-14T02:25:16Z
-Description: None
 --------------------------------------------------

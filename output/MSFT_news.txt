@@ -30,9 +30,3 @@ URL: https://www.investors.com/news/technology/crowdstrike-downgraded-ahead-of-f
 Time Published: 2025-05-15T15:58:33Z
 Description: CrowdStrike stock fell amid a downgrade to neutral from Mizuho Securities ahead of the cybersecurity firm's first quarter earnings report.
 --------------------------------------------------
-
-Title: Here are things driving the 5-day winning streak in Amazon stock
-URL: https://www.cnbc.com/2025/05/14/here-are-things-driving-the-5-day-winning-streak-in-amazon-stock.html
-Time Published: 2025-05-14T19:32:25Z
-Description: We don't like to read too much into multi-day winning streaks, but do like all the good news around Amazon.
---------------------------------------------------
