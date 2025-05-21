@@ -1,5 +1,11 @@
 List of news related to Adobe stock price ADBE:
 
+Title: Barclays Calls Adobe’s (ADBE) New Pricing Plan Supportive to Future Growth
+URL: https://finance.yahoo.com/news/barclays-calls-adobe-adbe-pricing-202644375.html
+Time Published: 2025-05-19T20:26:44Z
+Description: On May 16, Barclays analyst Saket Kalia praised Adobe Inc.’s (NASDAQ:ADBE) new pricing tiers for its Creative Cloud offerings. He believes that such pricing ...
+--------------------------------------------------
+
 Title: Adobe (ADBE) Stock Rises As Analysts Back Price Hike Move
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4f33c46b-7fb6-4de0-ae4e-7e768a03b99b
 Time Published: 2025-05-19T10:12:09Z
