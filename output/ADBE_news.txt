@@ -11,9 +11,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4f33c46b
 Time Published: 2025-05-19T10:12:09Z
 Description: None
 --------------------------------------------------
-
-Title: Was Jim Cramer Right About Adobe (ADBE) Stock?
-URL: https://finance.yahoo.com/news/jim-cramer-adobe-adbe-stock-201126208.html
-Time Published: 2025-05-16T20:11:26Z
-Description: Back in 2024, on May 14, a caller on the Mad Money show asked about Adobe Inc. (NASDAQ:ADBE), concerned about its 20% decline year-to-date and...
---------------------------------------------------
