@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: MediaTek Taps Taiwan Semiconductor Manufacturing Company for 2nm Chip Tape-Out
+URL: https://finance.yahoo.com/news/mediatek-taps-taiwan-semiconductor-manufacturing-180201511.html
+Time Published: 2025-05-21T18:02:01Z
+Description: On May 20, Taiwanese chip designer, MediaTek announced plans to start the tape-out process for its 2-nanometer chip at Taiwan Semiconductor Manufacturing...
+--------------------------------------------------
+
 Title: Money Flows Into International ETFs VXUS AVEM
 URL: http://www.etf.com/sections/news/money-flows-international-etfs-vxus-avem?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss
 Time Published: 2025-05-20T22:00:00Z
