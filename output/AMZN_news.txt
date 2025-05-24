@@ -31,9 +31,3 @@ URL: https://finance.yahoo.com/news/netflix-stock-downgraded-on-valuation-concer
 Time Published: 2025-05-19T15:50:33Z
 Description: Netflix's high valuation is a key reason for the downgrade, according to JPMorgan.
 --------------------------------------------------
-
-Title: Trump tariff uncertainty still makes earnings estimates and guidance useless
-URL: https://finance.yahoo.com/news/trump-tariff-uncertainty-still-makes-earnings-estimates-and-guidance-useless-100023151.html
-Time Published: 2025-05-18T10:00:23Z
-Description: If investors are looking for thesis justification via earnings estimates and guidance, they shouldn't.
---------------------------------------------------
