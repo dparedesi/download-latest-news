@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Big Tech's spending drove Nvidia's rise
+URL: https://finance.yahoo.com/news/big-techs-spending-drove-nvidias-rise-154027146.html
+Time Published: 2025-05-23T15:40:27Z
+Description: Bloomberg estimates that Microsoft spends roughly 47% of its capital expenditures directly on Nvidia’s chips and accounts for nearly 19% of Nvidia’s revenue ...
+--------------------------------------------------
+
 Title: Watch These IonQ Price Levels After Quantum Stock Soared 37% on Thursday
 URL: https://www.investopedia.com/watch-these-ionq-price-levels-after-quantum-stocks-37-percent-rise-on-thursday-11740681
 Time Published: 2025-05-23T03:15:00Z
