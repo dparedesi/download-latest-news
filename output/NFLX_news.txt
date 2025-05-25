@@ -11,21 +11,3 @@ URL: https://finance.yahoo.com/news/netflix-inc-nflx-price-target-145311947.html
 Time Published: 2025-05-20T14:53:11Z
 Description: Investment bank TD Cowen earlier today raised its price target on Netflix Inc (NFLX) to $1,325 from $1,150 while keeping a Buy rating on the shares. The...
 --------------------------------------------------
-
-Title: What to know about Netflix's downgrade & 'Sesame Street' addition
-URL: https://finance.yahoo.com/video/know-netflixs-downgrade-sesame-street-211559446.html
-Time Published: 2025-05-19T21:15:59Z
-Description: Netflix (NFLX) is rebounding from earlier losses after being downgraded by JPMorgan analysts to Neutral from Overweight. Yahoo Finance Senior Reporter Allie ...
---------------------------------------------------
-
-Title: Netflix stock downgraded on valuation concerns despite recent defensive strength
-URL: https://finance.yahoo.com/news/netflix-stock-downgraded-on-valuation-concerns-despite-recent-defensive-strength-155033634.html
-Time Published: 2025-05-19T15:50:33Z
-Description: Netflix's high valuation is a key reason for the downgrade, according to JPMorgan.
---------------------------------------------------
-
-Title: Netflix, Reddit downgraded: Wall Street's top analyst calls
-URL: https://finance.yahoo.com/news/netflix-reddit-downgraded-wall-streets-134356732.html
-Time Published: 2025-05-19T13:43:56Z
-Description: Netflix, Reddit downgraded: Wall Street's top analyst calls
---------------------------------------------------
