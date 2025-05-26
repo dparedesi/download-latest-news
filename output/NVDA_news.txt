@@ -21,6 +21,12 @@ Description: A quarterly earnings release from Nvidia is set to greet investors 
 --------------------------------------------------
 
 Title: Nvidia, Costco, and Fed minutes: What to watch in the stock market this week
+URL: https://finance.yahoo.com/news/nvidia-costco-fed-minutes-watch-090000190.html
+Time Published: 2025-05-25T09:00:00Z
+Description: With the bond-market selloff spooking investors across the board, stocks finished last week in the red. The Dow, Nasdaq, and S&P 500 all fell.
+--------------------------------------------------
+
+Title: Nvidia, Costco, and Fed minutes: What to watch in the stock market this week
 URL: https://qz.com/stock-market-closed-memorial-day-nvidia-costco-earnings-1851782059
 Time Published: 2025-05-25T09:00:00Z
 Full Content:
@@ -229,7 +235,7 @@ Title: Bitcoin Overtakes Amazon as the Fifth Largest Asset, Hitting $2.16T Marke
 URL: https://www.coindesk.com/markets/2025/05/21/bitcoin-overtakes-amazon-as-the-fifth-largest-asset-hitting-usd2-16t-market-cap
 Time Published: 2025-05-21T16:18:22Z
 Full Content:
-Bitcoin BTC$109,501.53 became the world’s fifth-largest asset after hitting a new all-time high on Wednesday, which pushed its market cap to $2.16 trillion. Though the crypto’s price consolidated lower after hitting a high of $109,400, its market cap passed Amazon (AMZN), which stands at $2.15 trillion. Bitcoin is up 16.44% year-to-date while shares of the online retailer are down about 8% over the same period. It is currently trading at $108,954. Gold is the largest asset, by far, standing at a $22 trillion market cap, followed by Microsoft (MSFT), NVIDIA (NVDA) and Apple (AAPL) which stand at $3.1 trillion to $3.4 trillion respectively. As a result of the surge in bitcoin’s price since the win of U.S. President Donald Trump, BlackRock’s iShares Bitcoin Trust (IBIT) recently became the fifth-largest exchange-traded fund (ETF) by inflows this year as it took in roughly $9 billion from investors, according to data from Bloomberg senior ETF analyst Eric Balchunas. Helene is a New York-based markets reporter at CoinDesk, covering the latest news from Wall Street, the rise of the spot bitcoin exchange-traded funds and updates on crypto markets. She is a graduate of New York University's business and economic reporting program and has appeared on CBS News, YahooFinance and Nasdaq TradeTalks. She holds BTC and ETH. About Contact
+Bitcoin BTC$109,036.22 became the world’s fifth-largest asset after hitting a new all-time high on Wednesday, which pushed its market cap to $2.16 trillion. Though the crypto’s price consolidated lower after hitting a high of $109,400, its market cap passed Amazon (AMZN), which stands at $2.15 trillion. Bitcoin is up 16.44% year-to-date while shares of the online retailer are down about 8% over the same period. It is currently trading at $108,954. Gold is the largest asset, by far, standing at a $22 trillion market cap, followed by Microsoft (MSFT), NVIDIA (NVDA) and Apple (AAPL) which stand at $3.1 trillion to $3.4 trillion respectively. As a result of the surge in bitcoin’s price since the win of U.S. President Donald Trump, BlackRock’s iShares Bitcoin Trust (IBIT) recently became the fifth-largest exchange-traded fund (ETF) by inflows this year as it took in roughly $9 billion from investors, according to data from Bloomberg senior ETF analyst Eric Balchunas. Helene is a New York-based markets reporter at CoinDesk, covering the latest news from Wall Street, the rise of the spot bitcoin exchange-traded funds and updates on crypto markets. She is a graduate of New York University's business and economic reporting program and has appeared on CBS News, YahooFinance and Nasdaq TradeTalks. She holds BTC and ETH. About Contact
 --------------------------------------------------
 
 Title: Nvidia’s (NVDA) Recent Announcements Are Bullish for NVDA Stock, Tech Researcher Says
