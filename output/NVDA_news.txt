@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia (NVDA) to Help Build Sweden’s First AI Infrastructure
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4aabf312-1478-42ec-baef-4ee70de65916
+Time Published: 2025-05-26T18:16:27Z
+Description: None
+--------------------------------------------------
+
 Title: Why Nvidia’s rise could signal bad news for climate goals
 URL: https://finance.yahoo.com/news/why-nvidias-rise-could-signal-bad-news-for-climate-goals-160511078.html
 Time Published: 2025-05-26T16:05:11Z
