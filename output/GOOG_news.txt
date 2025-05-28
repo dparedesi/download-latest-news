@@ -11,9 +11,3 @@ URL: https://finance.yahoo.com/news/ai-helping-alphabet-goog-customers-195851715
 Time Published: 2025-05-23T19:58:51Z
 Description: After attending an event hosted by Alphabet Inc. (NASDAQ:GOOG), investment bank BMO Capital reported that the return on ad spend (ROAS) of the tech giant’s...
 --------------------------------------------------
-
-Title: Citi Remains Bullish on Alphabet (GOOG), Citing Personalization Efforts, Valuation
-URL: https://finance.yahoo.com/news/citi-remains-bullish-alphabet-goog-171544454.html
-Time Published: 2025-05-22T17:15:44Z
-Description: Citi today kept a $200 price target and a Buy rating on Alphabet Inc. (NASDAQ:GOOG) stock, citing the tech giant’s efforts to make its products more...
---------------------------------------------------
