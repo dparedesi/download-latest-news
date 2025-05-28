@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Nvidia's bear case: Is the hype train running out of tracks?
+URL: https://finance.yahoo.com/news/nvidias-bear-case-is-the-hype-train-running-out-of-tracks-110530397.html
+Time Published: 2025-05-27T11:05:30Z
+Description: There is a bear case to every bull case on a stock, even Nvidia.
+--------------------------------------------------
+
 Title: Truist Reiterates Buy on Amazon.com (AMZN) as Q2 Revenue Tracks Ahead
 URL: https://finance.yahoo.com/news/truist-reiterates-buy-amazon-com-055217215.html
 Time Published: 2025-05-25T05:52:17Z
