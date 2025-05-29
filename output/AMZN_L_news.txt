@@ -1,5 +1,12 @@
 List of news related to Layoffs Amazon:
 
+Title: Do The Woo CommunityReinventing Careers and Building Resilience in Tech with Mendel Kurland
+URL: https://dothewoo.io/reinventing-careers-and-building-resilience-in-tech-with-mendel-kurland/
+Time Published: 2025-05-28T09:32:00Z
+Full Content:
+Download file | Play in new window | Duration: 00:47:17 Welcome back to another episode of DevPulse: Expanding the Stack. In this chat, hosts Zach Stepek and Carl Alexander are joined by special guest Mendel Kurland, whose journey through the web industry is anything but ordinary. From his early entrepreneurial days of slinging websites out of a car with his cats in tow, to influential roles at GoDaddy, Amazon, and DigitalOcean. Mendel shares candid insights into resilience, reinvention, and the ever-evolving tech landscape. This episode isn’t just about code, it’s about life’s pivots, the importance of self-awareness, and staying adaptive in changing times. The group dives into Mendel’s passion for community, product consultancy, and bringing a human, high-touch approach to technology. Along the way, they riff on 90s ska, cross-generational music favorites, WordPress nostalgia, and the power of active listening. If you’re seeking inspiration for your own professional reinvention, or just love a good story about blending hustle, heart, and a dash of nerdy adventure, this episode is for you. Tune in for practical advice, laughs, and a fresh perspective on what it means to “expand the stack” both technically and personally. Thanks to our sponsor Omnisend: Whether it’s for integration into your Woo product, or building sites for clients, Omnisend is the solution for email and SMS marketing with their CRM solution for WooCommerce shops and your own website. Takeaways Important Links and Resources Timestamped Overview (audio) Hosted by Carl Alexander and Zach Stepek PocketCasts Apple Spotify YouTube RSS PocketCasts Apple Spotify YouTube RSS © BobWP 2025 Proudly powered by WordPress. Subscribe now to keep reading and get access to the full archive. Type your email… Subscribe Continue reading
+--------------------------------------------------
+
 Title: Amazon Coders Say Their Jobs Have Begun to Resemble Warehouse Work
 URL: https://slashdot.org/submission/17336371/amazon-coders-say-their-jobs-have-begun-to-resemble-warehouse-work
 Time Published: 2025-05-27T22:01:19Z
