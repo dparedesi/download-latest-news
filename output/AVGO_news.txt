@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Broadcom (AVGO) Is Gaining Market Share in the AI-Chip Space, Tech Researcher Says
+URL: https://finance.yahoo.com/news/broadcom-avgo-gaining-market-share-142628933.html
+Time Published: 2025-05-28T14:26:28Z
+Description: Broadcom Inc. (NASDAQ:AVGO) is gaining market share in the AI-chip space as more tech giants look to obtain fewer of their AI chips from Nvidia Corporation (...
+--------------------------------------------------
+
 Title: Jim Cramer on Broadcom Inc (AVGO): “This Stock Has Been a Horse”
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_59a672de-20bd-4245-8ab3-a8e2af71d835
 Time Published: 2025-05-27T21:53:11Z
