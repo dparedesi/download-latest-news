@@ -1,5 +1,12 @@
 List of news related to NVIDIA NVDA:
 
+Title: Bitcoin Uptrend at Risk Ahead of Nvidia Earnings, Fed Minutes; XRP Holds Key Support Amid XRPFi Narrative
+URL: https://www.coindesk.com/markets/2025/05/28/bitcoin-uptrend-at-risk-ahead-of-nvda-earnings-fed-minutes-xrp-holds-key-support-amid-xrpfi-narrative
+Time Published: 2025-05-28T05:35:59Z
+Full Content:
+Bitcoin's BTC$107,922.29 upward trend continued to show signs of weakness early Wednesday, even as Wall Street tech stocks surged overnight in anticipation of upbeat earnings from AI giant Nvidia (NVDA). The leading cryptocurrency by market value traded near $108,900 at press time, teasing a downside break of a trendline characterizing the uptrend from early April lows, according to data source Coingecko. Bullish trendlines indicate areas of strong demand, thus a move below one is generally seen as a sign of a potential reversal and a possible start of a downward move. Prices have not been able to make significant gains this week despite a flurry of positive news, including stablecoin issuer Circle's plans to file for an IPO and Trump Media's plans to raise $2.5 billion to purchase bitcoin. On-chain activity suggests that large investors have recently begun distributing coins, contributing to the market's selling pressure. "As of May 26, the >10K BTC cohort has pivoted to net distribution (~0.3), signaling a notable shift in positioning among the largest holders," Glassnode said on X. The firm, however, added that overall, the market remains in an accumulation mode. Later Wednesday, the spotlight will be on minutes of the Federal Reserve's May meeting, which will offer detailed insights into the committee’s stance on monetary policy and potential clues about future interest rate decisions. The central bank left the benchmark interest rate unchanged early this month, with Chairman Jerome Powell pointing squarely to President Donald Trump's tariff war as a source of inflation and uncertainty. Powell also “stagflation” aloud. The minutes are likely to reiterate the same, although the recent tariff delay by Trump means the market may not pay much attention to hawkish messaging. Meanwhile, AI major Nvidia's earnings announcement could move markets, particularly digital assets, given the historical positive correlation between BTC and NVDA. The firm is expected to report strong earnings and revenue growth, driving benefits from investments in AI infrastructure. The focus will be on the company's outlook on AI demand and China amid restrictions on Chip exports to China. Payments-focused XRP held the 200-day simple moving average (SMA) during overnight trading amid growing social media chatter about XRPFi, or decentralized finance on the XRP Ledger. Strobe Finance, which leverages the smart contract capabilities of Ripple's EVM sidechain to create a DeFi platform on the XRP Ledger, stated that large amounts of XRO are currently idle and can be deployed in DeFi for additional yield. "Ripple’s community research reveals a significant dormant user base: over 4 million inactive XRPL wallets hold an estimated US$2.15 billion in XRP, compared to 1.7 million active wallets. This dormant capital represents a large, addressable market waiting to be unlocked through compelling DeFi opportunities," Strobe said in a blog post. The chart shows XRP trading in bullish territory, above the Ichimoku cloud and the 200-day Simple Moving Average (SMA). The average has acted as strong support or area of interest for buyers since early April. Omkar Godbole is a Co-Managing Editor on CoinDesk's Markets team based in Mumbai, holds a masters degree in Finance and a Chartered Market Technician (CMT) member. Omkar previously worked at FXStreet, writing research on currency markets and as fundamental analyst at currency and commodities desk at Mumbai-based brokerage houses. Omkar holds small amounts of bitcoin, ether, BitTorrent, tron and dot. About Contact
+--------------------------------------------------
+
 Title: Freedom24: How the investment profile of Greeks is changing
 URL: https://www.naftemporiki.gr/english/1961494/freedom24-how-the-investment-profile-of-greeks-is-changing/
 Time Published: 2025-05-28T05:09:08Z
@@ -20,16 +27,16 @@ Time Published: 2025-05-28T01:37:04Z
 Description: Nvidia (NVDA) has become the almost undisputed poster child of the AI boom — and now it’s time to show the receipts.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures hold steady with all eyes on Nvidia earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hold-steady-with-all-eyes-on-nvidia-earnings-233141997.html
-Time Published: 2025-05-27T23:31:41Z
-Description: US stock futures held steady as investors looked forward to the release of Nvidia's (NVDA) earnings report on Wednesday.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures stall with all eyes on Nvidia earnings
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-with-all-eyes-on-nvidia-earnings-233141257.html
 Time Published: 2025-05-27T23:31:41Z
 Description: Investors are cautiously counting down to Nvidia's highly anticipated first quarter results.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures hold steady with all eyes on Nvidia earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hold-steady-with-all-eyes-on-nvidia-earnings-233141997.html
+Time Published: 2025-05-27T23:31:41Z
+Description: US stock futures held steady as investors looked forward to the release of Nvidia's (NVDA) earnings report on Wednesday.
 --------------------------------------------------
 
 Title: Larry Williams on the Fed, Interest Rates & Markets! What's Next?
@@ -73,6 +80,13 @@ Title: Nvidia stock: What export controls mean for the chip giant
 URL: https://finance.yahoo.com/video/nvidia-stock-export-controls-mean-180000127.html
 Time Published: 2025-05-27T18:00:00Z
 Description: Nvidia (NVDA) reports its first quarter results after the market close on Wednesday, May 28. Yahoo Finance Anchor Julie Hyman breaks down what China trade...
+--------------------------------------------------
+
+Title: Why Nvidia Is a Morgan Stanley 'Top Pick' Ahead of Earnings
+URL: https://www.investopedia.com/why-nvidia-is-a-morgan-stanley-top-pick-ahead-of-earnings-11742296
+Time Published: 2025-05-27T17:56:22Z
+Full Content:
+Morgan Stanley named Nvidia (NVDA) its "top pick" among semiconductor stocks Tuesday, a day before the chipmaker's expected earnings release, despite near-term concern over sales to China. The bank's analysts on Tuesday said potential issues that might trouble investors—like the impact of the Trump administration's ban on the sale of Nvidia's H20 chips to China—are "well telegraphed" and the "path to a [second-half] re-acceleration is clear." Nvidia has said it expects to face a $5.5 billion charge related to the tightened export controls. The bank affirmed its "overweight" rating and $160 price target, which implies a roughly 22% upside over the stock's closing level last Friday. The analysts said they are "not buying the stock for the [quarter] explicitly, but buying it for what we believe is coming." The impact of tighter export restrictions on China is softened by demand growth in the Middle East, Wedbush Securities analysts said Tuesday. Earlier this month, Nvidia announced a deal to supply chips to a Saudi Arabian startup and reportedly is involved in a deal allowing UAE to import advanced American-made chips. AI spending from Saudi Arabia and UAE "could help fill the void left by this near-term China uncertainty in Nvidia's future business" and potentially add $1 trillion to the global AI market in the coming years, the Wedbush analysts said. Wedbush's price target for Nvidia is $175, which—unlike Morgan Stanley's—is above the Visible Alpha analyst consensus approaching $164. Shares of Nvidia rose more than 3% to $135.53 in recent trading Tuesday to move into slightly positive territory for the year.
 --------------------------------------------------
 
 Title: 'Full hit from China': Analysts are staying bullish on Nvidia ahead of earnings, but tariffs loom large
@@ -143,16 +157,16 @@ Full Content:
 U.S. stocks rose sharply Tuesday, with the S&P 500 climbing over 2%, the Nasdaq gaining 2.5%, and the Dow Jones Industrial Average rising 740 points, or 1.8%, in a rebound from last week’s selloff. Bond yields declined around the globe, including in the U.S., where the 10-year Treasury dipped below 4.5%. Gold tumbled 2%. The catalyst: President Donald Trump announced a delay in his threatened 50% tariff hike on European imports, opting instead for expedited trade talks with the E.U. The move followed a weekend call with European Commission President Ursula von der Leyen and marks a sharp turn from Friday’s rhetoric, which had markets on edge — especially after Trump warned Apple that foreign-assembled iPhones could soon face steep levies. Consider the actual events: Trump escalated a conflict by threatening 50% tariffs on the E.U., including on Apple’s (AAPL-0.39%) foreign-assembled iPhones, essentially manufacturing a crisis. Then, after a phone call, he announced a delay on those tariffs, positioning the pause as a negotiated victory or goodwill gesture. But since he created the crisis in the first place, the “deal” or “pause” is just Trump backing off his own threat. Another weird twist in the story? In the same social media post that kicked off the weekend’s trade crisis, Trump threatened a specific 25% tariff on iPhones not assembled in the U.S. This prompted critics — including hedge fund manager Spencer Hakimian in a widely shared tweet — to point out that such policy would mean firms like Samsung, which fully produce their products abroad, would in fact face lower levies and effectively be granted a price advantage vs. actual American companies like Apple. After the tweet went viral, Trump pivoted, issuing a similar tariff warning to Samsung. Markets have been whipsawed again and again in 2025 as the White House pivoted, then pivoted again, repositioning global trade policy in posts and offhand comments. The current reprieve hinges on progress in fast-tracked talks between now and July 9, the new deadline Trump has set for potential tariff implementation. For now, though, stocks are flying — helped along by rallying bonds and the hope that this latest tariff scare will end not with a bang but a negotiation. The rest of the week promises more market-moving news. Semiconductor giant and AI bellwether Nvidia (NVDA-1.54%) reports after the bell tomorrow, with investors watching closely and the results likely to dominate headlines for several days. The results of the Fed’s early May meeting will also be released Wednesday. While no surprises are expected, every word is still likely to be parsed for any clues on inflation and potential rate cuts in the back half of 2025. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
 --------------------------------------------------
 
-Title: Nvidia earnings live: Nvidia set to report crucial first quarter earnings Wednesday
-URL: https://finance.yahoo.com/news/live/nvidia-earnings-live-nvidia-set-to-report-crucial-first-quarter-earnings-wednesday-121713732.html
-Time Published: 2025-05-27T12:17:13Z
-Description: Nvidia's first quarter earnings report is scheduled for release after the close on Wednesday, May 28.
---------------------------------------------------
-
 Title: Nvidia earnings live: Nvidia misses on earnings, data center revenue
 URL: https://finance.yahoo.com/news/live/nvidia-earnings-live-nvidia-beats-on-earnings-sees-8-billion-impact-from-china-export-rules-121713336.html
 Time Published: 2025-05-27T12:17:13Z
 Description: Nvidia reported first quarter earnings results after the close on Wednesday, May 28.
+--------------------------------------------------
+
+Title: Nvidia earnings live: Nvidia set to report crucial first quarter earnings Wednesday
+URL: https://finance.yahoo.com/news/live/nvidia-earnings-live-nvidia-set-to-report-crucial-first-quarter-earnings-wednesday-121713732.html
+Time Published: 2025-05-27T12:17:13Z
+Description: Nvidia's first quarter earnings report is scheduled for release after the close on Wednesday, May 28.
 --------------------------------------------------
 
 Title: U.S. stock market futures today: Dow surges over 500 points, S&P 500 and Nasdaq rally as Trump delays EU tariffs; tech giants like Apple, Microsoft, and Nvidia lead gains
