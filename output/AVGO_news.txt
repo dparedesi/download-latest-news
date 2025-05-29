@@ -1,5 +1,12 @@
 List of news related to Broadcom AVGO:
 
+Title: These Stocks Could Post Big Moves After Nvidia Earnings
+URL: https://www.investopedia.com/these-stocks-could-post-big-moves-after-nvidia-earnings-11743364
+Time Published: 2025-05-28T17:16:43Z
+Full Content:
+Nvidia is scheduled to report quarterly results after the bell on Wednesday, in what could be a major test of the AI trade’s resilience. Nvidia earnings are a blockbuster, market-moving event for Wall Street. Investors parse the results for any sign that AI demand or investment is waning, making the report a catalyst for AI infrastructure stocks. Most of these AI stocks are currently trading at or above their price heading into Nvidia's last earnings report at the end of February. Those results weighed heavily on the majority of AI beneficiaries. Shares of server maker Super Micro Computer (SMCI) and nuclear energy provider Vistra (VST) outpaced Nvidia’s (NVDA) 8.5% decline the day after its last report, tumbling 16% and 12%, respectively. Constellation Energy (CEG), also a nuclear power provider, slumped about 7.5%. Nvidia’s position as the world’s largest semiconductor company has made it something of a bellwether for the entire industry. The PHLX Semiconductor Index (SOX) tumbled more than 6% after Nvidia’s last report, its biggest decline since January’s DeepSeek panic caused the index to nosedive. Major Nvidia competitors Broadcom (AVGO) and Advanced Micro Devices (AMD) tumbled 7% and 5%, respectively. Chip fabrication services provider Lam Research (LRCX) and memory chip maker Micron (MU) also closed sharply lower. The companies that supply data centers with essential networking equipment also tend to move on AI demand signals parsed from Nvidia’s earnings. Shares of Arista Networks (ANET) slid 5% following Nvidia’s February report, while fiber optic technology provider Corning (GLW) shed 2% and network provider Lumen Technologies (LUMN) dropped 4%. Granted, stocks within the AI ecosystem don’t always move in tandem. Nvidia shares soared more than 9% on its earnings report one year ago, but the boost its results lent to other AI infrastructure stocks fizzled out before the day’s end. Supermicro shares rose as much as 11% that day before sliding to close 3% lower.
+--------------------------------------------------
+
 Title: Broadcom (AVGO) Is Gaining Market Share in the AI-Chip Space, Tech Researcher Says
 URL: https://finance.yahoo.com/news/broadcom-avgo-gaining-market-share-142628933.html
 Time Published: 2025-05-28T14:26:28Z
