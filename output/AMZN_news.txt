@@ -1,9 +1,15 @@
 List of news related to Amazon stock price AMZN:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq trim gains as Wall Street weighs Trump tariff block, Nvidia earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-trim-gains-as-wall-street-weighs-trump-tariff-block-nvidia-earnings-133026751.html
-Time Published: 2025-05-29T13:30:26Z
-Description: Investors are weighing a court decision that blocked some Trump tariffs, Nvidia's earnings report, and Musk's renewed focus on Tesla.
+Title: Stock market today: Dow, Nasdaq, S&P 500 rise as investors cheer Nvidia earnings, weigh tariff legal whiplash
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-rise-as-investors-cheer-nvidia-earnings-weigh-tariff-legal-whiplash-194518589.html
+Time Published: 2025-05-29T20:01:57Z
+Description: US stocks moved higher on Thursday as markets assessed Nvidia's earnings report as well as more tariff uncertainty.
+--------------------------------------------------
+
+Title: ‘Time to Stock Up,’ Says Bill Ackman After Pulling the Trigger on Amazon Stock (AMZN)
+URL: https://finance.yahoo.com/news/time-stock-says-bill-ackman-191100340.html
+Time Published: 2025-05-29T19:11:00Z
+Description: Bill Ackman is making waves again—his Pershing Square Capital Management just made a bold bet on Amazon (AMZN), snapping up nearly $1 billion in stock during...
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq edge higher as Wall Street weighs Trump tariff block, Nvidia earnings
@@ -14,6 +20,12 @@ Description: Investors are weighing a court decision that blocked some Trump tar
 
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as Wall Street weighs Trump tariff block, Nvidia earnings
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-wall-street-weighs-trump-tariff-block-nvidia-earnings-133026362.html
+Time Published: 2025-05-29T13:30:26Z
+Description: Investors are weighing a court decision that blocked some Trump tariffs, Nvidia's earnings report, and Musk's renewed focus on Tesla.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq trim gains as Wall Street weighs Trump tariff block, Nvidia earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-trim-gains-as-wall-street-weighs-trump-tariff-block-nvidia-earnings-133026751.html
 Time Published: 2025-05-29T13:30:26Z
 Description: Investors are weighing a court decision that blocked some Trump tariffs, Nvidia's earnings report, and Musk's renewed focus on Tesla.
 --------------------------------------------------
@@ -42,10 +54,4 @@ Title: Nvidia's bear case: Is the hype train running out of tracks?
 URL: https://finance.yahoo.com/news/nvidias-bear-case-is-the-hype-train-running-out-of-tracks-110530397.html
 Time Published: 2025-05-27T11:05:30Z
 Description: There is a bear case to every bull case on a stock, even Nvidia.
---------------------------------------------------
-
-Title: Truist Reiterates Buy on Amazon.com (AMZN) as Q2 Revenue Tracks Ahead
-URL: https://finance.yahoo.com/news/truist-reiterates-buy-amazon-com-055217215.html
-Time Published: 2025-05-25T05:52:17Z
-Description: We recently published a list of 10 AI Stocks on Wall Street’s Radar. In this article, we are going to take a look at where Amazon.com Inc. (NASDAQ:AMZN...
 --------------------------------------------------
