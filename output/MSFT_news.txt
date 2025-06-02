@@ -50,22 +50,3 @@ URL: https://finance.yahoo.com/news/apples-difficult-2025-is-tim-cooks-biggest-t
 Time Published: 2025-05-28T19:30:07Z
 Description: Apple CEO Tim Cook is contending with a host of serious issues at once, ranging from antitrust fights to souring relationship with President Trump.
 --------------------------------------------------
-
-Title: Nvidia earnings live: Nvidia misses on earnings, data center revenue
-URL: https://finance.yahoo.com/news/live/nvidia-earnings-live-nvidia-beats-on-earnings-sees-8-billion-impact-from-china-export-rules-121713336.html
-Time Published: 2025-05-27T12:17:13Z
-Description: Nvidia reported first quarter earnings results after the close on Wednesday, May 28.
---------------------------------------------------
-
-Title: U.S. stock market futures today: Dow surges over 500 points, S&P 500 and Nasdaq rally as Trump delays EU tariffs; tech giants like Apple, Microsoft, and Nvidia lead gains
-URL: https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-futures-today-dow-surges-over-500-points-sp-500-and-nasdaq-rally-as-trump-delays-eu-tariffs-tech-giants-like-apple-microsoft-and-nvidia-lead-gains/articleshow/121438256.cms
-Time Published: 2025-05-27T12:16:35Z
-Full Content:
-U.S. stock market rallies after Trump delays EU tariffs; Dow, S&P 500, Nasdaq futures rise; Apple, Microsoft, NVIDIA lead gains; Tesla up despite EU sales drop; Trump Media jumps on crypto news; Fed outlook, inflation data in focus. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. ET Prime Unicorn 100: Growth slowed for India’s leading startups Uncle Sam vs. Microsoft: Which is a safer bet to park money? ET Prime Unicorn 100: A fifth of Indian unicorns saw revenue decline How this century-old Tata company is getting ready for the next 100 The BrahMos link that fired up this defence stock 45% in one month Stock Radar: SBI Life breaks out from a Pennant formation on daily charts; what should investors do? Live: PM Modi celebrates 20 years of Gujarat’s urban growth Sen Moreno grills Hawaii Gov. over COVID lockdowns We will respond to bullets with bombs: PM Modi PM Modi's stern warning to Pak on terrorism Netanyahu promises to bring back every hostage Britain’s King Charles meets Canadian PM ‘Putin has gone absolutely crazy’: Trump Dr. McCullough shocks Senate with bombshell claim Hegseth’s heartfelt salute to US’ fallen heroes Van slams into celebrating Liverpool fans Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Commodities Top Story Listing Top Prime Articles Top Definitions Top Slideshow Private Companies Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Nvidia's bear case: Is the hype train running out of tracks?
-URL: https://finance.yahoo.com/news/nvidias-bear-case-is-the-hype-train-running-out-of-tracks-110530397.html
-Time Published: 2025-05-27T11:05:30Z
-Description: There is a bear case to every bull case on a stock, even Nvidia.
---------------------------------------------------
