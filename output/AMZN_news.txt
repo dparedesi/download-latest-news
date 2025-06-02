@@ -18,14 +18,14 @@ Time Published: 2025-05-29T19:11:00Z
 Description: Bill Ackman is making waves again—his Pershing Square Capital Management just made a bold bet on Amazon (AMZN), snapping up nearly $1 billion in stock during...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as Wall Street weighs Trump tariff block, Nvidia earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-wall-street-weighs-trump-tariff-block-nvidia-earnings-133026362.html
+Title: Stock market today: Dow, S&P 500, Nasdaq trim gains as Wall Street weighs Trump tariff block, Nvidia earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-trim-gains-as-wall-street-weighs-trump-tariff-block-nvidia-earnings-133026751.html
 Time Published: 2025-05-29T13:30:26Z
 Description: Investors are weighing a court decision that blocked some Trump tariffs, Nvidia's earnings report, and Musk's renewed focus on Tesla.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq trim gains as Wall Street weighs Trump tariff block, Nvidia earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-trim-gains-as-wall-street-weighs-trump-tariff-block-nvidia-earnings-133026751.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Wall Street weighs Trump tariff block, Nvidia earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-wall-street-weighs-trump-tariff-block-nvidia-earnings-133026362.html
 Time Published: 2025-05-29T13:30:26Z
 Description: Investors are weighing a court decision that blocked some Trump tariffs, Nvidia's earnings report, and Musk's renewed focus on Tesla.
 --------------------------------------------------
