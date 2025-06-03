@@ -40,15 +40,3 @@ URL: https://finance.yahoo.com/news/why-meridian-contrarian-fund-holding-1400497
 Time Published: 2025-05-29T14:00:49Z
 Description: Meridian Funds, managed by ArrowMark Partners, released its “Meridian Contrarian Fund” first quarter 2025 investor letter. A copy of the letter can be...
 --------------------------------------------------
-
-Title: Does Target Corporation (TGT) Stock Offer Strong Upside from the Current Price?
-URL: https://finance.yahoo.com/news/does-target-corporation-tgt-stock-125628223.html
-Time Published: 2025-05-28T12:56:28Z
-Description: Matrix Asset Advisors, an asset management company, released its Q1 2025 investor letter. A copy of the letter can be downloaded here. After two years of...
---------------------------------------------------
-
-Title: Abbott Gains FDA Approval for Tendyne™, Strengthening Its Minimally Invasive Heart Portfolio
-URL: https://finance.yahoo.com/news/abbott-gains-fda-approval-tendyne-005846374.html
-Time Published: 2025-05-28T00:58:46Z
-Description: Abbott Laboratories (NYSE:ABT) has received FDA approval today for its Tendyne™ transcatheter mitral valve replacement (TMVR) system, the first device of its...
---------------------------------------------------
