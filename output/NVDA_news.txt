@@ -1,5 +1,26 @@
 List of news related to NVIDIA NVDA:
 
+Title: Buy and hold these ASX ETFs for the next decade
+URL: https://www.fool.com.au/2025/06/03/buy-and-hold-these-asx-etfs-for-the-next-decade/
+Time Published: 2025-06-02T21:59:20Z
+Description: These funds could be strong picks for investors looking to make long term investments.
+The post Buy and hold these ASX ETFs for the next decade appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: The Trump administration is delaying a 25% tariff on Chinese-made graphics cards
+URL: https://qz.com/trump-tariff-delay-chinese-graphics-cards-gpu-1851783407
+Time Published: 2025-06-02T21:14:00Z
+Full Content:
+Graphics cards and motherboards assembled in China are avoiding President Donald Trump’s import taxes, for now. In a three-page notice published Saturday in the Federal Register, the Office of the Trade Representative said it was “appropriate” to extend a moratorium that won’t subject vendors of electronics equipment to tariffs on graphics cards and graphics processing units. The measure stems from a long-running Section 301 investigation into Chinese economic policies and whether they are harming American companies. That federal probe started under the first Trump administration, and it would apply a 25% tariff if officials conclude that Chinese companies had an unfair advantage. The 25% tariff has been inactive due to a string of reprieves from both the Biden and Trump administrations. China remains the world’s largest electronics manufacturer, according to the International Trade Centre; the nation is still subject to a minimum 30% import tax by the Trump administration, barring some exemptions. Major tech companies including Apple (AAPL-0.39%), Nvidia (NVDA-1.54%) and Microsoft (MSFT-0.92%) were spared the brunt of Trump’s “reciprocal” tariffs in April. A federal court battle is now brewing over the fate of those tariffs. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
+--------------------------------------------------
+
+Title: Applied Digital Stock Soars on AI Data Center Deal with Nvidia-Backed CoreWeave
+URL: https://www.investopedia.com/applied-digital-stock-soars-on-ai-data-center-deal-with-nvidia-backed-coreweave-11746792
+Time Published: 2025-06-02T20:46:44Z
+Full Content:
+Shares of Applied Digital (APLD) rose nearly 50% Monday after announcing a deal to lease data center space to AI darling CoreWeave (CRWV). Applied Digital inked a pair of 15-year deals to host CoreWeave AI infrastructure at its Ellendale, N.D., campus. The deal is expected to generate $7 billion in total revenue over the decade-and-a-half span; the company reported about $53 million in revenue in its most recently completed quarter. Both Applied Digital and CoreWeave are backed by Nvidia (NVDA), the second-most valuable company in the world and the chipmaking giant most associated with the rise of artificial intelligence. Nvidia held roughly 7.7 million shares of Applied Digital and 24.2 million shares of CoreWeave as of March 31, according to a regulatory filing. CoreWeave provides its clients with access to data centers, which are used to develop artificial intelligence models. The company’s data centers are equipped with Nvidia chips. Shares of CoreWeave rose about 8% on Monday.
+--------------------------------------------------
+
 Title: Technical analyst has a warning about markets
 URL: https://www.thestreet.com/investing/technical-analyst-has-a-warning-about-markets
 Time Published: 2025-06-02T16:33:00Z
@@ -100,213 +121,4 @@ Title: Nvidia results spark global chip rally - NBC News
 URL: https://slashdot.org/firehose.pl?op=view&amp;id=177860207
 Time Published: 2025-05-30T00:14:52Z
 Description: Nvidia results spark global chip rallyNBC News 3 key takeaways from Nvidia's earnings: China blow, cloud strength and AI futureCNBC Piper Sandler Lifts Nvidia (NVDA) Price Target to $180, Maintains Overweight RatingYahoo Finance NVIDIA Announces Financial Res…
---------------------------------------------------
-
-Title: Looking for diversified exposure to Nvidia shares after its result? Buy this ASX ETF
-URL: https://www.fool.com.au/2025/05/30/looking-for-diversified-exposure-to-nvidia-shares-after-its-result-buy-this-asx-etf/
-Time Published: 2025-05-29T23:54:42Z
-Description: Nvidia delivered another impressive earnings result this week.
-The post Looking for diversified exposure to Nvidia shares after its result? Buy this ASX ETF appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: Nvidia CEO turns heads with stern warning about China AI market
-URL: https://www.thestreet.com/technology/nvidia-ceo-turns-heads-with-stern-warning-about-china-ai-market
-Time Published: 2025-05-29T21:03:00Z
-Description: Jensen Huang speaks bluntly to analysts about the AI chipmaker's China troubles.
---------------------------------------------------
-
-Title: Piper Sandler Lifts Nvidia (NVDA) Price Target to $180, Maintains Overweight Rating
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_214e0b49-ec4b-41ad-9a17-57363fc76be5
-Time Published: 2025-05-29T21:00:46Z
-Description: None
---------------------------------------------------
-
-Title: NVIDIA Announces Upcoming Events for Financial Community
-URL: https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-events-for-financial-community-6910852
-Time Published: 2025-05-29T21:00:00Z
-Full Content:
-SANTA CLARA, Calif., May 29, 2025 (GLOBE NEWSWIRE) -- NVIDIA will present at the following events for the financial community: BofA Securities 2025 Global Technology ConferenceWednesday, June 4, 7:50 a.m. Pacific time Nasdaq Investor Conference in Partnership with JefferiesTuesday, June 10, 1:00 a.m. Pacific time Rosenblatt's 5th Annual Technology Summit: The Age of AITuesday, June 10, 7:00 a.m. Pacific time Interested parties can listen to the live audio webcast of NVIDIA financial presentations at investor.nvidia.com. Webcast replays are available for 90 days afterward. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in accelerated computing. For further information, contact: NVIDIA Investor Relationsir@nvidia.com NVIDIA Corporate Communicationspress@nvidia.com © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries.
---------------------------------------------------
-
-Title: NVIDIA Announces Upcoming Events for Financial Community
-URL: http://nvidianews.nvidia.com/news/nvidia-announces-upcoming-events-for-financial-community-6910852
-Time Published: 2025-05-29T21:00:00Z
-Full Content:
-SANTA CLARA, Calif., May 29, 2025 (GLOBE NEWSWIRE) -- NVIDIA will present at the following events for the financial community: BofA Securities 2025 Global Technology ConferenceWednesday, June 4, 7:50 a.m. Pacific time Nasdaq Investor Conference in Partnership with JefferiesTuesday, June 10, 1:00 a.m. Pacific time Rosenblatt's 5th Annual Technology Summit: The Age of AITuesday, June 10, 7:00 a.m. Pacific time Interested parties can listen to the live audio webcast of NVIDIA financial presentations at investor.nvidia.com. Webcast replays are available for 90 days afterward. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in accelerated computing. For further information, contact: NVIDIA Investor Relationsir@nvidia.com NVIDIA Corporate Communicationspress@nvidia.com © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries.
---------------------------------------------------
-
-Title: NVIDIA Announces Upcoming Events for Financial Community
-URL: https://www.globenewswire.com/news-release/2025/05/29/3090753/0/en/NVIDIA-Announces-Upcoming-Events-for-Financial-Community.html
-Time Published: 2025-05-29T21:00:00Z
-Full Content:
-May 29, 2025 17:00 ET | Source: NVIDIA NVIDIA SANTA CLARA, Calif., May 29, 2025 (GLOBE NEWSWIRE) -- NVIDIA will present at the following events for the financial community: BofA Securities 2025 Global Technology ConferenceWednesday, June 4, 7:50 a.m. Pacific time Nasdaq Investor Conference in Partnership with JefferiesTuesday, June 10, 1:00 a.m. Pacific time Rosenblatt's 5th Annual Technology Summit: The Age of AITuesday, June 10, 7:00 a.m. Pacific time Interested parties can listen to the live audio webcast of NVIDIA financial presentations at investor.nvidia.com. Webcast replays are available for 90 days afterward. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in accelerated computing. For further information, contact: NVIDIA Investor Relationsir@nvidia.com NVIDIA Corporate Communicationspress@nvidia.com © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Revenue of $44.1 billion, up 12% from Q4 and up 69% from a year agoData Center revenue of $39.1 billion, up 10% from Q4 and up 73% from a year ago SANTA CLARA, Calif., May 28, 2025 (GLOBE... TAIPEI, Taiwan, May 19, 2025 (GLOBE NEWSWIRE) -- COMPUTEX — NVIDIA today announced the opening of the Global Research and Development Center for Business by Quantum-AI Technology (G-QuAT), which...
---------------------------------------------------
-
-Title: NVIDIA (NVDA) Reported “Fantastic” Q1 Results, Veteran AI Investor Says
-URL: https://finance.yahoo.com/news/nvidia-nvda-reported-fantastic-q1-201808967.html
-Time Published: 2025-05-29T20:18:08Z
-Description: NVIDIA Corporation (NASDAQ:NVDA)’s Q1 results were “fantastic” and showed that the chip maker is not having trouble meeting demand, Byron Deeter said...
---------------------------------------------------
-
-Title: Stock market today: Dow, Nasdaq, S&P 500 rise as investors cheer Nvidia earnings, weigh tariff legal whiplash
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-rise-as-investors-cheer-nvidia-earnings-weigh-tariff-legal-whiplash-194518589.html
-Time Published: 2025-05-29T20:01:57Z
-Description: US stocks moved higher on Thursday as markets assessed Nvidia's earnings report as well as more tariff uncertainty.
---------------------------------------------------
-
-Title: Mizuho Raises Nvidia (NVDA) Price Target to $170 Following Q1 Results, Keeps Buy Rating
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56181026-a2cd-4657-b2f7-b1618315a3ef
-Time Published: 2025-05-29T19:47:46Z
-Description: None
---------------------------------------------------
-
-Title: Wall Street is looking past Nvidia’s China problem … for now
-URL: https://finance.yahoo.com/news/wall-street-is-looking-past-nvidias-china-problem-for-now-192153114.html
-Time Published: 2025-05-29T19:21:53Z
-Description: Nvidia is still contending with a ban on selling its chips to China, but Wall Street isn't nervous.
---------------------------------------------------
-
-Title: Summit Insights Upgrades NVIDIA (NVDA) to Buy After Earnings Beat, Says Key Risks Are Priced In
-URL: https://finance.yahoo.com/news/summit-insights-upgrades-nvidia-nvda-191644112.html
-Time Published: 2025-05-29T19:16:44Z
-Description: We recently published a list of 12 AI Stocks on Latest News and Ratings. In this article, we are going to take a look at where NVIDIA Corporation...
---------------------------------------------------
-
-Title: TD Cowen Raises Nvidia (NVDA) Price Target, Maintains Buy Rating
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e847c6ae-4d48-4b2a-af25-549367bce36c
-Time Published: 2025-05-29T18:02:22Z
-Description: None
---------------------------------------------------
-
-Title: Nvidia, Salesforce, HP Inc., Tesla, C3.ai, e.l.f. Beauty, Veeva, SentinelOne, and More Movers - Barron's
-URL: https://slashdot.org/firehose.pl?op=view&amp;id=177855585
-Time Published: 2025-05-29T17:55:43Z
-Description: Nvidia, Salesforce, HP Inc., Tesla, C3.ai, e.l.f. Beauty, Veeva, SentinelOne, and More MoversBarron's Stock Market News: Dow Gains After Trump Tariff Ruling, Nvidia EarningsBarron's Nvidia shares jump, tariff ruling lifts stocks, Musk departs DOGE: Live Updat…
---------------------------------------------------
-
-Title: Bernstein Reiterates ‘Outperform’ Rating on Nvidia (NVDA) With $185 Price Target
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5f648c7f-1062-4510-b9c8-2fe288e1bb5a
-Time Published: 2025-05-29T17:34:40Z
-Description: None
---------------------------------------------------
-
-Title: Nvidia's China problem is big. Just not big enough to stop it
-URL: https://qz.com/nvidia-q1-2025-earnings-china-ai-chips-1851782927
-Time Published: 2025-05-29T17:21:00Z
-Full Content:
-Most companies can’t shrug off an $8 billion loss. Then again, most companies aren’t Nvidia (NVDA). On Wednesday’s first-quarter earnings call, Wall Street zeroed in on Nvidia’s obvious weak spot: China. Thanks to U.S. export restrictions, Nvidia’s custom-built H20 chips, designed to skirt earlier rules, have essentially been made worthless. Nvidia CFO Colette Kress confirmed the damage: “Had the export controls not occurred, we would have had orders of about $8 billion for H20” in the quarter. That $8 billion is more than rival AMD’s (AMD) total quarterly revenue — and Nvidia seems ready to just shrug off the loss The tech giant reported another monster quarter: Revenue soared 69% year-over-year to $44.1 billion, while net income grew even faster. The stock popped more than 4.5% on Thursday, and Nvidia, with a $3.4 trillion market cap, is the most valuable company in the world — just ahead of Microsoft (MSFT) and now well ahead of Apple (AAPL). Nvidia’s data center business alone grew 73% year-over-year and brought in over $39 billion. And with its next-generation Blackwell chips ramping up, inference workloads scaling globally, and governments racing to build AI capacity using Nvidia infrastructure, China has become — if not an afterthought — then certainly just one node in a much larger empire. Nvidia has bigger chips to fry. “This is the start of a powerful new wave of growth,” CEO Jensen Huang said. Still, Nvidia isn’t abandoning China. According to a recent report, the company is designing a modified Blackwell AI chip specifically for the Chinese market that will comply with U.S. export restrictions. Huang didn’t confirm this directly — he said Nvidia doesn’t “have anything at the moment, but we’re considering it.” He did, however, address the broader implications. The question, he said, isn’t whether China will have AI — “it already does” — but whether one of the world’s largest AI markets will run on American platforms. Export controls, in his view, should “strengthen U.S. platforms, not drive half of the world’s AI talent to rivals.” Kress made the financial stakes clear: Nvidia expects a “meaningful decrease” in China data center revenue in the second quarter. Losing access to what it believes will be a $50 billion AI accelerator market would, she said, have “a material adverse impact” on the business and benefit rivals in China and beyond. As for the politics, Huang said that President Donald Trump “has a plan, and I respect it.” But the bigger picture is that Nvidia isn’t betting on any single market. It’s betting on a global AI infrastructure boom that’s only just getting started — what Huang called “sovereign AI.” The company’s strategy isn’t about selling to tech firms anymore. Entire countries could soon become Nvidia customers. “Nations are investing in AI infrastructure like they once did for electricity and internet,” Huang said. “Sovereign AI is a new growth engine for Nvidia.” “Every nation now sees AI as core to the next industrial revolution, a new industry that produces intelligence and essential infrastructure for every economy,” he added. “Countries are racing to build national AI platforms to elevate their digital capabilities.” Nvidia’s recent moves show how seriously it’s playing this global game. At Computex, Huang announced Taiwan’s first AI factory, a collaboration with Foxconn (HNHPF) and the Taiwanese government. Shortly after, Huang was present as Sweden launched its inaugural national AI infrastructure. But perhaps most notable is Nvidia’s opportunity in the Middle East. Huang was there for Trump’s tour through the region, where the president announced a 500-megawatt AI infrastructure project in Saudi Arabia and a 5-gigawatt AI campus in the United Arab Emirates. Wedbush Securities analysts called it a “watershed moment” for Big Tech that could be a $1 trillion opportunity. Nvidia is positioned to capitalize on that global wave of AI infrastructure investment. As Huang said, this includes everything from powering cutting-edge training models to overhauling $500 billion of enterprise IT with its AI-ready systems. Add in industrial AI — robotic factories, digital twins, and more — and the company’s footprint keeps expanding. “Just about every country needs to build out AI infrastructure,” Huang said. “There are umpteenth AI factories being planned.” Behind all of this is a bigger technological shift — from generative AI to what comes next. “Reasoning AI really busted through,” Huang said, referring to AI agents that can make decisions, use tools, remember, and plan. “Reasoning AI agents require orders of magnitude more compute.” He added that the demand for AI reasoning is up, and “we would like to serve all of it, and I think we’re on track to serve most of it.” That shift — from model training to full life-cycle AI infrastructure — is fueling demand. Huang said Nvidia’s Grace Blackwell NVLink72 is “the ideal engine today, the ideal computer thinking machine, if you will, for reasoning AI.” And agentic AI, which takes reasoning a step further by acting autonomously, is making waves, too. “Enterprise AI is ready to take off,” Huang said. “Much more than generative AI, agentic AI is game-changing.” CFO Kress said the transition from generative to agentic AI will “transform every industry, every company, and country.” She said Nvidia envisions AI agents as a “digital workforce capable of handling tasks ranging from customer service to complex decision-making processes.” Huang said that Nvidia is in the “beginning of the build-out” — and that “there should be many, many more announcements in the future.” More AI means more chips. More chips need bigger clusters. Bigger clusters demand faster networking. And Nvidia is scaling every layer of that stack. Huang called Spectrum-X — the company’s AI-optimized Ethernet platform — “a home run,” noting that it added two major cloud providers in the past quarter. The platform can effectively turn $10 billion AI clusters into $14 billion ones through increased efficiency. And NVLink is also becoming foundational to the AI data center — it exceeded $1 billion in the April quarter. Now analysts see networking as a meaningful second leg of Nvidia’s AI infrastructure business. The U.S. export controls don’t appear to be going anywhere, especially as tense — and tech-heavy — trade talks between the U.S. and China continue. But Nvidia seems prepared for what’s ahead. The company just lost billions in China, and that might have been the least interesting thing about its quarter. As Nvidia continues to navigate a geopolitical minefield, it’s not that China doesn’t matter — it’s that everything else now matters more. As Huang said: “We’re off to the races.” Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
---------------------------------------------------
-
-Title: U.S. stock market today: S&P 500, Dow, and Nasdaq surge as Nvidia smashes earnings and Trump’s tariffs get crushed by court ruling — is this the start of a historic market rally?
-URL: https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-today-sp-500-dow-and-nasdaq-surge-as-nvidia-smashes-earnings-and-trumps-tariffs-get-crushed-by-court-ruling-is-this-the-start-of-a-historic-market-rally/articleshow/121495652.cms
-Time Published: 2025-05-29T16:44:39Z
-Full Content:
-(Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Noem, Miller order ICE to make 3,000 arrests daily Who are Todd and Julie Chrisley who Trump pardoned? Trump's sons make big revealation on crypto RBI’s big win, Trump’s tariff loss Judge slams Trump admin's push to deport Khalil ‘Trump is a champion of crypto': VP Vance Race to build fifth-gen fighter jet heats up Germany blasts Russia over Ukraine war New revelations about Jan 6 ‘coming soon’: Kash Patel China slams US over student visa revocation Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Commodities Top Slideshow Private Companies Top Prime Articles Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Nvidia stock pops as revenue tops forecasts, China sales impacts smaller than Wall Street feared
-URL: https://finance.yahoo.com/news/nvidia-stock-pops-as-revenue-tops-forecasts-china-sales-impacts-smaller-than-wall-street-feared-164408100.html
-Time Published: 2025-05-29T16:44:08Z
-Description: Nvidia investors took away a story of relative strength, all things considered, from the AI giant's first quarter earnings.
---------------------------------------------------
-
-Title: Stock Market Today: Nvidia beats; some tariffs halted; Salesforce off on big volume
-URL: https://www.thestreet.com/investing/stocks/stock-market-today-nvidia-earnings-beat-estimates-some-trump-tariffs-halted
-Time Published: 2025-05-29T16:27:08Z
-Description: As Doug Kass says, there are so many possible social, policy, political, geopolitical and market outcomes these days.
---------------------------------------------------
-
-Title: Nvidia Briefly Reclaims Title of World's Most Valuable Company on Solid Earnings
-URL: https://www.investopedia.com/nvidia-reclaims-title-of-worlds-most-valuable-company-on-solid-earnings-11744281
-Time Published: 2025-05-29T15:49:45Z
-Full Content:
-Nvidia briefly returned to the top of the list of the world's most valuable companies when its stock soared in early trading Thursday following a strong first-quarter earnings report. Nvidia (NVDA) shares jumped more than 6% in early trading on Thursday, adding more than $200 billion to the company’s market value and pushing the company's market cap to $3.49 trillion, edging out Microsoft’s (MSFT) $3.41 trillion value. Nvidia stock gave up ground throughout the day, and Microsoft ultimately overtook the AI chip giant in market value by Thursday's close. Nvidia shares reacted on Thursday to a solid quarterly report on Wednesday afternoon. Nvidia reported record revenue in its fiscal first quarter as AI demand remained robust. Nvidia, Microsoft, and Apple (AAPL) have been jostling to be the world’s most valuable company for nearly a year. The three are the only companies to have ever achieved a market value of more than $3 trillion. Nvidia reached that milestone almost exactly a year ago, while Apple first closed at $3 trillion in June 2023 and Microsoft reached $3 trillion in January 2024. All three stocks have been hit to a certain degree by economic and trade uncertainty this year, but only Microsoft and Nvidia have shaken off the worst of it. Nvidia's and Microsoft's stocks are up about 5% and 9%, respectively, since the start of the year. Apple shares, meanwhile, are down about 20%, battered by President Donald Trump's aggressive tariffs on China, where the company assembles the majority of its products, and insistence that it move production to America. Nvidia’s market cap, despite Thursday's gains, remains below its record of $3.66 trillion from earlier January when shares set their all-time high. Update—May 29, 2025: This story has been updated with the latest share price and market value data.
---------------------------------------------------
-
-Title: Wolfe Research: “We Think The Pain Trade For NVIDIA Is Higher”
-URL: https://wccftech.com/wolfe-research-we-think-the-pain-trade-for-nvidia-is-higher/
-Time Published: 2025-05-29T15:15:05Z
-Full Content:
-This is not investment advice. The author has no position in any of the stocks mentioned. Wccftech.com has a disclosure and ethics policy. Now that the market has had a few hours to digest NVIDIA's earnings for the first quarter of its fiscal year 2026, the emerging view is coalescing around a distilled nugget of thought: NVIDIA was able to holistically address investor concerns, but the corresponding euphoria remains capped by the idiosyncratic factors inherent in the earnings report - the consensus estimates for various line items became irrelevant when some analysts chose to incorporate H20-related headwinds, while others did not, rendering the overall beat/miss computation an exercise in futility. Enough? - Nvidia $NVDA Earnings Recap Ultimately this report is a big mess because of mis-matched analyst estimates with the China inventory write-off. Tough to read much into the beats and misses below as a result. No blow ups but not overly bullish either. https://t.co/yFFf61ExcH pic.twitter.com/vpPIa4PAnL — Consensus Media (@ConsensusGurus) May 28, 2025 As a refresher, NVIDIA reported $44.06 billion in revenue for its fiscal Q1'26, beating the consensus estimate of $43.29 billion. Under the hood, however, its AI-critical data center revenue topped off at $39.1 billion, falling short of the $39.22 billion consensus estimate. In Q1, following the Trump administration's decision to impose licensing requirements on NVIDIA's China-specific H20 GPU, the company incurred $4.5 billion in charges related to inventory write-offs and purchase commitments, which then hammered the GPU giant's gross margin to 61 percent. On an adjusted basis, which often provides a clearer picture by removing one-time inflows and outflows, NVIDIA's gross margin topped off at 71.3 percent vs. the 78.9 percent figure that the company recorded in last year's comparable period. As far as guidance is concerned, NVIDIA now expects to record $45 billion in revenue for Q2, plus or minus 2 percent. The midpoint of this guidance fell short of the consensus estimate of $45.5 billion. Do note that NVIDIA's guidance for Q2 excluded ~$8 billion in H20-related sales. This brings us to the crux of the matter. Wolfe Research has now penned an interesting note, arguing that "the pain trade for NVIDIA is higher." Wolfe Research analyst Chris Caso correctly points out that NVIDIA's Q1'26 earnings report was able to address "all investor concerns," which included "rack production, China (now out of numbers) and AI diffusion (not being enforced)." Caso also believes that NVIDIA's rate of rack shipments to customers is currently pushing ahead of its revenue run-rate, "and we would expect both to converge at some point." On the whole, the Wolfe Research analyst believes NVIDIA was under-owned heading into its Q1 earnings, which means that the pain trade remains in the bullish direction: "Net, we think the consensus view had been to own this stock for 2H and CY26, but the concerns heading into the report caused some to wait out this report. With the concerns now addressed, the stock up and a bullish outlook for 2H, we think the pain trade for NVDA is higher." Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com © 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
---------------------------------------------------
-
-Title: Nvidia upgraded, Salesforce downgraded: Wall Street's top analyst calls
-URL: https://finance.yahoo.com/news/nvidia-upgraded-salesforce-downgraded-wall-133322403.html
-Time Published: 2025-05-29T13:33:22Z
-Description: Nvidia upgraded, Salesforce downgraded: Wall Street's top analyst calls
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq trim gains as Wall Street weighs Trump tariff block, Nvidia earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-trim-gains-as-wall-street-weighs-trump-tariff-block-nvidia-earnings-133026751.html
-Time Published: 2025-05-29T13:30:26Z
-Description: Investors are weighing a court decision that blocked some Trump tariffs, Nvidia's earnings report, and Musk's renewed focus on Tesla.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as Wall Street weighs Trump tariff block, Nvidia earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-wall-street-weighs-trump-tariff-block-nvidia-earnings-133026362.html
-Time Published: 2025-05-29T13:30:26Z
-Description: Investors are weighing a court decision that blocked some Trump tariffs, Nvidia's earnings report, and Musk's renewed focus on Tesla.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq edge higher as Wall Street weighs Trump tariff block, Nvidia earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-edge-higher-as-wall-street-weighs-trump-tariff-block-nvidia-earnings-133026860.html
-Time Published: 2025-05-29T13:30:26Z
-Description: Investors are weighing a court decision that blocked some Trump tariffs, Nvidia's earnings report, and Musk's renewed focus on Tesla.
---------------------------------------------------
-
-Title: Nvidia (NVDA) Faces Rare 'Sell' Rating as Analyst Warns of Plateau and Policy Risk
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_78c1dd0e-d77d-46a8-9603-e0c5b0661353
-Time Published: 2025-05-29T12:50:59Z
-Description: None
---------------------------------------------------
-
-Title: Nvidia weathers tariff uncertainty to see surge in revenues - BBC
-URL: https://slashdot.org/firehose.pl?op=view&amp;id=177850023
-Time Published: 2025-05-29T11:34:28Z
-Description: Nvidia weathers tariff uncertainty to see surge in revenuesBBC Nvidia results spark global chip rallyCNBC Nvidia and CEO Jensen Huang get a pass for an earnings whiff: What Wall Street is sayingYahoo Finance NVIDIA Announces Financial Results for First Quarte…
---------------------------------------------------
-
-Title: Nvidia Posts $44.1 Billion in Q1 Revenue, Topping Estimates and Lifting Shares
-URL: https://finance.yahoo.com/news/nvidia-posts-44-1-billion-112602504.html
-Time Published: 2025-05-29T11:26:02Z
-Description: Revenue rose 69% year over year to $44.1 billion; data center sales up 73%
---------------------------------------------------
-
-Title: NVDA Stock Overvalued At $140?
-URL: https://www.forbes.com/sites/greatspeculations/2025/05/29/nvda-stock-overvalued-at-140/
-Time Published: 2025-05-29T09:00:16Z
-Full Content:
-ByTrefis Team ByTrefis Team, Contributor. CHONGQING, CHINA - MAY 25: In this photo illustration, the logo of NVIDIA Corporation is displayed ... More on a smartphone screen, with the latest stock market chart of the company in the background, reflecting investor sentiment and recent trading activity, on May 25, 2025, in Chongqing, China. NVIDIA is a leading American technology company renowned for its graphics processing units (GPUs), artificial intelligence (AI) computing platforms, and data center solutions. (Photo Illustration by Cheng Xin/Getty Images) Yes, we think so. Currently, Nvidia (NASDAQ; NVDA) stock trades at 44 times its trailing earnings of $3.19 per share. This figure aligns with the stock’s average P/E ratio over the last two years, and growth has remained solid thus far. The real question is whether this growth will continue, which we’ll delve into in the sections below. First, let's examine what happened in the recently reported Q1. Nvidia recently announced its fiscal first-quarter results for the period ending April 2025, reporting adjusted earnings of $0.96 per share on revenues of $44.1 billion. This represents a significant 69% year-over-year increase in sales and a 57% growth in earnings. The company performed better than Wall Street’s expectations, which had projected adjusted earnings of $0.93 per share on sales of $44.3 billion. However, the company’s outlook of $45 billion in Q2 sales missed the Street’s estimates of around $46 billion. This weaker guidance was primarily due to an expected $8 billion hit to the top line from recent export restrictions on the company’s H20 chips bound for China. During the quarter, the company spent $14.1 billion on share repurchases and paid $244 million in dividends. Separately, see – What's Happening With CRM Stock? After exceeding analyst estimates, Nvidia’s stock surged around 5% in after-hours trading on Wednesday, May 28. That said, if you seek upside with lower volatility than individual stocks, the Trefis High Quality portfolio presents an alternative - having outperformed the S&P 500 and generated returns exceeding 91% since its inception. Looking at segments, data center revenue reached $39.1 billion, marking a 73% year-over-year increase. Gaming & AI PC was up 42%, Professional Visualization sales grew 19%, and Automotive & Robotics revenue increased by 72%. This growth was primarily driven by continued strong demand for the company’s GPU chips, which are heavily used in generative AI applications. Nvidia has also ramped up large-scale production of its latest Blackwell AI supercomputers. These new chips, with their advanced AI capabilities and premium pricing, have contributed significantly to top-line growth. Nvidia’s Blackwell cloud is now available on major platforms including AWS, Google Cloud, Microsoft Azure, and Oracle Cloud Infrastructure. Microsoft has been a substantial buyer of these Blackwell chips. However, the company’s gross margins of 61% were down 1,790 basis points from 78.9% in the year-ago quarter. Excluding the one-time charge from H20 sales restrictions, the gross margin would have been 71.3%. Nvidia stock is a market darling, and its Q1 performance may lead to a further spike, possibly pushing it towards its 52-week high. However, consider this: can such growth truly be sustained? Is a valuation of 44 times trailing earnings justified? Nvidia's phenomenal growth is a recent phenomenon, and it might not last. Indeed, the entire AI boom could fizzle, or perhaps large AI models, in particular, could be deemed unnecessary. Deepseek's demonstration that smaller models can perform just as well, without even utilizing Nvidia's latest chips, raises questions. However, what are the odds that Nvidia's chips will cease to be in high demand? That's where the speculation begins. Nvidia's revenues have grown by more than 80% annually for each of the last three years, with last year exceeding 100% growth. Could this growth decelerate to 60% or even 40%? It almost certainly has to—and soon! Why? Nvidia’s largest customers include tech giants like Microsoft, Google, Meta, and Amazon. Each of these companies spent tens of billions last year on Nvidia chips. Can these companies continue to increase their spending on Nvidia chips by 100% year after year, especially when their own revenues are growing at only about 15% annually? No, absolutely not. The era of Nvidia’s 80-100% growth must eventually come to an end. When this period of rapid expansion concludes, Nvidia’s valuation will likely drop significantly. In fact, we currently estimate Nvidia’s Valuation to be around $100 per share, reflecting a downside of over 25% from the current levels. Note that we will revise our model shortly to reflect the latest quarterly results. However, growth could then stabilize at a more sustainable pace of 20-30%, which, while not exceptionally high, is still respectable. That’s why you build a portfolio. A resilient one. Balance risk-reward. We did it in spades with the Trefis High Quality (HQ) portfolio. Balancing risk-reward is how HQ outperformed the S&P 500, the Nasdaq, and the Russell 2000. HQ outperformed all of them, and clocked >91% returns since inception!
---------------------------------------------------
-
-Title: Apple is falling behind its Magnificent 7 rivals. Here's why
-URL: https://qz.com/apple-stock-magnificent-7-tech-ai-nvidia-google-amazon-1851782680
-Time Published: 2025-05-29T09:00:00Z
-Full Content:
-The “Magnificent Seven” tech stocks led the market’s post-pandemic boom. But as Big Tech sprints into the AI future, one big name is falling dangerously behind: Apple (AAPL). Once an undisputed tech heavyweight, it risks becoming the least magnificent of them all. While the others — Google parent Alphabet (GOOGL), Amazon (AMZN), Facebook parent Meta (META), Microsoft (MSFT), Nvidia (NVDA), and Tesla (TSLA) — race ahead thanks to leaps in AI and demand for data centers, Apple is stuck in reverse. Its share price is down about 18% so far this year, making it the worst-performing member of the Mag 7 — and a drag on the very tech rally it once helped drive. Once the most valuable company in the world, Apple’s market cap is now in third place, behind Microsoft and Nvidia. The message from Wall Street? Apple still matters, but it’s not setting the tone anymore. Apple’s Mag 7 peers have blazed new paths with AI in recent years. Microsoft has embedded generative AI into Office, Windows, and Azure — and is working on the next frontier, agentic AI. Google has rolled out Gemini across just about all of its products. Meta is pivoting from the metaverse to machine learning. Amazon has gone deep on infrastructure and developer tools through AWS to position itself as the AI enabler. Tesla has staked out a position at the forefront of embodied AI, from cars to robots. And Nvidia’s chips have become synonymous with the infrastructure powering the industry. Meanwhile, Apple, late last year, finally unveiled Apple Intelligence, a suite of AI-driven features and a Siri revamp powered by ChatGPT. But Apple was late to the party, largely relied on a partner rather than a breakthrough, and has barely made a dent since. Rollout has been sluggish, features are still limited and easily found elsewhere, and Apple hasn’t announced much else. In a market moment defined by fast, flashy AI moves, the company has showed up late — and quietly. The last big thing Apple announced was Vision Pro, its $3,500 headset that was pitched as a new computing platform. But sales have been underwhelming, and developer interest has fizzled. Analysts now say fewer than 500,000 units were sold in its first year, a fraction of expectations. The company’s attempt at an autonomous vehicle also flopped. It was shelved after 10 years and more than $10 billion. Technology is a hit-based business, and Apple, the company behind the iPhone and the iPad, hasn’t had a hit in a while. Meanwhile, former Apple design chief Jony Ive is working with OpenAI on a big bet: 100 million physical AI “companions” that the company hopes to roll out by the end of next year. In other words, devices that could threaten the iPhone’s dominance. While Apple’s Mag 7 peers seem to be building the future, Apple is updating the present. It makes cyclical hardware updates, but they’re evolutionary, not revolutionary. Read more: Apple’s brutal year keeps getting worse Apple is expected to make announcements in the coming months. The most interesting might be AI-powered glasses that Bloomberg reports could feature built-in cameras, microphones, and speakers. But Meta already has a smart glasses partnership with Ray Ban (EL). Mark Zuckerberg’s company has sold two million pairs since the collaboration’s 2023 launch and is planning to produce 10 million units a year by 2026. Apple’s first-quarter earnings report showed that hardware margins are dropping as its product line matures. Apple’s crown jewel Services segment (which includes the App Store, iCloud, Apple Music, and Apple TV) is growing, but it’s not growing fast enough to offset hardware stagnation. And legal scrutiny of Apple’s App Store looms large. Wall Street loves high-margin, high-growth stories. Right now, Apple is high margin but low growth. China has been central to Apple’s strategy for years, but the country is now a source of stress, slippage, and softening sales. In late 2024, iPhone shipments in China cratered by more than 20%, according to Counterpoint Research. Based on Canalys data for the first quarter of 2025, Apple now ranks fifth in China’s smartphone market. And Apple can’t even lean on its AI play as a differentiator in China. The company’s ChatGPT integration, part of Apple Intelligence, had to be stripped from iPhones to comply with China’s generative AI rules. The company’s struggles in China don’t even take into account the swirling — and massive — economic headwinds from President Donald Trump’s tariffs. On Apple’s last earnings call, CEO Tim Cook said the company could see an estimated $900 million added to its costs this quarter, assuming tariff rates stayed the same. Trump’s tariffs on China have come down, but they remain unpredictable, and Apple is almost certain to feel their impact. Apple has had to reassess its once-vaunted China-centric supply chain as geopolitics, nationalism, and business risk converge. Over the past two years, the company has aggressively shifted manufacturing out of China — pumping billions into India and shifting select operations to Vietnam for components such as AirPods and MacBooks. But Trump has repeatedly attacked Apple and Cook for moving production to India, not the U.S. The president recently floated the idea of a 25% tariff on all imported iPhones. And Cook was notably missing from Trump’s Middle East tech tour, which featured other Big Tech leaders. Once considered the Trump whisperer of Big Tech, Cook has become a more distant figure from the White House in recent months. Announcements in the coming months could, of course, change things for Apple. Microsoft stock languished for 14 years after Bill Gates stepped down as CEO and Steve Ballmer took over, but the company has been a rocket ship since Satya Nadella succeeded Ballmer in 2014 and reoriented the company toward the cloud — and then AI. Apple could likewise surprise Wall Street with a flashy AI demo, a set of tools, or a shift in strategy. Yes, Apple still dominates in devices. But in a moment defined by ambition, speed, and AI supremacy, that hasn’t been enough. Right now, Apple isn’t losing. It’s just not leading. And in an AI-driven market, that might be worse. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
---------------------------------------------------
-
-Title: Nvidia Earnings Live: Sales Surge Amid AI Boom, CEO Huang Expects Demand to Accelerate; Stock Jumps Nearly 5% - Investopedia
-URL: https://slashdot.org/firehose.pl?op=view&amp;id=177846771
-Time Published: 2025-05-29T07:32:28Z
-Description: Nvidia Earnings Live: Sales Surge Amid AI Boom, CEO Huang Expects Demand to Accelerate; Stock Jumps Nearly 5%Investopedia NVIDIA Announces Financial Results for First Quarter Fiscal 2026NVIDIA Newsroom Nvidia shares surge as earnings beat despite chip export …
---------------------------------------------------
-
-Title: Elon Musk leaves DOGE as job was ‘uphill battle’
-URL: https://cointelegraph.com/news/elon-musk-leaves-doge-admit-tougher-than-expected
-Time Published: 2025-05-29T05:19:44Z
-Description: Elon Musk confirmed that he’s quitting as the White House’s government cost-cutting czar after admitting it was an “uphill battle” trying to slash federal jobs and programs.Musk’s status as a Special Government Employee leading the Department of Government Ef…
---------------------------------------------------
-
-Title: Nvidia posts mixed Q1, predicts $8B hit with US chip curbs
-URL: https://cointelegraph.com/news/nvidia-q1-predicts-8b-hit-us-chip-curbs
-Time Published: 2025-05-29T01:56:37Z
-Description: Chip-making giant Nvidia has posted mixed results in its first quarter earnings, beating Wall Street expectations on revenue but missing predictions on its income amid US restrictions on its exports to China. In earnings released May 28 for its first quarter …
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures jump as court blocks Trump tariffs, Nvidia earnings impress (Amalya Dubrovsky/Yahoo Finance)
-URL: https://www.memeorandum.com/250528/p148
-Time Published: 2025-05-29T00:45:00Z
-Full Content:
-memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news outlet, but rather a media-monitoring tool for sophisticated news consumers. View the current page or another snapshot:
 --------------------------------------------------
