@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: The 'Magnificent 7' are outperforming other stocks again — here's why
+URL: https://finance.yahoo.com/news/the-magnificent-7-are-outperforming-other-stocks-again--heres-why-080034631.html
+Time Published: 2025-06-03T08:00:34Z
+Description: The "Magnificent Seven" tech stocks led the market higher in May as investors searched for safety amid higher rates and economic uncertainty.
+--------------------------------------------------
+
 Title: Buy and hold these ASX ETFs for the next decade
 URL: https://www.fool.com.au/2025/06/03/buy-and-hold-these-asx-etfs-for-the-next-decade/
 Time Published: 2025-06-02T21:59:20Z
