@@ -1,7 +1,7 @@
 List of news related to Amazon stock price AMZN:
 
-Title: Is Realty Income’s (O) 9-Year Low a Golden Opportunity for Dividend Investors?
-URL: https://finance.yahoo.com/news/realty-income-o-9-low-182100233.html
-Time Published: 2025-05-30T18:21:00Z
-Description: Realty Income (O), the self-proclaimed “Monthly Dividend Company,” is now trading at levels not seen since 2016, a nearly decade-long period of flat capital ...
+Title: Nvidia (NVDA) Extends $1 Trillion Rally as AI Optimism Grows
+URL: https://finance.yahoo.com/news/nvidia-nvda-extends-1-trillion-212348668.html
+Time Published: 2025-06-03T21:23:48Z
+Description: Valuation remains below decade average; China risk looms
 --------------------------------------------------

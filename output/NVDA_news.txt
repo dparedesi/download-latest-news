@@ -1,5 +1,42 @@
 List of news related to NVIDIA NVDA:
 
+Title: The best ASX ETFs to ride the AI and tech megatrends
+URL: https://www.fool.com.au/2025/06/04/the-best-asx-etfs-to-ride-the-ai-and-tech-megatrends/
+Time Published: 2025-06-04T05:00:00Z
+Description: Let's see what these exciting funds are invested in.
+The post The best ASX ETFs to ride the AI and tech megatrends appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: Nvidia (NVDA) Extends $1 Trillion Rally as AI Optimism Grows
+URL: https://finance.yahoo.com/news/nvidia-nvda-extends-1-trillion-212348668.html
+Time Published: 2025-06-03T21:23:48Z
+Description: Valuation remains below decade average; China risk looms
+--------------------------------------------------
+
+Title: Jefferies Adds Nvidia to Top?Conviction Buys
+URL: https://finance.yahoo.com/news/jefferies-adds-nvidia-top-conviction-193002470.html
+Time Published: 2025-06-03T19:30:02Z
+Description: Blackwell ramp should push Nvidia gross margins into mid?70% in 2025, says Jefferies
+--------------------------------------------------
+
+Title: Nvidia reclaims crown as world's most valuable company as $1 trillion rally continues
+URL: https://finance.yahoo.com/news/nvidia-reclaims-crown-as-worlds-most-valuable-company-as-1-trillion-rally-continues-192850981.html
+Time Published: 2025-06-03T19:28:50Z
+Description: Nvidia on Tuesday overtook Microsoft as the world's most valuable company Tuesday, with the AI chipmaker's market capitalization of $3.444 trillion eclipsing...
+--------------------------------------------------
+
+Title: Nvidia on track to reclaim crown as world's most valuable company as $1 trillion rally continues
+URL: https://finance.yahoo.com/news/nvidia-on-track-to-reclaim-crown-as-worlds-most-valuable-company-as-1-trillion-rally-continues-192850118.html
+Time Published: 2025-06-03T19:28:50Z
+Description: Nvidia was set to overtake Microsoft as the world’s most valuable company Tuesday, with the AI chipmaker’s market capitalization of $3.45 trillion eclipsing ...
+--------------------------------------------------
+
+Title: Magnificent Seven Earnings Triple S&P Peers
+URL: https://finance.yahoo.com/news/magnificent-seven-earnings-triple-p-192550430.html
+Time Published: 2025-06-03T19:25:50Z
+Description: FactSet shows Mag 7 earnings growth nearly three times that of the other 493 firms
+--------------------------------------------------
+
 Title: 6 Best Growth Stocks To Buy For June 2025
 URL: https://www.forbes.com/sites/investor-hub/article/best-growth-stocks-buy-now-june-2025/
 Time Published: 2025-06-03T19:05:24Z
@@ -12,6 +49,13 @@ URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-
 Time Published: 2025-06-03T15:40:14Z
 Full Content:
 (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Zelenskyy slams Russian truce offer China rolls out ‘ASEAN visa’ Adani Under US Scrutiny, Ola Falls Hard Russia strikes back after Ukraine's 'Spiderweb' op CDS on 'Op Sindoor': ‘India’s forces not impacted by losses’ Tom Homan drops truth bombs on masked agents India 'rubbed US the wrong way': Howard Lutnick Canada: Carney's cabinet faces heated debate over US tariffs Polish Nationalist wins presidency with 51% votes PM Carney meets First ministers amid Canada separation worries Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Prime Articles Top Commodities Top Slideshow Private Companies Top Story Listing Top Definitions Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: Nvidia Added to Jefferies 'Franchise Picks'
+URL: https://www.investopedia.com/nvidia-added-to-jefferies-franchise-picks-11747136
+Time Published: 2025-06-03T14:30:36Z
+Full Content:
+Jefferies has added Nvidia (NVDA) to its roster of “Franchise Picks,” a group its analysts describe as “our highest-conviction, Buy-rated stocks.” In Nvidia’s case, the reason for conviction is the chipmaker’s position as the “dominant supplier of AI accelerators” to data centers, facilities that house the advanced computers used to develop and train artificial intelligence models. Jefferies came away from Nvidia’s quarterly results impressed with the chipmaker’s revenue projections—which largely mirrored what analysts expected despite a larger-than-expected impact from U.S. export curbs. Nvidia said it expects to take an $8 billion hit this quarter due to lost revenue from sales of H20 chips, which the Trump administration barred from being sold in China. The analysts pointed to the “massive step up” in AI commitments from Saudi Arabia and the United Arab Emirates as a reason for revenue optimism. Last month, Nvidia agreed to supply chips to Saudi AI startup Humain, while the U.S. and UAE reached a deal allowing the Middle Eastern nation to import American-made AI chips. Nvidia, grappling with Microsoft (MSFT) for the title of the most valuable company in the world by market capitalization at more than $3.4 trillion, traded 2% higher shortly after the opening bell Tuesday. The stock has gained roughly 5% so far in 2025.
 --------------------------------------------------
 
 Title: The 'Magnificent 7' are outperforming other stocks again — here's why
@@ -31,7 +75,7 @@ Title: The Trump administration is delaying a 25% tariff on Chinese-made graphic
 URL: https://qz.com/trump-tariff-delay-chinese-graphics-cards-gpu-1851783407
 Time Published: 2025-06-02T21:14:00Z
 Full Content:
-Graphics cards and motherboards assembled in China are avoiding President Donald Trump’s import taxes, for now. In a three-page notice published Saturday in the Federal Register, the Office of the Trade Representative said it was “appropriate” to extend a moratorium that won’t subject vendors of electronics equipment to tariffs on graphics cards and graphics processing units. The measure stems from a long-running Section 301 investigation into Chinese economic policies and whether they are harming American companies. That federal probe started under the first Trump administration, and it would apply a 25% tariff if officials conclude that Chinese companies had an unfair advantage. The 25% tariff has been inactive due to a string of reprieves from both the Biden and Trump administrations. China remains the world’s largest electronics manufacturer, according to the International Trade Centre; the nation is still subject to a minimum 30% import tax by the Trump administration, barring some exemptions. Major tech companies including Apple (AAPL), Nvidia (NVDA) and Microsoft (MSFT) were spared the brunt of Trump’s “reciprocal” tariffs in April. A federal court battle is now brewing over the fate of those tariffs. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
+Graphics cards and motherboards assembled in China are avoiding President Donald Trump’s import taxes, for now. In a three-page notice published Saturday in the Federal Register, the Office of the Trade Representative said it was “appropriate” to extend a moratorium that won’t subject vendors of electronics equipment to tariffs on graphics cards and graphics processing units. The measure stems from a long-running Section 301 investigation into Chinese economic policies and whether they are harming American companies. That federal probe started under the first Trump administration, and it would apply a 25% tariff if officials conclude that Chinese companies had an unfair advantage. The 25% tariff has been inactive due to a string of reprieves from both the Biden and Trump administrations. China remains the world’s largest electronics manufacturer, according to the International Trade Centre; the nation is still subject to a minimum 30% import tax by the Trump administration, barring some exemptions. Major tech companies including Apple (AAPL-0.39%), Nvidia (NVDA-1.54%) and Microsoft (MSFT-0.92%) were spared the brunt of Trump’s “reciprocal” tariffs in April. A federal court battle is now brewing over the fate of those tariffs. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
 --------------------------------------------------
 
 Title: Applied Digital Stock Soars on AI Data Center Deal with Nvidia-Backed CoreWeave
@@ -98,54 +142,4 @@ URL: https://www.businessinsider.com/bi-investor-of-the-month-fund-manager-retur
 Time Published: 2025-05-31T08:46:01Z
 Full Content:
 Ankur Crawford, manager of the Alger Concentrated Equity ETF (CNEQ), is BI's Investor of the Month for May. Crawford's growth fund launched in April 2024 and has burst onto the scene. Over the last 12 months, it's up 30%, which was good enough to beat 96% of similar funds, according to Morningstar data. The S&P 500, by comparison, has returned 12% in that time. In May alone, CNEQ rose 17%. Crawford said the fund, which has 30 holdings, focuses on finding companies with little to no competition and, therefore, the ability to keep prices and profits high. "I would say 50% of the portfolio would liken itself to being an oligopoly or a monopoly," she said. "A great example of that is we own Ferrari. There's only one Ferrari, and they can raise prices however much they want; they are still sold out for three years." Thematically, Crawford said the fund is betting big on artificial intelligence, which she called "one of the biggest opportunities that we see, probably of our generation." Despite sparking a market frenzy since late 2022, the AI trade is still in its early days, she said, and likely has legs for another 5-10 years. "It is a game-changing technology that is still in its infancy," she said. "What it will do to companies that furnish it and companies that are part of building out the infrastructure is significant." The top holdings in CNEQ reflect Crawford's affinity for AI: Nvidia (NVDA) has a 13.18% weighting, followed by Microsoft (MSFT) at 10.06%, Amazon (AMZN) at 9.27%, and Meta Platforms (META) at 6.1%. Crawford highlighted two companies in particular as leading the AI trade going forward, and that also fit her preference for monopoly or oligopoly firms: graphic processing unit maker Nvidia and semiconductor producer Taiwan Semiconductor (TSM). While both have high valuations, they also have pricing power that's just about unmatched. "Being the only player in the world that can do something so important, I would argue TSM is probably the most strategic business on this planet," Crawford said. "That comes with a lot of rewards, including pricing power." Those considered for BI's Investor of the Month include managers of US-listed mutual funds or ETFs, those whose funds have outperformed peers in a given month, and those whose funds are outperforming a benchmark index (in most cases this will be the S&P 500) on a trailing 12-month basis. Leveraged funds are not considered. Where Big Tech secrets go public — unfiltered in your inbox weekly. Sign up chevron down icon An icon in the shape of an angle pointing down. Jump to
---------------------------------------------------
-
-Title: Becoming a millionaire: Will ASX shares or property get you there quicker?
-URL: https://www.fool.com.au/2025/05/31/becoming-a-millionaire-will-asx-shares-or-property-get-you-there-quicker/
-Time Published: 2025-05-30T18:30:00Z
-Description: Based on history, there's one clear winner.
-The post Becoming a millionaire: Will ASX shares or property get you there quicker? appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: Nvidia, Other Chip Stocks Slide Amid Worries About US-China Trade Tensions
-URL: https://www.investopedia.com/nvidia-other-chip-stocks-slide-amid-worries-about-us-china-trade-tensions-11745535
-Time Published: 2025-05-30T18:04:35Z
-Full Content:
-Nvidia (NVDA) and other semiconductor stocks slid Friday amid worries about worsening U.S.-China trade tensions. Shares of Nvidia were down nearly 4% in recent trading. Advanced Micro Devices (AMD), Broadcom (AVGO), Micron Technology (MU), and Applied Materials (AMAT) also lost ground, with the PHLX Semiconductor Index (SOX) dropping about 3%. Some of Nvidia's partners, including server maker Super Micro Computer (SMCI), saw their stocks fall as well. (Read Investopedia's full coverage of today's trading here.) President Trump on Friday said China has "totally violated its agreement with us," dampening hopes the countries would soon come to a longer-term agreement after reaching a temporary truce earlier this month. Separately, Bloomberg reported Friday that Trump plans to expand U.S. companies' licensing requirements to make deals with Chinese companies that have ties to sanctioned firms. The development comes after the Trump administration moved earlier this month to rescind the Biden-era AI diffusion rule that would have further curbed sales of American AI hardware to a broader group of countries, but warned it's looking to replace the rule with new restrictions. Analysts at Citi and Deutsche Bank warned at the time that they could turn out to be stricter than Biden's. During Nvidia's earnings call on Wednesday, CEO Jensen Huang said it's "terrific" that Trump rescinded the Biden-era rule, but criticized the administration's other moves to limit its sales to China, saying that "shielding Chinese chipmakers from U.S. competition only strengthens them abroad and weakens America's position." The AI chipmaker took a $4.5 billion charge in its fiscal first quarter associated with new export curbs on the company's H20 chips to China, and said it expects to take an $8 billion hit in the current quarter due to lost revenue.
---------------------------------------------------
-
-Title: Nvidia stands to lose billions, thanks to new Trump policy
-URL: https://www.thestreet.com/technology/nvidia-stands-to-lose-billions-thanks-to-new-trump-policy
-Time Published: 2025-05-30T16:33:00Z
-Description: A new trade decree could put the AI leader and its peers at risk.
---------------------------------------------------
-
-Title: Nvidia (NVDA) Flags China Risks, Holds Firm on $45B Sales Outlook
-URL: https://finance.yahoo.com/news/nvidia-nvda-flags-china-risks-120802342.html
-Time Published: 2025-05-30T12:08:02Z
-Description: Nvidia sees $45B in Q2 sales despite a combined $10.5B hit from U.S. export curbs on its China business.
---------------------------------------------------
-
-Title: Mag 7 valuations before & after Nvidia earnings: Chart of the Day
-URL: https://finance.yahoo.com/video/mag-7-valuations-nvidia-earnings-113013059.html
-Time Published: 2025-05-30T11:30:13Z
-Description: Now that Nvidia's (NVDA) earnings are in the books, Yahoo Finance host Julie Hyman takes a look at what Big Tech's valuations and forward price-to-earnings (...
---------------------------------------------------
-
-Title: “There’s No Substitute for Nvidia (NVDA),” Longtime Investor Says
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fffe61db-9800-434b-99b3-ddf2073f1f87
-Time Published: 2025-05-30T05:08:25Z
-Description: None
---------------------------------------------------
-
-Title: Morgan Stanley Raises NVIDIA Corporation (NVDA)’s Stock Price Target to $170, Maintains Overweight Rating
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2584705b-034e-4aa6-8f3c-0093bf648629
-Time Published: 2025-05-30T02:43:39Z
-Description: None
---------------------------------------------------
-
-Title: Nvidia results spark global chip rally - NBC News
-URL: https://slashdot.org/firehose.pl?op=view&amp;id=177860207
-Time Published: 2025-05-30T00:14:52Z
-Description: Nvidia results spark global chip rallyNBC News 3 key takeaways from Nvidia's earnings: China blow, cloud strength and AI futureCNBC Piper Sandler Lifts Nvidia (NVDA) Price Target to $180, Maintains Overweight RatingYahoo Finance NVIDIA Announces Financial Res…
 --------------------------------------------------

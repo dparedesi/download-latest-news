@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Broadcom (AVGO) Nears Record High as AI Optimism Builds Ahead of Earnings
+URL: https://finance.yahoo.com/news/broadcom-avgo-nears-record-high-202551255.html
+Time Published: 2025-06-03T20:25:51Z
+Description: Broadcom shares rose 2.5% intraday to $254.90
+--------------------------------------------------
+
 Title: MRVL Plunges 30% in 3 Months: Should You Buy, Sell or Hold the Stock?
 URL: https://finance.yahoo.com/news/mrvl-plunges-30-3-months-145100167.html
 Time Published: 2025-06-03T14:51:00Z
@@ -37,23 +43,4 @@ Title: Stock market today: Dow, S&P 500, Nasdaq mixed as US-China trade tensions
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-us-china-trade-tensions-flare-up-again-000643175.html
 Time Published: 2025-06-02T00:06:43Z
 Description: China added fuel to simmering trade tensions with the US, setting investors on guard as they turned the page on a bullish May.
---------------------------------------------------
-
-Title: Nvidia, Other Chip Stocks Slide Amid Worries About US-China Trade Tensions
-URL: https://www.investopedia.com/nvidia-other-chip-stocks-slide-amid-worries-about-us-china-trade-tensions-11745535
-Time Published: 2025-05-30T18:04:35Z
-Full Content:
-Nvidia (NVDA) and other semiconductor stocks slid Friday amid worries about worsening U.S.-China trade tensions. Shares of Nvidia were down nearly 4% in recent trading. Advanced Micro Devices (AMD), Broadcom (AVGO), Micron Technology (MU), and Applied Materials (AMAT) also lost ground, with the PHLX Semiconductor Index (SOX) dropping about 3%. Some of Nvidia's partners, including server maker Super Micro Computer (SMCI), saw their stocks fall as well. (Read Investopedia's full coverage of today's trading here.) President Trump on Friday said China has "totally violated its agreement with us," dampening hopes the countries would soon come to a longer-term agreement after reaching a temporary truce earlier this month. Separately, Bloomberg reported Friday that Trump plans to expand U.S. companies' licensing requirements to make deals with Chinese companies that have ties to sanctioned firms. The development comes after the Trump administration moved earlier this month to rescind the Biden-era AI diffusion rule that would have further curbed sales of American AI hardware to a broader group of countries, but warned it's looking to replace the rule with new restrictions. Analysts at Citi and Deutsche Bank warned at the time that they could turn out to be stricter than Biden's. During Nvidia's earnings call on Wednesday, CEO Jensen Huang said it's "terrific" that Trump rescinded the Biden-era rule, but criticized the administration's other moves to limit its sales to China, saying that "shielding Chinese chipmakers from U.S. competition only strengthens them abroad and weakens America's position." The AI chipmaker took a $4.5 billion charge in its fiscal first quarter associated with new export curbs on the company's H20 chips to China, and said it expects to take an $8 billion hit in the current quarter due to lost revenue.
---------------------------------------------------
-
-Title: Why EPS Isn’t What You Think It Is—And What Dividend Investors Must Watch Instead
-URL: https://thedividendguyblog.com/earnings-per-share-eps-explained/
-Time Published: 2025-05-30T17:13:48Z
-Description: “If investing was only about revenue minus costs equals profit, we’d all be Warren Buffett by now, right?” Yet here we are, looking at companies like Broadcom or Brookfield, scratching our heads. Sales are booming. Dividends keep flowing. But… EPS (earnings p…
---------------------------------------------------
-
-Title: Well-Known Investor Is Bullish on Broadcom (AVGO) Stock
-URL: https://finance.yahoo.com/news/well-known-investor-bullish-broadcom-044812505.html
-Time Published: 2025-05-30T04:48:12Z
-Description: Joe Terranova, who frequently appears on CNBC, confirmed on the network recently that he has a Buy rating on Broadcom (AVGO) stock. Terranova is a Senior...
 --------------------------------------------------
