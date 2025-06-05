@@ -1,5 +1,12 @@
 List of news related to NVIDIA NVDA:
 
+Title: Dan Ives' Wedbush ETF tracking AI stocks launches
+URL: https://qz.com/dan-ives-wedbush-etf-ai-nvidia-microsoft-1851783611
+Time Published: 2025-06-04T18:00:06Z
+Full Content:
+Dan Ives, a tech analyst known for his bullish calls on Nvidia (NVDA), Tesla, and the generative AI boom, is offering investors a way to buy into his thesis — literally. On Tuesday, Wedbush Securities, where Ives is the managing director, launched the Dan Ives Wedbush AI Revolution ETF (ticker: IVES), a portfolio of 30 U.S. tech companies selected by Ives and his team for their exposure to AI. The fund trades on the NYSE Arca and carries a 0.75% expense ratio. The ETF includes familiar names such as Nvidia, Microsoft (MSFT), Tesla (TSLA), and Palantir (PLTR) — companies Ives has championed as foundational to the next phase of digital transformation. The ETF tracks what Wedbush calls the “Ives AI 30,” a list of companies the company sees as best positioned to commercialize and scale AI across sectors — from semiconductors to cloud platforms to next-gen software. “It’s based on our research,” Ives told CNBC. “As new companies come in, then some companies could come out. This is a living organism, in terms of this AI 30. It’s not static. And that’s a key part of the theme here, because the theme will continue to evolve.” That puts the fund into what Wedbush executives say is a bit of a hybrid category. “We’re kind of walking this line between active and passive,” said Cullen Rogers, chief investment officer at Wedbush Fund Advisers, who is overseeing the ETFs day-to-day operations. “We’re just looking to leverage Dan’s ideas as well as we can in an institutional framework... that gives investors a consistent, predictable structure.” Ives has been among Wall Street’s most vocal AI bulls, describing the moment as a generational investment opportunity. In recent client notes, he’s called AI “the biggest tech transformation in over 40 years” and likened AI chips to “the new gold and oil.” “The AI revolution is the biggest tech theme we’ve ever seen,” Ives told Yahoo Finance. He said he started the ETF “because it’s about the second, third, fourth derivatives of AI playing out, and that’s the important thing for investors.” The launch lands at a time when AI-related stocks are surging. But whether or not the market stays this hot is a big question. “Dan’s track record speaks for itself,” Wedbush CEO Gary Wedbush said in a press release. “He’s been identifying the drivers of tech disruption for years, and the IVES ETF gives investors a chance to follow that insight in a disciplined, transparent way.” Wedbush is betting that the AI rally is far from over — and that the company’s strategy can stand out as the space matures. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
+--------------------------------------------------
+
 Title: Nvidia CEO Jensen Huang is ‘motivated by fear and guilt,’ biographer says
 URL: https://qz.com/nvidias-ceo-jensen-huang-is-just-like-us-1851783595
 Time Published: 2025-06-04T16:15:00Z
@@ -33,16 +40,16 @@ Time Published: 2025-06-03T19:30:02Z
 Description: Blackwell ramp should push Nvidia gross margins into mid?70% in 2025, says Jefferies
 --------------------------------------------------
 
-Title: Nvidia on track to reclaim crown as world's most valuable company as $1 trillion rally continues
-URL: https://finance.yahoo.com/news/nvidia-on-track-to-reclaim-crown-as-worlds-most-valuable-company-as-1-trillion-rally-continues-192850118.html
-Time Published: 2025-06-03T19:28:50Z
-Description: Nvidia was set to overtake Microsoft as the world’s most valuable company Tuesday, with the AI chipmaker’s market capitalization of $3.45 trillion eclipsing ...
---------------------------------------------------
-
 Title: Nvidia reclaims crown as world's most valuable company as $1 trillion rally continues
 URL: https://finance.yahoo.com/news/nvidia-reclaims-crown-as-worlds-most-valuable-company-as-1-trillion-rally-continues-192850981.html
 Time Published: 2025-06-03T19:28:50Z
 Description: Nvidia on Tuesday overtook Microsoft as the world's most valuable company Tuesday, with the AI chipmaker's market capitalization of $3.444 trillion eclipsing...
+--------------------------------------------------
+
+Title: Nvidia on track to reclaim crown as world's most valuable company as $1 trillion rally continues
+URL: https://finance.yahoo.com/news/nvidia-on-track-to-reclaim-crown-as-worlds-most-valuable-company-as-1-trillion-rally-continues-192850118.html
+Time Published: 2025-06-03T19:28:50Z
+Description: Nvidia was set to overtake Microsoft as the world’s most valuable company Tuesday, with the AI chipmaker’s market capitalization of $3.45 trillion eclipsing ...
 --------------------------------------------------
 
 Title: Magnificent Seven Earnings Triple S&P Peers
