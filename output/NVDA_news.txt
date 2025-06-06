@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Jim Cramer Says, “Jensen Makes a Very Compelling Case When He Argues That We Should Let NVIDIA (NVDA) Sell Those Chips to the Chinese”
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8333e01c-c366-43f3-8ab9-138be10d2b16
+Time Published: 2025-06-05T08:28:39Z
+Description: None
+--------------------------------------------------
+
 Title: NVIDIA (NVDA) Partners With Accenture And AdaCore For AI And Automotive Innovations
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_190a0aad-4ea2-4248-9d9e-8f910c48c7a4
 Time Published: 2025-06-05T01:47:01Z
