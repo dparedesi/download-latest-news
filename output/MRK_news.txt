@@ -1,1 +1,7 @@
-No news found for Merck & Co stock price +MRK
+List of news related to Merck & Co stock price MRK:
+
+Title: A professor testing ChatGPT’s, DeepSeek’s and Grok’s stock-picking skills suggests stockbrokers should worry
+URL: https://www.marketwatch.com/story/a-professor-testing-chatgpts-deepseeks-and-groks-stock-picking-skills-suggests-stockbrokers-should-worry-f54d583a
+Time Published: 2025-06-07T12:30:00Z
+Description: Alejandro Lopez-Lira has been impressed with how current AI models can trade markets.
+--------------------------------------------------
