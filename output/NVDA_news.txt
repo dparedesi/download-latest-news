@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVDA: Nvidia Climbs Nears 5-Month Peak, AI Powerhouse Defies Trade Fears
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_14532a04-3da7-4f7d-b6ac-3b0f2bcbd908
+Time Published: 2025-06-10T12:57:58Z
+Description: None
+--------------------------------------------------
+
 Title: NVIDIA Powers Europe’s Fastest Supercomputer
 URL: https://www.globenewswire.com/news-release/2025/06/10/3096396/0/en/NVIDIA-Powers-Europe-s-Fastest-Supercomputer.html
 Time Published: 2025-06-10T09:00:00Z
