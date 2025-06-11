@@ -1,5 +1,19 @@
 List of news related to NVIDIA NVDA:
 
+Title: $10,000 invested in QUAL ETF a year ago is now worth…
+URL: https://www.fool.com.au/2025/06/10/10000-invested-in-qual-etf-a-year-ago-is-now-worth/
+Time Published: 2025-06-10T02:59:30Z
+Description: This ASX ETF follows an index that uses a filter to ensure all stock holdings meet 3 financial metrics. 
+The post $10,000 invested in QUAL ETF a year ago is now worth… appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: Magnificent Seven shares set for a comeback: expert
+URL: https://www.fool.com.au/2025/06/10/magnificent-seven-shares-set-for-a-comeback-expert/
+Time Published: 2025-06-10T01:51:13Z
+Description: The US Mag 7 stocks appear to have lost some of their lustre with investors. But perhaps not for long. 
+The post Magnificent Seven shares set for a comeback: expert appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
 Title: Retail Investors Are Buying AI Stocks, But Not the Ones They Used To
 URL: https://www.investopedia.com/retail-investors-are-buying-ai-stocks-but-not-the-ones-they-used-to-11750766
 Time Published: 2025-06-09T17:55:22Z
@@ -18,7 +32,7 @@ Title: Jensen Huang compared to Tony Stark as he talks up Nvidia's AI investment
 URL: https://qz.com/jensen-huang-nvidia-london-tech-week-conference-1851784084
 Time Published: 2025-06-09T16:00:00Z
 Full Content:
-Nvidia CEO Jensen Huang got the rockstar treatment during London Tech Week — and even garnered some comparisons to Tony Stark The conference attendees waited in long lines before the conference opened to get a good seat for Huang’s event with the U.K. Prime Minister Keir Starmer. Many people didn’t even manage to get into the talk. “He’s like Iron Man,” one conference goer told CNBC about Huang. “The amount of infrastructure required for AI wouldn’t be possible without that man.” The Nvidia (NVDA) co-founder and CEO called the U.K. “the envy of the world” in a “Goldilocks circumstance,” during his appearance. Huang also told the audience that Nvidia will continue to pour cash into Britain, which he called “such a great place to invest.” The company will start an AI lab there and wants to upskill the workforce. He said, “Because of AI, every industry in the U.K. will be a tech industry.” He added: “The U.K. has one of the richest AI communities anywhere on the planet, the deepest thinkers, the best universities…and the third largest AI capital investment of anywhere in the world. Meanwhile, Starmer emphasized the country’s “sovereign AI ambitions,” stating that the government will invest £1 billion in AI by 2030. Huang’s appearance in London kicked off his European tour. He plans to visit Paris this week, where he is likely to meet with French Prime Minister Emmanuel Macron. Nvidia is also working with Germany to help them build a supercomputer using Nvidia architecture and with Sweden to construct the Scandinavian country’s first national AI infrastructure. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
+Nvidia CEO Jensen Huang got the rockstar treatment during London Tech Week — and even garnered some comparisons to Tony Stark The conference attendees waited in long lines before the conference opened to get a good seat for Huang’s event with the U.K. Prime Minister Keir Starmer. Many people didn’t even manage to get into the talk. “He’s like Iron Man,” one conference goer told CNBC about Huang. “The amount of infrastructure required for AI wouldn’t be possible without that man.” The Nvidia (NVDA) co-founder and CEO called the U.K. “the envy of the world” in a “Goldilocks circumstance,” during his appearance. Huang also told the audience that Nvidia will continue to pour cash into Britain, which he called “such a great place to invest.” The company will start an AI lab there and wants to upskill the workforce. He said, “Because of AI, every industry in the U.K. will be a tech industry.” He added: “The U.K. has one of the richest AI communities anywhere on the planet, the deepest thinkers, the best universities…and the third largest AI capital investment of anywhere in the world. Meanwhile, Starmer emphasized the country’s “sovereign AI ambitions,” stating that the government will invest £1 billion in AI by 2030. Huang’s appearance in London kicked off his European tour. He plans to visit Paris this week, where he is likely to meet with French Prime Minister Emmanuel Macron. Nvidia is also working with Germany to help them build a supercomputer using Nvidia architecture and with Sweden to construct the Scandinavian country’s first national AI infrastructure.
 --------------------------------------------------
 
 Title: Qualcomm buys Alphawave, Nvidia CEO talks AI in the UK, eVTOL stocks jump
@@ -105,75 +119,5 @@ Description: Top funds just poured eye-popping sums into this AI stock.
 Title: Analysts Reaffirm Nvidia (NVDA) as a Top Pick Amid Blackwell Ramp and AI Investment Boom
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ee49adc9-d146-4230-8177-e1da816acb04
 Time Published: 2025-06-06T12:58:59Z
-Description: None
---------------------------------------------------
-
-Title: Microsoft stock just hit a record high as it cashes in on the AI boom
-URL: https://not-qz.com/microsoft-intraday-stock-high-ai-june-2025-1851783771
-Time Published: 2025-06-05T20:07:00Z
-Full Content:
-Microsoft (MSFT) stock just clocked an intraday record on Thursday ($468.49), a milestone that caps off the company’s aggressive AI moves — and even more aggressive expectations. Wall Street isn’t just rewarding Microsoft for showing up to the AI race, it’s pricing in a future where the company leads the pack. The surge marks the company’s biggest high since July 2024 and follows a series of announcements that signal how deeply AI is baked into Microsoft’s business. Recently, the company has laid out a massive infrastructure plan, unveiled custom AI chips for Azure, and kept investors buzzing with sharp revenue growth across its cloud and productivity divisions. In many ways, Microsoft’s stock high isn’t just about AI — it’s about the company’s ability to industrialize it. The AI narrative isn’t new, but Microsoft is increasingly making it look real. While Google (GOOGL) is experimenting and Amazon (AMZN) is largely building behind the scenes, Microsoft is out there productizing — and monetizing — faster than most expected. GitHub Copilot is gaining traction. Microsoft 365 is increasingly AI-native. Azure has become the go-to cloud for businesses that want ready-to-go AI tools. Microsoft had a rocky start to the year (a 10% decline from its July 2024 peak) but it’s rebounded sharply, thanks largely to strong cloud growth — Azure revenue jumped 33% in the 2025 fiscal third quarter — and continued momentum in AI integration. Now, Microsoft’s stock is up about 12% year-to-date (and 30% since April of this year), easily outperforming fellow tech giants such as Apple (AAPL), Amazon, Alphabet, and Nvidia (NVDA). The recent rally has added over $800 billion to Microsoft’s market capitalization, and the company’s performance positions it as one of the more stable, high-conviction bets in a tech sector that is increasingly divided between hype and execution. Earlier this year, Microsoft committed to spending $80 billion in fiscal 2025 — most of it on AI-enabled data centers. That’s a figure that suggests CEO Satya Nadella sees AI as Microsoft’s cloud moment all over again. And the market seems to agree. Behind the rally, analysts are circling with revised playbooks. The average analyst price target shows almost double-digit potential over the coming year. And some analysts predict that Microsoft’s AI initiatives could bring in over $10 billion annually.
---------------------------------------------------
-
-Title: Microsoft stock just hit a record high as it cashes in on the AI boom
-URL: https://qz.com/microsoft-intraday-stock-high-ai-june-2025-1851783771
-Time Published: 2025-06-05T20:07:00Z
-Full Content:
-Microsoft (MSFT) stock just clocked an intraday record on Thursday ($468.49), a milestone that caps off the company’s aggressive AI moves — and even more aggressive expectations. Wall Street isn’t just rewarding Microsoft for showing up to the AI race, it’s pricing in a future where the company leads the pack. The surge marks the company’s biggest high since July 2024 and follows a series of announcements that signal how deeply AI is baked into Microsoft’s business. Recently, the company has laid out a massive infrastructure plan, unveiled custom AI chips for Azure, and kept investors buzzing with sharp revenue growth across its cloud and productivity divisions. In many ways, Microsoft’s stock high isn’t just about AI — it’s about the company’s ability to industrialize it. The AI narrative isn’t new, but Microsoft is increasingly making it look real. While Google (GOOGL) is experimenting and Amazon (AMZN) is largely building behind the scenes, Microsoft is out there productizing — and monetizing — faster than most expected. GitHub Copilot is gaining traction. Microsoft 365 is increasingly AI-native. Azure has become the go-to cloud for businesses that want ready-to-go AI tools. Microsoft had a rocky start to the year (a 10% decline from its July 2024 peak) but it’s rebounded sharply, thanks largely to strong cloud growth — Azure revenue jumped 33% in the 2025 fiscal third quarter — and continued momentum in AI integration. Now, Microsoft’s stock is up about 12% year-to-date (and 30% since April of this year), easily outperforming fellow tech giants such as Apple (AAPL), Amazon, Alphabet, and Nvidia (NVDA). The recent rally has added over $800 billion to Microsoft’s market capitalization, and the company’s performance positions it as one of the more stable, high-conviction bets in a tech sector that is increasingly divided between hype and execution. Earlier this year, Microsoft committed to spending $80 billion in fiscal 2025 — most of it on AI-enabled data centers. That’s a figure that suggests CEO Satya Nadella sees AI as Microsoft’s cloud moment all over again. And the market seems to agree. Behind the rally, analysts are circling with revised playbooks. The average analyst price target shows almost double-digit potential over the coming year. And some analysts predict that Microsoft’s AI initiatives could bring in over $10 billion annually. Our free, fast, and fun briefing on the global economy, delivered every weekday morning.
---------------------------------------------------
-
-Title: Nvidia (NVDA) Director Sells Over 1 Million Shares, Generating $150 Million
-URL: https://finance.yahoo.com/news/nvidia-nvda-director-sells-over-195827445.html
-Time Published: 2025-06-05T19:58:27Z
-Description: Revenue rose 69 percent to $44.1 billion, beating the $41.8 billion consensus forecast
---------------------------------------------------
-
-Title: Nvidia (NVDA) Maintains Market-Beating Pace as AI Boom Soothes Thorny Trade War
-URL: https://finance.yahoo.com/news/nvidia-nvda-maintains-market-beating-192400665.html
-Time Published: 2025-06-05T19:24:00Z
-Description: Nvidia’s (NVDA) Q1 results landed like a bombshell last week, shattering expectations with $44.1 billion in revenue, marking a 69% surge year-over-year...
---------------------------------------------------
-
-Title: US stock market today: Dow, S&P 500, Nasdaq rise after Trump-Xi call sparks trade optimism — but investors urged to stay cautious amid jobs data, Tesla and Apple in focus
-URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-dow-sp-500-nasdaq-rise-after-trump-xi-call-sparks-trade-optimism-but-investors-urged-to-stay-cautious-amid-jobs-data-tesla-and-apple-in-focus/articleshow/121653275.cms
-Time Published: 2025-06-05T15:21:13Z
-Full Content:
-(Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. China flexes nuke missile after Hegseth’s warning Trump’s 50% metal tariffs to hurt Indian exports? China blasts US over SEC crackdown 5% NATO spending ‘will happen’, says Hegseth Trump orders Pam Bondi to probe Biden’s autopen use Ram Darbar Pran Pratishtha: CM Yogi attends holy rituals PM Modi likely to skip G7 Summit in Canada PM Modi to unravel world's tallest rail bridge on Chenab Israel bombs Syria after projectiles fired Trump signs proclamation banning travel from 12 countries Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Prime Articles Private Companies Top Commodities Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Analyst Says NVIDIA (NVDA) is ‘Firing on All Cylinders’ – ‘Everybody Wants Their Product’
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e6119d60-b02d-41a0-8cd7-e4cefe8817e1
-Time Published: 2025-06-05T15:08:29Z
-Description: None
---------------------------------------------------
-
-Title: Rise Of The Machines: A Dividend Revolution Yielding Up To 9.7%
-URL: https://www.forbes.com/sites/brettowens/2025/06/05/rise-of-the-machines-a-dividend-revolution-yielding-up-to-97/
-Time Published: 2025-06-05T14:22:00Z
-Full Content:
-ByBrett Owens ByBrett Owens, Contributor. Army of robots. 3D illustration Big companies are about to make even more money. They have discovered they no longer need armies of new hires to grow—extremely bullish news for shareholders because human employees are expensive. Good ones can also be notoriously elusive. For example, I’m the longest-standing member of my kids’ school marketing committee, and we’re always scrambling for volunteers (what non-profit isn’t?). Until now, that is. Over the weekend, we welcomed the most talented marketer I’ve ever worked with to our team: ChatGPT 4.5. “GPT” graciously accepted our volunteer position, and we’re already actively boosting online referrals for the school. I’m learning cutting-edge “AI referral” techniques straight from the entity that invented them. It was the easiest recruitment effort I’ve ever experienced. GPT and I were already collaborating closely to market and sell several software products, so extending our teamwork to the non-profit world was seamless. The same dynamic is quietly playing out at for–profit companies, particularly the tech giants that dominate the cap-weighted S&P 500. A senior executive friend at Meta (META) recently confirmed to me that the company has essentially frozen hiring, pivoting entirely toward AI-driven growth. It already shows in the numbers. Over the past year Meta has increased revenues by 22% while only hiring 10% more people. Sales are growing faster than humans, a trend that I expect to accelerate in the months and years ahead. In fact, I wouldn’t be surprised if Meta has already reached peak headcount—which means profits are set to surge even more. And Meta isn’t alone in this “growing without hiring” trend. Alphabet (GOOG) grew revenues by 14% without any net new hires. And Nvidia (NVDA) did grow headcount by 13%, but for good reason—sales exploded by 126%! Microsoft (MSFT) is likewise sailing along without the need for new engineers, with 16% revenue growth on just a 3% headcount increase: Tech Growth The AI adoption at these companies is just beginning. These profit machines are already selling $1 to $2 million in product per employee, but their profits are going to pop as they sell even more without the expense drag of adding new employees! This four-pack packs 20% of the S&P 500 index. When we combine Amazon (AMZN), Tesla (TSLA), Netflix (NFLX) and Apple (AAPL)—four more tech companies that are scaling without hiring—we have 32% of the index. Earlier in the year, I warned that the “tech heaviness” of the S&P 500 was dangerous—and it sure was during the tariff troubles of March and April. But with trade tensions fading and tech profits exploding thanks to lean payrolls, these big 8 companies are now set to power the index higher. Plus, we have a weakening US dollar. Stocks are, of course, priced in dollars. So, a softer dollar is another bullish catalyst for the S&P 500. As income investors, we can tap this rising tide for steady income. To do so, we’ll use covered calls—a strategy where we buy stocks and then sell (“write”) call options to other investors. We earn income now from the option premiums we collect, paid upfront to agree to sell our shares at a higher price later. Market volatility from a tumultuous spring means these options pay generous premiums right now (covered call options pay more when things are bouncing around!). So, this is a good market moment to cash in on leftover fear. I’m talking about dividends up to 9.7% that will benefit from the S&P 500 soaring towards 9000. (Yes, it sounds wild—but with record profits plus a declining dollar, this is a potential price target before the end of Trump 2.0.) Eaton Vance Tax-Managed Global Diversified Equity Income Fund (EXG) yields 9.2% and trades at a 6% discount. That’s a sweet deal because it holds big winners like Amazon, Alphabet, and Microsoft, then boosts income by selling covered calls on the S&P 500 and international indices. The income from these constantly expiring calls is the key to the EXG’s sky-high “synthetic yield.” The fund collects premiums from option buyers immediately after it writes these calls, generating steady income for shareholders. We can think of this as “renting” out positions to generate extra cash. EXG owns the underlying shares behind the S&P 500. Each month it leases its collection of stocks and collects the option premiums. Rinse and repeat. Nuveen S&P 500 Buy-Write Income Fund (BXMX) pays 8.1% and trades at a 9% discount to its net asset value (NAV)—another good deal because we’re talking Apple and Amazon for 91 cents on the dollar. Finally the Global X S&P 500 Covered Call ETF (XYLD) dishes a 9.7% dividend. It is an ETF, so it trades at par (“fair value”), as most do. XYLD owns the S&P 500 stocks and has also written calls on the S&P 500 that expire later in June. When that happens, the fund will write new calls for July—delivering more tasty income to its investors. Covered Call Funds As sellers of covered calls, they exult in market volatility that delivers high option premiums. Plus, their NAVs have a tailwind—tech profits popping! Brett Owens is Chief Investment Strategist for Contrarian Outlook. For more great income ideas, get your free copy his latest special report: How to Live off Huge Monthly Dividends (up to 8.7%) — Practically Forever. Disclosure: none
---------------------------------------------------
-
-Title: Jim Cramer on NVIDIA (NVDA): “The Bear Case on AI May Have Been Dead Wrong”
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_97dc6705-e001-4daf-88c4-86cb99faaa70
-Time Published: 2025-06-05T09:04:13Z
-Description: None
---------------------------------------------------
-
-Title: Jim Cramer Says, “Jensen Makes a Very Compelling Case When He Argues That We Should Let NVIDIA (NVDA) Sell Those Chips to the Chinese”
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8333e01c-c366-43f3-8ab9-138be10d2b16
-Time Published: 2025-06-05T08:28:39Z
-Description: None
---------------------------------------------------
-
-Title: Analysts Add NVIDIA (NVDA) to Top Buy List, Cite AI Strength and Blackwell Chip Upside
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c4f9250e-572a-417a-9b5b-9f6b4b2da694
-Time Published: 2025-06-05T07:34:39Z
-Description: None
---------------------------------------------------
-
-Title: NVIDIA (NVDA) Partners With Accenture And AdaCore For AI And Automotive Innovations
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_190a0aad-4ea2-4248-9d9e-8f910c48c7a4
-Time Published: 2025-06-05T01:47:01Z
 Description: None
 --------------------------------------------------
