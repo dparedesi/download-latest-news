@@ -5,9 +5,3 @@ URL: https://finance.yahoo.com/news/mercks-cholesterol-lowering-drug-hits-181501
 Time Published: 2025-06-09T18:15:01Z
 Description: Merck & Co., Inc. (NYSE:MRK) on Monday shared topline results from the first two of three Phase 3 clinical trials evaluating the safety and efficacy of...
 --------------------------------------------------
-
-Title: A professor testing ChatGPT’s, DeepSeek’s and Grok’s stock-picking skills suggests stockbrokers should worry
-URL: https://www.marketwatch.com/story/a-professor-testing-chatgpts-deepseeks-and-groks-stock-picking-skills-suggests-stockbrokers-should-worry-f54d583a
-Time Published: 2025-06-07T12:30:00Z
-Description: Alejandro Lopez-Lira has been impressed with how current AI models can trade markets.
---------------------------------------------------

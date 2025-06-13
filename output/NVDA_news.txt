@@ -1,9 +1,42 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia (NVDA) to Build First Industrial AI Cloud in Germany
+URL: https://finance.yahoo.com/news/nvidia-nvda-build-first-industrial-210909544.html
+Time Published: 2025-06-11T21:09:09Z
+Description: Project will support European automakers, biotech firms, and AI startups
+--------------------------------------------------
+
+Title: NVIDIA Stockholder Meeting Set for June 25; Individuals Can Participate Online
+URL: https://www.globenewswire.com/news-release/2025/06/11/3097966/0/en/NVIDIA-Stockholder-Meeting-Set-for-June-25-Individuals-Can-Participate-Online.html
+Time Published: 2025-06-11T21:00:00Z
+Full Content:
+June 11, 2025 17:00 ET | Source: NVIDIA NVIDIA SANTA CLARA, Calif., June 11, 2025 (GLOBE NEWSWIRE) -- NVIDIA today announced it will hold its 2025 Annual Meeting of Stockholders online on Wednesday, June 25, at 9 a.m. PT. The meeting will take place virtually at www.virtualshareholdermeeting.com/NVDA2025. Stockholders will need their control number included in their notice or proxy card to access the meeting and may vote and submit questions while attending the meeting. Non-stockholders are welcome to attend by going to the above link and registering under “Guest Login.” The matters to be voted on at the meeting are set forth in the company’s proxy statement filed on May 13, 2025, with the U.S. Securities and Exchange Commission. The proxy statement is available at www.nvidia.com/proxy. A replay of the 2025 annual meeting webcast will be available until June 24, 2026, at www.nvidia.com/proxy. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in accelerated computing. For further information, contact: NVIDIA Investor Relationsir@nvidia.com NVIDIA Corporate Communicationspress@nvidia.com © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. PARIS, June 11, 2025 (GLOBE NEWSWIRE) -- NVIDIA GTC Paris at VivaTech — NVIDIA today announced a collaboration with Novo Nordisk to accelerate drug discovery efforts through innovative AI use cases.... NVIDIA to Build NVIDIA DGX B200- and NVIDIA RTX PRO Server-Powered AI Cloud in Germany to Accelerate Industrial Manufacturing ApplicationsIndustrial Software Leaders Ansys, Cadence and Siemens...
+--------------------------------------------------
+
+Title: NVIDIA Stockholder Meeting Set for June 25; Individuals Can Participate Online
+URL: http://nvidianews.nvidia.com/news/nvidia-stockholder-meeting-set-for-june-25-individuals-can-participate-online
+Time Published: 2025-06-11T21:00:00Z
+Full Content:
+SANTA CLARA, Calif., June 11, 2025 (GLOBE NEWSWIRE) -- NVIDIA today announced it will hold its 2025 Annual Meeting of Stockholders online on Wednesday, June 25, at 9 a.m. PT. The meeting will take place virtually at www.virtualshareholdermeeting.com/NVDA2025. Stockholders will need their control number included in their notice or proxy card to access the meeting and may vote and submit questions while attending the meeting. Non-stockholders are welcome to attend by going to the above link and registering under “Guest Login.” The matters to be voted on at the meeting are set forth in the company’s proxy statement filed on May 13, 2025, with the U.S. Securities and Exchange Commission. The proxy statement is available at www.nvidia.com/proxy. A replay of the 2025 annual meeting webcast will be available until June 24, 2026, at www.nvidia.com/proxy. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in accelerated computing. For further information, contact: NVIDIA Investor Relationsir@nvidia.com NVIDIA Corporate Communicationspress@nvidia.com © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries.
+--------------------------------------------------
+
 Title: Is Intel the Turnaround Stock of 2025 and a Buy Now?
 URL: https://finance.yahoo.com/news/intel-turnaround-stock-2025-buy-190000568.html
 Time Published: 2025-06-11T19:00:00Z
 Description: INTC stock jumps 10% amid Lip-Bu Tan's CEO debut and optimism for a 2025 rebound, despite recent foundry setbacks.
+--------------------------------------------------
+
+Title: Uber initiated, Etsy downgraded: Wall Street's top analyst calls
+URL: https://finance.yahoo.com/news/uber-initiated-etsy-downgraded-wall-133522442.html
+Time Published: 2025-06-11T13:35:22Z
+Description: Uber initiated, Etsy downgraded: Wall Street's top analyst calls
+--------------------------------------------------
+
+Title: Quantum Computing Stocks Surge as Nvidia CEO Huang Says Tech Reaching 'Inflection Point'
+URL: https://www.investopedia.com/quantum-computing-stocks-surge-as-nvidia-ceo-huang-says-tech-reaching-inflection-point-11752307
+Time Published: 2025-06-11T13:13:34Z
+Full Content:
+Quantum computing shares are jumping in premarket trading Wednesday after Nvidia (NVDA) CEO Jensen Huang said that the industry is “reaching an inflection point." Huang's comments during his keynote speech at the chipmaker’s GTC Paris developer conference mark more optimistic take by the Nvidia CEO, who said early this year that quantum computing technology is 15 to 30 years away. “Quantum computing is reaching an inflection point,” Huang said in the speech Wednesday. “We are within reach of being able to apply quantum computing, quantum classical computing, in areas that can solve some interesting problems in the coming years.” Quantum computing involves qubits, which can exist in a multidimensional state, unlike a normal computer bit that can be in one state (either 0 or 1), making them capable of much more powerful computations than ordinary computers. Shares in Quantum Computing (QUBT) are jumping more than 14% in premarket trading, Rigetti (RGTI) shares are up 7%, and D-Wave Quantum (QBTS) shares are rising 4%. Shares in quantum computing firm IonQ (IONQ), which announced the acquisition of a U.K. rival Monday and has a collaboration with Nvidia, are up 5%. IBM (IBM) shares, which hit an all-time high Tuesday after it showcased a "viable path" to building the world’s first large-scale, "fault-tolerant" quantum computer by the end of the decade, are little changed in premarket trading.
 --------------------------------------------------
 
 Title: NVIDIA Partners With Novo Nordisk and DCAI to Advance Drug Discovery
@@ -144,10 +177,4 @@ Title: Jefferies Is Doubling Down On Nvidia. Here Are 3 Other Stocks The Firm Lo
 URL: https://slashdot.org/firehose.pl?op=view&amp;id=177957049
 Time Published: 2025-06-08T02:34:45Z
 Description: Jefferies Is Doubling Down On Nvidia. Here Are 3 Other Stocks The Firm Loves Now.Barchart.com Nvidia Stock (NVDA) Preserves Pack Leader Status Following Q1Yahoo Finance Analyst sends message on Nvidia stock after private dinner with CFOTheStreet Here's the St…
---------------------------------------------------
-
-Title: Will $50,000 Invested in Nvidia Stock Be Worth $1 Million in 10 Years? - The Motley Fool
-URL: https://slashdot.org/firehose.pl?op=view&amp;id=177956415
-Time Published: 2025-06-07T23:54:27Z
-Description: Will $50,000 Invested in Nvidia Stock Be Worth $1 Million in 10 Years?The Motley Fool Nvidia Stock (NVDA) Preserves Pack Leader Status Following Q1Yahoo Finance Analyst sends message on Nvidia stock after private dinner with CFOTheStreet Here's the Staggering…
 --------------------------------------------------

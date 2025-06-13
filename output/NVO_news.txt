@@ -1,1 +1,7 @@
-No news found for Novo Nordisk +NVO
+List of news related to Novo Nordisk NVO:
+
+Title: Nvidia (NVDA) to Build First Industrial AI Cloud in Germany
+URL: https://finance.yahoo.com/news/nvidia-nvda-build-first-industrial-210909544.html
+Time Published: 2025-06-11T21:09:09Z
+Description: Project will support European automakers, biotech firms, and AI startups
+--------------------------------------------------
