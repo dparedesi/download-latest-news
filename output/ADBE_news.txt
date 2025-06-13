@@ -1,5 +1,12 @@
 List of news related to Adobe stock price ADBE:
 
+Title: Here's Where Traders Expect Adobe Stock To Go After Earnings
+URL: https://www.investopedia.com/heres-where-traders-expect-adobe-stock-to-go-after-q2-2025-earnings-11752851
+Time Published: 2025-06-11T20:24:19Z
+Full Content:
+Design software developer Adobe (ADBE) is slated to report fiscal second-quarter earnings after the bell Thursday, and investors are expecting a relatively modest share movement to follow. Options pricing suggests traders anticipate Adobe stock to move about 6.6% in either direction the day after its earnings report. A move of that scale would lift shares to roughly $440, their highest level in three months, or drop them to about $386, a one-month low. Adobe shares slipped 0.8% to $412.84 on Wednesday. The stock is down about 7% since the start of the year. Adobe stock has registered an average post-earnings move of 12.6% over the past four quarters, and fell in three of those instances. A 6.6% gain or loss on Friday would represent the stock’s smallest post-earnings move since December 2023. In March, shares dropped nearly 14% the day after Adobe reported record quarterly revenue but issued an outlook that underwhelmed investors. In December, it was a similar story: a worse-than-expected forecast sent shares tumbling more than 13%. Most analysts are bullish on Adobe's long-term outlook. Of the 17 Adobe analysts tracked by Visible Alpha, 10 rate the stock a “buy,” six are neutral, and one rates it a “sell.” The average price target of about $477 is more than 15% above the stock’s closing price on Wednesday. Morgan Stanley analysts earlier this week said investor concerns about Adobe's long-term competitiveness and generative AI opportunity should help Adobe "step over a low bar" when results come out Wednesday. The bank assigns the stock an "overweight" rating and an above-consensus price target of $510.
+--------------------------------------------------
+
 Title: UBS Lifts PT on Adobe Inc. (ADBE) to $430, Maintains Neutral Rating
 URL: https://finance.yahoo.com/news/ubs-lifts-pt-adobe-inc-152511793.html
 Time Published: 2025-06-11T15:25:11Z
