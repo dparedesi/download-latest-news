@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: AMD launches MI350 AI chip line to rival Nvidia's Blackwell processors, debuts AI cloud service
+URL: https://finance.yahoo.com/news/amd-launches-mi350-ai-chip-line-to-rival-nvidias-blackwell-processors-debuts-ai-cloud-service-183046317.html
+Time Published: 2025-06-12T18:30:46Z
+Description: AMD launched its MI350 line of AI chips on Thursday.
+--------------------------------------------------
+
 Title: Micron to invest $200 billion in US memory facilities
 URL: https://finance.yahoo.com/news/micron-to-invest-200-billion-in-us-memory-facilities-135800900.html
 Time Published: 2025-06-12T13:58:00Z
