@@ -1,5 +1,11 @@
 List of news related to Rocket Lab RKLB:
 
+Title: Rocket Lab Successfully Launches Its 66th Electron Rocket
+URL: https://finance.yahoo.com/news/rocket-lab-successfully-launches-66th-140000198.html
+Time Published: 2025-06-12T14:00:00Z
+Description: RKLB launches its 66th Electron rocket, advancing a major iQPS deal and bolstering its role in satellite deployment.
+--------------------------------------------------
+
 Title: Rocket Lab USA, Inc. (RKLB): A Bull Case Theory
 URL: https://finance.yahoo.com/news/rocket-lab-usa-inc-rklb-160651280.html
 Time Published: 2025-06-09T16:06:51Z
