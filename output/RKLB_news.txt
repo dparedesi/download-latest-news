@@ -1,5 +1,11 @@
 List of news related to Rocket Lab RKLB:
 
+Title: Mixed options sentiment in Rocket Lab USA with shares down 2.12%
+URL: https://finance.yahoo.com/news/mixed-options-sentiment-rocket-lab-154030072.html
+Time Published: 2025-06-13T15:40:30Z
+Description: Mixed options sentiment in Rocket Lab USA (RKLB), with shares down 58c near $26.78. Options volume relatively light with 30k contracts traded and calls...
+--------------------------------------------------
+
 Title: Rocket Lab Successfully Launches Its 66th Electron Rocket
 URL: https://finance.yahoo.com/news/rocket-lab-successfully-launches-66th-140000198.html
 Time Published: 2025-06-12T14:00:00Z
