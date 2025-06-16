@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA Corporation (NVDA): “There’s Much More To It,” Says Jim Cramer
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a1f2412b-3720-4f15-a3f5-d06d9b998aa6
+Time Published: 2025-06-15T15:44:40Z
+Description: None
+--------------------------------------------------
+
+Title: Why IONQ, RGTI and QBTS are Worth the Risk in Quantum Computing
+URL: https://finance.yahoo.com/news/why-ionq-rgti-qbts-worth-014900952.html
+Time Published: 2025-06-15T01:49:00Z
+Description: Quantum computing stocks are high-risk, high-reward plays, where the tech still feels futuristic, but the potential upside could be transformative for your...
+--------------------------------------------------
+
 Title: The best ASX ETFs to buy with $1,000
 URL: https://www.fool.com.au/2025/06/15/the-best-asx-etfs-to-buy-with-1000/
 Time Published: 2025-06-14T20:44:00Z
