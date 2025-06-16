@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: With New AI GPUs, Citi Sees Momentum Building for Advanced Micro (AMD)
+URL: https://finance.yahoo.com/news/ai-gpus-citi-sees-momentum-094756820.html
+Time Published: 2025-06-15T09:47:56Z
+Description: Advanced Micro Devices Inc. (NASDAQ:AMD) is one of the 10 best tech stocks to buy according to billionaires right now. On June 9, Citi analyst Christopher...
+--------------------------------------------------
+
 Title: AMD Unveils Vision for an Open AI Ecosystem, Detailing New Silicon, Software and Systems at Advancing AI 2025
 URL: https://financialpost.com/globe-newswire/amd-unveils-vision-for-an-open-ai-ecosystem-detailing-new-silicon-software-and-systems-at-advancing-ai-2025
 Time Published: 2025-06-12T18:33:05Z
