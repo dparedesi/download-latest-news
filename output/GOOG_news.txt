@@ -1,1 +1,7 @@
-No news found for Alphabet Inc stock price +GOOG
+List of news related to Alphabet Inc stock price GOOG:
+
+Title: Oracle’s $116 Billion Surge Leaves Little Room for Error on AI
+URL: https://finance.yahoo.com/news/oracle-116-billion-surge-leaves-120558872.html
+Time Published: 2025-06-17T12:05:58Z
+Description: (Bloomberg) -- Oracle Corp. investors find themselves at a pivotal crossroads. Either heed the warning from a growing list of indicators that suggest the...
+--------------------------------------------------
