@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia (NVDA) Reaffirmed as AI Leader by Analysts — Mizuho Calls CUDA a ‘Fortress Moat’
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bed4186a-b30a-4da0-8890-3772e7e6bd0a
+Time Published: 2025-06-16T23:35:18Z
+Description: None
+--------------------------------------------------
+
+Title: Nvidia stock jumps with record high in sight again
+URL: https://finance.yahoo.com/news/nvidia-stock-jumps-with-record-high-in-sight-again-200916184.html
+Time Published: 2025-06-16T20:09:16Z
+Description: Nvidia's stock is closing in on its all-time high.
+--------------------------------------------------
+
 Title: NVIDIA Corporation (NVDA): “There’s Much More To It,” Says Jim Cramer
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a1f2412b-3720-4f15-a3f5-d06d9b998aa6
 Time Published: 2025-06-15T15:44:40Z
@@ -49,22 +61,4 @@ Title: Europe is Getting Its First Industrial AI Cloud—Thanks to NVIDIA (NVDA)
 URL: https://finance.yahoo.com/news/europe-getting-first-industrial-ai-031117437.html
 Time Published: 2025-06-13T03:11:17Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the 15 AI Stocks Making Waves on Wall Street. On June 11, the company announced that it is building the world’s...
---------------------------------------------------
-
-Title: AMD launches MI350 AI chip line to rival Nvidia's Blackwell processors, debuts AI cloud service
-URL: https://finance.yahoo.com/news/amd-launches-mi350-ai-chip-line-to-rival-nvidias-blackwell-processors-debuts-ai-cloud-service-183046317.html
-Time Published: 2025-06-12T18:30:46Z
-Description: AMD launched its MI350 line of AI chips on Thursday.
---------------------------------------------------
-
-Title: Micron to invest $200 billion in US memory facilities
-URL: https://finance.yahoo.com/news/micron-to-invest-200-billion-in-us-memory-facilities-135800900.html
-Time Published: 2025-06-12T13:58:00Z
-Description: Micron says it's investing an additional $30 billion in US infrastructure as part of its $200 billion manufacturing and R&D buildout.
---------------------------------------------------
-
-Title: Gundlach says gold is no longer for lunatics as the bond king says wait to buy the 30-year
-URL: https://www.marketwatch.com/story/gundlach-says-gold-is-no-longer-for-lunatics-as-the-bond-king-says-wait-to-buy-the-30-year-4905f640
-Time Published: 2025-06-12T13:38:00Z
-Description: Jeff Gundlach has a ton of ideas about where to invest right now, and U.S. markets may be the least of those, he says.
 --------------------------------------------------

@@ -5,16 +5,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c1ea734c
 Time Published: 2025-06-16T17:01:46Z
 Description: None
 --------------------------------------------------
-
-Title: Micron Technology to Spend $200B to Boost Domestic Chip Production
-URL: https://www.investopedia.com/micron-technology-to-spend-usd200b-to-boost-domestic-chip-production-11753272
-Time Published: 2025-06-12T15:33:49Z
-Full Content:
-Micron Technology (MU) on Thursday became the latest major corporation to announce plans to expand domestic production following President Donald Trump's call for firms to boost American manufacturing. The chipmaker and the Trump administration said Micron will boost its U.S. investments to about $150 billion in memory manufacturing and $50 billion in research and development (R&D). Micron explained that most of the money would be used for "two leading-edge high-volume fabs in Idaho, up to four leading-edge high-volume fabs in New York, the expansion and modernization of its existing manufacturing fab in Virginia," as well as advanced high-bandwith memory (HBM) packaging capabilities. The company noted that it has already received federal, state, and local funding for the Idaho, New York, and Virginia fab work, including up to $6.4 billion from the CHIPS and Science Act. Micron added it expects all of the investments will be eligible for federal Advanced Manufacturing Investment Credit (AMIC). CEO Sanjay Mehrotra argued that this expansion "will reinforce America's technological leadership, create tens of thousands of American jobs across the semiconductor ecosystem and secure a domestic supply of semiconductors—critical to economic and national security." This week, General Motors (GM) announced it would spend $4 billion to increase vehicle production at three U.S. plants. Earlier this year, chipmaking giant Taiwan Semiconductor Manufacturing Co. (TSM) said it planned to invest $100 billion in U.S.-based chip manufacturing facilities, and Apple (AAPL) announced plans to spend more than $500 billion domestically over the next four years. Shares of Micron Technology were little changed today but are up 37% this year, trading at their highest level since last July. TradingView
---------------------------------------------------
-
-Title: Gundlach says gold is no longer for lunatics as the bond king says wait to buy the 30-year
-URL: https://www.marketwatch.com/story/gundlach-says-gold-is-no-longer-for-lunatics-as-the-bond-king-says-wait-to-buy-the-30-year-4905f640
-Time Published: 2025-06-12T13:38:00Z
-Description: Jeff Gundlach has a ton of ideas about where to invest right now, and U.S. markets may be the least of those, he says.
---------------------------------------------------
