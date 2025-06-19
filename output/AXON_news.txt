@@ -1,13 +1,25 @@
 List of news related to Axon Enterprise AXON:
 
+Title: Median CEO Pay Topped $17.1 Million In 2024, While Median Employee Pay Increased Just 1.7%
+URL: https://finance.yahoo.com/news/median-ceo-pay-topped-17-154633036.html
+Time Published: 2025-06-18T15:46:33Z
+Description: The typical compensation package for S&P 500 CEOs rose by nearly 10% in 2024, according to an Associated Press CEO compensation survey. The median pay...
+--------------------------------------------------
+
+Title: Is Axon Enterprise Stock Outperforming the Nasdaq?
+URL: https://www.barchart.com/story/news/32941831/is-axon-enterprise-stock-outperforming-the-nasdaq
+Time Published: 2025-06-18T15:12:01Z
+Description: Due to Axon Enterprise’s significant outperformance relative to the broader Nasdaq Composite over the past year, Wall Street analysts are bullish about its...
+--------------------------------------------------
+
 Title: Newsweek's AI Impact Awards 2025
-URL: https://www.newsweek.com/nw-ai/newsweeks-ai-impact-awards-2025-2086323
+URL: https://www.newsweek.com/newsweeks-ai-impact-awards-2025
 Time Published: 2025-06-18T09:58:01Z
 Description: To celebrate companies leading the way, Newsweek is proud to present the inaugural AI Impact Awards 2025. These awards honor 38 organizations across 13 categories for their outstanding achievements in applying AI to solve complex challenges, improve operation…
 --------------------------------------------------
 
 Title: Newsweek's AI Impact Awards 2025
-URL: https://www.newsweek.com/newsweeks-ai-impact-awards-2025
+URL: https://www.newsweek.com/nw-ai/newsweeks-ai-impact-awards-2025-2086323
 Time Published: 2025-06-18T09:58:01Z
 Description: To celebrate companies leading the way, Newsweek is proud to present the inaugural AI Impact Awards 2025. These awards honor 38 organizations across 13 categories for their outstanding achievements in applying AI to solve complex challenges, improve operation…
 --------------------------------------------------
