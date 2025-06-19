@@ -25,9 +25,3 @@ URL: https://finance.yahoo.com/news/85-ownership-shares-broadstone-net-121219466
 Time Published: 2025-06-14T12:12:19Z
 Description: Key Insights Significantly high institutional ownership implies Broadstone Net Lease's stock price is sensitive to...
 --------------------------------------------------
-
-Title: Vanguard Announces Cash Distributions for the Vanguard ETFs
-URL: https://financialpost.com/globe-newswire/vanguard-announces-cash-distributions-for-the-vanguard-etfs-93
-Time Published: 2025-06-13T16:36:36Z
-Description: (VEF, VEE, VDU, VIDY, VE, VA, VCE, VCN, VIU and VI) TORONTO, June 13, 2025 (GLOBE NEWSWIRE) — Vanguard Investments Canada Inc. today announced the final June 2025 cash distributions for certain Vanguard ETFs, listed below, that trade on Toronto Stock Exchange…
---------------------------------------------------

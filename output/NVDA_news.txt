@@ -1,5 +1,36 @@
 List of news related to NVIDIA NVDA:
 
+Title: Purpose Investments Inc. Announces June 2025 Distributions
+URL: https://financialpost.com/globe-newswire/purpose-investments-inc-announces-june-2025-distributions
+Time Published: 2025-06-17T23:33:31Z
+Description: TORONTO, June 17, 2025 (GLOBE NEWSWIRE) — Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of June 2025 for its open-end exchange traded funds and closed-end funds (“the Funds”).                                          …
+--------------------------------------------------
+
+Title: Purpose Investments Inc. Announces June 2025 Distributions
+URL: https://www.globenewswire.com/news-release/2025/06/17/3101127/0/en/Purpose-Investments-Inc-Announces-June-2025-Distributions.html
+Time Published: 2025-06-17T23:30:00Z
+Full Content:
+June 17, 2025 19:30 ET | Source: Purpose Investments Inc. Purpose Investments Inc. TORONTO, June 17, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of June 2025 for its open-end exchange traded funds and closed-end funds (“the Funds”). The ex-distribution date for all Open-End Funds is June 26, 2025. The ex-distribution date for all closed-end funds is June 30, 2025. Estimated June 2025 Distributions for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund The June 2025 distribution rates for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund are estimated to be as follows: Purpose expects to issue a press release on or about June 25, 2025, which will provide the final distribution rate for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund. The ex-distribution date will be June 26, 2025. About Purpose Investments Inc. Purpose Investments is an asset management company with more than $21 billion in assets under management. Purpose Investments has an unrelenting focus on client-centric innovation and offers a range of managed and quantitative investment products. Purpose Investments is led by well-known entrepreneur Som Seif and is a division of Purpose Unlimited, an independent technology-driven financial services company. For further information please contact:Keera HartKeera.Hart@kaiserpartners.com905-580-1257 Commissions, trailing commissions, management fees and expenses all may be associated with investment fund investments. Please read the prospectus and other disclosure documents before investing. Investment funds are not covered by the Canada Deposit Insurance Corporation or any other government deposit insurer. There can be no assurance that the full amount of your investment in a fund will be returned to you. If the securities are purchased or sold on a stock exchange, you may pay more or receive less than the current net asset value. Investment funds are not guaranteed, their values change frequently and past performance may not be repeated. TORONTO, June 18, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose” or “Purpose Investments”), Canada’s leading digital asset ETF manager and the firm behind the world’s first spot... TORONTO, June 18, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”), the firm behind the world’s first spot Bitcoin ETF and Canada’s largest digital asset ETF manager*, is expanding its...
+--------------------------------------------------
+
+Title: Nvidia (NVDA) Target Raised to $200 by Barclays Amid Blackwell Ramp, AI Cloud Expansion
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2c607a57-96b0-445c-a200-1f1f35f9cecf
+Time Published: 2025-06-17T20:40:55Z
+Description: None
+--------------------------------------------------
+
+Title: CoreWeave stock surge brings post-IPO rally to 340% after unusually positive analyst downgrade
+URL: https://finance.yahoo.com/news/coreweave-stock-surge-brings-post-ipo-rally-to-340-after-unusually-positive-analyst-downgrade-201851012.html
+Time Published: 2025-06-17T20:18:51Z
+Description: CoreWeave stock jumped Tuesday, bringing the AI cloud company's post-IPO rally to 330% after Bank of America analyst Brad Sills downgraded the stock but set ...
+--------------------------------------------------
+
+Title: Citi Raises NVIDIA Price Target, Keeps Buy Rating
+URL: https://finance.yahoo.com/news/citi-raises-nvidia-price-target-200445785.html
+Time Published: 2025-06-17T20:04:45Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the 10 Best American Semiconductor Stocks to Buy Now. On May 29, Citi analysts raised the price target for NVIDIA ...
+--------------------------------------------------
+
 Title: Apple supplier Jabil plans $500M venture to build AI data centers
 URL: https://finance.yahoo.com/news/apple-supplier-jabil-plans-500m-151101697.html
 Time Published: 2025-06-17T15:11:01Z
@@ -74,17 +105,4 @@ Title: Healthcare Sector Taps AI Boom via Intuitive Surgical Stock (ISRG)
 URL: https://finance.yahoo.com/news/healthcare-sector-taps-ai-boom-005600144.html
 Time Published: 2025-06-14T00:56:00Z
 Description: When investors think of artificial intelligence (AI), names like Nvidia (NVDA), Palantir (PLTR), and Alphabet (GOOGL) typically come to mind. But AI’s impact...
---------------------------------------------------
-
-Title: NVIDIA DGX Cloud Lepton、欧州開発者とグローバルな NVIDIA コンピューティング エコシステムをつなぐ
-URL: https://prtimes.jp/main/html/rd/p/000000544.000012662.html
-Time Published: 2025-06-13T05:40:01Z
-Full Content:
-PR TIMESのご利用について 資料をダウンロード NVIDIA Mistral AI、Nebius、Nscale、Firebird、Fluidstack、Hydra Host、Scaleway、Together AI と AWS および Microsoft Azure が共に— DGX Cloud Lepton Marketplace で AI 需要に応えるコンピューティング リソースを提供 Hugging Face は、Training Cluster as a Service に DGX Cloud Lepton を統合し、AI 研究者がモデル トレーニング用にスケーラブルな計算リソースにアクセスできる環境を拡大 NVIDIA と欧州の主要な VC が手を組み、ポートフォリオ企業にマーケットプレイス クレジットを提供し、スタートアップのエコシステムの加速を支援 NVIDIA GTC Paris — 2025 年 6 月 11 日— NVIDIA は本日、エージェント型 AI およびフィジカル AI アプリケーションを構築する開発者を結ぶグローバル コンピューティング マーケットプレイスを特徴とする AI プラットフォーム「NVIDIA DGX Cloud Lepton™」の拡張を発表し、拡大するクラウド プロバイダー ネットワークから GPU が利用可能になります。 Mistral AI、Nebius、Nscale、Fluidstack、Hydra Host、Scaleway、Together AI が現在、NVIDIA Blackwell およびその他の NVIDIA アーキテクチャ GPU をマーケットプレイスに提供しており、ハイパフォーマンス コンピューティングへの地域アクセスを拡大しています。AWS と Microsoft Azure は、DGX Cloud Lepton に参加する最初の大手クラウド プロバイダーとなります。これらの企業は CoreWeave、Crusoe、Firmus、Foxconn、GMI Cloud、Lambda、Yotta Data Services と共に マーケットプレイスに参画しています。 世界の AI コミュニティにとって、アクセラレーテッド コンピューティングをより身近なものにするため、Hugging Face は Training Cluster as a Service を導入しています。この新しいサービスは DGX Cloud Lepton と統合され、基盤モデルを構築する AI 研究者や開発者を NVIDIA のコンピューティング エコシステムにシームレスに接続します。 NVIDIA は欧州の主要ベンチャー キャピタル企業である Accel、Elaia、Partech、Sofinnova Partners と協力し、ポートフォリオ企業に DGX Cloud Lepton マーケットプレイス クレジットを提供することで、スタートアップがアクセラレーテッド コンピューティング リソースにアクセスし、地域の開発を拡大できるよう支援しています。 NVIDIA 創業者/ CEO である ジェンスン フアン (Jensen Huang)は次のように述べました。「DGX Cloud Lepton は欧州の開発者をグローバル AI インフラに繋いでいます。NVIDIA は地域パートナーとの連携により、開発者、研究者、そして企業が、地域発の革新的な成果を世界的なイノベーションへと拡大させる AI ファクトリーのネットワークを構築しています」 DGX Cloud Lepton は、NVIDIA のコンピューティング エコシステム全体のクラウド AI サービスと GPU リソースを単一プラットフォームに統合することで、特定地域内で信頼性の高い高性能 GPU リソースにアクセスするプロセスを簡素化します。これにより開発者はデータをローカルに保持でき、データ ガバナンスとソブリン AI の要件をサポートします。 さらに、NVIDIA NIM™ および NeMo™ マイクロサービス、NVIDIA Cloud Function を含む NVIDIA ソフトウェア スイートと統合することで、DGX Cloud Lepton は AI アプリケーション開発と展開のあらゆる段階において、規模を問わず効率化し、高速化します。このマーケットプレイスは汎用的な NIM マイクロサービスと連携し、最も人気の高いオープン LLM アーキテクチャや、Hugging Face でパブリックおよびプライベートにホストされている 100 万を超えるモデルを含む、幅広い大規模言語モデルをサポートしています。 クラウド プロバイダー向けには、DGX Cloud Lepton は GPU の健全性をリアルタイムで継続的に監視し、根本原因分析を自動化する管理ソフトウェアを含んでおり、手動介入を最小限に抑え、ダウンタイムを削減します。これによりプロバイダーの運用が合理化され、顧客により信頼性の高いハイパフォーマンス コンピューティングへのアクセスが確保されます。 NVIDIA DGX Cloud Lepton がトレーニングと学習を高速化 戦略的 AI イニシアチブを加速するためにプラットフォームを利用している DGX Cloud Lepton の早期アクセス顧客には以下が含まれます: Basecamp Research: 98 億のタンパク質データベースを活用して大規模な生物学的基盤モデルのプリトレーニングと展開を行い、製薬、食品、産業、環境バイオテクノロジ向けの新しい生物学的ソリューションの発見と設計を加速。 EY: グローバル チーム全体でマルチクラウド アクセスを標準化し、ドメイン特化型およびセクター特化型のソリューション向け AI エージェントの開発を加速。 Outerbounds: オープンソース Metaflow の実証された信頼性を活用し、顧客が差別化された本番品質の AI 製品を構築できるよう支援。 Prima Mente : 大規模な脳基盤モデルをプリトレーニングし、新しい疾患メカニズムを解明し、臨床現場で患者の転帰を層別化するためのツールを開発することで、神経変性疾患の研究を大規模に推進。 Reflection: 最も複雑な企業エンジニアリング タスクを処理する超知能自律コーディング システムを構築。 Hugging Face の開発者がクラウド横断でスケーラブルな AI トレーニングにアクセス可能に DGX Cloud Lepton と Hugging Face の Training Cluster as a Service の統合により、AI 構築者は GPU マーケット プレイスへの簡素化されたアクセスを得て、トレーニング データに近い特定地域の NVIDIA コンピューティング リソースを容易に予約、アクセス、使用することができます。世界的なクラウド プロバイダー ネットワークに接続された、Hugging Face の顧客は、DGX Cloud Lepton を使用してトレーニング実行に必要な GPU リソースを迅速に確保できます。 Mirror Physics、Project Numina、Telethon Institute of Genetics and Medicine は、DGX Cloud Lepton を通じて、コンピューティング リソースが提供される Training Cluster as a Service を最初に利用する Hugging Face の 顧客の一部となります。これらの組織は、化学、材料科学、数学、疾患研究における最先端 の AI モデルの開発を推進するためにプラットフォームを使用します。 Hugging Face 共同創設者兼 CEO の Clément Delangue 氏は次のように述べました。「大規模で高性能なコンピューティングへのアクセスは、あらゆる分野や言語において、次世代 AI モデルを構築するために不可欠です。DGX Cloud Lepton と Training Cluster as a Service の統合により、研究者や企業の前に立ちはだかる障壁を一掃し、最先端モデルのトレーニングと AI の可能性の限界を突破することができるでしょう。」 DGX Cloud Lepton、AI スタートアップのエコシステムを強化 NVIDIA は Accel、Elaia、Partech、Sofinnova Partners と協力し、対象となるポートフォリオ企業に DGX Cloud Lepton を通じて最大 10 万ドルの GPU リソースのクレジットと NVIDIA の専門家からのサポートを提供します。 BioCorteX、Bioptimus、Latent Labs は、DGX Cloud Lepton にアクセスする最初の企業の一部となり、コンピューティング リソースの調達と購入を行い、NVIDIA ソフトウェア、サービス、AI 専門知識を活用して世界的なクラウド プロバイダー ネットワーク全体でアプリケーションを構築、カスタマイズ、展開することができます。 提供予定 開発者は NVIDIA DGX Cloud Lepton の早期アクセスに登録ください。 VivaTech 2025 での NVIDIA 創業者/CEO のフアンによる NVIDIA GTC Paris 基調講演を視聴し、GTC Paris セッションをご覧ください。 ※本発表資料は米国時間 2025 年 6 月 11 日に発表されたプレスリリースの抄訳です。 NVIDIAについて NVIDIA (NASDAQ: NVDA) はアクセラレーテッド コンピューティングの世界的なリーダーです。 すべての画像 このプレスリリース内で使われている画像ファイルがダウンロードできます 82フォロワー Copyright © PR TIMES Corporation All Rights Reserved.
---------------------------------------------------
-
-Title: Europe is Getting Its First Industrial AI Cloud—Thanks to NVIDIA (NVDA)
-URL: https://finance.yahoo.com/news/europe-getting-first-industrial-ai-031117437.html
-Time Published: 2025-06-13T03:11:17Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the 15 AI Stocks Making Waves on Wall Street. On June 11, the company announced that it is building the world’s...
 --------------------------------------------------
