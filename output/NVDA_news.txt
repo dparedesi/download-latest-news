@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia (NVDA) Could Hit $5 Trillion as Analysts Lift Price Targets
+URL: https://finance.yahoo.com/news/nvidia-nvda-could-hit-5-025407095.html
+Time Published: 2025-06-19T02:54:07Z
+Description: AI chip leader's data center surge, profit strength fuel bullish long-term outlook
+--------------------------------------------------
+
 Title: There’s Still an ‘Enormous’ Reason to Buy Nvidia Stock in 2025
 URL: https://www.barchart.com/story/news/32943553/theres-still-an-enormous-reason-to-buy-nvidia-stock-in-2025
 Time Published: 2025-06-18T16:58:21Z
@@ -122,30 +128,4 @@ Title: Why IONQ, RGTI and QBTS are Worth the Risk in Quantum Computing
 URL: https://finance.yahoo.com/news/why-ionq-rgti-qbts-worth-014900952.html
 Time Published: 2025-06-15T01:49:00Z
 Description: Quantum computing stocks are high-risk, high-reward plays, where the tech still feels futuristic, but the potential upside could be transformative for your...
---------------------------------------------------
-
-Title: The best ASX ETFs to buy with $1,000
-URL: https://www.fool.com.au/2025/06/15/the-best-asx-etfs-to-buy-with-1000/
-Time Published: 2025-06-14T20:44:00Z
-Description: Investors with money to put into the market might want to check out these funds.
-The post The best ASX ETFs to buy with $1,000 appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: 3 ‘Secret’ Income Plays Throwing Off Huge 7.5%+ Dividend Yields
-URL: https://www.forbes.com/sites/michaelfoster/2025/06/14/3-secret-income-plays-throwing-off-huge-75-dividend-yields/
-Time Published: 2025-06-14T14:31:00Z
-Full Content:
-ByMichael Foster ByMichael Foster, Contributor. Saving money concept Man hand putting Row and coin Write Finance Saving money concept Man hand ... More putting Row and coin Write Finance I’m just going to come out and say it: If you want to be financially independent (and who doesn’t?), you must own closed-end funds (CEFs). For those “in the know” about CEFs, the reason is simple: massive yields. As I write, closed-end funds yield 9.1% on average. And game-changing dividends like that are only one way CEFs reward us—and I’d argue they’re not even the best one! The best-in-class CEFs out there—and here I’d definitely include the three we’re going to get into below—also offer strong total returns, with price gains and dividends combining to hand us overall returns of 10%+ yearly. And with CEFs, we get a solid indication of when those returns may start to build. It’s an easy-to-find indicator called the discount to net asset value (NAV). This discount stems from a key difference between CEFs and ETFs: CEFs can’t issue new shares to new investors post-IPO, so their market prices are often different (and regularly lower) than their per-share portfolio values (their NAV, in other words). So if, say, you buy a CEF with a 10% discount, you’re buying its portfolio for 10% less than you could if you bought its holdings on the open market. This sets up a nice “rinse-and-repeat” cycle for us: We buy a discounted CEF, collect its huge income stream, then sell at a premium down the road. Of course, these kinds of opportunities don’t tend to last, and in the last year we’ve seen more CEFs trade at smaller discounts as investors start to clue in. But investors are focusing very tightly on quality here, given recent uncertainty. That’s got them zeroing in on only those CEFs with strong track records. There are, however, some gems that have been left behind. Let’s look at three. First up is the Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund (ETO), which should attract a fat premium given the interest in global stocks these days. Yet ETO, with a mix of American mega-caps like NVIDIA (NVDA) and foreign powerhouses like AstraZeneca (AZN), trades at a fat 8.7% discount today. That’s despite its generous 7.9% dividend, which should be getting more attention. So, by the way, should the fund’s performance. ETO Total Returns Beyond the discount and dividend, ETO’s 12.3% annualized return on NAV (orange line above) should also be a shiny lure for investors. But as you can see, ETO’s market price–based total return (in purple) has lagged, inflating its discount from where it was a half-decade ago. That’s clearly an error on the market’s part, and it makes ETO well worth a look today. We’ll find an even bigger discrepancy with the Eaton Vance Tax-Managed Buy-Write Income Fund (ETB), a 9.1%-yielder holding S&P 500 mainstays like Apple (AAPL), Microsoft (MSFT), NVIDIA (NVDA), Amazon.com (AMZN) and Berkshire Hathaway (BRK.A). This high-powered roster should put ETB on investors’ radar, yet the gap between its total NAV return (in orange below) and total price return (in purple) is huge. ETB Total Returns With a 11.3% annualized return over the last half-decade (based on NAV), ETB’s managers have clearly done their job. Yet investors have taken little notice, causing its market price–based return to lag, and its discount to widen to 7.8%. Completing the picture is the fact that ETB has averaged a 1.7% premium in the last decade. That gives it plenty of upside as its overdone discount flips to the fund’s “normal” premium. Finally, consider the John Hancock Financial Opportunities Fund (BTO), which subscribers to my CEF Insider service might remember. We’ve held BTO twice in the past and have booked nice double-digit total returns both times. BTO, which yields 7.5%, focuses on the financial sector, mainly banking firms, with M&T Bank (MTB), Mississippi-based Renasant Corp. (RNST) and US Bancorp (USB) all top holdings. BTO Total Returns These stocks have given BTO a sprightly 18.4% annualized return on NAV (in purple above) in the last five years. Yet its NAV return is only slightly ahead of its market price–based return (in purple). This shows that investors are hesitant to sharply bid up the fund. This is an interesting chart: BTO is priced at a 5.5% premium currently, which sounds pricey but is actually a deal given the fund’s long-term trend, which includes a premium that’s hit double digits several times in the last decade. Investors have picked up on this, which is why BTO’s pricing went from around par earlier this year to today’s premium. Expect that premium to keep growing, especially if the stock market keeps rising, as well. Michael Foster is the Lead Research Analyst for Contrarian Outlook. For more great income ideas, click here for our latest report “Indestructible Income: 5 Bargain Funds with Steady 10% Dividends.” Disclosure: none
---------------------------------------------------
-
-Title: Nvidia: All-Time High Is In Sight, Upgrade To Strong Buy (NASDAQ:NVDA) - Seeking Alpha
-URL: https://slashdot.org/firehose.pl?op=view&amp;id=178047971
-Time Published: 2025-06-14T13:52:28Z
-Description: Nvidia: All-Time High Is In Sight, Upgrade To Strong Buy (NASDAQ:NVDA)Seeking Alpha Nvidia: Will See You At $100 Soon Once Again (Technical Analysis) (NASDAQ:NVDA)Seeking Alpha NVIDIA (NVDA) Gets Buy Rating as AI Data Center Demand Surges Past $50 BillionYaho…
---------------------------------------------------
-
-Title: Healthcare Sector Taps AI Boom via Intuitive Surgical Stock (ISRG)
-URL: https://finance.yahoo.com/news/healthcare-sector-taps-ai-boom-005600144.html
-Time Published: 2025-06-14T00:56:00Z
-Description: When investors think of artificial intelligence (AI), names like Nvidia (NVDA), Palantir (PLTR), and Alphabet (GOOGL) typically come to mind. But AI’s impact...
 --------------------------------------------------
