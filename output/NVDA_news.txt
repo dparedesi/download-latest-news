@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVDA: Barclays Sees $200 Nvidia Surge Ahead as Chip Demand Soars
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a5ecb946-1d43-4dd1-b51a-f63a1f8f83e4
+Time Published: 2025-06-19T10:54:28Z
+Description: None
+--------------------------------------------------
+
+Title: Nvidia’s AI empire: A look at its top startup investments
+URL: https://finance.yahoo.com/news/nvidia-ai-empire-look-top-101200402.html
+Time Published: 2025-06-19T10:12:00Z
+Description: Over the last two years, Nvidia has used its ballooning fortunes to invest in over 80 AI startups. Here are the giant semiconductor's largest investments.
+--------------------------------------------------
+
 Title: Nvidia (NVDA) Could Hit $5 Trillion as Analysts Lift Price Targets
 URL: https://finance.yahoo.com/news/nvidia-nvda-could-hit-5-025407095.html
 Time Published: 2025-06-19T02:54:07Z
