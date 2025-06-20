@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVDA: Oppenheimer Sees Trillion-Dollar AI Opportunity for Nvidia
+URL: https://finance.yahoo.com/news/nvda-oppenheimer-sees-trillion-dollar-170633063.html
+Time Published: 2025-06-19T17:06:33Z
+Description: Nvidia Targets $1.5 Trillion Sovereign AI Market With Global Push
+--------------------------------------------------
+
+Title: 15 AI stocks to watch outside of the Magnificent 7
+URL: https://finance.yahoo.com/video/15-ai-stocks-watch-outside-170037221.html
+Time Published: 2025-06-19T17:00:37Z
+Description: Some investors may be wondering if they missed out on Nvidia's (NVDA) artificial intelligence (AI) run. Futurum CEO Daniel Newman joins Morning Brief to...
+--------------------------------------------------
+
+Title: Nvidia (NVDA) Joins Bill Gates TerraPower in $650M Nuclear Energy Push
+URL: https://finance.yahoo.com/news/nvidia-nvda-joins-bill-gates-122144367.html
+Time Published: 2025-06-19T12:21:44Z
+Description: Nvidia Invests in $650M Round for Bill Gates-Backed TerraPower
+--------------------------------------------------
+
 Title: NVDA: Barclays Sees $200 Nvidia Surge Ahead as Chip Demand Soars
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a5ecb946-1d43-4dd1-b51a-f63a1f8f83e4
 Time Published: 2025-06-19T10:54:28Z
