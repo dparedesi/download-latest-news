@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Stock market today: S&P 500, Nasdaq fall with focus on Trump Iran decision, Fed rate cuts, China chip tensions
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-fall-with-focus-on-trump-iran-decision-fed-rate-cuts-china-chip-tensions-145802639.html
+Time Published: 2025-06-20T14:58:02Z
+Description: Traders are weighing the possibility of direct US military involvement in the Israel-Iran war, now in its second week.
+--------------------------------------------------
+
 Title: Is INTC Stock a Buy Now as Intel Prepares for Another Round of Mass Layoffs?
 URL: https://www.barchart.com/story/news/32942133/is-intc-stock-a-buy-now-as-intel-prepares-for-another-round-of-mass-layoffs
 Time Published: 2025-06-18T15:28:18Z

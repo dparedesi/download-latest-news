@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: S&P 500, Nasdaq fall with focus on Trump Iran decision, Fed rate cuts, China chip tensions
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-fall-with-focus-on-trump-iran-decision-fed-rate-cuts-china-chip-tensions-145802639.html
+Time Published: 2025-06-20T14:58:02Z
+Description: Traders are weighing the possibility of direct US military involvement in the Israel-Iran war, now in its second week.
+--------------------------------------------------
+
+Title: Barclays Says Nvidia (NVDA) Has the Most Upside in Its Coverage—Here’s Why
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_52b0a140-65e5-4816-a2c2-eee3542c87fd
+Time Published: 2025-06-20T12:59:06Z
+Description: None
+--------------------------------------------------
+
+Title: Nvidia Is Quickly Approaching a New Record High. Is It Too Late to Buy NVDA Stock?
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_31dbe0be-8919-4fa0-af31-b941a9c2364e
+Time Published: 2025-06-20T11:30:02Z
+Description: None
+--------------------------------------------------
+
 Title: NVDA: Oppenheimer Sees Trillion-Dollar AI Opportunity for Nvidia
 URL: https://finance.yahoo.com/news/nvda-oppenheimer-sees-trillion-dollar-170633063.html
 Time Published: 2025-06-19T17:06:33Z
