@@ -13,13 +13,13 @@ Description: Due to Axon Enterprise’s significant outperformance relative to t
 --------------------------------------------------
 
 Title: Newsweek's AI Impact Awards 2025
-URL: https://www.newsweek.com/newsweeks-ai-impact-awards-2025
+URL: https://www.newsweek.com/nw-ai/newsweeks-ai-impact-awards-2025-2086323
 Time Published: 2025-06-18T09:58:01Z
 Description: To celebrate companies leading the way, Newsweek is proud to present the inaugural AI Impact Awards 2025. These awards honor 38 organizations across 13 categories for their outstanding achievements in applying AI to solve complex challenges, improve operation…
 --------------------------------------------------
 
 Title: Newsweek's AI Impact Awards 2025
-URL: https://www.newsweek.com/nw-ai/newsweeks-ai-impact-awards-2025-2086323
+URL: https://www.newsweek.com/newsweeks-ai-impact-awards-2025
 Time Published: 2025-06-18T09:58:01Z
 Description: To celebrate companies leading the way, Newsweek is proud to present the inaugural AI Impact Awards 2025. These awards honor 38 organizations across 13 categories for their outstanding achievements in applying AI to solve complex challenges, improve operation…
 --------------------------------------------------
