@@ -26,9 +26,3 @@ Description: Browser Lag - No malware detected - Cleanboots attempted - posted i
  
 Roughly 1 week ago my browser was beginning to experience a strange kind of lag. Pages would not display unless I clicked off of th…
 --------------------------------------------------
-
-Title: With 49% ownership, CAR Group Limited (ASX:CAR) boasts of strong institutional backing
-URL: https://finance.yahoo.com/news/49-ownership-car-group-limited-220305523.html
-Time Published: 2025-06-15T22:03:05Z
-Description: Key Insights Significantly high institutional ownership implies CAR Group's stock price is sensitive to their trading...
---------------------------------------------------
