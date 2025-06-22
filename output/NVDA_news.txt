@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: AMD Is Gunning for Nvidia’s AI Chip Throne. Should You Buy AMD Stock Now?
+URL: https://www.barchart.com/story/news/32987319/amd-is-gunning-for-nvidias-ai-chip-throne-should-you-buy-amd-stock-now
+Time Published: 2025-06-21T17:00:02Z
+Description: The Instinct MI400 chips have brought AMD within striking distance of Nvidia’s AI dominance. Is it time to ride that momentum?
+--------------------------------------------------
+
+Title: CoreWeave Just Revealed the Largest-Ever Nvidia Blackwell GPU Cluster. Should You Buy CRWV Stock?
+URL: https://www.barchart.com/story/news/32986546/coreweave-just-revealed-the-largest-ever-nvidia-blackwell-gpu-cluster-should-you-buy-crwv-stock
+Time Published: 2025-06-21T14:00:02Z
+Description: The biggest Nvidia Blackwell cluster ever built now runs on CoreWeave’s cloud platform.
+--------------------------------------------------
+
 Title: CrowdStrike Just Partnered Up With Nvidia. Should You Buy CRWD Stock Here?
 URL: https://www.barchart.com/story/news/32985142/crowdstrike-just-partnered-up-with-nvidia-should-you-buy-crwd-stock-here
 Time Published: 2025-06-21T11:00:02Z
