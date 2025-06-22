@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Nvidia, AI Chip Stocks Pull Back As Investors Turn Cautious
+URL: https://www.investors.com/news/technology/nvidia-stock-ai-chip-stocks-pull-back/
+Time Published: 2025-06-20T20:46:41Z
+Description: Semiconductor stocks tied to the AI megatrend dipped on Friday as the second quarter nears its end. Nvidia stock was among the decliners.
+--------------------------------------------------
+
 Title: US Stock market today: Wall Street edges higher as Trump comments jolt Fed outlook, chip stocks rebound sharply after recent slump
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-wall-street-edges-higher-as-trump-comments-jolt-fed-outlook-chip-stocks-rebound-sharply-after-recent-slump/articleshow/121978486.cms
 Time Published: 2025-06-20T15:18:53Z

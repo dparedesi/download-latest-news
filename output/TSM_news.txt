@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Nvidia, AI Chip Stocks Pull Back As Investors Turn Cautious
+URL: https://www.investors.com/news/technology/nvidia-stock-ai-chip-stocks-pull-back/
+Time Published: 2025-06-20T20:46:41Z
+Description: Semiconductor stocks tied to the AI megatrend dipped on Friday as the second quarter nears its end. Nvidia stock was among the decliners.
+--------------------------------------------------
+
 Title: Stock market today: S&P 500, Nasdaq fall with focus on Trump Iran decision, Fed rate cuts, China chip tensions
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-fall-with-focus-on-trump-iran-decision-fed-rate-cuts-china-chip-tensions-145802639.html
 Time Published: 2025-06-20T14:58:02Z
@@ -16,10 +22,4 @@ Title: U.S. Stocks Like Boeing, GE, Ford, and Intel Are All Being Severely Outpe
 URL: https://www.barchart.com/story/news/32941356/u-s-stocks-like-boeing-ge-ford-and-intel-are-all-being-severely-outperformed-by-their-overseas-competitors
 Time Published: 2025-06-18T14:52:12Z
 Description: Several major U.S. companies have been consistently outperformed by international rivals, revealing long-term concerns about American corporate...
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing Company Limited (TSM): It’s A Proxy for NVIDIA, Says Jim Cramer
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c1ea734c-949b-40b8-a4b1-b10a6a4a3d44
-Time Published: 2025-06-16T17:01:46Z
-Description: None
 --------------------------------------------------
