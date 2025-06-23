@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Nvidia: How the chipmaker evolved from a gaming startup to an AI giant
+URL: https://finance.yahoo.com/news/nvidia-how-the-chipmaker-evolved-from-a-gaming-startup-to-an-ai-giant-140140110.html
+Time Published: 2025-06-22T14:01:40Z
+Description: Here’s a look at Nvidia’s path to where it is today, from creating hardware for the gaming industry to designing the chips that power AI.
+--------------------------------------------------
+
 Title: Disney Just Struck a Deal with Amazon. Should You Buy DIS Stock Here?
 URL: https://www.barchart.com/story/news/32979585/disney-just-struck-a-deal-with-amazon-should-you-buy-dis-stock-here
 Time Published: 2025-06-20T19:35:18Z
