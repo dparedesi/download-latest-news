@@ -17,9 +17,3 @@ URL: https://finance.yahoo.com/news/why-netflix-stock-nflx-rally-130601959.html
 Time Published: 2025-06-18T13:06:01Z
 Description: Netflix (NFLX) has soared almost 80% over the past year, recently topping $1,200 per share, prompting concerns that the stock may be overextended. Critics...
 --------------------------------------------------
-
-Title: Spotify Stock Gets Street-High Price Target
-URL: https://www.investors.com/news/technology/spotify-stock-gets-street-high-price-target/
-Time Published: 2025-06-17T12:20:39Z
-Description: Pivotal Research raised its price target to 900 for the streaming music leader.
---------------------------------------------------
