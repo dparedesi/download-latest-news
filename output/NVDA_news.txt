@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia Secures Entire Wistron Plant Through 2026 to Build AI Servers
+URL: https://finance.yahoo.com/news/nvidia-secures-entire-wistron-plant-185445590.html
+Time Published: 2025-06-23T18:54:45Z
+Description: The facility started operations in June and is expected to build over 240,000 Blackwell-based systems per quarter
+--------------------------------------------------
+
 Title: The Next Trillion-Dollar Boom? 3 Stocks to Buy with 300 Million Humanoid Robots on the Horizon.
 URL: https://www.barchart.com/story/news/33006352/the-next-trillion-dollar-boom-3-stocks-to-buy-with-300-million-humanoid-robots-on-the-horizon
 Time Published: 2025-06-23T16:50:55Z
