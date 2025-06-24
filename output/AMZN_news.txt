@@ -24,9 +24,3 @@ URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-fall-w
 Time Published: 2025-06-20T14:58:02Z
 Description: Traders are weighing the possibility of direct US military involvement in the Israel-Iran war, now in its second week.
 --------------------------------------------------
-
-Title: How a Stablecoin Could Absolutely Transform This ‘Strong Buy’ Dividend King
-URL: https://www.barchart.com/story/news/32949895/how-a-stablecoin-could-absolutely-transform-this-strong-buy-dividend-king
-Time Published: 2025-06-18T23:30:02Z
-Description: Walmart’s potential launch of its own stablecoin could revolutionize its payment processing, saving billions of dollars in credit card fees.
---------------------------------------------------

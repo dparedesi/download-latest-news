@@ -11,15 +11,3 @@ URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-fall-w
 Time Published: 2025-06-20T14:58:02Z
 Description: Traders are weighing the possibility of direct US military involvement in the Israel-Iran war, now in its second week.
 --------------------------------------------------
-
-Title: Is INTC Stock a Buy Now as Intel Prepares for Another Round of Mass Layoffs?
-URL: https://www.barchart.com/story/news/32942133/is-intc-stock-a-buy-now-as-intel-prepares-for-another-round-of-mass-layoffs
-Time Published: 2025-06-18T15:28:18Z
-Description: Intel is considering firing between 15% and 20% of its foundry workers. While the move would help lower costs, the company needs much more than cost cuts to ...
---------------------------------------------------
-
-Title: U.S. Stocks Like Boeing, GE, Ford, and Intel Are All Being Severely Outperformed by Their Overseas Competitors
-URL: https://www.barchart.com/story/news/32941356/u-s-stocks-like-boeing-ge-ford-and-intel-are-all-being-severely-outperformed-by-their-overseas-competitors
-Time Published: 2025-06-18T14:52:12Z
-Description: Several major U.S. companies have been consistently outperformed by international rivals, revealing long-term concerns about American corporate...
---------------------------------------------------

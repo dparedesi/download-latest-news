@@ -11,9 +11,3 @@ URL: https://finance.yahoo.com/news/netflix-receives-street-high-target-13104054
 Time Published: 2025-06-20T13:10:40Z
 Description: Investing.com -- Pivotal Research lifted its price target on Netflix (NASDAQ:NFLX) shares to $1,600, the highest on Wall Street, citing greater confidence in...
 --------------------------------------------------
-
-Title: Why the Netflix Stock (NFLX) Rally Isn’t Done Yet
-URL: https://finance.yahoo.com/news/why-netflix-stock-nflx-rally-130601959.html
-Time Published: 2025-06-18T13:06:01Z
-Description: Netflix (NFLX) has soared almost 80% over the past year, recently topping $1,200 per share, prompting concerns that the stock may be overextended. Critics...
---------------------------------------------------
