@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: The Next Trillion-Dollar Boom? 3 Stocks to Buy with 300 Million Humanoid Robots on the Horizon.
+URL: https://www.barchart.com/story/news/33006352/the-next-trillion-dollar-boom-3-stocks-to-buy-with-300-million-humanoid-robots-on-the-horizon
+Time Published: 2025-06-23T16:50:55Z
+Description: Here’s why these three mega-cap tech stocks are poised to benefit from the robotics boom over the next three decades.
+--------------------------------------------------
+
+Title: Jefferies Hikes Oracle Target to $220, Cites AI-Driven Cloud Acceleration
+URL: https://finance.yahoo.com/news/jefferies-hikes-oracle-target-220-162351292.html
+Time Published: 2025-06-23T16:23:51Z
+Description: Jefferies raised its price target on Oracle (NYSE:ORCL) from $200 to $220 on June 12, maintaining a Buy rating as the company continues to ride strong...
+--------------------------------------------------
+
+Title: AMD Stock Gets New Buy Rating As AI Efforts Take Hold
+URL: https://www.investors.com/news/technology/amd-stock-upgraded-to-buy-on-ai-efforts/
+Time Published: 2025-06-23T12:53:00Z
+Description: Advanced Micro Devices has turned a Wall Street skeptic into a bull with its progress in AI chips and computing systems. AI stock rose.
+--------------------------------------------------
+
 Title: Geopolitical Market Risk: Israel-Iran War & Oil
 URL: https://www.forbes.com/sites/bill_stone/2025/06/22/geopolitical-market-risk-israel-iran-war--oil/
 Time Published: 2025-06-22T14:15:37Z
