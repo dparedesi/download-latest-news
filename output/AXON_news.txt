@@ -1,5 +1,12 @@
 List of news related to Axon Enterprise AXON:
 
+Title: Implementing CQRS and Event Sourcing with Axon Framework in Spring
+URL: https://www.javacodegeeks.com/2025/06/implementing-cqrs-and-event-sourcing-with-axon-framework-in-spring.html
+Time Published: 2025-06-24T06:06:00Z
+Full Content:
+Modern enterprise applications often require complex consistency, scalability, and traceability features. This is where CQRS (Command Query Responsibility Segregation) and Event Sourcing shine. Together, they allow systems to scale efficiently while preserving a full audit trail of all state changes. In this article, you’ll learn how to implement CQRS and Event Sourcing using the Axon Framework in Spring Boot. We’ll cover: CQRS (Command Query Responsibility Segregation) is a design pattern that separates the write model (commands) from the read model (queries). This decoupling allows each side to scale and evolve independently. Instead of storing the current state in a database, Event Sourcing stores all changes to the state as a sequence of events. For example, instead of storing: You would store: The current state is rebuilt by replaying these events. The Axon Framework simplifies the implementation of CQRS and Event Sourcing in Java. It provides: Let’s walk through a sample implementation of an Order Management System using Axon. Replaying hundreds or thousands of events to restore state can slow down system performance. Snapshotting solves this by saving the state of an aggregate after a certain number of events, so only a few need to be replayed. Axon Framework makes it surprisingly manageable to implement CQRS and Event Sourcing in Spring Boot. With proper use of aggregates, projections, and snapshotting, you get a scalable, event-driven architecture that’s built for the long haul. Whether you’re building systems that need audit logs, complex workflows, or massive scalability, Axon gives you the building blocks to make it happen cleanly and reliably. We will contact you soon. Δ Δ This site uses Akismet to reduce spam. Learn how your comment data is processed.
+--------------------------------------------------
+
 Title: The week in stocks: Empire, Algoma Steel, and why the case for the trade in war ‘keeps getting stronger’
 URL: https://financialpost.com/investing/empire-algoma-steel-case-trade-war-stronger
 Time Published: 2025-06-21T10:00:59Z
