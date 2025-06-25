@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Nvidia stock extends gains, on track to notch record high in remarkable 2025 turnaround
+URL: https://finance.yahoo.com/news/nvidia-stock-extends-gains-on-track-to-notch-record-high-in-remarkable-2025-turnaround-183528713.html
+Time Published: 2025-06-24T18:35:28Z
+Description: Nvidia shares climbed Wednesday, nearing a record high.
+--------------------------------------------------
+
 Title: Broadcom (AVGO) Maintains Momentum With $15B Revenue, Analysts Hike Price Target
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a8fdf06-2b99-4172-b411-dcf4b7cc8e6c
 Time Published: 2025-06-24T16:57:04Z
