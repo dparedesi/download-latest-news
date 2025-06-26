@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Micron Faces Earnings Test After Share Price Doubled Since April
+URL: https://finance.yahoo.com/news/micron-faces-earnings-test-share-094239357.html
+Time Published: 2025-06-25T09:42:39Z
+Description: (Bloomberg) -- Investors looking for new ways to bet on artificial intelligence infrastructure have been piling into an old but often overlooked name: Micron...
+--------------------------------------------------
+
+Title: Nvidia’s (NVDA) Next Earnings Could Be a Turning Point—Here’s What to Expect
+URL: https://finance.yahoo.com/news/nvidia-nvda-next-earnings-could-074330987.html
+Time Published: 2025-06-25T07:43:30Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the 10 Trending AI Stocks on Wall Street Right Now. One of the biggest analyst calls on Monday, June 23, was for...
+--------------------------------------------------
+
 Title: NVIDIA Corporation (NVDA) CEO Wants To Sell GPUs To China, Says Jim Cramer
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f299c023-719a-49c1-9c37-73b1f8be3878
 Time Published: 2025-06-25T06:35:57Z
@@ -29,6 +41,12 @@ Title: Nvidia shareholder meeting: What to watch for
 URL: https://finance.yahoo.com/video/nvidia-shareholder-meeting-watch-211117725.html
 Time Published: 2025-06-24T21:11:17Z
 Description: Nvidia (NVDA) is holding its annual shareholder meeting on Wednesday, June 25. In the video above, Tematica Research chief investment officer Chris Versace...
+--------------------------------------------------
+
+Title: NVIDIA Corporation (NVDA) Enters To a New Phase of AI Humanoid Robots
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_64665bbc-d2dd-4f77-9b0b-114522fac758
+Time Published: 2025-06-24T20:58:36Z
+Description: None
 --------------------------------------------------
 
 Title: Broadcom Just Got a New Street-High Price Target. Should You Buy AVGO Stock Here?

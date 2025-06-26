@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: S&P Futures Muted With Focus on Powell’s Testimony
+URL: https://www.barchart.com/story/news/33039051/s-p-futures-muted-with-focus-on-powells-testimony
+Time Published: 2025-06-25T09:48:09Z
+Description: September S&P 500 E-Mini futures (ESU25) are trending up +0.01% this morning as investors shift their focus to fundamentals, with Federal Reserve Chair...
+--------------------------------------------------
+
 Title: AMD Shares Rise as Analysts Predict Massive GPU Boom
 URL: https://finance.yahoo.com/news/amd-shares-rise-analysts-predict-181541772.html
 Time Published: 2025-06-24T18:15:41Z

@@ -1,5 +1,11 @@
 List of news related to Axon Enterprise AXON:
 
+Title: Robert W. Baird Maintains a Buy Rating on Axon Enterprise (AXON), Keeps the PT
+URL: https://finance.yahoo.com/news/robert-w-baird-maintains-buy-205858373.html
+Time Published: 2025-06-24T20:58:58Z
+Description: Axon Enterprise, Inc. (NASDAQ:AXON) is one of the 12 Best Stocks to Buy and Hold for the Long Term. On June 8, analyst William Power of Robert W. Baird...
+--------------------------------------------------
+
 Title: Implementing CQRS and Event Sourcing with Axon Framework in Spring
 URL: https://www.javacodegeeks.com/2025/06/implementing-cqrs-and-event-sourcing-with-axon-framework-in-spring.html
 Time Published: 2025-06-24T06:06:00Z
