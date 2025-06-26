@@ -1,5 +1,18 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia shares hit record high as Wall Street shakes off anxiety about AI chip export controls
+URL: https://nypost.com/2025/06/25/business/nvidia-shares-hit-record-high-as-wall-street-shakes-off-anxiety-about-ai-chip-export-controls/
+Time Published: 2025-06-25T18:27:46Z
+Full Content:
+Nvidia shares closed at an all-time high on Wednesday as Wall Street investors shook off fears that US limits on chip exports to China would hurt the company’s business. Led by CEO Jensen Huang, the AI chip giant’s stock rose 4.3% to nearly $154.31 per share in Wednesday trading. Nvidia’s previous all-time closing high was $149.43, which was achieved last Jan. 6 following President Trump’s election win. The stock is up about 15% since the start of the year. The surge pushed its market cap to $3.76 trillion, establishing Nasdaq-listed Nvidia as the world’s most valuable company. Microsoft, a key Nvidia customer, ranked second at $3.65 trillion, followed by Apple at approximately $3 trillion. The rally has occurred despite lingering investor anxiety about President Trump’s move earlier this year to slap fresh export controls on Nvidia’s shipments to China. The restrictions halted shipments of Nvidia’s H20 chips – which had been the only AI processors it could legally export to the country. In May, Nvidia told investors it would lose $8 billion in expected sales from China. Huang himself has grumbled that the “$50 billion China market is effectively closed to US industry.” However, overall demand for Nvidia’s chips remains strong. On Wednesday, Loop Capital analyst Ananda Baruah raised his price target on Nvidia stock to $250 – which, if achieved, would push its market cap to an unprecedented $6 trillion over time. “While it may seem fantastic that NVDA fundamentals can continue to amplify from current levels, we remind folks that NVDA remains essentially a monopoly for critical tech, and that it has pricing (and margin) power,” Baruah said in a note to clients. For the full year, Wall Street expects Nvidia’s revenue to surge 53% to nearly $200 billion, according to LSEG data. Nvidia shares popped despite mixed results for Wall Street’s main indexes. The Nasdaq was up about 60 points, or 0.3%, while the broad-based S&P 500 was flat and the Dow Jones Industrial Average slipped 106 points, or 0.3%. The firm dominates the market for advanced computer chips needed to power energy-guzzling artificial intelligence models. Aside from Microsoft, Nvidia’s customers include the likes of Sam Altman’s OpenAI, Elon Musk’s xAI and Mark Zuckerberg’s Meta. The Santa Clara, California-based firm also held its shareholder meeting on Wednesday.
+--------------------------------------------------
+
+Title: HPE CEO pushes back on tech slowdown fears despite signs of caution from CIOs
+URL: https://finance.yahoo.com/news/hpe-ceo-pushes-back-on-tech-slowdown-fears-despite-signs-of-caution-from-cios-173230961.html
+Time Published: 2025-06-25T17:32:30Z
+Description: Enterprise tech giant HPE said IT spending has been consistent.
+--------------------------------------------------
+
 Title: TerraPower’s Nuclear Leap and NVIDIA’s (NVDA) First Energy Play
 URL: https://finance.yahoo.com/news/terrapower-nuclear-leap-nvidia-nvda-165048731.html
 Time Published: 2025-06-25T16:50:48Z
@@ -50,6 +63,12 @@ Title: Micron Faces Earnings Test After Share Price Doubled Since April
 URL: https://finance.yahoo.com/news/micron-faces-earnings-test-share-094239357.html
 Time Published: 2025-06-25T09:42:39Z
 Description: (Bloomberg) -- Investors looking for new ways to bet on artificial intelligence infrastructure have been piling into an old but often overlooked name: Micron...
+--------------------------------------------------
+
+Title: Nvidia, Foxconn Plan Humanoid Robot Deployment at Houston AI Server Factory
+URL: https://finance.yahoo.com/news/nvidia-foxconn-plan-humanoid-robot-074728805.html
+Time Published: 2025-06-25T07:47:28Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the best Fortune 500 stocks to buy according to billionaires. NVIDIA and Foxconn Technology Co. Ltd. (OTC:FXCOF...
 --------------------------------------------------
 
 Title: Nvidia’s (NVDA) Next Earnings Could Be a Turning Point—Here’s What to Expect
