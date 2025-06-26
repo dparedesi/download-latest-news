@@ -1,5 +1,11 @@
 List of news related to Axon Enterprise AXON:
 
+Title: Shopify Stock: Using A Cash-Secured Put Can Limit Losses
+URL: https://www.investors.com/research/options/shopify-shop-stock-cash-secured-put-options/
+Time Published: 2025-06-25T15:07:53Z
+Description: One way to take ownership of Shopify stock for less than the current price is via a cash-secured put option trade.
+--------------------------------------------------
+
 Title: Robert W. Baird Maintains a Buy Rating on Axon Enterprise (AXON), Keeps the PT
 URL: https://finance.yahoo.com/news/robert-w-baird-maintains-buy-205858373.html
 Time Published: 2025-06-24T20:58:58Z

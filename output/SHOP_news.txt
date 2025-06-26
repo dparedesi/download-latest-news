@@ -1,1 +1,7 @@
-No news found for Shopify stock price +SHOP
+List of news related to Shopify stock price SHOP:
+
+Title: Shopify Stock: Using A Cash-Secured Put Can Limit Losses
+URL: https://www.investors.com/research/options/shopify-shop-stock-cash-secured-put-options/
+Time Published: 2025-06-25T15:07:53Z
+Description: One way to take ownership of Shopify stock for less than the current price is via a cash-secured put option trade.
+--------------------------------------------------
