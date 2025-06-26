@@ -25,22 +25,3 @@ URL: https://finance.yahoo.com/news/nvidia-how-the-chipmaker-evolved-from-a-gami
 Time Published: 2025-06-22T14:01:40Z
 Description: Here’s a look at Nvidia’s path to where it is today, from creating hardware for the gaming industry to designing the chips that power AI.
 --------------------------------------------------
-
-Title: Disney Just Struck a Deal with Amazon. Should You Buy DIS Stock Here?
-URL: https://www.barchart.com/story/news/32979585/disney-just-struck-a-deal-with-amazon-should-you-buy-dis-stock-here
-Time Published: 2025-06-20T19:35:18Z
-Description: The partnership is between Disney’s Real-Time Ad Exchange and Amazon’s Demand Side platforms.
---------------------------------------------------
-
-Title: Watch These Visa Price Levels as Stablecoins Threaten to Bypass Card Fees
-URL: https://www.investopedia.com/watch-these-visa-price-levels-as-stablecoins-threaten-to-bypass-card-fees-11758144
-Time Published: 2025-06-20T16:26:17Z
-Full Content:
-Visa (V) shares slid this week after the Senate on Tuesday passed the GENIUS Act, providing a regulatory framework for companies issuing stablecoins. The crypto-friendly legislation could open the door for merchants to bypass card-based payment systems offed by Visa and other payments providers. Reports surfaced last week that Walmart (WMT) and Amazon (AMZN) were looking into launching their own stablecoins, a move that could potentially eat away at the billions of dollars the retail titans pay in credit transaction fees. Shares of Visa were little changed in Friday afternoon trading, just above $338, leaving them down about 4% for the week. Still, they've gained roughly 7% year-to-date, outpacing the S&P 500, which added less than 2% over the same period. Below, we take a closer look at Visa’s chart and use technical analysis to identify major price levels worth watching out for. Earlier this month, the stock climbed above its prominent March and May peaks, before staging a sharp reversal to form a bull trap, a trading event that lures investors to buy upon a breach of major resistance—the two peaks in this case—before the price makes a sudden move lower. As recent peaks on the chart made higher highs, the relative strength index (RSI) made comparatively shallower peaks to create a bearish divergence and indicate waning buying momentum. The stock closed decisively below the respected 50-day moving average (MA) in Wednesday’s trading session, possibly paving the way for further selling. The first support level to watch sits around $328. A retracement to this area may attract buying interest near the March swing low, which currently lies just above the upward sloping 200-day MA. A more significant drop could see the shares revisit lower support near $302. Investors may look for entry points in this region around the stock’s April sell-off low and last November’s breakaway gap. During upswings in the stock, investors should initially monitor the $350 level. The shares may face overhead selling pressure in this area near the rising 50-day MA, which currently sits alongside the late March peak and minor February trough. Buying above this level could fuel a move toward $367. Investors who have bought Visa shares at lower prices may look for exit points in this location near the March and May peaks. This level sits in the same neighborhood as a projected downside target that takes the stock’s move lower from March to April and repositions it from the May high, potentially providing clues as to how a new downtrend may play out. The comments, opinions, and analyses expressed on Investopedia are for informational purposes only. Read our warranty and liability disclaimer for more info. As of the date this article was written, the author does not own any of the above securities.
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq fall with focus on Trump Iran decision, Fed rate cuts, China chip tensions
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-fall-with-focus-on-trump-iran-decision-fed-rate-cuts-china-chip-tensions-145802639.html
-Time Published: 2025-06-20T14:58:02Z
-Description: Traders are weighing the possibility of direct US military involvement in the Israel-Iran war, now in its second week.
---------------------------------------------------

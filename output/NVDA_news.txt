@@ -1,5 +1,29 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq rally stalls with fresh records in sight
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-stalls-with-fresh-records-in-sight-225441558.html
+Time Published: 2025-06-24T22:54:41Z
+Description: Stocks are taking an upbeat tone amid hopes for Fed rate cuts and the Israel-Iran ceasefire.
+--------------------------------------------------
+
+Title: Shifting Tides in the Stock Market: A New Era for Bulls?
+URL: https://stockcharts.com/articles/chartwatchers/2025/06/shifting-tides-in-the-stock-ma-691.html
+Time Published: 2025-06-24T22:49:23Z
+Description: The stock market has been on quite the rollercoaster of late, thanks to news headlines. But investors seem to have shrugged off the past weekend's geopolitical tensions, at least for now. On Tuesday, we saw a surge of enthusiasm. Investors were diving back in…
+--------------------------------------------------
+
+Title: Nvidia shareholder meeting: What to watch for
+URL: https://finance.yahoo.com/video/nvidia-shareholder-meeting-watch-211117725.html
+Time Published: 2025-06-24T21:11:17Z
+Description: Nvidia (NVDA) is holding its annual shareholder meeting on Wednesday, June 25. In the video above, Tematica Research chief investment officer Chris Versace...
+--------------------------------------------------
+
+Title: Broadcom Just Got a New Street-High Price Target. Should You Buy AVGO Stock Here?
+URL: https://www.barchart.com/story/news/33030697/broadcom-just-got-a-new-street-high-price-target-should-you-buy-avgo-stock-here
+Time Published: 2025-06-24T19:27:56Z
+Description: HSBC raised its price target on Broadcom stock to $400. But AVGO shares, at current levels, are not particularly inexpensive to own.
+--------------------------------------------------
+
 Title: Robinhood CEO Vlad Tanev Says Retail Investors Unfazed by Middle East Tensions, Still Heavy in AI, Crypto, Fintech and More
 URL: https://dailyhodl.com/2025/06/24/robinhood-ceo-vlad-tanev-says-retail-investors-unfazed-by-middle-east-tensions-still-heavy-in-ai-crypto-fintech-and-more/
 Time Published: 2025-06-24T18:41:11Z
@@ -23,6 +47,13 @@ Title: UBS Reaffirms NVIDIA (NVDA) Buy Rating as AI and 5G Tailwinds Boost Outlo
 URL: https://finance.yahoo.com/news/ubs-reaffirms-nvidia-nvda-buy-165655674.html
 Time Published: 2025-06-24T16:56:55Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) is on our list of the 10 best 5G stocks to invest in according to analysts. On June 12, UBS maintained its buy rating and...
+--------------------------------------------------
+
+Title: Broadcom, AMD Lead Chip Stocks Rally Tuesday
+URL: https://www.investopedia.com/broadcom-amd-lead-chip-stocks-rally-tuesday-11760110
+Time Published: 2025-06-24T16:34:06Z
+Full Content:
+Shares of Advanced Micro Devices (AMD), Broadcom (AVGO), and other semiconductor companies surged Tuesday, amid broader market gains as investors welcomed news of a cease-fire agreement between Israel and Iran. AMD stock was up 5% in recent trading, making it one of the best-performing stocks on the S&P 500 and Nasdaq, while Broadcom added 4%. Intel (INTC), Nvidia (NVDA), and TSMC (TSM) were also among the other chip stocks on the rise, boosting the PHLX Semiconductor Index (SOX) over 3%. Micron Technology (MU) climbed 4% higher a day ahead of its quarterly results. On Monday, Melius analysts reportedly said AMD stock “has a lot more to go” as the company’s position in the artificial intelligence industry grows. The broker raised its price target to $175 from $110, above the Wall Street consensus of roughly $124 compiled by Visible Alpha. Broadcom stock meanwhile got an upgrade to “buy” from “hold” by analysts at HSBC Tuesday. The bank raised its price target to $400 from $240, placing it well above the Street consensus of $294. The chipmaker's application-specific integrated circuit business has the "potential to knock our socks off," HSBC said.
 --------------------------------------------------
 
 Title: These 3 Big Dividends Just Got Cut. They’re Safer Than Ever
@@ -49,6 +80,12 @@ URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-
 Time Published: 2025-06-24T15:00:19Z
 Full Content:
 (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Trump raps Israel after it vows 'powerful strikes' on Iran Kash Patel reveals China’s 'drug cartel' link China's message to Trump on Iran, Israel Adani vs SEC: 'No charges against us' I’m not going to Rajya Sabha 'I was backstabbed by my own' LIVE: Visuals from Beersheba after deadly Iranian strike ‘Iran can’t build nukes now’: JD Vance US pulls B-2 bomber bluff: Iran duped as strike hits nuke sites LIVE: Adani Group's Annual General Meeting Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Prime Articles Top Commodities Top Slideshow Private Companies Top Story Listing Top Definitions Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: Veteran Wall Street firm makes surprise call on tech stocks
+URL: https://www.thestreet.com/technology/veteran-wall-street-firm-makes-surprise-call-on-tech-stocks-
+Time Published: 2025-06-24T13:33:00Z
+Description: The firm says the market’s biggest overhang may finally be gone.
 --------------------------------------------------
 
 Title: Incoming Data Points To An Economic Slowdown: Fed Behind The Curve
@@ -143,40 +180,4 @@ Title: CrowdStrike Just Partnered Up With Nvidia. Should You Buy CRWD Stock Here
 URL: https://www.barchart.com/story/news/32985142/crowdstrike-just-partnered-up-with-nvidia-should-you-buy-crwd-stock-here
 Time Published: 2025-06-21T11:00:02Z
 Description: A powerful alliance with Nvidia is redefining CrowdStrike’s AI capabilities. Can this push CRWD further into bullish territory?
---------------------------------------------------
-
-Title: Nvidia, AI Chip Stocks Pull Back As Investors Turn Cautious
-URL: https://www.investors.com/news/technology/nvidia-stock-ai-chip-stocks-pull-back/
-Time Published: 2025-06-20T20:46:41Z
-Description: Semiconductor stocks tied to the AI megatrend dipped on Friday as the second quarter nears its end. Nvidia stock was among the decliners.
---------------------------------------------------
-
-Title: Nvidia Might Be Getting Into the Humanoid Robot Game. Should You Buy NVDA Stock Here?
-URL: https://www.barchart.com/story/news/32979608/nvidia-might-be-getting-into-the-humanoid-robot-game-should-you-buy-nvda-stock-here
-Time Published: 2025-06-20T19:39:42Z
-Description: Nvidia stock in focus following reports that the AI behemoth is venturing into humanoid robots. Barclays sees upside in NVDA shares to $200.
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq fall with focus on Trump Iran decision, Fed rate cuts, China chip tensions
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-fall-with-focus-on-trump-iran-decision-fed-rate-cuts-china-chip-tensions-145802639.html
-Time Published: 2025-06-20T14:58:02Z
-Description: Traders are weighing the possibility of direct US military involvement in the Israel-Iran war, now in its second week.
---------------------------------------------------
-
-Title: Barclays Says Nvidia (NVDA) Has the Most Upside in Its Coverage—Here’s Why
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_52b0a140-65e5-4816-a2c2-eee3542c87fd
-Time Published: 2025-06-20T12:59:06Z
-Description: None
---------------------------------------------------
-
-Title: Nvidia (NVDA) Rises After Cathie Wood Rebuilds $18.5M Stake Near All-Time High
-URL: https://finance.yahoo.com/news/nvidia-nvda-rises-cathie-wood-120041311.html
-Time Published: 2025-06-20T12:00:41Z
-Description: The fund is up 15.9% YTD, beating the S&P 500's 1.9% gain
---------------------------------------------------
-
-Title: Nvidia Is Quickly Approaching a New Record High. Is It Too Late to Buy NVDA Stock?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_31dbe0be-8919-4fa0-af31-b941a9c2364e
-Time Published: 2025-06-20T11:30:02Z
-Description: None
 --------------------------------------------------

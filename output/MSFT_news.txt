@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Shifting Tides in the Stock Market: A New Era for Bulls?
+URL: https://stockcharts.com/articles/chartwatchers/2025/06/shifting-tides-in-the-stock-ma-691.html
+Time Published: 2025-06-24T22:49:23Z
+Description: The stock market has been on quite the rollercoaster of late, thanks to news headlines. But investors seem to have shrugged off the past weekend's geopolitical tensions, at least for now. On Tuesday, we saw a surge of enthusiasm. Investors were diving back in…
+--------------------------------------------------
+
+Title: Oracle Corporation (ORCL): A Bull Case Theory
+URL: https://finance.yahoo.com/news/oracle-corporation-orcl-bull-case-222616018.html
+Time Published: 2025-06-24T22:26:16Z
+Description: We came across a bullish thesis on Oracle Corporation on Pitchstack Investing Substack . In this article, we will summarize the bulls’ thesis on ORCL. Oracle...
+--------------------------------------------------
+
 Title: Nvidia stock extends gains, on track to notch record high in remarkable 2025 turnaround
 URL: https://finance.yahoo.com/news/nvidia-stock-extends-gains-on-track-to-notch-record-high-in-remarkable-2025-turnaround-183528713.html
 Time Published: 2025-06-24T18:35:28Z
@@ -54,17 +66,4 @@ Title: Bernstein SocGen Lifts MSFT Target to $540 on AI-Driven Cloud Outlook
 URL: https://finance.yahoo.com/news/bernstein-socgen-lifts-msft-target-133942729.html
 Time Published: 2025-06-21T13:39:42Z
 Description: Bernstein SocGen has raised its price target on Microsoft (NASDAQ: MSFT) to $540 from $520, and kept an Outperform rating for the stock a couple of weeks ago...
---------------------------------------------------
-
-Title: Wells Fargo Raises PT on Microsoft (MSFT), Keeps Overweight
-URL: https://finance.yahoo.com/news/wells-fargo-raises-pt-microsoft-195654531.html
-Time Published: 2025-06-20T19:56:54Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the 10 software stocks analysts are upgrading. On June 13, Wells Fargo upped the price objective on the...
---------------------------------------------------
-
-Title: What’s Happening With MSFT Stock?
-URL: https://www.forbes.com/sites/greatspeculations/2025/06/20/whats-happening-with-msft-stock/
-Time Published: 2025-06-20T10:30:42Z
-Full Content:
-ByTrefis Team ByTrefis Team, Contributor. 30 May 2025, Bavaria, Munich: The Microsoft logo and lettering can be seen on the Microsoft ... More Deutschland GmbH headquarters building in Parkstadt Schwabing in Munich (Bavaria) on May 30, 2025. Photo: Matthias Balk/dpa (Photo by Matthias Balk/picture alliance via Getty Images) With a 15% rise year-to-date (YTD), Microsoft stock (NASDAQ:MSFT) has fared much better than the broader S&P 500 index, which has gained just 2%. This outperformance is partly attributed to rising demand for Azure amid the AI boom. Microsoft’s substantial AI investments, especially its partnership with OpenAI, have made Azure a highly appealing cloud platform for businesses looking to integrate AI into their operations. Even if we look at a slightly longer timeframe, MSFT stock has doubled since early 2023, supported by three major factors: We’ll examine these drivers in more detail. While MSFT stock has delivered strong returns, those seeking growth with less volatility than individual stocks might explore the High Quality portfolio, which has outpaced the S&P 500 with returns exceeding 91% since inception. Also, see Archer Aviation: What’s Happening With ACHR Stock? Microsoft has demonstrated solid fundamental performance with a 32% rise in revenue, growing from $198 billion in 2022 to $270 billion in the trailing twelve months. This growth is fueled by several enduring factors: Microsoft's stock has experienced a significant increase in valuation multiples, with its price-to-sales (P/S) ratio jumping 48% from 9x in 2022 to 13.3x currently. Several key factors are driving this sustained growth: Currently trading around $480, MSFT stock’s P/S multiple of 13.3x is slightly higher than its four-year average of 12.4x. Refer to Microsoft’s Valuation Ratios for additional context. We believe that Microsoft’s valuation is poised for further growth driven by strategic AI initiatives. Azure will benefit from rising enterprise AI adoption, increasing demand for cloud infrastructure, and AI platform services. Additionally, AI integration across Microsoft 365 will boost productivity, enhance user workflows and collaboration, leading to higher subscription retention and premium tier adoption. These AI features are also expected to strengthen Teams engagement, drive enterprise software licensing growth, and accelerate the shift to higher-value cloud services as businesses increasingly rely on Microsoft's comprehensive AI-powered ecosystem. Despite the strong outlook, there are notable risks. In the inflation-led 2022 downturn, MSFT stock dropped 38%, declining from a high of $343 in November 2021 to $214 in November 2022. In contrast, the S&P 500 saw a smaller decline of 25%. Although MSFT rebounded to its pre-crisis peak by June 2023, a similar sell-off occurred earlier this year amid trade war concerns, where MSFT fell nearly 20%, aligning with a 19% drawdown for the S&P 500. More on this is available in our Buy or Sell Microsoft Stock dashboard. Apart from macro and geopolitical risks, Microsoft faces internal challenges, especially regarding its significant capital expenditures. Since 2022, the company’s capital expenditures bill has crossed $144 billion. A pressing question remains: What if these large-scale investments don’t yield the expected returns? Now, we apply a risk assessment framework while constructing the 30-stock Trefis High Quality (HQ) Portfolio, which has a track record of comfortably outperforming the S&P 500 over the last 4-year period. Why is that? As a group, HQ Portfolio stocks provided better returns with less risk versus the benchmark index; less of a roller-coaster ride, as evident in HQ Portfolio performance metrics.
 --------------------------------------------------

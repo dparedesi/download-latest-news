@@ -6,6 +6,13 @@ Time Published: 2025-06-24T18:15:41Z
 Description: AMD Rebounds as Wall Street Sees 'Sustained' GPU Demand
 --------------------------------------------------
 
+Title: Broadcom, AMD Lead Chip Stocks Rally Tuesday
+URL: https://www.investopedia.com/broadcom-amd-lead-chip-stocks-rally-tuesday-11760110
+Time Published: 2025-06-24T16:34:06Z
+Full Content:
+Shares of Advanced Micro Devices (AMD), Broadcom (AVGO), and other semiconductor companies surged Tuesday, amid broader market gains as investors welcomed news of a cease-fire agreement between Israel and Iran. AMD stock was up 5% in recent trading, making it one of the best-performing stocks on the S&P 500 and Nasdaq, while Broadcom added 4%. Intel (INTC), Nvidia (NVDA), and TSMC (TSM) were also among the other chip stocks on the rise, boosting the PHLX Semiconductor Index (SOX) over 3%. Micron Technology (MU) climbed 4% higher a day ahead of its quarterly results. On Monday, Melius analysts reportedly said AMD stock “has a lot more to go” as the company’s position in the artificial intelligence industry grows. The broker raised its price target to $175 from $110, above the Wall Street consensus of roughly $124 compiled by Visible Alpha. Broadcom stock meanwhile got an upgrade to “buy” from “hold” by analysts at HSBC Tuesday. The bank raised its price target to $400 from $240, placing it well above the Street consensus of $294. The chipmaker's application-specific integrated circuit business has the "potential to knock our socks off," HSBC said.
+--------------------------------------------------
+
 Title: Stocks Supported as Tensions Ease in the Middle East
 URL: https://www.barchart.com/story/news/33026300/stocks-supported-as-tensions-ease-in-the-middle-east
 Time Published: 2025-06-24T15:20:20Z
