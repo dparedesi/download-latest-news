@@ -1,5 +1,11 @@
 List of news related to Meta stock price META:
 
+Title: Japan’s Metaplanet buys 1,234 BTC, now holds more than Tesla
+URL: https://cointelegraph.com/news/metaplanet-bitcoin-holdings-overtakes-tesla-after-latest-1-234-btc-buy
+Time Published: 2025-06-26T08:59:38Z
+Description: With a fresh 1,234 BTC purchase, Japan-based Metaplanet now holds 12,345 BTC, leapfrogging Tesla as one of the world’s largest corporate Bitcoin holders.
+--------------------------------------------------
+
 Title: How To Care About Your Job When It Doesn't Care About You
 URL: https://matthogg.fyi/how-to-care-about-your-job-when-it-doesnt-care-about-you/
 Time Published: 2025-06-26T05:47:01Z
@@ -44,6 +50,12 @@ Title: Asana picks Dan Rogers, formerly of ServiceNow, to replace CEO Dustin Mos
 URL: https://www.cnbc.com/2025/06/25/asana-ceo-dan-rogers-replace-dustin-moskovitz.html
 Time Published: 2025-06-25T21:08:21Z
 Description: Dustin Moskovitz, the largest individual owner of Asana stock, will stick around as the software company's board chair.
+--------------------------------------------------
+
+Title: Piper Sandler Maintains Overweight on Advanced Micro Devices (AMD), Raises PT
+URL: https://finance.yahoo.com/news/piper-sandler-maintains-overweight-advanced-205934505.html
+Time Published: 2025-06-25T20:59:34Z
+Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the 10 AI stocks that Jim Cramer and analysts are watching. On June 16, Piper Sandler raised its price...
 --------------------------------------------------
 
 Title: Nvidia Rises to Record as AI Spending Momentum Stays Strong
