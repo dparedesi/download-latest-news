@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Forget $200, 1 Analyst Now Sees Nvidia Stock Rising to $250
+URL: https://www.barchart.com/story/news/33071096/forget-200-1-analyst-now-sees-nvidia-stock-rising-to-250
+Time Published: 2025-06-26T14:58:53Z
+Description: While several analysts see Nvidia stock zooming past $200 over the next year, Loop Capital has assigned a Street-high target price of $250 on NVDA.
+--------------------------------------------------
+
 Title: Rubrik To Acquire Artificial Intelligence Startup In Data Management Push
 URL: https://www.investors.com/news/technology/rubrik-stock-rubrik-acquire-ai-startup-predibase/
 Time Published: 2025-06-25T18:27:59Z
