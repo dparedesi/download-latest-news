@@ -1,5 +1,12 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Microsoft Stock Sets Another Record as Analysts Grow Even More Bullish
+URL: https://www.investopedia.com/microsoft-stock-sets-another-record-as-analysts-grow-even-more-bullish-11761049
+Time Published: 2025-06-25T17:35:04Z
+Full Content:
+Wall Street is growing even more bullish on Microsoft (MSFT), whose shares set fresh all-time highs Wednesday. In a note to clients Tuesday, Wells Fargo raised its price target to $585 from $565, representing a 19% premium over Microsoft's closing level Tuesday of $490.11—which was itself a record. The climb continued today, as Microsoft shares hit a record intraday level of $494.56 and closed at $492.27. The finish marked the tech titan's 12th record close in 17 June trading sessions. "We acknowledge shares are trading near historical highs, but think this is justified given its early AI lead and strong incumbent position in a tight market," Wells Fargo said, adding, "We still see a bright future ahead for Microsoft." Wedbush was even more bullish Wednesday, raising its price target to $600 from $515. Microsoft has "a massive adoption wave of Copilot and Azure monetization now on the doorstep" as enterprise clients deploy AI tools, analysts wrote. Wells Fargo and Wedbush are more bullish than average, but they're far from alone. All 19 brokers tracked by Visible Alpha have a "buy" or equivalent rating for Microsoft stock, with a mean price target of about $532. This article has been updated since it was first published to reflect closing prices.
+--------------------------------------------------
+
 Title: Stocks See Support Ahead of Fed Chair Powell Testimony
 URL: https://www.barchart.com/story/news/33047192/stocks-see-support-ahead-of-fed-chair-powell-testimony
 Time Published: 2025-06-25T14:06:44Z
@@ -90,10 +97,4 @@ Title: Nvidia: How the chipmaker evolved from a gaming startup to an AI giant
 URL: https://finance.yahoo.com/news/nvidia-how-the-chipmaker-evolved-from-a-gaming-startup-to-an-ai-giant-140140110.html
 Time Published: 2025-06-22T14:01:40Z
 Description: Here’s a look at Nvidia’s path to where it is today, from creating hardware for the gaming industry to designing the chips that power AI.
---------------------------------------------------
-
-Title: Bernstein SocGen Lifts MSFT Target to $540 on AI-Driven Cloud Outlook
-URL: https://finance.yahoo.com/news/bernstein-socgen-lifts-msft-target-133942729.html
-Time Published: 2025-06-21T13:39:42Z
-Description: Bernstein SocGen has raised its price target on Microsoft (NASDAQ: MSFT) to $540 from $520, and kept an Outperform rating for the stock a couple of weeks ago...
 --------------------------------------------------

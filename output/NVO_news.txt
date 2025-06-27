@@ -1,5 +1,11 @@
 List of news related to Novo Nordisk NVO:
 
+Title: Novo Nordisk A/S (NVO): A Bull Case Theory
+URL: https://finance.yahoo.com/news/novo-nordisk-nvo-bull-case-221921549.html
+Time Published: 2025-06-25T22:19:21Z
+Description: We came across a bullish thesis on Novo Nordisk A/S on Kontra Investments’ Substack by Kontra. In this article, we will summarize the bull’s thesis on NVO...
+--------------------------------------------------
+
 Title: Novo Nordisk A/S (NVO): “How Could They Be So Far Behind?,” Wonders Jim Cramer
 URL: https://finance.yahoo.com/news/novo-nordisk-nvo-could-far-162007516.html
 Time Published: 2025-06-25T16:20:07Z
@@ -44,14 +50,14 @@ Full Content:
 U.S. equities advanced at midday as oil prices declined on doubts the weekend U.S. military strikes against Iran and possible retaliation from Iran would disrupt supplies. The Dow Jones Industrial Average, S&P 500, and Nasdaq all gained. Tesla (TSLA) was the best-performing stock in the S&P 500 when CEO Elon Musk said the launch of the electric vehicle (EV) maker's robotaxi in Austin, Texas, was a success. Northern Trust (NTRS) shares jumped on a report the bank was approached by Bank of New York Mellon (BK), or BNY, about a possible merger. BNY shares fell. Shares of fintech firm Fiserv (FI) rose on a plan for a new stablecoin. U.S.-listed shares of Novo Nordisk (NVO) dropped when the drugmaker's new experimental obesity drug wasn't as effective in reducing weight as hoped. Meantime, Novo Nordisk ended its agreement with Hims & Hers Health (HIMS) allowing it to offer Wegovy to customers, sending shares of the telehealth firm plunging. Shares of struggling silicon carbide chipmaker Wolfspeed (WOLF) cratered when the company announced it had filed for Chapter 11 bankruptcy as it moved to restructure its debt with key lenders. Gold futures rose. The yield on the 10-year Treasury note slid. The U.S. dollar was up on the yen but lost ground to the euro and pound. Most major cryptocurrencies traded higher. TradingView
 --------------------------------------------------
 
-Title: Hims & Hers stock plunges after Novo Nordisk ends Wegovy direct sales deal
-URL: https://finance.yahoo.com/news/hims--hers-stock-plunges-after-novo-nordisk-ends-wegovy-direct-sales-deal-153950901.html
+Title: Hims & Hers stock plummets after Novo Nordisk ends Wegovy direct sales deal
+URL: https://finance.yahoo.com/news/hims--hers-stock-plummets-after-novo-nordisk-ends-wegovy-direct-sales-deal-153950615.html
 Time Published: 2025-06-23T15:39:50Z
 Description: Novo Nordisk ends deal with Hims & Hers over compounded GLP-1 sales.
 --------------------------------------------------
 
-Title: Hims & Hers stock plummets after Novo Nordisk ends Wegovy direct sales deal
-URL: https://finance.yahoo.com/news/hims--hers-stock-plummets-after-novo-nordisk-ends-wegovy-direct-sales-deal-153950615.html
+Title: Hims & Hers stock plunges after Novo Nordisk ends Wegovy direct sales deal
+URL: https://finance.yahoo.com/news/hims--hers-stock-plunges-after-novo-nordisk-ends-wegovy-direct-sales-deal-153950901.html
 Time Published: 2025-06-23T15:39:50Z
 Description: Novo Nordisk ends deal with Hims & Hers over compounded GLP-1 sales.
 --------------------------------------------------
