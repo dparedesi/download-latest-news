@@ -1,5 +1,11 @@
 List of news related to AST SpaceMobile ASTS:
 
+Title: Scotiabank Downgrades AST SpaceMobile (ASTS) Stock to Sector Perform
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b9ab6aa9-d45e-42b0-be24-5f3ab490ea06
+Time Published: 2025-06-26T19:24:30Z
+Description: None
+--------------------------------------------------
+
 Title: AST SpaceMobile Pitches US Military on Using Its Satellites for 'Tactical Communication'
 URL: https://uk.pcmag.com/networking/158791/ast-spacemobile-pitches-us-military-on-using-its-satellites-for-tactical-communication
 Time Published: 2025-06-26T16:55:33Z
@@ -24,10 +30,4 @@ Title: DoorDash, AMD upgraded: Wall Street's top analyst calls
 URL: https://finance.yahoo.com/news/doordash-amd-upgraded-wall-streets-133834397.html
 Time Published: 2025-06-23T13:38:34Z
 Description: DoorDash, AMD upgraded: Wall Street's top analyst calls
---------------------------------------------------
-
-Title: AST SpaceMobile (ASTS) Jumps 19.7% W/W on Vodafone Deal
-URL: https://finance.yahoo.com/news/ast-spacemobile-asts-jumps-19-190010056.html
-Time Published: 2025-06-22T19:00:10Z
-Description: AST SpaceMobile Inc. (NASDAQ:ASTS) is one of the Double-Digit Winners: 10 Stocks Crushing The Market. AST SpaceMobile rallied by 19.7 percent week-on-week...
 --------------------------------------------------
