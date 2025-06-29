@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: S&P 500 and Nasdaq Climb to Record Highs on China Trade Optimism
+URL: https://www.barchart.com/story/news/33097922/s-p-500-and-nasdaq-climb-to-record-highs-on-china-trade-optimism
+Time Published: 2025-06-27T20:40:59Z
+Description: The S&P 500 Index ($SPX ) (SPY ) Friday closed up +0.52%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +1.00%, and the Nasdaq 100 Index ($IUXX )...
+--------------------------------------------------
+
 Title: S&P 500 and Nasdaq 100 Post Record Highs on Hopes of Trade Deals
 URL: https://www.barchart.com/story/news/33090706/s-p-500-and-nasdaq-100-post-record-highs-on-hopes-of-trade-deals
 Time Published: 2025-06-27T14:01:20Z
