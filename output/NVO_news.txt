@@ -36,9 +36,3 @@ URL: https://finance.yahoo.com/news/novo-nordisk-fast-tracks-amycretin-080938295
 Time Published: 2025-06-25T08:09:38Z
 Description: Novo Nordisk (NYSE:NVO) is one of the most active stocks to buy according to analysts. On June 20, Novo Nordisk announced that its investigational obesity...
 --------------------------------------------------
-
-Title: HIMS Leveraged ETF Crashes 70% as Novo Ends Deal
-URL: http://www.etf.com/sections/news/hims-stock-leveraged-etf-crash-70-percent-novo-deal?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss
-Time Published: 2025-06-24T20:00:00Z
-Description: - The unraveling of the Novo-Hims relationship not only erased billions in market value but also served as a stark reminder of the dangers of using leveraged...
---------------------------------------------------
