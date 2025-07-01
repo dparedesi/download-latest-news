@@ -24,6 +24,12 @@ Time Published: 2025-06-30T13:17:19Z
 Description: None
 --------------------------------------------------
 
+Title: FOMO-Driven Call Buying Soars as Traders Chase S&P 500’s Furious Run
+URL: https://finance.yahoo.com/news/fomo-driven-call-buying-soars-093000519.html
+Time Published: 2025-06-30T09:30:00Z
+Description: (Bloomberg) -- Traders keen to seize on further gains after the S&P 500 Index hit its first record since February are betting on stock-market darlings that...
+--------------------------------------------------
+
 Title: HPE Collaborates with NVIDIA Corporation (NVDA) to Drive Next Gen of AI Innovation
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e73d8a55-8e2a-4be1-bb18-0689270320b9
 Time Published: 2025-06-30T01:48:28Z
@@ -300,10 +306,4 @@ URL: https://economictimes.indiatimes.com/news/international/us/us-stock-futures
 Time Published: 2025-06-26T11:59:33Z
 Full Content:
 (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. 'Namaskar! I am thrilled to be here' Watch: Shukla’s ISS docking live 'SCO must not hesitate to criticise such nations' Kharge downplays Tharoor’s praise for PM Modi Himachal rain fury: 2 dead, 15–20 feared swept away 'Our fighters ready...': Iran warns against future attacks 'Russia’s crime will be judged': Zelenskyy Dem Rep. demands Elon Musk subpoena ‘I’m not a henchman’: Bove rebuts role in court defiance Trump comforts BBC Ukraine reporter Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Commodities Top Slideshow Top Prime Articles Private Companies Top Story Listing Top Definitions Top Market Pages Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Stocks Climb Before the Open as Trump Fuels Bets on Faster Fed Rate Cuts, U.S. GDP Data in Focus
-URL: https://www.barchart.com/story/news/33061518/stocks-climb-before-the-open-as-trump-fuels-bets-on-faster-fed-rate-cuts-u-s-gdp-data-in-focus
-Time Published: 2025-06-26T09:53:20Z
-Description: September S&P 500 E-Mini futures (ESU25) are up +0.33%, and September Nasdaq 100 E-Mini futures (NQU25) are up +0.41% this morning amid speculation that U.S....
 --------------------------------------------------
