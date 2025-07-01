@@ -31,9 +31,3 @@ URL: https://finance.yahoo.com/news/coinbase-circle-shares-jump-as-stablecoin-mo
 Time Published: 2025-06-26T17:37:22Z
 Description: Coinbase and Circle have emerged as major highfliers as momentum surrounding the stablecoin industry soars.
 --------------------------------------------------
-
-Title: Shopify Stock: Using A Cash-Secured Put Can Limit Losses
-URL: https://www.investors.com/research/options/shopify-shop-stock-cash-secured-put-options/
-Time Published: 2025-06-25T15:07:53Z
-Description: One way to take ownership of Shopify stock for less than the current price is via a cash-secured put option trade.
---------------------------------------------------

@@ -73,16 +73,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5bbac80d
 Time Published: 2025-06-26T14:39:25Z
 Description: None
 --------------------------------------------------
-
-Title: Barclay Raises Broadcom (AVGO) PT, Maintains Overweight Rating
-URL: https://finance.yahoo.com/news/barclay-raises-broadcom-avgo-pt-205941195.html
-Time Published: 2025-06-25T20:59:41Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of the 10 AI stocks that Jim Cramer and analysts are watching. On June 9, Barclays analyst Tom O’Malley raised the price...
---------------------------------------------------
-
-Title: 3 fantastic ASX ETFs that could beat the market over 10 years
-URL: https://www.fool.com.au/2025/06/25/3-fantastic-asx-etfs-that-could-beat-the-market-over-10-years/
-Time Published: 2025-06-25T05:30:50Z
-Description: Let's see why these funds could be destined for big things over the next decade.
-The post 3 fantastic ASX ETFs that could beat the market over 10 years appeared first on The Motley Fool Australia.
---------------------------------------------------
