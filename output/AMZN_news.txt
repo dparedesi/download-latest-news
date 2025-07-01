@@ -1,5 +1,30 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Why Jefferies Thinks Disney Stock Can Keep Climbing
+URL: https://www.investopedia.com/why-jefferies-thinks-disney-stock-can-keep-climbing-11763527
+Time Published: 2025-06-30T16:31:58Z
+Full Content:
+Disney has set the stage for its stock to retouch levels last seen in 2022, Jefferies analysts said. Jefferies on Monday upgraded Disney (DIS) stock from “hold” to “buy," forecasting that its operating income will grow for the first time in nearly a decade. Favorable trends in theme park admission, cruise bookings and streaming subscriptions should contribute to the transition, analysts said. Disney shares were recently up less than 1%, trading for about $123. They’ve gained nearly 11% so far this year, steadily rising since mid-April, when the White House softened its approach to tariffs. Their climb may only be beginning, Jefferies said: It raised its price target for Disney shares to $144—the third highest target shared by analysts who follow Disney and are tracked by Visible Alpha, where the average target is around $131. “Since 2016, [Disney] has juggled several factors … leading to limited [operating income] growth and limited stock appreciation,” Jefferies wrote in a note that credited CEO Bob Iger with improving the company’s outlook. “However, we believe Iger and co. have finally righted the ship, and the drivers ahead can change this dynamic.” Disney plans to add two cruise ships to its fleet in early 2025, which could bolster revenue by about $1 billion to $1.5 billion, according to Jefferies’ estimates. Travel and tourism spending is holding up better than anticipated, which should help Disney’s theme parks, analysts added. The outlook for Disney’s streaming services is also bright, analysts said. Analysts estimate Disney+ can add 5 million subscribers annually over the next few years and boost advertising revenue thanks, in part, to an Amazon (AMZN) partnership that allows for more targeted ads.
+--------------------------------------------------
+
+Title: What the $1 trillion rural wallet means for Walmart, Amazon
+URL: https://finance.yahoo.com/news/what-the-1-trillion-rural-wallet-means-for-walmart-amazon-151513412.html
+Time Published: 2025-06-30T15:15:13Z
+Description: The battle for rural consumers is heating up, and major US companies are investing heavily to win the country road.
+--------------------------------------------------
+
+Title: Oracle Stock Jumps As CEO Touts New Cloud Deals, Analyst Upgrades To Buy
+URL: https://www.investors.com/news/technology/oracle-stock-cloud-ai-stifel-upgrade/
+Time Published: 2025-06-30T14:17:42Z
+Description: Oracle stock jumped after CEO Safra Catz said the tech giant landed several large cloud services agreements.
+--------------------------------------------------
+
+Title: Jeff Bezos Unloads $5.4B in Amazon Shares: Should You Buy or Sell AMZN Stock Now?
+URL: https://www.barchart.com/story/news/33121362/jeff-bezos-unloads-5-4b-in-amazon-shares-should-you-buy-or-sell-amzn-stock-now
+Time Published: 2025-06-30T13:32:46Z
+Description: Newlywed Jeff Bezos is dumping a massive amount of Amazon stock. Here's what it means for traders now.
+--------------------------------------------------
+
 Title: Mid-Year Outlook: Stocks Back At Highs
 URL: https://www.forbes.com/sites/bill_stone/2025/06/29/mid-year-outlook-stocks-back-at-highs/
 Time Published: 2025-06-29T11:00:00Z
