@@ -1,5 +1,12 @@
 List of news related to NVIDIA NVDA:
 
+Title: Bitcoin Pulls Back to $106K After Record Monthly Close
+URL: https://www.coindesk.com/markets/2025/07/01/bitcoin-pulls-back-after-record-monthly-close
+Time Published: 2025-07-01T17:58:40Z
+Full Content:
+About Contact
+--------------------------------------------------
+
 Title: Stock Market Today: Dow jumps; S&P 500 and Nasdaq slip
 URL: https://www.thestreet.com/investing/stock-market-today-a-downward-start-to-the-second-half-of-2025
 Time Published: 2025-07-01T16:11:23Z
@@ -298,11 +305,4 @@ Title: Big Tech stocks still 'below their peak’ — why the rally will continu
 URL: https://finance.yahoo.com/news/big-tech-stocks-still-below-their-peak--why-the-rally-will-continue-124901541.html
 Time Published: 2025-06-27T12:49:01Z
 Description: Wall Street strategists say the AI-driven Big Tech boom has more room to run, with valuations still attractive amid a broadening market rally.
---------------------------------------------------
-
-Title: US stock market futures rise as S&P 500 nears record high on Fed rate cut hopes and China trade progress; Dow, Nasdaq rise too as Nike, Nvidia, Palantir surge
-URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-rise-as-sp-500-nears-record-high-on-fed-rate-cut-hopes-and-china-trade-progress-dow-nasdaq-rise-too-as-nike-nvidia-palantir-surge/articleshow/122112782.cms
-Time Published: 2025-06-27T11:58:11Z
-Full Content:
-(Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. China, US finalise trade framework amid tariff dispute ‘Say sorry for Emergency’: RSS to Congress Govt bulldozer demolishes Temple, in Dhaka’s Khilkhet ‘Apologise in your ancestors’ name’: RSS to Congress on Emergency Iran denies Trump’s claim of upcoming nuclear talks 'If there's no mention of terrorism, then…' 'Emergency': Jaishankar takes a dig at Gandhi family Puri flooded as 2025 Jagannath Rath Yatra begins 'Obama, Biden sent pallets of cash, Prez Trump sent warplanes' ‘What the hell's the matter?’: Tom Homan slams Congress Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Commodities Top Slideshow Private Companies Top Prime Articles Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
 --------------------------------------------------
