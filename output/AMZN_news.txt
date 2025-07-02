@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Google Stock Is a High-Growth Story With Room to Run in 2025
+URL: https://www.barchart.com/story/news/33126272/google-stock-is-a-high-growth-story-with-room-to-run-in-2025
+Time Published: 2025-06-30T17:29:31Z
+Description: This trillion-dollar company is still considered a growth story.
+--------------------------------------------------
+
 Title: Why Jefferies Thinks Disney Stock Can Keep Climbing
 URL: https://www.investopedia.com/why-jefferies-thinks-disney-stock-can-keep-climbing-11763527
 Time Published: 2025-06-30T16:31:58Z
@@ -54,16 +60,4 @@ Title: Big Tech stocks still 'below their peak’ — why the rally will continu
 URL: https://finance.yahoo.com/news/big-tech-stocks-still-below-their-peak--why-the-rally-will-continue-124901541.html
 Time Published: 2025-06-27T12:49:01Z
 Description: Wall Street strategists say the AI-driven Big Tech boom has more room to run, with valuations still attractive amid a broadening market rally.
---------------------------------------------------
-
-Title: General Mills upgraded, Trade Desk downgraded: Wall Street's top analyst calls
-URL: https://finance.yahoo.com/news/general-mills-upgraded-trade-desk-134927374.html
-Time Published: 2025-06-26T13:49:27Z
-Description: General Mills upgraded, Trade Desk downgraded: Wall Street's top analyst calls
---------------------------------------------------
-
-Title: Amazon's 3 secret advantages that could power its stock higher
-URL: https://finance.yahoo.com/news/amazons-3-secret-advantages-that-could-power-its-stock-higher-134552340.html
-Time Published: 2025-06-26T13:45:52Z
-Description: JPMorgan analyst Doug Anmuth calls Amazon his "best idea" and sees more upside ahead as logistics and automation drive long-term gains.
 --------------------------------------------------
