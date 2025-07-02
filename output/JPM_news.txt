@@ -1,5 +1,17 @@
 List of news related to JPMorgan stock price JPM:
 
+Title: Stock Index Futures Slip With Focus on Trump’s Tax Bill and Trade Deals, U.S. JOLTs Report and Powell’s Remarks on Tap
+URL: https://www.barchart.com/story/news/33139600/stock-index-futures-slip-with-focus-on-trumps-tax-bill-and-trade-deals-u-s-jolts-report-and-powells-remarks-on-tap
+Time Published: 2025-07-01T10:06:13Z
+Description: September S&P 500 E-Mini futures (ESU25) are down -0.21%, and September Nasdaq 100 E-Mini futures (NQU25) are down -0.29% this morning, taking a breather...
+--------------------------------------------------
+
+Title: Stocks Rally into Quarter-End on Trade Optimism and Lower Bond Yields
+URL: https://www.barchart.com/story/news/33129349/stocks-rally-into-quarter-end-on-trade-optimism-and-lower-bond-yields
+Time Published: 2025-06-30T20:39:55Z
+Description: The S&P 500 Index ($SPX ) (SPY ) Monday closed up +0.52%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.63%, and the Nasdaq 100 Index ($IUXX )...
+--------------------------------------------------
+
 Title: S&P 500 and Nasdaq 100 Post Record Highs Amid Signs of Trade Progress
 URL: https://www.barchart.com/story/news/33124058/s-p-500-and-nasdaq-100-post-record-highs-amid-signs-of-trade-progress
 Time Published: 2025-06-30T15:33:39Z

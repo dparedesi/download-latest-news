@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA Corporation (NVDA) Set To Hit $4 Trillion Market Cap
+URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-set-hit-211114638.html
+Time Published: 2025-06-30T21:11:14Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is among the 13 Best Big Name Stocks to Buy Now. Two years after joining the $1 trillion club, the chipmaker is on the verge...
+--------------------------------------------------
+
+Title: NVIDIA Corporation (NVDA) Insiders Cash Out Over $1 Billion In Stock Amid Market Surge: Report
+URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-insiders-cash-210457901.html
+Time Published: 2025-06-30T21:04:57Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is among the Goldman Sachs Stock Portfolio: 10 Large-Cap Stocks To Buy. The company’s insiders have sold over $1 billion...
+--------------------------------------------------
+
+Title: Cathie Wood Is Pounding the Table on AMD Stock. Should You Buy Shares Now?
+URL: https://www.barchart.com/story/news/33129639/cathie-wood-is-pounding-the-table-on-amd-stock-should-you-buy-shares-now
+Time Published: 2025-06-30T20:52:16Z
+Description: The investor who focuses on disruptive tech has been adding AMD to her portfolio.
+--------------------------------------------------
+
 Title: S&P 500, Nasdaq jump to fresh records, capping stunning second-quarter comeback
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-to-fresh-records-capping-stunning-second-quarter-comeback-201100983.html
 Time Published: 2025-06-30T20:11:00Z
@@ -202,14 +220,14 @@ Time Published: 2025-06-27T13:40:19Z
 Description: Jefferies analysts see room for a rebound as investors underestimate Google's AI and cloud momentum.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq head for records as trade talks, Fed rate cut bets boost spirits
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-head-for-records-as-trade-talks-fed-rate-cut-bets-boost-spirits-133539202.html
+Title: S&P 500, Nasdaq head for records as trade talks, Fed rate cut bets boost spirits
+URL: https://finance.yahoo.com/news/live/sp-500-nasdaq-head-for-records-as-trade-talks-fed-rate-cut-bets-boost-spirits-231502909.html
 Time Published: 2025-06-27T13:35:39Z
 Description: Investors are looking to the inflation print to test bets that a Federal Reserve rate cut could land sooner rather than later.
 --------------------------------------------------
 
-Title: S&P 500, Nasdaq head for records as trade talks, Fed rate cut bets boost spirits
-URL: https://finance.yahoo.com/news/live/sp-500-nasdaq-head-for-records-as-trade-talks-fed-rate-cut-bets-boost-spirits-231502909.html
+Title: Stock market today: S&P 500, Nasdaq head for records as trade talks, Fed rate cut bets boost spirits
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-head-for-records-as-trade-talks-fed-rate-cut-bets-boost-spirits-133539202.html
 Time Published: 2025-06-27T13:35:39Z
 Description: Investors are looking to the inflation print to test bets that a Federal Reserve rate cut could land sooner rather than later.
 --------------------------------------------------
