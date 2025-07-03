@@ -17,15 +17,3 @@ URL: https://finance.yahoo.com/news/fomo-driven-call-buying-soars-093000519.html
 Time Published: 2025-06-30T09:30:00Z
 Description: (Bloomberg) -- Traders keen to seize on further gains after the S&P 500 Index hit its first record since February are betting on stock-market darlings that...
 --------------------------------------------------
-
-Title: Earnings Preview: What to Expect From Bank of America’s Report
-URL: https://www.barchart.com/story/news/33084954/earnings-preview-what-to-expect-from-bank-of-americas-report
-Time Published: 2025-06-27T08:48:21Z
-Description: Bank of America is slated to report its fiscal second-quarter earnings later this month, with analysts forecasting a modest single-digit increase in profits ...
---------------------------------------------------
-
-Title: Looming Rate Cuts Suggest Winter is Coming for Berkshire Hathaway Stock (BRK.B)
-URL: https://finance.yahoo.com/news/looming-rate-cuts-suggest-winter-011700792.html
-Time Published: 2025-06-27T01:17:00Z
-Description: Warren Buffett’s Berkshire Hathaway (BRK.B) has amassed a $347.7 billion cash hoard, reaping substantial interest income amid high rates—but with rate cuts...
---------------------------------------------------
