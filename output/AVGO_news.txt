@@ -1,9 +1,21 @@
 List of news related to Broadcom AVGO:
 
+Title: Broadcom Stock Called 'Top Pick.' Here's Why.
+URL: https://www.investors.com/news/technology/broadcom-stock-called-top-pick-mizuho/
+Time Published: 2025-07-02T17:27:47Z
+Description: A Wall Street analyst on Wednesday named Broadcom stock as his “top pick” among semiconductor stocks, followed by Nvidia and Micron.
+--------------------------------------------------
+
 Title: Stocks Supported by Chip Stock Strength and Trade News
 URL: https://www.barchart.com/story/news/33177486/stocks-supported-by-chip-stock-strength-and-trade-news
 Time Published: 2025-07-02T15:26:19Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.25%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
+Title: Spot Outliers Like AI Star Broadcom Before They Pop
+URL: https://finance.yahoo.com/news/spot-outliers-ai-star-broadcom-095749649.html
+Time Published: 2025-07-02T09:57:49Z
+Description: Broadcom, Inc. (AVGO) up 11,860% since first Big Money outlier signal in 2011.
 --------------------------------------------------
 
 Title: New ETF Launches Drop in Q2 Despite Strong Flows
