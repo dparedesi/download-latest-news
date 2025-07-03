@@ -1,5 +1,23 @@
 List of news related to Adobe stock price ADBE:
 
+Title: Stocks Supported by Chip Stock Strength and Trade News
+URL: https://www.barchart.com/story/news/33177486/stocks-supported-by-chip-stock-strength-and-trade-news
+Time Published: 2025-07-02T15:26:19Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.25%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
+Title: Stocks Mixed on Weak US Labor Market News
+URL: https://www.barchart.com/story/news/33175801/stocks-mixed-on-weak-us-labor-market-news
+Time Published: 2025-07-02T14:14:06Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.03%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.16%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
+Title: Apple upgraded, Adobe downgraded: Wall Street's top analyst calls
+URL: https://finance.yahoo.com/news/apple-upgraded-adobe-downgraded-wall-135136226.html
+Time Published: 2025-07-02T13:51:36Z
+Description: Apple upgraded, Adobe downgraded: Wall Street's top analyst calls
+--------------------------------------------------
+
 Title: Why Overvalued Microsoft Stock (MSFT) is Still a Winner
 URL: https://finance.yahoo.com/news/why-overvalued-microsoft-stock-msft-003200025.html
 Time Published: 2025-06-28T00:32:00Z
