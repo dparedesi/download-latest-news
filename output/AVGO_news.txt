@@ -6,6 +6,12 @@ Time Published: 2025-07-01T21:00:00Z
 Description: - The second quarter saw 233 new ETF launches compared to 271 during the first quarter. - Leveraged single-stock ETFs dominated the top and bottom performers...
 --------------------------------------------------
 
+Title: Arista Purchase Of VeloCloud From Broadcom Gets Good Reviews
+URL: https://www.investors.com/news/technology/arista-stock-velocloud-acquisition-broadcom-enterprise-market/
+Time Published: 2025-07-01T19:34:18Z
+Description: Arista Networks' acquisition of VeloCloud from Broadcom won good reviews from analysts. But Arista stock dipped amid the news.
+--------------------------------------------------
+
 Title: Broadcom Outpaced Major Indexes In 2025 - What Went Down
 URL: https://www.benzinga.com/markets/tech/25/07/46195619/broadcom-outpaced-major-indexes-in-2025-what-went-down
 Time Published: 2025-07-01T15:56:19Z
