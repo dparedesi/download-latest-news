@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Nvidia, AI Data Center Stocks Get Price-Target Hikes
+URL: https://www.investors.com/news/technology/nvidia-stock-ai-data-center-stocks-price-target-hikes/
+Time Published: 2025-07-03T15:26:05Z
+Description: A Wall Street analyst has raised his price targets on seven stocks tied to the buildout of AI data centers, including Nvidia stock.
+--------------------------------------------------
+
 Title: This Surprising Investment Could Earn More Than Tesla Stock by the End of 2025
 URL: https://finance.yahoo.com/news/surprising-investment-could-earn-more-140113454.html
 Time Published: 2025-07-02T14:01:13Z

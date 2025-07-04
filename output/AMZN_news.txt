@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: JPMorgan Sees Growing Prime Value, Reaffirms Overweight on Amazon
+URL: https://finance.yahoo.com/news/jpmorgan-sees-growing-prime-value-130936293.html
+Time Published: 2025-07-03T13:09:36Z
+Description: Amazon.com, Inc. (NASDAQ:AMZN) ranks among the best FAANG stocks to buy according to hedge funds. On June 25, JPMorgan reaffirmed its $240 price target and...
+--------------------------------------------------
+
+Title: The 5 hottest startups, from robotics to AI, have gained 393% on private market value in 2025
+URL: https://finance.yahoo.com/news/the-5-hottest-startups-from-robotics-to-ai-have-gained-393-on-private-market-value-in-2025-120751463.html
+Time Published: 2025-07-03T12:07:51Z
+Description: Top startups competing in key areas have seen their private market share prices surge.
+--------------------------------------------------
+
 Title: Stock market today: S&P 500, Nasdaq leap to fresh records as Vietnam trade deal boosts hopes ahead of key jobs report
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-leap-to-fresh-records-as-vietnam-trade-deal-boosts-hopes-ahead-of-key-jobs-report-230021146.html
 Time Published: 2025-07-02T20:10:35Z

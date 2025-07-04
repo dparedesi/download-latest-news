@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Nvidia, AI Data Center Stocks Get Price-Target Hikes
+URL: https://www.investors.com/news/technology/nvidia-stock-ai-data-center-stocks-price-target-hikes/
+Time Published: 2025-07-03T15:26:05Z
+Description: A Wall Street analyst has raised his price targets on seven stocks tied to the buildout of AI data centers, including Nvidia stock.
+--------------------------------------------------
+
 Title: Stocks Supported by Chip Stock Strength and Trade News
 URL: https://www.barchart.com/story/news/33177486/stocks-supported-by-chip-stock-strength-and-trade-news
 Time Published: 2025-07-02T15:26:19Z

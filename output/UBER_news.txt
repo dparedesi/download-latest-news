@@ -1,5 +1,11 @@
 List of news related to Uber stock price UBER:
 
+Title: AI #123: Moratorium Moratorium
+URL: https://www.lesswrong.com/posts/9bbu9nebdSfXa8cKa/ai-123-moratorium-moratorium
+Time Published: 2025-07-03T15:40:03Z
+Description: Published on July 3, 2025 3:40 PM GMTThe big AI story this week was the battle over the insane AI regulatory moratorium, which came dangerously close to passing. Ultimately, after Senator Blackburn realized her deal was no good and backed out of it, the dam b…
+--------------------------------------------------
+
 Title: Uber Eyes Pony.ai’s U.S. Unit in Potential Deal Backing Founder Travis Kalanick
 URL: https://finance.yahoo.com/news/uber-eyes-pony-ai-u-183155844.html
 Time Published: 2025-07-02T18:31:55Z
