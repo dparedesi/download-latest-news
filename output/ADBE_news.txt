@@ -17,9 +17,3 @@ URL: https://finance.yahoo.com/news/apple-upgraded-adobe-downgraded-wall-1351362
 Time Published: 2025-07-02T13:51:36Z
 Description: Apple upgraded, Adobe downgraded: Wall Street's top analyst calls
 --------------------------------------------------
-
-Title: Why Overvalued Microsoft Stock (MSFT) is Still a Winner
-URL: https://finance.yahoo.com/news/why-overvalued-microsoft-stock-msft-003200025.html
-Time Published: 2025-06-28T00:32:00Z
-Description: Microsoft (MSFT) bulls have had plenty to cheer about. Just behind Meta Platforms (META), the Redmond, Washington-based tech giant has been the second-best...
---------------------------------------------------

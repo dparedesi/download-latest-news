@@ -84,15 +84,3 @@ URL: https://finance.yahoo.com/news/not-just-nvidia-broadcom-avgo-154756764.html
 Time Published: 2025-06-29T15:47:56Z
 Description: Broadcom Inc. (NASDAQ:AVGO) is one of the 10 AI Stocks Investors are Watching. On June 26, UBS reiterated Nvidia and Broadcom as “Buy,” stating that both...
 --------------------------------------------------
-
-Title: The tech rally is about a lot more than Magnificent 7 right now
-URL: https://finance.yahoo.com/news/the-tech-rally-is-about-a-lot-more-than-magnificent-7-right-now-100031363.html
-Time Published: 2025-06-28T10:00:31Z
-Description: Nvidia is the only member of the "Magnificent Seven" stocks among the top 20 best performers in the S&P 500 since the market bottomed on April 8.
---------------------------------------------------
-
-Title: HSBC Raises Price Target on Broadcom (AVGO) to $400 From $240, Upgrades it to Buy
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e808a150-3a4a-4da6-b8b7-214c0746570c
-Time Published: 2025-06-28T08:52:51Z
-Description: None
---------------------------------------------------
