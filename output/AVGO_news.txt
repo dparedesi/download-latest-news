@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Stocks Rally as US Payroll Report Encourages Economic Optimism
+URL: https://www.barchart.com/story/news/33207228/stocks-rally-as-us-payroll-report-encourages-economic-optimism
+Time Published: 2025-07-03T20:35:52Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +0.83%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.77%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: Advanced Micro Devices Stock Gets RS Rating Lift
+URL: https://www.investors.com/news/technology/advanced-micro-devices-stock-gets-rating-lift/
+Time Published: 2025-07-03T18:37:26Z
+Description: Advanced Micro Devices stock had its RS Rating upgraded to 72 Thursday — a nice improvement, but shy of the preferred 80-plus score.
+--------------------------------------------------
+
 Title: Nvidia, AI Data Center Stocks Get Price-Target Hikes
 URL: https://www.investors.com/news/technology/nvidia-stock-ai-data-center-stocks-price-target-hikes/
 Time Published: 2025-07-03T15:26:05Z
@@ -89,10 +101,4 @@ Title: Broadcom Stock Hits New High On Positive Reports
 URL: https://www.investors.com/news/technology/broadcom-stock-hits-new-high-on-positive-reports/
 Time Published: 2025-06-30T16:56:59Z
 Description: Broadcom received several positive reports from Wall Street analysts ahead of Monday’s market open. Broadcom stock hit a record high.
---------------------------------------------------
-
-Title: Not Just Nvidia: Broadcom (AVGO) Gets a Bullish Nod from UBS on AI Growth
-URL: https://finance.yahoo.com/news/not-just-nvidia-broadcom-avgo-154756764.html
-Time Published: 2025-06-29T15:47:56Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of the 10 AI Stocks Investors are Watching. On June 26, UBS reiterated Nvidia and Broadcom as “Buy,” stating that both...
 --------------------------------------------------

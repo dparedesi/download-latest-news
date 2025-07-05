@@ -34,13 +34,13 @@ Description: Giving Funds is GoFundMe’s latest in a flurry of product rollouts
 --------------------------------------------------
 
 Title: GoFundMe is refurbishing a little-known financial tool in a bid to supercharge everyday giving
-URL: https://finance.yahoo.com/news/gofundme-refurbishing-little-known-financial-121145767.html
+URL: https://finance.yahoo.com/news/gofundme-refurbishing-little-known-financial-121145565.html
 Time Published: 2025-06-30T12:11:45Z
 Description: GoFundMe CEO Tim Cadogan had some complications while fundraising on his own website last fall.  Giving Funds are GoFundMe's latest in a flurry of product...
 --------------------------------------------------
 
 Title: GoFundMe is refurbishing a little-known financial tool in a bid to supercharge everyday giving
-URL: https://finance.yahoo.com/news/gofundme-refurbishing-little-known-financial-121145565.html
+URL: https://finance.yahoo.com/news/gofundme-refurbishing-little-known-financial-121145767.html
 Time Published: 2025-06-30T12:11:45Z
 Description: GoFundMe CEO Tim Cadogan had some complications while fundraising on his own website last fall.  Giving Funds are GoFundMe's latest in a flurry of product...
 --------------------------------------------------
@@ -56,11 +56,4 @@ Title: Travere Therapeutics Draws Institutional Interest from Armistice Capital,
 URL: https://www.ibtimes.com/travere-therapeutics-draws-institutional-interest-armistice-capital-driehaus-wellington-3777209
 Time Published: 2025-06-30T03:55:03Z
 Description: Armistice Capital holds 8.9M shares in Travere Therapeutics as rare kidney disease stock climbs 110% following FILSPARI's full FDA approval.
---------------------------------------------------
-
-Title: Bitcoin Bet Turns Bitter: 5 Lawsuits Vs. Strategy For $6 Billion Losses
-URL: https://bitcoinist.com/bitcoin-bet-turns-bitter-5-lawsuits-vs-strategy-for-6-billion-losses/
-Time Published: 2025-06-29T13:30:33Z
-Full Content:
-Strategy Inc., the company once known as MicroStrategy, is now at the center of at least five class‑action lawsuits. Investors claim the firm hid big risks tied to its Bitcoin holdings and painted a rosier picture than what was real. The lawsuits hinge on about $6 billion in unrealized losses and cover an 11‑month stretch from April 2024 through April 2025. According to filings, the complaints say executives made untrue and misleading statements about Bitcoin’s ups and downs and an accounting change that forces the company to mark its crypto to market. One lead plaintiff, Abhey Parmar, insists that top officers breached their duties and oversold the company’s outlook. Based on reports, law firms are already bidding to lead these actions—the kind of scramble you see when big money is at stake. Strategy is facing at least five class action lawsuits alleging securities fraud due to $6 billion in unrealized BTC losses. The lawsuits accuse the firm of misleading investors about Bitcoin risks and profitability. Legal experts say such competing filings are common as firms… — Wu Blockchain (@WuBlockchain) June 27, 2025 Investors point to trades by new CEO Phong Le and CFO Andrew Kang as proof of inside dealing. They sold about $32 million in stock just before the public disclosure of the accounting shift. Lawyers say that timing raises questions about whether executives knew how badly the mark‑to‑market losses would hit the books. If they held back material facts until after their trades, that could stiffen the case. In April, Strategy warned shareholders it wouldn’t break even in Q1 because of those same unrealized Bitcoin losses. The firm reported a loss of $16.49 per share and cautioned it might not turn a profit soon. That announcement triggered the first suit—filed on May 16 by Pomerantz LLP—and prompted follow‑ons from Gross Law Firm; Bronstein Gewirtz & Grossman; Kessler Topaz Meltzer & Check; and Levi & Korsinsky. Despite the courtroom drama, the stock is up nearly 30% so far this year. Strategy now holds 592,345 BTC, with a total market value north of $63 billion. The firm bought its Bitcoin at an average of $70,702 per coin, and today they trade around $106,824—an unrealized gain of about $21.3 billion, or roughly 50%. Those figures help explain why investors have stuck with the plan. Based on the latest SEC filings, founder Michael Saylor is the biggest holder, with close to 20 million shares—worth almost $8 billion at $389.50 per share. Other big names include Vanguard at 8.55%, BlackRock at 5.80%, Capital International Investors at 5.80%, Susquehanna Securities at 4.82%, and Jane Street Group at 4.70%. Strategy’s stock trades near $393.24, valuing the company at about $107.50 billion—a 1.67x premium over its net asset value. Featured image from Unsplash, chart from TradingView For updates and exclusive offers enter your email. Christian, a journalist and editor with leadership roles in Philippine and Canadian media, is fueled by his love for writing and cryptocurrency. Off-screen, he's a cook and cinephile who's constantly intrigued by the size of the universe. Bitcoin news portal providing breaking news, guides, price analysis about decentralized digital money & blockchain technology. © 2025 Bitcoinist. All Rights Reserved.
 --------------------------------------------------
