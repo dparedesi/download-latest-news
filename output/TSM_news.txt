@@ -54,21 +54,3 @@ URL: https://stockcharts.com/articles/chartwatchers/2025/07/the-future-of-tech-s
 Time Published: 2025-07-01T12:45:00Z
 Description: The last day of trading for the first half of 2025 ended with a bang. The S&P 500 ($SPX) and Nasdaq Composite ($COMPQ) closed at record highs — an impressive finish, given the year has seen significant swings.We saw signs of investors rotating into technology…
 --------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing Company Limited (TSM) To Inject $10B Capital In Unit To Counter FX Volatility
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_99037211-39f0-477e-b4df-4f2e82f57205
-Time Published: 2025-06-30T21:11:34Z
-Description: None
---------------------------------------------------
-
-Title: The stock market is hitting records — three reasons why top Morgan Stanley strategist sees more room to run
-URL: https://www.marketwatch.com/story/the-stock-market-is-hitting-records-three-reasons-why-top-morgan-stanley-strategist-sees-more-room-to-run-33892ee8
-Time Published: 2025-06-30T13:40:00Z
-Description: Equities may have already started to price in more Fed interest rate cuts
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing Company Limited (TSM) Fell in Q1 Due to Concerns in AI Semis Landscape
-URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-limited-133802438.html
-Time Published: 2025-06-30T13:38:02Z
-Description: Hardman Johnston Global Advisors, an investment management company, released its “Hardman Johnston Global Equity Strategy” first quarter 2025 investor letter...
---------------------------------------------------

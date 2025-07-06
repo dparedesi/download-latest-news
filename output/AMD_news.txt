@@ -29,27 +29,3 @@ URL: https://www.barchart.com/story/news/33146371/stocks-see-pressure-as-reconci
 Time Published: 2025-07-01T14:16:30Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.22%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.28%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
 --------------------------------------------------
-
-Title: Cathie Wood Is Pounding the Table on AMD Stock. Should You Buy Shares Now?
-URL: https://www.barchart.com/story/news/33129639/cathie-wood-is-pounding-the-table-on-amd-stock-should-you-buy-shares-now
-Time Published: 2025-06-30T20:52:16Z
-Description: The investor who focuses on disruptive tech has been adding AMD to her portfolio.
---------------------------------------------------
-
-Title: Intel Is Getting Rid of Its Auto Business. How Should You Play INTC Here?
-URL: https://www.barchart.com/story/news/33128096/intel-is-getting-rid-of-its-auto-business-how-should-you-play-intc-here
-Time Published: 2025-06-30T19:51:59Z
-Description: Shedding its costly auto business frees Intel to double down on high‑margin servers and fabs. Watch INTC’s discount to peers for upside potential.
---------------------------------------------------
-
-Title: These 5 Stocks Will Replace Your Job
-URL: https://finance.yahoo.com/news/5-stocks-replace-job-162235786.html
-Time Published: 2025-06-30T16:22:35Z
-Description: Back in 1999, when I enlisted in the Marine Corps, my base pay started at less than $1,000 a month. Even after four years and a promotion to corporal, I was ...
---------------------------------------------------
-
-Title: The stock market is hitting records — three reasons why top Morgan Stanley strategist sees more room to run
-URL: https://www.marketwatch.com/story/the-stock-market-is-hitting-records-three-reasons-why-top-morgan-stanley-strategist-sees-more-room-to-run-33892ee8
-Time Published: 2025-06-30T13:40:00Z
-Description: Equities may have already started to price in more Fed interest rate cuts
---------------------------------------------------
