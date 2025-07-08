@@ -1,5 +1,12 @@
 List of news related to Broadcom AVGO:
 
+Title: ASX tech shares outperformed US tech stocks by 2:1 in FY25. Here's why
+URL: https://www.fool.com.au/2025/07/07/asx-tech-shares-outperformed-us-tech-stocks-by-21-in-fy25-heres-why/
+Time Published: 2025-07-07T04:01:03Z
+Description: Forget the Magnificent 7! Aussie tech shares had twice as much price growth as US tech stocks in FY25.
+The post ASX tech shares outperformed US tech stocks by 2:1 in FY25. Here's why appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
 Title: Tariff Dealine, Fed Minutes and Other Key Thing to Watch this Week
 URL: https://www.barchart.com/story/news/33238409/tariff-dealine-fed-minutes-and-other-key-thing-to-watch-this-week
 Time Published: 2025-07-06T17:00:02Z
@@ -34,22 +41,4 @@ Title: 3 Red Hot Stocks for the Second Half of 2025
 URL: https://finance.yahoo.com/news/3-red-hot-stocks-second-143700772.html
 Time Published: 2025-07-03T14:37:00Z
 Description: Zacks Stock Strategist, Tracey Ryniec, profiles 3 red-hot growth stocks for your short list.
---------------------------------------------------
-
-Title: Broadcom Stock Called 'Top Pick.' Here's Why.
-URL: https://www.investors.com/news/technology/broadcom-stock-called-top-pick-mizuho/
-Time Published: 2025-07-02T17:27:47Z
-Description: A Wall Street analyst on Wednesday named Broadcom stock as his “top pick” among semiconductor stocks, followed by Nvidia and Micron.
---------------------------------------------------
-
-Title: Stocks Supported by Chip Stock Strength and Trade News
-URL: https://www.barchart.com/story/news/33177486/stocks-supported-by-chip-stock-strength-and-trade-news
-Time Published: 2025-07-02T15:26:19Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.25%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: Spot Outliers Like AI Star Broadcom Before They Pop
-URL: https://finance.yahoo.com/news/spot-outliers-ai-star-broadcom-095749649.html
-Time Published: 2025-07-02T09:57:49Z
-Description: Broadcom, Inc. (AVGO) up 11,860% since first Big Money outlier signal in 2011.
 --------------------------------------------------

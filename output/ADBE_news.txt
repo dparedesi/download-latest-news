@@ -5,28 +5,3 @@ URL: https://finance.yahoo.com/news/bofa-reiterates-buy-rating-adobe-145740716.h
 Time Published: 2025-07-03T14:57:40Z
 Description: Adobe Inc. (NASDAQ:ADBE) is one of the 10 Most Undervalued AI Stocks to Buy According to Analysts. On June 26, BofA reiterated its Buy rating on Adobe Inc...
 --------------------------------------------------
-
-Title: S&P 500 Gains & Losses Today: Centene Pulls Guidance, Health Insurance Stocks Fall
-URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-health-insurance-stocks-fall-as-centene-withdraws-guidance-11765188
-Time Published: 2025-07-02T21:14:00Z
-Full Content:
-Major U.S. equities indexes finished Wednesday mixed as President Donald Trump announced that the U.S. has reached a trade deal with Vietnam. Private payroll data released Wednesday morning showed an unexpected decline in employment levels in June, the latest signal of a softening in the labor market that could influence the Federal Reserve as policymakers weigh interest-rate cuts. Investors will get a more comprehensive look at the employment situation with Thursday morning's jobs report. The S&P 500 advanced 0.5%, notching its first all-time closing high of the third quarter and its second record close this week. The Nasdaq was up 0.9%, joining the S&P 500 in record closing territory, while the Dow finished with a small loss of less than 0.1%. Read Investopedia's full coverage of today's trading here. Centene (CNC) shares plummeted 40%, losing the most of any S&P 500 stock, after the company withdrew its full-year guidance. The managed-care provider, which focuses on Medicaid and Affordable Care Act coverage, cited reports showing a steeper-than-expected growth slowdown in 22 of its 29 marketplaces, while patient illness was significantly higher compared with previous risk-adjustment assessments. Other health insurance stocks also came under pressure: Shares of Molina Healthcare (MOH) and Elevance Health (ELV), which also concentrate on government-sponsored plans, tumbled 22% and 12%, respectively. Shares of health insurance giant UnitedHealth (UNH) were down 5.7%. Shares of Albemarle (ALB), the world's largest lithium producer, rose 8.1%, notching the best performance in the S&P 500 and reaching their highest level since a sharp decline hit the stock in April. Although oversupply concerns have pushed prices for the key battery ingredient sharply lower over the past year, lithium prices edged higher on Wednesday. Like other major producers, Albemarle has responded to the challenging price environment with cost-cutting measures, including workforce reductions and cutbacks to capital expenditure plans. Coinbase Global (COIN) said it has purchased the token-management platform Liquifi, the latest in a string of acquisitions for the largest U.S. cryptocurrency exchange. Liquifi is designed to help with early stage projects, and Coinbase stressed that the deal will advance its goal of making it easier for organizations to navigate the challenges associated with building on-chain. Coinbase shares added 5.7%. Moderna (MRNA) shares gained 5.5% after the biotech firm's experimental flu vaccine based on messenger RNA technology showed promising results in a late-stage clinical trial. The company's head of research and development indicated that Moderna intends to file for approval of its standalone flu shot later this year as well as resubmit its previously withdrawn application for a combination flu and COVID-19 shot. Intel (INTC) shares sank 4.3% following reports that CEO Lip-Bu Tan is evaluating a potential shift in the company's foundry strategy that would involve making a newer generation of chips available to outside customers. The move would require Intel to step away from manufacturing processes that it has invested in significantly over recent years, and semiconductor industry analysts reportedly said the related write-off could amount to billions of dollars. Analysts at Rothschild & Co Redburn downgraded Adobe (ADBE) stock to "sell" from "neutral," suggesting that generative artificial intelligence tools threaten Adobe's leadership in the market for content creation software. For instance, they wrote, AI tools that can generate images and videos from text prompts represent formidable competition for Adobe's creative products and services. In addition, competitor Figma filed for an initial public offering after regulatory concerns hampered Adobe's acquisition efforts. Adobe shares fell 3.5% on Wednesday.
---------------------------------------------------
-
-Title: Stocks Supported by Chip Stock Strength and Trade News
-URL: https://www.barchart.com/story/news/33177486/stocks-supported-by-chip-stock-strength-and-trade-news
-Time Published: 2025-07-02T15:26:19Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.25%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: Stocks Mixed on Weak US Labor Market News
-URL: https://www.barchart.com/story/news/33175801/stocks-mixed-on-weak-us-labor-market-news
-Time Published: 2025-07-02T14:14:06Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.03%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.16%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: Apple upgraded, Adobe downgraded: Wall Street's top analyst calls
-URL: https://finance.yahoo.com/news/apple-upgraded-adobe-downgraded-wall-135136226.html
-Time Published: 2025-07-02T13:51:36Z
-Description: Apple upgraded, Adobe downgraded: Wall Street's top analyst calls
---------------------------------------------------

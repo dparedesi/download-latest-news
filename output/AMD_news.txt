@@ -23,9 +23,3 @@ URL: https://www.investors.com/news/technology/nvidia-stock-ai-data-center-stock
 Time Published: 2025-07-03T15:26:05Z
 Description: A Wall Street analyst has raised his price targets on seven stocks tied to the buildout of AI data centers, including Nvidia stock.
 --------------------------------------------------
-
-Title: Stocks Supported by Chip Stock Strength and Trade News
-URL: https://www.barchart.com/story/news/33177486/stocks-supported-by-chip-stock-strength-and-trade-news
-Time Published: 2025-07-02T15:26:19Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.25%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
