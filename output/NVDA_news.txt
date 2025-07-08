@@ -1,5 +1,49 @@
 List of news related to NVIDIA NVDA:
 
+Title: One of Tesla's most important shareholders says all's well with Elon Musk and the EV maker
+URL: https://finance.yahoo.com/news/one-of-teslas-most-important-shareholders-says-alls-well-with-elon-musk-and-the-ev-maker-170439037.html
+Time Published: 2025-07-07T17:04:39Z
+Description: Nicolai Tangen, CEO of Norges Bank Investment Management, discusses his relationship with Tesla CEO Elon Musk and why there's no bad blood.
+--------------------------------------------------
+
+Title: NVDA: Citi Hikes Nvidia Target to $190 on Soaring AI Demand
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f2ec18b8-0954-42ee-a4ab-f7a1374fa9af
+Time Published: 2025-07-07T15:55:55Z
+Description: None
+--------------------------------------------------
+
+Title: Nvidia (NVDA) Wins Analyst Confidence Amid AI Driving Sustainability
+URL: https://finance.yahoo.com/news/nvidia-nvda-wins-analyst-confidence-141426431.html
+Time Published: 2025-07-07T14:14:26Z
+Description: Nvidia Corp. (NASDAQ:NVDA) is one of the 10 best sustainability stocks to buy now. The company is an ‘enabler’ in the sustainability ecosystem as it enables ...
+--------------------------------------------------
+
+Title: Citi lifts Nvidia's price target on booming sovereign AI demand
+URL: https://finance.yahoo.com/news/citi-lifts-nvidias-price-target-on-booming-sovereign-ai-demand-133311040.html
+Time Published: 2025-07-07T13:33:51Z
+Description: Citi's new $190 price target for Nvidia stock reflects rising global appetite for AI infrastructure.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq fall as Trump amps up tariff threats with deadline looming
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fall-as-trump-amps-up-tariff-threats-with-deadline-looming-133217493.html
+Time Published: 2025-07-07T13:32:17Z
+Description: Markets are seeking clarity on President Trump's tariffs, with the president targeting Aug. 1 for new country-specific tariffs.
+--------------------------------------------------
+
+Title: One Analyst Asserts Customers Are Only Buying AMD GPUs To “Stimulate Competition And Price-Check NVIDIA,” Channel Checks Indicate “Significant” Inventory Build
+URL: https://wccftech.com/one-analyst-asserts-customers-are-only-buying-amd-gpus-to-stimulate-competition-and-price-check-nvidia-channel-checks-indicate-significant-inventory-build/
+Time Published: 2025-07-07T12:57:21Z
+Full Content:
+This is not investment advice. The author has no position in any of the stocks mentioned. Wccftech.com has a disclosure and ethics policy. AMD has had some successes recently in reversing the negative perception around the supposed inferiority of its AI GPU offerings in relation to NVIDIA's, which continue to reign as the industry standard. However, one Wall Street analyst remains decidedly cautious on AMD's near-term prospects, recommending a wait-and-see approach for now. To wit, Truist Securities analyst William Stein has reiterated a 'Hold' rating on AMD shares, replete with a stock price target of $111 per share, which corresponds to a downside potential of around 20 percent relative to the current share price of ~$137.70. Stein alludes to the ongoing debate on whether AMD customers are only "buying to stimulate competition and price-check NVDA," or genuinely prefer AMD's technology, to declare that he prefers the former thesis. Stein also clarified AMD's recent AWS-related controversy, where the logo of Amazon's cloud business first appeared and then mysteriously disappeared from the chipmaker's list of customers. As per Stein's discussions with AMD's management, Amazon would prefer to announce a tie-up with AMD at its own events, and not via the appearance of a mere logo within AMD literature. Critically, Stein's channel checks indicate a "significant inventory build" for AMD, which is "difficult to explain," as per the analyst's admission. Given the breadth of uncertainty surrounding AMD's AI GPU business at the moment, the Truist analyst has chosen not to express a "strong view" as to whether AMD's upcoming quarterly earnings would constitute a positive or negative catalyst. As we recently noted in a dedicated post, AMD has now officially unveiled its MI350 series GPUs, which are based on its 4th-gen Instinct architecture and will become available in the third quarter of 2025. According to AMD, these GPUs are capable of delivering a 4x increase in AI compute power and a 35x increase in inferencing capacity. The company has also launched the 7th iteration of the ROCm, an open-source platform that can be used to tweak the performance of AMD's GPUs. The chipmaker claims ROCm 7 delivers an average of 3.5x and 3x performance improvement in inference and training, respectively, over its previous iteration. AMD's Helios AI rack solution, which combines MI400 GPUs with Zen-6-based Venice CPUs and Vulcano NICs, is now expected to launch in 2026. Finally, AMD has also teased the successor to Helios, which will launch in 2027 and leverage MI500 GPUs, Verano CPUs, and Vulcano NICs. The launch of MI350 GPUs in Q3 is expected to boost AMD's top-line metric for the second half of the year, with Cantor Fitzgerald analyst, C.J. Muse, now expecting AMD to earn around $6 billion in AI revenues in H2 2025. Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com © 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+--------------------------------------------------
+
+Title: US stock market futures today: Dow Jones, S&P 500, Nasdaq futures drop as Tesla plunges 7% and Trump tariff warning shakes Wall Street
+URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-today-dow-jones-sp-500-nasdaq-futures-drop-as-tesla-plunges-7-and-trump-tariff-warning-shakes-wall-street/articleshow/122298910.cms
+Time Published: 2025-07-07T12:17:48Z
+Full Content:
+Dow futures fall as President Donald Trump’s tariff deadline approaches, raising fresh concerns on Wall Street. With the 90-day pause on reciprocal tariffs ending July 9, Trump officials warn duties could return to their harsh “Liberation Day” levels by August 1 unless new trade deals are signed. The market reaction was swift—Dow, Nasdaq, and S&P 500 futures slipped, while oil, gold, and Treasury yields also dipped. Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick signaled the White House will push forward with tariffs up to 70% if talks stall. Investors now watch for Fed minutes and global trade responses. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Putin's de-dollarisation message to Trump 'We do not seek confrontation...' Trump backs Zelenskyy, expresses disappointment with Putin India vs Eng: Akash Deep’s 10 wickets & Gill’s captain knock seal win 'Direct or indirect support to terrorism is unacceptable' Trump threatens 10% tariffs on ‘Anti-American policies of BRICS’ 'Ridiculous, he can have fun with it…,' Trump on Musk's 'America Party' PM Modi at the BRICS Family Photograph in Brazil Trump confirms intent to close 'Gaza deal' with Israeli PM on US visit Dalai Lama turns 90: 'He belongs to world, universe…,' says Richard Gere Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Commodities Top Slideshow Top Prime Articles Private Companies Top Story Listing Top Definitions Top Market Pages Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
 Title: ASX tech shares outperformed US tech stocks by 2:1 in FY25. Here's why
 URL: https://www.fool.com.au/2025/07/07/asx-tech-shares-outperformed-us-tech-stocks-by-21-in-fy25-heres-why/
 Time Published: 2025-07-07T04:01:03Z
