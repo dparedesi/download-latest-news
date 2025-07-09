@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Stock Index Futures Gain With Focus on Trade Talks as Trump Extends Tariff Deadline
+URL: https://www.barchart.com/story/news/33263921/stock-index-futures-gain-with-focus-on-trade-talks-as-trump-extends-tariff-deadline
+Time Published: 2025-07-08T10:04:36Z
+Description: September S&P 500 E-Mini futures (ESU25) are up +0.08%, and September Nasdaq 100 E-Mini futures (NQU25) are up +0.17% this morning as initial jitters over...
+--------------------------------------------------
+
 Title: Palantir’s +79% vs Bill’s -43%: The AI Divide That Defined SaaS Performance in 1H’25
 URL: https://www.saastr.com/saas-stock-performance-1h25-top-winners-losers/
 Time Published: 2025-07-07T18:04:36Z
