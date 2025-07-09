@@ -5,9 +5,3 @@ URL: https://www.investors.com/news/technology/oracle-stock-us-government-cloud-
 Time Published: 2025-07-07T15:08:27Z
 Description: Oracle stock fell Monday following a report that it would discount its services for the U.S. government. Oracle rallied 13% last week.
 --------------------------------------------------
-
-Title: BofA Reiterates Buy Rating on Adobe Stock, Keeps PT at $475
-URL: https://finance.yahoo.com/news/bofa-reiterates-buy-rating-adobe-145740716.html
-Time Published: 2025-07-03T14:57:40Z
-Description: Adobe Inc. (NASDAQ:ADBE) is one of the 10 Most Undervalued AI Stocks to Buy According to Analysts. On June 26, BofA reiterated its Buy rating on Adobe Inc...
---------------------------------------------------

@@ -17,15 +17,3 @@ URL: https://www.barchart.com/story/news/33218561/intels-chip-strategy-shifts-ag
 Time Published: 2025-07-04T12:00:02Z
 Description: While the risk remains high, so does the opportunity for recovery under Intel’s new leadership.
 --------------------------------------------------
-
-Title: Advanced Micro Devices Stock Gets RS Rating Lift
-URL: https://www.investors.com/news/technology/advanced-micro-devices-stock-gets-rating-lift/
-Time Published: 2025-07-03T18:37:26Z
-Description: Advanced Micro Devices stock had its RS Rating upgraded to 72 Thursday — a nice improvement, but shy of the preferred 80-plus score.
---------------------------------------------------
-
-Title: Nvidia, AI Data Center Stocks Get Price-Target Hikes
-URL: https://www.investors.com/news/technology/nvidia-stock-ai-data-center-stocks-price-target-hikes/
-Time Published: 2025-07-03T15:26:05Z
-Description: A Wall Street analyst has raised his price targets on seven stocks tied to the buildout of AI data centers, including Nvidia stock.
---------------------------------------------------

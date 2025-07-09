@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Tesla and Apple don’t belong in the ‘Magnificent Seven’ anymore. These two hot tech stocks should replace them.
+URL: https://www.marketwatch.com/story/this-new-magnificent-seven-kicks-out-two-favorites-and-adds-these-turbocharged-tech-stocks-e31701ec
+Time Published: 2025-07-07T20:36:00Z
+Description: Top tech-fund manager says Oracle and Broadcom are better buys right now. Here’s why.
+--------------------------------------------------
+
 Title: This Analyst Just Raised His Broadcom Stock Price Target by 70%. Should You Buy AVGO Now?
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_23f471e0-c5e1-4395-a356-051b4b378979
 Time Published: 2025-07-07T11:15:02Z
@@ -23,28 +29,4 @@ Title: What Makes Broadcom (AVGO) an Investment Bet?
 URL: https://finance.yahoo.com/news/makes-broadcom-avgo-investment-bet-130110768.html
 Time Published: 2025-07-04T13:01:10Z
 Description: ClearBridge Investments, an investment management company, released its “ClearBridge Large Cap Growth Strategy” second quarter 2025 investor letter. A copy...
---------------------------------------------------
-
-Title: Stocks Rally as US Payroll Report Encourages Economic Optimism
-URL: https://www.barchart.com/story/news/33207228/stocks-rally-as-us-payroll-report-encourages-economic-optimism
-Time Published: 2025-07-03T20:35:52Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +0.83%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.77%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Advanced Micro Devices Stock Gets RS Rating Lift
-URL: https://www.investors.com/news/technology/advanced-micro-devices-stock-gets-rating-lift/
-Time Published: 2025-07-03T18:37:26Z
-Description: Advanced Micro Devices stock had its RS Rating upgraded to 72 Thursday — a nice improvement, but shy of the preferred 80-plus score.
---------------------------------------------------
-
-Title: Nvidia, AI Data Center Stocks Get Price-Target Hikes
-URL: https://www.investors.com/news/technology/nvidia-stock-ai-data-center-stocks-price-target-hikes/
-Time Published: 2025-07-03T15:26:05Z
-Description: A Wall Street analyst has raised his price targets on seven stocks tied to the buildout of AI data centers, including Nvidia stock.
---------------------------------------------------
-
-Title: 3 Red Hot Stocks for the Second Half of 2025
-URL: https://finance.yahoo.com/news/3-red-hot-stocks-second-143700772.html
-Time Published: 2025-07-03T14:37:00Z
-Description: Zacks Stock Strategist, Tracey Ryniec, profiles 3 red-hot growth stocks for your short list.
 --------------------------------------------------

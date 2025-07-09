@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Earnings To Watch: Methode Electronics (MEI) Reports Q1 Results Tomorrow
+URL: https://finance.yahoo.com/news/earnings-watch-methode-electronics-mei-030058986.html
+Time Published: 2025-07-08T03:00:58Z
+Description: Custom-engineered solutions manufacturer Methode Electronics (NYSE:MEI) will be announcing earnings results this Wednesday after the bell. Here’s what you...
+--------------------------------------------------
+
+Title: Tesla and Apple don’t belong in the ‘Magnificent Seven’ anymore. These two hot tech stocks should replace them.
+URL: https://www.marketwatch.com/story/this-new-magnificent-seven-kicks-out-two-favorites-and-adds-these-turbocharged-tech-stocks-e31701ec
+Time Published: 2025-07-07T20:36:00Z
+Description: Top tech-fund manager says Oracle and Broadcom are better buys right now. Here’s why.
+--------------------------------------------------
+
 Title: TikTok building new US app as Trump says deal 'pretty much' done with American buyer
 URL: https://finance.yahoo.com/news/tiktok-building-new-us-app-as-trump-says-deal-pretty-much-done-with-american-buyer-162035028.html
 Time Published: 2025-07-07T16:20:35Z
@@ -56,23 +68,4 @@ Title: Intel’s Chip Strategy Shifts Again: Time to Buy the Dip?
 URL: https://www.barchart.com/story/news/33218561/intels-chip-strategy-shifts-again-time-to-buy-the-dip
 Time Published: 2025-07-04T12:00:02Z
 Description: While the risk remains high, so does the opportunity for recovery under Intel’s new leadership.
---------------------------------------------------
-
-Title: Nvidia Could Be About To Do Something No Company Has Ever Done
-URL: https://www.investopedia.com/nvidia-could-be-about-to-do-something-no-company-has-ever-done-11766132
-Time Published: 2025-07-03T18:51:18Z
-Full Content:
-Nvidia (NVDA) could be poised to claim the title of most valuable company in history, as its market value nears $4 trillion. The AI chipmaker's shares rose just over 1% to close at an all-time high of $159.34 Thursday, pushing its market capitalization to $3.89 trillion. If the stock had sustained its intraday highs closer to $161, its market value would have topped Apple's (AAPL) closing record of $3.91 trillion in December. With another roughly 3% rise from Thursday's closing price to $163.93, Nvidia could also hit the $4 trillion market cap threshold soon, something no other company has done. Microsoft (MSFT), which has jockeyed with Nvidia this year for the title of world's most valuable company, could too, according to Wedbush analysts led by Dan Ives. “We believe both Nvidia and Microsoft will hit the $4 trillion market cap club this summer and then over the next 18 months the focus will be on the $5 trillion club....as this tech bull market is still early being led by the AI Revolution," the analysts said in a note to clients Thursday. Thursday's rise came amid broader market gains, with the benchmark S&P 500 index and tech-heavy Nasdaq hitting all-time highs ahead of a long holiday weekend. The stock market closed early at 1 p.m. ET Thursday ahead of the July 4 holiday on Friday.
---------------------------------------------------
-
-Title: Datadog is Joining the S&P 500 Index, But is DDOG Stock a Buy on the Breakout?
-URL: https://www.barchart.com/story/news/33196948/datadog-is-joining-the-s-p-500-index-but-is-ddog-stock-a-buy-on-the-breakout
-Time Published: 2025-07-03T12:25:11Z
-Description: DDOG stock soars premarket on the news it's set to join the benchmark index.
---------------------------------------------------
-
-Title: 2 Stocks to Buy for the ‘Summer of $4 Trillion’
-URL: https://www.barchart.com/story/news/33195759/2-stocks-to-buy-for-the-summer-of-4-trillion
-Time Published: 2025-07-03T11:45:02Z
-Description: Top analyst Dan Ives believes both of these stocks are poised to surge this summer to $4 trillion-plus valuations.
 --------------------------------------------------

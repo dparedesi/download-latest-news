@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Tesla and Apple don’t belong in the ‘Magnificent Seven’ anymore. These two hot tech stocks should replace them.
+URL: https://www.marketwatch.com/story/this-new-magnificent-seven-kicks-out-two-favorites-and-adds-these-turbocharged-tech-stocks-e31701ec
+Time Published: 2025-07-07T20:36:00Z
+Description: Top tech-fund manager says Oracle and Broadcom are better buys right now. Here’s why.
+--------------------------------------------------
+
+Title: Dow, S&P 500, Nasdaq retreat as Trump reignites trade tensions with flurry of letters, August deadline
+URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-retreat-as-trump-reignites-trade-tensions-with-flurry-of-letters-august-deadline-200015302.html
+Time Published: 2025-07-07T20:00:15Z
+Description: Markets are seeking clarity on President Trump's tariffs, with the president targeting Aug. 1 for new country-specific tariffs.
+--------------------------------------------------
+
 Title: Amazon.com, Inc. (AMZN): A Bull Case Theory
 URL: https://finance.yahoo.com/news/amazon-com-inc-amzn-bull-164557092.html
 Time Published: 2025-07-07T16:45:57Z
@@ -28,28 +40,4 @@ Title: Intel’s Chip Strategy Shifts Again: Time to Buy the Dip?
 URL: https://www.barchart.com/story/news/33218561/intels-chip-strategy-shifts-again-time-to-buy-the-dip
 Time Published: 2025-07-04T12:00:02Z
 Description: While the risk remains high, so does the opportunity for recovery under Intel’s new leadership.
---------------------------------------------------
-
-Title: JPMorgan Sees Growing Prime Value, Reaffirms Overweight on Amazon
-URL: https://finance.yahoo.com/news/jpmorgan-sees-growing-prime-value-130936293.html
-Time Published: 2025-07-03T13:09:36Z
-Description: Amazon.com, Inc. (NASDAQ:AMZN) ranks among the best FAANG stocks to buy according to hedge funds. On June 25, JPMorgan reaffirmed its $240 price target and...
---------------------------------------------------
-
-Title: Datadog is Joining the S&P 500 Index, But is DDOG Stock a Buy on the Breakout?
-URL: https://www.barchart.com/story/news/33196948/datadog-is-joining-the-s-p-500-index-but-is-ddog-stock-a-buy-on-the-breakout
-Time Published: 2025-07-03T12:25:11Z
-Description: DDOG stock soars premarket on the news it's set to join the benchmark index.
---------------------------------------------------
-
-Title: The 5 hottest startups, from robotics to AI, have gained 393% on private market value in 2025
-URL: https://finance.yahoo.com/news/the-5-hottest-startups-from-robotics-to-ai-have-gained-393-on-private-market-value-in-2025-120751463.html
-Time Published: 2025-07-03T12:07:51Z
-Description: Top startups competing in key areas have seen their private market share prices surge.
---------------------------------------------------
-
-Title: Is This Outstanding Stock a Bargain Hiding in Plain Sight?
-URL: https://www.barchart.com/story/news/33194454/is-this-outstanding-stock-a-bargain-hiding-in-plain-sight
-Time Published: 2025-07-03T11:00:03Z
-Description: Some analysts believe that this small-cap stock is undervalued and has significant long-term potential.
 --------------------------------------------------
