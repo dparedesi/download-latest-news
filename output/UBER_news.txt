@@ -1,5 +1,11 @@
 List of news related to Uber stock price UBER:
 
+Title: Stock market today: Dow, S&P 500 slip as Trump stays firm on August tariff deadline, announces copper duties
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-slip-as-trump-stays-firm-on-august-tariff-deadline-announces-copper-duties-200133528.html
+Time Published: 2025-07-08T20:01:33Z
+Description: Investors are digesting Trump's stiff tariffs on imports from more than a dozen countries and delayed the return of sweeping April levies.
+--------------------------------------------------
+
 Title: Uber investors shrug off robotaxi risks as the stock powers to a record
 URL: https://financialpost.com/investing/uber-traders-shrug-off-robotaxi-risks-as-stock-powers-to-record
 Time Published: 2025-07-08T17:07:16Z
