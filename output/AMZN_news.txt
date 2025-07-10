@@ -1,5 +1,36 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Uber stock is up more than 60% YTD as it leans into AV partnerships
+URL: https://finance.yahoo.com/news/uber-stock-is-up-more-than-60-ytd-as-it-leans-into-av-partnerships-165227731.html
+Time Published: 2025-07-09T16:52:27Z
+Description: Despite growing competition from AV entrants in the ride-hailing market, sector giant Uber continues to make positive progress as it leans into partnerships ...
+--------------------------------------------------
+
+Title: Stocks Climb on Strength in the Magnificent Seven Stocks
+URL: https://www.barchart.com/story/news/33302467/stocks-climb-on-strength-in-the-magnificent-seven-stocks
+Time Published: 2025-07-09T15:26:52Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.25%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
+Title: Nvidia becomes first company to reach $4 trillion market value
+URL: https://finance.yahoo.com/news/nvidia-becomes-first-company-to-reach-4-trillion-market-value-141526534.html
+Time Published: 2025-07-09T14:15:26Z
+Description: Nvidia's market cap crossed $4 trillion for the first time Wednesday.
+--------------------------------------------------
+
+Title: Apple Needs Acquisition To Catch Up In AI Race, Analyst Says
+URL: https://www.investors.com/news/technology/apple-stock-perplexity-acquisition-called-no-brainer/
+Time Published: 2025-07-09T13:03:36Z
+Description: If Apple is going to be a major player in artificial intelligence, it needs to acquire Perplexity, an analyst says. Apple stock is flat.
+--------------------------------------------------
+
+Title: 5 Things to Know Before the Stock Market Opens
+URL: https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-july-09-2025-11768815
+Time Published: 2025-07-09T11:42:10Z
+Full Content:
+U.S. stock futures are ticking higher as investors continue to monitor the White House for updates on tariff policies; Nvidia (NVDA) stock approaches a $4 trillion market capitalization; Starbucks (SBUX) reportedly has attracted offers for a potential stake sale in its Chinese operations that value the unit at up to $10 billion; U.S.-listed shares of Verona Pharma (VRNA) are jumping in premarket trading after Merck (MRK) agreed to purchase the company for $10 billion; and AES (AES) shares are soaring on a report that the renewable energy provider is exploring a potential sale. Here's what investors need to know today. U.S. stock futures are pointing slightly higher as investors watch for more tariffs developments. Dow Jones Industrial Average futures are up 0.2% after the blue-chip index shed 0.4% in the prior session. S&P 500 futures are edging higher after the benchmark index declined slightly yesterday, while Nasdaq futures are up slightly after the tech-heavy index inched higher Tuesday. Bitcoin (BTCUSD) is ticking higher to trade at around $109,000. The 10-year Treasury note yield is little changed. Oil futures are slightly higher. Gold futures are declining. Nvidia (NVDA) shares are in focus as the AI chipmaker comes close to becoming the most valuable company in history. Nvidia stock rose just over 1% Tuesday to close at an all-time high of exactly $160, pushing its market capitalization to $3.90 trillion. That's just below Apple's (AAPL) closing record of $3.91 trillion last December. Nvidia could reach a market cap of $4 trillion if its share price moves to $163.93. Nvidia shares are edging higher in premarket trading. Starbucks (SBUX) reportedly has attracted offers for a potential stake sale in its Chinese operations that value the unit at up to $10 billion. CNBC said that "almost 30 domestic and foreign private equity firms in China have submitted non-binding offers," adding that Starbucks may retain a 30% stake. According to Bloomberg, which cited people familiar with the matter, most prospective investors in Starbucks' Chinese business "are eyeing a controlling stake in the operation." Starbucks shares are nearly 2% higher in premarket trading. U.S.-listed shares of London-based Verona Pharma (VRNA) are surging 20% in premarket trading after the firm agreed to be acquired by U.S. drug giant Merck (MRK) for $107 per American depositary share, or about $10 billion. The acquisition will add chronic obstructive pulmonary disease (COPD) treatment Ohtuvayre, which the Food and Drug Administration approved in June 2024, to Merck's drug portfolio. The deal is expected to close in the fourth quarter. AES (AES) shares are soaring nearly 15% in premarket trading on a Bloomberg report that the renewable energy provider "is exploring options including a potential sale amid takeover interest." AES has signed deals several tech firms, including Microsoft (MSFT), Alphabet (GOOGL), and Amazon (AMZN), to provide renewable power for data centers. Infrastructure investors including BlackRock's (BLK) Global Infrastructure Partners unit and Brookfield Asset Management "have been studying AES after the company's shares lost about half their value over the past two years," the report said.
+--------------------------------------------------
+
 Title: Up Nearly 20% in a Month, Is This Turnaround Dividend Stock Still a Buy in July?
 URL: https://www.barchart.com/story/news/33283577/up-nearly-20-in-a-month-is-this-turnaround-dividend-stock-still-a-buy-in-july
 Time Published: 2025-07-08T23:30:02Z
