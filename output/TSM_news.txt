@@ -1,5 +1,23 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq mixed as Nvidia milestone, Trump tariffs vie for focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-nvidia-milestone-trump-tariffs-vie-for-focus-161956222.html
+Time Published: 2025-07-10T16:19:56Z
+Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
+--------------------------------------------------
+
+Title: Analyst Says Taiwan Semiconductor (TSM) One of the Top ‘Horsemen’ of Semiconductor Industry
+URL: https://finance.yahoo.com/news/analyst-says-taiwan-semiconductor-tsm-134634246.html
+Time Published: 2025-07-10T13:46:34Z
+Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the 10 Stocks to Watch in July as AI Enthusiasm Returns. Jordan Klein, Tech Media...
+--------------------------------------------------
+
+Title: Longriver Partners Fund: Taiwan Semiconductor Manufacturing Company Limited (TSM) Remains the Lynchpin of the AI Compute Stack
+URL: https://finance.yahoo.com/news/longriver-partners-fund-taiwan-semiconductor-121228438.html
+Time Published: 2025-07-10T12:12:28Z
+Description: Longriver Investment Partners released its “Longriver Partners Fund” second-quarter 2025 investor letter. A copy of the letter can be downloaded here. In the...
+--------------------------------------------------
+
 Title: TSMC reports $9.02 billion in June revenue, up 26.9% Y-o-Y
 URL: https://economictimes.indiatimes.com/news/international/business/tsmc-reports-9-02-billion-in-june-revenue-up-26-9-y-o-y/articleshow/122358989.cms
 Time Published: 2025-07-10T06:55:23Z

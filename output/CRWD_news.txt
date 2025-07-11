@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Stocks Pressured by US Trade Policy Uncertainty
+URL: https://www.barchart.com/story/news/33326685/stocks-pressured-by-us-trade-policy-uncertainty
+Time Published: 2025-07-10T14:00:20Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.06%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.03%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
 Title: Here’s Why CrowdStrike (CRWD) Rose in Q2
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ebcf226e-f043-4fdb-9336-675c8ea4bb2b
 Time Published: 2025-07-09T14:33:52Z
