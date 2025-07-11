@@ -1,5 +1,17 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq stall as Nvidia milestone, Trump tariffs vie for focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228309.html
+Time Published: 2025-07-09T22:12:28Z
+Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as Nvidia milestone, Trump tariffs vie for focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228902.html
+Time Published: 2025-07-09T22:12:28Z
+Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
+--------------------------------------------------
+
 Title: Stocks Mixed as Bond Yields Climb
 URL: https://www.barchart.com/story/news/33274877/stocks-mixed-as-bond-yields-climb
 Time Published: 2025-07-08T15:30:27Z
@@ -22,10 +34,4 @@ Title: Stocks Pressured Ahead of Wednesday's Tariff Deadline
 URL: https://www.barchart.com/story/news/33249821/stocks-pressured-ahead-of-wednesday-s-tariff-deadline
 Time Published: 2025-07-07T15:21:50Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.56%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.54%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Why Citi Thinks Micron Stock Is Headed to $150 After Earnings Beat
-URL: https://www.barchart.com/story/news/33231569/why-citi-thinks-micron-stock-is-headed-to-150-after-earnings-beat
-Time Published: 2025-07-05T12:00:02Z
-Description: Citi and many other Wall Street analysts see exceptional long-term potential in this semiconductor stock.
 --------------------------------------------------

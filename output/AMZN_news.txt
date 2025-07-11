@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Nvidia Just Became the First $4 Trillion Company in the World. Should You Buy NVDA Stock?
+URL: https://www.barchart.com/story/news/33305583/nvidia-just-became-the-first-4-trillion-company-in-the-world-should-you-buy-nvda-stock
+Time Published: 2025-07-09T17:42:57Z
+Description: Nvidia extended gains to become the world’s first $4 trillion company on Wednesday. BofA analyst still sees further upside in NVDA shares.
+--------------------------------------------------
+
 Title: Uber stock is up more than 60% YTD as it leans into AV partnerships
 URL: https://finance.yahoo.com/news/uber-stock-is-up-more-than-60-ytd-as-it-leans-into-av-partnerships-165227731.html
 Time Published: 2025-07-09T16:52:27Z
@@ -16,6 +22,12 @@ Title: Nvidia becomes first company to reach $4 trillion market value
 URL: https://finance.yahoo.com/news/nvidia-becomes-first-company-to-reach-4-trillion-market-value-141526534.html
 Time Published: 2025-07-09T14:15:26Z
 Description: Nvidia's market cap crossed $4 trillion for the first time Wednesday.
+--------------------------------------------------
+
+Title: Stocks See Support as Investors Await Tariff News
+URL: https://www.barchart.com/story/news/33300277/stocks-see-support-as-investors-await-tariff-news
+Time Published: 2025-07-09T13:58:16Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.66%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
 Title: Apple Needs Acquisition To Catch Up In AI Race, Analyst Says
@@ -101,10 +113,4 @@ Title: Top Wall Street analysts are pounding the table on these 3 stocks
 URL: https://www.cnbc.com/2025/07/06/top-wall-street-analysts-are-pounding-the-table-on-these-3-stocks.html
 Time Published: 2025-07-06T12:58:02Z
 Description: TipRanks' analyst ranking service highlights three stocks, including Dell Technologies and Amazon, favored by Wall Street's top pros.
---------------------------------------------------
-
-Title: As Amazon Doubles Down on Robotaxis, Is AMZN Stock a Buy?
-URL: https://www.barchart.com/story/news/33233270/as-amazon-doubles-down-on-robotaxis-is-amzn-stock-a-buy
-Time Published: 2025-07-05T16:00:02Z
-Description: Amazon has continued to invest in the most disruptive and lucrative technologies.
 --------------------------------------------------

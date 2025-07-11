@@ -1,5 +1,54 @@
 List of news related to NVIDIA NVDA:
 
+Title: How the Bitcoin price just smashed new all-time highs…again!
+URL: https://www.fool.com.au/2025/07/10/how-the-bitcoin-price-just-smashed-new-all-time-highs-again/
+Time Published: 2025-07-10T02:05:02Z
+Description: The Bitcoin price just leapt to new records. But why?
+The post How the Bitcoin price just smashed new all-time highs…again! appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq stall as Nvidia milestone, Trump tariffs vie for focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228309.html
+Time Published: 2025-07-09T22:12:28Z
+Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as Nvidia milestone, Trump tariffs vie for focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228902.html
+Time Published: 2025-07-09T22:12:28Z
+Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures steady amid Trump's latest tariff threats, Nvidia's milestone
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-steady-amid-trumps-latest-tariff-threats-nvidias-milestone-221228323.html
+Time Published: 2025-07-09T22:12:28Z
+Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
+--------------------------------------------------
+
+Title: US debt rises to $36.6T: Will recession signals send Bitcoin back to $95K?
+URL: https://cointelegraph.com/news/us-debt-rises-to-36-6t-will-recession-signals-send-bitcoin-back-to-95k
+Time Published: 2025-07-09T21:00:00Z
+Description: Bitcoin price hit new highs today, but surging US debt and concerning housing data raise fears of a recession-led Bitcoin drop toward $95,000.
+--------------------------------------------------
+
+Title: Trump’s tariff changes leave Big Tech in limbo
+URL: https://finance.yahoo.com/news/trumps-tariff-changes-leave-big-tech-in-limbo-204340259.html
+Time Published: 2025-07-09T20:43:40Z
+Description: President Trump's tariff moves are back, and they're leaving Big Tech with few options.
+--------------------------------------------------
+
+Title: Nvidia Just Became the First $4 Trillion Company in the World. Should You Buy NVDA Stock?
+URL: https://www.barchart.com/story/news/33305583/nvidia-just-became-the-first-4-trillion-company-in-the-world-should-you-buy-nvda-stock
+Time Published: 2025-07-09T17:42:57Z
+Description: Nvidia extended gains to become the world’s first $4 trillion company on Wednesday. BofA analyst still sees further upside in NVDA shares.
+--------------------------------------------------
+
+Title: Nvidia Hits New Record as Its CEO Bets Big on Robotics and AI. Is a $10 Trillion Market Cap Next?
+URL: https://www.barchart.com/story/news/33305437/nvidia-hits-new-record-as-its-ceo-bets-big-on-robotics-and-ai-is-a-10-trillion-market-cap-next
+Time Published: 2025-07-09T17:33:51Z
+Description: Nvidia has reached a $4 trillion market cap, and it’s just the beginning.
+--------------------------------------------------
+
 Title: Microsoft Isn't in the '$4 Trillion Club'—Yet
 URL: https://www.investopedia.com/microsoft-isnt-in-the-usd4-trillion-club-yet-stock-nvidia-11768946
 Time Published: 2025-07-09T17:04:18Z
@@ -117,8 +166,7 @@ Description: The pandemic decade is ushering in a new era of overperformance for
 Title: Strategy Holds 11th Largest U.S. Corporate Treasury, Bitcoin Rivals Big Cash Reserves
 URL: https://www.coindesk.com/markets/2025/07/08/strategy-holds-11th-largest-us-corporate-treasury-bitcoin-rivals-big-cash-reserves
 Time Published: 2025-07-08T09:36:07Z
-Full Content:
-Disclaimer: The analyst who wrote this article has shares in Strategy (MSTR).Strategy (MSTR) now holds almost $65 billion in bitcoin BTC$110,770.05, which makes it the 11th largest corporate treasury holder of bitcoin in the U.S. In its investor presentation for the new STRD at-the-market equity program, Strategy compares itself to companies that hold cash on their balance sheets. Berkshire Hathaway ranks No. 1, holding $410 billion in cash and cash equivalents. Chipmaker NVIDIA (NVDA), the world's largest company by market cap, holds $66 billion in cash and cash equivalents. In the presentation, MSTR said it is on track to achieve both its bitcoin percentage yield and bitcoin dollar gain targets for 2025. The target for bitcoin yield is 25%, and so far it has reached 19.7%. The dollar gain target is $15 billion, and that currently stands at $9.6 billion. Strategy also achieved an unrealized gain on digital assets of $14 billion in the second quarter. MSTR’s perpetual preferred stock has outperformed the iShares Preferred and Income Securities ETF (PFF), which the Tysons Corner, Virginia company identified as its benchmark. STRK is up 51% since its Jan. 31 debut, while the PFF has lost 3%. STRF, which started trading March 21, has gained 38% versus a 1% drop in PFF. STRD is 12% higher, outpacing PFF's 2% advance. As part of Strategy’s current $42 billion fundraising plan, it has issued $23.9 billion. It also has $34.1 billion of fixed income capacity left within the plan. James Van Straten is a Senior Analyst at CoinDesk, specializing in Bitcoin and its interplay with the macroeconomic environment. Previously, James worked as a Research Analyst at Saidler & Co., a Swiss hedge fund, where he developed expertise in on-chain analytics. His work focuses on monitoring flows to analyze Bitcoin's role within the broader financial system. In addition to his professional endeavors, James serves as an advisor to Coinsilium, a UK publicly traded company, where he provides guidance on their Bitcoin treasury strategy. He also holds investments in Bitcoin and Strategy (MSTR). About Contact
+Description: The company’s bitcoin holdings rival cash positions of top U.S. corporates, with strong performance in preferred stock offerings.
 --------------------------------------------------
 
 Title: Buy This Alternative To Nvidia Stock For 2x Gains?
@@ -259,43 +307,4 @@ Title: Intelligence Futures
 URL: https://www.lesswrong.com/posts/7Dy8dtZRnHizgGz2j/intelligence-futures
 Time Published: 2025-07-06T02:20:47Z
 Description: Published on July 6, 2025 1:19 AM GMTEpistemic status: informed speculation using only publicly available informationOpenAI is about to spend $500 billion on infrastructure they might not need: if researchers aren't ready with experiments, or if demand for in…
---------------------------------------------------
-
-Title: Nvidia-backed stock sends a quiet shockwave through the AI world
-URL: https://www.thestreet.com/technology/this-nvidia-backed-ai-stock-just-sent-a-quiet-shockwave-through-the-ai-world-
-Time Published: 2025-07-05T16:47:00Z
-Description: This one quiet step has AI insiders watching.
---------------------------------------------------
-
-Title: $3.89 trillion Nvidia just set its sights on robots from silicon, CEO Jensen Huang says it’s the future
-URL: https://economictimes.indiatimes.com/news/international/us/3-89-trillion-nvidia-just-set-its-sights-on-robots-from-silicon-ceo-jensen-huang-says-its-the-future/articleshow/122269252.cms
-Time Published: 2025-07-05T15:00:09Z
-Full Content:
-(Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. PM Modi lays a wreath at the San Martin Memorial in Argentina Amit Shah launches India’s first cooperative university TSU in Gujarat Uddhav & Raj Thackeray reunite after 20 years CJI Gavai vows transparency in judicial appointments 'Humbled to be first Indian PM to speak at iconic Red House' Trump signs his legacy, ‘Big, Beautiful Bill’ becomes Law Texas floods claim 24 lives, more than 20 missing From ‘Midnight Hammer’ to ‘Big Bill’: Trump’s speech 'Perfect time to...': Musk unveils plan for a new Political Party Trump announces grand plans for US’ 250th I-Day Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Commodities Top Slideshow Private Companies Top Prime Articles Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Why Citi Thinks Micron Stock Is Headed to $150 After Earnings Beat
-URL: https://www.barchart.com/story/news/33231569/why-citi-thinks-micron-stock-is-headed-to-150-after-earnings-beat
-Time Published: 2025-07-05T12:00:02Z
-Description: Citi and many other Wall Street analysts see exceptional long-term potential in this semiconductor stock.
---------------------------------------------------
-
-Title: One Big Beautiful Bill & Job Growth Send Stocks To New Highs
-URL: https://www.forbes.com/sites/bill_stone/2025/07/05/one-big-beautiful-bill--job-growth-send-stocks-to-new-highs/
-Time Published: 2025-07-05T11:40:38Z
-Full Content:
-ByBill Stone ByBill Stone, Contributor. Continued job growth and an expected economic boost from the tax cuts in the One Beautiful Big Bill ... More Act (OBBBA) helped push the probability of an economic downturn closer to the lows of the year. President Trump’s July 9 tariff deadline looms as the next big hurdle this week. Better-than-expected job growth and the passage of US tax legislation propelled the S&P 500 to all-time highs on Friday. Please note that the tax bill is named the One Beautiful Big Bill Act (OBBBA), so no partisan political views are intended by using its name. As the threat of recession has waned, as illustrated by the lower betting odds of recession, stocks have rallied to new highs. At the early April stock lows, the massive US tariffs announced on Liberation Day sent the betting odds of recession soaring to 65%. As the tariff threat eased and some progress was made on trade agreements, stocks have recovered sharply. The resiliency of the labor market and an expected economic boost from the tax cuts in the OBBBA helped push the probability of an economic downturn closer to the lows of the year. Stocks & Recession Odds The more economically sensitive cyclical stocks have outperformed less economically impacted defensives since the stocks bottomed, coinciding with the peak of recession fears. This data bolsters confidence in the view that the macroeconomic situation has been the primary driver of stocks so far this year. Economically-Sensitive Versus Defensive Stocks The S&P 500 reached an all-time high in the holiday-shortened week, now resting at 2.2% above its previous mid-February high after having declined by almost 20%. The Magnificent 7, comprising Microsoft (MSFT), Meta Platforms (META), Amazon.com (AMZN), Apple (AAPL), NVIDIA (NVDA), Alphabet (GOOGL), and Tesla (TSLA), has recovered to only 3.5% below its mid-December level after being as much as 30% under the peak. The strength in US bank stocks remains notable. The Federal Reserve recently revised its methodology, which will result in fewer Stress Capital Buffers (SCBs) being required for banks in the future. All other things being equal, less need for capital means better profitability and the ability to return more capital to shareholders. In addition, banks are economically sensitive, so they typically receive a boost from better economic outlooks. Market Returns Employment grew by 147,000 nonfarm jobs, which was above expectations. Previous data was revised slightly higher, which is a positive. The household survey data was solid, with a gain of 93,000 jobs, and the research series, which mirrors the payroll report criteria, rose by 751,000. The significant increase in the research series reverses much of the decline from the previous month. Monthly Job Growth Contrary to expectations, the unemployment rate ticked down to 4.1% from 4.2%. The decline was due to job gains of 93,000 in the household survey and a reduction of 130,000 in the labor force. US Unemployment Rate Wage growth was below expectations at 3.7% year-over-year, down from 3.8% last month. The average workweek hours were lower at 34.2, just above the five-year low of 34.1 in January, hampered by weather and the LA fires. Workweek & Wages Monitoring the employment-to-population ratio among prime-age individuals, aged 25 to 54, should signal when concern about the unemployment rate is warranted. The improvement in the three-month average of the prime-age employment-to-population ratio is evidence that the labor market has been resilient. It should be monitored closely, but it has been able to maintain a steady level so far. Prime-Age Employment-To-Population Ratio Initial weekly filings for unemployment benefits remain benign. However, continuing claims for benefits are above the lows, indicating some slowdown in people being rehired after losing their jobs. Continuing Claims For Unemployment Benefits Bottom line: The details of the jobs report were less impressive than the headline, but job growth was better than expected, and labor market health remains solid. Markets currently expect two 25-basis-point (0.25%) Fed cuts in 2025, consistent with the median Fed projection. The better jobs data eliminated any chance of a cut in July, but the first move lower in 2025 is still expected in September. Expected Fed Rate Cuts Economic data releases are sparse this week. In addition, there are only two companies in the S&P 500 scheduled to report earnings. Now that the One Beautiful Big Bill Act (OBBBA) has been signed into law, President Trump’s July 9 tariff deadline should be the focus. While deals with Vietnam and the UK, as well as a détente with China, have been reached, the tariff levels of many large trading partners remain unsettled, barring a trade agreement. President Trump said letters are being sent to the countries notifying them of the effective tariff rate on their exports to the US, effective August 1, unless a trade deal is reached. Market participants will be keen to see if more trade deals are signed or if the possible economic drag from higher tariffs begins to weigh on the US economic outlook again. Stocks have reacted favorably to the better economic data and the likely boost from the tax cuts passed last week. The hurdles at these valuation levels are higher, but optimism about future corporate earnings has improved as economic downside risks have receded. Another spike in effective tariff rates around President Trump’s July 9 deadline could raise concerns about the economic headwinds increasing again, so increased volatility would not be unexpected.
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA)’s CEO Knows “What’s Coming” Is Smart, Says Jim Cramer
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_94b7cd27-255a-432e-85c3-9881cbf6875f
-Time Published: 2025-07-05T10:08:27Z
-Description: None
---------------------------------------------------
-
-Title: Are Deals Back? IPOs, M&A Recover After 'Liberation Day' Blip
-URL: https://www.investopedia.com/are-deals-back-ipos-m-and-a-recover-after-liberation-day-blip-11764018
-Time Published: 2025-07-05T09:00:00Z
-Full Content:
-For a while, it looked like the boom in deal activity that was expected after President Donald Trump retook the White House wouldn't happen. Companies pulled IPOs as the Liberation Day tariffs hit sentiment, while others put acquisition plans on hold. Deals, in short, dried up. But that seems to be changing. Deal activity is picking up for a host of reasons, experts say, among them Trump's retreat from some of his harsher tariff plans and increasing investor expectations that trade deals will be struck or tariffs at least kept at their baseline levels. Add to that a relatively resilient U.S. economy and record-high stock markets and you get a recipe for rising deal volume. IPO and M&A volumes are at their highest levels in years, according to Dealogic data, after years when high interest rates put a damper on things. In the first half of 2025, 174 companies raised more than $31 billion from U.S. IPOs, the most since 2021, when a record $200 billion of funds were raised in the same year-to-date period. U.S. M&A volume so far this year has already topped $989 billion, the highest level since 2021's record year, when there were $1.56 trillion in deals in the same period. Trump's Liberation Day tariffs hit stock markets and led companies like Swedish fintech Klarna to pause plans for IPOs. That's changing as investors are piling into tech and fintech firms, and investors are eyeing the possibility of interest-rate cuts in the second half that could keep stocks rising. CoreWeave (CRWV), a cloud computing company backed by Nvidia (NVDA), has since seen its shares more than triple since its March listing. USDC stable coin issuer Circle Internet Group (CRCL) was among June's IPO stars, benefiting from the increasing popularity of crytocurrencies and bitcoin; Israel-based retail trading platform eToro (ETOR) and space and defense tech firm Voyager Technologies (VOYG) were also among June's star listings. Circle and CoreWeave "in particular have been outstanding performers and a big driver of investor interest," said Dealogic’s Global ECM Head Samuel Kerr said. The pipeline of new deals is now building up again: In early July, design software maker Figma filed for an IPO. Here are 2025’s top five US IPOs ranked by funds raised, according to Dealogic. LNG exporter Venture Global (VG) raised $1.75 billion from its January IPO, the most by a listing so far this year in the U.S. and the most since Lineage's $5.1 billion listing in July last year. Unlike some more recent tech IPOs, its shares have lagged below their listing price. CoreWeave (CRWV), a cloud computing company backed by Nvidia (NVDA), raised $1.57 billion from its listing on the Nasdaq in March. It had a tepid debut, but has since become one of this year's stars, trading more than three times above its $40 IPO price. SailPoint, a Texas-based cybersecurity company that private equity firm Thoma Bravo took private in 2022, made its return to public markets in February, raising $1.38 billion from its listing. Its shares continue to lag its $23 IPO price. Crypto firm Circle Internet Group (CRCL) has been one of this year's IPO stars, raising $1.21 billion from its IPO priced at $31 a share in June; the stablecoin issuer's stock is now around $189. The fifth-biggest IPO this year was the $994 million June offer by fintech firm Chime Financial. Its shares remain above their $27 IPO price. M&A volumes, which like IPOs took a hit this year, have been helped by enthusiasm for companies linked to artificial intelligence. “Although March brought a burst of large-cap deals, optimism faded in April after ‘Liberation Day’ tariffs sent shockwaves through the market," Mergermarket Head Lucinda Guthrie said. "Still, the opportunities presented by the volatility in the public markets drew attention from private capital. A key deal driver in 1H25 has been M&A to fuel the evolving AI landscape. " Here are the top M&A deals so far this year in the U.S, according to Dealogic, ranked by deal size, with No. 1, the funding round into ChatGPT maker OpenAI— illustrating the allure of AI investments. (All the deal volumes are excluding debt.) The ChatGPT maker raised $40 billion in new funding from a group of investors who took a 13.3% stake in a round led by SoftBank Group. Other investors included its biggest backer, Microsoft (MSFT). Google parent Alphabet (GOOGL) struck a $32 billion cash deal for cybersecurity startup Wiz in March that would be the tech giant’s largest acquisition ever. The deal hasn't closed yet. In June, Swiss building-materials company Holcim spun off its North American operations in a $28.7 billion deal. The Chicago-based cement and roofing provider started trading under the stock symbol (AMRZ). Charter Communications (CHTR) announced a $24.1 billion deal in May to buy privately held rival Cox Communications in a deal that would combine two of the U.S.'s largest cable providers. The deal has yet to close. Nuclear power producer Constellation Energy (CEG) agreed to buy private energy company Calpine for $17 billion excluding debt, a transaction that would create the largest clean energy provider in the U.S. The combined company would serve the AI boom, feeding the growing power needs of data centers.
 --------------------------------------------------
