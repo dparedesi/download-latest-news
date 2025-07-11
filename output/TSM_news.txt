@@ -1,13 +1,26 @@
 List of news related to Taiwan Semiconductor TSM:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq stall as Nvidia milestone, Trump tariffs vie for focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228309.html
-Time Published: 2025-07-09T22:12:28Z
-Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
+Title: TSMC reports $9.02 billion in June revenue, up 26.9% Y-o-Y
+URL: https://economictimes.indiatimes.com/news/international/business/tsmc-reports-9-02-billion-in-june-revenue-up-26-9-y-o-y/articleshow/122358989.cms
+Time Published: 2025-07-10T06:55:23Z
+Full Content:
+Taiwan Semiconductor Manufacturing Company (TSMC) witnessed a 26.9% year-on-year revenue surge in June 2025, reaching NTD 263.71 billion. First half of 2025 cumulative revenue climbed to NTD 1.77 trillion, a 40% increase from last year. Despite a monthly dip, TSMC's market dominance grew to 67. (Catch all the Business News, Breaking News, Budget 2025 Events and Latest News Updates on The Economic Times.) Subscribe to The Economic Times Prime and read the ET ePaper online. (Catch all the Business News, Breaking News, Budget 2025 Events and Latest News Updates on The Economic Times.) Subscribe to The Economic Times Prime and read the ET ePaper online. Visuals show rain across Delhi-NCR Earthquake tremors jolt Delhi-NCR US Transport Secretary Duffy to be interim NASA administrator Trump slaps 50% copper tariff effective from Aug 1 Flags lowered as Texas mourns 119 lost lives ‘Very expensive, but...’: Trump may send Patriot missiles to Ukraine Trump slaps new tariffs on Sri Lanka, Iraq, 5 other countries Russia's record drone blitz at Ukraine Trump lashes out at Putin over Ukraine war Vedanta ‘Ponzi’ Allegation, Trump Hits BRICS & Copper Visuals show rain across Delhi-NCR Earthquake tremors jolt Delhi-NCR US Transport Secretary Duffy to be interim NASA administrator Trump slaps 50% copper tariff effective from Aug 1 Flags lowered as Texas mourns 119 lost lives ‘Very expensive, but...’: Trump may send Patriot missiles to Ukraine Trump slaps new tariffs on Sri Lanka, Iraq, 5 other countries Russia's record drone blitz at Ukraine Trump lashes out at Putin over Ukraine war Vedanta ‘Ponzi’ Allegation, Trump Hits BRICS & Copper Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Most Searched IFSC Codes Top Story Listing Top Prime Articles Top Slideshow Private Companies Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: TSMC (TSM) Named Top Pick by Morgan Stanley on Strong U.S. Expansion Incentives
+URL: https://finance.yahoo.com/news/tsmc-tsm-named-top-pick-061948355.html
+Time Published: 2025-07-10T06:19:48Z
+Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) ranks among the 20 best fast growth stocks to invest in. On July 3, Morgan Stanley analysts...
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as Nvidia milestone, Trump tariffs vie for focus
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228902.html
+Time Published: 2025-07-09T22:12:28Z
+Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq stall as Nvidia milestone, Trump tariffs vie for focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228309.html
 Time Published: 2025-07-09T22:12:28Z
 Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
 --------------------------------------------------
