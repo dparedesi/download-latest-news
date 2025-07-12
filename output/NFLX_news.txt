@@ -1,5 +1,11 @@
 List of news related to Netflix stock price NFLX:
 
+Title: S&P 500 Index soars to record but drops in Bitcoin terms
+URL: https://cointelegraph.com/news/sp500-record-high-bitcoin-etf-inflows-2025
+Time Published: 2025-07-11T18:08:05Z
+Description: The S&P 500 has rebounded to all-time highs in 2025 but is still down 15% in Bitcoin terms. Institutional demand for BTC surges, pushing US Bitcoin ETFs to record inflows and record holdings.
+--------------------------------------------------
+
 Title: Jim Cramer Says Netflix “Deserves the Benefit of the Doubt”
 URL: https://finance.yahoo.com/news/jim-cramer-says-netflix-deserves-155203127.html
 Time Published: 2025-07-11T15:52:03Z
