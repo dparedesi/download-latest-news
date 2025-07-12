@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA Corporation (NVDA): Stock Has Benefited From US-China Negotiations, Says Jim Cramer
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_027ea13f-f790-4c99-bd27-b7a54003b874
+Time Published: 2025-07-11T07:43:12Z
+Description: None
+--------------------------------------------------
+
 Title: SPY Adds $2.1B as Nasdaq Closes at New High
 URL: http://www.etf.com/sections/daily-etf-flows/spy-adds-21b-nasdaq-closes-new-high?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss
 Time Published: 2025-07-10T22:00:00Z
@@ -47,6 +53,12 @@ Title: Wednesday’s Unusual Options Activity Reveals 3 Standout Long Straddle P
 URL: https://www.barchart.com/story/news/33331632/wednesdays-unusual-options-activity-reveals-3-standout-long-straddle-plays
 Time Published: 2025-07-10T17:30:02Z
 Description: There were 37 unusually active options in Wednesday Trading that expire in 30 days. This DTE reveals three standout long straddle plays that provide a nice...
+--------------------------------------------------
+
+Title: 'It’s not political': Waller again calls for rate cut in July, reinforcing Fed divide
+URL: https://finance.yahoo.com/news/its-not-political-waller-again-calls-for-rate-cut-in-july-reinforcing-fed-divide-170533220.html
+Time Published: 2025-07-10T17:05:33Z
+Description: Federal Reserve governor Christopher Waller reiterated Thursday that he believes the Fed could consider cutting rates later this month because any inflation ...
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq mixed as Nvidia milestone, Trump tariffs vie for focus
@@ -302,16 +314,4 @@ Title: Jim Cramer has a 'very positive' response to new acquisition deal
 URL: https://www.thestreet.com/crypto/markets/jim-cramer-has-a-six-word-response-to-ai-acquisition-deal
 Time Published: 2025-07-08T17:15:00Z
 Description: Nvidia-backed AI cloud company CoreWeave announced it is acquiring the Bitcoin mining firm Core Scientific.
---------------------------------------------------
-
-Title: Nvidia Scores Another Sovereign AI Win. How Should You Play NVDA Stock Here?
-URL: https://www.barchart.com/story/news/33271784/nvidia-scores-another-sovereign-ai-win-how-should-you-play-nvda-stock-here
-Time Published: 2025-07-08T13:38:13Z
-Description: A Citi analyst raised their price target on Nvidia shares to $190, citing sovereign AI demand. Easing supply chain bottlenecks could unlock further upside in...
---------------------------------------------------
-
-Title: Can Micron Stock Hit $200 in 2025?
-URL: https://www.barchart.com/story/news/33270945/can-micron-stock-hit-200-in-2025
-Time Published: 2025-07-08T13:15:02Z
-Description: One analyst predicts that Micron could hit a bold Street-high target of $200.
 --------------------------------------------------
