@@ -1,5 +1,18 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: AMD Stock Popped After Analyst Said New AI Chips Could Take On Nvidia’s—Watch These Key Price Levels
+URL: https://www.investopedia.com/amd-stock-popped-after-analyst-said-new-ai-chips-could-take-on-nvidias-watch-these-key-price-levels-11770309
+Time Published: 2025-07-11T14:15:48Z
+Full Content:
+Advanced Micro Devices (AMD) stock jumped Thursday after analysts suggested the company’s latest AI chips could take on Nvidia's (NVDA) offerings. Analysts at HSBC said AMD’s MI350 series chips are comparable with Nvidia’s current Blackwell chips and next generation MI400 chips, due for release next year, could compete with Nvidia’s next-generation Vera Rubin platform. AMD shares trade 86% above their early April low and have gained 18% since the start of the year as of Thursday’s close. However, they have significantly unperformed Nvidia’s shares over the past 12 months due to the company’s inability to capture a greater share of the booming AI chip market. Below, we take a closer look at AMD’s chart and use technical analysis to identify crucial price levels that investors should keep an eye on. Since bottoming in early April, AMD shares have traded higher in an orderly uptrend. More recently, the price broke out from a flag pattern in Thursday’s trading session on the highest volume in a little over a week, potentially signaling a continuation of the stock’s recent move higher. In another win for the bulls, the 50-day moving average (MA) continues to converge up toward the 200-day MA, setting the stage for a golden cross signal. Meanwhile, the relative strength index (RSI) confirms bullish price momentum, sitting just below the indicator’s overbought threshold. Let’s identify two crucial overhead areas on AMD’s chart that could attract interest if the shares continue to track higher and also locate several vital support levels worth monitoring during future pullbacks in the stock. The first overhead area to watch sits around $175. This price point could provide resistance near prominent countertrend peaks that formed on the chart in May and October last year. This level is also near a bars pattern target that preceded the flag and overlays it from the pattern’s breakout point. Such a move would complete a classic Elliot Wave pattern, with five distinct swings playing out. Buying above this area could see the shares climb towards $215. Investors who have accumulated the stock at lower prices may decide to lock in profits at this level just below the stock’s notable March 2024 top marked by a textbook shooting star candlestick pattern. During pullbacks in the stock, it’s initially worth monitoring the $135 level. The shares could find solid buying interest at this price near the low of the flag pattern, which sits on a horizontal line extending back to last September. Finally, a deeper retracement in AMD shares could see the price revisit a lower support around $115. Investors may seek entry points in this area near a trendline that connects a range of peaks and troughs that developed on the chart between January and June. The comments, opinions, and analyses expressed on Investopedia are for informational purposes only. Read our warranty and liability disclaimer for more info. As of the date this article was written, the author does not own any of the above securities.
+--------------------------------------------------
+
+Title: Stocks Retreat as President Trump Ramps Up Tariff Threats
+URL: https://www.barchart.com/story/news/33351238/stocks-retreat-as-president-trump-ramps-up-tariff-threats
+Time Published: 2025-07-11T14:03:24Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.57%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.65%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: Intel Is Kicking Off a Major Layoffs Push. What Do the Job Cuts Mean for INTC Stock?
 URL: https://www.barchart.com/story/news/33333594/intel-is-kicking-off-a-major-layoffs-push-what-do-the-job-cuts-mean-for-intc-stock
 Time Published: 2025-07-10T19:37:03Z
@@ -12,14 +25,14 @@ Time Published: 2025-07-10T16:19:56Z
 Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq stall as Nvidia milestone, Trump tariffs vie for focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228309.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as Nvidia milestone, Trump tariffs vie for focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228902.html
 Time Published: 2025-07-09T22:12:28Z
 Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as Nvidia milestone, Trump tariffs vie for focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228902.html
+Title: Stock market today: Dow, S&P 500, Nasdaq stall as Nvidia milestone, Trump tariffs vie for focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228309.html
 Time Published: 2025-07-09T22:12:28Z
 Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
 --------------------------------------------------
