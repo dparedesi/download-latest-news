@@ -31,14 +31,14 @@ Time Published: 2025-07-10T16:19:56Z
 Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as Nvidia milestone, Trump tariffs vie for focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228902.html
+Title: Stock market today: Dow, S&P 500, Nasdaq stall as Nvidia milestone, Trump tariffs vie for focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228309.html
 Time Published: 2025-07-09T22:12:28Z
 Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq stall as Nvidia milestone, Trump tariffs vie for focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228309.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as Nvidia milestone, Trump tariffs vie for focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228902.html
 Time Published: 2025-07-09T22:12:28Z
 Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
 --------------------------------------------------
