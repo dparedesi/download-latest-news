@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Veteran analyst drops massive call on AMD stock
+URL: https://www.thestreet.com/technology/veteran-analyst-drops-massive-call-on-amd-stock
+Time Published: 2025-07-11T22:07:00Z
+Description: The fresh target could shake up the AI chip race.
+--------------------------------------------------
+
 Title: AMD Stock Popped After Analyst Said New AI Chips Could Take On Nvidia’s—Watch These Key Price Levels
 URL: https://www.investopedia.com/amd-stock-popped-after-analyst-said-new-ai-chips-could-take-on-nvidias-watch-these-key-price-levels-11770309
 Time Published: 2025-07-11T14:15:48Z
@@ -25,14 +31,14 @@ Time Published: 2025-07-10T16:19:56Z
 Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as Nvidia milestone, Trump tariffs vie for focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228902.html
+Title: Stock market today: Dow, S&P 500, Nasdaq stall as Nvidia milestone, Trump tariffs vie for focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228309.html
 Time Published: 2025-07-09T22:12:28Z
 Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq stall as Nvidia milestone, Trump tariffs vie for focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228309.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as Nvidia milestone, Trump tariffs vie for focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228902.html
 Time Published: 2025-07-09T22:12:28Z
 Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
 --------------------------------------------------
@@ -53,10 +59,4 @@ Title: Can Micron Stock Hit $200 in 2025?
 URL: https://www.barchart.com/story/news/33270945/can-micron-stock-hit-200-in-2025
 Time Published: 2025-07-08T13:15:02Z
 Description: One analyst predicts that Micron could hit a bold Street-high target of $200.
---------------------------------------------------
-
-Title: Stocks Pressured Ahead of Wednesday's Tariff Deadline
-URL: https://www.barchart.com/story/news/33249821/stocks-pressured-ahead-of-wednesday-s-tariff-deadline
-Time Published: 2025-07-07T15:21:50Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.56%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.54%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
