@@ -1,5 +1,18 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia, Microsoft, or Alphabet: Which AI Stock Giant Holds the Highest Upside? Analysts Weigh In
+URL: https://finance.yahoo.com/news/nvidia-microsoft-alphabet-ai-stock-102039717.html
+Time Published: 2025-07-12T10:20:39Z
+Description: Generative AI exploded onto the scene at the end of 2022, and forever changed our perception – and use – of AI technology. From a predictive model, based on ...
+--------------------------------------------------
+
+Title: Is The Dollar Setting Up For A Comeback?
+URL: https://realinvestmentadvice.com/resources/blog/is-the-dollar-setting-up-for-a-comeback/
+Time Published: 2025-07-12T09:24:59Z
+Description: The weekly Bull Bear Report covers what happened in the markets, what investors should be paying attention, and how to navigate the week ahead.
+The post Is The Dollar Setting Up For A Comeback? appeared first on RIA.
+--------------------------------------------------
+
 Title: 3 top ASX ETFs that could be perfect for beginners
 URL: https://www.fool.com.au/2025/07/12/3-top-asx-etfs-that-could-be-perfect-for-beginners/
 Time Published: 2025-07-12T01:43:21Z
@@ -303,17 +316,4 @@ Title: Trump’s tariff changes leave Big Tech in limbo
 URL: https://finance.yahoo.com/news/trumps-tariff-changes-leave-big-tech-in-limbo-204340259.html
 Time Published: 2025-07-09T20:43:40Z
 Description: President Trump's tariff moves are back, and they're leaving Big Tech with few options.
---------------------------------------------------
-
-Title: How Much Is $4 Trillion? Here Are Some Ways To Think About Nvidia's Market Cap Milestone
-URL: https://www.investopedia.com/how-much-is-usd4-trillion-here-are-some-ways-to-think-about-nvidia-s-market-cap-milestone-11768938
-Time Published: 2025-07-09T18:53:23Z
-Full Content:
-Nvidia (NVDA) briefly surpassed a record market capitalization of $4 trillion on Wednesday morning, an amount of money that could buy you pretty much anything. The tech titan's market value is comparable to some of the largest economies in the world, as a $4 trillion gross domestic product is roughly what was produced in 2024 by Japan and India, per the World Bank, trailing only the U.S., China, and Germany. Here's a rundown of some measures of what the artificial intelligence chipmaking giant is now worth. Tesla (TSLA) CEO Elon Musk has become the richest person in the world thanks to his stake in Tesla, where he was an early investor, along with other companies he has helped start or acquire, like SpaceX, The Boring Company, Neuralink, and X. As part of that wealth exists in the form of shares in Tesla, the billionaire's net worth can vary on a daily basis as the electric vehicle company's stock price moves. The Forbes billionaires list on Wednesday puts Musk's net worth just shy of $400 billion, still at least $100 billion more than Oracle (ORCL) co-founder Larry Ellison, Meta Platforms (META) CEO Mark Zuckerberg, or Amazon (AMZN) founder Jeff Bezos, but only about 10% of Nvidia's current value. Based on the current market caps of the just over 500 stocks that make up the landmark index (to account for companies like Alphabet (GOOGL, GOOG) with multiple share classes, Nvidia's current value could buy nearly half of the index. Starting from the least valuable with Enphase Energy (ENPH) at about $5.5 billion and working up, Nvidia's $4 trillion market cap is worth as much as the bottom 216 companies in the S&P 500, according to Investopedia's calculations. That group includes such household names as General Mills (GIS), Dollar Tree (DLTR), Domino's Pizza (DPZ), and Best Buy (BBY). In its annual ranking of the most valuable sports franchises in the world, Forbes last December estimated that the top 50 teams globally across the NFL, MLB, NBA, and professional soccer were worth a combined $289 billion. That means that at Nvidia's current market cap, it could acquire the 50 most valuable and popular sports teams including the Dallas Cowboys, New York Yankees, and Real Madrid nearly 14 times. In its most recent valuation after the 2023 season, Forbes pegged the value of all 10 teams on the current Formula One racing grid at about $19 billion, meaning Nvidia could afford to buy the racing series more than 200 times. In March 2024, Nvidia CEO Jensen Huang said that the company's then-recently announced Blackwell chip, designed for the heavy workloads of running and training AI models, would cost between $30,000 and $40,000 each, estimating that about $10 billion of R&D costs went into the chip. That means Nvidia's market cap could buy between 100 million and 133 million of its own chips. For comparison, Elon Musk's xAI startup, which makes the Grok chatbot that is used on the social media site X, has installed about 200,000 chips from Nvidia to train and run the product.
---------------------------------------------------
-
-Title: Nvidia Just Became the First $4 Trillion Company in the World. Should You Buy NVDA Stock?
-URL: https://www.barchart.com/story/news/33305583/nvidia-just-became-the-first-4-trillion-company-in-the-world-should-you-buy-nvda-stock
-Time Published: 2025-07-09T17:42:57Z
-Description: Nvidia extended gains to become the world’s first $4 trillion company on Wednesday. BofA analyst still sees further upside in NVDA shares.
 --------------------------------------------------
