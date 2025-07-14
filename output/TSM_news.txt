@@ -1,5 +1,17 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Tariffs, Inflation and Other Key Things to Watch this Week
+URL: https://www.barchart.com/story/news/33375945/tariffs-inflation-and-other-key-things-to-watch-this-week
+Time Published: 2025-07-13T17:00:03Z
+Description: Markets enter the heart of earnings season with the S&P 500 facing a critical test as major financial institutions kick off quarterly results amid escalating...
+--------------------------------------------------
+
+Title: Inflation data, big bank earnings, and Netflix results: What to watch this week
+URL: https://finance.yahoo.com/news/inflation-data-big-bank-earnings-and-netflix-results-what-to-watch-this-week-115103942.html
+Time Published: 2025-07-13T11:51:03Z
+Description: A busy week ahead for investors will see inflation data, the debate about the Fed's next move, and the start of second quarter earnings season all come into ...
+--------------------------------------------------
+
 Title: Taiwan Semiconductor Manufacturing (TSM) Announces Net Revenue for June 2025
 URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-tsm-announces-051048929.html
 Time Published: 2025-07-13T05:10:48Z
@@ -55,14 +67,14 @@ Time Published: 2025-07-10T06:19:48Z
 Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) ranks among the 20 best fast growth stocks to invest in. On July 3, Morgan Stanley analysts...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as Nvidia milestone, Trump tariffs vie for focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228902.html
+Title: Stock market today: Dow, S&P 500, Nasdaq stall as Nvidia milestone, Trump tariffs vie for focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228309.html
 Time Published: 2025-07-09T22:12:28Z
 Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq stall as Nvidia milestone, Trump tariffs vie for focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228309.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as Nvidia milestone, Trump tariffs vie for focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228902.html
 Time Published: 2025-07-09T22:12:28Z
 Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
 --------------------------------------------------

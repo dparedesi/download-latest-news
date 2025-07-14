@@ -93,14 +93,14 @@ Time Published: 2025-07-09T15:26:52Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.25%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
-Title: Nvidia stock eyes more gains after chipmaker becomes first company to reach $4 trillion market value
-URL: https://finance.yahoo.com/news/nvidia-stock-eyes-more-gains-after-chipmaker-becomes-first-company-to-reach-4-trillion-market-value-141526893.html
+Title: Nvidia becomes first company to reach $4 trillion market value
+URL: https://finance.yahoo.com/news/nvidia-becomes-first-company-to-reach-4-trillion-market-value-141526534.html
 Time Published: 2025-07-09T14:15:26Z
 Description: Nvidia's market cap crossed $4 trillion for the first time Wednesday.
 --------------------------------------------------
 
-Title: Nvidia becomes first company to reach $4 trillion market value
-URL: https://finance.yahoo.com/news/nvidia-becomes-first-company-to-reach-4-trillion-market-value-141526534.html
+Title: Nvidia stock eyes more gains after chipmaker becomes first company to reach $4 trillion market value
+URL: https://finance.yahoo.com/news/nvidia-stock-eyes-more-gains-after-chipmaker-becomes-first-company-to-reach-4-trillion-market-value-141526893.html
 Time Published: 2025-07-09T14:15:26Z
 Description: Nvidia's market cap crossed $4 trillion for the first time Wednesday.
 --------------------------------------------------
