@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: HSBC Upgrades Advanced Micro Devices (AMD) Stock to Buy from Hold
+URL: https://finance.yahoo.com/news/hsbc-upgrades-advanced-micro-devices-051044140.html
+Time Published: 2025-07-13T05:10:44Z
+Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the 10 Best Semiconductor Stocks to Buy According to Reddit. The company’s stock was upgraded to a “Buy” ...
+--------------------------------------------------
+
 Title: Veteran analyst drops massive call on AMD stock
 URL: https://www.thestreet.com/technology/veteran-analyst-drops-massive-call-on-amd-stock
 Time Published: 2025-07-11T22:07:00Z
@@ -41,22 +47,4 @@ Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as Nvidia mileston
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228902.html
 Time Published: 2025-07-09T22:12:28Z
 Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
---------------------------------------------------
-
-Title: Stocks Mixed as Bond Yields Climb
-URL: https://www.barchart.com/story/news/33274877/stocks-mixed-as-bond-yields-climb
-Time Published: 2025-07-08T15:30:27Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.05%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.33%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stocks Stabilize on Trade Talk Optimism
-URL: https://www.barchart.com/story/news/33273108/stocks-stabilize-on-trade-talk-optimism
-Time Published: 2025-07-08T14:08:14Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.07%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: Can Micron Stock Hit $200 in 2025?
-URL: https://www.barchart.com/story/news/33270945/can-micron-stock-hit-200-in-2025
-Time Published: 2025-07-08T13:15:02Z
-Description: One analyst predicts that Micron could hit a bold Street-high target of $200.
 --------------------------------------------------

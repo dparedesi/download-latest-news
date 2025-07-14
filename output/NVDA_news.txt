@@ -1,5 +1,18 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA (NVDA) Announces Collaboration with Novo Nordisk
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_389161ac-3836-47e7-a690-b5320be1f3e3
+Time Published: 2025-07-13T05:10:50Z
+Description: None
+--------------------------------------------------
+
+Title: Proof Of Power: Bitcoin Dwarfs S&P 500 With Nearly 100% Edge Since 2012—Data
+URL: https://bitcoinist.com/proof-of-power-bitcoin-dwarfs-sp-500-with-nearly-100-edge-since-2012-data/
+Time Published: 2025-07-12T19:30:09Z
+Full Content:
+Bitcoin is flexing its muscle. The S&P 500 Index closed at 6,280 on July 10, 2025, marking a 6% year‑to‑date gain in dollar terms. The benchmark even set fresh records this week. Yet priced in Bitcoin, that same index sits about 15% lower so far this year. That gap shows just how strong crypto’s rally has been. According to market analyst The Kobeissi Letter, measuring the S&P 500 against BTC highlights a dramatic shift. Since 2012, the index has fallen almost a whopping 100% versus Bitcoin, based on data from Bitbo. Investors who stuck with Bitcoin instead of stocks over the past decade would be sitting on massive gains. That contrast has become impossible to ignore. Truly incredible: The S&P 500 in Bitcoin terms is now DOWN -15% year-to-date. Since 2012, the S&P 500 in Bitcoin terms is down -99.98%. We are all witnessing history. https://t.co/DsoHhJQXvo pic.twitter.com/UHETngTqGy — The Kobeissi Letter (@KobeissiLetter) July 11, 2025 Based on figures from CoinMarketCap, BTC pushed past $118,800, Friday. The digital asset climbed 6% in the previous 24 hours and gained 10% over the past week. Overall, BTC is up 26% in 2025. Those numbers have drawn fresh attention from traders who once treated crypto as a fringe bet. In 2025, money has flooded into crypto via exchange‑traded funds in the US. As of this week, the 12 US spot Bitcoin ETFs hold a combined 1.26 million BTC—about $148 billion at current prices. That stash represents over 6% of all Bitcoin in circulation, according to Bitbo data. Inflows into digital asset ETFs landed them as the third‑largest fund category in the first half of the year, trailing only short‑term government debt and gold, State Street data shows. On Thursday, Bitcoin ETFs recorded their second‑largest single‑day inflow ever, pulling in over $1 billion. Traders view these ETFs as a simpler way to tap into BTC gains without dealing directly with wallets or exchanges. At the time of writing, Coingecko data shows BTC trading at $118,038—still holding most of its recent upside. Last 10 Years… Bitcoin $BTC: +40,450% NVIDIA $NVDA: +34,815% Tesla $TSLA: +1,702% Netflix $NFLX: +1,206% Microsoft $MSFT: +1,199% Amazon $AMZN: +926% Meta $META: +751% Apple $AAPL: +691% Google $GOOGL: +556% S&P 500 $SPY: +262% Gold $GLD: +175% US Inflation (CPI): +35% — Charlie Bilello (@charliebilello) July 11, 2025 Bitcoin’s surge hasn’t just outperformed broad stock indexes. Analyst Charlie Bilello has pointed out that BTC has climbed far more than big tech names like Nvidia, Tesla, and Netflix over the past decade. That wider outperformance has added fuel to the argument that digital currency belongs in major portfolios. With US equities near record highs in greenbacks but lagging in Bitcoin terms, some investors are weighing how to balance their bets. The rush into spot ETFs speaks to a growing belief that crypto deserve a spot alongside stocks and bonds. Featured image from Dall-E, chart from TradingView For updates and exclusive offers enter your email. Christian, a journalist and editor with leadership roles in Philippine and Canadian media, is fueled by his love for writing and cryptocurrency. Off-screen, he's a cook and cinephile who's constantly intrigued by the size of the universe. Bitcoin news portal providing breaking news, guides, price analysis about decentralized digital money & blockchain technology. © 2025 Bitcoinist. All Rights Reserved.
+--------------------------------------------------
+
 Title: NVIDIA Corporation (NVDA): Its CEO’s “Changed The World,” Says Jim Cramer
 URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-ceo-changed-183658418.html
 Time Published: 2025-07-12T18:36:58Z
@@ -301,18 +314,6 @@ Nvidia (NVDA) shares hit a record high Wednesday as the AI investor favorite bec
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures steady amid Trump's latest tariff threats, Nvidia's milestone
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-steady-amid-trumps-latest-tariff-threats-nvidias-milestone-221228323.html
-Time Published: 2025-07-09T22:12:28Z
-Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as Nvidia milestone, Trump tariffs vie for focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228902.html
-Time Published: 2025-07-09T22:12:28Z
-Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq stall as Nvidia milestone, Trump tariffs vie for focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228309.html
 Time Published: 2025-07-09T22:12:28Z
 Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
 --------------------------------------------------
