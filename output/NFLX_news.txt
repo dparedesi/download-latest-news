@@ -1,5 +1,17 @@
 List of news related to Netflix stock price NFLX:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq waver amid tariff threats as bitcoin touches latest record
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-amid-tariff-threats-as-bitcoin-touches-latest-record-000327009.html
+Time Published: 2025-07-14T00:03:27Z
+Description: Markets were muted after record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slip as tariff concerns mount ahead of key inflation data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-tariff-concerns-mount-ahead-of-key-inflation-data-000327075.html
+Time Published: 2025-07-14T00:03:27Z
+Description: Markets are dropping off from record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
+--------------------------------------------------
+
 Title: Inflation data, big bank earnings, and Netflix results: What to watch this week
 URL: https://finance.yahoo.com/news/inflation-data-big-bank-earnings-and-netflix-results-what-to-watch-this-week-115103942.html
 Time Published: 2025-07-13T11:51:03Z
@@ -34,11 +46,4 @@ Title: Netflix, Inc. (NFLX): You Can Take It Off The Table If You Want, Says Jim
 URL: https://finance.yahoo.com/news/netflix-inc-nflx-off-table-075029166.html
 Time Published: 2025-07-11T07:50:29Z
 Description: We recently published 11 Stocks Jim Cramer Just Discussed As He Shared Why Stocks Are Rising. Netflix, Inc. (NASDAQ:NFLX) is one of the stocks Jim Cramer...
---------------------------------------------------
-
-Title: Buy, Sell, Or Hold Netflix Stock Ahead Of Q2 Earnings?
-URL: https://www.forbes.com/sites/greatspeculations/2025/07/09/buy-sell-or-hold-netflix-stock-ahead-of-q2-earnings/
-Time Published: 2025-07-09T09:00:30Z
-Full Content:
-ByTrefis Team ByTrefis Team, Contributor. BANGKOK, THAILAND - JUNE 27: The Netflix and Squid Game logos are seen in front of the Giant Swing ... More and Wat Suthat Thep Wararam in Bangkok, Thailand on June 27, 2025. Netflix Squid Game Season 3 has been released on June 27, 2025. (Photo by Valeria Mongelli/Anadolu via Getty Images) Netflix (NASDAQ:NFLX) is anticipated to announce its Q2 2025 earnings on Thursday, July 17, 2025. According to consensus estimates, revenues are expected to reach approximately $11 billion for the quarter, representing a 15% increase compared to the previous year, while earnings are projected to be $7.06 per share, up from $4.88 during the same period last year. This growth is likely to be driven by recent price hikes and increasing advertising revenue. Earlier this year, Netflix raised the cost of its standard HD plan by $2.50 to $18 per month and increased the price of the Premium plan to $25 per month. The company has also been concentrating on enhancing its advertising technologies, launching its in-house ad tech platform in the U.S. this past April. This initiative could help improve ad capabilities and pricing realizations. Year-over-year revenue comparisons will also benefit from stronger subscriber counts over the last year, partly driven by the crackdown on password sharing and the introduction of the ad-supported tier, even though the impact of these initiatives may start to lessen. We will also monitor Netflix's margins for the quarter closely. This year, Netflix's content costs are expected to increase. While the company has generally focused on scripted entertainment, it is currently branching out into live sports, which may entail higher production and licensing expenses. Netflix has a current market capitalization of $551 billion. Over the last twelve months, revenue totaled $40 billion, with the company being operationally profitable, reporting $11 billion in operating profits and net income of $9.3 billion. Therefore, if you’re looking for upside with lower volatility than individual stocks, the Trefis High Quality portfolio offers an alternative – having outperformed the S&P 500 and generated returns exceeding 91% since its launch. View earnings reaction history for all stocks Here are some insights on one-day (1D) post-earnings returns: Additional data for the 5-Day (5D) and 21-Day (21D) returns following earnings is summarized along with the statistics in the table below. NFLX 1D, 5D, and 21D Post Earnings Return A relatively less risky strategy (though not beneficial if the correlation is low) is to examine the correlation between short-term and medium-term returns after earnings, identify the pair with the highest correlation, and execute the appropriate trade. For instance, if 1D and 5D exhibit the highest correlation, a trader could take a “long” position for the next 5 days if the 1D post-earnings return is positive. Below is some correlation data based on 5-year and 3-year (more recent) history. The correlation labeled 1D_5D refers to the correlation between 1D post-earnings returns and subsequent 5D returns. NFLX Correlation Among 1D, 5D, and 21D Historical Returns Discover more about the Trefis RV strategy, which has exceeded its all-cap stocks benchmark (a mixture of all 3: the S&P 500, S&P mid-cap, and Russell 2000) to yield substantial returns for investors. In addition, if you're looking for upside with a smoother experience than an individual stock like Netflix, consider the High Quality portfolio, which has outperformed the S&P and achieved over 91% returns since its inception.
 --------------------------------------------------

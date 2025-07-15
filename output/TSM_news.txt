@@ -1,5 +1,23 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq waver amid tariff threats as bitcoin touches latest record
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-amid-tariff-threats-as-bitcoin-touches-latest-record-000327009.html
+Time Published: 2025-07-14T00:03:27Z
+Description: Markets were muted after record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as tariff concerns mount ahead of key inflation data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-tariff-concerns-mount-ahead-of-key-inflation-data-000327994.html
+Time Published: 2025-07-14T00:03:27Z
+Description: Markets are dropping off from record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slip as tariff concerns mount ahead of key inflation data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-tariff-concerns-mount-ahead-of-key-inflation-data-000327075.html
+Time Published: 2025-07-14T00:03:27Z
+Description: Markets are dropping off from record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
+--------------------------------------------------
+
 Title: Tariffs, Inflation and Other Key Things to Watch this Week
 URL: https://www.barchart.com/story/news/33375945/tariffs-inflation-and-other-key-things-to-watch-this-week
 Time Published: 2025-07-13T17:00:03Z
@@ -65,34 +83,4 @@ Title: TSMC (TSM) Named Top Pick by Morgan Stanley on Strong U.S. Expansion Ince
 URL: https://finance.yahoo.com/news/tsmc-tsm-named-top-pick-061948355.html
 Time Published: 2025-07-10T06:19:48Z
 Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) ranks among the 20 best fast growth stocks to invest in. On July 3, Morgan Stanley analysts...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq stall as Nvidia milestone, Trump tariffs vie for focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228309.html
-Time Published: 2025-07-09T22:12:28Z
-Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as Nvidia milestone, Trump tariffs vie for focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-nvidia-milestone-trump-tariffs-vie-for-focus-221228902.html
-Time Published: 2025-07-09T22:12:28Z
-Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
---------------------------------------------------
-
-Title: TSMC (TSM) Re-Rating Possible as AI Drives Chip Demand—Macquarie
-URL: https://finance.yahoo.com/news/tsmc-tsm-rating-possible-ai-212350449.html
-Time Published: 2025-07-09T21:23:50Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the 10 AI Stocks Investors Are Watching This Week. On July 7, Macquarie raised the...
---------------------------------------------------
-
-Title: As Intel Considers a Pivot From 18A Tech, How Should You Play INTC Stock?
-URL: https://www.barchart.com/story/news/33297388/as-intel-considers-a-pivot-from-18a-tech-how-should-you-play-intc-stock
-Time Published: 2025-07-09T12:35:01Z
-Description: Reports have emerged that the company is mulling shifting away from the tech to better compete with rival TSMC.
---------------------------------------------------
-
-Title: Needham Raises PT Target for TSMC, Keeps Buy Rating
-URL: https://finance.yahoo.com/news/needham-raises-pt-target-tsmc-043403883.html
-Time Published: 2025-07-09T04:34:03Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the 11 Best Foreign Stocks to Buy According to Hedge Funds. On July 1, Needham...
 --------------------------------------------------
