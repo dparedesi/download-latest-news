@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia CEO hits Warren Buffett milestone
+URL: https://www.thestreet.com/technology/nvidia-ceo-hits-warren-buffett-milestone
+Time Published: 2025-07-14T19:13:00Z
+Description: Here's how the chip giant’s rise is reshaping more than tech rankings.
+--------------------------------------------------
+
+Title: This Robotaxi Stock Just Achieved a New Milestone. Should You Buy Shares Now?
+URL: https://www.barchart.com/story/news/33390757/this-robotaxi-stock-just-achieved-a-new-milestone-should-you-buy-shares-now
+Time Published: 2025-07-14T18:20:03Z
+Description: When most investors hear the word “robotaxi,” one company typically comes to mind first: Tesla (TSLA) . That makes sense, considering Tesla has long chased...
+--------------------------------------------------
+
+Title: Space-Age Alloy Maker Joins Nvidia, Palantir In Exclusive Club
+URL: https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/carpenter-technology-nvidia-palantir-broadcom-leaderboard-stocks-to-watch/
+Time Published: 2025-07-14T17:34:30Z
+Description: Carpenter Technologies forges an add-on buy point.
+--------------------------------------------------
+
 Title: Investing $10K in the S&P 500? Nearly $2K Goes to Just 3 Stocks
 URL: https://finance.yahoo.com/news/investing-10k-p-500-nearly-160707201.html
 Time Published: 2025-07-14T16:07:07Z
@@ -297,22 +315,4 @@ Title: Wednesday’s Unusual Options Activity Reveals 3 Standout Long Straddle P
 URL: https://www.barchart.com/story/news/33331632/wednesdays-unusual-options-activity-reveals-3-standout-long-straddle-plays
 Time Published: 2025-07-10T17:30:02Z
 Description: There were 37 unusually active options in Wednesday Trading that expire in 30 days. This DTE reveals three standout long straddle plays that provide a nice...
---------------------------------------------------
-
-Title: 'It’s not political': Waller again calls for rate cut in July, reinforcing Fed divide
-URL: https://finance.yahoo.com/news/its-not-political-waller-again-calls-for-rate-cut-in-july-reinforcing-fed-divide-170533220.html
-Time Published: 2025-07-10T17:05:33Z
-Description: Federal Reserve governor Christopher Waller reiterated Thursday that he believes the Fed could consider cutting rates later this month because any inflation ...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq mixed as Nvidia milestone, Trump tariffs vie for focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-nvidia-milestone-trump-tariffs-vie-for-focus-161956222.html
-Time Published: 2025-07-10T16:19:56Z
-Description: Wall Street looked to keep momentum from a tech-fueled rally that saw Nvidia leap to become the world's first $4 trillion public company.
---------------------------------------------------
-
-Title: Stock Market Today: Can Nvidia power stocks to a new high? WK Kellogg deal in focus
-URL: https://www.thestreet.com/investing/stock-market-today-can-nvidia-power-stocks-to-a-new-high-today
-Time Published: 2025-07-10T16:13:15Z
-Description: The chip giant's shares are off slightly, weighing on the major averages. WK Kellogg sells out for $3 billion.
 --------------------------------------------------
