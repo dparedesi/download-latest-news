@@ -1,5 +1,17 @@
 List of news related to Bank of America stock price BAC:
 
+Title: Option Volatility And Earnings Report For July 14 - 18
+URL: https://www.barchart.com/story/news/33381847/option-volatility-and-earnings-report-for-july-14-18
+Time Published: 2025-07-14T11:00:02Z
+Description: Earnings season kicks into gear this week with banks and tech stocks taking center stage. This week we have NFLX, BAC, TSM, JPM, WFC, C, MS, GS, JNJ and ASML...
+--------------------------------------------------
+
+Title: Stocks Set to Open Lower as Trump Ratchets Up Tariff Threats, U.S. Inflation Data and Big Bank Earnings Awaited
+URL: https://www.barchart.com/story/news/33380911/stocks-set-to-open-lower-as-trump-ratchets-up-tariff-threats-u-s-inflation-data-and-big-bank-earnings-awaited
+Time Published: 2025-07-14T09:54:35Z
+Description: September S&P 500 E-Mini futures (ESU25) are down -0.29%, and September Nasdaq 100 E-Mini futures (NQU25) are down -0.30% this morning, pointing to a lower...
+--------------------------------------------------
+
 Title: Inflation data, big bank earnings, and Netflix results: What to watch this week
 URL: https://finance.yahoo.com/news/inflation-data-big-bank-earnings-and-netflix-results-what-to-watch-this-week-115103942.html
 Time Published: 2025-07-13T11:51:03Z
