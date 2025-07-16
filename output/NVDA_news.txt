@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA’s H20 green light may spark billions in recovered China sales: Bernstein
+URL: https://finance.yahoo.com/news/nvidia-h20-green-light-may-105804563.html
+Time Published: 2025-07-15T10:58:04Z
+Description: Investing.com -- NVIDIA’s anticipated return to the Chinese market through its H20 GPU could unlock billions in lost revenue and bolster earnings, according ...
+--------------------------------------------------
+
 Title: Nvidia says it will resume sale of key AI chip to China
 URL: https://www.cnn.com/2025/07/15/business/nvidia-resume-h20-chip-sales-to-china-intl-hnk
 Time Published: 2025-07-15T05:44:55Z
@@ -12,6 +18,12 @@ URL: https://wccftech.com/nvidia-successfully-negotiates-the-resumption-of-h20-g
 Time Published: 2025-07-15T02:27:02Z
 Full Content:
 This is not investment advice. The author has no position in any of the stocks mentioned. Wccftech.com has a disclosure and ethics policy. In a dramatic turn of events, NVIDIA's Jensen Huang seems to have achieved unparalleled success during his recent meeting with President Trump at the White House, winning for his company a dual reprieve in relation to the prevailing restrictions on the sale of American silicon chips in China. Nvidia $NVDA CEO Jensen Huang just said:Nvidia will resume H20 sales to China 🇨🇳 with a new compliant GPU which the US 🇺🇸 has reportedly assured Nvidia it will grant licenses forHere is the full statement from Nvidia:"This month, NVIDIA founder and CEO Jensen Huang… pic.twitter.com/MKZwdHnplg To wit, NVIDIA has just announced that it is filing an application with the US government to resume the sale of H20 GPUs in China. NVIDIA claims that it has been assured by US officials that it will receive the requisite authorization promptly. As such, the company hopes to "soon" commence deliveries of the H20 GPUs to China. Moreover, NVIDIA's CEO, Jensen Huang, has also announced a new, dedicated AI GPU for China - an RTX PRO variant - that reportedly meets the requirements of the Trump administration and "is ideal for digital twin AI for smart factories and logistics." As a refresher, the Trump administration had formally communicated to NVIDIA on the 09th of April that it's China-specific H20 GPU was to be subjected to an "indefinite" export licensing requirement. This development had then prompted NVIDIA to announce charges of up to $5.5 billion for its fiscal Q1 2026 (which concluded on the 27th of April), incurred from writing off "inventory, purchase commitments, and related reserves" for the H20 GPU. Additionally, NVIDIA completely wrote off its China-origin TAM following the imposition of US licensing requirements on its country-specific H20 GPU, vowing to treat any residual sales in China as an undiscounted windfall instead of a solid figure factored into its guidance. Of course, NVIDIA has been firing on all cylinders even without the Chinese tailwind. For instance, as per a recent assessment by UBS (detailed here), NVIDIA currently has visibility into a whopping $1.5 trillion in data center revenue! This aligns with NVIDIA's own statement during its Q1'26 earnings call, where it declared that it had visibility into "tens of gigawatts" of AI infrastructure projects. Coming back, while speaking to reporters in Washington DC, Huang just delivered the following remarks: "General-purpose, open-source research and foundation models are the backbone of AI innovation." He went on to note: "We believe that every civil model should run best on the U.S. technology stack, encouraging nations worldwide to choose America." Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com © 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+--------------------------------------------------
+
+Title: Wedbush Reaffirms Outperform on Nvidia (NVDA) — AI Demand Remains Strong
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3e6679ca-485b-4c50-a786-5ec44482a51f
+Time Published: 2025-07-14T22:45:27Z
+Description: None
 --------------------------------------------------
 
 Title: Stock market today: S&P 500, Nasdaq futures climb after Nvidia boost, with CPI inflation, bank earnings in focus

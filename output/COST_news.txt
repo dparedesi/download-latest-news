@@ -1,5 +1,11 @@
 List of news related to Costco stock price COST:
 
+Title: 'Lost their identity': Why Target is struggling to win over shoppers and investors
+URL: https://www.cnbc.com/2025/07/15/target-stock-and-sales-fall-as-ceo-brian-cornell-contract-ends.html
+Time Published: 2025-07-15T11:00:01Z
+Description: Target is trying to bounce back from lower store traffic, inventory issues and customer backlash.
+--------------------------------------------------
+
 Title: Stock market today: Nasdaq secures record close as investors shake off tariff threats, eye key inflation data
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-secures-record-close-as-investors-shake-off-tariff-threats-eye-key-inflation-data-200046379.html
 Time Published: 2025-07-14T20:00:46Z
