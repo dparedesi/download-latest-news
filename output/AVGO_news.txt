@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Stock Market Today: Dow slumps; S&P 500 and Nasdaq rally
+URL: https://www.thestreet.com/investing/stock-market-today-cpi-and-banks-in-focus
+Time Published: 2025-07-15T16:28:26Z
+Description: The country's largest banks reported earnings that exceeded Wall Street's estimates. Core inflation, calmer than expected, still bothers the Street.
+--------------------------------------------------
+
+Title: Broadcom launches new Tomahawk Ultra networking chip in AI battle against Nvidia
+URL: https://finance.yahoo.com/news/broadcom-launches-tomahawk-ultra-networking-130149385.html
+Time Published: 2025-07-15T13:01:49Z
+Description: SAN FRANCISCO (Reuters) -Broadcom's chip unit unveiled on Tuesday a new networking processor that aims to speed artificial intelligence data crunching, which...
+--------------------------------------------------
+
 Title: Space-Age Alloy Maker Joins Nvidia, Palantir In Exclusive Club
 URL: https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/carpenter-technology-nvidia-palantir-broadcom-leaderboard-stocks-to-watch/
 Time Published: 2025-07-14T17:34:30Z
