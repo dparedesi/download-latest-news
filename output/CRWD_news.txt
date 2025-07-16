@@ -17,21 +17,3 @@ URL: https://finance.yahoo.com/news/crowdstrike-holdings-inc-crwd-sold-074930325
 Time Published: 2025-07-11T07:49:30Z
 Description: We recently published 11 Stocks Jim Cramer Just Discussed As He Shared Why Stocks Are Rising. CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of the stocks...
 --------------------------------------------------
-
-Title: S&P 500 Climbs to a Record High Despite Tariff Uncertainty
-URL: https://www.barchart.com/story/news/33335788/s-p-500-climbs-to-a-record-high-despite-tariff-uncertainty
-Time Published: 2025-07-10T20:54:39Z
-Description: The S&P 500 Index ($SPX ) (SPY ) Thursday closed up +0.27%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.43%, and the Nasdaq 100 Index ($IUXX...
---------------------------------------------------
-
-Title: Stocks See Support from Airline Stocks but Trade Uncertainty Persists
-URL: https://www.barchart.com/story/news/33328586/stocks-see-support-from-airline-stocks-but-trade-uncertainty-persists
-Time Published: 2025-07-10T15:18:24Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stocks Pressured by US Trade Policy Uncertainty
-URL: https://www.barchart.com/story/news/33326685/stocks-pressured-by-us-trade-policy-uncertainty
-Time Published: 2025-07-10T14:00:20Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.06%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.03%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------

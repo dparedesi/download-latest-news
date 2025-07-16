@@ -1,5 +1,11 @@
 List of news related to Costco stock price COST:
 
+Title: Stock market today: Nasdaq secures record close as investors shake off tariff threats, eye key inflation data
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-secures-record-close-as-investors-shake-off-tariff-threats-eye-key-inflation-data-200046379.html
+Time Published: 2025-07-14T20:00:46Z
+Description: US stocks rose on Monday with the Nasdaq closing at a fresh record with Trump's tariffs in focus as key inflation data and earnings season loom.
+--------------------------------------------------
+
 Title: Jim Cramer shares Costco, McDonald's, Home Depot, Starbucks news
 URL: https://www.thestreet.com/retail/jim-cramer-shares-4-falling-stocks-to-buy-right-now
 Time Published: 2025-07-12T04:38:55Z
@@ -10,10 +16,4 @@ Title: Costco Wholesale Corporation (COST) Doesn’t Get The Attention It Deserv
 URL: https://finance.yahoo.com/news/costco-wholesale-corporation-cost-doesn-074551059.html
 Time Published: 2025-07-11T07:45:51Z
 Description: We recently published 11 Stocks Jim Cramer Just Discussed As He Shared Why Stocks Are Rising. Costco Wholesale Corporation (NASDAQ:COST) is one of the stocks...
---------------------------------------------------
-
-Title: Jim Cramer names 4 'high-quality' stocks that can currently be bought at a discount
-URL: https://www.cnbc.com/2025/07/10/jim-cramer-names-4-stocks-that-can-currently-be-bought-at-a-discount.html
-Time Published: 2025-07-10T22:59:05Z
-Description: CNBC's Jim Cramer offered advice about how to find the right time to buy stocks.
 --------------------------------------------------

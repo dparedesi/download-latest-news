@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Why SoundHound AI (SOUN) Shares Are Falling Today
+URL: https://finance.yahoo.com/news/why-soundhound-ai-soun-shares-153542835.html
+Time Published: 2025-07-14T15:35:42Z
+Description: Shares of voice AI recognition company SoundHound (NASDAQ:SOUN) fell 4.5% in the morning session after the company received a downgrade from a Wall Street...
+--------------------------------------------------
+
 Title: How High Can Nvidia Stock Go as Jensen Huang Heads to China?
 URL: https://www.barchart.com/story/news/33387922/how-high-can-nvidia-stock-go-as-jensen-huang-heads-to-china
 Time Published: 2025-07-14T15:28:18Z
@@ -78,10 +84,4 @@ Title: Microsoft Corporation (MSFT) Has Had An “Incredible” Run, Says Jim Cr
 URL: https://finance.yahoo.com/news/microsoft-corporation-msft-had-incredible-074120103.html
 Time Published: 2025-07-11T07:41:20Z
 Description: We recently published Jim Cramer Discusses These 12 Stocks & Says Trump’s Winning. Microsoft Corporation (NASDAQ:MSFT) is one of the stocks Jim Cramer...
---------------------------------------------------
-
-Title: Veteran analyst sends bold message on Palantir stock target
-URL: https://www.thestreet.com/investing/veteran-analyst-sends-bold-message-on-palantir-stock-target
-Time Published: 2025-07-10T17:47:00Z
-Description: Here’s what could be next for Palantir.
 --------------------------------------------------

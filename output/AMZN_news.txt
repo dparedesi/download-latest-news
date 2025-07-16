@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Stock market today: Nasdaq secures record close as investors shake off tariff threats, eye key inflation data
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-secures-record-close-as-investors-shake-off-tariff-threats-eye-key-inflation-data-200046379.html
+Time Published: 2025-07-14T20:00:46Z
+Description: US stocks rose on Monday with the Nasdaq closing at a fresh record with Trump's tariffs in focus as key inflation data and earnings season loom.
+--------------------------------------------------
+
 Title: US stock market future slips as Trump’s 30% tariffs rattle global trade; Dow, S&P 500, Nasdaq dip while Boeing jumps and Apple, Tesla slide ahead of earnings, CPI data
 URL: https://economictimes.indiatimes.com/news/international/us/u-s-stock-futures-fall-as-trumps-30-tariffs-rattle-global-trade-dow-sp-500-nasdaq-dip-while-boeing-jumps-and-apple-tesla-slide-ahead-of-earnings-cpi-data/articleshow/122438518.cms
 Time Published: 2025-07-14T12:01:12Z
