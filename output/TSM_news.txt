@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: TSM: Morgan Stanley Says Buy Ahead of Earnings on Strong AI Demand
+URL: https://finance.yahoo.com/news/tsm-morgan-stanley-says-buy-094942256.html
+Time Published: 2025-07-16T09:49:42Z
+Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the AI Stocks in the Spotlight Today. On July 14, Morgan Stanley added a catalyst...
+--------------------------------------------------
+
 Title: Why Jamie Dimon thinks asset prices are 'elevated': Opening Bid top takeaways
 URL: https://finance.yahoo.com/news/why-jamie-dimon-thinks-asset-prices-are-elevated-opening-bid-top-takeaways-161120122.html
 Time Published: 2025-07-15T16:11:20Z
@@ -18,16 +24,16 @@ Time Published: 2025-07-14T00:03:27Z
 Description: Markets are dropping off from record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq waver amid tariff threats as bitcoin touches latest record
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-amid-tariff-threats-as-bitcoin-touches-latest-record-000327009.html
-Time Published: 2025-07-14T00:03:27Z
-Description: Markets were muted after record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slip as tariff concerns mount ahead of key inflation data
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-tariff-concerns-mount-ahead-of-key-inflation-data-000327075.html
 Time Published: 2025-07-14T00:03:27Z
 Description: Markets are dropping off from record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq waver amid tariff threats as bitcoin touches latest record
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-amid-tariff-threats-as-bitcoin-touches-latest-record-000327009.html
+Time Published: 2025-07-14T00:03:27Z
+Description: Markets were muted after record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
 --------------------------------------------------
 
 Title: Tariffs, Inflation and Other Key Things to Watch this Week

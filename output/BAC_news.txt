@@ -1,9 +1,21 @@
 List of news related to Bank of America stock price BAC:
 
+Title: S&P Futures Muted With Focus on Key U.S. PPI Data and More Big Bank Earnings, Fed Speak on Tap
+URL: https://www.barchart.com/story/news/33431520/s-p-futures-muted-with-focus-on-key-u-s-ppi-data-and-more-big-bank-earnings-fed-speak-on-tap
+Time Published: 2025-07-16T10:05:15Z
+Description: September S&P 500 E-Mini futures (ESU25) are trending down -0.09% this morning as investors digest the latest tariff headlines, while also awaiting crucial...
+--------------------------------------------------
+
 Title: Jim Cramer Says “Don’t Wait” on Bank of America
 URL: https://finance.yahoo.com/news/jim-cramer-says-don-t-040926821.html
 Time Published: 2025-07-16T04:09:26Z
 Description: Bank of America Corporation (NYSE:BAC) is one of the stocks that Jim Cramer shared insights on. Cramer shared his bullish sentiment around the stock despite ...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq waver as Trump says 'not planning' to fire Powell
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-trump-says-not-planning-to-fire-powell-225044772.html
+Time Published: 2025-07-15T22:50:44Z
+Description: Wall Street digested a surprisingly cool wholesale inflation reading and more big bank earnings, with one eye on Trump's latest tariff moves.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq tick up as Wall Street juggles tariffs, earnings, and inflation
@@ -12,10 +24,10 @@ Time Published: 2025-07-15T22:50:44Z
 Description: Wall Street digested a surprisingly cool wholesale inflation reading and more big bank earnings, with one eye on Trump's latest tariff moves.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq waver as Trump says 'not planning' to fire Powell
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-trump-says-not-planning-to-fire-powell-225044772.html
-Time Published: 2025-07-15T22:50:44Z
-Description: Wall Street digested a surprisingly cool wholesale inflation reading and more big bank earnings, with one eye on Trump's latest tariff moves.
+Title: Stocks Fade as Expectations are Trimmed for Fed Rate Cut in September
+URL: https://www.barchart.com/story/news/33421127/stocks-fade-as-expectations-are-trimmed-for-fed-rate-cut-in-september
+Time Published: 2025-07-15T21:02:41Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -0.40%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.98%, and the Nasdaq 100 Index ...
 --------------------------------------------------
 
 Title: Fastenal Stock Rises as Company Kicks Off Busy Earnings Week With Solid Results
