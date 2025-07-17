@@ -6,14 +6,14 @@ Time Published: 2025-07-16T04:09:26Z
 Description: Bank of America Corporation (NYSE:BAC) is one of the stocks that Jim Cramer shared insights on. Cramer shared his bullish sentiment around the stock despite ...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq waver as Trump says 'not planning' to fire Powell
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-trump-says-not-planning-to-fire-powell-225044772.html
+Title: Stock market today: Dow, S&P 500, Nasdaq tick up as Wall Street juggles tariffs, earnings, and inflation
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-tick-up-as-wall-street-juggles-tariffs-earnings-and-inflation-225044601.html
 Time Published: 2025-07-15T22:50:44Z
 Description: Wall Street digested a surprisingly cool wholesale inflation reading and more big bank earnings, with one eye on Trump's latest tariff moves.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq tick up as Wall Street juggles tariffs, earnings, and inflation
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-tick-up-as-wall-street-juggles-tariffs-earnings-and-inflation-225044601.html
+Title: Stock market today: Dow, S&P 500, Nasdaq waver as Trump says 'not planning' to fire Powell
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-trump-says-not-planning-to-fire-powell-225044772.html
 Time Published: 2025-07-15T22:50:44Z
 Description: Wall Street digested a surprisingly cool wholesale inflation reading and more big bank earnings, with one eye on Trump's latest tariff moves.
 --------------------------------------------------
