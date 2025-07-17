@@ -12,6 +12,18 @@ Time Published: 2025-07-15T16:11:20Z
 Description: Earnings season is officially underway.
 --------------------------------------------------
 
+Title: Earnings live: Wall Street banks forge ahead to kick off second quarter earnings season
+URL: https://finance.yahoo.com/news/live/earnings-live-wall-street-banks-forge-ahead-to-kick-off-second-quarter-earnings-season-205852580.html
+Time Published: 2025-07-14T20:58:52Z
+Description: Second quarter earnings season kicked off on Tuesday with banks reporting strong trading and dealmaking activity.
+--------------------------------------------------
+
+Title: Earnings live: Netflix highlights as second quarter earnings season ramps up
+URL: https://finance.yahoo.com/news/live/earnings-live-netflix-highlights-as-second-quarter-earnings-season-ramps-up-205852482.html
+Time Published: 2025-07-14T20:58:52Z
+Description: Second quarter earnings season kicked off in earnest, with Netflix results on deck.
+--------------------------------------------------
+
 Title: Option Volatility And Earnings Report For July 14 - 18
 URL: https://www.barchart.com/story/news/33381847/option-volatility-and-earnings-report-for-july-14-18
 Time Published: 2025-07-14T11:00:02Z
@@ -24,16 +36,16 @@ Time Published: 2025-07-14T00:03:27Z
 Description: Markets are dropping off from record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slip as tariff concerns mount ahead of key inflation data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-tariff-concerns-mount-ahead-of-key-inflation-data-000327075.html
-Time Published: 2025-07-14T00:03:27Z
-Description: Markets are dropping off from record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq waver amid tariff threats as bitcoin touches latest record
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-amid-tariff-threats-as-bitcoin-touches-latest-record-000327009.html
 Time Published: 2025-07-14T00:03:27Z
 Description: Markets were muted after record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slip as tariff concerns mount ahead of key inflation data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-tariff-concerns-mount-ahead-of-key-inflation-data-000327075.html
+Time Published: 2025-07-14T00:03:27Z
+Description: Markets are dropping off from record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
 --------------------------------------------------
 
 Title: Tariffs, Inflation and Other Key Things to Watch this Week
