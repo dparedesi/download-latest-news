@@ -1,5 +1,56 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble as Fed rate cut bets wane after inflation pickup
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-as-fed-rate-cut-bets-wane-after-inflation-pickup-225044645.html
+Time Published: 2025-07-15T22:50:44Z
+Description: Wall Street braced for another inflation checkup after Tuesday's consumer price reading spurred traders to pare bets on Fed rate cuts in the coming months.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq waver as Trump says 'not planning' to fire Powell
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-trump-says-not-planning-to-fire-powell-225044772.html
+Time Published: 2025-07-15T22:50:44Z
+Description: Wall Street digested a surprisingly cool wholesale inflation reading and more big bank earnings, with one eye on Trump's latest tariff moves.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq tick up as Wall Street juggles tariffs, earnings, and inflation
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-tick-up-as-wall-street-juggles-tariffs-earnings-and-inflation-225044601.html
+Time Published: 2025-07-15T22:50:44Z
+Description: Wall Street digested a surprisingly cool wholesale inflation reading and more big bank earnings, with one eye on Trump's latest tariff moves.
+--------------------------------------------------
+
+Title: Nvidia in for Big Win in China Amid US Tech War
+URL: https://www.newsweek.com/nvidia-big-win-china-amid-us-tech-war-2099405
+Time Published: 2025-07-15T22:23:59Z
+Description: Shares of Nvidia closed at a record $170.70 Tuesday following news the chipmaker expects to resume exports of its advanced H20 GPU to China.
+--------------------------------------------------
+
+Title: S&P 500 Gains & Losses Today: State Street, BlackRock Shares Fall; Nvidia Stock Rises
+URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-state-street-blackrock-shares-fall-nvidia-stock-rises-11772903
+Time Published: 2025-07-15T21:46:06Z
+Full Content:
+Major U.S. equity indexes were mixed as the latest Consumer Price Index report showed inflation ticking higher in June, with indications that President Donald Trump's tariffs are beginning to push up prices on goods like groceries and clothing. The CPI report was in line with economists' forecasts. Still, the lift in inflation likely came as a disappointment to investors hoping that a softer reading might nudge the Federal Reserve towards cutting interest rates as soon as this summer. The S&P 500 ended Tuesday's session with a loss of 0.4%. The Dow dropped more than 400 points, falling 1%, while strength in the tech sector helped lift the Nasdaq to another record closing high with a gain of 0.2%. Read Investopedia's full coverage of today's trading here. Shares of financial services giant State Street (STT) slipped 7.3%, suffering the steepest drop in the S&P 500, in the wake of the firm's second-quarter earnings release. Although sales and profits topped estimates, net interest income was down from the year-ago period. State Street's total expenses jumped 11% year-over-year, reflecting a $100 million workforce rationalization and higher performance-based incentive compensation, as well as technology and infrastructure investments. Agilent Technologies (A) shares fell about 6%. The laboratory instrument provider said that CFO Bob McMahon would leave the company for personal reasons, effective at the end of July. Rodney Gonsalves, Agilent's corporate controller and principal accounting officer, will serve as interim CFO. Analysts at Citi recognized investors' esteem for McMahon but suggested that his departure should not have a major impact on the company's outlook. BlackRock (BLK) reported that its assets under management reached a record level of $12.5 trillion in the second quarter, but the firm's revenue for the period fell short of expectations. The top-line miss resulted partly from a decline in net inflows, which BlackRock attributed to a major single institutional client making a major withdrawal from index funds. BlackRock shares lost 5.9% on Tuesday, receding from a record high posted in the prior session. Semiconductor giant and world's highest-valued company Nvidia (NVDA) said it intends to relaunch sales of its top-selling H20 AI chip in China. The announcement came days after a meeting between Nvidia CEO Jensen Huang and Trump. Nvidia shares jumped 4% to a record high on Tuesday. Nvidia's plans to resume H20 chip deliveries to China helped boost other stocks in the artificial intelligence space. Shares of server maker Super Micro Computer (SMCI) surged 6.9%, notching the top daily performance in the S&P 500. Citi analysts recently lifted their price target on Supermicro stock, highlighting strong demand for AI servers and an increasing supply of key Nvidia-produced server components. Advanced Micro Devices (AMD) shares were up 6.4%, adding to gains posted last week after analysts at HSBC suggested that AMD's AI chips are comparable to Nvidia's offerings. First Solar (FSLR) shares jumped 6.9% after Jefferies increased its price target on the panel maker's stock. Although analysts recognized that the macroeconomic challenges facing the renewable energy business could weigh on First Solar's second-quarter financial results, Jefferies believes additional visibility surrounding the Inflation Reduction Act could help drive volume gains starting in 2026.
+--------------------------------------------------
+
+Title: Own ASX A200, NDQ, or ARMR ETFs? It's dividend payday for you!
+URL: https://www.fool.com.au/2025/07/16/own-asx-a200-ndq-or-armr-etfs-its-dividend-payday-for-you/
+Time Published: 2025-07-15T21:30:00Z
+Description: Betashares will pay distributions to ASX ETF investors today. 
+The post Own ASX A200, NDQ, or ARMR ETFs? It's dividend payday for you! appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: Stock market today: Dow slides after CPI inflation accelerates, Nvidia's surge lifts Nasdaq to record
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-after-cpi-inflation-accelerates-nvidias-surge-lifts-nasdaq-to-record-200955051.html
+Time Published: 2025-07-15T20:09:55Z
+Description: Tech led US stocks on Tuesday as a key consumer inflation print showed inflation accelerated in June, big banks kicked off earnings season, and Nvidia was...
+--------------------------------------------------
+
+Title: Top Stock Movers Now: Nvidia, AMD, Newmont, BlackRock, and More
+URL: https://www.investopedia.com/top-stock-movers-now-nvidia-amd-newmont-blackrock-and-more-11772432
+Time Published: 2025-07-15T17:14:36Z
+Full Content:
+Major U.S. equities indexes were mixed at midday Tuesday as tech stocks got a boost from semiconductor stocks. The tech-heavy Nasdaq climbed, while the S&P 500 and Dow dropped. Nvidia (NVDA) and Advanced Micro Devices (AMD) shares surged after the Trump administration reversed course and said it will allow the companies to sell key AI chips to China again. Shares of MP Materials (MP) soared after Apple (AAPL) said it would invest $500 million in the owner of America's only operational rare earths mine. Apple shares rose as well. Shares of medical equipment provider Steris (STE) gained on an upgrade from Morgan Stanley, which pointed to positive developments in its sterilization operations and market trends. Newmont (NEM) was the worst-performing stock in the S&P 500 as the gold miner’s CFO, Karyn Ovelmen, suddenly resigned. Shares of BlackRock (BLK) dropped after the investment manager missed quarterly revenue estimates, even as it posted a record $12.5 trillion in assets under management. Wells Fargo (WFC) shares declined after the bank’s net interest income came in below forecasts, and it lowered its guidance. Oil and gold futures declined. The yield on the 10-year Treasury note fell. The U.S. dollar was up on the euro, pound, and yen. The rally in cryptocurrencies stalled, with prices for most major digital coins lower. TradingView
+--------------------------------------------------
+
 Title: Nvidia Stock Is at a Peak - What's the Best Play Here for NVDA?
 URL: https://www.barchart.com/story/news/33416299/nvidia-stock-is-at-a-peak-what-s-the-best-play-here-for-nvda
 Time Published: 2025-07-15T17:09:40Z
@@ -44,6 +95,12 @@ Full Content:
 The move: Nvidia stock jumped as much as 5% on Tuesday morning, rising to $172.39 a share. After bottoming in April, the stock has regained momentum and is currently up more than 27% year-to-date. The chart: Why: The company said that the US government will clear it to start shipping its H20 chips to China again. In a July 14 blog post, Nvidia announced that it had begun filing applications to resume selling the H20 GPU in China. "The U.S. government has assured NVIDIA that licenses will be granted, and NVIDIA hopes to start deliveries soon," it added. Nvidia CEO Jensen Huang recently met with policymakers in both the US and China, including President Donald Trump, to discuss the importance of supporting artificial intelligence infrastructure. Secretary of Treasury Scott Bessent said in an interview on Tuesday morning that multiple Chinese firms are currently at work on similar chips, which could pose a threat to America's AI dominance. This decision is a stark contrast from the Trump administration's previous position on Chinese trade relations. In April 2025, NVDA stock fell as the White House announced strict controls on selling AI-enabling chips to China. What it means: Morgan Stanley CIO and chief US equity strategist Mike Wilson said he sees the development as a highly bullish indicator for the broader AI sector. He said that the AI capital expenditure (capex) cycle has been significant for the market's recovery, although it often doesn't receive much attention. "This deal is just more fuel to that fire," he said. Wilson also noted that the new Chinese revenue would be a "huge, positive kick to margins" for Nvidia. Reports indicate that Chinese firms are already rushing to buy the Nvidia chip when H20 sales resume. Jump to
 --------------------------------------------------
 
+Title: Cathie Wood Is Buying Tesla Stock Here. Should You?
+URL: https://www.barchart.com/story/news/33413059/cathie-wood-is-buying-tesla-stock-here-should-you
+Time Published: 2025-07-15T14:43:20Z
+Description: Cathie Wood loaded up on nearly 60,000 TSLA shares this past Friday. UBS disagrees with Wood’s optimism on Tesla stock.
+--------------------------------------------------
+
 Title: Stocks See Support from Favorable CPI and Positive Bessent Trade Remarks
 URL: https://www.barchart.com/story/news/33412124/stocks-see-support-from-favorable-cpi-and-positive-bessent-trade-remarks
 Time Published: 2025-07-15T14:09:56Z
@@ -80,6 +137,13 @@ Title: Broadcom launches new Tomahawk Ultra networking chip in AI battle against
 URL: https://finance.yahoo.com/news/broadcom-launches-tomahawk-ultra-networking-130149385.html
 Time Published: 2025-07-15T13:01:49Z
 Description: SAN FRANCISCO (Reuters) -Broadcom's chip unit unveiled on Tuesday a new networking processor that aims to speed artificial intelligence data crunching, which...
+--------------------------------------------------
+
+Title: Watch These Nvidia Price Levels as Stock Surges on News That China Chip Exports to Resume
+URL: https://www.investopedia.com/watch-these-nvidia-price-levels-as-stock-surges-on-news-that-china-chip-exports-to-resume-11772211
+Time Published: 2025-07-15T12:52:50Z
+Full Content:
+Nvidia (NVDA) shares jumped premarket trading on Tuesday after the AI investor favorite said it plans to resume selling one of its most popular chips to China. The chipmaker, which recently became the first company in the world to reach a $4 trillion market capitalization, said it's filing applications with the U.S. government to resume sales of its H20 graphics processing unit (GPU) and has been given assurances that licenses will be granted. Nvidia also unveiled a new chip specifically for China called the RTX Pro GPU, which the company said is fully compliant with U.S. export controls and suitable for use in smart factories and logistics. Through Monday's close, Nvidia shares had gained nearly 90% from their early-April low and were up 22% since the start of the year, as major tech companies continue to ramp up spending on AI infrastructure that depends on the company's chips. The stock was up more than 4% at around $171 before the opening bell on Tuesday. Below, we take a closer look at Nvidia’s chart and use technical analysis to identify key price levels worth watching out for. After reclaiming the closely watched 200-day moving average (MA) in mid-May, Nvidia shares have continued to trend higher, a move that has coincided with the relative strength index staying near its overbought threshold for most of that time, signaling strong price momentum. In another win for the bulls, the 50-day MA crossed back above the 200-day MA in late June to form a golden cross, a bullish chart pattern that points to a new trend higher. However, trading volume and volatility have contracted in recent months, suggesting market participants may be waiting for the chipmaker’s earnings report next month before deploying further capital. Let’s analyze the technicals on Nvidia’s chart to project where the shares may be headed if the uptrend continues and also identity support levels worth watching during potential retracements in the stock. Investors can apply bars pattern analysis to predict how the stock’s current trending move may play out. When applying this technique to Nvidia’s chart, we take the stock’s trend higher throughout June and reposition it from this month’s low. This projects a price target of around $178, implying about 8% upside from Monday’s closing price. We selected this earlier trend as it followed a minor profit-taking dip, closely mimicking the current price action after a similar brief pullback at the start of July. The first lower level worth watching sits around $159. Retracements in the stock could initially find support near last month’s high. Selling below this level could see the shares touch support near the key $150 level. Investors may look for buying opportunities in this location near a series of peaks that formed on the chart between November and January. Finally, a more significant pullback in Nvidia shares opens the door for a retest of lower support around $143. This area may attract buying interest near a consolidation period that developed on the chart in mid-June, which also aligns with a range of corresponding trading activity stretching back to late October. The comments, opinions, and analyses expressed on Investopedia are for informational purposes only. Read our warranty and liability disclaimer for more info. As of the date this article was written, the author does not own any of the above securities.
 --------------------------------------------------
 
 Title: Beyond Tesla: Under-the-radar stocks that could capitalize on the $1.2 trillion autonomous driving market
@@ -251,68 +315,4 @@ Title: Nvidia CEO to hold media briefing in Beijing on July 16
 URL: https://finance.yahoo.com/news/nvidia-ceo-hold-media-briefing-111149072.html
 Time Published: 2025-07-13T11:11:49Z
 Description: BEIJING (Reuters) -Nvidia CEO Jensen Huang will hold a media briefing in Beijing on July 16, an official from the company said on Sunday, marking his second ...
---------------------------------------------------
-
-Title: NVIDIA (NVDA) Announces Collaboration with Novo Nordisk
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_389161ac-3836-47e7-a690-b5320be1f3e3
-Time Published: 2025-07-13T05:10:50Z
-Description: None
---------------------------------------------------
-
-Title: Proof Of Power: Bitcoin Dwarfs S&P 500 With Nearly 100% Edge Since 2012—Data
-URL: https://bitcoinist.com/proof-of-power-bitcoin-dwarfs-sp-500-with-nearly-100-edge-since-2012-data/
-Time Published: 2025-07-12T19:30:09Z
-Full Content:
-Bitcoin is flexing its muscle. The S&P 500 Index closed at 6,280 on July 10, 2025, marking a 6% year‑to‑date gain in dollar terms. The benchmark even set fresh records this week. Yet priced in Bitcoin, that same index sits about 15% lower so far this year. That gap shows just how strong crypto’s rally has been. According to market analyst The Kobeissi Letter, measuring the S&P 500 against BTC highlights a dramatic shift. Since 2012, the index has fallen almost a whopping 100% versus Bitcoin, based on data from Bitbo. Investors who stuck with Bitcoin instead of stocks over the past decade would be sitting on massive gains. That contrast has become impossible to ignore. Truly incredible: The S&P 500 in Bitcoin terms is now DOWN -15% year-to-date. Since 2012, the S&P 500 in Bitcoin terms is down -99.98%. We are all witnessing history. https://t.co/DsoHhJQXvo pic.twitter.com/UHETngTqGy — The Kobeissi Letter (@KobeissiLetter) July 11, 2025 Based on figures from CoinMarketCap, BTC pushed past $118,800, Friday. The digital asset climbed 6% in the previous 24 hours and gained 10% over the past week. Overall, BTC is up 26% in 2025. Those numbers have drawn fresh attention from traders who once treated crypto as a fringe bet. In 2025, money has flooded into crypto via exchange‑traded funds in the US. As of this week, the 12 US spot Bitcoin ETFs hold a combined 1.26 million BTC—about $148 billion at current prices. That stash represents over 6% of all Bitcoin in circulation, according to Bitbo data. Inflows into digital asset ETFs landed them as the third‑largest fund category in the first half of the year, trailing only short‑term government debt and gold, State Street data shows. On Thursday, Bitcoin ETFs recorded their second‑largest single‑day inflow ever, pulling in over $1 billion. Traders view these ETFs as a simpler way to tap into BTC gains without dealing directly with wallets or exchanges. At the time of writing, Coingecko data shows BTC trading at $118,038—still holding most of its recent upside. Last 10 Years… Bitcoin $BTC: +40,450% NVIDIA $NVDA: +34,815% Tesla $TSLA: +1,702% Netflix $NFLX: +1,206% Microsoft $MSFT: +1,199% Amazon $AMZN: +926% Meta $META: +751% Apple $AAPL: +691% Google $GOOGL: +556% S&P 500 $SPY: +262% Gold $GLD: +175% US Inflation (CPI): +35% — Charlie Bilello (@charliebilello) July 11, 2025 Bitcoin’s surge hasn’t just outperformed broad stock indexes. Analyst Charlie Bilello has pointed out that BTC has climbed far more than big tech names like Nvidia, Tesla, and Netflix over the past decade. That wider outperformance has added fuel to the argument that digital currency belongs in major portfolios. With US equities near record highs in greenbacks but lagging in Bitcoin terms, some investors are weighing how to balance their bets. The rush into spot ETFs speaks to a growing belief that crypto deserve a spot alongside stocks and bonds. Featured image from Dall-E, chart from TradingView For updates and exclusive offers enter your email. Christian, a journalist and editor with leadership roles in Philippine and Canadian media, is fueled by his love for writing and cryptocurrency. Off-screen, he's a cook and cinephile who's constantly intrigued by the size of the universe. Bitcoin news portal providing breaking news, guides, price analysis about decentralized digital money & blockchain technology. © 2025 Bitcoinist. All Rights Reserved.
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA): Its CEO’s “Changed The World,” Says Jim Cramer
-URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-ceo-changed-183658418.html
-Time Published: 2025-07-12T18:36:58Z
-Description: We recently published Jim Cramer’s Fresh 14 Stocks & Thoughts About Market Performance. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer...
---------------------------------------------------
-
-Title: Jim Cramer drops blunt 6-word message on Nvidia stock
-URL: https://www.thestreet.com/investing/jim-cramer-drops-blunt-6-word-message-on-nvidia-stock
-Time Published: 2025-07-12T16:46:00Z
-Description: Here’s what could be next for Nvidia stock.
---------------------------------------------------
-
-Title: From Penny Stock to AI Powerhouse, Is SOUN Stock a Buy Now?
-URL: https://www.barchart.com/story/news/33368400/from-penny-stock-to-ai-powerhouse-is-soun-stock-a-buy-now
-Time Published: 2025-07-12T13:00:02Z
-Description: SoundHound stock has soared 40% in the last three months. How high can it go from here?
---------------------------------------------------
-
-Title: Nvidia, Microsoft, or Alphabet: Which AI Stock Giant Holds the Highest Upside? Analysts Weigh In
-URL: https://finance.yahoo.com/news/nvidia-microsoft-alphabet-ai-stock-102039717.html
-Time Published: 2025-07-12T10:20:39Z
-Description: Generative AI exploded onto the scene at the end of 2022, and forever changed our perception – and use – of AI technology. From a predictive model, based on ...
---------------------------------------------------
-
-Title: Is The Dollar Setting Up For A Comeback?
-URL: https://realinvestmentadvice.com/resources/blog/is-the-dollar-setting-up-for-a-comeback/
-Time Published: 2025-07-12T09:24:59Z
-Description: The weekly Bull Bear Report covers what happened in the markets, what investors should be paying attention, and how to navigate the week ahead.
-The post Is The Dollar Setting Up For A Comeback? appeared first on RIA.
---------------------------------------------------
-
-Title: 3 top ASX ETFs that could be perfect for beginners
-URL: https://www.fool.com.au/2025/07/12/3-top-asx-etfs-that-could-be-perfect-for-beginners/
-Time Published: 2025-07-12T01:43:21Z
-Description: Let's see why these funds could be good picks if you're starting your investment journey.
-The post 3 top ASX ETFs that could be perfect for beginners appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: EWCZ Marketing Shift Shows Early Wins: Can Growth Reignite Fast?
-URL: https://www.theglobeandmail.com/investing/markets/stocks/COTY/pressreleases/33352472/ewcz-marketing-shift-shows-early-wins-can-growth-reignite-fast/
-Time Published: 2025-07-12T01:29:34Z
-Full Content:
-European Wax Center, Inc. EWCZ has made a decisive pivot to revamp its marketing engine and early signs point to meaningful traction. After implementing a modern advertising effectiveness platform in the first quarter of fiscal 2025, EWCZ reported sequential improvements in new guest trends compared with the same period two years ago. While the lift remains modest, this directional movement is critical for a brand that has struggled to grow traffic in recent quarters.At the core of this transformation is a push toward data-driven, digital-first marketing. With upgraded measurement tools now in place, EWCZ is able to link media impressions to in-center behavior, enabling smarter allocation of marketing dollars and a lower cost per acquisition. Creative and messaging tests are underway, with initial feedback suggesting the brand’s updated identity is resonating, especially among higher-value, more loyal guest segments.This effort goes beyond surface-level branding. Marketing execution is being tightly integrated with franchisee operations through new support tools, enhanced guest communication platforms like email and SMS, and the planned launch of a champion ad campaign during the peak summer season. These coordinated efforts aim to strengthen traffic recovery and unlock additional guest visits. While the initiative is still in early stages, management is confident that the company is gaining momentum and its sharpened marketing engine will drive meaningful traffic and sales growth in the second half of 2025. Coty Inc. COTY continues to evolve its marketing strategy by shifting resources toward high-ROI categories like mass fragrances while scaling back in lower-return color cosmetics. In the third quarter of fiscal 2025, Coty emphasized influencer-driven content and campaigns, such as its viral Rimmel UK push, to optimize digital reach with lower spend. However, inconsistent category demand and global channel fragmentation are still impacting Coty’s campaign efficiency.Another peer, Helen of Troy Limited HELE, is focusing on simplifying its marketing execution and prioritizing investments that deliver the highest returns. Helen of Troy is refining its paid media funnel, driving more earned media and reducing content costs across brands like Drybar and Curlsmith. In the first quarter of fiscal 2026, Helen of Troy reported traction in influencer-backed launches and direct-to-consumer growth, but tariff disruptions and pricing pressure continue to weigh on media performance. Shares of European Wax Center have gained 64.6% in the past three months compared with the industry’s growth of 50.1%. Image Source: Zacks Investment Research From a valuation standpoint, EWCZ trades at a forward price-to-earnings ratio of 8.61X, below the industry’s average of 27.7X. Image Source: Zacks Investment Research The Zacks Consensus Estimate for EWCZ’s fiscal 2025 and 2026 earnings implies year-over-year growth of 35.6% and 8.2%, respectively. Image Source: Zacks Investment Research European Wax Center currently sports a Zacks Rank #1 (Strong Buy). You can see the complete list of today’s Zacks #1 Rank stocks here. The incredible demand for data is fueling the market's next digital gold rush. As data centers continue to be built and constantly upgraded, the companies that provide the hardware for these behemoths will become the NVIDIAs of tomorrow. One under-the-radar chipmaker is uniquely positioned to take advantage of the next growth stage of this market. It specializes in semiconductor products that titans like NVIDIA don't build. It's just beginning to enter the spotlight, which is exactly where you want to be. Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report This article originally published on Zacks Investment Research (zacks.com). Zacks Investment Research All market data (will open in new tab) is provided by Barchart Solutions. Copyright © 2025. Information is provided 'as is' and solely for informational purposes, not for trading purposes or advice. For exchange delays and terms of use, please read disclaimer (will open in new tab). © Copyright 2025 The Globe and Mail Inc. All rights reserved. Andrew Saunders, President and CEO
---------------------------------------------------
-
-Title: Veteran analyst drops massive call on AMD stock
-URL: https://www.thestreet.com/technology/veteran-analyst-drops-massive-call-on-amd-stock
-Time Published: 2025-07-11T22:07:00Z
-Description: The fresh target could shake up the AI chip race.
 --------------------------------------------------
