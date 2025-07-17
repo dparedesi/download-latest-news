@@ -80,16 +80,16 @@ Time Published: 2025-07-15T22:50:44Z
 Description: Wall Street digested a surprisingly cool wholesale inflation reading and more big bank earnings, with one eye on Trump's latest tariff moves.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble as Fed rate cut bets wane after inflation pickup
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-as-fed-rate-cut-bets-wane-after-inflation-pickup-225044645.html
-Time Published: 2025-07-15T22:50:44Z
-Description: Wall Street braced for another inflation checkup after Tuesday's consumer price reading spurred traders to pare bets on Fed rate cuts in the coming months.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq waver as Trump says 'not planning' to fire Powell
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-trump-says-not-planning-to-fire-powell-225044772.html
 Time Published: 2025-07-15T22:50:44Z
 Description: Wall Street digested a surprisingly cool wholesale inflation reading and more big bank earnings, with one eye on Trump's latest tariff moves.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble as Fed rate cut bets wane after inflation pickup
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-as-fed-rate-cut-bets-wane-after-inflation-pickup-225044645.html
+Time Published: 2025-07-15T22:50:44Z
+Description: Wall Street braced for another inflation checkup after Tuesday's consumer price reading spurred traders to pare bets on Fed rate cuts in the coming months.
 --------------------------------------------------
 
 Title: Nvidia in for Big Win in China Amid US Tech War
@@ -289,16 +289,16 @@ Time Published: 2025-07-14T22:07:10Z
 Description: Wall Street girded for a key consumer inflation print and for big banks to kick off earnings season, with tariff-driven concerns in focus for both events.
 --------------------------------------------------
 
-Title: Earnings live: Wall Street banks forge ahead to kick off second quarter earnings season
-URL: https://finance.yahoo.com/news/live/earnings-live-wall-street-banks-forge-ahead-to-kick-off-second-quarter-earnings-season-205852580.html
-Time Published: 2025-07-14T20:58:52Z
-Description: Second quarter earnings season kicked off on Tuesday with banks reporting strong trading and dealmaking activity.
---------------------------------------------------
-
 Title: Earnings live: Netflix highlights as second quarter earnings season ramps up
 URL: https://finance.yahoo.com/news/live/earnings-live-netflix-highlights-as-second-quarter-earnings-season-ramps-up-205852482.html
 Time Published: 2025-07-14T20:58:52Z
 Description: Second quarter earnings season kicked off in earnest, with Netflix results on deck.
+--------------------------------------------------
+
+Title: Earnings live: Wall Street banks forge ahead to kick off second quarter earnings season
+URL: https://finance.yahoo.com/news/live/earnings-live-wall-street-banks-forge-ahead-to-kick-off-second-quarter-earnings-season-205852580.html
+Time Published: 2025-07-14T20:58:52Z
+Description: Second quarter earnings season kicked off on Tuesday with banks reporting strong trading and dealmaking activity.
 --------------------------------------------------
 
 Title: Nvidia CEO hits Warren Buffett milestone
