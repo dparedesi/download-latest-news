@@ -44,14 +44,14 @@ Time Published: 2025-07-17T12:43:08Z
 Description: The major indexes remain at or near record highs while navigating a plethora of catalysts, including earnings, economic data, tariffs, and Trump-Powell drama...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as earnings roll in, retail sales jump
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-higher-as-earnings-roll-in-retail-sales-jump-124308944.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as earnings roll in, retail sales jump
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-earnings-roll-in-retail-sales-jump-124308629.html
 Time Published: 2025-07-17T12:43:08Z
 Description: The major indexes remain at or near record highs while navigating a plethora of catalysts, including earnings, economic data, tariffs, and Trump-Powell drama...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as earnings roll in, retail sales jump
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-earnings-roll-in-retail-sales-jump-124308629.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as earnings roll in, retail sales jump
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-higher-as-earnings-roll-in-retail-sales-jump-124308944.html
 Time Published: 2025-07-17T12:43:08Z
 Description: The major indexes remain at or near record highs while navigating a plethora of catalysts, including earnings, economic data, tariffs, and Trump-Powell drama...
 --------------------------------------------------
@@ -151,16 +151,16 @@ Full Content:
 July 16, 2025 – Mahé, Seychelles Traders can now gain leveraged, permissionless exposure to leading US stocks including Amazon (AMZN), Apple (AAPL), Alphabet (GOOG), Meta (META), Microsoft (MSFT), NVIDIA (NVDA) and Tesla (TSLA), with more blue-chip names to follow. This makes Aster one of the few global perp DEXs to offer stock-based perpetual futures – giving users the power to diversify into equities without compromising on custody, privacy or speed. Unlike traditional brokers bound by red tape, limited trading hours and custodial control, Aster delivers decentralized access to global equity markets 24/7 without requiring any intermediaries. Users can enter positions anytime, anywhere with up to 50x leverage – no signups, no paperwork, no gatekeeping. While liquidity may be lower outside of traditional US stock market hours, as this reflects the current structure of global equity markets, traders are still able to manage smaller positions on Aster during this period. During Wall Street’s active hours, Aster’s deep liquidity pools kick in, offering smoother fills and efficient execution. With NASDAQ’s plan for 24/5 trading in the near future, traders will get to experience longer trading hours on Aster with deep liquidity and smooth execution as well. Leonard, CEO of Aster, said, “Aster is about breaking down barriers whether that’s asset types, market hours or outdated trading infrastructures. “With decentralized stock perpetual contracts, we’re opening the doors for crypto traders to access the biggest US equities with the privacy and speed they deserve.” Similar to other perpetual contracts on Aster Pro, Aster’s stock perpetuals are derivative contracts that let traders speculate on the price of the underlying asset, without the need for real-world custody. Pricing data for these contracts is derived directly from Pyth Network, where an aggregated price is generated from active quotes contributed by multiple independent publishers. This ensures reliable and tamper-resistant feeds for stock contracts and all other Aster perpetual contracts. Traders will also benefit from Aster’s high-speed matching engine and integrated liquidity that have made Aster the global second perp DEX by trading volume. Whether traders are hedging a portfolio or betting on short-term moves, Aster stock perps offer unmatched versatility. For example, a user holding TSLA stock off-chain can short TSLA/USDT on Aster with leverage to hedge downside exposure in volatile markets – all without centralized intermediaries, using permissionless trading. This launch marks a major milestone in Aster’s mission to bridge TradFi (traditional finance) and DeFi without compromise. From a record-breaking first half of 2025 with over $58 billion in trading volume and the roll out of features like Aster Mobile app, to unveiling hidden orders, and Aster Chain Beta (a high performance ZK-powered layer-one with privacy focus for perpetuals), Aster continues to elevate what DeFi can deliver with the launch of stock perpetual contracts. As the convergence of TradFi and DeFi continues to gain traction worldwide, Aster is leading the charge, combining the hallmark privacy and composability of DeFi with new asset opportunities. Users can start trading US equities with crypto and leverage, with the freedom and flexibility that only Aster offers. Aster is a next-generation perp DEX built for everyone. It offers MEV-free, one-click trading for crypto with up to 1001x leverage in simple mode (BNB Chain, Arbitrum) and advanced tools including hidden orders, grid trading and stock contracts in pro mode (BNB Chain, Ethereum, Solana, Arbitrum). Aster Chain is a high-performance blockchain engineered to deliver private and non-custodial onchain orderbook trading. Backed by YZi Labs, Aster is building the future of DeFi – fast, flexible and community-first. Users can learn more at the Aster official website or connect with Aster on the official X account. Kathy, Aster Follow Us on X Facebook Telegram Covering the future of finance, including macro, bitcoin, ethereum, crypto, and web 3. Categories Bitcoin • Ethereum • Trading • Altcoins • Futuremash • Financeflux • Blockchain • Regulators • Scams • HodlX • Press Releases ABOUT US | EDITORIAL POLICY | PRIVACY POLICY TERMS AND CONDITIONS | CONTACT | ADVERTISE JOIN US ON TELEGRAM JOIN US ON X JOIN US ON FACEBOOK COPYRIGHT © 2017-2025 THE DAILY HODL © 2025 The Daily Hodl
 --------------------------------------------------
 
-Title: China Tech ETF KWEB Surges on Big Nvidia AI Chip News
-URL: http://www.etf.com/sections/news/china-tech-etf-kweb-surges-big-nvidia-ai-chip-news?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss
-Time Published: 2025-07-16T12:00:00Z
-Description: - KWEB’s gains reflect investor optimism that renewed access to Nvidia’s advanced chips. - Investing in China remains fraught with uncertainty.
---------------------------------------------------
-
 Title: Tech Takes the Spotlight Again—Are You Watching These Stocks?
 URL: https://stockcharts.com/articles/chartwatchers/2025/07/tech-takes-the-spotlight-again-493.html
 Time Published: 2025-07-16T12:00:00Z
 Description: Relatively healthy earnings reports from the big banks and a June inflation report that came in line with analyst expectations didn't give the stock market much of a lift, as the S&P 500 ($SPX) and Dow Jones Industrial Average ($INDU) both ended the day lower…
+--------------------------------------------------
+
+Title: China Tech ETF KWEB Surges on Big Nvidia AI Chip News
+URL: http://www.etf.com/sections/news/china-tech-etf-kweb-surges-big-nvidia-ai-chip-news?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss
+Time Published: 2025-07-16T12:00:00Z
+Description: - KWEB’s gains reflect investor optimism that renewed access to Nvidia’s advanced chips. - Investing in China remains fraught with uncertainty.
 --------------------------------------------------
 
 Title: US stock market futures today: Nasdaq hits record high as AI stocks rally, but Dow plunges 436 points and S&P dips on hot inflation, Trump tariffs, and bank stock slide
@@ -196,16 +196,16 @@ Time Published: 2025-07-15T22:50:44Z
 Description: Wall Street digested a surprisingly cool wholesale inflation reading and more big bank earnings, with one eye on Trump's latest tariff moves.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble as Fed rate cut bets wane after inflation pickup
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-as-fed-rate-cut-bets-wane-after-inflation-pickup-225044645.html
-Time Published: 2025-07-15T22:50:44Z
-Description: Wall Street braced for another inflation checkup after Tuesday's consumer price reading spurred traders to pare bets on Fed rate cuts in the coming months.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq waver as Trump says 'not planning' to fire Powell
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-trump-says-not-planning-to-fire-powell-225044772.html
 Time Published: 2025-07-15T22:50:44Z
 Description: Wall Street digested a surprisingly cool wholesale inflation reading and more big bank earnings, with one eye on Trump's latest tariff moves.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble as Fed rate cut bets wane after inflation pickup
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-as-fed-rate-cut-bets-wane-after-inflation-pickup-225044645.html
+Time Published: 2025-07-15T22:50:44Z
+Description: Wall Street braced for another inflation checkup after Tuesday's consumer price reading spurred traders to pare bets on Fed rate cuts in the coming months.
 --------------------------------------------------
 
 Title: Nvidia in for Big Win in China Amid US Tech War
