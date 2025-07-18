@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Stock Market Today: Stocks higher on big earnings, better retail sales
+URL: https://www.thestreet.com/investing/stocks/stock-market-today-stocks-open-higher-on-big-earnings-better-retail-sales
+Time Published: 2025-07-17T17:12:27Z
+Description: GE Aerospace raised its guidance, Taiwan Semi shows a record profit. Retail sales bounce back. Jobless claims fall.
+--------------------------------------------------
+
+Title: What the China export easing means for Nvidia, AMD, and other chips stocks
+URL: https://finance.yahoo.com/news/what-the-china-export-easing-means-for-nvidia-amd-and-other-chips-stocks-135640925.html
+Time Published: 2025-07-17T13:56:40Z
+Description: A potential green light in AI chip sales to China could reset the global semiconductor market.
+--------------------------------------------------
+
 Title: Wall Street's Chip Darling Stocks Set to Shine Again, Says Oppenheimer
 URL: https://finance.yahoo.com/news/wall-streets-chip-darling-stocks-014309408.html
 Time Published: 2025-07-17T01:43:09Z
