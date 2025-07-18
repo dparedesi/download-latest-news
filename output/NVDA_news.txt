@@ -1,5 +1,29 @@
 List of news related to NVIDIA NVDA:
 
+Title: China Faces Growth Test as Housing, Retail Sales, and Tariffs Weigh on Outlook
+URL: https://www.fxempire.com/news/article/china-faces-growth-test-as-housing-retail-sales-and-tariffs-weigh-on-outlook-1534106
+Time Published: 2025-07-17T02:18:20Z
+Description: Beijing faces stimulus dilemma as housing woes, youth joblessness, and tariff headwinds persist.
+--------------------------------------------------
+
+Title: Wall Street's Chip Darling Stocks Set to Shine Again, Says Oppenheimer
+URL: https://finance.yahoo.com/news/wall-streets-chip-darling-stocks-014309408.html
+Time Published: 2025-07-17T01:43:09Z
+Description: AI isn't cooling down -- and semiconductors may ride that wave to another blowout quarter
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as earnings roll in, with retail sales, Netflix on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-earnings-roll-in-with-retail-sales-on-deck-221614889.html
+Time Published: 2025-07-16T22:16:14Z
+Description: The major indexes remain at or near record highs while navigating a plethora of catalysts, including earnings, economic data, tariffs, and Trump-Powell drama...
+--------------------------------------------------
+
+Title: Microsoft analysts reboot stock price targets ahead of Q4 earnings
+URL: https://www.thestreet.com/investing/stocks/microsoft-analysts-reboot-stock-price-targets-ahead-of-q4-earnings
+Time Published: 2025-07-16T21:57:00Z
+Description: This is what could happen next to Microsoft shares.
+--------------------------------------------------
+
 Title: Stock Market Today: Stocks Sag to Flat as Trump Reportedly Mulls Firing Powell, Walks Back Idea
 URL: https://www.thestreet.com/investing/stock-market-today-sarge-guilfoyle-parses-the-inflation-data-for-tariff-clues
 Time Published: 2025-07-16T16:20:31Z
@@ -45,6 +69,12 @@ Title: Tech Takes the Spotlight Again—Are You Watching These Stocks?
 URL: https://stockcharts.com/articles/chartwatchers/2025/07/tech-takes-the-spotlight-again-493.html
 Time Published: 2025-07-16T12:00:00Z
 Description: Relatively healthy earnings reports from the big banks and a June inflation report that came in line with analyst expectations didn't give the stock market much of a lift, as the S&P 500 ($SPX) and Dow Jones Industrial Average ($INDU) both ended the day lower…
+--------------------------------------------------
+
+Title: China Tech ETF KWEB Surges on Big Nvidia AI Chip News
+URL: http://www.etf.com/sections/news/china-tech-etf-kweb-surges-big-nvidia-ai-chip-news?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss
+Time Published: 2025-07-16T12:00:00Z
+Description: - KWEB’s gains reflect investor optimism that renewed access to Nvidia’s advanced chips. - Investing in China remains fraught with uncertainty.
 --------------------------------------------------
 
 Title: US stock market futures today: Nasdaq hits record high as AI stocks rally, but Dow plunges 436 points and S&P dips on hot inflation, Trump tariffs, and bank stock slide
@@ -287,34 +317,4 @@ Title: Stock market today: Dow, S&P 500 futures climb after Nvidia boost, with C
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-futures-climb-after-nvidia-boost-with-cpi-inflation-data-big-bank-earnings-on-deck-220710502.html
 Time Published: 2025-07-14T22:07:10Z
 Description: Wall Street girded for a key consumer inflation print and for big banks to kick off earnings season, with tariff-driven concerns in focus for both events.
---------------------------------------------------
-
-Title: Earnings live: Netflix highlights as second quarter earnings season ramps up
-URL: https://finance.yahoo.com/news/live/earnings-live-netflix-highlights-as-second-quarter-earnings-season-ramps-up-205852482.html
-Time Published: 2025-07-14T20:58:52Z
-Description: Second quarter earnings season kicked off in earnest, with Netflix results on deck.
---------------------------------------------------
-
-Title: Earnings live: Wall Street banks forge ahead to kick off second quarter earnings season
-URL: https://finance.yahoo.com/news/live/earnings-live-wall-street-banks-forge-ahead-to-kick-off-second-quarter-earnings-season-205852580.html
-Time Published: 2025-07-14T20:58:52Z
-Description: Second quarter earnings season kicked off on Tuesday with banks reporting strong trading and dealmaking activity.
---------------------------------------------------
-
-Title: Nvidia CEO hits Warren Buffett milestone
-URL: https://www.thestreet.com/technology/nvidia-ceo-hits-warren-buffett-milestone
-Time Published: 2025-07-14T19:13:00Z
-Description: Here's how the chip giant’s rise is reshaping more than tech rankings.
---------------------------------------------------
-
-Title: This Robotaxi Stock Just Achieved a New Milestone. Should You Buy Shares Now?
-URL: https://www.barchart.com/story/news/33390757/this-robotaxi-stock-just-achieved-a-new-milestone-should-you-buy-shares-now
-Time Published: 2025-07-14T18:20:03Z
-Description: When most investors hear the word “robotaxi,” one company typically comes to mind first: Tesla (TSLA) . That makes sense, considering Tesla has long chased...
---------------------------------------------------
-
-Title: Space-Age Alloy Maker Joins Nvidia, Palantir In Exclusive Club
-URL: https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/carpenter-technology-nvidia-palantir-broadcom-leaderboard-stocks-to-watch/
-Time Published: 2025-07-14T17:34:30Z
-Description: Carpenter Technologies forges an add-on buy point.
 --------------------------------------------------

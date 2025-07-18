@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Microsoft analysts reboot stock price targets ahead of Q4 earnings
+URL: https://www.thestreet.com/investing/stocks/microsoft-analysts-reboot-stock-price-targets-ahead-of-q4-earnings
+Time Published: 2025-07-16T21:57:00Z
+Description: This is what could happen next to Microsoft shares.
+--------------------------------------------------
+
 Title: Stock Market Today: Stocks Sag to Flat as Trump Reportedly Mulls Firing Powell, Walks Back Idea
 URL: https://www.thestreet.com/investing/stock-market-today-sarge-guilfoyle-parses-the-inflation-data-for-tariff-clues
 Time Published: 2025-07-16T16:20:31Z
@@ -31,6 +37,12 @@ Title: Will IonQ Stock Rise on Capella Space Buyout and Quantum Ambitions?
 URL: https://finance.yahoo.com/news/ionq-stock-rise-capella-space-135600659.html
 Time Published: 2025-07-16T13:56:00Z
 Description: Can IONQ turn its quantum Internet vision into reality with Capella, or will profitability delays test investors?
+--------------------------------------------------
+
+Title: Dear Google Stock Fans, Mark Your Calendars for July 23
+URL: https://www.barchart.com/story/news/33438262/dear-google-stock-fans-mark-your-calendars-for-july-23
+Time Published: 2025-07-16T13:15:02Z
+Description: The tech giant is getting ready to unveil its Q2earnings.
 --------------------------------------------------
 
 Title: US stock market futures today: Nasdaq hits record high as AI stocks rally, but Dow plunges 436 points and S&P dips on hot inflation, Trump tariffs, and bank stock slide
@@ -88,22 +100,4 @@ Title: This Analyst Just Doubled His Price Target on AMD Stock
 URL: https://www.barchart.com/story/news/33384685/this-analyst-just-doubled-his-price-target-on-amd-stock
 Time Published: 2025-07-14T13:00:02Z
 Description: AMD just landed a new price target from HSBC — double the previous estimate — as confidence builds around its AI chip momentum.
---------------------------------------------------
-
-Title: Microsoft (MSFT): A Bull Case Theory
-URL: https://finance.yahoo.com/news/microsoft-msft-bull-case-theory-114126965.html
-Time Published: 2025-07-12T11:41:26Z
-Description: We came across a bullish thesis on Microsoft on Max Dividends’s Substack. As of 2ⁿᵈ July, Microsoft’s share was trading at $491.09. MSFT’s trailing and...
---------------------------------------------------
-
-Title: Nvidia, Microsoft, or Alphabet: Which AI Stock Giant Holds the Highest Upside? Analysts Weigh In
-URL: https://finance.yahoo.com/news/nvidia-microsoft-alphabet-ai-stock-102039717.html
-Time Published: 2025-07-12T10:20:39Z
-Description: Generative AI exploded onto the scene at the end of 2022, and forever changed our perception – and use – of AI technology. From a predictive model, based on ...
---------------------------------------------------
-
-Title: Veteran analyst issues eye-popping Microsoft stock price target
-URL: https://www.thestreet.com/technology/veteran-analyst-issues-eye-popping-microsoft-stock-price-target
-Time Published: 2025-07-12T01:03:00Z
-Description: The new forecast just put Microsoft’s future in a different league.
 --------------------------------------------------

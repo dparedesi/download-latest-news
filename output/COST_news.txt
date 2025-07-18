@@ -11,9 +11,3 @@ URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-secures-recor
 Time Published: 2025-07-14T20:00:46Z
 Description: US stocks rose on Monday with the Nasdaq closing at a fresh record with Trump's tariffs in focus as key inflation data and earnings season loom.
 --------------------------------------------------
-
-Title: Jim Cramer shares Costco, McDonald's, Home Depot, Starbucks news
-URL: https://www.thestreet.com/retail/jim-cramer-shares-4-falling-stocks-to-buy-right-now
-Time Published: 2025-07-12T04:38:55Z
-Description: The television personality wants to sound the alarm about all four of these brands.
---------------------------------------------------

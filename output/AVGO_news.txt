@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Wall Street's Chip Darling Stocks Set to Shine Again, Says Oppenheimer
+URL: https://finance.yahoo.com/news/wall-streets-chip-darling-stocks-014309408.html
+Time Published: 2025-07-17T01:43:09Z
+Description: AI isn't cooling down -- and semiconductors may ride that wave to another blowout quarter
+--------------------------------------------------
+
 Title: Stock Market Today: Stocks Sag to Flat as Trump Reportedly Mulls Firing Powell, Walks Back Idea
 URL: https://www.thestreet.com/investing/stock-market-today-sarge-guilfoyle-parses-the-inflation-data-for-tariff-clues
 Time Published: 2025-07-16T16:20:31Z
@@ -52,11 +58,4 @@ Title: Mizuho Lifts PT on Broadcom (AVGO) Stock
 URL: https://finance.yahoo.com/news/mizuho-lifts-pt-broadcom-avgo-051046970.html
 Time Published: 2025-07-13T05:10:46Z
 Description: Broadcom Inc. (NASDAQ:AVGO) is one of the 10 Best Semiconductor Stocks to Buy According to Reddit. Mizuho analyst Vijay Rakesh raised the price target on the...
---------------------------------------------------
-
-Title: Is The Dollar Setting Up For A Comeback?
-URL: https://realinvestmentadvice.com/resources/blog/is-the-dollar-setting-up-for-a-comeback/
-Time Published: 2025-07-12T09:24:59Z
-Description: The weekly Bull Bear Report covers what happened in the markets, what investors should be paying attention, and how to navigate the week ahead.
-The post Is The Dollar Setting Up For A Comeback? appeared first on RIA.
 --------------------------------------------------
