@@ -69,14 +69,14 @@ Time Published: 2025-07-15T14:09:56Z
 Description: The S&P 500 Index ($SPX ) (SPY ) is up +0.33%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up...
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq pops on Nvidia boost, while Dow slides after CPI inflation data, bank earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-pops-on-nvidia-boost-while-dow-slides-after-cpi-inflation-data-bank-earnings-133530972.html
+Title: Stock market today: Nasdaq climbs on Nvidia boost, Dow and S&P fall with CPI inflation, bank earnings in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-climbs-on-nvidia-boost-dow-and-sp-fall-with-cpi-inflation-bank-earnings-in-focus-133530967.html
 Time Published: 2025-07-15T13:35:30Z
 Description: Tech led US stocks on Tuesday as a key consumer inflation print showed inflation accelerated in June, big banks kicked off earnings season, and Nvidia was...
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq climbs on Nvidia boost, Dow and S&P fall with CPI inflation, bank earnings in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-climbs-on-nvidia-boost-dow-and-sp-fall-with-cpi-inflation-bank-earnings-in-focus-133530967.html
+Title: Stock market today: Nasdaq pops on Nvidia boost, while Dow slides after CPI inflation data, bank earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-pops-on-nvidia-boost-while-dow-slides-after-cpi-inflation-data-bank-earnings-133530972.html
 Time Published: 2025-07-15T13:35:30Z
 Description: Tech led US stocks on Tuesday as a key consumer inflation print showed inflation accelerated in June, big banks kicked off earnings season, and Nvidia was...
 --------------------------------------------------
@@ -88,14 +88,14 @@ Full Content:
 US stock market futures today are mixed as the Nasdaq‑100 jumps over 0.6%, powered by a 5% rise in Nvidia shares after the tech giant got the green light to resume H20 AI chip shipments to China. The S&P 500 climbs around +0.4%, hitting new highs with strong earnings optimism and cooling inflation data. Meanwhile, Dow Jones futures dip 0.1%, weighed by rising trade tariff concerns. The market reflects a tug-of-war between AI-driven tech gains and global trade tension risks—setting the stage for a volatile but opportunity-filled trading session ahead. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. The Golden Thumbrule on identifying the next big sector to invest | Ep 1 Samay Raina appears before Supreme Court over disability mockery Tesla debuts in India with first showroom at Mumbai's BKC Jaishankar meets Xi Jinping, discusses bilateral ties at SCO meet Odisha leaders slam system after Balasore student dies by self-immolation AAIB report triggers DGCA regulatory action on Boeing fleet in India Big win for Trump! US top court gives go ahead to layoffs in Edu dept 'He's a loser...': Trump slams Putin over stalled truce talks with US, Ukraine 'Trump, Bondi lied to American people...': Jeffries on Epstein files Trump’s ‘final’ ultimatum to Russia, ‘end Ukraine war in 50 days or…' The Golden Thumbrule on identifying the next big sector to invest | Ep 1 Samay Raina appears before Supreme Court over disability mockery Tesla debuts in India with first showroom at Mumbai's BKC Jaishankar meets Xi Jinping, discusses bilateral ties at SCO meet Odisha leaders slam system after Balasore student dies by self-immolation AAIB report triggers DGCA regulatory action on Boeing fleet in India Big win for Trump! US top court gives go ahead to layoffs in Edu dept 'He's a loser...': Trump slams Putin over stalled truce talks with US, Ukraine 'Trump, Bondi lied to American people...': Jeffries on Epstein files Trump’s ‘final’ ultimatum to Russia, ‘end Ukraine war in 50 days or…' Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Story Listing Private Companies Top Prime Articles Most Searched IFSC Codes Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq futures climb after Nvidia boost, with CPI inflation, bank earnings in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-climb-after-nvidia-boost-with-cpi-inflation-bank-earnings-in-focus-220710466.html
+Title: Stock market today: Dow, S&P 500 futures climb after Nvidia boost, with CPI inflation data, big bank earnings on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-futures-climb-after-nvidia-boost-with-cpi-inflation-data-big-bank-earnings-on-deck-220710502.html
 Time Published: 2025-07-14T22:07:10Z
 Description: Wall Street girded for a key consumer inflation print and for big banks to kick off earnings season, with tariff-driven concerns in focus for both events.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500 futures climb after Nvidia boost, with CPI inflation data, big bank earnings on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-futures-climb-after-nvidia-boost-with-cpi-inflation-data-big-bank-earnings-on-deck-220710502.html
+Title: Stock market today: S&P 500, Nasdaq futures climb after Nvidia boost, with CPI inflation, bank earnings in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-climb-after-nvidia-boost-with-cpi-inflation-bank-earnings-in-focus-220710466.html
 Time Published: 2025-07-14T22:07:10Z
 Description: Wall Street girded for a key consumer inflation print and for big banks to kick off earnings season, with tariff-driven concerns in focus for both events.
 --------------------------------------------------

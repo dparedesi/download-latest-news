@@ -7,6 +7,12 @@ Full Content:
 ByCatherine Brock ByCatherine Brock, Contributor. The mix of positive and negative investing news this week creates a ripe environment for stock-price ... More volatility this summer and beyond. A whirlwind of impactful investing news is threatening to reshape the investing climate. Nvidia and Bitcoin have hit major milestones, optimism is high for the U.S. banking business, gold is poised for growth as inflation rises—all while the U.S. tariff policy and its outcomes remain uncertain. The mix of positive and negative news creates a ripe environment for stock-price volatility this summer and beyond. Lukman Otunuga, senior market analyst at global broker FXTM, sees the potential for a shake-up across financial markets. "Nvidia’s AI momentum, upbeat bank earnings, and a potentially hot inflation report are combining to create the perfect storm of volatility—with major implications for equities, currencies, and commodities alike," Otunuga explains. So far this week, stock prices have held steady. The S&P 500 (^GSPC) is up 0.1%, the Nasdaq Composite (^IXIC) is 0.7% higher and the Dow Jones Industrial Average (^DJI) gained 0.2% since this week’s trading opened on Monday. The modest growth implies investors are awaiting more information on the economy and earnings before reshuffling their portfolios. These are the investing stories to watch: Take these steps to prep your portfolio for volatility: For investors, volatility is both unavoidable and temporary. Being financially prepared to ride out the turbulence and remain positioned for growth on the other side is your best mitigation strategy.
 --------------------------------------------------
 
+Title: Stocks End Higher Despite Uncertainty About Possible Powell Firing
+URL: https://www.barchart.com/story/news/33449266/stocks-end-higher-despite-uncertainty-about-possible-powell-firing
+Time Published: 2025-07-16T20:57:46Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +0.29%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.47%, and the Nasdaq 100 Index ($...
+--------------------------------------------------
+
 Title: Goldman Sachs Delivers Q2 Powerhouse, Stock Set To Outperform
 URL: https://www.benzinga.com/analyst-stock-ratings/analyst-color/25/07/46450415/goldman-sachs-delivers-q2-powerhouse-stock-set-to-outperform
 Time Published: 2025-07-16T19:22:06Z
@@ -39,14 +45,14 @@ Time Published: 2025-07-16T04:09:26Z
 Description: Bank of America Corporation (NYSE:BAC) is one of the stocks that Jim Cramer shared insights on. Cramer shared his bullish sentiment around the stock despite ...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq waver as Trump says 'not planning' to fire Powell
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-trump-says-not-planning-to-fire-powell-225044772.html
+Title: Stock market today: Dow, S&P 500, Nasdaq tick up as Wall Street juggles tariffs, earnings, and inflation
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-tick-up-as-wall-street-juggles-tariffs-earnings-and-inflation-225044601.html
 Time Published: 2025-07-15T22:50:44Z
 Description: Wall Street digested a surprisingly cool wholesale inflation reading and more big bank earnings, with one eye on Trump's latest tariff moves.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq tick up as Wall Street juggles tariffs, earnings, and inflation
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-tick-up-as-wall-street-juggles-tariffs-earnings-and-inflation-225044601.html
+Title: Stock market today: Dow, S&P 500, Nasdaq waver as Trump says 'not planning' to fire Powell
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-trump-says-not-planning-to-fire-powell-225044772.html
 Time Published: 2025-07-15T22:50:44Z
 Description: Wall Street digested a surprisingly cool wholesale inflation reading and more big bank earnings, with one eye on Trump's latest tariff moves.
 --------------------------------------------------
