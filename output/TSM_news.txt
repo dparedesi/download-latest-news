@@ -36,16 +36,16 @@ Time Published: 2025-07-14T11:00:02Z
 Description: Earnings season kicks into gear this week with banks and tech stocks taking center stage. This week we have NFLX, BAC, TSM, JPM, WFC, C, MS, GS, JNJ and ASML...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as tariff concerns mount ahead of key inflation data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-tariff-concerns-mount-ahead-of-key-inflation-data-000327994.html
-Time Published: 2025-07-14T00:03:27Z
-Description: Markets are dropping off from record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq waver amid tariff threats as bitcoin touches latest record
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-amid-tariff-threats-as-bitcoin-touches-latest-record-000327009.html
 Time Published: 2025-07-14T00:03:27Z
 Description: Markets were muted after record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as tariff concerns mount ahead of key inflation data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-tariff-concerns-mount-ahead-of-key-inflation-data-000327994.html
+Time Published: 2025-07-14T00:03:27Z
+Description: Markets are dropping off from record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slip as tariff concerns mount ahead of key inflation data
