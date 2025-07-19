@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Broadcom (AVGO) Stock: Oppenheimer Boosts Price Target on AI Tailwinds
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_29830605-7f84-4852-b98a-49ffb77c79de
+Time Published: 2025-07-17T18:55:05Z
+Description: None
+--------------------------------------------------
+
 Title: Stock Market Today: Stocks higher on big earnings, better retail sales
 URL: https://www.thestreet.com/investing/stocks/stock-market-today-stocks-open-higher-on-big-earnings-better-retail-sales
 Time Published: 2025-07-17T17:12:27Z
@@ -10,6 +16,18 @@ Title: What the China export easing means for Nvidia, AMD, and other chips stock
 URL: https://finance.yahoo.com/news/what-the-china-export-easing-means-for-nvidia-amd-and-other-chips-stocks-135640925.html
 Time Published: 2025-07-17T13:56:40Z
 Description: A potential green light in AI chip sales to China could reset the global semiconductor market.
+--------------------------------------------------
+
+Title: Broadcom Stock Just Hit a New 52-Week High. Should You Buy AVGO Here?
+URL: https://www.barchart.com/story/news/33466015/broadcom-stock-just-hit-a-new-52-week-high-should-you-buy-avgo-here
+Time Published: 2025-07-17T13:30:02Z
+Description: AI-fueled growth is rewriting the AVGO stock chart again. Is this the breakout investors have been waiting for?
+--------------------------------------------------
+
+Title: Looking for AI Chip Stocks Beyond Nvidia? Goldman Sachs Says These 2 Names Deserve a Look
+URL: https://finance.yahoo.com/news/looking-ai-chip-stocks-beyond-101431692.html
+Time Published: 2025-07-17T10:14:31Z
+Description: The AI boom has been generating hype and headlines for several years now, and deservedly so. It’s transforming the way businesses operate, reshaping...
 --------------------------------------------------
 
 Title: Wall Street's Chip Darling Stocks Set to Shine Again, Says Oppenheimer
@@ -58,16 +76,4 @@ Title: Goldman Sachs Backs Nvidia and Broadcom as Top AI Stocks to Own
 URL: https://finance.yahoo.com/news/goldman-sachs-backs-nvidia-broadcom-104256664.html
 Time Published: 2025-07-14T10:42:56Z
 Description: Chip giants get a fresh vote of confidence as AI enters its next phase
---------------------------------------------------
-
-Title: Why Broadcom’s (AVGO) AI Momentum Has Goldman Sachs Backing the Stock
-URL: https://finance.yahoo.com/news/why-broadcom-avgo-ai-momentum-152621954.html
-Time Published: 2025-07-13T15:26:21Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of the Trending AI Stocks on Wall Street. On July 10, Goldman Sachs analyst James Schneider initiates coverage on the...
---------------------------------------------------
-
-Title: Mizuho Lifts PT on Broadcom (AVGO) Stock
-URL: https://finance.yahoo.com/news/mizuho-lifts-pt-broadcom-avgo-051046970.html
-Time Published: 2025-07-13T05:10:46Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of the 10 Best Semiconductor Stocks to Buy According to Reddit. Mizuho analyst Vijay Rakesh raised the price target on the...
 --------------------------------------------------

@@ -1,5 +1,17 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Stock market today: S&P 500, Nasdaq clinch records as US economy flashes strength, earnings roll in
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-clinch-records-as-us-economy-flashes-strength-earnings-roll-in-200059490.html
+Time Published: 2025-07-17T20:00:59Z
+Description: The major indexes remain at or near record highs while navigating a plethora of catalysts, including earnings, economic data, tariffs, and Trump-Powell drama...
+--------------------------------------------------
+
+Title: TSM Reports Record Profits, Lifts Forecast — But Stays Cautious
+URL: https://finance.yahoo.com/news/tsm-reports-record-profits-lifts-192827384.html
+Time Published: 2025-07-17T19:28:27Z
+Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the AI Stocks Gaining Attention on Wall Street. On July 15, Reuters reported that...
+--------------------------------------------------
+
 Title: Stock Market Today: Stocks higher on big earnings, better retail sales
 URL: https://www.thestreet.com/investing/stocks/stock-market-today-stocks-open-higher-on-big-earnings-better-retail-sales
 Time Published: 2025-07-17T17:12:27Z
@@ -13,14 +25,14 @@ Full Content:
 US Stock market today ended higher as the Dow Jones, S&P 500, and Nasdaq all posted modest gains amid upbeat earnings reports and a surprise jump in retail sales. Investors are cautiously optimistic despite political tension as President Trump continues pressuring Fed Chair Jerome Powell over interest rate cuts. Solid consumer spending and a drop in jobless claims boosted confidence, while TSMC and PepsiCo earnings added momentum. All eyes now shift to Netflix earnings, set to kick off the Big Tech reporting season. Read the full story to see how markets are reacting and what’s next for Wall Street. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Canada’s rich getting richer, poor getting poorer, income gap reaches historic high as wages decline and investment surges Which type of earthquake was the Alaskan quake? Understanding Foreshocks, Mainshocks, and Aftershocks Alaska earthquake of 7.3 magnitude strikes near Sand Point; tsunami warning for Kodiak, Cold Bay, and Unimak Pass Canada’s Parents and Grandparents Sponsorship 2025 intake begins July 28; steps to take if you're invited and what to do if you're not Who is Elsie Hewitt? Comedian Pete Davidson’s girlfriend and mom-to-be Eugenie Bouchard to retire at Canadian Open; still single, here’s what she’s worth World Emoji Day 2025: Here are Canada’s most popular emojis Porter Airlines flight makes emergency landing in Regina after smoke smell detected in cabin Alleged aircraft hijacking at Vancouver International Airport leads to arrest, flight delays Canada’s job crisis? Student unemployment skyrockets to 14.2% — is a recession here already? Obesity in Canada surges to one-third of adults, study links spike to pandemic disruptions Poilievre says Canada needs more people leaving than arriving to ease housing, job strain Couple caught having sex while driving a stolen RV in West Virginia, police say 'Stupid Republicans': Trump blasts his own camp '1,563 Indians Deported from US in 6 Months' GOP Rep grills CUNY Chancellor on antisemitism Iraq mall blaze kills 69 Trump hints at India deal, iPhones power India exports TechM AGM: Anand Mahindra on Trust, AI and roadahead Wipro Q1 Results: PAT rises 11% YoY to Rs 3,330 cr MEA briefs media on foreign policy stance J&K LG blames Pakistan for Pahalgam terror SCO must recommit to objectives, says Jaishankar 'Stupid Republicans': Trump blasts his own camp '1,563 Indians Deported from US in 6 Months' GOP Rep grills CUNY Chancellor on antisemitism Iraq mall blaze kills 69 Trump hints at India deal, iPhones power India exports TechM AGM: Anand Mahindra on Trust, AI and roadahead Wipro Q1 Results: PAT rises 11% YoY to Rs 3,330 cr MEA briefs media on foreign policy stance J&K LG blames Pakistan for Pahalgam terror SCO must recommit to objectives, says Jaishankar Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Prime Articles Top Market Pages Top Story Listing Top Slideshow Private Companies Top Commodities Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq edge higher as earnings roll in, retail sales jump
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-edge-higher-as-earnings-roll-in-retail-sales-jump-124308394.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as earnings roll in, retail sales jump
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-higher-as-earnings-roll-in-retail-sales-jump-124308944.html
 Time Published: 2025-07-17T12:43:08Z
 Description: The major indexes remain at or near record highs while navigating a plethora of catalysts, including earnings, economic data, tariffs, and Trump-Powell drama...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as earnings roll in, retail sales jump
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-higher-as-earnings-roll-in-retail-sales-jump-124308944.html
+Title: Stock market today: Dow, S&P 500, Nasdaq edge higher as earnings roll in, retail sales jump
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-edge-higher-as-earnings-roll-in-retail-sales-jump-124308394.html
 Time Published: 2025-07-17T12:43:08Z
 Description: The major indexes remain at or near record highs while navigating a plethora of catalysts, including earnings, economic data, tariffs, and Trump-Powell drama...
 --------------------------------------------------
@@ -37,6 +49,12 @@ Time Published: 2025-07-16T22:16:14Z
 Description: The major indexes remain at or near record highs while navigating a plethora of catalysts, including earnings, economic data, tariffs, and Trump-Powell drama...
 --------------------------------------------------
 
+Title: TSMC posts record quarterly profit on AI demand, but wary about tariffs
+URL: https://finance.yahoo.com/news/tsmc-quarterly-profit-seen-hitting-220157812.html
+Time Published: 2025-07-16T22:01:57Z
+Description: TAIPEI (Reuters) -TSMC, the world's main producer of advanced AI chips, posted record, forecast-beating quarterly profit on Thursday but warned that future...
+--------------------------------------------------
+
 Title: TSM: Morgan Stanley Says Buy Ahead of Earnings on Strong AI Demand
 URL: https://finance.yahoo.com/news/tsm-morgan-stanley-says-buy-094942256.html
 Time Published: 2025-07-16T09:49:42Z
@@ -49,16 +67,16 @@ Time Published: 2025-07-15T16:11:20Z
 Description: Earnings season is officially underway.
 --------------------------------------------------
 
-Title: Earnings live: Netflix highlights as second quarter earnings season ramps up
-URL: https://finance.yahoo.com/news/live/earnings-live-netflix-highlights-as-second-quarter-earnings-season-ramps-up-205852482.html
-Time Published: 2025-07-14T20:58:52Z
-Description: Second quarter earnings season kicked off in earnest, with Netflix results on deck.
---------------------------------------------------
-
 Title: Earnings live: 3M, American Express, Charles Schwab Q2 results surpass estimates
 URL: https://finance.yahoo.com/news/live/earnings-live-3m-american-express-charles-schwab-q2-results-surpass-estimates-205852119.html
 Time Published: 2025-07-14T20:58:52Z
 Description: Second quarter earnings season kicked off in earnest this week.
+--------------------------------------------------
+
+Title: Earnings live: Netflix highlights as second quarter earnings season ramps up
+URL: https://finance.yahoo.com/news/live/earnings-live-netflix-highlights-as-second-quarter-earnings-season-ramps-up-205852482.html
+Time Published: 2025-07-14T20:58:52Z
+Description: Second quarter earnings season kicked off in earnest, with Netflix results on deck.
 --------------------------------------------------
 
 Title: Earnings live: Wall Street banks forge ahead to kick off second quarter earnings season
@@ -79,32 +97,14 @@ Time Published: 2025-07-14T00:03:27Z
 Description: Markets were muted after record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as tariff concerns mount ahead of key inflation data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-tariff-concerns-mount-ahead-of-key-inflation-data-000327994.html
-Time Published: 2025-07-14T00:03:27Z
-Description: Markets are dropping off from record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slip as tariff concerns mount ahead of key inflation data
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-tariff-concerns-mount-ahead-of-key-inflation-data-000327075.html
 Time Published: 2025-07-14T00:03:27Z
 Description: Markets are dropping off from record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
 --------------------------------------------------
 
-Title: Tariffs, Inflation and Other Key Things to Watch this Week
-URL: https://www.barchart.com/story/news/33375945/tariffs-inflation-and-other-key-things-to-watch-this-week
-Time Published: 2025-07-13T17:00:03Z
-Description: Markets enter the heart of earnings season with the S&P 500 facing a critical test as major financial institutions kick off quarterly results amid escalating...
---------------------------------------------------
-
-Title: Inflation data, big bank earnings, and Netflix results: What to watch this week
-URL: https://finance.yahoo.com/news/inflation-data-big-bank-earnings-and-netflix-results-what-to-watch-this-week-115103942.html
-Time Published: 2025-07-13T11:51:03Z
-Description: A busy week ahead for investors will see inflation data, the debate about the Fed's next move, and the start of second quarter earnings season all come into ...
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing (TSM) Announces Net Revenue for June 2025
-URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-tsm-announces-051048929.html
-Time Published: 2025-07-13T05:10:48Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the 10 Best Semiconductor Stocks to Buy According to Reddit. The company announced...
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as tariff concerns mount ahead of key inflation data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-tariff-concerns-mount-ahead-of-key-inflation-data-000327994.html
+Time Published: 2025-07-14T00:03:27Z
+Description: Markets are dropping off from record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
 --------------------------------------------------

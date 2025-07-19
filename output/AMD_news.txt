@@ -50,9 +50,3 @@ URL: https://www.barchart.com/story/news/33384685/this-analyst-just-doubled-his-
 Time Published: 2025-07-14T13:00:02Z
 Description: AMD just landed a new price target from HSBC — double the previous estimate — as confidence builds around its AI chip momentum.
 --------------------------------------------------
-
-Title: HSBC Upgrades Advanced Micro Devices (AMD) Stock to Buy from Hold
-URL: https://finance.yahoo.com/news/hsbc-upgrades-advanced-micro-devices-051044140.html
-Time Published: 2025-07-13T05:10:44Z
-Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the 10 Best Semiconductor Stocks to Buy According to Reddit. The company’s stock was upgraded to a “Buy” ...
---------------------------------------------------
