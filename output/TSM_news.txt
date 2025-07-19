@@ -25,14 +25,14 @@ Full Content:
 US Stock market today ended higher as the Dow Jones, S&P 500, and Nasdaq all posted modest gains amid upbeat earnings reports and a surprise jump in retail sales. Investors are cautiously optimistic despite political tension as President Trump continues pressuring Fed Chair Jerome Powell over interest rate cuts. Solid consumer spending and a drop in jobless claims boosted confidence, while TSMC and PepsiCo earnings added momentum. All eyes now shift to Netflix earnings, set to kick off the Big Tech reporting season. Read the full story to see how markets are reacting and what’s next for Wall Street. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Canada’s rich getting richer, poor getting poorer, income gap reaches historic high as wages decline and investment surges Which type of earthquake was the Alaskan quake? Understanding Foreshocks, Mainshocks, and Aftershocks Alaska earthquake of 7.3 magnitude strikes near Sand Point; tsunami warning for Kodiak, Cold Bay, and Unimak Pass Canada’s Parents and Grandparents Sponsorship 2025 intake begins July 28; steps to take if you're invited and what to do if you're not Who is Elsie Hewitt? Comedian Pete Davidson’s girlfriend and mom-to-be Eugenie Bouchard to retire at Canadian Open; still single, here’s what she’s worth World Emoji Day 2025: Here are Canada’s most popular emojis Porter Airlines flight makes emergency landing in Regina after smoke smell detected in cabin Alleged aircraft hijacking at Vancouver International Airport leads to arrest, flight delays Canada’s job crisis? Student unemployment skyrockets to 14.2% — is a recession here already? Obesity in Canada surges to one-third of adults, study links spike to pandemic disruptions Poilievre says Canada needs more people leaving than arriving to ease housing, job strain Couple caught having sex while driving a stolen RV in West Virginia, police say 'Stupid Republicans': Trump blasts his own camp '1,563 Indians Deported from US in 6 Months' GOP Rep grills CUNY Chancellor on antisemitism Iraq mall blaze kills 69 Trump hints at India deal, iPhones power India exports TechM AGM: Anand Mahindra on Trust, AI and roadahead Wipro Q1 Results: PAT rises 11% YoY to Rs 3,330 cr MEA briefs media on foreign policy stance J&K LG blames Pakistan for Pahalgam terror SCO must recommit to objectives, says Jaishankar 'Stupid Republicans': Trump blasts his own camp '1,563 Indians Deported from US in 6 Months' GOP Rep grills CUNY Chancellor on antisemitism Iraq mall blaze kills 69 Trump hints at India deal, iPhones power India exports TechM AGM: Anand Mahindra on Trust, AI and roadahead Wipro Q1 Results: PAT rises 11% YoY to Rs 3,330 cr MEA briefs media on foreign policy stance J&K LG blames Pakistan for Pahalgam terror SCO must recommit to objectives, says Jaishankar Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Prime Articles Top Market Pages Top Story Listing Top Slideshow Private Companies Top Commodities Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq edge higher as earnings roll in, retail sales jump
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-edge-higher-as-earnings-roll-in-retail-sales-jump-124308394.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as earnings roll in, retail sales jump
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-higher-as-earnings-roll-in-retail-sales-jump-124308944.html
 Time Published: 2025-07-17T12:43:08Z
 Description: The major indexes remain at or near record highs while navigating a plethora of catalysts, including earnings, economic data, tariffs, and Trump-Powell drama...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as earnings roll in, retail sales jump
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-higher-as-earnings-roll-in-retail-sales-jump-124308944.html
+Title: Stock market today: Dow, S&P 500, Nasdaq edge higher as earnings roll in, retail sales jump
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-edge-higher-as-earnings-roll-in-retail-sales-jump-124308394.html
 Time Published: 2025-07-17T12:43:08Z
 Description: The major indexes remain at or near record highs while navigating a plethora of catalysts, including earnings, economic data, tariffs, and Trump-Powell drama...
 --------------------------------------------------
@@ -91,16 +91,16 @@ Time Published: 2025-07-14T11:00:02Z
 Description: Earnings season kicks into gear this week with banks and tech stocks taking center stage. This week we have NFLX, BAC, TSM, JPM, WFC, C, MS, GS, JNJ and ASML...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as tariff concerns mount ahead of key inflation data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-tariff-concerns-mount-ahead-of-key-inflation-data-000327994.html
-Time Published: 2025-07-14T00:03:27Z
-Description: Markets are dropping off from record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq waver amid tariff threats as bitcoin touches latest record
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-amid-tariff-threats-as-bitcoin-touches-latest-record-000327009.html
 Time Published: 2025-07-14T00:03:27Z
 Description: Markets were muted after record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as tariff concerns mount ahead of key inflation data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-tariff-concerns-mount-ahead-of-key-inflation-data-000327994.html
+Time Published: 2025-07-14T00:03:27Z
+Description: Markets are dropping off from record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slip as tariff concerns mount ahead of key inflation data
