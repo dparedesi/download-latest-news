@@ -18,3 +18,9 @@ URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-secures-recor
 Time Published: 2025-07-14T20:00:46Z
 Description: US stocks rose on Monday with the Nasdaq closing at a fresh record with Trump's tariffs in focus as key inflation data and earnings season loom.
 --------------------------------------------------
+
+Title: Gold price today, Friday, July 18, 2025: Gold remains steady after positive economic news
+URL: https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-july-18-2025-gold-remains-steady-after-positive-economic-news-115319268.html
+Time Published: 2025-07-14T11:53:19Z
+Description: Gold futures opened at $3,347.50 per ounce Friday, 0.2% higher than Thursday's close of $3,340.10. The price of gold has been relatively stable in July.
+--------------------------------------------------

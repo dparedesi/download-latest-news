@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Oracle's AI-driven surge: Can its stock rally last?
+URL: https://finance.yahoo.com/news/oracles-ai-driven-surge-can-its-stock-rally-last-134100932.html
+Time Published: 2025-07-18T13:41:00Z
+Description: With Oracle's revenue set to soar on GPU deals and cloud growth, investors are betting big, but profitability and valuation questions loom large.
+--------------------------------------------------
+
 Title: Broadcom Stock Just Hit a New 52-Week High. Should You Buy AVGO Here?
 URL: https://www.barchart.com/story/news/33466015/broadcom-stock-just-hit-a-new-52-week-high-should-you-buy-avgo-here
 Time Published: 2025-07-17T13:30:02Z
