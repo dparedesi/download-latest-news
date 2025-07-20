@@ -69,14 +69,14 @@ Time Published: 2025-07-15T14:09:56Z
 Description: The S&P 500 Index ($SPX ) (SPY ) is up +0.33%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up...
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq climbs on Nvidia boost, Dow and S&P fall with CPI inflation, bank earnings in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-climbs-on-nvidia-boost-dow-and-sp-fall-with-cpi-inflation-bank-earnings-in-focus-133530967.html
+Title: Stock market today: Nasdaq pops on Nvidia boost, while Dow slides after CPI inflation data, bank earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-pops-on-nvidia-boost-while-dow-slides-after-cpi-inflation-data-bank-earnings-133530972.html
 Time Published: 2025-07-15T13:35:30Z
 Description: Tech led US stocks on Tuesday as a key consumer inflation print showed inflation accelerated in June, big banks kicked off earnings season, and Nvidia was...
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq pops on Nvidia boost, while Dow slides after CPI inflation data, bank earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-pops-on-nvidia-boost-while-dow-slides-after-cpi-inflation-data-bank-earnings-133530972.html
+Title: Stock market today: Nasdaq climbs on Nvidia boost, Dow and S&P fall with CPI inflation, bank earnings in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-climbs-on-nvidia-boost-dow-and-sp-fall-with-cpi-inflation-bank-earnings-in-focus-133530967.html
 Time Published: 2025-07-15T13:35:30Z
 Description: Tech led US stocks on Tuesday as a key consumer inflation print showed inflation accelerated in June, big banks kicked off earnings season, and Nvidia was...
 --------------------------------------------------
