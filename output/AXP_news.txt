@@ -1,5 +1,17 @@
 List of news related to American Express stock price AXP:
 
+Title: Stocks Finish Slightly Lower on Mixed Earnings Results
+URL: https://www.barchart.com/story/news/33502891/stocks-finish-slightly-lower-on-mixed-earnings-results
+Time Published: 2025-07-18T20:33:46Z
+Description: The S&P 500 Index ($SPX ) (SPY ) Friday closed down -0.01%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.32%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq hits record, S&P 500 posts weekly gain, Dow slips as Wall Street shrugs off tariff tensions
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-hits-record-sp-500-posts-weekly-gain-dow-slips-as-wall-street-shrugs-off-tariff-tensions-200036322.html
+Time Published: 2025-07-18T20:00:36Z
+Description: Wall Street is staying bullish as the economy shows signs of strength.
+--------------------------------------------------
+
 Title: US stock market today: Wall Street pauses near record highs as earnings, inflation expectations take center stage
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-wall-street-pauses-near-record-highs-sp-500-nasdaq-dip-netflix-plunges-american-express-falters-as-inflation-outlook-cools/articleshow/122768384.cms
 Time Published: 2025-07-18T15:18:27Z
@@ -23,16 +35,4 @@ Title: Stock Market Today: Dow slumps; S&P 500 and Nasdaq rally
 URL: https://www.thestreet.com/investing/stock-market-today-cpi-and-banks-in-focus
 Time Published: 2025-07-15T16:28:26Z
 Description: The country's largest banks reported earnings that exceeded Wall Street's estimates. Core inflation, calmer than expected, still bothers the Street.
---------------------------------------------------
-
-Title: Stocks Set to Open Lower as Trump Ratchets Up Tariff Threats, U.S. Inflation Data and Big Bank Earnings Awaited
-URL: https://www.barchart.com/story/news/33380911/stocks-set-to-open-lower-as-trump-ratchets-up-tariff-threats-u-s-inflation-data-and-big-bank-earnings-awaited
-Time Published: 2025-07-14T09:54:35Z
-Description: September S&P 500 E-Mini futures (ESU25) are down -0.29%, and September Nasdaq 100 E-Mini futures (NQU25) are down -0.30% this morning, pointing to a lower...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slip as tariff concerns mount ahead of key inflation data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-tariff-concerns-mount-ahead-of-key-inflation-data-000327075.html
-Time Published: 2025-07-14T00:03:27Z
-Description: Markets are dropping off from record highs with Trump's tariffs in focus as key inflation data and earnings season loom.
 --------------------------------------------------

@@ -56,15 +56,3 @@ URL: https://www.barchart.com/story/news/33412124/stocks-see-support-from-favora
 Time Published: 2025-07-15T14:09:56Z
 Description: The S&P 500 Index ($SPX ) (SPY ) is up +0.33%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up...
 --------------------------------------------------
-
-Title: Latest Tariff Threats Weigh on Stocks
-URL: https://www.barchart.com/story/news/33386786/latest-tariff-threats-weigh-on-stocks
-Time Published: 2025-07-14T14:12:17Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.21%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.05%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: This Analyst Just Doubled His Price Target on AMD Stock
-URL: https://www.barchart.com/story/news/33384685/this-analyst-just-doubled-his-price-target-on-amd-stock
-Time Published: 2025-07-14T13:00:02Z
-Description: AMD just landed a new price target from HSBC — double the previous estimate — as confidence builds around its AI chip momentum.
---------------------------------------------------

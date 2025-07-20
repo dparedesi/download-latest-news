@@ -5,15 +5,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7f22c792
 Time Published: 2025-07-16T09:27:37Z
 Description: None
 --------------------------------------------------
-
-Title: Latest Tariff Threats Weigh on Stocks
-URL: https://www.barchart.com/story/news/33386786/latest-tariff-threats-weigh-on-stocks
-Time Published: 2025-07-14T14:12:17Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.21%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.05%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stocks Set to Open Lower as Trump Ratchets Up Tariff Threats, U.S. Inflation Data and Big Bank Earnings Awaited
-URL: https://www.barchart.com/story/news/33380911/stocks-set-to-open-lower-as-trump-ratchets-up-tariff-threats-u-s-inflation-data-and-big-bank-earnings-awaited
-Time Published: 2025-07-14T09:54:35Z
-Description: September S&P 500 E-Mini futures (ESU25) are down -0.29%, and September Nasdaq 100 E-Mini futures (NQU25) are down -0.30% this morning, pointing to a lower...
---------------------------------------------------
