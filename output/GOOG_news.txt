@@ -1,7 +1,7 @@
 List of news related to Alphabet Inc stock price GOOG:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq inch higher to start busy week of Big Tech-dominated earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-inch-higher-to-start-busy-week-of-big-tech-dominated-earnings-235753747.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures inch higher ahead of tech earnings as tariff deadline looms
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-higher-ahead-of-tech-earnings-as-tariff-deadline-looms-235753615.html
 Time Published: 2025-07-20T23:57:53Z
 Description: Earnings season dominates market focus this week with tariffs still on the table.
 --------------------------------------------------
@@ -12,8 +12,8 @@ Time Published: 2025-07-20T23:57:53Z
 Description: Earnings season dominates market focus this week with tariffs still on the table.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures inch higher ahead of tech earnings as tariff deadline looms
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-higher-ahead-of-tech-earnings-as-tariff-deadline-looms-235753615.html
+Title: Stock market today: Dow, S&P 500, Nasdaq inch higher to start busy week of Big Tech-dominated earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-inch-higher-to-start-busy-week-of-big-tech-dominated-earnings-235753747.html
 Time Published: 2025-07-20T23:57:53Z
 Description: Earnings season dominates market focus this week with tariffs still on the table.
 --------------------------------------------------
