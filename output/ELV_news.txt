@@ -42,9 +42,3 @@ URL: https://finance.yahoo.com/news/elevance-health-hit-medicaid-troubles-140952
 Time Published: 2025-07-17T14:09:52Z
 Description: Elevance Health Inc. (NYSE:ELV) shares plummeted nearly 12% on Thursday after the health insurer reported second-quarter 2025 adjusted earnings that missed...
 --------------------------------------------------
-
-Title: Stocks End Higher Despite Uncertainty About Possible Powell Firing
-URL: https://www.barchart.com/story/news/33449266/stocks-end-higher-despite-uncertainty-about-possible-powell-firing
-Time Published: 2025-07-16T20:57:46Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +0.29%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.47%, and the Nasdaq 100 Index ($...
---------------------------------------------------

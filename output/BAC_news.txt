@@ -1,5 +1,11 @@
 List of news related to Bank of America stock price BAC:
 
+Title: The American consumer is proving to be resilient, at least according to their bankers
+URL: https://finance.yahoo.com/news/the-american-consumer-is-proving-to-be-resilient-at-least-according-to-their-bankers-222724546.html
+Time Published: 2025-07-20T22:27:24Z
+Description: The state of consumer spending can be described as cooling, but also "still positive" and "still growing."
+--------------------------------------------------
+
 Title: Is The Market Missing Bank Of America's Strong Earnings Growth?
 URL: https://finance.yahoo.com/news/market-missing-bank-americas-strong-173644687.html
 Time Published: 2025-07-17T17:36:44Z
@@ -10,49 +16,4 @@ Title: What the China export easing means for Nvidia, AMD, and other chips stock
 URL: https://finance.yahoo.com/news/what-the-china-export-easing-means-for-nvidia-amd-and-other-chips-stocks-135640925.html
 Time Published: 2025-07-17T13:56:40Z
 Description: A potential green light in AI chip sales to China could reset the global semiconductor market.
---------------------------------------------------
-
-Title: Investing News: Tech, Crypto, Banking, And Inflation Headlines Could Spur Volatility
-URL: https://www.forbes.com/sites/catherinebrock/2025/07/16/investing-news-tech-crypto-banking-and-inflation-headlines-could-spur-volatility/
-Time Published: 2025-07-16T21:40:52Z
-Full Content:
-ByCatherine Brock ByCatherine Brock, Contributor. The mix of positive and negative investing news this week creates a ripe environment for stock-price ... More volatility this summer and beyond. A whirlwind of impactful investing news is threatening to reshape the investing climate. Nvidia and Bitcoin have hit major milestones, optimism is high for the U.S. banking business, gold is poised for growth as inflation rises—all while the U.S. tariff policy and its outcomes remain uncertain. The mix of positive and negative news creates a ripe environment for stock-price volatility this summer and beyond. Lukman Otunuga, senior market analyst at global broker FXTM, sees the potential for a shake-up across financial markets. "Nvidia’s AI momentum, upbeat bank earnings, and a potentially hot inflation report are combining to create the perfect storm of volatility—with major implications for equities, currencies, and commodities alike," Otunuga explains. So far this week, stock prices have held steady. The S&P 500 (^GSPC) is up 0.1%, the Nasdaq Composite (^IXIC) is 0.7% higher and the Dow Jones Industrial Average (^DJI) gained 0.2% since this week’s trading opened on Monday. The modest growth implies investors are awaiting more information on the economy and earnings before reshuffling their portfolios. These are the investing stories to watch: Take these steps to prep your portfolio for volatility: For investors, volatility is both unavoidable and temporary. Being financially prepared to ride out the turbulence and remain positioned for growth on the other side is your best mitigation strategy.
---------------------------------------------------
-
-Title: Stocks End Higher Despite Uncertainty About Possible Powell Firing
-URL: https://www.barchart.com/story/news/33449266/stocks-end-higher-despite-uncertainty-about-possible-powell-firing
-Time Published: 2025-07-16T20:57:46Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +0.29%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.47%, and the Nasdaq 100 Index ($...
---------------------------------------------------
-
-Title: Goldman Sachs Delivers Q2 Powerhouse, Stock Set To Outperform
-URL: https://www.benzinga.com/analyst-stock-ratings/analyst-color/25/07/46450415/goldman-sachs-delivers-q2-powerhouse-stock-set-to-outperform
-Time Published: 2025-07-16T19:22:06Z
-Full Content:
-Benzinga Rankings give you vital metrics on any stock – anytime. Goldman Sachs Group Inc. GS reported a solid second quarter for 2025, with results surpassing analyst estimates. The firm demonstrated strong performance across key segments, including significant contributions from its trading and investment banking operations. This quarter’s results also saw the company increase its shareholder returns. JPMorgan analyst Kian Abouhossein reviewed Goldman Sachs Group Inc.‘s GS second-quarter 2025 results, highlighting a solid earnings beat and strong performance across key segments. Goldman reported earnings of $10.91 per share, surpassing the consensus estimate of $9.48. Revenue rose 15% year over year to $14.58 billion, driven by robust results in trading and investment banking. Also Read: Citigroup Q2 Revenue And Profit Jumps, CFO Says Recession Risk Has Fallen Equities revenue surged 36%, and investment banking fees climbed 26%. Net interest income increased 56% to $3.1 billion. Assets under supervision reached a record $3.29 trillion, supported by $5 billion in net inflows. The firm returned $3.96 billion to shareholders during the quarter and raised its quarterly dividend to $4.00 per share. Return on equity stood at 12.8%, and the Common Equity Tier 1 (CET1) capital ratio was 14.5%. CEO David Solomon attributed the strong results to solid execution and an ongoing commitment to risk management. The analyst noted that Goldman Sachs Group Inc. posted earnings 12% above Bloomberg consensus and 29% ahead of JPMorgan estimates. Pre-tax earnings of $4.96 billion exceeded expectations by 27%. Return on tangible equity reached 13.6% for the quarter and 15.8% for the first half of 2025. According to Kian Abouhossein, a key highlight was equities sales and trading revenue, which jumped 36% year over year to a record $4.3 billion, outperforming peers such as Bank of America BAC and Citigroup C. The analyst expects low-to-mid-single-digit EPS upgrades for 2025 and sees Goldman Sachs shares likely outperforming peers. According to the analyst’s valuation, Goldman Sachs currently trades at 13.2 times forward earnings and 2.1 times tangible book value, with a projected return on tangible equity of 15.8% by 2027. The stock is rated Overweight. Recent Analyst Ratings: Price Action: GS shares were trading lower by 0.26% to $700.19 at last check Wednesday. Read Next: Photo by ioda via Shutterstock Benzinga Rankings give you vital metrics on any stock – anytime. © 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. Join Benzinga Edge and unlock all the major upgrades, downgrades, and changes to the market's most accurate analysts. A newsletter built for market enthusiasts by market enthusiasts. Top stories, top movers, and trade ideas delivered to your inbox every weekday before and after the market closes.
---------------------------------------------------
-
-Title: Why Netflix and Meta are the next tech catalysts: Opening Bid top takeaways
-URL: https://finance.yahoo.com/news/why-netflix-and-meta-are-the-next-tech-catalysts-opening-bid-top-takeaways-151632607.html
-Time Published: 2025-07-16T15:16:32Z
-Description: Big banks deliver, for the most part.
---------------------------------------------------
-
-Title: US stock market today: Dow surges 742 points, S&P 500 and Nasdaq Slip; Nvidia, Goldman Sachs, J&J power Wall Street rally
-URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-dow-surges-742-points-sp500-and-nasdaq-slip-nvidia-goldman-sachs-jj-power-wall-street-rally/articleshow/122580026.cms
-Time Published: 2025-07-16T15:06:01Z
-Full Content:
-US stock market rises as Dow Jones Industrial Average rose slightly on Wednesday, gaining 88 points (0.3%) as investors reacted to better-than-expected bank earnings from Goldman Sachs, Morgan Stanley, and Bank of America. At the same time, June’s Producer Price Index (PPI) showed no monthly increase, easing short-term inflation fears. While Trump’s fresh tariffs on Mexico, EU, and Jakarta sparked global concerns, hopes remain that the Federal Reserve could ease rates later in the year. With mixed market performance and ongoing geopolitical developments, investors are cautiously optimistic. Catch the full update on market trends, inflation data, and how Trump’s trade moves could shape future market sentiment. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. House committee grills Sean Duffy over transportation spending Immigration judges fired in America Defence Stocks Cool & NATO Warns India Big win for Trump on $9.4B DOGE cuts plan LIVE| Tech Mahindra Q1 Results: Profit of Rs 1,140 cr Op Sindoor: CDS breaks silence on damage to Indian military by Pak 'Pretty boring stuff': Donald Trump downplays Epstein files 'Not going to talk...': US AG Bondi dodges question on Epstein Files ‘Not a Trump war’: Trump slams Biden for Russia-Ukraine conflict The Golden Thumbrule on identifying the next big sector to invest | Ep 1 House committee grills Sean Duffy over transportation spending Immigration judges fired in America Defence Stocks Cool & NATO Warns India Big win for Trump on $9.4B DOGE cuts plan LIVE| Tech Mahindra Q1 Results: Profit of Rs 1,140 cr Op Sindoor: CDS breaks silence on damage to Indian military by Pak 'Pretty boring stuff': Donald Trump downplays Epstein files 'Not going to talk...': US AG Bondi dodges question on Epstein Files ‘Not a Trump war’: Trump slams Biden for Russia-Ukraine conflict The Golden Thumbrule on identifying the next big sector to invest | Ep 1 Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Commodities Top Story Listing Top Prime Articles Top Definitions Top Slideshow Private Companies Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: S&P Futures Muted With Focus on Key U.S. PPI Data and More Big Bank Earnings, Fed Speak on Tap
-URL: https://www.barchart.com/story/news/33431520/s-p-futures-muted-with-focus-on-key-u-s-ppi-data-and-more-big-bank-earnings-fed-speak-on-tap
-Time Published: 2025-07-16T10:05:15Z
-Description: September S&P 500 E-Mini futures (ESU25) are trending down -0.09% this morning as investors digest the latest tariff headlines, while also awaiting crucial...
---------------------------------------------------
-
-Title: Jim Cramer Says “Don’t Wait” on Bank of America
-URL: https://finance.yahoo.com/news/jim-cramer-says-don-t-040926821.html
-Time Published: 2025-07-16T04:09:26Z
-Description: Bank of America Corporation (NYSE:BAC) is one of the stocks that Jim Cramer shared insights on. Cramer shared his bullish sentiment around the stock despite ...
 --------------------------------------------------
