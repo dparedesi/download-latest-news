@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: AES Corporation’s Q2 2025 Earnings: What to Expect
+URL: https://www.barchart.com/story/news/33548248/aes-corporations-q2-2025-earnings-what-to-expect
+Time Published: 2025-07-22T09:56:20Z
+Description: AES Corporation is gearing up to report its fiscal second-quarter results next month, and analysts are forecasting a robust double-digit growth in earnings.
+--------------------------------------------------
+
 Title: 3 reasons to buy this booming ASX All Ords tech stock today
 URL: https://www.fool.com.au/2025/07/22/3-reasons-to-buy-this-booming-asx-all-ords-tech-stock-today/
 Time Published: 2025-07-22T01:31:07Z
@@ -19,6 +25,12 @@ URL: https://www.investopedia.com/why-one-wall-street-analyst-is-growing-more-bu
 Time Published: 2025-07-21T20:52:33Z
 Full Content:
 Arm (ARM) shares climbed Monday as analysts at Wells Fargo raised their price target for the chip designer’s stock ahead of quarterly earnings due next week. The analysts raised their target to $175 from $145, well above the mean of analysts tracked by Visible Alpha, which sits at about $143. Shares of Arm rose over 3% to close near $162 Monday, and have added roughly a third of their value in 2025. Arm, which develops CPU designs used in chips from companies like Nvidia (NVDA), Microsoft (MSFT) and Alphabet's (GOOGL) Google, could be well-positioned to benefit from “expanding AI opportunities,” including growing data center demand, Wells Fargo told clients in a note Sunday. "We continue to estimate strong growth for Arm's royalties business despite tariff-related uncertainty," Wells Fargo said, adding that Arm’s ramp of AI and custom silicon designs could "drive meaningful royalty revenue growth” this fiscal year. Arm is scheduled to report fiscal first-quarter earnings after the market closes on July 30.
+--------------------------------------------------
+
+Title: Why This Analyst Says Amazon Stock Is Still His ‘Top Pick’
+URL: https://www.barchart.com/story/news/33538979/why-this-analyst-says-amazon-stock-is-still-his-top-pick
+Time Published: 2025-07-21T20:20:48Z
+Description: Morgan Stanley pegs its Amazon price target at $300 as easing tariffs and AI‑powered AWS fuel growth.
 --------------------------------------------------
 
 Title: A $15 Billion Reason to Buy Nvidia Stock Here
