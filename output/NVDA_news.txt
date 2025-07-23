@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Nasdaq, S&P 500 waver amid wave of earnings as tariffs bite GM profit
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-waver-amid-wave-of-earnings-as-tariffs-bite-gm-profit-181000958.html
+Time Published: 2025-07-22T18:10:00Z
+Description: US stocks were mixed as investors prepared for earnings season to pick up steam with Big Tech earnings ahead.
+--------------------------------------------------
+
 Title: ASML Earnings "Miss": What the Market Got Wrong
 URL: https://finance.yahoo.com/news/asml-earnings-miss-market-got-121901613.html
 Time Published: 2025-07-22T16:59:17Z
@@ -91,14 +97,14 @@ Time Published: 2025-07-21T11:30:02Z
 Description: The pending resumption of sales to China has emerged as a new driver for the chip major’s stock.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures inch higher to start busy week of Big Tech-dominated earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-higher-to-start-busy-week-of-big-tech-dominated-earnings-235753013.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures inch higher ahead of tech earnings as tariff deadline looms
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-higher-ahead-of-tech-earnings-as-tariff-deadline-looms-235753615.html
 Time Published: 2025-07-20T23:57:53Z
 Description: Earnings season dominates market focus this week with tariffs still on the table.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures inch higher ahead of tech earnings as tariff deadline looms
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-higher-ahead-of-tech-earnings-as-tariff-deadline-looms-235753615.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures inch higher to start busy week of Big Tech-dominated earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-higher-to-start-busy-week-of-big-tech-dominated-earnings-235753013.html
 Time Published: 2025-07-20T23:57:53Z
 Description: Earnings season dominates market focus this week with tariffs still on the table.
 --------------------------------------------------
