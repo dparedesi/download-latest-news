@@ -17,15 +17,3 @@ URL: https://finance.yahoo.com/news/the-american-consumer-is-proving-to-be-resil
 Time Published: 2025-07-20T22:27:24Z
 Description: The state of consumer spending can be described as cooling, but also "still positive" and "still growing."
 --------------------------------------------------
-
-Title: Is The Market Missing Bank Of America's Strong Earnings Growth?
-URL: https://finance.yahoo.com/news/market-missing-bank-americas-strong-173644687.html
-Time Published: 2025-07-17T17:36:44Z
-Description: Bank of America Corp. (NYSE:BAC) kicked off earnings season with a stronger-than-expected second quarter on Wednesday, reporting net income of $7.1 billion...
---------------------------------------------------
-
-Title: What the China export easing means for Nvidia, AMD, and other chips stocks
-URL: https://finance.yahoo.com/news/what-the-china-export-easing-means-for-nvidia-amd-and-other-chips-stocks-135640925.html
-Time Published: 2025-07-17T13:56:40Z
-Description: A potential green light in AI chip sales to China could reset the global semiconductor market.
---------------------------------------------------

@@ -17,9 +17,3 @@ URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-in
 Time Published: 2025-07-20T23:57:53Z
 Description: Earnings season dominates market focus this week with tariffs still on the table.
 --------------------------------------------------
-
-Title: Alphabet Inc. (GOOG) Offers Steep Cloud Discounts to U.S. Federal Agencies; 71% Business Apps Deal Could Save Government $2 Billion
-URL: https://finance.yahoo.com/news/alphabet-inc-goog-offers-steep-131357722.html
-Time Published: 2025-07-17T13:13:57Z
-Description: With strong hedge fund backing and a positive analyst outlook, Alphabet Inc. (NASDAQ:GOOG) makes it to our list of the Top 10 AI Infrastructure Stocks to Buy...
---------------------------------------------------

@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Stock Market Today: Stocks Are Higher; Congregation P Is the Equity Acronym to Know
+URL: https://www.thestreet.com/investing/stock-market-today-congregation-p-is-the-new-acronym-you-need-to-know
+Time Published: 2025-07-21T16:30:44Z
+Description: These are the stocks that are driving the market
+--------------------------------------------------
+
 Title: S&P 500 and Nasdaq 100 Jump to Record Highs as Bond Yields Fall
 URL: https://www.barchart.com/story/news/33533641/s-p-500-and-nasdaq-100-jump-to-record-highs-as-bond-yields-fall
 Time Published: 2025-07-21T15:26:58Z
@@ -35,40 +41,4 @@ Title: Broadcom Reportedly Cancels $1B Microchip Plant Investment in Spain Amids
 URL: https://finance.yahoo.com/news/broadcom-reportedly-cancels-1b-microchip-065841743.html
 Time Published: 2025-07-18T04:46:41Z
 Description: Broadcom Inc. (NASDAQ:AVGO) is one of the best US stocks to buy according to Billionaires. On July 13, Broadcom reportedly canceled its plans to invest in a ...
---------------------------------------------------
-
-Title: Broadcom (AVGO) Stock: Oppenheimer Boosts Price Target on AI Tailwinds
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_29830605-7f84-4852-b98a-49ffb77c79de
-Time Published: 2025-07-17T18:55:05Z
-Description: None
---------------------------------------------------
-
-Title: Stock Market Today: Stocks higher on big earnings, better retail sales
-URL: https://www.thestreet.com/investing/stocks/stock-market-today-stocks-open-higher-on-big-earnings-better-retail-sales
-Time Published: 2025-07-17T17:12:27Z
-Description: GE Aerospace raised its guidance, Taiwan Semi shows a record profit. Retail sales bounce back. Jobless claims fall.
---------------------------------------------------
-
-Title: What the China export easing means for Nvidia, AMD, and other chips stocks
-URL: https://finance.yahoo.com/news/what-the-china-export-easing-means-for-nvidia-amd-and-other-chips-stocks-135640925.html
-Time Published: 2025-07-17T13:56:40Z
-Description: A potential green light in AI chip sales to China could reset the global semiconductor market.
---------------------------------------------------
-
-Title: Broadcom Stock Just Hit a New 52-Week High. Should You Buy AVGO Here?
-URL: https://www.barchart.com/story/news/33466015/broadcom-stock-just-hit-a-new-52-week-high-should-you-buy-avgo-here
-Time Published: 2025-07-17T13:30:02Z
-Description: AI-fueled growth is rewriting the AVGO stock chart again. Is this the breakout investors have been waiting for?
---------------------------------------------------
-
-Title: Looking for AI Chip Stocks Beyond Nvidia? Goldman Sachs Says These 2 Names Deserve a Look
-URL: https://finance.yahoo.com/news/looking-ai-chip-stocks-beyond-101431692.html
-Time Published: 2025-07-17T10:14:31Z
-Description: The AI boom has been generating hype and headlines for several years now, and deservedly so. It’s transforming the way businesses operate, reshaping...
---------------------------------------------------
-
-Title: Wall Street's Chip Darling Stocks Set to Shine Again, Says Oppenheimer
-URL: https://finance.yahoo.com/news/wall-streets-chip-darling-stocks-014309408.html
-Time Published: 2025-07-17T01:43:09Z
-Description: AI isn't cooling down -- and semiconductors may ride that wave to another blowout quarter
 --------------------------------------------------
