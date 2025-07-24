@@ -5,15 +5,3 @@ URL: https://www.barchart.com/story/news/33526201/stocks-set-to-open-higher-as-i
 Time Published: 2025-07-21T10:05:46Z
 Description: September S&P 500 E-Mini futures (ESU25) are up +0.27%, and September Nasdaq 100 E-Mini futures (NQU25) are up +0.28% this morning, pointing to a higher open...
 --------------------------------------------------
-
-Title: Stocks Finish Slightly Lower on Mixed Earnings Results
-URL: https://www.barchart.com/story/news/33502891/stocks-finish-slightly-lower-on-mixed-earnings-results
-Time Published: 2025-07-18T20:33:46Z
-Description: The S&P 500 Index ($SPX ) (SPY ) Friday closed down -0.01%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.32%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Stocks See Support from Dovish Fed Official Comment
-URL: https://www.barchart.com/story/news/33495443/stocks-see-support-from-dovish-fed-official-comment
-Time Published: 2025-07-18T14:10:26Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.18%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------

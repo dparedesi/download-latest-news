@@ -1,5 +1,11 @@
 List of news related to Alphabet Inc stock price GOOG:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq rise on US-Japan deal hopes, with Tesla and Google on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-on-us-japan-deal-hopes-with-tesla-and-google-on-deck-232647995.html
+Time Published: 2025-07-22T23:26:47Z
+Description: Wall Street is getting ready for Tesla and Google-parent Alphabet to fire up "Magnificent 7" earnings.
+--------------------------------------------------
+
 Title: Stock market today: Nasdaq, S&P 500 waver amid wave of earnings as tariffs bite GM profit
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-waver-amid-wave-of-earnings-as-tariffs-bite-gm-profit-181000958.html
 Time Published: 2025-07-22T18:10:00Z
@@ -18,14 +24,14 @@ Time Published: 2025-07-20T23:57:53Z
 Description: Earnings season dominates market focus this week with tariffs still on the table.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq inch higher to start busy week of Big Tech-dominated earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-inch-higher-to-start-busy-week-of-big-tech-dominated-earnings-235753747.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures inch higher ahead of tech earnings as tariff deadline looms
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-higher-ahead-of-tech-earnings-as-tariff-deadline-looms-235753615.html
 Time Published: 2025-07-20T23:57:53Z
 Description: Earnings season dominates market focus this week with tariffs still on the table.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures inch higher ahead of tech earnings as tariff deadline looms
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-higher-ahead-of-tech-earnings-as-tariff-deadline-looms-235753615.html
+Title: Stock market today: Dow, S&P 500, Nasdaq inch higher to start busy week of Big Tech-dominated earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-inch-higher-to-start-busy-week-of-big-tech-dominated-earnings-235753747.html
 Time Published: 2025-07-20T23:57:53Z
 Description: Earnings season dominates market focus this week with tariffs still on the table.
 --------------------------------------------------

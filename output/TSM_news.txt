@@ -12,21 +12,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_060f1c03
 Time Published: 2025-07-21T12:38:31Z
 Description: None
 --------------------------------------------------
-
-Title: Earnings live: Second quarter earnings season off to strong start with Tesla, Google on deck
-URL: https://finance.yahoo.com/news/live/earnings-live-second-quarter-earnings-season-off-to-strong-start-with-tesla-google-on-deck-202455792.html
-Time Published: 2025-07-18T20:24:55Z
-Description: Second quarter earnings season kicked off to a strong start. Investors now look ahead to Tesla and Google reporting the first "Magnificent Seven" results...
---------------------------------------------------
-
-Title: Jim Cramer on Taiwan Semiconductor: “Just See What They Report at This Point”
-URL: https://finance.yahoo.com/news/jim-cramer-taiwan-semiconductor-just-183109391.html
-Time Published: 2025-07-18T18:31:09Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the stocks Jim Cramer weighed in on. A caller inquired after Cramer’s opinion of the ...
---------------------------------------------------
-
-Title: At All-Time Highs, Should You Buy Taiwan Semi Stock Here or Wait for a Dip?
-URL: https://www.barchart.com/story/news/33497155/at-all-time-highs-should-you-buy-taiwan-semi-stock-here-or-wait-for-a-dip
-Time Published: 2025-07-18T15:45:09Z
-Description: While there are some short-term challenges, TSMC has laid the groundwork for long-term, profitable growth.
---------------------------------------------------

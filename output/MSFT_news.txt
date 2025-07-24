@@ -1,5 +1,23 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Deckers (DECK) Q2 Earnings: What To Expect
+URL: https://finance.yahoo.com/news/deckers-deck-q2-earnings-expect-031133126.html
+Time Published: 2025-07-23T03:11:33Z
+Description: Footwear and apparel conglomerate Deckers (NYSE:DECK) will be reporting results this Thursday after market close. Here’s what to expect.
+--------------------------------------------------
+
+Title: Tech Taps the Brakes, Homebuilders Hit the Gas: See the Rotation on StockCharts Today
+URL: https://stockcharts.com/articles/chartwatchers/2025/07/tech-taps-the-brakes-homebuild-832.html
+Time Published: 2025-07-22T23:38:22Z
+Description: The stock market feels like it's holding its breath ahead of Big Tech earnings. The first two days of the trading week were mostly quiet, but Tuesday gave us a few nuggets worth chewing on.The S&P 500 ($SPX) squeaked out another record close, up by a modest +…
+--------------------------------------------------
+
+Title: Dear Microsoft Stock Fans, Mark Your Calendars for July 30
+URL: https://www.barchart.com/story/news/33567071/dear-microsoft-stock-fans-mark-your-calendars-for-july-30
+Time Published: 2025-07-22T20:13:47Z
+Description: With earnings set for July 30, Microsoft is riding high on explosive AI and cloud growth, and analysts broadly expect its momentum to continue.
+--------------------------------------------------
+
 Title: Google to report Q2 earnings as Wall Street looks for AI revenue gains
 URL: https://finance.yahoo.com/news/google-to-report-q2-earnings-as-wall-street-looks-for-ai-revenue-gains-172616519.html
 Time Published: 2025-07-22T17:26:16Z
@@ -67,10 +85,4 @@ Title: I Asked ChatGPT What the Stock Market Will Look Like in 100 Days — Here
 URL: https://finance.yahoo.com/news/asked-chatgpt-stock-market-look-103748456.html
 Time Published: 2025-07-19T10:37:48Z
 Description: GOBankingRates put ChatGPT to the test by asking what the stock market might look like 100 days from now. The results were both enlightening and sobering.
---------------------------------------------------
-
-Title: Oracle's AI-driven surge: Can its stock rally last?
-URL: https://finance.yahoo.com/news/oracles-ai-driven-surge-can-its-stock-rally-last-134100932.html
-Time Published: 2025-07-18T13:41:00Z
-Description: With Oracle's revenue set to soar on GPU deals and cloud growth, investors are betting big, but profitability and valuation questions loom large.
 --------------------------------------------------

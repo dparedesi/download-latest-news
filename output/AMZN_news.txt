@@ -60,9 +60,3 @@ URL: https://finance.yahoo.com/news/jefferies-lifts-amazon-amzn-price-111649725.
 Time Published: 2025-07-19T11:16:49Z
 Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the Trending AI Stocks in Focus This Week. Jefferies reiterated the stock as “Buy” and raised its price target on...
 --------------------------------------------------
-
-Title: Oracle's AI-driven surge: Can its stock rally last?
-URL: https://finance.yahoo.com/news/oracles-ai-driven-surge-can-its-stock-rally-last-134100932.html
-Time Published: 2025-07-18T13:41:00Z
-Description: With Oracle's revenue set to soar on GPU deals and cloud growth, investors are betting big, but profitability and valuation questions loom large.
---------------------------------------------------
