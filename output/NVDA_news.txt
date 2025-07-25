@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq trade mixed as Wall Street weighs Google, Tesla earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-trade-mixed-as-wall-street-weighs-google-tesla-earnings-233839940.html
+Time Published: 2025-07-23T23:38:39Z
+Description: Hopes for a US-EU trade deal kept fresh records in sight as Wall Street assessed earnings from Alphabet and Tesla.
+--------------------------------------------------
+
+Title: Meme stock rally has investors feeling 'invulnerable' as speculative bets power markets at record highs
+URL: https://finance.yahoo.com/news/meme-stock-rally-has-investors-feeling-invulnerable-as-speculative-bets-power-markets-at-record-highs-195514347.html
+Time Published: 2025-07-23T19:55:14Z
+Description: Retail investors have begun to pile into speculative bets on small-cap companies in a buildup that resembles the meme stock frenzy of 2021.
+--------------------------------------------------
+
 Title: This Former AI Underdog Might Be the Next Nvidia
 URL: https://www.barchart.com/story/news/33592685/this-former-ai-underdog-might-be-the-next-nvidia
 Time Published: 2025-07-23T17:36:27Z
@@ -41,6 +53,13 @@ Title: NVDA Broken Wing Butterfly Trade Targets A Profit Zone Between 150 and 16
 URL: https://www.barchart.com/story/news/33580409/nvda-broken-wing-butterfly-trade-targets-a-profit-zone-between-150-and-160
 Time Published: 2025-07-23T11:00:02Z
 Description: Nvidia is pulling back towards the rising 21-day moving average and is still in a solid uptrend. Today we’re looking at a broken wing butterfly trade that...
+--------------------------------------------------
+
+Title: Meme Stocks Are Back—Should You Be Worried?
+URL: https://www.investopedia.com/meme-stocks-are-back-should-you-be-worried-kohls-opendoor-11777061
+Time Published: 2025-07-23T09:00:00Z
+Full Content:
+Meme stocks are back in the spotlight. Shares of apparel retailer Kohl’s (KSS) opened nearly 90% higher Tuesday and online home buying website Opendoor’s (OPEN) shares popped nearly 20% at the open. Neither shared any business updates, but both were major topics of conversation on r/wallstreetbets, the subreddit that fueled the meme stock craze of 2021. As in 2021, a short squeeze may have been the culprit for the Tuesday morning spike. Nearly 50% of Kohl’s shares were sold short at the end of June, according to data from FactSet. The stock’s rising price could have forced some short sellers to cover their position by buying the stock, adding to the demand driving up its price. Tuesday's squeeze was relatively short-lived. Kohl’s stock pared its gains throughout the session’s first 30 minutes and ended the day 38% higher. Opendoor, which more than doubled in value last week and gained another 40% Monday, finished Tuesday's session down 10%. Come Wednesday morning, meme traders were hunting for new opportunities. Shares of Krispy Kreme (DNUT) and GoPro (GPRO) jumped 27% and 60%, respectively, in early trading, while Kohl's and Opendoor slumped. The return of meme stocks may have something to do with the stock market’s recent success. Stocks hit a series of record highs in recent weeks as Wall Street cheered tax cuts and pro-crypto legislation, and looked forward to trade deals. The Magnificent Seven rode AI excitement to trade near record highs, with Nvidia (NVDA) becoming the first company to ever reach a $4 trillion market capitalization. Speculative assets like cryptocurrencies have performed particularly well in recent months. Bitcoin traded at $120,000 on Tuesday afternoon, not far from its all-time high of about $123,000. Ethereum has rallied nearly 60% in the last month. Shares of stablecoin issuer Circle Internet Group (CRCL) skyrocketed about 750% in the two weeks after its IPO in early June. There have been signs for some time that retail investors were losing interest in the Magnificent Seven after their run-up that started in late 2022. Mom-and-pop investors looking for big gains pivoted into riskier corners of the market, like small caps and more obscure AI plays, in the second quarter, according to data from Vanda Research. That trend accelerated in July, with high-beta equities like Joby (JOBY), Archer Aviation (ACHR), D-Wave Quantum (QBTS), BigBear.ai (BBAI) among the most bought stocks by retail investors this month. Flurries of speculative activity like that seen Tuesday are sometimes interpreted as signs of market frothiness, and thus precursors to pullbacks. Though that's not always the case, and even with stocks at record highs, investors have yet to pile into equities at alarming rates. Deutsche Bank's measure of equity positioning only rose from "neutral" to "overweight" last week. "In the absence of a clear negative catalyst, there is room for positioning to continue trending higher," according to strategist Parag Thatte. Update—July 23, 2025: This story has been updated with additional share prices after markets opened on Wednesday.
 --------------------------------------------------
 
 Title: Tech Taps the Brakes, Homebuilders Hit the Gas: See the Rotation on StockCharts Today
@@ -184,14 +203,14 @@ Time Published: 2025-07-21T11:30:02Z
 Description: The pending resumption of sales to China has emerged as a new driver for the chip major’s stock.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures inch higher to start busy week of Big Tech-dominated earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-higher-to-start-busy-week-of-big-tech-dominated-earnings-235753013.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures inch higher ahead of tech earnings as tariff deadline looms
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-higher-ahead-of-tech-earnings-as-tariff-deadline-looms-235753615.html
 Time Published: 2025-07-20T23:57:53Z
 Description: Earnings season dominates market focus this week with tariffs still on the table.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures inch higher ahead of tech earnings as tariff deadline looms
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-higher-ahead-of-tech-earnings-as-tariff-deadline-looms-235753615.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures inch higher to start busy week of Big Tech-dominated earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-higher-to-start-busy-week-of-big-tech-dominated-earnings-235753013.html
 Time Published: 2025-07-20T23:57:53Z
 Description: Earnings season dominates market focus this week with tariffs still on the table.
 --------------------------------------------------
@@ -226,48 +245,4 @@ URL: https://www.investopedia.com/what-analysts-think-of-intel-stock-ahead-of-ea
 Time Published: 2025-07-20T09:00:00Z
 Full Content:
 Intel is scheduled to report second-quarter results after Thursday's close, with analysts parked in neutral amid questions surrounding what's next for the chip maker's foundry. All 11 analysts covering Intel (INTC) tracked by Visible Alpha have "hold" ratings for the stock. Their consensus price target near $23 would suggest little change from Thursday's intraday level just over $23. Intel's foundry division is a focus of investor attention. New CEO Lip-Bu Tan reportedly is considering a shift in the manufacturer's contract chipmaking business that could lead to Intel writing off hundreds of millions or even billions of dollars' worth of chipmaking technology as a loss. A change could move the division to change its manufacturing process in a bid to win big customers like Nvidia (NVDA) and Apple (AAPL). UBS analysts said recently that the move "may represent the first step in a hard pivot away from foundry and towards the product business, which we think may prove strategically sound but operationally challenging." "We have indicated 'light' at the end of the tunnel, but it is a long tunnel and we remain on the sidelines," UBS said. UBS raised its price target to $25 from $21. Wedbush, meanwhile, maintained a price target of $19, while HSBC kept a target of $22. All three analysts have neutral ratings for Intel stock.Wall Street on average expects Intel to report quarterly revenue of $11.93 billion, down 7% year-over-year, and adjusted net income of $76.3 million, or 2 cents per share, compared with $83 million, or 2 cents per share, a year earlier. Revenue from the foundry division is expected to have fallen 7% to $3.98 billion. Intel has reportedly started laying off thousands of workers in Oregon as part of previously announced cuts under its restructuring plan. UPDATE—July 24, 2025: This article has been updated since it was first published to reflect more recent analyst estimates and share price values.
---------------------------------------------------
-
-Title: Needham Sticks With Buy on Nvidia (NVDA), Lifts Target to $200
-URL: https://finance.yahoo.com/news/needham-sticks-buy-nvidia-nvda-141711540.html
-Time Published: 2025-07-19T14:17:11Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Investors Are Watching Closely. On July 16, Needham analyst Rajvindra Gill raised the price target...
---------------------------------------------------
-
-Title: Trump's antitrust cops are OK with new mergers. Old tech monopolies, not so much.
-URL: https://finance.yahoo.com/news/trumps-antitrust-cops-are-ok-with-new-mergers-old-tech-monopolies-not-so-much-140038953.html
-Time Published: 2025-07-19T14:00:38Z
-Description: President Trump's antitrust cops are so far friendlier about mergers than their predecessors, but they are refusing to let up on one prominent priority of...
---------------------------------------------------
-
-Title: Mizuho Turns Bullish on Broadcom (AVGO) as AI Opportunities Expand in China
-URL: https://finance.yahoo.com/news/mizuho-turns-bullish-broadcom-avgo-114948009.html
-Time Published: 2025-07-19T11:49:48Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of the AI Stocks Investors Are Watching Closely. On July 15, Mizuho analyst Vijay Rakesh raised the price target on the...
---------------------------------------------------
-
-Title: Nvidia’s (NVDA) China Opportunity Reopens — Price Target Raised to $192 by Mizuho
-URL: https://finance.yahoo.com/news/nvidia-nvda-china-opportunity-reopens-110610498.html
-Time Published: 2025-07-19T11:06:10Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Trending AI Stocks in Focus This Week. On July 15, Mizuho analyst Vijay Rakesh raised the price target on the ...
---------------------------------------------------
-
-Title: I Asked ChatGPT What the Stock Market Will Look Like in 100 Days — Here’s What It Said
-URL: https://finance.yahoo.com/news/asked-chatgpt-stock-market-look-103748456.html
-Time Published: 2025-07-19T10:37:48Z
-Description: GOBankingRates put ChatGPT to the test by asking what the stock market might look like 100 days from now. The results were both enlightening and sobering.
---------------------------------------------------
-
-Title: AI Arms Race Heats Up As Startups Borrow Billions To Buy Nvidia GPUs
-URL: https://www.benzinga.com/news/topics/25/07/46506334/ai-arms-race-heats-up-as-startups-borrow-billions-to-buy-nvidia-gpus
-Time Published: 2025-07-19T01:01:46Z
-Full Content:
-Benzinga Rankings give you vital metrics on any stock – anytime. Amid rising infrastructure demands, AI startups like Crusoe Energy Systems are tapping large-scale credit lines, PitchBook reported. Crusoe last month raised a $750 million credit facility from Brookfield Asset Management BAM to expand its data centers and acquire more graphics processing units from Nvidia Corp. NVDA. That deal reflects a broader trend in venture financing. AI and machine learning startups have secured an outsized share of venture debt so far, accounting for more than a third of the $30 billion deployed across the U.S. and Europe, according to PitchBook. That marks a significant increase from 2024, when such companies attracted 24.9%, or $22.9 billion, of total debt funding. Don't Miss: According to PitchBook, the shift toward debt financing is being driven by rising compute costs and high early-stage valuations in AI. "There are companies coming out of the gate with these large chunky seed rounds," Silicon Valley Bank Managing Director, Early-Stage Startups Bo Ren told PitchBook. "But then there's a Series A valuation drop-off because they can't live up to the VC expectations." Ren said that many AI startups are turning to venture debt earlier in their lifecycle as they struggle to maintain growth targets set by their inflated early valuations. Ren also cited infrastructure costs as a key factor: "Given the cost of compute, it's very much like the price of gas, it just keeps going up and up. That's where a lot of the venture debt conversations start," she told Pitchbook. PitchBook data shows that the median pre-money valuation for AI startups has climbed to $25 million so far this year, up from $15 million in 2024. Trending: Named a TIME Best Invention and Backed by 5,000+ Users, Kara's Air-to-Water Pod Cuts Plastic and Costs — And You Can Invest At Just $6.37/Share Several AI infrastructure startups have recently raised major venture debt deals to purchase high-performance chips. Lambda Labs also raised a $500 million special-purpose financing vehicle, collateralized by GPUs it already owned, to expand its chip inventory. GPU cloud provider CoreWeave CRWE, which recently went public, raised $2.3 billion in debt with similar terms, PitchBook reported. The loan was backed by the company's Nvidia GPU stockpile. See Also: This AI-Powered Trading Platform Has 5,000+ Users, 27 Pending Patents, and a $43.97M Valuation — You Can Become an Investor for Just $500.25 "How long is the useful life of those chips? If it's 10 years or even seven years, that makes sense," CIBC Innovation Banking Executive Managing Director and Co-Head Paul McKinlay told PitchBook. "But if it's two years, that starts to become a tougher proposition." PitchBook reported that total venture debt deployment reached $53.3 billion in 2024, a 94.5% increase from 2023. That growth was primarily fueled by later-stage startups preserving valuations amid slowing VC rounds. In 2025, AI is driving the next wave of venture debt demand—now extending to earlier-stage companies. Read Next: Warren Buffett once said, "If you don't find a way to make money while you sleep, you will work until you die." Here’s how you can earn passive income with just $10. Image: Shutterstock Benzinga Rankings give you vital metrics on any stock – anytime. © 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. A newsletter built for market enthusiasts by market enthusiasts. Top stories, top movers, and trade ideas delivered to your inbox every weekday before and after the market closes.
---------------------------------------------------
-
-Title: Tiger Global Billionaire Abruptly Dumps Nvidia, Pours $334,000,000 Into Surging US Asset
-URL: https://dailyhodl.com/2025/07/18/tiger-global-billionaire-abruptly-dumps-nvidia-pours-334000000-into-surging-us-asset/
-Time Published: 2025-07-19T00:04:41Z
-Full Content:
-A billionaire who made his fortune at Tiger Global just poured more than $300 million into a high-growth stock that’s skyrocketed over the last year. Karthik Sarma, who now spearheads SRS Investment Management, sold all of the hedge fund’s massive investment in Nvidia (NVDA) between Q1 of 2024 and Q1 of 2025. Now, new 13F filings show Sarma has piled about $334 million, purchasing 4.74 million shares, into Tapestry (TPR). The luxury goods company, known for its premium handbag and accessories brands like Coach and Kate Spade, has seen its stock surge over 100% in the past 12 months. Tapestry specializes in designing and retailing high-end fashion accessories, leveraging its iconic brands to capture the growing demand for luxury lifestyle products. The company’s strong cash flows and strategic share-repurchase program may have also caught Sarma’s eye, with SRS Investment Management now allocating about 4.5% of the hedge fund’s portfolio to the new investment. That makes Tapestry the fourth-largest allocation at SRS, following Pdd Holdings Inc. at 6.45%, Planet Fitness Inc. at 6.09%, and Meta Platforms Inc. at 5.75%, highlighting a strategic focus on e-commerce, fitness, AI and tech, alongside luxury retail. Generated Image: Midjourney Covering the future of finance, including macro, bitcoin, ethereum, crypto, and web 3. Categories Bitcoin • Ethereum • Trading • Altcoins • Futuremash • Financeflux • Blockchain • Regulators • Scams • HodlX • Press Releases ABOUT US | EDITORIAL POLICY | PRIVACY POLICY TERMS AND CONDITIONS | CONTACT | ADVERTISE JOIN US ON TELEGRAM JOIN US ON X JOIN US ON FACEBOOK COPYRIGHT © 2017-2025 THE DAILY HODL © 2025 The Daily Hodl
 --------------------------------------------------

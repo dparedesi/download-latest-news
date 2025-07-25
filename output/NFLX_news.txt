@@ -29,9 +29,3 @@ URL: https://www.barchart.com/story/news/33526201/stocks-set-to-open-higher-as-i
 Time Published: 2025-07-21T10:05:46Z
 Description: September S&P 500 E-Mini futures (ESU25) are up +0.27%, and September Nasdaq 100 E-Mini futures (NQU25) are up +0.28% this morning, pointing to a higher open...
 --------------------------------------------------
-
-Title: July Strength, Late-Summer Caution: 3 Charts to Watch
-URL: https://stockcharts.com/articles/chartwatchers/2025/07/july-strength-latesummer-cauti-519.html
-Time Published: 2025-07-19T00:01:42Z
-Description: Even with a few short-lived roller coaster rides, the stock market had a strong week. Though there was some selling on Friday, the S&P 500 ($SPX) and Nasdaq Composite ($COMPQ) closed up over the week as a whole, while the Dow Jones Industrial Average ($INDU) …
---------------------------------------------------

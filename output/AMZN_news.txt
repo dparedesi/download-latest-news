@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Scotiabank Ups Amazon PT to $275, Maintains Bullish View Despite AWS Headwinds
+URL: https://finance.yahoo.com/news/scotiabank-ups-amazon-pt-275-002802794.html
+Time Published: 2025-07-24T00:28:02Z
+Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the AI Stocks in the Spotlight Right Now. On July 22, Scotiabank analyst Nat Schindler raised the price target on...
+--------------------------------------------------
+
+Title: Amazon's AI-Powered AWS, Efficiency Gains, And Consumer Demand Fuel Bullish Q2 Outlook
+URL: https://finance.yahoo.com/news/amazons-ai-powered-aws-efficiency-191416999.html
+Time Published: 2025-07-23T19:14:16Z
+Description: Amazon.com (NASDAQ:AMZN) is poised to potentially outperform market expectations in its July 31 second-quarter earnings report, driven by a combination of...
+--------------------------------------------------
+
 Title: Buy AMZN Stock At $230?
 URL: https://www.forbes.com/sites/greatspeculations/2025/07/23/buy-amzn-stock-at-230/
 Time Published: 2025-07-23T13:05:24Z
@@ -60,16 +72,4 @@ Title: A $15 Billion Reason to Buy Nvidia Stock Here
 URL: https://www.barchart.com/story/news/33527747/a-15-billion-reason-to-buy-nvidia-stock-here
 Time Published: 2025-07-21T11:30:02Z
 Description: The pending resumption of sales to China has emerged as a new driver for the chip major’s stock.
---------------------------------------------------
-
-Title: Cantor Fitzgerald Stays Bullish on Amazon (AMZN), Lifts Target to $260 on Retail and AWS Growth
-URL: https://finance.yahoo.com/news/cantor-fitzgerald-stays-bullish-amazon-141736890.html
-Time Published: 2025-07-19T14:17:36Z
-Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the AI Stocks Investors Are Watching Closely. On July 16, Cantor Fitzgerald analyst Deepak Mathivanan raised the...
---------------------------------------------------
-
-Title: Jefferies Lifts Amazon (AMZN) Price Target to $265, Sees Revenue and Margin Upside
-URL: https://finance.yahoo.com/news/jefferies-lifts-amazon-amzn-price-111649725.html
-Time Published: 2025-07-19T11:16:49Z
-Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the Trending AI Stocks in Focus This Week. Jefferies reiterated the stock as “Buy” and raised its price target on...
 --------------------------------------------------
