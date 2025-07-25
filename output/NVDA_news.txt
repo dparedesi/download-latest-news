@@ -1,10 +1,40 @@
 List of news related to NVIDIA NVDA:
 
+Title: Here's How Much Traders Expect Intel Stock to Move After Earnings Today
+URL: https://www.investopedia.com/here-is-how-much-traders-expect-intel-stock-to-move-after-earnings-today-11778284
+Time Published: 2025-07-24T17:02:23Z
+Full Content:
+Intel (INTC) is scheduled to report earnings after the closing bell today, with traders anticipating a sizable move from the struggling chipmaker's stock. Options pricing suggests traders expect Intel's stock could move more than 7% from its recent level near $23 by the end Friday’s trading session. A move of that scale would lift shares above $24 at the upper end, their highest level since March, or drag them down to $21 at the lower end, about where they were a month ago. Intel's stock has registered an average post-earnings move of 11% over the past four quarters, falling in three of those instances. In April, shares fell 7% the day after earnings as the chipmaker issued a quarterly forecast below analysts’ expectations. Heading into Thursday's report, all 11 brokers covering Intel tracked by Visible Alpha have a neutral rating for the stock, with an average price target near $23. Analysts on average expect Intel’s quarterly revenue and profits to have declined year-over-year, with attention squarely on how new CEO Lip-Bu Tan will manage—or sell off—the chipmaker’s struggling foundry business. Tan is reportedly considering changing what manufacturing process the foundry business focuses on, a move that would cost the company hundreds of millions or even billions of dollars, but could help win major customers like Nvidia (NVDA) and Apple (AAPL). Intel's stock had added about 13% in 2025 so far, but has still lost more than one-quarter of its value from this time last year.
+--------------------------------------------------
+
+Title: Analyst Explains How NVIDIA (NVDA) Can Reach $8 Trillion Market Cap
+URL: https://finance.yahoo.com/news/analyst-explains-nvidia-nvda-reach-145214797.html
+Time Published: 2025-07-24T14:52:14Z
+Description: NVIDIA Corp (NASDAQ:NVDA) is one of the 10 Stocks to Buy and Sell in 2025: Top Analyst Calls. Nigam Arora from The Arora Report said in a recent program on...
+--------------------------------------------------
+
+Title: NVIDIA Corporation (NVDA)’s Going To Have A Good Quarter, Says Jim Cramer
+URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-going-good-134958193.html
+Time Published: 2025-07-24T13:49:58Z
+Description: We recently published 12 Stocks Jim Cramer Discussed As Analyzed Morgan Stanley’s Comments. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer ...
+--------------------------------------------------
+
+Title: NVIDIA Corporation (NVDA): A Bull Case Theory
+URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-bull-case-133509385.html
+Time Published: 2025-07-24T13:35:09Z
+Description: We came across a bullish thesis on NVIDIA Corporation on VantagePointAI’s Substack. In this article, we will summarize the bulls’ thesis on NVDA. NVIDIA...
+--------------------------------------------------
+
+Title: Intel to report Q2 earnings as Wall Street looks for signs of turnaround
+URL: https://finance.yahoo.com/news/intel-to-report-q2-earnings-as-wall-street-looks-for-signs-of-turnaround-122032426.html
+Time Published: 2025-07-24T12:20:32Z
+Description: Intel will report its Q2 earnings Thursday, and Wall Street will want to hear more about the company's turnaround plans.
+--------------------------------------------------
+
 Title: Nvidia (NVDA) Named a Top Pick Ahead of Earnings, Says Morgan Stanley
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a40ea4d7-d362-44f8-bafe-46b70a2fe529
 Time Published: 2025-07-24T00:20:38Z
-Full Content:
-Yahoo is part of the Yahoo family of brandsThe sites and apps that we own and operate, including Yahoo, AOL, Engadget, Rivals, In The Know and Makers.Yahoo family of brands. If you do not want us and our partners to use cookies and personal data for these additional purposes, click 'Reject all'. If you would like to customise your choices, click 'Manage privacy settings'. You can withdraw your consent or change your choices at any time by clicking on the 'Privacy & cookie settings' or 'Privacy dashboard' links on our sites and apps. Find out more about how we use your personal data in our privacy policy and cookie policy.
+Description: None
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq trade mixed as Wall Street weighs Google, Tesla earnings
@@ -216,14 +246,14 @@ Time Published: 2025-07-20T23:57:53Z
 Description: Earnings season dominates market focus this week with tariffs still on the table.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq inch higher to start busy week of Big Tech-dominated earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-inch-higher-to-start-busy-week-of-big-tech-dominated-earnings-235753747.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures inch higher ahead of tech earnings as tariff deadline looms
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-higher-ahead-of-tech-earnings-as-tariff-deadline-looms-235753615.html
 Time Published: 2025-07-20T23:57:53Z
 Description: Earnings season dominates market focus this week with tariffs still on the table.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures inch higher ahead of tech earnings as tariff deadline looms
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-higher-ahead-of-tech-earnings-as-tariff-deadline-looms-235753615.html
+Title: Stock market today: Dow, S&P 500, Nasdaq inch higher to start busy week of Big Tech-dominated earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-inch-higher-to-start-busy-week-of-big-tech-dominated-earnings-235753747.html
 Time Published: 2025-07-20T23:57:53Z
 Description: Earnings season dominates market focus this week with tariffs still on the table.
 --------------------------------------------------
