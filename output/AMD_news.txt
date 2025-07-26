@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Intel slumps as potential foundry exit deepens investor gloom
+URL: https://finance.yahoo.com/news/intel-shares-drop-almost-6-061459193.html
+Time Published: 2025-07-25T06:14:59Z
+Description: (Reuters) -Intel shares sank 8% on Friday after the company warned of exiting chip manufacturing if it fails to secure a major customer, a potentially...
+--------------------------------------------------
+
 Title: Bernstein Lifts AMD Price Target to $140—But Still Holds Rating
 URL: https://finance.yahoo.com/news/bernstein-lifts-amd-price-target-221556683.html
 Time Published: 2025-07-23T22:15:56Z
