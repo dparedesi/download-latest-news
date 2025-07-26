@@ -1,5 +1,29 @@
 List of news related to NVIDIA NVDA:
 
+Title: S&P 500 and Nasdaq 100 Post Record Highs on Tech Stock Strength
+URL: https://www.barchart.com/story/news/33629119/s-p-500-and-nasdaq-100-post-record-highs-on-tech-stock-strength
+Time Published: 2025-07-24T20:35:00Z
+Description: The S&P 500 Index ($SPX ) (SPY ) Thursday closed up +0.07%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.70%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: This Self-Driving Car Stock Is Surging on a Major Nvidia Boost
+URL: https://www.barchart.com/story/news/33628656/this-self-driving-car-stock-is-surging-on-a-major-nvidia-boost
+Time Published: 2025-07-24T20:23:15Z
+Description: Aeye stock soared more than 300% after the lidar specialist announceded a collaboration with Nvidia. Here’s why LIDR shares remain unattractive to own still.
+--------------------------------------------------
+
+Title: Intel stock rises on Q2 revenue beat, plans to cut 15% of workforce
+URL: https://finance.yahoo.com/news/intel-stock-rises-on-q2-revenue-beat-plans-to-cut-15-of-workforce-200851802.html
+Time Published: 2025-07-24T20:08:51Z
+Description: Intel reported its Q2 earnings after the bell Thursday.
+--------------------------------------------------
+
+Title: Intel beats on Q2 revenue, plans to cut 15% of workforce, cancels factory plans
+URL: https://finance.yahoo.com/news/intel-beats-on-q2-revenue-plans-to-cut-15-of-workforce-cancels-factory-plans-200851789.html
+Time Published: 2025-07-24T20:08:51Z
+Description: Intel reported its Q2 earnings after the bell Thursday.
+--------------------------------------------------
+
 Title: Here's How Much Traders Expect Intel Stock to Move After Earnings Today
 URL: https://www.investopedia.com/here-is-how-much-traders-expect-intel-stock-to-move-after-earnings-today-11778284
 Time Published: 2025-07-24T17:02:23Z
@@ -238,48 +262,4 @@ Title: A $15 Billion Reason to Buy Nvidia Stock Here
 URL: https://www.barchart.com/story/news/33527747/a-15-billion-reason-to-buy-nvidia-stock-here
 Time Published: 2025-07-21T11:30:02Z
 Description: The pending resumption of sales to China has emerged as a new driver for the chip major’s stock.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures inch higher to start busy week of Big Tech-dominated earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-higher-to-start-busy-week-of-big-tech-dominated-earnings-235753013.html
-Time Published: 2025-07-20T23:57:53Z
-Description: Earnings season dominates market focus this week with tariffs still on the table.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures inch higher ahead of tech earnings as tariff deadline looms
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-higher-ahead-of-tech-earnings-as-tariff-deadline-looms-235753615.html
-Time Published: 2025-07-20T23:57:53Z
-Description: Earnings season dominates market focus this week with tariffs still on the table.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq inch higher to start busy week of Big Tech-dominated earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-inch-higher-to-start-busy-week-of-big-tech-dominated-earnings-235753747.html
-Time Published: 2025-07-20T23:57:53Z
-Description: Earnings season dominates market focus this week with tariffs still on the table.
---------------------------------------------------
-
-Title: Ditch ‘Basic’ Nvidia and Buy This ‘Unique’ Chip Stock Instead
-URL: https://www.barchart.com/story/news/33520135/ditch-basic-nvidia-and-buy-this-unique-chip-stock-instead
-Time Published: 2025-07-20T12:15:01Z
-Description: Texas Instruments is one of the most overlooked chip stocks on the market. These analysts think now’s the time to pay attention.
---------------------------------------------------
-
-Title: Nvidia Will Continue Controlling The AI Board
-URL: https://seekingalpha.com/article/4802502-nvidia-will-continue-controlling-the-ai-board
-Time Published: 2025-07-20T11:43:13Z
-Description: Nvidia leads the AI ecosystem with unmatched dominance across hardware, software, and systems, fueling strong growth. See why NVDA stock is a buy.
---------------------------------------------------
-
-Title: Second Quarter Earnings Season Update: Banks Beat
-URL: https://www.forbes.com/sites/bill_stone/2025/07/20/second-quarter-earnings-season-update-banks-beat/
-Time Published: 2025-07-20T11:00:00Z
-Full Content:
-ByBill Stone ByBill Stone, Contributor. Banks provided a strong start to the second quarter earnings season. During this busy earnings week, ... More the crucial technology companies begin to report, including Google's parent, Alphabet. (Photo by Smith Collection/Gado/Getty Images) The second-quarter earnings season kicks into gear this week. 110 S&P 500 companies are scheduled to report, with more banks but also expanding to other industries. Notable companies scheduled to release earnings include: Domino’s Pizza (DPZ), Coca-Cola (KO), ServiceNow (NOW), United Rentals (URI), and Intel (INTC) As forecasted in last week’s earnings preview, the banks got the earnings season off to a strong start. According to FactSet, a robust 83% of S&P 500 companies are reporting earnings above the consensus estimates. S&P 500 Earnings Season Summary Companies reporting and combining actual results with consensus estimates for companies yet to report, the S&P 500’s blended earnings growth rate for the quarter is at 5.6% year-over-year, above the 4.9% expectations at the end of the quarter. Notably, the expected earnings growth rate for calendar year 2025 is 9.3%, and for 2026, the expectations are at 14.0%. S&P 500 Earnings Estimate Summary The S&P 500 rose modestly last week. The Magnificent 7, consisting of Microsoft (MSFT), Meta Platforms (META), Amazon.com (AMZN), Apple (AAPL), NVIDIA (NVDA), Alphabet (GOOGL), and Tesla (TSLA), outperformed. Market Returns Because these companies are critical drivers of earnings growth and a significant percentage of the S&P 500’s market capitalization, the Magnificent 7 remains the group to watch this earnings season. According to FactSet, the Magnificent 7 should experience 14.1% year-over-year earnings growth for the quarter, compared to 3.4% for the other stocks in the S&P 500. The first of the Magnificent 7 is scheduled to report results this week, with Tesla (TSLA) and Alphabet (GOOGL) after the close on Wednesday. Tesla enters the week with low expectations, but Alphabet is expected to report robust earnings growth. The details for Alphabet will be necessary, as the stock has been held back by worries that artificial intelligence (AI) will disrupt their search business. While this disruption seems inevitable, the ability of Google to monetize AI-driven search will be crucial. Magnificent 7: Q2 Estimated Earnings Growth Positive earnings surprises from the financial sector were the most significant contributor to the improved earnings picture. Better-than-expected earnings from JPMorgan Chase (JPM), Travelers Companies (TRV), Wells Fargo (WFC), Citigroup (C), and Goldman Sachs (GS) were the most significant contributors last week, according to FactSet. Earnings Growth Estimates By Sector Sales growth is closely tied to nominal GDP growth, which combines after-inflation economic growth (real GDP) with inflation. Following better-than-expected data last week, sales growth of 4.4% is ahead of the 4.2% year-over-year expectation at the end of the quarter. If the estimates of second quarter nominal year-over-year GDP growth of 4.7% are correct, there could be further upside to sales growth. Better sales results in the financial and healthcare sectors were the most significant driver of the improvement in expected revenue growth last week, according to FactSet. Sales Growth Estimates By Sector The US dollar weakened relative to the same quarter in the previous year. On the margin, this should benefit companies’ international earnings. According to FactSet, 41% of S&P 500 sales are from international sources. Goldman Sachs estimates that a 10% depreciation in the US dollar increases S&P 500 earnings per share by 2-3%. Furthermore, companies tend to have an easier time outperforming consensus sales growth estimates during periods of US dollar weakness. Notably, the technology sector has the highest international sales exposure of all the S&P 500 sectors. US Dollar Weakness Earnings should be the main event next week. There are some economic releases scheduled, but all are likely second-tier barring a considerable surprise. The better-than-expected retail sales report last Thursday provided more evidence that the US economy remains resilient despite the tariff increases, which drove the betting odds of a 2025 recession even lower. Betting Odds Of 2025 US Recession Despite noting that he is unlikely to fire Federal Reserve Chair Powell, President Trump continues to pressure him and refuses to rule out the possibility if fraud is involved. This conflict has the potential to add market volatility, with betting markets indicating a 21% chance of Powell’s removal. Betting Odds Of Fed Chair Powell's Removal News about the administration’s trade negotiations and new tariff announcements will continue to be a focus. Significant new tariffs are currently scheduled to take effect on August 1, unless an acceptable trade agreement is reached. The Financial Times reported that President Trump was considering tariffs of 15-20% on imports from the European Union, an increase from the current 10% baseline tariff. Disclosure: Glenview Trust holds many stocks mentioned in this article within its recommended investment strategies.
---------------------------------------------------
-
-Title: What Analysts Think of Intel Stock Ahead of Earnings
-URL: https://www.investopedia.com/what-analysts-think-of-intel-stock-ahead-of-earnings-11775079
-Time Published: 2025-07-20T09:00:00Z
-Full Content:
-Intel is scheduled to report second-quarter results after Thursday's close, with analysts parked in neutral amid questions surrounding what's next for the chip maker's foundry. All 11 analysts covering Intel (INTC) tracked by Visible Alpha have "hold" ratings for the stock. Their consensus price target near $23 would suggest little change from Thursday's intraday level just over $23. Intel's foundry division is a focus of investor attention. New CEO Lip-Bu Tan reportedly is considering a shift in the manufacturer's contract chipmaking business that could lead to Intel writing off hundreds of millions or even billions of dollars' worth of chipmaking technology as a loss. A change could move the division to change its manufacturing process in a bid to win big customers like Nvidia (NVDA) and Apple (AAPL). UBS analysts said recently that the move "may represent the first step in a hard pivot away from foundry and towards the product business, which we think may prove strategically sound but operationally challenging." "We have indicated 'light' at the end of the tunnel, but it is a long tunnel and we remain on the sidelines," UBS said. UBS raised its price target to $25 from $21. Wedbush, meanwhile, maintained a price target of $19, while HSBC kept a target of $22. All three analysts have neutral ratings for Intel stock.Wall Street on average expects Intel to report quarterly revenue of $11.93 billion, down 7% year-over-year, and adjusted net income of $76.3 million, or 2 cents per share, compared with $83 million, or 2 cents per share, a year earlier. Revenue from the foundry division is expected to have fallen 7% to $3.98 billion. Intel has reportedly started laying off thousands of workers in Oregon as part of previously announced cuts under its restructuring plan. UPDATE—July 24, 2025: This article has been updated since it was first published to reflect more recent analyst estimates and share price values.
 --------------------------------------------------
