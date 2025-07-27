@@ -15,6 +15,12 @@ Business FILE PHOTO: A smartphone with a displayed Intel logo is placed on a com
 --------------------------------------------------
 
 Title: Intel slumps as potential foundry exit deepens investor gloom
+URL: https://ca.finance.yahoo.com/news/intel-shares-drop-almost-6-061459159.html
+Time Published: 2025-07-25T06:14:59Z
+Description: (Reuters) -Intel shares sank 8% on Friday after the company warned of exiting chip manufacturing if it fails to secure a major customer, a potentially...
+--------------------------------------------------
+
+Title: Intel slumps as potential foundry exit deepens investor gloom
 URL: https://finance.yahoo.com/news/intel-shares-drop-almost-6-061459193.html
 Time Published: 2025-07-25T06:14:59Z
 Description: (Reuters) -Intel shares sank 8% on Friday after the company warned of exiting chip manufacturing if it fails to secure a major customer, a potentially...
@@ -55,16 +61,4 @@ Title: Elon Musk Says 'They Simply Don't' Have The Funding, Doubts Stargate AI
 URL: https://finance.yahoo.com/news/elon-musk-says-simply-dont-121002971.html
 Time Published: 2025-07-22T12:10:02Z
 Description: On Tuesday, major artificial intelligence (AI) chip manufacturers, including Nvidia (NASDAQ:NVDA), Advanced Micro Devices (NASDAQ:AMD), Broadcom (NASDAQ:AVGO...
---------------------------------------------------
-
-Title: S&P 500 and Nasdaq 100 Jump to Record Highs as Bond Yields Fall
-URL: https://www.barchart.com/story/news/33533641/s-p-500-and-nasdaq-100-jump-to-record-highs-as-bond-yields-fall
-Time Published: 2025-07-21T15:26:58Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.54%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stocks Climb on Lower Bond Yields and Favorable Corporate News
-URL: https://www.barchart.com/story/news/33530908/stocks-climb-on-lower-bond-yields-and-favorable-corporate-news
-Time Published: 2025-07-21T14:09:01Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.30%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.13%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
