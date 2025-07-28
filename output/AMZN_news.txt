@@ -12,6 +12,13 @@ Time Published: 2025-07-27T11:37:56Z
 Description: The stock market is at record highs as investors brace for what's expected to be the busiest week of the summer on Wall Street.
 --------------------------------------------------
 
+Title: What Analysts Think of Microsoft Stock Ahead of Earnings
+URL: https://www.investopedia.com/what-analysts-think-of-microsoft-stock-ahead-of-earnings-11779456
+Time Published: 2025-07-27T09:00:00Z
+Full Content:
+Microsoft (MSFT) is scheduled to report fiscal fourth-quarter earnings after the closing bell on Wednesday, and Wall Street is resoundingly bullish on the software giant heading into the results. All 19 analysts covering Microsoft tracked by Visible Alpha have a buy or equivalent rating for the stock. Their consensus price target near $578 implies 12% upside over the stock’s Friday closing price of $513.71—a record high. Analysts at Wedbush, which has Microsoft on its "Best Ideas List," raised its price target to $600 last week. The company "is just hitting its next phase of monetization on the AI front," Wedbush said, thanks to the adoption of Copilot, its chatbot, and the cloud-computing platform Azure. Revenue from Microsoft's Intelligent Cloud segment, which includes Azure, is expected to grow 22% to $28.96 billion per Visible Alpha analyst estimates. Citi analysts have called Microsoft their "top pick," giving it a price target of $613. The bank said Microsoft has pricing and margin power that is "nearly unmatched in enterprise software." Jefferies analysts issued a price target of $600 earlier this month. Analysts on average expect Microsoft to report quarterly revenue of $73.86 billion, up 14% year-over-year, and net income of $25.27 billion, or $3.38 per share, compared to $22.04 billion, or $2.95 per share, a year earlier. Wall Street will be watching for updates on Microsoft's AI spending ambitions in fiscal year 2026, which began this month. In April, CFO Amy Hood said capital expenditures are expected to grow this fiscal year, but at a slower rate than in fiscal 2025. Microsoft at the time said it expected $80 billion of capex in fiscal 2025. Google parent Alphabet (GOOGL) last week raised its projected 2025 capital expenditures to $85 billion from $75 billion. Rival hyperscaler Meta (META), like Microsoft, is set to report earnings after the bell on Wednesday. Amazon (AMZN) and Apple (AAPL) are slated to follow a day later.
+--------------------------------------------------
+
 Title: Amazon.com, Inc. (AMZN)’s CEO Says Tariffs Haven’t Hurt Company, Says Jim Cramer
 URL: https://finance.yahoo.com/news/amazon-com-inc-amzn-ceo-234741929.html
 Time Published: 2025-07-26T23:47:41Z
