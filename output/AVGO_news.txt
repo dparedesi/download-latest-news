@@ -35,15 +35,3 @@ URL: https://www.barchart.com/story/news/33582449/as-taiwan-semi-joins-the-trill
 Time Published: 2025-07-23T12:00:02Z
 Description: After joining the trillion-dollar club and delivering blockbuster quarterly results, TSM’s dominant AI chip leadership and strong analyst support make it a...
 --------------------------------------------------
-
-Title: Tech Taps the Brakes, Homebuilders Hit the Gas: See the Rotation on StockCharts Today
-URL: https://stockcharts.com/articles/chartwatchers/2025/07/tech-taps-the-brakes-homebuild-832.html
-Time Published: 2025-07-22T23:38:22Z
-Description: The stock market feels like it's holding its breath ahead of Big Tech earnings. The first two days of the trading week were mostly quiet, but Tuesday gave us a few nuggets worth chewing on.The S&P 500 ($SPX) squeaked out another record close, up by a modest +…
---------------------------------------------------
-
-Title: Stocks Pressured by Chip Stock Weakness
-URL: https://www.barchart.com/story/news/33558756/stocks-pressured-by-chip-stock-weakness
-Time Published: 2025-07-22T14:15:01Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.14%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.26%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------

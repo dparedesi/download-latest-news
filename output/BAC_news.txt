@@ -25,15 +25,3 @@ URL: https://finance.yahoo.com/news/amazons-ai-powered-aws-efficiency-191416999.
 Time Published: 2025-07-23T19:14:16Z
 Description: Amazon.com (NASDAQ:AMZN) is poised to potentially outperform market expectations in its July 31 second-quarter earnings report, driven by a combination of...
 --------------------------------------------------
-
-Title: Is This Dividend Stock Still a Buy After Rising Nearly 46% in 3 Months?
-URL: https://www.barchart.com/story/news/33570812/is-this-dividend-stock-still-a-buy-after-rising-nearly-46-in-3-months
-Time Published: 2025-07-22T23:30:02Z
-Description: Citigroup shares have gained nearly 46% over the last three months. The stock has an attractive dividend yield of 2.6% which is higher than most large banks ...
---------------------------------------------------
-
-Title: Coinbase and PNC to work together as crypto reaches for Main Street
-URL: https://finance.yahoo.com/news/coinbase-and-pnc-to-work-together-as-crypto-reaches-for-main-street-140003222.html
-Time Published: 2025-07-22T14:00:03Z
-Description: The largest US cryptocurrency exchange and a Pittsburgh regional lender announced a strategic partnership on Tuesday that shows how upstart crypto and old...
---------------------------------------------------

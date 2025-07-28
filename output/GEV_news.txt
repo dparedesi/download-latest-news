@@ -23,9 +23,3 @@ URL: https://finance.yahoo.com/news/live/earnings-live-att-stock-slides-despite-
 Time Published: 2025-07-23T11:57:29Z
 Description: This week, 112 S&P 500 companies report Q2 results in a busy week for corporate earnings reports.
 --------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq rise on US-Japan deal hopes, with Tesla and Google on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-on-us-japan-deal-hopes-with-tesla-and-google-on-deck-232647995.html
-Time Published: 2025-07-22T23:26:47Z
-Description: Wall Street is getting ready for Tesla and Google-parent Alphabet to fire up "Magnificent 7" earnings.
---------------------------------------------------
