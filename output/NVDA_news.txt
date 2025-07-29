@@ -119,14 +119,14 @@ Time Published: 2025-07-24T20:23:15Z
 Description: Aeye stock soared more than 300% after the lidar specialist announceded a collaboration with Nvidia. Here’s why LIDR shares remain unattractive to own still.
 --------------------------------------------------
 
-Title: Intel beats on Q2 revenue, plans to cut 15% of workforce, cancels factory plans
-URL: https://finance.yahoo.com/news/intel-beats-on-q2-revenue-plans-to-cut-15-of-workforce-cancels-factory-plans-200851789.html
+Title: Intel stock rises on Q2 revenue beat, plans to cut 15% of workforce
+URL: https://finance.yahoo.com/news/intel-stock-rises-on-q2-revenue-beat-plans-to-cut-15-of-workforce-200851802.html
 Time Published: 2025-07-24T20:08:51Z
 Description: Intel reported its Q2 earnings after the bell Thursday.
 --------------------------------------------------
 
-Title: Intel stock rises on Q2 revenue beat, plans to cut 15% of workforce
-URL: https://finance.yahoo.com/news/intel-stock-rises-on-q2-revenue-beat-plans-to-cut-15-of-workforce-200851802.html
+Title: Intel beats on Q2 revenue, plans to cut 15% of workforce, cancels factory plans
+URL: https://finance.yahoo.com/news/intel-beats-on-q2-revenue-plans-to-cut-15-of-workforce-cancels-factory-plans-200851789.html
 Time Published: 2025-07-24T20:08:51Z
 Description: Intel reported its Q2 earnings after the bell Thursday.
 --------------------------------------------------
