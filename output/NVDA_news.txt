@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA Corporation (NVDA)’s CEO Has A Great Relationship With Trump, Says Jim Cramer
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_40fb9d40-4324-45b6-b2fe-293d3c6dd3fa
+Time Published: 2025-07-27T20:17:23Z
+Description: None
+--------------------------------------------------
+
+Title: Intel CEO outlines 'hard but necessary decisions'; Trader Guilfoyle: CEO Tan 'Has a Chance'
+URL: https://www.thestreet.com/investing/stocks/intel-ceo-outlines-hard-but-necessary-decisions-trader-guilfoyle-ceo-tan-has-a-chance
+Time Published: 2025-07-27T13:33:00Z
+Description: Analysts and traders have much to say about the Intel CEO's turnaround effort.
+--------------------------------------------------
+
 Title: Second Quarter Earnings Season: Google Reinforces The AI Story
 URL: https://www.forbes.com/sites/bill_stone/2025/07/27/second-quarter-earnings-season-google-reinforces-the-ai-story/
 Time Published: 2025-07-27T10:51:09Z
@@ -116,66 +128,4 @@ Title: Nvidia (NVDA) Named a Top Pick Ahead of Earnings, Says Morgan Stanley
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a40ea4d7-d362-44f8-bafe-46b70a2fe529
 Time Published: 2025-07-24T00:20:38Z
 Description: None
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq trade mixed as Wall Street weighs Google, Tesla earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-trade-mixed-as-wall-street-weighs-google-tesla-earnings-233839940.html
-Time Published: 2025-07-23T23:38:39Z
-Description: Hopes for a US-EU trade deal kept fresh records in sight as Wall Street assessed earnings from Alphabet and Tesla.
---------------------------------------------------
-
-Title: Meme stock rally has investors feeling 'invulnerable' as speculative bets power markets at record highs
-URL: https://finance.yahoo.com/news/meme-stock-rally-has-investors-feeling-invulnerable-as-speculative-bets-power-markets-at-record-highs-195514347.html
-Time Published: 2025-07-23T19:55:14Z
-Description: Retail investors have begun to pile into speculative bets on small-cap companies in a buildup that resembles the meme stock frenzy of 2021.
---------------------------------------------------
-
-Title: This Former AI Underdog Might Be the Next Nvidia
-URL: https://www.barchart.com/story/news/33592685/this-former-ai-underdog-might-be-the-next-nvidia
-Time Published: 2025-07-23T17:36:27Z
-Description: Palantir has moved on from the realm of potential to deliver solid results.
---------------------------------------------------
-
-Title: Here's What You Need to Know Ahead of Google Parent Alphabet's Earnings Today
-URL: https://www.investopedia.com/here-is-what-you-need-to-know-ahead-of-google-parent-alphabet-earnings-today-11777519
-Time Published: 2025-07-23T17:08:47Z
-Full Content:
-Google parent Alphabet (GOOGL) is set to post second-quarter earnings after the market closes today, with investors likely to be watching its cloud and advertising revenue growth for signs of the tech giant's competitiveness amid the AI boom. Jefferies analysts said they expect Google's cloud business to benefit from strong enterprise demand and AI momentum, while analysts at Wedbush recently cautioned that the Magnificent Seven member’s advertising revenue could face challenges from a shift to generative AI search. Wall Street broadly expects Google Cloud revenue to have jumped 26% year-over-year to $13.14 billion, according to Visible Alpha, while the Street projects revenue from Google’s Search and Other division to have risen about 9% to $52.93 billion. Total revenue is expected to have increased 11% to $94.01 billion. Of the 19 analysts covering Alphabet tracked by Visible Alpha, 15 have a "buy" or equivalent rating for the stock, alongside four "hold" ratings. Shares of Alphabet were down about 1% in recent trading, and the stock is roughly flat for 2025. Options pricing data suggests traders expect Alphabet stock could see a sizable move by the end of the week. Alphabet is joined by fellow Mag 7 company Tesla (TSLA) in reporting earnings Wednesday. Microsoft (MSFT) and Meta (META) are set to report next Wednesday, with Amazon (AMZN), and Apple (AAPL) expected to follow a day later. Nvidia (NVDA) isn't slated to report until late August.
---------------------------------------------------
-
-Title: 'You'd Have to Be Very Skilled to Have A Job': AI Godfather Geoffrey Hinton Predicts Healthcare Will Survive AI Disruption
-URL: https://finance.yahoo.com/news/youd-very-skilled-job-ai-165756954.html
-Time Published: 2025-07-23T16:57:56Z
-Description: "You'd have to be very skilled to have a job," said AI godfather Geoffrey Hinton, warning that automation could erase much of today's intellectual labor. As ...
---------------------------------------------------
-
-Title: AI trade takes center stage as Big Tech earnings season kicks off
-URL: https://finance.yahoo.com/news/ai-trade-takes-center-stage-as-big-tech-earnings-season-kicks-off-135109560.html
-Time Published: 2025-07-23T13:51:09Z
-Description: Big Tech earnings season kicks off when Google parent Alphabet reports after the bell today.
---------------------------------------------------
-
-Title: Dan Niles Explains Why He Turned Bullish on NVIDIA (NVDA)
-URL: https://finance.yahoo.com/news/dan-niles-explains-why-turned-135022690.html
-Time Published: 2025-07-23T13:50:22Z
-Description: Nvidia is one of the 10 Buzzing Stocks Everyone is Talking About. Dan Niles, Niles Investment Management founder and portfolio manager, said in a recent...
---------------------------------------------------
-
-Title: As Taiwan Semi Joins the Trillion-Dollar Club, Should You Buy, Sell, or Hold TSM Stock?
-URL: https://www.barchart.com/story/news/33582449/as-taiwan-semi-joins-the-trillion-dollar-club-should-you-buy-sell-or-hold-tsm-stock
-Time Published: 2025-07-23T12:00:02Z
-Description: After joining the trillion-dollar club and delivering blockbuster quarterly results, TSM’s dominant AI chip leadership and strong analyst support make it a...
---------------------------------------------------
-
-Title: NVDA Broken Wing Butterfly Trade Targets A Profit Zone Between 150 and 160
-URL: https://www.barchart.com/story/news/33580409/nvda-broken-wing-butterfly-trade-targets-a-profit-zone-between-150-and-160
-Time Published: 2025-07-23T11:00:02Z
-Description: Nvidia is pulling back towards the rising 21-day moving average and is still in a solid uptrend. Today we’re looking at a broken wing butterfly trade that...
---------------------------------------------------
-
-Title: Meme Stocks Are Back—Should You Be Worried?
-URL: https://www.investopedia.com/meme-stocks-are-back-should-you-be-worried-kohls-opendoor-11777061
-Time Published: 2025-07-23T09:00:00Z
-Full Content:
-Meme stocks are back in the spotlight. Shares of apparel retailer Kohl’s (KSS) opened nearly 90% higher Tuesday and online home buying website Opendoor’s (OPEN) shares popped nearly 20% at the open. Neither shared any business updates, but both were major topics of conversation on r/wallstreetbets, the subreddit that fueled the meme stock craze of 2021. As in 2021, a short squeeze may have been the culprit for the Tuesday morning spike. Nearly 50% of Kohl’s shares were sold short at the end of June, according to data from FactSet. The stock’s rising price could have forced some short sellers to cover their position by buying the stock, adding to the demand driving up its price. Tuesday's squeeze was relatively short-lived. Kohl’s stock pared its gains throughout the session’s first 30 minutes and ended the day 38% higher. Opendoor, which more than doubled in value last week and gained another 40% Monday, finished Tuesday's session down 10%. Come Wednesday morning, meme traders were hunting for new opportunities. Shares of Krispy Kreme (DNUT) and GoPro (GPRO) jumped 27% and 60%, respectively, in early trading, while Kohl's and Opendoor slumped. The return of meme stocks may have something to do with the stock market’s recent success. Stocks hit a series of record highs in recent weeks as Wall Street cheered tax cuts and pro-crypto legislation, and looked forward to trade deals. The Magnificent Seven rode AI excitement to trade near record highs, with Nvidia (NVDA) becoming the first company to ever reach a $4 trillion market capitalization. Speculative assets like cryptocurrencies have performed particularly well in recent months. Bitcoin traded at $120,000 on Tuesday afternoon, not far from its all-time high of about $123,000. Ethereum has rallied nearly 60% in the last month. Shares of stablecoin issuer Circle Internet Group (CRCL) skyrocketed about 750% in the two weeks after its IPO in early June. There have been signs for some time that retail investors were losing interest in the Magnificent Seven after their run-up that started in late 2022. Mom-and-pop investors looking for big gains pivoted into riskier corners of the market, like small caps and more obscure AI plays, in the second quarter, according to data from Vanda Research. That trend accelerated in July, with high-beta equities like Joby (JOBY), Archer Aviation (ACHR), D-Wave Quantum (QBTS), BigBear.ai (BBAI) among the most bought stocks by retail investors this month. Flurries of speculative activity like that seen Tuesday are sometimes interpreted as signs of market frothiness, and thus precursors to pullbacks. Though that's not always the case, and even with stocks at record highs, investors have yet to pile into equities at alarming rates. Deutsche Bank's measure of equity positioning only rose from "neutral" to "overweight" last week. "In the absence of a clear negative catalyst, there is room for positioning to continue trending higher," according to strategist Parag Thatte. Update—July 23, 2025: This story has been updated with additional share prices after markets opened on Wednesday.
 --------------------------------------------------

@@ -1,5 +1,29 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Earnings To Watch: Freshworks (FRSH) Reports Q2 Results Tomorrow
+URL: https://finance.yahoo.com/news/earnings-watch-freshworks-frsh-reports-031335211.html
+Time Published: 2025-07-28T03:13:35Z
+Description: Business software provider Freshworks (NASDAQ: FRSH) will be reporting earnings this Tuesday afternoon. Here’s what you need to know.
+--------------------------------------------------
+
+Title: Norfolk Southern (NSC) Q2 Earnings Report Preview: What To Look For
+URL: https://finance.yahoo.com/news/norfolk-southern-nsc-q2-earnings-030632665.html
+Time Published: 2025-07-28T03:06:32Z
+Description: Freight transportation company Norfolk Southern (NYSE:NSC) will be announcing earnings results this Tuesday morning. Here’s what to expect.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures nudge higher as Trump-EU trade deal kicks off huge week in markets
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-nudge-higher-as-trump-eu-trade-deal-kicks-off-huge-week-003043724.html
+Time Published: 2025-07-28T00:30:43Z
+Description: Markets are cheering a US-EU tariff pact that has eased worries of a trade war.
+--------------------------------------------------
+
+Title: Microsoft CEO makes bold statement on company's future
+URL: https://www.thestreet.com/investing/stocks/microsoft-ceo-says-companys-mission-needs-to-change
+Time Published: 2025-07-27T19:12:39Z
+Description: The chief of the software giant Microsoft says AI is upending the world as we know it.
+--------------------------------------------------
+
 Title: Microsoft’s (MSFT) Cloud and AI Strategy Could Deliver Big Q4 Upside
 URL: https://finance.yahoo.com/news/microsoft-msft-cloud-ai-strategy-151321850.html
 Time Published: 2025-07-27T15:13:21Z
@@ -16,7 +40,7 @@ Title: What Analysts Think of Microsoft Stock Ahead of Earnings
 URL: https://www.investopedia.com/what-analysts-think-of-microsoft-stock-ahead-of-earnings-11779456
 Time Published: 2025-07-27T09:00:00Z
 Full Content:
-Microsoft (MSFT) is scheduled to report fiscal fourth-quarter earnings after the closing bell on Wednesday, and Wall Street is resoundingly bullish on the software giant heading into the results. All 19 analysts covering Microsoft tracked by Visible Alpha have a buy or equivalent rating for the stock. Their consensus price target near $578 implies 12% upside over the stock’s Friday closing price of $513.71—a record high. Analysts at Wedbush, which has Microsoft on its "Best Ideas List," raised its price target to $600 last week. The company "is just hitting its next phase of monetization on the AI front," Wedbush said, thanks to the adoption of Copilot, its chatbot, and the cloud-computing platform Azure. Revenue from Microsoft's Intelligent Cloud segment, which includes Azure, is expected to grow 22% to $28.96 billion per Visible Alpha analyst estimates. Citi analysts have called Microsoft their "top pick," giving it a price target of $613. The bank said Microsoft has pricing and margin power that is "nearly unmatched in enterprise software." Jefferies analysts issued a price target of $600 earlier this month. Analysts on average expect Microsoft to report quarterly revenue of $73.86 billion, up 14% year-over-year, and net income of $25.27 billion, or $3.38 per share, compared to $22.04 billion, or $2.95 per share, a year earlier. Wall Street will be watching for updates on Microsoft's AI spending ambitions in fiscal year 2026, which began this month. In April, CFO Amy Hood said capital expenditures are expected to grow this fiscal year, but at a slower rate than in fiscal 2025. Microsoft at the time said it expected $80 billion of capex in fiscal 2025. Google parent Alphabet (GOOGL) last week raised its projected 2025 capital expenditures to $85 billion from $75 billion. Rival hyperscaler Meta (META), like Microsoft, is set to report earnings after the bell on Wednesday. Amazon (AMZN) and Apple (AAPL) are slated to follow a day later.
+Microsoft (MSFT) is scheduled to report fiscal fourth-quarter earnings after the closing bell on Wednesday, and Wall Street is resoundingly bullish on the software giant heading into the results. All 20 analysts covering Microsoft tracked by Visible Alpha have a "buy" or equivalent rating for the stock. Their consensus price target around $580 implies 13% upside over Monday's close just above $512, after setting a record high Friday at $513.71. Wedbush, which has Microsoft on its "Best Ideas List," recently raised its price target to $600. The company "is just hitting its next phase of monetization on the AI front," Wedbush said, thanks to the adoption of Copilot, its chatbot, and the cloud-computing platform Azure. Revenue from Microsoft's Intelligent Cloud segment, which includes Azure, is expected to grow 22% to $28.96 billion, according to estimates compiled by Visible Alpha. Citi analysts have called Microsoft their "top pick," giving it a price target of $613. The bank said Microsoft has pricing and margin power that is "nearly unmatched in enterprise software." Jefferies analysts issued a price target of $600 earlier this month. Analysts on average expect Microsoft to report quarterly revenue of $73.86 billion, up 14% year-over-year, and net income of $25.27 billion, or $3.38 per share, compared to $22.04 billion, or $2.95 per share, a year earlier. Wall Street will be watching for updates on Microsoft's AI spending ambitions in fiscal year 2026, which began this month. In April, CFO Amy Hood said capital expenditures are expected to grow this fiscal year, but at a slower rate than in fiscal 2025. Microsoft at the time said it expected $80 billion of capex in fiscal 2025. Google parent Alphabet (GOOGL) last week raised its projected 2025 capital expenditures to $85 billion from $75 billion. Rival hyperscaler Meta (META), like Microsoft, is set to report earnings after the bell on Wednesday. Amazon (AMZN) and Apple (AAPL) are slated to follow a day later. UPDATE—July 28, 2025: This article has been updated since it was first published to reflect more recent analyst estimates and share price values.
 --------------------------------------------------
 
 Title: Sanmina Earnings: What To Look For From SANM
@@ -47,53 +71,4 @@ Title: Microsoft (MSFT) Set for Another Strong Quarter, Analysts Say
 URL: https://finance.yahoo.com/news/microsoft-msft-set-another-strong-002432131.html
 Time Published: 2025-07-24T00:24:32Z
 Description: Microsoft Corporation (NASDAQ:MSFT) is one of the AI Stocks in the Spotlight Right Now. On July 22, Citi raised its price target on the stock to $613.00 from...
---------------------------------------------------
-
-Title: Microsoft (MSFT) Gets $525 Price Target as AI and Cloud Demand Remain Strong
-URL: https://finance.yahoo.com/news/microsoft-msft-gets-525-price-222211124.html
-Time Published: 2025-07-23T22:22:11Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the AI Stocks on Analysts’ Radar Right Now. On July 21, RBC Capital analyst Rishi Jaluria reiterated an...
---------------------------------------------------
-
-Title: Meme stock rally has investors feeling 'invulnerable' as speculative bets power markets at record highs
-URL: https://finance.yahoo.com/news/meme-stock-rally-has-investors-feeling-invulnerable-as-speculative-bets-power-markets-at-record-highs-195514347.html
-Time Published: 2025-07-23T19:55:14Z
-Description: Retail investors have begun to pile into speculative bets on small-cap companies in a buildup that resembles the meme stock frenzy of 2021.
---------------------------------------------------
-
-Title: This Hot SPAC Stock Is Joining the Ethereum Treasury Battle. Should You Buy Shares Now?
-URL: https://www.barchart.com/story/news/33594582/this-hot-spac-stock-is-joining-the-ethereum-treasury-battle-should-you-buy-shares-now
-Time Published: 2025-07-23T19:17:30Z
-Description: The Ether Machine is expected to launch with over 400,000 Ether and manage the largest pool of assets in a public vehicle for pure-play institutional-grade...
---------------------------------------------------
-
-Title: Why Opendoor (OPEN) Shares Are Plunging Today
-URL: https://finance.yahoo.com/news/why-opendoor-open-shares-plunging-191049757.html
-Time Published: 2025-07-23T19:10:49Z
-Description: Shares of technology real estate company Opendoor (NASDAQ:OPEN) fell 23.5% in the afternoon session as the stock plunged after a recent, massive surge driven...
---------------------------------------------------
-
-Title: Analyst Explains How Microsoft (MSFT) Stock Can Reach $600
-URL: https://finance.yahoo.com/news/analyst-explains-microsoft-msft-stock-135214236.html
-Time Published: 2025-07-23T13:52:14Z
-Description: Microsoft Corp (NASDAQ:MSFT) is one of the 10 Buzzing Stocks Everyone is Talking About. Brian Schwartz, Oppenheimer analyst, recently talked about Microsoft ...
---------------------------------------------------
-
-Title: Buy Or Sell MSFT Stock At $510?
-URL: https://www.forbes.com/sites/greatspeculations/2025/07/23/buy-or-sell-msft-stock-at-510/
-Time Published: 2025-07-23T13:02:34Z
-Full Content:
-ByTrefis Team ByTrefis Team, Contributor. Photo Illustration by Budrul Chukrut/SOPA Images/LightRocket via Getty Images Microsoft (NASDAQ:MSFT) has excelled this year, with its stock climbing over 20%. This notably exceeds the broader market performance, as the S&P 500 is up 7%, and competitors like Amazon have achieved just a 5% increase, while Google has gained less than 1%. This impressive growth is primarily attributed to strong cloud expansion—Azure revenue alone surged 33% in the third quarter of fiscal year 2025—and its ongoing advances in AI integration. Microsoft’s solid position in the emerging AI boom has undoubtedly been a significant factor contributing to investor trust. However, at the current price of $510, is there still potential for growth? We believe there is. We arrived at this conclusion by evaluating MSFT stock’s current valuation against its operating performance in recent years, in addition to its current and historical financial status. Our assessment of Microsoft, considering essential factors such as Growth, Profitability, Financial Stability, and Downturn Resilience, indicates a company with robust operating performance and financial standing, as elaborated below. That being said, if you're looking for upside with less volatility than individual stocks, the Trefis High Quality portfolio offers an alternative—having outperformed the S&P 500 with returns surpassing 91% since its inception. On a separate note, is PepsiCo stock still appealing? See What’s Happening With PepsiCo Stock? When considering what you pay for each dollar of sales or profit, MSFT stock appears costly relative to the wider market. Microsoft's Revenues have experienced significant growth in recent years. Microsoft's profit margins significantly exceed those of most companies within the Trefis coverage universe. Microsoft's balance sheet appears very robust. MSFT stock has demonstrated a performance slightly better than the S&P 500 index during several recent downturns. Concerned about the effects of a market crash on MSFT stock? Our dashboard – How Low Can Microsoft Stock Go In A Market Crash – provides an in-depth analysis of how the stock fared during and after previous market crashes. In conclusion, Microsoft's performance across the aforementioned parameters can be summarized as follows: In summary, Microsoft stock has significantly excelled across all critical parameters, which contributes to its premium valuation. Currently priced at $510, the stock stands at 39 times its trailing earnings, marking a slight increase from its four-year average price-to-earnings ratio of 35. Nonetheless, we contend that this premium is warranted, and there exists the possibility for further growth. This optimism is fueled by impressive sales growth in Azure and improved profitability, as demonstrated by Microsoft’s operating margin expanding from 41.8% in 2023 to 45.2% now. Related – The Bull Case For Microsoft’s Next 2x Rally. Of course, our evaluation may be incorrect, and investors might hesitate to pay an even higher premium for MSFT stock considering its already elevated valuation and other risks, such as the recent security breach. Nevertheless, if you have confidence that AI growth will persist, and you possess a 3-5 year investment perspective, Microsoft is likely to be a successful stock. Not particularly fond of the volatile nature of MSFT stock? Consider the Trefis High Quality (HQ) Portfolio; it boasts a collection of 30 stocks and has a strong track record of comfortably outperforming the S&P 500 over the last 4 years. Why is that? As a collective, HQ Portfolio stocks delivered superior returns while incurring less risk compared to the benchmark index; resulting in a smoother investment experience, as shown in HQ Portfolio performance metrics.
---------------------------------------------------
-
-Title: CRWV Stock Alert: This Analyst Warns CoreWeave Could Plunge 70% From Here
-URL: https://www.barchart.com/story/news/33581427/crwv-stock-alert-this-analyst-warns-coreweave-could-plunge-70-from-here
-Time Published: 2025-07-23T11:30:02Z
-Description: HSBC sees major risks for CoreWeave stock, citing heavy customer concentration, mounting costs, and a bearish $32 price target.
---------------------------------------------------
-
-Title: Deckers (DECK) Q2 Earnings: What To Expect
-URL: https://finance.yahoo.com/news/deckers-deck-q2-earnings-expect-031133126.html
-Time Published: 2025-07-23T03:11:33Z
-Description: Footwear and apparel conglomerate Deckers (NYSE:DECK) will be reporting results this Thursday after market close. Here’s what to expect.
 --------------------------------------------------

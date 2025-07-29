@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Intel CEO outlines 'hard but necessary decisions'; Trader Guilfoyle: CEO Tan 'Has a Chance'
+URL: https://www.thestreet.com/investing/stocks/intel-ceo-outlines-hard-but-necessary-decisions-trader-guilfoyle-ceo-tan-has-a-chance
+Time Published: 2025-07-27T13:33:00Z
+Description: Analysts and traders have much to say about the Intel CEO's turnaround effort.
+--------------------------------------------------
+
 Title: Intel slumps as potential foundry exit deepens investor gloom
 URL: https://economictimes.indiatimes.com/tech/technology/intel-slumps-as-potential-foundry-exit-deepens-investor-gloom/articleshow/122910366.cms
 Time Published: 2025-07-25T17:35:40Z
@@ -24,22 +30,4 @@ Title: Intel slumps as potential foundry exit deepens investor gloom
 URL: https://ca.finance.yahoo.com/news/intel-shares-drop-almost-6-061459159.html
 Time Published: 2025-07-25T06:14:59Z
 Description: (Reuters) -Intel shares sank 8% on Friday after the company warned of exiting chip manufacturing if it fails to secure a major customer, a potentially...
---------------------------------------------------
-
-Title: Bernstein Lifts AMD Price Target to $140—But Still Holds Rating
-URL: https://finance.yahoo.com/news/bernstein-lifts-amd-price-target-221556683.html
-Time Published: 2025-07-23T22:15:56Z
-Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the AI Stocks on Analysts’ Radar Right Now. On July 21, Bernstein SocGen Group analyst Stacy Rasgon...
---------------------------------------------------
-
-Title: Analyst With $200 Advanced Micro Devices (AMD) Price Target Explains Why He’s Bullish, Sees ‘Big Reversal’ in AI Revenue
-URL: https://finance.yahoo.com/news/analyst-200-advanced-micro-devices-133815186.html
-Time Published: 2025-07-23T13:38:15Z
-Description: Advanced Micro Devices Inc (NASDAQ:AMD) is one of the 10 Buzzing Stocks Everyone is Talking About. HSBC’s Frank Lee explained in a recent program on CNBC why...
---------------------------------------------------
-
-Title: As Taiwan Semi Joins the Trillion-Dollar Club, Should You Buy, Sell, or Hold TSM Stock?
-URL: https://www.barchart.com/story/news/33582449/as-taiwan-semi-joins-the-trillion-dollar-club-should-you-buy-sell-or-hold-tsm-stock
-Time Published: 2025-07-23T12:00:02Z
-Description: After joining the trillion-dollar club and delivering blockbuster quarterly results, TSM’s dominant AI chip leadership and strong analyst support make it a...
 --------------------------------------------------
