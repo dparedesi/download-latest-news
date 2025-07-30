@@ -25,6 +25,12 @@ Time Published: 2025-07-28T15:21:33Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.08%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
 --------------------------------------------------
 
+Title: Stocks Supported by Positive Trade News
+URL: https://www.barchart.com/story/news/33686421/stocks-supported-by-positive-trade-news
+Time Published: 2025-07-28T14:03:48Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.08%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
 Title: Intel CEO outlines 'hard but necessary decisions'; Trader Guilfoyle: CEO Tan 'Has a Chance'
 URL: https://www.thestreet.com/investing/stocks/intel-ceo-outlines-hard-but-necessary-decisions-trader-guilfoyle-ceo-tan-has-a-chance
 Time Published: 2025-07-27T13:33:00Z
@@ -46,13 +52,13 @@ Business FILE PHOTO: A smartphone with a displayed Intel logo is placed on a com
 --------------------------------------------------
 
 Title: Intel slumps as potential foundry exit deepens investor gloom
-URL: https://ca.finance.yahoo.com/news/intel-shares-drop-almost-6-061459159.html
+URL: https://finance.yahoo.com/news/intel-shares-drop-almost-6-061459193.html
 Time Published: 2025-07-25T06:14:59Z
 Description: (Reuters) -Intel shares sank 8% on Friday after the company warned of exiting chip manufacturing if it fails to secure a major customer, a potentially...
 --------------------------------------------------
 
 Title: Intel slumps as potential foundry exit deepens investor gloom
-URL: https://finance.yahoo.com/news/intel-shares-drop-almost-6-061459193.html
+URL: https://ca.finance.yahoo.com/news/intel-shares-drop-almost-6-061459159.html
 Time Published: 2025-07-25T06:14:59Z
 Description: (Reuters) -Intel shares sank 8% on Friday after the company warned of exiting chip manufacturing if it fails to secure a major customer, a potentially...
 --------------------------------------------------

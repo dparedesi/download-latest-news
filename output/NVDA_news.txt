@@ -1,5 +1,18 @@
 List of news related to NVIDIA NVDA:
 
+Title: How to keep investing simple (and fun!) with this timeless strategy
+URL: https://www.fool.com.au/2025/07/29/how-to-keep-investing-simple-and-fun-with-this-timeless-strategy/
+Time Published: 2025-07-29T05:03:16Z
+Description: There’s a smarter, simpler way to invest that’s caught the attention of beginners and pros alike. 
+The post How to keep investing simple (and fun!) with this timeless strategy appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: Josh Brown Gives Followers ‘Permission’ to Sell NVIDIA (NVDA) Shares – Here’s Why
+URL: https://finance.yahoo.com/news/josh-brown-gives-followers-permission-201644075.html
+Time Published: 2025-07-28T20:16:44Z
+Description: NVIDIA Corp (NASDAQ:NVDA is one of the Top 10 Stocks Wall Street is Buzzing About These Days. Josh Brown, CEO of Ritholtz Wealth Management, recently said...
+--------------------------------------------------
+
 Title: As AI Mania Roars Back, Is Meta Stock a Buy Before July 30?
 URL: https://www.barchart.com/story/news/33688920/as-ai-mania-roars-back-is-meta-stock-a-buy-heading-before-july-30
 Time Published: 2025-07-28T16:19:20Z
@@ -105,65 +118,4 @@ Title: BofA Raises NVIDIA (NVDA) Price Target on China Sales Outlook
 URL: https://finance.yahoo.com/news/bofa-raises-nvidia-nvda-price-034907514.html
 Time Published: 2025-07-25T03:49:07Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) ranks among the best magic formula stocks to invest in. BofA Securities kept its Buy rating on NVIDIA Corporation...
---------------------------------------------------
-
-Title: S&P 500 and Nasdaq 100 Post Record Highs on Tech Stock Strength
-URL: https://www.barchart.com/story/news/33629119/s-p-500-and-nasdaq-100-post-record-highs-on-tech-stock-strength
-Time Published: 2025-07-24T20:35:00Z
-Description: The S&P 500 Index ($SPX ) (SPY ) Thursday closed up +0.07%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.70%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: This Self-Driving Car Stock Is Surging on a Major Nvidia Boost
-URL: https://www.barchart.com/story/news/33628656/this-self-driving-car-stock-is-surging-on-a-major-nvidia-boost
-Time Published: 2025-07-24T20:23:15Z
-Description: Aeye stock soared more than 300% after the lidar specialist announceded a collaboration with Nvidia. Here’s why LIDR shares remain unattractive to own still.
---------------------------------------------------
-
-Title: Intel stock rises on Q2 revenue beat, plans to cut 15% of workforce
-URL: https://finance.yahoo.com/news/intel-stock-rises-on-q2-revenue-beat-plans-to-cut-15-of-workforce-200851802.html
-Time Published: 2025-07-24T20:08:51Z
-Description: Intel reported its Q2 earnings after the bell Thursday.
---------------------------------------------------
-
-Title: Intel beats on Q2 revenue, plans to cut 15% of workforce, cancels factory plans
-URL: https://finance.yahoo.com/news/intel-beats-on-q2-revenue-plans-to-cut-15-of-workforce-cancels-factory-plans-200851789.html
-Time Published: 2025-07-24T20:08:51Z
-Description: Intel reported its Q2 earnings after the bell Thursday.
---------------------------------------------------
-
-Title: Here's How Much Traders Expect Intel Stock to Move After Earnings Today
-URL: https://www.investopedia.com/here-is-how-much-traders-expect-intel-stock-to-move-after-earnings-today-11778284
-Time Published: 2025-07-24T17:02:23Z
-Full Content:
-Intel (INTC) is scheduled to report earnings after the closing bell today, with traders anticipating a sizable move from the struggling chipmaker's stock. Options pricing suggests traders expect Intel's stock could move more than 7% from its recent level near $23 by the end Friday’s trading session. A move of that scale would lift shares above $24 at the upper end, their highest level since March, or drag them down to $21 at the lower end, about where they were a month ago. Intel's stock has registered an average post-earnings move of 11% over the past four quarters, falling in three of those instances. In April, shares fell 7% the day after earnings as the chipmaker issued a quarterly forecast below analysts’ expectations. Heading into Thursday's report, all 11 brokers covering Intel tracked by Visible Alpha have a neutral rating for the stock, with an average price target near $23. Analysts on average expect Intel’s quarterly revenue and profits to have declined year-over-year, with attention squarely on how new CEO Lip-Bu Tan will manage—or sell off—the chipmaker’s struggling foundry business. Tan is reportedly considering changing what manufacturing process the foundry business focuses on, a move that would cost the company hundreds of millions or even billions of dollars, but could help win major customers like Nvidia (NVDA) and Apple (AAPL). Intel's stock had added about 13% in 2025 so far, but has still lost more than one-quarter of its value from this time last year.
---------------------------------------------------
-
-Title: Analyst Explains How NVIDIA (NVDA) Can Reach $8 Trillion Market Cap
-URL: https://finance.yahoo.com/news/analyst-explains-nvidia-nvda-reach-145214797.html
-Time Published: 2025-07-24T14:52:14Z
-Description: NVIDIA Corp (NASDAQ:NVDA) is one of the 10 Stocks to Buy and Sell in 2025: Top Analyst Calls. Nigam Arora from The Arora Report said in a recent program on...
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA)’s Going To Have A Good Quarter, Says Jim Cramer
-URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-going-good-134958193.html
-Time Published: 2025-07-24T13:49:58Z
-Description: We recently published 12 Stocks Jim Cramer Discussed As Analyzed Morgan Stanley’s Comments. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer ...
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA): A Bull Case Theory
-URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-bull-case-133509385.html
-Time Published: 2025-07-24T13:35:09Z
-Description: We came across a bullish thesis on NVIDIA Corporation on VantagePointAI’s Substack. In this article, we will summarize the bulls’ thesis on NVDA. NVIDIA...
---------------------------------------------------
-
-Title: Intel to report Q2 earnings as Wall Street looks for signs of turnaround
-URL: https://finance.yahoo.com/news/intel-to-report-q2-earnings-as-wall-street-looks-for-signs-of-turnaround-122032426.html
-Time Published: 2025-07-24T12:20:32Z
-Description: Intel will report its Q2 earnings Thursday, and Wall Street will want to hear more about the company's turnaround plans.
---------------------------------------------------
-
-Title: Nvidia (NVDA) Named a Top Pick Ahead of Earnings, Says Morgan Stanley
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a40ea4d7-d362-44f8-bafe-46b70a2fe529
-Time Published: 2025-07-24T00:20:38Z
-Description: None
 --------------------------------------------------

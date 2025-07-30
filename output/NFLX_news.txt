@@ -1,5 +1,11 @@
 List of news related to Netflix stock price NFLX:
 
+Title: Spotify set to report earnings as investor optimism meets cautious guidance
+URL: https://finance.yahoo.com/news/spotify-set-to-report-earnings-as-investor-optimism-meets-cautious-guidance-201026571.html
+Time Published: 2025-07-28T20:10:26Z
+Description: Spotify will report second quarter earnings before the bell on Tuesday. Here's what to expect.
+--------------------------------------------------
+
 Title: Investors face a week rife with risks, as worries about stock-market euphoria mount. Here’s what to watch.
 URL: https://www.marketwatch.com/story/investors-face-a-week-rife-with-risks-as-worries-about-stock-market-euphoria-mount-heres-what-to-watch-616b1fdc
 Time Published: 2025-07-27T19:38:00Z
@@ -10,22 +16,4 @@ Title: Netflix (NFLX) Premieres Epic K-Wave Thriller "Trigger" As Global Content
 URL: https://finance.yahoo.com/news/netflix-nflx-premieres-epic-k-171821041.html
 Time Published: 2025-07-25T17:18:21Z
 Description: Netflix (NFLX) recently exhibited a price move of 7% over the last quarter, influenced by significant activity in the market and company developments. Major ...
---------------------------------------------------
-
-Title: AMC Entertainment Holdings, Inc. (AMC): A Bear Case Theory
-URL: https://finance.yahoo.com/news/amc-entertainment-holdings-inc-amc-134631624.html
-Time Published: 2025-07-24T13:46:31Z
-Description: We came across a bearish thesis on AMC Entertainment Holdings, Inc. on Valueinvestorsclub.com by sabordesoledad. In this article, we will summarize the bulls...
---------------------------------------------------
-
-Title: Netflix, Inc. (NFLX): A Bull Case Theory
-URL: https://finance.yahoo.com/news/netflix-inc-nflx-bull-case-133439687.html
-Time Published: 2025-07-24T13:34:39Z
-Description: We came across a bullish thesis on Netflix, Inc. on Swiss Transparent Portfolio’s Substack. In this article, we will summarize the bulls’ thesis on NFLX...
---------------------------------------------------
-
-Title: Netflix, Inc. (NFLX): “I Felt Bad” About The Earnings Call, Says Jim Cramer
-URL: https://finance.yahoo.com/news/netflix-inc-nflx-felt-bad-131109183.html
-Time Published: 2025-07-24T13:11:09Z
-Description: We recently published 12 Stocks Jim Cramer Talked About. Netflix, Inc. (NASDAQ:NFLX) is one of the stocks Jim Cramer recently discussed. Netflix, Inc...
 --------------------------------------------------
