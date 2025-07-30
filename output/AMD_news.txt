@@ -1,5 +1,17 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stocks Supported by Strong Earnings and Trade Deal Optimism
+URL: https://www.barchart.com/story/news/33715741/stocks-supported-by-strong-earnings-and-trade-deal-optimism
+Time Published: 2025-07-29T15:06:27Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.05%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
+Title: $200 AMD Price Target? Try These 2 Option Trades Before the Market Moves
+URL: https://www.barchart.com/story/news/33708841/200-amd-price-target-try-these-2-option-trades-before-the-market-moves
+Time Published: 2025-07-29T12:13:50Z
+Description: AMD is surging, but is it overvalued? Explore two smart options trades: one bullish, one bearish, to capitalize on its next big move.
+--------------------------------------------------
+
 Title: S&P 500 Gains & Losses Today: Supermicro, Nike Shares Rise; Albemarle Stock Falls
 URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-supermicro-nike-shares-rise-albemarle-stock-falls-11780549
 Time Published: 2025-07-28T21:23:49Z
@@ -65,13 +77,13 @@ Business FILE PHOTO: A smartphone with a displayed Intel logo is placed on a com
 --------------------------------------------------
 
 Title: Intel slumps as potential foundry exit deepens investor gloom
-URL: https://ca.finance.yahoo.com/news/intel-shares-drop-almost-6-061459159.html
+URL: https://finance.yahoo.com/news/intel-shares-drop-almost-6-061459193.html
 Time Published: 2025-07-25T06:14:59Z
 Description: (Reuters) -Intel shares sank 8% on Friday after the company warned of exiting chip manufacturing if it fails to secure a major customer, a potentially...
 --------------------------------------------------
 
 Title: Intel slumps as potential foundry exit deepens investor gloom
-URL: https://finance.yahoo.com/news/intel-shares-drop-almost-6-061459193.html
+URL: https://ca.finance.yahoo.com/news/intel-shares-drop-almost-6-061459159.html
 Time Published: 2025-07-25T06:14:59Z
 Description: (Reuters) -Intel shares sank 8% on Friday after the company warned of exiting chip manufacturing if it fails to secure a major customer, a potentially...
 --------------------------------------------------
