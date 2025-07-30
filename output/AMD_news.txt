@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Is SMCI Stock the Next NVIDIA, and Is It Worth Buying?
+URL: https://finance.yahoo.com/news/smci-stock-next-nvidia-worth-190000501.html
+Time Published: 2025-07-29T19:00:00Z
+Description: SMCI shares are up 97% in 2025, fueled by key deals and recovery from fraud claims-but is it the next NVIDIA?
+--------------------------------------------------
+
 Title: Stocks Supported by Strong Earnings and Trade Deal Optimism
 URL: https://www.barchart.com/story/news/33715741/stocks-supported-by-strong-earnings-and-trade-deal-optimism
 Time Published: 2025-07-29T15:06:27Z
@@ -77,13 +83,13 @@ Business FILE PHOTO: A smartphone with a displayed Intel logo is placed on a com
 --------------------------------------------------
 
 Title: Intel slumps as potential foundry exit deepens investor gloom
-URL: https://finance.yahoo.com/news/intel-shares-drop-almost-6-061459193.html
+URL: https://ca.finance.yahoo.com/news/intel-shares-drop-almost-6-061459159.html
 Time Published: 2025-07-25T06:14:59Z
 Description: (Reuters) -Intel shares sank 8% on Friday after the company warned of exiting chip manufacturing if it fails to secure a major customer, a potentially...
 --------------------------------------------------
 
 Title: Intel slumps as potential foundry exit deepens investor gloom
-URL: https://ca.finance.yahoo.com/news/intel-shares-drop-almost-6-061459159.html
+URL: https://finance.yahoo.com/news/intel-shares-drop-almost-6-061459193.html
 Time Published: 2025-07-25T06:14:59Z
 Description: (Reuters) -Intel shares sank 8% on Friday after the company warned of exiting chip manufacturing if it fails to secure a major customer, a potentially...
 --------------------------------------------------
