@@ -1,5 +1,18 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: S&P 500 Gains & Losses Today: Supermicro, Nike Shares Rise; Albemarle Stock Falls
+URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-supermicro-nike-shares-rise-albemarle-stock-falls-11780549
+Time Published: 2025-07-28T21:23:49Z
+Full Content:
+Major U.S. equities indexes finished Monday mixed following the weekend announcement of a trade agreement with the European Union. The new trading week promises plenty of economic and financial news, including the Federal Reserve's interest-rate announcement, the latest jobs and inflation data, and a flood of earnings reports from major companies in the tech sector and beyond. The S&P 500 eked out a gain of less than 0.1%, while the Nasdaq Composite added 0.3%. Both indexes were at record highs. The Dow slipped 0.1%. Read Investopedia's full coverage of today's trading here. Shares of server maker Super Micro Computer (SMCI) surged more than 10%, notching the S&P 500's top daily performance. Supermicro is set to release its quarterly results on Aug. 5. Monday's push higher for the stock followed reports that President Donald Trump has loosened restrictions on technological exports to China in a move to bolster trade negotiations with the country. Shares of chipmaker Advanced Micro Devices (AMD) gained 4.3%. According to reports, AMD raised pricing on its Instinct MI350 AI chip, suggesting the company is confident in the capacity of its high-end product to compete with offerings from rival Nvidia (NVDA). UBS analysts boosted their price target on AMD stock, pointing to improving expectations for the semiconductor maker's upcoming earnings report, slated for Aug. 5. Nike (NKE) shares treaded 3.9% higher Monday after JPMorgan upgraded the footwear and apparel maker's stock to "overweight" from "neutral." Analysts highlighted Nike's progress on its multiyear recovery plan, which includes inventory alignment and new performance products, with particular opportunities surrounding next year's soccer World Cup in the U.S. Shares of Albemarle (ALB), the world's largest lithium producer, suffered the heaviest decline of any S&P 500 stock, dropping nearly 11%. With the move lower on Monday, Albemarle stock gave back the gains posted over the past week and a half after reports that a large lithium miner in China had suspended operations, helping alleviate concerns about oversupply in the market for the key battery component. Albemarle and other producers have been working to cut costs as they navigate a prolonged slump in lithium prices. Revvity (RVTY) shares fell 8.3% following the medical device maker's quarterly earnings release. Although second-quarter revenue and adjusted earnings per share topped consensus estimates, the maker of instruments and reagents for drug discovery and other healthcare research lowered its full-year profit outlook, citing expected softness in its immunodiagnostics business in China. Cantor Fitzgerald downgraded Centene (CNC) stock to "neutral" from "overweight," and shares of the health insurer slipped 5.4%. Analysts pointed to headwinds related to Centene's business in the healthcare exchange and Medicaid markets. At the beginning of July, Centene withdrew its full-year guidance, citing cost and enrollment pressure.
+--------------------------------------------------
+
+Title: S&P 500 and Nasdaq 100 Post Record Highs on Trade Deals
+URL: https://www.barchart.com/story/news/33693807/s-p-500-and-nasdaq-100-post-record-highs-on-trade-deals
+Time Published: 2025-07-28T20:34:41Z
+Description: The S&P 500 Index ($SPX ) (SPY ) Monday closed up +0.02%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.14%, and the Nasdaq 100 Index ($IUXX...
+--------------------------------------------------
+
 Title: AMD stock jumps on 3 catalysts, Boeing faces potential strike
 URL: https://finance.yahoo.com/video/amd-stock-jumps-3-catalysts-161524529.html
 Time Published: 2025-07-28T16:15:24Z
@@ -52,13 +65,13 @@ Business FILE PHOTO: A smartphone with a displayed Intel logo is placed on a com
 --------------------------------------------------
 
 Title: Intel slumps as potential foundry exit deepens investor gloom
-URL: https://finance.yahoo.com/news/intel-shares-drop-almost-6-061459193.html
+URL: https://ca.finance.yahoo.com/news/intel-shares-drop-almost-6-061459159.html
 Time Published: 2025-07-25T06:14:59Z
 Description: (Reuters) -Intel shares sank 8% on Friday after the company warned of exiting chip manufacturing if it fails to secure a major customer, a potentially...
 --------------------------------------------------
 
 Title: Intel slumps as potential foundry exit deepens investor gloom
-URL: https://ca.finance.yahoo.com/news/intel-shares-drop-almost-6-061459159.html
+URL: https://finance.yahoo.com/news/intel-shares-drop-almost-6-061459193.html
 Time Published: 2025-07-25T06:14:59Z
 Description: (Reuters) -Intel shares sank 8% on Friday after the company warned of exiting chip manufacturing if it fails to secure a major customer, a potentially...
 --------------------------------------------------
