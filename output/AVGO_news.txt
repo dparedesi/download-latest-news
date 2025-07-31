@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Wall Street awaits Fed decision, Big Tech results
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-wall-street-awaits-fed-decision-big-tech-results-233533000.html
+Time Published: 2025-07-29T23:35:33Z
+Description: Investors braced for the Federal Reserve's next interest rate decision and earnings from tech giants Microsoft and Meta.
+--------------------------------------------------
+
 Title: Stocks Supported by Strong Earnings and Trade Deal Optimism
 URL: https://www.barchart.com/story/news/33715741/stocks-supported-by-strong-earnings-and-trade-deal-optimism
 Time Published: 2025-07-29T15:06:27Z
@@ -16,10 +22,4 @@ Title: 3 Top Cybersecurity Stocks to Buy Now
 URL: https://www.barchart.com/story/news/33666833/3-top-cybersecurity-stocks-to-buy-now
 Time Published: 2025-07-26T12:00:02Z
 Description: These cybersecurity stocks can benefit significantly from the increase in threats.
---------------------------------------------------
-
-Title: Broadcom (AVGO) Launches 51.2 Tbps Switch for AI and HPC Applications
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dbd4e7b2-1af8-46d3-96b2-d7beb56fa89f
-Time Published: 2025-07-25T03:49:22Z
-Description: None
 --------------------------------------------------

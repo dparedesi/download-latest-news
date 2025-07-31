@@ -1,5 +1,17 @@
 List of news related to Novo Nordisk NVO:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Wall Street awaits Fed decision, Big Tech results
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-wall-street-awaits-fed-decision-big-tech-results-233533000.html
+Time Published: 2025-07-29T23:35:33Z
+Description: Investors braced for the Federal Reserve's next interest rate decision and earnings from tech giants Microsoft and Meta.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq steady as Wall Street awaits Fed decision, Big Tech results
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-steady-as-wall-street-awaits-fed-decision-big-tech-results-233533322.html
+Time Published: 2025-07-29T23:35:33Z
+Description: Investors braced for the Federal Reserve's next interest rate decision and earnings from tech giants Microsoft and Meta.
+--------------------------------------------------
+
 Title: Novo Nordisk outgoing CEO blames compounded GLP-1s for decline in 2025 outlook
 URL: https://finance.yahoo.com/news/novo-nordisk-outgoing-ceo-blames-compounded-glp-1s-for-decline-in-2025-outlook-155030861.html
 Time Published: 2025-07-29T15:50:30Z
