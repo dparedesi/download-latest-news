@@ -1,9 +1,41 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Crypto markets see $200M in liquidations as Fed’s Powell gives hawkish remarks
+URL: https://coinjournal.net/news/crypto-markets-see-200m-in-liquidations-as-feds-powell-gives-hawkish-remarks/
+Time Published: 2025-07-31T02:41:19Z
+Full Content:
+A wave of volatility swept through the cryptocurrency markets on Wednesday, as Federal Reserve Chair Jerome Powell’s hawkish remarks on inflation and tariffs sent leveraged traders scrambling. The sudden market tremor resulted in over $200 million in liquidations in a single hour, with Bitcoin briefly dipping below the $116,000 mark. The US central bank, as expected, left its benchmark interest rates unchanged in its latest policy decision. However, it was Chair Powell’s subsequent comments that captured the market’s full attention. He insisted on the potential for inflationary pressures to re-emerge, particularly from the impact of trade tariffs. This cautious stance was maintained even as two Federal Reserve officials dissented from the decision, signaling their preference for an immediate rate cut. The crypto market’s reaction to Powell’s hawkish tone was swift and sharp. In the hour that he spoke, liquidations of leveraged positions spiked to over $200 million across all digital assets, according to data from CoinGlass. Bitcoin (BTC) felt the immediate pressure, dipping below $116,000. However, the sell-off proved to be short-lived. Later in the session, Bitcoin managed to bounce back above $117,000, though it was still down 0.8% for the day and continued to trade at the lower end of its tight, three-week range. Ether (ETH) experienced a similar whipsaw, initially sliding by as much as 3% before recovering to trade at $3,750, ending the period with a modest loss of 0.6% over the past 24 hours. Altcoins initially posted even steeper declines, with Solana’s SOL, Avalanche’s AVAX, and Hyperliquid’s HYPE tokens all dropping by 4%-5% before paring their losses. Meme coins like BONK and PENGU plunged by as much as 10% each before also bouncing back. This volatility in the crypto space contrasted with positive developments in the traditional stock market, where tech giants Meta (META) and Microsoft (MSFT) posted strong quarterly earnings, lifting their stocks by 10% and 6%, respectively, in after-hours trading. Despite Powell’s cautious rhetoric, some market analysts believe the Federal Reserve may be misjudging the economic landscape. “The market is increasingly starting to think the Fed may be behind the curve,” commented Matt Mena, an analyst at digital asset issuer 21Shares, in a market note. “Last week’s PCE [Personal Consumption Expenditures] print marked the second soft reading in a row, and consumer spending is weakening,” Mena wrote. With unemployment edging higher and real yields still restrictive, maintaining such tight policy risks overtightening into a broader slowdown. Mena suggested that the current market setup is reminiscent of the last quarter of 2023, a period characterized by “softening inflation, rising political volatility, and a Fed constrained by lagging indicators.” He argued that “the stage is set” for the Federal Reserve to eventually pivot to lower interest rates, a move that he believes could be a powerful catalyst for Bitcoin, potentially driving its price to $150,000 by the end of the year. For now, however, the market remains caught between the Fed’s current hawkish stance and the growing expectation of an eventual, and perhaps necessary, policy shift. Keep updated with our round the clock and in-depth cryptocurrency news Keep updated with our round the clock and in-depth cryptocurrency news Please be aware that some of the links on this site will direct you to the websites of third parties, some of whom are marketing affiliates and/or business partners of this site and/or its owners, operators and affiliates. We may receive financial compensation from these third parties. Notwithstanding any such relationship, no responsibility is accepted for the conduct of any third party nor the content or functionality of their websites or applications. A hyperlink to or positive reference to or review of a broker or exchange should not be understood to be an endorsement of that broker or exchange’s products or services. Risk Warning: Investing in digital currencies, stocks, shares and other securities, commodities, currencies and other derivative investment products (e.g. contracts for difference (“CFDs”) is speculative and carries a high level of risk. Each investment is unique and involves unique risks. CFDs and other derivatives are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how an investment works and whether you can afford to take the high risk of losing your money. Cryptocurrencies can fluctuate widely in prices and are, therefore, not appropriate for all investors. Trading cryptocurrencies is not supervised by any EU regulatory framework. Past performance does not guarantee future results. Any trading history presented is less than 5 years old unless otherwise stated and may not suffice as a basis for investment decisions. Your capital is at risk. When trading in stocks your capital is at risk. Past performance is not an indication of future results. Trading history presented is less than 5 years old unless otherwise stated and may not suffice as a basis for investment decisions. Prices may go down as well as up, prices can fluctuate widely, you may be exposed to currency exchange rate fluctuations and you may lose all of or more than the amount you invest. Investing is not suitable for everyone; ensure that you have fully understood the risks and legalities involved. If you are unsure, seek independent financial, legal, tax and/or accounting advice. This website does not provide investment, financial, legal, tax or accounting advice. Some links are affiliate links. For more information please read our full risk warning and disclaimer.
+--------------------------------------------------
+
+Title: Why did Nvidia shares just reach another all-time high?
+URL: https://www.fool.com.au/2025/07/31/why-did-nvidia-shares-just-reach-another-all-time-high/
+Time Published: 2025-07-31T02:35:37Z
+Description: All signs point to one thing. 
+The post Why did Nvidia shares just reach another all-time high? appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: Ruger (NYSE:RGR) Posts Better-Than-Expected Sales In Q2
+URL: https://finance.yahoo.com/news/ruger-nyse-rgr-posts-better-212925079.html
+Time Published: 2025-07-30T21:29:25Z
+Description: American firearm manufacturing company Ruger (NYSE:RGR) announced better-than-expected revenue in Q2 CY2025, with sales up 1.3% year on year to $132.5...
+--------------------------------------------------
+
 Title: Microsoft’s (MSFT) Capex in FY26 Could Surprise to the Upside, Analysts Say
 URL: https://finance.yahoo.com/news/microsoft-msft-capex-fy26-could-162957036.html
 Time Published: 2025-07-30T16:29:57Z
 Description: Microsoft Corporation (NASDAQ:MSFT) is one of the AI Stocks Everyone Is Watching Closely. On July 28,Stifel reiterated the stock as “Buy” and raised its...
+--------------------------------------------------
+
+Title: The Federal Reserve Leaves Rates Unchanged
+URL: https://www.barchart.com/story/news/33748266/stocks-edge-higher-before-fomc-meeting-results
+Time Published: 2025-07-30T15:10:22Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.20%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.01%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
+Title: AAPL Stock Q3 Forecast: 4 Things to Watch When Apple Reports Earnings on July 31
+URL: https://www.barchart.com/story/news/33748024/aapl-stock-q3-forecast-4-things-to-watch-when-apple-reports-earnings-on-july-31
+Time Published: 2025-07-30T15:01:55Z
+Description: Apple is heading into its fiscal Q3 earnings as the second-worst performing Magnificent 7 constituent. While the company might post better-than-expected...
 --------------------------------------------------
 
 Title: Microsoft Earnings: AI Growth And Cloud Demand Are Front & Center
@@ -184,10 +216,4 @@ Title: Sanmina Earnings: What To Look For From SANM
 URL: https://finance.yahoo.com/news/sanmina-earnings-look-sanm-030543217.html
 Time Published: 2025-07-27T03:05:43Z
 Description: Electronics manufacturing services company Sanmina (NASDAQ:SANM) will be reporting results this Monday after market close. Here’s what to expect.
---------------------------------------------------
-
-Title: Alphabet Had a ‘Standout Quarter.’ Should You Buy GOOG Stock Here?
-URL: https://www.barchart.com/story/news/33666055/alphabet-had-a-standout-quarter-should-you-buy-goog-stock-here
-Time Published: 2025-07-26T11:00:02Z
-Description: Alphabet stock rose only slightly yesterday despite the company posting stellar Q2 results. Here’s what drove the divergence and whether the stock is a good ...
 --------------------------------------------------
