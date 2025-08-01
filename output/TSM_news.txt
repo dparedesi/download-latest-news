@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: AVEM: Emerging Markets ETF Adds to Holdings of EV-Maker NIO
+URL: http://www.etf.com/sections/news/avem-emerging-markets-etf-adds-holdings-ev-maker-nio?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss
+Time Published: 2025-07-30T21:45:00Z
+Description: - AVEM, which launched in 2019, is an actively managed fund. - In recent years, EVs have continued to gain market share.
+--------------------------------------------------
+
 Title: Barclays Lifts Price Target for TSMC, Keeps Overweight Rating
 URL: https://finance.yahoo.com/news/barclays-lifts-price-target-tsmc-131307462.html
 Time Published: 2025-07-30T13:13:07Z

@@ -1,5 +1,18 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq mixed as Fed holds rates, Powell says 'no decisions' on September
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-fed-holds-rates-powell-says-no-decisions-on-september-200043404.html
+Time Published: 2025-07-30T20:20:25Z
+Description: Investors braced for the Federal Reserve's next interest rate decision and earnings from tech giants Microsoft and Meta.
+--------------------------------------------------
+
+Title: Here's What Traders Expect Amazon Stock To Do After Earnings
+URL: https://www.investopedia.com/here-is-what-traders-expect-amazon-stock-to-do-after-earnings-q2-fy2025-11781594
+Time Published: 2025-07-30T19:43:04Z
+Full Content:
+Amazon (AMZN) is scheduled to report second-quarter results after the closing bell today, with traders anticipating the stock could reach record highs by the end of the week. Based on current options pricing, traders expect Amazon shares could end the week about 5% above or below their recent level around $236. The low end of that range would be leave shares just under $224, while the high end would push the stock close to $249, above its all-time highs in February. Amazon is expected to report rising sales and profits from a year ago. Last quarter, Amazon topped estimates as the company said some customers appeared to stock up amid worries about tariffs, though shares were little changed the day after the report, and dropped 4% the day after its results the quarter before. Amazon shares have gained close to 8% since the start of this year, but are down slightly from their peak in early February. Analysts are overwhelmingly bullish on the stock, with all 25 tracked by Visible Alpha calling Amazon stock a "buy." Their average price target near $252 would also represent a record high. UPDATE—July 31, 2025: This article has been updated since it was first published to reflect more recent price values.
+--------------------------------------------------
+
 Title: Apple is in need of a win as it reports earnings this week
 URL: https://www.businessinsider.com/apple-q2-earnings-preview-aapl-stock-tariffs-iphone-demand-ai-2025-7
 Time Published: 2025-07-30T16:32:47Z

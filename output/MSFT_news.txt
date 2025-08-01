@@ -20,6 +20,19 @@ Time Published: 2025-07-30T21:29:25Z
 Description: American firearm manufacturing company Ruger (NYSE:RGR) announced better-than-expected revenue in Q2 CY2025, with sales up 1.3% year on year to $132.5...
 --------------------------------------------------
 
+Title: Microsoft Stock Jumps as Cloud and AI Demand Drive Strong Quarterly Results
+URL: https://www.investopedia.com/microsoft-earnings-4q-fy2025-11782019
+Time Published: 2025-07-30T20:40:11Z
+Full Content:
+Microsoft (MSFT) reported quarterly earnings that topped analysts' expectations on strong growth in its Intelligent Cloud segment, sending shares higher in extended trading Wednesday. Shares jumped nearly 9% in after-hours trading to $558, well above last week's record highs. Through Wednesday's close, Microsoft stock was up about 22% for 2025. The tech titan posted fiscal fourth-quarter revenue of $76.44 billion, up 18% year-over-year and above analyst estimates compiled by Visible Alpha. Net income rose to $27.23 billion, or $3.65 per share, from $22.04 billion, or $2.95 per share a year earlier, also beating projections. Revenue from Microsoft's Intelligent Cloud segment, which includes Microsoft Azure, grew 26% to $29.89 billion, topping the analyst consensus from Visible Alpha. “Cloud and AI is the driving force of business transformation across every industry and sector," CEO Satya Nadella said in a release. “We’re innovating across the tech stack to help customers adapt and grow in this new era, and this year, Azure surpassed $75 billion in revenue, up 34 percent, driven by growth across all workloads.” That marked the first quarter Microsoft reported the scale of its Azure business in dollars. CFO Amy Hood said Microsoft expects double-digit revenue growth in fiscal 2026, though Hood warned the company would continue to be "capacity constrained" in the near term as it builds out its AI infrastructure. "I talked in January and said I thought we'd be in better supply/demand shape by June, and now I'm saying, 'I hope I'm in better shape by December,'" Hood said. Hood said Microsoft expects to spend $30 billion in capital expenditures in its fiscal first quarter, up from $20 billion a year earlier, as the company works to bring more data center capacity online to keep up with demand. If Microsoft continued to spend at the same pace, that would add up to $120 billion for the full year, up from $88.2 billion in fiscal 2025, though Hood suggested the pace of Microsoft's capex growth would "moderate" compared to fiscal 2025, with a higher growth rate in the first half than second half of fiscal 2026. This article has been updated since it was first published to include additional information and reflect more recent share price values.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq mixed as Fed holds rates, Powell says 'no decisions' on September
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-fed-holds-rates-powell-says-no-decisions-on-september-200043404.html
+Time Published: 2025-07-30T20:20:25Z
+Description: Investors braced for the Federal Reserve's next interest rate decision and earnings from tech giants Microsoft and Meta.
+--------------------------------------------------
+
 Title: Microsoft (MSFT) Gets Bullish Calls From Wall Street Ahead of Q4 Earnings
 URL: https://finance.yahoo.com/news/microsoft-msft-gets-bullish-calls-183923897.html
 Time Published: 2025-07-30T18:39:23Z
