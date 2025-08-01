@@ -1,10 +1,72 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia (NVDA) Boosts H20 Chip Orders to Meet Soaring Chinese Demand
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ada72f43-9960-472a-aaa2-d83651364071
+Time Published: 2025-07-31T15:30:28Z
+Description: None
+--------------------------------------------------
+
+Title: NVDA: Nvidia Smashes New Records as Microsoft, Meta Ramp Up Spending
+URL: https://finance.yahoo.com/news/nvda-nvidia-poised-smash-records-144948367.html
+Time Published: 2025-07-31T15:07:15Z
+Description: Nvidia Charges Ahead on Wave of AI Infrastructure Spending
+--------------------------------------------------
+
+Title: Microsoft Joins Nvidia in $4 Trillion Club
+URL: https://www.investopedia.com/microsoft-joins-nvidia-in-usd4-trillion-club-11782435
+Time Published: 2025-07-31T14:16:29Z
+Full Content:
+The $4 trillion club is now a party of two. Microsoft (MSFT) on Thursday became the second company in history to reach a $4 trillion market value as tech stock prices continued to climb on booming AI demand. Microsoft's stock popped 7% at the open, putting its market capitalization at $4.09 trillion, after the company’s fiscal fourth-quarter results blew past expectations on strong growth in all of its businesses, but especially in its cloud computing and AI services. Microsoft’s entry into the $4 trillion club comes just weeks after Nvidia (NVDA) became the first company to reach the milestone. Its market cap briefly crossed $4 trillion in intraday trading on July 9, but it wasn’t until July 10 that it closed above the threshold. Microsoft was already America’s second most valuable company, worth nearly $2 trillion, when the launch of ChatGPT in late 2022 sparked an AI frenzy in Silicon Valley and on Wall Street. But surging demand for AI and cloud computing has turbocharged Microsoft’s growth in the last three years. The company on Wednesday reported 2025 fiscal-year revenue of close to $282 billion, up from $198 billion in the fiscal year before ChatGPT, and net income of $102 billion, up from $73 billion. With about 7.4 billion shares outstanding, Microsoft stock will need to close at or above $538.13 to stay in the $4 trillion club. Shares were up 5% just above $539 in recent trading.
+--------------------------------------------------
+
+Title: As Apple Teases iOS 26, Is AAPL Stock a Buy, Sell, or Hold?
+URL: https://www.barchart.com/story/news/33780932/as-apple-teases-ios-26-is-aapl-stock-a-buy-sell-or-hold
+Time Published: 2025-07-31T13:53:30Z
+Description: Apple recently unveiled the new iOS 26, leaving investors wondering whether AAPL stock will finally regain its spark.
+--------------------------------------------------
+
+Title: AI #127: Continued Claude Code Complications
+URL: https://www.lesswrong.com/posts/GeTssgFDCvHDGAvhT/ai-127-continued-claude-code-complications
+Time Published: 2025-07-31T13:40:13Z
+Description: Published on July 31, 2025 1:40 PM GMTDue to Continued Claude Code Complications, we can report Unlimited Usage Ultimately Unsustainable. May I suggest using the API, where Anthropic’s yearly revenue is now projected to rise to $9 billion?
+The biggest news it…
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq, S&P 500 jump as Big Tech earnings, trade deals lift spirits
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-jump-as-big-tech-earnings-trade-deals-lift-spirits-124315384.html
+Time Published: 2025-07-31T13:34:29Z
+Description: Wall Street weighed a new trade deal with South Korea and strong earnings from Meta and Microsoft.
+--------------------------------------------------
+
+Title: Signs of a Market Top? What to Watch Ahead of the S&P’s Worst 2 Months of the Year
+URL: https://www.barchart.com/story/news/33778297/signs-of-a-market-top-what-to-watch-ahead-of-the-s-ps-worst-2-months-of-the-year
+Time Published: 2025-07-31T12:49:52Z
+Description: The stock market is soaring. But the calendar — plus a few other warning signs — are giving seasoned investors pause.
+--------------------------------------------------
+
+Title: UBS reveals its latest top picks after July update
+URL: https://finance.yahoo.com/news/ubs-reveals-latest-top-picks-123521828.html
+Time Published: 2025-07-31T12:35:21Z
+Description: Investing.com -- UBS has released its latest list of top stock picks following the July update, maintaining a neutral stance on U.S. equities overall but...
+--------------------------------------------------
+
+Title: Can the S&P 500 Rally Overcome Bearish Seasonality?
+URL: https://finance.yahoo.com/news/p-500-rally-overcome-bearish-120004966.html
+Time Published: 2025-07-31T12:00:04Z
+Description: The next couple of months may not be as bearish as they've generally been in the past
+--------------------------------------------------
+
 Title: Why did Nvidia shares just reach another all-time high?
 URL: https://www.fool.com.au/2025/07/31/why-did-nvidia-shares-just-reach-another-all-time-high/
 Time Published: 2025-07-31T02:35:37Z
 Description: All signs point to one thing. 
 The post Why did Nvidia shares just reach another all-time high? appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: Analysts reboot AMD stock price target before earnings
+URL: https://www.thestreet.com/investing/analysts-reset-amd-stock-price-target-ahead-of-key-earnings
+Time Published: 2025-07-31T00:37:00Z
+Description: Here’s what could be next for AMD shares.
 --------------------------------------------------
 
 Title: NVIDIA Sets Conference Call for Second-Quarter Financial Results
@@ -251,30 +313,4 @@ Title: Intel Cuts Workforce as New CEO Begins Turnaround Effort
 URL: https://finance.yahoo.com/news/intel-cuts-workforce-ceo-begins-121831173.html
 Time Published: 2025-07-28T12:18:31Z
 Description: Company eliminates 15% of staff; Q2 net loss widens
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA)’s CEO Has A Great Relationship With Trump, Says Jim Cramer
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_40fb9d40-4324-45b6-b2fe-293d3c6dd3fa
-Time Published: 2025-07-27T20:17:23Z
-Description: None
---------------------------------------------------
-
-Title: Intel CEO outlines 'hard but necessary decisions'; Trader Guilfoyle: CEO Tan 'Has a Chance'
-URL: https://www.thestreet.com/investing/stocks/intel-ceo-outlines-hard-but-necessary-decisions-trader-guilfoyle-ceo-tan-has-a-chance
-Time Published: 2025-07-27T13:33:00Z
-Description: Analysts and traders have much to say about the Intel CEO's turnaround effort.
---------------------------------------------------
-
-Title: Second Quarter Earnings Season: Google Reinforces The AI Story
-URL: https://www.forbes.com/sites/bill_stone/2025/07/27/second-quarter-earnings-season-google-reinforces-the-ai-story/
-Time Published: 2025-07-27T10:51:09Z
-Full Content:
-ByBill Stone ByBill Stone, Contributor. This week is the busiest of the second-quarter earnings season, with 161 S&P 500 companies scheduled to report. Notable companies scheduled to release earnings include: Merck (MRK), Starbucks (SBUX), Mastercard (MA), Chevron (CVX), and Berkshire Hathaway (BRK/A, BRK/B). Four of the Magnificent 7 are also on the docket this week. According to FactSet, 80% of S&P 500 companies have reported earnings above consensus estimates, with 34% of companies having already reported results. Companies reporting and combining actual results with consensus estimates for companies yet to report, the S&P 500’s blended earnings growth rate for the quarter is at 6.4% year-over-year, above the 4.9% expectations at the end of the quarter. Notably, the expected earnings growth rate for calendar year 2025 is 9.6%, and for 2026, the expectation is 13.9%. The S&P 500 hit a new all-time high last week. The Magnificent 7, comprising Microsoft (MSFT), Meta Platforms (META), Amazon.com (AMZN), Apple (AAPL), NVIDIA (NVDA), Alphabet (GOOGL), and Tesla (TSLA), underperformed primarily due to Tesla’s performance. Because these companies are critical drivers of earnings growth and a significant percentage of the S&P 500’s market capitalization, the Magnificent 7 remains the group to watch this earnings season. Tesla entered the earnings season with low expectations, but it failed to impress with its report last week. Tesla was the worst-performing member of the Magnificent 7, falling 4.1% last week. Alphabet, parent of Google, was expected to report robust earnings growth and managed to exceed expectations, sending the stock 4.4% higher for the week. Alphabet’s cloud revenue soared by 31.7% year-over-year, with improving operating margins. Data suggests that their artificial intelligence (AI) search is growing, without the feared decline in monetization. Google increased its planned 2025 capital expenditures to $85 billion from $75 billion, reflecting its confidence in the AI outlook, but investors are (rightly) always cautious about massive capital investments. Four of the Magnificent 7 are scheduled to report results this week, with Microsoft (MSFT) and Meta Platforms (META) after the close on Wednesday, then Apple (AAPL) and Amazon.com (AMZN) after the close on Thursday. Positive earnings surprises from the financial and communication services sector were the most significant contributors to the improved earnings picture last week. Better-than-expected earnings from Alphabet (GOOGL) and Capital One Financial (COF) were the most essential contributors, according to FactSet. Sales growth is closely tied to nominal GDP growth, which combines after-inflation economic growth (real GDP) with inflation. Following better-than-expected data last week, sales growth of 5.0% is ahead of the 4.2% year-over-year expectation at the end of the quarter. If the estimates of second-quarter nominal year-over-year GDP growth of 4.7% are correct, there could be limited upside to sales growth from here. Better sales results in the communication services and healthcare sectors were the most significant drivers of the improvement in expected revenue growth last week, according to FactSet. In addition to earnings, the economic calendar is packed with crucial releases this week after a lull last week. The first look at second-quarter US economic growth comes on Wednesday. GDP growth is expected to rebound to 2.4% after a decline in the first quarter. In contrast to the first quarter, the headline GDP number is likely to overstate the economy’s strength due to fluctuations in trade related to tariffs. The Federal Reserve (Fed) rate meeting is scheduled for Wednesday, with essentially no chance of any change to rates. Instead, market participants will be looking for clues as to when the next Fed rate cut will occur. Markets are currently pricing in a 66% chance of a 25-basis-point cut at the September meeting. News about the administration’s trade negotiations and new tariff announcements will remain a focus. Significant new tariffs are currently scheduled to take effect on August 1, unless an acceptable trade agreement is reached. Sectoral tariffs could also be announced. As a positive note, a trade deal framework with Japan was announced last week, providing reason for optimism about additional agreements with other nations. Also on Friday, the monthly jobs report is expected to continue showing modest but slowing growth in nonfarm payrolls. The unemployment rate is expected to reverse last month’s decline and increase to a still low 4.2%. Stocks continue to be boosted by the twin forces of better-than-expected earnings and a receding threat of recession. The betting odds of a 2025 recession fell to the lowest level of the year, while stocks reached an all-time high. Disclosure: Glenview Trust holds many stocks mentioned in this article within its recommended investment strategies.
---------------------------------------------------
-
-Title: Here Are Three Questions Investors Want Answered In Big Tech Earnings This Week
-URL: https://www.investopedia.com/here-are-three-questions-big-tech-earnings-this-week-meta-microsoft-apple-amazon-11779269
-Time Published: 2025-07-27T09:00:00Z
-Full Content:
-Second-quarter earnings season will kick into high gear this week. Four of the world’s largest companies—Microsoft (MSFT), Apple (AAPL), Amazon (AMZN), and Meta (META)—are set to report their results. Artificial intelligence will be the focus for many investors, who will be hoping for updates on companies' investments in the era-defining technology and how they're using it. But trade policy could also get some airtime, especially during Apple’s and Amazon’s calls on Thursday. Microsoft and Meta kick things off with their reports and earnings calls after the closing bell on Wednesday. Alphabet (GOOGL) and Tesla (TSLA) have already turned in results, so after this week the only Magnificent 7 company left to report will be Nvidia (NVDA), in late August. Here are three questions on investors' minds. Six months ago, one of the most pressing debates on Wall Street was whether U.S. tech companies were spending too much on artificial intelligence. That issue appears to be settled—or, at least, on the back burner for now. Alphabet (GOOG) last week raised its full-year capital expenditures forecast to $85 billion, citing growing demand for cloud computing products and services; that was generally read as a good thing. Google Cloud grew by more than 30% from the prior year, putting the unit on track to book over $50 billion in revenue within the next year. Cloud computing competitors Microsoft and Amazon could follow Alphabet's lead. Both companies left their capex forecasts unchanged when they reported quarterly results three months ago, decisions that may have been influenced by the trade and economic uncertainty hanging over the market at the time. The companies could be feeling more confident about boosting AI spending now that some of the fog has been lifted by trade agreements. Meta was the odd one out last quarter when it raised its capex outlook. It’s not out of the question that the social media giant will lift its forecast again; it did so in the first and second quarters last year. Investors will be looking for evidence that big investments in AI are paying off. “AI is positively impacting every part of the business, driving strong momentum,” said Alphabet CEO Sundar Pichai in the company’s second-quarter earnings release. Executives said on the company’s earnings call that Google is monetizing AI search results at about the same rate as it is traditional search, and that AI overviews are driving increased search volume. In recent quarters, Meta has convinced Wall Street that AI is improving ad performance and user engagement. Investors are hoping this week’s results continue to demonstrate that Meta's investments are bearing fruit. Amazon could offer updates on how customers are engaging with Rufus, its AI shopping assistant, and Q, its work assistant. Microsoft is likely to elaborate on the uptake of its Copilot AI offering. As for Apple, experts say, investors may still have to wait for the details they crave. “We don't expect (1) an update on Apple Intelligence timing (2026), (2) any material change in quarterly capex, (3) an update on Apple Intelligence approval in China, and/or (4) any new partnership announcements,” wrote Morgan Stanley analyst Erik Woodring in an earnings preview last week. Management might, however, say product sales grew faster in Apple Intelligence-enabled regions than non-AI regions, he said. At least in the near term, Apple investors are likely more concerned with tariffs than most of its Magnificent Seven counterparts. President Donald Trump in April exempted smartphones and other consumer electronics from his sweeping “reciprocal” tariffs, but the president has ordered his administration to consider invoking national security concerns to impose Section 232 duties on smartphones and semiconductors. Section 232 tariffs have held up better in court than Trump’s country-specific duties and could be harder for Apple to avoid. Even with the smartphone exemption, Apple in May estimated tariffs would add $900 million to the company’s costs in the second quarter. Investors will watch for the actual impact and to hear how Apple is engaging with suppliers and the administration to fend off tariffs and mitigate their potential impact. Trade policy will also be top of mind for Amazon investors. In the first quarter, Amazon saw some evidence buyers were stocking up to get ahead of tariffs, which could set the company up for a sequential slowdown in sales. Executives said merchants didn’t meaningfully increase prices in the first quarter, but noted that could change depending on where tariff rates end up.
 --------------------------------------------------

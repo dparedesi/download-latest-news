@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: NVDA: Nvidia Smashes New Records as Microsoft, Meta Ramp Up Spending
+URL: https://finance.yahoo.com/news/nvda-nvidia-poised-smash-records-144948367.html
+Time Published: 2025-07-31T15:07:15Z
+Description: Nvidia Charges Ahead on Wave of AI Infrastructure Spending
+--------------------------------------------------
+
+Title: Broadcom: A Trillion Dollar Stock with Double-Digit Growth Projections
+URL: https://www.barchart.com/story/news/33782553/broadcom-a-trillion-dollar-stock-with-double-digit-growth-projections
+Time Published: 2025-07-31T14:30:03Z
+Description: Broadcom (AVGO) hit a new all-time high in morning trading on July 31. The stock has strong technical momentum and a 100% “Buy” signal via Barchart. Shares...
+--------------------------------------------------
+
 Title: Broadcom Inc. (AVGO)’s CEO Is “A Tough Guy,” Says Jim Cramer
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bf4e1afe-a953-4d3c-ab2e-55dad1a48b51
 Time Published: 2025-07-31T08:20:01Z
