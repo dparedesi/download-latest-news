@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Cathie Wood buys $11 million of surging AI stock
+URL: https://www.thestreet.com/investing/cathie-wood-buys-11-million-of-surging-ai-stock
+Time Published: 2025-08-01T17:17:00Z
+Description: Here are Cathie Wood’s latest moves.
+--------------------------------------------------
+
 Title: Morgan Stanley Reaffirms NVIDIA as Top Pick Amid Soaring Chip Demand
 URL: https://finance.yahoo.com/news/morgan-stanley-reaffirms-nvidia-top-161921564.html
 Time Published: 2025-08-01T16:19:21Z
@@ -121,17 +127,17 @@ Description: Here’s what could be next for AMD shares.
 --------------------------------------------------
 
 Title: NVIDIA Sets Conference Call for Second-Quarter Financial Results
-URL: https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6912330
-Time Published: 2025-07-30T21:00:00Z
-Full Content:
-NVIDIA will host a conference call on Wednesday, August 27, at 2 p.m. PT (5 p.m. ET) to discuss its financial results for the second quarter of fiscal year 2026, which ended July 27, 2025. The call will be webcast live (in listen-only mode) on investor.nvidia.com. The company’s prepared remarks will be followed by a Q&A session, which will be limited to questions from financial analysts and institutional investors. Ahead of the call, NVIDIA will provide written commentary on its second-quarter results from Colette Kress, the company’s executive vice president and chief financial officer. This material will be posted to investor.nvidia.com immediately after the company’s results are publicly announced at approximately 1:20 p.m. PT. The webcast will be recorded and available for replay until the company’s conference call to discuss financial results for its third quarter of fiscal year 2026. About NVIDIA NVIDIA (NASDAQ: NVDA) is the world leader in accelerated computing. © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries.
---------------------------------------------------
-
-Title: NVIDIA Sets Conference Call for Second-Quarter Financial Results
 URL: https://www.globenewswire.com/news-release/2025/07/30/3124527/0/en/NVIDIA-Sets-Conference-Call-for-Second-Quarter-Financial-Results.html
 Time Published: 2025-07-30T21:00:00Z
 Full Content:
 July 30, 2025 17:00 ET | Source: NVIDIA NVIDIA SANTA CLARA, Calif., July 30, 2025 (GLOBE NEWSWIRE) -- NVIDIA will host a conference call on Wednesday, August 27, at 2 p.m. PT (5 p.m. ET) to discuss its financial results for the second quarter of fiscal year 2026, which ended July 27, 2025. The call will be webcast live (in listen-only mode) on investor.nvidia.com. The company’s prepared remarks will be followed by a Q&A session, which will be limited to questions from financial analysts and institutional investors. Ahead of the call, NVIDIA will provide written commentary on its second-quarter results from Colette Kress, the company’s executive vice president and chief financial officer. This material will be posted to investor.nvidia.com immediately after the company’s results are publicly announced at approximately 1:20 p.m. PT. The webcast will be recorded and available for replay until the company’s conference call to discuss financial results for its third quarter of fiscal year 2026. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in accelerated computing. © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. SANTA CLARA, Calif., June 11, 2025 (GLOBE NEWSWIRE) -- NVIDIA today announced it will hold its 2025 Annual Meeting of Stockholders online on Wednesday, June 25, at 9 a.m. PT. The meeting will take... PARIS, June 11, 2025 (GLOBE NEWSWIRE) -- NVIDIA GTC Paris at VivaTech — NVIDIA today announced a collaboration with Novo Nordisk to accelerate drug discovery efforts through innovative AI use cases....
+--------------------------------------------------
+
+Title: NVIDIA Sets Conference Call for Second-Quarter Financial Results
+URL: https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6912330
+Time Published: 2025-07-30T21:00:00Z
+Full Content:
+NVIDIA will host a conference call on Wednesday, August 27, at 2 p.m. PT (5 p.m. ET) to discuss its financial results for the second quarter of fiscal year 2026, which ended July 27, 2025. The call will be webcast live (in listen-only mode) on investor.nvidia.com. The company’s prepared remarks will be followed by a Q&A session, which will be limited to questions from financial analysts and institutional investors. Ahead of the call, NVIDIA will provide written commentary on its second-quarter results from Colette Kress, the company’s executive vice president and chief financial officer. This material will be posted to investor.nvidia.com immediately after the company’s results are publicly announced at approximately 1:20 p.m. PT. The webcast will be recorded and available for replay until the company’s conference call to discuss financial results for its third quarter of fiscal year 2026. About NVIDIA NVIDIA (NASDAQ: NVDA) is the world leader in accelerated computing. © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries.
 --------------------------------------------------
 
 Title: Morgan Stanley Says Nvidia Has ‘Exceptional’ Strength. Should You Buy NVDA Stock Here?
@@ -307,10 +313,4 @@ Title: Tesla Just Signed a Chip Supply Deal with Samsung. What Does That Mean fo
 URL: https://www.barchart.com/story/news/33694353/tesla-just-signed-a-chip-supply-deal-with-samsung-what-does-that-mean-for-tsla-stock
 Time Published: 2025-07-28T20:54:33Z
 Description: Tesla stock inches up as the EV maker announces a $16.5 billion deal with Samsung Electronics. William Blair still remains dovish on TSLA shares for the...
---------------------------------------------------
-
-Title: S&P 500 and Nasdaq 100 Post Record Highs on Trade Deals
-URL: https://www.barchart.com/story/news/33693807/s-p-500-and-nasdaq-100-post-record-highs-on-trade-deals
-Time Published: 2025-07-28T20:34:41Z
-Description: The S&P 500 Index ($SPX ) (SPY ) Monday closed up +0.02%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.14%, and the Nasdaq 100 Index ($IUXX...
 --------------------------------------------------
