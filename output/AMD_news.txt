@@ -18,6 +18,12 @@ Time Published: 2025-07-31T13:32:57Z
 Description: Ark Invest is leaning into AI as AMD ramps up competition with Nvidia.
 --------------------------------------------------
 
+Title: Can AMD Stock Hit $210 in 2025?
+URL: https://www.barchart.com/story/news/33779877/can-amd-stock-hit-210-in-2025
+Time Published: 2025-07-31T13:18:24Z
+Description: AMD is riding high on AI momentum and analyst upgrades. Will the chipmaker power its way to $210 this year?
+--------------------------------------------------
+
 Title: Analysts reboot AMD stock price target before earnings
 URL: https://www.thestreet.com/investing/analysts-reset-amd-stock-price-target-ahead-of-key-earnings
 Time Published: 2025-07-31T00:37:00Z
@@ -84,10 +90,4 @@ Title: Stocks Supported by Positive Trade News
 URL: https://www.barchart.com/story/news/33686421/stocks-supported-by-positive-trade-news
 Time Published: 2025-07-28T14:03:48Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.08%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: Intel CEO outlines 'hard but necessary decisions'; Trader Guilfoyle: CEO Tan 'Has a Chance'
-URL: https://www.thestreet.com/investing/stocks/intel-ceo-outlines-hard-but-necessary-decisions-trader-guilfoyle-ceo-tan-has-a-chance
-Time Published: 2025-07-27T13:33:00Z
-Description: Analysts and traders have much to say about the Intel CEO's turnaround effort.
 --------------------------------------------------

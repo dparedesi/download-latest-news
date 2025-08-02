@@ -1,5 +1,11 @@
 List of news related to Adobe stock price ADBE:
 
+Title: Figma stock soars 250% in first day of trading, valuing company north of $45 billion
+URL: https://finance.yahoo.com/news/figma-stock-soars-250-in-first-day-of-trading-valuing-company-north-of-45-billion-132215621.html
+Time Published: 2025-07-31T20:42:30Z
+Description: Design software maker Figma has priced its IPO at $33 ahead of its market debut on Thursday.
+--------------------------------------------------
+
 Title: Adobe's Q3 2025 Earnings: What to Expect
 URL: https://www.barchart.com/story/news/33686787/adobe-s-q3-2025-earnings-what-to-expect
 Time Published: 2025-07-28T14:18:21Z
