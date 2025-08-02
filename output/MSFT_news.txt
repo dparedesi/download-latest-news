@@ -1,5 +1,23 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Amazon Falls on Fears That AWS Is Losing Market Share: Should You Buy the AMZN Stock Dip Here?
+URL: https://www.barchart.com/story/news/33818776/amazon-falls-on-fears-that-aws-is-losing-market-share-should-you-buy-the-amzn-stock-dip-here
+Time Published: 2025-08-01T16:07:13Z
+Description: Amazon stock is trading lower today as AWS's Q2 performance and the company's Q3 operating income guidance spooked investors. Should you buy the dip here?
+--------------------------------------------------
+
+Title: Big Tech's AI investments set to spike to $364 billion in 2025 as bubble fears ease
+URL: https://finance.yahoo.com/news/big-techs-ai-investments-set-to-spike-to-364-billion-in-2025-as-bubble-fears-ease-143203885.html
+Time Published: 2025-08-01T14:32:03Z
+Description: Amazon, Alphabet, Microsoft, and Meta reported they were set to spend a cumulative $364 billion in their respective 2025 fiscal years, up from their prior...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slump after weak jobs report, Trump's sweeping tariffs, Amazon's earnings flub
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slump-after-weak-jobs-report-trumps-tariff-redux-123818857.html
+Time Published: 2025-08-01T12:38:18Z
+Description: Markets are assessing the reshaped US trade landscape after Trump on Thursday laid out steep new tariffs for dozens of countries.
+--------------------------------------------------
+
 Title: Stocks Erase Early Gains as Chip Makers and Big Pharma Retreat
 URL: https://www.barchart.com/story/news/33792613/stocks-erase-early-gains-as-chip-makers-and-big-pharma-retreat
 Time Published: 2025-07-31T20:32:27Z

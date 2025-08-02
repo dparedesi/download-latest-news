@@ -1,5 +1,17 @@
 List of news related to Adobe stock price ADBE:
 
+Title: Adobe’s Failed Acquisition of Figma Has Cost the Company Over $38 Billion and Counting — Here’s How High It Could Go
+URL: https://www.barchart.com/story/news/33817424/adobes-failed-acquisition-of-figma-has-cost-the-company-over-38-billion-and-counting-heres-how-high-it-could-go
+Time Published: 2025-08-01T15:10:35Z
+Description: Adobe’s $20 billion Figma acquisition failed amid regulatory scrutiny, costing $1 billion and missing a $37 billion post-IPO windfall.
+--------------------------------------------------
+
+Title: Figma stock wavers after blockbuster 250% debut rally
+URL: https://finance.yahoo.com/news/figma-stock-wavers-after-blockbuster-250-debut-rally-125850158.html
+Time Published: 2025-08-01T12:58:50Z
+Description: Shares in Figma are up 7% in early trading after a first-day pop of 250% on Thursday.
+--------------------------------------------------
+
 Title: Figma stock soars 250% in first day of trading, valuing company north of $45 billion
 URL: https://finance.yahoo.com/news/figma-stock-soars-250-in-first-day-of-trading-valuing-company-north-of-45-billion-132215621.html
 Time Published: 2025-07-31T20:42:30Z
