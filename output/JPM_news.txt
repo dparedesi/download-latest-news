@@ -12,15 +12,3 @@ URL: https://www.barchart.com/story/news/33713312/are-wall-street-analysts-predi
 Time Published: 2025-07-29T13:54:22Z
 Description: While Apple has trailed the broader market over the past year, analysts are fairly upbeat about its future potential.
 --------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq nudge higher as Trump-EU trade deal kicks off huge week
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-nudge-higher-as-trump-eu-trade-deal-kicks-off-huge-week-003043435.html
-Time Published: 2025-07-28T13:33:19Z
-Description: Markets are cheering a US-EU tariff pact that has eased worries of a trade war.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures nudge higher as Trump-EU trade deal kicks off huge week in markets
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-nudge-higher-as-trump-eu-trade-deal-kicks-off-huge-week-003043724.html
-Time Published: 2025-07-28T00:30:43Z
-Description: Markets are cheering a US-EU tariff pact that has eased worries of a trade war.
---------------------------------------------------

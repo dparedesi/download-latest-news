@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Veteran trader takes hard look at Microsoft Q4 report and sends a warning
+URL: https://www.thestreet.com/investing/stocks/veteran-trader-takes-hard-look-at-microsoft-q4-report-and-sends-a-warning
+Time Published: 2025-08-01T20:47:07Z
+Description: The software and cloud giant beat expectations. But there's something else investors should remember.
+--------------------------------------------------
+
+Title: NVIDIA Corporation (NVDA) Could Be In Great Shape In China, Says Jim Cramer
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bf1d4f4f-2eca-4a98-a808-99da505037a4
+Time Published: 2025-08-01T18:27:50Z
+Description: None
+--------------------------------------------------
+
 Title: Cathie Wood buys $11 million of surging AI stock
 URL: https://www.thestreet.com/investing/cathie-wood-buys-11-million-of-surging-ai-stock
 Time Published: 2025-08-01T17:17:00Z
@@ -30,6 +42,12 @@ URL: https://economictimes.indiatimes.com/news/international/us/nvidia-stock-pri
 Time Published: 2025-08-01T13:23:19Z
 Full Content:
 Nvidia stock price target 2025: Wall Street's confidence in Nvidia surges as Morgan Stanley raises its price target to $200, driven by exceptional demand for Blackwell GPUs. Enterprise and cloud giants are rapidly adopting these chips, leading to supply outpacing demand. Blackwell's superior performance, a 40x jump over Hopper, fuels this adoption, potentially representing 80% of Nvidia's high-end GPU shipments. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Rahul Gandhi accuses Election Commission of vote theft in Bihar Karoline Leavitt pushes Nobel Peace Prize honor for Trump SSC protest: Aspirants demand justice over paper leak Monsoon Session 2025: 7 dramatic and hilarious moments India opens 8 US consular centres, all centres open Sat for better access 'China only who gets benefits...': Schumer slams Trump tariffs 'These are dark days': Biden slams Trump admin Trump gives ultimatum to pharma cos over drug prices Canada faces new US tariffs amid Palestine policy rift White House unveils massive US-EU trade deal details Rahul Gandhi accuses Election Commission of vote theft in Bihar Karoline Leavitt pushes Nobel Peace Prize honor for Trump SSC protest: Aspirants demand justice over paper leak Monsoon Session 2025: 7 dramatic and hilarious moments India opens 8 US consular centres, all centres open Sat for better access 'China only who gets benefits...': Schumer slams Trump tariffs 'These are dark days': Biden slams Trump admin Trump gives ultimatum to pharma cos over drug prices Canada faces new US tariffs amid Palestine policy rift White House unveils massive US-EU trade deal details Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Most Searched IFSC Codes Top Story Listing Top Prime Articles Top Slideshow Private Companies Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: Nvidia must provide 'security proofs' to regain trust:China state media
+URL: https://finance.yahoo.com/news/china-state-media-says-nvidia-105200622.html
+Time Published: 2025-08-01T10:52:00Z
+Description: BEIJING (Reuters) -Nvidia must produce "convincing security proofs" to eliminate Chinese users' worries over security risks in its chips and regain market...
 --------------------------------------------------
 
 Title: Microsoft Surges Past $4T Market Cap After Blowout Earnings
@@ -293,24 +311,4 @@ Title: The Under-the-Radar AI Stock That Beat Big Tech in 2025
 URL: https://www.barchart.com/story/news/33707126/the-under-the-radar-ai-stock-that-beat-big-tech-in-2025
 Time Published: 2025-07-29T11:30:02Z
 Description: This hidden gem could be an excellent option for investors looking for the next wave of AI opportunities.
---------------------------------------------------
-
-Title: How to keep investing simple (and fun!) with this timeless strategy
-URL: https://www.fool.com.au/2025/07/29/how-to-keep-investing-simple-and-fun-with-this-timeless-strategy/
-Time Published: 2025-07-29T05:03:16Z
-Description: There’s a smarter, simpler way to invest that’s caught the attention of beginners and pros alike. 
-The post How to keep investing simple (and fun!) with this timeless strategy appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: S&P 500 Gains & Losses Today: Supermicro, Nike Shares Rise; Albemarle Stock Falls
-URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-supermicro-nike-shares-rise-albemarle-stock-falls-11780549
-Time Published: 2025-07-28T21:23:49Z
-Full Content:
-Major U.S. equities indexes finished Monday mixed following the weekend announcement of a trade agreement with the European Union. The new trading week promises plenty of economic and financial news, including the Federal Reserve's interest-rate announcement, the latest jobs and inflation data, and a flood of earnings reports from major companies in the tech sector and beyond. The S&P 500 eked out a gain of less than 0.1%, while the Nasdaq Composite added 0.3%. Both indexes were at record highs. The Dow slipped 0.1%. Read Investopedia's full coverage of today's trading here. Shares of server maker Super Micro Computer (SMCI) surged more than 10%, notching the S&P 500's top daily performance. Supermicro is set to release its quarterly results on Aug. 5. Monday's push higher for the stock followed reports that President Donald Trump has loosened restrictions on technological exports to China in a move to bolster trade negotiations with the country. Shares of chipmaker Advanced Micro Devices (AMD) gained 4.3%. According to reports, AMD raised pricing on its Instinct MI350 AI chip, suggesting the company is confident in the capacity of its high-end product to compete with offerings from rival Nvidia (NVDA). UBS analysts boosted their price target on AMD stock, pointing to improving expectations for the semiconductor maker's upcoming earnings report, slated for Aug. 5. Nike (NKE) shares treaded 3.9% higher Monday after JPMorgan upgraded the footwear and apparel maker's stock to "overweight" from "neutral." Analysts highlighted Nike's progress on its multiyear recovery plan, which includes inventory alignment and new performance products, with particular opportunities surrounding next year's soccer World Cup in the U.S. Shares of Albemarle (ALB), the world's largest lithium producer, suffered the heaviest decline of any S&P 500 stock, dropping nearly 11%. With the move lower on Monday, Albemarle stock gave back the gains posted over the past week and a half after reports that a large lithium miner in China had suspended operations, helping alleviate concerns about oversupply in the market for the key battery component. Albemarle and other producers have been working to cut costs as they navigate a prolonged slump in lithium prices. Revvity (RVTY) shares fell 8.3% following the medical device maker's quarterly earnings release. Although second-quarter revenue and adjusted earnings per share topped consensus estimates, the maker of instruments and reagents for drug discovery and other healthcare research lowered its full-year profit outlook, citing expected softness in its immunodiagnostics business in China. Cantor Fitzgerald downgraded Centene (CNC) stock to "neutral" from "overweight," and shares of the health insurer slipped 5.4%. Analysts pointed to headwinds related to Centene's business in the healthcare exchange and Medicaid markets. At the beginning of July, Centene withdrew its full-year guidance, citing cost and enrollment pressure.
---------------------------------------------------
-
-Title: Tesla Just Signed a Chip Supply Deal with Samsung. What Does That Mean for TSLA Stock?
-URL: https://www.barchart.com/story/news/33694353/tesla-just-signed-a-chip-supply-deal-with-samsung-what-does-that-mean-for-tsla-stock
-Time Published: 2025-07-28T20:54:33Z
-Description: Tesla stock inches up as the EV maker announces a $16.5 billion deal with Samsung Electronics. William Blair still remains dovish on TSLA shares for the...
 --------------------------------------------------

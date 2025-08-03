@@ -24,9 +24,3 @@ URL: https://www.barchart.com/story/news/33715741/stocks-supported-by-strong-ear
 Time Published: 2025-07-29T15:06:27Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.05%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
 --------------------------------------------------
-
-Title: S&P 500 and Nasdaq 100 Post Record Highs on Trade Deals
-URL: https://www.barchart.com/story/news/33693807/s-p-500-and-nasdaq-100-post-record-highs-on-trade-deals
-Time Published: 2025-07-28T20:34:41Z
-Description: The S&P 500 Index ($SPX ) (SPY ) Monday closed up +0.02%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.14%, and the Nasdaq 100 Index ($IUXX...
---------------------------------------------------

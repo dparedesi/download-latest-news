@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Amazon Post-Earnings Decline 'Totally Wrong,' Says Analyst As CEO Points Out AWS Has 'More Demand Than We Have Capacity'
+URL: https://finance.yahoo.com/news/amazon-post-earnings-decline-totally-183102777.html
+Time Published: 2025-08-01T18:31:02Z
+Description: Following its second-quarter earnings report, Amazon.com Inc.‘s (NASDAQ:AMZN) stock experienced a significant sell-off. However, a closer look at the details...
+--------------------------------------------------
+
 Title: Amazon Falls on Fears That AWS Is Losing Market Share: Should You Buy the AMZN Stock Dip Here?
 URL: https://www.barchart.com/story/news/33818776/amazon-falls-on-fears-that-aws-is-losing-market-share-should-you-buy-the-amzn-stock-dip-here
 Time Published: 2025-08-01T16:07:13Z
@@ -98,58 +104,4 @@ Title: IonQ vs. Rigetti: Which Quantum Stock Has the Edge in 2025?
 URL: https://finance.yahoo.com/news/ionq-vs-rigetti-quantum-stock-134900547.html
 Time Published: 2025-07-29T13:49:00Z
 Description: Can IonQ's quantum networking strategy and stronger cash position outpace Rigetti in the 2025 quantum race?
---------------------------------------------------
-
-Title: Earnings live: Starbucks posts another US sales decline, Novo stock plunges, Big Tech giants on deck
-URL: https://finance.yahoo.com/news/live/earnings-live-starbucks-posts-another-us-sales-decline-novo-stock-plunges-big-tech-giants-on-deck-213334904.html
-Time Published: 2025-07-28T21:33:34Z
-Description: Second quarter earnings season is in full swing, and the results have been largely positive so far, with more positive surprises than negative ones.
---------------------------------------------------
-
-Title: Google Just Kickstarted a New AI Spending Wave. Buy This Top-Rated Stock to Benefit.
-URL: https://www.barchart.com/story/news/33694081/google-just-kickstarted-a-new-ai-spending-wave-buy-this-top-rated-stock-to-benefit
-Time Published: 2025-07-28T20:46:08Z
-Description: As Google boosts AI spending, Amazon looks primed to gain from rising demand for chips and AI tools.
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq eke out records as markets kick off huge week for US economy
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-eke-out-records-as-markets-kick-off-huge-week-for-us-economy-200500414.html
-Time Published: 2025-07-28T20:05:00Z
-Description: Markets are cheering a US-EU tariff pact that has eased worries of a trade war.
---------------------------------------------------
-
-Title: Morgan Stanley names tech stock winner from One Big Beautiful Bill Act
-URL: https://www.thestreet.com/technology/morgan-stanley-names-the-biggest-tech-stock-winner-from-trumps-tax-plan
-Time Published: 2025-07-28T18:17:00Z
-Description: Amazon, Google, or Meta? One clear winner has emerged from the One Big Beautiful Bill Act.
---------------------------------------------------
-
-Title: As AI Mania Roars Back, Is Meta Stock a Buy Before July 30?
-URL: https://www.barchart.com/story/news/33688920/as-ai-mania-roars-back-is-meta-stock-a-buy-heading-before-july-30
-Time Published: 2025-07-28T16:19:20Z
-Description: Meta Platforms is set to report its Q2 earnings on July 30. Here’s what analysts expect from the report and whether the stock is a buy heading into the...
---------------------------------------------------
-
-Title: Bank of America flags 3 breakout stocks to watch ahead of earnings
-URL: https://www.thestreet.com/technology/bank-of-america-flags-3-breakout-stocks-to-watch-ahead-of-earnings
-Time Published: 2025-07-28T16:03:00Z
-Description: Bank of America bets on tech and consumer winners as Q2 results approach.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq nudge higher as Trump-EU trade deal kicks off huge week
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-nudge-higher-as-trump-eu-trade-deal-kicks-off-huge-week-003043435.html
-Time Published: 2025-07-28T13:33:19Z
-Description: Markets are cheering a US-EU tariff pact that has eased worries of a trade war.
---------------------------------------------------
-
-Title: Coupang Keeps Hitting New Highs. Should You Buy CPNG Stock in July 2025?
-URL: https://www.barchart.com/story/news/33683690/coupang-keeps-hitting-new-highs-should-you-buy-cpng-stock-in-july-2025
-Time Published: 2025-07-28T13:00:02Z
-Description: Is Coupang’s breakout run and global push a green light to buy in July? Or is this rally running a little too hot to chase right now?
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures nudge higher as Trump-EU trade deal kicks off huge week in markets
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-nudge-higher-as-trump-eu-trade-deal-kicks-off-huge-week-003043724.html
-Time Published: 2025-07-28T00:30:43Z
-Description: Markets are cheering a US-EU tariff pact that has eased worries of a trade war.
 --------------------------------------------------

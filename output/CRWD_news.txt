@@ -50,9 +50,3 @@ URL: https://finance.yahoo.com/news/jim-cramer-while-discussing-crowdstrike-0528
 Time Published: 2025-07-29T05:28:34Z
 Description: CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of the stocks that Jim Cramer weighed in on. When a caller mentioned that they are thinking of selling the...
 --------------------------------------------------
-
-Title: This Stock Doubled My Money – and I’m Buying More
-URL: https://finance.yahoo.com/news/stock-doubled-money-m-buying-140233811.html
-Time Published: 2025-07-28T14:02:25Z
-Description: Cybersecurity isn’t just growing – it’s exploding. Global cybersecurity spending is projected to soar from $265 billion today to nearly $400 billion by 2028 ...
---------------------------------------------------
