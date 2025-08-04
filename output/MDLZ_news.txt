@@ -18,9 +18,3 @@ URL: https://www.barchart.com/story/news/33748266/stocks-edge-higher-before-fomc
 Time Published: 2025-07-30T15:10:22Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.20%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.01%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
-
-Title: Stocks Supported by Strong Earnings and Trade Deal Optimism
-URL: https://www.barchart.com/story/news/33715741/stocks-supported-by-strong-earnings-and-trade-deal-optimism
-Time Published: 2025-07-29T15:06:27Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.05%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------

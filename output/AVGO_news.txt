@@ -59,15 +59,3 @@ URL: https://finance.yahoo.com/news/broadcom-avgo-smart-long-term-110125401.html
 Time Published: 2025-07-30T11:01:25Z
 Description: Parnassus Investments, an investment management firm, released its “Parnassus Value Equity Fund” second-quarter 2025 investor letter. The fund focuses on...
 --------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as Wall Street awaits Fed decision, Big Tech results
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-wall-street-awaits-fed-decision-big-tech-results-233533000.html
-Time Published: 2025-07-29T23:35:33Z
-Description: Investors braced for the Federal Reserve's next interest rate decision and earnings from tech giants Microsoft and Meta.
---------------------------------------------------
-
-Title: Stocks Supported by Strong Earnings and Trade Deal Optimism
-URL: https://www.barchart.com/story/news/33715741/stocks-supported-by-strong-earnings-and-trade-deal-optimism
-Time Published: 2025-07-29T15:06:27Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.05%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
