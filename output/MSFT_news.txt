@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Warren Buffett's stock still struggling since May peak
+URL: https://www.thestreet.com/investing/stocks/warren-buffetts-stock-still-struggling-since-may-peak
+Time Published: 2025-08-03T03:06:24Z
+Description: Second-quarter results show Berkshire Hathaway saw soft second-quarter insurance profits but builds a huge cash horde.
+--------------------------------------------------
+
 Title: Microsoft CEO sends a surprising message on quantum computing
 URL: https://www.thestreet.com/technology/microsoft-ceo-sends-a-surprising-message-on-quantum-computing
 Time Published: 2025-08-02T14:37:00Z
