@@ -11,21 +11,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4bdbc9ed
 Time Published: 2025-08-01T15:17:34Z
 Description: None
 --------------------------------------------------
-
-Title: AVEM: Emerging Markets ETF Adds to Holdings of EV-Maker NIO
-URL: http://www.etf.com/sections/news/avem-emerging-markets-etf-adds-holdings-ev-maker-nio?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss
-Time Published: 2025-07-30T21:45:00Z
-Description: - AVEM, which launched in 2019, is an actively managed fund. - In recent years, EVs have continued to gain market share.
---------------------------------------------------
-
-Title: Barclays Lifts Price Target for TSMC, Keeps Overweight Rating
-URL: https://finance.yahoo.com/news/barclays-lifts-price-target-tsmc-131307462.html
-Time Published: 2025-07-30T13:13:07Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the 12 Most Owned Stocks by Hedge Funds So Far in 2025. On July 17, Barclays...
---------------------------------------------------
-
-Title: Taiwan Semiconductor (TSM) Surges Nearly 40%—Should You Buy Now?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_02bdec7f-0d2b-4e65-abd1-59be402ec342
-Time Published: 2025-07-30T11:38:26Z
-Description: None
---------------------------------------------------

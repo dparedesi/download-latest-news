@@ -36,9 +36,3 @@ URL: https://www.barchart.com/story/news/33771786/stocks-soar-before-the-open-on
 Time Published: 2025-07-31T10:13:45Z
 Description: September S&P 500 E-Mini futures (ESU25) are up +0.97%, and September Nasdaq 100 E-Mini futures (NQU25) are up +1.30% this morning as forecast-beating...
 --------------------------------------------------
-
-Title: Stocks Settle Mixed on Hawkish Fed Chair Powell
-URL: https://www.barchart.com/story/news/33757048/stocks-settle-mixed-on-hawkish-fed-chair-powell
-Time Published: 2025-07-30T20:33:55Z
-Description: The S&P 500 Index ($SPX ) (SPY ) Wednesday closed down -0.12%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.38%, and the Nasdaq 100 Index (...
---------------------------------------------------

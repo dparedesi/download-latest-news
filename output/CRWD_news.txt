@@ -18,22 +18,3 @@ URL: https://finance.yahoo.com/news/jefferies-raises-crowdstrike-crwd-pt-0359335
 Time Published: 2025-07-31T03:59:33Z
 Description: CrowdStrike Holdings Inc. (NASDAQ:CRWD) is one of the best growth stocks to buy and hold for 3 years. On July 24, Jefferies increased its price target for...
 --------------------------------------------------
-
-Title: “I’ve Already Got CrowdStrike”: Customer Confidence Highlights CRWD’s AI Strength
-URL: https://finance.yahoo.com/news/ve-already-got-crowdstrike-customer-232239009.html
-Time Published: 2025-07-30T23:22:39Z
-Description: CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of the AI Stocks in the Spotlight Today. On July 28, Citizens JMP analyst Trevor Walsh reiterated a Market...
---------------------------------------------------
-
-Title: Cybersecurity ETFs Down on $25B Palo Alto Networks Deal
-URL: http://www.etf.com/sections/news/cybersecurity-etfs-down-25b-palo-alto-networks-deal?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss
-Time Published: 2025-07-30T21:00:00Z
-Description: - PANW is a major holding across many cybersecurity ETFs. - Investor interest in the cybersecurity theme remains strong.
---------------------------------------------------
-
-Title: CrowdStrike Stock Could Resume Run Higher
-URL: https://www.forbes.com/sites/greatspeculations/2025/07/30/crowdstrike-stock-could-resume-run-higher/
-Time Published: 2025-07-30T19:34:30Z
-Full Content:
-BySchaeffer's Investment Research BySchaeffer's Investment Research, Contributor. Cybersecurity stock CrowdStrike (CRWD) has been falling off its July 3 record peak of $517.98, last seen down 0.4% to trade at $465.26. The shares remain steadfast at the 35% year-to-date level, with additional support moving into place at the 80-day moving average. In fact, the trendline has a record of bringing bullish movement to CRWD, meaning a pivot higher could be on the horizon. Per Schaeffer's Senior Quantitative Analyst Rocky White, CRWD is within 0.75 of the 80-day trendline’s average true range (ATR) after spending at least 80% of the last 10 days, and 80% of the last two months above it. Over the past three years, eight similar signals have occurred, after which the equity was higher one month later 75% of the time with an average 6.2% gain. A move of similar magnitude would put CrowdStrike stock above $494, recovering some of its July losses. Short-term options traders have been much more bearish than usual. This is per the stock’s Schaeffer's put/call open interest ratio (SOIR) of 1.32, which ranks in the 98th percentile of annual readings. An unwinding of this pessimism could create additional tailwinds for CRWD. Options look like an affordable route, too. This is per the stock's Schaeffer's Volatility Index (SVI) of 36%, which sits in the 5th percentile of its annual range. This means options traders are pricing in low volatility expectations.
---------------------------------------------------
