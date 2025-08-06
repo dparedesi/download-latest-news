@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Don’t Panic on Nasdaq Dips: Leverage Seasonal Trends for Smarter Trades
+URL: https://www.barchart.com/story/news/33893340/dont-panic-on-nasdaq-dips-leverage-seasonal-trends-for-smarter-trades
+Time Published: 2025-08-05T16:25:02Z
+Description: Are you misreading the Nasdaq’s August dip? Seasonal data shows a consistent rally into mid-September, despite early weakness. Rethink your approach with...
+--------------------------------------------------
+
 Title: Morgan Stanley Upholds Overweight for Microsoft (MSFT), Lifts PT to $582
 URL: https://finance.yahoo.com/news/morgan-stanley-upholds-overweight-microsoft-100358841.html
 Time Published: 2025-08-05T10:03:58Z

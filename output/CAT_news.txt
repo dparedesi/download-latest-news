@@ -1,5 +1,17 @@
 List of news related to Caterpillar stock price CAT:
 
+Title: Rising Tariffs Undercut Caterpillar's Q2 Performance Even As Order Backlog Swells By $2.5 Billion
+URL: https://finance.yahoo.com/news/rising-tariffs-undercut-caterpillars-q2-160806675.html
+Time Published: 2025-08-05T16:08:06Z
+Description: Caterpillar Inc. (NYSE:CAT) reported second-quarter 2025 revenue of $16.569 billion, down 1 percent from $16.689 billion a year earlier, beating the analyst ...
+--------------------------------------------------
+
+Title: Stocks Pressured by Disappointing US Service Sector News
+URL: https://www.barchart.com/story/news/33891783/stocks-pressured-by-disappointing-us-service-sector-news
+Time Published: 2025-08-05T15:12:59Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.57%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.51%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq waver as Wall Street eyes earnings, trade tensions
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-wall-street-eyes-earnings-trade-tensions-230420969.html
 Time Published: 2025-08-04T23:04:20Z

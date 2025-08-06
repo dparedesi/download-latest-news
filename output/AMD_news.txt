@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stocks Pressured by Disappointing US Service Sector News
+URL: https://www.barchart.com/story/news/33891783/stocks-pressured-by-disappointing-us-service-sector-news
+Time Published: 2025-08-05T15:12:59Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.57%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.51%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: BofA Raises AMD Price Target, Keeps Buy Rating
 URL: https://finance.yahoo.com/news/bofa-raises-amd-price-target-143715127.html
 Time Published: 2025-08-04T14:37:15Z

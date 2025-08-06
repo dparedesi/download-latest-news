@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Stocks Pressured by Disappointing US Service Sector News
+URL: https://www.barchart.com/story/news/33891783/stocks-pressured-by-disappointing-us-service-sector-news
+Time Published: 2025-08-05T15:12:59Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.57%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.51%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: Nvidia (NVDA) Gets Vote of Confidence From Citi as AI Capex Set to Soar
 URL: https://finance.yahoo.com/news/nvidia-nvda-gets-vote-confidence-095817365.html
 Time Published: 2025-08-05T09:58:17Z

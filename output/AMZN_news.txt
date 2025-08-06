@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Don’t Panic on Nasdaq Dips: Leverage Seasonal Trends for Smarter Trades
+URL: https://www.barchart.com/story/news/33893340/dont-panic-on-nasdaq-dips-leverage-seasonal-trends-for-smarter-trades
+Time Published: 2025-08-05T16:25:02Z
+Description: Are you misreading the Nasdaq’s August dip? Seasonal data shows a consistent rally into mid-September, despite early weakness. Rethink your approach with...
+--------------------------------------------------
+
 Title: Amazon's slowing cloud growth could continue to drag on its stock
 URL: https://finance.yahoo.com/news/amazons-slowing-cloud-growth-could-continue-to-drag-on-its-stock-145741949.html
 Time Published: 2025-08-04T14:57:41Z
