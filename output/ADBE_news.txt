@@ -23,9 +23,3 @@ URL: https://finance.yahoo.com/news/figma-stock-wavers-after-blockbuster-250-deb
 Time Published: 2025-08-01T12:58:50Z
 Description: Shares in Figma are up 7% in early trading after a first-day pop of 250% on Thursday.
 --------------------------------------------------
-
-Title: Figma stock soars 250% in first day of trading, valuing company north of $45 billion
-URL: https://finance.yahoo.com/news/figma-stock-soars-250-in-first-day-of-trading-valuing-company-north-of-45-billion-132215621.html
-Time Published: 2025-07-31T20:42:30Z
-Description: Design software maker Figma has priced its IPO at $33 ahead of its market debut on Thursday.
---------------------------------------------------

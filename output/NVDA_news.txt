@@ -1,5 +1,24 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow jumps 500 points, S&P5 500, Nasdaq have best day since May as Wall Street bounces back
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-580-points-sp-500-nasdaq-have-best-day-since-may-as-wall-street-bounces-back-200023079.html
+Time Published: 2025-08-04T20:00:23Z
+Description: US stock futures were little changed following a week of sharp declines.
+--------------------------------------------------
+
+Title: US stock market rally explodes: Dow soars 500 points, S&P 500 & Nasdaq roar back as Microsoft, Nvidia, Apple, Palantir surge—weak jobs report fuels Fed cut buzz, Trump fires BLS chief in shock move
+URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-rally-explodes-dow-soars-500-points-sp-500-nasdaq-roar-back-as-microsoft-nvidia-apple-palantir-surgeweak-jobs-report-fuels-fed-cut-buzz-trump-fires-bls-chief-in-shock-move/articleshow/123103923.cms
+Time Published: 2025-08-04T19:44:13Z
+Full Content:
+Stock market rally today has captured Wall Street’s attention as the Dow Jones jumped 500 points, with the S&P 500 and Nasdaq also posting strong gains. This sharp rebound follows a weak U.S. payroll report, which has increased hopes for Federal Reserve rate cuts as early as September. With only 73,000 jobs added in July and unemployment ticking up, investors now expect multiple interest rate cuts by the end of 2025. President Donald Trump’s strong reaction to the data, including the firing of the BLS chief, adds political drama as markets shift. Productivity Tool Zero to Hero in Microsoft Excel: Complete Excel guide By Metla Sudha Sekhar Finance Introduction to Technical Analysis & Candlestick Theory By Dinesh Nagpal Finance Financial Literacy i e Lets Crack the Billionaire Code By CA Rahul Gupta Digital Marketing Digital Marketing Masterclass by Neil Patel By Neil Patel Finance Technical Analysis Demystified- A Complete Guide to Trading By Kunal Patel Productivity Tool Excel Essentials to Expert: Your Complete Guide By Study at home Artificial Intelligence AI For Business Professionals Batch 2 By Ansh Mehra (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Texas Rep. Jolanda fires back at Gov. Abbott over arrest threats EAM's strong message on India-Russia oil trade amid US pressure Jeanine Pirro secures US Attorney for DC role Tesla grants CEO Elon Musk $29 bn in stock Nancy Mace launches bid for South Carolina governor Kremlin fumes over Trump's nuke subs move 'Digging my own grave': Freed hostage recalls 'cruel' conditions Retail Quit Nifty | Ambani Under ED Lens US offers big incentives to new ICE recruits Trump warns Russia: Ceasefire by August 8 or... Texas Rep. Jolanda fires back at Gov. Abbott over arrest threats EAM's strong message on India-Russia oil trade amid US pressure Jeanine Pirro secures US Attorney for DC role Tesla grants CEO Elon Musk $29 bn in stock Nancy Mace launches bid for South Carolina governor Kremlin fumes over Trump's nuke subs move 'Digging my own grave': Freed hostage recalls 'cruel' conditions Retail Quit Nifty | Ambani Under ED Lens US offers big incentives to new ICE recruits Trump warns Russia: Ceasefire by August 8 or... Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Story Listing Private Companies Top Prime Articles Most Searched IFSC Codes Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: NVDA: Nvidia Red-Hot Chips Reignite in China Amid Share-Loss Warning
+URL: https://finance.yahoo.com/news/nvda-nvidia-red-hot-chips-192648861.html
+Time Published: 2025-08-04T19:26:48Z
+Description: H20 Reboot in China Sparks Clash with Huawei and Cambricon
+--------------------------------------------------
+
 Title: Riverpark Large Growth Fund Views NVIDIA (NVDA) as the Most Strategically Important Enabler Of Global AI Transformation
 URL: https://finance.yahoo.com/news/riverpark-large-growth-fund-views-125156367.html
 Time Published: 2025-08-04T12:51:56Z
@@ -112,98 +131,4 @@ Title: Nvidia must provide 'security proofs' to regain trust:China state media
 URL: https://finance.yahoo.com/news/china-state-media-says-nvidia-105200622.html
 Time Published: 2025-08-01T10:52:00Z
 Description: BEIJING (Reuters) -Nvidia must produce "convincing security proofs" to eliminate Chinese users' worries over security risks in its chips and regain market...
---------------------------------------------------
-
-Title: Microsoft Surges Past $4T Market Cap After Blowout Earnings
-URL: http://www.etf.com/sections/news/microsoft-surges-past-4t-market-cap-after-blowout-earnings?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss
-Time Published: 2025-07-31T22:45:00Z
-Description: - VOO, QQQ hit record highs on Microsoft strength. - At the heart of the company’s growth story is artificial intelligence.
---------------------------------------------------
-
-Title: A 13% Dividends From AI? Here Are The Tickers
-URL: https://www.forbes.com/sites/michaelfoster/2025/07/31/a-13-dividends-from-ai-here-are-the-tickers/
-Time Published: 2025-07-31T21:00:00Z
-Full Content:
-ByMichael Foster ByMichael Foster, Contributor. By now you’ve no doubt heard the argument that AI is a bubble, and there’s no way Big Tech will make a significant profit from it, given the massive amounts of cash they’ve already piled in. That take is just plain wrong—truth is, the tech giants are already booking profits from AI. And we closed-end fund (CEF) investors can grab our share at a discount—and at dividend rates running all the way up to 13%, too. This next chart tells us straight-up why the “AI-is-unprofitable” theory is off the mark. Look at the far left of this chart and you see that communication-services stocks led in profit growth in the second quarter of 2025. Alphabet (GOOGL) and Meta Platforms (META) are both titans of that sector, and both have invested billions in AI. They’ve largely done it by buying chips and other hardware, as well as software, from IT firms like NVIDIA (NVDA). That pop in communication-services earnings proves that these companies are profiting from AI. Similarly, the second-highest earnings gains in the chart above, in IT, confirms that AI actually does make money for Big Tech. When it comes to high-yielding, tech-focused CEFs, there are basically four tickers that income investors look to. Let’s check in on those now. As you can see in the chart below, all four of these funds’ net asset values have been roaring higher, with the 12.3%-yielding BlackRock Science and Technology Term Trust (BSTZ), in green, leading by a small amount over the last three months. It’s followed closely by its sister fund, the 7.7%-yielding BlackRock Science and Technology Trust (BST), in purple. The BlackRock Technology and Private Equity Term Trust (BTX), with its huge 13% yield (in blue), and the Columbia Seligman Premium Technology Growth Fund (STK), (in orange and paying 6%) bring up the rear. The interesting thing, however, is the fact that these funds still trade at discounts to net asset value (NAV). The best values are the three BlackRock funds (again in green, blue and purple): We’ve seen BSTZ’s discount remain basically where it was three months ago, despite its strong NAV return in that time, while BST’s discount has widened slightly, despite its strong performance. The third BlackRock tech CEF, the BlackRock Technology and Private Equity Term Trust (BTX), has seen its discount narrow slightly (April was a great time to buy BTX). The Columbia Seligman Premium Technology Growth Fund (STK) is the priciest of our quartet, but context matters here, as its premium to NAV, which it has held for much of the last decade, suddenly disappeared. Let’s stick with STK for a bit. Despite that fund’s smaller discount, is it still worth our time? I’d say yes, given the next chart. But there is a caveat that we’ll get into shortly. Before we get to that, we see that STK, whose NAV (in purple above) has closely matched the NASDAQ 100 (whose benchmark index fund is shown in orange) over the last decade. That makes STK a good way to get tech exposure, plus the index’s diversification. I mention that diversification because STK is tech-heavy, with core names like Microsoft (MSFT), NVIDIA and Apple (AAPL). But like the NASDAQ, it also branches out a bit, with holdings in companies like Visa (V) and Bloom Energy (BE), which focuses on products that help customers generate power on-site. On the dividend side, STK’s 6% yield far outruns the NASDAQ’s 0.5%, and the CEF has also never cut its payouts. However, STK is contending with funds yielding a lot more—up to 13% in the case of the highest-paying BlackRock fund, BTX. That’s the real reason for STK’s growing discount: Even though it was swept up in the tech rally, its lower payouts aren’t enough for many income investors, now that there’s more competition, plus dividends that nearly double STK’s 6% yield, among tech CEFs. This is why the bigger discounts offered by the BlackRock funds are the better deals here, and why STK’s discount isn’t yet big enough to warrant our attention. Michael Foster is the Lead Research Analyst for Contrarian Outlook. For more great income ideas, click here for our latest report “Indestructible Income: 5 Bargain Funds with Steady 10% Dividends.” Disclosure: none
---------------------------------------------------
-
-Title: Morgan Stanley slaps eye-popping price target on Nvidia stock
-URL: https://www.thestreet.com/technology/morgan-stanley-slaps-eye-popping-price-target-on-nvidia-stock
-Time Published: 2025-07-31T19:37:00Z
-Description: Nvidia’s AI-powered rally may still be in early innings.
---------------------------------------------------
-
-Title: China summons Nvidia over backdoor security concerns with AI chips - The Washington Post
-URL: https://slashdot.org/firehose.pl?op=view&amp;id=178525802
-Time Published: 2025-07-31T17:35:40Z
-Description: China summons Nvidia over backdoor security concerns with AI chipsThe Washington Post Nvidia Chips Are Front and Center in China at Crucial Moment in the A.I. RaceThe New York Times China Summons Nvidia Over 'Backdoor Safety Risks' in H20 ChipsU.S. News & Wor…
---------------------------------------------------
-
-Title: Nvidia (NVDA) Boosts H20 Chip Orders to Meet Soaring Chinese Demand
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ada72f43-9960-472a-aaa2-d83651364071
-Time Published: 2025-07-31T15:30:28Z
-Description: None
---------------------------------------------------
-
-Title: NVDA: Nvidia Smashes New Records as Microsoft, Meta Ramp Up Spending
-URL: https://finance.yahoo.com/news/nvda-nvidia-poised-smash-records-144948367.html
-Time Published: 2025-07-31T15:07:15Z
-Description: Nvidia Charges Ahead on Wave of AI Infrastructure Spending
---------------------------------------------------
-
-Title: Microsoft Joins Nvidia in $4 Trillion Club
-URL: https://www.investopedia.com/microsoft-joins-nvidia-in-usd4-trillion-club-11782435
-Time Published: 2025-07-31T14:16:29Z
-Full Content:
-The $4 trillion club is now a party of two. Microsoft (MSFT) on Thursday became the second company in history to reach a $4 trillion market value as tech stock prices continued to climb on booming AI demand. Microsoft's stock popped 7% at the open, putting its market capitalization at $4.09 trillion, after the company’s fiscal fourth-quarter results blew past expectations on strong growth in all of its businesses, but especially in its cloud computing and AI services. Microsoft’s entry into the $4 trillion club comes just weeks after Nvidia (NVDA) became the first company to reach the milestone. Its market cap briefly crossed $4 trillion in intraday trading on July 9, but it wasn’t until July 10 that it closed above the threshold. Microsoft was already America’s second most valuable company, worth nearly $2 trillion, when the launch of ChatGPT in late 2022 sparked an AI frenzy in Silicon Valley and on Wall Street. But surging demand for AI and cloud computing has turbocharged Microsoft’s growth in the last three years. The company on Wednesday reported 2025 fiscal-year revenue of close to $282 billion, up from $198 billion in the fiscal year before ChatGPT, and net income of $102 billion, up from $73 billion. With about 7.4 billion shares outstanding, Microsoft stock will need to close at or above $538.13 to stay in the $4 trillion club. Shares were up 5% just above $539 in recent trading.
---------------------------------------------------
-
-Title: As Apple Teases iOS 26, Is AAPL Stock a Buy, Sell, or Hold?
-URL: https://www.barchart.com/story/news/33780932/as-apple-teases-ios-26-is-aapl-stock-a-buy-sell-or-hold
-Time Published: 2025-07-31T13:53:30Z
-Description: Apple recently unveiled the new iOS 26, leaving investors wondering whether AAPL stock will finally regain its spark.
---------------------------------------------------
-
-Title: AI #127: Continued Claude Code Complications
-URL: https://www.lesswrong.com/posts/GeTssgFDCvHDGAvhT/ai-127-continued-claude-code-complications
-Time Published: 2025-07-31T13:40:13Z
-Description: Published on July 31, 2025 1:40 PM GMTDue to Continued Claude Code Complications, we can report Unlimited Usage Ultimately Unsustainable. May I suggest using the API, where Anthropic’s yearly revenue is now projected to rise to $9 billion?
-The biggest news it…
---------------------------------------------------
-
-Title: Stock market today: Nasdaq, S&P 500 jump as Big Tech earnings, trade deals lift spirits
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-jump-as-big-tech-earnings-trade-deals-lift-spirits-124315384.html
-Time Published: 2025-07-31T13:34:29Z
-Description: Wall Street weighed a new trade deal with South Korea and strong earnings from Meta and Microsoft.
---------------------------------------------------
-
-Title: Signs of a Market Top? What to Watch Ahead of the S&P’s Worst 2 Months of the Year
-URL: https://www.barchart.com/story/news/33778297/signs-of-a-market-top-what-to-watch-ahead-of-the-s-ps-worst-2-months-of-the-year
-Time Published: 2025-07-31T12:49:52Z
-Description: The stock market is soaring. But the calendar — plus a few other warning signs — are giving seasoned investors pause.
---------------------------------------------------
-
-Title: UBS reveals its latest top picks after July update
-URL: https://finance.yahoo.com/news/ubs-reveals-latest-top-picks-123521828.html
-Time Published: 2025-07-31T12:35:21Z
-Description: Investing.com -- UBS has released its latest list of top stock picks following the July update, maintaining a neutral stance on U.S. equities overall but...
---------------------------------------------------
-
-Title: Can the S&P 500 Rally Overcome Bearish Seasonality?
-URL: https://finance.yahoo.com/news/p-500-rally-overcome-bearish-120004966.html
-Time Published: 2025-07-31T12:00:04Z
-Description: The next couple of months may not be as bearish as they've generally been in the past
---------------------------------------------------
-
-Title: Why did Nvidia shares just reach another all-time high?
-URL: https://www.fool.com.au/2025/07/31/why-did-nvidia-shares-just-reach-another-all-time-high/
-Time Published: 2025-07-31T02:35:37Z
-Description: All signs point to one thing. 
-The post Why did Nvidia shares just reach another all-time high? appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: Analysts reboot AMD stock price target before earnings
-URL: https://www.thestreet.com/investing/analysts-reset-amd-stock-price-target-ahead-of-key-earnings
-Time Published: 2025-07-31T00:37:00Z
-Description: Here’s what could be next for AMD shares.
 --------------------------------------------------
