@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Nvidia (NVDA) Gets Vote of Confidence From Citi as AI Capex Set to Soar
+URL: https://finance.yahoo.com/news/nvidia-nvda-gets-vote-confidence-095817365.html
+Time Published: 2025-08-05T09:58:17Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Making Waves on Wall Street. On July 31, Citi reiterated Nvidia and Broadcom as Buy and Advanced...
+--------------------------------------------------
+
 Title: Broadcom Ships Jericho4, Enabling Distributed AI Computing Across Data Centers
 URL: https://www.globenewswire.com/news-release/2025/08/04/3126949/19933/en/Broadcom-Ships-Jericho4-Enabling-Distributed-AI-Computing-Across-Data-Centers.html
 Time Published: 2025-08-04T21:00:00Z

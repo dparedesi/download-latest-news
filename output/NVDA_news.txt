@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia (NVDA) Gets Vote of Confidence From Citi as AI Capex Set to Soar
+URL: https://finance.yahoo.com/news/nvidia-nvda-gets-vote-confidence-095817365.html
+Time Published: 2025-08-05T09:58:17Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Making Waves on Wall Street. On July 31, Citi reiterated Nvidia and Broadcom as Buy and Advanced...
+--------------------------------------------------
+
 Title: Stock market today: Dow jumps 500 points, S&P5 500, Nasdaq have best day since May as Wall Street bounces back
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-580-points-sp-500-nasdaq-have-best-day-since-may-as-wall-street-bounces-back-200023079.html
 Time Published: 2025-08-04T20:00:23Z
