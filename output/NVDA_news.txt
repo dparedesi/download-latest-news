@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Cathie Wood splurges $4.1 million on popular AI stock
+URL: https://www.thestreet.com/technology/cathie-wood-splurges-4-1-million-on-popular-ai-stock
+Time Published: 2025-08-05T19:13:00Z
+Description: Cathie Wood’s latest portfolio shakeup suggests she’s sharpening her focus on proven AI winners.
+--------------------------------------------------
+
 Title: Don’t Panic on Nasdaq Dips: Leverage Seasonal Trends for Smarter Trades
 URL: https://www.barchart.com/story/news/33893340/dont-panic-on-nasdaq-dips-leverage-seasonal-trends-for-smarter-trades
 Time Published: 2025-08-05T16:25:02Z

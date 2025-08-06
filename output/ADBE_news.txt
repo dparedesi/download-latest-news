@@ -12,14 +12,14 @@ Time Published: 2025-08-01T15:10:35Z
 Description: Adobe’s $20 billion Figma acquisition failed amid regulatory scrutiny, costing $1 billion and missing a $37 billion post-IPO windfall.
 --------------------------------------------------
 
-Title: Figma stock gains 5% after blockbuster 250% debut rally
-URL: https://finance.yahoo.com/news/figma-stock-gains-5-after-blockbuster-250-debut-rally-125850817.html
+Title: Figma stock wavers after blockbuster 250% debut rally
+URL: https://finance.yahoo.com/news/figma-stock-wavers-after-blockbuster-250-debut-rally-125850158.html
 Time Published: 2025-08-01T12:58:50Z
 Description: Shares in Figma are up 7% in early trading after a first-day pop of 250% on Thursday.
 --------------------------------------------------
 
-Title: Figma stock wavers after blockbuster 250% debut rally
-URL: https://finance.yahoo.com/news/figma-stock-wavers-after-blockbuster-250-debut-rally-125850158.html
+Title: Figma stock gains 5% after blockbuster 250% debut rally
+URL: https://finance.yahoo.com/news/figma-stock-gains-5-after-blockbuster-250-debut-rally-125850817.html
 Time Published: 2025-08-01T12:58:50Z
 Description: Shares in Figma are up 7% in early trading after a first-day pop of 250% on Thursday.
 --------------------------------------------------
