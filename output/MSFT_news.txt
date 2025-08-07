@@ -1,9 +1,27 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Earnings To Watch: Nova (NVMI) Reports Q2 Results Tomorrow
+URL: https://finance.yahoo.com/news/earnings-watch-nova-nvmi-reports-032326137.html
+Time Published: 2025-08-06T03:23:26Z
+Description: Semiconductor quality control company Nova (NASDAQ:NVMI) will be reporting earnings this Thursday before the bell. Here’s what to look for.
+--------------------------------------------------
+
+Title: Latham (NASDAQ:SWIM) Misses Q2 Sales Targets
+URL: https://finance.yahoo.com/news/latham-nasdaq-swim-misses-q2-220518632.html
+Time Published: 2025-08-05T22:05:18Z
+Description: Residential swimming pool manufacturer Latham (NASDAQ:SWIM) fell short of the market’s revenue expectations in Q2 CY2025, but sales rose 7.8% year on year to...
+--------------------------------------------------
+
 Title: Don’t Panic on Nasdaq Dips: Leverage Seasonal Trends for Smarter Trades
 URL: https://www.barchart.com/story/news/33893340/dont-panic-on-nasdaq-dips-leverage-seasonal-trends-for-smarter-trades
 Time Published: 2025-08-05T16:25:02Z
 Description: Are you misreading the Nasdaq’s August dip? Seasonal data shows a consistent rally into mid-September, despite early weakness. Rethink your approach with...
+--------------------------------------------------
+
+Title: These five unseen drivers could propel the bull market even higher, according to this Wall Street veteran
+URL: https://www.marketwatch.com/story/these-five-unseen-drivers-could-propel-the-bull-market-even-higher-according-to-this-wall-street-veteran-e8570ca6
+Time Published: 2025-08-05T14:35:00Z
+Description: The stock market could soar even higher if these pillars of strength are unleashed, says Jim Paulsen of Paulsen Perspectives.
 --------------------------------------------------
 
 Title: Morgan Stanley Upholds Overweight for Microsoft (MSFT), Lifts PT to $582
@@ -89,28 +107,4 @@ Title: Microsoft’s (MSFT) Azure Strength, AI Alliance in Focus Ahead of Q4 Ear
 URL: https://finance.yahoo.com/news/microsoft-msft-azure-strength-ai-114920863.html
 Time Published: 2025-08-02T11:49:20Z
 Description: Microsoft Corporation (NASDAQ:MSFT) ranks among the best stocks to buy for the next 6 months. On July 29, ahead of the release of Microsoft Corporation...
---------------------------------------------------
-
-Title: Veteran trader takes hard look at Microsoft Q4 report and sends a warning
-URL: https://www.thestreet.com/investing/stocks/veteran-trader-takes-hard-look-at-microsoft-q4-report-and-sends-a-warning
-Time Published: 2025-08-01T20:47:07Z
-Description: The software and cloud giant beat expectations. But there's something else investors should remember.
---------------------------------------------------
-
-Title: Amazon Falls on Fears That AWS Is Losing Market Share: Should You Buy the AMZN Stock Dip Here?
-URL: https://www.barchart.com/story/news/33818776/amazon-falls-on-fears-that-aws-is-losing-market-share-should-you-buy-the-amzn-stock-dip-here
-Time Published: 2025-08-01T16:07:13Z
-Description: Amazon stock is trading lower today as AWS's Q2 performance and the company's Q3 operating income guidance spooked investors. Should you buy the dip here?
---------------------------------------------------
-
-Title: Big Tech's AI investments set to spike to $364 billion in 2025 as bubble fears ease
-URL: https://finance.yahoo.com/news/big-techs-ai-investments-set-to-spike-to-364-billion-in-2025-as-bubble-fears-ease-143203885.html
-Time Published: 2025-08-01T14:32:03Z
-Description: Amazon, Alphabet, Microsoft, and Meta reported they were set to spend a cumulative $364 billion in their respective 2025 fiscal years, up from their prior...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slump after weak jobs report, Trump's sweeping tariffs, Amazon's earnings flub
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slump-after-weak-jobs-report-trumps-tariff-redux-123818857.html
-Time Published: 2025-08-01T12:38:18Z
-Description: Markets are assessing the reshaped US trade landscape after Trump on Thursday laid out steep new tariffs for dozens of countries.
 --------------------------------------------------

@@ -1,5 +1,29 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as earnings take center stage
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-earnings-take-center-stage-233644524.html
+Time Published: 2025-08-05T23:36:44Z
+Description: US stock futures wavered amid a tough batch of corporate earnings after the bell and persistent trade uncertainty.
+--------------------------------------------------
+
+Title: Earnings live: AMD, Rivian, Lucid, Snap, and Super Micro Computer stocks fall after quarterly results
+URL: https://finance.yahoo.com/news/live/earnings-live-amd-rivian-lucid-snap-and-super-micro-computer-stocks-fall-after-quarterly-results-202947161.html
+Time Published: 2025-08-05T20:29:47Z
+Description: Second quarter earnings season is in full swing, and the results have been largely positive so far, with more positive surprises than negative ones.
+--------------------------------------------------
+
+Title: AMD posts mixed Q2 results but offers better than expected Q3 outlook on AI sales
+URL: https://finance.yahoo.com/news/amd-posts-mixed-q2-results-but-offers-better-than-expected-q3-outlook-on-ai-sales-202215280.html
+Time Published: 2025-08-05T20:22:15Z
+Description: AMD reported its Q2 earnings after the bell on Tuesday.
+--------------------------------------------------
+
+Title: AMD data center results disappoint, shares slump
+URL: https://finance.yahoo.com/news/chipmaker-amd-forecasts-third-quarter-202104473.html
+Time Published: 2025-08-05T20:21:04Z
+Description: (Reuters) -Advanced Micro Devices on Tuesday reported disappointing data center revenue, a segment which includes lucrative artificial intelligence chips...
+--------------------------------------------------
+
 Title: Cathie Wood splurges $4.1 million on popular AI stock
 URL: https://www.thestreet.com/technology/cathie-wood-splurges-4-1-million-on-popular-ai-stock
 Time Published: 2025-08-05T19:13:00Z
@@ -44,10 +68,23 @@ Time Published: 2025-08-05T15:12:59Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.57%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.51%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
+Title: These five unseen drivers could propel the bull market even higher, according to this Wall Street veteran
+URL: https://www.marketwatch.com/story/these-five-unseen-drivers-could-propel-the-bull-market-even-higher-according-to-this-wall-street-veteran-e8570ca6
+Time Published: 2025-08-05T14:35:00Z
+Description: The stock market could soar even higher if these pillars of strength are unleashed, says Jim Paulsen of Paulsen Perspectives.
+--------------------------------------------------
+
 Title: Here’s Why Baron Global Advantage Fund’s Has Strong Conviction in NVIDIA (NVDA)
 URL: https://finance.yahoo.com/news/why-baron-global-advantage-fund-131231283.html
 Time Published: 2025-08-05T13:12:31Z
 Description: Baron Funds, an investment management company, released its “Baron Global Advantage Fund” investor letter for the second quarter of 2025. A copy of the...
+--------------------------------------------------
+
+Title: 5 Things to Know Before the Stock Market Opens
+URL: https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-august-05-2025-11784826
+Time Published: 2025-08-05T11:36:22Z
+Full Content:
+U.S. stock futures are pointing higher after indexes rebounded yesterday following last week's selloff; Palantir (PLTR) shares are surging in premarket trading after the firm raised its sales outlook amid strong demand for its AI platform; Advanced Micro Devices (AMD) reports second-quarter results after the closing bell today; Taiwan Semiconductor Manufacturing Co. (TSM) reportedly has fired some employees after discovering a leak of sensitive trade secrets; and Vertex Pharmaceuticals (VRTX) shares are plunging after it ended development of a pain treatment after test results did not meet its goals. Here's what investors need to know today. U.S. stock futures are pointing higher after indexes surged Monday to rebound from last week's selloff. Nasdaq futures are 0.4% higher after the tech-heavy index gained 2% in the prior session, while S&P 500 futures are up 0.3% after the benchmark index rose 1.5% yesterday. Dow Jones Industrial Average futures are little changed. Bitcoin (BTCUSD) is near flat at nearly $115,000. The yield on the 10-year Treasury note is higher. Oil and gold futures are both declining. Palantir (PLTR) shares are jumping by more than 6% in premarket trading after the tech firm posted better-than-expected second-quarter results and raised its outlook on strong demand for its Artificial Intelligence Platform. The AI software company reported adjusted earnings of 16 cents on revenue that jumped 48% year-over-year to a record $1 billion, above estimates compiled by Visible Alpha. Palantir's commercial business nearly doubled from a year ago, while its U.S. business grew 68%. Palantir sees third-quarter sales of $1.08 billion to $1.09 billion, and full-year revenue of $4.14 billion to $4.15 billion, both ranges above analysts' estimates. Advanced Micro Devices (AMD) is set to report second-quarter results after the closing bell today after a strong run for the chipmaker's stock amid hopes export curb headwinds could soon ease. Analysts surveyed by Visible Alpha expect AMD to report adjusted EPS of $0.48 on revenue that jumped 27% revenue to $7.43 billion on strong data center sales. AMD warned in May that it would likely take a hit from tighter restrictions on chip exports to China, though the company said last month that it plans to restart exports of its MI308 chips once it receives final approval from U.S. authorities. AMD shares are higher by nearly 2% in premarket trading. Taiwan Semiconductor Manufacturing Co. (TSM) has reportedly discovered a leak of trade secrets related to its advanced chipmaking process and has taken disciplinary actions against the employees involved. Multiple outlets reported that TSMC said its comprehensive monitoring process allowed it to discover the issue and carry out a swift internal investigation. Nikkei Asia reported that the company fired several employees for attempting to obtain proprietary information on 2-nanometer chip development. TSMC, the world's largest contract chipmaker, is a key supplier to Nvidia (NVDA) and Apple (AAPL). TSMC shares are edging higher in premarket trading. Vertex Pharmaceuticals (VRTX) shares are falling 14% in premarket trading after the drugmaker said it would end development of its VX-993 pain treatment after tests failed to meet goals. The news trumped better-than-expected second-quarter results, as Vertex's adjusted earnings per share of $4.52 and revenue that increased 12% to $2.96 billion topped Visible Alpha projections. Last quarter, Vertex said that research and development costs were weighing on results.
 --------------------------------------------------
 
 Title: Nvidia (NVDA) Gets Vote of Confidence From Citi as AI Capex Set to Soar
@@ -137,54 +174,4 @@ Title: NVIDIA (NVDA) Strikes $2.36B AI Data Center Deal With Malaysia’s YTL Po
 URL: https://finance.yahoo.com/news/nvidia-nvda-strikes-2-36b-114927934.html
 Time Published: 2025-08-02T11:49:27Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) ranks among the best stocks to buy for the next 6 months. On July 29, NVIDIA Corporation (NASDAQ:NVDA) and YTL Power...
---------------------------------------------------
-
-Title: Veteran trader takes hard look at Microsoft Q4 report and sends a warning
-URL: https://www.thestreet.com/investing/stocks/veteran-trader-takes-hard-look-at-microsoft-q4-report-and-sends-a-warning
-Time Published: 2025-08-01T20:47:07Z
-Description: The software and cloud giant beat expectations. But there's something else investors should remember.
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA) Could Be In Great Shape In China, Says Jim Cramer
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bf1d4f4f-2eca-4a98-a808-99da505037a4
-Time Published: 2025-08-01T18:27:50Z
-Description: None
---------------------------------------------------
-
-Title: Cathie Wood buys $11 million of surging AI stock
-URL: https://www.thestreet.com/investing/cathie-wood-buys-11-million-of-surging-ai-stock
-Time Published: 2025-08-01T17:17:00Z
-Description: Here are Cathie Wood’s latest moves.
---------------------------------------------------
-
-Title: Morgan Stanley Reaffirms NVIDIA as Top Pick Amid Soaring Chip Demand
-URL: https://finance.yahoo.com/news/morgan-stanley-reaffirms-nvidia-top-161921564.html
-Time Published: 2025-08-01T16:19:21Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Investors Should Keep an Eye On. On July 30, Morgan Stanley reiterated the stock as “Overweight” and...
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA) Reenters China with U.S. Approval, Eyes $15 Billion AI Chip Boom
-URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-reenters-china-151705124.html
-Time Published: 2025-08-01T15:17:05Z
-Description: We recently compiled a list of the 10 Best Strong Buy Tech Stocks to Buy. NVIDIA Corporation stands second on our list. NVIDIA Corporation (NASDAQ:NVDA), a...
---------------------------------------------------
-
-Title: U.S. stock market plunges today as Dow, S&P 500, and Nasdaq sink deep in red — a stormy start to August on Wall Street as weak jobs report and Trump tariff turmoil spark economic recession panic
-URL: https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-plunges-today-as-dow-sp-500-and-nasdaq-sink-deep-in-red-a-stormy-start-to-august-on-wall-street-as-weak-jobs-report-and-trump-tariff-turmoil-spark-economic-recession-panic/articleshow/123046147.cms
-Time Published: 2025-08-01T14:41:58Z
-Full Content:
-U.S. stock market today slumped sharply as President Trump's sweeping global tariffs and a weak July jobs report rattled Wall Street. The Dow Jones, S&P 500, and Nasdaq all opened in the red, with tech giants like Amazon and Nvidia dragging indexes lower. Job growth slowed significantly to just 73,000, while unemployment rose to 4.2%, raising fresh recession fears. Investors reacted by shifting to safer assets, pushing bond yields down. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Putin ‘shrugs off’ Trump’s peace deal deadline Tariff heat & Ambani loan storm Rahul Gandhi accuses Election Commission of vote theft in Bihar Karoline Leavitt pushes Nobel Peace Prize honor for Trump SSC protest: Aspirants demand justice over paper leak Monsoon Session 2025: 7 dramatic and hilarious moments India opens 8 US consular centres, all centres open Sat for better access 'China only who gets benefits...': Schumer slams Trump tariffs 'These are dark days': Biden slams Trump admin Trump gives ultimatum to pharma cos over drug prices Putin ‘shrugs off’ Trump’s peace deal deadline Tariff heat & Ambani loan storm Rahul Gandhi accuses Election Commission of vote theft in Bihar Karoline Leavitt pushes Nobel Peace Prize honor for Trump SSC protest: Aspirants demand justice over paper leak Monsoon Session 2025: 7 dramatic and hilarious moments India opens 8 US consular centres, all centres open Sat for better access 'China only who gets benefits...': Schumer slams Trump tariffs 'These are dark days': Biden slams Trump admin Trump gives ultimatum to pharma cos over drug prices Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Prime Articles Top Commodities Top Slideshow Private Companies Top Story Listing Top Definitions Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Morgan Stanley just boosted Nvidia’s target — Here’s why Blackwell chips are game-changers
-URL: https://economictimes.indiatimes.com/news/international/us/nvidia-stock-price-target-2025-morgan-stanley-just-boosted-nvidias-target-heres-why-blackwell-chips-are-game-changers/articleshow/123044159.cms
-Time Published: 2025-08-01T13:23:19Z
-Full Content:
-Nvidia stock price target 2025: Wall Street's confidence in Nvidia surges as Morgan Stanley raises its price target to $200, driven by exceptional demand for Blackwell GPUs. Enterprise and cloud giants are rapidly adopting these chips, leading to supply outpacing demand. Blackwell's superior performance, a 40x jump over Hopper, fuels this adoption, potentially representing 80% of Nvidia's high-end GPU shipments. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Rahul Gandhi accuses Election Commission of vote theft in Bihar Karoline Leavitt pushes Nobel Peace Prize honor for Trump SSC protest: Aspirants demand justice over paper leak Monsoon Session 2025: 7 dramatic and hilarious moments India opens 8 US consular centres, all centres open Sat for better access 'China only who gets benefits...': Schumer slams Trump tariffs 'These are dark days': Biden slams Trump admin Trump gives ultimatum to pharma cos over drug prices Canada faces new US tariffs amid Palestine policy rift White House unveils massive US-EU trade deal details Rahul Gandhi accuses Election Commission of vote theft in Bihar Karoline Leavitt pushes Nobel Peace Prize honor for Trump SSC protest: Aspirants demand justice over paper leak Monsoon Session 2025: 7 dramatic and hilarious moments India opens 8 US consular centres, all centres open Sat for better access 'China only who gets benefits...': Schumer slams Trump tariffs 'These are dark days': Biden slams Trump admin Trump gives ultimatum to pharma cos over drug prices Canada faces new US tariffs amid Palestine policy rift White House unveils massive US-EU trade deal details Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Most Searched IFSC Codes Top Story Listing Top Prime Articles Top Slideshow Private Companies Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Nvidia must provide 'security proofs' to regain trust:China state media
-URL: https://finance.yahoo.com/news/china-state-media-says-nvidia-105200622.html
-Time Published: 2025-08-01T10:52:00Z
-Description: BEIJING (Reuters) -Nvidia must produce "convincing security proofs" to eliminate Chinese users' worries over security risks in its chips and regain market...
 --------------------------------------------------

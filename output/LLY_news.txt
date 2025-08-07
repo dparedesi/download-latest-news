@@ -5,9 +5,3 @@ URL: https://www.thestreet.com/investing/stocks/stocks-will-try-to-recover-their
 Time Published: 2025-08-03T13:32:10Z
 Description: A shockingly weak jobs report and more worries about tariffs and the economy has investors on edge.
 --------------------------------------------------
-
-Title: Tariffs and Economic Jitters Hammer Stocks
-URL: https://www.barchart.com/story/news/33817575/tariffs-and-economic-jitters-hammer-stocks
-Time Published: 2025-08-01T15:17:39Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -1.60%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -1.35%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
