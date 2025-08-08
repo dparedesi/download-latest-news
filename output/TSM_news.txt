@@ -1,13 +1,13 @@
 List of news related to Taiwan Semiconductor TSM:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as Trump hints at chip tariff carveout
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-hints-at-chip-tariff-carveout-230246482.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Trump hints at chip tariff carveout
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-trump-hints-at-chip-tariff-carveout-230246587.html
 Time Published: 2025-08-06T23:02:46Z
 Description: US stock futures wavered above the flatline with President Trump's trade deadline fast approaching.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Trump hints at chip tariff carveout
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-trump-hints-at-chip-tariff-carveout-230246587.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Trump hints at chip tariff carveout
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-hints-at-chip-tariff-carveout-230246482.html
 Time Published: 2025-08-06T23:02:46Z
 Description: US stock futures wavered above the flatline with President Trump's trade deadline fast approaching.
 --------------------------------------------------
