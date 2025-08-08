@@ -6,6 +6,12 @@ Time Published: 2025-08-06T22:41:10Z
 Description: Personal care company The Honest Company (NASDAQ:HNST) announced better-than-expected revenue in Q2 CY2025, but sales were flat year on year at $93.46...
 --------------------------------------------------
 
+Title: Analysts Love This Hidden-Gem Generative AI Stock
+URL: https://www.barchart.com/story/news/33933731/analysts-love-this-hidden-gem-generative-ai-stock
+Time Published: 2025-08-06T19:37:21Z
+Description: Analysts see MongoDB as an AI sleeper, with vector search tech and strong cash fueling growth.
+--------------------------------------------------
+
 Title: Microsoft (MSFT) Gets $650 Price Target as Fabric Becomes Fastest-Growing Data Platform
 URL: https://finance.yahoo.com/news/microsoft-msft-gets-650-price-114808155.html
 Time Published: 2025-08-06T11:48:08Z
