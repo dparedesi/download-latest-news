@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq slide as tariffs kick in, Trump signals chip carveout
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-tariffs-kick-in-trump-signals-chip-carveout-181033758.html
+Time Published: 2025-08-07T18:10:33Z
+Description: US stocks edged higher as President Trump hinted at chip tariff carveouts as sweeping duties took effect.
+--------------------------------------------------
+
 Title: Stock market today: Dow slides as tariffs kick in, Nasdaq rises as Trump signals chip carveout
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-as-tariffs-kick-in-nasdaq-rises-as-trump-signals-chip-carveout-162002840.html
 Time Published: 2025-08-07T16:20:02Z
