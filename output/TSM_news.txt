@@ -1,5 +1,17 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Trump hints at chip tariff carveout
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-trump-hints-at-chip-tariff-carveout-230246587.html
+Time Published: 2025-08-06T23:02:46Z
+Description: US stock futures wavered above the flatline with President Trump's trade deadline fast approaching.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Trump hints at chip tariff carveout
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-hints-at-chip-tariff-carveout-230246482.html
+Time Published: 2025-08-06T23:02:46Z
+Description: US stock futures wavered above the flatline with President Trump's trade deadline fast approaching.
+--------------------------------------------------
+
 Title: 3 fantastic ASX ETFs to buy and hold until 2035
 URL: https://www.fool.com.au/2025/08/06/3-fantastic-asx-etfs-to-buy-and-hold-until-2035/
 Time Published: 2025-08-06T07:06:25Z
@@ -30,10 +42,4 @@ URL: https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens
 Time Published: 2025-08-05T11:36:22Z
 Full Content:
 U.S. stock futures are pointing higher after indexes rebounded yesterday following last week's selloff; Palantir (PLTR) shares are surging in premarket trading after the firm raised its sales outlook amid strong demand for its AI platform; Advanced Micro Devices (AMD) reports second-quarter results after the closing bell today; Taiwan Semiconductor Manufacturing Co. (TSM) reportedly has fired some employees after discovering a leak of sensitive trade secrets; and Vertex Pharmaceuticals (VRTX) shares are plunging after it ended development of a pain treatment after test results did not meet its goals. Here's what investors need to know today. U.S. stock futures are pointing higher after indexes surged Monday to rebound from last week's selloff. Nasdaq futures are 0.4% higher after the tech-heavy index gained 2% in the prior session, while S&P 500 futures are up 0.3% after the benchmark index rose 1.5% yesterday. Dow Jones Industrial Average futures are little changed. Bitcoin (BTCUSD) is near flat at nearly $115,000. The yield on the 10-year Treasury note is higher. Oil and gold futures are both declining. Palantir (PLTR) shares are jumping by more than 6% in premarket trading after the tech firm posted better-than-expected second-quarter results and raised its outlook on strong demand for its Artificial Intelligence Platform. The AI software company reported adjusted earnings of 16 cents on revenue that jumped 48% year-over-year to a record $1 billion, above estimates compiled by Visible Alpha. Palantir's commercial business nearly doubled from a year ago, while its U.S. business grew 68%. Palantir sees third-quarter sales of $1.08 billion to $1.09 billion, and full-year revenue of $4.14 billion to $4.15 billion, both ranges above analysts' estimates. Advanced Micro Devices (AMD) is set to report second-quarter results after the closing bell today after a strong run for the chipmaker's stock amid hopes export curb headwinds could soon ease. Analysts surveyed by Visible Alpha expect AMD to report adjusted EPS of $0.48 on revenue that jumped 27% revenue to $7.43 billion on strong data center sales. AMD warned in May that it would likely take a hit from tighter restrictions on chip exports to China, though the company said last month that it plans to restart exports of its MI308 chips once it receives final approval from U.S. authorities. AMD shares are higher by nearly 2% in premarket trading. Taiwan Semiconductor Manufacturing Co. (TSM) has reportedly discovered a leak of trade secrets related to its advanced chipmaking process and has taken disciplinary actions against the employees involved. Multiple outlets reported that TSMC said its comprehensive monitoring process allowed it to discover the issue and carry out a swift internal investigation. Nikkei Asia reported that the company fired several employees for attempting to obtain proprietary information on 2-nanometer chip development. TSMC, the world's largest contract chipmaker, is a key supplier to Nvidia (NVDA) and Apple (AAPL). TSMC shares are edging higher in premarket trading. Vertex Pharmaceuticals (VRTX) shares are falling 14% in premarket trading after the drugmaker said it would end development of its VX-993 pain treatment after tests failed to meet goals. The news trumped better-than-expected second-quarter results, as Vertex's adjusted earnings per share of $4.52 and revenue that increased 12% to $2.96 billion topped Visible Alpha projections. Last quarter, Vertex said that research and development costs were weighing on results.
---------------------------------------------------
-
-Title: Goldman Sachs Hikes TSMC (TSM) Price Target on Strong AI Chip Demand
-URL: https://finance.yahoo.com/news/goldman-sachs-hikes-tsmc-tsm-114929839.html
-Time Published: 2025-08-02T11:49:29Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) ranks among the best stocks to buy for the next 6 months. On July 17, following the company’s...
 --------------------------------------------------
