@@ -1,13 +1,25 @@
 List of news related to Taiwan Semiconductor TSM:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Trump hints at chip tariff carveout
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-trump-hints-at-chip-tariff-carveout-230246587.html
-Time Published: 2025-08-06T23:02:46Z
-Description: US stock futures wavered above the flatline with President Trump's trade deadline fast approaching.
+Title: Stock market today: Dow slides as tariffs kick in, Nasdaq rises as Trump signals chip carveout
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-as-tariffs-kick-in-nasdaq-rises-as-trump-signals-chip-carveout-162002840.html
+Time Published: 2025-08-07T16:20:02Z
+Description: US stocks edged higher as President Trump hinted at chip tariff carveouts as sweeping duties took effect.
+--------------------------------------------------
+
+Title: TSMC Faces Internal Security Breach as AI Chip Tech Leaks Surface
+URL: https://finance.yahoo.com/news/tsmc-faces-internal-security-breach-065531582.html
+Time Published: 2025-08-07T06:55:31Z
+Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the AI Stocks Gaining Attention on Wall Street. On August 5, Reuters reported that...
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as Trump hints at chip tariff carveout
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-hints-at-chip-tariff-carveout-230246482.html
+Time Published: 2025-08-06T23:02:46Z
+Description: US stock futures wavered above the flatline with President Trump's trade deadline fast approaching.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Trump hints at chip tariff carveout
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-trump-hints-at-chip-tariff-carveout-230246587.html
 Time Published: 2025-08-06T23:02:46Z
 Description: US stock futures wavered above the flatline with President Trump's trade deadline fast approaching.
 --------------------------------------------------
