@@ -1,5 +1,17 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Are Intel Options Traders Expecting the Chip Stock to Collapse This August?
+URL: https://www.barchart.com/story/news/33998497/are-intel-options-traders-expecting-the-chip-stock-to-collapse-this-august
+Time Published: 2025-08-08T12:35:51Z
+Description: Out-of-the-money put options are popular on INTC stock as CEO controversy continues to swirl.
+--------------------------------------------------
+
+Title: S&P Futures Gain as Investors Weigh Trump’s Fed Governor Pick; Gold Futures Jump on Tariff Report
+URL: https://www.barchart.com/story/news/33993665/s-p-futures-gain-as-investors-weigh-trumps-fed-governor-pick-gold-futures-jump-on-tariff-report
+Time Published: 2025-08-08T10:06:59Z
+Description: September S&P 500 E-Mini futures (ESU25) are trending up +0.32% this morning, capping a week dominated by tariff and geopolitical developments, as well as a ...
+--------------------------------------------------
+
 Title: Stocks Turn Mixed After an Early Rally
 URL: https://www.barchart.com/story/news/33966426/stocks-turn-mixed-after-an-early-rally
 Time Published: 2025-08-07T15:30:21Z
