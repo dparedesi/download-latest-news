@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: CrowdStrike (CRWD) Launches AI Security Services to Protect and Power the Future of SOCs
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aaf31d71-53e1-4168-9f37-41642cf56d1b
+Time Published: 2025-08-08T17:31:21Z
+Description: None
+--------------------------------------------------
+
 Title: CrowdStrike (CRWD) Unveils AI Agent Monitoring via ChatGPT Enterprise API
 URL: https://finance.yahoo.com/news/crowdstrike-crwd-unveils-ai-agent-071113472.html
 Time Published: 2025-08-07T07:11:13Z

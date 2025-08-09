@@ -67,14 +67,14 @@ Time Published: 2025-08-06T18:04:29Z
 Description: Novo Nordisk CFO Karsten Munk Knudsen tells Yahoo Finance the company understands the pressure it is under to deliver better results.
 --------------------------------------------------
 
-Title: Earnings live: Disney beats, Uber stock rises, McDonald's sales rebound
-URL: https://finance.yahoo.com/news/live/earnings-live-disney-beats-uber-stock-rises-mcdonalds-sales-rebound-123011706.html
+Title: Earnings live: Snap stock plunges, Disney beats, Uber announces buybacks, McDonald's sales rebound
+URL: https://finance.yahoo.com/news/live/earnings-live-snap-stock-plunges-disney-beats-uber-announces-buybacks-mcdonalds-sales-rebound-123011020.html
 Time Published: 2025-08-06T12:30:11Z
 Description: Second quarter earnings season is in full swing, and the results have been largely positive so far, with more positive surprises than negative ones.
 --------------------------------------------------
 
-Title: Earnings live: Snap stock plunges, Disney beats, Uber announces buybacks, McDonald's sales rebound
-URL: https://finance.yahoo.com/news/live/earnings-live-snap-stock-plunges-disney-beats-uber-announces-buybacks-mcdonalds-sales-rebound-123011020.html
+Title: Earnings live: Disney beats, Uber stock rises, McDonald's sales rebound
+URL: https://finance.yahoo.com/news/live/earnings-live-disney-beats-uber-stock-rises-mcdonalds-sales-rebound-123011706.html
 Time Published: 2025-08-06T12:30:11Z
 Description: Second quarter earnings season is in full swing, and the results have been largely positive so far, with more positive surprises than negative ones.
 --------------------------------------------------
