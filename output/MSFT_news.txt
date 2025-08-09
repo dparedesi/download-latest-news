@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: The Dow is signaling something is amiss
+URL: https://www.thestreet.com/investing/the-dow-is-signaling-something-is-amiss
+Time Published: 2025-08-07T23:56:00Z
+Description: The index has been sliding in recent weeks. It would be a signal markets are headed lower.
+--------------------------------------------------
+
 Title: The Honest Company’s (NASDAQ:HNST) Q2 Sales Beat Estimates But Stock Drops
 URL: https://finance.yahoo.com/news/honest-company-nasdaq-hnst-q2-224110632.html
 Time Published: 2025-08-06T22:41:10Z

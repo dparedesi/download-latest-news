@@ -1,19 +1,25 @@
 List of news related to Caterpillar stock price CAT:
 
+Title: The Dow is signaling something is amiss
+URL: https://www.thestreet.com/investing/the-dow-is-signaling-something-is-amiss
+Time Published: 2025-08-07T23:56:00Z
+Description: The index has been sliding in recent weeks. It would be a signal markets are headed lower.
+--------------------------------------------------
+
 Title: Stocks Turn Mixed After an Early Rally
 URL: https://www.barchart.com/story/news/33966426/stocks-turn-mixed-after-an-early-rally
 Time Published: 2025-08-07T15:30:21Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.04%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.53%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
-Title: Commentary: Tariffs are denting profits, and maybe soon your portfolio
-URL: https://finance.yahoo.com/news/commentary-tariffs-are-denting-profits-and-maybe-soon-your-portfolio-193421241.html
+Title: Tariffs are denting profits, and maybe soon your portfolio
+URL: https://finance.yahoo.com/news/tariffs-are-denting-profits-and-maybe-soon-your-portfolio-193421778.html
 Time Published: 2025-08-05T19:34:21Z
 Description: Dozens of companies are reporting lower profits caused by Trump's tariffs. Stock values haven't adjusted — yet.
 --------------------------------------------------
 
-Title: Tariffs are denting profits, and maybe soon your portfolio
-URL: https://finance.yahoo.com/news/tariffs-are-denting-profits-and-maybe-soon-your-portfolio-193421778.html
+Title: Commentary: Tariffs are denting profits, and maybe soon your portfolio
+URL: https://finance.yahoo.com/news/commentary-tariffs-are-denting-profits-and-maybe-soon-your-portfolio-193421241.html
 Time Published: 2025-08-05T19:34:21Z
 Description: Dozens of companies are reporting lower profits caused by Trump's tariffs. Stock values haven't adjusted — yet.
 --------------------------------------------------
