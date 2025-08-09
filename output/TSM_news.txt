@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Intel CEO Dogged by Decades of China Chip Bets, Board Work
+URL: https://finance.yahoo.com/news/intel-ceo-dogged-decades-china-075112268.html
+Time Published: 2025-08-08T07:51:12Z
+Description: (Bloomberg) -- For more than three decades, Lip-Bu Tan invested in the Chinese economic boom, placing the kind of no-brainer bets that enriched venture...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq slide as tariffs kick in, Trump signals chip carveout
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-tariffs-kick-in-trump-signals-chip-carveout-181033758.html
 Time Published: 2025-08-07T18:10:33Z
@@ -24,14 +30,14 @@ Time Published: 2025-08-07T06:55:31Z
 Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the AI Stocks Gaining Attention on Wall Street. On August 5, Reuters reported that...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as Trump hints at chip tariff carveout
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-hints-at-chip-tariff-carveout-230246482.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Trump hints at chip tariff carveout
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-trump-hints-at-chip-tariff-carveout-230246587.html
 Time Published: 2025-08-06T23:02:46Z
 Description: US stock futures wavered above the flatline with President Trump's trade deadline fast approaching.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Trump hints at chip tariff carveout
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-trump-hints-at-chip-tariff-carveout-230246587.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Trump hints at chip tariff carveout
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-hints-at-chip-tariff-carveout-230246482.html
 Time Published: 2025-08-06T23:02:46Z
 Description: US stock futures wavered above the flatline with President Trump's trade deadline fast approaching.
 --------------------------------------------------
