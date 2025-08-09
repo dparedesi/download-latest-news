@@ -101,15 +101,3 @@ URL: https://finance.yahoo.com/news/sally-beauty-sbh-reports-earnings-091407769.
 Time Published: 2025-08-04T09:14:07Z
 Description: Beauty supply retailer Sally Beauty (NYSE:SBH) will be announcing earnings results tomorrow before market open. Here’s what investors should know.
 --------------------------------------------------
-
-Title: Veteran fund manager turns heads with new Meta Platforms stock price target
-URL: https://www.thestreet.com/investing/stocks/veteran-fund-manager-turns-heads-with-new-meta-platforms-stock-price-target
-Time Published: 2025-08-03T16:33:00Z
-Description: TheStreet Pro portfolio's lead manager reviews the Facebook parent company's latest earnings.
---------------------------------------------------
-
-Title: Warren Buffett's stock still struggling since May peak
-URL: https://www.thestreet.com/investing/stocks/warren-buffetts-stock-still-struggling-since-may-peak
-Time Published: 2025-08-03T03:06:24Z
-Description: Second-quarter results show Berkshire Hathaway saw soft second-quarter insurance profits but builds a huge cash horde.
---------------------------------------------------

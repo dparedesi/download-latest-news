@@ -6,6 +6,12 @@ Time Published: 2025-08-07T15:30:21Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.04%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.53%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
+Title: There are few assets hated like coal — why this dirty fuel may have a future
+URL: https://www.marketwatch.com/story/there-are-few-assets-hated-like-coal-why-this-dirty-fuel-may-have-a-future-451aa548
+Time Published: 2025-08-07T13:35:00Z
+Description: Is coal making a comeback? The stocks are cheap and demand demise predictions are coming down.
+--------------------------------------------------
+
 Title: Veteran trader has strong opinions on AMD earnings report after stock runup
 URL: https://www.thestreet.com/investing/stocks/veteran-trader-has-strong-opinions-on-amd-earnings-report-after-stock-runup
 Time Published: 2025-08-07T03:07:00Z
@@ -92,10 +98,4 @@ Title: Option Volatility And Earnings Report For Aug 4 - 8
 URL: https://www.barchart.com/story/news/33854346/option-volatility-and-earnings-report-for-aug-4-8
 Time Published: 2025-08-04T11:00:02Z
 Description: It’s another big week on the earnings front this week with some important companies set to report including Palantir, Advanced Micro Devices, Uber...
---------------------------------------------------
-
-Title: Stocks will try to recover their mojo this week
-URL: https://www.thestreet.com/investing/stocks/stocks-will-try-to-recover-their-mojo-this-week
-Time Published: 2025-08-03T13:32:10Z
-Description: A shockingly weak jobs report and more worries about tariffs and the economy has investors on edge.
 --------------------------------------------------

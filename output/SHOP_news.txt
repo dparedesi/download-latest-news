@@ -42,9 +42,3 @@ URL: https://www.barchart.com/story/news/33854346/option-volatility-and-earnings
 Time Published: 2025-08-04T11:00:02Z
 Description: It’s another big week on the earnings front this week with some important companies set to report including Palantir, Advanced Micro Devices, Uber...
 --------------------------------------------------
-
-Title: Stocks will try to recover their mojo this week
-URL: https://www.thestreet.com/investing/stocks/stocks-will-try-to-recover-their-mojo-this-week
-Time Published: 2025-08-03T13:32:10Z
-Description: A shockingly weak jobs report and more worries about tariffs and the economy has investors on edge.
---------------------------------------------------
