@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: AMD (AMD) Gains Steam in AI Compute—Analyst Hikes Target to $190
+URL: https://finance.yahoo.com/news/amd-amd-gains-steam-ai-200024026.html
+Time Published: 2025-08-08T20:00:24Z
+Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the High Flying AI Stocks This Week. On August 6, Stifel analyst Ruben Roy raised the price target on the...
+--------------------------------------------------
+
 Title: Are Intel Options Traders Expecting the Chip Stock to Collapse This August?
 URL: https://www.barchart.com/story/news/33998497/are-intel-options-traders-expecting-the-chip-stock-to-collapse-this-august
 Time Published: 2025-08-08T12:35:51Z
@@ -92,22 +98,4 @@ Title: These five unseen drivers could propel the bull market even higher, accor
 URL: https://www.marketwatch.com/story/these-five-unseen-drivers-could-propel-the-bull-market-even-higher-according-to-this-wall-street-veteran-e8570ca6
 Time Published: 2025-08-05T14:35:00Z
 Description: The stock market could soar even higher if these pillars of strength are unleashed, says Jim Paulsen of Paulsen Perspectives.
---------------------------------------------------
-
-Title: BofA Raises AMD Price Target, Keeps Buy Rating
-URL: https://finance.yahoo.com/news/bofa-raises-amd-price-target-143715127.html
-Time Published: 2025-08-04T14:37:15Z
-Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the 12 Best Performing AI Stocks So Far in 2025. On July 29, BofA Securities increased its price target...
---------------------------------------------------
-
-Title: Should You Buy AMD Stock Ahead of Q2 Earnings on August 5?
-URL: https://www.barchart.com/story/news/33856947/should-you-buy-amd-stock-ahead-of-q2-earnings-on-august-5
-Time Published: 2025-08-04T12:41:58Z
-Description: AMD stock has been on an impressive run ahead of its quarterly earnings. However, heading into Q2, there’s also an element of risk.
---------------------------------------------------
-
-Title: Option Volatility And Earnings Report For Aug 4 - 8
-URL: https://www.barchart.com/story/news/33854346/option-volatility-and-earnings-report-for-aug-4-8
-Time Published: 2025-08-04T11:00:02Z
-Description: It’s another big week on the earnings front this week with some important companies set to report including Palantir, Advanced Micro Devices, Uber...
 --------------------------------------------------

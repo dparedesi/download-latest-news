@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Should You Buy the 40% Post-Earnings Plunge in The Trade Desk Stock?
+URL: https://www.barchart.com/story/news/34009541/should-you-buy-the-40-post-earnings-plunge-in-the-trade-desk-stock
+Time Published: 2025-08-08T19:20:02Z
+Description: Trade Desk stock crashes on muted guidance and an unexpected CFO transition. Bank of America cautions against buying the post-earnings dip in TTD shares.
+--------------------------------------------------
+
 Title: Amazon Stock To $100?
 URL: https://www.forbes.com/sites/greatspeculations/2025/08/08/amazon-stock-to-100/
 Time Published: 2025-08-08T14:02:40Z
@@ -41,10 +47,4 @@ Title: These five unseen drivers could propel the bull market even higher, accor
 URL: https://www.marketwatch.com/story/these-five-unseen-drivers-could-propel-the-bull-market-even-higher-according-to-this-wall-street-veteran-e8570ca6
 Time Published: 2025-08-05T14:35:00Z
 Description: The stock market could soar even higher if these pillars of strength are unleashed, says Jim Paulsen of Paulsen Perspectives.
---------------------------------------------------
-
-Title: Amazon's slowing cloud growth could continue to drag on its stock
-URL: https://finance.yahoo.com/news/amazons-slowing-cloud-growth-could-continue-to-drag-on-its-stock-145741949.html
-Time Published: 2025-08-04T14:57:41Z
-Description: Analysts are raising concerns about Amazon's position against Microsoft and Google.
 --------------------------------------------------

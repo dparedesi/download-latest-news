@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Microsoft (MSFT) Gets $650 Target as OpenAI Ties Boost Azure’s AI Lead
+URL: https://finance.yahoo.com/news/microsoft-msft-gets-650-target-200552532.html
+Time Published: 2025-08-08T20:05:52Z
+Description: Microsoft Corporation (NASDAQ:MSFT) is one of the High Flying AI Stocks This Week. On August 6, DA Davidson analyst Gil Luria reiterated a Buy rating and...
+--------------------------------------------------
+
+Title: Deutsche Bank Reiterates Buy on Microsoft (MSFT)—AI Driving Double-Digit Efficiency Gains
+URL: https://finance.yahoo.com/news/deutsche-bank-reiterates-buy-microsoft-174951913.html
+Time Published: 2025-08-08T17:49:51Z
+Description: Microsoft Corporation (NASDAQ:MSFT) is one of the Top AI Stocks Taking Wall Street by Storm. One of the biggest analyst calls on Wednesday, August 6th, was...
+--------------------------------------------------
+
 Title: Microsoft Stock Heads for the Clouds After Q4 Earnings. Is It Too Late to Buy MSFT Here?
 URL: https://www.barchart.com/story/news/34002868/microsoft-stock-heads-for-the-clouds-after-q4-earnings-is-it-too-late-to-buy-msft-here
 Time Published: 2025-08-08T14:39:37Z
@@ -64,52 +76,4 @@ Title: Morgan Stanley Upholds Overweight for Microsoft (MSFT), Lifts PT to $582
 URL: https://finance.yahoo.com/news/morgan-stanley-upholds-overweight-microsoft-100358841.html
 Time Published: 2025-08-05T10:03:58Z
 Description: Microsoft Corporation (NASDAQ:MSFT) is one of the AI Stocks Making Waves on Wall Street. On July 31, Morgan Stanley analyst Keith Weiss raised the price...
---------------------------------------------------
-
-Title: Stock market today: Dow jumps 500 points, S&P5 500, Nasdaq have best day since May as Wall Street bounces back
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-580-points-sp-500-nasdaq-have-best-day-since-may-as-wall-street-bounces-back-200023079.html
-Time Published: 2025-08-04T20:00:23Z
-Description: US stock futures were little changed following a week of sharp declines.
---------------------------------------------------
-
-Title: Academy Sports (ASO) Stock Is Up, What You Need To Know
-URL: https://finance.yahoo.com/news/academy-sports-aso-stock-know-163603206.html
-Time Published: 2025-08-04T16:36:03Z
-Description: Shares of sporting goods retailer Academy Sports & Outdoor (NASDAQ:ASO) jumped 3.9% in the afternoon session after analyst firm Monness Crespi & Hardt...
---------------------------------------------------
-
-Title: Spotify Stock Bounces Back from Its Post-Earnings Plunge, But is SPOT Stock a Buy Right Now?
-URL: https://www.barchart.com/story/news/33859953/spotify-stock-bounces-back-from-its-post-earnings-plunge-but-is-spot-stock-a-buy-right-now
-Time Published: 2025-08-04T15:04:22Z
-Description: Spotify stock plunged after a disappointing earnings report and light forward guidance, raising questions about whether its explosive year-to-date rally...
---------------------------------------------------
-
-Title: Amazon's slowing cloud growth could continue to drag on its stock
-URL: https://finance.yahoo.com/news/amazons-slowing-cloud-growth-could-continue-to-drag-on-its-stock-145741949.html
-Time Published: 2025-08-04T14:57:41Z
-Description: Analysts are raising concerns about Amazon's position against Microsoft and Google.
---------------------------------------------------
-
-Title: There's Nothing Soft About Microsoft Stock
-URL: https://www.barchart.com/story/news/33859020/there-s-nothing-soft-about-microsoft-stock
-Time Published: 2025-08-04T14:05:03Z
-Description: Microsoft (MSFT) boasts dominant market share, strong cloud presence, and broad product offerings, supporting its $3.9 trillion valuation and continued...
---------------------------------------------------
-
-Title: What Are Wall Street Analysts' Target Price for Microsoft Stock?
-URL: https://www.barchart.com/story/news/33857896/what-are-wall-street-analysts-target-price-for-microsoft-stock
-Time Published: 2025-08-04T13:28:49Z
-Description: As Microsoft has outpaced the broader market over the past year, Wall Street analysts maintain a bullish outlook on the stock’s prospects.
---------------------------------------------------
-
-Title: Analysts Warn That CoreWeave Stock Is ‘High Risk,’ But They Still Want You to Buy CRWV Now
-URL: https://www.barchart.com/story/news/33856205/analysts-warn-that-coreweave-stock-is-high-risk-but-they-still-want-you-to-buy-crwv-now
-Time Published: 2025-08-04T12:15:01Z
-Description: CoreWeave stock has been on an absolute tear since its IPO in early 2025. Is CRWV stock still a good buy right now?
---------------------------------------------------
-
-Title: Sally Beauty (SBH) Reports Earnings Tomorrow: What To Expect
-URL: https://finance.yahoo.com/news/sally-beauty-sbh-reports-earnings-091407769.html
-Time Published: 2025-08-04T09:14:07Z
-Description: Beauty supply retailer Sally Beauty (NYSE:SBH) will be announcing earnings results tomorrow before market open. Here’s what investors should know.
 --------------------------------------------------
