@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Is Qualcomm the Best Semiconductor Stock to Buy Right Now?
+URL: https://www.barchart.com/story/news/34028802/is-qualcomm-the-best-semiconductor-stock-to-buy-right-now
+Time Published: 2025-08-09T16:00:02Z
+Description: With leadership in emerging technology markets such as AI, automotive, and IoT, QCOM is one of the best growth plays now.
+--------------------------------------------------
+
+Title: Stocks and Markets Podcast: Strategist gives tips on what to watch for in August
+URL: https://www.thestreet.com/investing/stocks/stocks-and-markets-podcast-strategist-gives-tips-on-what-to-watch-for-in-august
+Time Published: 2025-08-09T14:15:00Z
+Description: TheStreet Pro portfolio's lead manager sits down with Jay Woods, chief global strategist with Freedom Capital Markets.
+--------------------------------------------------
+
 Title: Microsoft (MSFT) Gets $650 Target as OpenAI Ties Boost Azure’s AI Lead
 URL: https://finance.yahoo.com/news/microsoft-msft-gets-650-target-200552532.html
 Time Published: 2025-08-08T20:05:52Z

@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stocks and Markets Podcast: Strategist gives tips on what to watch for in August
+URL: https://www.thestreet.com/investing/stocks/stocks-and-markets-podcast-strategist-gives-tips-on-what-to-watch-for-in-august
+Time Published: 2025-08-09T14:15:00Z
+Description: TheStreet Pro portfolio's lead manager sits down with Jay Woods, chief global strategist with Freedom Capital Markets.
+--------------------------------------------------
+
 Title: These three catalysts will help Bitcoin break $122K
 URL: https://cointelegraph.com/news/three-catalysts-that-will-help-bitcoin-break-122k-in
 Time Published: 2025-08-09T10:09:56Z
