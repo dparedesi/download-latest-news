@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: These three catalysts will help Bitcoin break $122K
+URL: https://cointelegraph.com/news/three-catalysts-that-will-help-bitcoin-break-122k-in
+Time Published: 2025-08-09T10:09:56Z
+Description: Bitcoin price could surge in 2025 driven by global money supply growth, ETF adoption, and retail inflows.
+--------------------------------------------------
+
 Title: Stock market today: Nasdaq hits fresh record, S&P 500, Dow rise as Wall Street closes winning week on high note
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-hits-fresh-record-sp-500-dow-rise-as-wall-street-closes-winning-week-on-high-note-200211215.html
 Time Published: 2025-08-08T20:02:11Z
