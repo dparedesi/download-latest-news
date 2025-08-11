@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: Mega-cap tech companies lead the markets higher
+URL: https://finance.yahoo.com/news/mega-cap-tech-companies-lead-the-markets-higher-155532476.html
+Time Published: 2025-08-10T15:55:32Z
+Description: It is nearly impossible to find a household or business that isn’t regularly using multiple goods or services offered by at least a few of the Mag 7
+--------------------------------------------------
+
+Title: Palantir’s 2,500% run has bulls scrambling to justify valuation
+URL: https://finance.yahoo.com/news/palantir-2-500-run-bulls-140000031.html
+Time Published: 2025-08-10T14:00:00Z
+Description: (Bloomberg) -- Palantir Technologies Inc.’s meteoric rise is pushing the company’s valuation further into record territory, forcing bullish investors to bank...
+--------------------------------------------------
+
+Title: Inflation in focus as Fed rate cut debate heats up: What to watch this week
+URL: https://finance.yahoo.com/news/inflation-in-focus-as-fed-rate-cut-debate-heats-up-what-to-watch-this-week-114004763.html
+Time Published: 2025-08-10T11:40:04Z
+Description: A fresh reading on inflation will greet investors as stocks have surged back to record highs despite fears of rising price increases and a slowing labor...
+--------------------------------------------------
+
 Title: Second Quarter Earnings Season: Waiting For NVIDIA
 URL: https://www.forbes.com/sites/bill_stone/2025/08/10/second-quarter-earnings-season-waiting-for-nvidia/
 Time Published: 2025-08-10T10:39:24Z
