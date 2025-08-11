@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Goldman Sachs Reiterates Buy on NVIDIA (NVDA) With $200 PT Ahead of Earnings
+URL: https://finance.yahoo.com/news/goldman-sachs-reiterates-buy-nvidia-210256580.html
+Time Published: 2025-08-09T21:02:56Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Hot AI Stocks on Wall Street’s Radar. On August 7, Goldman Sachs analyst James Schneider reiterated a Buy...
+--------------------------------------------------
+
 Title: Stocks and Markets Podcast: Strategist gives tips on what to watch for in August
 URL: https://www.thestreet.com/investing/stocks/stocks-and-markets-podcast-strategist-gives-tips-on-what-to-watch-for-in-august
 Time Published: 2025-08-09T14:15:00Z
@@ -157,103 +163,4 @@ Title: Veteran fund manager sends urgent 9-word message on stocks
 URL: https://www.thestreet.com/investing/stocks/veteran-fund-manager-sends-urgent-message-on-stocks
 Time Published: 2025-08-06T02:17:00Z
 Description: The longtime hedge fund manager has been navigating Wall Street for 50 years.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as earnings take center stage
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-earnings-take-center-stage-233644524.html
-Time Published: 2025-08-05T23:36:44Z
-Description: US stock futures wavered amid a tough batch of corporate earnings after the bell and persistent trade uncertainty.
---------------------------------------------------
-
-Title: Any of these 8 tech stocks could become a $5 trillion company before Nvidia does
-URL: https://www.marketwatch.com/story/any-of-these-8-tech-stocks-could-become-a-5-trillion-company-before-nvidia-does-1c3d00c3
-Time Published: 2025-08-05T23:08:00Z
-Description: There’s a good chance Nvidia won’t become the U.S. stock market’s first $5 trillion company.
---------------------------------------------------
-
-Title: Earnings live: AMD, Rivian, Lucid, Snap, and Super Micro Computer stocks fall after quarterly results
-URL: https://finance.yahoo.com/news/live/earnings-live-amd-rivian-lucid-snap-and-super-micro-computer-stocks-fall-after-quarterly-results-202947161.html
-Time Published: 2025-08-05T20:29:47Z
-Description: Second quarter earnings season is in full swing, and the results have been largely positive so far, with more positive surprises than negative ones.
---------------------------------------------------
-
-Title: AMD posts mixed Q2 results but offers better than expected Q3 outlook on AI sales
-URL: https://finance.yahoo.com/news/amd-posts-mixed-q2-results-but-offers-better-than-expected-q3-outlook-on-ai-sales-202215280.html
-Time Published: 2025-08-05T20:22:15Z
-Description: AMD reported its Q2 earnings after the bell on Tuesday.
---------------------------------------------------
-
-Title: AMD data center results disappoint, shares slump
-URL: https://finance.yahoo.com/news/chipmaker-amd-forecasts-third-quarter-202104473.html
-Time Published: 2025-08-05T20:21:04Z
-Description: (Reuters) -Advanced Micro Devices on Tuesday reported disappointing data center revenue, a segment which includes lucrative artificial intelligence chips...
---------------------------------------------------
-
-Title: Cathie Wood splurges $4.1 million on popular AI stock
-URL: https://www.thestreet.com/technology/cathie-wood-splurges-4-1-million-on-popular-ai-stock
-Time Published: 2025-08-05T19:13:00Z
-Description: Cathie Wood’s latest portfolio shakeup suggests she’s sharpening her focus on proven AI winners.
---------------------------------------------------
-
-Title: Don’t Panic on Nasdaq Dips: Leverage Seasonal Trends for Smarter Trades
-URL: https://www.barchart.com/story/news/33893340/dont-panic-on-nasdaq-dips-leverage-seasonal-trends-for-smarter-trades
-Time Published: 2025-08-05T16:25:02Z
-Description: Are you misreading the Nasdaq’s August dip? Seasonal data shows a consistent rally into mid-September, despite early weakness. Rethink your approach with...
---------------------------------------------------
-
-Title: How To Tap The AI Nuclear Bonanza For 10%+ Dividends
-URL: https://www.forbes.com/sites/michaelfoster/2025/08/05/how-to-tap-the-ai-nuclear-bonanza-for-10-dividends/
-Time Published: 2025-08-05T16:18:00Z
-Full Content:
-ByMichael Foster ByMichael Foster, Contributor. The AI boom still has plenty of room to run—but investing purely in AI stocks is not the best way to tap into it. NVIDIA (NVDA) and friends yield next to nothing! And these are crowded trades. Luckily for us, there’s another way to get in. Bargains are still available in the corner of the market we’ll get into below—as are 10%+ dividends. It’s all tied into AI’s voracious appetite for electricity. Yes, utilities are part of this play, but we want to go a little bit deeper and zero in on stocks specifically tied into nuclear power. We’re going to tap into those through high-yield closed-end funds (CEFs) that both trade at discounts and send huge payouts our way, too. Let me explain. It’s been about a month since the Wall Street Journal reported on President Trump’s plans to expand nuclear power in the US. The story went mostly unnoticed, but it’s an important one because it’s a multi-year plan that has bipartisan—and indeed non-political—support. For a couple of years now, tech companies have been pushing for more nuclear power. Alphabet (GOOGL) has been investing billions into nuclear-power companies such as Kairos Power and Elementl Power, while Amazon poured $500 million into X-Energy to build up nuclear capacity. AI, and its near-bottomless power demand, are behind these moves. And since AI is now transforming the American workplace and boosting productivity, the debate over whether this tech is a flash in the pan or here to stay is settled: It’s here to stay. Back in September 2020 (i.e., long before ChatGPT was released), I wrote in my CEF Insider advisory that one needs to invest widely to benefit from the technology, since it can produce efficiencies in circuitous ways: “Some companies, like insurance firms, will profit from artificial intelligence as this technology improves underwriting, lowers risk and improves health outcomes for patients.” The growing attention that nuclear power is getting is a prime example of this circuitous, second- and third-order benefit from AI playing out. Since AI is power-hungry, electricity and infrastructure suppliers serving the growing nuclear-power business will benefit. You might be thinking, “Okay, but how do I actually ride this wave?” Well, as I mentioned off the top, we need to look further afield than the NVIDIAs of the world to capture these higher-order effects of AI. That’s where utilities come in: Higher energy demand is a clear win for utilities, yet in the three years since ChatGPT and its range of copycats have been released, the utilities sector, shown in orange above by the performance of the benchmark Utilities Select Sector SPDR Fund (XLU), has returned just 25%, less than half the broader market. That tells us the sector as a whole is still undervalued. And it also means buying XLU is still on the table as a way to capture the growing power (and specifically nuclear-power) demand AI is creating. But XLU isn’t the only play, and it’s hardly the best. As an index fund, it gets us broad exposure to the utilities sector, but broad isn’t what we want with something like AI, which is being brought in unevenly throughout the country. We want something a bit more tactical to target where the demand is hottest. A more active approach, like that of a CEF called the Gabelli Utility Trust (GUT), fits the bill here. The fund holds firms like WEC Energy (WEC), which is looking at expanding nuclear power production in Wisconsin, and Constellation Energy (CEG), owner of the largest collection of nuclear plants in the US. Plus, with its 10.7% yield, GUT is a much better income provider than 2.8%-yielding XLU. Plus, over the long haul, GUT (in orange above) has closely tracked XLU’s total returns, so we’re not sacrificing performance for income here. However, there are two snags with this fund. First, if GUT is just tracking the index, it isn’t outperforming and thus we can’t expect it to be tactical enough to benefit from the AI boom more than an index fund would. Plus, the fund is far from a bargain. GUT currently trades at a 96.2% premium to NAV. That’s the second-highest premium in the CEF world, and it means investors are paying nearly $2 for every $1 of assets! And, as we saw last year, that premium can disappear fast, causing big losses in the short term, as well. So, while GUT has done a good job transforming utilities’ profits into income, its premium and its historical performance suggest it isn’t the way to go for us. So instead, let’s look at another CEF, the 10.1%-yielding Voya Infrastructure Industrials and Materials Fund (IDE), which trades at a 4% discount to NAV. As the name says, the fund holds key infrastructure suppliers like Siemens AG, Cisco Systems (CSCO) and Schneider Electric SE, all of which stand to gain from an AI-driven infrastructure buildout, including on the nuclear front. Not only is IDE a lot cheaper than GUT, it’s also outperformed it on a total-NAV-return basis (based on its underlying portfolio, not its sentiment-driven market price) over the last three years. With a slightly higher total NAV return, IDE’s management has proven they know where to put money to get returns, and the fund’s lower volatility is attractive, too. Without big swings in its asset value, like GUT saw in 2023, IDE hasn’t had to sell assets at a loss to maintain its payouts. Additionally, the fact that IDE has beaten GUT over the last three years on a total-NAV-return basis, suggests it is being more tactical and benefiting more from the AI boom. That makes it more than worth your attention as a place to invest as nuclear demand rises in the long term. Michael Foster is the Lead Research Analyst for Contrarian Outlook. For more great income ideas, click here for our latest report “Indestructible Income: 5 Bargain Funds with Steady 10% Dividends.” Disclosure: none
---------------------------------------------------
-
-Title: Top Stock Movers Now: Gartner, Axon Enterprise, Palantir, and More
-URL: https://www.investopedia.com/top-stock-movers-now-gartner-axon-enterprise-palantir-and-more-11785000
-Time Published: 2025-08-05T15:38:55Z
-Full Content:
-U.S. equities fell at midday following a weak report on the services industry and concerns about new tariffs. The S&P 500, and Nasdaq dropped about 0.5% and the Dow Jones Industrial Average slipped 0.3%. Gartner (IT) was the worst-performing stock in the S&P 500 when the research and advisory firm slashed its guidance on declining revenue at its largest research unit. Shares of Vertex Pharmaceuticals (VRTX) slumped after the drugmaker announced a Phase 2 trial of its experimental pain medicine missed a key goal, and that it would no longer continue its development. Shares of Nvidia (NVDA) and other chipmakers slid when President Donald Trump said in an interview he would be announcing new semiconductor tariffs soon. Axon Enterprise (AXON) shares took off when the Taser maker exceeded earnings and revenue estimates and boosted its outlook on strong demand for its security products. DuPont (DD) also raised its guidance as it lowered its estimate for how much tariffs would impact full-year earnings. In addition, the chemical and materials maker reported better-than-expected results, and shares gained. Software analytics firm Palantir Technologies (PLTR) beat profit and sales estimates and lifted its outlook as it benefited from artificial intelligence product demand and more government contracts. Oil futures slid. Gold prices rose. The yield on the 10-year Treasury note was little changed. The U.S. dollar was up on the yen, but lost ground to the euro and pound. Major cryptocurrencies traded down. TradingView
---------------------------------------------------
-
-Title: Bitcoin options point to growing caution: BTC price to $110K next?
-URL: https://cointelegraph.com/news/bitcoin-btc-options-point-to-growing-caution-110k-ahead
-Time Published: 2025-08-05T15:20:00Z
-Description: Increased demand for downside protection reflects macro risks, not an imminent Bitcoin price collapse, which could help BTC avoid a trip down to $110,000.
---------------------------------------------------
-
-Title: Cathie Wood dumps $1.3M in Robinhood to buy top AI stocks
-URL: https://www.thestreet.com/crypto/markets/cathie-wood-dumps-1-4m-in-robinhood-to-buy-top-ai-stock
-Time Published: 2025-08-05T15:18:18Z
-Description: Cathie Wood offloaded $1.3 million worth of Robinhood shares to stack Nvidia and AMD.
---------------------------------------------------
-
-Title: Stocks Pressured by Disappointing US Service Sector News
-URL: https://www.barchart.com/story/news/33891783/stocks-pressured-by-disappointing-us-service-sector-news
-Time Published: 2025-08-05T15:12:59Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.57%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.51%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: These five unseen drivers could propel the bull market even higher, according to this Wall Street veteran
-URL: https://www.marketwatch.com/story/these-five-unseen-drivers-could-propel-the-bull-market-even-higher-according-to-this-wall-street-veteran-e8570ca6
-Time Published: 2025-08-05T14:35:00Z
-Description: The stock market could soar even higher if these pillars of strength are unleashed, says Jim Paulsen of Paulsen Perspectives.
---------------------------------------------------
-
-Title: Here’s Why Baron Global Advantage Fund’s Has Strong Conviction in NVIDIA (NVDA)
-URL: https://finance.yahoo.com/news/why-baron-global-advantage-fund-131231283.html
-Time Published: 2025-08-05T13:12:31Z
-Description: Baron Funds, an investment management company, released its “Baron Global Advantage Fund” investor letter for the second quarter of 2025. A copy of the...
---------------------------------------------------
-
-Title: 5 Things to Know Before the Stock Market Opens
-URL: https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-august-05-2025-11784826
-Time Published: 2025-08-05T11:36:22Z
-Full Content:
-U.S. stock futures are pointing higher after indexes rebounded yesterday following last week's selloff; Palantir (PLTR) shares are surging in premarket trading after the firm raised its sales outlook amid strong demand for its AI platform; Advanced Micro Devices (AMD) reports second-quarter results after the closing bell today; Taiwan Semiconductor Manufacturing Co. (TSM) reportedly has fired some employees after discovering a leak of sensitive trade secrets; and Vertex Pharmaceuticals (VRTX) shares are plunging after it ended development of a pain treatment after test results did not meet its goals. Here's what investors need to know today. U.S. stock futures are pointing higher after indexes surged Monday to rebound from last week's selloff. Nasdaq futures are 0.4% higher after the tech-heavy index gained 2% in the prior session, while S&P 500 futures are up 0.3% after the benchmark index rose 1.5% yesterday. Dow Jones Industrial Average futures are little changed. Bitcoin (BTCUSD) is near flat at nearly $115,000. The yield on the 10-year Treasury note is higher. Oil and gold futures are both declining. Palantir (PLTR) shares are jumping by more than 6% in premarket trading after the tech firm posted better-than-expected second-quarter results and raised its outlook on strong demand for its Artificial Intelligence Platform. The AI software company reported adjusted earnings of 16 cents on revenue that jumped 48% year-over-year to a record $1 billion, above estimates compiled by Visible Alpha. Palantir's commercial business nearly doubled from a year ago, while its U.S. business grew 68%. Palantir sees third-quarter sales of $1.08 billion to $1.09 billion, and full-year revenue of $4.14 billion to $4.15 billion, both ranges above analysts' estimates. Advanced Micro Devices (AMD) is set to report second-quarter results after the closing bell today after a strong run for the chipmaker's stock amid hopes export curb headwinds could soon ease. Analysts surveyed by Visible Alpha expect AMD to report adjusted EPS of $0.48 on revenue that jumped 27% revenue to $7.43 billion on strong data center sales. AMD warned in May that it would likely take a hit from tighter restrictions on chip exports to China, though the company said last month that it plans to restart exports of its MI308 chips once it receives final approval from U.S. authorities. AMD shares are higher by nearly 2% in premarket trading. Taiwan Semiconductor Manufacturing Co. (TSM) has reportedly discovered a leak of trade secrets related to its advanced chipmaking process and has taken disciplinary actions against the employees involved. Multiple outlets reported that TSMC said its comprehensive monitoring process allowed it to discover the issue and carry out a swift internal investigation. Nikkei Asia reported that the company fired several employees for attempting to obtain proprietary information on 2-nanometer chip development. TSMC, the world's largest contract chipmaker, is a key supplier to Nvidia (NVDA) and Apple (AAPL). TSMC shares are edging higher in premarket trading. Vertex Pharmaceuticals (VRTX) shares are falling 14% in premarket trading after the drugmaker said it would end development of its VX-993 pain treatment after tests failed to meet goals. The news trumped better-than-expected second-quarter results, as Vertex's adjusted earnings per share of $4.52 and revenue that increased 12% to $2.96 billion topped Visible Alpha projections. Last quarter, Vertex said that research and development costs were weighing on results.
---------------------------------------------------
-
-Title: Nvidia (NVDA) Gets Vote of Confidence From Citi as AI Capex Set to Soar
-URL: https://finance.yahoo.com/news/nvidia-nvda-gets-vote-confidence-095817365.html
-Time Published: 2025-08-05T09:58:17Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Making Waves on Wall Street. On July 31, Citi reiterated Nvidia and Broadcom as Buy and Advanced...
 --------------------------------------------------

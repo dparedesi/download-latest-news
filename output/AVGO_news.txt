@@ -29,21 +29,3 @@ URL: https://finance.yahoo.com/news/combination-factors-lifted-broadcom-avgo-112
 Time Published: 2025-08-06T11:27:38Z
 Description: Impax Asset Management, an investment management company, released its “Impax US Sustainable Economy Fund” second quarter 2025 investor letter. A copy of the...
 --------------------------------------------------
-
-Title: Stocks Settle Lower as US Service Sector Activity Weakens
-URL: https://www.barchart.com/story/news/33900461/stocks-settle-lower-as-us-service-sector-activity-weakens
-Time Published: 2025-08-05T20:35:03Z
-Description: The S&P 500 Index ($SPX ) (SPY ) Tuesday closed down -0.49%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.14%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Stocks Pressured by Disappointing US Service Sector News
-URL: https://www.barchart.com/story/news/33891783/stocks-pressured-by-disappointing-us-service-sector-news
-Time Published: 2025-08-05T15:12:59Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.57%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.51%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Nvidia (NVDA) Gets Vote of Confidence From Citi as AI Capex Set to Soar
-URL: https://finance.yahoo.com/news/nvidia-nvda-gets-vote-confidence-095817365.html
-Time Published: 2025-08-05T09:58:17Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Making Waves on Wall Street. On July 31, Citi reiterated Nvidia and Broadcom as Buy and Advanced...
---------------------------------------------------

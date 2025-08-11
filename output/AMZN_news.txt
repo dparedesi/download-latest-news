@@ -36,15 +36,3 @@ URL: https://finance.yahoo.com/news/snap-stock-plummets-as-ad-platform-glitch-we
 Time Published: 2025-08-06T15:28:25Z
 Description: Snap stock plummeted Wednesday after its Q2 earnings and revenue missed Wall Street's estimates the previous day.
 --------------------------------------------------
-
-Title: Don’t Panic on Nasdaq Dips: Leverage Seasonal Trends for Smarter Trades
-URL: https://www.barchart.com/story/news/33893340/dont-panic-on-nasdaq-dips-leverage-seasonal-trends-for-smarter-trades
-Time Published: 2025-08-05T16:25:02Z
-Description: Are you misreading the Nasdaq’s August dip? Seasonal data shows a consistent rally into mid-September, despite early weakness. Rethink your approach with...
---------------------------------------------------
-
-Title: These five unseen drivers could propel the bull market even higher, according to this Wall Street veteran
-URL: https://www.marketwatch.com/story/these-five-unseen-drivers-could-propel-the-bull-market-even-higher-according-to-this-wall-street-veteran-e8570ca6
-Time Published: 2025-08-05T14:35:00Z
-Description: The stock market could soar even higher if these pillars of strength are unleashed, says Jim Paulsen of Paulsen Perspectives.
---------------------------------------------------

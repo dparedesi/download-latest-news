@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Aris Water (ARIS) Q2 Earnings Report Preview: What To Look For
+URL: https://finance.yahoo.com/news/aris-water-aris-q2-earnings-030458972.html
+Time Published: 2025-08-10T03:04:58Z
+Description: Water handling and recycling company Aris Water (NYSE:ARIS) will be announcing earnings results this Monday after market hours. Here’s what to expect.
+--------------------------------------------------
+
+Title: What To Expect From Quest Resource’s (QRHC) Q2 Earnings
+URL: https://finance.yahoo.com/news/expect-quest-qrhc-q2-earnings-030414709.html
+Time Published: 2025-08-10T03:04:14Z
+Description: Waste and recycling services provider Quest Resource (NASDAQ:QRHC) will be reporting earnings this Monday after the bell. Here’s what to look for.
+--------------------------------------------------
+
 Title: Is Qualcomm the Best Semiconductor Stock to Buy Right Now?
 URL: https://www.barchart.com/story/news/34028802/is-qualcomm-the-best-semiconductor-stock-to-buy-right-now
 Time Published: 2025-08-09T16:00:02Z
@@ -64,28 +76,4 @@ Title: Earnings To Watch: Nova (NVMI) Reports Q2 Results Tomorrow
 URL: https://finance.yahoo.com/news/earnings-watch-nova-nvmi-reports-032326137.html
 Time Published: 2025-08-06T03:23:26Z
 Description: Semiconductor quality control company Nova (NASDAQ:NVMI) will be reporting earnings this Thursday before the bell. Here’s what to look for.
---------------------------------------------------
-
-Title: Latham (NASDAQ:SWIM) Misses Q2 Sales Targets
-URL: https://finance.yahoo.com/news/latham-nasdaq-swim-misses-q2-220518632.html
-Time Published: 2025-08-05T22:05:18Z
-Description: Residential swimming pool manufacturer Latham (NASDAQ:SWIM) fell short of the market’s revenue expectations in Q2 CY2025, but sales rose 7.8% year on year to...
---------------------------------------------------
-
-Title: Don’t Panic on Nasdaq Dips: Leverage Seasonal Trends for Smarter Trades
-URL: https://www.barchart.com/story/news/33893340/dont-panic-on-nasdaq-dips-leverage-seasonal-trends-for-smarter-trades
-Time Published: 2025-08-05T16:25:02Z
-Description: Are you misreading the Nasdaq’s August dip? Seasonal data shows a consistent rally into mid-September, despite early weakness. Rethink your approach with...
---------------------------------------------------
-
-Title: These five unseen drivers could propel the bull market even higher, according to this Wall Street veteran
-URL: https://www.marketwatch.com/story/these-five-unseen-drivers-could-propel-the-bull-market-even-higher-according-to-this-wall-street-veteran-e8570ca6
-Time Published: 2025-08-05T14:35:00Z
-Description: The stock market could soar even higher if these pillars of strength are unleashed, says Jim Paulsen of Paulsen Perspectives.
---------------------------------------------------
-
-Title: Morgan Stanley Upholds Overweight for Microsoft (MSFT), Lifts PT to $582
-URL: https://finance.yahoo.com/news/morgan-stanley-upholds-overweight-microsoft-100358841.html
-Time Published: 2025-08-05T10:03:58Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the AI Stocks Making Waves on Wall Street. On July 31, Morgan Stanley analyst Keith Weiss raised the price...
 --------------------------------------------------
