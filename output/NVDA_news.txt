@@ -1,5 +1,12 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock Market Capitalization ex-Magnificent 7
+URL: https://econbrowser.com/archives/2025/08/stock-market-capitalization-ex-magnificent-7
+Time Published: 2025-08-10T23:39:44Z
+Full Content:
+Courtesy of Ed Yardeni: Source: Yardeni as edited by Chinn. In terms of assessing how the general economy is responding to tariff and other uncertainty shocks, one might want to look at the SP500 excluding the Magnificent 7. As of August 8, SP500 market cap was $54.2 trillion; ex-Magnificent 7 was $36.7 trillion. Hence, the stock market is looking quite good partly because of the performance of Apple (AAPL), Amazon (AMZN), Alphabet (GOOGL), Meta Platforms (META), Microsoft (MSFT), Nvidia (NVDA), and Tesla (TSLA) stocks. The question is whether this outperformance is durable. One might say that the cyclically adjusted Price-Earnings (CAPE) ratio is not quite up to 2021M11 levels, so not to worry. I’ll just note that inflation expectations adjusted 10 year rates are now much higher: 2.1% in May vs. -1.0%. Figure 1: Cyclically adjusted price-earning (CAPE) ratio (black, left scale), and ten year ex ante real rate, % (light blue +, right scale). Real rate calculated by subtracting 10 year median SPF expected inflation rate from 10 yr Treasury yield. August CAPE observation based on data through 8/8. NBER defined peak-to-trough recession dates shaded gray. Source: Shiller, Treasury via FRED, Philadelphia Fed, NBER and author’s calculations. Cape is as high in general to 2021. So yeah, its a problem. Margin debt is even higher. This seems concerning: “SCOOP: Trump’s team is considering longtime Bureau of Labor Statistics critic E.J. Antoni to run agency just after president fired Erika McEntarfer” https://x.com/schwartzbWSJ/status/1954660412407922766 And, he’s announced Antoni’s nomination. https://www.cnbc.com/2025/08/11/trump-antoni-bls-statistics.html I don’t think their relative market cap is the biggest issue. More salient is how concentrated earnings have become. In the aggregate the S&P 500 set another all time earnings record in Q2: https://advantage.factset.com/hubfs/Website/Resources%20Section/Research%20Desk/Earnings%20Insight/EarningsInsight_080825.pdf But a month ago.Earnings Insight forecast that “ In aggregate, the “Magnificent 7” companies are expected to report year-over-year earnings growth of 14.1% for the second quarter. Excluding these seven companies, the blended (combines actual and estimated results) earnings growth rate for the remaining 493 companies in the S&P 500 would be 3.4% for Q2 2025”: https://insight.factset.com/are-magnificent-7-companies-still-top-contributors-to-earnings-growth-for-the-sp-500-for-q2 CNBC says today that the magnificent 7 stocks profits grew 26% in Q2: https://www.cnbc.com/2025/08/04/sp-500-earnings-growth-would-be-dull-without-26percent-increase-from-mag-7.html One of the important things I look at is the advance-decline line, I.e., how many of the companies’ stocks are participating in the rally? Here they are: https://www.marketinout.com/chart/market.php?breadth=advance-decline-line Every market segment is currently showing no net advances in the past month, and a few of them are showing significant declines. In other words, the vast majority of companies have shown pedestrian earnings growth, and have had pedestrian stock price advances, if at all. I don’t think the advance-decline is a big problem yet. If memory serves, the A/D line had about a 50% decline from peak before the tech bubble popped in 2000. Very nice. A question: Having never given A/D analysis much thought until now, I’m curious whether a 50% decline ahead of one of the worst stock market declines in U.S. history amounts to a special case. Did it take an investing public too engaged in speculative buying to notice anything but their object of speculative buying to create that situation? Might we look for either a smaller decline in the A/D line to lead to a decline in overall equity market value in more common cases? While we’re at it, bullishness, as measured by a good many conventional bull/bear indicators, is high. Here’s the CNNMoney indicator, with components: https://edition.cnn.com/markets/fear-and-greed To NDd’s point about market breadth, the McClellan Volume Summation Index (a component of the CNN indicato), which is one method for comparing the number of gainers to losers, is neutral. I understand that portfolio cash levels are relatively low, despite a fairly good return to cash. Another contrarian indicator; not much fuel for additional gains. Your email address will not be published. Required fields are marked * Comment * Name Email
+--------------------------------------------------
+
 Title: Mega-cap tech companies lead the markets higher
 URL: https://finance.yahoo.com/news/mega-cap-tech-companies-lead-the-markets-higher-155532476.html
 Time Published: 2025-08-10T15:55:32Z
@@ -49,14 +56,14 @@ Time Published: 2025-08-08T20:02:11Z
 Description: US stocks rose as Wall Street assessed President Trump's nomination of Stephen Miran to the Federal Reserve Board of Governors and the close of the first day...
 --------------------------------------------------
 
-Title: Intel's new CEO had 3 major problems to tackle. This week he got a new one.
-URL: https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-he-got-a-new-one-191813899.html
+Title: Intel's new CEO had 3 major problems to tackle. This week Trump added a new one.
+URL: https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-trump-added-a-new-one-191813935.html
 Time Published: 2025-08-08T19:18:13Z
 Description: Intel CEO Lip-Bu Tan was in the process of trying to turn around the troubled chipmaker when President Trump attacked him on social media.
 --------------------------------------------------
 
-Title: Intel's new CEO had 3 major problems to tackle. This week Trump added a new one.
-URL: https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-trump-added-a-new-one-191813935.html
+Title: Intel's new CEO had 3 major problems to tackle. This week he got a new one.
+URL: https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-he-got-a-new-one-191813899.html
 Time Published: 2025-08-08T19:18:13Z
 Description: Intel CEO Lip-Bu Tan was in the process of trying to turn around the troubled chipmaker when President Trump attacked him on social media.
 --------------------------------------------------
@@ -138,54 +145,4 @@ Title: NVIDIA Corporation (NVDA): Do Not Doubt Its CEO, Says Jim Cramer
 URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-not-doubt-014408357.html
 Time Published: 2025-08-07T01:44:08Z
 Description: We recently published 10 Stocks Jim Cramer Talked About As He Warned About “Have-Not” Stocks. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim...
---------------------------------------------------
-
-Title: NVIDIA CEO Jensen Huang Meets President Trump Amidst Talks Of ‘Kill Switches’ For China AI GPUs
-URL: https://wccftech.com/nvidia-ceo-jensen-huang-meets-president-trump-amidst-talks-of-kill-switches-for-china-ai-gpus/
-Time Published: 2025-08-06T19:51:54Z
-Full Content:
-This is not investment advice. The author has no position in any of the stocks mentioned. Wccftech.com has a disclosure and ethics policy. NVIDIA CEO Jensen Huang met with President Donald Trump earlier today, reports CNBC's Kristina Partsinevelos, after the firm hit back against kill switches in its GPUs in an earlier blog post. NVIDIA, the most valuable company in the world, is at the center of the global technology industry's attention due to its AI GPUs and their sales restrictions. Its recent blog post came after an earlier announcement shared that the firm expected the Trump administration to grant China AI GPU export licenses, and while the content of Huang's meeting with Trump is unclear, it could revolve around the license approvals and kill switches inside the GPUs. While the Trump administration has decided to process China AI GPU licenses, it is unclear while NVIDIA has started to receive them. The firm's smaller rival, AMD, has yet to receive licenses for the chips that were restricted for sale to China earlier this year; a fact that its CEO, Lisa Su, confirmed in an interview earlier today. As a result, NVIDIA could be waiting for the license approval, with a key bargaining point being backdoors, as it tries to secure approval for the Chinese products. Huang's visit to the White House comes as Apple CEO Tim Cook is also expected to be present there to announce a $600 billion investment package in the US. The package is expected to add $100 billion to Apple's earlier investment, with the firm's shares rising by 6% today on the news. Apple has run into trouble with the Trump administration as its efforts to shift production to India from China have come right when the US government is increasing the pressure on the country to stop buying Russian oil. As a result, the shares gained today as investors expected a thaw in its relations with the government. Since CNBC spotted Huang at the White House with a camera placed to note Cook's arrival, it's unclear why the CEO is meeting with the president. However, given the current environment surrounding its China GPUs, potential backdoors and license approvals, it's likely that these could be the talking points on the agenda. NVIDIA has already announced a $500 billion AI data center infrastructure investment in the US, which makes it unlikely that the firm could announce more investments later during the afternoon. #Breaking. Spotted at the White House today:Citigroup CEO Jane Fraser and Bank of America’s Brian Moynihan.I can confirm NVIDIA CEO Jensen Huang met with President Trump earlier. $NVDAApple CEO Tim Cook is expected to speak from the White House around 4:30pm ET. Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com © 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
---------------------------------------------------
-
-Title: Analysts Love This Hidden-Gem Generative AI Stock
-URL: https://www.barchart.com/story/news/33933731/analysts-love-this-hidden-gem-generative-ai-stock
-Time Published: 2025-08-06T19:37:21Z
-Description: Analysts see MongoDB as an AI sleeper, with vector search tech and strong cash fueling growth.
---------------------------------------------------
-
-Title: Dear Tesla Stock Fans, the Next Big TSLA Catalyst Could Be Coming in September
-URL: https://www.barchart.com/story/news/33933499/dear-tesla-stock-fans-the-next-big-tsla-catalyst-could-be-coming-in-september
-Time Published: 2025-08-06T19:21:14Z
-Description: Tesla stock extends gains after billionaire Elon Musk said the automaker is training a new Full Self-Driving model. Jim Cramer reiterates positive view on...
---------------------------------------------------
-
-Title: Supermicro’s Earnings Selloff Explained: Should You Buy SMCI Stock Now?
-URL: https://www.barchart.com/story/news/33925674/supermicros-earnings-selloff-explained-should-you-buy-smci-stock-now
-Time Published: 2025-08-06T14:03:13Z
-Description: While Supermicro’s revenue growth is expected to accelerate, SMCI’s valuation has become a point of concern.
---------------------------------------------------
-
-Title: Wealth created inside Nvidia reach stunning levels - nearly 80% of employees are millionaires
-URL: https://economictimes.indiatimes.com/news/international/us/nvidia-employees-net-worth-wealth-created-inside-nvidia-reach-stunning-levels-nearly-80-of-employees-are-millionaires/articleshow/123143042.cms
-Time Published: 2025-08-06T13:17:12Z
-Full Content:
-Nvidia employees became millionaires: Nvidia's dominance in the AI market has created unprecedented wealth for its employees. Approximately 80% of Nvidia's workforce are now millionaires, with about half exceeding $25 million in net worth. This financial success is attributed to the company's employee stock purchase program and Nvidia's explosive growth in the AI sector. Productivity Tool Zero to Hero in Microsoft Excel: Complete Excel guide By Metla Sudha Sekhar Finance Introduction to Technical Analysis & Candlestick Theory By Dinesh Nagpal Finance Financial Literacy i e Lets Crack the Billionaire Code By CA Rahul Gupta Digital Marketing Digital Marketing Masterclass by Neil Patel By Neil Patel Finance Technical Analysis Demystified- A Complete Guide to Trading By Kunal Patel Productivity Tool Excel Essentials to Expert: Your Complete Guide By Study at home Artificial Intelligence AI For Business Professionals Batch 2 By Ansh Mehra This is incredible:Roughly 50% of Nvidia, $NVDA, employees are now worth over $25 million.Roughly 80% of Nvidia employees are now millionaires.The AI revolution is producing unprecedented wealth. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Trump ordered Ghislaine Maxwell’s prison transfer? PM Modi inaugurates Kartavya Bhavan in Delhi Ceasefire drama along LoC? Army clarifies Christian Michel points finger at Italy in AgustaWestland Scam Priyanka Gandhi’s sharp attack on centre over Bihar SIR Senator Adam Schiff under federal probe ‘mRNA is too risky’: RFK Jr. axes $500M vaccine projects Cloudburst carnage in Uttarakhand: 4 dead, 11 soldiers missing RBI sees FY26 inflation at 3.1%, maintains 6.5% GDP growth RBI MPC : Malhotra & Co keeps policy rates unchanged at 5.5% Trump ordered Ghislaine Maxwell’s prison transfer? PM Modi inaugurates Kartavya Bhavan in Delhi Ceasefire drama along LoC? Army clarifies Christian Michel points finger at Italy in AgustaWestland Scam Priyanka Gandhi’s sharp attack on centre over Bihar SIR Senator Adam Schiff under federal probe ‘mRNA is too risky’: RFK Jr. axes $500M vaccine projects Cloudburst carnage in Uttarakhand: 4 dead, 11 soldiers missing RBI sees FY26 inflation at 3.1%, maintains 6.5% GDP growth RBI MPC : Malhotra & Co keeps policy rates unchanged at 5.5% Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Commodities Top Slideshow Private Companies Top Prime Articles Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Nvidia (NVDA) Hit an All Time High in Q2
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2f473fa0-f2b0-4bcd-a411-f7eb03517753
-Time Published: 2025-08-06T11:48:57Z
-Description: None
---------------------------------------------------
-
-Title: Why a Company You’ve Never Heard of Is One of the Best Nasdaq-100 Stocks of the Year
-URL: https://www.barchart.com/story/news/33918220/why-a-company-youve-never-heard-of-is-one-of-the-best-nasdaq-100-stocks-of-the-year
-Time Published: 2025-08-06T11:30:02Z
-Description: Going under the radar, shares of this vet tech company have been winners this year.
---------------------------------------------------
-
-Title: Veteran fund manager sends urgent 9-word message on stocks
-URL: https://www.thestreet.com/investing/stocks/veteran-fund-manager-sends-urgent-message-on-stocks
-Time Published: 2025-08-06T02:17:00Z
-Description: The longtime hedge fund manager has been navigating Wall Street for 50 years.
 --------------------------------------------------

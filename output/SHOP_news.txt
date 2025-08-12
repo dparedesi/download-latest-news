@@ -18,27 +18,3 @@ URL: https://www.thestreet.com/retail/forget-amazon-this-online-retailer-is-grow
 Time Published: 2025-08-07T00:33:35Z
 Description: The e-commerce platform has carved out an important retail niche.
 --------------------------------------------------
-
-Title: Shopify Stock Is Soaring on Earnings. Should You Buy the SHOP Rally, or Is It Too Late?
-URL: https://www.barchart.com/story/news/33937832/shopify-stock-is-soaring-on-earnings-should-you-buy-the-shop-rally-or-is-it-too-late
-Time Published: 2025-08-06T20:54:50Z
-Description: Shopify stock soars on a strong Q2 release and upbeat future guidance. But valuation concerns demand caution in buying SHOP shares this week.
---------------------------------------------------
-
-Title: Stocks Rally on Positive Corporate News and Fed Rate Cut Hopes
-URL: https://www.barchart.com/story/news/33937246/stocks-rally-on-positive-corporate-news-and-fed-rate-cut-hopes
-Time Published: 2025-08-06T20:42:41Z
-Description: The S&P 500 Index ($SPX ) (SPY ) Wednesday closed up +0.73%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.18%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Stocks Trade Higher on Solid Earnings and Fed Rate Cut Speculation
-URL: https://www.barchart.com/story/news/33928081/stocks-trade-higher-on-solid-earnings-and-fed-rate-cut-speculation
-Time Published: 2025-08-06T15:22:41Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.44%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.26%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stocks See Support from Earnings Reports
-URL: https://www.barchart.com/story/news/33925848/stocks-see-support-from-earnings-reports
-Time Published: 2025-08-06T14:08:31Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.15%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.03%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------

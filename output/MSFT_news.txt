@@ -1,5 +1,12 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stock Market Capitalization ex-Magnificent 7
+URL: https://econbrowser.com/archives/2025/08/stock-market-capitalization-ex-magnificent-7
+Time Published: 2025-08-10T23:39:44Z
+Full Content:
+Courtesy of Ed Yardeni: Source: Yardeni as edited by Chinn. In terms of assessing how the general economy is responding to tariff and other uncertainty shocks, one might want to look at the SP500 excluding the Magnificent 7. As of August 8, SP500 market cap was $54.2 trillion; ex-Magnificent 7 was $36.7 trillion. Hence, the stock market is looking quite good partly because of the performance of Apple (AAPL), Amazon (AMZN), Alphabet (GOOGL), Meta Platforms (META), Microsoft (MSFT), Nvidia (NVDA), and Tesla (TSLA) stocks. The question is whether this outperformance is durable. One might say that the cyclically adjusted Price-Earnings (CAPE) ratio is not quite up to 2021M11 levels, so not to worry. I’ll just note that inflation expectations adjusted 10 year rates are now much higher: 2.1% in May vs. -1.0%. Figure 1: Cyclically adjusted price-earning (CAPE) ratio (black, left scale), and ten year ex ante real rate, % (light blue +, right scale). Real rate calculated by subtracting 10 year median SPF expected inflation rate from 10 yr Treasury yield. August CAPE observation based on data through 8/8. NBER defined peak-to-trough recession dates shaded gray. Source: Shiller, Treasury via FRED, Philadelphia Fed, NBER and author’s calculations. Cape is as high in general to 2021. So yeah, its a problem. Margin debt is even higher. This seems concerning: “SCOOP: Trump’s team is considering longtime Bureau of Labor Statistics critic E.J. Antoni to run agency just after president fired Erika McEntarfer” https://x.com/schwartzbWSJ/status/1954660412407922766 And, he’s announced Antoni’s nomination. https://www.cnbc.com/2025/08/11/trump-antoni-bls-statistics.html I don’t think their relative market cap is the biggest issue. More salient is how concentrated earnings have become. In the aggregate the S&P 500 set another all time earnings record in Q2: https://advantage.factset.com/hubfs/Website/Resources%20Section/Research%20Desk/Earnings%20Insight/EarningsInsight_080825.pdf But a month ago.Earnings Insight forecast that “ In aggregate, the “Magnificent 7” companies are expected to report year-over-year earnings growth of 14.1% for the second quarter. Excluding these seven companies, the blended (combines actual and estimated results) earnings growth rate for the remaining 493 companies in the S&P 500 would be 3.4% for Q2 2025”: https://insight.factset.com/are-magnificent-7-companies-still-top-contributors-to-earnings-growth-for-the-sp-500-for-q2 CNBC says today that the magnificent 7 stocks profits grew 26% in Q2: https://www.cnbc.com/2025/08/04/sp-500-earnings-growth-would-be-dull-without-26percent-increase-from-mag-7.html One of the important things I look at is the advance-decline line, I.e., how many of the companies’ stocks are participating in the rally? Here they are: https://www.marketinout.com/chart/market.php?breadth=advance-decline-line Every market segment is currently showing no net advances in the past month, and a few of them are showing significant declines. In other words, the vast majority of companies have shown pedestrian earnings growth, and have had pedestrian stock price advances, if at all. I don’t think the advance-decline is a big problem yet. If memory serves, the A/D line had about a 50% decline from peak before the tech bubble popped in 2000. Very nice. A question: Having never given A/D analysis much thought until now, I’m curious whether a 50% decline ahead of one of the worst stock market declines in U.S. history amounts to a special case. Did it take an investing public too engaged in speculative buying to notice anything but their object of speculative buying to create that situation? Might we look for either a smaller decline in the A/D line to lead to a decline in overall equity market value in more common cases? While we’re at it, bullishness, as measured by a good many conventional bull/bear indicators, is high. Here’s the CNNMoney indicator, with components: https://edition.cnn.com/markets/fear-and-greed To NDd’s point about market breadth, the McClellan Volume Summation Index (a component of the CNN indicato), which is one method for comparing the number of gainers to losers, is neutral. I understand that portfolio cash levels are relatively low, despite a fairly good return to cash. Another contrarian indicator; not much fuel for additional gains. Your email address will not be published. Required fields are marked * Comment * Name Email
+--------------------------------------------------
+
 Title: Mega-cap tech companies lead the markets higher
 URL: https://finance.yahoo.com/news/mega-cap-tech-companies-lead-the-markets-higher-155532476.html
 Time Published: 2025-08-10T15:55:32Z
@@ -70,34 +77,4 @@ Title: The Dow is signaling something is amiss
 URL: https://www.thestreet.com/investing/the-dow-is-signaling-something-is-amiss
 Time Published: 2025-08-07T23:56:00Z
 Description: The index has been sliding in recent weeks. It would be a signal markets are headed lower.
---------------------------------------------------
-
-Title: The Honest Company’s (NASDAQ:HNST) Q2 Sales Beat Estimates But Stock Drops
-URL: https://finance.yahoo.com/news/honest-company-nasdaq-hnst-q2-224110632.html
-Time Published: 2025-08-06T22:41:10Z
-Description: Personal care company The Honest Company (NASDAQ:HNST) announced better-than-expected revenue in Q2 CY2025, but sales were flat year on year at $93.46...
---------------------------------------------------
-
-Title: Analysts Love This Hidden-Gem Generative AI Stock
-URL: https://www.barchart.com/story/news/33933731/analysts-love-this-hidden-gem-generative-ai-stock
-Time Published: 2025-08-06T19:37:21Z
-Description: Analysts see MongoDB as an AI sleeper, with vector search tech and strong cash fueling growth.
---------------------------------------------------
-
-Title: Microsoft (MSFT) Gets $650 Price Target as Fabric Becomes Fastest-Growing Data Platform
-URL: https://finance.yahoo.com/news/microsoft-msft-gets-650-price-114808155.html
-Time Published: 2025-08-06T11:48:08Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the Trending AI Stocks on Wall Street. On August 4, Stifel analyst Brad Reback reiterated a Buy rating on the...
---------------------------------------------------
-
-Title: Why a Company You’ve Never Heard of Is One of the Best Nasdaq-100 Stocks of the Year
-URL: https://www.barchart.com/story/news/33918220/why-a-company-youve-never-heard-of-is-one-of-the-best-nasdaq-100-stocks-of-the-year
-Time Published: 2025-08-06T11:30:02Z
-Description: Going under the radar, shares of this vet tech company have been winners this year.
---------------------------------------------------
-
-Title: Earnings To Watch: Nova (NVMI) Reports Q2 Results Tomorrow
-URL: https://finance.yahoo.com/news/earnings-watch-nova-nvmi-reports-032326137.html
-Time Published: 2025-08-06T03:23:26Z
-Description: Semiconductor quality control company Nova (NASDAQ:NVMI) will be reporting earnings this Thursday before the bell. Here’s what to look for.
 --------------------------------------------------

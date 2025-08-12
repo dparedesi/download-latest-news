@@ -29,22 +29,3 @@ URL: https://finance.yahoo.com/news/tsmc-faces-internal-security-breach-06553158
 Time Published: 2025-08-07T06:55:31Z
 Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the AI Stocks Gaining Attention on Wall Street. On August 5, Reuters reported that...
 --------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as Trump hints at chip tariff carveout
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-hints-at-chip-tariff-carveout-230246482.html
-Time Published: 2025-08-06T23:02:46Z
-Description: US stock futures wavered above the flatline with President Trump's trade deadline fast approaching.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Trump hints at chip tariff carveout
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-trump-hints-at-chip-tariff-carveout-230246587.html
-Time Published: 2025-08-06T23:02:46Z
-Description: US stock futures wavered above the flatline with President Trump's trade deadline fast approaching.
---------------------------------------------------
-
-Title: 3 fantastic ASX ETFs to buy and hold until 2035
-URL: https://www.fool.com.au/2025/08/06/3-fantastic-asx-etfs-to-buy-and-hold-until-2035/
-Time Published: 2025-08-06T07:06:25Z
-Description: These funds could help you grow your wealth over the next decade.
-The post 3 fantastic ASX ETFs to buy and hold until 2035 appeared first on The Motley Fool Australia.
---------------------------------------------------
