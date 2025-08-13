@@ -195,14 +195,14 @@ Time Published: 2025-08-08T20:02:11Z
 Description: US stocks rose as Wall Street assessed President Trump's nomination of Stephen Miran to the Federal Reserve Board of Governors and the close of the first day...
 --------------------------------------------------
 
-Title: Intel's new CEO had 3 major problems to tackle. This week Trump added a new one.
-URL: https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-trump-added-a-new-one-191813935.html
+Title: Intel's new CEO had 3 major problems to tackle. This week he got a new one.
+URL: https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-he-got-a-new-one-191813899.html
 Time Published: 2025-08-08T19:18:13Z
 Description: Intel CEO Lip-Bu Tan was in the process of trying to turn around the troubled chipmaker when President Trump attacked him on social media.
 --------------------------------------------------
 
-Title: Intel's new CEO had 3 major problems to tackle. This week he got a new one.
-URL: https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-he-got-a-new-one-191813899.html
+Title: Intel's new CEO had 3 major problems to tackle. This week Trump added a new one.
+URL: https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-trump-added-a-new-one-191813935.html
 Time Published: 2025-08-08T19:18:13Z
 Description: Intel CEO Lip-Bu Tan was in the process of trying to turn around the troubled chipmaker when President Trump attacked him on social media.
 --------------------------------------------------
