@@ -1,5 +1,36 @@
 List of news related to NVIDIA NVDA:
 
+Title: With Nvidia's Q2 earnings in sight, Trump deal could boost outlook
+URL: https://finance.yahoo.com/news/with-nvidias-q2-earnings-in-sight-trump-deal-could-boost-outlook-160248595.html
+Time Published: 2025-08-12T16:02:48Z
+Description: Trump's Nvidia deal could boost the company's Q3 outlook, as Q2 earnings loom.
+--------------------------------------------------
+
+Title: Intel is still a hot mess: Opening Bid top takeaway
+URL: https://finance.yahoo.com/news/intel-is-still-a-hot-mess-opening-bid-top-takeaway-160212981.html
+Time Published: 2025-08-12T16:02:12Z
+Description: Intel remains a flawed company despite the stock rise today.
+--------------------------------------------------
+
+Title: Stocks Rally on Increased Odds for Fed Rate Cut after CPI Report
+URL: https://www.barchart.com/story/news/34081646/stocks-rally-on-increased-odds-for-fed-rate-cut-after-cpi-report
+Time Published: 2025-08-12T15:36:21Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.72%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +1.13%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
+Title: U.S. stock futures today in the red as Dow, S&P 500, Nasdaq fall ahead of pivotal inflation report — Tesla, AMD, Apple, Nvidia lead market movers
+URL: https://economictimes.indiatimes.com/news/international/us/u-s-stock-futures-today-in-the-red-as-dow-sp-500-nasdaq-fall-ahead-of-pivotal-inflation-report-tesla-amd-apple-nvidia-lead-market-movers/articleshow/123258105.cms
+Time Published: 2025-08-12T11:58:59Z
+Full Content:
+U.S. stock futures were slightly in the red early Tuesday as Wall Street shifted into a holding pattern ahead of a highly anticipated Consumer Price Index (CPI) report expected to shape the Federal Reserve’s next interest rate move. Weakness in mega-cap tech stocks like Nvidia, AMD, and Apple added to the cautious mood, while gold prices slid on ebbing safe-haven demand. Finance Value and Valuation Masterclass - Batch 4 By CA Himanshu Jain Artificial Intelligence AI For Business Professionals Batch 2 By Ansh Mehra Finance Value and Valuation Masterclass - Batch 3 By CA Himanshu Jain Artificial Intelligence AI For Business Professionals By Vaibhav Sisinity Finance Value and Valuation Masterclass - Batch 2 By CA Himanshu Jain Finance Value and Valuation Masterclass Batch-1 By CA Himanshu Jain (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Trump criticises Zelenskyy for resisting land swap Munir’s Tampa bombshell: Jamnagar refinery on Pak’s target list Tesla opens second India showroom in Delhi Cabinet clears 4 new chip plants | IIM Guwahati, Lucknow Metro extension Pakistan cuts gas, water to Indian diplomats, India retaliates Om Birla forms 3-member panel to probe Justice Varma ‘Golden Thumb Rule’ for smart PMS investing Asim Munir is Osama bin Laden in a suit, says Ex-pentagon official Judge denies DOJ bid to unseal Maxwell records in Epstein case LS LIVE: Indian Ports Bill | Mines Bill | Justice Verma impeachment Trump criticises Zelenskyy for resisting land swap Munir’s Tampa bombshell: Jamnagar refinery on Pak’s target list Tesla opens second India showroom in Delhi Cabinet clears 4 new chip plants | IIM Guwahati, Lucknow Metro extension Pakistan cuts gas, water to Indian diplomats, India retaliates Om Birla forms 3-member panel to probe Justice Varma ‘Golden Thumb Rule’ for smart PMS investing Asim Munir is Osama bin Laden in a suit, says Ex-pentagon official Judge denies DOJ bid to unseal Maxwell records in Epstein case LS LIVE: Indian Ports Bill | Mines Bill | Justice Verma impeachment Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Prime Articles Private Companies Top Commodities Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: Advanced Micro Devices Whiffed on Earnings. Should You Buy, Sell, or Hold AMD Stock Here?
+URL: https://www.barchart.com/story/news/34072357/advanced-micro-devices-whiffed-on-earnings-should-you-buy-sell-or-hold-amd-stock-here
+Time Published: 2025-08-12T11:30:02Z
+Description: AMD is a tech stock that continues to trade at a reasonable valuation in 2025, making it a top buy for long-term shareholders in 2025.
+--------------------------------------------------
+
 Title: Once battered AI stock surges 43% after earnings
 URL: https://www.thestreet.com/investing/once-battered-ai-stock-surged-43-after-earnings
 Time Published: 2025-08-12T01:47:00Z
@@ -195,14 +226,14 @@ Time Published: 2025-08-08T20:02:11Z
 Description: US stocks rose as Wall Street assessed President Trump's nomination of Stephen Miran to the Federal Reserve Board of Governors and the close of the first day...
 --------------------------------------------------
 
-Title: Intel's new CEO had 3 major problems to tackle. This week he got a new one.
-URL: https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-he-got-a-new-one-191813899.html
+Title: Intel's new CEO had 3 major problems to tackle. This week Trump added a new one.
+URL: https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-trump-added-a-new-one-191813935.html
 Time Published: 2025-08-08T19:18:13Z
 Description: Intel CEO Lip-Bu Tan was in the process of trying to turn around the troubled chipmaker when President Trump attacked him on social media.
 --------------------------------------------------
 
-Title: Intel's new CEO had 3 major problems to tackle. This week Trump added a new one.
-URL: https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-trump-added-a-new-one-191813935.html
+Title: Intel's new CEO had 3 major problems to tackle. This week he got a new one.
+URL: https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-he-got-a-new-one-191813899.html
 Time Published: 2025-08-08T19:18:13Z
 Description: Intel CEO Lip-Bu Tan was in the process of trying to turn around the troubled chipmaker when President Trump attacked him on social media.
 --------------------------------------------------
