@@ -24,27 +24,3 @@ URL: https://finance.yahoo.com/news/intel-ceo-dogged-decades-china-075112268.htm
 Time Published: 2025-08-08T07:51:12Z
 Description: (Bloomberg) -- For more than three decades, Lip-Bu Tan invested in the Chinese economic boom, placing the kind of no-brainer bets that enriched venture...
 --------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq slide as tariffs kick in, Trump signals chip carveout
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-tariffs-kick-in-trump-signals-chip-carveout-181033758.html
-Time Published: 2025-08-07T18:10:33Z
-Description: US stocks edged higher as President Trump hinted at chip tariff carveouts as sweeping duties took effect.
---------------------------------------------------
-
-Title: Stock market today: Dow slides as tariffs kick in, Nasdaq rises as Trump signals chip carveout
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-as-tariffs-kick-in-nasdaq-rises-as-trump-signals-chip-carveout-162002840.html
-Time Published: 2025-08-07T16:20:02Z
-Description: US stocks edged higher as President Trump hinted at chip tariff carveouts as sweeping duties took effect.
---------------------------------------------------
-
-Title: There are few assets hated like coal — why this dirty fuel may have a future
-URL: https://www.marketwatch.com/story/there-are-few-assets-hated-like-coal-why-this-dirty-fuel-may-have-a-future-451aa548
-Time Published: 2025-08-07T13:35:00Z
-Description: Is coal making a comeback? The stocks are cheap and demand demise predictions are coming down.
---------------------------------------------------
-
-Title: TSMC Faces Internal Security Breach as AI Chip Tech Leaks Surface
-URL: https://finance.yahoo.com/news/tsmc-faces-internal-security-breach-065531582.html
-Time Published: 2025-08-07T06:55:31Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the AI Stocks Gaining Attention on Wall Street. On August 5, Reuters reported that...
---------------------------------------------------

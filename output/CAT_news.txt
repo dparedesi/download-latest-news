@@ -5,15 +5,3 @@ URL: https://www.barchart.com/story/news/33993665/s-p-futures-gain-as-investors-
 Time Published: 2025-08-08T10:06:59Z
 Description: September S&P 500 E-Mini futures (ESU25) are trending up +0.32% this morning, capping a week dominated by tariff and geopolitical developments, as well as a ...
 --------------------------------------------------
-
-Title: The Dow is signaling something is amiss
-URL: https://www.thestreet.com/investing/the-dow-is-signaling-something-is-amiss
-Time Published: 2025-08-07T23:56:00Z
-Description: The index has been sliding in recent weeks. It would be a signal markets are headed lower.
---------------------------------------------------
-
-Title: Stocks Turn Mixed After an Early Rally
-URL: https://www.barchart.com/story/news/33966426/stocks-turn-mixed-after-an-early-rally
-Time Published: 2025-08-07T15:30:21Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.04%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.53%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------

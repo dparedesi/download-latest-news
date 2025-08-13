@@ -1,5 +1,30 @@
 List of news related to NVIDIA NVDA:
 
+Title: Once battered AI stock surges 43% after earnings
+URL: https://www.thestreet.com/investing/once-battered-ai-stock-surged-43-after-earnings
+Time Published: 2025-08-12T01:47:00Z
+Description: Analysts are resetting the price targets after shares soar.
+--------------------------------------------------
+
+Title: Trump says Nvidia's 15% duty applies to ‘old’ H20 chips, may permit export of up to 50% downgraded Blackwell chip
+URL: https://www.livemint.com/companies/trump-says-nvidias-15-duty-applies-to-old-h20-chips-may-permit-export-of-up-to-50-downgraded-blackwell-chip-11754960987661.html
+Time Published: 2025-08-12T01:36:12Z
+Full Content:
+US President Donald Trump stated that the current duties over Nvidia's export deal with China only cover the older H20 chip, which he described as “essentially old." Speaking to the reporters on Monday (E.T.), Trump said he would consider a deal that would let Nvidia send its Blackwell chips to China if the company could make them less advanced. “It’s possible I’d make a deal” on a “somewhat enhanced — in a negative way — Blackwell” processor, he said.. “In other words, take 30% to 50% off of it.” Additionally, Nvidia CEO Jensen Huang is expected to visit this week to discuss the new chip, Blackwell. Earlier, Nvidia Corp. and Advanced Micro Devices Inc. (AMD) had agreed to give 15% of their Chinese AI chip sales revenues to the US government. This deal is meant to secure export licenses and is considered an unusual arrangement that could unsettle both US companies and Beijing, reported Bloomberg News. Trump mentioned he initially asked Nvidia for a 20% cut for the US if he approved H20 sales to China, but he ultimately agreed to a 15% share. The two negotiated “a little deal,” he said. Nvidia intends to allocate 15% of its revenue from H20 AI accelerator sales China, the report noted citing a person familiar with the matter, while AMD will pay the same share from MI308 revenues. The revenue-sharing agreement for Nvidia's H20 chip and the possibility of another one for Blackwell chip highlight Trump’s consistent effort to orchestrate a financial gain for America in exchange for trade concessions. Such unprecedented arrangements, however, risk setting a precedent for all American companies operating in the Asian nation and may undermine the US government’s justification for export controls, the report said, citing experts. Over the past week, Trump has criticised chipmakers with various statements that unsettled firms from Silicon Valley to Asia. On Wednesday, he threatened to impose 100% tariffs on imported chips unless companies invested more in the US. However, these new tariffs would likely affect very few companies, as most major chipmakers are already covered by existing investments or trade agreements. Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates. Download the Mint app and read premium stories Log in to our website to save your bookmarks. It'll just take a moment.
+--------------------------------------------------
+
+Title: Dear CoreWeave Stock Fans, Mark Your Calendars for August 14
+URL: https://www.barchart.com/story/news/34056876/dear-coreweave-stock-fans-mark-your-calendars-for-august-14
+Time Published: 2025-08-11T20:30:35Z
+Description: CoreWeave stock inches up ahead of Q2 earnings on Tuesday and its lockup period expiring on Thursday. Here’s how you should play CRWV shares ahead of both...
+--------------------------------------------------
+
+Title: Commentary: Trump is reviving crony capitalism
+URL: https://finance.yahoo.com/news/commentary-trump-is-reviving-crony-capitalism-194752762.html
+Time Published: 2025-08-11T19:47:52Z
+Description: Nvidia, AMD, and other businesses seeking an edge are learning to do it Trump's way.
+--------------------------------------------------
+
 Title: SoundHound AI Reports Strongest Ever Quarter, Should You Buy?
 URL: https://finance.yahoo.com/news/soundhound-ai-reports-strongest-ever-190000280.html
 Time Published: 2025-08-11T19:00:00Z
@@ -51,6 +76,12 @@ Time Published: 2025-08-11T14:58:53Z
 Description: Intel CEO Lip-Bu Tan met with President Trump, who had called for Tan's resignation last week.
 --------------------------------------------------
 
+Title: Market Minute 8-11-25- Nvidia, AMD Govt. "Rev Share" in Focus
+URL: https://finance.yahoo.com/news/market-minute-8-11-25-141500705.html
+Time Published: 2025-08-11T14:15:00Z
+Description: After a solid end to last week, stocks are gaining a bit more ground in early trading today. Crude oil is up with the dollar, while gold and silver are lower...
+--------------------------------------------------
+
 Title: Stocks Supported by Fed Rate Cut Speculation and Strength in Chip Makers
 URL: https://www.barchart.com/story/news/34049597/stocks-supported-by-fed-rate-cut-speculation-and-strength-in-chip-makers
 Time Published: 2025-08-11T14:10:44Z
@@ -80,6 +111,13 @@ Title: Are Wall Street Analysts Bullish on NVIDIA Stock?
 URL: https://www.barchart.com/story/news/34048104/are-wall-street-analysts-bullish-on-nvidia-stock
 Time Published: 2025-08-11T13:14:36Z
 Description: NVIDIA has considerably outperformed the broader market over the past year, and analysts are highly optimistic about the stock’s prospects.
+--------------------------------------------------
+
+Title: 5 Things to Know Before the Stock Market Opens
+URL: https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-august-11-2025-11788298
+Time Published: 2025-08-11T11:39:55Z
+Full Content:
+Stock futures are edging higher ahead of key inflation data due later this week; Nvidia (NVDA) and Advanced Micro Devices (AMD) reportedly agreed to pay a portion of their revenues to the U.S. government in exchange for chip export licenses; Intel (INTC) CEO Lip-Bu Tan is set to visit the White House after President Trump called for his resignation; and Bitcoin is rising near record levels, leading cryptocurrency-related stocks higher. Here's what investors need to know today. Stock futures are pointing higher after the major market indexes posted gains last week, and ahead of inflation data and tech earnings due later this week. Dow Jones Industrial Average futures are up 0.3% in the premarket after the blue chip index added 1.6% last week. Nasdaq futures are up 0.2% after the the tech-heavy index closed at a record high to finish last week. S&P 500 futures are little changed to higher in premarket trading. The yield on the 10-year Treasury note and oil futures are little changed. Gold futures are slightly lower after surging last week. Nvidia (NVDA) and Advanced Micro Devices (AMD) are expected to give the U.S. government a 15% share of revenues from sales of certain chips sold in China in exchange for export licenses, the Financial Times reported. AMD said in its recent earnings report that restrictions on its China chip sales resulted in an $800 million hit. Nvidia is set to report its quarterly earnings later this month. AMD shares are about 2% lower in premarket trading, while Nvidia shares are down close to 1%. Intel (INTC) CEO Lip-Bu Tan is set to visit the White House after Trump called for his resignation last week, The Wall Street Journal reported. Tan could use the visit to address concerns about his personal and professional background, while also communicating the importance of Intel’s manufacturing capabilities, the report said. Shares of Intel are up 2% in premarket trading. Bitcoin (BTCUSD) is surging near all-time highs, rising more than 2.5% to trade above $121,100. Bitcoin’s record high was $123,218 set on July 14, when it jumped after the U.S. enacted legislation beneficial to the cryptocurrency industry. Shares of Bitcoin treasury company Strategy (MSTR) are up by more than 3% in premarket trading, while crypto brokerage Coinbase (COIN) and mining firms Mara Holdings (MARA) and Riot Platforms (RIOT) are also higher. Shares of Albemarle (ALB), the world’s largest lithium producer, are jumping more than 10% in premarket trading as Chinese battery giant Contemporary Amperex Technology Co. (CATL) suspends production at a major lithium mine. Bloomberg News reported that the stoppage could last three months and is due to a permitting issue. Lithium is used to make electric vehicle batteries, among other industrial uses. Chile-based Sociedad Quimica y Minera, or SQM (SQM), is seeing its shares rise by more than 8%. The mining delays come after another Chinese lithium miner suspended production in July.
 --------------------------------------------------
 
 Title: Three Numbers That Prove Arista Is An Elite Tech Stock In Disguise
@@ -157,14 +195,14 @@ Time Published: 2025-08-08T20:02:11Z
 Description: US stocks rose as Wall Street assessed President Trump's nomination of Stephen Miran to the Federal Reserve Board of Governors and the close of the first day...
 --------------------------------------------------
 
-Title: Intel's new CEO had 3 major problems to tackle. This week he got a new one.
-URL: https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-he-got-a-new-one-191813899.html
+Title: Intel's new CEO had 3 major problems to tackle. This week Trump added a new one.
+URL: https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-trump-added-a-new-one-191813935.html
 Time Published: 2025-08-08T19:18:13Z
 Description: Intel CEO Lip-Bu Tan was in the process of trying to turn around the troubled chipmaker when President Trump attacked him on social media.
 --------------------------------------------------
 
-Title: Intel's new CEO had 3 major problems to tackle. This week Trump added a new one.
-URL: https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-trump-added-a-new-one-191813935.html
+Title: Intel's new CEO had 3 major problems to tackle. This week he got a new one.
+URL: https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-he-got-a-new-one-191813899.html
 Time Published: 2025-08-08T19:18:13Z
 Description: Intel CEO Lip-Bu Tan was in the process of trying to turn around the troubled chipmaker when President Trump attacked him on social media.
 --------------------------------------------------
@@ -185,65 +223,4 @@ Title: Are Intel Options Traders Expecting the Chip Stock to Collapse This Augus
 URL: https://www.barchart.com/story/news/33998497/are-intel-options-traders-expecting-the-chip-stock-to-collapse-this-august
 Time Published: 2025-08-08T12:35:51Z
 Description: Out-of-the-money put options are popular on INTC stock as CEO controversy continues to swirl.
---------------------------------------------------
-
-Title: Should You Buy the Post-Earnings Surge in Duolingo Stock or Is It Too Late?
-URL: https://www.barchart.com/story/news/33971142/should-you-buy-the-post-earnings-surge-in-duolingo-stock-or-is-it-too-late
-Time Published: 2025-08-07T18:27:08Z
-Description: Duolingo stock soars on a strong Q2 release and raised guidance for the full year. But is now the right time to load up on DUOL shares?
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq slide as tariffs kick in, Trump signals chip carveout
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-tariffs-kick-in-trump-signals-chip-carveout-181033758.html
-Time Published: 2025-08-07T18:10:33Z
-Description: US stocks edged higher as President Trump hinted at chip tariff carveouts as sweeping duties took effect.
---------------------------------------------------
-
-Title: Stock market today: Dow slides as tariffs kick in, Nasdaq rises as Trump signals chip carveout
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-as-tariffs-kick-in-nasdaq-rises-as-trump-signals-chip-carveout-162002840.html
-Time Published: 2025-08-07T16:20:02Z
-Description: US stocks edged higher as President Trump hinted at chip tariff carveouts as sweeping duties took effect.
---------------------------------------------------
-
-Title: Stocks Turn Mixed After an Early Rally
-URL: https://www.barchart.com/story/news/33966426/stocks-turn-mixed-after-an-early-rally
-Time Published: 2025-08-07T15:30:21Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.04%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.53%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: There are few assets hated like coal — why this dirty fuel may have a future
-URL: https://www.marketwatch.com/story/there-are-few-assets-hated-like-coal-why-this-dirty-fuel-may-have-a-future-451aa548
-Time Published: 2025-08-07T13:35:00Z
-Description: Is coal making a comeback? The stocks are cheap and demand demise predictions are coming down.
---------------------------------------------------
-
-Title: Nvidia's Overlooked Networking Segment Grows at Lightning Speed
-URL: https://finance.yahoo.com/news/nvidias-overlooked-networking-segment-grows-124140576.html
-Time Published: 2025-08-07T12:41:40Z
-Description: Analysts see rising importance of NVLink and InfiniBand as AI inferencing scales
---------------------------------------------------
-
-Title: Intel CEO responds after Trump calls for resignation
-URL: https://finance.yahoo.com/news/intel-ceo-responds-after-trump-calls-for-resignation-122344026.html
-Time Published: 2025-08-07T12:23:44Z
-Description: President Trump on Thursday called for Intel CEO Lip-Bu Tan to resign.
---------------------------------------------------
-
-Title: Apple just got a big win in Trump’s tariff war. It may have bigger concerns | CNN Business
-URL: https://www.cnn.com/2025/08/07/tech/trump-india-tariffs-apple-iphone-ai
-Time Published: 2025-08-07T09:35:02Z
-Full Content:
-Markets Hot Stocks Fear & Greed Index Latest Market News Hot Stocks Apple CEO Tim Cook should be breathing a sigh of relief. The White House on Wednesday ratcheted tariffs on Indian imports up by an additional 25%, raising the total levies on one of the United States’ most crucial trading partners to 50% when they kick in later this month. But smartphones are exempt from President Donald Trump’s new levies on India, marking a crucial win for the tech giant as it approaches its most important time of the year: its annual September iPhone launch followed by the holiday season. Apple will also dodge incoming new tariffs on semiconductors, since it’s committed to building iPhone components in the United States, Trump said Wednesday. That’s not to say tariffs won’t hurt; CEO Tim Cook said tariffs will likely cost the company $1.1 billion this quarter. But analysts say Apple has bigger concerns, such as its future product strategy and approach to artificial intelligence, a burgeoning field that the tech behemoth is perceived to be behind in. Under different circumstances, such high tariffs could have spelled trouble for Apple. The iPhone is Apple’s most important product, making up the majority of its revenue. Most iPhones sold in America come from India. And the Americas, which includes the United States, is Apple’s largest market. “In terms of the longer-term issues, more than a year out, I would say tariffs are probably 20% of it,” said Gene Munster, managing partner at Deepwater Asset Management, who has covered Apple for decades. “I think what’s going on the regulatory environments (is) probably 25%, and 55 is related to how they’re going to capitalize on AI.” Tariffs are a challenge for Apple, but one that analysts seem confident the company can manage. A combination of Apple’s diversified supply chain – which it partially shifted to areas like India and Vietnam around five years ago to reduce reliance on China during COVID – along with its high margins and Cook’s operations expertise put the company in a strong position. Supply chain resilience is “supposed to allow you to adjust tactically to any major changes that comes unexpected,” said Runar Bjørhovde, a research analyst for market research firm Canalys. That held true even before Apple committed to investing an additional $100 billion in the United States to manufacture iPhone parts domestically on Wednesday. While moves like these don’t directly impact tariff policy, they do likely help Apple curry favor with the administration, especially as Trump has pressed Apple to build its iPhones domestically. “Look, he’s not making this kind of an investment anywhere in the world, not even close,” Trump said. “He’s coming back. I mean, Apple is coming back to America.” Some analysts already expected that the iPhone would be exempt from the upcoming levies on India ahead of Wednesday’s tariff announcement. But the back-and-forth tariff policies, which have changed multiple times throughout the year, make it challenging to predict what could happen in the future. “Because (smartphones are) such an important category, the relationship that Apple has with both administrations, and specifically, even the US administration, we do think that they will be able to maneuver against this threat,” said Nabila Popal, senior director with the International Data Corporation’s data and analytics team. “But it is important, of course. It does present a risk.” That said, analysts largely believe India and China are Apple’s only two options for producing US-bound iPhones at scale. And since iPhone models available in the United States don’t precisely match those sold elsewhere, Apple can’t just redirect iPhones intended for different markets. New iPhones sold in America, for example, don’t have physical SIM card slots anymore, and they support millimeter wave 5G, the kind of connection that provides faster, low-latency speeds but usually only at a short distance. “It’s a massive tactical nightmare to deal with,” said Bjørhovde. “Because you have to try and find a sweet spot and figure out what comes next.” Cook said iPhones will continue to be assembled outside of the United States for “a while” during an event at the Oval Office announcing the new $100 billion investment on Wednesday. But he pointed to the company’s strategy of instead producing iPhone components stateside. “Well, if you look at the bulk of it, we’re doing a lot of the semiconductors here, we’re doing the glass here, we’re doing the Face ID module here, and so there’s a ton of it, and we’re doing these for products sold elsewhere in the world,” Cook said. “And so there’s a lot of content in there from United States.” The narrative that Apple is behind in AI has been looming over the company all year – and some analysts see it as a more challenging issue to overcome than tariffs. Apple delayed a high-profile upgrade to its Siri assistant that would have enabled it to provide more personalized answers and act across apps, bringing it up to speed with the agent-like capabilities that Google and OpenAI are pursuing with their digital helpers. And the company’s rivals are still using that setback as ammunition to promote their own products over Apple’s. Just this week, Google posted an ad for its upcoming Pixel 10 phone that said: “If you buy a new phone because of a feature that’s coming soon, but it’s been coming soon for a full year, you could change your definition of soon.” Apple’s initial batch of AI features also didn’t launch in time for the iPhone 16’s arrival last September. At the same time, many of Apple’s peers are seeing booming returns from their AI investments. Nvidia (NVDA) and Microsoft (MSFT) both hit $4 trillion in market capitalization in July, a milestone Wall Street previously thought Apple (AAPL) might reach first. That’s partially because of their fundamentally different products and business models. Apple is a consumer hardware company. In contrast, Microsoft, Meta (META) and Nvidia also provide the tools that businesses rely on to support AI-powered services and features, like cloud computing, chips and AI models. Still, Apple saw stellar earnings results for the June quarter, surpassing expectations for iPhone sales – including in China – and overall revenue. But during Apple’s earnings call, analysts pressed Cook about his perspective on AI and what it means for the company’s products. Those questions ranged from whether AI services might be eating into search engine usage, whether the forthcoming Siri upgrade could drive future new products and whether Apple would consider acquiring AI companies to further its product roadmap. “Taking a step back, we see AI as one of the most profound technologies of our lifetime,” Cook said in his opening remarks during the earnings call. “We are embedding it across our devices and platforms and across the company. We are also significantly growing our investments.” But Apple can’t risk falling too far behind when it comes to the iPhone’s AI capabilities. By doing so, it could create an opportunity for Samsung, Google and Qualcomm – the three of which dominate the Android phone space – to pull ahead, says Ted Mortonson, managing director and technology sector strategist at financial services company Baird. “What’s more important with investors is, after the iPhone 17, what do they really do?” he said. “I mean, as far as generative AI and AI functionality, that that’s the real focus on Apple right now.” Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited. © 2025 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved. CNN Sans ™ & © 2016 Cable News Network.
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA) Released its CUDA-Q version 0.12
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_123da718-f4bc-4abc-95cd-f02d8f324e69
-Time Published: 2025-08-07T02:19:17Z
-Description: None
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA): Do Not Doubt Its CEO, Says Jim Cramer
-URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-not-doubt-014408357.html
-Time Published: 2025-08-07T01:44:08Z
-Description: We recently published 10 Stocks Jim Cramer Talked About As He Warned About “Have-Not” Stocks. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim...
 --------------------------------------------------
