@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia-backed CoreWeave Shows Scale As Profit Lags
+URL: https://finance.yahoo.com/news/nvidia-backed-coreweave-shows-scale-184040802.html
+Time Published: 2025-08-13T18:40:40Z
+Description: Nvidia-backed AI cloud firm posts strong sales but heavy scaling costs hit bottom line.
+--------------------------------------------------
+
 Title: Stocks See Support As Bessent Calls for Big Rate Cut
 URL: https://www.barchart.com/story/news/34120396/stocks-see-support-as-bessent-calls-for-big-rate-cut
 Time Published: 2025-08-13T15:35:59Z
