@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Big Tech is driving the stock market to new records
+URL: https://finance.yahoo.com/news/big-tech-is-driving-the-stock-market-to-new-records-200917939.html
+Time Published: 2025-08-12T20:09:17Z
+Description: An AI infused rally is once again sending the S&P 500 to record highs.
+--------------------------------------------------
+
+Title: Broadcom Stock: Is Wall Street Bullish or Bearish?
+URL: https://www.barchart.com/story/news/34077584/broadcom-stock-is-wall-street-bullish-or-bearish
+Time Published: 2025-08-12T13:24:17Z
+Description: Broadcom has outperformed the broader market over the past year, and analysts are highly optimistic about the stock’s prospects.
+--------------------------------------------------
+
 Title: Broadcom Hits New High: Is AVGO Stock Still a Buy?
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_98be690a-5e60-427e-89c4-1e14f61e651a
 Time Published: 2025-08-11T17:08:15Z

@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Why Rocket Companies (RKT) Stock Is Up Today
+URL: https://finance.yahoo.com/news/why-rocket-companies-rkt-stock-203611573.html
+Time Published: 2025-08-12T20:36:11Z
+Description: Shares of fintech mortgage provider Rocket Companies (NYSE:RKT) jumped 6.8% in the afternoon session after a favorable U.S. inflation report bolstered...
+--------------------------------------------------
+
 Title: US stock market greenlights rally: Dow, S&P, Nasdaq soar to record highs on strong Fed rate cut hopes after CPI inflation slowdown — Tech giants drive investor optimism
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-greenlights-rally-dow-sp-nasdaq-soar-to-record-highs-on-strong-fed-rate-cut-hopes-after-cpi-inflation-slowdown-tech-giants-drive-investor-optimism/articleshow/123261042.cms
 Time Published: 2025-08-12T15:08:06Z
@@ -86,22 +92,4 @@ Title: Stocks and Markets Podcast: Strategist gives tips on what to watch for in
 URL: https://www.thestreet.com/investing/stocks/stocks-and-markets-podcast-strategist-gives-tips-on-what-to-watch-for-in-august
 Time Published: 2025-08-09T14:15:00Z
 Description: TheStreet Pro portfolio's lead manager sits down with Jay Woods, chief global strategist with Freedom Capital Markets.
---------------------------------------------------
-
-Title: Microsoft (MSFT) Gets $650 Target as OpenAI Ties Boost Azure’s AI Lead
-URL: https://finance.yahoo.com/news/microsoft-msft-gets-650-target-200552532.html
-Time Published: 2025-08-08T20:05:52Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the High Flying AI Stocks This Week. On August 6, DA Davidson analyst Gil Luria reiterated a Buy rating and...
---------------------------------------------------
-
-Title: Deutsche Bank Reiterates Buy on Microsoft (MSFT)—AI Driving Double-Digit Efficiency Gains
-URL: https://finance.yahoo.com/news/deutsche-bank-reiterates-buy-microsoft-174951913.html
-Time Published: 2025-08-08T17:49:51Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the Top AI Stocks Taking Wall Street by Storm. One of the biggest analyst calls on Wednesday, August 6th, was...
---------------------------------------------------
-
-Title: Microsoft Stock Heads for the Clouds After Q4 Earnings. Is It Too Late to Buy MSFT Here?
-URL: https://www.barchart.com/story/news/34002868/microsoft-stock-heads-for-the-clouds-after-q4-earnings-is-it-too-late-to-buy-msft-here
-Time Published: 2025-08-08T14:39:37Z
-Description: Microsoft soared past expectations with its fastest growth in years, lifting shares sharply. But has the window to buy already closed?
 --------------------------------------------------

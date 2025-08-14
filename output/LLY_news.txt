@@ -5,9 +5,3 @@ URL: https://www.thestreet.com/investing/stocks/apple-is-a-star-again-as-investo
 Time Published: 2025-08-10T14:39:29Z
 Description: Here's what happened to markets last week and what to watch for.
 --------------------------------------------------
-
-Title: S&P Futures Gain as Investors Weigh Trump’s Fed Governor Pick; Gold Futures Jump on Tariff Report
-URL: https://www.barchart.com/story/news/33993665/s-p-futures-gain-as-investors-weigh-trumps-fed-governor-pick-gold-futures-jump-on-tariff-report
-Time Published: 2025-08-08T10:06:59Z
-Description: September S&P 500 E-Mini futures (ESU25) are trending up +0.32% this morning, capping a week dominated by tariff and geopolitical developments, as well as a ...
---------------------------------------------------
