@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Micron analysts parse updated outlook and tweak stock price targets
+URL: https://www.thestreet.com/investing/stocks/micron-analysts-parse-updated-outlook-and-tweak-stock-price-targets
+Time Published: 2025-08-12T18:27:45Z
+Description: This is what could happen next to shares of Micron Technology.
+--------------------------------------------------
+
 Title: On theCUBE Pod: OpenAI’s ecosystem play, Nvidia’s open-source question and the race for AI dominance
 URL: https://siliconangle.com/2025/08/11/openai-ecosystem-play-nvidias-open-source-ai-dominance-thecubepod/
 Time Published: 2025-08-11T18:01:50Z
