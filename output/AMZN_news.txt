@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Stock market today: Dow jumps 450 points as S&P 500, Nasdaq log back-to-back records on surging Fed rate cut bets
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-450-points-as-sp-500-nasdaq-log-back-to-back-records-on-surging-fed-rate-cut-bets-200115170.html
+Time Published: 2025-08-13T20:01:15Z
+Description: US stocks rose amid increasing expectations that the Federal Reserve will cut interest rates at its next meeting, following the latest inflation data.
+--------------------------------------------------
+
 Title: Stocks See Support As Bessent Calls for Big Rate Cut
 URL: https://www.barchart.com/story/news/34120396/stocks-see-support-as-bessent-calls-for-big-rate-cut
 Time Published: 2025-08-13T15:35:59Z

@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: CLSA Maintains a Buy Rating on Infosys (INFY) With a PT of INR1,861
+URL: https://finance.yahoo.com/news/clsa-maintains-buy-rating-infosys-035100943.html
+Time Published: 2025-08-14T03:51:00Z
+Description: Infosys (NYSE:INFY) is one of the best NYSE stocks to buy under $20. In a report released on July 24, Sumeet Jain from CLSA maintained a Buy rating on...
+--------------------------------------------------
+
+Title: Stock market today: Dow jumps 450 points as S&P 500, Nasdaq log back-to-back records on surging Fed rate cut bets
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-450-points-as-sp-500-nasdaq-log-back-to-back-records-on-surging-fed-rate-cut-bets-200115170.html
+Time Published: 2025-08-13T20:01:15Z
+Description: US stocks rose amid increasing expectations that the Federal Reserve will cut interest rates at its next meeting, following the latest inflation data.
+--------------------------------------------------
+
 Title: Stocks See Support As Bessent Calls for Big Rate Cut
 URL: https://www.barchart.com/story/news/34120396/stocks-see-support-as-bessent-calls-for-big-rate-cut
 Time Published: 2025-08-13T15:35:59Z
@@ -118,16 +130,4 @@ Title: What To Expect From Quest Resource’s (QRHC) Q2 Earnings
 URL: https://finance.yahoo.com/news/expect-quest-qrhc-q2-earnings-030414709.html
 Time Published: 2025-08-10T03:04:14Z
 Description: Waste and recycling services provider Quest Resource (NASDAQ:QRHC) will be reporting earnings this Monday after the bell. Here’s what to look for.
---------------------------------------------------
-
-Title: Is Qualcomm the Best Semiconductor Stock to Buy Right Now?
-URL: https://www.barchart.com/story/news/34028802/is-qualcomm-the-best-semiconductor-stock-to-buy-right-now
-Time Published: 2025-08-09T16:00:02Z
-Description: With leadership in emerging technology markets such as AI, automotive, and IoT, QCOM is one of the best growth plays now.
---------------------------------------------------
-
-Title: Stocks and Markets Podcast: Strategist gives tips on what to watch for in August
-URL: https://www.thestreet.com/investing/stocks/stocks-and-markets-podcast-strategist-gives-tips-on-what-to-watch-for-in-august
-Time Published: 2025-08-09T14:15:00Z
-Description: TheStreet Pro portfolio's lead manager sits down with Jay Woods, chief global strategist with Freedom Capital Markets.
 --------------------------------------------------
