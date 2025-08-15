@@ -1,5 +1,37 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq slipped after PPI inflation comes in much hotter than expected
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slipped-after-ppi-inflation-comes-in-much-hotter-than-expected-153111949.html
+Time Published: 2025-08-14T15:31:11Z
+Description: US stocks wavered as Wall Street digested a much hotter-than-expected inflation report.
+--------------------------------------------------
+
+Title: US stock market tumbles as PPI inflation hits 3-year high, crushing Dow, S&P, Nasdaq and Fed rate cut hopes
+URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-tumbles-as-ppi-inflation-hits-3-year-high-crushing-dow-sp-nasdaq-and-fed-rate-cut-hopes/articleshow/123307295.cms
+Time Published: 2025-08-14T14:59:06Z
+Full Content:
+US stock market opened weaker as hotter-than-expected U.S. wholesale inflation rattled markets, pushing the Dow Jones, S&P 500, and Nasdaq into early losses. July’s Producer Price Index (PPI) surged 0.9% month-over-month, well above forecasts, underscoring stubborn price pressures. AI stock Coherent plunged nearly 19% after disappointing Q2 earnings, sparking caution in growth sectors. Amazon, Netflix, and UnitedHealth managed modest gains, while Nvidia and other big tech names slipped. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. President Droupadi Murmu addresses nation on eve of Independence Day US warns India of more tariffs if Trump-Putin peace bid fails India eyes China border trade revival State Dept drops bombshell ahead of Putin-Trump meet No legitimacy to Court of Arbitration award: MEA on IWT National Guard in DC soon be armed with weapons? MEA: India-US ties rooted in respect MEA strong response to Pakistani leadership comments against India World’s highest railway bridge witnesses grand Tiranga rally, J&K Meat sale ban on Aug 15: Order in place since 1988, says CM Fadnavis President Droupadi Murmu addresses nation on eve of Independence Day US warns India of more tariffs if Trump-Putin peace bid fails India eyes China border trade revival State Dept drops bombshell ahead of Putin-Trump meet No legitimacy to Court of Arbitration award: MEA on IWT National Guard in DC soon be armed with weapons? MEA: India-US ties rooted in respect MEA strong response to Pakistani leadership comments against India World’s highest railway bridge witnesses grand Tiranga rally, J&K Meat sale ban on Aug 15: Order in place since 1988, says CM Fadnavis Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Prime Articles Private Companies Top Commodities Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: Sure, Nvidia’s (NVDA) Hot But Bargain-Hunting Investors Should Consider This Overlooked Semiconductor Name
+URL: https://www.barchart.com/story/news/34150125/sure-nvidias-nvda-hot-but-bargain-hunting-investors-should-consider-this-overlooked-semiconductor-name
+Time Published: 2025-08-14T13:15:02Z
+Description: Wall Street is much like counting cards in blackjack and NVDA stock isn’t always going to give you a strong hand. Instead, tech investors may look into this ...
+--------------------------------------------------
+
+Title: US stock market futures steady after 3-day winning streak as Dow, S&P 500, Nasdaq hover near record highs — here are today’s biggest premarket movers
+URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-steady-after-3-day-winning-streak-as-dow-sp-500-nasdaq-hover-near-record-highs-here-are-todays-biggest-premarket-movers/articleshow/123304205.cms
+Time Published: 2025-08-14T11:55:38Z
+Full Content:
+U.S. stock market futures are holding steady Thursday morning, pausing after a three-day winning streak that pushed the Dow, S&P 500, and Nasdaq to fresh record territory. Investors are treading carefully ahead of key economic reports that could determine whether the Federal Reserve’s rate-cut momentum holds or stalls. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. MEA strong response to Pakistani leadership comments against India Cloudburst in J&K’s Kishtwar kills at least 12, more feared trapped Jawa Yezdi Roadster 2025 unveiled World’s highest railway bridge witnesses grand Tiranga rally, J&K SP MLA hails CM Yogi’s ‘Zero Tolerance’ policy Thalaivar’ fans turn theatres into festive hubs as ‘Coolie’ releases in Tamil Nadu Jaishankar on Sholay & movie tourism boom ‘Putin is bluffing’: Zelenskyy warns Trump At least 26 dead, 60 rescued as migrant boat sinks off Lampedusa India deploys MULE robot for advanced LoC surveillance MEA strong response to Pakistani leadership comments against India Cloudburst in J&K’s Kishtwar kills at least 12, more feared trapped Jawa Yezdi Roadster 2025 unveiled World’s highest railway bridge witnesses grand Tiranga rally, J&K SP MLA hails CM Yogi’s ‘Zero Tolerance’ policy Thalaivar’ fans turn theatres into festive hubs as ‘Coolie’ releases in Tamil Nadu Jaishankar on Sholay & movie tourism boom ‘Putin is bluffing’: Zelenskyy warns Trump At least 26 dead, 60 rescued as migrant boat sinks off Lampedusa India deploys MULE robot for advanced LoC surveillance Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Prime Articles Private Companies Top Commodities Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: These stocks were pushing the Dow toward 45,000 and maybe a record
+URL: https://www.thestreet.com/economy/these-stocks-were-pushing-the-dow-toward-45000-wednesday
+Time Published: 2025-08-14T03:32:11Z
+Description: While they may not be the ones you might expect, they have one thing in common.
+--------------------------------------------------
+
 Title: [Update] NVIDIA’s Rubin AI Architecture Is On Track As Team Green Sticks To Its Annual Cadence, Tackling AMD’s Instinct Series With A Generational Lead
 URL: https://wccftech.com/nvidia-rubin-ai-architecture-on-track/
 Time Published: 2025-08-13T20:38:22Z
@@ -283,35 +315,4 @@ Title: Stock market today: Dow, S&P 500, Nasdaq futures rise with Wall Street lo
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-with-wall-street-looking-for-more-records-071149238.html
 Time Published: 2025-08-11T07:11:49Z
 Description: Stocks are searching for their latest records amid Wall Street's furious bull run.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures steady with Wall Street looking for more records
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-steady-with-wall-street-looking-for-more-records-071149089.html
-Time Published: 2025-08-11T07:11:49Z
-Description: Stocks are searching for their latest records amid Wall Street's furious bull run.
---------------------------------------------------
-
-Title: Stock Market Capitalization ex-Magnificent 7
-URL: https://econbrowser.com/archives/2025/08/stock-market-capitalization-ex-magnificent-7
-Time Published: 2025-08-10T23:39:44Z
-Full Content:
-Courtesy of Ed Yardeni: Source: Yardeni as edited by Chinn. In terms of assessing how the general economy is responding to tariff and other uncertainty shocks, one might want to look at the SP500 excluding the Magnificent 7. As of August 8, SP500 market cap was $54.2 trillion; ex-Magnificent 7 was $36.7 trillion. Hence, the stock market is looking quite good partly because of the performance of Apple (AAPL), Amazon (AMZN), Alphabet (GOOGL), Meta Platforms (META), Microsoft (MSFT), Nvidia (NVDA), and Tesla (TSLA) stocks. The question is whether this outperformance is durable. One might say that the cyclically adjusted Price-Earnings (CAPE) ratio is not quite up to 2021M11 levels, so not to worry. I’ll just note that inflation expectations adjusted 10 year rates are now much higher: 2.1% in May vs. -1.0%. Figure 1: Cyclically adjusted price-earning (CAPE) ratio (black, left scale), and ten year ex ante real rate, % (light blue +, right scale). Real rate calculated by subtracting 10 year median SPF expected inflation rate from 10 yr Treasury yield. August CAPE observation based on data through 8/8. NBER defined peak-to-trough recession dates shaded gray. Source: Shiller, Treasury via FRED, Philadelphia Fed, NBER and author’s calculations. Cape is as high in general to 2021. So yeah, its a problem. Margin debt is even higher. This seems concerning: “SCOOP: Trump’s team is considering longtime Bureau of Labor Statistics critic E.J. Antoni to run agency just after president fired Erika McEntarfer” https://x.com/schwartzbWSJ/status/1954660412407922766 And, he’s announced Antoni’s nomination. https://www.cnbc.com/2025/08/11/trump-antoni-bls-statistics.html I don’t think their relative market cap is the biggest issue. More salient is how concentrated earnings have become. In the aggregate the S&P 500 set another all time earnings record in Q2: https://advantage.factset.com/hubfs/Website/Resources%20Section/Research%20Desk/Earnings%20Insight/EarningsInsight_080825.pdf But a month ago.Earnings Insight forecast that “ In aggregate, the “Magnificent 7” companies are expected to report year-over-year earnings growth of 14.1% for the second quarter. Excluding these seven companies, the blended (combines actual and estimated results) earnings growth rate for the remaining 493 companies in the S&P 500 would be 3.4% for Q2 2025”: https://insight.factset.com/are-magnificent-7-companies-still-top-contributors-to-earnings-growth-for-the-sp-500-for-q2 CNBC says today that the magnificent 7 stocks profits grew 26% in Q2: https://www.cnbc.com/2025/08/04/sp-500-earnings-growth-would-be-dull-without-26percent-increase-from-mag-7.html One of the important things I look at is the advance-decline line, I.e., how many of the companies’ stocks are participating in the rally? Here they are: https://www.marketinout.com/chart/market.php?breadth=advance-decline-line Every market segment is currently showing no net advances in the past month, and a few of them are showing significant declines. In other words, the vast majority of companies have shown pedestrian earnings growth, and have had pedestrian stock price advances, if at all. I don’t think the advance-decline is a big problem yet. If memory serves, the A/D line had about a 50% decline from peak before the tech bubble popped in 2000. Very nice. A question: Having never given A/D analysis much thought until now, I’m curious whether a 50% decline ahead of one of the worst stock market declines in U.S. history amounts to a special case. Did it take an investing public too engaged in speculative buying to notice anything but their object of speculative buying to create that situation? Might we look for either a smaller decline in the A/D line to lead to a decline in overall equity market value in more common cases? While we’re at it, bullishness, as measured by a good many conventional bull/bear indicators, is high. Here’s the CNNMoney indicator, with components: https://edition.cnn.com/markets/fear-and-greed To NDd’s point about market breadth, the McClellan Volume Summation Index (a component of the CNN indicato), which is one method for comparing the number of gainers to losers, is neutral. I understand that portfolio cash levels are relatively low, despite a fairly good return to cash. Another contrarian indicator; not much fuel for additional gains. Your email address will not be published. Required fields are marked * Comment * Name Email
---------------------------------------------------
-
-Title: Mega-cap tech companies lead the markets higher
-URL: https://finance.yahoo.com/news/mega-cap-tech-companies-lead-the-markets-higher-155532476.html
-Time Published: 2025-08-10T15:55:32Z
-Description: It is nearly impossible to find a household or business that isn’t regularly using multiple goods or services offered by at least a few of the Mag 7
---------------------------------------------------
-
-Title: Palantir’s 2,500% run has bulls scrambling to justify valuation
-URL: https://finance.yahoo.com/news/palantir-2-500-run-bulls-140000031.html
-Time Published: 2025-08-10T14:00:00Z
-Description: (Bloomberg) -- Palantir Technologies Inc.’s meteoric rise is pushing the company’s valuation further into record territory, forcing bullish investors to bank...
---------------------------------------------------
-
-Title: Inflation in focus as Fed rate cut debate heats up: What to watch this week
-URL: https://finance.yahoo.com/news/inflation-in-focus-as-fed-rate-cut-debate-heats-up-what-to-watch-this-week-114004763.html
-Time Published: 2025-08-10T11:40:04Z
-Description: A fresh reading on inflation will greet investors as stocks have surged back to record highs despite fears of rising price increases and a slowing labor...
 --------------------------------------------------
