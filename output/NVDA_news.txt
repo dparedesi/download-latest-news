@@ -20,6 +20,12 @@ Time Published: 2025-08-13T20:01:15Z
 Description: US stocks rose amid increasing expectations that the Federal Reserve will cut interest rates at its next meeting, following the latest inflation data.
 --------------------------------------------------
 
+Title: NVIDIA (NVDA) Gets $220 Target on Strong AI Chip Demand, China Deal
+URL: https://finance.yahoo.com/news/nvidia-nvda-gets-220-target-184819362.html
+Time Published: 2025-08-13T18:48:19Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the 10 AI Stocks Making Waves on Wall Street. On August 11, Wells Fargo analyst Aaron Rakers raised the price...
+--------------------------------------------------
+
 Title: Nvidia-backed CoreWeave Shows Scale As Profit Lags
 URL: https://finance.yahoo.com/news/nvidia-backed-coreweave-shows-scale-184040802.html
 Time Published: 2025-08-13T18:40:40Z
