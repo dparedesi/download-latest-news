@@ -1,5 +1,11 @@
 List of news related to Uber stock price UBER:
 
+Title: NVIDIA (NVDA) Partners With Virtana For Enhanced Enterprise AI Factory Observability
+URL: https://finance.yahoo.com/news/nvidia-nvda-partners-virtana-enhanced-171944679.html
+Time Published: 2025-08-15T17:19:44Z
+Description: The recent partnership between Virtana and NVIDIA (NVDA) marks important progress in enhancing AI infrastructure management, aligning with enterprise demands...
+--------------------------------------------------
+
 Title: Dave Vellante’s Breaking Analysis: The complete collection
 URL: https://siliconangle.com/2025/08/15/dave-vellantes-breaking-analysis-complete-collection/
 Time Published: 2025-08-15T10:33:12Z
