@@ -1,9 +1,33 @@
 List of news related to NVIDIA NVDA:
 
+Title: BMO Capital Lifts PT on S&P Global Inc. (SPGI) to $621 From $604, Keeps an Overweight Rating
+URL: https://finance.yahoo.com/news/bmo-capital-lifts-pt-p-014344149.html
+Time Published: 2025-08-16T01:43:44Z
+Description: S&P Global Inc. (NYSE:SPGI) is one of the best stocks to invest in for beginners. On August 1, BMO Capital analyst Jeffrey Silber raised the firm’s price...
+--------------------------------------------------
+
+Title: NVIDIA (NVDA) Stock Gets Bullish Call Amid U.S.–China Chip Agreement Reports
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_893210e0-a37b-4845-8a56-eadee50ea457
+Time Published: 2025-08-15T23:06:59Z
+Description: None
+--------------------------------------------------
+
+Title: Earnings live: Retail bellwethers Walmart, Target, Home Depot, and Lowe's to report results next week
+URL: https://finance.yahoo.com/news/live/earnings-live-retail-bellwethers-walmart-target-home-depot-and-lowes-to-report-results-next-week-203206870.html
+Time Published: 2025-08-15T20:32:06Z
+Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
+--------------------------------------------------
+
 Title: Dear Marvell Stock Fans, Mark Your Calendars for August 28
 URL: https://www.barchart.com/story/news/34187756/dear-marvell-stock-fans-mark-your-calendars-for-august-28
 Time Published: 2025-08-15T18:48:19Z
 Description: Marvell is gearing up for its Q2 results on August 28, and Wall Street is looking closely to see whether this chip stock’s AI-fueled run has more gas in the ...
+--------------------------------------------------
+
+Title: Billionaire fund manager doubles down on Nvidia, partner in AI stack shift
+URL: https://www.thestreet.com/investing/fund-manager-doubles-down-on-nvidia-and-nvidia-backed-play-in-ai-stack-shift
+Time Published: 2025-08-15T18:47:00Z
+Description: Coatue’s Philippe Laffont rotates into platforms, cloud capacity, and long-term AI demand drivers with bold bets.
 --------------------------------------------------
 
 Title: Jim Cramer Insists There Are No Backdoors In NVIDIA Corporation (NVDA)’s Chips
@@ -287,28 +311,4 @@ URL: https://www.livemint.com/companies/trump-says-nvidias-15-duty-applies-to-ol
 Time Published: 2025-08-12T01:36:12Z
 Full Content:
 US President Donald Trump stated that the current duties over Nvidia's export deal with China only cover the older H20 chip, which he described as “essentially old." Speaking to the reporters on Monday (E.T.), Trump said he would consider a deal that would let Nvidia send its Blackwell chips to China if the company could make them less advanced. “It’s possible I’d make a deal” on a “somewhat enhanced — in a negative way — Blackwell” processor, he said.. “In other words, take 30% to 50% off of it.” Additionally, Nvidia CEO Jensen Huang is expected to visit this week to discuss the new chip, Blackwell. Earlier, Nvidia Corp. and Advanced Micro Devices Inc. (AMD) had agreed to give 15% of their Chinese AI chip sales revenues to the US government. This deal is meant to secure export licenses and is considered an unusual arrangement that could unsettle both US companies and Beijing, reported Bloomberg News. Trump mentioned he initially asked Nvidia for a 20% cut for the US if he approved H20 sales to China, but he ultimately agreed to a 15% share. The two negotiated “a little deal,” he said. Nvidia intends to allocate 15% of its revenue from H20 AI accelerator sales China, the report noted citing a person familiar with the matter, while AMD will pay the same share from MI308 revenues. The revenue-sharing agreement for Nvidia's H20 chip and the possibility of another one for Blackwell chip highlight Trump’s consistent effort to orchestrate a financial gain for America in exchange for trade concessions. Such unprecedented arrangements, however, risk setting a precedent for all American companies operating in the Asian nation and may undermine the US government’s justification for export controls, the report said, citing experts. Over the past week, Trump has criticised chipmakers with various statements that unsettled firms from Silicon Valley to Asia. On Wednesday, he threatened to impose 100% tariffs on imported chips unless companies invested more in the US. However, these new tariffs would likely affect very few companies, as most major chipmakers are already covered by existing investments or trade agreements. Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates. Download the Mint app and read premium stories Log in to our website to save your bookmarks. It'll just take a moment.
---------------------------------------------------
-
-Title: Dear CoreWeave Stock Fans, Mark Your Calendars for August 14
-URL: https://www.barchart.com/story/news/34056876/dear-coreweave-stock-fans-mark-your-calendars-for-august-14
-Time Published: 2025-08-11T20:30:35Z
-Description: CoreWeave stock inches up ahead of Q2 earnings on Tuesday and its lockup period expiring on Thursday. Here’s how you should play CRWV shares ahead of both...
---------------------------------------------------
-
-Title: Commentary: Trump is reviving crony capitalism
-URL: https://finance.yahoo.com/news/commentary-trump-is-reviving-crony-capitalism-194752762.html
-Time Published: 2025-08-11T19:47:52Z
-Description: Nvidia, AMD, and other businesses seeking an edge are learning to do it Trump's way.
---------------------------------------------------
-
-Title: SoundHound AI Reports Strongest Ever Quarter, Should You Buy?
-URL: https://finance.yahoo.com/news/soundhound-ai-reports-strongest-ever-190000280.html
-Time Published: 2025-08-11T19:00:00Z
-Description: SoundHound AI's record Q2 revenue surge and raised outlook spark optimism despite fierce competition and ongoing losses.
---------------------------------------------------
-
-Title: Tesla Is Axing Its Dojo Supercomputer Plans. What Does That Mean for TSLA Stock Here?
-URL: https://www.barchart.com/story/news/34053479/tesla-is-axing-its-dojo-supercomputer-plans-what-does-that-mean-for-tsla-stock-here
-Time Published: 2025-08-11T17:27:35Z
-Description: Tesla stock rallies as billionaire Elon Musk abandons the company’s Dojo supercomputer project. Morgan Stanley explains why that’s a positive for TSLA shares...
 --------------------------------------------------

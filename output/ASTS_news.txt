@@ -18,15 +18,3 @@ URL: https://finance.yahoo.com/news/ast-spacemobile-asts-soars-20-165521013.html
 Time Published: 2025-08-13T16:55:21Z
 Description: We recently published 10 Stocks on Euphoria. Are You Holding Any? AST SpaceMobile, Inc. (NASDAQ:ASTS) is one of the best-performing stocks on Tuesday. AST...
 --------------------------------------------------
-
-Title: Stocks Turn Mixed Ahead of This Week's Key Inflation Reports
-URL: https://www.barchart.com/story/news/34050882/stocks-turn-mixed-ahead-of-this-week-s-key-inflation-reports
-Time Published: 2025-08-11T15:12:39Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.06%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.34%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stocks Supported by Fed Rate Cut Speculation and Strength in Chip Makers
-URL: https://www.barchart.com/story/news/34049597/stocks-supported-by-fed-rate-cut-speculation-and-strength-in-chip-makers
-Time Published: 2025-08-11T14:10:44Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.06%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.11%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
