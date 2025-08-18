@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Walmart's view on tariff impacts will move this week's markets
+URL: https://www.thestreet.com/investing/stocks/walmarts-view-on-tariff-effects-will-move-markets
+Time Published: 2025-08-17T13:15:32Z
+Description: Earnings season shifts to a week heavy in results from retailers.
+--------------------------------------------------
+
 Title: Cathie Wood buys $12 million of tumbling AI stock
 URL: https://www.thestreet.com/investing/cathie-wood-buys-12-million-of-tumbling-ai-stock
 Time Published: 2025-08-16T22:00:25Z
