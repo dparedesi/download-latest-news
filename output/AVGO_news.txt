@@ -30,15 +30,3 @@ URL: https://finance.yahoo.com/news/jim-cramer-broadcom-one-best-192343441.html
 Time Published: 2025-08-13T19:23:43Z
 Description: Broadcom Inc. (NASDAQ:AVGO) is one of the stocks Jim Cramer commented on. A caller asked what Cramer thought of the company and its CEO. In response, he said...
 --------------------------------------------------
-
-Title: Big Tech is driving the stock market to new records
-URL: https://finance.yahoo.com/news/big-tech-is-driving-the-stock-market-to-new-records-200917939.html
-Time Published: 2025-08-12T20:09:17Z
-Description: An AI infused rally is once again sending the S&P 500 to record highs.
---------------------------------------------------
-
-Title: Broadcom Stock: Is Wall Street Bullish or Bearish?
-URL: https://www.barchart.com/story/news/34077584/broadcom-stock-is-wall-street-bullish-or-bearish
-Time Published: 2025-08-12T13:24:17Z
-Description: Broadcom has outperformed the broader market over the past year, and analysts are highly optimistic about the stock’s prospects.
---------------------------------------------------

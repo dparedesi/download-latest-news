@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Amazon.com, Inc. (AMZN): A Bull Case Theory
+URL: https://finance.yahoo.com/news/amazon-com-inc-amzn-bull-024329139.html
+Time Published: 2025-08-17T02:43:29Z
+Description: We came across a bullish thesis on Amazon.com, Inc. on CosmicCapital’s Substack’s Substack by CosmicCapital. In this article, we will summarize the bulls...
+--------------------------------------------------
+
 Title: Billionaire Philippe Laffont Is Betting Big on Oracle Stock. Should You?
 URL: https://www.barchart.com/story/news/34187481/billionaire-philippe-laffont-is-betting-big-on-oracle-stock-should-you
 Time Published: 2025-08-15T18:27:21Z
@@ -112,22 +118,4 @@ Title: Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate cut bets surge 
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-rate-cut-bets-surge-after-cpi-data-bessent-comments-133512945.html
 Time Published: 2025-08-13T13:35:12Z
 Description: US stocks rose amid increasing expectations that the Federal Reserve will cut interest rates at its next meeting, following the latest inflation data.
---------------------------------------------------
-
-Title: Micron analysts parse updated outlook and tweak stock price targets
-URL: https://www.thestreet.com/investing/stocks/micron-analysts-parse-updated-outlook-and-tweak-stock-price-targets
-Time Published: 2025-08-12T18:27:45Z
-Description: This is what could happen next to shares of Micron Technology.
---------------------------------------------------
-
-Title: Stocks See Support from Increased Odds for Fed Rate Cut after CPI Report
-URL: https://www.barchart.com/story/news/34078997/stocks-see-support-from-increased-odds-for-fed-rate-cut-after-cpi-report
-Time Published: 2025-08-12T14:06:33Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.44%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Warren Buffett Warns Investing At ‘Too-High Purchase Price’ Even for ‘an Excellent Company’ Can Undo a Decade of Smart Investing
-URL: https://www.barchart.com/story/news/34078059/warren-buffett-warns-investing-at-too-high-purchase-price-even-for-an-excellent-company-can-undo-a-decade-of-smart-investing
-Time Published: 2025-08-12T13:33:01Z
-Description: Warren Buffett cautions investors that overpaying for even a great company can eliminate the value created by future success.
 --------------------------------------------------
