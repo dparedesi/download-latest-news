@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA (NVDA) Reiterated Overweight as Rubin Chip Stays on Track
+URL: https://finance.yahoo.com/news/nvidia-nvda-reiterated-overweight-rubin-173823353.html
+Time Published: 2025-08-18T17:38:23Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Buzzing AI Stocks on Wall Street. On August 15, Morgan Stanley reiterated the stock as “Overweight” stating...
+--------------------------------------------------
+
 Title: NVIDIA (NVDA) Poised for More Upside With AI and China Tailwinds
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8f5b89f5-55c8-4f49-a663-0da4cb2904b3
 Time Published: 2025-08-18T10:57:01Z
@@ -74,14 +80,14 @@ Time Published: 2025-08-15T23:06:59Z
 Description: None
 --------------------------------------------------
 
-Title: Earnings live: Retail bellwethers Walmart, Target, Home Depot, and Lowe's to report results next week
-URL: https://finance.yahoo.com/news/live/earnings-live-retail-bellwethers-walmart-target-home-depot-and-lowes-to-report-results-next-week-203206870.html
+Title: Earnings live: Retail bellwethers Walmart, Target, Home Depot, and Lowe's on deck to report results
+URL: https://finance.yahoo.com/news/live/earnings-live-retail-bellwethers-walmart-target-home-depot-and-lowes-on-deck-to-report-results-203206695.html
 Time Published: 2025-08-15T20:32:06Z
 Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
 --------------------------------------------------
 
-Title: Earnings live: Retail bellwethers Walmart, Target, Home Depot, and Lowe's on deck to report results
-URL: https://finance.yahoo.com/news/live/earnings-live-retail-bellwethers-walmart-target-home-depot-and-lowes-on-deck-to-report-results-203206695.html
+Title: Earnings live: Retail bellwethers Walmart, Target, Home Depot, and Lowe's to report results next week
+URL: https://finance.yahoo.com/news/live/earnings-live-retail-bellwethers-walmart-target-home-depot-and-lowes-to-report-results-next-week-203206870.html
 Time Published: 2025-08-15T20:32:06Z
 Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
 --------------------------------------------------
