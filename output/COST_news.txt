@@ -5,9 +5,3 @@ URL: https://www.newsweek.com/fast-food-burgers-get-more-expensive-2113616
 Time Published: 2025-08-15T09:00:02Z
 Description: Experts told Newsweek that dwindling cow herds and rising wholesale beef prices are cooking up pricier burgers.
 --------------------------------------------------
-
-Title: Amazon could seize market share and drive down fees with its latest grocery bet
-URL: https://finance.yahoo.com/news/amazon-could-seize-market-share-and-drive-down-fees-with-its-latest-grocery-bet-145855380.html
-Time Published: 2025-08-14T14:58:55Z
-Description: As Amazon pushes into fresh grocery delivery, rivals like Walmart and Kroger face growing competition.
---------------------------------------------------

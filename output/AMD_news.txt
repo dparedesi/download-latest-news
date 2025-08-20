@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Without this Jackson Hole signal, stocks could slide 15% in the fall, says one strategist
+URL: https://www.marketwatch.com/story/without-this-signal-at-from-powell-at-jackson-hole-stocks-could-slide-15-says-this-strategist-887b0673
+Time Published: 2025-08-18T13:31:00Z
+Description: Fed Chair Powell’s speech may disappoint investors, according to Evercore’s Emanuel
+--------------------------------------------------
+
 Title: Why Investors Are Turning to Freshworks (FRSH) for AI Exposure
 URL: https://finance.yahoo.com/news/why-investors-turning-freshworks-frsh-221630620.html
 Time Published: 2025-08-17T22:16:30Z
@@ -10,10 +16,4 @@ Title: UBS Keeps Buy Rating on AMD After Q2 2025 Results
 URL: https://finance.yahoo.com/news/ubs-keeps-buy-rating-amd-070304069.html
 Time Published: 2025-08-15T07:03:04Z
 Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the 11 Best Revenue Growth Stocks to Buy Now. On August 6, UBS reaffirmed its Buy rating for Advanced...
---------------------------------------------------
-
-Title: Stocks Muted Before the Open With Key U.S. PPI Data in Focus
-URL: https://www.barchart.com/story/news/34142156/stocks-muted-before-the-open-with-key-u-s-ppi-data-in-focus
-Time Published: 2025-08-14T10:07:35Z
-Description: September S&P 500 E-Mini futures (ESU25) are down -0.02%, and September Nasdaq 100 E-Mini futures (NQU25) are down -0.08% this morning, taking a breather...
 --------------------------------------------------

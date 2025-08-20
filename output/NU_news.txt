@@ -1,13 +1,7 @@
 List of news related to NU bank stock price NU:
 
-Title: Stock Market Today: Stocks punished after disappointing PPI delivers gut punch
-URL: https://www.thestreet.com/investing/stock-market-today-stocks-seek-to-continue-rally-with-solid-economic-data-readouts
-Time Published: 2025-08-14T14:43:17Z
-Description: Fresh PPI and labor market data are weighing on the market
---------------------------------------------------
-
-Title: Stocks Muted Before the Open With Key U.S. PPI Data in Focus
-URL: https://www.barchart.com/story/news/34142156/stocks-muted-before-the-open-with-key-u-s-ppi-data-in-focus
-Time Published: 2025-08-14T10:07:35Z
-Description: September S&P 500 E-Mini futures (ESU25) are down -0.02%, and September Nasdaq 100 E-Mini futures (NQU25) are down -0.08% this morning, taking a breather...
+Title: Stock market today: S&P 500, Nasdaq slide as Home Depot leads out retail earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-slide-as-home-depot-leads-out-retail-earnings-231504644.html
+Time Published: 2025-08-18T23:15:04Z
+Description: Wall Street braced for results from retail giants as rising concerns over inflation cloud the path to an interest rate cut.
 --------------------------------------------------
