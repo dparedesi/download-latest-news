@@ -1,5 +1,48 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVDA: Nvidia, Broadcom Lead as Citi Bets on More Upside in Chip Sector
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_13108c42-9780-4ae6-af2c-36d17c923a37
+Time Published: 2025-08-19T16:17:53Z
+Description: None
+--------------------------------------------------
+
+Title: Top Stock Movers Now: Intel, Palo Alto Networks, Nvidia, and More
+URL: https://www.investopedia.com/top-stock-movers-now-intel-palo-alto-networks-nvidia-and-more-11793511
+Time Published: 2025-08-19T15:49:10Z
+Full Content:
+U.S. equities were mixed at midday as the market weighed more corporate earnings reports and news from the chip sector. The Dow Jones Industrial Average was up, while the S&P 500 and Nasdaq fell. Intel (INTC) was the best-performing stock in the S&P 500 when Japan's SoftBank Group made a $2 billion investment in the struggling chipmaker. Shares of Palo Alto Networks (PANW) advanced after the cybersecurity firm reported profit, sales, and guidance that beat forecasts on rising demand from companies looking for increasingly powerful tools to protect against hackers. Home Depot (HD) shares gained when the biggest home-improvement retailer affirmed its guidance on growth in do-it-yourself and construction projects. Nvidia (NVDA) shares declined on word CEO Jensen Huang sold 150,000 shares of the artificial intelligence semiconductor giant. Shares of Viking Therapeutics (VKTX) plunged after the biopharma firm's Phase 2 trial of its experimental weight-loss pill showed a large number of patients experienced adverse side effects. Oracle (ORCL) shares fell following reports of layoffs and the exit of the cloud software company’s chief security officer. Oil and gold futures dipped. The yield on the 10-year Treasury note slid. The U.S. dollar advanced on the pound, but lost ground to the euro and yen. Prices for most major cryptocurrencies were down. TradingView
+--------------------------------------------------
+
+Title: An Apple robot will need a lot of AI help
+URL: https://finance.yahoo.com/news/an-apple-robot-will-need-a-lot-of-ai-help-135116585.html
+Time Published: 2025-08-19T13:51:16Z
+Description: Apple's robot efforts will need some AI help.
+--------------------------------------------------
+
+Title: Intel stock jumps 5% as SoftBank takes $2 billion stake in ailing chip company
+URL: https://finance.yahoo.com/news/intel-stock-jumps-5-as-softbank-takes-2-billion-stake-in-ailing-chip-company-123540936.html
+Time Published: 2025-08-19T12:35:40Z
+Description: Intel stock jumped on news that SoftBank will take a $2 billion in the company.
+--------------------------------------------------
+
+Title: Intel stock surges 10% as SoftBank takes $2 billion stake in ailing chip company
+URL: https://finance.yahoo.com/news/intel-stock-surges-10-as-softbank-takes-2-billion-stake-in-ailing-chip-company-123540091.html
+Time Published: 2025-08-19T12:35:40Z
+Description: Intel stock jumped on news that SoftBank will take a $2 billion stake in the company.
+--------------------------------------------------
+
+Title: NVDA: Morgan Stanley Says 'Time to Power Up' Nvidia Ahead of Earnings
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_15d8f709-a281-4799-b7e4-276aa4ad59ab
+Time Published: 2025-08-19T12:26:52Z
+Description: None
+--------------------------------------------------
+
+Title: Earnings live: Home Depot results miss, Palo Alto Networks stock pops, Tesla rival Xpeng rises
+URL: https://finance.yahoo.com/news/live/earnings-live-home-depot-results-miss-palo-alto-networks-stock-pops-tesla-rival-xpeng-rises-114118253.html
+Time Published: 2025-08-19T11:41:18Z
+Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
+--------------------------------------------------
+
 Title: Stock market today: S&P 500, Nasdaq slide as Home Depot leads out retail earnings
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-slide-as-home-depot-leads-out-retail-earnings-231504644.html
 Time Published: 2025-08-18T23:15:04Z
