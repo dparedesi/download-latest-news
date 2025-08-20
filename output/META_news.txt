@@ -1,5 +1,18 @@
 List of news related to Meta stock price META:
 
+Title: Palantir Stock Slumps Over 9% As AI Stocks Like NVIDIA And Meta Cool Off
+URL: https://www.forbes.com/sites/antoniopequenoiv/2025/08/19/palantir-stock-slumps-over-9-as-ai-stocks-like-nvidia-and-meta-cool-off/
+Time Published: 2025-08-19T18:37:34Z
+Full Content:
+ByAntonio Pequeño IV ByAntonio Pequeño IV, Forbes Staff. Software analytics firm Palantir is plummeting on the stock market Tuesday, with shares falling 9% as other AI darlings like NVIDIA and Meta cool down from gains made earlier this month. Palantir shares were down 9% on Tuesday afternoon at $157.91, erasing strong gains made by the company after it topped Wall Street estimates and hiked its full-year guidance in its latest earnings report this month. Tuesday’s slump marked the company’s fifth consecutive day of losses as it trades down 15.5% since Aug. 13. Multiple outlets have linked Palantir’s tumble to a short report from Citron Research that says the company’s stock is overvalued, citing OpenAI’s $500 billion valuation and noting if OpenAI’s price-to-sales was applied to Palantir, the company’s stock would trade at $40—a massive drop from its $159.15 per share. NVIDIA shares slipped as low as 3% hours before close, also erasing gains that began near the start of the month. Meta’s stock fell nearly 2% to $753.43 per share Tuesday afternoon, adding on to its 3% drop in share price on Monday. The Nasdaq fell 1.4% in midday trading. Get Forbes Breaking News Text Alerts: We’re launching text message alerts so you'll always know the biggest stories shaping the day’s headlines. Text “Alerts” to (201) 335-0739 or sign up here. Cryptocurrency stocks also tumbled Tuesday, with Coinbase shares falling nearly 5%, Robinhood falling more than 5% and Bitcoin sliding 2.4% amid a two-day crypto pullback. $1 billion. That is how much Palantir reported in quarterly revenue this month, marking the first time the firm has surpassed the milestone earnings number. OpenAI CEO Sam Altman commented on the state of the AI bubble to The Verge last week, telling the outlet, “Are we in a phase where investors as a whole are overexcited about AI? My opinion is yes,” adding, “Is AI the most important thing to happen in a very long time? My opinion is also yes.” Zooming out, Palantir’s recent stock struggles are part of a wildly successful year for the company’s shares, which are up 110% since the start of the year, when they were priced at $75.19. Investors have been wowed by the company’s AI tools, which likely played a large role in Palantir securing a $10 billion deal with the Army that consolidates 75 contracts into one arrangement, according to Axios. Palantir expects more growth this year, boosting its guidance and anticipating revenues between $4.14 billion and $4.15 billion for the full year, up from its previous expectations of $3.89 billion to $3.90 billion. Palantir’s success comes as the Trump administration has pushed for greater AI and chip infrastructure in the U.S., roping in financial commitments companies like Apple, NVIDIA, OpenAI and even considering a 10% stake in Intel, shares of which rocketed 7% Tuesday. Intel Shares Pop 7% As SoftBank Invests $2 Billion And Trump Administration Weighs Stake (Forbes)
+--------------------------------------------------
+
+Title: Nvidia is the most underowned megacap stock, Morgan Stanley says
+URL: https://finance.yahoo.com/news/nvidia-is-the-most-underowned-megacap-stock-morgan-stanley-says-181655265.html
+Time Published: 2025-08-19T18:16:55Z
+Description: Morgan Stanley says that despite its market dominance, Nvidia is still underowned by investors.
+--------------------------------------------------
+
 Title: Will Opendoor Stock’s Rally Continue?
 URL: https://www.forbes.com/sites/greatspeculations/2025/08/19/will-opendoor-stocks-rally-continue/
 Time Published: 2025-08-19T12:41:32Z
@@ -18,6 +31,12 @@ Title: Amazon Shares Pay the Price of Remaining ‘Show-Me’ Story With AI
 URL: https://finance.yahoo.com/news/amazon-shares-pay-price-remaining-105627346.html
 Time Published: 2025-08-19T10:56:27Z
 Description: The company’s shares have been lagging the Nasdaq 100 Index for most of the year, and the gap has only widened in the two weeks since Amazon’s July 31...
+--------------------------------------------------
+
+Title: Wall Street falls further from its records as Nvidia, Palantir and other AI stars dim
+URL: https://finance.yahoo.com/news/asian-shares-mixed-quiet-trading-064215387.html
+Time Published: 2025-08-19T06:42:15Z
+Description: Wall Street faded on Tuesday following drops for Nvidia and other stars that have been riding the mania surrounding artificial-intelligence technology.  The ...
 --------------------------------------------------
 
 Title: Bitcoin Drops, Saylor Shops: 430 BTC Added To Treasury Stash – Details
