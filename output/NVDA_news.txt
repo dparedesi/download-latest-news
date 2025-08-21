@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Intel's advantages from a Trump deal could be worth as much as the money
+URL: https://finance.yahoo.com/news/intels-advantages-from-a-trump-deal-could-be-worth-as-much-as-the-money-100123639.html
+Time Published: 2025-08-20T10:01:23Z
+Description: The ongoing US trade policy saga has revealed there are many ways for the administration to help a company's fortunes
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slide after bruising day for tech
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-after-bruising-day-for-tech-230802068.html
 Time Published: 2025-08-19T23:08:02Z
@@ -16,6 +22,12 @@ Title: Earnings live: La-Z-Boy stock tumbles, Home Depot rises, Toll Brothers be
 URL: https://finance.yahoo.com/news/live/earnings-live-la-z-boy-stock-tumbles-home-depot-rises-toll-brothers-beats-estimates-210158560.html
 Time Published: 2025-08-19T21:01:58Z
 Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
+--------------------------------------------------
+
+Title: Stocks Mostly Lower as Chip Makers and Megacap Tech Companies Retreat
+URL: https://www.barchart.com/story/news/34257292/stocks-mostly-lower-as-chip-makers-and-megacap-tech-companies-retreat
+Time Published: 2025-08-19T20:35:13Z
+Description: The S&P 500 Index ($SPX ) (SPY ) Tuesday closed down by -0.59%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.02%, and the Nasdaq 100 Index...
 --------------------------------------------------
 
 Title: SoftBank and Trump may not be enough to save Intel
@@ -74,16 +86,16 @@ Time Published: 2025-08-19T13:36:00Z
 Description: UBS Global Wealth Management strategists see plenty of drivers to keep pushing gold beyond the record run it has seen in 2025.
 --------------------------------------------------
 
-Title: Intel stock surges 10% as SoftBank takes $2 billion stake in ailing chip company
-URL: https://finance.yahoo.com/news/intel-stock-surges-10-as-softbank-takes-2-billion-stake-in-ailing-chip-company-123540091.html
-Time Published: 2025-08-19T12:35:40Z
-Description: Intel stock jumped on news that SoftBank will take a $2 billion stake in the company.
---------------------------------------------------
-
 Title: Intel stock jumps 5% as SoftBank takes $2 billion stake in ailing chip company
 URL: https://finance.yahoo.com/news/intel-stock-jumps-5-as-softbank-takes-2-billion-stake-in-ailing-chip-company-123540936.html
 Time Published: 2025-08-19T12:35:40Z
 Description: Intel stock jumped on news that SoftBank will take a $2 billion in the company.
+--------------------------------------------------
+
+Title: Intel stock surges 10% as SoftBank takes $2 billion stake in ailing chip company
+URL: https://finance.yahoo.com/news/intel-stock-surges-10-as-softbank-takes-2-billion-stake-in-ailing-chip-company-123540091.html
+Time Published: 2025-08-19T12:35:40Z
+Description: Intel stock jumped on news that SoftBank will take a $2 billion stake in the company.
 --------------------------------------------------
 
 Title: NVDA: Morgan Stanley Says 'Time to Power Up' Nvidia Ahead of Earnings
