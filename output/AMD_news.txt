@@ -1,9 +1,45 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: iHeartMedia, Rush Street Interactive, Clarus, Funko, and Sphere Entertainment Shares Are Falling, What You Need To Know
+URL: https://finance.yahoo.com/news/iheartmedia-rush-street-interactive-clarus-195106657.html
+Time Published: 2025-08-19T19:51:06Z
+Description: A number of stocks fell in the afternoon session after investors took some profits off the table as markets awaited signals on future monetary policy from...
+--------------------------------------------------
+
+Title: Why Rumble (RUM) Stock Is Falling Today
+URL: https://finance.yahoo.com/news/why-rumble-rum-stock-falling-193959895.html
+Time Published: 2025-08-19T19:39:59Z
+Description: Shares of video sharing platform Rumble (NASDAQGM:RUM) fell 3.6% in the afternoon session after investors took some profits off the table as markets awaited ...
+--------------------------------------------------
+
+Title: IonQ, Lumen, Getty Images, Vestis, and Globalstar Stocks Trade Down, What You Need To Know
+URL: https://finance.yahoo.com/news/ionq-lumen-getty-images-vestis-193951992.html
+Time Published: 2025-08-19T19:39:51Z
+Description: A number of stocks fell in the afternoon session after investors took some profits off the table as markets awaited signals on future monetary policy from...
+--------------------------------------------------
+
+Title: CoreCivic, WEBTOON, Magnite, CECO Environmental, and Super Micro Shares Are Falling, What You Need To Know
+URL: https://finance.yahoo.com/news/corecivic-webtoon-magnite-ceco-environmental-193951076.html
+Time Published: 2025-08-19T19:39:51Z
+Description: A number of stocks fell in the morning session after investors took some profits off the table as markets awaited signals on future monetary policy from the ...
+--------------------------------------------------
+
 Title: What's Going On With AMD Stock Tuesday?
 URL: https://finance.yahoo.com/news/whats-going-amd-stock-tuesday-161108636.html
 Time Published: 2025-08-19T16:11:01Z
 Description: Advanced Micro Devices (AMD) stock traded lower on Tuesday as rivals Arm Holdings (NASDAQ:ARM), Nvidia (NASDAQ:NVDA), and Intel (NASDAQ:INTC) made strategic ...
+--------------------------------------------------
+
+Title: Stocks Pressured by Weakness in Tech
+URL: https://www.barchart.com/story/news/34251046/stocks-pressured-by-weakness-in-tech
+Time Published: 2025-08-19T15:18:03Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.31%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.20%, and the Nasdaq 100 Index ($IUXX ) ...
+--------------------------------------------------
+
+Title: Stocks Slightly Lower as Retailer Earnings Arrive
+URL: https://www.barchart.com/story/news/34249039/stocks-slightly-lower-as-retailer-earnings-arrive
+Time Published: 2025-08-19T14:03:06Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.32%, and the Nasdaq 100 Index ($IUXX ) ...
 --------------------------------------------------
 
 Title: Without this Jackson Hole signal, stocks could slide 15% in the fall, says one strategist
@@ -16,10 +52,4 @@ Title: Why Investors Are Turning to Freshworks (FRSH) for AI Exposure
 URL: https://finance.yahoo.com/news/why-investors-turning-freshworks-frsh-221630620.html
 Time Published: 2025-08-17T22:16:30Z
 Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the Must-Watch AI Stocks on Wall Street. On August 13, Mizuho analyst Vijay Rakesh raised the price...
---------------------------------------------------
-
-Title: UBS Keeps Buy Rating on AMD After Q2 2025 Results
-URL: https://finance.yahoo.com/news/ubs-keeps-buy-rating-amd-070304069.html
-Time Published: 2025-08-15T07:03:04Z
-Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the 11 Best Revenue Growth Stocks to Buy Now. On August 6, UBS reaffirmed its Buy rating for Advanced...
 --------------------------------------------------

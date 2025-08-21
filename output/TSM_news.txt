@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Astera, AMD Lead Tech Selloff; Nvidia, Broadcom, Qualcomm Fall
+URL: https://finance.yahoo.com/news/astera-amd-lead-tech-selloff-213720123.html
+Time Published: 2025-08-19T21:37:20Z
+Description: Nvidia, AMD Face Revenue-Share Deal in China; Stocks Trade Lower
+--------------------------------------------------
+
 Title: 5 amazing ASX ETFs to buy with $2,500 this month
 URL: https://www.fool.com.au/2025/08/17/5-amazing-asx-etfs-to-buy-with-2500-this-month/
 Time Published: 2025-08-16T20:17:00Z
@@ -11,16 +17,4 @@ Title: Taiwan Semiconductor Manufacturing (TSM) Announces Net Revenue for July 2
 URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-tsm-announces-021309686.html
 Time Published: 2025-08-16T02:13:09Z
 Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the best stocks to invest in for beginners. On August 8, Taiwan Semiconductor...
---------------------------------------------------
-
-Title: Should You Buy the Post-Earnings Plunge in Applied Materials Stock?
-URL: https://www.barchart.com/story/news/34188815/should-you-buy-the-post-earnings-plunge-in-applied-materials-stock
-Time Published: 2025-08-15T19:56:08Z
-Description: Applied Materials stock tumbled after reporting a strong Q3 but disappointed in terms of guidance. Here’s how analysts recommend playing AMAT shares here.
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing Company Limited (TSM) Is Worried About High Construction Costs Of US Plants, Says Jim Cramer
-URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-limited-183132894.html
-Time Published: 2025-08-15T18:31:32Z
-Description: We recently published 10 Stocks Jim Cramer Discussed As He Questioned Official Data. Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of ...
 --------------------------------------------------

@@ -1,5 +1,29 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide after bruising day for tech
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-after-bruising-day-for-tech-230802068.html
+Time Published: 2025-08-19T23:08:02Z
+Description: Target earnings and Fed minutes are on deck, watched for clues to prospects for the economy and interest rates.
+--------------------------------------------------
+
+Title: Nvidia (NVDA) Sees a More Significant Dip Than Broader Market: Some Facts to Know
+URL: https://finance.yahoo.com/news/nvidia-nvda-sees-more-significant-214502600.html
+Time Published: 2025-08-19T21:45:02Z
+Description: In the closing of the recent trading day, Nvidia (NVDA) stood at $175.64, denoting a -3.5% move from the preceding trading day.
+--------------------------------------------------
+
+Title: Earnings live: La-Z-Boy stock tumbles, Home Depot rises, Toll Brothers beats estimates
+URL: https://finance.yahoo.com/news/live/earnings-live-la-z-boy-stock-tumbles-home-depot-rises-toll-brothers-beats-estimates-210158560.html
+Time Published: 2025-08-19T21:01:58Z
+Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
+--------------------------------------------------
+
+Title: SoftBank and Trump may not be enough to save Intel
+URL: https://finance.yahoo.com/news/softbank-and-trump-may-not-be-enough-to-save-intel-200728288.html
+Time Published: 2025-08-19T20:07:28Z
+Description: Intel is getting a $2 billion lifeline from SoftBank and could get more from the Trump administration. But that might not be enough to save the ailing...
+--------------------------------------------------
+
 Title: Nvidia is the most underowned megacap stock, Morgan Stanley says
 URL: https://finance.yahoo.com/news/nvidia-is-the-most-underowned-megacap-stock-morgan-stanley-says-181655265.html
 Time Published: 2025-08-19T18:16:55Z
@@ -19,22 +43,34 @@ Full Content:
 U.S. equities were mixed at midday as the market weighed more corporate earnings reports and news from the chip sector. The Dow Jones Industrial Average was up, while the S&P 500 and Nasdaq fell. Intel (INTC) was the best-performing stock in the S&P 500 when Japan's SoftBank Group made a $2 billion investment in the struggling chipmaker. Shares of Palo Alto Networks (PANW) advanced after the cybersecurity firm reported profit, sales, and guidance that beat forecasts on rising demand from companies looking for increasingly powerful tools to protect against hackers. Home Depot (HD) shares gained when the biggest home-improvement retailer affirmed its guidance on growth in do-it-yourself and construction projects. Nvidia (NVDA) shares declined on word CEO Jensen Huang sold 150,000 shares of the artificial intelligence semiconductor giant. Shares of Viking Therapeutics (VKTX) plunged after the biopharma firm's Phase 2 trial of its experimental weight-loss pill showed a large number of patients experienced adverse side effects. Oracle (ORCL) shares fell following reports of layoffs and the exit of the cloud software company’s chief security officer. Oil and gold futures dipped. The yield on the 10-year Treasury note slid. The U.S. dollar advanced on the pound, but lost ground to the euro and yen. Prices for most major cryptocurrencies were down. TradingView
 --------------------------------------------------
 
+Title: Stocks Pressured by Weakness in Tech
+URL: https://www.barchart.com/story/news/34251046/stocks-pressured-by-weakness-in-tech
+Time Published: 2025-08-19T15:18:03Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.31%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.20%, and the Nasdaq 100 Index ($IUXX ) ...
+--------------------------------------------------
+
 Title: An Apple robot will need a lot of AI help
 URL: https://finance.yahoo.com/news/an-apple-robot-will-need-a-lot-of-ai-help-135116585.html
 Time Published: 2025-08-19T13:51:16Z
 Description: Apple's robot efforts will need some AI help.
 --------------------------------------------------
 
-Title: Intel stock surges 10% as SoftBank takes $2 billion stake in ailing chip company
-URL: https://finance.yahoo.com/news/intel-stock-surges-10-as-softbank-takes-2-billion-stake-in-ailing-chip-company-123540091.html
-Time Published: 2025-08-19T12:35:40Z
-Description: Intel stock jumped on news that SoftBank will take a $2 billion stake in the company.
+Title: Gold has crushed stocks, bonds and even bitcoin in 2025. This banking giant just got more bullish.
+URL: https://www.marketwatch.com/story/gold-has-crushed-stocks-bonds-and-even-bitcoin-in-2025-this-banking-giant-just-got-more-bullish-9071df48
+Time Published: 2025-08-19T13:36:00Z
+Description: UBS Global Wealth Management strategists see plenty of drivers to keep pushing gold beyond the record run it has seen in 2025.
 --------------------------------------------------
 
 Title: Intel stock jumps 5% as SoftBank takes $2 billion stake in ailing chip company
 URL: https://finance.yahoo.com/news/intel-stock-jumps-5-as-softbank-takes-2-billion-stake-in-ailing-chip-company-123540936.html
 Time Published: 2025-08-19T12:35:40Z
 Description: Intel stock jumped on news that SoftBank will take a $2 billion in the company.
+--------------------------------------------------
+
+Title: Intel stock surges 10% as SoftBank takes $2 billion stake in ailing chip company
+URL: https://finance.yahoo.com/news/intel-stock-surges-10-as-softbank-takes-2-billion-stake-in-ailing-chip-company-123540091.html
+Time Published: 2025-08-19T12:35:40Z
+Description: Intel stock jumped on news that SoftBank will take a $2 billion stake in the company.
 --------------------------------------------------
 
 Title: NVDA: Morgan Stanley Says 'Time to Power Up' Nvidia Ahead of Earnings
@@ -178,114 +214,4 @@ Title: BMO Capital Lifts PT on S&P Global Inc. (SPGI) to $621 From $604, Keeps a
 URL: https://finance.yahoo.com/news/bmo-capital-lifts-pt-p-014344149.html
 Time Published: 2025-08-16T01:43:44Z
 Description: S&P Global Inc. (NYSE:SPGI) is one of the best stocks to invest in for beginners. On August 1, BMO Capital analyst Jeffrey Silber raised the firm’s price...
---------------------------------------------------
-
-Title: NVIDIA (NVDA) Stock Gets Bullish Call Amid U.S.–China Chip Agreement Reports
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_893210e0-a37b-4845-8a56-eadee50ea457
-Time Published: 2025-08-15T23:06:59Z
-Description: None
---------------------------------------------------
-
-Title: Earnings live: Retail bellwethers Walmart, Target, Home Depot, and Lowe's to report results next week
-URL: https://finance.yahoo.com/news/live/earnings-live-retail-bellwethers-walmart-target-home-depot-and-lowes-to-report-results-next-week-203206870.html
-Time Published: 2025-08-15T20:32:06Z
-Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
---------------------------------------------------
-
-Title: Earnings live: Retail bellwethers Walmart, Target, Home Depot, and Lowe's on deck to report results
-URL: https://finance.yahoo.com/news/live/earnings-live-retail-bellwethers-walmart-target-home-depot-and-lowes-on-deck-to-report-results-203206695.html
-Time Published: 2025-08-15T20:32:06Z
-Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
---------------------------------------------------
-
-Title: Dear Marvell Stock Fans, Mark Your Calendars for August 28
-URL: https://www.barchart.com/story/news/34187756/dear-marvell-stock-fans-mark-your-calendars-for-august-28
-Time Published: 2025-08-15T18:48:19Z
-Description: Marvell is gearing up for its Q2 results on August 28, and Wall Street is looking closely to see whether this chip stock’s AI-fueled run has more gas in the ...
---------------------------------------------------
-
-Title: Billionaire fund manager doubles down on Nvidia, partner in AI stack shift
-URL: https://www.thestreet.com/investing/fund-manager-doubles-down-on-nvidia-and-nvidia-backed-play-in-ai-stack-shift
-Time Published: 2025-08-15T18:47:00Z
-Description: Coatue’s Philippe Laffont rotates into platforms, cloud capacity, and long-term AI demand drivers with bold bets.
---------------------------------------------------
-
-Title: Jim Cramer Insists There Are No Backdoors In NVIDIA Corporation (NVDA)’s Chips
-URL: https://finance.yahoo.com/news/jim-cramer-insists-no-backdoors-183254429.html
-Time Published: 2025-08-15T18:32:54Z
-Description: We recently published 10 Stocks Jim Cramer Discussed As He Questioned Official Data. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer...
---------------------------------------------------
-
-Title: Billionaire Philippe Laffont Is Betting Big on Oracle Stock. Should You?
-URL: https://www.barchart.com/story/news/34187481/billionaire-philippe-laffont-is-betting-big-on-oracle-stock-should-you
-Time Published: 2025-08-15T18:27:21Z
-Description: Billionaire Philippe Laffont’s $843 million Oracle bet spotlights its AI cloud surge.
---------------------------------------------------
-
-Title: The Cowboys Sold For $140 Million in 1989—They're Now Worth $12.8 Billion. Here's How That 9,000% Return Compares to Market Giants
-URL: https://www.investopedia.com/the-dallas-cowboys-sold-for-usd140-million-in-1989-they-re-now-worth-usd12-8-billion-here-s-how-that-9-000-return-compares-to-market-giantsthe-cowboys-sold-for-usd140-million-in-1989-they-re-now-worth-usd12-8-billion-here-s-how-that-9-000-return-compares-to-market-giants-jerry-jones-nfl-11790331
-Time Published: 2025-08-15T17:37:09Z
-Full Content:
-The Dallas Cowboys topped the NFL's most valuable teams list, according to Sportico: Jerry Jones bought the Cowboys in 1989 for $140 million, over $370 million in today's dollars. Based on the new valuation, his investment has grown 9,042% from the initial $90 million cash outlay and $50 million loan. Several companies with the largest market capitalizations on the market today hadn't even been started in 1989—Microsoft and Apple were the only members of the eventual Magnificent Seven that existed at the time. Tesla Inc. (TSLA), Meta Platforms Inc. (META), Amazon.com Inc. (AMZN), Nvidia Corp. (NVDA), and Google, now under parent company Alphabet Inc. (GOOGL), had not yet been founded. Here's a look at how the Cowboys' 9,000% gain compares to the return some of the most important stocks today, like Microsoft and Apple, have delivered since February 1989, along with how some of the companies with the largest market caps at the time have performed since. When applicable, stock prices have been adjusted to account for stock splits that have taken place in the decades since. Jerry Jones turned a $140 million bet on the Dallas Cowboys in 1989 into a $12.8 billion empire—one of the most lucrative investments in sports history. His 9,000% return rivals the long-term gains of giants like Walmart and Berkshire Hathaway, but is still dwarfed by the explosive gains of tech titans such as Microsoft and Apple.
---------------------------------------------------
-
-Title: NVIDIA (NVDA) Partners With Virtana For Enhanced Enterprise AI Factory Observability
-URL: https://finance.yahoo.com/news/nvidia-nvda-partners-virtana-enhanced-171944679.html
-Time Published: 2025-08-15T17:19:44Z
-Description: The recent partnership between Virtana and NVIDIA (NVDA) marks important progress in enhancing AI infrastructure management, aligning with enterprise demands...
---------------------------------------------------
-
-Title: Quantum Stocks Q2 2025: Are D-Wave, IonQ & Rigetti Funding the Future?
-URL: https://finance.yahoo.com/news/quantum-stocks-q2-2025-d-170000401.html
-Time Published: 2025-08-15T17:00:00Z
-Description: D-Wave, IonQ and Rigetti post strong Q2 sales, incur steeper losses and have billion-dollar cash reserves to drive quantum breakthroughs.
---------------------------------------------------
-
-Title: Stocks Are Undercut by US Consumer Sentiment Decline
-URL: https://www.barchart.com/story/news/34184058/stocks-are-undercut-by-us-consumer-sentiment-decline
-Time Published: 2025-08-15T15:44:08Z
-Description: The S&P 500 Index ($SPX ) (SPY ) is down -0.26%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is...
---------------------------------------------------
-
-Title: US stock market today tumultuous: Dow hits record as UnitedHealth surges, S&P 500, Nasdaq, and semiconductor stocks fall due to inflation and looming Trump tariffs
-URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-tumultuous-dow-hits-record-as-unitedhealth-surges-sp-500-nasdaq-and-semiconductor-stocks-fall-due-to-inflation-and-looming-trump-tariffs/articleshow/123323776.cms
-Time Published: 2025-08-15T15:38:44Z
-Full Content:
-US stock markets opened Friday on a turbulent note as investors weighed strong corporate moves against persistent inflation pressures. The Dow Jones Industrial Average hit a record intraday high of 45,203.52, fueled by gains in healthcare stocks. Meanwhile, the Nasdaq Composite slipped to 21,710.67, dragged down by profit-taking in tech and cautious semiconductor forecasts. The spotlight was on UnitedHealth (UNH), which jumped over 11% after Warren Buffett’s $1.57 billion stake was disclosed, signaling renewed investor confidence. Traders also digested July’s 0.9% jump in the Producer Price Index (PPI), keeping Treasury yields elevated and adding pressure on growth-oriented stocks. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Trump-Putin Alaska summit: ‘Not here to negotiate for Ukraine...’ J&K’s flash flood: Over 45 killed, more than 200 feared trapped 'Next-gen GST reforms by Diwali, will reduce tax...' Delhi: At least 12 injured as portion of structure collapses near Humayun's Tomb Anger erupts in Alaska ahead of Trump-Putin meeting without Zelenskyy ‘Aatmanirbharta' not confined to import, export... 'Sudarshan Chakra' defence system to thwart enemy attacks' 'High-power demographic mission' to protect citizens: PM Modi ‘We are working on semiconductors in Mission Mode' Trump talks tough ahead of Alaska Summit Trump-Putin Alaska summit: ‘Not here to negotiate for Ukraine...’ J&K’s flash flood: Over 45 killed, more than 200 feared trapped 'Next-gen GST reforms by Diwali, will reduce tax...' Delhi: At least 12 injured as portion of structure collapses near Humayun's Tomb Anger erupts in Alaska ahead of Trump-Putin meeting without Zelenskyy ‘Aatmanirbharta' not confined to import, export... 'Sudarshan Chakra' defence system to thwart enemy attacks' 'High-power demographic mission' to protect citizens: PM Modi ‘We are working on semiconductors in Mission Mode' Trump talks tough ahead of Alaska Summit Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Commodities Top Story Listing Top Prime Articles Top Definitions Top Slideshow Private Companies Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Stocks Are Undercut by US Consumer Sentiment Decline
-URL: https://www.barchart.com/story/news/34182092/stocks-are-undercut-by-us-consumer-sentiment-decline
-Time Published: 2025-08-15T14:14:43Z
-Description: The S&P 500 Index ($SPX ) (SPY ) is down -0.11%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.40%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is...
---------------------------------------------------
-
-Title: Stock market today: Dow eyes record on UnitedHealth surge, S&P 500, Nasdaq fall as rate-cut bets cool
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-eyes-record-on-unitedhealth-surge-sp-500-nasdaq-fall-as-rate-cut-bets-cool-133544751.html
-Time Published: 2025-08-15T13:35:44Z
-Description: US stocks wavered as Wall Street tempered its rate-cut hopes while July retail sales rose.
---------------------------------------------------
-
-Title: UBS Keeps Buy Rating on AMD After Q2 2025 Results
-URL: https://finance.yahoo.com/news/ubs-keeps-buy-rating-amd-070304069.html
-Time Published: 2025-08-15T07:03:04Z
-Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the 11 Best Revenue Growth Stocks to Buy Now. On August 6, UBS reaffirmed its Buy rating for Advanced...
---------------------------------------------------
-
-Title: Jim Cramer Discusses NVIDIA Return to China Market
-URL: https://finance.yahoo.com/news/jim-cramer-discusses-nvidia-return-065329647.html
-Time Published: 2025-08-15T06:53:29Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer recently discussed. Cramer discussed the company’s business with China during the episode...
---------------------------------------------------
-
-Title: Dell, NVIDIA, Elastic Partner to Enhance AI Data Platform
-URL: https://finance.yahoo.com/news/dell-nvidia-elastic-partner-enhance-065109764.html
-Time Published: 2025-08-15T06:51:09Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the best high-volume stocks to invest in. On August 12, Dell Technologies Inc. (NYSE:DELL) announced a partnership...
---------------------------------------------------
-
-Title: Soros, Appaloosa boost their Nvidia stake. They also bought this beaten-down stock, and it’s rallying.
-URL: https://www.marketwatch.com/story/soros-appaloosa-boost-their-holdings-in-this-mag-7-stock-amid-ai-spending-boom-514807d8
-Time Published: 2025-08-15T00:19:00Z
-Description: Both firms also bought more of UnitedHealth, which was rallying after hours
 --------------------------------------------------

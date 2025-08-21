@@ -1,5 +1,17 @@
 List of news related to Caterpillar stock price CAT:
 
+Title: Stocks Pressured by Weakness in Tech
+URL: https://www.barchart.com/story/news/34251046/stocks-pressured-by-weakness-in-tech
+Time Published: 2025-08-19T15:18:03Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.31%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.20%, and the Nasdaq 100 Index ($IUXX ) ...
+--------------------------------------------------
+
+Title: Stocks Slightly Lower as Retailer Earnings Arrive
+URL: https://www.barchart.com/story/news/34249039/stocks-slightly-lower-as-retailer-earnings-arrive
+Time Published: 2025-08-19T14:03:06Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.32%, and the Nasdaq 100 Index ($IUXX ) ...
+--------------------------------------------------
+
 Title: Stock Index Futures Muted as Focus Turns to Retail Earnings, U.S. Housing Data Awaited
 URL: https://www.barchart.com/story/news/34240164/stock-index-futures-muted-ahead-of-u-s-housing-data-home-depot-earnings-on-tap
 Time Published: 2025-08-19T10:10:27Z

@@ -1,9 +1,21 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: LSI (LYTS) Q2 Earnings: What To Expect
+URL: https://finance.yahoo.com/news/lsi-lyts-q2-earnings-expect-030231558.html
+Time Published: 2025-08-20T03:02:31Z
+Description: Commercial lighting and retail display solutions provider LSI (NASDAQ:LYTS) will be announcing earnings results this Thursday before market hours. Here’s...
+--------------------------------------------------
+
 Title: Nvidia is the most underowned megacap stock, Morgan Stanley says
 URL: https://finance.yahoo.com/news/nvidia-is-the-most-underowned-megacap-stock-morgan-stanley-says-181655265.html
 Time Published: 2025-08-19T18:16:55Z
 Description: Morgan Stanley says that despite its market dominance, Nvidia is still underowned by investors.
+--------------------------------------------------
+
+Title: Stocks Pressured by Weakness in Tech
+URL: https://www.barchart.com/story/news/34251046/stocks-pressured-by-weakness-in-tech
+Time Published: 2025-08-19T15:18:03Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.31%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.20%, and the Nasdaq 100 Index ($IUXX ) ...
 --------------------------------------------------
 
 Title: Citron Research Just Warned AGAIN on Palantir. How Should You Play PLTR Stock Here?
@@ -22,35 +34,4 @@ Title: What To Expect From Palo Alto Networks’s (PANW) Q2 Earnings
 URL: https://finance.yahoo.com/news/expect-palo-alto-networks-panw-030100500.html
 Time Published: 2025-08-17T03:01:00Z
 Description: Cybersecurity platform provider Palo Alto Networks (NASDAQ:PANW) will be announcing earnings results this Monday after market hours. Here’s what investors...
---------------------------------------------------
-
-Title: Earnings live: Retail bellwethers Walmart, Target, Home Depot, and Lowe's on deck to report results
-URL: https://finance.yahoo.com/news/live/earnings-live-retail-bellwethers-walmart-target-home-depot-and-lowes-on-deck-to-report-results-203206695.html
-Time Published: 2025-08-15T20:32:06Z
-Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
---------------------------------------------------
-
-Title: Earnings live: Retail bellwethers Walmart, Target, Home Depot, and Lowe's to report results next week
-URL: https://finance.yahoo.com/news/live/earnings-live-retail-bellwethers-walmart-target-home-depot-and-lowes-to-report-results-next-week-203206870.html
-Time Published: 2025-08-15T20:32:06Z
-Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
---------------------------------------------------
-
-Title: Can Microsoft Stock Hit $680 in 2025?
-URL: https://www.barchart.com/story/news/34188713/can-microsoft-stock-hit-680-in-2025
-Time Published: 2025-08-15T19:51:09Z
-Description: With Citi analysts raising their target to $680, could Microsoft be on track for a record-breaking 2025?
---------------------------------------------------
-
-Title: Billionaire Philippe Laffont Is Betting Big on Oracle Stock. Should You?
-URL: https://www.barchart.com/story/news/34187481/billionaire-philippe-laffont-is-betting-big-on-oracle-stock-should-you
-Time Published: 2025-08-15T18:27:21Z
-Description: Billionaire Philippe Laffont’s $843 million Oracle bet spotlights its AI cloud surge.
---------------------------------------------------
-
-Title: The Cowboys Sold For $140 Million in 1989—They're Now Worth $12.8 Billion. Here's How That 9,000% Return Compares to Market Giants
-URL: https://www.investopedia.com/the-dallas-cowboys-sold-for-usd140-million-in-1989-they-re-now-worth-usd12-8-billion-here-s-how-that-9-000-return-compares-to-market-giantsthe-cowboys-sold-for-usd140-million-in-1989-they-re-now-worth-usd12-8-billion-here-s-how-that-9-000-return-compares-to-market-giants-jerry-jones-nfl-11790331
-Time Published: 2025-08-15T17:37:09Z
-Full Content:
-The Dallas Cowboys topped the NFL's most valuable teams list, according to Sportico: Jerry Jones bought the Cowboys in 1989 for $140 million, over $370 million in today's dollars. Based on the new valuation, his investment has grown 9,042% from the initial $90 million cash outlay and $50 million loan. Several companies with the largest market capitalizations on the market today hadn't even been started in 1989—Microsoft and Apple were the only members of the eventual Magnificent Seven that existed at the time. Tesla Inc. (TSLA), Meta Platforms Inc. (META), Amazon.com Inc. (AMZN), Nvidia Corp. (NVDA), and Google, now under parent company Alphabet Inc. (GOOGL), had not yet been founded. Here's a look at how the Cowboys' 9,000% gain compares to the return some of the most important stocks today, like Microsoft and Apple, have delivered since February 1989, along with how some of the companies with the largest market caps at the time have performed since. When applicable, stock prices have been adjusted to account for stock splits that have taken place in the decades since. Jerry Jones turned a $140 million bet on the Dallas Cowboys in 1989 into a $12.8 billion empire—one of the most lucrative investments in sports history. His 9,000% return rivals the long-term gains of giants like Walmart and Berkshire Hathaway, but is still dwarfed by the explosive gains of tech titans such as Microsoft and Apple.
 --------------------------------------------------
