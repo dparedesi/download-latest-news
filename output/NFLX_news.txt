@@ -1,5 +1,11 @@
 List of news related to Netflix stock price NFLX:
 
+Title: Stock market today: Nasdaq drops over 1% as Palantir, AMD drag down tech
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-drops-over-1-as-palantir-amd-drag-down-tech-200335512.html
+Time Published: 2025-08-19T20:03:35Z
+Description: Wall Street braced for results from retail giants as rising concerns over inflation cloud the path to an interest rate cut.
+--------------------------------------------------
+
 Title: Stock market today: S&P 500, Nasdaq slide as Home Depot leads out retail earnings
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-slide-as-home-depot-leads-out-retail-earnings-231504644.html
 Time Published: 2025-08-18T23:15:04Z

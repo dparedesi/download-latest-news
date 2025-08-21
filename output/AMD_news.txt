@@ -12,16 +12,16 @@ Time Published: 2025-08-19T19:39:59Z
 Description: Shares of video sharing platform Rumble (NASDAQGM:RUM) fell 3.6% in the afternoon session after investors took some profits off the table as markets awaited ...
 --------------------------------------------------
 
-Title: IonQ, Lumen, Getty Images, Vestis, and Globalstar Stocks Trade Down, What You Need To Know
-URL: https://finance.yahoo.com/news/ionq-lumen-getty-images-vestis-193951992.html
-Time Published: 2025-08-19T19:39:51Z
-Description: A number of stocks fell in the afternoon session after investors took some profits off the table as markets awaited signals on future monetary policy from...
---------------------------------------------------
-
 Title: CoreCivic, WEBTOON, Magnite, CECO Environmental, and Super Micro Shares Are Falling, What You Need To Know
 URL: https://finance.yahoo.com/news/corecivic-webtoon-magnite-ceco-environmental-193951076.html
 Time Published: 2025-08-19T19:39:51Z
 Description: A number of stocks fell in the morning session after investors took some profits off the table as markets awaited signals on future monetary policy from the ...
+--------------------------------------------------
+
+Title: IonQ, Lumen, Getty Images, Vestis, and Globalstar Stocks Trade Down, What You Need To Know
+URL: https://finance.yahoo.com/news/ionq-lumen-getty-images-vestis-193951992.html
+Time Published: 2025-08-19T19:39:51Z
+Description: A number of stocks fell in the afternoon session after investors took some profits off the table as markets awaited signals on future monetary policy from...
 --------------------------------------------------
 
 Title: What's Going On With AMD Stock Tuesday?

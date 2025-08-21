@@ -24,10 +24,23 @@ Time Published: 2025-08-19T20:07:28Z
 Description: Intel is getting a $2 billion lifeline from SoftBank and could get more from the Trump administration. But that might not be enough to save the ailing...
 --------------------------------------------------
 
+Title: Stock market today: Nasdaq drops over 1% as Palantir, AMD drag down tech
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-drops-over-1-as-palantir-amd-drag-down-tech-200335512.html
+Time Published: 2025-08-19T20:03:35Z
+Description: Wall Street braced for results from retail giants as rising concerns over inflation cloud the path to an interest rate cut.
+--------------------------------------------------
+
 Title: Nvidia is the most underowned megacap stock, Morgan Stanley says
 URL: https://finance.yahoo.com/news/nvidia-is-the-most-underowned-megacap-stock-morgan-stanley-says-181655265.html
 Time Published: 2025-08-19T18:16:55Z
 Description: Morgan Stanley says that despite its market dominance, Nvidia is still underowned by investors.
+--------------------------------------------------
+
+Title: Nvidia Considering 'Variety of Products' as New China AI Chip Details Emerge
+URL: https://www.investopedia.com/nvidia-considering-variety-of-products-as-new-china-ai-chip-details-emerge-11793617
+Time Published: 2025-08-19T18:02:09Z
+Full Content:
+Nvidia (NVDA) said it's considering a "variety of products" for its roadmap as more details emerge about a new AI chip for the Chinese market. This follows recent signs of inroads in winning approvals from the Trump administration to expand sales to the country. Nvidia could look to deliver samples of the new chip to Chinese clients for testing as early as next month, Reuters reported Tuesday. The new chip, tentatively known as the B30A, is based on Nvidia's Blackwell architecture and more advanced than the H20 chip the company recently won approval to resume selling in China after striking a deal with President Trump to pay the U.S. government 15% of its China chip revenue. A Nvidia spokesperson told Investopedia Tuesday that the company wants to be "prepared to compete to the extent that governments allow," adding "everything we offer is with the full approval of the applicable authorities and designed solely for beneficial commercial use." Shares of Nvidia fell close to 4% amid broader tech sector losses Tuesday. Still, they've added nearly a third of their value this year, after their recent rally amid optimism about the company's sales in China and strong demand for AI hardware. While many on Wall Street saw the recent 15% revenue-sharing agreements for Nvidia and Advanced Micro Devices (AMD) as a positive development for the companies—which took a hit on export curbs earlier in the year—some have raised concerns about what they could mean for American tech companies navigating rapidly changing China trade policies. "It feels like a slippery slope to us," Bernstein analysts wrote last week of the deals, which could open the door to others and pointed to a lack of clarity on whether and how much companies could be pushed to pay to sell such products in China. "Sure it might raise some money, but doesn't seem to address any strategic issues beyond a grab for dollars," the analysts said. Last week, Trump suggested he could be open to expanding Nvidia's licenses to cover more powerful chips, after further negotiations. Nvidia CEO Jensen Huang could be asked for more details on the company's plans when the chipmaker reports its latest quarterly financial results after the bell Aug. 27. This article has been updated since it was first published to reflect more recent share price values.
 --------------------------------------------------
 
 Title: NVDA: Nvidia, Broadcom Lead as Citi Bets on More Upside in Chip Sector
@@ -61,16 +74,16 @@ Time Published: 2025-08-19T13:36:00Z
 Description: UBS Global Wealth Management strategists see plenty of drivers to keep pushing gold beyond the record run it has seen in 2025.
 --------------------------------------------------
 
-Title: Intel stock jumps 5% as SoftBank takes $2 billion stake in ailing chip company
-URL: https://finance.yahoo.com/news/intel-stock-jumps-5-as-softbank-takes-2-billion-stake-in-ailing-chip-company-123540936.html
-Time Published: 2025-08-19T12:35:40Z
-Description: Intel stock jumped on news that SoftBank will take a $2 billion in the company.
---------------------------------------------------
-
 Title: Intel stock surges 10% as SoftBank takes $2 billion stake in ailing chip company
 URL: https://finance.yahoo.com/news/intel-stock-surges-10-as-softbank-takes-2-billion-stake-in-ailing-chip-company-123540091.html
 Time Published: 2025-08-19T12:35:40Z
 Description: Intel stock jumped on news that SoftBank will take a $2 billion stake in the company.
+--------------------------------------------------
+
+Title: Intel stock jumps 5% as SoftBank takes $2 billion stake in ailing chip company
+URL: https://finance.yahoo.com/news/intel-stock-jumps-5-as-softbank-takes-2-billion-stake-in-ailing-chip-company-123540936.html
+Time Published: 2025-08-19T12:35:40Z
+Description: Intel stock jumped on news that SoftBank will take a $2 billion in the company.
 --------------------------------------------------
 
 Title: NVDA: Morgan Stanley Says 'Time to Power Up' Nvidia Ahead of Earnings
