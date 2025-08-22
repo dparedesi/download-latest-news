@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Veteran analyst makes staggering AI spending prediction
+URL: https://www.thestreet.com/technology/veteran-analyst-makes-staggering-ai-spending-prediction
+Time Published: 2025-08-21T17:17:00Z
+Description: The long-time Wall Street analyst updates the amount data centers will spend on AI.
+--------------------------------------------------
+
 Title: Short sellers reap over $5 billion on Big Tech bets as AI fears roil market
 URL: https://finance.yahoo.com/news/short-sellers-reap-over-5-billion-on-big-tech-bets-as-ai-fears-roil-market-100040412.html
 Time Published: 2025-08-21T07:00:40Z

@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Veteran analyst makes staggering AI spending prediction
+URL: https://www.thestreet.com/technology/veteran-analyst-makes-staggering-ai-spending-prediction
+Time Published: 2025-08-21T17:17:00Z
+Description: The long-time Wall Street analyst updates the amount data centers will spend on AI.
+--------------------------------------------------
+
 Title: US stocks fall: Dow drops 0.3%, S&P 500 hits fifth losing day, Nasdaq slides as Walmart earnings miss and manufacturing surges
 URL: https://economictimes.indiatimes.com/news/international/us/us-stocks-fall-today-dow-drops-0-3-sp-500-hits-fifth-losing-day-nasdaq-slides-as-walmart-earnings-miss-and-manufacturing-surges/articleshow/123435642.cms
 Time Published: 2025-08-21T15:41:06Z
@@ -20,14 +26,14 @@ Full Content:
 US Stock Futures Today opened with mixed signals as Wall Street traders weighed tech sector uncertainty against the Federal Reserve’s next big policy move. Dow and S&P 500 futures pointed lower, while the Nasdaq managed to hold steady, showing how fragile investor confidence remains. Retail earnings, particularly from Walmart, and Jerome Powell’s Jackson Hole speech are setting the stage for a volatile trading day. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. 65 illegal aliens nabbed in Connecticut Priyanka Chaturvedi accuses the BJP of ignoring parliamentary norms Vance reveals Russia, Ukraine peace terms ‘Very Soon, we shall send someone from our capsule’: Shubhanshu shukla 'PM Modi’s Hindutva will appear softer': Prashant Kishor Pakistan flash flood: Survivors describe nightmarish seconds PM Modi in Lok Sabha; Oppn chants ‘vote chor, gaddi chhor' Major takeaways from India-China talks Beloved ‘Kindness Judge’ Frank Caprio passes away at 88 Rajya Sabha discusses bill for blanket ban on money gaming 65 illegal aliens nabbed in Connecticut Priyanka Chaturvedi accuses the BJP of ignoring parliamentary norms Vance reveals Russia, Ukraine peace terms ‘Very Soon, we shall send someone from our capsule’: Shubhanshu shukla 'PM Modi’s Hindutva will appear softer': Prashant Kishor Pakistan flash flood: Survivors describe nightmarish seconds PM Modi in Lok Sabha; Oppn chants ‘vote chor, gaddi chhor' Major takeaways from India-China talks Beloved ‘Kindness Judge’ Frank Caprio passes away at 88 Rajya Sabha discusses bill for blanket ban on money gaming Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Prime Articles Top Market Pages Top Story Listing Top Slideshow Private Companies Top Commodities Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
 --------------------------------------------------
 
-Title: Earnings live: Walmart stock falls on earnings miss as CEO flags higher tariff-related costs
-URL: https://finance.yahoo.com/news/live/earnings-live-walmart-stock-falls-on-earnings-miss-as-ceo-flags-higher-tariff-related-costs-120535001.html
+Title: Earnings live: Walmart stock under pressure after earnings miss, Target slides
+URL: https://finance.yahoo.com/news/live/earnings-live-walmart-stock-under-pressure-after-earnings-miss-target-slides-120535601.html
 Time Published: 2025-08-21T12:05:35Z
 Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
 --------------------------------------------------
 
-Title: Earnings live: Walmart stock under pressure after earnings miss, Target slides
-URL: https://finance.yahoo.com/news/live/earnings-live-walmart-stock-under-pressure-after-earnings-miss-target-slides-120535601.html
+Title: Earnings live: Walmart stock falls on earnings miss as CEO flags higher tariff-related costs
+URL: https://finance.yahoo.com/news/live/earnings-live-walmart-stock-falls-on-earnings-miss-as-ceo-flags-higher-tariff-related-costs-120535001.html
 Time Published: 2025-08-21T12:05:35Z
 Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
 --------------------------------------------------
@@ -259,16 +265,16 @@ Time Published: 2025-08-19T13:36:00Z
 Description: UBS Global Wealth Management strategists see plenty of drivers to keep pushing gold beyond the record run it has seen in 2025.
 --------------------------------------------------
 
-Title: Intel stock jumps 5% as SoftBank takes $2 billion stake in ailing chip company
-URL: https://finance.yahoo.com/news/intel-stock-jumps-5-as-softbank-takes-2-billion-stake-in-ailing-chip-company-123540936.html
-Time Published: 2025-08-19T12:35:40Z
-Description: Intel stock jumped on news that SoftBank will take a $2 billion in the company.
---------------------------------------------------
-
 Title: Intel stock surges 10% as SoftBank takes $2 billion stake in ailing chip company
 URL: https://finance.yahoo.com/news/intel-stock-surges-10-as-softbank-takes-2-billion-stake-in-ailing-chip-company-123540091.html
 Time Published: 2025-08-19T12:35:40Z
 Description: Intel stock jumped on news that SoftBank will take a $2 billion stake in the company.
+--------------------------------------------------
+
+Title: Intel stock jumps 5% as SoftBank takes $2 billion stake in ailing chip company
+URL: https://finance.yahoo.com/news/intel-stock-jumps-5-as-softbank-takes-2-billion-stake-in-ailing-chip-company-123540936.html
+Time Published: 2025-08-19T12:35:40Z
+Description: Intel stock jumped on news that SoftBank will take a $2 billion in the company.
 --------------------------------------------------
 
 Title: NVDA: Morgan Stanley Says 'Time to Power Up' Nvidia Ahead of Earnings
@@ -300,11 +306,4 @@ URL: https://www.globenewswire.com/news-release/2025/08/18/3135370/0/en/Purpose-
 Time Published: 2025-08-18T23:00:00Z
 Full Content:
 August 18, 2025 19:00 ET | Source: Purpose Investments Inc. Purpose Investments Inc. TORONTO, Aug. 18, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of August 2025 for its open-end exchange-traded funds and closed-end funds (“the Funds”). The ex-distribution date for all Open-End Funds is August 27, 2025. The ex-distribution date for all closed-end funds is August 29, 2025. Estimated August 2025 Distributions for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund The August 2025 distribution rates for the Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund are estimated to be as follows: Purpose expects to issue a press release on or about August 26, 2025, which will provide the final distribution rate for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund. The ex-distribution date will be August 27, 2025. About Purpose Investments Inc. Purpose Investments is an asset management company with more than $21 billion in assets under management. Purpose Investments has an unrelenting focus on client-centric innovation and offers a range of managed and quantitative investment products. Purpose Investments is led by well-known entrepreneur Som Seif and is a division of Purpose Unlimited, an independent technology-driven financial services company. For further information, please email us at info@purposeinvest.com. Media inquiries, please contact: Keera Hart Keera.Hart@kaiserpartners.com 905-580-1257 Commissions, trailing commissions, management fees and expenses all may be associated with investment fund investments. Please read the prospectus and other disclosure documents before investing. Investment funds are not covered by the Canada Deposit Insurance Corporation or any other government deposit insurer. There can be no assurance that the full amount of your investment in a fund will be returned to you. If the securities are purchased or sold on a stock exchange, you may pay more or receive less than the current net asset value. Investment funds are not guaranteed; their values change frequently, and past performance may not be repeated. TORONTO, Aug. 21, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose” or “Purpose Investments”) is proud to announce the launch of 10 new Canadian Yield Shares ETFs, further expanding its... TORONTO, Aug. 19, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose” or “Purpose Investments”) is pleased to announce that it has received final prospectus approval for new Canadian Yield...
---------------------------------------------------
-
-Title: VanEck announce new growth ASX ETF
-URL: https://www.fool.com.au/2025/08/19/vaneck-announce-new-growth-asx-etf/
-Time Published: 2025-08-18T20:45:00Z
-Description: There's about to be a new ASX ETF on the block. 
-The post VanEck announce new growth ASX ETF appeared first on The Motley Fool Australia.
 --------------------------------------------------
