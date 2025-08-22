@@ -1,9 +1,33 @@
 List of news related to NVIDIA NVDA:
 
+Title: The tech trade hits pause ahead of Nvidia earnings
+URL: https://finance.yahoo.com/news/the-tech-trade-hits-pause-ahead-of-nvidia-earnings-100053109.html
+Time Published: 2025-08-21T10:00:53Z
+Description: AI investors have been enriched by tech's rising stock prices but also pressured by the staggering weight of them.
+--------------------------------------------------
+
 Title: Short sellers reap over $5 billion on Big Tech bets as AI fears roil market
 URL: https://finance.yahoo.com/news/short-sellers-reap-over-5-billion-on-big-tech-bets-as-ai-fears-roil-market-100040412.html
 Time Published: 2025-08-21T07:00:40Z
 Description: As the market has rotated away from Big Tech and AI heavyweights over the past few days, short sellers who bet against the AI and Big Tech trade have reaped ...
+--------------------------------------------------
+
+Title: Analyst Joseph Moore Lifts Nvidia (NVDA) Price Target Before Earnings Report
+URL: https://finance.yahoo.com/news/analyst-joseph-moore-lifts-nvidia-225357141.html
+Time Published: 2025-08-20T22:53:57Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Analysts Are Watching Closely. On August 18, Morgan Stanley reiterated the stock as “Overweight” and...
+--------------------------------------------------
+
+Title: Ready to Buy the Dip? 5 Nasdaq-100 Stocks Down 10% or More
+URL: https://www.barchart.com/story/news/34287391/ready-to-buy-the-dip-5-nasdaq-100-stocks-down-10-or-more
+Time Published: 2025-08-20T22:30:13Z
+Description: Tech stocks have sold off sharply in recent sessions, with traders rotating out of Magnificent 7 stocks and overvalued AI names like Palantir.
+--------------------------------------------------
+
+Title: Stocks Finish Mostly Lower on Tech Stock Weakness
+URL: https://www.barchart.com/story/news/34285190/stocks-finish-mostly-lower-on-tech-stock-weakness
+Time Published: 2025-08-20T20:35:03Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed down by -0.24%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.04%, and the Nasdaq 100 ...
 --------------------------------------------------
 
 Title: Nvidia Stock Is Falling Hard for No Real Reason. Should You Buy the Dip in NVDA Here?
@@ -281,29 +305,4 @@ Title: NVIDIA (NVDA) Poised for More Upside With AI and China Tailwinds
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8f5b89f5-55c8-4f49-a663-0da4cb2904b3
 Time Published: 2025-08-18T10:57:01Z
 Description: None
---------------------------------------------------
-
-Title: Buy Nvidia Stock Ahead of Earnings?
-URL: https://www.forbes.com/sites/greatspeculations/2025/08/18/buy-nvidia-stock-ahead-of-earnings/
-Time Published: 2025-08-18T09:00:16Z
-Full Content:
-ByTrefis Team ByTrefis Team, Contributor. Nvidia (NASDAQ:NVDA) is expected to announce its Q2 2026 earnings at the end of August (January fiscal year). Analysts anticipate earnings of $1 per share, an increase from $0.68 in the same quarter last year, and revenues are projected to grow by over 50% year-over-year to $45.60 billion. This growth is likely to be fueled by the sustained strong demand for the company’s GPU chips utilized in generative AI applications. Nvidia has been increasing large-scale production of its latest Blackwell AI supercomputers. These new chips, with their cutting-edge AI functionalities and premium pricing, may assist in driving revenue growth during Q2 FY’26, while also enhancing margins. Historically, NVDA stock has tended to outperform following earnings releases, having risen 60% of the time with a median one-day increase of 4.5% and a maximum observed increase of 24%. The company holds a current market capitalization of $4.4 trillion. Over the past twelve months, revenue totaled $149 billion, and it was operationally profitable, achieving $86 billion in operating profits and a net income of $77 billion. Although much will depend on how results compare to consensus expectations, recognizing historical trends may improve your chances if you are an event-driven trader. Should you Buy Or Fear Nvidia stock? For event-driven traders, historical trends might provide an advantage, whether by positioning prior to earnings or responding to post-release movements. That said, if you are looking for upside with less volatility than that of individual stocks, the Trefis High Quality portfolio offers an alternative, having outperformed the S&P 500 and generated returns exceeding 91% since its inception. See earnings reaction history of all stocks Some insights on one-day (1D) post-earnings returns: Additional data for observed 5-Day (5D) and 21-Day (21D) returns post earnings are summarized along with the statistics in the table below. A relatively less risky strategy (although not useful if the correlation is low) is to assess the relationship between short-term and medium-term returns post earnings, identify a pair with the highest correlation, and execute the suitable trade. For instance, if 1D and 5D show the strongest correlation, a trader could position themselves “long” for the upcoming 5 days if the 1D post-earnings return is positive. Here is some correlation data based on a 5-year and a 3-year (more recent) history. Note that the correlation 1D_5D refers to the association between 1D post-earnings returns and subsequent 5D returns. Occasionally, peer performance can impact post-earnings stock reactions. Indeed, the pricing-in may start before the earnings announcements are made. Here is some historical data illustrating the past post-earnings performance of NVIDIA stock compared with the stock performance of peers that reported earnings immediately before NVIDIA. For an equitable comparison, peer stock returns also reflect post-earnings one-day (1D) returns. Learn more about Trefis RV strategy that has outperformed its all-cap stocks benchmark (the combination of all three, the S&P 500, S&P mid-cap, and Russell 2000), delivering strong returns for investors. Additionally, if you prefer upside with a smoother ride compared to an individual stock like NVIDIA, consider the High Quality portfolio, which has outperformed the S&P and recorded >91% returns since its inception.
---------------------------------------------------
-
-Title: Foxconn’s Apple era fades as AI servers drive growth in Taiwan tech sector
-URL: https://finance.yahoo.com/news/foxconn-apple-era-fades-ai-083405820.html
-Time Published: 2025-08-18T08:34:05Z
-Description: TAIPEI (Reuters) -Taiwan's Foxconn, which rose to become a global tech manufacturing juggernaut by assembling millions of iPhones, can now say its main...
---------------------------------------------------
-
-Title: Piper Sandler Raises NVIDIA (NVDA) Price Target to $225 Ahead of Earnings
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6d25c676-2c33-4243-9b4d-50e9b3627a97
-Time Published: 2025-08-17T21:22:49Z
-Description: None
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA): I Spend A Lot Of Time Shooting Down Rumors, Says Jim Cramer
-URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-spend-lot-211354053.html
-Time Published: 2025-08-17T21:13:54Z
-Description: We recently published 12 Latest Stocks Jim Cramer Discussed. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer recently discussed. August has ...
 --------------------------------------------------
