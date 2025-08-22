@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stock Losses Accelerate on a Rout in Tech Stocks
+URL: https://www.barchart.com/story/news/34278449/stock-losses-accelerate-on-a-rout-in-tech-stocks
+Time Published: 2025-08-20T15:09:29Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -1.01%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.27%, and the Nasdaq 100 Index ($IUXX ...
+--------------------------------------------------
+
+Title: Tech Weakness and Negative Corporate News Weigh on Stocks
+URL: https://www.barchart.com/story/news/34276602/tech-weakness-and-negative-corporate-news-weigh-on-stocks
+Time Published: 2025-08-20T14:01:55Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.30%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.12%, and the Nasdaq 100 Index ($IUXX ...
+--------------------------------------------------
+
 Title: LSI (LYTS) Q2 Earnings: What To Expect
 URL: https://finance.yahoo.com/news/lsi-lyts-q2-earnings-expect-030231558.html
 Time Published: 2025-08-20T03:02:31Z

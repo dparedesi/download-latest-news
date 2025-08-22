@@ -1,9 +1,27 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Stock Losses Accelerate on a Rout in Tech Stocks
+URL: https://www.barchart.com/story/news/34278449/stock-losses-accelerate-on-a-rout-in-tech-stocks
+Time Published: 2025-08-20T15:09:29Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -1.01%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.27%, and the Nasdaq 100 Index ($IUXX ...
+--------------------------------------------------
+
 Title: Stock Market Today: Target's new man at the top
 URL: https://www.thestreet.com/investing/stock-market-today-august-20-2025
 Time Published: 2025-08-20T14:30:06Z
 Description: Retail earnings from TJX and Lowe's are set to top today's earnings
+--------------------------------------------------
+
+Title: Tech Weakness and Negative Corporate News Weigh on Stocks
+URL: https://www.barchart.com/story/news/34276602/tech-weakness-and-negative-corporate-news-weigh-on-stocks
+Time Published: 2025-08-20T14:01:55Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.30%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.12%, and the Nasdaq 100 Index ($IUXX ...
+--------------------------------------------------
+
+Title: The Quantum Computing Race Is On: These 2 Stocks Appear Poised to Lead
+URL: https://www.barchart.com/story/news/34270852/the-quantum-computing-race-is-on-these-2-stocks-appear-poised-to-lead
+Time Published: 2025-08-20T11:30:02Z
+Description: These two quantum computing stocks companies continue to aggressively expand.
 --------------------------------------------------
 
 Title: Nvidia Has a Strategic Advantage at the AI-Robotics Convergence
