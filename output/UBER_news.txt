@@ -1,5 +1,11 @@
 List of news related to Uber stock price UBER:
 
+Title: PONY vs. TSLA: Which Is the Better Robotaxi Stock to Buy in August 2025?
+URL: https://www.barchart.com/story/news/34312570/pony-vs-tsla-which-is-the-better-robotaxi-stock-to-buy-in-august-2025
+Time Published: 2025-08-21T19:43:54Z
+Description: Tesla faces stiff competition from China, but can Pony be a serious competitor?
+--------------------------------------------------
+
 Title: Serve Robotics (SERV) Strengthens Uber Eats Partnership, Gains Analyst Confidence
 URL: https://finance.yahoo.com/news/serve-robotics-serv-strengthens-uber-151510654.html
 Time Published: 2025-08-21T15:15:10Z
@@ -121,10 +127,4 @@ Title: Electric Vehicles Update - Asia-Pacific E-Bike Market Soars with Urban Gr
 URL: https://finance.yahoo.com/news/electric-vehicles-asia-pacific-e-103938358.html
 Time Published: 2025-08-18T10:39:38Z
 Description: The Asia-Pacific E-bike market is experiencing significant growth, projected to increase from USD 13.7 billion in 2024 to USD 19.9 billion by 2034. This...
---------------------------------------------------
-
-Title: Clear Secure, Inc. (YOU): A Bull Case Theory
-URL: https://finance.yahoo.com/news/clear-secure-inc-bull-case-035424926.html
-Time Published: 2025-08-17T03:54:24Z
-Description: We came across a bullish thesis on Clear Secure, Inc. on Make Money, Make Time’s Substack by Oliver | MMMT Wealth. In this article, we will summarize the...
 --------------------------------------------------

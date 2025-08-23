@@ -1,5 +1,17 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq surge with Powell speech underway
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-surge-as-powell-opens-door-to-september-rate-cut-232638997.html
+Time Published: 2025-08-21T23:26:38Z
+Description: Wall Street is tightly focused on Federal Reserve Chair Jerome Powell's speech at Jackson Hole for clues to rate cuts.
+--------------------------------------------------
+
+Title: There’s a slow-motion crisis in bonds — and this bearish strategist thinks it will hit stocks
+URL: https://www.marketwatch.com/story/theres-a-slow-motion-crisis-in-bonds-and-this-bearish-strategist-thinks-it-will-hit-stocks-80ca5840
+Time Published: 2025-08-21T13:37:00Z
+Description: Societe Generale’s Albert Edwards says the move higher in long government bond yields has been “relentless,” and investors have ignored it.
+--------------------------------------------------
+
 Title: Astera, AMD Lead Tech Selloff; Nvidia, Broadcom, Qualcomm Fall
 URL: https://finance.yahoo.com/news/astera-amd-lead-tech-selloff-213720123.html
 Time Published: 2025-08-19T21:37:20Z

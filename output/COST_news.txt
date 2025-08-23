@@ -1,5 +1,11 @@
 List of news related to Costco stock price COST:
 
+Title: Stocks Settle Lower as Bond Yields Rise on Hawkish Fed Comments
+URL: https://www.barchart.com/story/news/34314106/stocks-settle-lower-as-bond-yields-rise-on-hawkish-fed-comments
+Time Published: 2025-08-21T20:41:02Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down by -0.40%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down by -0.34%, and the Nasdaq 100...
+--------------------------------------------------
+
 Title: Walmart raises guidance despite EPS miss, tariffs weighing
 URL: https://qz.com/walmart-earnings-q2-2025-tariffs-recession-eps
 Time Published: 2025-08-21T14:27:43Z
