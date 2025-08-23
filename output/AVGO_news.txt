@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Broadcom's AI Push Gains Speed With Microsoft, Meta, And Apple Pouring Billions Into Data Infrastructure
+URL: https://finance.yahoo.com/news/broadcoms-ai-push-gains-speed-103329002.html
+Time Published: 2025-08-22T10:33:29Z
+Description: Broadcom Inc. (NASDAQ:AVGO) is riding the artificial intelligence boom as soaring Big Tech investments in data infrastructure fuel demand for its custom...
+--------------------------------------------------
+
 Title: Veteran analyst makes staggering AI spending prediction
 URL: https://www.thestreet.com/technology/veteran-analyst-makes-staggering-ai-spending-prediction
 Time Published: 2025-08-21T17:17:00Z

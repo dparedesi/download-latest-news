@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Nvidia CEO Jensen Huang: ‘Anybody Who Wants to Buy’ Taiwan Semiconductor Stock ‘is a Very Smart Person’
+URL: https://www.barchart.com/story/news/34328044/nvidia-ceo-jensen-huang-anybody-who-wants-to-buy-taiwan-semiconductor-stock-is-a-very-smart-person
+Time Published: 2025-08-22T12:15:10Z
+Description: During a visit to Taiwan, the Nvidia executive praised foundry partner TSMC as one of the greatest companies in history.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq surge with Powell speech underway
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-surge-as-powell-opens-door-to-september-rate-cut-232638997.html
 Time Published: 2025-08-21T23:26:38Z
