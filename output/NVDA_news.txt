@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: S&P Futures Tick Higher With All Eyes on Powell’s Jackson Hole Speech
+URL: https://www.barchart.com/story/news/34324441/s-p-futures-gain-with-all-eyes-on-powells-jackson-hole-speech
+Time Published: 2025-08-22T10:02:18Z
+Description: September S&P 500 E-Mini futures (ESU25) are trending up +0.26% this morning, attempting to snap a five-session losing streak, with focus squarely on a...
+--------------------------------------------------
+
+Title: Meta's hiring freeze is a Meta problem, not an AI problem
+URL: https://finance.yahoo.com/news/metas-hiring-freeze-is-a-meta-problem-not-an-ai-problem-100025919.html
+Time Published: 2025-08-22T10:00:25Z
+Description: Meta's absurd AI job offers were a way to overcome its disadvantages, a sign of desperation rather than a show of strength.
+--------------------------------------------------
+
+Title: Zacks Investment Ideas feature highlights: NVIDIA
+URL: https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-080700988.html
+Time Published: 2025-08-22T08:07:00Z
+Description: NVIDIA showcases robotics breakthroughs, with 2M developers using its AI stack and a new Jetson Thor platform set to power humanoid innovation.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq surge with Powell speech underway
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-surge-as-powell-opens-door-to-september-rate-cut-232638997.html
 Time Published: 2025-08-21T23:26:38Z
@@ -286,23 +304,4 @@ URL: https://www.investopedia.com/nvidia-considering-variety-of-products-as-new-
 Time Published: 2025-08-19T18:02:09Z
 Full Content:
 Nvidia (NVDA) said it's considering a "variety of products" for its roadmap as more details emerge about a new AI chip for the Chinese market. This follows recent signs of inroads in winning approvals from the Trump administration to expand sales to the country. Nvidia could look to deliver samples of the new chip to Chinese clients for testing as early as next month, Reuters reported Tuesday. The new chip, tentatively known as the B30A, is based on Nvidia's Blackwell architecture and more advanced than the H20 chip the company recently won approval to resume selling in China after striking a deal with President Trump to pay the U.S. government 15% of its China chip revenue. A Nvidia spokesperson told Investopedia Tuesday that the company wants to be "prepared to compete to the extent that governments allow," adding "everything we offer is with the full approval of the applicable authorities and designed solely for beneficial commercial use." Shares of Nvidia fell close to 4% amid broader tech sector losses Tuesday. Still, they've added nearly a third of their value this year, after their recent rally amid optimism about the company's sales in China and strong demand for AI hardware. While many on Wall Street saw the recent 15% revenue-sharing agreements for Nvidia and Advanced Micro Devices (AMD) as a positive development for the companies—which took a hit on export curbs earlier in the year—some have raised concerns about what they could mean for American tech companies navigating rapidly changing China trade policies. "It feels like a slippery slope to us," Bernstein analysts wrote last week of the deals, which could open the door to others and pointed to a lack of clarity on whether and how much companies could be pushed to pay to sell such products in China. "Sure it might raise some money, but doesn't seem to address any strategic issues beyond a grab for dollars," the analysts said. Last week, Trump suggested he could be open to expanding Nvidia's licenses to cover more powerful chips, after further negotiations. Nvidia CEO Jensen Huang could be asked for more details on the company's plans when the chipmaker reports its latest quarterly financial results after the bell Aug. 27. This article has been updated since it was first published to reflect more recent share price values.
---------------------------------------------------
-
-Title: NVDA: Nvidia, Broadcom Lead as Citi Bets on More Upside in Chip Sector
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_13108c42-9780-4ae6-af2c-36d17c923a37
-Time Published: 2025-08-19T16:17:53Z
-Description: None
---------------------------------------------------
-
-Title: Top Stock Movers Now: Intel, Palo Alto Networks, Nvidia, and More
-URL: https://www.investopedia.com/top-stock-movers-now-intel-palo-alto-networks-nvidia-and-more-11793511
-Time Published: 2025-08-19T15:49:10Z
-Full Content:
-U.S. equities were mixed at midday as the market weighed more corporate earnings reports and news from the chip sector. The Dow Jones Industrial Average was up, while the S&P 500 and Nasdaq fell. Intel (INTC) was the best-performing stock in the S&P 500 when Japan's SoftBank Group made a $2 billion investment in the struggling chipmaker. Shares of Palo Alto Networks (PANW) advanced after the cybersecurity firm reported profit, sales, and guidance that beat forecasts on rising demand from companies looking for increasingly powerful tools to protect against hackers. Home Depot (HD) shares gained when the biggest home-improvement retailer affirmed its guidance on growth in do-it-yourself and construction projects. Nvidia (NVDA) shares declined on word CEO Jensen Huang sold 150,000 shares of the artificial intelligence semiconductor giant. Shares of Viking Therapeutics (VKTX) plunged after the biopharma firm's Phase 2 trial of its experimental weight-loss pill showed a large number of patients experienced adverse side effects. Oracle (ORCL) shares fell following reports of layoffs and the exit of the cloud software company’s chief security officer. Oil and gold futures dipped. The yield on the 10-year Treasury note slid. The U.S. dollar advanced on the pound, but lost ground to the euro and yen. Prices for most major cryptocurrencies were down. TradingView
---------------------------------------------------
-
-Title: Stocks Pressured by Weakness in Tech
-URL: https://www.barchart.com/story/news/34251046/stocks-pressured-by-weakness-in-tech
-Time Published: 2025-08-19T15:18:03Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.31%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.20%, and the Nasdaq 100 Index ($IUXX ) ...
 --------------------------------------------------
