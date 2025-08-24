@@ -1,5 +1,43 @@
 List of news related to NVIDIA NVDA:
 
+Title: Investors' biggest conundrum right now
+URL: https://finance.yahoo.com/news/investors-biggest-conundrum-right-now-100022002.html
+Time Published: 2025-08-23T10:00:22Z
+Description: The big debate on Wall Street is whether the market is finally going to see the promised rotation from Big Tech to the rest of the market. There's compelling...
+--------------------------------------------------
+
+Title: Market Valuations Don’t Matter…Until They Do
+URL: https://realinvestmentadvice.com/resources/blog/market-valuations-dont-matter-until-they-do/
+Time Published: 2025-08-23T09:10:05Z
+Description:  At a Glance
+
+
+<ul><!-- wp:list-item -->
+
+<li>J-Pow Sends Markets Back To Highs</li>
+
+
+
+
+<li>Market Valuations Don't Matter...Until They Do.</li>
+
+
+
+
+<li>Portfolio Tactics For Next Week</li>
+
+
+
+
+<li>From Lance's Desk: US Economy: Recent Data Suggests…
+--------------------------------------------------
+
+Title: Cantor Fitzgerald Raises PT on NVIDIA Corporation (NVDA) Amid Growing Demand for AI Compute
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e8126270-03df-46a9-b7ab-caa611ecb1ef
+Time Published: 2025-08-23T07:22:48Z
+Description: None
+--------------------------------------------------
+
 Title: Oppenheimer Maintains Outperform on Nvidia (NVDA) as Hyperscaler Capex Accelerates
 URL: https://finance.yahoo.com/news/oppenheimer-maintains-outperform-nvidia-nvda-043834274.html
 Time Published: 2025-08-23T04:38:34Z
@@ -127,7 +165,7 @@ Title: All Eyes on Powell as Bitcoin Holds Below $113K: Crypto Daybook Americas
 URL: https://www.coindesk.com/daybook-us/2025/08/22/all-eyes-on-powell-as-bitcoin-holds-below-usd113k-crypto-daybook-americas
 Time Published: 2025-08-22T11:15:00Z
 Full Content:
-You are viewing Crypto Daybook Americas, your morning briefing on what happened in the crypto markets overnight and what's expected during the coming day. Crypto Daybook Americas will arrive in your inbox at 7 a.m. ET to kickstart your morning with comprehensive insights. If you're not already subscribed, click here. You won't want to start your day without it. By Shaurya Malwa (All times ET unless indicated otherwise)Bitcoin BTC$114,882.36 is sitting around $113,00 having failed to clear $115,000. Not so long ago, when it was setting new highs and euphoria called for a push to $135,000, those numbers would have sounded wild. Now things are more muted. The CoinDesk 20 Index , a benchmark for the largest digital assets, slipped to 3,996, down 0.46% on the day after opening above 4,012. It touched a low of 3,957, showing how the pullback has been broad, not just a bitcoin story. For the time being, the market seems to be waiting for Fed Chair Jerome Powell to step up to the podium at Jackson Hole and either calm nerves or shake things up again. The mood isn’t great. Bitcoin funds have seen over $1 billion pulled in just a few days, according to SoSoValue data. Ether ETFs, despite seeing net inflows yesterday, have lost another half a billion dollars this week. Call it hedging, call it profit-taking, but money is flowing out. That’s a clear sign institutional traders would rather be safe than sorry heading into Powell’s speech. Ether, XRP, and Solana SOL$207.65 are all drifting the same way. ETH is stuck near $4,289, down from recent highs as network activity cools. XRP and SOL are each off more than 6% this week. None of them are crashing, but nobody’s buying aggressively either. They’re waiting for bitcoin to make the next move. Options are pricing in a couple percent swing around the speech — bigger than average, but not panic levels. That swing could be up or down, though the tilt feels negative if Powell sounds less dovish than markets want. As Pulkit Goyal from Orbit Markets put it, “BTC options are pricing in about a ±2% move around Powell’s speech.” The stakes are simple. If Powell hints at rate cuts, risk assets — crypto included — will probably breathe easier and bounce. If he remains cautious, the pullback could deepen, potentially pushing bitcoin toward the $108,000 support level. That’s why everyone’s watching so closely. Longer term there is still bullish chatter, however. Bitwise says pensions might one day push BTC to $200,000. Maybe. But that’s not today’s story. Today’s story is that bitcoin, like every other risk asset, is hanging on Powell’s words. Stay alert! The CoinDesk Policy & Regulation conference (formerly known as State of Crypto) is a one-day boutique event held in Washington on Sept. 10 that allows general counsels, compliance officers and regulatory executives to meet with public officials responsible for crypto legislation and regulatory oversight. Space is limited. Use code CDB10 for 10% off your registration through Aug. 31. By Shaurya Malwa Spot BTC ETFs Spot ETH ETFs Source: Farside Investors Siamak Masnavi contributed reporting. Shaurya is the Co-Leader of the CoinDesk tokens and data team in Asia with a focus on crypto derivatives, DeFi, market microstructure, and protocol analysis.Shaurya holds over $1,000 in BTC, ETH, SOL, AVAX, SUSHI, CRV, NEAR, YFI, YFII, SHIB, DOGE, USDT, USDC, BNB, MANA, MLN, LINK, XMR, ALGO, VET, CAKE, AAVE, COMP, ROOK, TRX, SNX, RUNE, FTM, ZIL, KSM, ENJ, CKB, JOE, GHST, PERP, BTRFLY, OHM, BANANA, ROME, BURGER, SPIRIT, and ORCA.He provides over $1,000 to liquidity pools on Compound, Curve, SushiSwap, PancakeSwap, BurgerSwap, Orca, AnySwap, SpiritSwap, Rook Protocol, Yearn Finance, Synthetix, Harvest, Redacted Cartel, OlympusDAO, Rome, Trader Joe, and SUN. Omkar Godbole is a Co-Managing Editor and analyst on CoinDesk's Markets team. He has been covering crypto options and futures, as well as macro and cross-asset activity, since 2019, leveraging his prior experience in directional and non-directional derivative strategies at brokerage firms. His extensive background also encompasses the FX markets, having served as a fundamental analyst at currency and commodities desks for Mumbai-based brokerages and FXStreet. Omkar holds small amounts of bitcoin, ether, BitTorrent, tron and dot.Omkar holds a Master's degree in Finance and a Chartered Market Technician (CMT) designation. Jamie has been part of CoinDesk's news team since February 2021, focusing on breaking news, Bitcoin tech and protocols and crypto VC. He holds BTC, ETH and DOGE. More For You Bitcoin Falters in Choppy Market, Ether Stays Resilient: Crypto Daybook Americas Your day-ahead look for Aug. 21, 2025 What to know: You are viewing Crypto Daybook Americas, your morning briefing on what happened in the crypto markets overnight and what's expected during the coming day. Crypto Daybook Americas will arrive in your inbox at 7 a.m. ET to kickstart your morning with comprehensive insights. If you're not already subscribed, click here. You won't want to start your day without it. About Contact
+You are viewing Crypto Daybook Americas, your morning briefing on what happened in the crypto markets overnight and what's expected during the coming day. Crypto Daybook Americas will arrive in your inbox at 7 a.m. ET to kickstart your morning with comprehensive insights. If you're not already subscribed, click here. You won't want to start your day without it. By Shaurya Malwa (All times ET unless indicated otherwise)Bitcoin BTC$115,244.11 is sitting around $113,00 having failed to clear $115,000. Not so long ago, when it was setting new highs and euphoria called for a push to $135,000, those numbers would have sounded wild. Now things are more muted. The CoinDesk 20 Index , a benchmark for the largest digital assets, slipped to 3,996, down 0.46% on the day after opening above 4,012. It touched a low of 3,957, showing how the pullback has been broad, not just a bitcoin story. For the time being, the market seems to be waiting for Fed Chair Jerome Powell to step up to the podium at Jackson Hole and either calm nerves or shake things up again. The mood isn’t great. Bitcoin funds have seen over $1 billion pulled in just a few days, according to SoSoValue data. Ether ETFs, despite seeing net inflows yesterday, have lost another half a billion dollars this week. Call it hedging, call it profit-taking, but money is flowing out. That’s a clear sign institutional traders would rather be safe than sorry heading into Powell’s speech. Ether, XRP, and Solana SOL$180.94 are all drifting the same way. ETH is stuck near $4,289, down from recent highs as network activity cools. XRP and SOL are each off more than 6% this week. None of them are crashing, but nobody’s buying aggressively either. They’re waiting for bitcoin to make the next move. Options are pricing in a couple percent swing around the speech — bigger than average, but not panic levels. That swing could be up or down, though the tilt feels negative if Powell sounds less dovish than markets want. As Pulkit Goyal from Orbit Markets put it, “BTC options are pricing in about a ±2% move around Powell’s speech.” The stakes are simple. If Powell hints at rate cuts, risk assets — crypto included — will probably breathe easier and bounce. If he remains cautious, the pullback could deepen, potentially pushing bitcoin toward the $108,000 support level. That’s why everyone’s watching so closely. Longer term there is still bullish chatter, however. Bitwise says pensions might one day push BTC to $200,000. Maybe. But that’s not today’s story. Today’s story is that bitcoin, like every other risk asset, is hanging on Powell’s words. Stay alert! The CoinDesk Policy & Regulation conference (formerly known as State of Crypto) is a one-day boutique event held in Washington on Sept. 10 that allows general counsels, compliance officers and regulatory executives to meet with public officials responsible for crypto legislation and regulatory oversight. Space is limited. Use code CDB10 for 10% off your registration through Aug. 31. By Shaurya Malwa Spot BTC ETFs Spot ETH ETFs Source: Farside Investors Siamak Masnavi contributed reporting. Shaurya is the Co-Leader of the CoinDesk tokens and data team in Asia with a focus on crypto derivatives, DeFi, market microstructure, and protocol analysis.Shaurya holds over $1,000 in BTC, ETH, SOL, AVAX, SUSHI, CRV, NEAR, YFI, YFII, SHIB, DOGE, USDT, USDC, BNB, MANA, MLN, LINK, XMR, ALGO, VET, CAKE, AAVE, COMP, ROOK, TRX, SNX, RUNE, FTM, ZIL, KSM, ENJ, CKB, JOE, GHST, PERP, BTRFLY, OHM, BANANA, ROME, BURGER, SPIRIT, and ORCA.He provides over $1,000 to liquidity pools on Compound, Curve, SushiSwap, PancakeSwap, BurgerSwap, Orca, AnySwap, SpiritSwap, Rook Protocol, Yearn Finance, Synthetix, Harvest, Redacted Cartel, OlympusDAO, Rome, Trader Joe, and SUN. Omkar Godbole is a Co-Managing Editor and analyst on CoinDesk's Markets team. He has been covering crypto options and futures, as well as macro and cross-asset activity, since 2019, leveraging his prior experience in directional and non-directional derivative strategies at brokerage firms. His extensive background also encompasses the FX markets, having served as a fundamental analyst at currency and commodities desks for Mumbai-based brokerages and FXStreet. Omkar holds small amounts of bitcoin, ether, BitTorrent, tron and dot.Omkar holds a Master's degree in Finance and a Chartered Market Technician (CMT) designation. Jamie has been part of CoinDesk's news team since February 2021, focusing on breaking news, Bitcoin tech and protocols and crypto VC. He holds BTC, ETH and DOGE. More For You Bitcoin Falters in Choppy Market, Ether Stays Resilient: Crypto Daybook Americas Your day-ahead look for Aug. 21, 2025 What to know: You are viewing Crypto Daybook Americas, your morning briefing on what happened in the crypto markets overnight and what's expected during the coming day. Crypto Daybook Americas will arrive in your inbox at 7 a.m. ET to kickstart your morning with comprehensive insights. If you're not already subscribed, click here. You won't want to start your day without it. About Contact
 --------------------------------------------------
 
 Title: Nvidia Halts China Chip Production as Beijing Warns Over Security, Reports Say
@@ -223,14 +261,14 @@ Full Content:
 US Stock Futures Today opened with mixed signals as Wall Street traders weighed tech sector uncertainty against the Federal Reserve’s next big policy move. Dow and S&P 500 futures pointed lower, while the Nasdaq managed to hold steady, showing how fragile investor confidence remains. Retail earnings, particularly from Walmart, and Jerome Powell’s Jackson Hole speech are setting the stage for a volatile trading day. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. 65 illegal aliens nabbed in Connecticut Priyanka Chaturvedi accuses the BJP of ignoring parliamentary norms Vance reveals Russia, Ukraine peace terms ‘Very Soon, we shall send someone from our capsule’: Shubhanshu shukla 'PM Modi’s Hindutva will appear softer': Prashant Kishor Pakistan flash flood: Survivors describe nightmarish seconds PM Modi in Lok Sabha; Oppn chants ‘vote chor, gaddi chhor' Major takeaways from India-China talks Beloved ‘Kindness Judge’ Frank Caprio passes away at 88 Rajya Sabha discusses bill for blanket ban on money gaming 65 illegal aliens nabbed in Connecticut Priyanka Chaturvedi accuses the BJP of ignoring parliamentary norms Vance reveals Russia, Ukraine peace terms ‘Very Soon, we shall send someone from our capsule’: Shubhanshu shukla 'PM Modi’s Hindutva will appear softer': Prashant Kishor Pakistan flash flood: Survivors describe nightmarish seconds PM Modi in Lok Sabha; Oppn chants ‘vote chor, gaddi chhor' Major takeaways from India-China talks Beloved ‘Kindness Judge’ Frank Caprio passes away at 88 Rajya Sabha discusses bill for blanket ban on money gaming Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Prime Articles Top Market Pages Top Story Listing Top Slideshow Private Companies Top Commodities Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
 --------------------------------------------------
 
-Title: Earnings live: Walmart stock falls on earnings miss as CEO flags higher tariff-related costs
-URL: https://finance.yahoo.com/news/live/earnings-live-walmart-stock-falls-on-earnings-miss-as-ceo-flags-higher-tariff-related-costs-120535001.html
+Title: Earnings live: Walmart stock under pressure after earnings miss, Target slides
+URL: https://finance.yahoo.com/news/live/earnings-live-walmart-stock-under-pressure-after-earnings-miss-target-slides-120535601.html
 Time Published: 2025-08-21T12:05:35Z
 Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
 --------------------------------------------------
 
-Title: Earnings live: Walmart stock under pressure after earnings miss, Target slides
-URL: https://finance.yahoo.com/news/live/earnings-live-walmart-stock-under-pressure-after-earnings-miss-target-slides-120535601.html
+Title: Earnings live: Walmart stock falls on earnings miss as CEO flags higher tariff-related costs
+URL: https://finance.yahoo.com/news/live/earnings-live-walmart-stock-falls-on-earnings-miss-as-ceo-flags-higher-tariff-related-costs-120535001.html
 Time Published: 2025-08-21T12:05:35Z
 Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
 --------------------------------------------------
@@ -288,22 +326,4 @@ Title: Stocks Finish Mostly Lower on Tech Stock Weakness
 URL: https://www.barchart.com/story/news/34285190/stocks-finish-mostly-lower-on-tech-stock-weakness
 Time Published: 2025-08-20T20:35:03Z
 Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed down by -0.24%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.04%, and the Nasdaq 100 ...
---------------------------------------------------
-
-Title: Nvidia Stock Is Falling Hard for No Real Reason. Should You Buy the Dip in NVDA Here?
-URL: https://www.barchart.com/story/news/34284911/nvidia-stock-is-falling-hard-for-no-real-reason-should-you-buy-the-dip-in-nvda-here
-Time Published: 2025-08-20T20:28:44Z
-Description: Nvidia stock sinks further amid a broader selloff in high-flying AI stocks. KeyBanc recommends loading up on NVDA shares on the recent weakness.
---------------------------------------------------
-
-Title: Earnings live: Target stock falls with Walmart earnings on deck
-URL: https://finance.yahoo.com/news/live/earnings-live-target-stock-falls-with-walmart-earnings-on-deck-201800309.html
-Time Published: 2025-08-20T20:18:00Z
-Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
---------------------------------------------------
-
-Title: How to Play Nvidia Stock as the Plot Over Its China Business Thickens
-URL: https://www.barchart.com/story/news/34282987/how-to-play-nvidia-stock-as-the-plot-over-its-china-business-thickens
-Time Published: 2025-08-20T18:49:32Z
-Description: Nvidia has been in the news due to its China business and is reportedly developing a new chip for the country.
 --------------------------------------------------
