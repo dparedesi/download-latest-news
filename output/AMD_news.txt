@@ -1,5 +1,17 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stocks Rally Sharply on Dovish Fed Chair Powell
+URL: https://www.barchart.com/story/news/34339528/stocks-rally-sharply-on-dovish-fed-chair-powell
+Time Published: 2025-08-22T20:38:59Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed up by +1.52%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +1.89%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: Stock market today: Dow jumps 800 points to record, S&P 500, Nasdaq soar as Powell's Jackson Hole finale fuels bets on September rate cut
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-800-points-to-record-sp-500-nasdaq-soar-as-powells-jackson-hole-finale-fuels-bets-on-september-rate-cut-200110990.html
+Time Published: 2025-08-22T20:01:10Z
+Description: Wall Street cheered remarks from Federal Reserve Chair Jerome Powell in Jackson Hole opening the door to a rate cut in September.
+--------------------------------------------------
+
 Title: Trump says US will take 10% stake in Intel
 URL: https://finance.yahoo.com/news/trump-says-us-will-take-10-stake-in-intel-180452265.html
 Time Published: 2025-08-22T18:04:52Z
@@ -85,16 +97,16 @@ Time Published: 2025-08-19T19:39:59Z
 Description: Shares of video sharing platform Rumble (NASDAQGM:RUM) fell 3.6% in the afternoon session after investors took some profits off the table as markets awaited ...
 --------------------------------------------------
 
-Title: IonQ, Lumen, Getty Images, Vestis, and Globalstar Stocks Trade Down, What You Need To Know
-URL: https://finance.yahoo.com/news/ionq-lumen-getty-images-vestis-193951992.html
-Time Published: 2025-08-19T19:39:51Z
-Description: A number of stocks fell in the afternoon session after investors took some profits off the table as markets awaited signals on future monetary policy from...
---------------------------------------------------
-
 Title: CoreCivic, WEBTOON, Magnite, CECO Environmental, and Super Micro Shares Are Falling, What You Need To Know
 URL: https://finance.yahoo.com/news/corecivic-webtoon-magnite-ceco-environmental-193951076.html
 Time Published: 2025-08-19T19:39:51Z
 Description: A number of stocks fell in the morning session after investors took some profits off the table as markets awaited signals on future monetary policy from the ...
+--------------------------------------------------
+
+Title: IonQ, Lumen, Getty Images, Vestis, and Globalstar Stocks Trade Down, What You Need To Know
+URL: https://finance.yahoo.com/news/ionq-lumen-getty-images-vestis-193951992.html
+Time Published: 2025-08-19T19:39:51Z
+Description: A number of stocks fell in the afternoon session after investors took some profits off the table as markets awaited signals on future monetary policy from...
 --------------------------------------------------
 
 Title: What's Going On With AMD Stock Tuesday?
@@ -113,10 +125,4 @@ Title: Stocks Slightly Lower as Retailer Earnings Arrive
 URL: https://www.barchart.com/story/news/34249039/stocks-slightly-lower-as-retailer-earnings-arrive
 Time Published: 2025-08-19T14:03:06Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.32%, and the Nasdaq 100 Index ($IUXX ) ...
---------------------------------------------------
-
-Title: Without this Jackson Hole signal, stocks could slide 15% in the fall, says one strategist
-URL: https://www.marketwatch.com/story/without-this-signal-at-from-powell-at-jackson-hole-stocks-could-slide-15-says-this-strategist-887b0673
-Time Published: 2025-08-18T13:31:00Z
-Description: Fed Chair Powell’s speech may disappoint investors, according to Evercore’s Emanuel
 --------------------------------------------------

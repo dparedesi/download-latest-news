@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Amazon (AMZN) Stock Gets $280 Target on Project Kuiper Momentum
+URL: https://finance.yahoo.com/news/amazon-amzn-stock-gets-280-005600619.html
+Time Published: 2025-08-23T00:56:00Z
+Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the Must-Watch AI Stocks for Investors. On August 20, Cantor Fitzgerald analyst Deepak Mathivanan reiterated an...
+--------------------------------------------------
+
 Title: Trump says US will take 10% stake in Intel
 URL: https://finance.yahoo.com/news/trump-says-us-will-take-10-stake-in-intel-180452265.html
 Time Published: 2025-08-22T18:04:52Z
@@ -116,16 +122,4 @@ URL: https://www.investopedia.com/fed-chair-powell-jackson-hole-speech-could-jol
 Time Published: 2025-08-19T10:00:00Z
 Full Content:
 Federal Reserve Chair Jerome Powell is slated to speak on Friday at the Fed’s annual gathering of central bankers in Jackson Hole, Wyoming, and Evercore ISI warns that market participants might not love what he has to say. Powell "is likely to indirectly signal a 25bp rate cut" at the Fed’s next policy meeting in mid-September, argued Evercore analysts led by Julian Emanuel in a note on Sunday. “For a market that was eager to embrace '50 in Sept,'" referring to market chatter about the likelihood officials would cut rates by 50 basis points, or half a percentage point, next month, "a balanced view could catalyze a near term -7% to -15% pullback into October." "The stakes … are high with both sides of the Dual Mandate muddled," the analysts wrote, referring to the Fed’s job of balancing stable prices and maximum employment. Inflation data last week painted a muddy picture of how tariffs are affecting prices; the Consumer Price Index rose less than expected in July, while wholesale prices climbed much faster than forecast. Labor market data is not much clearer. Weekly initial unemployment claims have held steady this year. Meanwhile, job growth has fallen to its slowest 3-month pace (outside of the pandemic shock) since 2010, when the unemployment rate was about 9%, double what it is today. President Donald Trump is adding to the uncertainty. Since returning to the White House in January, Trump has repeatedly criticized Powell, whom he appointed in 2019, and called on the Fed to lower rates. In early August, Trump fired the head of the Bureau of Labor Statistics after a disappointing jobs report, alarming some economists concerned that political interference could skew official economic data. High stock prices and seasonal weakness are additional causes for concern, says Evercore. "Pedal to the metal equity market bullishness in August typically runs into the realities of September," which is historically the worst month of the year for stocks, the analysts wrote. And Wall Street’s post-"Liberation Day" rally, fueled by trade deals and resilient corporate earnings, has stock valuations near their highest levels since the Dotcom Bubble. Against that backdrop, Evercore recommends investors hold a core portfolio of "AI Enablers, Adopters and Adapters" in the communication services, consumer discretionary, and tech sectors. Big names in the category include Amazon (AMZN), Alphabet (GOOG), and Micron (MU). They recommend supplementing those core holdings with attractively priced stocks with positive earnings revisions. They note healthcare companies, including Pfizer (PFE) and Cigna (CI), are overrepresented in the list of stocks that meet these criteria. They suggest funding those purchases by selling pricey stocks with less attractive earnings outlooks, including retail investor favorites like Palantir (PLTR), Tesla (TSLA), and Strategy (MSTR).
---------------------------------------------------
-
-Title: Should You Buy the Dip in Kroger Stock?
-URL: https://www.barchart.com/story/news/34230469/should-you-buy-the-dip-in-kroger-stock
-Time Published: 2025-08-18T20:57:04Z
-Description: Kroger stock falls following amazon fresh expansion announcement.
---------------------------------------------------
-
-Title: Target is probably still missing the mark: Opening Bid top takeaway
-URL: https://finance.yahoo.com/news/target-is-probably-still-missing-the-mark-opening-bid-top-takeaway-150722793.html
-Time Published: 2025-08-18T15:07:22Z
-Description: Buckle up. It could be an eventful week in markets.
 --------------------------------------------------
