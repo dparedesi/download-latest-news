@@ -29,9 +29,3 @@ URL: https://www.marketwatch.com/story/theres-a-slow-motion-crisis-in-bonds-and-
 Time Published: 2025-08-21T13:37:00Z
 Description: Societe Generale’s Albert Edwards says the move higher in long government bond yields has been “relentless,” and investors have ignored it.
 --------------------------------------------------
-
-Title: Astera, AMD Lead Tech Selloff; Nvidia, Broadcom, Qualcomm Fall
-URL: https://finance.yahoo.com/news/astera-amd-lead-tech-selloff-213720123.html
-Time Published: 2025-08-19T21:37:20Z
-Description: Nvidia, AMD Face Revenue-Share Deal in China; Stocks Trade Lower
---------------------------------------------------

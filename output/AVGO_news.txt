@@ -71,15 +71,3 @@ URL: https://finance.yahoo.com/news/mix-bullish-forces-boosted-broadcom-12211532
 Time Published: 2025-08-20T12:21:15Z
 Description: Baron Funds, an investment management company, released its “Baron Opportunity Fund” second-quarter 2025 investor letter. A copy of the letter can be...
 --------------------------------------------------
-
-Title: Stocks Mostly Lower as Chip Makers and Megacap Tech Companies Retreat
-URL: https://www.barchart.com/story/news/34257292/stocks-mostly-lower-as-chip-makers-and-megacap-tech-companies-retreat
-Time Published: 2025-08-19T20:35:13Z
-Description: The S&P 500 Index ($SPX ) (SPY ) Tuesday closed down by -0.59%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.02%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Stocks Pressured by Weakness in Tech
-URL: https://www.barchart.com/story/news/34251046/stocks-pressured-by-weakness-in-tech
-Time Published: 2025-08-19T15:18:03Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.31%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.20%, and the Nasdaq 100 Index ($IUXX ) ...
---------------------------------------------------

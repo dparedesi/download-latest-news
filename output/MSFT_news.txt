@@ -120,27 +120,3 @@ URL: https://finance.yahoo.com/news/lsi-lyts-q2-earnings-expect-030231558.html
 Time Published: 2025-08-20T03:02:31Z
 Description: Commercial lighting and retail display solutions provider LSI (NASDAQ:LYTS) will be announcing earnings results this Thursday before market hours. Here’s...
 --------------------------------------------------
-
-Title: Stocks Mostly Lower as Chip Makers and Megacap Tech Companies Retreat
-URL: https://www.barchart.com/story/news/34257292/stocks-mostly-lower-as-chip-makers-and-megacap-tech-companies-retreat
-Time Published: 2025-08-19T20:35:13Z
-Description: The S&P 500 Index ($SPX ) (SPY ) Tuesday closed down by -0.59%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.02%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Can IONQ Become the NVIDIA of Quantum Computing, and Is It a Buy?
-URL: https://finance.yahoo.com/news/ionq-become-nvidia-quantum-computing-190000828.html
-Time Published: 2025-08-19T19:00:00Z
-Description: IonQ's soaring revenues, acquisitions and cloud integrations fuel bold ambitions, but steep losses raise questions about its NVIDIA-like aspirations.
---------------------------------------------------
-
-Title: Nvidia is the most underowned megacap stock, Morgan Stanley says
-URL: https://finance.yahoo.com/news/nvidia-is-the-most-underowned-megacap-stock-morgan-stanley-says-181655265.html
-Time Published: 2025-08-19T18:16:55Z
-Description: Morgan Stanley says that despite its market dominance, Nvidia is still underowned by investors.
---------------------------------------------------
-
-Title: Stocks Pressured by Weakness in Tech
-URL: https://www.barchart.com/story/news/34251046/stocks-pressured-by-weakness-in-tech
-Time Published: 2025-08-19T15:18:03Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.31%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.20%, and the Nasdaq 100 Index ($IUXX ) ...
---------------------------------------------------
