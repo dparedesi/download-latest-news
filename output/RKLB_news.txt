@@ -11,10 +11,3 @@ URL: https://www.marketwatch.com/story/aerospace-and-defense-stocks-are-hot-thes
 Time Published: 2025-08-21T17:40:00Z
 Description: Various strategies for tracking the aerospace and defense industry have made good money for investors over the past 10 years.
 --------------------------------------------------
-
-Title: Potential Tailwinds Blowing For This Aerospace Stock
-URL: https://www.forbes.com/sites/greatspeculations/2025/08/20/potential-tailwinds-blowing-for-this-aerospace-stock/
-Time Published: 2025-08-20T19:33:12Z
-Full Content:
-BySchaeffer's Investment Research, Contributor. Aerospace and defense stock Rocket Lab Corp (RKLB) has been chopping lower since its July 17 record high of $53.44. The stock could be ready for a short-term pop, however, as the recent pullback has it flashing a historically bullish signal. Per Schaeffer's Senior Quantitative Analyst Rocky White, RKLB is within 0.75 of the 50-day trendline's 20-day average true range (ATR), after spending at least 80% of the last 10 days and 80% of the last two months above it. Over the past three years, six similar signals have occurred, after which the equity was higher one month later 67% of the time, averaging a 13.9% gain. A move of similar magnitude from the stock's current perch of $40.16 would put it at $45.74, much closer to its recent peak. RKLB’s 14-day relative strength index (RSI) of 19.98 sits firmly in "oversold" territory, which typically precedes a short-term bounce. Furthermore, short interest currently represents 11.3% of the stock's available float, leaving plenty for a short covering potential. An unwinding of pessimism amongst options traders could provide tailwinds as well. At the International Securities Exchange (ISE), Cboe Options Exchange (CBOE), and NASDAQ OMX PHLX (PHLX), Rocket Lab stock's 10-day put/call volume ratio of 0.98 ranks higher than 98% of readings from the past year. So while calls are still winning out on an absolute basis, put traders have been chiming in at a much faster-than-usual rate.
---------------------------------------------------

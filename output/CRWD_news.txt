@@ -36,15 +36,3 @@ URL: https://finance.yahoo.com/news/crwd-stock-price-prediction-where-085929380.
 Time Published: 2025-08-22T08:59:29Z
 Description: Analysts are saying that CrowdStrike could hit $766 by 2030. Bullish on CRWD? Invest in CrowdStrike on SoFi with no commissions. If it's your first time...
 --------------------------------------------------
-
-Title: Evercore ISI Cuts CrowdStrike (CRWD) PT to $425, Adds to Tactical Underperform List
-URL: https://finance.yahoo.com/news/evercore-isi-cuts-crowdstrike-crwd-225853471.html
-Time Published: 2025-08-20T22:58:53Z
-Description: CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of the AI Stocks Analysts Are Watching Closely. On August 18, Evercore ISI analyst Peter Levine lowered the...
---------------------------------------------------
-
-Title: Palo Alto Networks' growth, outlook in AI earn plaudits from veteran trader, analysts
-URL: https://www.thestreet.com/investing/stocks/palo-alto-networks-growth-outlook-in-ai-earn-plaudits-from-veteran-trader-analysts
-Time Published: 2025-08-20T02:33:00Z
-Description: With cyberattacks growing in number and complexity, Wall Street sees potential for stock appreciation at the cybersecurity stalwart.
---------------------------------------------------
