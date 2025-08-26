@@ -1,1 +1,7 @@
-No news found for Netflix stock price +NFLX
+List of news related to Netflix stock price NFLX:
+
+Title: Figma draws 'neutral' ratings as Wall Street flags lofty valuation, rising competition
+URL: https://finance.yahoo.com/news/figma-draws-neutral-ratings-wall-111421380.html
+Time Published: 2025-08-25T11:14:21Z
+Description: (Reuters) -Wall Street brokerages on Monday started their coverage of Figma (FIG) with neutral ratings, as they weighed the design software maker's lofty...
+--------------------------------------------------
