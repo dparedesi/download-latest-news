@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Small-cap stocks surged on Friday — and now, they’ve finally busted out of a range
+URL: https://www.marketwatch.com/story/small-cap-stocks-surged-on-friday-and-now-theyve-finally-busted-out-of-a-range-e5d612f9
+Time Published: 2025-08-25T13:55:00Z
+Description: Hard-hit small-cap stocks may finally have their day in the Sun.
+--------------------------------------------------
+
 Title: This week in Trumponomics: POTUS is on an investment spree
 URL: https://finance.yahoo.com/news/this-week-in-trumponomics-potus-is-on-an-investment-spree-140519231.html
 Time Published: 2025-08-23T14:05:19Z
@@ -16,16 +22,4 @@ Title: Nvidia CEO Jensen Huang: ‘Anybody Who Wants to Buy’ Taiwan Semiconduc
 URL: https://www.barchart.com/story/news/34328044/nvidia-ceo-jensen-huang-anybody-who-wants-to-buy-taiwan-semiconductor-stock-is-a-very-smart-person
 Time Published: 2025-08-22T12:15:10Z
 Description: During a visit to Taiwan, the Nvidia executive praised foundry partner TSMC as one of the greatest companies in history.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq surge with Powell speech underway
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-surge-as-powell-opens-door-to-september-rate-cut-232638997.html
-Time Published: 2025-08-21T23:26:38Z
-Description: Wall Street is tightly focused on Federal Reserve Chair Jerome Powell's speech at Jackson Hole for clues to rate cuts.
---------------------------------------------------
-
-Title: There’s a slow-motion crisis in bonds — and this bearish strategist thinks it will hit stocks
-URL: https://www.marketwatch.com/story/theres-a-slow-motion-crisis-in-bonds-and-this-bearish-strategist-thinks-it-will-hit-stocks-80ca5840
-Time Published: 2025-08-21T13:37:00Z
-Description: Societe Generale’s Albert Edwards says the move higher in long government bond yields has been “relentless,” and investors have ignored it.
 --------------------------------------------------

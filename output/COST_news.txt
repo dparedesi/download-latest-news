@@ -12,15 +12,3 @@ URL: https://finance.yahoo.com/news/people-love-money-saving-hacks-190123036.htm
 Time Published: 2025-08-23T19:01:23Z
 Description: Not all money-saving hacks are created equal. Some sound smart on the surface, but end up doing more harm than good. In a recent Reddit thread on r...
 --------------------------------------------------
-
-Title: Stocks Settle Lower as Bond Yields Rise on Hawkish Fed Comments
-URL: https://www.barchart.com/story/news/34314106/stocks-settle-lower-as-bond-yields-rise-on-hawkish-fed-comments
-Time Published: 2025-08-21T20:41:02Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down by -0.40%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down by -0.34%, and the Nasdaq 100...
---------------------------------------------------
-
-Title: Walmart raises guidance despite EPS miss, tariffs weighing
-URL: https://qz.com/walmart-earnings-q2-2025-tariffs-recession-eps
-Time Published: 2025-08-21T14:27:43Z
-Description: Tariffs and costs are climbing, but Walmart’s scale and low-price "Rollback" playbook helped it keep traffic flowing and shoppers filling carts
---------------------------------------------------

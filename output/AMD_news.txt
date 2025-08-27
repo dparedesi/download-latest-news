@@ -1,9 +1,21 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq waver after Trump moves to oust Fed's Cook
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-after-trump-moves-to-oust-feds-cook-230306741.html
+Time Published: 2025-08-25T23:03:06Z
+Description: US stocks hit pause as investors weighed Trump's escalation in pressure on the Fed and trading partners.
+--------------------------------------------------
+
 Title: What's Going On With AMD Stock Monday?
 URL: https://finance.yahoo.com/news/whats-going-amd-stock-monday-155031212.html
 Time Published: 2025-08-25T15:50:31Z
 Description: Advanced Micro Devices Inc. (NASDAQ:AMD) reversed its Friday gains on Monday after the Trump administration unveiled an $8.9 billion investment in rival...
+--------------------------------------------------
+
+Title: Small-cap stocks surged on Friday — and now, they’ve finally busted out of a range
+URL: https://www.marketwatch.com/story/small-cap-stocks-surged-on-friday-and-now-theyve-finally-busted-out-of-a-range-e5d612f9
+Time Published: 2025-08-25T13:55:00Z
+Description: Hard-hit small-cap stocks may finally have their day in the Sun.
 --------------------------------------------------
 
 Title: Nvidia will deliver key earnings report this week
@@ -41,28 +53,4 @@ Title: Trump says US will take 10% stake in Intel
 URL: https://finance.yahoo.com/news/trump-says-us-will-take-10-stake-in-intel-180452265.html
 Time Published: 2025-08-22T18:04:52Z
 Description: President Trump says the administration will take 10% stake in Intel.
---------------------------------------------------
-
-Title: Bullish Analysts, Options Traders Expect New Highs for Nvidia Stock After Earnings
-URL: https://www.barchart.com/story/news/34308033/bullish-analysts-options-traders-expect-new-highs-for-nvidia-stock-after-earnings
-Time Published: 2025-08-21T16:04:35Z
-Description: NVDA scored a couple of price-target hikes today, with Wedbush and UBS both looking for a move above $200.
---------------------------------------------------
-
-Title: Stocks Pressured by Weak Walmart Earnings and Higher Bond Yields
-URL: https://www.barchart.com/story/news/34305424/stocks-pressured-by-weak-walmart-earnings-and-higher-bond-yields
-Time Published: 2025-08-21T14:17:47Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.40%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.64%, and the Nasdaq 100 Index ($IUXX ...
---------------------------------------------------
-
-Title: 2 AI Stocks Investors Simply Can’t Ignore Here
-URL: https://www.barchart.com/story/news/34298726/2-ai-stocks-investors-simply-cant-ignore-here
-Time Published: 2025-08-21T11:30:02Z
-Description: Arista Networks and Super Micro Computer are firing on all cylinders to play the game for the long haul.
---------------------------------------------------
-
-Title: Short sellers reap over $5 billion on Big Tech bets as AI fears roil market
-URL: https://finance.yahoo.com/news/short-sellers-reap-over-5-billion-on-big-tech-bets-as-ai-fears-roil-market-100040412.html
-Time Published: 2025-08-21T07:00:40Z
-Description: As the market has rotated away from Big Tech and AI heavyweights over the past few days, short sellers who bet against the AI and Big Tech trade have reaped ...
 --------------------------------------------------
