@@ -6,6 +6,12 @@ Time Published: 2025-08-26T13:14:46Z
 Description: Wall Street still loves Nvidia and Broadcom, but analysts say lesser-known names may offer just as much upside.
 --------------------------------------------------
 
+Title: Stock Index Futures Fall as Fed Independence Concerns Resurface, U.S. Economic Data on Tap
+URL: https://www.barchart.com/story/news/34386529/stock-index-futures-muted-with-fate-of-feds-cook-in-focus-u-s-economic-data-on-tap
+Time Published: 2025-08-26T10:16:21Z
+Description: September S&P 500 E-Mini futures (ESU25) are down -0.16%, and September Nasdaq 100 E-Mini futures (NQU25) are down -0.19% this morning as investors weigh U.S...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq waver after Trump moves to oust Fed's Cook
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-after-trump-moves-to-oust-feds-cook-230306741.html
 Time Published: 2025-08-25T23:03:06Z
