@@ -1,13 +1,13 @@
 List of news related to Novo Nordisk NVO:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq muted after Trump moves to oust Fed's Cook
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-muted-after-trump-moves-to-oust-feds-cook-230306289.html
+Title: Stock market today: Dow, S&P 500, Nasdaq waver after Trump moves to oust Fed's Cook
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-after-trump-moves-to-oust-feds-cook-230306741.html
 Time Published: 2025-08-25T23:03:06Z
 Description: US stocks hit pause as investors weighed Trump's escalation in pressure on the Fed and trading partners.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq waver after Trump moves to oust Fed's Cook
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-after-trump-moves-to-oust-feds-cook-230306741.html
+Title: Stock market today: Dow, S&P 500, Nasdaq muted after Trump moves to oust Fed's Cook
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-muted-after-trump-moves-to-oust-feds-cook-230306289.html
 Time Published: 2025-08-25T23:03:06Z
 Description: US stocks hit pause as investors weighed Trump's escalation in pressure on the Fed and trading partners.
 --------------------------------------------------
