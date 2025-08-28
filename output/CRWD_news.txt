@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Stocks Finish Higher on Strength in Chip Makers and Lower Bond Yields
+URL: https://www.barchart.com/story/news/34403657/stocks-finish-higher-on-strength-in-chip-makers-and-lower-bond-yields
+Time Published: 2025-08-26T20:41:43Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed up by +0.41%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.30%, and the Nasdaq 100...
+--------------------------------------------------
+
 Title: Earnings live: MongoDB stock soars on AI tailwind, Okta gains steam, Bank of Montreal rises
 URL: https://finance.yahoo.com/news/live/earnings-live-mongodb-stock-soars-on-ai-tailwind-okta-gains-steam-bank-of-montreal-rises-121046939.html
 Time Published: 2025-08-26T12:10:46Z
