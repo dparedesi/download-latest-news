@@ -1,21 +1,45 @@
 List of news related to NVIDIA NVDA:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures hold steady with Nvidia earnings on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hold-steady-with-nvidia-earnings-on-deck-233419515.html
-Time Published: 2025-08-26T23:34:19Z
-Description: US stock futures inched higher with Wall Street on edge ahead of Nvidia's earnings report.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures in holding pattern with Nvidia earnings on deck
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-in-holding-pattern-with-nvidia-earnings-on-deck-233419974.html
 Time Published: 2025-08-26T23:34:19Z
 Description: US stock futures inched higher with Wall Street on edge ahead of Nvidia's earnings report.
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures hold steady with Nvidia earnings on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hold-steady-with-nvidia-earnings-on-deck-233419515.html
+Time Published: 2025-08-26T23:34:19Z
+Description: US stock futures inched higher with Wall Street on edge ahead of Nvidia's earnings report.
+--------------------------------------------------
+
+Title: Analyst Explains Why Nvidia (NVDA) Valuation Isn’t ‘As Streched as Everyone Would Argue’
+URL: https://finance.yahoo.com/news/analyst-explains-why-nvidia-nvda-200752601.html
+Time Published: 2025-08-26T20:07:52Z
+Description: We recently published Top 10 Trending Stocks to Watch Ahead of Nvidia Earnings. NVIDIA Corporation (NASDAQ:NVDA) is one of the top trending stocks to watch...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq climb with Trump Fed fight in focus, Nvidia earnings on deck
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-with-trump-fed-fight-in-focus-nvidia-earnings-on-deck-200119510.html
 Time Published: 2025-08-26T20:01:19Z
 Description: US stocks rose as investors weighed Trump's escalation in pressure on the Fed and trading partners.
+--------------------------------------------------
+
+Title: Dear Marvell Stock Fans, Mark Your Calendars for August 28
+URL: https://www.barchart.com/story/news/34402502/dear-marvell-stock-fans-mark-your-calendars-for-august-28
+Time Published: 2025-08-26T19:53:53Z
+Description: With Marvell shares struggling this year, here's what investors need to know as the chipmaker prepares to report second-quarter earnings on August 28.
+--------------------------------------------------
+
+Title: Trump and Softbank Are Just ‘Noise’ for Intel. Here’s How Wall Street Really Thinks You Should Play INTC Stock.
+URL: https://www.barchart.com/story/news/34402270/trump-and-softbank-are-just-noise-for-intel-heres-how-wall-street-really-thinks-you-should-play-intc-stock
+Time Published: 2025-08-26T19:28:31Z
+Description: Down 64% from all-time highs, Intel is a chip stock that might stage a rebound due to its strategic initiatives and AI investments. Is INTC stock a good buy ...
+--------------------------------------------------
+
+Title: Billionaires Are Buying Up This Chip Stock (Hint: It’s Not Nvidia)
+URL: https://www.barchart.com/story/news/34401809/billionaires-are-buying-up-this-chip-stock-hint-its-not-nvidia
+Time Published: 2025-08-26T19:07:29Z
+Description: With record growth, $100 billion in global investments, and Wall Street’s unwavering “Strong Buy” ratings, TSM’s behind-the-scenes chip dominance is now...
 --------------------------------------------------
 
 Title: After Months of Calm, Nvidia Earnings Could Spark a Big Stock Market Move
@@ -118,7 +142,7 @@ Title: Large Liquidations Mask Whale's Buy-the-Bitcoin-Dip Strategy: Crypto Dayb
 URL: https://www.coindesk.com/daybook-us/2025/08/26/large-liquidations-mask-whale-s-buy-the-bitcoin-dip-strategy-crypto-daybook-americas
 Time Published: 2025-08-26T11:15:00Z
 Full Content:
-You are viewing Crypto Daybook Americas, your morning briefing on what happened in the crypto markets overnight and what's expected during the coming day. Crypto Daybook Americas will arrive in your inbox at 7 a.m. ET to kickstart your morning with comprehensive insights. If you're not already subscribed, click here. You won't want to start your day without it. By Omkar Godbole (All times ET unless indicated otherwise) The sell-off in the cryptocurrency market deepened over the past 24 hours, with bitcoin BTC$112,950.85 falling below $109,000 for the first time since July 9 and ether (ETH) posting a 13% correction from the record high of around $4,950 it hit just two days ago. The CoinDesk 20 (CD20) and CoinDesk 80 (CD80) indices have dropped 2% and 3.3%, respectively, indicating larger losses in the broader altcoin market. The downside volatility toasted leveraged futures bets worth over $900 million, with long positions accounting for the majority of the tally. The slide kicked off on Sunday, when a whale sold 25,000 BTC in an illiquid market, sparking a flash crash. Several theories have been proposed to explain the whale's strategy, the most prominent being that they intentionally removed the bid wall — or block of buy orders — assuming that institutions would buy more through ETFs during the week, thereby lifting prices. "This whale is showing us something bigger, they know the ETF/sovereign bid is infinite. So the only way to win is to force weak hands to puke and then accumulate back into the structural wall," pseudonymous observer SightBringer said on X. According to MEXC Ventures, BTC is now at an inflexion point. It could enter a period of consolidation between $110,000 and $120,000 or break lower toward $105,000 to $100,000. "The absence of a fresh macro catalyst, such as a dovish Fed policy pivot, rate cuts, or renewed inflows, is likely to drive BTC into a period of market consolidation as the market digests the recent distribution," MEXC's Investment Director Leo Zhao said in an email. Similarly, the consensus remains bullish on ether. However, the sharp decline from Sunday's record suggests a sustained breakout to new highs will probably require a significant catalyst beyond just corporate treasury adoption. XRP, meanwhile, lacks a clear directional trend. "With Bollinger Bands constricting and RSI sitting at a neutral 44, but thin on buying volume, the chart is whispering of a potential retest of $2.60 to $2.00," Ryan Lee, the chief analyst at Bitget said. "A break above the $3.10 level with conviction and volume, and a run toward $3.40 could follow. But derivative markets are skewed short, and upside stays guarded until momentum firms." In traditional markets, the Treasury yield curve, represented by the spread between 10- and two-year yields and 30- and two-year yields, continues to steepen as traders bet on a September Fed rate cut. Meanwhile, longer-duration Japanese government bond yields are on the verge of hitting new multidecade highs, which could potentially inject volatility into global financial markets. Stay alert! The CoinDesk Policy & Regulation conference (formerly known as State of Crypto) is a one-day boutique event held in Washington on Sept. 10 that allows general counsels, compliance officers and regulatory executives to meet with public officials responsible for crypto legislation and regulatory oversight. Space is limited. Use code CDB10 for 10% off your registration through Aug. 31. By Shaurya Malwa Spot BTC ETFs Spot ETH ETFs Source: Farside Investors Siamak Masnavi contributed reporting. Omkar Godbole is a Co-Managing Editor and analyst on CoinDesk's Markets team. He has been covering crypto options and futures, as well as macro and cross-asset activity, since 2019, leveraging his prior experience in directional and non-directional derivative strategies at brokerage firms. His extensive background also encompasses the FX markets, having served as a fundamental analyst at currency and commodities desks for Mumbai-based brokerages and FXStreet. Omkar holds small amounts of bitcoin, ether, BitTorrent, tron and dot.Omkar holds a Master's degree in Finance and a Chartered Market Technician (CMT) designation. Shaurya is the Co-Leader of the CoinDesk tokens and data team in Asia with a focus on crypto derivatives, DeFi, market microstructure, and protocol analysis.Shaurya holds over $1,000 in BTC, ETH, SOL, AVAX, SUSHI, CRV, NEAR, YFI, YFII, SHIB, DOGE, USDT, USDC, BNB, MANA, MLN, LINK, XMR, ALGO, VET, CAKE, AAVE, COMP, ROOK, TRX, SNX, RUNE, FTM, ZIL, KSM, ENJ, CKB, JOE, GHST, PERP, BTRFLY, OHM, BANANA, ROME, BURGER, SPIRIT, and ORCA.He provides over $1,000 to liquidity pools on Compound, Curve, SushiSwap, PancakeSwap, BurgerSwap, Orca, AnySwap, SpiritSwap, Rook Protocol, Yearn Finance, Synthetix, Harvest, Redacted Cartel, OlympusDAO, Rome, Trader Joe, and SUN. Jamie has been part of CoinDesk's news team since February 2021, focusing on breaking news, Bitcoin tech and protocols and crypto VC. He holds BTC, ETH and DOGE. More For You Bitcoin Traders Eye Upside as BTC Holds Above $110K: Crypto Daybook Americas Your day-ahead look for Aug. 27, 2025 What to know: You are viewing Crypto Daybook Americas, your morning briefing on what happened in the crypto markets overnight and what's expected during the coming day. Crypto Daybook Americas will arrive in your inbox at 7 a.m. ET to kickstart your morning with comprehensive insights. If you're not already subscribed, click here. You won't want to start your day without it.
+You are viewing Crypto Daybook Americas, your morning briefing on what happened in the crypto markets overnight and what's expected during the coming day. Crypto Daybook Americas will arrive in your inbox at 7 a.m. ET to kickstart your morning with comprehensive insights. If you're not already subscribed, click here. You won't want to start your day without it. By Omkar Godbole (All times ET unless indicated otherwise) The sell-off in the cryptocurrency market deepened over the past 24 hours, with bitcoin BTC$113,307.69 falling below $109,000 for the first time since July 9 and ether (ETH) posting a 13% correction from the record high of around $4,950 it hit just two days ago. The CoinDesk 20 (CD20) and CoinDesk 80 (CD80) indices have dropped 2% and 3.3%, respectively, indicating larger losses in the broader altcoin market. The downside volatility toasted leveraged futures bets worth over $900 million, with long positions accounting for the majority of the tally. The slide kicked off on Sunday, when a whale sold 25,000 BTC in an illiquid market, sparking a flash crash. Several theories have been proposed to explain the whale's strategy, the most prominent being that they intentionally removed the bid wall — or block of buy orders — assuming that institutions would buy more through ETFs during the week, thereby lifting prices. "This whale is showing us something bigger, they know the ETF/sovereign bid is infinite. So the only way to win is to force weak hands to puke and then accumulate back into the structural wall," pseudonymous observer SightBringer said on X. According to MEXC Ventures, BTC is now at an inflexion point. It could enter a period of consolidation between $110,000 and $120,000 or break lower toward $105,000 to $100,000. "The absence of a fresh macro catalyst, such as a dovish Fed policy pivot, rate cuts, or renewed inflows, is likely to drive BTC into a period of market consolidation as the market digests the recent distribution," MEXC's Investment Director Leo Zhao said in an email. Similarly, the consensus remains bullish on ether. However, the sharp decline from Sunday's record suggests a sustained breakout to new highs will probably require a significant catalyst beyond just corporate treasury adoption. XRP, meanwhile, lacks a clear directional trend. "With Bollinger Bands constricting and RSI sitting at a neutral 44, but thin on buying volume, the chart is whispering of a potential retest of $2.60 to $2.00," Ryan Lee, the chief analyst at Bitget said. "A break above the $3.10 level with conviction and volume, and a run toward $3.40 could follow. But derivative markets are skewed short, and upside stays guarded until momentum firms." In traditional markets, the Treasury yield curve, represented by the spread between 10- and two-year yields and 30- and two-year yields, continues to steepen as traders bet on a September Fed rate cut. Meanwhile, longer-duration Japanese government bond yields are on the verge of hitting new multidecade highs, which could potentially inject volatility into global financial markets. Stay alert! The CoinDesk Policy & Regulation conference (formerly known as State of Crypto) is a one-day boutique event held in Washington on Sept. 10 that allows general counsels, compliance officers and regulatory executives to meet with public officials responsible for crypto legislation and regulatory oversight. Space is limited. Use code CDB10 for 10% off your registration through Aug. 31. By Shaurya Malwa Spot BTC ETFs Spot ETH ETFs Source: Farside Investors Siamak Masnavi contributed reporting. Omkar Godbole is a Co-Managing Editor and analyst on CoinDesk's Markets team. He has been covering crypto options and futures, as well as macro and cross-asset activity, since 2019, leveraging his prior experience in directional and non-directional derivative strategies at brokerage firms. His extensive background also encompasses the FX markets, having served as a fundamental analyst at currency and commodities desks for Mumbai-based brokerages and FXStreet. Omkar holds small amounts of bitcoin, ether, BitTorrent, tron and dot.Omkar holds a Master's degree in Finance and a Chartered Market Technician (CMT) designation. Shaurya is the Co-Leader of the CoinDesk tokens and data team in Asia with a focus on crypto derivatives, DeFi, market microstructure, and protocol analysis.Shaurya holds over $1,000 in BTC, ETH, SOL, AVAX, SUSHI, CRV, NEAR, YFI, YFII, SHIB, DOGE, USDT, USDC, BNB, MANA, MLN, LINK, XMR, ALGO, VET, CAKE, AAVE, COMP, ROOK, TRX, SNX, RUNE, FTM, ZIL, KSM, ENJ, CKB, JOE, GHST, PERP, BTRFLY, OHM, BANANA, ROME, BURGER, SPIRIT, and ORCA.He provides over $1,000 to liquidity pools on Compound, Curve, SushiSwap, PancakeSwap, BurgerSwap, Orca, AnySwap, SpiritSwap, Rook Protocol, Yearn Finance, Synthetix, Harvest, Redacted Cartel, OlympusDAO, Rome, Trader Joe, and SUN. Jamie has been part of CoinDesk's news team since February 2021, focusing on breaking news, Bitcoin tech and protocols and crypto VC. He holds BTC, ETH and DOGE. More For You Bitcoin Traders Eye Upside as BTC Holds Above $110K: Crypto Daybook Americas Your day-ahead look for Aug. 27, 2025 What to know: You are viewing Crypto Daybook Americas, your morning briefing on what happened in the crypto markets overnight and what's expected during the coming day. Crypto Daybook Americas will arrive in your inbox at 7 a.m. ET to kickstart your morning with comprehensive insights. If you're not already subscribed, click here. You won't want to start your day without it.
 --------------------------------------------------
 
 Title: Nvidia Earnings Preview: Will AI Momentum Power Another Blowout Report?
@@ -140,16 +164,16 @@ Time Published: 2025-08-26T10:01:08Z
 Description: NEW YORK (Reuters) -Options traders are pricing in about a $260 billion swing in Nvidia's market value following the chipmaker's second-quarter earnings...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq muted after Trump moves to oust Fed's Cook
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-muted-after-trump-moves-to-oust-feds-cook-230306289.html
-Time Published: 2025-08-25T23:03:06Z
-Description: US stocks hit pause as investors weighed Trump's escalation in pressure on the Fed and trading partners.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures steady after Trump moves to oust Fed's Cook
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-steady-after-trump-moves-to-oust-feds-cook-230306223.html
 Time Published: 2025-08-25T23:03:06Z
 Description: US stock futures hit pause as investors weighed Trump's escalation in pressure on the Fed and trading partners.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq muted after Trump moves to oust Fed's Cook
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-muted-after-trump-moves-to-oust-feds-cook-230306289.html
+Time Published: 2025-08-25T23:03:06Z
+Description: US stocks hit pause as investors weighed Trump's escalation in pressure on the Fed and trading partners.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq waver after Trump moves to oust Fed's Cook
@@ -290,28 +314,4 @@ URL: https://wccftech.com/nvidias-h20-china-ai-gpu-is-now-completely-banned-in-t
 Time Published: 2025-08-25T13:27:44Z
 Full Content:
 This is not investment advice. The author has no position in any of the stocks mentioned. Wccftech.com has a disclosure and ethics policy. AI GPU giant NVIDIA's H20 chips have been banned in China, suggests a report which quotes investment bank Jefferies. NVIDIA's H20 GPUs have been at the center of US trade tensions with China, after the Trump administration granted the firm licenses to sell them, multiple reports surfaced about Chinese discomfort with using the GPUs due to their US origin. However, one snippet of an investment note purportedly from Jefferies shared on social media claims that the H20 GPUs have been completely banned in China, which prevents Chinese firms from placing orders with NVIDIA. In a note purportedly belonging to Jefferies and shared on X, the investment bank outlines that Chinese authorities have completely banned NVIDIA H20 AI GPU sales in the country. The note follows several recent reports that have claimed that NVIDIA has asked some supply chain partners to halt H20 production. Jefferies also quotes these reports, as it outlines that media reports indicate that the H20 can no longer be sold in China. However, the bank also adds that "our industry checks indicate China has officially banned the procurement of H20 and other 'downgraded US AI chips' until further notice. As a result, Chinese entities are now forbidden from buying the NVIDIA GPUs, which appears to be a step up over earlier reports that have indicated that the Chinese government had simply required state-linked computing clusters to use at least 50% of domestic AI chips. As a result, Jefferies notes that "no Chinese companies will place orders with NVDA." The bank also adds that its channel checks in Taiwan have yielded the same results as media reports. "Our industry checks in Taiwan also indicate NVDA has suspended all packaging and server production work related to H20, also 'until further notice,' says the bank. As a result, Jefferies concludes that NVIDIA will be unable to generate any AI chip revenue from China, "likely until the US and China come to an agreement on trade." If the note bears fruit, then NVIDIA could see more headaches in the Asian country just as it is about to report its earnings. The shares are flat in premarket trading and enter the week after having lost 1.5% over the past five trading days. Since NVIDIA is in quiet period ahead of its earnings, it cannot comment on news, which creates an ample opportunity for short sellers to target the stock on any expected weakness. 1) According to Jefferey's note on the 24th, it suggests fimr's industry checks indicate that "China has OFFICIALLY BANNED the procurement of H20 AND other downgraded U.S. AI chips until further notice" It also said that its checks in Taiwan "indicate $NVDA has suspended all… pic.twitter.com/0OBtCdqE8Z Some posts on wccftech.com may contain affiliate links. We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com © 2025 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
---------------------------------------------------
-
-Title: Burke Wealth Management’s Views on Nvidia Corporation (NVDA)
-URL: https://finance.yahoo.com/news/burke-wealth-management-views-nvidia-131637287.html
-Time Published: 2025-08-25T13:16:37Z
-Description: Burke Wealth Management, an investment management company, released its “Focused Growth Strategy” second-quarter 2025 investor letter. A copy of the letter...
---------------------------------------------------
-
-Title: Down 50% From Its Highs, This Analyst Thinks CoreWeave Stock Can Double From Here
-URL: https://www.barchart.com/story/news/34368328/down-50-from-its-highs-this-analyst-thinks-coreweave-stock-can-double-from-here
-Time Published: 2025-08-25T13:06:12Z
-Description: CoreWeave’s sharp pullback may be setting the stage for a powerful rebound, according to H.C. Wainwright.
---------------------------------------------------
-
-Title: Nvidia gets a price target increase from Stifel ahead of earnings this week - CNBC
-URL: https://slashdot.org/firehose.pl?op=view&amp;id=178855274
-Time Published: 2025-08-25T12:32:58Z
-Description: Nvidia gets a price target increase from Stifel ahead of earnings this weekCNBC Nvidia faces Wall Street's high expectations two years into AI boomCNBC Is It Time to Load Up on Nvidia Stock (NVDA)? Baird’s Top Analyst Thinks SoTipRanks Nvidia earnings set to …
---------------------------------------------------
-
-Title: This AI Stock Just Snagged an NFL Deal. Should You Buy Shares Here?
-URL: https://www.barchart.com/story/news/34366726/this-ai-stock-just-snagged-an-nfl-deal-should-you-buy-shares-here
-Time Published: 2025-08-25T12:18:41Z
-Description: An NFL partnership is a big win for this AI stock. But will it translate into lasting gains for investors, or is it just a short-term highlight?
 --------------------------------------------------
