@@ -1,9 +1,22 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Buy MSFT Stock At $500?
+URL: https://www.forbes.com/sites/greatspeculations/2025/08/27/buy-msft-stock-at-500/
+Time Published: 2025-08-27T13:30:03Z
+Full Content:
+ByTrefis Team, Contributor. Microsoft (NASDAQ: MSFT) has been one of the top performers this year, with its stock climbing 20%. This is well ahead of the broader market, where the S&P 500 has risen 10%, while peers like Amazon are up only 4%, and Google has gained less than 10%. This strong performance is primarily driven by rapid cloud growth and sustained momentum in AI adoption. Microsoft's leadership in the expanding AI sector has clearly boosted investor confidence. At a current price of more than $500, is MSFT stock still attractive? We believe it is. Our evaluation of Microsoft across Growth, Profitability, Financial Stability, and Downturn Resilience shows a company with excellent operating results and a strong financial position, as outlined below. That being said, if you want upside potential with less volatility than holding a single stock, consider the High Quality Portfolio. It has consistently outperformed its benchmark—a mix of the S&P 500, Russell, and S&P MidCap indexes—delivering returns of over 91% since launch. Also, see – Ethereum Play: BMNR Stock To $100? On a sales or profit basis, MSFT stock appears very expensive relative to the broader market. Microsoft’s revenues have expanded meaningfully over the past few years. Microsoft’s profit margins are significantly stronger than most peers in the Trefis universe. Microsoft’s balance sheet appears extremely strong. MSFT stock has fared slightly better than the S&P 500 during certain downturns. Concerned about downturn risks? Our dashboard Will You Be Comfortable Buying Microsoft Stock? offers a detailed view of how MSFT performed during past market crashes. In summary, Microsoft’s performance across the parameters is: • Growth: Strong • Profitability: Very Strong • Financial Stability: Very Strong • Downturn Resilience: Strong • Overall: Strong Microsoft has delivered across all dimensions, justifying its premium valuation. At around $500 per share, the stock trades at 37x trailing earnings, slightly above its four-year average P/E of 35. We believe this premium is warranted, with more upside possible. This view is supported by strong Azure sales and rising profitability, as its operating margin increased from 41.8% in 2023 to 45.2% now. Of course, we could be wrong in our assessment, and investors may hesitate to pay a higher premium. But if you believe in AI-driven growth and have a 3–5 year horizon, Microsoft remains a compelling stock. Remember, individual stock investing carries risks. Trefis’ High Quality (HQ) Portfolio—a basket of 30 stocks—has outperformed the S&P 500 over the last four years, delivering better returns with lower risk. See HQ Portfolio performance metrics for details.
+--------------------------------------------------
+
 Title: Microsoft Corporation (MSFT): A Bull Case Theory
 URL: https://finance.yahoo.com/news/microsoft-corporation-msft-bull-case-091453110.html
 Time Published: 2025-08-27T09:14:53Z
 Description: We came across a bullish thesis on Microsoft Corporation on Monopolistic Investor’s Substack by Antoni Nabzdyk. In this article, we will summarize the bulls’...
+--------------------------------------------------
+
+Title: UBS Maintains Buy on Microsoft (MSFT), Citing Confidence from Pricing Moves
+URL: https://finance.yahoo.com/news/ubs-maintains-buy-microsoft-msft-035342779.html
+Time Published: 2025-08-27T03:53:42Z
+Description: Microsoft Corp. (NASDAQ:MSFT) is one of the top stocks to buy and hold forever. Microsoft Corp. (NASDAQ:MSFT) has an unmatched market position through its...
 --------------------------------------------------
 
 Title: Microsoft Corporation (MSFT) Gains 21% Since Cramer Said Had “No Idea” If There Was Any Weakness
