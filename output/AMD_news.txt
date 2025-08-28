@@ -1,5 +1,23 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq climb with Trump Fed fight in focus, Nvidia earnings on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-with-trump-fed-fight-in-focus-nvidia-earnings-on-deck-200119510.html
+Time Published: 2025-08-26T20:01:19Z
+Description: US stocks rose as investors weighed Trump's escalation in pressure on the Fed and trading partners.
+--------------------------------------------------
+
+Title: Stocks Supported by Positive Economic News
+URL: https://www.barchart.com/story/news/34397239/stocks-supported-by-positive-economic-news
+Time Published: 2025-08-26T15:24:43Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.02%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.08%, and the Nasdaq 100 Index ($IUXX ) ...
+--------------------------------------------------
+
+Title: Stocks Pressured by Fed Jitters but Supported by Chip Makers
+URL: https://www.barchart.com/story/news/34395717/stocks-pressured-by-fed-jitters-but-supported-by-chip-makers
+Time Published: 2025-08-26T14:12:12Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.02%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.04%, and the Nasdaq 100 Index ($IUXX ) ...
+--------------------------------------------------
+
 Title: Nvidia stock soared 35,000% over the past decade — but it's not the only top chip stock for the future
 URL: https://finance.yahoo.com/news/nvidia-stock-soared-35000-over-the-past-decade--but-its-not-the-only-top-chip-stock-for-the-future-131446604.html
 Time Published: 2025-08-26T13:14:46Z
@@ -54,22 +72,4 @@ Title: Bernstein Reaffirms ‘Hold’ Rating on Advanced Micro Devices, Inc. (AM
 URL: https://finance.yahoo.com/news/bernstein-reaffirms-hold-rating-advanced-072712520.html
 Time Published: 2025-08-23T07:27:12Z
 Description: With strong revenue growth and significant hedge fund interest, Advanced Micro Devices, Inc. (NASDAQ:AMD) secures a spot on our list of the 14 Best IT Stocks...
---------------------------------------------------
-
-Title: Stocks Rally Sharply on Dovish Fed Chair Powell
-URL: https://www.barchart.com/story/news/34339528/stocks-rally-sharply-on-dovish-fed-chair-powell
-Time Published: 2025-08-22T20:38:59Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed up by +1.52%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +1.89%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Stock market today: Dow jumps 800 points to record, S&P 500, Nasdaq soar as Powell's Jackson Hole finale fuels bets on September rate cut
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-800-points-to-record-sp-500-nasdaq-soar-as-powells-jackson-hole-finale-fuels-bets-on-september-rate-cut-200110990.html
-Time Published: 2025-08-22T20:01:10Z
-Description: Wall Street cheered remarks from Federal Reserve Chair Jerome Powell in Jackson Hole opening the door to a rate cut in September.
---------------------------------------------------
-
-Title: Trump says US will take 10% stake in Intel
-URL: https://finance.yahoo.com/news/trump-says-us-will-take-10-stake-in-intel-180452265.html
-Time Published: 2025-08-22T18:04:52Z
-Description: President Trump says the administration will take 10% stake in Intel.
 --------------------------------------------------

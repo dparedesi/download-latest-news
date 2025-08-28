@@ -1,5 +1,18 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Microsoft Is Bringing AI to the NFL. What Does This Mean for MSFT Stock?
+URL: https://www.barchart.com/story/news/34401003/microsoft-is-bringing-ai-to-the-nfl-what-does-this-mean-for-msft-stock
+Time Published: 2025-08-26T18:05:53Z
+Description: Microsoft’s landmark partnership with the NFL is not only boosting MSFT’s momentum but also demonstrates the company’s leadership in real-world AI adoption.
+--------------------------------------------------
+
+Title: Nvidia CEO Jensen Huang Was Dubbed 'Godfather of AI.' The Company Is Betting On These AI Stocks
+URL: https://www.investopedia.com/nvidia-ceo-jensen-huang-was-dubbed-godfather-of-ai-the-company-is-betting-on-these-ai-stocks-11796190
+Time Published: 2025-08-26T17:06:12Z
+Full Content:
+Nvidia (NVDA), the chipmaking giant at the center of the artificial intelligence revolution, has delivered huge returns for investors since its meteoric rise in 2023 and 2024. But the world's most valuable company, led by the so-called "Godfather of AI," CEO Jensen Huang, has investments of its own. The company is required to disclose its portoflio information every quarter using the SEC Form 13-F. This filing offers only a snapshot of Nvidia's portfolio at the end of the quarter. It does not provide any details about gains or losses made from any sales made during the quarter. Here's what Nvidia's AI best looked like at the end of June— By far Nvidia's most valuable holding is CoreWeave Inc. (CRWV), an AI cloud computing provider that went public in March. At the end of June, Nvidia held 24.3 million shares, that amounts to roughly 7% stake in the company, worth a little over $3.9 billion. As of Aug. 26, that stake is valued is close to $2.2 billion, after Coreweave saw almost a third of its share value disappear following disappointing quarterly earnings results. However, shares of CoreWeave have more than doubled from their IPO price of $40 in March to more than $90 in late August. Arm Holdings plc (ARM) is a U.K.-based developer of CPU chip designs whose clients include Nvidia, Microsoft Corp. (MSFT), and Alphabet Inc.'s (GOOGL) Google. Nvidia reported a stake of 1.1 million Arm shares worth $178 million in June (about $154 million as of Aug. 26). Applied Digital Corp. (APLD) provides data center space to companies seeking AI compute infrastructure. Its shares have more than doubled this year, including a huge gain after the company agreed to lease data center operations to fellow Nvidia partner CoreWeave. Nvidia held 7.7 million shares of Applied Digital. That position, which was worth about $77 million at the end of June, has grown to over $125 million as of Aug. 26. Nebius Group NV (NBIS) is an Amsterdam-based provider of AI infrastructure. Nvidia first disclosed its 1.2 million-share stake in the company in February, and its stock has jumped more than two-thirds since. That means Nvidia's investment has only grown, from nearly $65 million in June to about $85 million at the end of August. Recursion Pharmaceuticals Inc. (RXRX), a biotech firm focused on AI-powered drug discovery. It's also another Nvidia investment that has seen its stock fall this year, dropping 27%. Nvidia held 7.7 million shares of Recursion as of June 30. Chinese autonomous vehicle manufacturer WeRide Inc. (WRD) operates a fleet spanning 30 cities across nine countries. Its shares spiked after Nvidia revealed a 1.7-million share stake in February, but they've lost about a third of their value in 2025. Nvidia's portfolio has largely been successful this year, with stocks like CoreWeave actually outperforming the chipmaker itself so far in 2025. Nvidia stock has been no slouch, though, gaining 33% this year and hitting a record high of $182.70 earlier this month. The company is due to report quarterly results after the market closes Wednesday, and AI investors will be watching for clues from Huang about the state of the sector.
+--------------------------------------------------
+
 Title: S&P 500's Weight In Mag 7 Stocks Passes 30%. Is This A Diversification Risk?
 URL: https://www.forbes.com/sites/investor-hub/article/sp-500-weight-mag-7-stocks-diversification-risk/
 Time Published: 2025-08-26T16:57:44Z
@@ -94,46 +107,4 @@ Title: Should You Buy Nvidia Stock Before August 27?
 URL: https://www.barchart.com/story/news/34352470/should-you-buy-nvidia-stock-before-august-27
 Time Published: 2025-08-23T16:00:02Z
 Description: While U.S.-China tensions continue, Nvidia remains the undisputed king of AI hardware.
---------------------------------------------------
-
-Title: Stocks Rally Sharply on Dovish Fed Chair Powell
-URL: https://www.barchart.com/story/news/34339528/stocks-rally-sharply-on-dovish-fed-chair-powell
-Time Published: 2025-08-22T20:38:59Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed up by +1.52%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +1.89%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Baxter, U.S. Physical Therapy, Cogent, HNI, and TD SYNNEX Stocks Trade Up, What You Need To Know
-URL: https://finance.yahoo.com/news/baxter-u-physical-therapy-cogent-194558098.html
-Time Published: 2025-08-22T19:45:58Z
-Description: A number of stocks jumped in the afternoon session after the major indices rebounded, as Fed Chair Jerome Powell delivered dovish remarks at the much-awaited...
---------------------------------------------------
-
-Title: Invesco, Capital One, Bread Financial, Piper Sandler, and Moelis Stocks Trade Up, What You Need To Know
-URL: https://finance.yahoo.com/news/invesco-capital-one-bread-financial-194104550.html
-Time Published: 2025-08-22T19:41:04Z
-Description: A number of stocks jumped in the afternoon session after the major indices rebounded, as Fed Chair Jerome Powell delivered dovish remarks at the much-awaited...
---------------------------------------------------
-
-Title: Banner Bank, Domo, Insteel, Universal Logistics, and First Advantage Shares Are Soaring, What You Need To Know
-URL: https://finance.yahoo.com/news/banner-bank-domo-insteel-universal-194103435.html
-Time Published: 2025-08-22T19:41:03Z
-Description: A number of stocks jumped in the afternoon session after the major indices rebounded, as Fed Chair Jerome Powell delivered dovish remarks at the much-awaited...
---------------------------------------------------
-
-Title: NVIDIA to Post Q2 Earnings: Buy, Hold, or Take Profits?
-URL: https://finance.yahoo.com/news/nvidia-post-q2-earnings-buy-190000368.html
-Time Published: 2025-08-22T19:00:00Z
-Description: NVIDIA eyes a strong Q2 with soaring GPU demand, renewed China sales, and rising data center spending, fueling growth prospects.
---------------------------------------------------
-
-Title: Trump says US will take 10% stake in Intel
-URL: https://finance.yahoo.com/news/trump-says-us-will-take-10-stake-in-intel-180452265.html
-Time Published: 2025-08-22T18:04:52Z
-Description: President Trump says the administration will take 10% stake in Intel.
---------------------------------------------------
-
-Title: Here’s Munro Global Growth Fund’s Stock Story on Microsoft (MSFT)
-URL: https://finance.yahoo.com/news/munro-global-growth-fund-stock-134456080.html
-Time Published: 2025-08-22T13:44:56Z
-Description: Munro Partners, an investment management firm, released its “Munro Global Growth Fund” second-quarter 2025 investor letter. A copy of the letter can be...
 --------------------------------------------------

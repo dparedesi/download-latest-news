@@ -1,13 +1,26 @@
 List of news related to JPMorgan stock price JPM:
 
+Title: Sens. Alsobrooks & Hagerty Are Attempting To Make Banks Big By Decree
+URL: https://www.forbes.com/sites/johntamny/2025/08/26/sens-alsobrooks--hagerty-are-attempting-to-make-banks-big--by-decree/
+Time Published: 2025-08-26T21:00:29Z
+Full Content:
+ByJohn Tamny, Contributor. Through the CFPB’s anti-progress attempt to price control some of the financial products of the U.S.’s most successful financial institutions (see attempts to maintain Rule 1033), we’ve happened upon a truth about what makes big banks big: they invest staggering sums on infrastructure meant to improve the customer experience, and they similarly spend staggering sums to protect the accounts and information of those who bank with them. It’s a crucial reminder of what politicians are all-too-frequently unaware of: there are no shortcuts to success. Success doesn’t just happen, and it’s certainly not an effect of governmental decree. Instead, the big get that way by not just meeting the needs of existing and would-be customers, but well exceeding them. The truths about the corporate cultures that lend themselves to greatness are truths that Sens. Angela Alsobrooks (D-MD) and James Hagerty (R-TN) would be wise to internalize. That’s because at present, the two senators are trying to make financial institutions big by decree. The speculation here is that they’ll fail. Evidence supporting the above claim can be found in the Senators’ proposal to alter Deposit Insurance Fund coverage. Specifically, they would increase deposit insurance per account to $20 million for institutions with assets under $250 billion, all the while maintaining the $250,000 per account deposit insurance cap for institutions with more than $250 billion in assets. What’s most galling about the proposed legislation isn’t the blatant regulatory favoritism, it’s that it aims to make smaller financial institutions bigger not through competitive advances, but just because. Yes, the Senators are regulating a shortcut to success that won’t just likely fail, but that is quite simply dangerous. Perhaps not asked enough by the Senators is why some banks are enormous by U.S. standards, some are medium size, and some are small. This doesn’t just happen, as much as it’s an effect of highly effective banking practices at the top of the U.S. size pyramid. If readers doubt any of the above, they need only travel back in time to the Spring of 2024 when J.P. Morgan Chase CEO Jamie Dimon broached the possibility of moving his retirement time up. The instant reaction from the stock market was a 4.5% correction in JPM’s shares that shaved $25 billion off the institution’s market capitalization. Well, there’s your answer. J.P. Morgan and other banks at the top that compete with it aren’t big for random reasons, but because they can lay claim to some of the best financial talent in the world. Please contemplate this truth as Sens. Alsobrooks and Hagerty pursue regulatory favoritism that would allow smaller banks to offer customers deposit insurance at a level that JPM, Wells Fargo, Bank of America and many other large banks presently cannot. Assuming the favoritism works even a little, banks that were small for a variety of reasons would suddenly be faced with the challenging prospect of putting much more sizable amounts of money to work. This is no easy feat, and since it’s not, banks and the system more broadly would be imperiled by the favoritism. Let’s not do it. Instead, let’s encourage banks to compete on product and services, not regulatory handouts. Specifically, smaller banks have been hamstrung since 2008 by all manner of price controls on debit, credit and other services that have limited their ability to compete. In short, remove regulations rather than impose them. For all banks. And let the competition begin. As J.P. Morgan Chase’s growth under Dimon attests, there’s no reason that small and medium-sized can’t grow large. Just the same, there are no shortcuts to success.
+--------------------------------------------------
+
+Title: M&T Bank Stock Outlook: Is Wall Street Bullish or Bearish?
+URL: https://www.barchart.com/story/news/34393573/m-t-bank-stock-outlook-is-wall-street-bullish-or-bearish
+Time Published: 2025-08-26T13:11:59Z
+Description: M&T Bank has outperformed the broader market over the past year, and analysts are moderately optimistic about the stock’s prospects.
+--------------------------------------------------
+
+Title: F5 Stock Outlook: Is Wall Street Bullish or Bearish?
+URL: https://www.barchart.com/story/news/34393410/f5-stock-outlook-is-wall-street-bullish-or-bearish
+Time Published: 2025-08-26T13:05:08Z
+Description: F5 has outperformed the broader market over the past year, but analysts are cautious about the stock’s prospects.
+--------------------------------------------------
+
 Title: Is Wall Street Bullish or Bearish on Vulcan Materials Stock?
 URL: https://www.barchart.com/story/news/34365801/is-wall-street-bullish-or-bearish-on-vulcan-materials-stock
 Time Published: 2025-08-25T11:45:24Z
 Description: Vulcan Materials has outperformed the broader market over the past year, and analysts are highly optimistic about the stock’s prospects.
---------------------------------------------------
-
-Title: Are Wall Street Analysts Bullish on HCA Healthcare Stock?
-URL: https://www.barchart.com/story/news/34328515/are-wall-street-analysts-bullish-on-hca-healthcare-stock
-Time Published: 2025-08-22T12:32:49Z
-Description: HCA Healthcare has underperformed the broader market over the past year, and analysts are moderately optimistic about the stock’s prospects.
 --------------------------------------------------

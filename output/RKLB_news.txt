@@ -25,9 +25,3 @@ URL: https://finance.yahoo.com/news/rocket-lab-rklb-shares-skyrocket-160051790.h
 Time Published: 2025-08-25T16:00:51Z
 Description: Shares of aerospace and defense company Rocket Lab (NASDAQ:RKLB) jumped 10.2% in the morning session after it announced a significant expansion of its U.S...
 --------------------------------------------------
-
-Title: Veteran trader weighs in on Rocket Lab and SoFi
-URL: https://www.thestreet.com/investing/stocks/veteran-trader-weighs-in-on-rocket-lab-and-sofi
-Time Published: 2025-08-22T16:33:00Z
-Description: The Wall Street veteran breaks down his strategy for two of his heaviest weighted stocks.
---------------------------------------------------

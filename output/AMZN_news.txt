@@ -19,6 +19,12 @@ Time Published: 2025-08-26T12:47:04Z
 Description: Coca-Cola CEO James Quincey says he's "rethinking" the company's Costa Coffee brand, raising questions about a potential sale.
 --------------------------------------------------
 
+Title: Can Roku Stock Survive the Streaming Wars?
+URL: https://www.barchart.com/story/news/34388668/can-roku-stock-survive-the-streaming-wars
+Time Published: 2025-08-26T11:30:02Z
+Description: Roku is a story of resilience and adaptation.
+--------------------------------------------------
+
 Title: A $10 Billion Reason to Buy This Quantum Computing Stock Now
 URL: https://www.barchart.com/story/news/34375033/a-10-billion-reason-to-buy-this-quantum-computing-stock-now
 Time Published: 2025-08-25T19:42:19Z
@@ -69,16 +75,4 @@ Title: Amazon (AMZN) Stock Gets $280 Target on Project Kuiper Momentum
 URL: https://finance.yahoo.com/news/amazon-amzn-stock-gets-280-005600619.html
 Time Published: 2025-08-23T00:56:00Z
 Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the Must-Watch AI Stocks for Investors. On August 20, Cantor Fitzgerald analyst Deepak Mathivanan reiterated an...
---------------------------------------------------
-
-Title: Trump says US will take 10% stake in Intel
-URL: https://finance.yahoo.com/news/trump-says-us-will-take-10-stake-in-intel-180452265.html
-Time Published: 2025-08-22T18:04:52Z
-Description: President Trump says the administration will take 10% stake in Intel.
---------------------------------------------------
-
-Title: AMZN Stock Price Prediction: Where Amazon Could Be by 2025, 2026, and 2030
-URL: https://finance.yahoo.com/news/amzn-stock-price-prediction-where-090325450.html
-Time Published: 2025-08-22T09:03:25Z
-Description: Analysts are saying that Amazon could hit $354.36 by 2030. Bullish on AMZN? Invest in Amazon on SoFi with no commissions. If it's your first time signing up ...
 --------------------------------------------------

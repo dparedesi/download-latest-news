@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Broadcom Inc. (AVGO) Has Gained A Massive 117% After Jim Cramer Criticized Sellers In September
+URL: https://finance.yahoo.com/news/broadcom-inc-avgo-gained-massive-212140559.html
+Time Published: 2025-08-26T21:21:40Z
+Description: We recently published Jim Cramer’s 20 Bold AI Predictions – See How They Played Out! Broadcom Inc. (NASDAQ:AVGO) is one of the stocks Jim Cramer recently...
+--------------------------------------------------
+
 Title: After Months of Calm, Nvidia Earnings Could Spark a Big Stock Market Move
 URL: https://www.investopedia.com/after-months-of-calm-nvidia-earnings-could-spark-a-big-stock-market-move-11797843
 Time Published: 2025-08-26T17:38:21Z
@@ -12,6 +18,18 @@ URL: https://www.globenewswire.com/news-release/2025/08/26/3139512/19933/en/Broa
 Time Published: 2025-08-26T17:00:00Z
 Full Content:
 August 26, 2025 13:00 ET | Source: Broadcom Inc. Broadcom Inc. LAS VEGAS, Aug. 26, 2025 (GLOBE NEWSWIRE) -- VMware Explore 2025—Broadcom Inc. (NASDAQ: AVGO) and Walmart Inc. (NYSE: WMT) today announced a strategic collaboration to deliver a modern private cloud and edge environment. As part of this initiative, Broadcom has been named a strategic vendor for virtualization software solutions, leveraging VMware Cloud Foundation (VCF) to help unify Walmart’s globally distributed operations. This relationship aims to support efforts to enhance the shopping experience, improve operational efficiency, and accelerate the development and delivery of innovative services. Walmart is a people-led, tech-powered omnichannel retailer helping people save money and live better—anytime and anywhere—in stores, online, and through their mobile devices. They work at the forefront of cutting-edge technologies inspired by the vision of transforming retail tech and are committed to elevating the customer experience and empowering developers. Walmart’s deployment of VMware Cloud Foundation will aid in consistency and reliability across its diverse operations. Broadcom will help Walmart achieve the following key business outcomes: “Being named a strategic vendor for virtualization by Walmart is a testament to the innovation and value our VMware software can bring to a global, trusted brand. VMware Cloud Foundation will provide the consistent and scalable private cloud infrastructure that plays a role in helping Walmart lead the next retail disruption," said Paul Turner, vice president of products, VMware Cloud Foundation Division at Broadcom. "VCF will help Walmart optimize resources and accelerate the rollout of innovative new services that benefit customers and associates worldwide.” About BroadcomBroadcom Inc. (NASDAQ: AVGO) is a global technology leader that designs, develops, and supplies a broad range of semiconductor, enterprise software and security solutions. Broadcom's category-leading product portfolio serves critical markets including cloud, data center, networking, broadband, wireless, storage, industrial, and enterprise software. The company’s solutions include service provider and enterprise networking and storage, mobile device and broadband connectivity, mainframe, cybersecurity, and private and hybrid cloud infrastructure. Broadcom is a Delaware corporation headquartered in Palo Alto, CA. For more information, go to www.broadcom.com. About WalmartWalmart Inc. (NYSE: WMT) is a people-led, tech-powered omnichannel retailer helping people save money and live better—anytime and anywhere—in stores, online, and through their mobile devices. Each week, approximately 270 million customers and members visit more than 10,750 stores and numerous eCommerce websites in 19 countries. With fiscal year 2025 revenue of $681 billion, Walmart employs approximately 2.1 million associates worldwide. Walmart continues to be a leader in sustainability, corporate philanthropy, and employment opportunity. Additional information about Walmart can be found by visiting corporate.walmart.com, on Facebook at facebook.com/walmart, on X (formerly known as Twitter) at twitter.com/walmart, and on LinkedIn at linkedin.com/company/walmart. Broadcom, the pulse logo, and Connecting Everything are among the trademarks of Broadcom. The term "Broadcom" refers to Broadcom Inc., and/or its subsidiaries. Other trademarks are the property of their respective owners. Media Contacts:Roger FortierVCF Division, Broadcomroger.fortier@broadcom.com+1.408.348.1569 Walmart Media Relations Newest VCF Innovations for AI Workloads and AI Developers Help Speed Enterprise Adoption of Private AI as a Service Customers globally are adopting VMware Cloud Foundation for the Modern Private... LAS VEGAS, Aug. 26, 2025 (GLOBE NEWSWIRE) -- VMware Explore 2025—Today, Broadcom Inc. (NASDAQ: AVGO) announced VMware Cloud Foundation (VCF) Advanced Cyber Compliance and new innovations across...
+--------------------------------------------------
+
+Title: Stocks Supported by Positive Economic News
+URL: https://www.barchart.com/story/news/34397239/stocks-supported-by-positive-economic-news
+Time Published: 2025-08-26T15:24:43Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.02%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.08%, and the Nasdaq 100 Index ($IUXX ) ...
+--------------------------------------------------
+
+Title: Stocks Pressured by Fed Jitters but Supported by Chip Makers
+URL: https://www.barchart.com/story/news/34395717/stocks-pressured-by-fed-jitters-but-supported-by-chip-makers
+Time Published: 2025-08-26T14:12:12Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.02%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.04%, and the Nasdaq 100 Index ($IUXX ) ...
 --------------------------------------------------
 
 Title: Nvidia stock soared 35,000% over the past decade — but it's not the only top chip stock for the future
@@ -89,10 +107,4 @@ Title: Why Analysts Say NVIDIA Remains the Best AI Play
 URL: https://finance.yahoo.com/news/why-analysts-nvidia-remains-best-010101372.html
 Time Published: 2025-08-23T01:01:01Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Must-Watch AI Stocks for Investors. On August 19, TD Cowen analyst Joshua Buchalter raised the price target on...
---------------------------------------------------
-
-Title: Broadcom's AI Push Gains Speed With Microsoft, Meta, And Apple Pouring Billions Into Data Infrastructure
-URL: https://finance.yahoo.com/news/broadcoms-ai-push-gains-speed-103329002.html
-Time Published: 2025-08-22T10:33:29Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is riding the artificial intelligence boom as soaring Big Tech investments in data infrastructure fuel demand for its custom...
 --------------------------------------------------
