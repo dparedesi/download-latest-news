@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: QBTS or RGTI: Which Stock Will Win As IBM, MSFT, NVIDIA Back Quantum?
+URL: https://finance.yahoo.com/news/qbts-rgti-stock-win-ibm-190000443.html
+Time Published: 2025-08-28T19:00:00Z
+Description: QBTS surges ahead of RGTI as IBM, Microsoft and NVIDIA fuel quantum momentum, with analysts seeing stronger upside for D-Wave.
+--------------------------------------------------
+
 Title: US stocks mixed as Dow sinks, S&P 500 nears record, Nasdaq rides AI boom — Nvidia earnings jolt but GDP growth surprises Wall street
 URL: https://economictimes.indiatimes.com/news/international/us/us-stocks-mixed-as-dow-sinks-sp-500-nears-record-nasdaq-rides-ai-boom-nvidia-earnings-jolt-but-gdp-growth-surprises-wall-street/articleshow/123567135.cms
 Time Published: 2025-08-28T15:21:14Z
