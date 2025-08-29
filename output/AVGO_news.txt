@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Nvidia earnings live: Stock falls on data center revenue miss. Also: Snowflake pops, CrowdStrike drops
+URL: https://finance.yahoo.com/news/live/nvidia-earnings-live-stock-falls-on-data-center-revenue-miss-also-snowflake-pops-crowdstrike-drops-202724450.html
+Time Published: 2025-08-27T20:27:24Z
+Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
+--------------------------------------------------
+
+Title: Stocks Pressured as Bond Yields Climb and Chip Makers Slide
+URL: https://www.barchart.com/story/news/34424576/stocks-pressured-as-bond-yields-climb-and-chip-makers-slide
+Time Published: 2025-08-27T14:15:32Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.04%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.20%, and the Nasdaq 100 Index ($IUXX ) ...
+--------------------------------------------------
+
 Title: Smart Money Loves Healthcare: But Are They Now Dumb?
 URL: https://realinvestmentadvice.com/resources/blog/smart-money-loves-healthcare-but-are-they-now-dumb/
 Time Published: 2025-08-27T09:11:00Z
@@ -107,22 +119,4 @@ Title: 2 AI Chip Stocks Poised to Win on Wall Street Next
 URL: https://www.barchart.com/story/news/34372513/2-ai-chip-stocks-poised-to-win-on-wall-street-next
 Time Published: 2025-08-25T16:38:37Z
 Description: These semiconductor stocks offer both near-term growth momentum and long-term structural upside.
---------------------------------------------------
-
-Title: Suze Orman reveals her favorite stock right now and the investing mistake that shaped her strategy
-URL: https://www.marketwatch.com/story/suze-orman-is-known-for-money-advice-now-shes-sharing-her-stock-picks-and-biggest-investing-mistake-62fcebbc
-Time Published: 2025-08-23T18:09:00Z
-Description: The personal-finance guru talks tech stocks, crypto and her targets for the S 500 and bitcoin.
---------------------------------------------------
-
-Title: Broadcom Inc. (AVGO)’s Director Sells 80 Shares at $307.46 Each; Goldman Sachs Reiterates ‘Buy’ Rating
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_455b849d-834d-480f-9671-98a4d668b216
-Time Published: 2025-08-23T07:23:51Z
-Description: None
---------------------------------------------------
-
-Title: Why Analysts Say NVIDIA Remains the Best AI Play
-URL: https://finance.yahoo.com/news/why-analysts-nvidia-remains-best-010101372.html
-Time Published: 2025-08-23T01:01:01Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Must-Watch AI Stocks for Investors. On August 19, TD Cowen analyst Joshua Buchalter raised the price target on...
 --------------------------------------------------

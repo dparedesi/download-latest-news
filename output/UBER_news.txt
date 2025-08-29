@@ -42,15 +42,3 @@ URL: https://finance.yahoo.com/news/report-reveals-stunning-trend-used-004500645
 Time Published: 2025-08-24T00:45:00Z
 Description: "I've seen a lot of evidence."
 --------------------------------------------------
-
-Title: Renting in San Francisco turns cutthroat as AI jobs boom collides with low supply
-URL: https://finance.yahoo.com/news/renting-in-san-francisco-turns-cutthroat-as-ai-jobs-boom-collides-with-low-supply-170225356.html
-Time Published: 2025-08-23T17:02:25Z
-Description: After a long post-pandemic slump, San Francisco is booming again. Competition to land an apartment is stiff.
---------------------------------------------------
-
-Title: TD Cowen Reaffirms ‘Buy’ Rating Uber Technologies, Inc. (UBER) Following a Meeting with Management
-URL: https://finance.yahoo.com/news/td-cowen-reaffirms-buy-rating-072452673.html
-Time Published: 2025-08-23T07:24:52Z
-Description: With strong revenue growth and significant hedge fund interest, Uber Technologies, Inc. (NYSE:UBER) secures a spot on our list of the 14 Best IT Stocks to...
---------------------------------------------------

@@ -1,5 +1,17 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stocks Pressured as Bond Yields Climb and Chip Makers Slide
+URL: https://www.barchart.com/story/news/34424576/stocks-pressured-as-bond-yields-climb-and-chip-makers-slide
+Time Published: 2025-08-27T14:15:32Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.04%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.20%, and the Nasdaq 100 Index ($IUXX ) ...
+--------------------------------------------------
+
+Title: Stock Market Today: Stocks finish on high note ahead of Nvidia earnings
+URL: https://www.thestreet.com/markets/stock-market-today-august-26-2025
+Time Published: 2025-08-27T12:07:00Z
+Description: Plus: Earnings from CrowdStrike, Snowflake, and HP
+--------------------------------------------------
+
 Title: Stocks Finish Higher on Strength in Chip Makers and Lower Bond Yields
 URL: https://www.barchart.com/story/news/34403657/stocks-finish-higher-on-strength-in-chip-makers-and-lower-bond-yields
 Time Published: 2025-08-26T20:41:43Z
@@ -65,17 +77,4 @@ Title: Nvidia will deliver key earnings report this week
 URL: https://www.thestreet.com/investing/stocks/nvidia-will-deliver-key-earnings-report-this-week
 Time Published: 2025-08-24T10:58:30Z
 Description: Check out the stocks that propelled last week's huge Dow rally.
---------------------------------------------------
-
-Title: Corporate America's newest activist investor: Donald Trump
-URL: https://economictimes.indiatimes.com/news/international/global-trends/corporate-americas-newest-activist-investor-donald-trump/articleshow/123476048.cms
-Time Published: 2025-08-23T18:16:32Z
-Full Content:
-Under President Trump, the U.S. government is increasingly intervening in corporate America, taking equity stakes in companies like U.S. Steel, MP Materials, and Intel. This shift, driven by national security concerns, resembles state-managed capitalism, worrying Wall Street. Companies are scrambling to adapt, fearing demands and potential disadvantages if they don't align with the administration. (Catch all the Business News, Breaking News, Budget 2025 Events and Latest News Updates on The Economic Times.) Subscribe to The Economic Times Prime and read the ET ePaper online. (Catch all the Business News, Breaking News, Budget 2025 Events and Latest News Updates on The Economic Times.) Subscribe to The Economic Times Prime and read the ET ePaper online. Explore More Stories Dune 3 may skip parts of Dune Messiah and bring back shocking characters fans never expected Fajardo leads Elks past Redblacks for third straight victory Student hunger hits record high; 800,000 children lack access to school meals despite federal program Trump's tariffs begin to hurt Ontario — Canadian Province loses 38,000 jobs in Q2 as major job crisis looms Daniel Day-Lewis returns in 2025 with Anemone, a family drama directed by his son Ronan Day-Lewis Peacemaker Season 2 retcons Justice League cameo, introduces Justice Gang in DCU reboot Amber alert cancelled after Ontario baby found safe; suspect still at large Canada under terror threat? Newly unsealed files reveal soldiers spoke of ‘another Waco’ as RCMP uncovered weapons stockpile and plot for armed uprising Canadian PM Mark Carney and President Trump discuss ‘new economic and security relationship’ amid tariff clash Quebec prepares to pour $300,000 worth of US booze down the drain as tariff battle spirals ‘South Park’ satirizes federal takeover of D.C. police in new episode $75M Lotto Max jackpot ticket sold in Kingston; $1M Maxmillions ticket in Chatham-Kent CUPW proposes steep wage hikes and expanded weekend services amid ongoing Canada Post negotiations 'Get lost': Italy’s Dy PM slams Macron over Ukraine By Diwali, GST will be simpler, new tax era for India: PM Modi PM Modi's big space push PM Modi on the State of Economy Trump 'reveals' next crime crackdown target From passengers to drivers of growth: PM Modi on India’s future COVID ‘vaccine lies’ exposed in chilling testimony PM Narendra Modi at ETWLF 2025: Keynote address India is daring, diligent, and craves much more : Satyan Gajwani Garcia freed, ICE threatens Uganda deportation 'Get lost': Italy’s Dy PM slams Macron over Ukraine By Diwali, GST will be simpler, new tax era for India: PM Modi PM Modi's big space push PM Modi on the State of Economy Trump 'reveals' next crime crackdown target From passengers to drivers of growth: PM Modi on India’s future COVID ‘vaccine lies’ exposed in chilling testimony PM Narendra Modi at ETWLF 2025: Keynote address India is daring, diligent, and craves much more : Satyan Gajwani Garcia freed, ICE threatens Uganda deportation Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Slideshow Top Prime Articles Top Definitions Most Searched IFSC Codes Top Story Listing Private Companies Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Bernstein Reaffirms ‘Hold’ Rating on Advanced Micro Devices, Inc. (AMD) Despite Market Share Gains
-URL: https://finance.yahoo.com/news/bernstein-reaffirms-hold-rating-advanced-072712520.html
-Time Published: 2025-08-23T07:27:12Z
-Description: With strong revenue growth and significant hedge fund interest, Advanced Micro Devices, Inc. (NASDAQ:AMD) secures a spot on our list of the 14 Best IT Stocks...
 --------------------------------------------------

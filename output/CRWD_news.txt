@@ -1,13 +1,55 @@
 List of news related to Crowdstrike CRWD:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq wobble in countdown to Nvidia earnings report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-in-countdown-to-nvidia-earnings-report-133702760.html
-Time Published: 2025-08-27T13:37:02Z
-Description: US stocks were steady with Wall Street on edge ahead of Nvidia's earnings report.
+Title: Stock market today: Dow, S&P 500, Nasdaq waver after Nvidia earnings, GDP, jobs data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-after-nvidia-earnings-gdp-jobs-data-232614620.html
+Time Published: 2025-08-27T23:26:14Z
+Description: Wall Street is poring over Nvidia's good but not blockbuster earnings and assessing an upward revision to GDP.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures trade lackluster after Nvidia fails to wow
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-lackluster-after-nvidia-fails-to-wow-232614091.html
+Time Published: 2025-08-27T23:26:14Z
+Description: Wall Street is poring over Nvidia's good but not blockbuster earnings, with a GDP update on deck.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq rise after Nvidia earnings, GDP, jobs data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-after-nvidia-earnings-gdp-jobs-data-232614541.html
+Time Published: 2025-08-27T23:26:14Z
+Description: Wall Street is poring over Nvidia's good but not blockbuster earnings and assessing an upward revision to GDP.
+--------------------------------------------------
+
+Title: Nvidia earnings live: Stock falls on data center revenue miss. Also: Snowflake pops, CrowdStrike drops
+URL: https://finance.yahoo.com/news/live/nvidia-earnings-live-stock-falls-on-data-center-revenue-miss-also-snowflake-pops-crowdstrike-drops-202724450.html
+Time Published: 2025-08-27T20:27:24Z
+Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
+--------------------------------------------------
+
+Title: Stock market today: S&P 500 vaults to record high with Nvidia earnings set to provide key test
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-vaults-to-record-high-with-nvidia-earnings-set-to-provide-key-test-200027701.html
+Time Published: 2025-08-27T20:00:27Z
+Description: US stocks rose with Wall Street on edge ahead of Nvidia's earnings report.
+--------------------------------------------------
+
+Title: Stocks Rebound Ahead of Nvidia’s Earnings
+URL: https://www.barchart.com/story/news/34426094/stocks-rebound-ahead-of-nvidias-earnings
+Time Published: 2025-08-27T15:22:12Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.13%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.19%, and the Nasdaq 100 Index ($IUXX...
+--------------------------------------------------
+
+Title: Stocks Pressured as Bond Yields Climb and Chip Makers Slide
+URL: https://www.barchart.com/story/news/34424576/stocks-pressured-as-bond-yields-climb-and-chip-makers-slide
+Time Published: 2025-08-27T14:15:32Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.04%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.20%, and the Nasdaq 100 Index ($IUXX ) ...
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq rise in countdown to Nvidia earnings report
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-in-countdown-to-nvidia-earnings-report-133702576.html
+Time Published: 2025-08-27T13:37:02Z
+Description: US stocks were steady with Wall Street on edge ahead of Nvidia's earnings report.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble in countdown to Nvidia earnings report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-in-countdown-to-nvidia-earnings-report-133702760.html
 Time Published: 2025-08-27T13:37:02Z
 Description: US stocks were steady with Wall Street on edge ahead of Nvidia's earnings report.
 --------------------------------------------------
@@ -22,6 +64,18 @@ Title: Earnings live: MongoDB stock soars on AI tailwind, Kohl's surges, Okta ga
 URL: https://finance.yahoo.com/news/live/earnings-live-mongodb-stock-soars-on-ai-tailwind-kohls-surges-okta-gains-abercrombie--fitch-falls-122659970.html
 Time Published: 2025-08-27T12:26:59Z
 Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
+--------------------------------------------------
+
+Title: Stock Market Today: Stocks finish on high note ahead of Nvidia earnings
+URL: https://www.thestreet.com/markets/stock-market-today-august-26-2025
+Time Published: 2025-08-27T12:07:00Z
+Description: Plus: Earnings from CrowdStrike, Snowflake, and HP
+--------------------------------------------------
+
+Title: Nasdaq Futures Tread Water With Nvidia Earnings in Focus
+URL: https://www.barchart.com/story/news/34415510/nasdaq-futures-tread-water-with-nvidia-earnings-in-focus
+Time Published: 2025-08-27T10:04:35Z
+Description: September Nasdaq 100 E-Mini futures (NQU25) are trending up +0.02% this morning, with investors in wait-and-see mode ahead of a highly anticipated earnings...
 --------------------------------------------------
 
 Title: CrowdStrike (CRWD) Price Target Cut to $460 Despite Strong AI Momentum
@@ -78,10 +132,4 @@ URL: https://www.investopedia.com/what-to-expect-in-markets-this-week-nvidia-ear
 Time Published: 2025-08-24T10:00:00Z
 Full Content:
 After a sweeping rally for U.S. stocks Friday fueled by rising expectations of an interest rate cut next month, earnings from the world's most valuable company and a key measure of inflation could command the spotlight this week. Chipmaker Nvidia (NVDA) has been front-and-center in the AI boom, with surging sales on growing demand for the emerging tech. Investors will likely be watching for updates on its most advanced offerings, as well as its plans to navigate changing trade policies, when the company posts its quarterly results. Investors can also look forward to the latest release of the Federal Reserve's favored measure of inflation, which could influence whether the central bank makes its first interest rate cut of the year in September. Read to the bottom for our calendar of key events—and one more thing. Nvidia’s second-quarter results due Wednesday could show whether the chipmaker continues to set the pace in the AI race, with analysts anticipating another sales record despite some headwinds from China export curbs. Nvidia said in May that it expects to report growing revenue, though it warned of a hit from China export restrictions to the tune of $8 billion. The company could offer more updates on its business in China after making a deal with the Trump administration to share revenue from its AI chip sales there. Nvidia is also considering offering a variety of new products for the Chinese market in advance of government approval. Some other companies set to report this week include chipmaker Marvell Technology (MRVL), Dell (DELL), CrowdStrike (CRWD), cloud provider Snowflake (SNOW), and engineering software maker Autodesk (ADSK), along with several Canadian banks. A fresh update on inflation is set to come Friday, with the Personal Consumption Expenditures Index for July, after dovish remarks last week from Fed Chair Jerome Powell boosted expectations for a rate cut in September. The June PCE report showed that inflation ticked higher that month, but a similar inflation report released earlier showed price increases in July were lower than some feared. The PCE report is the Fed’s preferred measurement of inflation, giving its reading potentially more impact with central bankers ahead of September's interest rate decision. This week will also bring a pair of consumer surveys, data on the U.S. trade balance, and housing market data, among other things. Quick Links: Recap Last Week’s Trading | Read Investopedia’s Latest News Monday, Aug. 25 Tuesday, Aug. 26 Wednesday, Aug. 27 Thursday, Aug. 28 Friday, Aug. 29 A new partnership between CME Group and FanDuel will soon allow for “event contracts” on a wide variety of events, letting users make bets on the outcome of the latest inflation report, cryptocurrency movements, where the S&P 500 finishes, and a host of financial marketplace results. Investopedia's Nisha Gopalan has more on that here.
---------------------------------------------------
-
-Title: Zscaler and CrowdStrike (CRWD) Team Up to Boost AI-Powered Cybersecurity
-URL: https://finance.yahoo.com/news/zscaler-crowdstrike-crwd-team-boost-015035518.html
-Time Published: 2025-08-23T01:50:35Z
-Description: CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of the Trending AI Stocks on Wall Street. On August 20, cloud security leader Zscaler, Inc. announced an...
 --------------------------------------------------

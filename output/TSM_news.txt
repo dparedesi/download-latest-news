@@ -35,15 +35,3 @@ URL: https://www.marketwatch.com/story/small-cap-stocks-surged-on-friday-and-now
 Time Published: 2025-08-25T13:55:00Z
 Description: Hard-hit small-cap stocks may finally have their day in the Sun.
 --------------------------------------------------
-
-Title: This week in Trumponomics: POTUS is on an investment spree
-URL: https://finance.yahoo.com/news/this-week-in-trumponomics-potus-is-on-an-investment-spree-140519231.html
-Time Published: 2025-08-23T14:05:19Z
-Description: Trump wants to nationalize Intel and make other big companies do his bidding. Everybody fine with that?
---------------------------------------------------
-
-Title: Bank of America Remains Bullish on Taiwan Semiconductor Manufacturing Company Limited (TSM), Sets a $290 PT
-URL: https://finance.yahoo.com/news/bank-america-remains-bullish-taiwan-072312528.html
-Time Published: 2025-08-23T07:23:12Z
-Description: With strong revenue growth and significant hedge fund interest, Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) secures a spot on our list of...
---------------------------------------------------
