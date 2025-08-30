@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Should You Buy the Post-Earnings Plunge in Marvell Stock?
+URL: https://www.barchart.com/story/news/34488330/should-you-buy-the-post-earnings-plunge-in-marvell-stock
+Time Published: 2025-08-29T18:32:40Z
+Description: Marvell stock tumbles as the chipmaker misses expectations for Q2 data center revenue and future guidance. A JPMorgan analyst recommends buying the post...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq fall from records after PCE inflation data
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fall-from-records-after-pce-inflation-data-133800228.html
 Time Published: 2025-08-29T13:38:00Z
