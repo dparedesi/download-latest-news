@@ -1,9 +1,21 @@
 List of news related to Crowdstrike CRWD:
 
+Title: What's next for CrowdStrike's stock after earnings
+URL: https://www.thestreet.com/investing/analysts-revamp-crowdstrike-stock-target-after-earnings
+Time Published: 2025-08-29T01:37:00Z
+Description: Here’s what could be next for CrowdStrike stock.
+--------------------------------------------------
+
 Title: Stocks Muted Before the Open as Investors Digest Nvidia’s Stumble, U.S. GDP Data in Focus
 URL: https://www.barchart.com/story/news/34445014/stocks-muted-before-the-open-as-investors-digest-nvidias-stumble-u-s-gdp-data-in-focus
 Time Published: 2025-08-28T10:12:21Z
 Description: September S&P 500 E-Mini futures (ESU25) are up +0.03%, and September Nasdaq 100 E-Mini futures (NQU25) are down -0.06% this morning, pointing to a muted...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq waver after Nvidia earnings, GDP, jobs data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-after-nvidia-earnings-gdp-jobs-data-232614620.html
+Time Published: 2025-08-27T23:26:14Z
+Description: Wall Street is poring over Nvidia's good but not blockbuster earnings and assessing an upward revision to GDP.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq rise after Nvidia earnings, GDP, jobs data
@@ -16,12 +28,6 @@ Title: Stock market today: Dow, S&P 500, Nasdaq futures trade lackluster after N
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-lackluster-after-nvidia-fails-to-wow-232614091.html
 Time Published: 2025-08-27T23:26:14Z
 Description: Wall Street is poring over Nvidia's good but not blockbuster earnings, with a GDP update on deck.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq waver after Nvidia earnings, GDP, jobs data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-after-nvidia-earnings-gdp-jobs-data-232614620.html
-Time Published: 2025-08-27T23:26:14Z
-Description: Wall Street is poring over Nvidia's good but not blockbuster earnings and assessing an upward revision to GDP.
 --------------------------------------------------
 
 Title: Nvidia earnings live: Stock falls on data center revenue miss. Also: Snowflake pops, CrowdStrike drops
@@ -48,14 +54,14 @@ Time Published: 2025-08-27T14:15:32Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.04%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.20%, and the Nasdaq 100 Index ($IUXX ) ...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise in countdown to Nvidia earnings report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-in-countdown-to-nvidia-earnings-report-133702576.html
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble in countdown to Nvidia earnings report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-in-countdown-to-nvidia-earnings-report-133702760.html
 Time Published: 2025-08-27T13:37:02Z
 Description: US stocks were steady with Wall Street on edge ahead of Nvidia's earnings report.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq wobble in countdown to Nvidia earnings report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-in-countdown-to-nvidia-earnings-report-133702760.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise in countdown to Nvidia earnings report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-in-countdown-to-nvidia-earnings-report-133702576.html
 Time Published: 2025-08-27T13:37:02Z
 Description: US stocks were steady with Wall Street on edge ahead of Nvidia's earnings report.
 --------------------------------------------------

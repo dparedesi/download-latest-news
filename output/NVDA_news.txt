@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA Corporation (NVDA) Grapples With China’s H20 Chip Restrictions; Invests in Nuro’s $203 Million Autonomous Driving Fundraise
+URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-grapples-china-093458063.html
+Time Published: 2025-08-29T09:34:58Z
+Description: With significant upside potential, NVIDIA Corporation (NASDAQ:NVDA) secures a spot on our list of the 12 Best Quantum Computing Stocks to Buy According to...
+--------------------------------------------------
+
+Title: NVIDIA (NVDA) Unveils DRIVE AGX Thor Developer Kit for Smarter, Safer Autonomous Vehicles
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_202e5919-33ac-4d46-bdbb-5ce8f4d246a8
+Time Published: 2025-08-29T04:20:02Z
+Description: None
+--------------------------------------------------
+
+Title: Susquehanna Reiterates Buy Rating on NVIDIA (NVDA) Stock
+URL: https://finance.yahoo.com/news/susquehanna-reiterates-buy-rating-nvidia-041408940.html
+Time Published: 2025-08-29T04:14:08Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Top Technology Stocks to Buy According to Hedge Funds. On August 28, Christopher Rolland, an analyst from...
+--------------------------------------------------
+
 Title: Nvidia Earnings Sustain the AI Stock Rally—Just Without Nvidia
 URL: https://www.investopedia.com/nvidia-earnings-sustain-the-ai-stock-rally-just-without-nvidia-11800018
 Time Published: 2025-08-28T23:15:37Z
@@ -33,17 +51,17 @@ Description: Chip Stocks Pop on Nvidia News; Winners and Losers Emerge
 --------------------------------------------------
 
 Title: NVIDIA Announces Upcoming Event for Financial Community
-URL: https://www.globenewswire.com/news-release/2025/08/28/3141177/0/en/NVIDIA-Announces-Upcoming-Event-for-Financial-Community.html
-Time Published: 2025-08-28T21:00:00Z
-Full Content:
-August 28, 2025 17:00 ET | Source: NVIDIA NVIDIA SANTA CLARA, Calif., Aug. 28, 2025 (GLOBE NEWSWIRE) -- NVIDIA will present at the following event for the financial community: Goldman Sachs Communacopia + Technology ConferenceMonday, Sept. 8, 12:25 p.m. Pacific Time Interested parties can listen to the live audio webcast of NVIDIA financial presentations at investor.nvidia.com. Webcast replays are available for 90 days afterward. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in accelerated computing. © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Revenue of $46.7 billion, up 6% from Q1 and up 56% from a year agoData Center revenue of $41.1 billion, up 5% from Q1 and up 56% from a year agoBlackwell Data Center revenue grew 17% sequentially ... News Summary: Leading companies including Disney, Foxconn, Hitachi Ltd., Hyundai Motor Group, Lilly, SAP and TSMC are among the first to adopt NVIDIA RTX PRO Servers to speed AI reasoning, physical...
---------------------------------------------------
-
-Title: NVIDIA Announces Upcoming Event for Financial Community
 URL: https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6913152
 Time Published: 2025-08-28T21:00:00Z
 Full Content:
 SANTA CLARA, Calif., Aug. 28, 2025 (GLOBE NEWSWIRE) -- NVIDIA will present at the following event for the financial community: Goldman Sachs Communacopia + Technology ConferenceMonday, Sept. 8, 12:25 p.m. Pacific Time Interested parties can listen to the live audio webcast of NVIDIA financial presentations at investor.nvidia.com. Webcast replays are available for 90 days afterward. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in accelerated computing. © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries.
+--------------------------------------------------
+
+Title: NVIDIA Announces Upcoming Event for Financial Community
+URL: https://www.globenewswire.com/news-release/2025/08/28/3141177/0/en/NVIDIA-Announces-Upcoming-Event-for-Financial-Community.html
+Time Published: 2025-08-28T21:00:00Z
+Full Content:
+August 28, 2025 17:00 ET | Source: NVIDIA NVIDIA SANTA CLARA, Calif., Aug. 28, 2025 (GLOBE NEWSWIRE) -- NVIDIA will present at the following event for the financial community: Goldman Sachs Communacopia + Technology ConferenceMonday, Sept. 8, 12:25 p.m. Pacific Time Interested parties can listen to the live audio webcast of NVIDIA financial presentations at investor.nvidia.com. Webcast replays are available for 90 days afterward. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in accelerated computing. © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Revenue of $46.7 billion, up 6% from Q1 and up 56% from a year agoData Center revenue of $41.1 billion, up 5% from Q1 and up 56% from a year agoBlackwell Data Center revenue grew 17% sequentially ... News Summary: Leading companies including Disney, Foxconn, Hitachi Ltd., Hyundai Motor Group, Lilly, SAP and TSMC are among the first to adopt NVIDIA RTX PRO Servers to speed AI reasoning, physical...
 --------------------------------------------------
 
 Title: S&P 500 Posts a New Record High on a Resilient US Economy
@@ -235,26 +253,26 @@ Time Published: 2025-08-27T23:26:14Z
 Description: Wall Street is poring over Nvidia's good but not blockbuster earnings and assessing an upward revision to GDP.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures trade lackluster after Nvidia fails to wow
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-lackluster-after-nvidia-fails-to-wow-232614091.html
-Time Published: 2025-08-27T23:26:14Z
-Description: Wall Street is poring over Nvidia's good but not blockbuster earnings, with a GDP update on deck.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq waver after Nvidia earnings, GDP, jobs data
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-after-nvidia-earnings-gdp-jobs-data-232614620.html
 Time Published: 2025-08-27T23:26:14Z
 Description: Wall Street is poring over Nvidia's good but not blockbuster earnings and assessing an upward revision to GDP.
 --------------------------------------------------
 
-Title: Nvidia still hasn't finalized deal to kick 15% of H20 China chip sales back to the US government
-URL: https://finance.yahoo.com/news/nvidia-still-hasnt-finalized-deal-to-kick-15-of-h20-china-chip-sales-back-to-the-us-government-230229161.html
-Time Published: 2025-08-27T23:02:29Z
-Description: Nvidia said the US government has not solidified a recent requirement that the AI chipmaker share 15% of the revenue from sales of its H20 chips to China.
+Title: Stock market today: Dow, S&P 500, Nasdaq futures trade lackluster after Nvidia fails to wow
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-lackluster-after-nvidia-fails-to-wow-232614091.html
+Time Published: 2025-08-27T23:26:14Z
+Description: Wall Street is poring over Nvidia's good but not blockbuster earnings, with a GDP update on deck.
 --------------------------------------------------
 
 Title: Nvidia still hasn't finalized deal to kick 15% of some China chip sales back to the US government
 URL: https://finance.yahoo.com/news/nvidia-still-hasnt-finalized-deal-to-kick-15-of-some-china-chip-sales-back-to-the-us-government-230229844.html
+Time Published: 2025-08-27T23:02:29Z
+Description: Nvidia said the US government has not solidified a recent requirement that the AI chipmaker share 15% of the revenue from sales of its H20 chips to China.
+--------------------------------------------------
+
+Title: Nvidia still hasn't finalized deal to kick 15% of H20 China chip sales back to the US government
+URL: https://finance.yahoo.com/news/nvidia-still-hasnt-finalized-deal-to-kick-15-of-h20-china-chip-sales-back-to-the-us-government-230229161.html
 Time Published: 2025-08-27T23:02:29Z
 Description: Nvidia said the US government has not solidified a recent requirement that the AI chipmaker share 15% of the revenue from sales of its H20 chips to China.
 --------------------------------------------------
@@ -290,23 +308,4 @@ URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-index-logs-
 Time Published: 2025-08-27T21:07:07Z
 Full Content:
 Major U.S. equities indexes moved higher Wednesday as investors anticipated the release of a quarterly update from semiconductor giant Nvidia (NVDA) after the closing bell. The S&P 500 gained 0.2%, sending the benchmark index to another all-time closing high. The tech-heavy Nasdaq was also up 0.2%, while the blue-chip Dow closed Wednesday's session 0.3% higher. Recap Investopedia's coverage of today's trading here. Nvidia shares, which are up about 35% this year so far to lead the Magnificent Seven group of big tech stocks, were about flat in the regular session. Detailed coverage of its earnings is available here. Shares of Albemarle (ALB), the world's largest lithium producer, jumped 7.5% to secure the S&P 500's top daily performance. The move higher came a day after UBS upgraded Albemarle to "neutral" from "sell" and lifted its price target on the stock. Analysts cited an improving outlook for lithium prices in 2026 following recent production cutbacks in China. Albemarle and other lithium producers have been cutting costs and scaling back expansion plans as they navigate a prolonged slump in the price of the key battery component. An upgrade from UBS also helped shares of casino operators. Analysts at the firm raised their view on Wynn Macau, a subsidiary of Wynn Resorts (WYNN) operating in the Asian gaming hotspot, to "buy" from "neutral." UBS highlighted improved growth forecasts for Macau's gross gaming revenue and suggested that high-end operators like Wynn are likely to sustain or increase their market share in the special administrative region. Wynn Resorts shares gained 3.5%, while shares of fellow Macau-exposed gaming companies MGM Resorts International (MGM) and Caesars Entertainment (CZR) were also up more than 3%. Database software firm MongoDB (MDB) reported better-than-expected sales and profits for its fiscal second quarter and increased its full-year outlook, and its shares skyrocketed roughly 38%. Strong customer additions and subscription revenue growth underpinned the company's performance. The report helped boost the shares of other database software firms, including those of service analytics specialist Datadog (DDOG), which advanced 4.3%. Paramount Skydance (PSKY) shares dropped 6.5%, falling the most of any S&P 500 constituent on Wednesday. The stock has seen significant volatility since the completion of the merger between Skydance Media and Paramount Global earlier this month. The latest move lower came after Morgan Stanley trimmed its price target on Paramount Skydance stock, citing a steep valuation and muted growth expectations for adjusted operating income. BofA Securities analysts downgraded SBA Communications (SBAC) to "neutral" from "buy" and cut their price target on shares of the wireless infrastructure real estate investment trust. The downgrade came after DISH TV operator EchoStar (SATS) said that it sold 50 megahertz of its nationwide low- and mid-band spectrum allocations to AT&T (T). Analysts believe the move suggests that AT&T could scale back its network densification efforts, which would have a negative impact on SBAC's business. SBAC shares lost 4.9% on Wednesday. Shares of J.M. Smucker (SJM) sank 4.4% after the food and beverage manufacturer reported a loss for its fiscal first quarter. The company said tariff-related pressure on its U.S. retail coffee division—home to the Folgers, Dunkin', and Café Bustelo brands—weighed on its performance. An executive said Smucker is planning addition price hikes for its coffee products later this year. A 50% tariff imposed by the Trump administration on certain imports from Brazil, the world's largest coffee producer, took effect earlier this month.
---------------------------------------------------
-
-Title: Nvidia Q2 Earnings Highlights: Double Beat, $60B Share Buyback, Huang Says 'AI Race Is On' (CORRECTED)
-URL: https://finance.yahoo.com/news/nvidia-q2-earnings-highlights-double-204127566.html
-Time Published: 2025-08-27T20:53:25Z
-Description: Editor's Note: This article has been updated to correct the price action data. NVIDIA Corporation (NASDAQ:NVDA) reported second-quarter financial results...
---------------------------------------------------
-
-Title: Instant View: Nvidia Q3 revenue forecasts suggest AI trade has more to run
-URL: https://finance.yahoo.com/news/instant-view-ai-bellwether-nvidia-205054404.html
-Time Published: 2025-08-27T20:50:54Z
-Description: Helped by robust demand for its artificial intelligence chips from cloud providers expanding infrastructure to power generative AI technology, Nvidia expects...
---------------------------------------------------
-
-Title: Analysts bullish on Nvidia stock as Q2 earnings report looms
-URL: https://techpinions.com/analysts-bullish-on-nvidia-stock-as-q2-earnings-report-looms/
-Time Published: 2025-08-27T20:46:00Z
-Full Content:
-FREE MEETING: KEY TRENDS AND RISKS IN TECH GAMES– REGISTER Nvidia is set to release its second-quarter earnings results after the market closes on Wednesday, with analysts widely bullish on the chipmaker’s stock despite some trade policy headwinds. Why it matters: The upcoming earnings report will provide additional insights into Nvidia’s pivotal role in AI technology and the impact of recent challenges, such as China export restrictions. The details: Options traders are predicting a roughly 6% movement for Nvidia’s shares in either direction following the results, which is below the 7% long-term average move. What they’re saying: The big picture: Nvidia’s earnings report is highly anticipated by investors who are keen to see how the company has performed recently, particularly in its business operations in China, and to gain insights into the broader trends within the artificial intelligence sector. What’s next: Investors will closely watch Nvidia’s earnings call for further clarity on the company’s situation in China, as well as any guidance on future growth prospects in the AI sector. The Street continues to underestimate the demand curve for the AI Revolution being led by Nvidia and this week’s earnings will be another flex the muscles moment for Nvidia and the AI Revolution bull thesis. There is one chip in the world fueling the AI Revolution…Nvidia 🏆🐂🍿 — Dan Ives (@DivesTech) August 25, 2025 UBS forecasts Nvidia $NVDA to ship more than 26K GB200/300 NVL72 racks in 2025, with nearly half of these units coming in Q4. — Beth Kindig (@Beth_Kindig) August 25, 2025 Ahead of Nvidia’s $NVDA earnings, Wells Fargo raised its revenue estimates from $45.8 billion to $48.1 billion, with data center revenue raised from $40.7 billion to $43.1 billion on strong intra-quarter demand and the H20 approval. — Beth Kindig (@Beth_Kindig) August 25, 2025 We use social media to react to breaking news, update supporters and share information You can be the first to find out the latest news and tips about innovation and more...
 --------------------------------------------------
