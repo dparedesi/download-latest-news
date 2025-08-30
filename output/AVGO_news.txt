@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Stocks Decline on Weakness in Tech Stocks and Sticky Inflation Pressures
+URL: https://www.barchart.com/story/news/34482613/stocks-decline-on-weakness-in-tech-stocks-and-sticky-inflation-pressures
+Time Published: 2025-08-29T14:08:27Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.31%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.12%, and the Nasdaq 100 Index ($IUXX ...
+--------------------------------------------------
+
+Title: Earnings live: Affirm swings to profit, Alibaba stock rises, Dell slides, Marvell tanks
+URL: https://finance.yahoo.com/news/live/earnings-live-affirm-swings-to-profit-alibaba-stock-rises-dell-slides-marvell-tanks-113723862.html
+Time Published: 2025-08-29T11:37:23Z
+Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
+--------------------------------------------------
+
 Title: Citi Reiterates Buy on Broadcom (AVGO) Amid AI, Wireless Market Optimism
 URL: https://finance.yahoo.com/news/citi-reiterates-buy-broadcom-avgo-042659212.html
 Time Published: 2025-08-29T04:26:59Z

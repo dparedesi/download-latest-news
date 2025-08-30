@@ -1,5 +1,23 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Is Oracle Stock Outperforming the Nasdaq?
+URL: https://www.barchart.com/story/news/34482719/is-oracle-stock-outperforming-the-nasdaq
+Time Published: 2025-08-29T14:13:12Z
+Description: As Oracle has considerably outperformed the Nasdaq recently, analysts remain moderately optimistic about the stock’s prospects.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq fall from records after PCE inflation data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fall-from-records-after-pce-inflation-data-133800228.html
+Time Published: 2025-08-29T13:38:00Z
+Description: Wall Street digested new data on inflation following a record-breaking day for markets.
+--------------------------------------------------
+
+Title: Is Microsoft Stock Outperforming the S&P 500?
+URL: https://www.barchart.com/story/news/34479898/is-microsoft-stock-outperforming-the-s-p-500
+Time Published: 2025-08-29T12:46:17Z
+Description: Microsoft has outperformed the S&P 500 over the past year, and analysts are highly optimistic about the stock’s prospects.
+--------------------------------------------------
+
 Title: Microsoft Corporation (MSFT) Announces its Quantum Safe Program Strategy; UBS Reaffirms ‘Buy’ Rating With $650 PT
 URL: https://finance.yahoo.com/news/microsoft-corporation-msft-announces-quantum-093208793.html
 Time Published: 2025-08-29T09:32:08Z
