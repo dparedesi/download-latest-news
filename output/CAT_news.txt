@@ -1,13 +1,13 @@
 List of news related to Caterpillar stock price CAT:
 
+Title: Commentary: Trump’s trade war is hurting most sectors of the economy
+URL: https://finance.yahoo.com/news/commentary-trumps-trade-war-is-hurting-most-sectors-of-the-economy-191706763.html
+Time Published: 2025-08-28T19:17:06Z
+Description: The latest round of earnings reports revealed widespread damage from the Trump tariffs and other attacks on trade.
+--------------------------------------------------
+
 Title: How the U.S. Fiscal Year-End on September 30 Will Shape Stock & Futures Markets
 URL: https://www.barchart.com/story/news/34369460/how-the-u-s-fiscal-year-end-on-september-30-will-shape-stock-futures-markets
 Time Published: 2025-08-25T14:00:02Z
 Description: U.S. Fiscal year-end Sept 30 is a game-changer! Defense & tech stocks rise, or SPY falters due to shutdown fears. Be prepared for Oct 01.
---------------------------------------------------
-
-Title: Nvidia will deliver key earnings report this week
-URL: https://www.thestreet.com/investing/stocks/nvidia-will-deliver-key-earnings-report-this-week
-Time Published: 2025-08-24T10:58:30Z
-Description: Check out the stocks that propelled last week's huge Dow rally.
 --------------------------------------------------

@@ -49,9 +49,3 @@ URL: https://finance.yahoo.com/news/bitcoin-ethereum-plunge-defied-gold-20310317
 Time Published: 2025-08-26T20:31:03Z
 Description: Risk-off sentiment returned in the market, sending gold and its cryptocurrency derivatives slightly higher on Monday. Gold Over ‘Digital Gold?’ Spot gold was...
 --------------------------------------------------
-
-Title: New report reveals stunning trend in used Tesla vehicle prices: 'Quite exceptional'
-URL: https://finance.yahoo.com/news/report-reveals-stunning-trend-used-004500645.html
-Time Published: 2025-08-24T00:45:00Z
-Description: "I've seen a lot of evidence."
---------------------------------------------------

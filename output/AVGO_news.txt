@@ -1,5 +1,29 @@
 List of news related to Broadcom AVGO:
 
+Title: S&P 500 Posts a New Record High on a Resilient US Economy
+URL: https://www.barchart.com/story/news/34463040/s-p-500-posts-a-new-record-high-on-a-resilient-us-economy
+Time Published: 2025-08-28T20:38:22Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up by +0.32%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.16%, and the Nasdaq 100...
+--------------------------------------------------
+
+Title: Why Broadcom (AVGO) Stock Is Climbing Today
+URL: https://finance.yahoo.com/news/why-broadcom-avgo-stock-climbing-193716417.html
+Time Published: 2025-08-28T19:37:16Z
+Description: AVGO: Nvidia's Bullish AI Spend Forecast Lifts Broadcom Shares
+--------------------------------------------------
+
+Title: Economic Optimism Boosts Stocks
+URL: https://www.barchart.com/story/news/34455759/economic-optimism-boosts-stocks
+Time Published: 2025-08-28T15:15:14Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.03%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.22%, and the Nasdaq 100 Index ($IUXX ) ...
+--------------------------------------------------
+
+Title: Stocks Supported by Signs the US Economy is Holding Up
+URL: https://www.barchart.com/story/news/34454194/stocks-supported-by-signs-the-us-economy-is-holding-up
+Time Published: 2025-08-28T14:14:08Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.02%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.16%, and the Nasdaq 100 Index ($IUXX ) ...
+--------------------------------------------------
+
 Title: Nvidia earnings live: Stock falls on data center revenue miss. Also: Snowflake pops, CrowdStrike drops
 URL: https://finance.yahoo.com/news/live/nvidia-earnings-live-stock-falls-on-data-center-revenue-miss-also-snowflake-pops-crowdstrike-drops-202724450.html
 Time Published: 2025-08-27T20:27:24Z

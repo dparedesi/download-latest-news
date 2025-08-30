@@ -1,5 +1,17 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Stocks Muted Before the Open as Investors Digest Nvidia’s Stumble, U.S. GDP Data in Focus
+URL: https://www.barchart.com/story/news/34445014/stocks-muted-before-the-open-as-investors-digest-nvidias-stumble-u-s-gdp-data-in-focus
+Time Published: 2025-08-28T10:12:21Z
+Description: September S&P 500 E-Mini futures (ESU25) are up +0.03%, and September Nasdaq 100 E-Mini futures (NQU25) are down -0.06% this morning, pointing to a muted...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq rise after Nvidia earnings, GDP, jobs data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-after-nvidia-earnings-gdp-jobs-data-232614541.html
+Time Published: 2025-08-27T23:26:14Z
+Description: Wall Street is poring over Nvidia's good but not blockbuster earnings and assessing an upward revision to GDP.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq waver after Nvidia earnings, GDP, jobs data
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-after-nvidia-earnings-gdp-jobs-data-232614620.html
 Time Published: 2025-08-27T23:26:14Z
@@ -10,12 +22,6 @@ Title: Stock market today: Dow, S&P 500, Nasdaq futures trade lackluster after N
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-lackluster-after-nvidia-fails-to-wow-232614091.html
 Time Published: 2025-08-27T23:26:14Z
 Description: Wall Street is poring over Nvidia's good but not blockbuster earnings, with a GDP update on deck.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq rise after Nvidia earnings, GDP, jobs data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-after-nvidia-earnings-gdp-jobs-data-232614541.html
-Time Published: 2025-08-27T23:26:14Z
-Description: Wall Street is poring over Nvidia's good but not blockbuster earnings and assessing an upward revision to GDP.
 --------------------------------------------------
 
 Title: Nvidia earnings live: Stock falls on data center revenue miss. Also: Snowflake pops, CrowdStrike drops
@@ -42,14 +48,14 @@ Time Published: 2025-08-27T14:15:32Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.04%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.20%, and the Nasdaq 100 Index ($IUXX ) ...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq wobble in countdown to Nvidia earnings report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-in-countdown-to-nvidia-earnings-report-133702760.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise in countdown to Nvidia earnings report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-in-countdown-to-nvidia-earnings-report-133702576.html
 Time Published: 2025-08-27T13:37:02Z
 Description: US stocks were steady with Wall Street on edge ahead of Nvidia's earnings report.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise in countdown to Nvidia earnings report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-in-countdown-to-nvidia-earnings-report-133702576.html
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble in countdown to Nvidia earnings report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-in-countdown-to-nvidia-earnings-report-133702760.html
 Time Published: 2025-08-27T13:37:02Z
 Description: US stocks were steady with Wall Street on edge ahead of Nvidia's earnings report.
 --------------------------------------------------
@@ -113,23 +119,4 @@ Title: Option Volatility And Earnings Report For Aug 25 – 29
 URL: https://www.barchart.com/story/news/34364841/option-volatility-and-earnings-report-for-aug-25-29
 Time Published: 2025-08-25T11:00:02Z
 Description: It’s another reasonably quiet week for earnings in terms of the number of companies reporting, but we do have some highly anticipated releases from Nvidia...
---------------------------------------------------
-
-Title: NVDA Earnings, PCE and Other Key Things to Watch this Week
-URL: https://www.barchart.com/story/news/34358509/nvda-earnings-pce-and-other-key-things-to-watch-this-week
-Time Published: 2025-08-24T17:00:02Z
-Description: Markets enter a defining week following Friday's dramatic turnaround that saw the S&P 500 ($SPX) (SPY) and Dow hit new highs after Fed Chair Jerome Powell's ...
---------------------------------------------------
-
-Title: Nvidia will deliver key earnings report this week
-URL: https://www.thestreet.com/investing/stocks/nvidia-will-deliver-key-earnings-report-this-week
-Time Published: 2025-08-24T10:58:30Z
-Description: Check out the stocks that propelled last week's huge Dow rally.
---------------------------------------------------
-
-Title: What To Expect in Markets This Week: Nvidia Earnings, a Key Measure of Inflation, and More
-URL: https://www.investopedia.com/what-to-expect-in-markets-this-week-nvidia-earnings-a-key-measure-of-inflation-and-more-11795525
-Time Published: 2025-08-24T10:00:00Z
-Full Content:
-After a sweeping rally for U.S. stocks Friday fueled by rising expectations of an interest rate cut next month, earnings from the world's most valuable company and a key measure of inflation could command the spotlight this week. Chipmaker Nvidia (NVDA) has been front-and-center in the AI boom, with surging sales on growing demand for the emerging tech. Investors will likely be watching for updates on its most advanced offerings, as well as its plans to navigate changing trade policies, when the company posts its quarterly results. Investors can also look forward to the latest release of the Federal Reserve's favored measure of inflation, which could influence whether the central bank makes its first interest rate cut of the year in September. Read to the bottom for our calendar of key events—and one more thing. Nvidia’s second-quarter results due Wednesday could show whether the chipmaker continues to set the pace in the AI race, with analysts anticipating another sales record despite some headwinds from China export curbs. Nvidia said in May that it expects to report growing revenue, though it warned of a hit from China export restrictions to the tune of $8 billion. The company could offer more updates on its business in China after making a deal with the Trump administration to share revenue from its AI chip sales there. Nvidia is also considering offering a variety of new products for the Chinese market in advance of government approval. Some other companies set to report this week include chipmaker Marvell Technology (MRVL), Dell (DELL), CrowdStrike (CRWD), cloud provider Snowflake (SNOW), and engineering software maker Autodesk (ADSK), along with several Canadian banks. A fresh update on inflation is set to come Friday, with the Personal Consumption Expenditures Index for July, after dovish remarks last week from Fed Chair Jerome Powell boosted expectations for a rate cut in September. The June PCE report showed that inflation ticked higher that month, but a similar inflation report released earlier showed price increases in July were lower than some feared. The PCE report is the Fed’s preferred measurement of inflation, giving its reading potentially more impact with central bankers ahead of September's interest rate decision. This week will also bring a pair of consumer surveys, data on the U.S. trade balance, and housing market data, among other things. Quick Links: Recap Last Week’s Trading | Read Investopedia’s Latest News Monday, Aug. 25 Tuesday, Aug. 26 Wednesday, Aug. 27 Thursday, Aug. 28 Friday, Aug. 29 A new partnership between CME Group and FanDuel will soon allow for “event contracts” on a wide variety of events, letting users make bets on the outcome of the latest inflation report, cryptocurrency movements, where the S&P 500 finishes, and a host of financial marketplace results. Investopedia's Nisha Gopalan has more on that here.
 --------------------------------------------------

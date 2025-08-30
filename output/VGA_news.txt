@@ -38,9 +38,3 @@ URL: https://finance.yahoo.com/news/eagers-automotive-limiteds-asx-ape-000927222
 Time Published: 2025-08-25T00:09:27Z
 Description: Key Insights The considerable ownership by retail investors in Eagers Automotive indicates that they collectively have...
 --------------------------------------------------
-
-Title: While institutions own 35% of Vonovia SE (ETR:VNA), retail investors are its largest shareholders with 50% ownership
-URL: https://finance.yahoo.com/news/while-institutions-own-35-vonovia-072850593.html
-Time Published: 2025-08-24T07:28:50Z
-Description: Key Insights Vonovia's significant retail investors ownership suggests that the key decisions are influenced by...
---------------------------------------------------
