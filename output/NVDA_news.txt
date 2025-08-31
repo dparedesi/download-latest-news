@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA (NVDA) Powers India's First AI Cloud With New Blackwell Servers
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_21fb3d44-6d4e-4788-b2d7-44c5adedab28
+Time Published: 2025-08-30T17:12:23Z
+Description: None
+--------------------------------------------------
+
 Title: Why Wall Street has developed an unhealthy obsession with Nvidia - CNN
 URL: https://slashdot.org/firehose.pl?op=view&amp;id=178945762
 Time Published: 2025-08-30T16:34:34Z
@@ -132,7 +138,8 @@ Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.31%, the Dow J
 Title: Bitcoin Miner IREN's AI Push Gains Momentum, Price Target Hiked 60% to $37: Canaccord
 URL: https://www.coindesk.com/markets/2025/08/29/bitcoin-miner-iren-s-ai-push-gains-momentum-price-target-hiked-60-to-usd37-canaccord
 Time Published: 2025-08-29T13:41:14Z
-Description: The broker noted IREN's recent designation as an NVIDIA preferred partner, which came almost simultaneously with the announcement of the purchase of an additional 2,400 GPUs.
+Full Content:
+IREN (IREN) reported fourth-quarter results that highlighted rapid progress in both its bitcoin mining and artificial intelligence infrastructure businesses, according to a Friday research report by broker Canaccord Genuity. The broker reiterated its buy rating on the stock and hiked its price target 60% to $37 from $24, citing stronger visibility in both mining and AI revenue streams. In early trading, shares are higher by 25% to $28.75. The company’s mining unit reached an annualized revenue run rate above $1 billion, powered by 50 exahash per second (EH/s) of capacity and one of the industry’s most efficient fleets at 15 J/TH, operating on 3.5 cent/kWh power, analysts led by Joseph Vafi wrote. That translates into a $36,000 cost to mine a bitcoin, well below market levels. Bitcoin mining revenue came in at $187.3 million for the quarter, up 33% sequentially, while adjusted EBITDA jumped 46% to $121.9 million. On the AI side, IREN is accelerating expansion, the report noted. The bitcoin miner quadrupled its hashrate and added another megawatt of power capacity, now totaling 3 MW, with further growth expected in fiscal 2025. The hashrate refers to the total combined computational power used to mine and process transactions on a proof-of-work blockchain, and is a proxy for competition in the industry and mining difficulty. Canaccord also noted IREN's recent designation as an NVIDIA (NVDA) preferred partner, which came almost simultaneously with the announcement of the purchase of an additional 2,400 GPUs. With 2,910 MW of secured power capacity and some of the lowest all-in cash costs in the industry, Canaccord argues IREN is positioned to become one of the largest and most efficient publicly listed miners, with significant optionality in high-performance computing. Read more: IREN Posts First Full-Year Profit on AI Cloud Growth, Mining Expansion; Shares Climb More For You Yen-Backed Stablecoin Can’t Come at a Better Time as BOJ Seen Raising Rates Top bankers and economists expect the BOJ to hike rates in the fourth quarter, boosting the appeal of yen and yen-backed assets. What to know: About Contact
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq fall from records after PCE inflation data
@@ -218,17 +225,17 @@ Description: Chip Stocks Pop on Nvidia News; Winners and Losers Emerge
 --------------------------------------------------
 
 Title: NVIDIA Announces Upcoming Event for Financial Community
-URL: https://www.globenewswire.com/news-release/2025/08/28/3141177/0/en/NVIDIA-Announces-Upcoming-Event-for-Financial-Community.html
-Time Published: 2025-08-28T21:00:00Z
-Full Content:
-August 28, 2025 17:00 ET | Source: NVIDIA NVIDIA SANTA CLARA, Calif., Aug. 28, 2025 (GLOBE NEWSWIRE) -- NVIDIA will present at the following event for the financial community: Goldman Sachs Communacopia + Technology ConferenceMonday, Sept. 8, 12:25 p.m. Pacific Time Interested parties can listen to the live audio webcast of NVIDIA financial presentations at investor.nvidia.com. Webcast replays are available for 90 days afterward. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in accelerated computing. © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Revenue of $46.7 billion, up 6% from Q1 and up 56% from a year agoData Center revenue of $41.1 billion, up 5% from Q1 and up 56% from a year agoBlackwell Data Center revenue grew 17% sequentially ... News Summary: Leading companies including Disney, Foxconn, Hitachi Ltd., Hyundai Motor Group, Lilly, SAP and TSMC are among the first to adopt NVIDIA RTX PRO Servers to speed AI reasoning, physical...
---------------------------------------------------
-
-Title: NVIDIA Announces Upcoming Event for Financial Community
 URL: https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6913152
 Time Published: 2025-08-28T21:00:00Z
 Full Content:
 SANTA CLARA, Calif., Aug. 28, 2025 (GLOBE NEWSWIRE) -- NVIDIA will present at the following event for the financial community: Goldman Sachs Communacopia + Technology ConferenceMonday, Sept. 8, 12:25 p.m. Pacific Time Interested parties can listen to the live audio webcast of NVIDIA financial presentations at investor.nvidia.com. Webcast replays are available for 90 days afterward. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in accelerated computing. © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries.
+--------------------------------------------------
+
+Title: NVIDIA Announces Upcoming Event for Financial Community
+URL: https://www.globenewswire.com/news-release/2025/08/28/3141177/0/en/NVIDIA-Announces-Upcoming-Event-for-Financial-Community.html
+Time Published: 2025-08-28T21:00:00Z
+Full Content:
+August 28, 2025 17:00 ET | Source: NVIDIA NVIDIA SANTA CLARA, Calif., Aug. 28, 2025 (GLOBE NEWSWIRE) -- NVIDIA will present at the following event for the financial community: Goldman Sachs Communacopia + Technology ConferenceMonday, Sept. 8, 12:25 p.m. Pacific Time Interested parties can listen to the live audio webcast of NVIDIA financial presentations at investor.nvidia.com. Webcast replays are available for 90 days afterward. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in accelerated computing. © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Revenue of $46.7 billion, up 6% from Q1 and up 56% from a year agoData Center revenue of $41.1 billion, up 5% from Q1 and up 56% from a year agoBlackwell Data Center revenue grew 17% sequentially ... News Summary: Leading companies including Disney, Foxconn, Hitachi Ltd., Hyundai Motor Group, Lilly, SAP and TSMC are among the first to adopt NVIDIA RTX PRO Servers to speed AI reasoning, physical...
 --------------------------------------------------
 
 Title: S&P 500 Posts a New Record High on a Resilient US Economy
@@ -303,10 +310,4 @@ URL: https://www.investopedia.com/nvidia-stock-falls-after-earnings-report-criti
 Time Published: 2025-08-28T16:10:41Z
 Full Content:
 Nvidia (NVDA) shares lost ground Thursday morning even as the AI chipmaker and investor favorite reported revenue and profit that topped analysts' estimates. While the results, released late Wednesday, broadly came in slightly better than expected, sales in the data center segment, which comprise the bulk of the company's revenue, were slightly below Wall Street estimates. The outlook for the current quarter—which excludes sales of H20 chips to China amid uncertainty about whether exports to the country will resume—also disappointed some investors. Market participants have come to expect that Nvidia's results and guidance will always blow past expectations. Nvidia shares were down 1.5% at around $179 in midday trading. Coming into today's session the stock had gained 35% since the start of the year, making it the biggest gainer among members of the Magnificent 7 group of mega-cap technology stocks, amid booming demand from major companies building their AI infrastructure. Below, we take a closer look at Nvidia’s chart and use technical analysis to point out key price levels that investors will likely be watching. After registering a fresh all-time high earlier this month, Nvidia shares have traded mostly sideways, indicating apprehension among market participants ahead of the chipmaker's quarterly results. While the relative strength index remained in bullish territory leading into earnings, the indicator had made consistently lower highs since topping out in mid-July, signaling weakening buying momentum. Let’s identify key support levels to watch and point out an important overhead area worth eyeing if the stock rallies. Initial earnings-driven selling could see the shares test key support around $174. This area may attract buying interest near the mid-July peak and a minor retracement in the stock last week. A close below this location may lead to a retest of support at the $159 level. Investors could look for entry points in this area near the June high, which preceded a brief two-day dip before the stock resumed its uptrend. Further selling opens the door for a decline to the key $150 level. The shares would likely encounter support in this region never multiple peaks that formed on the chart between November and January. Interestingly, this level closely aligns with a downside bars pattern target that takes the move lower following the chipmaker’s 2024 third-quarter earnings report and repositions it from the stock’s recent highs. This analysis provides clues as to how a similar post-earnings profit-taking phase may unfold. If Nvidia shares resume their longer-term move higher, investors should eye the $183 area. This location on the chart would likely attract significant attention near the stock’s recent trading levels just below the record high. The comments, opinions, and analyses expressed on Investopedia are for informational purposes only. Read our warranty and liability disclaimer for more info. As of the date this article was written, the author does not own any of the above securities.
---------------------------------------------------
-
-Title: Why Nvidia's bull market rages on: Opening Bid top takeaway
-URL: https://finance.yahoo.com/news/why-nvidias-bull-market-rages-on-opening-bid-top-takeaway-155031062.html
-Time Published: 2025-08-28T15:50:31Z
-Description: Nvidia stays beloved.
 --------------------------------------------------
