@@ -1,5 +1,24 @@
 List of news related to Broadcom AVGO:
 
+Title: Stocks Settle Lower as Tech Shares Selloff
+URL: https://www.barchart.com/story/news/34490581/stocks-settle-lower-as-tech-shares-selloff
+Time Published: 2025-08-29T20:34:22Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed down by -0.64%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down by -0.20%, and the Nasdaq 100...
+--------------------------------------------------
+
+Title: Nvidia, Broadcom Lead Chip Stocks Lower Amid China Concerns to End a Strong Month
+URL: https://www.investopedia.com/nvidia-broadcom-lead-chip-stocks-lower-amid-china-concerns-to-end-a-strong-month-11800731
+Time Published: 2025-08-29T20:12:43Z
+Full Content:
+The chips are down to close out August. A range of chip stocks slid Friday, weighing on the major U.S. equities indexes in the last trading session of the month. China concerns weighed on the sector, but that wasn't the only factor that pulled shares lower. The tech sector led losses on the S&P 500 Friday, with Nvidia (NVDA) among its biggest decliners. The giant's shares lost over 3% amid uncertainty about its China sales after it reported quarterly results Wednesday. Broadcom (AVGO), which reports next week, saw its stock fall close to 4%. Advanced Micro Devices (AMD) and other chip stocks were also lower, with the PHLX Semiconductor Index (SOX) down roughly 3%. Marvell Technology (MRVL) shares plunged the most of any stock in the sector index, losing nearly a fifth of its value after the firm posted an outlook that missed analysts' estimates, with concerns about U.S. restrictions on chip sales to China and Marvell's large exposure to the country adding to worries. The Trump administration said Friday that it’s eliminating a Biden-era loophole allowing Samsung and SK Hynix subsidiaries in China to import American chipmaking equipment and software without a license, which could make it more difficult for the companies to upgrade plants and affect supply chains for other chip firms that rely on their manufacturing services. The rule is set to take effect in January. “The Trump Administration is committed to closing export control loopholes—particularly those that put U.S. companies at a competitive disadvantage. Today’s decision is an important step towards fulfilling this commitment," Under Secretary of Commerce Jeffrey Kessler said. Samsung and SK Hynix, which both make chips for Nvidia and Broadcom, did not immediately respond to Investopedia's request for comment. Intel (INTC), which completed the sale of its facility in Dalian, China to SK Hynix earlier this year, was also named in Friday’s notice. Meanwhile, Alibaba Group's (BABA) cloud computing unit reportedly developed a new chip more advanced than its legacy products that could help fill the void left by Nvidia's H20 AI chip that has yet to resume sales in China. Shares of Alibaba, also bolstered by its latest quarterly results, surged 13%. August has been a strong month for most chipmakers, with the PHLX Semiconductor Index set to post gains for August on optimism about AI-driven growth, which helped buoy the S&P 500 to a record high yesterday.
+--------------------------------------------------
+
+Title: What Does Wall Street Think About Broadcom (AVGO), Ahead of its Earnings Release?
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9699dcb0-7da5-49de-8cfe-5da6b1ffbe62
+Time Published: 2025-08-29T19:13:08Z
+Description: None
+--------------------------------------------------
+
 Title: What's Going On With Broadcom Stock Friday?
 URL: https://finance.yahoo.com/news/whats-going-broadcom-stock-friday-182419412.html
 Time Published: 2025-08-29T18:24:19Z
@@ -186,16 +205,4 @@ Title: MACOM Technology Solutions Holdings, Inc. (MTSI): A Bull Case Theory
 URL: https://finance.yahoo.com/news/macom-technology-solutions-holdings-inc-101815152.html
 Time Published: 2025-08-26T10:18:15Z
 Description: We came across a bullish thesis on MACOM Technology Solutions Holdings, Inc. on Business Invest’s Substack by Francesco Ferrari. In this article, we will...
---------------------------------------------------
-
-Title: Analysts rework price target on Broadcom ahead of earnings
-URL: https://www.thestreet.com/technology/analysts-rework-price-target-on-broadcom-ahead-of-earnings
-Time Published: 2025-08-25T19:34:58Z
-Description: This is what could happen next to Broadcom shares.
---------------------------------------------------
-
-Title: 2 AI Chip Stocks Poised to Win on Wall Street Next
-URL: https://www.barchart.com/story/news/34372513/2-ai-chip-stocks-poised-to-win-on-wall-street-next
-Time Published: 2025-08-25T16:38:37Z
-Description: These semiconductor stocks offer both near-term growth momentum and long-term structural upside.
 --------------------------------------------------

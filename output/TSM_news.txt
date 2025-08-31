@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Is Wall Street Bullish on Taiwan Semiconductor Manufacturing Company (TSM)?
+URL: https://finance.yahoo.com/news/wall-street-bullish-taiwan-semiconductor-191306880.html
+Time Published: 2025-08-29T19:13:06Z
+Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the Stocks That Will Make You Rich In 5 Years. On August 8, Taiwan Semiconductor...
+--------------------------------------------------
+
 Title: Consistent, Robust Sales Boosted Taiwan Semiconductor Manufacturing Company Limited (TSM) in Q2
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_267b6e9d-3855-4eb9-92e5-4f08a8b770b2
 Time Published: 2025-08-29T13:03:54Z
@@ -71,10 +77,4 @@ Title: MACOM Technology Solutions Holdings, Inc. (MTSI): A Bull Case Theory
 URL: https://finance.yahoo.com/news/macom-technology-solutions-holdings-inc-101815152.html
 Time Published: 2025-08-26T10:18:15Z
 Description: We came across a bullish thesis on MACOM Technology Solutions Holdings, Inc. on Business Invest’s Substack by Francesco Ferrari. In this article, we will...
---------------------------------------------------
-
-Title: Small-cap stocks surged on Friday — and now, they’ve finally busted out of a range
-URL: https://www.marketwatch.com/story/small-cap-stocks-surged-on-friday-and-now-theyve-finally-busted-out-of-a-range-e5d612f9
-Time Published: 2025-08-25T13:55:00Z
-Description: Hard-hit small-cap stocks may finally have their day in the Sun.
 --------------------------------------------------

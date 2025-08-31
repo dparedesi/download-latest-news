@@ -1,5 +1,11 @@
 List of news related to Caterpillar stock price CAT:
 
+Title: Stocks Settle Lower as Tech Shares Selloff
+URL: https://www.barchart.com/story/news/34490581/stocks-settle-lower-as-tech-shares-selloff
+Time Published: 2025-08-29T20:34:22Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed down by -0.64%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down by -0.20%, and the Nasdaq 100...
+--------------------------------------------------
+
 Title: US stock market in trouble today: Dow, S&P 500, Nasdaq slide after record highs — inflation heats up, Trump tariffs rattle stocks ahead of volatile September
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-in-trouble-today-dow-sp-500-nasdaq-slide-after-record-highs-inflation-heats-up-trump-tariffs-rattle-stocks-ahead-of-volatile-september/articleshow/123587492.cms
 Time Published: 2025-08-29T15:18:49Z
@@ -23,10 +29,4 @@ Title: Commentary: Trump’s trade war is hurting most sectors of the economy
 URL: https://finance.yahoo.com/news/commentary-trumps-trade-war-is-hurting-most-sectors-of-the-economy-191706763.html
 Time Published: 2025-08-28T19:17:06Z
 Description: The latest round of earnings reports revealed widespread damage from the Trump tariffs and other attacks on trade.
---------------------------------------------------
-
-Title: How the U.S. Fiscal Year-End on September 30 Will Shape Stock & Futures Markets
-URL: https://www.barchart.com/story/news/34369460/how-the-u-s-fiscal-year-end-on-september-30-will-shape-stock-futures-markets
-Time Published: 2025-08-25T14:00:02Z
-Description: U.S. Fiscal year-end Sept 30 is a game-changer! Defense & tech stocks rise, or SPY falters due to shutdown fears. Be prepared for Oct 01.
 --------------------------------------------------

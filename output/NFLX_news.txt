@@ -18,9 +18,3 @@ URL: https://www.barchart.com/story/news/34388668/can-roku-stock-survive-the-str
 Time Published: 2025-08-26T11:30:02Z
 Description: Roku is a story of resilience and adaptation.
 --------------------------------------------------
-
-Title: Figma draws 'neutral' ratings as Wall Street flags lofty valuation, rising competition
-URL: https://finance.yahoo.com/news/figma-draws-neutral-ratings-wall-111421380.html
-Time Published: 2025-08-25T11:14:21Z
-Description: (Reuters) -Wall Street brokerages on Monday started their coverage of Figma (FIG) with neutral ratings, as they weighed the design software maker's lofty...
---------------------------------------------------

@@ -66,14 +66,14 @@ Time Published: 2025-08-27T14:15:32Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.04%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.20%, and the Nasdaq 100 Index ($IUXX ) ...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq wobble in countdown to Nvidia earnings report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-in-countdown-to-nvidia-earnings-report-133702760.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise in countdown to Nvidia earnings report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-in-countdown-to-nvidia-earnings-report-133702576.html
 Time Published: 2025-08-27T13:37:02Z
 Description: US stocks were steady with Wall Street on edge ahead of Nvidia's earnings report.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise in countdown to Nvidia earnings report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-in-countdown-to-nvidia-earnings-report-133702576.html
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble in countdown to Nvidia earnings report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-in-countdown-to-nvidia-earnings-report-133702760.html
 Time Published: 2025-08-27T13:37:02Z
 Description: US stocks were steady with Wall Street on edge ahead of Nvidia's earnings report.
 --------------------------------------------------
@@ -118,23 +118,4 @@ Title: Earnings live: MongoDB stock soars on AI tailwind, Okta gains steam, Bank
 URL: https://finance.yahoo.com/news/live/earnings-live-mongodb-stock-soars-on-ai-tailwind-okta-gains-steam-bank-of-montreal-rises-121046939.html
 Time Published: 2025-08-26T12:10:46Z
 Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
---------------------------------------------------
-
-Title: CrowdStrike: Buy Or Sell CRWD Stock Ahead of Its Upcoming Earnings?
-URL: https://www.forbes.com/sites/greatspeculations/2025/08/25/crowdstrike-buy-or-sell-crwd-stock-ahead-of-its-upcoming-earnings/
-Time Published: 2025-08-25T13:00:03Z
-Full Content:
-ByTrefis Team, Contributor. CrowdStrike (NASDAQ:CRWD), a cybersecurity firm, is slated to release earnings on Wednesday, August 27, 2025. For event-driven traders, reviewing how the stock has behaved around prior earnings announcements can offer useful perspective. Over the past five years, CrowdStrike’s one-day move after earnings has been evenly split between gains and losses. In 50% of instances, the stock posted a positive one-day return with a median gain of 9.8%. In the remaining 50%, it recorded a negative one-day return with a median decline of -5.6%. Although the actual results and management guidance typically drive the largest moves, these historical tendencies can still inform positioning. Given the equal split between positive and negative one-day outcomes, trading solely on the event is challenging. Traders might weigh two broad approaches: While earnings can introduce volatility, the longer-term picture has favored investors: since early January 2021, CrowdStrike has advanced about 100%, rising from roughly $210 to $420, far outpacing the S&P 500’s approximately 70% increase over the same span. Analysts currently expect earnings of $0.83 per share on revenue of $1.15 billion for the latest quarter, versus $1.04 per share on revenue of $964 million a year ago. From a fundamentals angle, CrowdStrike’s market capitalization stands at $104 billion. Over the last twelve months, the company generated $4.1 billion in revenue but was not operationally profitable, with operating losses of $252 million and a net loss of $172 million. That being said, if you prefer upside potential with less volatility than a single stock, consider the High Quality Portfolio. It has comfortably outperformed its benchmark—a blend of the S&P 500, Russell, and S&P MidCap indexes—and has delivered returns exceeding 91% since inception. Also, see – SharpLink Gaming: SBET Stock To $40? See earnings reaction history of all stocks Some observations on one-day (1D) post-earnings returns: Additional data for observed 5-Day (5D) and 21-Day (21D) returns post earnings are summarized along with the statistics in the table below. A relatively lower-risk tactic (though not helpful if correlations are weak) is to study relationships between short-term and medium-term moves after earnings, identify the pair with the highest correlation, and trade accordingly. For example, if 1D and 5D exhibit the strongest link, a trader could lean “long” for the following 5 days when the 1D post-earnings return is positive. Below is correlation data using a 5-year history and a more recent 3-year window. Here, 1D_5D denotes the correlation between 1D post-earnings returns and subsequent 5D returns. At times, peer outcomes can influence post-earnings reactions—sometimes even before the report as expectations get priced in. The chart below compares CrowdStrike’s past post-earnings one-day (1D) returns with peers that reported just ahead of CrowdStrike. Peer returns also reflect post-earnings 1D moves for a fair comparison. Learn more about Trefis RV strategy that has outperformed its all-cap stocks benchmark (combination of all 3, the S&P 500, S&P mid-cap, and Russell 2000), to produce strong returns for investors. Separately, if you want upside with a smoother ride than an individual stock like CrowdStrike, consider the High Quality portfolio, which has outperformed the S&P and clocked >91% returns since inception.
---------------------------------------------------
-
-Title: Earnings live: Temu owner PDD Holdings stock gains as Nvidia earnings countdown begins
-URL: https://finance.yahoo.com/news/live/earnings-live-temu-owner-pdd-holdings-stock-gains-as-nvidia-earnings-countdown-begins-120022240.html
-Time Published: 2025-08-25T12:00:54Z
-Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
---------------------------------------------------
-
-Title: Option Volatility And Earnings Report For Aug 25 – 29
-URL: https://www.barchart.com/story/news/34364841/option-volatility-and-earnings-report-for-aug-25-29
-Time Published: 2025-08-25T11:00:02Z
-Description: It’s another reasonably quiet week for earnings in terms of the number of companies reporting, but we do have some highly anticipated releases from Nvidia...
 --------------------------------------------------
