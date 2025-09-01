@@ -71,21 +71,3 @@ URL: https://finance.yahoo.com/news/tesla-stock-could-fall-90-104609333.html
 Time Published: 2025-08-27T10:46:09Z
 Description: Tesla Inc (NASDAQ:TSLA) stock has fallen 8% year-to-date in 2025 and some investors and analysts believe the stock remains overvalued with more room to fall....
 --------------------------------------------------
-
-Title: This Nvidia Supplier Is Turning Up The Heat: Growth Metrics Spike As Stock Looks Set For A Breakout
-URL: https://finance.yahoo.com/news/nvidia-supplier-turning-heat-growth-233116171.html
-Time Published: 2025-08-26T23:31:16Z
-Description: Nvidia Corp’s (NASDAQ:NVDA) biggest manufacturing partner, Taiwan Semiconductor Manufacturing Co. Ltd. (NYSE:TSM), saw a big spike in its Growth metrics in...
---------------------------------------------------
-
-Title: Peter Thiel-Backed Crypto Exchange Snubs London Listing Amid Liquidity Concerns, Weighs Frankfurt Or New York: Report
-URL: https://finance.yahoo.com/news/peter-thiel-backed-crypto-exchange-213103984.html
-Time Published: 2025-08-26T21:31:03Z
-Description: European cryptocurrency exchange Bitpanda has decided against a potential listing in London due to concerns about liquidity in the city’s capital markets...
---------------------------------------------------
-
-Title: Bitcoin, Ethereum Plunge Defied By These Gold-Backed Cryptos Today — This Is How Much Tether Gold And Pax Gold Have Gained In 2025
-URL: https://finance.yahoo.com/news/bitcoin-ethereum-plunge-defied-gold-203103178.html
-Time Published: 2025-08-26T20:31:03Z
-Description: Risk-off sentiment returned in the market, sending gold and its cryptocurrency derivatives slightly higher on Monday. Gold Over ‘Digital Gold?’ Spot gold was...
---------------------------------------------------

@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: China's AI Plans, Employment Data and Other Key Things to Watch this Week
+URL: https://www.barchart.com/story/news/34508193/china-s-ai-plans-employment-data-and-other-key-things-to-watch-this-week
+Time Published: 2025-08-30T22:37:21Z
+Description: Markets enter a critical week following Friday's tech sector volatility that was triggered by concerns over China's semiconductor ambitions, particularly...
+--------------------------------------------------
+
 Title: Is Wall Street Bullish on Taiwan Semiconductor Manufacturing Company (TSM)?
 URL: https://finance.yahoo.com/news/wall-street-bullish-taiwan-semiconductor-191306880.html
 Time Published: 2025-08-29T19:13:06Z
@@ -53,28 +59,4 @@ Title: Analysis: Investors worry Trump's Intel deal kicks off era of US industri
 URL: https://finance.yahoo.com/news/analysis-investors-worry-trumps-intel-110402330.html
 Time Published: 2025-08-27T11:04:02Z
 Description: (Reuters) -The U.S. government's new stake in Intel is making some investors nervous that President Donald Trump's deal heralds an era of government meddling...
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing (TSM)’s Shares Have Gained 36% Since Cramer Told Viewers Not To Worry About Firm
-URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-tsm-shares-211526175.html
-Time Published: 2025-08-26T21:15:26Z
-Description: We recently published Jim Cramer’s 20 Bold AI Predictions – See How They Played Out! Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of ...
---------------------------------------------------
-
-Title: Trump and Softbank Are Just ‘Noise’ for Intel. Here’s How Wall Street Really Thinks You Should Play INTC Stock.
-URL: https://www.barchart.com/story/news/34402270/trump-and-softbank-are-just-noise-for-intel-heres-how-wall-street-really-thinks-you-should-play-intc-stock
-Time Published: 2025-08-26T19:28:31Z
-Description: Down 64% from all-time highs, Intel is a chip stock that might stage a rebound due to its strategic initiatives and AI investments. Is INTC stock a good buy ...
---------------------------------------------------
-
-Title: Billionaires Are Buying Up This Chip Stock (Hint: It’s Not Nvidia)
-URL: https://www.barchart.com/story/news/34401809/billionaires-are-buying-up-this-chip-stock-hint-its-not-nvidia
-Time Published: 2025-08-26T19:07:29Z
-Description: With record growth, $100 billion in global investments, and Wall Street’s unwavering “Strong Buy” ratings, TSM’s behind-the-scenes chip dominance is now...
---------------------------------------------------
-
-Title: MACOM Technology Solutions Holdings, Inc. (MTSI): A Bull Case Theory
-URL: https://finance.yahoo.com/news/macom-technology-solutions-holdings-inc-101815152.html
-Time Published: 2025-08-26T10:18:15Z
-Description: We came across a bullish thesis on MACOM Technology Solutions Holdings, Inc. on Business Invest’s Substack by Francesco Ferrari. In this article, we will...
 --------------------------------------------------

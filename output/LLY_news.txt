@@ -5,15 +5,3 @@ URL: https://finance.yahoo.com/news/eli-lilly-company-lly-bull-140246127.html
 Time Published: 2025-08-27T14:02:46Z
 Description: We came across a bullish thesis on Eli Lilly and Company on Arya’s Substack by Arya. In this article, we will summarize the bulls’ thesis on LLY. Eli Lilly...
 --------------------------------------------------
-
-Title: Stocks Finish Higher on Strength in Chip Makers and Lower Bond Yields
-URL: https://www.barchart.com/story/news/34403657/stocks-finish-higher-on-strength-in-chip-makers-and-lower-bond-yields
-Time Published: 2025-08-26T20:41:43Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed up by +0.41%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.30%, and the Nasdaq 100...
---------------------------------------------------
-
-Title: Stocks Supported by Positive Economic News
-URL: https://www.barchart.com/story/news/34397239/stocks-supported-by-positive-economic-news
-Time Published: 2025-08-26T15:24:43Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.02%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.08%, and the Nasdaq 100 Index ($IUXX ) ...
---------------------------------------------------

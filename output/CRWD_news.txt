@@ -1,5 +1,18 @@
 List of news related to Crowdstrike CRWD:
 
+Title: CrowdStrike (CRWD) Stock Reaffirmed Overweight by Wells Fargo
+URL: https://finance.yahoo.com/news/crowdstrike-crwd-stock-reaffirmed-overweight-234355737.html
+Time Published: 2025-08-30T23:43:55Z
+Description: CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of the Trending AI Stocks on Wall Street. On August 28, Wells Fargo reiterated the stock as “Overweight...
+--------------------------------------------------
+
+Title: Where to invest $20,000 in ASX ETFs in September
+URL: https://www.fool.com.au/2025/08/31/where-to-invest-20000-in-asx-etfs-in-september/
+Time Published: 2025-08-30T23:30:00Z
+Description: Let's see why these funds could be a good destination for your hard-earned money.
+The post Where to invest $20,000 in ASX ETFs in September appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
 Title: CrowdStrike price target lowered to $475 from $530 at Needham
 URL: https://finance.yahoo.com/news/crowdstrike-price-target-lowered-475-134521973.html
 Time Published: 2025-08-29T13:45:21Z
@@ -106,16 +119,4 @@ Title: CrowdStrike (CRWD) Price Target Cut to $460 Despite Strong AI Momentum
 URL: https://finance.yahoo.com/news/crowdstrike-crwd-price-target-cut-031709404.html
 Time Published: 2025-08-27T03:17:09Z
 Description: CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of the Hot AI Stocks to Keep on Your Radar. On August 25, BMO Capital analyst Keith Bachman lowered the price...
---------------------------------------------------
-
-Title: Stocks Finish Higher on Strength in Chip Makers and Lower Bond Yields
-URL: https://www.barchart.com/story/news/34403657/stocks-finish-higher-on-strength-in-chip-makers-and-lower-bond-yields
-Time Published: 2025-08-26T20:41:43Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed up by +0.41%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.30%, and the Nasdaq 100...
---------------------------------------------------
-
-Title: Earnings live: MongoDB stock soars on AI tailwind, Okta gains steam, Bank of Montreal rises
-URL: https://finance.yahoo.com/news/live/earnings-live-mongodb-stock-soars-on-ai-tailwind-okta-gains-steam-bank-of-montreal-rises-121046939.html
-Time Published: 2025-08-26T12:10:46Z
-Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
 --------------------------------------------------
