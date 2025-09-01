@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Street Calls of the Week
+URL: https://finance.yahoo.com/news/street-calls-week-092530091.html
+Time Published: 2025-08-31T09:25:30Z
+Description: Investing.com -- Here is your Pro Recap of the top takeaways from Wall Street analysts for the past week.
+--------------------------------------------------
+
 Title: Truist Upgrades Advanced Micro Devices (AMD) to Buy, Lifts Price Target to $213
 URL: https://finance.yahoo.com/news/truist-upgrades-advanced-micro-devices-141531391.html
 Time Published: 2025-08-30T14:15:31Z

@@ -43,16 +43,16 @@ Time Published: 2025-08-27T23:26:14Z
 Description: Wall Street is poring over Nvidia's good but not blockbuster earnings and assessing an upward revision to GDP.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures trade lackluster after Nvidia fails to wow
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-lackluster-after-nvidia-fails-to-wow-232614091.html
-Time Published: 2025-08-27T23:26:14Z
-Description: Wall Street is poring over Nvidia's good but not blockbuster earnings, with a GDP update on deck.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq waver after Nvidia earnings, GDP, jobs data
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-after-nvidia-earnings-gdp-jobs-data-232614620.html
 Time Published: 2025-08-27T23:26:14Z
 Description: Wall Street is poring over Nvidia's good but not blockbuster earnings and assessing an upward revision to GDP.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures trade lackluster after Nvidia fails to wow
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-lackluster-after-nvidia-fails-to-wow-232614091.html
+Time Published: 2025-08-27T23:26:14Z
+Description: Wall Street is poring over Nvidia's good but not blockbuster earnings, with a GDP update on deck.
 --------------------------------------------------
 
 Title: Nvidia earnings live: Stock falls on data center revenue miss. Also: Snowflake pops, CrowdStrike drops
