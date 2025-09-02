@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Is QUALCOMM Stock Underperforming the S&P 500?
+URL: https://www.barchart.com/story/news/34517530/is-qualcomm-stock-underperforming-the-s-p-500
+Time Published: 2025-09-01T09:35:21Z
+Description: QUALCOMM has struggled to keep up with the broader S&P 500 Index over the past year, and analysts are fairly confident about its future prospects.
+--------------------------------------------------
+
+Title: Advanced Micro Devices Stock: Is AMD Outperforming the Technology Sector?
+URL: https://www.barchart.com/story/news/34517402/advanced-micro-devices-stock-is-amd-outperforming-the-technology-sector
+Time Published: 2025-09-01T09:18:43Z
+Description: Advanced Micro Devices has outpaced the broader technology sector over the past year, and analysts are reasonably upbeat about the stock’s prospects.
+--------------------------------------------------
+
 Title: Rothschild & Redburn Reiterate Buy on Nvidia (NVDA), Cite Strong AI Moat
 URL: https://finance.yahoo.com/news/rothschild-redburn-reiterate-buy-nvidia-045341043.html
 Time Published: 2025-09-01T04:53:41Z
@@ -196,7 +208,7 @@ Title: Bitcoin Miner IREN's AI Push Gains Momentum, Price Target Hiked 60% to $3
 URL: https://www.coindesk.com/markets/2025/08/29/bitcoin-miner-iren-s-ai-push-gains-momentum-price-target-hiked-60-to-usd37-canaccord
 Time Published: 2025-08-29T13:41:14Z
 Full Content:
-IREN (IREN) reported fourth-quarter results that highlighted rapid progress in both its bitcoin mining and artificial intelligence infrastructure businesses, according to a Friday research report by broker Canaccord Genuity. The broker reiterated its buy rating on the stock and hiked its price target 60% to $37 from $24, citing stronger visibility in both mining and AI revenue streams. In early trading, shares are higher by 25% to $28.75. The company’s mining unit reached an annualized revenue run rate above $1 billion, powered by 50 exahash per second (EH/s) of capacity and one of the industry’s most efficient fleets at 15 J/TH, operating on 3.5 cent/kWh power, analysts led by Joseph Vafi wrote. That translates into a $36,000 cost to mine a bitcoin, well below market levels. Bitcoin mining revenue came in at $187.3 million for the quarter, up 33% sequentially, while adjusted EBITDA jumped 46% to $121.9 million. On the AI side, IREN is accelerating expansion, the report noted. The bitcoin miner quadrupled its hashrate and added another megawatt of power capacity, now totaling 3 MW, with further growth expected in fiscal 2025. The hashrate refers to the total combined computational power used to mine and process transactions on a proof-of-work blockchain, and is a proxy for competition in the industry and mining difficulty. Canaccord also noted IREN's recent designation as an NVIDIA (NVDA) preferred partner, which came almost simultaneously with the announcement of the purchase of an additional 2,400 GPUs. With 2,910 MW of secured power capacity and some of the lowest all-in cash costs in the industry, Canaccord argues IREN is positioned to become one of the largest and most efficient publicly listed miners, with significant optionality in high-performance computing. Read more: IREN Posts First Full-Year Profit on AI Cloud Growth, Mining Expansion; Shares Climb More For You Stellar Lumens Gains 3% Ahead of Network Infrastructure Overhaul XLM rallied 3% over 24 hours, buoyed by strong volumes and institutional activity, as major South Korean platforms temporarily suspend services to accommodate a key network upgrade. What to know: About Contact
+IREN (IREN) reported fourth-quarter results that highlighted rapid progress in both its bitcoin mining and artificial intelligence infrastructure businesses, according to a Friday research report by broker Canaccord Genuity. The broker reiterated its buy rating on the stock and hiked its price target 60% to $37 from $24, citing stronger visibility in both mining and AI revenue streams. In early trading, shares are higher by 25% to $28.75. The company’s mining unit reached an annualized revenue run rate above $1 billion, powered by 50 exahash per second (EH/s) of capacity and one of the industry’s most efficient fleets at 15 J/TH, operating on 3.5 cent/kWh power, analysts led by Joseph Vafi wrote. That translates into a $36,000 cost to mine a bitcoin, well below market levels. Bitcoin mining revenue came in at $187.3 million for the quarter, up 33% sequentially, while adjusted EBITDA jumped 46% to $121.9 million. On the AI side, IREN is accelerating expansion, the report noted. The bitcoin miner quadrupled its hashrate and added another megawatt of power capacity, now totaling 3 MW, with further growth expected in fiscal 2025. The hashrate refers to the total combined computational power used to mine and process transactions on a proof-of-work blockchain, and is a proxy for competition in the industry and mining difficulty. Canaccord also noted IREN's recent designation as an NVIDIA (NVDA) preferred partner, which came almost simultaneously with the announcement of the purchase of an additional 2,400 GPUs. With 2,910 MW of secured power capacity and some of the lowest all-in cash costs in the industry, Canaccord argues IREN is positioned to become one of the largest and most efficient publicly listed miners, with significant optionality in high-performance computing. Read more: IREN Posts First Full-Year Profit on AI Cloud Growth, Mining Expansion; Shares Climb More For You TRUMP, XRP, and SOL Options Signal a Potential Year-End Altcoin Season: PowerTrade Crypto options platform PowerTrade reports that traders are betting on a strong year-end rally in several altcoins, including SOL, XRP, TRUMP, HYPE, LINK. What to know: About Contact
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq fall from records after PCE inflation data
@@ -299,16 +311,4 @@ Title: S&P 500 Posts a New Record High on a Resilient US Economy
 URL: https://www.barchart.com/story/news/34463040/s-p-500-posts-a-new-record-high-on-a-resilient-us-economy
 Time Published: 2025-08-28T20:38:22Z
 Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up by +0.32%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.16%, and the Nasdaq 100...
---------------------------------------------------
-
-Title: Stock market today: S&P 500 crosses 6,500, Dow hits record after Nvidia earnings, surprise GDP jump
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-crosses-6500-dow-hits-record-after-nvidia-earnings-surprise-gdp-jump-200200115.html
-Time Published: 2025-08-28T20:02:53Z
-Description: Wall Street is poring over Nvidia's good but not blockbuster earnings and assessing an upward revision to GDP.
---------------------------------------------------
-
-Title: Big Tech investment powers Nvidia results, but Wall Street says 'inevitable' slowdown looms
-URL: https://finance.yahoo.com/news/big-tech-investment-powers-nvidia-results-but-wall-street-says-inevitable-slowdown-looms-193300481.html
-Time Published: 2025-08-28T19:33:00Z
-Description: Big Tech's massive AI investments continued to fuel Nvidia's rapidly growing data center business this quarter — but Wall Street is flagging the risk of a...
 --------------------------------------------------
