@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Rothschild & Redburn Reiterate Buy on Nvidia (NVDA), Cite Strong AI Moat
+URL: https://finance.yahoo.com/news/rothschild-redburn-reiterate-buy-nvidia-045341043.html
+Time Published: 2025-09-01T04:53:41Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Investors Should Keep on Their Radar. One of the biggest analyst calls on Friday, August 29, was for...
+--------------------------------------------------
+
+Title: Analysts unveil surprising Dell stock target after slump
+URL: https://www.thestreet.com/investing/analysts-unveil-surprising-dell-stock-target-after-slump
+Time Published: 2025-08-31T20:07:00Z
+Description: Here’s what could be next for Dell stock.
+--------------------------------------------------
+
 Title: Analysts turn heads with Nvidia rival's stock target after earnings
 URL: https://www.thestreet.com/investing/analysts-turn-heads-with-nvidia-rivals-stock-target-after-earnings
 Time Published: 2025-08-31T16:03:00Z
@@ -184,7 +196,7 @@ Title: Bitcoin Miner IREN's AI Push Gains Momentum, Price Target Hiked 60% to $3
 URL: https://www.coindesk.com/markets/2025/08/29/bitcoin-miner-iren-s-ai-push-gains-momentum-price-target-hiked-60-to-usd37-canaccord
 Time Published: 2025-08-29T13:41:14Z
 Full Content:
-IREN (IREN) reported fourth-quarter results that highlighted rapid progress in both its bitcoin mining and artificial intelligence infrastructure businesses, according to a Friday research report by broker Canaccord Genuity. The broker reiterated its buy rating on the stock and hiked its price target 60% to $37 from $24, citing stronger visibility in both mining and AI revenue streams. In early trading, shares are higher by 25% to $28.75. The company’s mining unit reached an annualized revenue run rate above $1 billion, powered by 50 exahash per second (EH/s) of capacity and one of the industry’s most efficient fleets at 15 J/TH, operating on 3.5 cent/kWh power, analysts led by Joseph Vafi wrote. That translates into a $36,000 cost to mine a bitcoin, well below market levels. Bitcoin mining revenue came in at $187.3 million for the quarter, up 33% sequentially, while adjusted EBITDA jumped 46% to $121.9 million. On the AI side, IREN is accelerating expansion, the report noted. The bitcoin miner quadrupled its hashrate and added another megawatt of power capacity, now totaling 3 MW, with further growth expected in fiscal 2025. The hashrate refers to the total combined computational power used to mine and process transactions on a proof-of-work blockchain, and is a proxy for competition in the industry and mining difficulty. Canaccord also noted IREN's recent designation as an NVIDIA (NVDA) preferred partner, which came almost simultaneously with the announcement of the purchase of an additional 2,400 GPUs. With 2,910 MW of secured power capacity and some of the lowest all-in cash costs in the industry, Canaccord argues IREN is positioned to become one of the largest and most efficient publicly listed miners, with significant optionality in high-performance computing. Read more: IREN Posts First Full-Year Profit on AI Cloud Growth, Mining Expansion; Shares Climb More For You XRP Price Holds Near $2.75 as Analyst Maps Path Between $2.40 Risk and $3.70 Upside XRP trades around $2.75 after intraday swings, with Martinez warning of a $2.40 downside risk if support fails and outlining a bullish path toward $3.70. What to know: About Contact
+IREN (IREN) reported fourth-quarter results that highlighted rapid progress in both its bitcoin mining and artificial intelligence infrastructure businesses, according to a Friday research report by broker Canaccord Genuity. The broker reiterated its buy rating on the stock and hiked its price target 60% to $37 from $24, citing stronger visibility in both mining and AI revenue streams. In early trading, shares are higher by 25% to $28.75. The company’s mining unit reached an annualized revenue run rate above $1 billion, powered by 50 exahash per second (EH/s) of capacity and one of the industry’s most efficient fleets at 15 J/TH, operating on 3.5 cent/kWh power, analysts led by Joseph Vafi wrote. That translates into a $36,000 cost to mine a bitcoin, well below market levels. Bitcoin mining revenue came in at $187.3 million for the quarter, up 33% sequentially, while adjusted EBITDA jumped 46% to $121.9 million. On the AI side, IREN is accelerating expansion, the report noted. The bitcoin miner quadrupled its hashrate and added another megawatt of power capacity, now totaling 3 MW, with further growth expected in fiscal 2025. The hashrate refers to the total combined computational power used to mine and process transactions on a proof-of-work blockchain, and is a proxy for competition in the industry and mining difficulty. Canaccord also noted IREN's recent designation as an NVIDIA (NVDA) preferred partner, which came almost simultaneously with the announcement of the purchase of an additional 2,400 GPUs. With 2,910 MW of secured power capacity and some of the lowest all-in cash costs in the industry, Canaccord argues IREN is positioned to become one of the largest and most efficient publicly listed miners, with significant optionality in high-performance computing. Read more: IREN Posts First Full-Year Profit on AI Cloud Growth, Mining Expansion; Shares Climb More For You Trump-Linked World Liberty Team Floats Buyback-and-Burn Plan as WLFI Sinks A Trump-linked DeFi project proposes using all liquidity fees to permanently reduce supply, as steep early losses highlight investor skepticism. What to know: About Contact
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq fall from records after PCE inflation data
@@ -299,16 +311,4 @@ Title: Big Tech investment powers Nvidia results, but Wall Street says 'inevitab
 URL: https://finance.yahoo.com/news/big-tech-investment-powers-nvidia-results-but-wall-street-says-inevitable-slowdown-looms-193300481.html
 Time Published: 2025-08-28T19:33:00Z
 Description: Big Tech's massive AI investments continued to fuel Nvidia's rapidly growing data center business this quarter — but Wall Street is flagging the risk of a...
---------------------------------------------------
-
-Title: Commentary: Trump’s trade war is hurting most sectors of the economy
-URL: https://finance.yahoo.com/news/commentary-trumps-trade-war-is-hurting-most-sectors-of-the-economy-191706763.html
-Time Published: 2025-08-28T19:17:06Z
-Description: The latest round of earnings reports revealed widespread damage from the Trump tariffs and other attacks on trade.
---------------------------------------------------
-
-Title: QBTS or RGTI: Which Stock Will Win As IBM, MSFT, NVIDIA Back Quantum?
-URL: https://finance.yahoo.com/news/qbts-rgti-stock-win-ibm-190000443.html
-Time Published: 2025-08-28T19:00:00Z
-Description: QBTS surges ahead of RGTI as IBM, Microsoft and NVIDIA fuel quantum momentum, with analysts seeing stronger upside for D-Wave.
 --------------------------------------------------

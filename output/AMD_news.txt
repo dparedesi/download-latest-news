@@ -65,15 +65,3 @@ URL: https://www.barchart.com/story/news/34454194/stocks-supported-by-signs-the-
 Time Published: 2025-08-28T14:14:08Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.02%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.16%, and the Nasdaq 100 Index ($IUXX ) ...
 --------------------------------------------------
-
-Title: Stocks Pressured as Bond Yields Climb and Chip Makers Slide
-URL: https://www.barchart.com/story/news/34424576/stocks-pressured-as-bond-yields-climb-and-chip-makers-slide
-Time Published: 2025-08-27T14:15:32Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.04%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.20%, and the Nasdaq 100 Index ($IUXX ) ...
---------------------------------------------------
-
-Title: Stock Market Today: Stocks finish on high note ahead of Nvidia earnings
-URL: https://www.thestreet.com/markets/stock-market-today-august-26-2025
-Time Published: 2025-08-27T12:07:00Z
-Description: Plus: Earnings from CrowdStrike, Snowflake, and HP
---------------------------------------------------
