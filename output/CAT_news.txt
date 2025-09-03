@@ -36,9 +36,3 @@ URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fa
 Time Published: 2025-08-29T13:38:00Z
 Description: Wall Street digested new data on inflation following a record-breaking day for markets.
 --------------------------------------------------
-
-Title: Commentary: Trump’s trade war is hurting most sectors of the economy
-URL: https://finance.yahoo.com/news/commentary-trumps-trade-war-is-hurting-most-sectors-of-the-economy-191706763.html
-Time Published: 2025-08-28T19:17:06Z
-Description: The latest round of earnings reports revealed widespread damage from the Trump tariffs and other attacks on trade.
---------------------------------------------------

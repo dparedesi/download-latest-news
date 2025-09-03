@@ -1,5 +1,17 @@
 List of news related to Crowdstrike CRWD:
 
+Title: CrowdStrike Holdings, Inc. (CRWD): Doubt Its CEO At “Your Own Peril,” Warns Jim Cramer
+URL: https://finance.yahoo.com/news/crowdstrike-holdings-inc-crwd-doubt-210131164.html
+Time Published: 2025-09-01T21:01:31Z
+Description: We recently published Jim Cramer Just Couldn’t Stop Talking About These 13 Stocks. CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of the stocks Jim Cramer...
+--------------------------------------------------
+
+Title: CrowdStrike’s Growth Story Is Far From Over: Is CRWD Stock a Buy Now?
+URL: https://www.barchart.com/story/news/34518833/crowdstrikes-growth-story-is-far-from-over-is-crwd-stock-a-buy-now
+Time Published: 2025-09-01T12:00:02Z
+Description: AI is taking CrowdStrike’s cybersecurity business higher.
+--------------------------------------------------
+
 Title: CrowdStrike (CRWD) Stock Reaffirmed Overweight by Wells Fargo
 URL: https://finance.yahoo.com/news/crowdstrike-crwd-stock-reaffirmed-overweight-234355737.html
 Time Published: 2025-08-30T23:43:55Z
@@ -29,10 +41,4 @@ Title: What's next for CrowdStrike's stock after earnings
 URL: https://www.thestreet.com/investing/analysts-revamp-crowdstrike-stock-target-after-earnings
 Time Published: 2025-08-29T01:37:00Z
 Description: Here’s what could be next for CrowdStrike stock.
---------------------------------------------------
-
-Title: Stocks Muted Before the Open as Investors Digest Nvidia’s Stumble, U.S. GDP Data in Focus
-URL: https://www.barchart.com/story/news/34445014/stocks-muted-before-the-open-as-investors-digest-nvidias-stumble-u-s-gdp-data-in-focus
-Time Published: 2025-08-28T10:12:21Z
-Description: September S&P 500 E-Mini futures (ESU25) are up +0.03%, and September Nasdaq 100 E-Mini futures (NQU25) are down -0.06% this morning, pointing to a muted...
 --------------------------------------------------

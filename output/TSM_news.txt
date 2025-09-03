@@ -36,15 +36,3 @@ URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-l
 Time Published: 2025-08-29T04:14:11Z
 Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the Top Technology Stocks to Buy According to Hedge Funds. In August 2025, the...
 --------------------------------------------------
-
-Title: Why this superconservative strategy is proving controversial — and how Vanguard is defending it
-URL: https://www.marketwatch.com/story/how-vanguard-defends-a-super-conservative-strategy-that-has-proved-surprisingly-controversial-9e6199e0
-Time Published: 2025-08-28T13:46:00Z
-Description: In one of its many strategies, the money-management giant Vanguard is now suggesting a portfolio that tilts heavily toward bonds over stocks.
---------------------------------------------------
-
-Title: Lam Research Stock: Is Wall Street Bullish or Bearish?
-URL: https://www.barchart.com/story/news/34450280/lam-research-stock-is-wall-street-bullish-or-bearish
-Time Published: 2025-08-28T12:39:49Z
-Description: Lam Research has outpaced the broader market over the past year, and Wall Street analysts maintain a moderately optimistic outlook on the stock’s prospects.
---------------------------------------------------
