@@ -1,5 +1,12 @@
 List of news related to NVIDIA NVDA:
 
+Title: Why Nvidia and Other Chip Stocks' Slump Is an Opportunity for Investors, UBS Says
+URL: https://www.investopedia.com/why-nvidia-and-other-chip-stocks-slump-is-an-opportunity-for-investors-ubs-says-11801856
+Time Published: 2025-09-02T17:49:14Z
+Full Content:
+Semiconductor stocks are taking a chip out of U.S. indexes to start September—a month that's earned a reputation as the worst for American investors—but for some bulls on Wall Street, that could mean it's time to buy. "We recommend that investors who are underallocated to equities consider phasing in and using market dips to add exposure to preferred areas," UBS analysts said Tuesday, with tech and AI plays among their favorites, while chip stocks dragged on the sector to start the week. Nvidia (NVDA) was one of the worst-performing stocks on the Dow Jones Industrial Average Tuesday afternoon, with shares down nearly 3%. Broadcom (AVGO), Advanced Micro Devices (AMD), and other chip stocks were also lower, with the PHLX Semiconductor Index (SOX) down 2%. Tuesday's slide extended losses late last week, amid uncertainty after an appeals court Friday challenged the legality of the Trump administration's "reciprocal" tariffs, and concerns about America's relations with major trading partners. Treasury yields spiked as bonds sold off, which tends to weigh on the tech sector as higher yields may make growth stocks less attractive. Some investors could also be worried about September's reputation as a tough month for stocks—but that shouldn't discourage them, according to UBS analysts. That's because October and November tend to be strong months for U.S. stocks, they said, with average S&P 500 returns over the past decade of 1.2% and 4%, respectively. Buying in September could help investors position themselves for better performance in the months that follow. UBS also pointed to strong earnings in the second quarter, a robust outlook for AI demand, and expectations of a rate cut later this month as reasons supporting their optimism in the tech sector. "Alongside AI, power and resources, and longevity, we favor US technology, health care, utilities, and financials," the analysts said.
+--------------------------------------------------
+
 Title: NVIDIA Corp (NVDA) Warns of Legal Risks on Missing Regulations for US 15% AI Chips Fees
 URL: https://finance.yahoo.com/news/nvidia-corp-nvda-warns-legal-151320989.html
 Time Published: 2025-09-02T15:13:20Z
@@ -301,10 +308,4 @@ Title: NVIDIA (NVDA) Unveils DRIVE AGX Thor Developer Kit for Smarter, Safer Aut
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_202e5919-33ac-4d46-bdbb-5ce8f4d246a8
 Time Published: 2025-08-29T04:20:02Z
 Description: None
---------------------------------------------------
-
-Title: Susquehanna Reiterates Buy Rating on NVIDIA (NVDA) Stock
-URL: https://finance.yahoo.com/news/susquehanna-reiterates-buy-rating-nvidia-041408940.html
-Time Published: 2025-08-29T04:14:08Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Top Technology Stocks to Buy According to Hedge Funds. On August 28, Christopher Rolland, an analyst from...
 --------------------------------------------------
