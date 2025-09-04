@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Should You Buy the Post-Earnings Pop in CrowdStrike Stock?
+URL: https://www.barchart.com/story/news/34538980/should-you-buy-the-post-earnings-pop-in-crowdstrike-stock
+Time Published: 2025-09-02T12:44:36Z
+Description: With shares jumping on earnings, should investors load up on CrowdStrike stock now?
+--------------------------------------------------
+
 Title: Earnings live: Nio stock rises on upbeat EV delivery forecast; results from Macy's, Salesforce on deck
 URL: https://finance.yahoo.com/news/live/earnings-live-nio-stock-rises-on-upbeat-ev-delivery-forecast-results-from-macys-salesforce-on-deck-115821534.html
 Time Published: 2025-09-02T11:58:21Z
@@ -29,22 +35,4 @@ URL: https://www.fool.com.au/2025/08/31/where-to-invest-20000-in-asx-etfs-in-sep
 Time Published: 2025-08-30T23:30:00Z
 Description: Let's see why these funds could be a good destination for your hard-earned money.
 The post Where to invest $20,000 in ASX ETFs in September appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: CrowdStrike price target lowered to $475 from $530 at Needham
-URL: https://finance.yahoo.com/news/crowdstrike-price-target-lowered-475-134521973.html
-Time Published: 2025-08-29T13:45:21Z
-Description: Needham lowered the firm’s price target on CrowdStrike (CRWD) to $475 from $530 and keeps a Buy rating on the shares. The company reported net-new annual...
---------------------------------------------------
-
-Title: Earnings live: Affirm swings to profit, Alibaba stock rises, Dell slides, Marvell tanks
-URL: https://finance.yahoo.com/news/live/earnings-live-affirm-swings-to-profit-alibaba-stock-rises-dell-slides-marvell-tanks-113723862.html
-Time Published: 2025-08-29T11:37:23Z
-Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
---------------------------------------------------
-
-Title: What's next for CrowdStrike's stock after earnings
-URL: https://www.thestreet.com/investing/analysts-revamp-crowdstrike-stock-target-after-earnings
-Time Published: 2025-08-29T01:37:00Z
-Description: Here’s what could be next for CrowdStrike stock.
 --------------------------------------------------

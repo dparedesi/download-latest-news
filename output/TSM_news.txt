@@ -1,38 +1,13 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: As Intel Nabs $5.7 Billion in U.S. Cash, Should You Buy INTC Stock?
+URL: https://www.barchart.com/story/news/34546548/as-intel-nabs-5-7-billion-in-u-s-cash-should-you-buy-intc-stock
+Time Published: 2025-09-02T17:23:33Z
+Description: Intel secures $5.7B from Washington, but political ties raise questions on efficiency and long-term shareholder value.
+--------------------------------------------------
+
 Title: China's AI Plans, Employment Data and Other Key Things to Watch this Week
 URL: https://www.barchart.com/story/news/34508193/china-s-ai-plans-employment-data-and-other-key-things-to-watch-this-week
 Time Published: 2025-08-30T22:37:21Z
 Description: Markets enter a critical week following Friday's tech sector volatility that was triggered by concerns over China's semiconductor ambitions, particularly...
---------------------------------------------------
-
-Title: Is Wall Street Bullish on Taiwan Semiconductor Manufacturing Company (TSM)?
-URL: https://finance.yahoo.com/news/wall-street-bullish-taiwan-semiconductor-191306880.html
-Time Published: 2025-08-29T19:13:06Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the Stocks That Will Make You Rich In 5 Years. On August 8, Taiwan Semiconductor...
---------------------------------------------------
-
-Title: Consistent, Robust Sales Boosted Taiwan Semiconductor Manufacturing Company Limited (TSM) in Q2
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_267b6e9d-3855-4eb9-92e5-4f08a8b770b2
-Time Published: 2025-08-29T13:03:54Z
-Description: None
---------------------------------------------------
-
-Title: TSMC Stock: Wall Street’s Most Overlooked AI Play?
-URL: https://www.forbes.com/sites/greatspeculations/2025/08/29/tsmc-stock-wall-streets-most-overlooked-ai-play/
-Time Published: 2025-08-29T10:00:51Z
-Full Content:
-ByTrefis Team, Contributor. Taiwan Semiconductor Manufacturing (NYSE: TSM) has emerged as a notable beneficiary of the AI revolution. While TSMC serves as the backbone of the globe’s most sophisticated chip manufacturing supply chain, its stock has only risen about 18% year-to-date – significantly lower than U.S.-based chip companies like AMD stock (NASDAQ:AMD), which is up 38%, Nvidia stock (NASDAQ:NVDA) which has seen a 31% increase, and the struggling Intel (NASDAQ:INTC), which has achieved a gain of nearly 20%. This relative underperformance becomes even more pronounced when considering the company’s robust growth outlook, increasing profit margins, and a valuation that is more attractive than that of most competitors. TSMC’s facilities are not merely production plants; they rank among the most strategically vital assets on Earth, producing the processors that power iPhones, electric vehicles, AI data centers, and nearly every cutting-edge device, allowing investors to actually hold a share of them. At current multiples, this segment of global infrastructure doesn’t appear excessively priced, either. The investment rationale for TSMC is grounded in its prominent position in advanced chip manufacturing. As the largest semiconductor foundry globally, it produces a significant portion of the world's most advanced chips. In Q2 2025, revenues surged 44% year-over-year to $30.07 billion, with high-performance computing accounting for 60% of the sales composition and smartphone chips contributing another 27%. In total, TSMC produces about two-thirds of the world’s semiconductors – and an even larger share of AI-optimized chips. This dominance stems from the company's leadership in advanced process technology. TSMC already commands the 3nm and 5nm nodes and is advancing into the 2nm "gate-all-around" technology this year, solidifying its leadership position. Advanced nodes (3nm, 5nm, 7nm) represent nearly 74% of TSMC’s production. In the AI sector, its standing is even more formidable. TSMC’s 3nm and upcoming 2nm nodes, together with cutting-edge packaging technologies crucial for AI accelerators, provide a technological advantage that competitors cannot replicate. Its enormous scale and unparalleled reliability have established it as the go-to provider for all significant AI chip manufacturers – from Nvidia and AMD to hyperscalers that design custom silicon. While companies like Intel have made strides toward more advanced nodes like the 18A process, they are usually far behind TSMC regarding yield rates and efficiency. The 2nm Race: Intel’s 18A Faces Uphill Task Against TSMC The growth prospects appear even more appealing. TSMC anticipates overall revenue growth of 30% in 2025, while its AI-centric business alone is predicted to grow at an annual rate of 40% in the foreseeable future, starting from its 2024 base. Industry projections estimate AI infrastructure spending to reach $6.7 trillion by 2030. With TSMC supplying the advanced chips that drive AI systems, the company has a lengthy growth trajectory ahead. Additionally, there are favorable policies at play. TSMC has received a reprieve from President Trump’s 100% chip tariffs as it has been expanding its operations in the U.S. New fabrication plants in the U.S. and Japan are also intended to reduce the geopolitical concentration risks associated with Taiwan. The company’s balance sheet is equally robust, featuring $86 billion in cash and marketable securities against approximately $29 billion in long-term debt. The margins further highlight the strength of the company’s business model. Gross margins hover around 59%, while operating margins climbed to nearly 50% in the last quarter – reflecting a solid 700 basis points increase from a year prior. This illustrates pricing power, efficiency, and its ability to outperform competitors like Intel and Samsung, who continue to face challenges with transitioning to next-generation nodes. Nonetheless, with a forward price-to-earnings multiple of roughly 24x, TSMC appears significantly less expensive than most U.S. chip design companies, especially given its unparalleled technology, scale, and structural exposure to AI. Given its strong growth, resilient margins, and a valuation that hasn’t yet aligned with its peers, TSMC could be one of the most overlooked opportunities to capitalize on the AI chip surge. It’s important to note, however, that no investment story is devoid of risks. The most apparent overhang is geopolitical: tensions between China and Taiwan cast a substantial shadow over TSMC’s global dominance. While overseas fabs alleviate concentration concerns, they also tend to increase costs. Another potential risk is disappointment in growth outside of AI. Apple, which stands as one of TSMC's largest clients, has encountered sluggish demand in recent quarters, and broader consumer electronics spending might impact non-AI segments adversely. The rising requirements for capital expenditure could also put pressure on free cash flow, even if margins remain strong. While TSMC stock may seem risky, the Trefis High Quality (HQ) Portfolio, which comprises 30 stocks, has a history of significantly outperforming its benchmark that includes all three – the S&P 500, Russell, and S&P midcap. Why is this the case? As a collective, the stocks in the HQ Portfolio have delivered superior returns with reduced risk compared to the benchmark index; they have provided a smoother investment experience, as evidenced by HQ Portfolio performance metrics.
---------------------------------------------------
-
-Title: Strong Market Position Shields TSMC (TSM) from Geopolitical Headwinds
-URL: https://finance.yahoo.com/news/strong-market-position-shields-tsmc-042656570.html
-Time Published: 2025-08-29T04:26:56Z
-Description: Taiwan Semiconductor Manufacturing Co. Ltd. (NYSE:TSM) is one of the most profitable tech stocks to invest in now. On August 26, Nikkei Asia reported that...
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing Company Limited (TSM) Highlights Key Changes and Activities
-URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-limited-041411488.html
-Time Published: 2025-08-29T04:14:11Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the Top Technology Stocks to Buy According to Hedge Funds. In August 2025, the...
 --------------------------------------------------

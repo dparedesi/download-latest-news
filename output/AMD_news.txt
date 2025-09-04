@@ -1,5 +1,17 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stocks Tumble on Higher Bond Yields
+URL: https://www.barchart.com/story/news/34542127/stocks-tumble-on-higher-bond-yields
+Time Published: 2025-09-02T14:07:18Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -1.26%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -1.23%, and the Nasdaq 100 Index ($IUXX ...
+--------------------------------------------------
+
+Title: How Is Intel’s Stock Performance Compared to Other Semiconductor Stocks?
+URL: https://www.barchart.com/story/news/34536612/how-is-intels-stock-performance-compared-to-other-semiconductor-stocks
+Time Published: 2025-09-02T11:56:31Z
+Description: Despite Intel outperforming its industry peers over the past year, analysts maintain a cautious outlook on the stock’s future prospects.
+--------------------------------------------------
+
 Title: This Under-the-Radar Chip Stock Is Beating the Market in 2025
 URL: https://www.barchart.com/story/news/34520735/this-under-the-radar-chip-stock-is-beating-the-market-in-2025
 Time Published: 2025-09-01T15:00:02Z
@@ -22,34 +34,4 @@ Title: Truist Upgrades Advanced Micro Devices (AMD) to Buy, Lifts Price Target t
 URL: https://finance.yahoo.com/news/truist-upgrades-advanced-micro-devices-141531391.html
 Time Published: 2025-08-30T14:15:31Z
 Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the AI Stocks Hit with New Analyst Ratings. On August 26, Truist Securities analyst William Stein...
---------------------------------------------------
-
-Title: Stocks Settle Lower as Tech Shares Selloff
-URL: https://www.barchart.com/story/news/34490581/stocks-settle-lower-as-tech-shares-selloff
-Time Published: 2025-08-29T20:34:22Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed down by -0.64%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down by -0.20%, and the Nasdaq 100...
---------------------------------------------------
-
-Title: What Does Wall Street Think About Advanced Micro Devices (AMD)?
-URL: https://finance.yahoo.com/news/does-wall-street-think-advanced-191310202.html
-Time Published: 2025-08-29T19:13:10Z
-Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the Stocks That Will Make You Rich In 5 Years. Wall Street is bullish on the stock, despite a 4.12...
---------------------------------------------------
-
-Title: Is NVIDIA Stock Outperforming the Dow?
-URL: https://www.barchart.com/story/news/34482696/is-nvidia-stock-outperforming-the-dow
-Time Published: 2025-08-29T14:10:31Z
-Description: NVIDIA has outperformed the Dow over the past year, and analysts are highly optimistic about the stock’s prospects.
---------------------------------------------------
-
-Title: Stocks Decline on Weakness in Tech Stocks and Sticky Inflation Pressures
-URL: https://www.barchart.com/story/news/34482613/stocks-decline-on-weakness-in-tech-stocks-and-sticky-inflation-pressures
-Time Published: 2025-08-29T14:08:27Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.31%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.12%, and the Nasdaq 100 Index ($IUXX ...
---------------------------------------------------
-
-Title: TD Cowen Raises PT on Advanced Micro Devices, Inc. (AMD) to $195; Maintains ‘Buy’ Rating
-URL: https://finance.yahoo.com/news/td-cowen-raises-pt-advanced-093347049.html
-Time Published: 2025-08-29T09:33:47Z
-Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the 12 Best Quantum Computing Stocks to Buy According to Wall Street Analysts. On August 6, 2025, TD...
 --------------------------------------------------

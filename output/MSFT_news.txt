@@ -1,9 +1,33 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: America's Car-Mart (CRMT) Q2 Earnings Report Preview: What To Look For
+URL: https://finance.yahoo.com/news/americas-car-mart-crmt-q2-030402892.html
+Time Published: 2025-09-03T03:04:02Z
+Description: Used-car retailer America’s Car-Mart (NASDAQ:CRMT) will be reporting results this Thursday before the bell. Here’s what investors should know.
+--------------------------------------------------
+
+Title: UiPath (PATH) To Report Earnings Tomorrow: Here Is What To Expect
+URL: https://finance.yahoo.com/news/uipath-path-report-earnings-tomorrow-030350363.html
+Time Published: 2025-09-03T03:03:50Z
+Description: Automation software company UiPath (NYSE:PATH) will be announcing earnings results this Thursday after market close. Here’s what to look for.
+--------------------------------------------------
+
+Title: As Microsoft Takes Aim at OpenAI, Should You Buy, Sell, or Hold MSFT Stock?
+URL: https://www.barchart.com/story/news/34549568/as-microsoft-takes-aim-at-openai-should-you-buy-sell-or-hold-msft-stock
+Time Published: 2025-09-02T20:12:13Z
+Description: Following heavy investments in the ChatGPT maker, Microsoft is now testing its own AI model.
+--------------------------------------------------
+
 Title: We Asked ChatGPT To Pick Between Apple and Microsoft Stock: Here’s What It Chose
 URL: https://finance.yahoo.com/news/asked-chatgpt-pick-between-apple-145337568.html
 Time Published: 2025-09-02T14:53:37Z
 Description: Find out which tech stock -- Apple or Microsoft -- ChatGPT said is a better pick.
+--------------------------------------------------
+
+Title: Stocks Tumble on Higher Bond Yields
+URL: https://www.barchart.com/story/news/34542127/stocks-tumble-on-higher-bond-yields
+Time Published: 2025-09-02T14:07:18Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -1.26%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -1.23%, and the Nasdaq 100 Index ($IUXX ...
 --------------------------------------------------
 
 Title: This 7.2% Payer Is The Cheapest Fund You Don’t Already Own
@@ -11,6 +35,12 @@ URL: https://www.forbes.com/sites/michaelfoster/2025/09/02/this-72-payer-is-the-
 Time Published: 2025-09-02T13:45:00Z
 Full Content:
 ByMichael Foster, Contributor. Large cap stocks have been crushing small caps in the last few years. That’s, well, unusual, to say the least. And it’s set us up for cheap 7.2% dividends (with upside) from closed end funds. Small caps, of course, aren’t known for big dividends. The benchmark ETF for them, the iShares Russell 2000 ETF (IWM) only pays 1.1%. But stick with me for a moment and I’ll show you how we’re going to pull this off. Around the time of the pandemic, small caps started lagging the S&P 500 after years of tracking it. Since then, the gap has widened. But there are signs a shift is in the works. “Investors Look to S&P’s Forgotten 493 Stocks as Megacap Tech Wobbles” reads a recent headline from the Financial Times. While perhaps a bit premature, the article does signal a new pivot. Simply put, Big Tech, which dominates large caps and includes Apple (AAPL), Alphabet (GOOGL), Meta Platforms (META) and Microsoft (MSFT), has been soaring for a couple of years, drawing attention away from the rest of the market. If we look at the concentration of the S&P 500—that is, the percentage of the index comprised of the 10 largest firms—we see a stunning trend. Going by this chart, the 10 biggest S&P 500 firms make up a quarter of the index’s earnings and 40% of its market cap. In other words, Big Tech has been getting pricier and pricier in relation to the rest of the market since 2022. That’s obviously unsustainable in the long run, and it could prompt investors to look for alternatives to the Apples and Alphabets of the world. As they do, small caps are likely to garner more attention, closing the gap with large caps. That would mean years of outperformance for these companies. This Small Cap ETF Is Okay … If this happens, expect IWM to start beating S&P 500 index funds. That outperformance could then reinforce itself as more investors buy, rewarding those who got in early. There’s just one problem with IWM: that 1.1% yield. Lucky for us, there is a small-cap focused closed-end fund (CEF) paying a lot more. It’s been quietly crushing IWM, too. That would be the Royce Small-Cap Trust (RVT), which focuses on smaller companies with promising cash flow growth. In purple above, we see RVT’s total net asset value (NAV) return, which shows the performance of its underlying portfolio so far this year, including dividends. While many investors haven’t heard of RVT holdings such as IES Holdings (IESC), Assured Guaranty (AGO) or SEI Investments (SEIC), these stocks have helped the fund not just profit but outperform. With a near-10% NAV return, RVT is far ahead of the small-cap index’s 6.6%. That means RVT is generating “alpha”: earning more than the index it tracks. At the same time, the CEF’s total market price return is up 5.8%, so investors aren’t bidding up the shares as much as its fundamentals warrant. The result is this chart: RVT’s discount to NAV, which measures the difference between NAV and the fund’s price on the open market, has been widening in 2025 and recently hit double digits for the first time in a year. That’s simply too big of a markdown. This kind of thing happens with CEFs all the time. Often what follows is that investors rush in to fix the mispricing, resulting in capital gains on top of the fund’s income stream. Speaking of income, while IWM yields 1.1%, RVT pays that 7.2% I mentioned earlier. That’s because, like most CEFs, RVT pays out as much of its profits as possible as dividends. This makes the fund and attractive way to invest in small caps, a notoriously volatile asset class. Getting part of our profits as dividends reduces our exposure to that volatility and gives us an income stream we can use however we like. We could even pair RVT with a CEF holding different assets, using the income from one fund to buy the other when it’s oversold, and doing the reverse when it’s overbought. This is the kind of strategy we use in our CEF Insider service, as it helps us secure a large income stream and position ourselves for gains without being overexposed to one part of the market. Michael Foster is the Lead Research Analyst for Contrarian Outlook. For more great income ideas, click here for our latest report “Indestructible Income: 5 Bargain Funds with Steady 10% Dividends.” Disclosure: none
+--------------------------------------------------
+
+Title: Should You Buy the Post-Earnings Pop in CrowdStrike Stock?
+URL: https://www.barchart.com/story/news/34538980/should-you-buy-the-post-earnings-pop-in-crowdstrike-stock
+Time Published: 2025-09-02T12:44:36Z
+Description: With shares jumping on earnings, should investors load up on CrowdStrike stock now?
 --------------------------------------------------
 
 Title: Is AT&T Stock Outperforming the S&P 500?
@@ -36,52 +66,4 @@ URL: https://www.forbes.com/sites/bill_stone/2025/08/31/nvidia--magnificent-7-to
 Time Published: 2025-08-31T11:00:00Z
 Full Content:
 ByBill Stone, Contributor. As the dominant supplier of artificial intelligence (AI) chips, NVIDIA (NVDA) has become the largest company in the world and within the S&P 500 index. Following NVIDIA’s earnings last week, it’s an appropriate time to revisit the attractiveness of large technology stocks with a special emphasis on NVIDIA. The Magnificent 7, comprising Microsoft (MSFT), Meta Platforms (META), Amazon.com (AMZN), Apple (AAPL), NVIDIA (NVDA), Alphabet (GOOGL), and Tesla (TSLA), collectively account for nearly 34% of the S&P 500’s market capitalization. Eight of the ten largest companies in the S&P 500 are technology companies, including Broadcom (AVGO). Berkshire Hathaway (BRK/A, BRK/B) and JPMorgan Chase (JPM) are the only non-technology companies in the top ten. Investors already appreciate the strong fundamentals of the Magnificent 7, and NVIDIA in particular, with stock returns far outstripping those of the S&P 500. The Magnificent 7 and NVIDIA have achieved total returns of 280% and 1,093%, respectively, since the start of the ChatGPT era at the end of 2022, while the S&P 500 has returned 75%. Based on the past twelve months of earnings and consensus earnings estimates for the next twelve months, the price-to-earnings ratios for all the Magnificent 7 stocks are above the S&P 500. While this ratio indicates that most of these companies have a higher valuation on both measures, it doesn’t answer whether other factors justify that premium. Another way to value companies is by their multiple revenues, which is called the price-to-sales ratio. All the Magnificent 7 are valued at price-to-sales ratios above the S&P 500, with NVIDIA at an almost twenty-seven times price-to-sales ratio. Historical annualized growth in sales over the last three and five years has been impressive for most of the group, but downright amazing for NVIDIA. Likewise, historical earnings per share growth has generally been impressive and exceptional, as seen in cases like NVIDIA. The five-year annualized earnings per share growth rate of the Magnificent 7 demonstrates just how unique these companies have been when compared to the stock market as a whole. Future earnings are the most crucial criterion when considering whether to buy or hold a stock. Consensus forecasts from Wall Street analysts still evidence significant optimism about NVIDIA’s earnings growth prospects, with 39% annualized growth expected from the world’s largest company. Separately, the sustainable growth rate for the group supports the future growth story. The sustainable growth rate theoretically indicates how fast a company can grow without borrowing additional funds while maintaining its existing capital structure. The profitability metrics of most of the Magnificent 7 are impressive. Gross margins represent the profitability after all direct expenses, specifically the cost of goods sold, have been deducted from sales. Operating margins measure how much a company earns on a dollar of sales after paying for the variable expenses, or the percentage of sales converted into operating income. NVIDIA converted almost seventy cents of every sales dollar into operating profit over the last year. While NVIDIA’s gross margin was about 70% over the previous year, it improved to 75% in the most recent quarter. Just looking at a simple high price-to-earnings ratio can be deceiving when analyzing a company with high returns on invested capital (ROIC). It is crucial to consider the return generated on the capital needed to fund a business, since a company with a sustainably higher ROIC should sell at a valuation premium. To put some of the impressive return on invested capital figures for the Magnificent 7 into proper perspective, the ROIC for the S&P 500 is around 8%. Furthermore, most companies in the Magnificent 7 generate substantial amounts of free cash flow, despite investing in growing businesses. The free cash flow margin indicates the percentage of revenue that the company can utilize or distribute to shareholders as free cash flow. NVIDIA is exceptional, with almost forty-four cents of every dollar in sales converted to free cash flow. The free cash flow yield refers to the free cash flow per share generated by a business, expressed as a percentage of its stock price. Value investors, such as Warren Buffett, value a company based on the cash that can be distributed from a business over its lifetime, discounted back to the present. Free cash flow can be a good measure of the money available to owners. A free cash flow yield below that of the S&P 500, such as the Magnificent 7 and NVIDIA, can be seen as investors already pricing in superior growth and durability of free cash flow relative to the market. NVIDIA is particularly notable given the massive increase in its market capitalization, which now exceeds $4.2 trillion, driven by the artificial intelligence spending wave. The consumer introduction of ChatGPT as an artificial intelligence tool in late 2022 coincided with a sharp rise in NVIDIA’s valuation, as the company became the dominant supplier of AI semiconductors. There has been some concern about NVIDIA’s relatively meager beat of consensus earnings estimates last week and less exceptional guidance than has been typical. There were zero sales to China in the quarter due to geopolitical tensions, which made for more challenging comparisons. For example, data center sales, which were impacted by China, declined by 1% quarter-over-quarter, but were up about 12% quarter-over-quarter excluding China, according to TD Cowen. Despite NVIDIA’s less optimistic forward guidance than was hoped, a resumption in sales to China could add $2 to $5 billion in sales. In the short term, NVIDIA’s dominance in high-end artificial intelligence computing appears untouchable, as its next-generation platform is on pace for meaningful production next year. Furthermore, the company continues to benefit from AI demand outstripping supply, alleviating concerns about potential pricing pressures. It appears likely that AI will be a transformative tool for businesses and households, generating substantial economic benefits. Although it is still early, indications suggest that artificial intelligence adoption is continuing at a brisk pace. The capital spending (capex) by AI-leaders, Alphabet, Amazon, Meta Platforms, and Microsoft, to support complex computations needed to support AI, has seen a massive rise since 2023. NVIDIA reaped significant revenue from this spending as the leading chip provider for AI. Estimates are that capital spending by these four AI leaders will exceed $400 billion by 2026. What if demand for AI services doesn’t meet expectations or the firms are unable to monetize the services at a profitable enough level? Capital expenditures (capex) budgets can indeed be slashed if needed. This downside risk isn’t a forecast, but it must be considered when evaluating NVIDIA and all AI-connected technology stocks. Notably, these sizable capital expenditures are more sustainable than some past instances, because the companies are highly profitable and can self-fund rather than depending on the charity of lenders or additional capital. Though it is nowhere in sight, one must always be wary of some competing technology eventually displacing NVIDIA as a dominant leader. Capitalism subjects companies to intense competition in their pursuit of profits, and the profits generated by technology leaders make them an attractive target. The bullish case for large tech and NVIDIA is bolstered by the rise of artificial intelligence (AI). The mega-cap technology stocks, represented by the Magnificent 7, continue to produce earnings and free cash flow at impressive rates. Large technology stocks typically exhibit exceptional profitability compared to the average stock and should therefore trade at a premium valuation. The rise in the stock prices of the Magnificent 7, including NVIDIA, has been supported by robust fundamentals and not just a promise of future profitability. Investors buy or hold companies for their future profits, not their past performance. The past is only significant to the extent that it informs the firm’s future prospects. While one needs to remain mindful of risk, the robust adoption rate of artificial intelligence, combined with companies’ ability to self-fund the massive costs required to build AI infrastructure, implies that the end is not yet here. Investors should be mindful of the risk associated with concentrated holdings, given the remarkable growth of some of these technology leaders. Disclosure: Glenview Trust may hold stocks mentioned in this article within its recommended investment strategies.
---------------------------------------------------
-
-Title: Everyoone Thinks Microsoft Corporation (MSFT) Spent More And Accelerated Its AI Business, Says Jim Cramer
-URL: https://finance.yahoo.com/news/everyoone-thinks-microsoft-corporation-msft-214509528.html
-Time Published: 2025-08-29T21:45:09Z
-Description: We recently published Jim Cramer Said AI Is A “Souped-Up Google” As He Discussed These 11 Stocks. Microsoft Corporation (NASDAQ:MSFT) is one of the stocks...
---------------------------------------------------
-
-Title: What Does Wall Street Think About Microsoft Corporation (MSFT)?
-URL: https://finance.yahoo.com/news/does-wall-street-think-microsoft-191302425.html
-Time Published: 2025-08-29T19:13:02Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the Stocks That Will Make You Rich In 5 Years. Wall Street is bullish on the stock after the company topped...
---------------------------------------------------
-
-Title: Ulta (ULTA) Stock Trades Down, Here Is Why
-URL: https://finance.yahoo.com/news/ulta-ulta-stock-trades-down-184041749.html
-Time Published: 2025-08-29T18:40:41Z
-Description: Shares of beauty, cosmetics, and personal care retailer Ulta Beauty (NASDAQ:ULTA) fell 6.6% in the afternoon session after it gave back a portion of the...
---------------------------------------------------
-
-Title: Is Oracle Stock Outperforming the Nasdaq?
-URL: https://www.barchart.com/story/news/34482719/is-oracle-stock-outperforming-the-nasdaq
-Time Published: 2025-08-29T14:13:12Z
-Description: As Oracle has considerably outperformed the Nasdaq recently, analysts remain moderately optimistic about the stock’s prospects.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq fall from records after PCE inflation data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fall-from-records-after-pce-inflation-data-133800228.html
-Time Published: 2025-08-29T13:38:00Z
-Description: Wall Street digested new data on inflation following a record-breaking day for markets.
---------------------------------------------------
-
-Title: Is Microsoft Stock Outperforming the S&P 500?
-URL: https://www.barchart.com/story/news/34479898/is-microsoft-stock-outperforming-the-s-p-500
-Time Published: 2025-08-29T12:46:17Z
-Description: Microsoft has outperformed the S&P 500 over the past year, and analysts are highly optimistic about the stock’s prospects.
---------------------------------------------------
-
-Title: Microsoft Corporation (MSFT) Announces its Quantum Safe Program Strategy; UBS Reaffirms ‘Buy’ Rating With $650 PT
-URL: https://finance.yahoo.com/news/microsoft-corporation-msft-announces-quantum-093208793.html
-Time Published: 2025-08-29T09:32:08Z
-Description: With significant upside potential, Microsoft Corporation (NASDAQ:MSFT) secures a spot on our list of the 12 Best Quantum Computing Stocks to Buy According to...
---------------------------------------------------
-
-Title: RBC Capital Sees Microsoft (MSFT) Leading Amid Long-Term Software Transformation
-URL: https://finance.yahoo.com/news/rbc-capital-sees-microsoft-msft-042650985.html
-Time Published: 2025-08-29T04:26:50Z
-Description: Microsoft Corp. (NASDAQ:MSFT) is one of the most profitable tech stocks to invest in now. On August 25, RBC Capital’s analysts argued that concerns about the...
 --------------------------------------------------

@@ -1,5 +1,11 @@
 List of news related to Alphabet Inc stock price GOOG:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq tumble as rising yields, Trump tariff uncertainty rattle markets
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-tumble-as-rising-yields-trump-tariff-uncertainty-rattle-markets-200528170.html
+Time Published: 2025-09-02T20:05:28Z
+Description: Wall Street entered September trading under pressure as investors weighed tariff uncertainty and questions about Fed independence.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq sink as Treasury yields jump amid tariff, Fed uncertainty
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-treasury-yields-jump-amid-tariff-fed-uncertainty-235520274.html
 Time Published: 2025-09-02T13:36:25Z
