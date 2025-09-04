@@ -62,14 +62,14 @@ Time Published: 2025-09-02T09:54:34Z
 Description: September S&P 500 E-Mini futures (ESU25) are down -0.75%, and September Nasdaq 100 E-Mini futures (NQU25) are down -0.95% this morning as Treasury yields...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures sink as Treasury yields jump amid tariff, Fed uncertainty
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-as-treasury-yields-jump-amid-tariff-fed-uncertainty-235520886.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as Treasury yields jump amid tariff, Fed uncertainty
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-treasury-yields-jump-amid-tariff-fed-uncertainty-235520838.html
 Time Published: 2025-09-01T23:55:20Z
 Description: Wall Street is prepping for a tense opening to September trading with tariff legal issues and concerns about the Fed's integrity on deck.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as Treasury yields jump amid tariff, Fed uncertainty
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-treasury-yields-jump-amid-tariff-fed-uncertainty-235520838.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures sink as Treasury yields jump amid tariff, Fed uncertainty
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-as-treasury-yields-jump-amid-tariff-fed-uncertainty-235520886.html
 Time Published: 2025-09-01T23:55:20Z
 Description: Wall Street is prepping for a tense opening to September trading with tariff legal issues and concerns about the Fed's integrity on deck.
 --------------------------------------------------
