@@ -12,6 +12,12 @@ Time Published: 2025-09-03T03:03:50Z
 Description: Automation software company UiPath (NYSE:PATH) will be announcing earnings results this Thursday after market close. Here’s what to look for.
 --------------------------------------------------
 
+Title: Stocks Retreat as Bond Yields Climb
+URL: https://www.barchart.com/story/news/34550930/stocks-retreat-as-bond-yields-climb
+Time Published: 2025-09-02T20:52:26Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down by -0.69%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down by -0.55%, and the Nasdaq 100 ...
+--------------------------------------------------
+
 Title: As Microsoft Takes Aim at OpenAI, Should You Buy, Sell, or Hold MSFT Stock?
 URL: https://www.barchart.com/story/news/34549568/as-microsoft-takes-aim-at-openai-should-you-buy-sell-or-hold-msft-stock
 Time Published: 2025-09-02T20:12:13Z

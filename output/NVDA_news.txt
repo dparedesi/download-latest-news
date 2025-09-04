@@ -6,6 +6,19 @@ Time Published: 2025-09-02T23:18:22Z
 Description: US stock futures mostly rose after a ruling in a landmark antitrust case refrained from forcing Google to sell its Chrome browser but instituted other...
 --------------------------------------------------
 
+Title: S&P 500 Gains & Losses Today: Kraft Heinz, Nvidia Fall; Ulta Beauty Stock Recovers
+URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-kraft-heinz-nvidia-fall-ulta-beauty-stock-recovers-11802164
+Time Published: 2025-09-02T20:59:54Z
+Full Content:
+U.S. stocks lost ground on the first trading day of September. The S&P 500 ended Tuesday's session down 0.7% as the markets returned to action following the extended Labor Day weekend. The Dow slid 0.6%, while the Nasdaq dropped 0.8%. Chip stocks retreated, with Nvidia (NVDA) slipping 2% in Monday's session. Read Investopedia's full coverage of today's trading here. The labor market is likely to be in focus during the shortened trading week, with investors looking toward Friday morning's release of an August jobs report that could have major implications for Federal Reserve policymakers deliberating possible interest-rate cuts at their meeting later this month. Shares of Kraft Heinz (KHC) tumbled 7%, falling the furthest of any S&P 500 stock, after the packaged food giant announced a plan to separate its North American grocery business from its sauces and spreads unit. The grocery business includes Oscar Mayer, Kraft Singles, and Lunchables, while the larger sauce-focused company will remain the home of Heinz ketchup, Philadelphia cream cheese, and Kraft Mac & Cheese. The announcement of the split-up, which the company expects to close in the second half of 2026, came a decade after the megamerger between Kraft and Heinz created one of the world's largest food companies. Alcoholic beverage maker Constellation Brands (STZ) cut its adjusted profit guidance, citing tariff impacts and slumping beer demand. The maker of the Modelo and Corona beer brands now anticipates a 2% to 4% decline in beer sales in fiscal 2026 as macroeconomic uncertainty weighs on consumer spending. Constellation Brands shares sank 6.6% on Tuesday. Shares of Albemarle (ALB), the world's largest lithium miner, lost 6.3%. Baird analysts raised their price target on Albemarle stock ahead of the holiday weekend, highlighting a recovery in lithium prices following capacity cuts by a major producer in China. However, Baird maintained its "underperform" rating on Albemarle stock, citing limited visibility into the dynamics of the lithium market and uncertainty surrounding Chinese government policy. Shares of beauty products retailer Ulta Beauty (ULTA) jumped 8.1%, notching the S&P 500's top daily performance to claw back the heavy losses posted Friday at the end of a volatile week of trading. Ahead of the holiday weekend, Barclays analysts raised their price target on Ulta shares, pointing to the cosmetic company's strong second-quarter results as well as positive strategic initiatives under CEO Kecia Steelman, who took the reins at Ulta at the beginning of 2025. Biogen (BIIB) received approval from the Food and Drug Administration for an injectable version of Leqembi, a treatment for Alzheimer's disease produced by the biotech company in collaboration with Japanese pharmaceutical firm Esai. Whereas patients previously needed to travel to an infusion center for a time-consuming process twice per month, Leqembi can be taken at home via a weekly under-the-skin injection. Biogen shares jumped 5.6% on Tuesday. Shares of fashion company Ralph Lauren (RL) advanced 4.8% to reach an all-time closing high. The company received a boost last week when a dress made by Ralph Lauren was featured in engagement photos released by the superstar recording artist Taylor Swift.
+--------------------------------------------------
+
+Title: Stocks Retreat as Bond Yields Climb
+URL: https://www.barchart.com/story/news/34550930/stocks-retreat-as-bond-yields-climb
+Time Published: 2025-09-02T20:52:26Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down by -0.69%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down by -0.55%, and the Nasdaq 100 ...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq tumble as rising yields, Trump tariff uncertainty rattle markets
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-tumble-as-rising-yields-trump-tariff-uncertainty-rattle-markets-200528170.html
 Time Published: 2025-09-02T20:05:28Z
@@ -62,14 +75,14 @@ Time Published: 2025-09-02T09:54:34Z
 Description: September S&P 500 E-Mini futures (ESU25) are down -0.75%, and September Nasdaq 100 E-Mini futures (NQU25) are down -0.95% this morning as Treasury yields...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as Treasury yields jump amid tariff, Fed uncertainty
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-treasury-yields-jump-amid-tariff-fed-uncertainty-235520838.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures sink as Treasury yields jump amid tariff, Fed uncertainty
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-as-treasury-yields-jump-amid-tariff-fed-uncertainty-235520886.html
 Time Published: 2025-09-01T23:55:20Z
 Description: Wall Street is prepping for a tense opening to September trading with tariff legal issues and concerns about the Fed's integrity on deck.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures sink as Treasury yields jump amid tariff, Fed uncertainty
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-as-treasury-yields-jump-amid-tariff-fed-uncertainty-235520886.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as Treasury yields jump amid tariff, Fed uncertainty
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-treasury-yields-jump-amid-tariff-fed-uncertainty-235520838.html
 Time Published: 2025-09-01T23:55:20Z
 Description: Wall Street is prepping for a tense opening to September trading with tariff legal issues and concerns about the Fed's integrity on deck.
 --------------------------------------------------
