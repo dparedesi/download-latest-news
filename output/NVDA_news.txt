@@ -26,11 +26,16 @@ Time Published: 2025-09-03T20:28:54Z
 Description: None
 --------------------------------------------------
 
+Title: Nvidia Just Scored a Major Market Share Win. Should You Buy NVDA Stock Here?
+URL: https://www.barchart.com/story/news/34577561/nvidia-just-scored-a-major-market-share-win-should-you-buy-nvda-stock-here
+Time Published: 2025-09-03T19:02:50Z
+Description: Nvidia shares are in focus after a Jon Peddie Research report confirms the AI darling is retaining its dominant market share in GPU sales. BofA says NVDA...
+--------------------------------------------------
+
 Title: Nvidia Fights Back Against ‘Supply Constraint’ Rumors. Should You Buy the Dip in NVDA Stock Now?
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ba555a5d-dbab-4a59-b3ce-9e85dd526f2d
 Time Published: 2025-09-03T17:56:27Z
-Full Content:
-Yahoo is part of the Yahoo family of brandsThe sites and apps that we own and operate, including Yahoo, AOL, Engadget, In The Know and Makers.Yahoo family of brands. If you do not want us and our partners to use cookies and personal data for these additional purposes, click 'Reject all'. If you would like to customise your choices, click 'Manage privacy settings'. You can withdraw your consent or change your choices at any time by clicking on the 'Privacy & cookie settings' or 'Privacy dashboard' links on our sites and apps. Find out more about how we use your personal data in our privacy policy and cookie policy.
+Description: None
 --------------------------------------------------
 
 Title: Jim Cramer Says You’re Going To “Lose Some Money” With NVIDIA Corporation (NVDA)
@@ -74,7 +79,7 @@ Title: RWA News: Ondo Finance Rolls Out Tokenized U.S. Stocks, ETFs as Tokenizat
 URL: https://www.coindesk.com/business/2025/09/03/ondo-finance-rolls-out-tokenized-u-s-stocks-etfs-as-equity-tokenization-ramps-up
 Time Published: 2025-09-03T13:30:26Z
 Full Content:
-Ondo Finance launched Wednesday its tokenized equity platform dubbed Ondo Global Markets, offering non-U.S. investors access to more than 100 U.S. stocks and exchange-traded funds (ETFs) on-chain. The tokenized equities, first announced in February, has gone live on Ethereum and are backed by securities held at U.S.-registered broker-dealers, the firm said. The offering includes crypto token versions of Apple (AAPL), Nvidia (NVDA) and the QQQ ETF among others. Investors in Asia-Pacific, Europe, Africa and Latin America can mint and redeem shares around the clock during trading days, with access to underlying exchange liquidity. The service is not available for U.S. users. The tokens are designed to move freely between wallets, exchanges and decentralized finance (DeFi) protocols. The firm has also partnered with BitGo, Ledger, Chainlink and other infrastructure providers to support the rollout. Ondo said it plans to expand the selection to more than 1,000 assets by the end of this year and bring the service to Solana SOL$204.21 and BNB Chain (BNB) with LayerZero-powered interoperability. "We saw stablecoins export the U.S. dollar by bringing it on-chain," said Nathan Allman, founder and CEO of Ondo Finance. "Now, Ondo Global Markets is doing the same thing for U.S. securities." The rollout comes as tokenization of real-world assets (RWAs) gains momentum across crypto markets, with projects bringing treasuries, private credit and now equities onto blockchains pursuing broader access and liquidity. A list of trading platforms and exchanges have introduced tokenized equities in the past few months, including by Robinhood, Gemini, Kraken and several other crypto exchanges. Coinbase and eToro also shared plans to offer stock trading in token form. However, some offerings drew backlash over potential issues such as limited shareholder rights and fragmented regulations. More For You Stripe, Paradigm Unveil Tempo as Blockchain Race for High-Speed Stablecoin Payments Heats Up The chain's stablecoin-first design aims to handle global payouts, microtransactions, remittances and AI agentic payments, Stripe CEO Patrick Collison said. What to know: About Contact
+Ondo Finance launched Wednesday its tokenized equity platform dubbed Ondo Global Markets, offering non-U.S. investors access to more than 100 U.S. stocks and exchange-traded funds (ETFs) on-chain. The tokenized equities, first announced in February, has gone live on Ethereum and are backed by securities held at U.S.-registered broker-dealers, the firm said. The offering includes crypto token versions of Apple (AAPL), Nvidia (NVDA) and the QQQ ETF among others. Investors in Asia-Pacific, Europe, Africa and Latin America can mint and redeem shares around the clock during trading days, with access to underlying exchange liquidity. The service is not available for U.S. users. The tokens are designed to move freely between wallets, exchanges and decentralized finance (DeFi) protocols. The firm has also partnered with BitGo, Ledger, Chainlink and other infrastructure providers to support the rollout. Ondo said it plans to expand the selection to more than 1,000 assets by the end of this year and bring the service to Solana SOL$205.40 and BNB Chain (BNB) with LayerZero-powered interoperability. "We saw stablecoins export the U.S. dollar by bringing it on-chain," said Nathan Allman, founder and CEO of Ondo Finance. "Now, Ondo Global Markets is doing the same thing for U.S. securities." The rollout comes as tokenization of real-world assets (RWAs) gains momentum across crypto markets, with projects bringing treasuries, private credit and now equities onto blockchains pursuing broader access and liquidity. A list of trading platforms and exchanges have introduced tokenized equities in the past few months, including by Robinhood, Gemini, Kraken and several other crypto exchanges. Coinbase and eToro also shared plans to offer stock trading in token form. However, some offerings drew backlash over potential issues such as limited shareholder rights and fragmented regulations. More For You Stripe, Paradigm Unveil Tempo as Blockchain Race for High-Speed Stablecoin Payments Heats Up The chain's stablecoin-first design aims to handle global payouts, microtransactions, remittances and AI agentic payments, Stripe CEO Patrick Collison said. What to know: About Contact
 --------------------------------------------------
 
 Title: 14 stocks of companies that could benefit from Trump’s state capitalism
@@ -189,14 +194,14 @@ Time Published: 2025-09-02T09:54:34Z
 Description: September S&P 500 E-Mini futures (ESU25) are down -0.75%, and September Nasdaq 100 E-Mini futures (NQU25) are down -0.95% this morning as Treasury yields...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as Treasury yields jump amid tariff, Fed uncertainty
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-treasury-yields-jump-amid-tariff-fed-uncertainty-235520838.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures sink as Treasury yields jump amid tariff, Fed uncertainty
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-as-treasury-yields-jump-amid-tariff-fed-uncertainty-235520886.html
 Time Published: 2025-09-01T23:55:20Z
 Description: Wall Street is prepping for a tense opening to September trading with tariff legal issues and concerns about the Fed's integrity on deck.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures sink as Treasury yields jump amid tariff, Fed uncertainty
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-as-treasury-yields-jump-amid-tariff-fed-uncertainty-235520886.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as Treasury yields jump amid tariff, Fed uncertainty
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-treasury-yields-jump-amid-tariff-fed-uncertainty-235520838.html
 Time Published: 2025-09-01T23:55:20Z
 Description: Wall Street is prepping for a tense opening to September trading with tariff legal issues and concerns about the Fed's integrity on deck.
 --------------------------------------------------
