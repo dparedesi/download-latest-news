@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: 14 stocks of companies that could benefit from Trump’s state capitalism
+URL: https://www.marketwatch.com/story/14-stocks-of-companies-that-could-benefit-from-trumps-state-capitalism-66681cc2
+Time Published: 2025-09-03T12:55:00Z
+Description: Companies that already receive a lot of federal money might wind up having even closer ties to the government.
+--------------------------------------------------
+
 Title: Trump’s Industrial Policy: What’s Right and Wrong
 URL: http://washingtonmonthly.com/2025/09/03/trump-industrial-policy/
 Time Published: 2025-09-03T09:00:00Z
@@ -35,10 +41,4 @@ Title: Street Calls of the Week
 URL: https://finance.yahoo.com/news/street-calls-week-092530091.html
 Time Published: 2025-08-31T09:25:30Z
 Description: Investing.com -- Here is your Pro Recap of the top takeaways from Wall Street analysts for the past week.
---------------------------------------------------
-
-Title: Truist Upgrades Advanced Micro Devices (AMD) to Buy, Lifts Price Target to $213
-URL: https://finance.yahoo.com/news/truist-upgrades-advanced-micro-devices-141531391.html
-Time Published: 2025-08-30T14:15:31Z
-Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the AI Stocks Hit with New Analyst Ratings. On August 26, Truist Securities analyst William Stein...
 --------------------------------------------------

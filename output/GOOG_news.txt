@@ -1,5 +1,11 @@
 List of news related to Alphabet Inc stock price GOOG:
 
+Title: Large Unusual Options Activity in Alphabet Options Shows the Stock Is Undervalued
+URL: https://www.barchart.com/story/news/34575936/large-unusual-options-activity-in-alphabet-options-shows-the-stock-is-undervalued
+Time Published: 2025-09-03T17:30:02Z
+Description: Positive news from a judge who is allowing Alphabet to keep Chrome has spurred large, unusual options activity in GOOG and GOOGL put options. This highlights...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq tumble as rising yields, Trump tariff uncertainty rattle markets
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-tumble-as-rising-yields-trump-tariff-uncertainty-rattle-markets-200528170.html
 Time Published: 2025-09-02T20:05:28Z

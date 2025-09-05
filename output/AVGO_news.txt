@@ -1,5 +1,23 @@
 List of news related to Broadcom AVGO:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures inch higher with jobs data to test rising rate-cut bets
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-higher-with-jobs-data-to-test-rising-rate-cut-bets-232647191.html
+Time Published: 2025-09-03T23:26:47Z
+Description: Wall Street waited for fresh jobs data to test rate-cut bets, with risks to Federal Reserve independence in focus ahead of a key Senate hearing.
+--------------------------------------------------
+
+Title: Earnings live: Salesforce stock sinks on tepid guidance, Figma slides, American Eagle soars
+URL: https://finance.yahoo.com/news/live/earnings-live-salesforce-stock-sinks-on-tepid-guidance-figma-slides-american-eagle-soars-204659906.html
+Time Published: 2025-09-03T20:46:59Z
+Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
+--------------------------------------------------
+
+Title: Earnings live: Salesforce stock sinks on tepid guidance, Figma slides, Macy's soars, Dollar Tree falls
+URL: https://finance.yahoo.com/news/live/earnings-live-salesforce-stock-sinks-on-tepid-guidance-figma-slides-macys-soars-dollar-tree-falls-204659746.html
+Time Published: 2025-09-03T20:46:59Z
+Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
+--------------------------------------------------
+
 Title: Broadcom (AVGO) Works on Bringing Latest NVIDIA AI technology to VCF
 URL: https://finance.yahoo.com/news/broadcom-avgo-works-bringing-latest-043548472.html
 Time Published: 2025-09-03T04:35:48Z
@@ -68,22 +86,4 @@ Title: Oppenheimer Raises Price Target on Broadcom (AVGO) to $325, Maintains Out
 URL: https://finance.yahoo.com/news/oppenheimer-raises-price-target-broadcom-041645370.html
 Time Published: 2025-08-31T04:16:45Z
 Description: Broadcom Inc. (NASDAQ:AVGO) is one of the best stocks for a 20-year long-term stock portfolio. On August 28, an Oppenheimer analyst raised his price target...
---------------------------------------------------
-
-Title: Broadcom (AVGO) Tipped as No. 2 AI Franchise After Nvidia
-URL: https://finance.yahoo.com/news/broadcom-avgo-tipped-no-2-234119955.html
-Time Published: 2025-08-30T23:39:21Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of the Trending AI Stocks on Wall Street. One of the biggest analyst calls on August 28 was for Broadcom. Oppenheimer...
---------------------------------------------------
-
-Title: China's AI Plans, Employment Data and Other Key Things to Watch this Week
-URL: https://www.barchart.com/story/news/34508193/china-s-ai-plans-employment-data-and-other-key-things-to-watch-this-week
-Time Published: 2025-08-30T22:37:21Z
-Description: Markets enter a critical week following Friday's tech sector volatility that was triggered by concerns over China's semiconductor ambitions, particularly...
---------------------------------------------------
-
-Title: Broadcom (AVGO) Gets Fresh Buy Rating Ahead of Q3 Earnings
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1ced98eb-7f55-4761-9cac-5ade9f4acbe9
-Time Published: 2025-08-30T13:26:24Z
-Description: None
 --------------------------------------------------

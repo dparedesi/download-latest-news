@@ -1,5 +1,17 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Earnings live: Salesforce stock sinks on tepid guidance, Figma slides, Macy's soars, Dollar Tree falls
+URL: https://finance.yahoo.com/news/live/earnings-live-salesforce-stock-sinks-on-tepid-guidance-figma-slides-macys-soars-dollar-tree-falls-204659746.html
+Time Published: 2025-09-03T20:46:59Z
+Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
+--------------------------------------------------
+
+Title: Earnings live: Salesforce stock sinks on tepid guidance, Figma slides, American Eagle soars
+URL: https://finance.yahoo.com/news/live/earnings-live-salesforce-stock-sinks-on-tepid-guidance-figma-slides-american-eagle-soars-204659906.html
+Time Published: 2025-09-03T20:46:59Z
+Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
+--------------------------------------------------
+
 Title: Should You Buy the Post-Earnings Pop in CrowdStrike Stock?
 URL: https://www.barchart.com/story/news/34538980/should-you-buy-the-post-earnings-pop-in-crowdstrike-stock
 Time Published: 2025-09-02T12:44:36Z
@@ -22,17 +34,4 @@ Title: CrowdStrike’s Growth Story Is Far From Over: Is CRWD Stock a Buy Now?
 URL: https://www.barchart.com/story/news/34518833/crowdstrikes-growth-story-is-far-from-over-is-crwd-stock-a-buy-now
 Time Published: 2025-09-01T12:00:02Z
 Description: AI is taking CrowdStrike’s cybersecurity business higher.
---------------------------------------------------
-
-Title: CrowdStrike (CRWD) Stock Reaffirmed Overweight by Wells Fargo
-URL: https://finance.yahoo.com/news/crowdstrike-crwd-stock-reaffirmed-overweight-234355737.html
-Time Published: 2025-08-30T23:43:55Z
-Description: CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of the Trending AI Stocks on Wall Street. On August 28, Wells Fargo reiterated the stock as “Overweight...
---------------------------------------------------
-
-Title: Where to invest $20,000 in ASX ETFs in September
-URL: https://www.fool.com.au/2025/08/31/where-to-invest-20000-in-asx-etfs-in-september/
-Time Published: 2025-08-30T23:30:00Z
-Description: Let's see why these funds could be a good destination for your hard-earned money.
-The post Where to invest $20,000 in ASX ETFs in September appeared first on The Motley Fool Australia.
 --------------------------------------------------
