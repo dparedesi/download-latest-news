@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stocks Gain and Bond Yields Fall as US Labor Market Cools
+URL: https://www.barchart.com/story/news/34600092/stocks-gain-and-bond-yields-fall-as-us-labor-market-cools
+Time Published: 2025-09-04T14:07:47Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.17%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.08%, and the Nasdaq 100 Index ($IUXX...
+--------------------------------------------------
+
 Title: Nvidia Just Scored a Major Market Share Win. Should You Buy NVDA Stock Here?
 URL: https://www.barchart.com/story/news/34577561/nvidia-just-scored-a-major-market-share-win-should-you-buy-nvda-stock-here
 Time Published: 2025-09-03T19:02:50Z
@@ -41,10 +47,4 @@ Title: Advanced Micro Devices Stock: Is AMD Outperforming the Technology Sector?
 URL: https://www.barchart.com/story/news/34517402/advanced-micro-devices-stock-is-amd-outperforming-the-technology-sector
 Time Published: 2025-09-01T09:18:43Z
 Description: Advanced Micro Devices has outpaced the broader technology sector over the past year, and analysts are reasonably upbeat about the stock’s prospects.
---------------------------------------------------
-
-Title: Street Calls of the Week
-URL: https://finance.yahoo.com/news/street-calls-week-092530091.html
-Time Published: 2025-08-31T09:25:30Z
-Description: Investing.com -- Here is your Pro Recap of the top takeaways from Wall Street analysts for the past week.
 --------------------------------------------------
