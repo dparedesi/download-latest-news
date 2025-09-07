@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Wall Street Loves This Underdog Chip Stock
+URL: https://www.barchart.com/story/news/34633845/wall-street-loves-this-underdog-chip-stock
+Time Published: 2025-09-05T19:36:32Z
+Description: This underdog chip stock is emerging as Wall Street’s new favorite, fueled by explosive growth and a multibillion-dollar AI opportunity.
+--------------------------------------------------
+
 Title: Stock market today: S&P 500, Nasdaq, Dow slip after jobs report shows dramatic slowdown
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-slip-after-jobs-report-shows-dramatic-slowdown-172116021.html
 Time Published: 2025-09-05T17:21:16Z
@@ -47,16 +53,4 @@ Title: How Is Intel’s Stock Performance Compared to Other Semiconductor Stocks
 URL: https://www.barchart.com/story/news/34536612/how-is-intels-stock-performance-compared-to-other-semiconductor-stocks
 Time Published: 2025-09-02T11:56:31Z
 Description: Despite Intel outperforming its industry peers over the past year, analysts maintain a cautious outlook on the stock’s future prospects.
---------------------------------------------------
-
-Title: This Under-the-Radar Chip Stock Is Beating the Market in 2025
-URL: https://www.barchart.com/story/news/34520735/this-under-the-radar-chip-stock-is-beating-the-market-in-2025
-Time Published: 2025-09-01T15:00:02Z
-Description: With this under-the-radar chip stock up 16% in 2025, it is worth investor attention here.
---------------------------------------------------
-
-Title: Advanced Micro Devices Stock: Is AMD Outperforming the Technology Sector?
-URL: https://www.barchart.com/story/news/34517402/advanced-micro-devices-stock-is-amd-outperforming-the-technology-sector
-Time Published: 2025-09-01T09:18:43Z
-Description: Advanced Micro Devices has outpaced the broader technology sector over the past year, and analysts are reasonably upbeat about the stock’s prospects.
 --------------------------------------------------

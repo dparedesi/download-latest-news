@@ -1,5 +1,30 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia's new investment is a game-changer for quantum stocks
+URL: https://www.thestreet.com/technology/nvidias-new-investment-is-a-game-changer-for-quantum-stocks
+Time Published: 2025-09-06T02:03:00Z
+Description: Nvidia just surprised Wall Street with a bold move into one of tech's riskiest frontiers. Here’s what it means for investors.
+--------------------------------------------------
+
+Title: 10 US dividend stocks I'd buy for a superannuation fund today
+URL: https://www.fool.com.au/2025/09/06/10-us-dividend-stocks-id-buy-for-a-superannuation-fund-today/
+Time Published: 2025-09-05T22:05:14Z
+Description: I think any super fund would benefit from these US stocks...
+The post 10 US dividend stocks I'd buy for a superannuation fund today appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: Stocks Fade on Economic Concerns after Weak US Unemployment Report
+URL: https://www.barchart.com/story/news/34635755/stocks-fade-on-economic-concerns-after-weak-us-unemployment-report
+Time Published: 2025-09-05T20:57:26Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday fell -0.32%, the Dow Jones Industrials Index ($DOWI ) (DIA ) fell -0.48%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
+Title: Wall Street Loves This Underdog Chip Stock
+URL: https://www.barchart.com/story/news/34633845/wall-street-loves-this-underdog-chip-stock
+Time Published: 2025-09-05T19:36:32Z
+Description: This underdog chip stock is emerging as Wall Street’s new favorite, fueled by explosive growth and a multibillion-dollar AI opportunity.
+--------------------------------------------------
+
 Title: Tesla Floats a Trillion-Dollar Pay Plan for CEO Elon Musk
 URL: https://www.investopedia.com/tesla-floats-a-trillion-dollar-pay-plan-for-ceo-elon-musk-11804336
 Time Published: 2025-09-05T18:32:24Z
@@ -11,6 +36,12 @@ Title: Stock market today: S&P 500, Nasdaq, Dow slip after jobs report shows dra
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-slip-after-jobs-report-shows-dramatic-slowdown-172116021.html
 Time Published: 2025-09-05T17:21:16Z
 Description: Investors are digesting a surprise August jobs report, with an interest rate cut now seen as certain.
+--------------------------------------------------
+
+Title: Stock market today: S&P, Nasdaq, Dow fall as weak jobs data sparks Wall Street worries
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-nasdaq-dow-fall-as-weak-jobs-data-sparks-wall-street-worries-172116750.html
+Time Published: 2025-09-05T17:21:16Z
+Description: Investors digested a surprise August jobs report, with an interest rate cut now seen as certain.
 --------------------------------------------------
 
 Title: Broadcom stock soars as Wall Street cheers AI chips as ‘leading alternative’ to Nvidia
@@ -242,7 +273,7 @@ Title: RWA News: Ondo Finance Rolls Out Tokenized U.S. Stocks, ETFs as Tokenizat
 URL: https://www.coindesk.com/business/2025/09/03/ondo-finance-rolls-out-tokenized-u-s-stocks-etfs-as-equity-tokenization-ramps-up
 Time Published: 2025-09-03T13:30:26Z
 Full Content:
-Ondo Finance launched Wednesday its tokenized equity platform dubbed Ondo Global Markets, offering non-U.S. investors access to more than 100 U.S. stocks and exchange-traded funds (ETFs) on-chain. The tokenized equities, first announced in February, has gone live on Ethereum and are backed by securities held at U.S.-registered broker-dealers, the firm said. The offering includes crypto token versions of Apple (AAPL), Nvidia (NVDA) and the QQQ ETF among others. Investors in Asia-Pacific, Europe, Africa and Latin America can mint and redeem shares around the clock during trading days, with access to underlying exchange liquidity. The service is not available for U.S. users. The tokens are designed to move freely between wallets, exchanges and decentralized finance (DeFi) protocols. The firm has also partnered with BitGo, Ledger, Chainlink and other infrastructure providers to support the rollout. Ondo said it plans to expand the selection to more than 1,000 assets by the end of this year and bring the service to Solana SOL$200.03 and BNB Chain (BNB) with LayerZero-powered interoperability. "We saw stablecoins export the U.S. dollar by bringing it on-chain," said Nathan Allman, founder and CEO of Ondo Finance. "Now, Ondo Global Markets is doing the same thing for U.S. securities." The rollout comes as tokenization of real-world assets (RWAs) gains momentum across crypto markets, with projects bringing treasuries, private credit and now equities onto blockchains pursuing broader access and liquidity. A list of trading platforms and exchanges have introduced tokenized equities in the past few months, including by Robinhood, Gemini, Kraken and several other crypto exchanges. Coinbase and eToro also shared plans to offer stock trading in token form. However, some offerings drew backlash over potential issues such as limited shareholder rights and fragmented regulations. More For You Bitcoin and Stablecoins Dominate as India, U.S. Top 2025 Crypto Adoption Index USDT and USDC continue to lead global stablecoin flows, but EURC and PYUSD are rising fast as institutional rails expand What to know: About Contact
+Ondo Finance launched Wednesday its tokenized equity platform dubbed Ondo Global Markets, offering non-U.S. investors access to more than 100 U.S. stocks and exchange-traded funds (ETFs) on-chain. The tokenized equities, first announced in February, has gone live on Ethereum and are backed by securities held at U.S.-registered broker-dealers, the firm said. The offering includes crypto token versions of Apple (AAPL), Nvidia (NVDA) and the QQQ ETF among others. Investors in Asia-Pacific, Europe, Africa and Latin America can mint and redeem shares around the clock during trading days, with access to underlying exchange liquidity. The service is not available for U.S. users. The tokens are designed to move freely between wallets, exchanges and decentralized finance (DeFi) protocols. The firm has also partnered with BitGo, Ledger, Chainlink and other infrastructure providers to support the rollout. Ondo said it plans to expand the selection to more than 1,000 assets by the end of this year and bring the service to Solana SOL$203.32 and BNB Chain (BNB) with LayerZero-powered interoperability. "We saw stablecoins export the U.S. dollar by bringing it on-chain," said Nathan Allman, founder and CEO of Ondo Finance. "Now, Ondo Global Markets is doing the same thing for U.S. securities." The rollout comes as tokenization of real-world assets (RWAs) gains momentum across crypto markets, with projects bringing treasuries, private credit and now equities onto blockchains pursuing broader access and liquidity. A list of trading platforms and exchanges have introduced tokenized equities in the past few months, including by Robinhood, Gemini, Kraken and several other crypto exchanges. Coinbase and eToro also shared plans to offer stock trading in token form. However, some offerings drew backlash over potential issues such as limited shareholder rights and fragmented regulations. More For You Bitcoin and Stablecoins Dominate as India, U.S. Top 2025 Crypto Adoption Index USDT and USDC continue to lead global stablecoin flows, but EURC and PYUSD are rising fast as institutional rails expand What to know: About Contact
 --------------------------------------------------
 
 Title: 14 stocks of companies that could benefit from Trump’s state capitalism
@@ -280,36 +311,4 @@ Title: Nvidia Is 'Going To $5 Trillion' Says Dan Ives, But This Expert Says If '
 URL: https://finance.yahoo.com/news/nvidia-going-5-trillion-says-023107788.html
 Time Published: 2025-09-03T02:31:07Z
 Description: Following a strong second-quarter earnings report, Wedbush analyst Dan Ives projects a monumental rise in the AI chipmaker Nvidia Corp.‘s (NASDAQ:NVDA...
---------------------------------------------------
-
-Title: Stock market today: Dow Jones, S&P 500, Nasdaq futures rise after landmark antitrust ruling allows Google to keep Chrome
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jones-sp-500-nasdaq-futures-rise-after-landmark-antitrust-ruling-allows-google-to-keep-chrome-231822126.html
-Time Published: 2025-09-02T23:18:22Z
-Description: US stock futures mostly rose after a ruling in a landmark antitrust case refrained from forcing Google to sell its Chrome browser but instituted other...
---------------------------------------------------
-
-Title: S&P 500 Gains & Losses Today: Kraft Heinz, Nvidia Fall; Ulta Beauty Stock Recovers
-URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-kraft-heinz-nvidia-fall-ulta-beauty-stock-recovers-11802164
-Time Published: 2025-09-02T20:59:54Z
-Full Content:
-U.S. stocks lost ground on the first trading day of September. The S&P 500 ended Tuesday's session down 0.7% as the markets returned to action following the extended Labor Day weekend. The Dow slid 0.6%, while the Nasdaq dropped 0.8%. Chip stocks retreated, with Nvidia (NVDA) slipping 2% in Monday's session. Read Investopedia's full coverage of today's trading here. The labor market is likely to be in focus during the shortened trading week, with investors looking toward Friday morning's release of an August jobs report that could have major implications for Federal Reserve policymakers deliberating possible interest-rate cuts at their meeting later this month. Shares of Kraft Heinz (KHC) tumbled 7%, falling the furthest of any S&P 500 stock, after the packaged food giant announced a plan to separate its North American grocery business from its sauces and spreads unit. The grocery business includes Oscar Mayer, Kraft Singles, and Lunchables, while the larger sauce-focused company will remain the home of Heinz ketchup, Philadelphia cream cheese, and Kraft Mac & Cheese. The announcement of the split-up, which the company expects to close in the second half of 2026, came a decade after the megamerger between Kraft and Heinz created one of the world's largest food companies. Alcoholic beverage maker Constellation Brands (STZ) cut its adjusted profit guidance, citing tariff impacts and slumping beer demand. The maker of the Modelo and Corona beer brands now anticipates a 2% to 4% decline in beer sales in fiscal 2026 as macroeconomic uncertainty weighs on consumer spending. Constellation Brands shares sank 6.6% on Tuesday. Shares of Albemarle (ALB), the world's largest lithium miner, lost 6.3%. Baird analysts raised their price target on Albemarle stock ahead of the holiday weekend, highlighting a recovery in lithium prices following capacity cuts by a major producer in China. However, Baird maintained its "underperform" rating on Albemarle stock, citing limited visibility into the dynamics of the lithium market and uncertainty surrounding Chinese government policy. Shares of beauty products retailer Ulta Beauty (ULTA) jumped 8.1%, notching the S&P 500's top daily performance to claw back the heavy losses posted Friday at the end of a volatile week of trading. Ahead of the holiday weekend, Barclays analysts raised their price target on Ulta shares, pointing to the cosmetic company's strong second-quarter results as well as positive strategic initiatives under CEO Kecia Steelman, who took the reins at Ulta at the beginning of 2025. Biogen (BIIB) received approval from the Food and Drug Administration for an injectable version of Leqembi, a treatment for Alzheimer's disease produced by the biotech company in collaboration with Japanese pharmaceutical firm Esai. Whereas patients previously needed to travel to an infusion center for a time-consuming process twice per month, Leqembi can be taken at home via a weekly under-the-skin injection. Biogen shares jumped 5.6% on Tuesday. Shares of fashion company Ralph Lauren (RL) advanced 4.8% to reach an all-time closing high. The company received a boost last week when a dress made by Ralph Lauren was featured in engagement photos released by the superstar recording artist Taylor Swift.
---------------------------------------------------
-
-Title: Stocks Retreat as Bond Yields Climb
-URL: https://www.barchart.com/story/news/34550930/stocks-retreat-as-bond-yields-climb
-Time Published: 2025-09-02T20:52:26Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down by -0.69%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down by -0.55%, and the Nasdaq 100 ...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq tumble as rising yields, Trump tariff uncertainty rattle markets
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-tumble-as-rising-yields-trump-tariff-uncertainty-rattle-markets-200528170.html
-Time Published: 2025-09-02T20:05:28Z
-Description: Wall Street entered September trading under pressure as investors weighed tariff uncertainty and questions about Fed independence.
---------------------------------------------------
-
-Title: Why Nvidia and Other Chip Stocks' Slump Is an Opportunity for Investors, UBS Says
-URL: https://www.investopedia.com/why-nvidia-and-other-chip-stocks-slump-is-an-opportunity-for-investors-ubs-says-11801856
-Time Published: 2025-09-02T17:49:14Z
-Full Content:
-Semiconductor stocks are taking a chip out of U.S. indexes to start September—a month that's earned a reputation as the worst for American investors—but for some bulls on Wall Street, that could mean it's time to buy. "We recommend that investors who are underallocated to equities consider phasing in and using market dips to add exposure to preferred areas," UBS analysts said Tuesday, with tech and AI plays among their favorites, while chip stocks dragged on the sector to start the week. Nvidia (NVDA) was one of the worst-performing stocks on the Dow Jones Industrial Average Tuesday afternoon, with shares down nearly 3%. Broadcom (AVGO), Advanced Micro Devices (AMD), and other chip stocks were also lower, with the PHLX Semiconductor Index (SOX) down 2%. Tuesday's slide extended losses late last week, amid uncertainty after an appeals court Friday challenged the legality of the Trump administration's "reciprocal" tariffs, and concerns about America's relations with major trading partners. Treasury yields spiked as bonds sold off, which tends to weigh on the tech sector as higher yields may make growth stocks less attractive. Some investors could also be worried about September's reputation as a tough month for stocks—but that shouldn't discourage them, according to UBS analysts. That's because October and November tend to be strong months for U.S. stocks, they said, with average S&P 500 returns over the past decade of 1.2% and 4%, respectively. Buying in September could help investors position themselves for better performance in the months that follow. UBS also pointed to strong earnings in the second quarter, a robust outlook for AI demand, and expectations of a rate cut later this month as reasons supporting their optimism in the tech sector. "Alongside AI, power and resources, and longevity, we favor US technology, health care, utilities, and financials," the analysts said.
 --------------------------------------------------

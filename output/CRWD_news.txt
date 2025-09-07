@@ -7,14 +7,14 @@ Description: This could be a good way to allocate your funds in September.
 The post How to invest your first $3,000 in the ASX this month appeared first on The Motley Fool Australia.
 --------------------------------------------------
 
-Title: Earnings live: Salesforce stock sinks on tepid guidance, Figma slides, American Eagle soars
-URL: https://finance.yahoo.com/news/live/earnings-live-salesforce-stock-sinks-on-tepid-guidance-figma-slides-american-eagle-soars-204659906.html
+Title: Earnings live: Salesforce stock sinks on tepid guidance, Figma slides, Macy's soars, Dollar Tree falls
+URL: https://finance.yahoo.com/news/live/earnings-live-salesforce-stock-sinks-on-tepid-guidance-figma-slides-macys-soars-dollar-tree-falls-204659746.html
 Time Published: 2025-09-03T20:46:59Z
 Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
 --------------------------------------------------
 
-Title: Earnings live: Salesforce stock sinks on tepid guidance, Figma slides, Macy's soars, Dollar Tree falls
-URL: https://finance.yahoo.com/news/live/earnings-live-salesforce-stock-sinks-on-tepid-guidance-figma-slides-macys-soars-dollar-tree-falls-204659746.html
+Title: Earnings live: Salesforce stock sinks on tepid guidance, Figma slides, American Eagle soars
+URL: https://finance.yahoo.com/news/live/earnings-live-salesforce-stock-sinks-on-tepid-guidance-figma-slides-american-eagle-soars-204659906.html
 Time Published: 2025-09-03T20:46:59Z
 Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
 --------------------------------------------------
@@ -29,16 +29,4 @@ Title: Earnings live: Nio stock rises on upbeat EV delivery forecast; results fr
 URL: https://finance.yahoo.com/news/live/earnings-live-nio-stock-rises-on-upbeat-ev-delivery-forecast-results-from-macys-salesforce-on-deck-115821534.html
 Time Published: 2025-09-02T11:58:21Z
 Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
---------------------------------------------------
-
-Title: CrowdStrike Holdings, Inc. (CRWD): Doubt Its CEO At “Your Own Peril,” Warns Jim Cramer
-URL: https://finance.yahoo.com/news/crowdstrike-holdings-inc-crwd-doubt-210131164.html
-Time Published: 2025-09-01T21:01:31Z
-Description: We recently published Jim Cramer Just Couldn’t Stop Talking About These 13 Stocks. CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of the stocks Jim Cramer...
---------------------------------------------------
-
-Title: CrowdStrike’s Growth Story Is Far From Over: Is CRWD Stock a Buy Now?
-URL: https://www.barchart.com/story/news/34518833/crowdstrikes-growth-story-is-far-from-over-is-crwd-stock-a-buy-now
-Time Published: 2025-09-01T12:00:02Z
-Description: AI is taking CrowdStrike’s cybersecurity business higher.
 --------------------------------------------------
