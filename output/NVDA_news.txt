@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA (NVDA) Viewed as Key AI Beneficiary, JPMorgan Reiterates Overweight
+URL: https://finance.yahoo.com/news/nvidia-nvda-viewed-key-ai-100958624.html
+Time Published: 2025-09-06T10:09:58Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks to Watch Out For in 2025. One of the biggest analyst calls on Wednesday, September 3rd, was for...
+--------------------------------------------------
+
 Title: Nvidia's new investment is a game-changer for quantum stocks
 URL: https://www.thestreet.com/technology/nvidias-new-investment-is-a-game-changer-for-quantum-stocks
 Time Published: 2025-09-06T02:03:00Z
@@ -273,7 +279,7 @@ Title: RWA News: Ondo Finance Rolls Out Tokenized U.S. Stocks, ETFs as Tokenizat
 URL: https://www.coindesk.com/business/2025/09/03/ondo-finance-rolls-out-tokenized-u-s-stocks-etfs-as-equity-tokenization-ramps-up
 Time Published: 2025-09-03T13:30:26Z
 Full Content:
-Ondo Finance launched Wednesday its tokenized equity platform dubbed Ondo Global Markets, offering non-U.S. investors access to more than 100 U.S. stocks and exchange-traded funds (ETFs) on-chain. The tokenized equities, first announced in February, has gone live on Ethereum and are backed by securities held at U.S.-registered broker-dealers, the firm said. The offering includes crypto token versions of Apple (AAPL), Nvidia (NVDA) and the QQQ ETF among others. Investors in Asia-Pacific, Europe, Africa and Latin America can mint and redeem shares around the clock during trading days, with access to underlying exchange liquidity. The service is not available for U.S. users. The tokens are designed to move freely between wallets, exchanges and decentralized finance (DeFi) protocols. The firm has also partnered with BitGo, Ledger, Chainlink and other infrastructure providers to support the rollout. Ondo said it plans to expand the selection to more than 1,000 assets by the end of this year and bring the service to Solana SOL$202.62 and BNB Chain (BNB) with LayerZero-powered interoperability. "We saw stablecoins export the U.S. dollar by bringing it on-chain," said Nathan Allman, founder and CEO of Ondo Finance. "Now, Ondo Global Markets is doing the same thing for U.S. securities." The rollout comes as tokenization of real-world assets (RWAs) gains momentum across crypto markets, with projects bringing treasuries, private credit and now equities onto blockchains pursuing broader access and liquidity. A list of trading platforms and exchanges have introduced tokenized equities in the past few months, including by Robinhood, Gemini, Kraken and several other crypto exchanges. Coinbase and eToro also shared plans to offer stock trading in token form. However, some offerings drew backlash over potential issues such as limited shareholder rights and fragmented regulations. More For You Bitcoin and Stablecoins Dominate as India, U.S. Top 2025 Crypto Adoption Index USDT and USDC continue to lead global stablecoin flows, but EURC and PYUSD are rising fast as institutional rails expand What to know: About Contact
+Ondo Finance launched Wednesday its tokenized equity platform dubbed Ondo Global Markets, offering non-U.S. investors access to more than 100 U.S. stocks and exchange-traded funds (ETFs) on-chain. The tokenized equities, first announced in February, has gone live on Ethereum and are backed by securities held at U.S.-registered broker-dealers, the firm said. The offering includes crypto token versions of Apple (AAPL), Nvidia (NVDA) and the QQQ ETF among others. Investors in Asia-Pacific, Europe, Africa and Latin America can mint and redeem shares around the clock during trading days, with access to underlying exchange liquidity. The service is not available for U.S. users. The tokens are designed to move freely between wallets, exchanges and decentralized finance (DeFi) protocols. The firm has also partnered with BitGo, Ledger, Chainlink and other infrastructure providers to support the rollout. Ondo said it plans to expand the selection to more than 1,000 assets by the end of this year and bring the service to Solana SOL$203.39 and BNB Chain (BNB) with LayerZero-powered interoperability. "We saw stablecoins export the U.S. dollar by bringing it on-chain," said Nathan Allman, founder and CEO of Ondo Finance. "Now, Ondo Global Markets is doing the same thing for U.S. securities." The rollout comes as tokenization of real-world assets (RWAs) gains momentum across crypto markets, with projects bringing treasuries, private credit and now equities onto blockchains pursuing broader access and liquidity. A list of trading platforms and exchanges have introduced tokenized equities in the past few months, including by Robinhood, Gemini, Kraken and several other crypto exchanges. Coinbase and eToro also shared plans to offer stock trading in token form. However, some offerings drew backlash over potential issues such as limited shareholder rights and fragmented regulations. More For You Bitcoin and Stablecoins Dominate as India, U.S. Top 2025 Crypto Adoption Index USDT and USDC continue to lead global stablecoin flows, but EURC and PYUSD are rising fast as institutional rails expand What to know: About Contact
 --------------------------------------------------
 
 Title: 14 stocks of companies that could benefit from Trump’s state capitalism
@@ -305,10 +311,4 @@ Title: Nasdaq Futures Climb on Alphabet Boost Ahead of U.S. JOLTs Report
 URL: https://www.barchart.com/story/news/34561476/nasdaq-futures-climb-on-alphabet-boost-ahead-of-u-s-jolts-report
 Time Published: 2025-09-03T10:15:23Z
 Description: September Nasdaq 100 E-Mini futures (NQU25) are trending up +0.69% this morning, buoyed by a jump in Alphabet stock following a ruling that Google won’t be...
---------------------------------------------------
-
-Title: Nvidia Is 'Going To $5 Trillion' Says Dan Ives, But This Expert Says If 'AI Turns Out To Be Just A Bubble,' NVDA May Collapse
-URL: https://finance.yahoo.com/news/nvidia-going-5-trillion-says-023107788.html
-Time Published: 2025-09-03T02:31:07Z
-Description: Following a strong second-quarter earnings report, Wedbush analyst Dan Ives projects a monumental rise in the AI chipmaker Nvidia Corp.‘s (NASDAQ:NVDA...
 --------------------------------------------------
