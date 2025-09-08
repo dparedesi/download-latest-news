@@ -17,9 +17,3 @@ URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-tsm-plans
 Time Published: 2025-09-03T04:35:47Z
 Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the 10 Best Semiconductor Stocks to Buy Right Now. On August 28, Reuters, while...
 --------------------------------------------------
-
-Title: As Intel Nabs $5.7 Billion in U.S. Cash, Should You Buy INTC Stock?
-URL: https://www.barchart.com/story/news/34546548/as-intel-nabs-5-7-billion-in-u-s-cash-should-you-buy-intc-stock
-Time Published: 2025-09-02T17:23:33Z
-Description: Intel secures $5.7B from Washington, but political ties raise questions on efficiency and long-term shareholder value.
---------------------------------------------------

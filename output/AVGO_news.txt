@@ -31,16 +31,16 @@ Time Published: 2025-09-05T20:57:26Z
 Description: The S&P 500 Index ($SPX ) (SPY ) on Friday fell -0.32%, the Dow Jones Industrials Index ($DOWI ) (DIA ) fell -0.48%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq, Dow slip after jobs report shows dramatic slowdown
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-slip-after-jobs-report-shows-dramatic-slowdown-172116021.html
-Time Published: 2025-09-05T17:21:16Z
-Description: Investors are digesting a surprise August jobs report, with an interest rate cut now seen as certain.
---------------------------------------------------
-
 Title: Stock market today: S&P, Nasdaq, Dow fall as weak jobs data sparks Wall Street worries
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-nasdaq-dow-fall-as-weak-jobs-data-sparks-wall-street-worries-172116750.html
 Time Published: 2025-09-05T17:21:16Z
 Description: Investors digested a surprise August jobs report, with an interest rate cut now seen as certain.
+--------------------------------------------------
+
+Title: Stock market today: S&P 500, Nasdaq, Dow slip after jobs report shows dramatic slowdown
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-slip-after-jobs-report-shows-dramatic-slowdown-172116021.html
+Time Published: 2025-09-05T17:21:16Z
+Description: Investors are digesting a surprise August jobs report, with an interest rate cut now seen as certain.
 --------------------------------------------------
 
 Title: Broadcom stock soars as Wall Street cheers AI chips as ‘leading alternative’ to Nvidia
@@ -272,43 +272,4 @@ Title: Broadcom (AVGO) Works on Bringing Latest NVIDIA AI technology to VCF
 URL: https://finance.yahoo.com/news/broadcom-avgo-works-bringing-latest-043548472.html
 Time Published: 2025-09-03T04:35:48Z
 Description: Broadcom Inc. (NASDAQ:AVGO) is one of the 10 Best Semiconductor Stocks to Buy Right Now. On August 26, Broadcom Inc. announced that it is working to bring...
---------------------------------------------------
-
-Title: Why Nvidia and Other Chip Stocks' Slump Is an Opportunity for Investors, UBS Says
-URL: https://www.investopedia.com/why-nvidia-and-other-chip-stocks-slump-is-an-opportunity-for-investors-ubs-says-11801856
-Time Published: 2025-09-02T17:49:14Z
-Full Content:
-Semiconductor stocks are taking a chip out of U.S. indexes to start September—a month that's earned a reputation as the worst for American investors—but for some bulls on Wall Street, that could mean it's time to buy. "We recommend that investors who are underallocated to equities consider phasing in and using market dips to add exposure to preferred areas," UBS analysts said Tuesday, with tech and AI plays among their favorites, while chip stocks dragged on the sector to start the week. Nvidia (NVDA) was one of the worst-performing stocks on the Dow Jones Industrial Average Tuesday afternoon, with shares down nearly 3%. Broadcom (AVGO), Advanced Micro Devices (AMD), and other chip stocks were also lower, with the PHLX Semiconductor Index (SOX) down 2%. Tuesday's slide extended losses late last week, amid uncertainty after an appeals court Friday challenged the legality of the Trump administration's "reciprocal" tariffs, and concerns about America's relations with major trading partners. Treasury yields spiked as bonds sold off, which tends to weigh on the tech sector as higher yields may make growth stocks less attractive. Some investors could also be worried about September's reputation as a tough month for stocks—but that shouldn't discourage them, according to UBS analysts. That's because October and November tend to be strong months for U.S. stocks, they said, with average S&P 500 returns over the past decade of 1.2% and 4%, respectively. Buying in September could help investors position themselves for better performance in the months that follow. UBS also pointed to strong earnings in the second quarter, a robust outlook for AI demand, and expectations of a rate cut later this month as reasons supporting their optimism in the tech sector. "Alongside AI, power and resources, and longevity, we favor US technology, health care, utilities, and financials," the analysts said.
---------------------------------------------------
-
-Title: What Nvidia's Earnings Could Mean for Broadcom and Other Chipmakers
-URL: https://www.investopedia.com/what-nvidia-earnings-could-mean-for-broadcom-and-other-chipmakers-11800514
-Time Published: 2025-09-02T15:02:49Z
-Full Content:
-As one of the primary beneficiaries of the AI boom, chipmaker Nvidia's (NVDA) stock has become a bellwether for industry, with its quarterly results last week offering some clues about what to expect from Broadcom (AVGO) later this week, and other chipmakers. Nvidia's earnings, which came in just ahead of Wall Street's estimates, largely received a bullish reception from analysts, who voiced confidence in demand for its AI hardware, though worries about China sales and geopolitical issues have weighed on the stock. Shares of Nvidia dropped nearly 3% in recent trading, and Broadcom shares slipped 1%, with other chip stocks extending last week's declines as uncertainty about tariffs and America's relations with major trading partners weighed on the major indexes. A diplomatic summit in Tianjin over the weekend with leaders from more than 20 non-Western countries, including Chinese President Xi Jinping, Indian Prime Minister Narendra Modi, and Russian President Vladimir Putin, sought to showcase China's leadership amid trade tensions with the U.S. AI chipmaker Broadcom, which Oppenheimer analysts have called the "No. 2 AI franchise" after Nvidia, is set to report its fiscal third-quarter results after the bell on Thursday, and could face some similar challenges related to its large exposure to China—as well as benefit from AI tailwinds. Like Nvidia, Broadcom derives a significant chunk of its sales from China, with the country accounting for roughly a fifth of Broadcom's revenue in its fiscal 2024, though that's declined from almost a third in 2023. Broadcom also claims some of the same Big Tech AI clients Nvidia does, including Meta Platforms (META) and Google parent Alphabet (GOOGL), with their commitments to hefty AI spending expected to benefit the chipmaker. Citi analysts suggested last week Broadcom could also have plans with ChatGPT maker OpenAI, Elon Musk's xAI, and Apple (AAPL) in its pipeline. The Citi analysts have a "buy" rating and $315 price target for the stock, which finished Friday's session around $297. Despite recent losses, it has added more than one-quarter of its value since the start of the year. Oppenheimer expects Broadcom could have even further to climb, with a $325 target, still well below a Street high of $350, according to Visible Alpha. Heading into the results, Wall Street analysts are overwhelmingly bullish on Broadcom's stock, anticipating rising sales and profits. All of the 10 analysts with current ratings compiled by Visible Alpha give it a "buy" or equivalent rating. CORRECTION—Sept. 2, 2025: This article has been corrected to reflect the U.S. was not represented at the summit in Tianjin and President Trump did not attend.
---------------------------------------------------
-
-Title: Here’s What Lifted Broadcom (AVGO) in Q2
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7c3e47c4-a802-46a5-bae7-89d173021e8a
-Time Published: 2025-09-02T14:19:16Z
-Description: None
---------------------------------------------------
-
-Title: Stocks Tumble on Higher Bond Yields
-URL: https://www.barchart.com/story/news/34542127/stocks-tumble-on-higher-bond-yields
-Time Published: 2025-09-02T14:07:18Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -1.26%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -1.23%, and the Nasdaq 100 Index ($IUXX ...
---------------------------------------------------
-
-Title: Earnings live: Nio stock rises on upbeat EV delivery forecast; results from Macy's, Salesforce on deck
-URL: https://finance.yahoo.com/news/live/earnings-live-nio-stock-rises-on-upbeat-ev-delivery-forecast-results-from-macys-salesforce-on-deck-115821534.html
-Time Published: 2025-09-02T11:58:21Z
-Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
---------------------------------------------------
-
-Title: Buy AVGO Stock Ahead of Its Upcoming Earnings?
-URL: https://www.forbes.com/sites/greatspeculations/2025/09/02/buy-avgo-stock-ahead-of-its-upcoming-earnings/
-Time Published: 2025-09-02T11:00:00Z
-Full Content:
-ByTrefis Team, Contributor. Broadcom (NASDAQ: AVGO) is set to announce its earnings on Thursday, September 4, 2025. Historical records indicate that purchasing AVGO stock prior to the earnings announcement has often been a successful strategy. In the past five years, the stock has recorded positive one-day returns 75% of the time, with a median increase of 3.0% and a peak single-day return of 24.4%. For traders focused on specific events, having a strong grasp of historical trends can be beneficial, although the results are largely contingent on how the company’s outcomes measure up to market anticipations. Two separate strategies may be employed for events of this nature: Consensus forecasts for the upcoming report predict earnings of $1.66 per share on revenues of $15.82 billion. This indicates significant growth from the same quarter last year, which reported earnings of $1.24 per share and revenues of $13.07 billion. From a fundamental perspective, Broadcom has a market capitalization of $1.4 trillion. The company has showcased robust financial results over the past year, achieving $57 billion in revenue, $21 billion in operating profits, and $13 billion in net income. That said, if you're looking for potential upside with reduced volatility compared to holding an individual stock, consider the High Quality Portfolio. It has significantly outperformed its benchmark—a blend of the S&P 500, Russell, and S&P MidCap indexes—and has achieved returns exceeding 91% since its inception. Additionally, see – Ethereum Play: BMNR Stock To $100? See earnings reaction history of all stocks Here are some insights on one-day (1D) post-earnings returns: Additional data on the observed 5-Day (5D) and 21-Day (21D) returns after earnings are summarized alongside the statistics in the table below. A less risky strategy (although not useful if the correlation is weak) is to understand the correlation between short-term and medium-term returns following earnings, identify a pair that has the strongest correlation, and execute the necessary trade. For instance, if 1D and 5D exhibit the highest correlation, a trader may position themselves "long" for the subsequent 5 days if the 1D post-earnings return is positive. Below is some correlation data based on a 5-year and a 3-year (more recent) history. Please note that the correlation 1D_5D refers to the relationship between 1D post-earnings returns and the following 5D returns. Also, see – Buy or Fear AVGO Stock? Occasionally, the performance of peers can impact the stock reaction following earnings. In fact, the pricing may begin even before the earnings are revealed. Below is some historical data on the past post-earnings performance of Broadcom stock in comparison to the stock performance of peers that announced earnings just before Broadcom. For a fair comparison, peer stock returns are also represented as post-earnings one-day (1D) returns. Discover more about Trefis RV strategy which has outperformed its all-cap stocks benchmark (combining all three indexes: the S&P 500, S&P mid-cap, and Russell 2000), yielding strong returns for investors. Additionally, if you desire upside with a steadier experience compared to an individual stock like Broadcom, explore the High Quality portfolio, which has outpaced the S&P and achieved >91% returns since it began.
 --------------------------------------------------

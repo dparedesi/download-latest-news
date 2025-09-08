@@ -5,9 +5,3 @@ URL: https://www.barchart.com/story/news/34557600/is-deere-stock-outperforming-t
 Time Published: 2025-09-03T06:52:19Z
 Description: Deere has notably outperformed the broader S&P 500 over the past year, and analysts remain optimistic about the stock’s prospects.
 --------------------------------------------------
-
-Title: Stocks Set to Open Lower as Bond Yields Climb, U.S. Jobs Data Awaited
-URL: https://www.barchart.com/story/news/34533496/stocks-set-to-open-lower-as-bond-yields-climb-u-s-jobs-data-awaited
-Time Published: 2025-09-02T09:54:34Z
-Description: September S&P 500 E-Mini futures (ESU25) are down -0.75%, and September Nasdaq 100 E-Mini futures (NQU25) are down -0.95% this morning as Treasury yields...
---------------------------------------------------

@@ -18,15 +18,3 @@ URL: https://www.barchart.com/story/news/34575936/large-unusual-options-activity
 Time Published: 2025-09-03T17:30:02Z
 Description: Positive news from a judge who is allowing Alphabet to keep Chrome has spurred large, unusual options activity in GOOG and GOOGL put options. This highlights...
 --------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq tumble as rising yields, Trump tariff uncertainty rattle markets
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-tumble-as-rising-yields-trump-tariff-uncertainty-rattle-markets-200528170.html
-Time Published: 2025-09-02T20:05:28Z
-Description: Wall Street entered September trading under pressure as investors weighed tariff uncertainty and questions about Fed independence.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq sink as Treasury yields jump amid tariff, Fed uncertainty
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-treasury-yields-jump-amid-tariff-fed-uncertainty-235520274.html
-Time Published: 2025-09-02T13:36:25Z
-Description: Wall Street is prepping for a tense opening to September trading with tariff legal issues and concerns about the Fed's integrity on deck.
---------------------------------------------------
