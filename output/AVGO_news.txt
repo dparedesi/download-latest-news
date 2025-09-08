@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Broadcom Inc. (AVGO)’s CEO Is One Of The Most Impressive People At Taking Market Share, Says Jim Cramer
+URL: https://finance.yahoo.com/news/broadcom-inc-avgo-ceo-one-184729523.html
+Time Published: 2025-09-07T18:47:29Z
+Description: We recently published 10 Stocks Jim Cramer Discussed As He Warned About Big Risk To Big Tech. Broadcom Inc. (NASDAQ:AVGO) is one of the stocks Jim Cramer...
+--------------------------------------------------
+
 Title: After jobs report, Street hopes for good news from Oracle, Adobe, Kroger
 URL: https://www.thestreet.com/investing/stocks/after-jobs-report-street-hopes-for-good-news-from-oracle-adobe-kroger
 Time Published: 2025-09-07T13:14:46Z
@@ -256,14 +262,14 @@ Time Published: 2025-09-03T23:26:47Z
 Description: Wall Street waited for fresh jobs data to test rate-cut bets, with risks to Federal Reserve independence in focus ahead of a key Senate hearing.
 --------------------------------------------------
 
-Title: Earnings live: Salesforce stock sinks on tepid guidance, Figma slides, American Eagle soars
-URL: https://finance.yahoo.com/news/live/earnings-live-salesforce-stock-sinks-on-tepid-guidance-figma-slides-american-eagle-soars-204659906.html
+Title: Earnings live: Salesforce stock sinks on tepid guidance, Figma slides, Macy's soars, Dollar Tree falls
+URL: https://finance.yahoo.com/news/live/earnings-live-salesforce-stock-sinks-on-tepid-guidance-figma-slides-macys-soars-dollar-tree-falls-204659746.html
 Time Published: 2025-09-03T20:46:59Z
 Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
 --------------------------------------------------
 
-Title: Earnings live: Salesforce stock sinks on tepid guidance, Figma slides, Macy's soars, Dollar Tree falls
-URL: https://finance.yahoo.com/news/live/earnings-live-salesforce-stock-sinks-on-tepid-guidance-figma-slides-macys-soars-dollar-tree-falls-204659746.html
+Title: Earnings live: Salesforce stock sinks on tepid guidance, Figma slides, American Eagle soars
+URL: https://finance.yahoo.com/news/live/earnings-live-salesforce-stock-sinks-on-tepid-guidance-figma-slides-american-eagle-soars-204659906.html
 Time Published: 2025-09-03T20:46:59Z
 Description: The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.
 --------------------------------------------------
