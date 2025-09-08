@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: Analysts Remain Bullish on Nvidia (NVDA) as AI Growth Outlook Holds
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6f5d77e4-9f88-4f3d-8991-25ca6fac0f85
+Time Published: 2025-09-07T14:08:38Z
+Description: None
+--------------------------------------------------
+
+Title: Nvidia Denies H100, H200 AI Chip Shortage Rumors, Confirms Sufficient Inventory to Fulfill Orders
+URL: https://finance.yahoo.com/news/nvidia-denies-h100-h200-ai-135706413.html
+Time Published: 2025-09-07T13:57:06Z
+Description: Nvidia Corporation (NASDAQ:NVDA) is one of the best QQQ stocks to buy right now. On September 2, Nvidia addressed what it called “erroneous chatter...
+--------------------------------------------------
+
+Title: Why AI stock tremors are ripping through portfolios
+URL: https://finance.yahoo.com/news/why-ai-stock-tremors-are-ripping-through-portfolios-123012040.html
+Time Published: 2025-09-07T12:30:12Z
+Description: The AI trade has lost steam. Uh-oh.
+--------------------------------------------------
+
 Title: Job Growth Sputters: Rate Cuts And Recession Incoming?
 URL: https://www.forbes.com/sites/bill_stone/2025/09/07/job-growth-sputters-rate-cuts-and-recession-incoming/
 Time Published: 2025-09-07T11:00:00Z
@@ -293,24 +311,5 @@ Title: RWA News: Ondo Finance Rolls Out Tokenized U.S. Stocks, ETFs as Tokenizat
 URL: https://www.coindesk.com/business/2025/09/03/ondo-finance-rolls-out-tokenized-u-s-stocks-etfs-as-equity-tokenization-ramps-up
 Time Published: 2025-09-03T13:30:26Z
 Full Content:
-Ondo Finance launched Wednesday its tokenized equity platform dubbed Ondo Global Markets, offering non-U.S. investors access to more than 100 U.S. stocks and exchange-traded funds (ETFs) on-chain. The tokenized equities, first announced in February, has gone live on Ethereum and are backed by securities held at U.S.-registered broker-dealers, the firm said. The offering includes crypto token versions of Apple (AAPL), Nvidia (NVDA) and the QQQ ETF among others. Investors in Asia-Pacific, Europe, Africa and Latin America can mint and redeem shares around the clock during trading days, with access to underlying exchange liquidity. The service is not available for U.S. users. The tokens are designed to move freely between wallets, exchanges and decentralized finance (DeFi) protocols. The firm has also partnered with BitGo, Ledger, Chainlink and other infrastructure providers to support the rollout. Ondo said it plans to expand the selection to more than 1,000 assets by the end of this year and bring the service to Solana SOL$198.37 and BNB Chain (BNB) with LayerZero-powered interoperability. "We saw stablecoins export the U.S. dollar by bringing it on-chain," said Nathan Allman, founder and CEO of Ondo Finance. "Now, Ondo Global Markets is doing the same thing for U.S. securities." The rollout comes as tokenization of real-world assets (RWAs) gains momentum across crypto markets, with projects bringing treasuries, private credit and now equities onto blockchains pursuing broader access and liquidity. A list of trading platforms and exchanges have introduced tokenized equities in the past few months, including by Robinhood, Gemini, Kraken and several other crypto exchanges. Coinbase and eToro also shared plans to offer stock trading in token form. However, some offerings drew backlash over potential issues such as limited shareholder rights and fragmented regulations. More For You Bitcoin and Stablecoins Dominate as India, U.S. Top 2025 Crypto Adoption Index USDT and USDC continue to lead global stablecoin flows, but EURC and PYUSD are rising fast as institutional rails expand What to know: About Contact
---------------------------------------------------
-
-Title: 14 stocks of companies that could benefit from Trump’s state capitalism
-URL: https://www.marketwatch.com/story/14-stocks-of-companies-that-could-benefit-from-trumps-state-capitalism-66681cc2
-Time Published: 2025-09-03T12:55:00Z
-Description: Companies that already receive a lot of federal money might wind up having even closer ties to the government.
---------------------------------------------------
-
-Title: Watch for this signal in Nvidia stock to capitalize on spring-loaded gains ahead
-URL: https://www.businessinsider.com/nvidia-stock-price-trading-strategy-buy-signal-short-ratio-nvda-2025-9
-Time Published: 2025-09-03T12:40:55Z
-Full Content:
-It's been a volatile year for shares of Nvidia, with the stock plunging 31% to start the year before rallying 84% since April lows. Sam Pierson, the director of research at S3 Partners, has found a fairly reliable way to capitalize on that volatility. Or rather, a metric to watch within the stock that serves as a signal for outsized gains ahead. It's called the long-to-short ratio, and it's calculated by taking a stock's active long interest and dividing it by short interest. In new research published Tuesday, Pierson found that following notable increases in the ratio, Nvidia's share price has typically surged over the following few months. More specifically, when the ratio climbs to 1.5 standard deviations above its six-month moving average, it's gone up 11% over the following month. That's nearly double the usual average monthly gain of 6%. For the subsequent three-month period, following the signal, Nvidia has returned 28%, versus 19% normally. The stock saw gains 86% of the time in the month following a reading above the 1.5-standard-deviation threshold. When the stock saw rare losses during those periods, it only fell by an average of 1%. These findings led Pierson to call the ratio a "powerful short-to-intermediate-term tool," as it seems to lose its ability to predict returns beyond six months. Here's a chart showing the returns. Periods when the long-to-short ratio is at least at 1.5 are shaded orange. Nvidia's stock returns are shown in the black line. Right now, the measure is below the 1.5 standard-deviation threshold as the ratio of long positions to short positions has fallen in recent weeks to 15.4. The model has continued to be effective so far this year. "In 2025 year-to-date, the LTS extreme signal has remained effective: across 46 threshold days, NVDA delivered an average +7% forward 1M return with a 76% win rate, compared with just +5% on all days, with a 54% win rate," Pierson wrote. He added: "In 2025, periods of Long-to-Short crowding in NVIDIA have coincided with roughly double the baseline 1-month forward return." Nvidia stock has had a rough 10 days after it warned of slowing growth ahead during its quarterly earnings call last week. Since August 26, the stock is down 6.5%. The stock remains a favorite among investors. Brokerage platform Interactive Brokers said Nvidia was the most bought stock over the last five trading days with 234,628 buy orders. "Our customers are certainly a faithful bunch. #1 NVDA brought immense success to many of them, and they are clearly not willing to abandon that name even if some poorly received earnings get in the way," said Steve Sosnick, chief strategist at Interactive Brokers, in an email. He continued: "It was not only the most active stock on our platform, displacing #3 PLTR, last week's surprise leader, but also representing just under 1/3 of all the net purchasing activity among the stocks in this table." Jump to
---------------------------------------------------
-
-Title: Craig-Hallum Raises NVIDIA (NVDA) Price Target to $245, Reiterates Buy
-URL: https://finance.yahoo.com/news/craig-hallum-raises-nvidia-nvda-121637608.html
-Time Published: 2025-09-03T12:16:37Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is a Must-Watch AI Stock on Wall Street. On August 28, Craig-Hallum analyst Richard Shannon raised the price target on the...
+Ondo Finance launched Wednesday its tokenized equity platform dubbed Ondo Global Markets, offering non-U.S. investors access to more than 100 U.S. stocks and exchange-traded funds (ETFs) on-chain. The tokenized equities, first announced in February, has gone live on Ethereum and are backed by securities held at U.S.-registered broker-dealers, the firm said. The offering includes crypto token versions of Apple (AAPL), Nvidia (NVDA) and the QQQ ETF among others. Investors in Asia-Pacific, Europe, Africa and Latin America can mint and redeem shares around the clock during trading days, with access to underlying exchange liquidity. The service is not available for U.S. users. The tokens are designed to move freely between wallets, exchanges and decentralized finance (DeFi) protocols. The firm has also partnered with BitGo, Ledger, Chainlink and other infrastructure providers to support the rollout. Ondo said it plans to expand the selection to more than 1,000 assets by the end of this year and bring the service to Solana SOL$214.34 and BNB Chain (BNB) with LayerZero-powered interoperability. "We saw stablecoins export the U.S. dollar by bringing it on-chain," said Nathan Allman, founder and CEO of Ondo Finance. "Now, Ondo Global Markets is doing the same thing for U.S. securities." The rollout comes as tokenization of real-world assets (RWAs) gains momentum across crypto markets, with projects bringing treasuries, private credit and now equities onto blockchains pursuing broader access and liquidity. A list of trading platforms and exchanges have introduced tokenized equities in the past few months, including by Robinhood, Gemini, Kraken and several other crypto exchanges. Coinbase and eToro also shared plans to offer stock trading in token form. However, some offerings drew backlash over potential issues such as limited shareholder rights and fragmented regulations. More For You Lion Group Plans to Swap SOL, SUI Holdings for HYPE The company began acquiring HYPE tokens in late June, having previously announced its Hyperliquid treasury initiative What to know: About Contact
 --------------------------------------------------
