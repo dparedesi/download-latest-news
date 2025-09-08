@@ -31,16 +31,16 @@ Time Published: 2025-09-05T20:57:26Z
 Description: The S&P 500 Index ($SPX ) (SPY ) on Friday fell -0.32%, the Dow Jones Industrials Index ($DOWI ) (DIA ) fell -0.48%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
 --------------------------------------------------
 
-Title: Stock market today: S&P, Nasdaq, Dow fall as weak jobs data sparks Wall Street worries
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-nasdaq-dow-fall-as-weak-jobs-data-sparks-wall-street-worries-172116750.html
-Time Published: 2025-09-05T17:21:16Z
-Description: Investors digested a surprise August jobs report, with an interest rate cut now seen as certain.
---------------------------------------------------
-
 Title: Stock market today: S&P 500, Nasdaq, Dow slip after jobs report shows dramatic slowdown
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-slip-after-jobs-report-shows-dramatic-slowdown-172116021.html
 Time Published: 2025-09-05T17:21:16Z
 Description: Investors are digesting a surprise August jobs report, with an interest rate cut now seen as certain.
+--------------------------------------------------
+
+Title: Stock market today: S&P, Nasdaq, Dow fall as weak jobs data sparks Wall Street worries
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-nasdaq-dow-fall-as-weak-jobs-data-sparks-wall-street-worries-172116750.html
+Time Published: 2025-09-05T17:21:16Z
+Description: Investors digested a surprise August jobs report, with an interest rate cut now seen as certain.
 --------------------------------------------------
 
 Title: Broadcom stock soars as Wall Street cheers AI chips as ‘leading alternative’ to Nvidia
@@ -226,14 +226,14 @@ Full Content:
 Benzinga Rankings give you vital metrics on any stock – anytime. Broadcom Inc. AVGO will release earnings results for the third quarter after the closing bell on Thursday, Sept. 4. Analysts expect the tech company to report quarterly earnings at $1.65 per share, up from $1.24 per share in the year-ago period. Broadcom projects to report quarterly revenue at $15.83 billion, compared to $13.07 billion a year earlier, according to data from Benzinga Pro. The company has beaten analyst estimates for revenue in two straight quarters and in eight of the last 10 quarters overall. Some investors are eyeing potential gains from Broadcom's annual dividend yield of 0.78%. That’s a quarterly dividend amount of 59 cents per share ($2.36 a year). To earn $500 monthly from Broadcom, start with the yearly target of $6,000 ($500 x 12 months). Next, we take this amount and divide it by Broadcom's $2.36 dividend: $6,000 / $2.36 = 2,542 shares. So, an investor would need to own approximately $768,675 worth of Broadcom, or 2,542 shares to generate a monthly dividend income of $500. Assuming a more conservative goal of $100 monthly ($1,200 annually), we do the same calculation: $1,200 / $2.36 = 508 shares, or $153,614 to generate a monthly dividend income of $100. Note that dividend yield can change on a rolling basis; the dividend payment and the stock price fluctuate over time. The dividend yield is calculated by dividing the annual dividend payment by the current stock price. As the stock price changes, the dividend yield will also change. For example, if a stock pays an annual dividend of $2 and its current price is $50, its dividend yield would be 4%. However, if the stock price increases to $60, the dividend yield would decrease to 3.33% ($2/$60). Conversely, if the stock price decreases to $40, the dividend yield would increase to 5% ($2/$40). Further, the dividend payment itself can also change over time, which can also impact the dividend yield. If a company increases its dividend payment, the dividend yield will increase even if the stock price remains the same. Similarly, if a company decreases its dividend payment, the dividend yield will decrease. AVGO Price Action: Shares of Broadcom rose by 1.4% to close at $302.39 on Wednesday. Read More: Image: Shutterstock Benzinga Rankings give you vital metrics on any stock – anytime. © 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. A newsletter built for market enthusiasts by market enthusiasts. Top stories, top movers, and trade ideas delivered to your inbox every weekday before and after the market closes.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq wobble as more weak jobs data greets rising rate-cut bets
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-more-weak-jobs-data-greets-rising-rate-cut-bets-134011433.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise amid weak ADP jobs data, Miran's Fed Senate hearing
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-amid-weak-adp-jobs-data-mirans-fed-senate-hearing-134011223.html
 Time Published: 2025-09-04T13:40:11Z
 Description: Wall Street waited for fresh jobs data to test rate-cut bets, with risks to Federal Reserve independence in focus ahead of a key Senate hearing.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise amid weak ADP jobs data, Miran's Fed Senate hearing
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-amid-weak-adp-jobs-data-mirans-fed-senate-hearing-134011223.html
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble as more weak jobs data greets rising rate-cut bets
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-more-weak-jobs-data-greets-rising-rate-cut-bets-134011433.html
 Time Published: 2025-09-04T13:40:11Z
 Description: Wall Street waited for fresh jobs data to test rate-cut bets, with risks to Federal Reserve independence in focus ahead of a key Senate hearing.
 --------------------------------------------------
