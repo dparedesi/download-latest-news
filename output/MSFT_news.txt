@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stock market today: S&P 500 rises, Nasdaq on track for record as Wall Street looks ahead to inflation reality check
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-rises-nasdaq-on-track-for-record-as-wall-street-looks-ahead-to-inflation-reality-check-170830778.html
+Time Published: 2025-09-08T17:08:30Z
+Description: Investors look forward to a light week of reports and earnings, with inflation data taking center stage.
+--------------------------------------------------
+
 Title: Stock market today: S&P 500, Nasdaq, Dow rise as Wall Street looks ahead to inflation reality check
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-rise-as-wall-street-looks-ahead-to-inflation-reality-check-000205760.html
 Time Published: 2025-09-08T00:02:05Z
