@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stock market today: S&P 500, Nasdaq, Dow rise as Wall Street looks ahead to inflation reality check
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-rise-as-wall-street-looks-ahead-to-inflation-reality-check-000205760.html
+Time Published: 2025-09-08T00:02:05Z
+Description: Investors look forward to a light week of reports and earnings, with inflation data taking center stage.
+--------------------------------------------------
+
 Title: Job Growth Sputters: Rate Cuts And Recession Incoming?
 URL: https://www.forbes.com/sites/bill_stone/2025/09/07/job-growth-sputters-rate-cuts-and-recession-incoming/
 Time Published: 2025-09-07T11:00:00Z
@@ -10,7 +16,8 @@ ByBill Stone, Contributor. Worse-than-expected job growth on Friday sent the S&P
 Title: Volatility Is Back, And This 7.8% CEF Is Here To Get Us Through It
 URL: https://www.forbes.com/sites/michaelfoster/2025/09/06/volatility-is-back-and-this-78-cef-is-here-to-get-us-through-it/
 Time Published: 2025-09-06T12:26:00Z
-Description: Volatility has returned, and it feels like we could be on the verge of another selloff. So what do we do right now?
+Full Content:
+ByMichael Foster, Contributor. A market on a precipice. That’s the vibe around stocks right now, and I’m guessing you’ve felt it, too. On the one hand, the S&P 500 is up 14% in the past year, a very solid performance (and for the record, I see more gains ahead). Yet volatility has returned, and it feels like we could be on the verge of another selloff. So what do we do right now? We’re going to look at a closed-end fund (CEF) that profits from short-term volatility. In fact, this one harnesses the energy that choppy markets throw off and “converts” it to a hefty dividend stream. The result? This CEF takes the low-yielding (mainly) tech stocks in the NASDAQ 100 (average yield: 0.5%) and bumps that up to a solid 7.8% dividend. But I’m getting a bit ahead of myself. Before we go further, let me touch on why I feel that, over the long term, more gains are ahead for US stocks. For one, the value of long-term bonds has dropped, showing that investors still have a healthy appetite for risk, selling, as they are, some of the safest investments out there. Stocks (particularly tech stocks) are the obvious destination for these investors. At the same time, the stock market is backed up by the US economy’s continued strong growth. What’s important is what’s going on after the effects of inflation. In real terms, US GDP growth in 2025 has been around 2% on a year-over-year basis. It’s a solid clip that’s topped expectations, with many economists predicting less than 1% growth. Then there’s the most current economic estimate we have, the Atlanta Fed’s GDPNow indicator, which shows growth accelerating, spiking to over 3% in the third quarter. What’s behind this expansion? AI, for one: Investments in the tech will hit $400 billion this year, up 60% from 2024—and they’re still growing fast. It’s clear that AI, whatever we may think about it, is a boon to the economy, and the momentum is not letting up. Of course, in the short term, investors will fret, which is why any downturns are buying opportunities. But what can we do now, with stocks having tempered their recent gains and before we see the next significant drop? This is where that CEF I mentioned earlier comes in: It sells call options, or the right for buyers to purchase its holdings at a fixed price and a fixed date in the future. It then uses that cash to fuel its 7.8% payout. It’s a nice dividend play while we wait for the next selloff to put stocks—and the “pure” equity-focused CEFs I prefer for the long run—back on sale. Tech stocks are perfect for covered-call selling because they’re sensitive to the kinds of panic selloffs we’re likely to see as AI optimism ebbs and flows, with an ebbing of sentiment seemingly around the corner. (For the record, though, in the long run, I see Big Tech’s AI investments as likely to be worth it—the productivity gains the technology offers are just too great.) The go-to covered-call fund here is the Nuveen NASDAQ 100 Dynamic Overwrite Fund (QQQX). Since it owns the NASDAQ 100, its portfolio is a who’s-who of companies driving the AI boom. NVIDIA (NVDA) is its biggest holding, at nearly 10% of the portfolio, followed by Microsoft (MSFT). The NASDAQ is up 90% over the last three years, while the S&P 500 is up just 63%, showing how much money there is to be made in investing in tech over the long term. But as you’ve no doubt noticed, the NASDAQ’s volatility is always higher, and can spike in times of panic, like what we saw during the April “tariff tantrum.” In short: Buying the NASDAQ is great, but you need nerves of steel while you hold it. That’s where QQQX comes in, “translating” that volatility into a regular quarterly dividend that gives investors that 7.8% income stream. That by itself is why QQQX is a strong candidate when market jitters push up volatility. But there’s another: QQQX is especially cheap now. Over the last decade, QQQX has had an average discount to net asset value (NAV, or the value of its underlying portfolio) of 1.7%. It’s now 7.7%, and it was even lower in the last few months, averaging about 10% throughout 2024 and the first few months of this year. Why is it a bit narrower now? Because investors are realizing that QQQX’s investments continue to appreciate, as does its ability to boost dividends. Those strengths should help its discount to move toward par, where it traded in the 2010s. Michael Foster is the Lead Research Analyst for Contrarian Outlook. For more great income ideas, click here for our latest report “Indestructible Income: 5 Bargain Funds with Steady 10% Dividends.” Disclosure: none
 --------------------------------------------------
 
 Title: US stock market crashes — Dow, S&P 500, Nasdaq all lost after shocking August jobs report; possible Fed rate cut ahead
@@ -42,16 +49,4 @@ Title: Is Alibaba Stock a Buy, Sell, or Hold for September 2025?
 URL: https://www.barchart.com/story/news/34596971/is-alibaba-stock-a-buy-sell-or-hold-for-september-2025
 Time Published: 2025-09-04T13:00:02Z
 Description: Alibaba’s Q1 was not flawless, but a cloud-driven rally sent the stock higher last week. Should investors load up on shares?
---------------------------------------------------
-
-Title: America's Car-Mart (CRMT) Q2 Earnings Report Preview: What To Look For
-URL: https://finance.yahoo.com/news/americas-car-mart-crmt-q2-030402892.html
-Time Published: 2025-09-03T03:04:02Z
-Description: Used-car retailer America’s Car-Mart (NASDAQ:CRMT) will be reporting results this Thursday before the bell. Here’s what investors should know.
---------------------------------------------------
-
-Title: UiPath (PATH) To Report Earnings Tomorrow: Here Is What To Expect
-URL: https://finance.yahoo.com/news/uipath-path-report-earnings-tomorrow-030350363.html
-Time Published: 2025-09-03T03:03:50Z
-Description: Automation software company UiPath (NYSE:PATH) will be announcing earnings results this Thursday after market close. Here’s what to look for.
 --------------------------------------------------

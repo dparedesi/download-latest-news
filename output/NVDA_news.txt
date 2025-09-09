@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: Inflation is the week's watchword
+URL: https://www.thestreet.com/economy/inflation-is-the-weeks-watchword
+Time Published: 2025-09-08T04:51:12Z
+Description: Talk about prices and the economy will dominate headlines. So, too, will who will be the next Federal Reserve boss.
+--------------------------------------------------
+
+Title: UBS Calls NVIDIA (NVDA) a Buy as AI Growth Story Holds Steady
+URL: https://finance.yahoo.com/news/ubs-calls-nvidia-nvda-buy-035937618.html
+Time Published: 2025-09-08T03:59:37Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Investors Are Watching Closely. On August 28, UBS analyst Timothy Arcuri reiterated a Buy rating and...
+--------------------------------------------------
+
+Title: Stock market today: S&P 500, Nasdaq, Dow rise as Wall Street looks ahead to inflation reality check
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-rise-as-wall-street-looks-ahead-to-inflation-reality-check-000205760.html
+Time Published: 2025-09-08T00:02:05Z
+Description: Investors look forward to a light week of reports and earnings, with inflation data taking center stage.
+--------------------------------------------------
+
 Title: Analysts Remain Bullish on Nvidia (NVDA) as AI Growth Outlook Holds
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6f5d77e4-9f88-4f3d-8991-25ca6fac0f85
 Time Published: 2025-09-07T14:08:38Z
@@ -231,85 +249,4 @@ Title: Investors still don't care about Salesforce's fast AI growth
 URL: https://www.thestreet.com/investing/investors-still-dont-care-about-salesforces-fast-ai-growth
 Time Published: 2025-09-04T00:27:29Z
 Description: Salesforce went all in on agentic AI; its stock is falling anyways
---------------------------------------------------
-
-Title: How to double your money in the ASX share market
-URL: https://www.fool.com.au/2025/09/04/how-to-double-your-money-in-the-asx-share-market/
-Time Published: 2025-09-03T21:37:05Z
-Description: Here's how you could potentially double your money in the share market.
-The post How to double your money in the ASX share market appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: NVDA: Nvidia Keeps AI Growth Story Alive as Broadcom Looms
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_294a0cc3-2bec-41e8-b278-ddf04d9a82e8
-Time Published: 2025-09-03T20:28:54Z
-Description: None
---------------------------------------------------
-
-Title: Which ETF Should You Buy? How to Screen ETFs by Sector, Theme, Leverage, and More
-URL: https://www.barchart.com/story/news/34579261/which-etf-should-you-buy-how-to-screen-etfs-by-sector-theme-leverage-and-more
-Time Published: 2025-09-03T20:19:58Z
-Description: Discover the top ETF trading tools at Barchart to drill down on your best investing fit.
---------------------------------------------------
-
-Title: Global markets are entering a new ‘postmodern’ era. This is how investors can win big, says Goldman Sachs
-URL: https://www.marketwatch.com/story/global-markets-are-entering-a-new-postmodern-era-this-is-how-investors-can-win-big-says-goldman-sachs-ce5f369e
-Time Published: 2025-09-03T19:36:00Z
-Description: Broadly diversified portfolios could struggle to generate the same returns going forward, and skillful stock pickers should come out on top.
---------------------------------------------------
-
-Title: Nvidia Just Scored a Major Market Share Win. Should You Buy NVDA Stock Here?
-URL: https://www.barchart.com/story/news/34577561/nvidia-just-scored-a-major-market-share-win-should-you-buy-nvda-stock-here
-Time Published: 2025-09-03T19:02:50Z
-Description: Nvidia shares are in focus after a Jon Peddie Research report confirms the AI darling is retaining its dominant market share in GPU sales. BofA says NVDA...
---------------------------------------------------
-
-Title: Nvidia Fights Back Against ‘Supply Constraint’ Rumors. Should You Buy the Dip in NVDA Stock Now?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ba555a5d-dbab-4a59-b3ce-9e85dd526f2d
-Time Published: 2025-09-03T17:56:27Z
-Description: None
---------------------------------------------------
-
-Title: Jim Cramer Says You’re Going To “Lose Some Money” With NVIDIA Corporation (NVDA)
-URL: https://finance.yahoo.com/news/jim-cramer-says-going-lose-170629468.html
-Time Published: 2025-09-03T17:06:29Z
-Description: We recently published 10 Latest Stocks Jim Cramer Discussed Amidst Market Uncertainty. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer...
---------------------------------------------------
-
-Title: I Asked ChatGPT’s Most Advanced Model to Find the Stocks Most Likely to 100x Over the Next 10 Years — Here’s What It Said
-URL: https://www.barchart.com/story/news/34574914/i-asked-chatgpts-most-advanced-model-to-find-the-stocks-most-likely-to-100x-over-the-next-10-years-heres-what-it-said
-Time Published: 2025-09-03T16:53:26Z
-Description: Here are the stocks that ChatGPT's most advanced model says are most likely to 100x over the next 10 years.
---------------------------------------------------
-
-Title: Ondo partners with Block Street to unlock global liquidity for tokenized assets and ETFs
-URL: https://www.thestreet.com/crypto/markets/ondo-finance-block-street-unlock-global-liquidity-for-tokenized-assets-and-etfs
-Time Published: 2025-09-03T16:30:00Z
-Description: Ondo Finance and Block Street team up to bring global liquidity to tokenized offerings.
---------------------------------------------------
-
-Title: Jim Cramer Reveals Key Factor For AI Stock NVIDIA Corporation (NVDA) That No One’s Talking About
-URL: https://finance.yahoo.com/news/jim-cramer-reveals-key-factor-161422015.html
-Time Published: 2025-09-03T16:14:22Z
-Description: We recently published 9 Stocks On Jim Cramer’s Radar . NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer recently discussed. Cramer’s remarks ...
---------------------------------------------------
-
-Title: The Protocol: Solana Community Approves Alpenglow Upgrade
-URL: https://www.coindesk.com/tech/2025/09/03/the-protocol-solana-community-approves-alpenglow-upgrade
-Time Published: 2025-09-03T16:04:00Z
-Full Content:
-This article is featured in the latest issue of The Protocol, our weekly newsletter exploring the tech behind crypto, one block at a time. Sign up here to get it in your inbox every Wednesday. Welcome to The Protocol, CoinDesk's weekly wrap of the most important stories in cryptocurrency tech development. I’m Margaux Nijkerk, a reporter at CoinDesk. In this issue: ALPENGLOW APPROVED BY SOLANA COMMUNITY: The Solana community voted overwhelmingly in favor of the long-awaited Alpenglow upgrade, bringing the network one step closer to the most significant technical transformation in its history. According to Solana Status on X, 98.27% of SOL stakers that voted approved the proposal, with only 1.05% voting against and 0.36% abstaining. In total, 52% of the network’s stakers participated in the vote. The upgrade introduces a new consensus protocol designed to dramatically improve transaction finality and network efficiency. At the heart of Alpenglow are two new components, Votor and Rotor, which will replace Solana’s existing systems, Proof-of-History and TowerBFT. Currently, Proof-of-History timestamps transactions to preserve their order without slowing the network, while TowerBFT handles the voting process among validators. Alpenglow will overhaul both systems. Votor will slash transaction finality times from over 12 seconds to around 150 milliseconds, delivering near-instant confirmation for users. Rotor, scheduled for a later rollout, will minimize data transfers between validators, a crucial improvement for high-demand applications such as decentralized finance (DeFi) and blockchain-based gaming.With approval secured, Solana is now preparing to implement the upgrade, a milestone expected to unlock greater speed, resilience, and scalability across its ecosystem. — Margaux Nijkerk Read more. EF TO SELL 10K ETH OVER NEXT FEW WEEKS: The Ethereum Foundation (EF) shared in a post on X on Tuesday that it plans to sell 10,000 ETH through centralized exchanges over the next several weeks to support work toward research & development, ecosystem grants and related donations. According to CoinMarketCap, the ETH will amount to roughly $43 million at Tuesday’s prices. “Conversions will take place over multiple smaller orders, rather than as a single large transaction,” the EF wrote in the post on X.The news follows the EF’s rollout of a new treasury policy in June that caps annual operational spending (opex) at 15%, establishes a multiyear reserve buffer and sets a gradual pace toward even leaner spending long-term. The foundation sold an additional 10,000 ETH to SharpLink Gaming in July, making the online casino marketing firm the first publicly traded company to buy ETH from a key firm in the network’s ecosystem. — Margaux Nijkerk Read more. A CHAT WITH BRUCE LIU ON OP_CAT: Without OP_CAT, Bruce Liu says Bitcoin is as "useful as a jumbo jet without wings" capable of much more than it’s allowed to do, but stuck on the ground while Ethereum and Solana soar. Liu, the founder of OPCAT_Labs, says a single opcode, OP_CAT, could transform bitcoin from static digital gold into programmable money that rivals other layer-1 chains. OP_CAT is a long-disabled opcode in Bitcoin’s code that, if re-enabled, would allow developers to concatenate data in scripts and unlock new possibilities, from vaults and covenants to decentralized exchanges and zero-knowledge proofs. The Bitcoin blockchain, if OP_CAT was re-enabled, would be as programmable as Ethereum or Solana, said Liu. "OP_CAT is not new code. It was never deleted, just commented out and disabled. We are not adding my opcode or somebody else’s. It’s Satoshi’s,” Liu told CoinDesk during an interview on the sidelines of BTC Asia in Hong Kong. — Sam Reynolds Read more. HOLESKY SUNSET IS COMING AFTER FUSAKA UPGRADE: A fresh slate of Ethereum testnets is replacing Holesky, the once-massive staging ground now set for shutdown after two years of service.The wind-down will occur two weeks after the Fusaka upgrade is finalized later this year, at which point client and infrastructure teams will cease providing support. Fusaka is set to make Ethereum rollups cheaper and faster by spreading out the “data storage work” more evenly across validators. Holesky went live in 2023 to stress-test Ethereum’s proof-of-stake machinery at scale. It quickly became the largest public testnet, providing thousands of validators with a platform to trial upgrades before they were deployed on the mainnet. Major milestones, such as the Dencun and Pectra upgrades — which lowered transaction costs and upgraded validator efficiency, among other features — were run through Holesky first. However, cracks began to appear as the network aged. Holesky encountered “inactivity leaks” after Pectra’s activation in early 2025, a term referring to validators going offline in large numbers, which created a significant backlog for those attempting to exit. The result was months-long queues that made it impractical to test the full validator lifecycle. For developers needing fast feedback loops, Holesky had become more of a roadblock than a tool. — Shaurya Malwa Read more. Regulatory and Policy More For You Backpack Opens Regulated Perpetuals Exchange in Europe After FTX EU Acquisition Operating out of Cyprus and licensed under the European Union’s MiFID II framework, the exchange is positioning itself as one of the first fully regulated venues in Europe to offer crypto derivatives, starting with perpetual futures. What to know: About Contact
---------------------------------------------------
-
-Title: Nvidia and Google are still hot trades, but opportunities are rising in small caps
-URL: https://finance.yahoo.com/news/nvidia-and-google-are-still-hot-trades-but-opportunities-are-rising-in-small-caps-154538395.html
-Time Published: 2025-09-03T15:45:38Z
-Description: Chief investment strategist at Innovator Capital Management Tim Urbanowicz says seasonal weakness in Big Tech may open the door for small caps.
---------------------------------------------------
-
-Title: RWA News: Ondo Finance Rolls Out Tokenized U.S. Stocks, ETFs as Tokenization Trend Ramps Up
-URL: https://www.coindesk.com/business/2025/09/03/ondo-finance-rolls-out-tokenized-u-s-stocks-etfs-as-equity-tokenization-ramps-up
-Time Published: 2025-09-03T13:30:26Z
-Full Content:
-Ondo Finance launched Wednesday its tokenized equity platform dubbed Ondo Global Markets, offering non-U.S. investors access to more than 100 U.S. stocks and exchange-traded funds (ETFs) on-chain. The tokenized equities, first announced in February, has gone live on Ethereum and are backed by securities held at U.S.-registered broker-dealers, the firm said. The offering includes crypto token versions of Apple (AAPL), Nvidia (NVDA) and the QQQ ETF among others. Investors in Asia-Pacific, Europe, Africa and Latin America can mint and redeem shares around the clock during trading days, with access to underlying exchange liquidity. The service is not available for U.S. users. The tokens are designed to move freely between wallets, exchanges and decentralized finance (DeFi) protocols. The firm has also partnered with BitGo, Ledger, Chainlink and other infrastructure providers to support the rollout. Ondo said it plans to expand the selection to more than 1,000 assets by the end of this year and bring the service to Solana SOL$217.00 and BNB Chain (BNB) with LayerZero-powered interoperability. "We saw stablecoins export the U.S. dollar by bringing it on-chain," said Nathan Allman, founder and CEO of Ondo Finance. "Now, Ondo Global Markets is doing the same thing for U.S. securities." The rollout comes as tokenization of real-world assets (RWAs) gains momentum across crypto markets, with projects bringing treasuries, private credit and now equities onto blockchains pursuing broader access and liquidity. A list of trading platforms and exchanges have introduced tokenized equities in the past few months, including by Robinhood, Gemini, Kraken and several other crypto exchanges. Coinbase and eToro also shared plans to offer stock trading in token form. However, some offerings drew backlash over potential issues such as limited shareholder rights and fragmented regulations. More For You MegaETH Unveils Native Stablecoin with Ethena, Aiming to Keep Blockchain Fees Low The yield earned on the reserve assets would cover the blockchain's sequencer fees, helping keeping the transaction costs low, MegaEth said. What to know: About Contact
 --------------------------------------------------

@@ -12,9 +12,3 @@ URL: https://finance.yahoo.com/news/pershing-square-holdings-alphabet-goog-13471
 Time Published: 2025-09-04T13:47:19Z
 Description: Pershing Square Holdings, an investment holding company, released its first half 2025 investor letter. A copy of the same can be downloaded here. In the...
 --------------------------------------------------
-
-Title: Large Unusual Options Activity in Alphabet Options Shows the Stock Is Undervalued
-URL: https://www.barchart.com/story/news/34575936/large-unusual-options-activity-in-alphabet-options-shows-the-stock-is-undervalued
-Time Published: 2025-09-03T17:30:02Z
-Description: Positive news from a judge who is allowing Alphabet to keep Chrome has spurred large, unusual options activity in GOOG and GOOGL put options. This highlights...
---------------------------------------------------
