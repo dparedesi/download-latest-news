@@ -1,9 +1,21 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Why Rocket Lab (RKLB) Stock Is Trading Up Today
+URL: https://finance.yahoo.com/news/why-rocket-lab-rklb-stock-182639864.html
+Time Published: 2025-09-08T18:26:39Z
+Description: Shares of aerospace and defense company Rocket Lab (NASDAQ:RKLB) jumped 4.1% in the afternoon session after it got positive commentary from Wall Street...
+--------------------------------------------------
+
 Title: Stock market today: S&P 500 rises, Nasdaq on track for record as Wall Street looks ahead to inflation reality check
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-rises-nasdaq-on-track-for-record-as-wall-street-looks-ahead-to-inflation-reality-check-170830778.html
 Time Published: 2025-09-08T17:08:30Z
 Description: Investors look forward to a light week of reports and earnings, with inflation data taking center stage.
+--------------------------------------------------
+
+Title: Stocks Set to Open Higher as Fed Rate-Cut Expectations Rise, U.S. Inflation Data Awaited
+URL: https://www.barchart.com/story/news/34660103/stocks-set-to-open-higher-as-fed-rate-cut-expectations-rise-u-s-inflation-data-awaited
+Time Published: 2025-09-08T10:09:02Z
+Description: September S&P 500 E-Mini futures (ESU25) are up +0.26%, and September Nasdaq 100 E-Mini futures (NQU25) are up +0.34% this morning, pointing to a higher open...
 --------------------------------------------------
 
 Title: Stock market today: S&P 500, Nasdaq, Dow rise as Wall Street looks ahead to inflation reality check
