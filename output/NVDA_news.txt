@@ -6,6 +6,12 @@ Time Published: 2025-09-08T21:11:47Z
 Description: The deal underscores the surging demand for high-performance AI compute, as companies invest heavily to bolster their AI infrastructure.  Microsoft may also ...
 --------------------------------------------------
 
+Title: Robinhood Is Finally Joining the S&P 500. Should You Buy HOOD Stock Here?
+URL: https://www.barchart.com/story/news/34673419/robinhood-is-finally-joining-the-s-p-500-should-you-buy-hood-stock-here
+Time Published: 2025-09-08T19:30:25Z
+Description: Robinhood stock rallies on news it will replace Caesars Entertainment in the S&P 500 later this month. But much of the index inclusion optimism may already...
+--------------------------------------------------
+
 Title: Nvidia’s Rally Is Facing a Reality Check: Should You Buy NVDA Stock Despite Citi’s Target Price Cut?
 URL: https://www.barchart.com/story/news/34671143/nvidias-rally-is-facing-a-reality-check-should-you-buy-nvda-stock-despite-citis-target-price-cut
 Time Published: 2025-09-08T17:26:05Z
@@ -155,16 +161,16 @@ Full Content:
 Trillions are the new billions. Electric-vehicle company Tesla (TSLA) on Friday unveiled a proposed compensation package for Elon Musk that could grow to roughly $1 trillion if the CEO hits performance targets and collects all of the shares awarded. Between the new plan and shares he owns now, the estimated value of Musk's implied total stake in Tesla would exceed $2 trillion, cementing his status as the world's wealthiest human. Musk has to hit what the company called "Mars-shot milestones"—longer than a moonshot, to be sure—to be compensated in full, according to a company filing. In addition to market-cap milestones attached to the plan's share-award tranches, the company would have to meet operational milestones that start with product delivery targets and end with adjusted Ebitda hurdles. The first pair of milestones requires Tesla's market capitalization to reach and sustain $2 trillion and the company to deliver a cumulative total of 20 million vehicles. Market-cap targets jump by $500 billion with every tranche, with the last target being $8.5 trillion—more than double the current market cap of Nvidia (NVDA), the most valuable company in the world. Operational milestones include 1 million robotaxis in commercial operation as well as logging $400 billion in adjusted Ebitda over four consecutive quarters. The last two of the 12 tranche awards would only be granted after Musk sets a succession plan approved by Tesla. And he would have to stay at the company for at least 7 1/2 years. The plan, on which shareholders are scheduled to vote Nov. 6, could stir up drama if shareholder reactions are anything like receptions to past pay packages. In 2018, a group of Tesla investors balked when shareholders approved a 10-year performance-based pay plan that would award Musk a then-estimated $56 billion. A Delaware judge struck down the deal twice, and Tesla's board recently approved an interim stock award of 96 million shares of restricted stock. If Musk is awarded the original 2018 package, the interim award would be forfeited. In order for Musk to own his earned awards outlined in the 2025 pay package, he has to pay the equivalent of Tesla's closing price on Sept. 3, or roughly $334 per share in cash or stock, after he hits the 7 1/2-year mark, at the earliest, or after 10 years. During negotiations that stretched across 10 meetings, Musk threatened to "pursue his other interests" and leave Tesla if he wasn't assured he'd be compensated for his past services as outlined under the 2018 pay package and at least a 25% voting interest, according to the proxy filing, up from about 20% now. "The Committee believes the cost to Tesla and its shareholders is well worth it in light of the tremendous value that would be created, and strides in product development that would be realized, if the 2025 CEO Performance Award is fully achieved," Tesla's filing said. For now, investors appear pleased. Tesla shares rose almost 3% as of Friday afternoon to a recent $348.
 --------------------------------------------------
 
-Title: Stock market today: S&P, Nasdaq, Dow fall as weak jobs data sparks Wall Street worries
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-nasdaq-dow-fall-as-weak-jobs-data-sparks-wall-street-worries-172116750.html
-Time Published: 2025-09-05T17:21:16Z
-Description: Investors digested a surprise August jobs report, with an interest rate cut now seen as certain.
---------------------------------------------------
-
 Title: Stock market today: S&P 500, Nasdaq, Dow slip after jobs report shows dramatic slowdown
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-slip-after-jobs-report-shows-dramatic-slowdown-172116021.html
 Time Published: 2025-09-05T17:21:16Z
 Description: Investors are digesting a surprise August jobs report, with an interest rate cut now seen as certain.
+--------------------------------------------------
+
+Title: Stock market today: S&P, Nasdaq, Dow fall as weak jobs data sparks Wall Street worries
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-nasdaq-dow-fall-as-weak-jobs-data-sparks-wall-street-worries-172116750.html
+Time Published: 2025-09-05T17:21:16Z
+Description: Investors digested a surprise August jobs report, with an interest rate cut now seen as certain.
 --------------------------------------------------
 
 Title: Broadcom stock soars as Wall Street cheers AI chips as ‘leading alternative’ to Nvidia
