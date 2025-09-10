@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq drift as Wall Street braces for revision to jobs data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-drift-as-wall-street-braces-for-revision-to-jobs-data-232914335.html
+Time Published: 2025-09-08T23:29:14Z
+Description: Wall Street are looking ahead to Apple's annual iPhone event ahead of the release of critical inflation data later in the week.
+--------------------------------------------------
+
 Title: Why Rocket Lab (RKLB) Stock Is Trading Up Today
 URL: https://finance.yahoo.com/news/why-rocket-lab-rklb-stock-182639864.html
 Time Published: 2025-09-08T18:26:39Z
@@ -10,6 +16,18 @@ Title: Stock market today: S&P 500 rises, Nasdaq on track for record as Wall Str
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-rises-nasdaq-on-track-for-record-as-wall-street-looks-ahead-to-inflation-reality-check-170830778.html
 Time Published: 2025-09-08T17:08:30Z
 Description: Investors look forward to a light week of reports and earnings, with inflation data taking center stage.
+--------------------------------------------------
+
+Title: Stocks Mostly Higher on Fed Easing Prospects
+URL: https://www.barchart.com/story/news/34666920/stocks-mostly-higher-on-fed-easing-prospects
+Time Published: 2025-09-08T14:08:09Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.17%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
+Title: These are the stock-market trades to make going into the end of the year, according to Goldman Sachs
+URL: https://www.marketwatch.com/story/these-are-the-stock-market-trades-to-make-going-into-the-end-of-the-year-according-to-goldman-sachs-694bfedf
+Time Published: 2025-09-08T13:31:00Z
+Description: An unwind of the AI trade represents the clearest potential catalyst for a reversal, says Wall St bank
 --------------------------------------------------
 
 Title: Stocks Set to Open Higher as Fed Rate-Cut Expectations Rise, U.S. Inflation Data Awaited
@@ -55,16 +73,4 @@ Title: A $23 Billion Reason to Buy This Underdog AI Stock
 URL: https://www.barchart.com/story/news/34622659/a-23-billion-reason-to-buy-this-underdog-ai-stock
 Time Published: 2025-09-05T11:30:02Z
 Description: SAP is betting €20B on a sovereign AI cloud to secure Europe’s digital future and carve out a role against U.S. tech giants.
---------------------------------------------------
-
-Title: Alphabet Is Cheaper Than Its Rivals. That Makes GOOGL Stock a Buy Now.
-URL: https://www.barchart.com/story/news/34602491/alphabet-is-cheaper-than-its-rivals-that-makes-googl-stock-a-buy-now
-Time Published: 2025-09-04T15:43:35Z
-Description: At current levels, Alphabet trades at 21.2 times its forward earnings and 7.3 times sales, which is much lower than its peers.
---------------------------------------------------
-
-Title: Is Alibaba Stock a Buy, Sell, or Hold for September 2025?
-URL: https://www.barchart.com/story/news/34596971/is-alibaba-stock-a-buy-sell-or-hold-for-september-2025
-Time Published: 2025-09-04T13:00:02Z
-Description: Alibaba’s Q1 was not flawless, but a cloud-driven rally sent the stock higher last week. Should investors load up on shares?
 --------------------------------------------------

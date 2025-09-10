@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: These are the stock-market trades to make going into the end of the year, according to Goldman Sachs
+URL: https://www.marketwatch.com/story/these-are-the-stock-market-trades-to-make-going-into-the-end-of-the-year-according-to-goldman-sachs-694bfedf
+Time Published: 2025-09-08T13:31:00Z
+Description: An unwind of the AI trade represents the clearest potential catalyst for a reversal, says Wall St bank
+--------------------------------------------------
+
 Title: Wall Street Loves This Underdog Chip Stock
 URL: https://www.barchart.com/story/news/34633845/wall-street-loves-this-underdog-chip-stock
 Time Published: 2025-09-05T19:36:32Z
@@ -16,10 +22,4 @@ Title: Truist Upgrades AMD (AMD) to Buy, Sees Major AI Growth Potential
 URL: https://finance.yahoo.com/news/truist-upgrades-amd-amd-buy-150535644.html
 Time Published: 2025-09-05T15:05:35Z
 Description: Advanced Micro Devices Inc. (NASDAQ:AMD) is one of the top 10 mega-cap stocks to buy according to hedge funds. On August 26, Truist analyst William Stein...
---------------------------------------------------
-
-Title: Stocks Gain and Bond Yields Fall as US Labor Market Cools
-URL: https://www.barchart.com/story/news/34600092/stocks-gain-and-bond-yields-fall-as-us-labor-market-cools
-Time Published: 2025-09-04T14:07:47Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.17%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.08%, and the Nasdaq 100 Index ($IUXX...
 --------------------------------------------------
