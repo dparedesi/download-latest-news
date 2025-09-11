@@ -1,15 +1,33 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow falters while S&P 500, Nasdaq eye fresh records as Oracle lifts AI hopes
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falters-while-sp-500-nasdaq-eye-fresh-records-as-oracle-lifts-ai-hopes-233143978.html
+Time Published: 2025-09-09T23:31:43Z
+Description: Wall Street awaits key reports that could shape the Fed's next interest-rate decision.
+--------------------------------------------------
+
 Title: Quantum Pact: NVIDIA, Honeywell Raise Stakes for IonQ, Rigetti, D-Wave
 URL: https://finance.yahoo.com/news/quantum-pact-nvidia-honeywell-raise-190000357.html
 Time Published: 2025-09-09T19:00:00Z
 Description: Honeywell's Quantinuum secures $600M with NVIDIA among backers, bringing IonQ, Rigetti and D-Wave into sharper investor focus.
 --------------------------------------------------
 
+Title: Wall Street Loves Taiwan Semi. Should You Buy TSM Stock Now?
+URL: https://www.barchart.com/story/news/34699828/wall-street-loves-taiwan-semi-should-you-buy-tsm-stock-now
+Time Published: 2025-09-09T17:36:35Z
+Description: TSMC continues to be the backbone of artificial intelligence and advanced computing.
+--------------------------------------------------
+
 Title: SailPoint CEO: AI agents promise big gains — and big risks
 URL: https://finance.yahoo.com/news/sailpoint-ceo-ai-agents-promise-big-gains--and-big-risks-162015066.html
 Time Published: 2025-09-09T16:20:15Z
 Description: SailPoint CEO Mark McClain says AI agents bring both opportunity and risk for enterprises.
+--------------------------------------------------
+
+Title: This Red Light for NVDA Hasn’t Flashed Since It Was a $100 Stock, But This 3:1 Option Strategy Could Be an Escape Hatch
+URL: https://www.barchart.com/story/news/34697384/this-red-light-for-nvda-hasnt-flashed-since-it-was-a-100-stock-but-this-3-1-option-strategy-could-be-an-escape-hatch
+Time Published: 2025-09-09T15:57:02Z
+Description: Here’s what I see on Nvidia’s daily and weekly charts, and what could come next.
 --------------------------------------------------
 
 Title: Analyst surprisingly cuts Nvidia stock target amid a growing threat
@@ -42,6 +60,12 @@ URL: https://www.investopedia.com/watch-these-nebius-price-levels-as-stock-surge
 Time Published: 2025-09-09T14:33:31Z
 Full Content:
 Nebius Group shares jumped Tuesday after the Amsterdam-based AI infrastructure provider said it has inked an agreement with Microsoft worth up to $19.4 billion over five years. Under the deal, Nebius (NBIS) will deliver computing resources to Microsoft (MSFT) later this year using a data center in New Jersey, helping the Azure owner address a demand shortage for cloud infrastructure that can process increasing AI workloads. CEO Arkady Volozh said it’s the first time Nebius had signed a long-term contract with a large tech company, and added that there are likely more to come. Nebius stock was up 37% at $88 in recent trading after hitting an all-time high near $98 in the opening minutes of the session. The stock has more than tripled since the start of 2025, boosted in part by news AI favorite Nvidia (NVDA) had taken a stake in the company. Below we analyze the technicals on the Nebius chart and identify major price levels worth watching out for after the stock’s big move today. After climbing to their highest level in more than three years last month, Nebius shares had consolidated in a pennant, a chart pattern that signals a bullish continuation upon a breakout to the upside. That move higher took place on Tuesday, setting the stage for potential follow-through buying. Interestingly, prior to today’s surge, the relative strength index bottomed around its neutral reading, the same level that coincided with the end of a dip in early July. Let’s use technical analysis to forecast a potential bullish price target to monitor and also point out major support levels worth watching during potential retracements. Investors can forecast a bullish price target by using the measured move technique, a study that analyzes chart patterns to project future price movements. When applying the analysis to the Nebius chart, we measure the percentage change of the steep uptrend from May to August that preceded the pennant and add it to the pattern’s top trendline value, assuming a similar continuation move may play out in the months ahead. For example, we apply a 145% increase to $72, which projects a target of $176.40—implying that the stock could more than double from Monday’s closing price. During retracements, investors should initially watch the $87 level. The stock could be snapped up at this level by investors looking for entry points on a retest of the prominent November 2021 peak, which also marks the stock’s prior all-time high. A close below this level could see the shares fall to support near $76. This area may provide support around the top of the pennant, which also corresponds with a period of trading activity on the chart between September and October 2021. Finally, a more-significant drop in Nebius shares could bring lower support at $54 into play. Investors may seek buying opportunities at this location near the February 2022 countertrend peak and a range of sideways price action on the chart that preceded a notable stock gap last month. The comments, opinions, and analyses expressed on Investopedia are for informational purposes only. Read our warranty and liability disclaimer for more info. As of the date this article was written, the author does not own any of the above securities.
+--------------------------------------------------
+
+Title: Why JPMorgan is warning the Fed rate cut everyone expects could sink stocks
+URL: https://www.marketwatch.com/story/why-jpmorgan-is-warning-the-fed-rate-cut-everyone-expects-could-sink-stocks-0179698d
+Time Published: 2025-09-09T14:10:00Z
+Description: The widely expected September Fed rate cut may have a surprise in store for investors who think stocks have nowhere to go but up, warns JPMorgan.
 --------------------------------------------------
 
 Title: Nvidia-Backed Nebius Stock Soars 50% on AI Infrastructure Deal With Microsoft
@@ -222,92 +246,4 @@ Title: Nvidia's new investment is a game-changer for quantum stocks
 URL: https://www.thestreet.com/technology/nvidias-new-investment-is-a-game-changer-for-quantum-stocks
 Time Published: 2025-09-06T02:03:00Z
 Description: Nvidia just surprised Wall Street with a bold move into one of tech's riskiest frontiers. Here’s what it means for investors.
---------------------------------------------------
-
-Title: 10 US dividend stocks I'd buy for a superannuation fund today
-URL: https://www.fool.com.au/2025/09/06/10-us-dividend-stocks-id-buy-for-a-superannuation-fund-today/
-Time Published: 2025-09-05T22:05:14Z
-Description: I think any super fund would benefit from these US stocks...
-The post 10 US dividend stocks I'd buy for a superannuation fund today appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: Stocks Fade on Economic Concerns after Weak US Unemployment Report
-URL: https://www.barchart.com/story/news/34635755/stocks-fade-on-economic-concerns-after-weak-us-unemployment-report
-Time Published: 2025-09-05T20:57:26Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Friday fell -0.32%, the Dow Jones Industrials Index ($DOWI ) (DIA ) fell -0.48%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: Wall Street Loves This Underdog Chip Stock
-URL: https://www.barchart.com/story/news/34633845/wall-street-loves-this-underdog-chip-stock
-Time Published: 2025-09-05T19:36:32Z
-Description: This underdog chip stock is emerging as Wall Street’s new favorite, fueled by explosive growth and a multibillion-dollar AI opportunity.
---------------------------------------------------
-
-Title: Tesla Floats a Trillion-Dollar Pay Plan for CEO Elon Musk
-URL: https://www.investopedia.com/tesla-floats-a-trillion-dollar-pay-plan-for-ceo-elon-musk-11804336
-Time Published: 2025-09-05T18:32:24Z
-Full Content:
-Trillions are the new billions. Electric-vehicle company Tesla (TSLA) on Friday unveiled a proposed compensation package for Elon Musk that could grow to roughly $1 trillion if the CEO hits performance targets and collects all of the shares awarded. Between the new plan and shares he owns now, the estimated value of Musk's implied total stake in Tesla would exceed $2 trillion, cementing his status as the world's wealthiest human. Musk has to hit what the company called "Mars-shot milestones"—longer than a moonshot, to be sure—to be compensated in full, according to a company filing. In addition to market-cap milestones attached to the plan's share-award tranches, the company would have to meet operational milestones that start with product delivery targets and end with adjusted Ebitda hurdles. The first pair of milestones requires Tesla's market capitalization to reach and sustain $2 trillion and the company to deliver a cumulative total of 20 million vehicles. Market-cap targets jump by $500 billion with every tranche, with the last target being $8.5 trillion—more than double the current market cap of Nvidia (NVDA), the most valuable company in the world. Operational milestones include 1 million robotaxis in commercial operation as well as logging $400 billion in adjusted Ebitda over four consecutive quarters. The last two of the 12 tranche awards would only be granted after Musk sets a succession plan approved by Tesla. And he would have to stay at the company for at least 7 1/2 years. The plan, on which shareholders are scheduled to vote Nov. 6, could stir up drama if shareholder reactions are anything like receptions to past pay packages. In 2018, a group of Tesla investors balked when shareholders approved a 10-year performance-based pay plan that would award Musk a then-estimated $56 billion. A Delaware judge struck down the deal twice, and Tesla's board recently approved an interim stock award of 96 million shares of restricted stock. If Musk is awarded the original 2018 package, the interim award would be forfeited. In order for Musk to own his earned awards outlined in the 2025 pay package, he has to pay the equivalent of Tesla's closing price on Sept. 3, or roughly $334 per share in cash or stock, after he hits the 7 1/2-year mark, at the earliest, or after 10 years. During negotiations that stretched across 10 meetings, Musk threatened to "pursue his other interests" and leave Tesla if he wasn't assured he'd be compensated for his past services as outlined under the 2018 pay package and at least a 25% voting interest, according to the proxy filing, up from about 20% now. "The Committee believes the cost to Tesla and its shareholders is well worth it in light of the tremendous value that would be created, and strides in product development that would be realized, if the 2025 CEO Performance Award is fully achieved," Tesla's filing said. For now, investors appear pleased. Tesla shares rose almost 3% as of Friday afternoon to a recent $348.
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq, Dow slip after jobs report shows dramatic slowdown
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-slip-after-jobs-report-shows-dramatic-slowdown-172116021.html
-Time Published: 2025-09-05T17:21:16Z
-Description: Investors are digesting a surprise August jobs report, with an interest rate cut now seen as certain.
---------------------------------------------------
-
-Title: Stock market today: S&P, Nasdaq, Dow fall as weak jobs data sparks Wall Street worries
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-nasdaq-dow-fall-as-weak-jobs-data-sparks-wall-street-worries-172116750.html
-Time Published: 2025-09-05T17:21:16Z
-Description: Investors digested a surprise August jobs report, with an interest rate cut now seen as certain.
---------------------------------------------------
-
-Title: Broadcom stock soars as Wall Street cheers AI chips as ‘leading alternative’ to Nvidia
-URL: https://finance.yahoo.com/news/broadcom-stock-soars-as-wall-street-cheers-ai-chips-as-leading-alternative-to-nvidia-165349027.html
-Time Published: 2025-09-05T16:53:49Z
-Description: Broadcom stock was set for a record close after its latest earnings results showed it's ramping up competition with Nvidia.
---------------------------------------------------
-
-Title: The jobs market has entered 'bizarro' world: Opening Bid top takeaway
-URL: https://finance.yahoo.com/news/the-jobs-market-has-entered-bizarro-world-opening-bid-top-takeaway-155101615.html
-Time Published: 2025-09-05T15:51:01Z
-Description: The jobs report was rather terrible.
---------------------------------------------------
-
-Title: US stock market crashes — Dow, S&P 500, Nasdaq all lost after shocking August jobs report; possible Fed rate cut ahead
-URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-crashes-dow-sp-500-nasdaq-all-lost-after-shocking-august-jobs-report-possible-fed-rate-cut-ahead/articleshow/123722243.cms
-Time Published: 2025-09-05T15:12:42Z
-Full Content:
-U.S. stocks swung sharply lower Friday after a surprisingly weak August jobs report reinforced the case for a Federal Reserve rate cut at its September 17 meeting. Stocks initially surged on the prospect of cheaper borrowing costs but quickly reversed as investors digested the economic slowdown behind the Fed’s likely pivot. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Pierre Poilievre pushes to end Temporary Foreign Worker program to protect Canadian jobs Canada Federal Benefit Payments 2025: When and how much you’ll get this September Tropical Storm Kiko, a combo of sub-tropical heat, cool currents, and lowly lands The Sultanate of Nur-Sultan: How ‘Elbasy’ Nazarbayev’s ‘Constitution Day’ led to his befall; a look into why the 30th Anniversary of Kazakhstan’s Constitution should be most celebrated Laver, Ryder Cup, all the result of an English-speaking lobby? Alexander Bublik’s take on tennis’ ‘superficial inclusivity’ Canada’s own Felix Auger Aliassime, beats Zverev in US Open, moves to Round-of-16, to face Rublev ‘Nervous’ Jacob Fearnley, 24-year old tennis world no. 60 and sport’s latest showing of British talent, surprised over ‘crowd noise’ in favour of German counterpart, Zverev in Louis Armstrong stadium Mere eye-candy or brawn with beauty, Anna Kalinskaya gives tough fight against Swiatek in Arthur Ashe What’s streaming on Disney+ Canada this September 2025, Lilo & Stitch, Phineas and Ferb, and Marvel Zombies lead the lineup Canada Q2 growth shrinks for first time in 2 years as U.S. tariffs bite — is a recession ahead or can household spending bring relief? AI sparks fear and mistrust in Canada, 85 percent call for government crackdown, says poll CSIS and CBSA rank as worst federal workplaces in Canada survey Professor T cast’s real-life loves: who’s married, who’s single, and the surprising secrets behind Season 4 stars ET Titan Talks with Santosh Iyer, MD & CEO of Mercedes-Benz India Trump signs order rebranding Pentagon The Bengal Files: 'No theatrical release but will reach phones' Trump advisor reacts to weak jobs report 'Trump’s criticism rooted in trade & ceasefire credit dispute with India' Nigel Farage to be the next UK PM soon? Mob defaces Ashoka Emblem from Hazratbal shrine plaque DHS grants USCIS special powers to make arrests Govt dedicated to securing Indians welfare in Australia: MEA Trump's advisor Navarro’s remarks 'inaccurate and misleading': India ET Titan Talks with Santosh Iyer, MD & CEO of Mercedes-Benz India Trump signs order rebranding Pentagon The Bengal Files: 'No theatrical release but will reach phones' Trump advisor reacts to weak jobs report 'Trump’s criticism rooted in trade & ceasefire credit dispute with India' Nigel Farage to be the next UK PM soon? Mob defaces Ashoka Emblem from Hazratbal shrine plaque DHS grants USCIS special powers to make arrests Govt dedicated to securing Indians welfare in Australia: MEA Trump's advisor Navarro’s remarks 'inaccurate and misleading': India Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Story Listing Private Companies Top Prime Articles Most Searched IFSC Codes Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: NVIDIA (NVDA) Sees One Sell Rating Despite Strong Growth and Wall Street Confidence
-URL: https://finance.yahoo.com/news/nvidia-nvda-sees-one-sell-150827910.html
-Time Published: 2025-09-05T15:08:27Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the top 10 mega-cap stocks to buy according to hedge funds.. Seaport analyst Jay Goldberg remains skeptical of...
---------------------------------------------------
-
-Title: Stocks Higher as Weak US Unemployment Report Bolsters Case for Multiple Fed Rate Cuts
-URL: https://www.barchart.com/story/news/34627236/stocks-higher-as-weak-us-unemployment-report-bolsters-case-for-multiple-fed-rate-cuts
-Time Published: 2025-09-05T13:58:34Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.83%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.77%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Broadcom's Free Cash Flow Surges With Higher FCF Margins, Implying a 25% Higher Value for AVGO Stock
-URL: https://www.barchart.com/story/news/34625584/broadcom-s-free-cash-flow-surges-with-higher-fcf-margins-implying-a-25-higher-value-for-avgo-stock
-Time Published: 2025-09-05T13:00:02Z
-Description: Broadcom, a direct competitor to Nvidia in AI chip making, saw its Q3 free cash flow surge again, along with a rise in its FCF margins on strong AI-related...
---------------------------------------------------
-
-Title: Broadcom Developing an AI Chip With Big New Customer OpenAI, Reports Say
-URL: https://www.investopedia.com/broadcom-developing-an-ai-chip-with-big-new-customer-openai-reports-say-11804076
-Time Published: 2025-09-05T11:20:23Z
-Full Content:
-Broadcom (AVGO) is helping ChatGPT maker OpenAI design and make its first-ever AI chip, according to reports. The partnership would help Broadcom challenge Nvidia's (NVDA) dominance as an AI leader. Shares in Broadcom, which last night posted fiscal third-quarter results that topped estimates Thursday on record revenue, are soaring 15% in early trading Friday, lifted by the results and the OpenAI news. Speculation about a big new customer the company disclosed last night without identifying it also helped the stock. The Financial Times, citing "people familiar with the matter," said that OpenAI was the customer that committed to $10 billion in orders Broadcom CEO Hock Tan referred to during last night's conference call. Citi analysts in a note also said they believe OpenAI was that customer. Broadcom and OpenAI didn’t immediately respond to requests for comment. OpenAI will initially use the new chip for its own internal purposes, the FT reported, with shipments beginning next year, according to the FT and Bloomberg. OpenAI, which currently uses chips from Nvidia, is following the path of other big tech firms like Meta Platforms (META), Amazon (AMZN), and Alphabet’s (GOOGL) in moving to create AI chips in-house. Broadcom's quarterly results are the latest to show sustained demand for AI hardware following earnings from Nvidia (NVDA) last week, and Advanced Micro Devices (AMD) last month. The company's shares have gained more than 50% so far this year. UPDATE—This article has been updated with the latest share price information.
---------------------------------------------------
-
-Title: What's Going On With Nvidia Stock Friday?
-URL: https://finance.yahoo.com/news/whats-going-nvidia-stock-friday-105426202.html
-Time Published: 2025-09-05T10:54:26Z
-Description: Nvidia Corp. (NASDAQ:NVDA) shares traded lower Friday after Broadcom Inc. (NASDAQ:AVGO) delivered stronger-than-expected quarterly results and confirmed a...
 --------------------------------------------------

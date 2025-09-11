@@ -6,6 +6,12 @@ Time Published: 2025-09-09T15:33:00Z
 Description: Here’s what could be next for Nvidia stock.
 --------------------------------------------------
 
+Title: Why JPMorgan is warning the Fed rate cut everyone expects could sink stocks
+URL: https://www.marketwatch.com/story/why-jpmorgan-is-warning-the-fed-rate-cut-everyone-expects-could-sink-stocks-0179698d
+Time Published: 2025-09-09T14:10:00Z
+Description: The widely expected September Fed rate cut may have a surprise in store for investors who think stocks have nowhere to go but up, warns JPMorgan.
+--------------------------------------------------
+
 Title: Jim Cramer Discusses Whether Broadcom Inc. (AVGO)’s $10 Billion Mystery Customer Is OpenAI
 URL: https://finance.yahoo.com/news/jim-cramer-discusses-whether-broadcom-133530898.html
 Time Published: 2025-09-09T13:35:30Z
@@ -141,142 +147,4 @@ Title: Broadcom (AVGO) Gets Fresh $382 Target — Can It Keep Pace With Nvidia?
 URL: https://finance.yahoo.com/news/broadcom-avgo-gets-fresh-382-102424799.html
 Time Published: 2025-09-06T10:24:24Z
 Description: Broadcom Inc. (NASDAQ:AVGO) is one of the AI Stocks to Watch Out For in 2025. On September 2, Morgan Stanley raised the firm’s price target on the stock to $...
---------------------------------------------------
-
-Title: S&P 500 Gains and Losses Today: Lululemon Stock Plunges; Broadcom Charges Higher
-URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-lululemon-stock-plunges-broadcom-charges-higher-11804346
-Time Published: 2025-09-05T21:29:46Z
-Full Content:
-Major U.S. equities indexes lost ground Friday after the Bureau of Labor Statistics released its latest employment report. The data showed the U.S. added fewer-than-expected jobs in August, and a downward revision to earlier estimates revealed the economy shed jobs in June, the first month of losses since 2020. The S&P 500 slid 0.3% on the final day of the holiday-shortened trading week. The Dow was down 0.5%, while the tech-heavy Nasdaq ended the session with a fractional loss of less than 0.1%. Lululemon Athletica (LULU) shares fell the most of any stock in the S&P 500 on Friday, plummeting 18.6%. The maker of athletic apparel posted softer-than-expected same-store sales growth for its fiscal second quarter and trimmed its full-year revenue guidance, pointing to tariff impacts and sluggish U.S. sales. Jefferies analysts suggested Lululemon could face even tougher conditions ahead, citing competitive pressures and doubts about the company's pipeline of new designs. Shares of Kenvue (KVUE) dropped 9.4% after The Wall Street Journal reported the Department of Health and Human Services, under the leadership of Robert F. Kennedy, Jr., plans to release a report suggesting a link between autism and pregnant women's use of Tylenol. The popular over-the-counter painkiller is made by Kenvue subsidiary McNeil Consumer Healthcare. A Kenvue spokesperson on Friday contested the claims allegedly made by the report. Advanced Micro Devices (AMD) shares tumbled 6.6% after Seaport Research downgraded the chipmaker's stock to "hold" from "buy." Analysts pointed to signs of slowing demand for AMD's artificial intelligence accelerators, and noted it could become difficult for the company to meet lofty expectations. Broadcom (AVGO) shares surged 9.4%, logging the top performance in the S&P 500, after the chipmaker reported better-than-expected sales and adjusted profit for its fiscal third quarter. Demand for AI semiconductors boosted Broadcom's performance, with AI revenue rising 63% year-over-year. The company also said it had secured $10 billion in orders from a new customer, which reports later suggested was OpenAI. Shares of pool equipment supplier Pool Corp. (POOL) advanced 5.5% after Friday's weak jobs report cemented the case for an interest rate cut at the Federal Reserve's policy meeting later this month. Expectations of a rate cut caused the 10-year Treasury yield, which influences mortgage rates, to sink to its lowest level since April. Elevated mortgage rates have kept the U.S. housing market in a deep freeze for the last three years, which has dragged on the businesses of homebuilders and home goods producers like Pool. Tesla (TSLA) proposed a new compensation plan for CEO Elon Musk that could be worth roughly $1 trillion. Reaching that amount would require the electric vehicle maker's CEO and world's richest person to achieve certain performance targets, including helping Tesla reach a market cap of $8.5 trillion and a total of 20 million vehicle deliveries. Negotiations around Musk's compensation have grown contentious in the past, and shareholders are set to vote on the proposed package on Nov. 6. Tesla stock added 3.7% Friday.
---------------------------------------------------
-
-Title: Stocks Fade on Economic Concerns after Weak US Unemployment Report
-URL: https://www.barchart.com/story/news/34635755/stocks-fade-on-economic-concerns-after-weak-us-unemployment-report
-Time Published: 2025-09-05T20:57:26Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Friday fell -0.32%, the Dow Jones Industrials Index ($DOWI ) (DIA ) fell -0.48%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq, Dow slip after jobs report shows dramatic slowdown
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-slip-after-jobs-report-shows-dramatic-slowdown-172116021.html
-Time Published: 2025-09-05T17:21:16Z
-Description: Investors are digesting a surprise August jobs report, with an interest rate cut now seen as certain.
---------------------------------------------------
-
-Title: Stock market today: S&P, Nasdaq, Dow fall as weak jobs data sparks Wall Street worries
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-nasdaq-dow-fall-as-weak-jobs-data-sparks-wall-street-worries-172116750.html
-Time Published: 2025-09-05T17:21:16Z
-Description: Investors digested a surprise August jobs report, with an interest rate cut now seen as certain.
---------------------------------------------------
-
-Title: Broadcom stock soars as Wall Street cheers AI chips as ‘leading alternative’ to Nvidia
-URL: https://finance.yahoo.com/news/broadcom-stock-soars-as-wall-street-cheers-ai-chips-as-leading-alternative-to-nvidia-165349027.html
-Time Published: 2025-09-05T16:53:49Z
-Description: Broadcom stock was set for a record close after its latest earnings results showed it's ramping up competition with Nvidia.
---------------------------------------------------
-
-Title: Top Stock Movers Now: Broadcom, Docusign, Lululemon, and More
-URL: https://www.investopedia.com/top-stock-movers-now-broadcom-docusign-lululemon-and-more-11804161
-Time Published: 2025-09-05T15:36:33Z
-Full Content:
-U.S. equities turned lower at midday following the government's weaker-than-expected August employment report. The Dow Jones Industrial Average, S&P 500, and Nasdaq were down. Lululemon Athletica (LULU) was the worst-performing stock in the S&P 500 after the fashion athletic apparel retailer reported lower-than-anticipated comparable store sales on soft demand in the U.S., and cut its guidance on higher costs relating to new tariffs and the removal of the de minimus exemption for lower-priced imports. Shares of Copart (CPRT) dipped when the online auto auctioneer missed revenue estimates as vehicle sales declined. Advanced Micro Devices (AMD) shares fell on a downgrade from Seaport Research, which pointed to concerns about the chipmaker's AI accelerator business. Broadcom (AVGO) was the best-performing stock in the S&P 500 after the software maker posted better-than-anticipated results and said it had a new $10 billion customer. Speculation is that the customer is AI giant OpenAI. Shares of Tesla (TSLA) rose when the electric vehicle maker offered CEO Elon Musk a 10-year pay package that could be worth $1 trillion. Docusign (DOCU) shares jumped when the electronic signature software firm beat profit and sales estimates and raised its outlook as larger customers were using its AI products. Oil futures sank. Gold prices advanced. The yield on the 10-year Treasury note dropped. The U.S. dollar lost ground to the euro, pound, and yen. Most major cryptocurrencies traded higher.
---------------------------------------------------
-
-Title: Semtech Corporation (SMTC): A Bull Case Theory
-URL: https://finance.yahoo.com/news/semtech-corporation-smtc-bull-case-153036509.html
-Time Published: 2025-09-05T15:30:36Z
-Description: We came across a bullish thesis on Semtech Corporation on TechIt_alt’s Substack. In this article, we will summarize the bulls’ thesis on SMTC. Semtech...
---------------------------------------------------
-
-Title: US stock market crashes — Dow, S&P 500, Nasdaq all lost after shocking August jobs report; possible Fed rate cut ahead
-URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-crashes-dow-sp-500-nasdaq-all-lost-after-shocking-august-jobs-report-possible-fed-rate-cut-ahead/articleshow/123722243.cms
-Time Published: 2025-09-05T15:12:42Z
-Full Content:
-U.S. stocks swung sharply lower Friday after a surprisingly weak August jobs report reinforced the case for a Federal Reserve rate cut at its September 17 meeting. Stocks initially surged on the prospect of cheaper borrowing costs but quickly reversed as investors digested the economic slowdown behind the Fed’s likely pivot. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Pierre Poilievre pushes to end Temporary Foreign Worker program to protect Canadian jobs Canada Federal Benefit Payments 2025: When and how much you’ll get this September Tropical Storm Kiko, a combo of sub-tropical heat, cool currents, and lowly lands The Sultanate of Nur-Sultan: How ‘Elbasy’ Nazarbayev’s ‘Constitution Day’ led to his befall; a look into why the 30th Anniversary of Kazakhstan’s Constitution should be most celebrated Laver, Ryder Cup, all the result of an English-speaking lobby? Alexander Bublik’s take on tennis’ ‘superficial inclusivity’ Canada’s own Felix Auger Aliassime, beats Zverev in US Open, moves to Round-of-16, to face Rublev ‘Nervous’ Jacob Fearnley, 24-year old tennis world no. 60 and sport’s latest showing of British talent, surprised over ‘crowd noise’ in favour of German counterpart, Zverev in Louis Armstrong stadium Mere eye-candy or brawn with beauty, Anna Kalinskaya gives tough fight against Swiatek in Arthur Ashe What’s streaming on Disney+ Canada this September 2025, Lilo & Stitch, Phineas and Ferb, and Marvel Zombies lead the lineup Canada Q2 growth shrinks for first time in 2 years as U.S. tariffs bite — is a recession ahead or can household spending bring relief? AI sparks fear and mistrust in Canada, 85 percent call for government crackdown, says poll CSIS and CBSA rank as worst federal workplaces in Canada survey Professor T cast’s real-life loves: who’s married, who’s single, and the surprising secrets behind Season 4 stars ET Titan Talks with Santosh Iyer, MD & CEO of Mercedes-Benz India Trump signs order rebranding Pentagon The Bengal Files: 'No theatrical release but will reach phones' Trump advisor reacts to weak jobs report 'Trump’s criticism rooted in trade & ceasefire credit dispute with India' Nigel Farage to be the next UK PM soon? Mob defaces Ashoka Emblem from Hazratbal shrine plaque DHS grants USCIS special powers to make arrests Govt dedicated to securing Indians welfare in Australia: MEA Trump's advisor Navarro’s remarks 'inaccurate and misleading': India ET Titan Talks with Santosh Iyer, MD & CEO of Mercedes-Benz India Trump signs order rebranding Pentagon The Bengal Files: 'No theatrical release but will reach phones' Trump advisor reacts to weak jobs report 'Trump’s criticism rooted in trade & ceasefire credit dispute with India' Nigel Farage to be the next UK PM soon? Mob defaces Ashoka Emblem from Hazratbal shrine plaque DHS grants USCIS special powers to make arrests Govt dedicated to securing Indians welfare in Australia: MEA Trump's advisor Navarro’s remarks 'inaccurate and misleading': India Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Story Listing Private Companies Top Prime Articles Most Searched IFSC Codes Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Broadcom CEO Stands Alongside Steve Jobs In Memorability, Says Analyst As He Hikes Target Price To $415
-URL: https://wccftech.com/broadcom-ceo-stands-alongside-steve-jobs-in-memorability-says-analyst-as-he-hikes-target-price-to-415/
-Time Published: 2025-09-05T14:22:48Z
-Description: The AI narrative is alive and kicking vigorously. If anyone were still in doubt, the recent pristine earnings print from Broadcom (AVGO) should have laid to rest any lingering consternation on that count. Broadcom, which has gained particular prominence in re…
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq, Dow make a U-turn lower after jobs report shows dramatic slowdown
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-make-a-u-turn-lower-after-jobs-report-shows-dramatic-slowdown-142214988.html
-Time Published: 2025-09-05T14:22:14Z
-Description: Investors are digesting a surprise August jobs report, with an interest rate cut now seen as certain.
---------------------------------------------------
-
-Title: Stock Market Today: August payrolls show staggering decline in job additions
-URL: https://www.thestreet.com/markets/stock-market-today-september-5-2025
-Time Published: 2025-09-05T14:16:54Z
-Description: The BLS flagged "technical difficulties" ahead of the important events
---------------------------------------------------
-
-Title: Stocks Higher as Weak US Unemployment Report Bolsters Case for Multiple Fed Rate Cuts
-URL: https://www.barchart.com/story/news/34627236/stocks-higher-as-weak-us-unemployment-report-bolsters-case-for-multiple-fed-rate-cuts
-Time Published: 2025-09-05T13:58:34Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.83%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.77%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: AVGO: Broadcom Stock Climbs After Tops Estimates and Lifts Q4 Guide
-URL: https://finance.yahoo.com/news/avgo-broadcom-stock-climbs-tops-130947612.html
-Time Published: 2025-09-05T13:09:47Z
-Description: Broadcom Soars on AI Demand -- Q3 Revenue Hits $16B
---------------------------------------------------
-
-Title: Broadcom's Free Cash Flow Surges With Higher FCF Margins, Implying a 25% Higher Value for AVGO Stock
-URL: https://www.barchart.com/story/news/34625584/broadcom-s-free-cash-flow-surges-with-higher-fcf-margins-implying-a-25-higher-value-for-avgo-stock
-Time Published: 2025-09-05T13:00:02Z
-Description: Broadcom, a direct competitor to Nvidia in AI chip making, saw its Q3 free cash flow surge again, along with a rise in its FCF margins on strong AI-related...
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq, Dow climb as jobs report shows dramatic slowdown
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-lose-steam-after-jobs-report-shows-dramatic-slowdown-142214990.html
-Time Published: 2025-09-05T12:40:13Z
-Description: Investors are bracing for a make-or-break August jobs reading, with an interest rate cut now seen as all but certain.
---------------------------------------------------
-
-Title: What's Going On With Marvell Technology Stock Friday?
-URL: https://finance.yahoo.com/news/whats-going-marvell-technology-stock-123110348.html
-Time Published: 2025-09-05T12:31:10Z
-Description: Marvell Technology (NASDAQ:MRVL) stock trended Friday after competitor Broadcom (NASDAQ:AVGO) delivered strong quarterly earnings. Marvell seeks to challenge...
---------------------------------------------------
-
-Title: Broadcom Developing an AI Chip With Big New Customer OpenAI, Reports Say
-URL: https://www.investopedia.com/broadcom-developing-an-ai-chip-with-big-new-customer-openai-reports-say-11804076
-Time Published: 2025-09-05T11:20:23Z
-Full Content:
-Broadcom (AVGO) is helping ChatGPT maker OpenAI design and make its first-ever AI chip, according to reports. The partnership would help Broadcom challenge Nvidia's (NVDA) dominance as an AI leader. Shares in Broadcom, which last night posted fiscal third-quarter results that topped estimates Thursday on record revenue, are soaring 15% in early trading Friday, lifted by the results and the OpenAI news. Speculation about a big new customer the company disclosed last night without identifying it also helped the stock. The Financial Times, citing "people familiar with the matter," said that OpenAI was the customer that committed to $10 billion in orders Broadcom CEO Hock Tan referred to during last night's conference call. Citi analysts in a note also said they believe OpenAI was that customer. Broadcom and OpenAI didn’t immediately respond to requests for comment. OpenAI will initially use the new chip for its own internal purposes, the FT reported, with shipments beginning next year, according to the FT and Bloomberg. OpenAI, which currently uses chips from Nvidia, is following the path of other big tech firms like Meta Platforms (META), Amazon (AMZN), and Alphabet’s (GOOGL) in moving to create AI chips in-house. Broadcom's quarterly results are the latest to show sustained demand for AI hardware following earnings from Nvidia (NVDA) last week, and Advanced Micro Devices (AMD) last month. The company's shares have gained more than 50% so far this year. UPDATE—This article has been updated with the latest share price information.
---------------------------------------------------
-
-Title: What's Going On With Nvidia Stock Friday?
-URL: https://finance.yahoo.com/news/whats-going-nvidia-stock-friday-105426202.html
-Time Published: 2025-09-05T10:54:26Z
-Description: Nvidia Corp. (NASDAQ:NVDA) shares traded lower Friday after Broadcom Inc. (NASDAQ:AVGO) delivered stronger-than-expected quarterly results and confirmed a...
---------------------------------------------------
-
-Title: US stock market futures on the move: Dow, S&P 500, Nasdaq all in green as wall street eyes as rate-cut bets rise ahead of crucial jobs report
-URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-on-the-move-dow-sp-500-nasdaq-all-in-green-as-wall-street-eyes-as-rate-cut-bets-rise-ahead-of-crucial-jobs-report/articleshow/123717641.cms
-Time Published: 2025-09-05T10:31:50Z
-Full Content:
-U.S. stock market futures edged higher this morning, with the Dow, S&P 500, and Nasdaq all flashing green as investors brace for the all-important August jobs report. The data is expected to confirm slowing labor momentum — a shift that could lock in Federal Reserve rate cuts as early as September. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. ET Titan Talks with Santosh Iyer, MD & CEO of Mercedes-Benz India Hegseth warns Venezuelan drug cartels Kerala Congress’ ‘Bidi-Bihar’ tweet sparks outrage IDF airstrike kills Hamas spokesman Abu Obayda ‘Fairly substantial tariffs’: Trump warns chipmakers Tesla opens India's EV chapter with first Model Y delivery in Mumbai Tech CEOs praise Trump even as H-1B applications hit 4-year low ‘This is not an era of war’: PM Modi’s peace call resounds at UN ‘How much will you invest?’: Trump presses tech titans Trump confirms he’ll soon speak with President Putin ET Titan Talks with Santosh Iyer, MD & CEO of Mercedes-Benz India Hegseth warns Venezuelan drug cartels Kerala Congress’ ‘Bidi-Bihar’ tweet sparks outrage IDF airstrike kills Hamas spokesman Abu Obayda ‘Fairly substantial tariffs’: Trump warns chipmakers Tesla opens India's EV chapter with first Model Y delivery in Mumbai Tech CEOs praise Trump even as H-1B applications hit 4-year low ‘This is not an era of war’: PM Modi’s peace call resounds at UN ‘How much will you invest?’: Trump presses tech titans Trump confirms he’ll soon speak with President Putin Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Prime Articles Top Market Pages Top Story Listing Top Slideshow Private Companies Top Commodities Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Broadcom: AVGO Stock’s Path To $600
-URL: https://www.forbes.com/sites/greatspeculations/2025/09/05/broadcom-avgo-stocks-path-to-600/
-Time Published: 2025-09-05T10:26:13Z
-Full Content:
-ByTrefis Team, Contributor. Broadcom's stock (NASDAQ: AVGO) is climbing, buoyed by impressive quarterly earnings and a new customer win for its custom AI chips. Adding to the optimism, the company expects revenue growth to speed up next year. It's no surprise, then, that the stock has more than doubled in the past twelve months. But what could fuel another 100% gain to levels past $600 from here? We’ll explore the key factors that could push the stock to new heights in the analysis that follows. That being said, if you seek an upside with less volatility than holding an individual stock, consider the High Quality Portfolio. It has comfortably outperformed its benchmark—a combination of the S&P 500, Russell, and S&P MidCap indexes—and has achieved returns exceeding 91% since its inception. Separately, see – S&P 500 Index To Crash 8%? Broadcom’s growth is anchored by its custom AI chip partnerships with top hyperscalers, namely Google (for its TPU) and Meta. In a significant development on September 4, 2025, the company announced it has secured a fourth major, unnamed customer for its custom AI accelerators (XPUs), reportedly worth $10 billion. This diversifies its revenue and solidifies its role as a key enabler for large-scale AI infrastructure. While the initial AI boom focused on training, the market is now shifting to inference, where Broadcom holds a strategic advantage. As AI applications are deployed at scale, the demand for high-performance, power-efficient inference chips and networking skyrockets. Broadcom's expertise in specialized networking and processing is critical for these workloads, positioning it to capture this massive market segment. Broadcom maintains its competitive edge through relentless product innovation. It is now shipping its Tomahawk 6 and Tomahawk Ultra networking chips, which significantly outperform their predecessor and are essential for building out large AI clusters. Furthermore, its leadership in co-packaged silicon photonics is a key technology for next-generation data centers, enabling the faster, more efficient data transfer required for advanced AI. Notably, the Tomahawk Ultra can connect up to 1,024 accelerators in a single rack, significantly more than NVIDIA’s NVLink Switch, which only supports up to 72 GPUs. Beyond hardware, the acquisition of VMware has transformed Broadcom into a major infrastructure software company. Broadcom is successfully transitioning VMware customers to subscription models and streamlining the portfolio. This strategy is already boosting recurring revenue and is expected to generate substantial, stable cash flow, significantly improving the company’s overall profit margins. For perspective, VMware, which is part of Broadcom’s infrastructure software segment, saw its revenue surge 43% y-o-y to $6.8 billion in Q3 fiscal 2025 (fiscal period ends in October). For Broadcom's stock to double in value, it relies on a powerful combination of substantial earnings growth and a sustained, premium valuation from investors. The pathway is built on two core pillars: The foundation for growth is a strong top-line forecast. We project Broadcom’s revenue could grow from around $60 billion in the last twelve months to more than $105 billion by 2028, driven primarily by its AI and VMware segments. However, the key is Broadcom's exceptional profitability. With adjusted net income margins around 50%, revenue growth has a magnified impact on the bottom line. This means earnings are positioned to grow significantly faster than sales. For example, if revenue increases by 75% over the next few years, the company's adjusted earnings per share (EPS) could nearly double from around $6.29 now to $12 in 2028. Earnings growth alone isn't enough; the stock must also maintain its high valuation multiple. Broadcom has been trading at a premium valuation of over 50 times trailing adjusted earnings for several reasons: If investors continue to assign a premium multiple of around 50x to the stock, an EPS of $12 would support a stock price of around $600. Furthermore, the multiple could expand even further if Broadcom demonstrates sustained AI revenue growth above 40%, captures more market share, and secures new large-scale customers. Despite the strong growth outlook, several risks could impact Broadcom's performance and valuation. Broadcom's AI revenue is highly dependent on a small number of hyperscale customers. While profitable, this concentration creates a significant risk; a change in spending plans or a strategic shift from even one major customer could disproportionately impact Broadcom's revenue. Any broader slowdown in the rapid pace of AI infrastructure investment would also directly threaten the company's primary growth engine. The market for AI chips and networking solutions is intensely competitive. Broadcom faces pressure from established rivals like Marvell and NVIDIA, as well as the risk of its own hyperscale customers developing more of their in-house silicon solutions. This competition could compress the high profit margins that currently justify Broadcom's premium valuation. Broadcom's stock has historically shown higher volatility during broad market downturns compared to the S&P 500. It experienced steeper declines during both the COVID-19 correction and the 2022 inflation shock. This indicates a heightened sensitivity to macroeconomic uncertainty, and a future economic slowdown or market disruption could lead to a significant drop in its stock price. Over the next few years, Broadcom's stock could double to over $600. The path to this 2x return is straightforward: the company must achieve the forecasted revenue and earnings growth while convincing the market that its premium valuation is sustainable. However, investors considering this opportunity should also weigh the risks. The stock has experienced drops of up to 50% in the past, and they must be prepared for similar volatility. Despite this, for those with an investment horizon of three years or more, Broadcom's stock has a strong potential to double from its current level. See, there always remains a meaningful risk when investing in a single, or just a handful of stocks. Consider the 30-stock Trefis High Quality (HQ) Portfolio, which has a track record of comfortably outperforming the S&P 500 over the last 4-year period. Why is that? As a group, HQ Portfolio stocks provided better returns with less risk versus the benchmark index; less of a roller-coaster ride, as evident in HQ Portfolio performance metrics.
---------------------------------------------------
-
-Title: Jobs Report Misses Forecast, Boosting Case for Fed Rate Cut
-URL: https://www.barchart.com/story/news/34620827/s-p-futures-tick-higher-with-all-eyes-on-key-u-s-jobs-report
-Time Published: 2025-09-05T10:07:25Z
-Description: U.S. stocks are up this morning, with the S&P 500, Dow Jones, and Nasdaq 100 all seeing gains despite a recent report showing a significant slowdown in...
---------------------------------------------------
-
-Title: Broadcom shares rally as $10 billion chip deal shows AI strategy paying off
-URL: https://finance.yahoo.com/news/broadcom-shares-rally-ai-deal-090504663.html
-Time Published: 2025-09-05T09:05:04Z
-Description: (Reuters) -Broadcom shares jumped 15% on Friday after the chipmaker unveiled a blockbuster $10 billion AI chip order from a new customer, fueling optimism...
 --------------------------------------------------
