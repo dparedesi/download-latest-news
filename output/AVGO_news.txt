@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Broadcom ties its fate to a massive AI gamble
+URL: https://www.thestreet.com/technology/broadcom-ties-its-fate-to-a-massive-ai-gamble-
+Time Published: 2025-09-10T18:17:06Z
+Description: This is the boldest wager yet for major chipmaker Broadcom.
+--------------------------------------------------
+
+Title: Broadcom Inc. (AVGO) Is Up Because People Feel It Can Rival NVIDIA, Says Jim Cramer
+URL: https://finance.yahoo.com/news/broadcom-inc-avgo-because-people-172743520.html
+Time Published: 2025-09-10T17:27:43Z
+Description: We recently published 14 Latest Stocks on Jim Cramer’s Radar. Broadcom Inc. (NASDAQ:AVGO) is one of the stocks Jim Cramer recently discussed. Broadcom Inc. (...
+--------------------------------------------------
+
 Title: US stock market today: S&P 500 and Nasdaq hit records as Oracle stuns Wall Street while Dow slips on Apple losses
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-sp-500-and-nasdaq-hit-records-as-oracle-stuns-wall-street-with-ai-forecast-while-dow-slips-on-apple-losses/articleshow/123812335.cms
 Time Published: 2025-09-10T16:12:09Z
