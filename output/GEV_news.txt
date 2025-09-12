@@ -6,6 +6,12 @@ Time Published: 2025-09-11T01:10:11Z
 Description: Here are the stocks that made the most significant market moves today.
 --------------------------------------------------
 
+Title: Stocks Supported as Easing Price Pressures Reinforce Fed Rate Cut Hopes
+URL: https://www.barchart.com/story/news/34732039/stocks-supported-as-easing-price-pressures-reinforce-fed-rate-cut-hopes
+Time Published: 2025-09-10T20:34:20Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +0.30%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.48%, and the Nasdaq 100 Index ...
+--------------------------------------------------
+
 Title: US stock market futures today: Dow slips while S&P 500 and Nasdaq edge higher as Wall Street braces for inflation data — Oracle soars over 30%, here's other top stocks to watch
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-today-dow-slips-while-sp-500-and-nasdaq-edge-higher-as-wall-street-braces-for-inflation-data-oracle-soars-over-30-heres-other-top-stocks-to-watch/articleshow/123807032.cms
 Time Published: 2025-09-10T10:56:22Z

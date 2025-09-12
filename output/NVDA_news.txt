@@ -13,11 +13,35 @@ Description: These experts still reckon there are buys out there.
 The post ASX stock picks from Australia's top fund managers appeared first on The Motley Fool Australia.
 --------------------------------------------------
 
+Title: Stocks Supported as Easing Price Pressures Reinforce Fed Rate Cut Hopes
+URL: https://www.barchart.com/story/news/34732039/stocks-supported-as-easing-price-pressures-reinforce-fed-rate-cut-hopes
+Time Published: 2025-09-10T20:34:20Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +0.30%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.48%, and the Nasdaq 100 Index ...
+--------------------------------------------------
+
+Title: NVIDIA (NVDA) Remains a Top Pick for Gen AI, Says KeyBanc
+URL: https://finance.yahoo.com/news/nvidia-nvda-remains-top-pick-201623177.html
+Time Published: 2025-09-10T20:16:23Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Hot AI Stocks to Keep on Your Radar. On September 9, KeyBanc reiterated the stock as “Overweight” stating that...
+--------------------------------------------------
+
+Title: Chinese Companies Still Want Nvidia Chips. Does That Make NVDA Stock a Buy Here Below $180?
+URL: https://www.barchart.com/story/news/34731473/chinese-companies-still-want-nvidia-chips-does-that-make-nvda-stock-a-buy-here-below-180
+Time Published: 2025-09-10T20:14:07Z
+Description: Despite Beijing’s push for domestic alternatives, Chinese tech giants like Alibaba and ByteDance remain eager for Nvidia chips, raising the question of...
+--------------------------------------------------
+
+Title: The AI Trade Picks Up Steam After Oracle's 'Truly Historic' Quarter
+URL: https://www.investopedia.com/ai-stocks-soar-on-oracle-truly-historic-quarter-11807386
+Time Published: 2025-09-10T19:56:32Z
+Full Content:
+The artificial intelligence trade got a shot of adrenaline on Wednesday after results from database software and cloud provider Oracle suggested the AI spending bonanza has ample room to run. Oracle (ORCL) on Tuesday reported its backlog swelled to $455 billion, a 359% year-over-year increase, after it signed four multibillion-dollar cloud deals in the first quarter of its 2026 fiscal year. Executives said the backlog is expected to surpass half a trillion as Oracle inks more big deals in the coming months. Oracle also forecast cloud revenue would grow from an estimated $18 billion this fiscal year to $144 billion in 2030, about $50 billion more than Wall Street had forecast. Oracle said most of that revenue forecast was already reflected in its backlog, giving some investors greater confidence in the numbers. Meanwhile, the Wall Street Journal reported Wednesday that Oracle had signed a five-year contract worth $300 billion with ChatGPT creator OpenAI. Oracle’s projections completely overshadowed lackluster first-quarter results, and sent its shares soaring as much as 43% on Wednesday. The rising tide of robust AI spending was lifting plenty of boats on Wednesday. Shares of AI chip giants Nvidia (NVDA) and Broadcom (AVGO) were recently up more than 4% and 9%, respectively, while chip design company Arm Holdings (ARM) surged more than 8%. The PHLX Semiconductor Index (SOX) was up about 2%. Data center infrastructure provider Vertiv Holdings (VRT) jumped about 9%, while power generators Vistra (VST) and Constellation Energy (CEG) advanced 8% and 6%, respectively. Oracle’s major cloud competitors were the only drag on the AI trade on Wednesday. Amazon (AMZN) declined more than 3%, while Meta Platforms (META) dropped nearly 2%. Alphabet (GOOG) and Microsoft (MSFT) ticked higher. Wall Street’s ebullience over the results was first visible on Oracle’s earnings call Tuesday night. “Even I’m sort of blown away by what this looks like going forward,” said Guggenheim analyst John DiFucci at the top of the question and answer portion of the call. “I tell my team, ‘Pay attention to this’—even those that are not working on Oracle—‘because this is a career event happening right now,” DiFucci added. “There's no better evidence of a seismic shift happening in computing than these results that you just put up,” said Deutsche Bank analyst Brad Zelnick. Others called the quarter “momentous” and the backlog growth “truly historic.” AI investments have been driven by what many have characterized as insatiable demand for training and inference, and Oracle’s results appeared to support that assessment. On Oracle’s earnings call, co-founder and chair Larry Ellison said an unnamed company had requested all of Oracle’s available inferencing capacity. “I’d never gotten a call like that,” Ellison said. Big Tech’s investment in capacity to meet that demand is expected to remain robust in the coming years, supported by healthy cash flows at the biggest cloud providers and supportive tax incentives. Cloud providers like Microsoft, Alphabet and Amazon have been key drivers of the AI infrastructure trade in recent years. Hyperscalers are expected to spend a cumulative $368 billion on infrastructure this year, with much of that earmarked for data centers and the chips and servers that fill them, according to Goldman Sachs. Oracle on Tuesday forecast capital expenditures of $35 billion in the 12 months through May 2026, about $10 billion more than the figure executives gave as a minimum last quarter. Tax incentives written into the recently passed One Big Beautiful Bill Act should also support AI infrastructure investment. Morgan Stanley expects the bill’s immediate capital investment depreciation provisions to boost Big Tech’s free cash flows by nearly $50 billion this year. The firm expects a sizable portion of those tax savings to be spent on AI infrastructure.
+--------------------------------------------------
+
 Title: Why Is Nvidia Stock (NVDA) Soaring Today?
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3611cebf-629a-48f9-b1db-1e48ee04e959
 Time Published: 2025-09-10T18:37:30Z
-Full Content:
-Yahoo is part of the Yahoo family of brandsThe sites and apps that we own and operate, including Yahoo, AOL, Engadget, In The Know and Makers.Yahoo family of brands. If you do not want us and our partners to use cookies and personal data for these additional purposes, click 'Reject all'. If you would like to customise your choices, click 'Manage privacy settings'. You can withdraw your consent or change your choices at any time by clicking on the 'Privacy & cookie settings' or 'Privacy dashboard' links on our sites and apps. Find out more about how we use your personal data in our privacy policy and cookie policy.
+Description: None
 --------------------------------------------------
 
 Title: Why Citi Sees NVIDIA (NVDA) Facing Growing Pressure From Broadcom and Google
@@ -76,14 +100,14 @@ Time Published: 2025-09-10T14:13:00Z
 Description: Semiconductor sales are climbing, with AMD, NVDA and AEIS positioned for further growth.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as Oracle surges, PPI inflation bolsters Fed rate cut hopes
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-oracle-surges-ppi-inflation-bolsters-fed-rate-cut-hopes-124048266.html
+Title: Stock market today: S&P 500, Nasdaq rise as Oracle surges, PPI inflation bolsters Fed rate cut hopes
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-oracle-surges-ppi-inflation-bolsters-fed-rate-cut-hopes-124048367.html
 Time Published: 2025-09-10T12:40:48Z
 Description: Wall Street awaits key reports that could shape the Fed's next interest-rate decision.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq rise as Oracle surges, PPI inflation bolsters Fed rate cut hopes
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-oracle-surges-ppi-inflation-bolsters-fed-rate-cut-hopes-124048367.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Oracle surges, PPI inflation bolsters Fed rate cut hopes
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-oracle-surges-ppi-inflation-bolsters-fed-rate-cut-hopes-124048266.html
 Time Published: 2025-09-10T12:40:48Z
 Description: Wall Street awaits key reports that could shape the Fed's next interest-rate decision.
 --------------------------------------------------
@@ -286,28 +310,4 @@ URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-
 Time Published: 2025-09-08T15:32:50Z
 Full Content:
 US stock market opened the week with strong momentum as Nasdaq and S&P 500 reached record highs, while the Dow remained largely flat. Investors are closely watching upcoming inflation reports and Federal Reserve signals, which could shape rate-cut expectations. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Canadian soldier found dead in Latvia during NATO operation reassurance deployment Mexico vs Japan international soccer: live stream, TV schedule and match preview Trump denies knowledge of reported SEAL Team 6 mission in North Korea that killed civilians Pierre Poilievre pushes to end Temporary Foreign Worker program to protect Canadian jobs Canada Federal Benefit Payments 2025: When and how much you’ll get this September Tropical Storm Kiko, a combo of sub-tropical heat, cool currents, and lowly lands The Sultanate of Nur-Sultan: How ‘Elbasy’ Nazarbayev’s ‘Constitution Day’ led to his befall; a look into why the 30th Anniversary of Kazakhstan’s Constitution should be most celebrated Laver, Ryder Cup, all the result of an English-speaking lobby? Alexander Bublik’s take on tennis’ ‘superficial inclusivity’ Canada’s own Felix Auger Aliassime, beats Zverev in US Open, moves to Round-of-16, to face Rublev ‘Nervous’ Jacob Fearnley, 24-year old tennis world no. 60 and sport’s latest showing of British talent, surprised over ‘crowd noise’ in favour of German counterpart, Zverev in Louis Armstrong stadium Mere eye-candy or brawn with beauty, Anna Kalinskaya gives tough fight against Swiatek in Arthur Ashe What’s streaming on Disney+ Canada this September 2025, Lilo & Stitch, Phineas and Ferb, and Marvel Zombies lead the lineup Canada Q2 growth shrinks for first time in 2 years as U.S. tariffs bite — is a recession ahead or can household spending bring relief? Trump explodes over Charlotte train stabbing French government collapses, PM Bayrou ousted Putin aide drops shocker on US'$35T debt ‘You touch ICE, you’re jailed’: Homan’s zero-tolerance warning Nepal 'Gen Z' Protests: 19 killed in clashes, HM resigns ‘Absolutely Useless’: Russia mocks Trump’s sanctions threat UK Home Secy warns nations of visa suspensions EAM Jaishankar to BRICS amid Trump tariff turmoil ‘Expect action in Chicago’: Trump targets sanctuary cities ICE launches 'Patriot 2.0' in Massachusetts Trump explodes over Charlotte train stabbing French government collapses, PM Bayrou ousted Putin aide drops shocker on US'$35T debt ‘You touch ICE, you’re jailed’: Homan’s zero-tolerance warning Nepal 'Gen Z' Protests: 19 killed in clashes, HM resigns ‘Absolutely Useless’: Russia mocks Trump’s sanctions threat UK Home Secy warns nations of visa suspensions EAM Jaishankar to BRICS amid Trump tariff turmoil ‘Expect action in Chicago’: Trump targets sanctuary cities ICE launches 'Patriot 2.0' in Massachusetts Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Commodities Top Slideshow Private Companies Top Prime Articles Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Jim Cramer Reveals Big Debate Surrounding AI Stock NVIDIA Corporation (NVDA)
-URL: https://finance.yahoo.com/news/jim-cramer-reveals-big-debate-152142815.html
-Time Published: 2025-09-08T15:21:42Z
-Description: We recently published 10 Stocks Jim Cramer Discussed As He Warned About Big Risk To Big Tech. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim...
---------------------------------------------------
-
-Title: Stocks Supported by Hopes of Fed Rate Cuts
-URL: https://www.barchart.com/story/news/34668168/stocks-supported-by-hopes-of-fed-rate-cuts
-Time Published: 2025-09-08T15:11:27Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.35%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.08%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Alibaba, ByteDance, and Others Remain Keen on NVIDIA (NVDA)’s AI Chips
-URL: https://finance.yahoo.com/news/alibaba-bytedance-others-remain-keen-142925517.html
-Time Published: 2025-09-08T14:29:25Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Best Reddit Stocks to Invest in Now. On September 4, Reuters reported that Alibaba, ByteDance, and other...
---------------------------------------------------
-
-Title: Stocks Mostly Higher on Fed Easing Prospects
-URL: https://www.barchart.com/story/news/34666920/stocks-mostly-higher-on-fed-easing-prospects
-Time Published: 2025-09-08T14:08:09Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.17%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
 --------------------------------------------------
