@@ -6,6 +6,12 @@ Time Published: 2025-09-11T01:10:11Z
 Description: Here are the stocks that made the most significant market moves today.
 --------------------------------------------------
 
+Title: Broadcom Is Tying CEO Compensation to AI Revenue. Does that Make AVGO Stock a Buy Here?
+URL: https://www.barchart.com/story/news/34730112/broadcom-is-tying-ceo-compensation-to-ai-revenue-does-that-make-avgo-stock-a-buy-here
+Time Published: 2025-09-10T19:17:33Z
+Description: Broadcom stock gains as the company announces performance-linked compensation plan for CEO Hock Tan. Here’s why the new contract is positive for AVGO shares.
+--------------------------------------------------
+
 Title: Broadcom ties its fate to a massive AI gamble
 URL: https://www.thestreet.com/technology/broadcom-ties-its-fate-to-a-massive-ai-gamble-
 Time Published: 2025-09-10T18:17:06Z
@@ -15,8 +21,7 @@ Description: This is the boldest wager yet for major chipmaker Broadcom.
 Title: Huge, Unusual Options Activity in Broadcom Underlines the Value of AVGO Stock
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a2a6b62a-4ae6-4a78-b9a3-a59401c02bce
 Time Published: 2025-09-10T17:30:02Z
-Full Content:
-Yahoo is part of the Yahoo family of brandsThe sites and apps that we own and operate, including Yahoo, AOL, Engadget, In The Know and Makers.Yahoo family of brands. If you do not want us and our partners to use cookies and personal data for these additional purposes, click 'Reject all'. If you would like to customise your choices, click 'Manage privacy settings'. You can withdraw your consent or change your choices at any time by clicking on the 'Privacy & cookie settings' or 'Privacy dashboard' links on our sites and apps. Find out more about how we use your personal data in our privacy policy and cookie policy.
+Description: None
 --------------------------------------------------
 
 Title: Broadcom Inc. (AVGO) Is Up Because People Feel It Can Rival NVIDIA, Says Jim Cramer
