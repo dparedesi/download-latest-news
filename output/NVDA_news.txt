@@ -1,5 +1,55 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia may have a rival on the dance floor: Oracle
+URL: https://finance.yahoo.com/news/nvidia-may-have-a-rival-on-the-ai-dance-floor-oracle-163818448.html
+Time Published: 2025-09-11T16:38:18Z
+Description: Is Oracle emerging as a serious AI contender?
+--------------------------------------------------
+
+Title: Nvidia has finally won over one of its biggest Wall Street bears
+URL: https://www.businessinsider.com/nvidia-stock-price-prediction-nvda-outlook-ai-chips-gpu-demand-2025-9
+Time Published: 2025-09-11T14:31:25Z
+Full Content:
+It seems that Nvidia's success is too great for one of Wall Street's biggest bears to ignore. In an update to clients, DA Davidson raised its rating on Nvidia stock from "neutral" to "buy" and raised its price target from $195 to $210 a share. That implies around 18% upside from current levels. It also reflects a sharp change in sentiment from what the firm has previously said about the stock, with analysts predicting as much as a 48% drop in March. "Our increasingly optimistic view of the growth in AI compute demand supersedes our list of concerns regarding NVDA," analysts led by Gil Luria, the firm's head of technology research, wrote. In the past, Luria and his team warned that spending from hyperscalers—mega-cap tech firms that are shelling out billions to further their AI ambitions—could peak in 2026, which could significantly impact Nvidia's business. The use cases for AI also need to be more significant to justify how much money comapnies are pouring into Nvidia, they added. But things have changed over the last six months. In a note shortly after Nvidia's second-quarter earnings report, Luria said the firm's perspective on the stock had "shifted quite a bit" over the past half-year, thanks to the rapid development and adoption of AI among companies. Hyperscaler spending, meanwhile, doesn't look to be nearing a peak. "It does mean that the most important thing—the overwhelming growth in demand for compute—is the only thing that matters," Luria and other analysts wrote. "NVIDIA should be able to sustain growth over the next two years, regardless of which segment that growth comes from," he added. The majority of Wall Street analysts have issued "buy" ratings on Nvidia, even considering the stock's record-breaking run-up over the last several years. The AI chipmaker is up 32% year-to-date. Luria's team, though, said they would continue to keep an eye on several "cross-currents" they saw potentially working against the stock. Here are some of the factors on their radar: Jump to
+--------------------------------------------------
+
+Title: Apple downgraded, Nvidia upgraded: Wall Street's top analyst calls
+URL: https://finance.yahoo.com/news/apple-downgraded-nvidia-upgraded-wall-134736182.html
+Time Published: 2025-09-11T13:47:36Z
+Description: Apple downgraded, Nvidia upgraded: Wall Street's top analyst calls
+--------------------------------------------------
+
+Title: Stock market today: Dow leads S&P 500, Nasdaq higher as CPI inflation, jobless claims data sets stage for Fed
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-leads-sp-500-nasdaq-higher-as-cpi-inflation-jobless-claims-data-sets-stage-for-fed-133449641.html
+Time Published: 2025-09-11T13:34:49Z
+Description: US stocks traded flat as Wall Street's attention turned from an upbeat day marked by renewed AI fervor to the next tranche of critical economic data.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as CPI inflation picks up, jobless claims surge
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-cpi-inflation-picks-up-jobless-claims-surge-123815719.html
+Time Published: 2025-09-11T13:34:49Z
+Description: US stocks traded flat as Wall Street's attention turned from an upbeat day marked by renewed AI fervor to the next tranche of critical economic data.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures tip higher as CPI inflation picks up, jobless claims surge
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-tip-higher-as-cpi-inflation-picks-up-jobless-claims-surge-123815729.html
+Time Published: 2025-09-11T12:38:15Z
+Description: US stock futures traded flat as Wall Street's attention turned from an upbeat day marked by renewed AI fervor to the next tranche of critical economic data.
+--------------------------------------------------
+
+Title: Nvidia Rises on Oracle's AI Spending Outlook
+URL: https://finance.yahoo.com/news/nvidia-rises-oracles-ai-spending-123002086.html
+Time Published: 2025-09-11T12:30:02Z
+Description: Oracle's revenue backlog fuels demand optimism for Nvidia chips
+--------------------------------------------------
+
+Title: US stock market futures edge higher: Dow, S&P 500 and Nasdaq all in green as Wall Street awaits CPI data — today’s top stocks to watch
+URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-edge-higher-dow-sp-500-and-nasdaq-all-in-green-as-wall-street-awaits-cpi-data-todays-top-stocks-to-watch/articleshow/123829613.cms
+Time Published: 2025-09-11T11:13:40Z
+Full Content:
+US stock market futures moved higher on Thursday as the Dow Jones, S&P 500, and Nasdaq all traded in green before the release of the August CPI inflation data. Dow futures rose 76 points, while S&P 500 and Nasdaq futures added about 0.2% each. Tech stocks continued to lead the action, with Oracle, Synopsys, Nvidia, Broadcom, and Alibaba in focus. Today’s inflation report will be crucial in shaping Wall Street’s outlook for interest rates and market direction. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Canadian soldier found dead in Latvia during NATO operation reassurance deployment Mexico vs Japan international soccer: live stream, TV schedule and match preview Trump denies knowledge of reported SEAL Team 6 mission in North Korea that killed civilians Pierre Poilievre pushes to end Temporary Foreign Worker program to protect Canadian jobs Canada Federal Benefit Payments 2025: When and how much you’ll get this September Tropical Storm Kiko, a combo of sub-tropical heat, cool currents, and lowly lands The Sultanate of Nur-Sultan: How ‘Elbasy’ Nazarbayev’s ‘Constitution Day’ led to his befall; a look into why the 30th Anniversary of Kazakhstan’s Constitution should be most celebrated Laver, Ryder Cup, all the result of an English-speaking lobby? Alexander Bublik’s take on tennis’ ‘superficial inclusivity’ Canada’s own Felix Auger Aliassime, beats Zverev in US Open, moves to Round-of-16, to face Rublev ‘Nervous’ Jacob Fearnley, 24-year old tennis world no. 60 and sport’s latest showing of British talent, surprised over ‘crowd noise’ in favour of German counterpart, Zverev in Louis Armstrong stadium Mere eye-candy or brawn with beauty, Anna Kalinskaya gives tough fight against Swiatek in Arthur Ashe What’s streaming on Disney+ Canada this September 2025, Lilo & Stitch, Phineas and Ferb, and Marvel Zombies lead the lineup Canada Q2 growth shrinks for first time in 2 years as U.S. tariffs bite — is a recession ahead or can household spending bring relief? Is Bihar ready for Tejashwi Yadav as CM? Politics heats up in the state Charlie Kirk to receive posthumous Medal of Freedom Nathula, Sikkim gears up for India-China trade resumption Maxwell’s emails expose her chilling role in Epstein’s crimes Rahul Gandhi warns BJP of ‘Hydrogen Bomb’ soon EU Parl refuses silent honour for Charlie Kirk Bihar: Goyal talks progress, Tejashwi targets Nitish over corruption Delhi Police unearths terror plot, 5 along with uncover Pak-backed handler arrested Piyush Goyal on GST rate cuts, FTAs, and Swadeshi push Live | PM Modi hosts Mauritius PM Ramgoolam in Kashi Is Bihar ready for Tejashwi Yadav as CM? Politics heats up in the state Charlie Kirk to receive posthumous Medal of Freedom Nathula, Sikkim gears up for India-China trade resumption Maxwell’s emails expose her chilling role in Epstein’s crimes Rahul Gandhi warns BJP of ‘Hydrogen Bomb’ soon EU Parl refuses silent honour for Charlie Kirk Bihar: Goyal talks progress, Tejashwi targets Nitish over corruption Delhi Police unearths terror plot, 5 along with uncover Pak-backed handler arrested Piyush Goyal on GST rate cuts, FTAs, and Swadeshi push Live | PM Modi hosts Mauritius PM Ramgoolam in Kashi Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Story Listing Private Companies Top Prime Articles Most Searched IFSC Codes Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
 Title: Oracle soars, TSMC & Broadcom emerge winners: Market Wrap
 URL: https://www.thestreet.com/investing/oracle-soars-tsmc-broadcom-emerge-winners-market-wrap
 Time Published: 2025-09-11T01:10:11Z
@@ -261,53 +311,4 @@ Title: Nebius signs $17.4 billion AI infrastructure deal with Microsoft, shares 
 URL: https://finance.yahoo.com/news/nebius-signs-17-4-billion-211147146.html
 Time Published: 2025-09-08T21:11:47Z
 Description: The deal underscores the surging demand for high-performance AI compute, as companies invest heavily to bolster their AI infrastructure.  Microsoft may also ...
---------------------------------------------------
-
-Title: Stocks Settle Higher as Bond Yields Fall and Chip Makers Climb
-URL: https://www.barchart.com/story/news/34674940/stocks-settle-higher-as-bond-yields-fall-and-chip-makers-climb
-Time Published: 2025-09-08T20:28:00Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +0.21%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.25%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Stock market today: Nasdaq hits record, Dow, S&P 500 rise with inflation data set to test rate-cut trade
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-hits-record-dow-sp-500-rise-with-inflation-data-set-to-test-rate-cut-trade-200206869.html
-Time Published: 2025-09-08T20:02:06Z
-Description: Investors look forward to a light week of reports and earnings, with inflation data taking center stage.
---------------------------------------------------
-
-Title: As IPO market resurges, investment banks could be winners
-URL: https://www.thestreet.com/investing/stocks/portfolio-manager-sees-morgan-stanley-making-big-moves-in-ipo-market
-Time Published: 2025-09-08T19:49:56Z
-Description: TheStreet Pro's lead portfolio manager, Chris Versace, reviews Morgan Stanley's activity in the resurgent IPO sector.
---------------------------------------------------
-
-Title: Robinhood Is Finally Joining the S&P 500. Should You Buy HOOD Stock Here?
-URL: https://www.barchart.com/story/news/34673419/robinhood-is-finally-joining-the-s-p-500-should-you-buy-hood-stock-here
-Time Published: 2025-09-08T19:30:25Z
-Description: Robinhood stock rallies on news it will replace Caesars Entertainment in the S&P 500 later this month. But much of the index inclusion optimism may already...
---------------------------------------------------
-
-Title: Nvidia’s Rally Is Facing a Reality Check: Should You Buy NVDA Stock Despite Citi’s Target Price Cut?
-URL: https://www.barchart.com/story/news/34671143/nvidias-rally-is-facing-a-reality-check-should-you-buy-nvda-stock-despite-citis-target-price-cut
-Time Published: 2025-09-08T17:26:05Z
-Description: Nvidia's rally is facing a reality check amid fears of competition in the AI chip market. It however makes sense to buy the pessimism towards NVDA.
---------------------------------------------------
-
-Title: Is Palantir Stock About to Breakout?
-URL: https://finance.yahoo.com/news/palantir-stock-breakout-170900343.html
-Time Published: 2025-09-08T17:09:00Z
-Description: After a sharp sell off from its August highs Palantir Technologies stock appear primed for another bull run
---------------------------------------------------
-
-Title: Stock market today: S&P 500 rises, Nasdaq on track for record as Wall Street looks ahead to inflation reality check
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-rises-nasdaq-on-track-for-record-as-wall-street-looks-ahead-to-inflation-reality-check-170830778.html
-Time Published: 2025-09-08T17:08:30Z
-Description: Investors look forward to a light week of reports and earnings, with inflation data taking center stage.
---------------------------------------------------
-
-Title: US stock market surges today: Nasdaq and S&P 500 hit record highs; Dow flat – Wall Street on the move as Robinhood and AppLovin stocks soar
-URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-surges-today-nasdaq-and-sp-500-hit-record-highs-dow-flat-wall-street-on-the-move-as-robinhood-and-applovin-stocks-soar/articleshow/123768912.cms
-Time Published: 2025-09-08T15:32:50Z
-Full Content:
-US stock market opened the week with strong momentum as Nasdaq and S&P 500 reached record highs, while the Dow remained largely flat. Investors are closely watching upcoming inflation reports and Federal Reserve signals, which could shape rate-cut expectations. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Canadian soldier found dead in Latvia during NATO operation reassurance deployment Mexico vs Japan international soccer: live stream, TV schedule and match preview Trump denies knowledge of reported SEAL Team 6 mission in North Korea that killed civilians Pierre Poilievre pushes to end Temporary Foreign Worker program to protect Canadian jobs Canada Federal Benefit Payments 2025: When and how much you’ll get this September Tropical Storm Kiko, a combo of sub-tropical heat, cool currents, and lowly lands The Sultanate of Nur-Sultan: How ‘Elbasy’ Nazarbayev’s ‘Constitution Day’ led to his befall; a look into why the 30th Anniversary of Kazakhstan’s Constitution should be most celebrated Laver, Ryder Cup, all the result of an English-speaking lobby? Alexander Bublik’s take on tennis’ ‘superficial inclusivity’ Canada’s own Felix Auger Aliassime, beats Zverev in US Open, moves to Round-of-16, to face Rublev ‘Nervous’ Jacob Fearnley, 24-year old tennis world no. 60 and sport’s latest showing of British talent, surprised over ‘crowd noise’ in favour of German counterpart, Zverev in Louis Armstrong stadium Mere eye-candy or brawn with beauty, Anna Kalinskaya gives tough fight against Swiatek in Arthur Ashe What’s streaming on Disney+ Canada this September 2025, Lilo & Stitch, Phineas and Ferb, and Marvel Zombies lead the lineup Canada Q2 growth shrinks for first time in 2 years as U.S. tariffs bite — is a recession ahead or can household spending bring relief? Trump explodes over Charlotte train stabbing French government collapses, PM Bayrou ousted Putin aide drops shocker on US'$35T debt ‘You touch ICE, you’re jailed’: Homan’s zero-tolerance warning Nepal 'Gen Z' Protests: 19 killed in clashes, HM resigns ‘Absolutely Useless’: Russia mocks Trump’s sanctions threat UK Home Secy warns nations of visa suspensions EAM Jaishankar to BRICS amid Trump tariff turmoil ‘Expect action in Chicago’: Trump targets sanctuary cities ICE launches 'Patriot 2.0' in Massachusetts Trump explodes over Charlotte train stabbing French government collapses, PM Bayrou ousted Putin aide drops shocker on US'$35T debt ‘You touch ICE, you’re jailed’: Homan’s zero-tolerance warning Nepal 'Gen Z' Protests: 19 killed in clashes, HM resigns ‘Absolutely Useless’: Russia mocks Trump’s sanctions threat UK Home Secy warns nations of visa suspensions EAM Jaishankar to BRICS amid Trump tariff turmoil ‘Expect action in Chicago’: Trump targets sanctuary cities ICE launches 'Patriot 2.0' in Massachusetts Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Commodities Top Slideshow Private Companies Top Prime Articles Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
 --------------------------------------------------

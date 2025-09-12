@@ -1,5 +1,11 @@
 List of news related to Bank of America stock price BAC:
 
+Title: Zelle owner Early Warning Systems exploring stablecoin for retail bank customers
+URL: https://finance.yahoo.com/news/zelle-owner-early-warning-systems-exploring-stablecoin-for-retail-bank-customers-154503036.html
+Time Published: 2025-09-11T15:45:03Z
+Description: Early Warning Systems, the startup behind the Zelle payments network, plans to explore issuing its own stablecoin for retail bank customers in the coming...
+--------------------------------------------------
+
 Title: JPMorgan Chase’s Profit Engine That Remains Undervalued
 URL: https://www.forbes.com/sites/greatspeculations/2025/09/10/jpmorgan-chases-profit-engine-that-remains-undervalued/
 Time Published: 2025-09-10T13:57:41Z
