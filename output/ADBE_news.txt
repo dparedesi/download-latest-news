@@ -143,14 +143,14 @@ Time Published: 2025-09-08T10:09:02Z
 Description: September S&P 500 E-Mini futures (ESU25) are up +0.26%, and September Nasdaq 100 E-Mini futures (NQU25) are up +0.34% this morning, pointing to a higher open...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures gain after weak jobs report with key inflation data on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-gain-after-weak-jobs-report-with-key-inflation-data-on-deck-000205478.html
+Title: Stock market today: S&P 500, Nasdaq, Dow rise as Wall Street looks ahead to inflation reality check
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-rise-as-wall-street-looks-ahead-to-inflation-reality-check-000205760.html
 Time Published: 2025-09-08T00:02:05Z
 Description: Investors look forward to a light week of reports and earnings, with inflation data taking center stage.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq, Dow rise as Wall Street looks ahead to inflation reality check
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-rise-as-wall-street-looks-ahead-to-inflation-reality-check-000205760.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures gain after weak jobs report with key inflation data on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-gain-after-weak-jobs-report-with-key-inflation-data-on-deck-000205478.html
 Time Published: 2025-09-08T00:02:05Z
 Description: Investors look forward to a light week of reports and earnings, with inflation data taking center stage.
 --------------------------------------------------

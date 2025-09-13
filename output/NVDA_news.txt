@@ -263,14 +263,14 @@ Time Published: 2025-09-10T14:13:00Z
 Description: Semiconductor sales are climbing, with AMD, NVDA and AEIS positioned for further growth.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as Oracle surges, PPI inflation bolsters Fed rate cut hopes
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-oracle-surges-ppi-inflation-bolsters-fed-rate-cut-hopes-124048266.html
+Title: Stock market today: S&P 500, Nasdaq rise as Oracle surges, PPI inflation bolsters Fed rate cut hopes
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-oracle-surges-ppi-inflation-bolsters-fed-rate-cut-hopes-124048367.html
 Time Published: 2025-09-10T12:40:48Z
 Description: Wall Street awaits key reports that could shape the Fed's next interest-rate decision.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq rise as Oracle surges, PPI inflation bolsters Fed rate cut hopes
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-oracle-surges-ppi-inflation-bolsters-fed-rate-cut-hopes-124048367.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Oracle surges, PPI inflation bolsters Fed rate cut hopes
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-oracle-surges-ppi-inflation-bolsters-fed-rate-cut-hopes-124048266.html
 Time Published: 2025-09-10T12:40:48Z
 Description: Wall Street awaits key reports that could shape the Fed's next interest-rate decision.
 --------------------------------------------------
