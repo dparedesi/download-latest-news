@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Amazon's AWS CEO: We're building the building blocks of AI
+URL: https://finance.yahoo.com/news/amazons-aws-ceo-were-building-the-building-blocks-of-ai-144842880.html
+Time Published: 2025-09-12T14:48:42Z
+Description: Amazon AWS CEO Matt Garman highlighted the enormous promise of artificial intelligence and how AWS plans to drive growth.
+--------------------------------------------------
+
 Title: Stock market today: Dow tops 46,000, S&P 500 and Nasdaq notch records as CPI, jobs data clears way for Fed cut
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-tops-46000-sp-500-and-nasdaq-notch-records-as-cpi-jobs-data-clears-way-for-fed-cut-200030140.html
 Time Published: 2025-09-11T20:00:30Z

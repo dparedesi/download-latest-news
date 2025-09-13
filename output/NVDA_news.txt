@@ -1,5 +1,38 @@
 List of news related to NVIDIA NVDA:
 
+Title: US stock market today on track for weekly gains: Nasdaq, S&P hit fresh records as Dow dips; Fed rate cut seen as done deal
+URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-on-track-for-weekly-gains-nasdaq-sp-hit-fresh-records-as-dow-dips-fed-rate-cut-seen-as-done-deal/articleshow/123856157.cms
+Time Published: 2025-09-12T16:45:34Z
+Full Content:
+US stock market today remains on track for a winning week as major indexes showed mixed moves Friday. Nasdaq and S&P 500 hit fresh record highs, supported by optimism around AI stocks and expectations of an imminent Federal Reserve rate cut. The Dow Jones Industrial Average slipped slightly, reflecting caution amid weaker consumer sentiment. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories How Americans and a fake Fox News account accused Toronto retiree Michael Mallinson of assassinating Charlie Kirk Canadian bread price fixing settlement opens: $500m available for claims Canadian soldier found dead in Latvia during NATO operation reassurance deployment Mexico vs Japan international soccer: live stream, TV schedule and match preview Trump denies knowledge of reported SEAL Team 6 mission in North Korea that killed civilians Pierre Poilievre pushes to end Temporary Foreign Worker program to protect Canadian jobs Canada Federal Benefit Payments 2025: When and how much you’ll get this September Tropical Storm Kiko, a combo of sub-tropical heat, cool currents, and lowly lands The Sultanate of Nur-Sultan: How ‘Elbasy’ Nazarbayev’s ‘Constitution Day’ led to his befall; a look into why the 30th Anniversary of Kazakhstan’s Constitution should be most celebrated Laver, Ryder Cup, all the result of an English-speaking lobby? Alexander Bublik’s take on tennis’ ‘superficial inclusivity’ Canada’s own Felix Auger Aliassime, beats Zverev in US Open, moves to Round-of-16, to face Rublev ‘Nervous’ Jacob Fearnley, 24-year old tennis world no. 60 and sport’s latest showing of British talent, surprised over ‘crowd noise’ in favour of German counterpart, Zverev in Louis Armstrong stadium Mere eye-candy or brawn with beauty, Anna Kalinskaya gives tough fight against Swiatek in Arthur Ashe PM to inaugurate 1st rail link in Aizwal, Mizoram ICE shooting in Chicago Asia Cup 2025: Shiv Sena, Congress slam govt over India-Pak match Meet 22-year-old Utah man who killed CharlieKirk Charlie Kirk shooting suspect Tyler Robinson in custody Trump ramps up crime crackdown, Memphis next Venezuela declares war on US? Social media concerns over Trump’s ‘dropping’face PM to meet displaced families in Manipur, inaugurate new projects Rs 1 crore bounty naxal Manoj among 10 killed in Chhattisgarh PM to inaugurate 1st rail link in Aizwal, Mizoram ICE shooting in Chicago Asia Cup 2025: Shiv Sena, Congress slam govt over India-Pak match Meet 22-year-old Utah man who killed CharlieKirk Charlie Kirk shooting suspect Tyler Robinson in custody Trump ramps up crime crackdown, Memphis next Venezuela declares war on US? Social media concerns over Trump’s ‘dropping’face PM to meet displaced families in Manipur, inaugurate new projects Rs 1 crore bounty naxal Manoj among 10 killed in Chhattisgarh Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Prime Articles Top Commodities Top Slideshow Private Companies Top Story Listing Top Definitions Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: US stock market today on track for winning week: Nasdaq, S&P touched fresh records while Dow dips; Fed rate cut seen as done deal
+URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-on-track-for-winning-week-nasdaq-sp-touched-fresh-records-while-dow-dips-fed-rate-cut-seen-as-done-deal/articleshow/123854725.cms
+Time Published: 2025-09-12T15:38:25Z
+Description: US stock market today showed mixed moves but remains on track for a strong weekly gain. Nasdaq and S&P 500 reached fresh record highs, while the Dow Jones slipped slightly as weaker consumer sentiment data raised caution among investors. Markets are now prici…
+--------------------------------------------------
+
+Title: Supermicro Stock Rises on News of Product Shipments Using Nvidia Blackwell Chips
+URL: https://www.investopedia.com/supermicro-stock-rises-on-news-of-product-shipments-using-nvidia-blackwell-chips-11808812
+Time Published: 2025-09-12T14:44:26Z
+Full Content:
+Super Micro Computer (SMCI), or Supermicro, shares gained as the computer hardware maker announced it was delivering products with Nvidia's (NVDA) high-speed Blackwell Ultra chips for artificial intelligence computing. The company explained that the Blackwell chips were in Supermicro's Plug-and-Play (PnP)-ready NVIDIA HGX B300 systems and GB300 NVL72 racks. Supermicro added that its total solution with the Blackwell chips is "fully integrated to combine the hardware with infrastructure software and application software, including NVIDIA AI Enterprise, NVIDIA Blueprints, and NVIDIA NIM to bring optimized AI performance to these powerful systems." Supermicro CEO Charles Liang said that his firm "has the best track record of fast and successful deployments of new NVIDIA technologies." Shares of Super Micro Computer advanced 3% Friday morning and are up nearly 50% this year. Nvidia shares edged higher in recent trading and have added a third of their value in 2025.
+--------------------------------------------------
+
+Title: OpenAI's Nonprofit Parent to Own More Than $100B Stake in ChatGPT Maker
+URL: https://www.investopedia.com/openai-s-nonprofit-parent-to-own-more-than-usd100b-stake-in-chatgpt-maker-11808704
+Time Published: 2025-09-12T12:59:35Z
+Full Content:
+OpenAI said its nonprofit parent will have an equity stake exceeding $100 billion in the ChatGPT maker, making it "one of the most well-resourced philanthropic organizations in the world." OpenAI, which said the "recapitalization would also enable us to raise the capital required to accomplish our mission," also said it and backer Microsoft (MSFT) had signed a non-binding memorandum of understanding to extend their partnership, and were "actively working to finalize contractual terms in a definitive agreement." OpenAI had initially announced plans last year to transform into a for-profit company, a condition for money it raised in funding rounds, including one where it raised $6.6 billion from investors including Microsoft and AI chip darling Nvidia (NVDA). Becoming a for-profit company would allow OpenAI to make financial returns for its shareholders and also go public, marking a departure from its original mission of building open-source technology that wouldn't be subject to commercial priorities. Separately, Microsoft avoided a potentially massive antitrust fine from the European Union by striking a deal to unbundle its Teams communication platform from its popular office apps. The European Commission, the EU's enforcement arm, said it has accepted the moves by Microsoft to untie Teams from its productivity applications Word, Excel, PowerPoint, Outlook, included in its Office 365 and Microsoft 365 suites for business customers. Microsft will now make these apps available to consumers without Teams at a lower price, allow customers tied to longer licenses to switch and let customers move their data out of Teams to use competitors. Microsoft shares, which entered Friday up by almost a fifth this year, are rising 1.4% in premarket trading.
+--------------------------------------------------
+
+Title: William Blair Maintains Bullish Stance on NVIDIA (NVDA) Stock
+URL: https://finance.yahoo.com/news/william-blair-maintains-bullish-stance-105033385.html
+Time Published: 2025-09-12T10:50:33Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Best Stocks to Invest in for the Next 5 Years. On September 9, William Blair analyst Sebastien Naji maintained...
+--------------------------------------------------
+
 Title: How to build a diversified ASX share portfolio with just $3,000
 URL: https://www.fool.com.au/2025/09/12/how-to-build-a-diversified-asx-share-portfolio-with-just-3000/
 Time Published: 2025-09-11T22:27:00Z
@@ -230,14 +263,14 @@ Time Published: 2025-09-10T14:13:00Z
 Description: Semiconductor sales are climbing, with AMD, NVDA and AEIS positioned for further growth.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq rise as Oracle surges, PPI inflation bolsters Fed rate cut hopes
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-oracle-surges-ppi-inflation-bolsters-fed-rate-cut-hopes-124048367.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Oracle surges, PPI inflation bolsters Fed rate cut hopes
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-oracle-surges-ppi-inflation-bolsters-fed-rate-cut-hopes-124048266.html
 Time Published: 2025-09-10T12:40:48Z
 Description: Wall Street awaits key reports that could shape the Fed's next interest-rate decision.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as Oracle surges, PPI inflation bolsters Fed rate cut hopes
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-oracle-surges-ppi-inflation-bolsters-fed-rate-cut-hopes-124048266.html
+Title: Stock market today: S&P 500, Nasdaq rise as Oracle surges, PPI inflation bolsters Fed rate cut hopes
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-oracle-surges-ppi-inflation-bolsters-fed-rate-cut-hopes-124048367.html
 Time Published: 2025-09-10T12:40:48Z
 Description: Wall Street awaits key reports that could shape the Fed's next interest-rate decision.
 --------------------------------------------------
@@ -278,34 +311,4 @@ Title: Was Jim Cramer Right About NVIDIA (NVDA)?
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2d0cb57e-7f83-446e-b643-b14fc4304262
 Time Published: 2025-09-09T21:19:03Z
 Description: None
---------------------------------------------------
-
-Title: Stocks Settle Higher on Hopes of Accelerated Fed Rate Cuts
-URL: https://www.barchart.com/story/news/34703550/stocks-settle-higher-on-hopes-of-accelerated-fed-rate-cuts
-Time Published: 2025-09-09T20:36:51Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed up +0.27%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.43%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: NVIDIA (NVDA) Remains a Franchise Pick as Jefferies Reiterates Buy
-URL: https://finance.yahoo.com/news/nvidia-nvda-remains-franchise-pick-190205857.html
-Time Published: 2025-09-09T19:02:05Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Buzzing AI Stocks on Wall Street. One of the biggest analyst calls on Friday, September 5, was for Nvidia...
---------------------------------------------------
-
-Title: Quantum Pact: NVIDIA, Honeywell Raise Stakes for IonQ, Rigetti, D-Wave
-URL: https://finance.yahoo.com/news/quantum-pact-nvidia-honeywell-raise-190000357.html
-Time Published: 2025-09-09T19:00:00Z
-Description: Honeywell's Quantinuum secures $600M with NVIDIA among backers, bringing IonQ, Rigetti and D-Wave into sharper investor focus.
---------------------------------------------------
-
-Title: 20 stocks to consider if you want alternatives to the expensive S&P 500
-URL: https://www.marketwatch.com/story/10-stocks-to-consider-if-you-want-alternatives-to-the-expensive-s-p-500-751464ac
-Time Published: 2025-09-09T18:39:00Z
-Description: Stocks in developed economies outside the U.S. tend to trade at lower valuations. Some of the companies are expected to expand their businesses rapidly over ...
---------------------------------------------------
-
-Title: Wall Street Loves Taiwan Semi. Should You Buy TSM Stock Now?
-URL: https://www.barchart.com/story/news/34699828/wall-street-loves-taiwan-semi-should-you-buy-tsm-stock-now
-Time Published: 2025-09-09T17:36:35Z
-Description: TSMC continues to be the backbone of artificial intelligence and advanced computing.
 --------------------------------------------------
