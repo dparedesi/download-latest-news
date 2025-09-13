@@ -100,14 +100,14 @@ Time Published: 2025-09-09T13:36:38Z
 Description: Wall Street is looking ahead to Apple's annual iPhone event ahead of the release of critical inflation data later in the week.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq edge up after US jobs data is revised sharply down
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-edge-up-after-us-jobs-data-is-revised-sharply-down-133638948.html
+Title: Stock market today: Dow, S&P 500, Nasdaq nudge up as Wall Street braces for revision to jobs data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-nudge-up-as-wall-street-braces-for-revision-to-jobs-data-232914330.html
 Time Published: 2025-09-09T13:36:38Z
 Description: Wall Street is looking ahead to Apple's annual iPhone event ahead of the release of critical inflation data later in the week.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq nudge up as Wall Street braces for revision to jobs data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-nudge-up-as-wall-street-braces-for-revision-to-jobs-data-232914330.html
+Title: Stock market today: Dow, S&P 500, Nasdaq edge up after US jobs data is revised sharply down
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-edge-up-after-us-jobs-data-is-revised-sharply-down-133638948.html
 Time Published: 2025-09-09T13:36:38Z
 Description: Wall Street is looking ahead to Apple's annual iPhone event ahead of the release of critical inflation data later in the week.
 --------------------------------------------------
