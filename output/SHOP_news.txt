@@ -1,5 +1,11 @@
 List of news related to Shopify stock price SHOP:
 
+Title: Opendoor stock soars more than 75% as Shopify COO hired to lead company
+URL: https://finance.yahoo.com/news/opendoor-stock-soars-more-than-75-as-shopify-coo-hired-to-lead-company-200403245.html
+Time Published: 2025-09-11T20:04:03Z
+Description: Opendoor stock rallied by more than 75% on Thursday on the news that Shopify COO Kaz Nejatian will be the company's next CEO.
+--------------------------------------------------
+
 Title: Opendoor stock soars more than 55% as Shopify COO hired to lead company
 URL: https://finance.yahoo.com/news/opendoor-stock-soars-more-than-55-as-shopify-coo-hired-to-lead-company-141956262.html
 Time Published: 2025-09-11T14:19:56Z
@@ -30,10 +36,4 @@ Title: The Brain-Rotting Dystopia of Roblox
 URL: http://nymag.com/intelligencer/article/what-is-roblox-video-game-app-metaverse-safe-children-ban.html
 Time Published: 2025-09-09T09:00:54Z
 Description: What if Roblox, the world’s most beloved video-game app, is turning children into mindless hyperconsumers? Inside the metaverse’s grip on kids.
---------------------------------------------------
-
-Title: Analysts Keep Raising Shopify's Targets - Make a 3.0% Yield in One-Month SHOP OTM Puts
-URL: https://www.barchart.com/story/news/34653359/analysts-keep-raising-shopify-s-targets-make-a-3-0-yield-in-one-month-shop-otm-puts
-Time Published: 2025-09-07T13:30:02Z
-Description: Analysts have raised their Shopify revenue and stock price targets. Its new target price is 20% higher. This article will show how to make a 3.0% yield...
 --------------------------------------------------

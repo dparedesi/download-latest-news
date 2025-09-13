@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Stock market today: Dow tops 46,000, S&P 500 and Nasdaq notch records as CPI, jobs data clears way for Fed cut
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-tops-46000-sp-500-and-nasdaq-notch-records-as-cpi-jobs-data-clears-way-for-fed-cut-200030140.html
+Time Published: 2025-09-11T20:00:30Z
+Description: US stocks were on pace for record closes as Wall Street's attention turned from an upbeat day marked by renewed AI fervor to the next tranche of critical...
+--------------------------------------------------
+
 Title: Nvidia may have a rival on the dance floor: Oracle
 URL: https://finance.yahoo.com/news/nvidia-may-have-a-rival-on-the-ai-dance-floor-oracle-163818448.html
 Time Published: 2025-09-11T16:38:18Z
@@ -54,16 +60,4 @@ Title: These are the stock-market trades to make going into the end of the year,
 URL: https://www.marketwatch.com/story/these-are-the-stock-market-trades-to-make-going-into-the-end-of-the-year-according-to-goldman-sachs-694bfedf
 Time Published: 2025-09-08T13:31:00Z
 Description: An unwind of the AI trade represents the clearest potential catalyst for a reversal, says Wall St bank
---------------------------------------------------
-
-Title: Amazon.com, Inc. (AMZN) Might Make A Big Move In AI, Says Jim Cramer
-URL: https://finance.yahoo.com/news/amazon-com-inc-amzn-might-202635601.html
-Time Published: 2025-09-07T20:26:35Z
-Description: We recently published 11 Stocks Jim Cramer Discussed As He Said Apple’s CEO Is A “Pawn”. Amazon.com, Inc. (NASDAQ:AMZN) is one of the stocks Jim Cramer...
---------------------------------------------------
-
-Title: Analysts Keep Raising Shopify's Targets - Make a 3.0% Yield in One-Month SHOP OTM Puts
-URL: https://www.barchart.com/story/news/34653359/analysts-keep-raising-shopify-s-targets-make-a-3-0-yield-in-one-month-shop-otm-puts
-Time Published: 2025-09-07T13:30:02Z
-Description: Analysts have raised their Shopify revenue and stock price targets. Its new target price is 20% higher. This article will show how to make a 3.0% yield...
 --------------------------------------------------
