@@ -1,13 +1,13 @@
 List of news related to Bank of America stock price BAC:
 
-Title: Zelle owner Early Warning Services exploring stablecoin for retail bank customers
-URL: https://finance.yahoo.com/news/zelle-owner-early-warning-services-exploring-stablecoin-for-retail-bank-customers-154503674.html
+Title: Zelle owner Early Warning Systems exploring stablecoin for retail bank customers
+URL: https://finance.yahoo.com/news/zelle-owner-early-warning-systems-exploring-stablecoin-for-retail-bank-customers-154503036.html
 Time Published: 2025-09-11T15:45:03Z
 Description: Early Warning Systems, the startup behind the Zelle payments network, plans to explore issuing its own stablecoin for retail bank customers in the coming...
 --------------------------------------------------
 
-Title: Zelle owner Early Warning Systems exploring stablecoin for retail bank customers
-URL: https://finance.yahoo.com/news/zelle-owner-early-warning-systems-exploring-stablecoin-for-retail-bank-customers-154503036.html
+Title: Zelle owner Early Warning Services exploring stablecoin for retail bank customers
+URL: https://finance.yahoo.com/news/zelle-owner-early-warning-services-exploring-stablecoin-for-retail-bank-customers-154503674.html
 Time Published: 2025-09-11T15:45:03Z
 Description: Early Warning Systems, the startup behind the Zelle payments network, plans to explore issuing its own stablecoin for retail bank customers in the coming...
 --------------------------------------------------
