@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: These companies could follow Nvidia’s lead with AI driving rapid sales growth
+URL: https://www.marketwatch.com/story/these-companies-could-follow-nvidias-lead-with-ai-driving-rapid-sales-growth-c66067dc
+Time Published: 2025-09-12T19:26:00Z
+Description: Also: The scorching IPO market, an IRA problem you wish you had, and your residential real-estate questions answered
+--------------------------------------------------
+
 Title: US stock market today on track for weekly gains: Nasdaq, S&P hit fresh records as Dow dips; Fed rate cut seen as done deal
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-on-track-for-weekly-gains-nasdaq-sp-hit-fresh-records-as-dow-dips-fed-rate-cut-seen-as-done-deal/articleshow/123856157.cms
 Time Published: 2025-09-12T16:45:34Z
@@ -125,6 +131,12 @@ Full Content:
 Nebius Group shares jumped Tuesday after the Amsterdam-based AI infrastructure provider said it has inked an agreement with Microsoft worth up to $19.4 billion over five years. Under the deal, Nebius (NBIS) will deliver computing resources to Microsoft (MSFT) later this year using a data center in New Jersey, helping the Azure owner address a demand shortage for cloud infrastructure that can process increasing AI workloads. CEO Arkady Volozh said it’s the first time Nebius had signed a long-term contract with a large tech company, and added that there are likely more to come. Nebius stock was up 37% at $88 in recent trading after hitting an all-time high near $98 in the opening minutes of the session. The stock has more than tripled since the start of 2025, boosted in part by news AI favorite Nvidia (NVDA) had taken a stake in the company. Below we analyze the technicals on the Nebius chart and identify major price levels worth watching out for after the stock’s big move today. After climbing to their highest level in more than three years last month, Nebius shares had consolidated in a pennant, a chart pattern that signals a bullish continuation upon a breakout to the upside. That move higher took place on Tuesday, setting the stage for potential follow-through buying. Interestingly, prior to today’s surge, the relative strength index bottomed around its neutral reading, the same level that coincided with the end of a dip in early July. Let’s use technical analysis to forecast a potential bullish price target to monitor and also point out major support levels worth watching during potential retracements. Investors can forecast a bullish price target by using the measured move technique, a study that analyzes chart patterns to project future price movements. When applying the analysis to the Nebius chart, we measure the percentage change of the steep uptrend from May to August that preceded the pennant and add it to the pattern’s top trendline value, assuming a similar continuation move may play out in the months ahead. For example, we apply a 145% increase to $72, which projects a target of $176.40—implying that the stock could more than double from Monday’s closing price. During retracements, investors should initially watch the $87 level. The stock could be snapped up at this level by investors looking for entry points on a retest of the prominent November 2021 peak, which also marks the stock’s prior all-time high. A close below this level could see the shares fall to support near $76. This area may provide support around the top of the pennant, which also corresponds with a period of trading activity on the chart between September and October 2021. Finally, a more-significant drop in Nebius shares could bring lower support at $54 into play. Investors may seek buying opportunities at this location near the February 2022 countertrend peak and a range of sideways price action on the chart that preceded a notable stock gap last month. The comments, opinions, and analyses expressed on Investopedia are for informational purposes only. Read our warranty and liability disclaimer for more info. As of the date this article was written, the author does not own any of the above securities.
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq nudge up as Wall Street braces for revision to jobs data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-nudge-up-as-wall-street-braces-for-revision-to-jobs-data-232914330.html
+Time Published: 2025-09-09T13:36:38Z
+Description: Wall Street is looking ahead to Apple's annual iPhone event ahead of the release of critical inflation data later in the week.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq waver after US jobs data is revised sharply down
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-after-us-jobs-data-is-revised-sharply-down-133638637.html
 Time Published: 2025-09-09T13:36:38Z
@@ -137,62 +149,8 @@ Time Published: 2025-09-09T13:36:38Z
 Description: Wall Street is looking ahead to Apple's annual iPhone event ahead of the release of critical inflation data later in the week.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq nudge up as Wall Street braces for revision to jobs data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-nudge-up-as-wall-street-braces-for-revision-to-jobs-data-232914330.html
-Time Published: 2025-09-09T13:36:38Z
-Description: Wall Street is looking ahead to Apple's annual iPhone event ahead of the release of critical inflation data later in the week.
---------------------------------------------------
-
 Title: Microsoft (MSFT) Rose in Q2 as Results and Guidance Update Surpassed Expectations
 URL: https://finance.yahoo.com/news/microsoft-msft-rose-q2-results-125318341.html
 Time Published: 2025-09-09T12:53:18Z
 Description: Brown Advisory, an investment management company, released its “Brown Advisory Large-Cap Growth Strategy” second-quarter 2025 investor letter. A copy of the ...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq drift as Wall Street braces for revision to jobs data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-drift-as-wall-street-braces-for-revision-to-jobs-data-232914335.html
-Time Published: 2025-09-08T23:29:14Z
-Description: Wall Street are looking ahead to Apple's annual iPhone event ahead of the release of critical inflation data later in the week.
---------------------------------------------------
-
-Title: Stock market today: Nasdaq hits record, Dow, S&P 500 rise with inflation data set to test rate-cut trade
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-hits-record-dow-sp-500-rise-with-inflation-data-set-to-test-rate-cut-trade-200206869.html
-Time Published: 2025-09-08T20:02:06Z
-Description: Investors look forward to a light week of reports and earnings, with inflation data taking center stage.
---------------------------------------------------
-
-Title: Why Rocket Lab (RKLB) Stock Is Trading Up Today
-URL: https://finance.yahoo.com/news/why-rocket-lab-rklb-stock-182639864.html
-Time Published: 2025-09-08T18:26:39Z
-Description: Shares of aerospace and defense company Rocket Lab (NASDAQ:RKLB) jumped 4.1% in the afternoon session after it got positive commentary from Wall Street...
---------------------------------------------------
-
-Title: Stock market today: S&P 500 rises, Nasdaq on track for record as Wall Street looks ahead to inflation reality check
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-rises-nasdaq-on-track-for-record-as-wall-street-looks-ahead-to-inflation-reality-check-170830778.html
-Time Published: 2025-09-08T17:08:30Z
-Description: Investors look forward to a light week of reports and earnings, with inflation data taking center stage.
---------------------------------------------------
-
-Title: Stocks Mostly Higher on Fed Easing Prospects
-URL: https://www.barchart.com/story/news/34666920/stocks-mostly-higher-on-fed-easing-prospects
-Time Published: 2025-09-08T14:08:09Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.17%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: These are the stock-market trades to make going into the end of the year, according to Goldman Sachs
-URL: https://www.marketwatch.com/story/these-are-the-stock-market-trades-to-make-going-into-the-end-of-the-year-according-to-goldman-sachs-694bfedf
-Time Published: 2025-09-08T13:31:00Z
-Description: An unwind of the AI trade represents the clearest potential catalyst for a reversal, says Wall St bank
---------------------------------------------------
-
-Title: Stocks Set to Open Higher as Fed Rate-Cut Expectations Rise, U.S. Inflation Data Awaited
-URL: https://www.barchart.com/story/news/34660103/stocks-set-to-open-higher-as-fed-rate-cut-expectations-rise-u-s-inflation-data-awaited
-Time Published: 2025-09-08T10:09:02Z
-Description: September S&P 500 E-Mini futures (ESU25) are up +0.26%, and September Nasdaq 100 E-Mini futures (NQU25) are up +0.34% this morning, pointing to a higher open...
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq, Dow rise as Wall Street looks ahead to inflation reality check
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-rise-as-wall-street-looks-ahead-to-inflation-reality-check-000205760.html
-Time Published: 2025-09-08T00:02:05Z
-Description: Investors look forward to a light week of reports and earnings, with inflation data taking center stage.
 --------------------------------------------------
