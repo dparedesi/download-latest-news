@@ -56,14 +56,14 @@ Time Published: 2025-09-11T16:04:39Z
 Description: Broadcom’s new $10 billion AI chip order has fueled a double-digit stock surge and solidified AVGO’s position as a top supplier in the generative AI race...
 --------------------------------------------------
 
-Title: Stock market today: Dow leads S&P 500, Nasdaq higher as CPI inflation, jobless claims data sets stage for Fed
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-leads-sp-500-nasdaq-higher-as-cpi-inflation-jobless-claims-data-sets-stage-for-fed-133449641.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as CPI inflation picks up, jobless claims surge
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-cpi-inflation-picks-up-jobless-claims-surge-123815719.html
 Time Published: 2025-09-11T13:34:49Z
 Description: US stocks traded flat as Wall Street's attention turned from an upbeat day marked by renewed AI fervor to the next tranche of critical economic data.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as CPI inflation picks up, jobless claims surge
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-cpi-inflation-picks-up-jobless-claims-surge-123815719.html
+Title: Stock market today: Dow leads S&P 500, Nasdaq higher as CPI inflation, jobless claims data sets stage for Fed
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-leads-sp-500-nasdaq-higher-as-cpi-inflation-jobless-claims-data-sets-stage-for-fed-133449641.html
 Time Published: 2025-09-11T13:34:49Z
 Description: US stocks traded flat as Wall Street's attention turned from an upbeat day marked by renewed AI fervor to the next tranche of critical economic data.
 --------------------------------------------------
