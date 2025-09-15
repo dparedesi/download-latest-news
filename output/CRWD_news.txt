@@ -17,28 +17,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d066ce80
 Time Published: 2025-09-10T11:35:28Z
 Description: None
 --------------------------------------------------
-
-Title: Morgan Stanley flags 3 cybersecurity stocks poised to rally as threats increase and IT spending jumps
-URL: https://www.businessinsider.com/stocks-to-buy-now-top-cybersecurity-stock-picks-zs-crwd-2025-9
-Time Published: 2025-09-09T16:40:53Z
-Full Content:
-Morgan Stanley says a few cybersecurity firms are primed for further upside as companies pump money into streamlined security platforms. The share prices of Palo Alto Networks, CrowdStrike, and Zscaler should all get a boost in the coming 12 months, the bank's software equity research team said in a note earlier this month. The three companies are best-positioned for a mega wave of "platformization" for cybersecurity products, with firms looking to integrate and simplify their cyber-defense structures. All three of the stocks offer solutions across multiple parts of the security chain, like devices, cloud, applications, and networks. "We expect platformization to continue as security needs grow against tight budgets, environments get more complex, a problem that only gets worse with AI," analyst Meta A. Marshall, the lead author of the note, wrote. Morgan Stanley expects the $270 billion cybersecurity market to grow by about 12% a year over the next few years. The bank also cited its CIO survey data showing that firms intend to spend 50% more on cybersecurity products than general software products in the years ahead as a reason to be bullish. On Morgan Stanley's list of 15 software stocks to watch, two key drivers of forward returns are revenue growth (for long-term returns) and free-cash flow margins (for short-term performance), the bank said. Among those on the list, the median projected revenue growth is 11.8% and the median projected free cash flow margin is 26.6%. Palo Alto Networks has projected revenue growth of 13.6% for next year and 38.3% projected free cash flow margins, part of the reason that Morgan Stanley has an "Overweight" rating on the stock. As of September 2, the stock has 9% implied upside to its price target, the bank said, and 36% upside in its bull case scenario. "In our view, Palo Alto Networks should be one of the few leading platform vendors in security longer-term, especially as the platformization strategy continues to gain momentum and more security vendors consolidate," the bank said of the firm. For shares of CrowdStrike, which MS gives an "Equal Weight" rating, the bank sees 9% upside as a base case and 30% upside in its bull case. Its projected revenue growth is 21.5% and its projected free cash flow margin is 31%. Finally, Zscaler, which the bank recently upgraded to an "Overweight" rating, should climb 16% to the bank's price target, it said. Its bull-case scenario is a 44% gain. Its revenue is projected to grow by 18.3% and its projected free cash flow margin is 27.3%. "We think ZS could cement itself as the next true platform (along with PANW and CRWD)," the bank said. Jump to
---------------------------------------------------
-
-Title: SailPoint CEO: AI agents promise big gains — and big risks
-URL: https://finance.yahoo.com/news/sailpoint-ceo-ai-agents-promise-big-gains--and-big-risks-162015066.html
-Time Published: 2025-09-09T16:20:15Z
-Description: SailPoint CEO Mark McClain says AI agents bring both opportunity and risk for enterprises.
---------------------------------------------------
-
-Title: CrowdStrike CEO: AI is unleashing more adversaries for cybersecurity companies to defeat
-URL: https://finance.yahoo.com/news/crowdstrike-ceo-ai-is-unleashing-more-adversaries-for-cybersecurity-companies-to-defeat-160225124.html
-Time Published: 2025-09-09T16:02:25Z
-Description: CrowdStrike founder and CEO George Kurtz says bad actors are creating big opportunities in the business of cybersecurity.
---------------------------------------------------
-
-Title: Jim Cramer Shares Key Role CrowdStrike Holdings, Inc. (CRWD) Can Play In Defending AI
-URL: https://finance.yahoo.com/news/jim-cramer-shares-key-role-133439031.html
-Time Published: 2025-09-09T13:34:39Z
-Description: We recently published 10 Stocks Jim Cramer Discussed As He Dismissed A Recession. CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of the stocks Jim Cramer...
---------------------------------------------------

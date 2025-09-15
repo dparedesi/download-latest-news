@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: HSBC Trims AMD Target Amid Revised Pricing Assumptions
+URL: https://finance.yahoo.com/news/hsbc-trims-amd-target-amid-000337435.html
+Time Published: 2025-09-14T00:03:37Z
+Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the AI Stocks on Wall Street’s Radar. On September 9, HSBC analyst Frank Lee lowered the price target on ...
+--------------------------------------------------
+
 Title: HSBC: Wall Street Underestimating Advanced Micro Devices Inc. (AMD)’s AI GPU Business
 URL: https://finance.yahoo.com/news/hsbc-wall-street-underestimating-advanced-135320942.html
 Time Published: 2025-09-13T13:53:20Z
@@ -54,10 +60,4 @@ Title: Stock Index Futures Gain on Oracle Boost Ahead of Key U.S. PPI Data
 URL: https://www.barchart.com/story/news/34715008/stock-index-futures-gain-on-oracle-boost-ahead-of-key-u-s-ppi-data
 Time Published: 2025-09-10T10:19:15Z
 Description: September S&P 500 E-Mini futures (ESU25) are up +0.25%, and September Nasdaq 100 E-Mini futures (NQU25) are up +0.15% this morning as a blowout outlook from ...
---------------------------------------------------
-
-Title: Wall Street Loves Taiwan Semi. Should You Buy TSM Stock Now?
-URL: https://www.barchart.com/story/news/34699828/wall-street-loves-taiwan-semi-should-you-buy-tsm-stock-now
-Time Published: 2025-09-09T17:36:35Z
-Description: TSMC continues to be the backbone of artificial intelligence and advanced computing.
 --------------------------------------------------

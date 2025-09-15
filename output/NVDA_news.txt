@@ -1,5 +1,18 @@
 List of news related to NVIDIA NVDA:
 
+Title: Goldman Sachs Warns An AI Slowdown Can Tank The Stock Market By 20%
+URL: https://www.benzinga.com/personal-finance/management/25/09/47657777/goldman-sachs-warns-an-ai-slowdown-can-tank-the-stock-market-by-20
+Time Published: 2025-09-14T03:01:07Z
+Full Content:
+Benzinga Rankings give you vital metrics on any stock – anytime. Artificial intelligence has propelled the stock market to all-time highs, but Goldman Sachs GS recently warned that once AI spending slows down, the stock market can tank by 20%. A research note from Goldman Sachs Analyst Ryan Hammond cited the danger of hyperscalers inevitably cutting back on AI expenditures, according to Fortune. "A reversion of long-term growth estimates back to early 2023 levels would imply 15% to 20% downside to the current valuation multiple of the S&P 500," Hammond reportedly wrote in his research note. Don't Miss: Right now, AI spending is full steam ahead, but Hammond wrote that a few analysts are assuming that a sharp deceleration will take place in Q4 2025 and 2026. Tech giants haven't gotten the memo. Meta Platforms META said this week it will spend $600 billion on AI over the next three years. Zuckerberg later posted on Threads that it's possible the company will invest more than $600 billion during those three years. He even said a "significantly higher number" was likely through the end of the decade. Microsoft MSFT made another big AI deal this week by securing a five-year, $17.4 billion AI infrastructure deal with Nebius NBIS. This type of rapid spending indicates AI growth can continue beyond the current rally. Trending: ‘Scrolling To UBI' — Deloitte's #1 fastest-growing software company allows users to earn money on their phones. You can invest today for just $0.30/share. Artificial intelligence plays a critical role in the stock market's performance based on the top companies in major benchmarks like the S&P 500 and Nasdaq. Data from Slickchart shows that top AI beneficiary Nvidia NVDA makes up approximately 7% of the S&P 500. The top eight publicly traded corporations on the S&P 500 are all heavily invested in artificial intelligence. They are ramping up their AI spending and aim to release products and services that use AI. These eight companies make up more than 36% of the S&P 500. There are also corporate giants outside of the S&P 500's top 10 that still invest heavily in artificial intelligence. Oracle ORCL, Palantir PLTR, and Cisco CSCO are some of the most notable S&P 500 members in the category. Those three stocks make up more than 2% of the S&P 500 combined, and if they continue to outpace stocks with less of a focus on AI, then the technology's influence on the stock market will continue to grow. If the AI trade fades, many stocks will lose value and drag the S&P 500 considerably lower from its current levels. See Also: Kevin O'Leary Says Real Estate's Been a Smart Bet for 200 Years — This Platform Lets Anyone Tap Into It It's almost never a good idea to sell stocks just because of headlines or what an analyst says in a research note. However, Hammond reportedly brings up a point that some investors are ignoring. What if AI spending eventually slows down? There's only so much money and profits big tech can spend on AI, so growth rates will eventually have to decrease. It can still take a few years before a meaningful slowdown in the growth of AI spending, and decelerating growth rates don't necessarily translate into big tech pulling out of AI spending completely. Investors should consider the bullish and bearish points of any of their positions. While the stock market is exuberant on AI and its long-term potential, it's good to consider the possible downside of any slowdowns in AI spending. Read Next: 7 Million Gamers Already Trust Gameflip With Their Digital Assets — Now You Can Own a Stake in the Platform Image: Shutterstock Benzinga Rankings give you vital metrics on any stock – anytime. © 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. A newsletter built for market enthusiasts by market enthusiasts. Top stories, top movers, and trade ideas delivered to your inbox every weekday before and after the market closes.
+--------------------------------------------------
+
+Title: Wall Street Turns Bullish on NVIDIA (NVDA) as AI Compute Drives Growth
+URL: https://finance.yahoo.com/news/wall-street-turns-bullish-nvidia-001416750.html
+Time Published: 2025-09-14T00:14:16Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks on Wall Street’s Radar. On September 11, D.A. Davidson upgraded the stock to “Buy” from Neutral and ...
+--------------------------------------------------
+
 Title: Stocks Reach Highs On Oracle And Fed Expectations
 URL: https://www.forbes.com/sites/bill_stone/2025/09/13/stocks-reach-highs-on-oracle-and-fed-expectations/
 Time Published: 2025-09-13T15:38:14Z
@@ -18,6 +31,12 @@ URL: https://www.investopedia.com/business-is-booming-for-many-tech-giants-they-
 Time Published: 2025-09-13T14:00:00Z
 Full Content:
 When business is surging, companies often expand their workforces to handle demand. That's not what's happening lately at some of America's biggest tech companies. Oracle's (ORCL) booming AI-driven backlog sent its stock to a record high this week—just weeks after reports the computing giant laid off hundreds of workers as part of an effort curb costs. Several other tech giants, including Microsoft (MSFT), Amazon (AMZN), and Google parent Alphabet (GOOGL), have shed jobs recently even as their revenues rose. (Oracle did not respond to a request for comment on the layoffs in time for publication.) The tech sector has been one of the heaviest hit by layoffs so far this year, second only to government jobs, according to a report from Challenger, Gray, and Christmas. And many of the industry's biggest companies are cutting from a large base: Data from online job board Indeed shows that listings for tech jobs peaked in 2022, outpacing the growth of available jobs in the economy at large, but that trend has reversed. Leading tech firms are trimming their ranks as demand for their services grows. Their swelling spending on AI data centers and hardware from chipmakers like Nvidia (NVDA) is one contributing factor, according to Wall Street analysts. AI expenditures are pushing tech leaders to cut costs elsewhere, D.A. Davidson analyst Gil Luria has previously told Investopedia, driving many to cut staff or slow hiring to relieve pressure on profit margins. Some, he said, also expect to need fewer workers because of the technology. Amazon CEO Andy Jassy told employees in June that he expects AI will likely lead Amazon to eventually operate with a smaller total headcount. He encouraged them to become more familiar with AI tools, suggesting that those who do could be better-positioned "to have high impact and help us reinvent the company." Economists at Goldman Sachs have estimated that about 6% to 7% of U.S. jobs could be replaced by AI. However, they're still optimistic about its effects on the job market, suggesting that losses could be "fleeting" and observing that job displacement due to labor-saving technological advances in the past have tended to fade after about two years. "We remain skeptical that AI will lead to large employment reductions over the next decade," they wrote. "Predictions that technology will reduce the need for human labor have a long history but a poor track record."
+--------------------------------------------------
+
+Title: Supermicro (SMCI): Evaluating Valuation Following Launch of Blackwell Ultra AI Data Center Solutions
+URL: https://finance.yahoo.com/news/supermicro-smci-evaluating-valuation-following-125543430.html
+Time Published: 2025-09-13T12:55:43Z
+Description: Super Micro Computer (SMCI) has just started shipping its highly anticipated NVIDIA Blackwell Ultra solutions worldwide, a move that is capturing plenty of...
 --------------------------------------------------
 
 Title: Why NDQ ETF and these ASX ETFs could be strong buys
@@ -295,22 +314,4 @@ Title: S&P 500 Climbs to a Record High on Fed Rate Cut Optimism
 URL: https://www.barchart.com/story/news/34724867/s-p-500-climbs-to-a-record-high-on-fed-rate-cut-optimism
 Time Published: 2025-09-10T15:24:18Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.51%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.46%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: The 4% retirement rule? How to invest so you can withdraw closer to 0% and not run out of money.
-URL: https://www.marketwatch.com/story/the-4-retirement-rule-how-to-invest-so-you-can-withdraw-closer-to-0-and-not-run-out-of-money-721b8466
-Time Published: 2025-09-10T15:18:00Z
-Description: A portfolio of dividend-paying stocks could supplement your withdrawal strategy.
---------------------------------------------------
-
-Title: Stocks Supported as US Producer Prices Ease and Bond Yields Fall
-URL: https://www.barchart.com/story/news/34723402/stocks-supported-as-us-producer-prices-ease-and-bond-yields-fall
-Time Published: 2025-09-10T14:13:39Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.46%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.24%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: 3 Solid Stocks to Buy on Steady Growth in Semiconductor Sales
-URL: https://finance.yahoo.com/news/3-solid-stocks-buy-steady-141300903.html
-Time Published: 2025-09-10T14:13:00Z
-Description: Semiconductor sales are climbing, with AMD, NVDA and AEIS positioned for further growth.
 --------------------------------------------------

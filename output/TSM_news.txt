@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: TSMC Stock Price Target Raised to $290 on Strong AI Demand
+URL: https://finance.yahoo.com/news/tsmc-stock-price-target-raised-001313788.html
+Time Published: 2025-09-14T00:13:13Z
+Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the AI Stocks on Wall Street’s Radar. On September 4, Bernstein SocGen Group analyst ...
+--------------------------------------------------
+
 Title: How to build a diversified ASX share portfolio with just $3,000
 URL: https://www.fool.com.au/2025/09/12/how-to-build-a-diversified-asx-share-portfolio-with-just-3000/
 Time Published: 2025-09-11T22:27:00Z
@@ -17,16 +23,4 @@ Title: Stock Index Futures Gain on Oracle Boost Ahead of Key U.S. PPI Data
 URL: https://www.barchart.com/story/news/34715008/stock-index-futures-gain-on-oracle-boost-ahead-of-key-u-s-ppi-data
 Time Published: 2025-09-10T10:19:15Z
 Description: September S&P 500 E-Mini futures (ESU25) are up +0.25%, and September Nasdaq 100 E-Mini futures (NQU25) are up +0.15% this morning as a blowout outlook from ...
---------------------------------------------------
-
-Title: Wall Street Loves Taiwan Semi. Should You Buy TSM Stock Now?
-URL: https://www.barchart.com/story/news/34699828/wall-street-loves-taiwan-semi-should-you-buy-tsm-stock-now
-Time Published: 2025-09-09T17:36:35Z
-Description: TSMC continues to be the backbone of artificial intelligence and advanced computing.
---------------------------------------------------
-
-Title: Why JPMorgan is warning the Fed rate cut everyone expects could sink stocks
-URL: https://www.marketwatch.com/story/why-jpmorgan-is-warning-the-fed-rate-cut-everyone-expects-could-sink-stocks-0179698d
-Time Published: 2025-09-09T14:10:00Z
-Description: The widely expected September Fed rate cut may have a surprise in store for investors who think stocks have nowhere to go but up, warns JPMorgan.
 --------------------------------------------------
