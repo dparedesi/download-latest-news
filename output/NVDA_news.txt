@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Has Nvidia Lost Sight of the Core Consumer?
+URL: https://finance.yahoo.com/news/nvidia-lost-sight-core-consumer-185126232.html
+Time Published: 2025-09-14T18:51:26Z
+Description: Nvidia has seemingly lost sight of it's core consumer base in favor of its enterprise segment.
+--------------------------------------------------
+
 Title: Are NVIDIA Shares Still Worth the Price After UK Datacenter Investment News?
 URL: https://finance.yahoo.com/news/nvidia-shares-still-worth-price-122551220.html
 Time Published: 2025-09-14T12:25:51Z
@@ -185,14 +191,14 @@ Time Published: 2025-09-11T13:47:36Z
 Description: Apple downgraded, Nvidia upgraded: Wall Street's top analyst calls
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as CPI inflation picks up, jobless claims surge
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-cpi-inflation-picks-up-jobless-claims-surge-123815719.html
+Title: Stock market today: Dow leads S&P 500, Nasdaq higher as CPI inflation, jobless claims data sets stage for Fed
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-leads-sp-500-nasdaq-higher-as-cpi-inflation-jobless-claims-data-sets-stage-for-fed-133449641.html
 Time Published: 2025-09-11T13:34:49Z
 Description: US stocks traded flat as Wall Street's attention turned from an upbeat day marked by renewed AI fervor to the next tranche of critical economic data.
 --------------------------------------------------
 
-Title: Stock market today: Dow leads S&P 500, Nasdaq higher as CPI inflation, jobless claims data sets stage for Fed
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-leads-sp-500-nasdaq-higher-as-cpi-inflation-jobless-claims-data-sets-stage-for-fed-133449641.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as CPI inflation picks up, jobless claims surge
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-cpi-inflation-picks-up-jobless-claims-surge-123815719.html
 Time Published: 2025-09-11T13:34:49Z
 Description: US stocks traded flat as Wall Street's attention turned from an upbeat day marked by renewed AI fervor to the next tranche of critical economic data.
 --------------------------------------------------
@@ -308,10 +314,4 @@ URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-
 Time Published: 2025-09-10T16:12:09Z
 Full Content:
 U.S. stock market turned mixed on Wednesday, with the S&P 500 and Nasdaq climbing to new record highs while the Dow slipped, as investors weighed cooling inflation data against a flood of corporate news. The highlight of the session was Oracle’s jaw-dropping 41% surge, its best day in more than three decades, after the company issued an ambitious forecast tied to artificial intelligence cloud demand. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. 'Pakistan a failed state addicted to propaganda...' NASA rover spots possible signs of ancient life Oracle chief tops Elon Musk as world's richest man PM Modi holds call with Italy's Meloni | discusses EU-India FTA Sebastien Lecornu becomes France’s new PM Sonia Gandhi electoral roll case; Delhi court reserves order Trump demands death sentence for Ukrainian refugee murderer HC hearing begins on Karisma Kapoor children's ₹30,000 cr inheritance dispute Punjab flood relief fund row: Governor assures more aid from PM soon Poland shoots down Russian drones 'Pakistan a failed state addicted to propaganda...' NASA rover spots possible signs of ancient life Oracle chief tops Elon Musk as world's richest man PM Modi holds call with Italy's Meloni | discusses EU-India FTA Sebastien Lecornu becomes France’s new PM Sonia Gandhi electoral roll case; Delhi court reserves order Trump demands death sentence for Ukrainian refugee murderer HC hearing begins on Karisma Kapoor children's ₹30,000 cr inheritance dispute Punjab flood relief fund row: Governor assures more aid from PM soon Poland shoots down Russian drones Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Prime Articles Private Companies Top Commodities Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: SoFi Just Launched a New AI ETF. Should You Buy AGIQ Here?
-URL: https://www.barchart.com/story/news/34725694/sofi-just-launched-a-new-ai-etf-should-you-buy-agiq-here
-Time Published: 2025-09-10T15:53:31Z
-Description: It's SoFi's first ETF launch since 2023, but it lands in a crowded field of AI ETFs.
 --------------------------------------------------
