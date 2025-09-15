@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Top Wall Street analysts bet on the potential of these 3 stocks for the long haul
+URL: https://www.cnbc.com/2025/09/14/top-wall-street-analysts-bet-on-the-potential-of-these-3-stocks-for-the-long-haul.html
+Time Published: 2025-09-14T12:35:34Z
+Description: TipRanks' ranking service discusses three stocks, including Broadcom and Oracle, that are favored by Wall Street.
+--------------------------------------------------
+
 Title: NVIDIA’s Way Ahead Of Broadcom (AVGO), Says Jim Cramer
 URL: https://finance.yahoo.com/news/nvidia-way-ahead-broadcom-avgo-152257920.html
 Time Published: 2025-09-12T15:22:57Z
@@ -56,14 +62,14 @@ Time Published: 2025-09-11T16:04:39Z
 Description: Broadcom’s new $10 billion AI chip order has fueled a double-digit stock surge and solidified AVGO’s position as a top supplier in the generative AI race...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as CPI inflation picks up, jobless claims surge
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-cpi-inflation-picks-up-jobless-claims-surge-123815719.html
+Title: Stock market today: Dow leads S&P 500, Nasdaq higher as CPI inflation, jobless claims data sets stage for Fed
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-leads-sp-500-nasdaq-higher-as-cpi-inflation-jobless-claims-data-sets-stage-for-fed-133449641.html
 Time Published: 2025-09-11T13:34:49Z
 Description: US stocks traded flat as Wall Street's attention turned from an upbeat day marked by renewed AI fervor to the next tranche of critical economic data.
 --------------------------------------------------
 
-Title: Stock market today: Dow leads S&P 500, Nasdaq higher as CPI inflation, jobless claims data sets stage for Fed
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-leads-sp-500-nasdaq-higher-as-cpi-inflation-jobless-claims-data-sets-stage-for-fed-133449641.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as CPI inflation picks up, jobless claims surge
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-cpi-inflation-picks-up-jobless-claims-surge-123815719.html
 Time Published: 2025-09-11T13:34:49Z
 Description: US stocks traded flat as Wall Street's attention turned from an upbeat day marked by renewed AI fervor to the next tranche of critical economic data.
 --------------------------------------------------

@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Are NVIDIA Shares Still Worth the Price After UK Datacenter Investment News?
+URL: https://finance.yahoo.com/news/nvidia-shares-still-worth-price-122551220.html
+Time Published: 2025-09-14T12:25:51Z
+Description: Thinking about what to do with your NVIDIA shares? You’re not alone. Whether you’ve been riding the wave since the early days or just now looking at that...
+--------------------------------------------------
+
 Title: Goldman Sachs Warns An AI Slowdown Can Tank The Stock Market By 20%
 URL: https://www.benzinga.com/personal-finance/management/25/09/47657777/goldman-sachs-warns-an-ai-slowdown-can-tank-the-stock-market-by-20
 Time Published: 2025-09-14T03:01:07Z
@@ -308,10 +314,4 @@ Title: SoFi Just Launched a New AI ETF. Should You Buy AGIQ Here?
 URL: https://www.barchart.com/story/news/34725694/sofi-just-launched-a-new-ai-etf-should-you-buy-agiq-here
 Time Published: 2025-09-10T15:53:31Z
 Description: It's SoFi's first ETF launch since 2023, but it lands in a crowded field of AI ETFs.
---------------------------------------------------
-
-Title: S&P 500 Climbs to a Record High on Fed Rate Cut Optimism
-URL: https://www.barchart.com/story/news/34724867/s-p-500-climbs-to-a-record-high-on-fed-rate-cut-optimism
-Time Published: 2025-09-10T15:24:18Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.51%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.46%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
 --------------------------------------------------
