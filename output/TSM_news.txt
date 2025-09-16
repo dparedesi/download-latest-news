@@ -25,9 +25,3 @@ URL: https://www.thestreet.com/investing/oracle-soars-tsmc-broadcom-emerge-winne
 Time Published: 2025-09-11T01:10:11Z
 Description: Here are the stocks that made the most significant market moves today.
 --------------------------------------------------
-
-Title: Stock Index Futures Gain on Oracle Boost Ahead of Key U.S. PPI Data
-URL: https://www.barchart.com/story/news/34715008/stock-index-futures-gain-on-oracle-boost-ahead-of-key-u-s-ppi-data
-Time Published: 2025-09-10T10:19:15Z
-Description: September S&P 500 E-Mini futures (ESU25) are up +0.25%, and September Nasdaq 100 E-Mini futures (NQU25) are up +0.15% this morning as a blowout outlook from ...
---------------------------------------------------

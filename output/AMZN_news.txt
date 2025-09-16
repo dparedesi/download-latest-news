@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Stock market today: S&P 500, Nasdaq climb as investors await Fed decision after Nasdaq’s record close
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-climb-as-investors-await-fed-decision-after-nasdaqs-record-close-000206835.html
+Time Published: 2025-09-15T00:02:06Z
+Description: The clock is ticking down to a widely expected interest-rate cut at the Fed's meeting this week.
+--------------------------------------------------
+
 Title: 1 Magnificent Stock Under $500 to Buy and Hold Forever
 URL: https://www.barchart.com/story/news/34791671/1-magnificent-stock-under-500-to-buy-and-hold-forever
 Time Published: 2025-09-13T13:00:02Z
@@ -35,11 +41,4 @@ Title: Oracle soars, TSMC & Broadcom emerge winners: Market Wrap
 URL: https://www.thestreet.com/investing/oracle-soars-tsmc-broadcom-emerge-winners-market-wrap
 Time Published: 2025-09-11T01:10:11Z
 Description: Here are the stocks that made the most significant market moves today.
---------------------------------------------------
-
-Title: Watch These Oracle Price Levels as Stock Surges 30% on Boosted Sales Outlook
-URL: https://www.investopedia.com/watch-these-oracle-price-levels-as-stock-soars-on-boosted-sales-outlook-11807030
-Time Published: 2025-09-10T12:28:07Z
-Full Content:
-Oracle (ORCL) shares soared Wednesday morning after the computing giant raised its outlook for cloud infrastructure sales and said it added several large new customers amid booming AI demand. The company, which has struck deals with big tech customers including Amazon (AMZN), Alphabet (GOOGL) and Microsoft (MSFT), said it now sees cloud infrastructure sales jumping 77% to $18 billion this fiscal year, above its June forecast of 70% growth. CEO Safra Catz told investors that the company expects to sign-up several additional multi-billion-dollar customers in coming months to push its booked cloud orders over half a billion dollars. Leading into the company’s earnings release, Oracle shares had gained 45% so far in 2025, handily outpacing the S&P 500’s return over the same period, boosted by robust demand for its cloud infrastructure services and AI database integration tools. The stock was up 32% at $318 in recent premarket trading. Below, we take a closer look at Oracle’s weekly chart and use technical analysis to identify critical price levels that investors will likely be watching. After setting their all-time high in late July, Oracle shares consolidated in a flag pattern ahead of the company’s quarterly results, laying the groundwork for a continuation of the longer-term uptrend. Indeed, the stock looks set to gap to a fresh record high on Wednesday. It’s worth noting that the shares have already registered their highest volume this week since mid July, suggesting that some larger market participants rebalanced portfolios leading into the report. Let’s turn to Oracle’s chart to identify a potential upside target if the shares see an extended post-earnings rally and also point out a few support levels worth monitoring. Investors can project an upside target by using the measured move technique, also known by chart watchers as the measuring principle. When applying the analysis to Oracle’s chart, we calculate the stock’s strong uptrend that preceded the flag in points and add that amount to the pattern’s top trendline. For instance, we add $142 to $242, which projects a target of $384, implying an upside of nearly 60% from Tuesday’s closing price. Future attempts to fill the earnings-driven gap could see the price initially retest the $261 level. This area would likely attract buying interest near the prior record high and top of the flag pattern, which may turn into a critical support region on the chart. Finally, a close below this level opens the door for a more-significant drop to around $198. Investors may look to accumulate Oracle shares at this location near last year’s prominent December swing high, which also closely aligns with a brief pause during the stock’s June rally. The comments, opinions, and analyses expressed on Investopedia are for informational purposes only. Read our warranty and liability disclaimer for more info. As of the date this article was written, the author does not own any of the above securities.
 --------------------------------------------------

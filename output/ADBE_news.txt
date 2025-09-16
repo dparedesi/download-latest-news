@@ -87,27 +87,3 @@ URL: https://www.barchart.com/story/news/34743189/stocks-rise-before-the-open-wi
 Time Published: 2025-09-11T10:10:45Z
 Description: September S&P 500 E-Mini futures (ESU25) are up +0.23%, and September Nasdaq 100 E-Mini futures (NQU25) are up +0.31% this morning as investors digest the...
 --------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures nudge higher as Wall Street braces for key inflation data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-nudge-higher-as-wall-street-braces-for-key-inflation-data-232148098.html
-Time Published: 2025-09-10T23:21:48Z
-Description: US stock futures traded flat as Wall Street's attention turned from an upbeat day marked by renewed AI fervor to the next tranche of critical economic data.
---------------------------------------------------
-
-Title: Stocks Supported as Easing Price Pressures Reinforce Fed Rate Cut Hopes
-URL: https://www.barchart.com/story/news/34732039/stocks-supported-as-easing-price-pressures-reinforce-fed-rate-cut-hopes
-Time Published: 2025-09-10T20:34:20Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +0.30%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.48%, and the Nasdaq 100 Index ...
---------------------------------------------------
-
-Title: Stifel Sticks With Buy on Adobe (ADBE) Despite Generative AI Headwinds
-URL: https://finance.yahoo.com/news/stifel-sticks-buy-adobe-despite-201257139.html
-Time Published: 2025-09-10T20:12:57Z
-Description: Adobe Inc. (NASDAQ:ADBE) is one of the Hot AI Stocks to Keep on Your Radar. On September 9, Stifel analyst Parker Lane reiterated a Buy rating on the stock...
---------------------------------------------------
-
-Title: Cathie Wood Is Buying the Dip in Figma Stock. Should You?
-URL: https://www.barchart.com/story/news/34728915/cathie-wood-is-buying-the-dip-in-figma-stock-should-you
-Time Published: 2025-09-10T18:00:32Z
-Description: Cathie Wood is bullish on Figma stock and has recently gained exposure to the growth company. Is FIG stock a good buy right now?
---------------------------------------------------
