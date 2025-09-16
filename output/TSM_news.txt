@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Jim Cramer Says Taiwan Semiconductor Manufacturing Company (TSM) Is A “National Treasure”
+URL: https://finance.yahoo.com/news/jim-cramer-says-taiwan-semiconductor-145611427.html
+Time Published: 2025-09-15T14:56:11Z
+Description: We recently published 10 Stocks Jim Cramer Discussed As He Talked About President Trump & Trillionaires. Taiwan Semiconductor Manufacturing Company Limited (...
+--------------------------------------------------
+
 Title: TSM-Bee? TSMC gets into the honey business after working with local beekeepers to establish hives around its fabs
 URL: https://www.tomshardware.com/tech-industry/semiconductors/tsm-bee-tsmc-gets-into-the-honey-business-after-working-with-local-beekeepers-to-establish-hives-around-its-fabs
 Time Published: 2025-09-14T11:59:22Z
