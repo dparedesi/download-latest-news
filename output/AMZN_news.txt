@@ -17,28 +17,3 @@ URL: https://finance.yahoo.com/news/amazons-aws-ceo-were-building-the-building-b
 Time Published: 2025-09-12T14:48:42Z
 Description: Amazon AWS CEO Matt Garman highlighted the enormous promise of artificial intelligence and how AWS plans to drive growth.
 --------------------------------------------------
-
-Title: Stock market today: Dow tops 46,000, S&P 500 and Nasdaq notch records as CPI, jobs data clears way for Fed cut
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-tops-46000-sp-500-and-nasdaq-notch-records-as-cpi-jobs-data-clears-way-for-fed-cut-200030140.html
-Time Published: 2025-09-11T20:00:30Z
-Description: US stocks were on pace for record closes as Wall Street's attention turned from an upbeat day marked by renewed AI fervor to the next tranche of critical...
---------------------------------------------------
-
-Title: Nvidia may have a rival on the dance floor: Oracle
-URL: https://finance.yahoo.com/news/nvidia-may-have-a-rival-on-the-ai-dance-floor-oracle-163818448.html
-Time Published: 2025-09-11T16:38:18Z
-Description: Is Oracle emerging as a serious AI contender?
---------------------------------------------------
-
-Title: Ripple’s XRP the Next Amazon? — Analyst Says Long-Term Path to $100 Could Shock XRP Army
-URL: https://zycrypto.com/ripples-xrp-the-next-amazon-analyst-says-long-term-path-to-100-could-shock-xrp-army/
-Time Published: 2025-09-11T10:20:30Z
-Full Content:
-Crypto analyst Nick Anderson is drawing parallels between XRP’s price chart and Amazon’s early consolidation. On his BullRunners show, Anderson noted that Amazon’s stock traded roughly flat for about 3,800 days (over 10 years) after 2000, before breaking out in 2010. From roughly $5 then, AMZN went on a 3,900% rally to $200 over the next 15 years. Anderson argues XRP is in a similar sideways phase now. With XRP around $3.02 (near its 2018 peak), XRP is “using its previous high as support,” just as Amazon did before its long run. If history rhymes, he speculates, XRP could eventually repeat Amazon’s surge, potentially heading toward $100–$200 in the distant future. Anderson’s observation hinges on chart patterns. He compared XRP’s multi-year base to Amazon’s pre-boom price action. Amazon’s breakout came after forming a huge cup-and-handle pattern around 2010. Likewise, Anderson sees XRP building a large consolidation now. “XRP has mirrored AMZN’s performance,” he said, noting XRP is “currently in a similar consolidation phase.” In both cases, a prior high became support: Amazon held near $5, and XRP is holding near $2.97. This means the crypto is consolidating around its 2018 all-time high, he points out, before any potential breakout. The headline prediction is ambitious. Anderson suggests XRP could eventually reach $100–$200, mirroring Amazon’s move from $5 to $200. At current prices (about $2.80), that implies a roughly 3,400–6,900% gain. XRP would have to surge by 3,433% and 6,967%” to hit $100 and $200, respectively. Such a move would take years or even decades. Anderson stresses any breakout would be gradual: he projects XRP reaching only $5–$30 in the current market cycle, with the $100+ level not seen until well into the 2030s. Other analysts echo that forecast but add caveats. For example, crypto strategist Paul Barron says a “perfect storm” of catalysts (like ETF approvals and a Ripple banking license) could drive XRP past $50 and even toward $100. He adds that even a sharp pullback after such a move might still leave XRP on a much higher base (potentially a $30–$40 floor). Still, Barron agrees that the timeline is long: a decade or more, not weeks or months. In the near term, Anderson’s targets are far more modest. He argues that in the current cycle, XRP might rally only into the single digits. Specifically, he forecasts a run to about $5 to $30 in this rally phase. Crucially, he warns that a sharp correction would likely follow this. After the current upswing, Anderson expects a major pullback “paving the way for true adoption” later. This echoes common crypto-cycle patterns, where prolonged rallies end in sell-offs before the next big move. Technical analysts observe bullish setups for that mid-cycle rally. Some point to chart patterns that could carry XRP toward $5 and beyond while Bitcoin re-tests key levels. But all agree: such gains are not a straight shot. And as Anderson repeatedly notes, any price spikes to new highs will probably be followed by volatility. In his view, the token’s next upswing will take many years, not just months, to play out. Across the board, analysts stress patience. At $3 today, XRP is still far from its aspirational targets. Anderson’s scenario assumes long-term holds: he even notes that many long-term XRP investors (for example, those in their 30s now) would be middle-aged by the time a $100 price arrives. In other words, wealth from this thesis comes slowly. As one observer put it, the most effective approach is “a long-term strategy of accumulation and patience,” holding through interim pullbacks while waiting for broader adoption. Analyst Zach Rector, a vocal XRP proponent, agrees that volatility is guaranteed. He warns big spikes could quickly reverse – “if XRP goes to 50 bucks, don’t run and tell your wife… that could be cut in half again,” he said.
---------------------------------------------------
-
-Title: Oracle soars, TSMC & Broadcom emerge winners: Market Wrap
-URL: https://www.thestreet.com/investing/oracle-soars-tsmc-broadcom-emerge-winners-market-wrap
-Time Published: 2025-09-11T01:10:11Z
-Description: Here are the stocks that made the most significant market moves today.
---------------------------------------------------

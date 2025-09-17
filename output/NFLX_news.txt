@@ -11,9 +11,3 @@ URL: https://www.barchart.com/story/news/34768810/stock-index-futures-muted-afte
 Time Published: 2025-09-12T10:13:23Z
 Description: September S&P 500 E-Mini futures (ESU25) are down -0.11%, and September Nasdaq 100 E-Mini futures (NQU25) are down -0.04% this morning, taking a breather as ...
 --------------------------------------------------
-
-Title: Stocks Rally and Bond Yields Fall on Fed Rate Cut Hopes
-URL: https://www.barchart.com/story/news/34752059/stocks-rally-and-bond-yields-fall-on-fed-rate-cut-hopes
-Time Published: 2025-09-11T15:10:46Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.66%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +1.21%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------

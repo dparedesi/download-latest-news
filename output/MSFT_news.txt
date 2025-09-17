@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: S&P 500 and Nasdaq 100 Post Record Highs on Fed Easing Expectations
+URL: https://www.barchart.com/story/news/34813562/s-p-500-and-nasdaq-100-post-record-highs-on-fed-easing-expectations
+Time Published: 2025-09-15T15:09:50Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.52%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.29%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: MSFT Stock Analysis: Is Microsoft Stock A Buy At $510?
 URL: https://www.forbes.com/sites/greatspeculations/2025/09/15/msft-stock-analysis-is-microsoft-stock-a-buy-at-510/
 Time Published: 2025-09-15T14:30:21Z
@@ -72,41 +78,4 @@ Title: Stock Index Futures Muted After Record Rally, U.S. Confidence Data on Tap
 URL: https://www.barchart.com/story/news/34768810/stock-index-futures-muted-after-record-rally-u-s-confidence-data-on-tap
 Time Published: 2025-09-12T10:13:23Z
 Description: September S&P 500 E-Mini futures (ESU25) are down -0.11%, and September Nasdaq 100 E-Mini futures (NQU25) are down -0.04% this morning, taking a breather as ...
---------------------------------------------------
-
-Title: Stock market today: Dow tops 46,000, S&P 500 and Nasdaq notch records as CPI, jobs data clears way for Fed cut
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-tops-46000-sp-500-and-nasdaq-notch-records-as-cpi-jobs-data-clears-way-for-fed-cut-200030140.html
-Time Published: 2025-09-11T20:00:30Z
-Description: US stocks were on pace for record closes as Wall Street's attention turned from an upbeat day marked by renewed AI fervor to the next tranche of critical...
---------------------------------------------------
-
-Title: Should You Buy, Sell, or Hold UiPath Stock After Q2 Earnings?
-URL: https://www.barchart.com/story/news/34757161/should-you-buy-sell-or-hold-uipath-stock-after-q2-earnings
-Time Published: 2025-09-11T19:33:38Z
-Description: With AI and automation on the rise, can PATH survive this competitive space?
---------------------------------------------------
-
-Title: 3 Stocks Trading a Crazy High P/E — Is There Room Left for Profit?
-URL: https://thedividendguyblog.com/high-pe-stocks-analysis/
-Time Published: 2025-09-11T17:38:57Z
-Description: When prices run, our brain screams: “It’s too expensive!” Then we watch those “expensive” stocks keep climbing and wonder if we should jump in… or bail out. My take is simple: valuation without context is just fortune-telling. A high P/E isn’t automatically a…
---------------------------------------------------
-
-Title: Redburn Atlantic Initiates Coverage on Infosys (INFY) With a Sell Rating
-URL: https://finance.yahoo.com/news/redburn-atlantic-initiates-coverage-infosys-164918258.html
-Time Published: 2025-09-11T16:49:18Z
-Description: Infosys (NYSE:INFY) is one of the best growth stocks under $50 to buy now. In a report released on September 3, Harry Read from Redburn Atlantic initiated...
---------------------------------------------------
-
-Title: Nvidia may have a rival on the dance floor: Oracle
-URL: https://finance.yahoo.com/news/nvidia-may-have-a-rival-on-the-ai-dance-floor-oracle-163818448.html
-Time Published: 2025-09-11T16:38:18Z
-Description: Is Oracle emerging as a serious AI contender?
---------------------------------------------------
-
-Title: Nebius Stock: Next AWS In The Making?
-URL: https://www.forbes.com/sites/greatspeculations/2025/09/11/nebius-stock-next-aws-in-the-making/
-Time Published: 2025-09-11T09:30:00Z
-Full Content:
-ByTrefis Team, Contributor. Shares of Nebius Group stock (NASDAQ: NBIS) increased by over 45% in after-hours trading on Monday following the company’s announcement of a significant deal to supply Microsoft (NASDAQ:MSFT) with GPU infrastructure capacity valued at $17.4 billion over a five-year span. Different from conventional hyperscalers like Amazon’s AWS or Microsoft’s Azure, which provide a wide array of general-purpose cloud services, Nebius falls into a new category referred to as “Neoclouds” – specifically targeting high-performance infrastructure tailored for AI tasks. The firm delivers computing, storage, managed services, and tools aimed at developing, fine-tuning, and executing AI models. So what implications does this deal hold for Nebius, and does it enhance the attractiveness of the stock? This agreement is transformative for Nebius. In an SEC filing, the company stated that GPU services will be implemented in several tranches, with an overall contract total of $17.4 billion through 2031. Microsoft also holds the option to acquire an extra $2 billion in services. Over the five-year period, this translates to revenues exceeding $3.5 billion annually – a significant increase compared to Nebius’s anticipated revenues of only $570 million for 2025. Microsoft has increasingly relied on third-party solutions to tackle a deficit in cloud infrastructure aimed at AI workloads. The software giant has frequently encountered shortfalls in the AI compute capacity required for both its internal AI product development and the sale of Azure-branded AI services. Additionally, Microsoft is dedicated to providing computing resources to its AI partner OpenAI, which further strains its capacity. To satisfy this demand, Nebius will supply Microsoft with dedicated capacity from a new data center located in Vineland, New Jersey, starting later this year. The company also revealed that it is assessing financing options to expedite growth, with capital expenditures for this deal supported by cash flow generated from the contract and debt secured against it. However attractive it may be, investing in a single stock comes with high risk. The Trefis High Quality Portfolio has been designed to mitigate stock-specific risk while providing upside exposure. With the demand for generative AI remaining strong, even though there are other specialized competitors in the field, Nebius distinguishes itself for several reasons. First, the company maintains a close partnership with AI chip leader Nvidia (NASDAQ:NVDA), which produces the most advanced chips and effectively sets industry standards. Nvidia acts as both a key partner and investor, having participated in a $700 million funding round last year and owning over 1 million shares of the company. This connection might afford Nebius prioritized access to Nvidia's highly coveted GPUs, such as the Blackwell super chips, in comparison to other cloud service providers. This could represent a significant edge in a GPU market constrained by supply, where demand significantly surpasses availability, especially for cutting-edge chips. Another aspect that differentiates Nebius is its vertically integrated model. The company designs its own servers internally, eliminating the need for OEMs and engaging directly with manufacturers to reduce costs, optimize performance more effectively, and swiftly incorporate the latest GPUs. This degree of control not only lessens supply chain dependencies but also accelerates deployment cycles. This is crucial for keeping pace with rapid AI lifecycles and also provides the company with an advantage in terms of performance-per-watt compared to its competitors. Is Nebius stock a wise purchase at the current price of around $95 per share? The stock trades at roughly 40 times consensus FY’25 revenue. In comparison, larger competitor CoreWeave trades at about 10 times FY’25 revenue. However, several justifiable reasons exist for the higher valuation. To begin with, Nebius' growth prospects are strong. According to consensus estimates, Nebius's sales are expected to grow by 160% next year, outpacing CoreWeave, and this figure could be notably higher when considering the MSFT deal. Furthermore, Nebius's technological advantages, such as its proprietary technology stack, may aid in setting it apart from its rivals. By managing both hardware and software, Nebius is able to fine-tune performance for specific AI workloads, giving it a long-term competitive advantage. Nebius additionally possesses a solid balance sheet. As of the end of the most recent quarter, NBIS debt stood at $1.2 billion, leading to a debt-to-equity ratio of less than 5%. The cash for NBIS (including cash equivalents) accounts for $1.7 billion of a total of $5.1 billion in assets, resulting in a Cash-to-Assets Ratio of 32.9%. This should enable Nebius to continue expanding its global presence with lower financial risk. This could lead to significant interest expenses and potentially hinder profitability in the long run, even with its rapid revenue growth. The Trefis High Quality (HQ) Portfolio, comprising 30 stocks, has a proven track record of consistently outperforming its benchmark, which includes all three indices – S&P 500, Russell, and S&P midcap. What accounts for this success? As a collective, HQ Portfolio stocks have delivered superior returns with diminished risk compared to the benchmark index; there’s been less of a roller-coaster experience, as shown in the HQ Portfolio performance metrics.
 --------------------------------------------------

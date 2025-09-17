@@ -1,5 +1,29 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia suffers a major blow from China
+URL: https://www.thestreet.com/technology/nvidia-suffers-a-major-blow-from-china-
+Time Published: 2025-09-16T04:03:00Z
+Description: The company keeps running into setbacks in this important market.
+--------------------------------------------------
+
+Title: Market Wrap today: Alphabet and Tesla gain while Texas Instruments slips
+URL: https://www.thestreet.com/markets/market-wrap-today-alphabet-and-tesla-gain-while-texas-instruments-slips
+Time Published: 2025-09-16T00:50:28Z
+Description: Here are the stocks that made the most significant market moves today.
+--------------------------------------------------
+
+Title: Tesla Surge, Alphabet's $3T Milestone Push Nasdaq to Record Highs Ahead of Fed
+URL: https://finance.yahoo.com/news/tesla-surge-alphabets-3t-milestone-205423445.html
+Time Published: 2025-09-15T20:54:23Z
+Description: Indexes boosted by Musk's $1B stock buy; Alphabet hits $3T
+--------------------------------------------------
+
+Title: Nvidia Slips as China Says It Broke Competition Rules
+URL: https://finance.yahoo.com/news/nvidia-slips-china-says-broke-195511644.html
+Time Published: 2025-09-15T19:55:11Z
+Description: Chipmaker caught in middle of trade talks, AI tensions
+--------------------------------------------------
+
 Title: CoreWeave Stock Pops on $6.3B Nvidia Deal
 URL: https://www.investopedia.com/coreweave-stock-pops-on-6-3b-nvidia-deal-11810215
 Time Published: 2025-09-15T18:11:12Z
@@ -43,6 +67,12 @@ URL: https://www.investopedia.com/top-stock-movers-now-tesla-intel-nvidia-and-mo
 Time Published: 2025-09-15T15:31:56Z
 Full Content:
 U.S. equities were higher at midday on positive comments about China trade and the future of TikTok from President Trump, as well as Tesla (TSLA) news. S&P 500 and Nasdaq gained, while the Dow Jones Industrial Average was little changed. Tesla shares jumped as a regulatory filing showed CEO Elon Musk purchased 2.57 million shares of the electric vehicle's stock valued at about $1 billion. Shares of Seagate Technology Holdings (STX) traded above $200 for the first time on continued excitement over the company's new hard disk drive for artificial intelligence data centers. Intel (INTC) shares climbed after the struggling semiconductor maker reduced its target for full-year non-GAAP operating expenses after completing the $3.3 billion sale of a majority stake in its Altera programmable chip business to private equity firm Silver Lake. Alphabet (GOOGL) shares were up for a third straight session, making the parent of Google the fourth company with a $3 trillion market capitalization. Corteva (CTVA) was among the worst-performing stocks in the S&P 500 following a report that the manufacturer of crop seeds and pesticides is looking into splitting itself into two separate companies. Some chipmakers, including Nvidia (NVDA) and Texas Instruments (TXN), fell as Chinese regulators were investigating potential dumping of analog integrated circuit semiconductors from the U.S. U.S.-listed shares of AstraZeneca (AZN) declined after a report the drugmaker had paused a planned $272 million investment in Britain, and received a downgrade from Europe's Handelsbanken. Oil and gold futures rose. The yield on the 10-year Treasury note declined. The U.S. dollar lost ground to the euro, pound, and yen. Prices for most major cryptocurrencies dipped.
+--------------------------------------------------
+
+Title: S&P 500 and Nasdaq 100 Post Record Highs on Fed Easing Expectations
+URL: https://www.barchart.com/story/news/34813562/s-p-500-and-nasdaq-100-post-record-highs-on-fed-easing-expectations
+Time Published: 2025-09-15T15:09:50Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.52%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.29%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
 Title: Stock Market Today: S&P 500, Nasdaq set records as market anticipates Fed rate decision
@@ -164,16 +194,16 @@ Time Published: 2025-09-15T00:02:06Z
 Description: The clock is ticking down to a widely expected interest-rate cut at the Fed's meeting this week.
 --------------------------------------------------
 
-Title: Stock market today: Dow Jones, S&P 500, Nasdaq futures climb as investors await Fed decision after Nasdaq’s record close
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jones-sp-500-nasdaq-futures-climb-as-investors-await-fed-decision-after-nasdaqs-record-close-000206333.html
-Time Published: 2025-09-15T00:02:06Z
-Description: Dow, S&P 500, and Nasdaq futures are in holding patterns after record-setting runs.
---------------------------------------------------
-
 Title: Stock market today: Dow Jones, S&P 500, Nasdaq climb as investors await Fed decision after Nasdaq’s record close
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jones-sp-500-nasdaq-climb-as-investors-await-fed-decision-after-nasdaqs-record-close-000206865.html
 Time Published: 2025-09-15T00:02:06Z
 Description: The clock is ticking down to a widely expected interest-rate cut at the Fed's meeting this week.
+--------------------------------------------------
+
+Title: Stock market today: Dow Jones, S&P 500, Nasdaq futures climb as investors await Fed decision after Nasdaq’s record close
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jones-sp-500-nasdaq-futures-climb-as-investors-await-fed-decision-after-nasdaqs-record-close-000206333.html
+Time Published: 2025-09-15T00:02:06Z
+Description: Dow, S&P 500, and Nasdaq futures are in holding patterns after record-setting runs.
 --------------------------------------------------
 
 Title: Alibaba's $100M Investment Fuels X Square Robot's Push For Embodied AI, Global Sales, And Next-Gen Humanoids
@@ -291,35 +321,4 @@ URL: https://www.investopedia.com/openai-s-nonprofit-parent-to-own-more-than-usd
 Time Published: 2025-09-12T12:59:35Z
 Full Content:
 OpenAI said its nonprofit parent will have an equity stake exceeding $100 billion in the ChatGPT maker, making it "one of the most well-resourced philanthropic organizations in the world." OpenAI, which said the "recapitalization would also enable us to raise the capital required to accomplish our mission," also said it and backer Microsoft (MSFT) had signed a non-binding memorandum of understanding to extend their partnership, and were "actively working to finalize contractual terms in a definitive agreement." OpenAI had initially announced plans last year to transform into a for-profit company, a condition for money it raised in funding rounds, including one where it raised $6.6 billion from investors including Microsoft and AI chip darling Nvidia (NVDA). Becoming a for-profit company would allow OpenAI to make financial returns for its shareholders and also go public, marking a departure from its original mission of building open-source technology that wouldn't be subject to commercial priorities. Separately, Microsoft avoided a potentially massive antitrust fine from the European Union by striking a deal to unbundle its Teams communication platform from its popular office apps. The European Commission, the EU's enforcement arm, said it has accepted the moves by Microsoft to untie Teams from its productivity applications Word, Excel, PowerPoint, Outlook, included in its Office 365 and Microsoft 365 suites for business customers. Microsft will now make these apps available to consumers without Teams at a lower price, allow customers tied to longer licenses to switch and let customers move their data out of Teams to use competitors. Microsoft shares, which entered Friday up by almost a fifth this year, are rising 1.4% in premarket trading.
---------------------------------------------------
-
-Title: William Blair Maintains Bullish Stance on NVIDIA (NVDA) Stock
-URL: https://finance.yahoo.com/news/william-blair-maintains-bullish-stance-105033385.html
-Time Published: 2025-09-12T10:50:33Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Best Stocks to Invest in for the Next 5 Years. On September 9, William Blair analyst Sebastien Naji maintained...
---------------------------------------------------
-
-Title: How to build a diversified ASX share portfolio with just $3,000
-URL: https://www.fool.com.au/2025/09/12/how-to-build-a-diversified-asx-share-portfolio-with-just-3000/
-Time Published: 2025-09-11T22:27:00Z
-Description: Here's the easy way to build a diversified portfolio.
-The post How to build a diversified ASX share portfolio with just $3,000 appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: Why Broadcom Could Be the Next Mega-Cap Monster Stock
-URL: https://www.barchart.com/story/news/34759106/why-broadcom-could-be-the-next-mega-cap-monster-stock
-Time Published: 2025-09-11T20:55:00Z
-Description: John Rowland explains the connection between ETF flows, AVGO, and the Magnificent 7 in this clip from the Sept. 5 livestream of Market on Close.
---------------------------------------------------
-
-Title: Alibaba Has AI Written All Over It: Here’s Why Buying BABA Stock Makes Sense
-URL: https://www.barchart.com/story/news/34758609/alibaba-has-ai-written-all-over-it-heres-why-buying-baba-stock-makes-sense
-Time Published: 2025-09-11T20:39:07Z
-Description: Alibaba is establishing itself as a prominent AI player in China. BABA stock is trading near its highest level for the year and still holds promise.
---------------------------------------------------
-
-Title: Stock market today: Dow tops 46,000, S&P 500 and Nasdaq notch records as CPI, jobs data clears way for Fed cut
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-tops-46000-sp-500-and-nasdaq-notch-records-as-cpi-jobs-data-clears-way-for-fed-cut-200030140.html
-Time Published: 2025-09-11T20:00:30Z
-Description: US stocks were on pace for record closes as Wall Street's attention turned from an upbeat day marked by renewed AI fervor to the next tranche of critical...
 --------------------------------------------------
