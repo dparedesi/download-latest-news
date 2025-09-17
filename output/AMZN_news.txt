@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: As Netflix Stock Falls Below $1,250, Should You Binge Watch Or Keep Chilling?
+URL: https://www.barchart.com/story/news/34818303/as-netflix-stock-falls-below-1-250-should-you-binge-watch-or-keep-chilling
+Time Published: 2025-09-15T19:49:37Z
+Description: Netflix stock has fallen below $1,250 and has traded sideways over the last four months. Is NFLX in the "buy zone" now?
+--------------------------------------------------
+
 Title: Stock market today: S&P 500, Nasdaq climb as investors await Fed decision after Nasdaq’s record close
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-climb-as-investors-await-fed-decision-after-nasdaqs-record-close-000206835.html
 Time Published: 2025-09-15T00:02:06Z

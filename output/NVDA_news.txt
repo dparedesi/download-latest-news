@@ -24,6 +24,12 @@ Time Published: 2025-09-15T19:55:11Z
 Description: Chipmaker caught in middle of trade talks, AI tensions
 --------------------------------------------------
 
+Title: 11 fast-growing small-cap stocks that could get a boost from the Fed’s next move
+URL: https://www.marketwatch.com/story/11-fast-growing-small-cap-stocks-that-could-get-a-boost-from-the-feds-next-move-424328aa
+Time Published: 2025-09-15T18:18:00Z
+Description: These companies are expected to continue growing revenue at a rapid pace through 2027.
+--------------------------------------------------
+
 Title: CoreWeave Stock Pops on $6.3B Nvidia Deal
 URL: https://www.investopedia.com/coreweave-stock-pops-on-6-3b-nvidia-deal-11810215
 Time Published: 2025-09-15T18:11:12Z
@@ -194,16 +200,16 @@ Time Published: 2025-09-15T00:02:06Z
 Description: The clock is ticking down to a widely expected interest-rate cut at the Fed's meeting this week.
 --------------------------------------------------
 
-Title: Stock market today: Dow Jones, S&P 500, Nasdaq climb as investors await Fed decision after Nasdaq’s record close
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jones-sp-500-nasdaq-climb-as-investors-await-fed-decision-after-nasdaqs-record-close-000206865.html
-Time Published: 2025-09-15T00:02:06Z
-Description: The clock is ticking down to a widely expected interest-rate cut at the Fed's meeting this week.
---------------------------------------------------
-
 Title: Stock market today: Dow Jones, S&P 500, Nasdaq futures climb as investors await Fed decision after Nasdaq’s record close
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jones-sp-500-nasdaq-futures-climb-as-investors-await-fed-decision-after-nasdaqs-record-close-000206333.html
 Time Published: 2025-09-15T00:02:06Z
 Description: Dow, S&P 500, and Nasdaq futures are in holding patterns after record-setting runs.
+--------------------------------------------------
+
+Title: Stock market today: Dow Jones, S&P 500, Nasdaq climb as investors await Fed decision after Nasdaq’s record close
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jones-sp-500-nasdaq-climb-as-investors-await-fed-decision-after-nasdaqs-record-close-000206865.html
+Time Published: 2025-09-15T00:02:06Z
+Description: The clock is ticking down to a widely expected interest-rate cut at the Fed's meeting this week.
 --------------------------------------------------
 
 Title: Alibaba's $100M Investment Fuels X Square Robot's Push For Embodied AI, Global Sales, And Next-Gen Humanoids
@@ -314,11 +320,4 @@ URL: https://www.investopedia.com/supermicro-stock-rises-on-news-of-product-ship
 Time Published: 2025-09-12T14:44:26Z
 Full Content:
 Super Micro Computer (SMCI), or Supermicro, shares gained as the computer hardware maker announced it was delivering products with Nvidia's (NVDA) high-speed Blackwell Ultra chips for artificial intelligence computing. The company explained that the Blackwell chips were in Supermicro's Plug-and-Play (PnP)-ready NVIDIA HGX B300 systems and GB300 NVL72 racks. Supermicro added that its total solution with the Blackwell chips is "fully integrated to combine the hardware with infrastructure software and application software, including NVIDIA AI Enterprise, NVIDIA Blueprints, and NVIDIA NIM to bring optimized AI performance to these powerful systems." Supermicro CEO Charles Liang said that his firm "has the best track record of fast and successful deployments of new NVIDIA technologies." Shares of Super Micro Computer advanced 3% Friday morning and are up nearly 50% this year. Nvidia shares edged higher in recent trading and have added a third of their value in 2025.
---------------------------------------------------
-
-Title: OpenAI's Nonprofit Parent to Own More Than $100B Stake in ChatGPT Maker
-URL: https://www.investopedia.com/openai-s-nonprofit-parent-to-own-more-than-usd100b-stake-in-chatgpt-maker-11808704
-Time Published: 2025-09-12T12:59:35Z
-Full Content:
-OpenAI said its nonprofit parent will have an equity stake exceeding $100 billion in the ChatGPT maker, making it "one of the most well-resourced philanthropic organizations in the world." OpenAI, which said the "recapitalization would also enable us to raise the capital required to accomplish our mission," also said it and backer Microsoft (MSFT) had signed a non-binding memorandum of understanding to extend their partnership, and were "actively working to finalize contractual terms in a definitive agreement." OpenAI had initially announced plans last year to transform into a for-profit company, a condition for money it raised in funding rounds, including one where it raised $6.6 billion from investors including Microsoft and AI chip darling Nvidia (NVDA). Becoming a for-profit company would allow OpenAI to make financial returns for its shareholders and also go public, marking a departure from its original mission of building open-source technology that wouldn't be subject to commercial priorities. Separately, Microsoft avoided a potentially massive antitrust fine from the European Union by striking a deal to unbundle its Teams communication platform from its popular office apps. The European Commission, the EU's enforcement arm, said it has accepted the moves by Microsoft to untie Teams from its productivity applications Word, Excel, PowerPoint, Outlook, included in its Office 365 and Microsoft 365 suites for business customers. Microsft will now make these apps available to consumers without Teams at a lower price, allow customers tied to longer licenses to switch and let customers move their data out of Teams to use competitors. Microsoft shares, which entered Friday up by almost a fifth this year, are rising 1.4% in premarket trading.
 --------------------------------------------------
