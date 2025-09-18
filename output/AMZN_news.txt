@@ -1,9 +1,27 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Stock market today: Dow drops, S&P 500, Nasdaq slip from records as Wall Street counts down to Fed decision
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-drops-sp-500-and-nasdaq-slip-from-records-as-wall-street-counts-down-to-fed-decision-200039695.html
+Time Published: 2025-09-16T20:00:39Z
+Description: US stocks dipped as President Trump's pick for Fed governor headed for Senate confirmation, following another record-setting day on Wall Street.
+--------------------------------------------------
+
+Title: Meta aims to win smart glasses race at its Meta Connect conference
+URL: https://finance.yahoo.com/news/meta-aims-to-win-smart-glasses-race-at-its-meta-connect-conference-191012736.html
+Time Published: 2025-09-16T19:10:12Z
+Description: Meta will look to take control of the smart glasses market during its Meta Connect conference on Wednesday.
+--------------------------------------------------
+
 Title: Wall Street Sees Upside in Amazon (AMZN) Amid Grocery Push and Global Expansion
 URL: https://finance.yahoo.com/news/wall-street-sees-upside-amazon-174404904.html
 Time Published: 2025-09-16T17:44:04Z
 Description: Amazon.com Inc. (NASDAQ:AMZN) is one of the best ESG stocks to buy now according to hedge funds. On September 11, Jefferies analyst James Heaney reaffirmed a...
+--------------------------------------------------
+
+Title: Up 91% in 2025, Is It Too Late to Buy the Breakout in Oracle Stock?
+URL: https://www.barchart.com/story/news/34838879/up-91-in-2025-is-it-too-late-to-buy-the-breakout-in-oracle-stock
+Time Published: 2025-09-16T14:16:13Z
+Description: ORCL is back in the headlines today after last week’s AI-fueled explosion higher, but how much higher can the tech giant rise?
 --------------------------------------------------
 
 Title: As Netflix Stock Falls Below $1,250, Should You Binge Watch Or Keep Chilling?
@@ -22,10 +40,4 @@ Title: 1 Magnificent Stock Under $500 to Buy and Hold Forever
 URL: https://www.barchart.com/story/news/34791671/1-magnificent-stock-under-500-to-buy-and-hold-forever
 Time Published: 2025-09-13T13:00:02Z
 Description: Oracle is uniquely positioned to lead the AI race.
---------------------------------------------------
-
-Title: Amazon's AWS CEO: We're building the building blocks of AI
-URL: https://finance.yahoo.com/news/amazons-aws-ceo-were-building-the-building-blocks-of-ai-144842880.html
-Time Published: 2025-09-12T14:48:42Z
-Description: Amazon AWS CEO Matt Garman highlighted the enormous promise of artificial intelligence and how AWS plans to drive growth.
 --------------------------------------------------

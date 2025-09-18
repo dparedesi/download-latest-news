@@ -12,6 +12,18 @@ Time Published: 2025-09-16T17:02:13Z
 Description: We came across a bullish thesis on Telesat Corporation on Valueinvestingclub.com by TheSpiceTrade. In this article, we will summarize the bulls’ thesis on...
 --------------------------------------------------
 
+Title: Stocks Turn Lower as 2-Day FOMC Meeting Begins
+URL: https://www.barchart.com/story/news/34840636/stocks-turn-lower-as-2-day-fomc-meeting-begins
+Time Published: 2025-09-16T15:19:25Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.15%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
+Title: Stocks See Support on Strength in Chip Makers
+URL: https://www.barchart.com/story/news/34838701/stocks-see-support-on-strength-in-chip-makers
+Time Published: 2025-09-16T14:09:45Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.08%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.28%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
 Title: Rocket Lab (RKLB) Touches Fresh High Ahead of Rocket Launch
 URL: https://finance.yahoo.com/news/rocket-lab-rklb-touches-fresh-160129303.html
 Time Published: 2025-09-13T16:01:29Z
@@ -22,22 +34,4 @@ Title: Jim Cramer Says Rocket Lab is “Beloved By Younger Retail Investors”
 URL: https://finance.yahoo.com/news/jim-cramer-says-rocket-lab-134519330.html
 Time Published: 2025-09-13T13:45:19Z
 Description: Rocket Lab Corporation (NASDAQ:RKLB) is one of the stocks Jim Cramer highlighted recently. Cramer noted that the stock has been “trading sideways” for a...
---------------------------------------------------
-
-Title: Rocket Lab (RKLB) Shares Skyrocket, What You Need To Know
-URL: https://finance.yahoo.com/news/rocket-lab-rklb-shares-skyrocket-200123337.html
-Time Published: 2025-09-12T20:01:23Z
-Description: Shares of aerospace and defense company Rocket Lab (NASDAQ:RKLB) jumped 9.4% in the afternoon session after it announced the successful completion of its...
---------------------------------------------------
-
-Title: Needham Reiterates Buy on Rocket Lab (RKLB) with $55 Price Target
-URL: https://finance.yahoo.com/news/needham-reiterates-buy-rocket-lab-105039886.html
-Time Published: 2025-09-12T10:50:39Z
-Description: Rocket Lab Corp. (NASDAQ:RKLB) is one of the best stocks for day trading. The stock currently trades near the top of its 52-week range of $6.20-$53.40, and...
---------------------------------------------------
-
-Title: Rocket Lab (RKLB) Effectively Launches 70th Electron Mission
-URL: https://finance.yahoo.com/news/rocket-lab-rklb-effectively-launches-073719413.html
-Time Published: 2025-09-12T07:37:19Z
-Description: Rocket Lab Corporation (NASDAQ:RKLB) is among the 10 Best Space Exploration Stocks to Buy Now. Rocket Lab Corporation (NASDAQ:RKLB) effectively launched its ...
 --------------------------------------------------

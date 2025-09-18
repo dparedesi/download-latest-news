@@ -11,9 +11,3 @@ URL: https://finance.yahoo.com/news/sands-capital-select-growth-strategy-1322392
 Time Published: 2025-09-16T13:22:39Z
 Description: Sands Capital, an investment management company, released its “Sands Capital Select Growth Strategy” Q2 2025 investor letter. A copy of the letter can be...
 --------------------------------------------------
-
-Title: This Is How You Can Hedge Your Bets on Tesla Stock and ‘The Largest AI Project on Earth’
-URL: https://www.barchart.com/story/news/34781029/this-is-how-you-can-hedge-your-bets-on-tesla-stock-and-the-largest-ai-project-on-earth
-Time Published: 2025-09-12T20:01:17Z
-Description: Cathie Wood sees Tesla as the largest AI project on Earth, but investors may find steadier upside in her flagship ARKK ETF.
---------------------------------------------------
