@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Wall Street blinked, then Nvidia built its boldest partnership yet
+URL: https://www.thestreet.com/technology/wall-street-blinked-then-nvidia-made-boldest-move-with-crowdstrike
+Time Published: 2025-09-18T18:33:05Z
+Description: After converting one of its biggest doubters, Nvidia inked an agreement that might change how AI power is used and safeguarded.
+--------------------------------------------------
+
 Title: CrowdStrike Jumps 10% as Jefferies Boosts Price Target On AI Momentum
 URL: https://finance.yahoo.com/news/crowdstrike-jumps-10-jefferies-boosts-170835913.html
 Time Published: 2025-09-18T17:08:35Z
