@@ -1,5 +1,11 @@
 List of news related to Vanguard Group Inc:
 
+Title: Meta launches Ray-Ban smart glasses with AI and display, priced at $799
+URL: https://www.bloomberg.com/news/articles/2025-09-18/meta-launches-799-glasses-with-screen-in-bid-for-mainstream-hit
+Time Published: 2025-09-18T03:48:55Z
+Description: While users can still swipe along the frame as with previous models, the primary interface is now hand gestures, detected by a neural wristband strapped around the wearer’s dominant hand
+--------------------------------------------------
+
 Title: Healthcare Facilities Management Market Size to Reach USD 837.40 Bn by 2034
 URL: https://www.globenewswire.com/news-release/2025/09/17/3151806/0/en/Healthcare-Facilities-Management-Market-Size-to-Reach-USD-837-40-Bn-by-2034.html
 Time Published: 2025-09-17T14:38:00Z

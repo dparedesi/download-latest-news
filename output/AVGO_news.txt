@@ -1,9 +1,34 @@
 List of news related to Broadcom AVGO:
 
+Title: Market movers: Lyft stock accelerates, Workday active and Nvidia slips
+URL: https://www.thestreet.com/markets/market-movers-lyft-stock-accelerates-workday-active-and-nvidia-slips
+Time Published: 2025-09-18T01:15:13Z
+Description: Here are the stocks that made the most significant market moves today.
+--------------------------------------------------
+
+Title: Purpose Investments Inc. Announces September 2025 Distributions
+URL: https://financialpost.com/globe-newswire/purpose-investments-inc-announces-september-2025-distributions
+Time Published: 2025-09-18T00:04:29Z
+Description: TORONTO, Sept. 17, 2025 (GLOBE NEWSWIRE) — Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of September 2025 for its open-end exchange traded funds and closed-end funds (“the Funds”).         The ex-distribution date fo…
+--------------------------------------------------
+
+Title: Purpose Investments Inc. Announces September 2025 Distributions
+URL: https://www.globenewswire.com/news-release/2025/09/18/3152092/0/en/Purpose-Investments-Inc-Announces-September-2025-Distributions.html
+Time Published: 2025-09-18T00:00:00Z
+Full Content:
+September 17, 2025 20:00 ET | Source: Purpose Investments Inc. Purpose Investments Inc. TORONTO, Sept. 17, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of September 2025 for its open-end exchange traded funds and closed-end funds (“the Funds”). The ex-distribution date for all Open-End Funds is September 25, 2025. The ex-distribution date for all closed-end funds is September 30, 2025. Estimated September 2025 Distributions for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund The September 2025 distribution rates for the Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund are estimated to be as follows: Purpose expects to issue a press release on or about September 24, 2025, which will provide the final distribution rate for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund. The ex-distribution date will be September 25, 2025. (1) Dividend is designated as an “eligible” Canadian dividend for purposes of the Income Tax Act (Canada) and any similar provincial and territorial legislation.(2) Purpose US Preferred Share Fund Non-Currency Hedged – ETF Units have both a CAD and USD purchase option. Distribution per unit is declared in CAD, however, the USD purchase option (RPU.U) distribution will be made in the USD equivalent. Conversion into USD will use the end-of-day foreign exchange rate prevailing on the ex-distribution date. About Purpose Investments Inc. Purpose Investments is an asset management company with more than $26 billion in assets under management. Purpose Investments has an unrelenting focus on client-centric innovation and offers a range of managed and quantitative investment products. Purpose Investments is led by well-known entrepreneur Som Seif and is a division of Purpose Unlimited, an independent technology-driven financial services company. For further information, please contact:Keera HartKeera.Hart@kaiserpartners.com905-580-1257 Commissions, trailing commissions, management fees and expenses all may be associated with investment fund investments. Please read the prospectus and other disclosure documents before investing. Investment funds are not covered by the Canada Deposit Insurance Corporation or any other government deposit insurer. There can be no assurance that the full amount of your investment in a fund will be returned to you. If the securities are purchased or sold on a stock exchange, you may pay more or receive less than the current net asset value. Investment funds are not guaranteed, their values change frequently and past performance may not be repeated. TORONTO, Sept. 18, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. ("Purpose") is pleased to announce the distributions for the month of September 2025 for Canadian Yield Shares ETFs. The... TORONTO, Sept. 17, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) today announced its intent to make changes to certain funds through the introduction of staking and a staking service...
+--------------------------------------------------
+
 Title: Broadcom (AVGO) Stock Trades Down, Here Is Why
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b6128bc9-3130-4b10-951a-2b860489c828
 Time Published: 2025-09-17T17:35:42Z
 Description: None
+--------------------------------------------------
+
+Title: Analysts Are Pounding the Table on This Red-Hot AI Stock
+URL: https://www.barchart.com/story/news/34868633/analysts-are-pounding-the-table-on-this-red-hot-ai-stock
+Time Published: 2025-09-17T16:07:52Z
+Description: This AI stock just got a major upgrade from major analyst firm amid growing investor confidence.
 --------------------------------------------------
 
 Title: Top Stock Movers Now: Workday, Lyft, Uber, Nvidia, and More
@@ -23,6 +48,12 @@ Title: Analyst Says Broadcom (AVGO) is ‘Too Expensive’ – ‘Don’t Think 
 URL: https://finance.yahoo.com/news/analyst-says-broadcom-avgo-too-151257390.html
 Time Published: 2025-09-17T15:12:57Z
 Description: We recently published 10 Stock News You Should Pay Attention To. Broadcom Inc. (NASDAQ:AVGO) is one of the stocks to watch in September. Stephen Weiss, the...
+--------------------------------------------------
+
+Title: Stocks Narrowly Mixed Ahead of FOMC Decision
+URL: https://www.barchart.com/story/news/34865607/stocks-narrowly-mixed-ahead-of-fomc-decision
+Time Published: 2025-09-17T14:02:01Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.04%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.48%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
 Title: Dan Niles Says Nvidia (NVDA) Data Center Miss Should Not Be Ignored

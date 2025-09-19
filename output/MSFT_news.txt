@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stock market today: Nasdaq, Dow, S&P 500 rise after Fed signals more cuts, Nvidia bets on Intel
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-rise-after-fed-signals-more-cuts-nvidia-bets-on-intel-231448487.html
+Time Published: 2025-09-17T23:14:48Z
+Description: Markets are shaking off initial hesitation prompted by Powell's warning that there's no 'risk-free path' for policy.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq, Dow, S&P 500 futures rise after Fed signals more cuts, Nvidia bets on Intel
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-futures-rise-after-fed-signals-more-cuts-nvidia-bets-on-intel-231448028.html
+Time Published: 2025-09-17T23:14:48Z
+Description: Markets are shaking off initial hesitation prompted by Powell's warning that there's no 'risk-free path' for policy.
+--------------------------------------------------
+
 Title: Watch These Alphabet Stock Price Levels After Google Parent Joins the $3 Trillion Club
 URL: https://www.investopedia.com/watch-these-alphabet-price-levels-after-google-parent-s-move-into-usd3-trillion-club-11811667
 Time Published: 2025-09-17T16:31:48Z
@@ -11,6 +23,12 @@ Title: Stock and crypto bulls are watching for rate cuts to drive the market hig
 URL: https://finance.yahoo.com/news/stock-and-crypto-bulls-are-watching-for-rate-cuts-to-drive-the-market-higher-opening-bid-top-takeaway-155327339.html
 Time Published: 2025-09-17T15:53:27Z
 Description: The stock bulls get ready for a rate cut.
+--------------------------------------------------
+
+Title: The Federal Reserve Cuts Interest Rate by a Quarter-Percentage-Point, Signals 2 More Before the End of the Year
+URL: https://www.barchart.com/story/news/34867935/stocks-tread-water-as-fomc-decision-nears
+Time Published: 2025-09-17T15:27:26Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up -0.17%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.77%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
 Title: If You Invested $2K in Microsoft 10 Years Ago, It Would Be Worth Nearly $20K Today
@@ -116,10 +134,4 @@ Title: Microsoft Avoids EU Antitrust Fine by Agreeing to Unbundle Teams from Off
 URL: https://finance.yahoo.com/news/microsoft-avoids-eu-antitrust-fine-050237575.html
 Time Published: 2025-09-14T05:02:37Z
 Description: Microsoft Corporation (NASDAQ:MSFT) is one of the stocks to invest in before they split next. On September 12, the European Commission announced that it...
---------------------------------------------------
-
-Title: 1 Magnificent Stock Under $500 to Buy and Hold Forever
-URL: https://www.barchart.com/story/news/34791671/1-magnificent-stock-under-500-to-buy-and-hold-forever
-Time Published: 2025-09-13T13:00:02Z
-Description: Oracle is uniquely positioned to lead the AI race.
 --------------------------------------------------

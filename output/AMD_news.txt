@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stocks Narrowly Mixed Ahead of FOMC Decision
+URL: https://www.barchart.com/story/news/34865607/stocks-narrowly-mixed-ahead-of-fomc-decision
+Time Published: 2025-09-17T14:02:01Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.04%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.48%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: Stocks Rally as Bond Yields Fall Before FOMC Meeting
 URL: https://www.barchart.com/story/news/34819556/stocks-rally-as-bond-yields-fall-before-fomc-meeting
 Time Published: 2025-09-15T20:37:15Z
@@ -10,10 +16,4 @@ Title: HSBC Trims AMD Target Amid Revised Pricing Assumptions
 URL: https://finance.yahoo.com/news/hsbc-trims-amd-target-amid-000337435.html
 Time Published: 2025-09-14T00:03:37Z
 Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the AI Stocks on Wall Street’s Radar. On September 9, HSBC analyst Frank Lee lowered the price target on ...
---------------------------------------------------
-
-Title: HSBC: Wall Street Underestimating Advanced Micro Devices Inc. (AMD)’s AI GPU Business
-URL: https://finance.yahoo.com/news/hsbc-wall-street-underestimating-advanced-135320942.html
-Time Published: 2025-09-13T13:53:20Z
-Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the best tech stocks to buy for the long term. On September 9, HSBC reiterated a ‘Buy’ rating on the...
 --------------------------------------------------
