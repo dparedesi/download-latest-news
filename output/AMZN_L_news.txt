@@ -1,5 +1,11 @@
 List of news related to Layoffs Amazon:
 
+Title: A ‘demoralizing' trend has computer science grads out of work — even minimum wage jobs. Are 6-figure tech careers over?
+URL: https://www.yahoo.com/news/articles/demoralizing-trend-computer-science-grads-103000049.html
+Time Published: 2025-09-18T10:30:00Z
+Description: More than 150,000 tech employees were laid off across 551 tech companies in 2024.
+--------------------------------------------------
+
 Title: Jerome Powell on signs of an AI bubble and an economy leaning too hard on the rich: ‘Unusually large amounts of economic activity’
 URL: https://fortune.com/2025/09/17/jerome-powell-ai-bubble-inequality-rich/
 Time Published: 2025-09-17T22:29:07Z
