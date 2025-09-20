@@ -1,5 +1,53 @@
 List of news related to NVIDIA NVDA:
 
+Title: This Dividend Stock Is Up 10% This Year and Amazon Could Take It Even Higher
+URL: https://www.barchart.com/story/news/34904913/this-dividend-stock-is-up-10-this-year-and-amazon-could-take-it-even-higher
+Time Published: 2025-09-18T23:30:02Z
+Description: General Motors’ stock is up 10% this year and could climb further as Amazon’s pilot of BrightDrop electric vans highlights GM’s expanding presence in green...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq mixed after Trump and Xi hold call on trade
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-after-trump-and-xi-hold-call-on-trade-231415003.html
+Time Published: 2025-09-18T23:14:15Z
+Description: Wall Street watched for the results of a call President Trump and Chinese President Xi Jinping.
+--------------------------------------------------
+
+Title: Bernstein Stays Bullish on NVIDIA (NVDA), Sees Material Upside Ahead
+URL: https://finance.yahoo.com/news/bernstein-stays-bullish-nvidia-nvda-211444535.html
+Time Published: 2025-09-18T21:14:44Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Making Headlines This Week. Bernstein reiterated the stock as “Outperform” on September 16, stating ...
+--------------------------------------------------
+
+Title: Intel's biggest problem isn't going away with Nvidia's $5 billion stake
+URL: https://finance.yahoo.com/news/intels-biggest-problem-isnt-going-away-with-nvidias-5-billion-stake-204800300.html
+Time Published: 2025-09-18T20:48:00Z
+Description: Nvidia's investment does little to solve what is arguably Intel's biggest problem: how to fix its ailing contract chip manufacturing business.
+--------------------------------------------------
+
+Title: Nvidia buys Intel stake: 3 takeaways from the AI partnership
+URL: https://qz.com/3-big-takeaways-from-the-nvidia-intel-ai-partnership
+Time Published: 2025-09-18T20:38:12Z
+Description: Nvidia hasn’t had to pivot too much on the geopolitical front, but finding itself in the midst of tariffs and trade wars has changed that in 2025
+--------------------------------------------------
+
+Title: Stock Indexes Rally to Record Highs on Fed Rate Cut Expectations
+URL: https://www.barchart.com/story/news/34902040/stock-indexes-rally-to-record-highs-on-fed-rate-cut-expectations
+Time Published: 2025-09-18T20:34:45Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +0.48%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.27%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq hit records as rate-cut relief, Nvidia's Intel bet lift markets
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-hit-records-as-rate-cut-relief-nvidias-intel-bet-lift-markets-200041899.html
+Time Published: 2025-09-18T20:00:41Z
+Description: Markets are shaking off initial hesitation prompted by Powell's warning that there's no 'risk-free path' for policy.
+--------------------------------------------------
+
+Title: Nvidia Is Taking Trump’s ‘Stargate’ Idea Global. Should You Buy NVDA Stock Now?
+URL: https://www.barchart.com/story/news/34900382/nvidia-is-taking-trumps-stargate-idea-global-should-you-buy-nvda-stock-now
+Time Published: 2025-09-18T19:15:56Z
+Description: Nvidia will invest 11 billion British pounds in the United Kingdom to shore up the nation’s AI infrastructure.
+--------------------------------------------------
+
 Title: Nvidia Just Gave Intel a Vote of Confidence. Will That Keep Intel's Stock Rising?
 URL: https://www.investopedia.com/nvidia-just-gave-intel-a-vote-of-confidence-will-that-keep-intel-s-stock-rising-11812667
 Time Published: 2025-09-18T19:05:47Z
@@ -46,6 +94,12 @@ Full Content:
 Tech stocks surged in recent trading, pushing the Dow, S&P 500, and Nasdaq to record highs. Intel (INTC) was the best-performing stock in the S&P 500 after Nvidia said it would invest $5 billion in the struggling chipmaker, and the two agreed to co-develop new data center and PC chips. Nvidia (NVDA) shares were up as well. Shares of PayPal (PYPL) and Google-owner Alphabet (GOOGL) also gained following an agreement that will have PayPal use Google’s artificial intelligence tools to boost internet commerce. CrowdStrike (CRWD) shares jumped after the cybersecurity firm gave a better-than-expected forecast for annual recurring revenue. Darden Restaurants (DRI) shares slumped as the owner of Olive Garden and LongHorn Steakhouse chains missed profit estimates and warned higher costs could hurt future earnings. Shares of another restaurant operator, Cracker Barrel (CBRL), sank as the blowback from the restaurant chain’s location updates and logo change hit its results and guidance. A lower-than-anticipated outlook sent shares of Nucor (NUE) lower. The steelmaker said it sees weakness in all its segments. Oil futures rose and gold prices fell. The yield on the 10-year Treasury note advanced. The U.S. dollar was up on the euro, pound, and yen. Most major cryptocurrencies traded higher.
 --------------------------------------------------
 
+Title: Billionaire David Tepper is feeling ‘miserable’ about stocks, but won’t ‘fight the Fed’
+URL: https://www.marketwatch.com/story/billionaire-david-tepper-is-feeling-miserable-about-stocks-but-wont-fight-the-fed-74d96d45
+Time Published: 2025-09-18T15:33:00Z
+Description: Hedge-fund investor Tepper expects the stock market rally to continue with a few Federal Reserve rate cuts, but sees danger in too many
+--------------------------------------------------
+
 Title: Intel is in revival mode: Intel stock spikes as Nvidia to invests $5 billion while AMD falls 3.22% — what does this sudden shift mean for Intel’s future and the chip industry?
 URL: https://economictimes.indiatimes.com/news/international/us/intel-stock-today-intel-is-in-revival-mode-as-stock-spikes-on-nvidia-deal-while-amd-falls-3-22-what-does-this-sudden-shift-mean-for-intels-future-and-the-chip-industry/articleshow/123979444.cms
 Time Published: 2025-09-18T15:22:39Z
@@ -57,6 +111,12 @@ Title: Ditch NVIDIA Corporation (NVDA) For Own Tech, Says Top Chinese Adviser
 URL: https://finance.yahoo.com/news/ditch-nvidia-corporation-nvda-own-151022938.html
 Time Published: 2025-09-18T15:10:22Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) is among the 15 Stocks ChatGPT Predicts Could Make You Wealthy in 5 Years. A top government advisor in Beijing has recently ...
+--------------------------------------------------
+
+Title: Record Highs for Major Stock Indexes as Chip Makers Soar
+URL: https://www.barchart.com/story/news/34895101/record-highs-for-major-stock-indexes-as-chip-makers-soar
+Time Published: 2025-09-18T15:08:24Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.67%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.46%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
 Title: Investors Double Down While NVIDIA Corporation (NVDA) Secures Multi-Year AI Wins
@@ -87,7 +147,7 @@ Title: Nvidia to Invest $5B in Intel and Develop Data Centers, PCs
 URL: https://www.coindesk.com/business/2025/09/18/nvidia-to-invest-usd5b-in-intel-and-develop-data-centers-pcs
 Time Published: 2025-09-18T13:51:06Z
 Full Content:
-Nvidia (NVDA), the world's largest public company by market cap, said it will invest $5 billion in Intel (INTC) and work with the chipmaker on developing custom data-center and PC products as artificial intelligence becomes more pervasive. AI crypto tokens rose on the news. The Santa Clara, California-based maker of the graphic processing units (GPUs) that underpin AI computing will buy shares of its neighbor at $23.28 each, 6.5% lower than Wednesday's closing price of $24.90, according to an announcement on Thursday. NEAR, the largest AI crypto token by market cap, climbed to over $2.95, its highest in a month, gaining more than 10% in 24 hours. TAO advanced 5.75% and FET 6.75%, outperforming the broader crypto market. The CoinDesk 20 Index added 3.41%. While Nvidia is known for its GPU production, Intel was a leader in developing microprocessors and entered public consciousness as the provider of central processing units (CPUs) that drove IBM-compatible microcomputers. Its fortunes have declined as AI, with its intensive computing requirements, has taken root. Intel stock surged 24% on Thursday, taking its market cap to $143 billion. That's just a fraction of the $500 billion it boasted in 2000, according to companiesmarketcap.com. Nvidia, with a value of $4.23 trillion, rose 1.85%. The U.S. government bought a 10% stake in Intel last month for $8.9 billion in an attempt to shore up the future of American chip manufacturing. The crypto industry watches Nvidia's performance with a keen eye as a proxy for market sentiment, which may reflect in AI tokens and the broader crypto market. UPDATE (Sept. 18, 14:26 UTC): Adds AI crypto tokens' performance in third paragraph. More For You Ethereum Developers Set Fusaka Upgrade for December, Ahead of Blob Capacity Boosts The rollout continues Ethereum’s scaling drive, following March’s Dencun blobs debut and May’s Pectra upgrade. What to know: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
+Nvidia (NVDA), the world's largest public company by market cap, said it will invest $5 billion in Intel (INTC) and work with the chipmaker on developing custom data-center and PC products as artificial intelligence becomes more pervasive. AI crypto tokens rose on the news. The Santa Clara, California-based maker of the graphic processing units (GPUs) that underpin AI computing will buy shares of its neighbor at $23.28 each, 6.5% lower than Wednesday's closing price of $24.90, according to an announcement on Thursday. NEAR, the largest AI crypto token by market cap, climbed to over $2.95, its highest in a month, gaining more than 10% in 24 hours. TAO advanced 5.75% and FET 6.75%, outperforming the broader crypto market. The CoinDesk 20 Index added 3.41%. While Nvidia is known for its GPU production, Intel was a leader in developing microprocessors and entered public consciousness as the provider of central processing units (CPUs) that drove IBM-compatible microcomputers. Its fortunes have declined as AI, with its intensive computing requirements, has taken root. Intel stock surged 24% on Thursday, taking its market cap to $143 billion. That's just a fraction of the $500 billion it boasted in 2000, according to companiesmarketcap.com. Nvidia, with a value of $4.23 trillion, rose 1.85%. The U.S. government bought a 10% stake in Intel last month for $8.9 billion in an attempt to shore up the future of American chip manufacturing. The crypto industry watches Nvidia's performance with a keen eye as a proxy for market sentiment, which may reflect in AI tokens and the broader crypto market. UPDATE (Sept. 18, 14:26 UTC): Adds AI crypto tokens' performance in third paragraph. More For You Bankrupt Exchange FTX Set to Repay $1.6B to Creditors Starting on Sep. 30 The latest round of redistributions marks another step in the bankruptcy estate’s plan to make creditors whole after the 2022 collapse of Sam Bankman-Fried's exchange. What to know: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
 --------------------------------------------------
 
 Title: Intel stock surges as Nvidia announces $5 billion stake in company
@@ -117,6 +177,12 @@ Full Content:
 Stock futures are sharply higher after the Federal Reserve delivered its first interest rate cut of the year; Intel (INTC) shares are soaring on news that AI investor favorite Nvidia (NVDA) will invest $5 billion in the beleaguered chipmaker; Meta Platforms (META) revealed its AI-powered glasses; and StubHub (STUB) stock is pointing lower after shares in the ticket reseller fell in their first trading session. Here's what investors need to know today. Stock futures are soaring as investors digest the Federal Reserve's decision yesterday to cut its benchmark rate and the economic projections of Fed officials. Futures tied to the tech-heavy Nasdaq were up more than 1% this morning, while those linked to the S&P 500 and Dow Jones Industrial Average were also solidly higher. The major indexes are on track to open at all-time highs, after turning in a mixed performance yesterday. The yield on the 10-year Treasury, which affects borrowing costs on all sorts of loans, was down slightly at 4.06%. Bitcoin is at $117,200, trading at its highest levels in a month, while gold futures fell slightly to $3,700 an ounce. The Federal Reserve on Wednesday delivered the quarter percentage point interest rate cut that investors expected, but Chair Jerome Powell couldn’t guarantee that more were on the way. Fed officials on average expect two more rate cuts in the Fed's remaining two meetings of the year, but Powell said those projections were dependent on upcoming economic data releases. Meanwhile, the Fed’s economic outlook projected moderate growth, stable unemployment, and slowing inflation, with officials split on how aggressively to cut interest rates at upcoming meetings. Nvidia (NVDA) will invest $5 billion in embattled rival Intel (INTC) as the two tech firms agreed to jointly develop chips for personal computers and data centers. As part of the agreement, Intel will build custom processing units that Nvidia will integrate into its AI infrastructure, while it will also integrate Nvidia chips into its personal computers. “This historic collaboration tightly couples NVIDIA’s AI and accelerated computing stack with Intel’s CPUs and the vast x86 ecosystem — a fusion of two world-class platforms,” said Nvidia CEO Jensen Huang. The move comes after the federal government took a 10% stake in Intel. Shares of Intel were up about 30% in recent premarket trading, while Nvidia shares added 3%. Meta Platforms (META) on Wednesday unveiled new AI-powered glasses as part of its developer conference. CEO Mark Zuckerberg demonstrated the Meta Ray-Ban Display glasses, which the company said “takes microphones, speakers, cameras, and a full-color display backed with compute and AI — and puts it all together in a single device that’s stylish and comfortable.” The device also comes with the Meta Neural Band wrist monitor that tracks movements to help control the glasses. The glasses will be priced at $799, the company said. Meta shares were little change in premarket trading. Ticket reseller StubHub (STUB) shares fell in their first session of trading yesterday after its initial public offering. StubHub priced shares at $23.50, and the stock climbed to above $26 during the session before closing at $22. StubHub sold 34 million shares and raised $800 million in the IPO. The money will go toward paying down debt, CEO Eric Baker said on CNBC. StubHub shares were down 2% ahead of the bell on Thursday.
 --------------------------------------------------
 
+Title: Nvidia’s $5B Boost Sends Intel Skyrocketing, But Should You Buy INTC Stock Here?
+URL: https://www.barchart.com/story/news/34888550/nvidias-5b-boost-sends-intel-skyrocketing-but-should-you-buy-intc-stock-here
+Time Published: 2025-09-18T12:01:34Z
+Description: Nvidia bought Intel stock at $23.28 per share, but INTC is set to open well above NVDA CEO Jensen Huang’s entry price.
+--------------------------------------------------
+
 Title: NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products
 URL: http://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products
 Time Published: 2025-09-18T11:00:00Z
@@ -129,6 +195,12 @@ URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-
 Time Published: 2025-09-18T10:48:46Z
 Full Content:
 U.S. stock market futures rose today following the Federal Reserve's rate cut, with all three major indexes climbing in early trading. The Fed lowered interest rates by 25 basis points, marking its first cut of the year, and signaled the possibility of two more cuts in 2025, boosting investor sentiment. The rate cut helped lift optimism in sectors poised to benefit from lower borrowing costs, especially tech stocks, which contributed to the Nasdaq's stronger futures gain. The small-cap Russell 2000 futures also rose significantly, expected to thrive in a lower interest rate environment. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Kerala’s Brain-Eating Amoeba scare: What we know so far Airports, highways, metro lines; CM Yogi lists UP’s big infra gains Amit Shah hits back at Rahul’s vote theft charge EC Gyanesh Kumar is protecting 'vote chors' | Rahul Gandhi Trump praises ABC for pulling Jimmy Kimmel’s show off Fed cuts rates by 25 Bps; Powell hints, 'two more…' Judge orders Mahmoud Khalil deported to Syria or Algeria 'One of the highest honor ....': Trump dines with King Charles Sen Mullin confronts ex-CDC Boss Susan Monarez Gandhi Sagar welcomes first female cheetah ‘Dheera’ Kerala’s Brain-Eating Amoeba scare: What we know so far Airports, highways, metro lines; CM Yogi lists UP’s big infra gains Amit Shah hits back at Rahul’s vote theft charge EC Gyanesh Kumar is protecting 'vote chors' | Rahul Gandhi Trump praises ABC for pulling Jimmy Kimmel’s show off Fed cuts rates by 25 Bps; Powell hints, 'two more…' Judge orders Mahmoud Khalil deported to Syria or Algeria 'One of the highest honor ....': Trump dines with King Charles Sen Mullin confronts ex-CDC Boss Susan Monarez Gandhi Sagar welcomes first female cheetah ‘Dheera’ Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Prime Articles Top Slideshow Top Commodities Private Companies Top Story Listing Top Definitions Most Searched IFSC Codes Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: Stocks Rally Before the Open After Fed Rate Cut With More Easing Ahead
+URL: https://www.barchart.com/story/news/34884956/stocks-rally-before-the-open-after-fed-rate-cut-with-more-easing-ahead
+Time Published: 2025-09-18T10:06:17Z
+Description: September S&P 500 E-Mini futures (ESU25) are up +0.84%, and September Nasdaq 100 E-Mini futures (NQU25) are up +1.10% this morning, pointing to a sharply...
 --------------------------------------------------
 
 Title: Oppenheimer Names NVIDIA (NVDA) a Top AI Pick Amid Long-Term Structural Growth
@@ -176,10 +248,10 @@ Full Content:
 September 18, 2025 — In a landmark move for the tech industry, NVIDIA (NASDAQ: NVDA) and Intel Corporation (NASDAQ: INTC) announced a multi-year collaboration to co-develop AI infrastructure and personal computing products that blend their respective strengths in GPUs and CPUs. At the heart of this collaboration is NVIDIA NVLink, which will tightly connect NVIDIA’s AI and accelerated computing platforms with Intel’s x86 CPU ecosystem. The goal: to deliver cutting-edge solutions for data centers, enterprises, and consumers. Intel will design and manufacture NVIDIA-custom x86 CPUs, which NVIDIA will integrate into its AI infrastructure platforms. These processors will be optimized for hyperscale data centers and enterprise-grade AI workloads. On the consumer side, Intel plans to launch x86 system-on-chips (SoCs) that integrate NVIDIA RTX GPU chiplets. These RTX SoCs are designed to power a wide range of PCs, offering world-class CPU-GPU integration to handle modern workloads from gaming to AI-powered productivity. As part of the collaboration, NVIDIA will invest $5 billion in Intel’s common stock at a purchase price of $23.28 per share. This deal remains subject to standard regulatory approvals. Jensen Huang, NVIDIA’s founder and CEO, highlighted the significance: AI is powering a new industrial revolution and reinventing every layer of the computing stack — from silicon to systems to software. At the heart of this reinvention is NVIDIA’s CUDA architecture. This historic collaboration tightly couples NVIDIA’s AI and accelerated computing stack with Intel’s CPUs and the vast x86 ecosystem — a fusion of two world-class platforms. Together, we will expand our ecosystems and lay the foundation for the next era of computing. Lip-Bu Tan, Intel’s CEO, emphasized the shared vision: Intel’s x86 architecture has been foundational to modern computing for decades — and we are innovating across our portfolio to enable the workloads of the future. Intel’s leading data center and client computing platforms, combined with our process technology, manufacturing and advanced packaging capabilities, will complement NVIDIA’s AI and accelerated computing leadership to enable new breakthroughs for the industry. We appreciate the confidence Jensen and the NVIDIA team have placed in us with their investment and look forward to the work ahead as we innovate for customers and grow our business. This partnership signals a reshaping of the semiconductor industry landscape, as rivals-turned-partners align to meet surging AI demand. For developers, enterprises, and end-users, it promises more tightly integrated hardware that can handle the growing complexity of AI-driven applications. ©2025 C# Corner. All contents are copyright of their authors.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, Dow, S&P 500 futures rise after Fed signals more cuts, Nvidia bets on Intel
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-futures-rise-after-fed-signals-more-cuts-nvidia-bets-on-intel-231448028.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise after Fed lowers rates, signals more cuts ahead
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-after-fed-lowers-rates-signals-more-cuts-ahead-231448085.html
 Time Published: 2025-09-17T23:14:48Z
-Description: Markets are shaking off initial hesitation prompted by Powell's warning that there's no 'risk-free path' for policy.
+Description: US stock futures rose after the Federal Reserve cut interest rates for the first time this year.
 --------------------------------------------------
 
 Title: Stock market today: Nasdaq, Dow, S&P 500 rise after Fed signals more cuts, Nvidia bets on Intel
@@ -188,10 +260,10 @@ Time Published: 2025-09-17T23:14:48Z
 Description: Markets are shaking off initial hesitation prompted by Powell's warning that there's no 'risk-free path' for policy.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise after Fed lowers rates, signals more cuts ahead
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-after-fed-lowers-rates-signals-more-cuts-ahead-231448085.html
+Title: Stock market today: Nasdaq, Dow, S&P 500 futures rise after Fed signals more cuts, Nvidia bets on Intel
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-futures-rise-after-fed-signals-more-cuts-nvidia-bets-on-intel-231448028.html
 Time Published: 2025-09-17T23:14:48Z
-Description: US stock futures rose after the Federal Reserve cut interest rates for the first time this year.
+Description: Markets are shaking off initial hesitation prompted by Powell's warning that there's no 'risk-free path' for policy.
 --------------------------------------------------
 
 Title: China's Nvidia ban marks 'experimental phase' of trade talks
@@ -241,80 +313,4 @@ Title: Nvidia makes biggest-ever global AI push
 URL: https://www.thestreet.com/technology/nvidia-makes-biggest-ever-global-ai-push-yet
 Time Published: 2025-09-17T16:33:00Z
 Description: Nvidia's move will redefine the next phase of the AI race.
---------------------------------------------------
-
-Title: Watch These Alphabet Stock Price Levels After Google Parent Joins the $3 Trillion Club
-URL: https://www.investopedia.com/watch-these-alphabet-price-levels-after-google-parent-s-move-into-usd3-trillion-club-11811667
-Time Published: 2025-09-17T16:31:48Z
-Full Content:
-Alphabet (GOOGL) this week became just the fourth company to achieve a market capitalization of $3 trillion, boosted by a favorable legal ruling and optimism about the company's prospects amid the AI boom. The tech giant joined Apple (AAPL), Microsoft (MSFT) and Nvidia (NVDA) in the exclusive club. Alphabet shares surged in recent weeks after a federal judge ruled that Google doesn't have to sell its Chrome browser to remedy an antitrust case. Investors have also cheered the integration of Google’s AI tools across its ad and cloud business. Alphabet shares were down 1% at around $248 in early-afternoon trading Wednesday, leaving the company's market cap hovering near $3 trillion. Despite today's decline, the stock has gained about 17% since the start of September and is up 30% since the start of the year. Below, we dial into Alphabet’s technicals and point out key price levels worth watching out for. Since breaking out from a saucer pattern in late August, Alphabet shares have continued to trend sharply higher this month. While the relative strength index confirms bullish momentum with a reading nearing 90, the indicator also warns of heated conditions, potentially leading to short-term price fluctuations and profit taking. It’s also worth noting that the price formed a spinning top candlestick pattern in Tuesday’s trading session, signaling indecision among buyers and sellers. Let’s use technical analysis to forecast where the stock could be headed if the rally continues and also point out key support levels worth monitoring. Investors can forecast two possible bullish price targets on Alphabet’s chart by using the measuring principle, a technique that analyzes chart patterns to project future price movements. To apply the analysis, we calculate the distance of the saucer pattern from its low to high and add that to the formation’s top trendline value. When calculating the distance in points, we add $60 to $201, which forecasts a target of $261. ($60 + 201). Alternatively, we can measure the distance as a percentage change, which projects a target of $286.53. (applying a 42.55% increase to $201). The first support level to eye sits around $215. This location on the chart may attract buying interest on a fill of the stock’s antitrust news-driven breakaway gap. Finally, selling below this level could see Alphabet shares retest a key floor at $201, currently situated just under the rising 50-day moving average. Investors may look to accumulate shares in this region near the saucer pattern’s top trendline, which may flip from prior resistance into future support. The comments, opinions, and analyses expressed on Investopedia are for informational purposes only. Read our warranty and liability disclaimer for more info. As of the date this article was written, the author does not own any of the above securities.
---------------------------------------------------
-
-Title: Bitcoin options show caution, pro traders boost bullish bets ahead of Fed rate decision
-URL: https://cointelegraph.com/news/bitcoin-options-hedge-pro-traders-boost-bullish-best-as-fed-rate-decision-looms
-Time Published: 2025-09-17T16:10:08Z
-Description: The Bitcoin options market reflects caution, while top traders increased their bullish positions as optimism in a Federal Reserve rate cut grows.
---------------------------------------------------
-
-Title: Top Stock Movers Now: Workday, Lyft, Uber, Nvidia, and More
-URL: https://www.investopedia.com/top-stock-movers-now-workday-lyft-uber-nvidia-and-more-11811772
-Time Published: 2025-09-17T15:57:27Z
-Full Content:
-Major U.S. equities indexes were mixed at midday ahead of a highly anticipated decision on interest rates from the Federal Reserve. The Dow advanced, but the S&P 500 and Nasdaq fell. Workday (WDAY) was the best-performing stock in the S&P 500 after activist investor Elliott Investment Management said it took a more than $2 billion stake in the human resources software provider and complemented management on its strategy. Lyft (LYFT) shares soared after Google parent Alphabet’s (GOOGL) Waymo announced an expanded partnership to bring robotaxi service to Nashville starting next year. Shares of rival ridesharing giant Uber (UBER) slumped. U.S.-listed shares of Alibaba (BABA) climbed following a report China Unicom will purchase its artificial intelligence semiconductors. Nvidia (NVDA) shares slid following a report China has blocked the sale of the U.S. company's AI chips to tech companies there. A number of other chipmakers and AI investor favorites, including Broadcom (AVGO), Oracle (ORCL), and Palantir (PLTR), also lost ground. Oil and gold futures edged lower. The yield on the 10-year Treasury note was little changed. The U.S. dollar was up on the euro but lost ground to the pound and yen. Prices for most major cryptocurrencies were higher.
---------------------------------------------------
-
-Title: Stock and crypto bulls are watching for rate cuts to drive the market higher: Opening Bid top takeaway
-URL: https://finance.yahoo.com/news/stock-and-crypto-bulls-are-watching-for-rate-cuts-to-drive-the-market-higher-opening-bid-top-takeaway-155327339.html
-Time Published: 2025-09-17T15:53:27Z
-Description: The stock bulls get ready for a rate cut.
---------------------------------------------------
-
-Title: Fed Meeting: Rate-Cut Coming, But Watch Out For These 2 Words (Live Coverage)
-URL: https://www.investors.com/news/economy/federal-reserve-meeting-sept-rate-cut-jerome-powell-trump-sp-500/
-Time Published: 2025-09-17T15:35:32Z
-Description: Is this the first cut of a bunch or will we return to wait-and-see mode?
---------------------------------------------------
-
-Title: Nvidia stock dips as China reportedly tells its companies to avoid buying chips
-URL: https://finance.yahoo.com/news/nvidia-stock-dips-as-china-reportedly-tells-its-companies-to-avoid-buying-chips-153429193.html
-Time Published: 2025-09-17T15:34:29Z
-Description: Nvidia stock slid 3% after China reportedly told its companies to avoid purchasing some of the AI giant's chips.
---------------------------------------------------
-
-Title: The Federal Reserve Cuts Interest Rate by a Quarter-Percentage-Point, Signals 2 More Before the End of the Year
-URL: https://www.barchart.com/story/news/34867935/stocks-tread-water-as-fomc-decision-nears
-Time Published: 2025-09-17T15:27:26Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up -0.17%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.77%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: AI’s Next Dividend Bonanza Is NOT Where You Think
-URL: https://www.forbes.com/sites/brettowens/2025/09/17/ais-next-dividend-bonanza-is-not-where-you-think/
-Time Published: 2025-09-17T15:15:00Z
-Full Content:
-ByBrett Owens, Contributor. While Wall Street chases NVIDIA (NVDA), the real AI dividend story is unfolding in the sleepy insurance sector. These “boring” firms are quietly leveraging AI tools to slash costs, grow premiums, and—best of all—dish us bigger dividends. AI is spreading across the economy much faster than many expected. That means we need to move even faster to front-run that shift. We’ve already been hard at it. In July, we talked about our favorite dividend payer to grab as AI reworks farming. Few people realize it, but “ag” has a long history of leveraging tech. It’s a big reason why productivity per farm worker has shot up 16X since 1948. Then there’s small business—and our favorite 8.8%-paying business development company (BDC), which funds many of these “mom-and-pop” shops. You don’t hear much about it, but small biz is wildly optimistic as AI helps it solve one of its toughest challenges: finding skilled workers. So where to next? When most people think about AI in business, they think about annoying customer-service chatbots. But that’s just the public side, and only a small part of the story. The real AI “juice”—especially for insurers—is on the back end. Picture an AI app pulling data from a patient’s medical records, zipping through the underwriting process and delivering a quote in seconds. While that’s going on, another runs compliance checks. Claims? Send in a picture of your damaged car/house/business and your payout pops into your account in minutes. Absolute gold for customer retention. All of this is happening in insurance right now. And that’s just on the efficiency side. The growth story is where things get interesting, as salespeople use AI to zero in on leads and cross-sell products. One example, cited in a July 2025 report from research firm McKinsey & Co., is that an AI app could assess a new life-insurance customer and toss out a personalized package, including disability and critical-illness coverage. As I said, initiatives like these are driving real returns for insurers today. And according to a January 2024 report from McKinsey, insurers that prioritize tech, including AI, have delivered far bigger total shareholder returns (TSR) than firms in other sectors. The best part of all for us is that the public still sees insurers as stuffy pencil-pushers (the same type of outdated view that hovers over agriculture). Let’s dive into three insurers leading the way in AI, and likely to hand their savings (and profit growth) to us in the form of dividend hikes. They all have appeal, but to make things simple, I’ve ranked them from “worst to first.” Progressive (PGR) was already a leader in algo-driven insurance before AI came along. Through fictional salesperson “Flo,” it could deliver a competitive insurance quote for a car, home or even a boat in a few minutes. Fast-forward to today and Flo is, you guessed it, a chatbot. Looking a bit deeper, the company is using AI to further refine Snapshot—its program that adapts rates based on real-time data from a customer’s car. It’s also using the tech to analyze photos of damage to speed up claims. Members of my Hidden Yields service will remember this one: We bagged an 87% return on it during our last holding period, from June 2019 to May 2023. PGR remains on my watch list, and we won’t hesitate to jump back into this savvy dividend payer (whose 0.16% yield masks the fact that it pays most of its dividend as a year-end special payout—often a big one). But with the stock trading around 4.4-times book value, that time is not now. We’d also like to see more buybacks: PGR’s share count is about where it was 10 years ago. The Travelers Cos. (TRV) is a giant in insurance, offering everything from property to personal and business coverage. On the claims side, Travelers, like Progressive, uses AI to analyze images of property damage and speed payments to policyholders, often before a human ever sets foot on the site. That kind of speed gives TRV a much better shot at keeping customers happy—and hanging on to their business. On the growth side, the company has tools like Business Owner Policy 2.0, which speeds up underwriting, getting a quote into a new small business customer much faster than in “analog” days. According to the company, the process cuts the number of questions a potential new business client has to answer by 70%, from around 40 to roughly nine. Moves like these are rocket fuel for a business that’s already firing on all cylinders. In the second quarter, TRV saw its catastrophe losses drop from $1.5 billion a year ago to $927 million. Written premiums jumped 4% and net investment income jumped 6%. That last number is particularly impressive since an insurer’s “float”—made up of total premiums collected—has to be placed in safer investments. Management loves its shareholders, too: Over the last decade, Travelers bought back 26% of its shares and hiked its payout 80%. That’s driven the share price up a stout 170%. With reinvested dividends, that return jumps to 237%! The only drawback? We like to buy a stock when the share price lags its “Dividend Magnet”—a true sign of value—and that’s not the case here. That’s why we’re putting this “stealth” AI dividend play on our watch list, instead of our buy list. Meantime, the AI focus at American International Group (AIG) is solidly on underwriting. The company has teamed up with Palantir Technologies (PLTR) and Anthropic to develop AI tools that supercharge its human underwriters. Through these deals, it aims to help its underwriters process 500,000 E&S submissions in 2030, generating at least $4 billion in new business premiums. (E&S covers risks that don’t fit neatly in the silos of other kinds of coverage.) To put that in context, AIG generates about $28 billion in revenue a year. AIG also plans to create a “digital twin,” kind of a virtual mock-up of itself management can use to see what various decisions could have on the business. It’s on the dividend front that AIG gets really interesting. It yields 2.3% today and, following a long, stale period stretching back to 2016, it has recently sprung back to life. Management hasn’t been leaving investors out in the cold, though—it’s been busy buying back its ultra-cheap stock. That includes a massive repurchase of 56% of its shares outstanding in the last decade. Better still, it’s been accelerating those payouts just as it’s reawakened its dividend: Normally we don’t like to see a company buy more of its stock as it’s rising, as is the case here. But AIG’s reasonable valuation of around book value is backed up by its share price, which still lags the dividend. An AI-powered efficiency boost would only add to the stock’s momentum. Brett Owens is Chief Investment Strategist for Contrarian Outlook. For more great income ideas, get your free copy his latest special report: How to Live off Huge Monthly Dividends (up to 7.6%) — Practically Forever. Disclosure: none
---------------------------------------------------
-
-Title: China Bans Top Tech Firms From Buying Nvidia Chips, Report Says
-URL: https://www.investopedia.com/china-bans-top-tech-firms-from-buying-nvidia-chips-report-says-11811683
-Time Published: 2025-09-17T15:13:01Z
-Full Content:
-China has reportedly banned its largest tech firms from buying Nvidia (NVDA) AI chips, adding pressure on the U.S. chipmaker’s sales in the country. Shares of Nvidia, which entered Wednesday's session up roughly a third this year, fell about 3% in recent trading following the news. The Cyberspace Administration of China, the country’s internet regulator, told firms including TikTok owner ByteDance and e-commerce giant Alibaba (BABA) this week to end their testing and orders of the RTX Pro 6000D—the chip Nvidia introduced in July for the Chinese market, according to the Financial Times. Beijing had concluded that homegrown chips are now performing on par with the Nvidia chips allowed in China under export controls, the FT said, citing people familiar with the matter. ByteDance and Alibaba did not respond to a request for comment in time for publication. The FT report said the companies that started testing and verification work on the chip with Nvidia's server suppliers have since told their suppliers to stop the work. The new ban is stronger than prior guidance from regulators that focused on curbing use of the H20, an earlier version of Nvidia's China-tailored AI chip, and comes after China recently accused Nvidia of antitrust violations. Asked at a press conference in London about the reported ban, Nvidia CEO Jensen Huang said he was "disappointed." Huang is among U.S. tech executives accompanying President Donald Trump on a state visit to the U.K. "We can only be in service of a market if a country wants us to be,” Huang said, according to a transcript provided to Investopedia by the company. “I’m disappointed with what I see but they have larger agendas to work out between China and the United States. And I’m patient about it. We’ll continue to be supportive of the Chinese [government] and Chinese companies as they wish.” Nvidia faces U.S. export restrictions on sales of its most advanced chips to China and has tailor-made some of its semiconductors for the country's market. In August, Trump ended H20 restrictions his administration had placed earlier earlier in the year in exchange for a 15% share of revenues.
---------------------------------------------------
-
-Title: Stock Market Today: The market awaits the Fed's big decision
-URL: https://www.thestreet.com/markets/stock-market-today-september-17-2025
-Time Published: 2025-09-17T15:01:40Z
-Description: Stocks are flat ahead of the Fed's announcement
---------------------------------------------------
-
-Title: Stocks Narrowly Mixed Ahead of FOMC Decision
-URL: https://www.barchart.com/story/news/34865607/stocks-narrowly-mixed-ahead-of-fomc-decision
-Time Published: 2025-09-17T14:02:01Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.04%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.48%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Nvidia CEO Jensen Huang Says ‘That’s Fine’ as China Ramps Up AI Arms Race With NVDA Chip Ban
-URL: https://www.barchart.com/story/news/34864864/nvidia-ceo-jensen-huang-says-thats-fine-as-china-ramps-up-ai-arms-race-with-nvda-chip-ban
-Time Published: 2025-09-17T13:32:09Z
-Description: Nvidia slips as China ramps up its aggressions in the AI chip war, while Alibaba stock spikes after scoring a new data center deal with state-owned China...
 --------------------------------------------------

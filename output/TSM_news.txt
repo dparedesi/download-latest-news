@@ -18,6 +18,12 @@ Time Published: 2025-09-18T14:54:10Z
 Description: None
 --------------------------------------------------
 
+Title: Nvidia’s $5B Boost Sends Intel Skyrocketing, But Should You Buy INTC Stock Here?
+URL: https://www.barchart.com/story/news/34888550/nvidias-5b-boost-sends-intel-skyrocketing-but-should-you-buy-intc-stock-here
+Time Published: 2025-09-18T12:01:34Z
+Description: Nvidia bought Intel stock at $23.28 per share, but INTC is set to open well above NVDA CEO Jensen Huang’s entry price.
+--------------------------------------------------
+
 Title: Photronics, Inc. (PLAB): A Bull Case Theory
 URL: https://finance.yahoo.com/news/photronics-inc-plab-bull-case-154622858.html
 Time Published: 2025-09-17T15:46:22Z
@@ -47,17 +53,4 @@ Title: Jim Cramer Says Taiwan Semiconductor Manufacturing Company (TSM) Is A “
 URL: https://finance.yahoo.com/news/jim-cramer-says-taiwan-semiconductor-145611427.html
 Time Published: 2025-09-15T14:56:11Z
 Description: We recently published 10 Stocks Jim Cramer Discussed As He Talked About President Trump & Trillionaires. Taiwan Semiconductor Manufacturing Company Limited (...
---------------------------------------------------
-
-Title: TSM-Bee? TSMC gets into the honey business after working with local beekeepers to establish hives around its fabs
-URL: https://www.tomshardware.com/tech-industry/semiconductors/tsm-bee-tsmc-gets-into-the-honey-business-after-working-with-local-beekeepers-to-establish-hives-around-its-fabs
-Time Published: 2025-09-14T11:59:22Z
-Full Content:
-TSMC branded honey is available in several flavors, depending on the flora around a particular fab. When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works. TSMC has worked with local beekeepers in Taiwan to produce ‘Ji Mi’ – TSMC branded honey. The production of this golden, viscous, and culinary important liquid has become possible around the world’s largest contract chipmaker fabs in Taiwan thanks to extensive environmental and sustainability efforts by the company. Sources: Liberty Times and Mirror Daily (machine translated). On Friday, TSMC presented at the ‘2025 Asia Pacific Sustainability Expo - Co-Prosperity x Growth Forum.’ At the event, its SVP of Corporate Sustainability, Ho Li-mei, claimed TSMC's commitment to ecological integration has reaped very worthwhile, and some surprising, dividends. The prime example, as per our headline, is that bees have returned to the local ecosystem around TSMC’s massive manufacturing facilities. Bees came naturally after the restoration of plant species chosen for their suitability, after environmental surveys. Now TSMC is collaborating with local beekeepers and Tunghai University to produce TSMC-exclusive honey – ‘Ji Mi.’ Other signs that nature’s balance has been restored around TSMC fabs are the return of native Taiwanese species like the silver goby in waters around the plants. It is also claimed that TSMC is the first semiconductor producer in Taiwan to have fireflies living on the site. Fireflies are notoriously fussy about the environments they inhabit in Taiwan. Tom’s Hardware regulars will be aware of TSMC’s previous concerns about water supplies. This resource pressure, and the need for TSMC to be particularly eco-friendly, given Taiwan’s rather small size, may have been instrumental to the surprising eco-dividends we are now seeing around its fabs. At the Expo, Ho Li-mei mentioned that TSMC has made major inroads in managing precious resources in the water-intensive semiconductor industry. Thanks to specialized resource management, water recycling at new facilities has been increased to over 90%, it is claimed. As resources are carefully conserved, semiconductor manufacturing waste is being reduced to the minimum. The source reports note that TSMC's waste recycling rate is as high as 97%, and less than 1% of waste in Taiwan is landfilled. Moreover, a modern ‘Zero Waste Center’ in Taichung has been successful at converting waste into electronic-grade raw materials – advancing the circular economy. Get Tom's Hardware's best news and in-depth reviews, straight to your inbox. Follow Tom's Hardware on Google News, or add us as a preferred source, to get our up-to-date news, analysis, and reviews in your feeds. Make sure to click the Follow button! Mark Tyson is a news editor at Tom's Hardware. He enjoys covering the full breadth of PC tech; from business and semiconductor design to products approaching the edge of reason. Tom's Hardware is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site. © Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.
---------------------------------------------------
-
-Title: TSMC Stock Price Target Raised to $290 on Strong AI Demand
-URL: https://finance.yahoo.com/news/tsmc-stock-price-target-raised-001313788.html
-Time Published: 2025-09-14T00:13:13Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the AI Stocks on Wall Street’s Radar. On September 4, Bernstein SocGen Group analyst ...
 --------------------------------------------------

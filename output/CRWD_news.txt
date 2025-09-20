@@ -1,5 +1,18 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Stock Indexes Rally to Record Highs on Fed Rate Cut Expectations
+URL: https://www.barchart.com/story/news/34902040/stock-indexes-rally-to-record-highs-on-fed-rate-cut-expectations
+Time Published: 2025-09-18T20:34:45Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +0.48%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.27%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: CROWDSTRIKE INVESTIGATION INITIATED BY FORMER LOUISIANA ATTORNEY GENERAL: Kahn Swick & Foti, LLC Investigates the Officers and Directors of CrowdStrike Holdings, Inc. - CRWD
+URL: https://www.globenewswire.com/news-release/2025/09/18/3152820/6713/en/CROWDSTRIKE-INVESTIGATION-INITIATED-BY-FORMER-LOUISIANA-ATTORNEY-GENERAL-Kahn-Swick-Foti-LLC-Investigates-the-Officers-and-Directors-of-CrowdStrike-Holdings-Inc-CRWD.html
+Time Published: 2025-09-18T20:05:00Z
+Full Content:
+September 18, 2025 16:05 ET | Source: Kahn Swick & Foti, LLC Kahn Swick & Foti, LLC NEW ORLEANS, La., Sept. 18, 2025 (GLOBE NEWSWIRE) -- Former Attorney General of Louisiana, Charles C. Foti, Jr., Esq., a partner at the law firm of Kahn Swick & Foti, LLC (“KSF”), announces that KSF has commenced an investigation into CrowdStrike Holdings, Inc. (the “Company”) (NasdaqGS: CRWD). On July 19, 2024, an update pushed by the Company caused global outages for millions of users of Microsoft Windows devices, including financial institutions, airlines, government entities, and corporations, and left users vulnerable to potential hacking threats. Then, on July 22, 2024, it was revealed that Congress had called on CEO George Kurtz to testify regarding the catastrophe, and the Company’s stock rating was downgraded by analysts. Then, on July 29, 2024, news outlets reported that Delta Air Lines had retained noted attorney David Boies to seek damages from the Company following the outages. Thereafter, the Company and certain of its executives were sued in a securities class action lawsuit, charging them with failing to disclose material information during the Class Period, violating federal securities laws, which remains ongoing. KSF’s investigation is focusing on whether CrowdStrike’s officers and/or directors breached their fiduciary duties to its shareholders or otherwise violated state or federal laws. If you have information that would assist KSF in its investigation, or have been a long-term holder of CrowdStrike shares and would like to discuss your legal rights, you may, without obligation or cost to you, call toll-free at 1-833-938-0905 or email KSF Managing Partner Lewis Kahn (lewis.kahn@ksfcounsel.com), or visit https://www.ksfcounsel.com/cases/nasdaqgs-crwd/ to learn more. About Kahn Swick & Foti, LLC KSF, whose partners include former Louisiana Attorney General Charles C. Foti, Jr., is one of the nation's premier boutique securities litigation law firms. This past year, KSF was ranked by SCAS among the top 10 firms nationally based upon total settlement value. KSF serves a variety of clients, including public and private institutional investors, and retail investors - in seeking recoveries for investment losses emanating from corporate fraud or malfeasance by publicly traded companies. KSF has offices in New York, Delaware, California, Louisiana, Chicago, New Jersey, and a representative office in Luxembourg. TOP 10 Plaintiff Law Firms - According to ISS Securities Class Action Services To learn more about KSF, you may visit www.ksfcounsel.com. Contact: Kahn Swick & Foti, LLCLewis Kahn, Managing Partnerlewis.kahn@ksfcounsel.com1-877-515-18501100 Poydras St., Suite 960New Orleans, LA 70163 CONNECT WITH US: Facebook || Instagram || YouTube || TikTok || LinkedIn NEW ORLEANS, Sept. 18, 2025 (GLOBE NEWSWIRE) -- Former Attorney General of Louisiana, Charles C. Foti, Jr., Esq., a partner at the law firm of Kahn Swick & Foti, LLC (“KSF”), announces that KSF... NEW ORLEANS, Sept. 18, 2025 (GLOBE NEWSWIRE) -- Former Attorney General of Louisiana, Charles C. Foti, Jr., Esq., a partner at the law firm of Kahn Swick & Foti, LLC (“KSF”), announces that KSF...
+--------------------------------------------------
+
 Title: Wall Street blinked, then Nvidia built its boldest partnership yet
 URL: https://www.thestreet.com/technology/wall-street-blinked-then-nvidia-made-boldest-move-with-crowdstrike
 Time Published: 2025-09-18T18:33:05Z
@@ -44,6 +57,12 @@ Title: ColorTokens Announces Integration With CrowdStrike Holdings, Inc. (CRWD)�
 URL: https://finance.yahoo.com/news/colortokens-announces-integration-crowdstrike-holdings-152503730.html
 Time Published: 2025-09-18T15:25:03Z
 Description: CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is among the 15 Stocks ChatGPT Predicts Could Make You Wealthy in 5 Years. On September 11, ColorTokens announced...
+--------------------------------------------------
+
+Title: Record Highs for Major Stock Indexes as Chip Makers Soar
+URL: https://www.barchart.com/story/news/34895101/record-highs-for-major-stock-indexes-as-chip-makers-soar
+Time Published: 2025-09-18T15:08:24Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.67%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.46%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
 Title: CrowdStrike: What’s Happening With CRWD Stock?

@@ -1,5 +1,11 @@
 List of news related to Caterpillar stock price CAT:
 
+Title: These 2 Stocks’ Unusual Options Activity Flashes Strangle Plays
+URL: https://www.barchart.com/story/news/34898503/these-2-stocks-unusual-options-activity-flashes-strangle-plays
+Time Published: 2025-09-18T17:30:02Z
+Description: In Wednesday’s trading, there were 1,295 unusually active options. Of these, 11 stocks with 30-day DTEs had calls and puts that set up nicely for strangle...
+--------------------------------------------------
+
 Title: US stock market futures rise today after Fed rate cut with Dow, S&P 500 and Nasdaq hit record highs — top pre-market gainers and losers to watch today
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-rise-today-after-fed-rate-cut-with-dow-sp-500-and-nasdaq-all-reaching-record-highs-here-are-the-top-pre-market-gainers-and-losers/articleshow/123973014.cms
 Time Published: 2025-09-18T10:48:46Z

@@ -1,5 +1,29 @@
 List of news related to Broadcom AVGO:
 
+Title: Macquarie Expects Broadcom (AVGO) to Beat the Market Thanks to its Strong Position in the Niche Chip Sector
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5a1ad221-d40a-4049-86f0-68f9927962fd
+Time Published: 2025-09-18T20:38:21Z
+Description: None
+--------------------------------------------------
+
+Title: Nvidia buys Intel stake: 3 takeaways from the AI partnership
+URL: https://qz.com/3-big-takeaways-from-the-nvidia-intel-ai-partnership
+Time Published: 2025-09-18T20:38:12Z
+Description: Nvidia hasn’t had to pivot too much on the geopolitical front, but finding itself in the midst of tariffs and trade wars has changed that in 2025
+--------------------------------------------------
+
+Title: Can Broadcom Stock Hit $420 in 2025?
+URL: https://www.barchart.com/story/news/34900478/can-broadcom-stock-hit-420-in-2025
+Time Published: 2025-09-18T19:24:51Z
+Description: As Broadcom capitalizes on AI-driven demand, can the company’s ASIC dominance truly propel its stock to Macquarie’s $420 target?
+--------------------------------------------------
+
+Title: Should You Buy NTSK Stock After the Netskope IPO?
+URL: https://www.barchart.com/story/news/34899254/should-you-buy-ntsk-stock-after-the-netskope-ipo
+Time Published: 2025-09-18T18:04:28Z
+Description: The cybersecurity firm is looking to raise about $900 million.
+--------------------------------------------------
+
 Title: Broadcom (AVGO) Sheds 3.8% on China Probe
 URL: https://finance.yahoo.com/news/broadcom-avgo-sheds-3-8-151930818.html
 Time Published: 2025-09-18T15:19:30Z
@@ -164,10 +188,4 @@ Title: Chinese Chipmaker Stocks Rally As U.S. Firms Face Fresh Beijing Scrutiny
 URL: https://finance.yahoo.com/news/chinese-chipmaker-stocks-rally-u-123058218.html
 Time Published: 2025-09-15T12:30:58Z
 Description: Beijing Chip Probe Sends Local Stocks Surging, Puts U.S. Giants On Edge
---------------------------------------------------
-
-Title: Top Wall Street analysts bet on the potential of these 3 stocks for the long haul
-URL: https://www.cnbc.com/2025/09/14/top-wall-street-analysts-bet-on-the-potential-of-these-3-stocks-for-the-long-haul.html
-Time Published: 2025-09-14T12:35:34Z
-Description: TipRanks' ranking service discusses three stocks, including Broadcom and Oracle, that are favored by Wall Street.
 --------------------------------------------------
