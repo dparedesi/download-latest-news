@@ -248,10 +248,10 @@ Full Content:
 September 18, 2025 — In a landmark move for the tech industry, NVIDIA (NASDAQ: NVDA) and Intel Corporation (NASDAQ: INTC) announced a multi-year collaboration to co-develop AI infrastructure and personal computing products that blend their respective strengths in GPUs and CPUs. At the heart of this collaboration is NVIDIA NVLink, which will tightly connect NVIDIA’s AI and accelerated computing platforms with Intel’s x86 CPU ecosystem. The goal: to deliver cutting-edge solutions for data centers, enterprises, and consumers. Intel will design and manufacture NVIDIA-custom x86 CPUs, which NVIDIA will integrate into its AI infrastructure platforms. These processors will be optimized for hyperscale data centers and enterprise-grade AI workloads. On the consumer side, Intel plans to launch x86 system-on-chips (SoCs) that integrate NVIDIA RTX GPU chiplets. These RTX SoCs are designed to power a wide range of PCs, offering world-class CPU-GPU integration to handle modern workloads from gaming to AI-powered productivity. As part of the collaboration, NVIDIA will invest $5 billion in Intel’s common stock at a purchase price of $23.28 per share. This deal remains subject to standard regulatory approvals. Jensen Huang, NVIDIA’s founder and CEO, highlighted the significance: AI is powering a new industrial revolution and reinventing every layer of the computing stack — from silicon to systems to software. At the heart of this reinvention is NVIDIA’s CUDA architecture. This historic collaboration tightly couples NVIDIA’s AI and accelerated computing stack with Intel’s CPUs and the vast x86 ecosystem — a fusion of two world-class platforms. Together, we will expand our ecosystems and lay the foundation for the next era of computing. Lip-Bu Tan, Intel’s CEO, emphasized the shared vision: Intel’s x86 architecture has been foundational to modern computing for decades — and we are innovating across our portfolio to enable the workloads of the future. Intel’s leading data center and client computing platforms, combined with our process technology, manufacturing and advanced packaging capabilities, will complement NVIDIA’s AI and accelerated computing leadership to enable new breakthroughs for the industry. We appreciate the confidence Jensen and the NVIDIA team have placed in us with their investment and look forward to the work ahead as we innovate for customers and grow our business. This partnership signals a reshaping of the semiconductor industry landscape, as rivals-turned-partners align to meet surging AI demand. For developers, enterprises, and end-users, it promises more tightly integrated hardware that can handle the growing complexity of AI-driven applications. ©2025 C# Corner. All contents are copyright of their authors.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise after Fed lowers rates, signals more cuts ahead
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-after-fed-lowers-rates-signals-more-cuts-ahead-231448085.html
+Title: Stock market today: Nasdaq, Dow, S&P 500 futures rise after Fed signals more cuts, Nvidia bets on Intel
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-futures-rise-after-fed-signals-more-cuts-nvidia-bets-on-intel-231448028.html
 Time Published: 2025-09-17T23:14:48Z
-Description: US stock futures rose after the Federal Reserve cut interest rates for the first time this year.
+Description: Markets are shaking off initial hesitation prompted by Powell's warning that there's no 'risk-free path' for policy.
 --------------------------------------------------
 
 Title: Stock market today: Nasdaq, Dow, S&P 500 rise after Fed signals more cuts, Nvidia bets on Intel
@@ -260,10 +260,10 @@ Time Published: 2025-09-17T23:14:48Z
 Description: Markets are shaking off initial hesitation prompted by Powell's warning that there's no 'risk-free path' for policy.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, Dow, S&P 500 futures rise after Fed signals more cuts, Nvidia bets on Intel
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-futures-rise-after-fed-signals-more-cuts-nvidia-bets-on-intel-231448028.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise after Fed lowers rates, signals more cuts ahead
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-after-fed-lowers-rates-signals-more-cuts-ahead-231448085.html
 Time Published: 2025-09-17T23:14:48Z
-Description: Markets are shaking off initial hesitation prompted by Powell's warning that there's no 'risk-free path' for policy.
+Description: US stock futures rose after the Federal Reserve cut interest rates for the first time this year.
 --------------------------------------------------
 
 Title: China's Nvidia ban marks 'experimental phase' of trade talks

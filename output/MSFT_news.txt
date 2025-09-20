@@ -156,14 +156,14 @@ Time Published: 2025-09-15T11:18:00Z
 Description: NVDA, PLTR, MSFT, IBM and FFIV stand out as big data leaders poised to capitalize on surging AI and analytics demand.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq climb as investors await Fed decision after Nasdaq’s record close
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-climb-as-investors-await-fed-decision-after-nasdaqs-record-close-000206835.html
+Title: Stock market today: Dow Jones, S&P 500, Nasdaq climb as investors await Fed decision after Nasdaq’s record close
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jones-sp-500-nasdaq-climb-as-investors-await-fed-decision-after-nasdaqs-record-close-000206865.html
 Time Published: 2025-09-15T00:02:06Z
 Description: The clock is ticking down to a widely expected interest-rate cut at the Fed's meeting this week.
 --------------------------------------------------
 
-Title: Stock market today: Dow Jones, S&P 500, Nasdaq climb as investors await Fed decision after Nasdaq’s record close
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jones-sp-500-nasdaq-climb-as-investors-await-fed-decision-after-nasdaqs-record-close-000206865.html
+Title: Stock market today: S&P 500, Nasdaq climb as investors await Fed decision after Nasdaq’s record close
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-climb-as-investors-await-fed-decision-after-nasdaqs-record-close-000206835.html
 Time Published: 2025-09-15T00:02:06Z
 Description: The clock is ticking down to a widely expected interest-rate cut at the Fed's meeting this week.
 --------------------------------------------------
