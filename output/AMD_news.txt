@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: This Boring Blue-Chip Stock Could Be the Winner in Quantum Computing. Should You Buy Its Shares Here?
+URL: https://www.barchart.com/story/news/34923727/this-boring-blue-chip-stock-could-be-the-winner-in-quantum-computing-should-you-buy-its-shares-here
+Time Published: 2025-09-19T18:01:39Z
+Description: According to the Wall Street Journal, IBM is leading the way in terms of quantum advantage.
+--------------------------------------------------
+
 Title: HSBC Cuts AMD Price Target but Keeps Buy Rating
 URL: https://finance.yahoo.com/news/hsbc-cuts-amd-price-target-044622060.html
 Time Published: 2025-09-19T04:46:22Z
@@ -67,10 +73,4 @@ Title: Stocks Narrowly Mixed Ahead of FOMC Decision
 URL: https://www.barchart.com/story/news/34865607/stocks-narrowly-mixed-ahead-of-fomc-decision
 Time Published: 2025-09-17T14:02:01Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.04%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.48%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stocks Rally as Bond Yields Fall Before FOMC Meeting
-URL: https://www.barchart.com/story/news/34819556/stocks-rally-as-bond-yields-fall-before-fomc-meeting
-Time Published: 2025-09-15T20:37:15Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +0.47%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.11%, and the Nasdaq 100 Index...
 --------------------------------------------------

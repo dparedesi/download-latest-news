@@ -11,27 +11,3 @@ URL: https://www.marketwatch.com/story/10-bargain-stocks-of-companies-that-can-i
 Time Published: 2025-09-16T15:54:00Z
 Description: These stocks have low price/earnings ratios, and most have been overlooked by investors this year.
 --------------------------------------------------
-
-Title: Stocks Rally as Bond Yields Fall Before FOMC Meeting
-URL: https://www.barchart.com/story/news/34819556/stocks-rally-as-bond-yields-fall-before-fomc-meeting
-Time Published: 2025-09-15T20:37:15Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +0.47%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.11%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: 11 fast-growing small-cap stocks that could get a boost from the Fed’s next move
-URL: https://www.marketwatch.com/story/11-fast-growing-small-cap-stocks-that-could-get-a-boost-from-the-feds-next-move-424328aa
-Time Published: 2025-09-15T18:18:00Z
-Description: These companies are expected to continue growing revenue at a rapid pace through 2027.
---------------------------------------------------
-
-Title: S&P 500 and Nasdaq 100 Post Record Highs on Fed Easing Expectations
-URL: https://www.barchart.com/story/news/34813562/s-p-500-and-nasdaq-100-post-record-highs-on-fed-easing-expectations
-Time Published: 2025-09-15T15:09:50Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.52%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.29%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stocks Garner Support from Lower Bond Yields and Tesla Strength
-URL: https://www.barchart.com/story/news/34812363/stocks-garner-support-from-lower-bond-yields-and-tesla-strength
-Time Published: 2025-09-15T14:05:39Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.41%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.17%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------

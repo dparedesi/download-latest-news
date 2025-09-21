@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: MSFT Stock Looks Set to Rejoin the $4 Trillion Club as Microsoft Gets More Ambitious With AI
+URL: https://www.barchart.com/story/news/34924166/msft-stock-looks-set-to-rejoin-in-4-trillion-club-as-microsoft-gets-more-ambitious-with-ai
+Time Published: 2025-09-19T18:13:20Z
+Description: Microsoft's market cap has fallen below $4 trillion, but the company should reclaim the feat soon, given encouraging signs of AI monetization.
+--------------------------------------------------
+
 Title: This Dividend Stock Is Up 10% This Year and Amazon Could Take It Even Higher
 URL: https://www.barchart.com/story/news/34904913/this-dividend-stock-is-up-10-this-year-and-amazon-could-take-it-even-higher
 Time Published: 2025-09-18T23:30:02Z
@@ -73,16 +79,4 @@ Title: Up 91% in 2025, Is It Too Late to Buy the Breakout in Oracle Stock?
 URL: https://www.barchart.com/story/news/34838879/up-91-in-2025-is-it-too-late-to-buy-the-breakout-in-oracle-stock
 Time Published: 2025-09-16T14:16:13Z
 Description: ORCL is back in the headlines today after last week’s AI-fueled explosion higher, but how much higher can the tech giant rise?
---------------------------------------------------
-
-Title: As Netflix Stock Falls Below $1,250, Should You Binge Watch Or Keep Chilling?
-URL: https://www.barchart.com/story/news/34818303/as-netflix-stock-falls-below-1-250-should-you-binge-watch-or-keep-chilling
-Time Published: 2025-09-15T19:49:37Z
-Description: Netflix stock has fallen below $1,250 and has traded sideways over the last four months. Is NFLX in the "buy zone" now?
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq climb as investors await Fed decision after Nasdaq’s record close
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-climb-as-investors-await-fed-decision-after-nasdaqs-record-close-000206835.html
-Time Published: 2025-09-15T00:02:06Z
-Description: The clock is ticking down to a widely expected interest-rate cut at the Fed's meeting this week.
 --------------------------------------------------

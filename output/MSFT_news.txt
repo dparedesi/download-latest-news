@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stock Indexes Rally to New Record Highs on Fed Rate Cut Optimism
+URL: https://www.barchart.com/story/news/34926620/stock-indexes-rally-to-new-record-highs-on-fed-rate-cut-optimism
+Time Published: 2025-09-19T20:39:59Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed up +0.49%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.37%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: MSFT Stock Looks Set to Rejoin the $4 Trillion Club as Microsoft Gets More Ambitious With AI
+URL: https://www.barchart.com/story/news/34924166/msft-stock-looks-set-to-rejoin-in-4-trillion-club-as-microsoft-gets-more-ambitious-with-ai
+Time Published: 2025-09-19T18:13:20Z
+Description: Microsoft's market cap has fallen below $4 trillion, but the company should reclaim the feat soon, given encouraging signs of AI monetization.
+--------------------------------------------------
+
 Title: This Small-Cap Quantum Stock is Leading the Russell 2000 Rally, But is It a Buy?
 URL: https://www.barchart.com/story/news/34920103/this-small-cap-quantum-stock-is-leading-the-russell-2000-rally-but-is-it-a-buy
 Time Published: 2025-09-19T14:47:59Z
@@ -12,16 +24,16 @@ Time Published: 2025-09-19T14:01:40Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.16%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
-Title: Google Is Now Worth $3 Trillion. Should You Buy GOOGL Stock Here?
-URL: https://www.barchart.com/story/news/34917158/google-is-now-worth-3-trillion-should-you-buy-googl-stock-here
-Time Published: 2025-09-19T13:00:02Z
-Description: With Google now part of the $3 trillion club, should investors pay attention to this tech giant?
---------------------------------------------------
-
 Title: A $6.3 Billion Reason to Buy CoreWeave Stock Now
 URL: https://www.barchart.com/story/news/34917162/a-6-3-billion-reason-to-buy-coreweave-stock-now
 Time Published: 2025-09-19T13:00:02Z
 Description: CoreWeave’s massive $6.3 billion Nvidia deal could be the game-changing catalyst, making CRWV stock worth considering for AI investors.
+--------------------------------------------------
+
+Title: Google Is Now Worth $3 Trillion. Should You Buy GOOGL Stock Here?
+URL: https://www.barchart.com/story/news/34917158/google-is-now-worth-3-trillion-should-you-buy-googl-stock-here
+Time Published: 2025-09-19T13:00:02Z
+Description: With Google now part of the $3 trillion club, should investors pay attention to this tech giant?
 --------------------------------------------------
 
 Title: BofA’s Hartnett Says Magnificent 7 Stock Bubble Is Still Growing
@@ -68,14 +80,14 @@ Full Content:
 ByTrefis Team, Contributor. Micron Technology stock (NASDAQ:MU) has increased approximately 80% from about $87 at the beginning of 2025 to nearly $157, reaching all-time highs in the process. So, what is driving this increase for Micron? It all revolves around the demand for AI infrastructure, which is boosting sales of high-bandwidth memory products, also referred to as HBM. Even after this substantial rally, Micron stock is valued at about 20× estimated earnings for 2025. Projected growth looks robust: expected revenues are set to rise by 48% this fiscal year, based on consensus estimates, while growth is anticipated at roughly 31% for FY’26. Given this strong growth paired with a reasonable valuation, could Micron stock potentially double to around $300? Below, we outline this scenario. Demand is being propelled by the swift adoption of generative AI, which necessitates high-performance memory to function at scale. While DRAM offers capacity, HBM supplies the bandwidth and low latency required for large language models. Micron serves as a primary supplier for Nvidia’s (NASDAQ:NVDA) Blackwell GB200 platform, alongside AMD’s Instinct MI350 series GPUs. The memory requirements for each AI system are also escalating: for example, Nvidia’s latest Blackwell systems feature 33% more memory per node compared to earlier-generation chips. Additionally, as AI models transition from being text-only to incorporating multimodal formats such as video and speech, memory intensity is on the rise. With AI expected to be broadly adopted throughout the economy, Micron is positioned for a prolonged growth trajectory. To illustrate the scale of the investments, Amazon (NASDAQ:AMZN), Alphabet (NASDAQ:GOOG), Microsoft (NASDAQ:MSFT), and Meta (NASDAQ:META) have indicated that they could collectively invest $364 billion in capital expenditures for their respective current fiscal years. However, supply may not keep pace easily. Manufacturing HBM is more intricate than standard DRAM, and supply levels are still constrained. The production of HBM is wafer-intensive — it requires approximately three times as many wafers as standard DRAM to create the same quantity of bits due to its lower bit density and intricate 3D stacking. This forms a natural bottleneck. Although Micron has been expanding its HBM production capacity, output for 2025 is already sold out, with robust demand anticipated in 2026. Micron aims to significantly increase its HBM market share, targeting about 20 to 25% of the HBM segment by the end of 2025. Beyond HBM, Micron remains the sole volume producer of low-power DRAM for data centers, providing an advantage as AI workloads increasingly emphasize efficiency. Looking forward, even after this increase, Micron does not appear to be overvalued. Its revenues surged by 58%, from $21 billion in 2023 to $34 billion in 2024, as the company rebounded from a downturn. Consensus forecasts indicate revenues climbing from roughly $25.1 billion in FY’24 to $37.1 billion in FY’25, and by about 31% to $48.7 billion in FY’26. HBM has been a significant factor in this growth, with HBM revenue achieving a $6 billion annualized run rate and a projected $10 billion run rate by 2026. Increased HBM production does place pressure on conventional DRAM supply, contributing to rising DRAM prices, which may also enhance revenues for products outside of HBM. If we project a slightly more conservative annual growth rate of 25% between FY’26 and FY’28, Micron could generate approximately $77 billion in revenues by FY’28. Micron's net margins were around 20% over the first nine months of this year. It is possible that this figure could grow further due to a higher proportion of higher-margin HBM chips and improved economies of scale. Assuming net margins rise to about 22% in FY’28, this would equate to net income of approximately $17 billion. With a forward P/E ratio of about 20x, this would imply a market cap of around $340 billion, suggesting the stock price could nearly double from current levels. That said, competition persists. SK Hynix continues to dominate the HBM market with an approximate 50% share and an advantage in production, particularly regarding HBM4. Micron is increasing HBM3E production and testing HBM4, but it is still striving to catch up. HBM4 is anticipated to power Nvidia’s upcoming Rubin architecture for AI accelerators. The memory market has also historically been subject to significant cyclical behavior, and Micron is no exception. DRAM and NAND remain vulnerable to fluctuations in supply and demand along with pricing volatility. At this time, it appears that HBM serves as a partially secular growth driver, with AI infrastructure investments, high profit margins, and strong order visibility providing some degree of protection. Nevertheless, HBM presently comprises less than 20% of total revenues, meaning the company is not entirely insulated from traditional market cycles. Furthermore, AI demand may normalize following years of heavy investment if shareholders start demanding superior returns and more efficient capital management. The Trefis High Quality (HQ) Portfolio, featuring a selection of 30 stocks, has a history of consistently outperforming its benchmark, which includes all three – S&P 500, Russell, and S&P midcap. What accounts for this? Collectively, HQ Portfolio stocks delivered superior returns with lower risk compared to the benchmark index; a smoother ride, as demonstrated in the HQ Portfolio performance metrics.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, Dow, S&P 500 futures rise after Fed signals more cuts, Nvidia bets on Intel
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-futures-rise-after-fed-signals-more-cuts-nvidia-bets-on-intel-231448028.html
+Title: Stock market today: Nasdaq, Dow, S&P 500 rise after Fed signals more cuts, Nvidia bets on Intel
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-rise-after-fed-signals-more-cuts-nvidia-bets-on-intel-231448487.html
 Time Published: 2025-09-17T23:14:48Z
 Description: Markets are shaking off initial hesitation prompted by Powell's warning that there's no 'risk-free path' for policy.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, Dow, S&P 500 rise after Fed signals more cuts, Nvidia bets on Intel
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-rise-after-fed-signals-more-cuts-nvidia-bets-on-intel-231448487.html
+Title: Stock market today: Nasdaq, Dow, S&P 500 futures rise after Fed signals more cuts, Nvidia bets on Intel
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-futures-rise-after-fed-signals-more-cuts-nvidia-bets-on-intel-231448028.html
 Time Published: 2025-09-17T23:14:48Z
 Description: Markets are shaking off initial hesitation prompted by Powell's warning that there's no 'risk-free path' for policy.
 --------------------------------------------------
@@ -153,47 +165,4 @@ Title: Valuation Angst Shifts From Big Tech to Rest of S&P 500
 URL: https://finance.yahoo.com/news/valuation-angst-shifts-big-tech-093000148.html
 Time Published: 2025-09-16T09:30:00Z
 Description: It’s the rest of the market that is starting to look a bit overpriced, according to Seaport Research Partners.  An index of S&P 500 companies that excludes...
---------------------------------------------------
-
-Title: Stocks Rally as Bond Yields Fall Before FOMC Meeting
-URL: https://www.barchart.com/story/news/34819556/stocks-rally-as-bond-yields-fall-before-fomc-meeting
-Time Published: 2025-09-15T20:37:15Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +0.47%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.11%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: 11 fast-growing small-cap stocks that could get a boost from the Fed’s next move
-URL: https://www.marketwatch.com/story/11-fast-growing-small-cap-stocks-that-could-get-a-boost-from-the-feds-next-move-424328aa
-Time Published: 2025-09-15T18:18:00Z
-Description: These companies are expected to continue growing revenue at a rapid pace through 2027.
---------------------------------------------------
-
-Title: S&P 500 and Nasdaq 100 Post Record Highs on Fed Easing Expectations
-URL: https://www.barchart.com/story/news/34813562/s-p-500-and-nasdaq-100-post-record-highs-on-fed-easing-expectations
-Time Published: 2025-09-15T15:09:50Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.52%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.29%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: MSFT Stock Analysis: Is Microsoft Stock A Buy At $510?
-URL: https://www.forbes.com/sites/greatspeculations/2025/09/15/msft-stock-analysis-is-microsoft-stock-a-buy-at-510/
-Time Published: 2025-09-15T14:30:21Z
-Full Content:
-ByTrefis Team, Contributor. Microsoft's stock (NASDAQ: MSFT) has climbed over 30% in the past six months, driven by strong quarterly results marked by improving revenue growth and expanding margins. However, with the stock now trading at 37 times its trailing earnings, the key question for investors is whether MSFT is still worth buying. We believe MSFT stock currently looks expensive due to its elevated valuation. Our view is based on a detailed analysis comparing the stock’s current valuation to its recent operating performance and its overall financial position, both current and historical. While Microsoft shows strong operational and financial performance, these strengths already seem priced into its lofty valuation, as outlined below. That said, if you’re looking for upside potential with lower volatility than holding a single stock, consider the High Quality Portfolio. It has consistently outperformed its benchmark—a blend of the S&P 500, Russell, and S&P MidCap indexes—delivering returns of over 91% since inception. Separately, see – S&P 500 Set To Surge 30%? Let’s explore the key factors we assessed. This table shows how MSFT’s valuation compares with the broader market. For more details, see: MSFT Valuation Ratios This table shows how MSFT’s growth compares to the broader market. For more details, see: MSFT Revenue Comparison This table shows how MSFT’s profitability stacks up versus the broader market. For more details, see: MSFT Operating Income Comparison MSFT has shown slightly better resilience than the S&P 500 during major downturns, based on both (a) the depth of the drop and (b) the speed of recovery. 2022 Inflation Shock While Microsoft has excelled across financial and operational metrics, its current 37x earnings multiple is higher than other tech giants like Amazon, Google, and Meta (see how Microsoft’s valuation compares). While Azure’s growth could convince some investors that an even higher multiple is justified, we think from a risk standpoint it’s better to wait for a price pullback before buying MSFT. The Trefis High Quality (HQ) Portfolio, featuring 30 stocks, has a consistent track record of outperforming its benchmark, which includes the S&P 500, Russell, and S&P MidCap. Why? HQ Portfolio stocks deliver stronger returns with lower risk versus the benchmark—less of a roller-coaster ride, as seen in the HQ Portfolio performance metrics.
---------------------------------------------------
-
-Title: Buy 5 Big Data Behemoths to Benefit From Enormous Market Opportunity
-URL: https://finance.yahoo.com/news/buy-5-big-data-behemoths-111800377.html
-Time Published: 2025-09-15T11:18:00Z
-Description: NVDA, PLTR, MSFT, IBM and FFIV stand out as big data leaders poised to capitalize on surging AI and analytics demand.
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq climb as investors await Fed decision after Nasdaq’s record close
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-climb-as-investors-await-fed-decision-after-nasdaqs-record-close-000206835.html
-Time Published: 2025-09-15T00:02:06Z
-Description: The clock is ticking down to a widely expected interest-rate cut at the Fed's meeting this week.
---------------------------------------------------
-
-Title: Stock market today: Dow Jones, S&P 500, Nasdaq climb as investors await Fed decision after Nasdaq’s record close
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jones-sp-500-nasdaq-climb-as-investors-await-fed-decision-after-nasdaqs-record-close-000206865.html
-Time Published: 2025-09-15T00:02:06Z
-Description: The clock is ticking down to a widely expected interest-rate cut at the Fed's meeting this week.
 --------------------------------------------------
