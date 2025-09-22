@@ -1,5 +1,12 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Fed Easing Cycle Resumes: Market Implications
+URL: https://www.forbes.com/sites/bill_stone/2025/09/21/fed-easing-cycle-resumes-market-implications/
+Time Published: 2025-09-21T11:00:00Z
+Full Content:
+ByBill Stone, Contributor. Following the Federal Reserve rate cut last Wednesday, the S&P 500 closed at an all-time high last Friday. The Magnificent 7, comprising Microsoft (MSFT), Meta Platforms (META), Amazon.com (AMZN), Apple (AAPL), NVIDIA (NVDA), Alphabet (GOOGL), and Tesla (TSLA), outperformed the market. As outlined previously, the Federal Reserve delivered a 25-basis-point cut at its September 17 meeting. The statement from the committee said, “downside risks to employment have risen,” which indicates that the recent softness in the monthly jobs reports has shifted the Fed back into easing mode after a nine-month hiatus. The median projections from the Fed call for 25-basis point cuts in October and December. Previously, the Fed only expected a cut at one of those meetings. Markets have also priced in at the October and December Fed meetings. Notably, the Fed’s increase in the number of median rate cuts was by a very narrow margin, so these cuts are far from a sure thing with incoming data remaining crucial. Both two-year and ten-year Treasury yields are well below their highs for the year. As the threat of recession has waned, as illustrated by the lower betting odds of recession, stocks have rallied. At the early April stock lows, the massive US tariffs announced on Liberation Day sent the betting odds of recession soaring to 65%. As the tariff threat eased and some progress was made on trade agreements, stocks have recovered sharply. Recession odds declined following the Fed rate cut announcement, and stocks reached a new all-time closing high. The more economically sensitive cyclical stocks outperformed less economically impacted defensives last week, and since the stocks bottomed in early April, coinciding with the peak of recession fears. The lessening of the odds of recession benefited the more economically sensitive stocks. Beyond this relationship, smaller capitalization stocks, using the Russell 2000 as an example, have outperformed recently. Furthermore, bank stocks have continued to outperform, benefiting from a better economic outlook and a steeper yield curve. The most direct beneficiaries of the rate cut are companies (and households) with floating-rate debt. Another transmission mechanism for lower short-term rates to positively impact the economy is the housing sector. As housing affordability hovers near all-time lows since 1989, part of the equation has been due to higher mortgage rates. This lack of affordability is most pronounced for first-time homebuyers. The expectation of a decline in short-term rates has led to the average 30-year fixed-rate mortgage dropping from a high of 7.41% in January to 6.37% most recently. The US housing market has been limping along with a depressed level of new single-family home building. Permits for new single-family home construction show a similar poor outlook for home building. While mortgage applications for home purchases remain depressed, the trend has been moving higher since mortgage rates peaked. Notably, mortgage applications for refinancing have spiked with the lower mortgage rates. Importantly, this puts extra cash in the pockets of US households. Unfortunately, this refinancing cycle is likely to be less potent than previous cycles due to the significant amount of refinancing that occurred when rates were at ultra-low levels during the pandemic. There are only seven companies in the S&P 500 scheduled to report earnings, with Costco (COST) and Micron Technology (MU) being the most notable for their economic insights. There are a whopping eighteen speeches from Federal Reserve members scheduled for this week. This Fedspeak will be closely watched for clues as to the timing of future rate cuts, none more so than Fed Chair Powell’s speech on Tuesday. Stocks continue to price in low odds of recession, given the strong performance of small companies, banks, and the more economically sensitive cyclical stocks. The Fed’s cut last week, along with the expectation of two more cuts this year, reinforced the notion that the soft spot in the labor market will not develop into a full-fledged downturn. The positive boost from easing monetary policy is lagged and variable, so it will be imperative to monitor the impact to ascertain if it is consistent with market expectations. There is little doubt that lower rates will have less potency than in previous cycles and may come at a more significant lag, given the legacy of ultra-low interest rates during the pandemic. Disclosure: Glenview Trust may hold stocks mentioned in this article within its recommended investment strategies.
+--------------------------------------------------
+
 Title: Stock Indexes Rally to New Record Highs on Fed Rate Cut Optimism
 URL: https://www.barchart.com/story/news/34926620/stock-indexes-rally-to-new-record-highs-on-fed-rate-cut-optimism
 Time Published: 2025-09-19T20:39:59Z
@@ -24,16 +31,16 @@ Time Published: 2025-09-19T14:01:40Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.16%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
-Title: A $6.3 Billion Reason to Buy CoreWeave Stock Now
-URL: https://www.barchart.com/story/news/34917162/a-6-3-billion-reason-to-buy-coreweave-stock-now
-Time Published: 2025-09-19T13:00:02Z
-Description: CoreWeave’s massive $6.3 billion Nvidia deal could be the game-changing catalyst, making CRWV stock worth considering for AI investors.
---------------------------------------------------
-
 Title: Google Is Now Worth $3 Trillion. Should You Buy GOOGL Stock Here?
 URL: https://www.barchart.com/story/news/34917158/google-is-now-worth-3-trillion-should-you-buy-googl-stock-here
 Time Published: 2025-09-19T13:00:02Z
 Description: With Google now part of the $3 trillion club, should investors pay attention to this tech giant?
+--------------------------------------------------
+
+Title: A $6.3 Billion Reason to Buy CoreWeave Stock Now
+URL: https://www.barchart.com/story/news/34917162/a-6-3-billion-reason-to-buy-coreweave-stock-now
+Time Published: 2025-09-19T13:00:02Z
+Description: CoreWeave’s massive $6.3 billion Nvidia deal could be the game-changing catalyst, making CRWV stock worth considering for AI investors.
 --------------------------------------------------
 
 Title: BofA’s Hartnett Says Magnificent 7 Stock Bubble Is Still Growing
