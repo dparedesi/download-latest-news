@@ -29,8 +29,7 @@ Description: NANNING, China, Sept. 18, 2025 (GLOBE NEWSWIRE) — Amid global unc
 Title: Meta launches Ray-Ban smart glasses with AI and display, priced at $799
 URL: https://www.bloomberg.com/news/articles/2025-09-18/meta-launches-799-glasses-with-screen-in-bid-for-mainstream-hit
 Time Published: 2025-09-18T03:48:55Z
-Full Content:
-Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world Americas+1 212 318 2000 EMEA+44 20 7330 7500 Asia Pacific+65 6212 1000 Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world Americas+1 212 318 2000 EMEA+44 20 7330 7500 Asia Pacific+65 6212 1000 Meta: Meta Platforms Inc., seeking to turn its smart glasses lineup into a must-have product, on Wednesday unveiled its first version with a built-in screen. The latest model, the $799 Meta Ray-Ban Display, features a screen in the right lens. It can show text messages, video calls, turn-by-turn directions in maps and visual results from queries to Meta’s AI service. The subtly integrated display can also serve as a viewfinder for the camera on a user’s phone or surface music playback.
+Description: While users can still swipe along the frame as with previous models, the primary interface is now hand gestures, detected by a neural wristband strapped around the wearer’s dominant hand
 --------------------------------------------------
 
 Title: Healthcare Facilities Management Market Size to Reach USD 837.40 Bn by 2034
