@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: TD Cowen Sees Upside in Alphabet (GOOGL) With Rising GenAI Adoption
+URL: https://finance.yahoo.com/news/td-cowen-sees-upside-alphabet-211302489.html
+Time Published: 2025-09-20T21:13:02Z
+Description: Alphabet Inc. (NASDAQ:GOOGL) is one of the AI Stocks Analysts Are Tracking Closely. On September 16, TD Cowen raised the price target on the stock to $270...
+--------------------------------------------------
+
 Title: From Retail Darling to AI Powerhouse, This $2.4 trillion Growth Stock Is a Great Buy
 URL: https://www.barchart.com/story/news/34937991/from-retail-darling-to-ai-powerhouse-this-2-4-trillion-growth-stock-is-a-great-buy
 Time Published: 2025-09-20T16:00:02Z
@@ -61,28 +67,4 @@ URL: https://www.forbes.com/sites/greatspeculations/2025/09/17/googles-nano-bana
 Time Published: 2025-09-17T10:00:00Z
 Full Content:
 ByTrefis Team, Contributor. Google's stock has been making headlines, surpassing the $3 trillion market cap milestone as investor confidence grows. But here’s the bigger takeaway: even after this rally, Google still trades at a notable discount compared to Big Tech peers like Amazon and Microsoft. This recent surge isn’t just market hype—it could mark the start of a 50% rally for GOOG stock as the market finally recognizes that Google deserves premium valuations and reconsiders its pricing. The narrative around Google and AI is shifting. Remember when there was widespread fear that AI would cannibalize Google Search? That fear is quickly fading. Google’s Gemini, especially its viral “nano banana” feature, has propelled the Gemini app to the #1 spot on Apple’s App Store in the U.S. This shows that AI can enhance Google’s core offerings instead of threatening them. The market is finally acknowledging what we’ve been saying all along: treating AI as an existential threat to Google was always an overreaction. Instead, AI is turning out to be a complementary force that strengthens Google’s ecosystem. While we’ll explore Google stock’s upside below, if you want growth with less volatility than holding a single stock, check out the High Quality Portfolio. It has consistently outperformed its benchmark—a blend of the S&P 500, Russell, and S&P MidCap indexes—with over 91% returns since inception. Also see – Can Natera Stock Reach $500? Here’s where the numbers get interesting. Google has long been the overlooked Big Tech player in terms of valuation multiples, and the data paints a compelling picture: The fundamentals say yes. Consider these key metrics: Microsoft’s premium valuation is warranted, but Google’s numbers aren’t far behind. Much of Google’s discount came from regulatory overhang—but with that mostly resolved, the rerating case has never been stronger. The move from 22x to 28x earnings shows this rerating has already begun. For Google to command Amazon- and Microsoft-like multiples (35x+), investors must see these key developments: Given these risks, investors could consider the Trefis Reinforced Value (RV) Portfolio, which has outperformed its all-cap benchmark (S&P 500, S&P MidCap, and Russell 2000 blend). This quarterly rebalanced mix of large-, mid-, and small-cap stocks offers a way to benefit from market upswings while cushioning downside risk, as detailed in RV Portfolio performance metrics. Google’s path to a 50% stock price gain isn’t wishful thinking—it’s based on a valuation gap that’s increasingly hard to ignore. The company has all the right elements: dominant market position, improving AI story, regulatory clarity, and solid financials. The real question isn’t whether Google deserves a higher multiple, but how soon the market will acknowledge that it’s moved beyond the “search disruption” and antitrust concerns that kept its valuation muted. With AI proving to complement—not compete with—Google’s core business, we may be witnessing the early stages of a major rerating.
---------------------------------------------------
-
-Title: Stock market today: Dow drops, S&P 500, Nasdaq slip from records as Wall Street counts down to Fed decision
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-drops-sp-500-and-nasdaq-slip-from-records-as-wall-street-counts-down-to-fed-decision-200039695.html
-Time Published: 2025-09-16T20:00:39Z
-Description: US stocks dipped as President Trump's pick for Fed governor headed for Senate confirmation, following another record-setting day on Wall Street.
---------------------------------------------------
-
-Title: Meta aims to win smart glasses race at its Meta Connect conference
-URL: https://finance.yahoo.com/news/meta-aims-to-win-smart-glasses-race-at-its-meta-connect-conference-191012736.html
-Time Published: 2025-09-16T19:10:12Z
-Description: Meta will look to take control of the smart glasses market during its Meta Connect conference on Wednesday.
---------------------------------------------------
-
-Title: Wall Street Sees Upside in Amazon (AMZN) Amid Grocery Push and Global Expansion
-URL: https://finance.yahoo.com/news/wall-street-sees-upside-amazon-174404904.html
-Time Published: 2025-09-16T17:44:04Z
-Description: Amazon.com Inc. (NASDAQ:AMZN) is one of the best ESG stocks to buy now according to hedge funds. On September 11, Jefferies analyst James Heaney reaffirmed a...
---------------------------------------------------
-
-Title: Up 91% in 2025, Is It Too Late to Buy the Breakout in Oracle Stock?
-URL: https://www.barchart.com/story/news/34838879/up-91-in-2025-is-it-too-late-to-buy-the-breakout-in-oracle-stock
-Time Published: 2025-09-16T14:16:13Z
-Description: ORCL is back in the headlines today after last week’s AI-fueled explosion higher, but how much higher can the tech giant rise?
 --------------------------------------------------
