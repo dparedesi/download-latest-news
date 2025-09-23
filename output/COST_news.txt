@@ -13,10 +13,10 @@ Time Published: 2025-09-22T11:01:54Z
 Description: The second-quarter earnings season comes to a close with investors hoping for a big fourth quarter.
 --------------------------------------------------
 
-Title: Dow, S&P 500, Nasdaq futures see slight pullback from week of record highs for major gauges
-URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-futures-see-slight-pullback-from-week-of-record-highs-for-major-gauges-234423767.html
-Time Published: 2025-09-21T23:44:23Z
-Description: Markets are holding steady pre-market open following a week of fresh records for the major gauges.
+Title: Stocks Set to Retreat From Record Highs, U.S. PCE Inflation Data and Powell’s Remarks Awaited
+URL: https://www.barchart.com/story/news/34949816/stocks-set-to-retreat-from-record-highs-u-s-pce-inflation-data-and-powells-remarks-awaited
+Time Published: 2025-09-22T10:08:02Z
+Description: December S&P 500 E-Mini futures (ESZ25) are down -0.30%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.35% this morning, pointing to a slightly ...
 --------------------------------------------------
 
 Title: Dow, S&P 500, Nasdaq futures pull back from records as gold powers to fresh all-time high
@@ -31,10 +31,10 @@ Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as gold powers to fresh high
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-gold-powers-to-fresh-high-234423651.html
+Title: Dow, S&P 500, Nasdaq futures see slight pullback from week of record highs for major gauges
+URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-futures-see-slight-pullback-from-week-of-record-highs-for-major-gauges-234423767.html
 Time Published: 2025-09-21T23:44:23Z
-Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
+Description: Markets are holding steady pre-market open following a week of fresh records for the major gauges.
 --------------------------------------------------
 
 Title: Dow, S&P 500, Nasdaq futures edge lower on heels of record highs
@@ -45,6 +45,12 @@ Description: Wall Street is debating what's next after the Fed's shift to rate c
 
 Title: Stock market today: Dow, S&P 500, Nasdaq pull back from records as gold powers to fresh high
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pull-back-from-records-as-gold-powers-to-fresh-high-234423032.html
+Time Published: 2025-09-21T23:44:23Z
+Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as gold powers to fresh high
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-gold-powers-to-fresh-high-234423651.html
 Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
