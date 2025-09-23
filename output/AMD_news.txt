@@ -62,15 +62,3 @@ URL: https://www.marketwatch.com/story/15-stocks-to-cash-in-on-an-expected-300-b
 Time Published: 2025-09-18T14:18:00Z
 Description: Analysts at TD Cowen surveyed 215 companies on their cloud spending plans — an annual process they say “has been predictive of critical industry trends...
 --------------------------------------------------
-
-Title: Wall Street Has a Mixed Opinion on Advanced Micro Devices (AMD), Here’s Why?
-URL: https://finance.yahoo.com/news/wall-street-mixed-opinion-advanced-181843232.html
-Time Published: 2025-09-17T18:18:43Z
-Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is among the Stocks That Could 10X in the Next 3 Years. Wall Street has a mixed opinion about Advanced Micro...
---------------------------------------------------
-
-Title: Stocks Narrowly Mixed Ahead of FOMC Decision
-URL: https://www.barchart.com/story/news/34865607/stocks-narrowly-mixed-ahead-of-fomc-decision
-Time Published: 2025-09-17T14:02:01Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.04%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.48%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------

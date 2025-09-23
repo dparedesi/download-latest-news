@@ -1,5 +1,41 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Micron (MU) To Report Earnings Tomorrow: Here Is What To Expect
+URL: https://finance.yahoo.com/news/micron-mu-report-earnings-tomorrow-030203976.html
+Time Published: 2025-09-22T03:02:03Z
+Description: Memory chips maker Micron (NYSE:MU) will be announcing earnings results this Tuesday after market hours. Here’s what to look for.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures pull back from records as gold powers to fresh high
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-pull-back-from-records-as-gold-powers-to-fresh-high-234423457.html
+Time Published: 2025-09-21T23:44:23Z
+Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq pull back from records as gold powers to fresh high
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pull-back-from-records-as-gold-powers-to-fresh-high-234423032.html
+Time Published: 2025-09-21T23:44:23Z
+Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
+--------------------------------------------------
+
+Title: Dow, S&P 500, Nasdaq futures pull back from records as gold powers to fresh all-time high
+URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-futures-pull-back-from-records-as-gold-powers-to-fresh-all-time-high-234423591.html
+Time Published: 2025-09-21T23:44:23Z
+Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as Nvidia surges on OpenAI deal
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-nvidia-surges-on-openai-deal-234423447.html
+Time Published: 2025-09-21T23:44:23Z
+Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as gold powers to fresh high
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-gold-powers-to-fresh-high-234423651.html
+Time Published: 2025-09-21T23:44:23Z
+Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
+--------------------------------------------------
+
 Title: The Hottest Thing in the Stock Market Is Suddenly Boring Tech
 URL: https://finance.yahoo.com/news/hottest-thing-stock-market-suddenly-130007003.html
 Time Published: 2025-09-21T13:00:07Z
@@ -37,16 +73,16 @@ Time Published: 2025-09-19T14:01:40Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.16%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
-Title: A $6.3 Billion Reason to Buy CoreWeave Stock Now
-URL: https://www.barchart.com/story/news/34917162/a-6-3-billion-reason-to-buy-coreweave-stock-now
-Time Published: 2025-09-19T13:00:02Z
-Description: CoreWeave’s massive $6.3 billion Nvidia deal could be the game-changing catalyst, making CRWV stock worth considering for AI investors.
---------------------------------------------------
-
 Title: Google Is Now Worth $3 Trillion. Should You Buy GOOGL Stock Here?
 URL: https://www.barchart.com/story/news/34917158/google-is-now-worth-3-trillion-should-you-buy-googl-stock-here
 Time Published: 2025-09-19T13:00:02Z
 Description: With Google now part of the $3 trillion club, should investors pay attention to this tech giant?
+--------------------------------------------------
+
+Title: A $6.3 Billion Reason to Buy CoreWeave Stock Now
+URL: https://www.barchart.com/story/news/34917162/a-6-3-billion-reason-to-buy-coreweave-stock-now
+Time Published: 2025-09-19T13:00:02Z
+Description: CoreWeave’s massive $6.3 billion Nvidia deal could be the game-changing catalyst, making CRWV stock worth considering for AI investors.
 --------------------------------------------------
 
 Title: BofA’s Hartnett Says Magnificent 7 Stock Bubble Is Still Growing
@@ -91,54 +127,4 @@ URL: https://www.forbes.com/sites/greatspeculations/2025/09/18/how-micron-stock-
 Time Published: 2025-09-18T09:00:27Z
 Full Content:
 ByTrefis Team, Contributor. Micron Technology stock (NASDAQ:MU) has increased approximately 80% from about $87 at the beginning of 2025 to nearly $157, reaching all-time highs in the process. So, what is driving this increase for Micron? It all revolves around the demand for AI infrastructure, which is boosting sales of high-bandwidth memory products, also referred to as HBM. Even after this substantial rally, Micron stock is valued at about 20× estimated earnings for 2025. Projected growth looks robust: expected revenues are set to rise by 48% this fiscal year, based on consensus estimates, while growth is anticipated at roughly 31% for FY’26. Given this strong growth paired with a reasonable valuation, could Micron stock potentially double to around $300? Below, we outline this scenario. Demand is being propelled by the swift adoption of generative AI, which necessitates high-performance memory to function at scale. While DRAM offers capacity, HBM supplies the bandwidth and low latency required for large language models. Micron serves as a primary supplier for Nvidia’s (NASDAQ:NVDA) Blackwell GB200 platform, alongside AMD’s Instinct MI350 series GPUs. The memory requirements for each AI system are also escalating: for example, Nvidia’s latest Blackwell systems feature 33% more memory per node compared to earlier-generation chips. Additionally, as AI models transition from being text-only to incorporating multimodal formats such as video and speech, memory intensity is on the rise. With AI expected to be broadly adopted throughout the economy, Micron is positioned for a prolonged growth trajectory. To illustrate the scale of the investments, Amazon (NASDAQ:AMZN), Alphabet (NASDAQ:GOOG), Microsoft (NASDAQ:MSFT), and Meta (NASDAQ:META) have indicated that they could collectively invest $364 billion in capital expenditures for their respective current fiscal years. However, supply may not keep pace easily. Manufacturing HBM is more intricate than standard DRAM, and supply levels are still constrained. The production of HBM is wafer-intensive — it requires approximately three times as many wafers as standard DRAM to create the same quantity of bits due to its lower bit density and intricate 3D stacking. This forms a natural bottleneck. Although Micron has been expanding its HBM production capacity, output for 2025 is already sold out, with robust demand anticipated in 2026. Micron aims to significantly increase its HBM market share, targeting about 20 to 25% of the HBM segment by the end of 2025. Beyond HBM, Micron remains the sole volume producer of low-power DRAM for data centers, providing an advantage as AI workloads increasingly emphasize efficiency. Looking forward, even after this increase, Micron does not appear to be overvalued. Its revenues surged by 58%, from $21 billion in 2023 to $34 billion in 2024, as the company rebounded from a downturn. Consensus forecasts indicate revenues climbing from roughly $25.1 billion in FY’24 to $37.1 billion in FY’25, and by about 31% to $48.7 billion in FY’26. HBM has been a significant factor in this growth, with HBM revenue achieving a $6 billion annualized run rate and a projected $10 billion run rate by 2026. Increased HBM production does place pressure on conventional DRAM supply, contributing to rising DRAM prices, which may also enhance revenues for products outside of HBM. If we project a slightly more conservative annual growth rate of 25% between FY’26 and FY’28, Micron could generate approximately $77 billion in revenues by FY’28. Micron's net margins were around 20% over the first nine months of this year. It is possible that this figure could grow further due to a higher proportion of higher-margin HBM chips and improved economies of scale. Assuming net margins rise to about 22% in FY’28, this would equate to net income of approximately $17 billion. With a forward P/E ratio of about 20x, this would imply a market cap of around $340 billion, suggesting the stock price could nearly double from current levels. That said, competition persists. SK Hynix continues to dominate the HBM market with an approximate 50% share and an advantage in production, particularly regarding HBM4. Micron is increasing HBM3E production and testing HBM4, but it is still striving to catch up. HBM4 is anticipated to power Nvidia’s upcoming Rubin architecture for AI accelerators. The memory market has also historically been subject to significant cyclical behavior, and Micron is no exception. DRAM and NAND remain vulnerable to fluctuations in supply and demand along with pricing volatility. At this time, it appears that HBM serves as a partially secular growth driver, with AI infrastructure investments, high profit margins, and strong order visibility providing some degree of protection. Nevertheless, HBM presently comprises less than 20% of total revenues, meaning the company is not entirely insulated from traditional market cycles. Furthermore, AI demand may normalize following years of heavy investment if shareholders start demanding superior returns and more efficient capital management. The Trefis High Quality (HQ) Portfolio, featuring a selection of 30 stocks, has a history of consistently outperforming its benchmark, which includes all three – S&P 500, Russell, and S&P midcap. What accounts for this? Collectively, HQ Portfolio stocks delivered superior returns with lower risk compared to the benchmark index; a smoother ride, as demonstrated in the HQ Portfolio performance metrics.
---------------------------------------------------
-
-Title: Stock market today: Nasdaq, Dow, S&P 500 futures rise after Fed signals more cuts, Nvidia bets on Intel
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-futures-rise-after-fed-signals-more-cuts-nvidia-bets-on-intel-231448028.html
-Time Published: 2025-09-17T23:14:48Z
-Description: Markets are shaking off initial hesitation prompted by Powell's warning that there's no 'risk-free path' for policy.
---------------------------------------------------
-
-Title: Stock market today: Nasdaq, Dow, S&P 500 rise after Fed signals more cuts, Nvidia bets on Intel
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-rise-after-fed-signals-more-cuts-nvidia-bets-on-intel-231448487.html
-Time Published: 2025-09-17T23:14:48Z
-Description: Markets are shaking off initial hesitation prompted by Powell's warning that there's no 'risk-free path' for policy.
---------------------------------------------------
-
-Title: Watch These Alphabet Stock Price Levels After Google Parent Joins the $3 Trillion Club
-URL: https://www.investopedia.com/watch-these-alphabet-price-levels-after-google-parent-s-move-into-usd3-trillion-club-11811667
-Time Published: 2025-09-17T16:31:48Z
-Full Content:
-Alphabet (GOOGL) this week became just the fourth company to achieve a market capitalization of $3 trillion, boosted by a favorable legal ruling and optimism about the company's prospects amid the AI boom. The tech giant joined Apple (AAPL), Microsoft (MSFT) and Nvidia (NVDA) in the exclusive club. Alphabet shares surged in recent weeks after a federal judge ruled that Google doesn't have to sell its Chrome browser to remedy an antitrust case. Investors have also cheered the integration of Google’s AI tools across its ad and cloud business. Alphabet shares were down 1% at around $248 in early-afternoon trading Wednesday, leaving the company's market cap hovering near $3 trillion. Despite today's decline, the stock has gained about 17% since the start of September and is up 30% since the start of the year. Below, we dial into Alphabet’s technicals and point out key price levels worth watching out for. Since breaking out from a saucer pattern in late August, Alphabet shares have continued to trend sharply higher this month. While the relative strength index confirms bullish momentum with a reading nearing 90, the indicator also warns of heated conditions, potentially leading to short-term price fluctuations and profit taking. It’s also worth noting that the price formed a spinning top candlestick pattern in Tuesday’s trading session, signaling indecision among buyers and sellers. Let’s use technical analysis to forecast where the stock could be headed if the rally continues and also point out key support levels worth monitoring. Investors can forecast two possible bullish price targets on Alphabet’s chart by using the measuring principle, a technique that analyzes chart patterns to project future price movements. To apply the analysis, we calculate the distance of the saucer pattern from its low to high and add that to the formation’s top trendline value. When calculating the distance in points, we add $60 to $201, which forecasts a target of $261. ($60 + 201). Alternatively, we can measure the distance as a percentage change, which projects a target of $286.53. (applying a 42.55% increase to $201). The first support level to eye sits around $215. This location on the chart may attract buying interest on a fill of the stock’s antitrust news-driven breakaway gap. Finally, selling below this level could see Alphabet shares retest a key floor at $201, currently situated just under the rising 50-day moving average. Investors may look to accumulate shares in this region near the saucer pattern’s top trendline, which may flip from prior resistance into future support. The comments, opinions, and analyses expressed on Investopedia are for informational purposes only. Read our warranty and liability disclaimer for more info. As of the date this article was written, the author does not own any of the above securities.
---------------------------------------------------
-
-Title: Stock and crypto bulls are watching for rate cuts to drive the market higher: Opening Bid top takeaway
-URL: https://finance.yahoo.com/news/stock-and-crypto-bulls-are-watching-for-rate-cuts-to-drive-the-market-higher-opening-bid-top-takeaway-155327339.html
-Time Published: 2025-09-17T15:53:27Z
-Description: The stock bulls get ready for a rate cut.
---------------------------------------------------
-
-Title: The Federal Reserve Cuts Interest Rate by a Quarter-Percentage-Point, Signals 2 More Before the End of the Year
-URL: https://www.barchart.com/story/news/34867935/stocks-tread-water-as-fomc-decision-nears
-Time Published: 2025-09-17T15:27:26Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up -0.17%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.77%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: If You Invested $2K in Microsoft 10 Years Ago, It Would Be Worth Nearly $20K Today
-URL: https://finance.yahoo.com/news/invested-2-000-microsoft-stock-140020667.html
-Time Published: 2025-09-17T13:07:08Z
-Description: Many money experts and stock analysts agree that Microsoft stock is currently a good investment, but was it 10 years ago?
---------------------------------------------------
-
-Title: Why I Ignore Morningstar’s Review (What I Do Instead) [Podcast]
-URL: https://thedividendguyblog.com/stock-ratings-pros-cons/
-Time Published: 2025-09-17T10:32:15Z
-Description: Star ratings are helpful—until they become a shortcut. Morningstar’s 1–5 stars are primarily about valuation, not business quality. Learn the smarter way to build conviction and why stock price (or past return) shouldn’t drive your decisions. Save your spot (…
---------------------------------------------------
-
-Title: Google's Nano Banana Moment: 50% Upside For GOOG Stock?
-URL: https://www.forbes.com/sites/greatspeculations/2025/09/17/googles-nano-banana-moment-50-upside-for-goog-stock/
-Time Published: 2025-09-17T10:00:00Z
-Full Content:
-ByTrefis Team, Contributor. Google's stock has been making headlines, surpassing the $3 trillion market cap milestone as investor confidence grows. But here’s the bigger takeaway: even after this rally, Google still trades at a notable discount compared to Big Tech peers like Amazon and Microsoft. This recent surge isn’t just market hype—it could mark the start of a 50% rally for GOOG stock as the market finally recognizes that Google deserves premium valuations and reconsiders its pricing. The narrative around Google and AI is shifting. Remember when there was widespread fear that AI would cannibalize Google Search? That fear is quickly fading. Google’s Gemini, especially its viral “nano banana” feature, has propelled the Gemini app to the #1 spot on Apple’s App Store in the U.S. This shows that AI can enhance Google’s core offerings instead of threatening them. The market is finally acknowledging what we’ve been saying all along: treating AI as an existential threat to Google was always an overreaction. Instead, AI is turning out to be a complementary force that strengthens Google’s ecosystem. While we’ll explore Google stock’s upside below, if you want growth with less volatility than holding a single stock, check out the High Quality Portfolio. It has consistently outperformed its benchmark—a blend of the S&P 500, Russell, and S&P MidCap indexes—with over 91% returns since inception. Also see – Can Natera Stock Reach $500? Here’s where the numbers get interesting. Google has long been the overlooked Big Tech player in terms of valuation multiples, and the data paints a compelling picture: The fundamentals say yes. Consider these key metrics: Microsoft’s premium valuation is warranted, but Google’s numbers aren’t far behind. Much of Google’s discount came from regulatory overhang—but with that mostly resolved, the rerating case has never been stronger. The move from 22x to 28x earnings shows this rerating has already begun. For Google to command Amazon- and Microsoft-like multiples (35x+), investors must see these key developments: Given these risks, investors could consider the Trefis Reinforced Value (RV) Portfolio, which has outperformed its all-cap benchmark (S&P 500, S&P MidCap, and Russell 2000 blend). This quarterly rebalanced mix of large-, mid-, and small-cap stocks offers a way to benefit from market upswings while cushioning downside risk, as detailed in RV Portfolio performance metrics. Google’s path to a 50% stock price gain isn’t wishful thinking—it’s based on a valuation gap that’s increasingly hard to ignore. The company has all the right elements: dominant market position, improving AI story, regulatory clarity, and solid financials. The real question isn’t whether Google deserves a higher multiple, but how soon the market will acknowledge that it’s moved beyond the “search disruption” and antitrust concerns that kept its valuation muted. With AI proving to complement—not compete with—Google’s core business, we may be witnessing the early stages of a major rerating.
 --------------------------------------------------
