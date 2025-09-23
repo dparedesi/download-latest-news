@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia, Abu Dhabi institute team up to launch AI, robotics lab in UAE: report
+URL: https://seekingalpha.com/news/4496880-nvidia-abu-dhabi-institute-team-up-to-launch-ai-robotics-lab-in-uae
+Time Published: 2025-09-22T08:47:09Z
+Description: Nvidia (NVDA) and Abu Dhabi's Technology Innovation Institute launched a joint research lab in the UAE to focus on developing AI models and robotics platforms.
+--------------------------------------------------
+
 Title: Big Tech stocks hold steady after Trump visa fees crackdown
 URL: https://finance.yahoo.com/news/big-tech-shares-steady-trump-063324397.html
 Time Published: 2025-09-22T06:33:24Z
@@ -11,12 +17,6 @@ URL: https://www.c-sharpcorner.com/news/openai-and-nvidia-announce-100b-partners
 Time Published: 2025-09-22T00:00:00Z
 Full Content:
 September 22, 2025 OpenAI and NVIDIA have signed a letter of intent for a landmark strategic partnership that will deploy at least 10 gigawatts of NVIDIA systems to power OpenAI’s next-generation AI models and infrastructure. The deal represents one of the largest investments in AI compute capacity to date, with NVIDIA committing up to $100 billion as each gigawatt comes online. The first phase—1 gigawatt of NVIDIA systems running on the company’s upcoming Vera Rubin platform—is expected to be deployed in the second half of 2026. Scale: Millions of NVIDIA GPUs will form the backbone of OpenAI’s future models. Investment: NVIDIA will progressively invest $100B in OpenAI to fund data centers and energy capacity. Co-optimization: The two companies will align their hardware and software roadmaps to maximize performance and efficiency. Jensen Huang, NVIDIA Founder and CEO NVIDIA and OpenAI have pushed each other for a decade, from the first DGX supercomputer to the breakthrough of ChatGPT. This investment and infrastructure partnership mark the next leap forward — deploying 10 gigawatts to power the next era of intelligence. Sam Altman, OpenAI Cofounder and CEO Everything starts with compute. Compute infrastructure will be the basis for the economy of the future, and we will utilize what we’re building with NVIDIA to both create new AI breakthroughs and empower people and businesses with them at scale. OpenAI already collaborates with Microsoft, Oracle, SoftBank, and Stargate partners on AI infrastructure. With over 700 million weekly active users, the company is rapidly scaling adoption across enterprises, developers, and small businesses. This NVIDIA partnership positions OpenAI to accelerate its mission of building artificial general intelligence (AGI) that benefits all of humanity, while giving developers and businesses access to the most powerful AI infrastructure ever built. About OpenAI OpenAIis an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity. About NVIDIA NVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing. ©2025 C# Corner. All contents are copyright of their authors.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as Nvidia surges on OpenAI deal
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-nvidia-surges-on-openai-deal-234423447.html
-Time Published: 2025-09-21T23:44:23Z
-Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures pull back from records as gold powers to fresh high
@@ -31,8 +31,8 @@ Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq pull back from records as gold powers to fresh high
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pull-back-from-records-as-gold-powers-to-fresh-high-234423032.html
+Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as Nvidia surges on OpenAI deal
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-nvidia-surges-on-openai-deal-234423447.html
 Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
@@ -41,6 +41,12 @@ Title: Dow, S&P 500, Nasdaq futures edge lower on heels of record highs
 URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-futures-edge-lower-on-heels-of-record-highs-234423326.html
 Time Published: 2025-09-21T23:44:23Z
 Description: Wall Street is debating what's next after the Fed's shift to rate cuts.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq pull back from records as gold powers to fresh high
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pull-back-from-records-as-gold-powers-to-fresh-high-234423032.html
+Time Published: 2025-09-21T23:44:23Z
+Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as gold powers to fresh high
@@ -305,10 +311,4 @@ Title: Record Highs for Major Stock Indexes as Chip Makers Soar
 URL: https://www.barchart.com/story/news/34895101/record-highs-for-major-stock-indexes-as-chip-makers-soar
 Time Published: 2025-09-18T15:08:24Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.67%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.46%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Investors Double Down While NVIDIA Corporation (NVDA) Secures Multi-Year AI Wins
-URL: https://finance.yahoo.com/news/investors-double-down-while-nvidia-145330091.html
-Time Published: 2025-09-18T14:53:30Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is among the high growth mega cap stocks you can buy and hold for the next 3 years. According to the latest disclosure with ...
 --------------------------------------------------
