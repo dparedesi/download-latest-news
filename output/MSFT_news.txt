@@ -1,5 +1,18 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: US stock market today: Dow, S&P 500, Nasdaq Pull Back from record highs as Gold hits fresh all-time peak
+URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-dow-sp-500-nasdaq-pull-back-from-record-highs-as-gold-hits-fresh-all-time-peak/articleshow/124051249.cms
+Time Published: 2025-09-22T14:34:49Z
+Full Content:
+US stocks fell slightly as investors waited for Fed speeches and key inflation data. Gold hit a record high while Bitcoin and other cryptocurrencies dropped. Tech and big companies reacted to Trump’s new H1-B visa rules. Oracle, Pfizer, and T-Mobile made major business moves, including leadership changes and acquisitions, shaping the market for the week ahead. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Canada bars Irish rap band Kneecap from entry over alleged terrorism support Bank of Canada cuts interest rate to 2.5% as GDP shrinks, job market softens Beverly Thomson, veteran CTV journalist and Canada AM co-host, dies at 61 Seth Rogen wins Emmy Award for best lead actor in comedy series 'The Studio' Zach Bryan confronts Gavin Adcock at Oklahoma music festival after country singer criticism Weekend streaming guide Canada: top 10 Netflix, Crave, Disney+ and Apple TV+ shows September 2025 Canada pension and retirement benefits 2025: up to $2,461 in federal and provincial payments through December Molly McCann wins professional boxing debut despite opponent's illegal kick How Americans and a fake Fox News account accused Toronto retiree Michael Mallinson of assassinating Charlie Kirk Canadian bread price fixing settlement opens: $500m available for claims Canadian soldier found dead in Latvia during NATO operation reassurance deployment Mexico vs Japan international soccer: live stream, TV schedule and match preview Trump denies knowledge of reported SEAL Team 6 mission in North Korea that killed civilians FBI reveals big update on Charlie Kirk probe GST reforms: Congress calls them ‘inadequate, delayed & diversionary’ 'Time to accelerate innovation': Adani after SEBI’s clean chit Tulsi Gabbard bypassed White House in revoking 37 clearances? IIT Madras Director thanks Trump for H-1B fee hike Trump reveals how he differed from Charlie Kirk Erika Kirk forgives Tyler Robinson Assam bids tearful farewell to Zubeen; samadhi to be built in Jorhat Alabama launches state-federal checkpoint op with ICE Viksit Bharat, Aatmanirbhar Bharat: PM calls for adopting swadeshi FBI reveals big update on Charlie Kirk probe GST reforms: Congress calls them ‘inadequate, delayed & diversionary’ 'Time to accelerate innovation': Adani after SEBI’s clean chit Tulsi Gabbard bypassed White House in revoking 37 clearances? IIT Madras Director thanks Trump for H-1B fee hike Trump reveals how he differed from Charlie Kirk Erika Kirk forgives Tyler Robinson Assam bids tearful farewell to Zubeen; samadhi to be built in Jorhat Alabama launches state-federal checkpoint op with ICE Viksit Bharat, Aatmanirbhar Bharat: PM calls for adopting swadeshi Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Most Searched IFSC Codes Top Story Listing Top Prime Articles Top Slideshow Private Companies Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: Microsoft Corp. (MSFT) Rallied in Q2, Driven by Azure growth
+URL: https://finance.yahoo.com/news/microsoft-corp-msft-rallied-q2-124846894.html
+Time Published: 2025-09-22T12:48:46Z
+Description: Macquarie Asset Management, an investment management company, released its “Macquarie Large Cap Growth Fund” investor letter for the second quarter of 2025. ...
+--------------------------------------------------
+
 Title: Micron (MU) To Report Earnings Tomorrow: Here Is What To Expect
 URL: https://finance.yahoo.com/news/micron-mu-report-earnings-tomorrow-030203976.html
 Time Published: 2025-09-22T03:02:03Z
@@ -12,12 +25,6 @@ Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq pull back from records as gold powers to fresh high
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pull-back-from-records-as-gold-powers-to-fresh-high-234423032.html
-Time Published: 2025-09-21T23:44:23Z
-Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
---------------------------------------------------
-
 Title: Dow, S&P 500, Nasdaq futures pull back from records as gold powers to fresh all-time high
 URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-futures-pull-back-from-records-as-gold-powers-to-fresh-all-time-high-234423591.html
 Time Published: 2025-09-21T23:44:23Z
@@ -26,6 +33,12 @@ Description: A parade of Fed speakers and a key inflation print are in focus for
 
 Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as Nvidia surges on OpenAI deal
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-nvidia-surges-on-openai-deal-234423447.html
+Time Published: 2025-09-21T23:44:23Z
+Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq pull back from records as gold powers to fresh high
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pull-back-from-records-as-gold-powers-to-fresh-high-234423032.html
 Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
