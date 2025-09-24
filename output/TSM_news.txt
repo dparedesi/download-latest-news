@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Stocks are at a risk of a correction if the Fed makes the right call on the economy, says Morgan Stanley
+URL: https://www.marketwatch.com/story/stocks-are-at-a-risk-of-a-correction-if-the-fed-makes-the-right-call-on-the-economy-says-morgan-stanley-44475847
+Time Published: 2025-09-22T13:30:00Z
+Description: Equities are vulnerable to a spike in liquidity stress, says Mike Wilson
+--------------------------------------------------
+
 Title: Demand Uptick Lifted Taiwan Semiconductor Manufacturing Company Limited (TSM) in Q2
 URL: https://finance.yahoo.com/news/demand-uptick-lifted-taiwan-semiconductor-131414497.html
 Time Published: 2025-09-22T13:14:14Z
@@ -23,28 +29,4 @@ Title: Taiwan Semiconductor Manufacturing Co. Ltd. (TSM) Surged on Renewed Optim
 URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-co-ltd-120541693.html
 Time Published: 2025-09-19T12:05:41Z
 Description: Macquarie Asset Management, an investment management company, released its “Macquarie Core Equity Fund” investor letter for the second quarter of 2025. A...
---------------------------------------------------
-
-Title: Nvidia CEO Jensen Huang Says 'You Can’t Overstate the Magic' That is Taiwan Semiconductor, But is TSM Stock a Buy at New Highs?
-URL: https://www.barchart.com/story/news/34900133/nvidia-ceo-jensen-huang-says-you-cant-overstate-the-magic-that-is-taiwan-semiconductor-but-is-tsm-stock-a-buy-at-new-highs
-Time Published: 2025-09-18T19:02:02Z
-Description: Foundry giant Taiwan Semiconductor will play a key role in the new partnership between Nvidia and Intel, according to CEOs Jensen Huang and Lip-Bu Tan.
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing Company Limited (TSM)’s Foundry Market Share Surged in Q2: Report
-URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-limited-152020775.html
-Time Published: 2025-09-18T15:20:20Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is among the 15 Stocks ChatGPT Predicts Could Make You Wealthy in 5 Years. The company’s share ...
---------------------------------------------------
-
-Title: Integrity Alliance Bets Bigger on Taiwan Semiconductor Manufacturing Company Limited (TSM) Amid Strong Reinvestment
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_72cc0065-aac0-4581-a97e-325ae1cabd6a
-Time Published: 2025-09-18T14:54:10Z
-Description: None
---------------------------------------------------
-
-Title: Nvidia’s $5B Boost Sends Intel Skyrocketing, But Should You Buy INTC Stock Here?
-URL: https://www.barchart.com/story/news/34888550/nvidias-5b-boost-sends-intel-skyrocketing-but-should-you-buy-intc-stock-here
-Time Published: 2025-09-18T12:01:34Z
-Description: Nvidia bought Intel stock at $23.28 per share, but INTC is set to open well above NVDA CEO Jensen Huang’s entry price.
 --------------------------------------------------
