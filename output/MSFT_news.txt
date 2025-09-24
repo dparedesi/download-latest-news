@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: You’re just getting scraps from the stock market. Here’s where the big money is made.
+URL: https://www.marketwatch.com/story/youre-just-getting-scraps-from-the-stock-market-heres-where-the-big-money-is-made-3d4f0922
+Time Published: 2025-09-22T23:53:00Z
+Description: When it comes to growth investing, it’s a small club — and you’re not in it.
+--------------------------------------------------
+
 Title: Hain Celestial (HAIN) Shares Skyrocket, What You Need To Know
 URL: https://finance.yahoo.com/news/hain-celestial-hain-shares-skyrocket-204542610.html
 Time Published: 2025-09-22T20:45:42Z
@@ -43,26 +49,26 @@ Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as Nvidia surges on OpenAI deal
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-nvidia-surges-on-openai-deal-234423447.html
-Time Published: 2025-09-21T23:44:23Z
-Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
---------------------------------------------------
-
 Title: Dow, S&P 500, Nasdaq futures pull back from records as gold powers to fresh all-time high
 URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-futures-pull-back-from-records-as-gold-powers-to-fresh-all-time-high-234423591.html
 Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq pull back from records as gold powers to fresh high
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pull-back-from-records-as-gold-powers-to-fresh-high-234423032.html
+Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as Nvidia surges on OpenAI deal
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-nvidia-surges-on-openai-deal-234423447.html
 Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as gold powers to fresh high
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-gold-powers-to-fresh-high-234423651.html
+Time Published: 2025-09-21T23:44:23Z
+Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq pull back from records as gold powers to fresh high
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pull-back-from-records-as-gold-powers-to-fresh-high-234423032.html
 Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
@@ -104,16 +110,16 @@ Time Published: 2025-09-19T14:01:40Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.16%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
-Title: A $6.3 Billion Reason to Buy CoreWeave Stock Now
-URL: https://www.barchart.com/story/news/34917162/a-6-3-billion-reason-to-buy-coreweave-stock-now
-Time Published: 2025-09-19T13:00:02Z
-Description: CoreWeave’s massive $6.3 billion Nvidia deal could be the game-changing catalyst, making CRWV stock worth considering for AI investors.
---------------------------------------------------
-
 Title: Google Is Now Worth $3 Trillion. Should You Buy GOOGL Stock Here?
 URL: https://www.barchart.com/story/news/34917158/google-is-now-worth-3-trillion-should-you-buy-googl-stock-here
 Time Published: 2025-09-19T13:00:02Z
 Description: With Google now part of the $3 trillion club, should investors pay attention to this tech giant?
+--------------------------------------------------
+
+Title: A $6.3 Billion Reason to Buy CoreWeave Stock Now
+URL: https://www.barchart.com/story/news/34917162/a-6-3-billion-reason-to-buy-coreweave-stock-now
+Time Published: 2025-09-19T13:00:02Z
+Description: CoreWeave’s massive $6.3 billion Nvidia deal could be the game-changing catalyst, making CRWV stock worth considering for AI investors.
 --------------------------------------------------
 
 Title: BofA’s Hartnett Says Magnificent 7 Stock Bubble Is Still Growing
