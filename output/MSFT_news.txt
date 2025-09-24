@@ -12,6 +12,12 @@ Time Published: 2025-09-22T20:00:11Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
 
+Title: 10 Stocks and ETFs That Could Be Good for the Middle Class
+URL: https://finance.yahoo.com/news/10-stocks-etfs-could-good-191709931.html
+Time Published: 2025-09-22T19:17:09Z
+Description: Discover low-risk stocks and exchange-traded funds (ETFs) ideal for middle-class investors. Plus, smart strategies to grow wealth without too much risk.
+--------------------------------------------------
+
 Title: US stock market today: Dow, S&P 500, Nasdaq Pull Back from record highs as Gold hits fresh all-time peak
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-dow-sp-500-nasdaq-pull-back-from-record-highs-as-gold-hits-fresh-all-time-peak/articleshow/124051249.cms
 Time Published: 2025-09-22T14:34:49Z
@@ -31,14 +37,14 @@ Time Published: 2025-09-22T03:02:03Z
 Description: Memory chips maker Micron (NYSE:MU) will be announcing earnings results this Tuesday after market hours. Here’s what to look for.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as Nvidia surges on OpenAI deal
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-nvidia-surges-on-openai-deal-234423447.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures pull back from records as gold powers to fresh high
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-pull-back-from-records-as-gold-powers-to-fresh-high-234423457.html
 Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures pull back from records as gold powers to fresh high
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-pull-back-from-records-as-gold-powers-to-fresh-high-234423457.html
+Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as Nvidia surges on OpenAI deal
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-nvidia-surges-on-openai-deal-234423447.html
 Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
@@ -49,14 +55,14 @@ Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as gold powers to fresh high
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-gold-powers-to-fresh-high-234423651.html
+Title: Stock market today: Dow, S&P 500, Nasdaq pull back from records as gold powers to fresh high
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pull-back-from-records-as-gold-powers-to-fresh-high-234423032.html
 Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq pull back from records as gold powers to fresh high
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pull-back-from-records-as-gold-powers-to-fresh-high-234423032.html
+Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as gold powers to fresh high
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-gold-powers-to-fresh-high-234423651.html
 Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
@@ -98,16 +104,16 @@ Time Published: 2025-09-19T14:01:40Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.16%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
-Title: Google Is Now Worth $3 Trillion. Should You Buy GOOGL Stock Here?
-URL: https://www.barchart.com/story/news/34917158/google-is-now-worth-3-trillion-should-you-buy-googl-stock-here
-Time Published: 2025-09-19T13:00:02Z
-Description: With Google now part of the $3 trillion club, should investors pay attention to this tech giant?
---------------------------------------------------
-
 Title: A $6.3 Billion Reason to Buy CoreWeave Stock Now
 URL: https://www.barchart.com/story/news/34917162/a-6-3-billion-reason-to-buy-coreweave-stock-now
 Time Published: 2025-09-19T13:00:02Z
 Description: CoreWeave’s massive $6.3 billion Nvidia deal could be the game-changing catalyst, making CRWV stock worth considering for AI investors.
+--------------------------------------------------
+
+Title: Google Is Now Worth $3 Trillion. Should You Buy GOOGL Stock Here?
+URL: https://www.barchart.com/story/news/34917158/google-is-now-worth-3-trillion-should-you-buy-googl-stock-here
+Time Published: 2025-09-19T13:00:02Z
+Description: With Google now part of the $3 trillion club, should investors pay attention to this tech giant?
 --------------------------------------------------
 
 Title: BofA’s Hartnett Says Magnificent 7 Stock Bubble Is Still Growing
