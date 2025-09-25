@@ -127,12 +127,6 @@ Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as Nvidia surges on OpenAI deal
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-nvidia-surges-on-openai-deal-234423447.html
-Time Published: 2025-09-21T23:44:23Z
-Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq pull back from records as gold powers to fresh high
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pull-back-from-records-as-gold-powers-to-fresh-high-234423032.html
 Time Published: 2025-09-21T23:44:23Z
@@ -141,6 +135,12 @@ Description: A parade of Fed speakers and a key inflation print are in focus for
 
 Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as gold powers to fresh high
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-gold-powers-to-fresh-high-234423651.html
+Time Published: 2025-09-21T23:44:23Z
+Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as Nvidia surges on OpenAI deal
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-nvidia-surges-on-openai-deal-234423447.html
 Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
