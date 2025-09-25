@@ -1,21 +1,27 @@
 List of news related to Microsoft stock price MSFT:
 
-Title: Stock market today: Nasdaq, Dow, S&P 500 fall with divided Fed, Alibaba in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-fall-with-divided-fed-alibaba-in-focus-230354294.html
-Time Published: 2025-09-23T23:03:54Z
-Description: US stocks reversed gains after Wall Street ended a record-setting rally.
---------------------------------------------------
-
 Title: Stock market today: Nasdaq, Dow, S&P 500 waver with divided Fed, Alibaba in focus
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-waver-with-divided-fed-alibaba-in-focus-230354679.html
 Time Published: 2025-09-23T23:03:54Z
 Description: US stocks wavered after Wall Street ended a record-setting rally.
 --------------------------------------------------
 
+Title: Stock market today: Nasdaq, Dow, S&P 500 fall with divided Fed, Alibaba in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-fall-with-divided-fed-alibaba-in-focus-230354294.html
+Time Published: 2025-09-23T23:03:54Z
+Description: US stocks reversed gains after Wall Street ended a record-setting rally.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq slide after Powell flags Fed's challenge, 'highly valued' stocks
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-after-powell-flags-feds-challenge-highly-valued-stocks-174834474.html
 Time Published: 2025-09-23T20:01:43Z
 Description: Wall Street heard from Chair Jerome Powell for the first time since the Federal Reserve started cutting interest rates again.
+--------------------------------------------------
+
+Title: Oracle Is Poised to Get a TikTok Boost. Should You Buy, Sell, or Hold ORCL Stock Here?
+URL: https://www.barchart.com/story/news/34988857/oracle-is-poised-to-get-a-tiktok-boost-should-you-buy-sell-or-hold-orcl-stock-here
+Time Published: 2025-09-23T19:44:57Z
+Description: Oracle stock could get a fresh catalyst from its expanded role in securing TikTok’s U.S. operations amid soaring cloud momentum.
 --------------------------------------------------
 
 Title: Micron set to report Q4 earnings in latest test of AI trade
@@ -109,12 +115,6 @@ Time Published: 2025-09-22T03:02:03Z
 Description: Memory chips maker Micron (NYSE:MU) will be announcing earnings results this Tuesday after market hours. Here’s what to look for.
 --------------------------------------------------
 
-Title: Dow, S&P 500, Nasdaq futures pull back from records as gold powers to fresh all-time high
-URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-futures-pull-back-from-records-as-gold-powers-to-fresh-all-time-high-234423591.html
-Time Published: 2025-09-21T23:44:23Z
-Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures pull back from records as gold powers to fresh high
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-pull-back-from-records-as-gold-powers-to-fresh-high-234423457.html
 Time Published: 2025-09-21T23:44:23Z
@@ -127,14 +127,20 @@ Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as gold powers to fresh high
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-gold-powers-to-fresh-high-234423651.html
+Title: Dow, S&P 500, Nasdaq futures pull back from records as gold powers to fresh all-time high
+URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-futures-pull-back-from-records-as-gold-powers-to-fresh-all-time-high-234423591.html
 Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq pull back from records as gold powers to fresh high
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pull-back-from-records-as-gold-powers-to-fresh-high-234423032.html
+Time Published: 2025-09-21T23:44:23Z
+Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as gold powers to fresh high
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-gold-powers-to-fresh-high-234423651.html
 Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------

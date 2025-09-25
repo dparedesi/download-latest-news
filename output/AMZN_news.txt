@@ -1,15 +1,15 @@
 List of news related to Amazon stock price AMZN:
 
-Title: Stock market today: Nasdaq, Dow, S&P 500 fall with divided Fed, Alibaba in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-fall-with-divided-fed-alibaba-in-focus-230354294.html
-Time Published: 2025-09-23T23:03:54Z
-Description: US stocks reversed gains after Wall Street ended a record-setting rally.
---------------------------------------------------
-
 Title: Stock market today: Nasdaq, Dow, S&P 500 waver with divided Fed, Alibaba in focus
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-waver-with-divided-fed-alibaba-in-focus-230354679.html
 Time Published: 2025-09-23T23:03:54Z
 Description: US stocks wavered after Wall Street ended a record-setting rally.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq, Dow, S&P 500 fall with divided Fed, Alibaba in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-fall-with-divided-fed-alibaba-in-focus-230354294.html
+Time Published: 2025-09-23T23:03:54Z
+Description: US stocks reversed gains after Wall Street ended a record-setting rally.
 --------------------------------------------------
 
 Title: US stock market retreats after record highs as Powell warns of “highly valued” markets — S&P 500 slips, Nasdaq hit by Nvidia selloff, Micron jumps on strong results
@@ -23,6 +23,18 @@ Title: Stock market today: Dow, S&P 500, Nasdaq slide after Powell flags Fed's c
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-after-powell-flags-feds-challenge-highly-valued-stocks-174834474.html
 Time Published: 2025-09-23T20:01:43Z
 Description: Wall Street heard from Chair Jerome Powell for the first time since the Federal Reserve started cutting interest rates again.
+--------------------------------------------------
+
+Title: Oracle Is Poised to Get a TikTok Boost. Should You Buy, Sell, or Hold ORCL Stock Here?
+URL: https://www.barchart.com/story/news/34988857/oracle-is-poised-to-get-a-tiktok-boost-should-you-buy-sell-or-hold-orcl-stock-here
+Time Published: 2025-09-23T19:44:57Z
+Description: Oracle stock could get a fresh catalyst from its expanded role in securing TikTok’s U.S. operations amid soaring cloud momentum.
+--------------------------------------------------
+
+Title: Nike Could Be the Next Dividend Aristocrat, But Is NKE Stock a Buy?
+URL: https://www.barchart.com/story/news/34988478/nike-could-be-the-next-dividend-aristocrat-but-is-nke-stock-a-buy
+Time Published: 2025-09-23T19:25:49Z
+Description: Nike could join the ranks of the Dividend Aristocrats and boasts a healthy dividend yield of 2.2%. NKE stock has underperformed terribly over the last three ...
 --------------------------------------------------
 
 Title: Micron set to report Q4 earnings in latest test of AI trade
