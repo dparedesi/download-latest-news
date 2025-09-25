@@ -1,5 +1,11 @@
 List of news related to Bank of America stock price BAC:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq slide after Powell flags Fed's challenge, 'highly valued' stocks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-after-powell-flags-feds-challenge-highly-valued-stocks-174834474.html
+Time Published: 2025-09-23T20:01:43Z
+Description: Wall Street heard from Chair Jerome Powell for the first time since the Federal Reserve started cutting interest rates again.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq slide as Powell warns of 'challenging situation'
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-powell-warns-of-challenging-situation-174834970.html
 Time Published: 2025-09-23T17:48:34Z
@@ -10,10 +16,4 @@ Title: This Blue-Chip Dividend Stock Just Raised Its Payout by 7%. Should You Bu
 URL: https://www.barchart.com/story/news/34936461/this-blue-chip-dividend-stock-just-raised-its-payout-by-7-should-you-buy-shares-here
 Time Published: 2025-09-20T13:00:02Z
 Description: J.P. Morgan’s recent 7.1% dividend increase to $1.50 per share, backed by record earnings and a new $50 billion share buyback plan, highlights strong capital...
---------------------------------------------------
-
-Title: BofA’s Hartnett Says Magnificent 7 Stock Bubble Is Still Growing
-URL: https://finance.yahoo.com/news/bofa-hartnett-says-magnificent-7-100833297.html
-Time Published: 2025-09-19T10:08:33Z
-Description: A BofA team led by Michael Hartnett studied 10 equity bubbles since the start of the previous century, finding that these periods of extreme overvaluation...
 --------------------------------------------------
