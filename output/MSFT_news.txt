@@ -6,16 +6,16 @@ Time Published: 2025-09-24T20:01:03Z
 Description: US stocks reversed gains after Wall Street ended a record-setting rally.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, Dow, S&P 500 waver with divided Fed, Alibaba in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-waver-with-divided-fed-alibaba-in-focus-230354679.html
-Time Published: 2025-09-23T23:03:54Z
-Description: US stocks wavered after Wall Street ended a record-setting rally.
---------------------------------------------------
-
 Title: Stock market today: Nasdaq, Dow, S&P 500 fall with divided Fed, Alibaba in focus
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-fall-with-divided-fed-alibaba-in-focus-230354294.html
 Time Published: 2025-09-23T23:03:54Z
 Description: US stocks reversed gains after Wall Street ended a record-setting rally.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq, Dow, S&P 500 waver with divided Fed, Alibaba in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-waver-with-divided-fed-alibaba-in-focus-230354679.html
+Time Published: 2025-09-23T23:03:54Z
+Description: US stocks wavered after Wall Street ended a record-setting rally.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq slide after Powell flags Fed's challenge, 'highly valued' stocks
