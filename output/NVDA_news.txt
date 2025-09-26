@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Jim Cramer on NVIDIA: “The Ultimate Own it, Don’t Trade It”
+URL: https://finance.yahoo.com/news/jim-cramer-nvidia-ultimate-own-171237962.html
+Time Published: 2025-09-25T17:12:37Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer shared his opinions on. Cramer discussed the company’s latest deal with OpenAI and said...
+--------------------------------------------------
+
 Title: AMD Gains Traction in AI Infrastructure Market: A Sign of More Upside?
 URL: https://finance.yahoo.com/news/amd-gains-traction-ai-infrastructure-164000247.html
 Time Published: 2025-09-25T16:40:00Z
@@ -50,6 +56,12 @@ Time Published: 2025-09-25T01:22:32Z
 Description: Here are the stocks that made the biggest moves today.
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures fall after back-to-back losses, jobless claims dip
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-after-back-to-back-losses-jobless-claims-dip-234737751.html
+Time Published: 2025-09-24T23:47:37Z
+Description: Fresh jobs data could reset interest-rate bets amid uncertainty about Federal Reserve unity on policy.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq fall amid sharp GDP expansion, jobless claims dip
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fall-amid-sharp-gdp-expansion-jobless-claims-dip-234737367.html
 Time Published: 2025-09-24T23:47:37Z
@@ -58,12 +70,6 @@ Description: Fresh jobs data could reset interest-rate bets amid uncertainty abo
 
 Title: Stock market today: Dow, S&P 500, Nasdaq fall after back-to-back losses, jobless claims dip
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fall-after-back-to-back-losses-jobless-claims-dip-234737173.html
-Time Published: 2025-09-24T23:47:37Z
-Description: Fresh jobs data could reset interest-rate bets amid uncertainty about Federal Reserve unity on policy.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures fall after back-to-back losses, jobless claims dip
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-after-back-to-back-losses-jobless-claims-dip-234737751.html
 Time Published: 2025-09-24T23:47:37Z
 Description: Fresh jobs data could reset interest-rate bets amid uncertainty about Federal Reserve unity on policy.
 --------------------------------------------------
@@ -172,7 +178,7 @@ Title: Bitcoin Miner IREN Has 80% Potential Upside Thanks to Big Bet on AI Cloud
 URL: https://www.coindesk.com/markets/2025/09/24/bitcoin-miner-iren-has-80-potential-upside-thanks-to-big-bet-on-ai-cloud-bernstein
 Time Published: 2025-09-24T13:27:15Z
 Full Content:
-IREN (IREN), one of the largest self-operated BTC$109,545.43 miners in the U.S., is breaking away from the pack, and Wall Street is taking notice. Bernstein analysts raised their price target on IREN to $75 from $20, implying about 80% upside, as the miner doubles down on building its own AI cloud business rather than relying on co-location deals with partners like CoreWeave (CRWV). IREN has already had a major move, ahead more than eight-fold from its 52-week low of $5.13 hit in April. The shares are higher by 365% year-over-year. The broker now sees IREN’s AI pivot as credible, despite early skepticism about the miner’s ability to execute on a capital-intensive data center build-out and compete with AI cloud players tied to hyperscalers and Nvidia (NVDA). IREN is guiding for rapid growth, the report noted, with $500 million in annual recurring revenue by Q1 2026 on 23,300 GPUs, up from roughly $14 million in Q1 2025. Beyond AI, IREN retains flexibility with its 3 gigawatt (GW) power portfolio, balancing bitcoin mining and AI workloads to maximize revenue per megawatt, Bernstein analysts led by Gautam Chhugani wrote. Its 50 EH/s mining operation generates an estimated $600 million in annualized EBITDA at current bitcoin prices, funding its AI expansion, according to the analysts. Bernstein has shifted its valuation approach to a sum-of-parts model, assigning 87% of enterprise value to AI cloud and co-location potential at IREN’s 2GW West Texas site, with the remaining 13% coming from bitcoin mining. At the revised target, IREN would trade at $7.5 million per megawatt (MW), above other AI-focused miners but still far below established data center peers like CoreWeave, suggesting further room for multiple expansion, the report added. Read more: IREN Shares Jump 11% in Pre-Market Trading as Bitcoin Miner Doubles AI Cloud Fleet More For You Total Crypto Trading Volume Hits Yearly High of $9.72T Combined spot and derivatives trading on centralized exchanges surged 7.58% to $9.72 trillion in August, marking the highest monthly volume of 2025 What to know: More For You Avalanche's AVAX Extends Weekly Losses to 18% as Institutional Backing Fails to Lift Market AVAX tumbled alongside the rest of the crypto market, extending a weeklong slide despite Anthony Scaramucci-backed AVAX One’s rebrand. What to know: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
+IREN (IREN), one of the largest self-operated BTC$109,810.41 miners in the U.S., is breaking away from the pack, and Wall Street is taking notice. Bernstein analysts raised their price target on IREN to $75 from $20, implying about 80% upside, as the miner doubles down on building its own AI cloud business rather than relying on co-location deals with partners like CoreWeave (CRWV). IREN has already had a major move, ahead more than eight-fold from its 52-week low of $5.13 hit in April. The shares are higher by 365% year-over-year. The broker now sees IREN’s AI pivot as credible, despite early skepticism about the miner’s ability to execute on a capital-intensive data center build-out and compete with AI cloud players tied to hyperscalers and Nvidia (NVDA). IREN is guiding for rapid growth, the report noted, with $500 million in annual recurring revenue by Q1 2026 on 23,300 GPUs, up from roughly $14 million in Q1 2025. Beyond AI, IREN retains flexibility with its 3 gigawatt (GW) power portfolio, balancing bitcoin mining and AI workloads to maximize revenue per megawatt, Bernstein analysts led by Gautam Chhugani wrote. Its 50 EH/s mining operation generates an estimated $600 million in annualized EBITDA at current bitcoin prices, funding its AI expansion, according to the analysts. Bernstein has shifted its valuation approach to a sum-of-parts model, assigning 87% of enterprise value to AI cloud and co-location potential at IREN’s 2GW West Texas site, with the remaining 13% coming from bitcoin mining. At the revised target, IREN would trade at $7.5 million per megawatt (MW), above other AI-focused miners but still far below established data center peers like CoreWeave, suggesting further room for multiple expansion, the report added. Read more: IREN Shares Jump 11% in Pre-Market Trading as Bitcoin Miner Doubles AI Cloud Fleet More For You Total Crypto Trading Volume Hits Yearly High of $9.72T Combined spot and derivatives trading on centralized exchanges surged 7.58% to $9.72 trillion in August, marking the highest monthly volume of 2025 What to know: More For You Bitcoin Edges Higher, ETH Rebounds Above $4k as Sentiment Slips Into 'Fear' Territory PCE inflation data matched analyst expectations, but leaves policymakers balancing sticky inflation with a softer labor market, Sygnum Bank's CIO noted. What to know: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
 --------------------------------------------------
 
 Title: Trump’s Bet on Intel Stock Is Up 50%. Should You Try to Get In on the INTC Action Too?
@@ -304,10 +310,4 @@ Title: Stocks Lower After Fed Chair Powell Comments
 URL: https://www.barchart.com/story/news/34983527/stocks-mixed-before-fed-chair-powell-comments
 Time Published: 2025-09-23T15:17:13Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.62%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.29%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Market Minute 9-23-25- Gold Surges; Tech Rallies on AI Tie Up
-URL: https://finance.yahoo.com/news/market-minute-9-23-25-142500377.html
-Time Published: 2025-09-23T14:25:00Z
-Description: Tech stocks rallied yesterday on more dealmaking, while gold surged to a fresh record overnight. This morning, crude oil is bouncing while Treasuries and the...
 --------------------------------------------------

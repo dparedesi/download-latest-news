@@ -1,5 +1,11 @@
 List of news related to Shopify stock price SHOP:
 
+Title: CrowdStrike's Scale And Profits Make It Rare Asset In Software: Analyst
+URL: https://finance.yahoo.com/news/crowdstrikes-scale-profits-rare-asset-172421167.html
+Time Published: 2025-09-25T17:24:21Z
+Description: CrowdStrike (NASDAQ: CRWD) is more competitively entrenched than ever in endpoint security while gaining traction in cloud protection and next-generation...
+--------------------------------------------------
+
 Title: Opendoor Stock Jumps as Trading Giant Jane Street Discloses Stake
 URL: https://www.investopedia.com/opendoor-stock-jumps-as-trading-giant-jane-street-discloses-stake-11816865
 Time Published: 2025-09-25T16:23:42Z
@@ -20,14 +26,14 @@ Time Published: 2025-09-23T18:09:51Z
 Description: BETR stock soars as Eric Jackson says it’s a “potential 350 bagger in 2 years.” But owning Better shares is not without caveats in 2025.
 --------------------------------------------------
 
-Title: Better Home & Finance stock doubles after investor behind Opendoor rally calls it the 'Shopify of mortgages'
-URL: https://finance.yahoo.com/news/better-home--finance-stock-doubles-after-investor-behind-opendoor-rally-calls-it-the-shopify-of-mortgages-164138450.html
+Title: Better Home & Finance stock soars again as investor behind Opendoor rally calls it 'Shopify of mortgages'
+URL: https://finance.yahoo.com/news/better-home--finance-stock-soars-again-as-investor-behind-opendoor-rally-calls-it-shopify-of-mortgages-164138817.html
 Time Published: 2025-09-22T16:41:38Z
 Description: The investor who sparked the Opendoor rally is out with his latest call on Better Home & Finance.
 --------------------------------------------------
 
-Title: Better Home & Finance stock soars again as investor behind Opendoor rally calls it 'Shopify of mortgages'
-URL: https://finance.yahoo.com/news/better-home--finance-stock-soars-again-as-investor-behind-opendoor-rally-calls-it-shopify-of-mortgages-164138817.html
+Title: Better Home & Finance stock doubles after investor behind Opendoor rally calls it the 'Shopify of mortgages'
+URL: https://finance.yahoo.com/news/better-home--finance-stock-doubles-after-investor-behind-opendoor-rally-calls-it-the-shopify-of-mortgages-164138450.html
 Time Published: 2025-09-22T16:41:38Z
 Description: The investor who sparked the Opendoor rally is out with his latest call on Better Home & Finance.
 --------------------------------------------------
