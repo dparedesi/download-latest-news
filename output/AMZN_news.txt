@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq slip for 2nd day in a row as Fed sends mixed signals, Alibaba keeps AI optimism in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-for-2nd-day-in-a-row-as-fed-sends-mixed-signals-alibaba-plans-ai-push-200103891.html
+Time Published: 2025-09-24T20:01:03Z
+Description: US stocks reversed gains after Wall Street ended a record-setting rally.
+--------------------------------------------------
+
+Title: This Analyst Thinks CoreWeave Stock Can Jump 50%. Should You Buy CRWV Now?
+URL: https://www.barchart.com/story/news/35010872/this-analyst-thinks-coreweave-stock-can-jump-50-should-you-buy-crwv-now
+Time Published: 2025-09-24T15:54:04Z
+Description: CoreWeave scales rapidly in AI compute, balancing growth potential with steep operating costs and losses.
+--------------------------------------------------
+
 Title: How Amazon And SAP Plan To Keep European Data Safe And Local
 URL: https://finance.yahoo.com/news/amazon-sap-plan-keep-european-141452821.html
 Time Published: 2025-09-24T14:14:52Z
@@ -83,16 +95,4 @@ Title: Morgan Stanley Maintains Overweight Rating on Amazon (AMZN) Amid Fresh Gr
 URL: https://finance.yahoo.com/news/morgan-stanley-maintains-overweight-rating-081118540.html
 Time Published: 2025-09-21T08:11:18Z
 Description: Amazon.com, Inc. (NASDAQ:AMZN) ranks among the best fundamental stocks to buy right now. Morgan Stanley reaffirmed its Overweight rating and $300 price...
---------------------------------------------------
-
-Title: TD Cowen Sees Upside in Alphabet (GOOGL) With Rising GenAI Adoption
-URL: https://finance.yahoo.com/news/td-cowen-sees-upside-alphabet-211302489.html
-Time Published: 2025-09-20T21:13:02Z
-Description: Alphabet Inc. (NASDAQ:GOOGL) is one of the AI Stocks Analysts Are Tracking Closely. On September 16, TD Cowen raised the price target on the stock to $270...
---------------------------------------------------
-
-Title: From Retail Darling to AI Powerhouse, This $2.4 trillion Growth Stock Is a Great Buy
-URL: https://www.barchart.com/story/news/34937991/from-retail-darling-to-ai-powerhouse-this-2-4-trillion-growth-stock-is-a-great-buy
-Time Published: 2025-09-20T16:00:02Z
-Description: Once a hot retail stock could soon be the best AI bet.
 --------------------------------------------------

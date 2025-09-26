@@ -1,5 +1,18 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Forget Nvidia—Tepper Just Banked $57 Million On This Under-The-Radar AI Play
+URL: https://finance.yahoo.com/news/forget-nvidia-tepper-just-banked-023119190.html
+Time Published: 2025-09-25T02:31:19Z
+Description: David Tepper, billionaire hedge fund manager at Appaloosa Management, is quietly reaping big rewards this summer. While Nvidia Corp (NASDAQ:NVDA) grabs...
+--------------------------------------------------
+
+Title: Taiwan Semiconductor Plans Ultra-Advanced Chips By 2028 With Massive Taichung Fab
+URL: https://www.benzinga.com/markets/tech/25/09/47849420/taiwan-semiconductor-plans-ultra-advanced-chips-by-2028-with-massive-taichung-fab
+Time Published: 2025-09-24T19:56:15Z
+Full Content:
+Taiwan Semiconductor Manufacturing Co. (NYSE:TSM) stock trended on Wednesday following reports that the contract chipmaker plans to break ground on a new 1.4-nanometer fabrication plant in Taichung next quarter. The facility is expected to reach an annual production value of up to 500 billion New Taiwanese dollars ($16.49 billion), the Taipei Times reported on Wednesday citing the Central Taiwan Science Park Bureau. Hsu Maw-shin, director-general of the bureau, dismissed speculation of delays, stating that Taiwan Semiconductor is proceeding “at full speed.” Also Read: Taiwan Semiconductor, MediaTek Discuss Plans To Develop Next-Gen Chips On US Soil The key Nvidia (NASDAQ:NVDA) supplier plans to start construction in the fourth quarter. The facility, dubbed Fab 25, will deploy 1.4nm technology more advanced than the 2nm process originally planned, boosting its projected production value beyond earlier estimates of 485.7 billion New Taiwanese dollars. The new fab has the potential to create about 4,500 jobs and begin producing chips in 2028. The chipmaker is simultaneously preparing to commercialize 2nm chips next quarter in Hsinchu and Kaohsiung, with 1.6nm production scheduled in Kaohsiung during the second half of 2026. Beyond Taichung, Taiwan Semiconductor also plans to build an advanced technology facility in Tainan’s Shalun District, while expanding advanced packaging capacity in Chiayi County’s Taibao City. Officials emphasized construction remains ahead of schedule. Taiwan Semiconductor stock has surged 41% year-to-date, outperforming the PHLX Semiconductor Index’s 26% gain. The company’s role as a key supplier to Nvidia and Apple (NASDAQ:AAPL) has reinforced its global footprint, spanning the U.S., Germany, and Japan. Price Action: TSM stock was trading lower by 1.22% to $279.26 at last check Wednesday. Read Next: Photo by Jack Hong via Shutterstock © 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. A newsletter built for market enthusiasts by market enthusiasts. Top stories, top movers, and trade ideas delivered to your inbox every weekday before and after the market closes.
+--------------------------------------------------
+
 Title: Bernstein Expects Taiwan Semiconductor Manufacturing Company Limited (TSM) to Surpass Its Q3 Revenue Forecast
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6564a201-c4b5-4db7-ac2b-a357684aae0d
 Time Published: 2025-09-22T22:39:31Z
@@ -29,11 +42,4 @@ Title: The Hottest Thing in the Stock Market Is Suddenly Boring Tech
 URL: https://finance.yahoo.com/news/hottest-thing-stock-market-suddenly-130007003.html
 Time Published: 2025-09-21T13:00:07Z
 Description: Seagate Technology Holdings Plc, which makes hard disk drives for computers, is the best performing stock in the S&P 500 Index this year after soaring 156...
---------------------------------------------------
-
-Title: The best ASX ETFs for this booming bull market
-URL: https://www.fool.com.au/2025/09/21/the-best-asx-etfs-for-this-booming-bull-market/
-Time Published: 2025-09-20T22:23:00Z
-Description: Wondering where to invest in this bull market? Here are three picks.
-The post The best ASX ETFs for this booming bull market appeared first on The Motley Fool Australia.
 --------------------------------------------------

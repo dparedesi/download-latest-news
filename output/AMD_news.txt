@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stocks See Support from Strength in Chip Makers and AI Optimism
+URL: https://www.barchart.com/story/news/35008681/stocks-see-support-from-strength-in-chip-makers-and-ai-optimism
+Time Published: 2025-09-24T14:09:47Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.06%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.26%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: AMD Expands Cohere Partnership To Power Enterprise AI On Instinct Chips
 URL: https://finance.yahoo.com/news/amd-expands-cohere-partnership-power-140315649.html
 Time Published: 2025-09-24T14:03:15Z
