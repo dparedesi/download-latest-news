@@ -18,16 +18,16 @@ Time Published: 2025-09-24T14:14:52Z
 Description: Amazon Web Services (AWS), the cloud unit of Amazon.com, Inc. (NASDAQ:AMZN), and German software maker SAP SE ADS (NYSE:SAP) said on Wednesday they will...
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, Dow, S&P 500 waver with divided Fed, Alibaba in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-waver-with-divided-fed-alibaba-in-focus-230354679.html
-Time Published: 2025-09-23T23:03:54Z
-Description: US stocks wavered after Wall Street ended a record-setting rally.
---------------------------------------------------
-
 Title: Stock market today: Nasdaq, Dow, S&P 500 fall with divided Fed, Alibaba in focus
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-fall-with-divided-fed-alibaba-in-focus-230354294.html
 Time Published: 2025-09-23T23:03:54Z
 Description: US stocks reversed gains after Wall Street ended a record-setting rally.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq, Dow, S&P 500 waver with divided Fed, Alibaba in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-waver-with-divided-fed-alibaba-in-focus-230354679.html
+Time Published: 2025-09-23T23:03:54Z
+Description: US stocks wavered after Wall Street ended a record-setting rally.
 --------------------------------------------------
 
 Title: US stock market retreats after record highs as Powell warns of “highly valued” markets — S&P 500 slips, Nasdaq hit by Nvidia selloff, Micron jumps on strong results
