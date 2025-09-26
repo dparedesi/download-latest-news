@@ -1,5 +1,12 @@
 List of news related to Shopify stock price SHOP:
 
+Title: Opendoor Stock Jumps as Trading Giant Jane Street Discloses Stake
+URL: https://www.investopedia.com/opendoor-stock-jumps-as-trading-giant-jane-street-discloses-stake-11816865
+Time Published: 2025-09-25T16:23:42Z
+Full Content:
+Trading giant Jane Street now owns 5.9% in Opendoor Technologies, the online real-estate platform that has become a favorite of retail traders. In a filing with the Securities and Exchange Commission on Wednesday, Jane Street said its stake in Opendoor (OPEN) amounted to around 44 million shares, translating to a value of roughly $362 million based on Wednesday’s closing price Jane Street is known for its sophisticated high-frequency trading systems. It's unclear if the investment is a bet on the company or marks a hedging position. Opendoor has become a meme stock, bought by retail investors on the back of social media hype, while Jane Street is a big institutional firm famed for its sophisticated trading systems. Jane Street's investment shows the home-buying firm is on the radar of large investors. Opendoor shares were up more than 8% in recent trading. They have been on a tear since July as retail investors piled in and have gained 450% so far this year. Its shares soared earlier this month after the company brought in former Shopify (SHOP) COO Kaz Nejatian as its new CEO, brought its founders onto the board, and got an infusion of cash. Like most of its meme stock peers including GameStop (GME), the video-game retailer that defined the craze in 2021, Opendoor is unprofitable and is also heavily shorted by hedge funds. Wall Street is broadly negative on Opendoor, with four of six analysts tracked by Visible Alpha issuing "sell" ratings and the other two with "hold" calls. The mean price target of analysts surveyed by VA is $1.02, versus its share price close yesterday of $8.23.
+--------------------------------------------------
+
 Title: Why Shopify Stock Could Drop 50% Despite Strong Growth?
 URL: https://www.forbes.com/sites/greatspeculations/2025/09/25/why-shopify-stock-could-drop-50-despite-strong-growth/
 Time Published: 2025-09-25T10:00:30Z
@@ -13,14 +20,14 @@ Time Published: 2025-09-23T18:09:51Z
 Description: BETR stock soars as Eric Jackson says it’s a “potential 350 bagger in 2 years.” But owning Better shares is not without caveats in 2025.
 --------------------------------------------------
 
-Title: Better Home & Finance stock soars again as investor behind Opendoor rally calls it 'Shopify of mortgages'
-URL: https://finance.yahoo.com/news/better-home--finance-stock-soars-again-as-investor-behind-opendoor-rally-calls-it-shopify-of-mortgages-164138817.html
+Title: Better Home & Finance stock doubles after investor behind Opendoor rally calls it the 'Shopify of mortgages'
+URL: https://finance.yahoo.com/news/better-home--finance-stock-doubles-after-investor-behind-opendoor-rally-calls-it-the-shopify-of-mortgages-164138450.html
 Time Published: 2025-09-22T16:41:38Z
 Description: The investor who sparked the Opendoor rally is out with his latest call on Better Home & Finance.
 --------------------------------------------------
 
-Title: Better Home & Finance stock doubles after investor behind Opendoor rally calls it the 'Shopify of mortgages'
-URL: https://finance.yahoo.com/news/better-home--finance-stock-doubles-after-investor-behind-opendoor-rally-calls-it-the-shopify-of-mortgages-164138450.html
+Title: Better Home & Finance stock soars again as investor behind Opendoor rally calls it 'Shopify of mortgages'
+URL: https://finance.yahoo.com/news/better-home--finance-stock-soars-again-as-investor-behind-opendoor-rally-calls-it-shopify-of-mortgages-164138817.html
 Time Published: 2025-09-22T16:41:38Z
 Description: The investor who sparked the Opendoor rally is out with his latest call on Better Home & Finance.
 --------------------------------------------------

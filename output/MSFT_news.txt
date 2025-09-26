@@ -1,14 +1,14 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Why Is Marvell Technology Stock Climbing Thursday?
+URL: https://finance.yahoo.com/news/why-marvell-technology-stock-climbing-164830571.html
+Time Published: 2025-09-25T16:48:30Z
+Description: Marvell Technology (NASDAQ: MRVL) shares rose Thursday, fueled by investor optimism around artificial intelligence infrastructure and the company’s recent...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq slip for 2nd day in a row as Fed sends mixed signals, Alibaba keeps AI optimism in focus
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-for-2nd-day-in-a-row-as-fed-sends-mixed-signals-alibaba-plans-ai-push-200103891.html
 Time Published: 2025-09-24T20:01:03Z
-Description: US stocks reversed gains after Wall Street ended a record-setting rally.
---------------------------------------------------
-
-Title: Stock market today: Nasdaq, Dow, S&P 500 fall with divided Fed, Alibaba in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-fall-with-divided-fed-alibaba-in-focus-230354294.html
-Time Published: 2025-09-23T23:03:54Z
 Description: US stocks reversed gains after Wall Street ended a record-setting rally.
 --------------------------------------------------
 
@@ -16,6 +16,12 @@ Title: Stock market today: Nasdaq, Dow, S&P 500 waver with divided Fed, Alibaba 
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-waver-with-divided-fed-alibaba-in-focus-230354679.html
 Time Published: 2025-09-23T23:03:54Z
 Description: US stocks wavered after Wall Street ended a record-setting rally.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq, Dow, S&P 500 fall with divided Fed, Alibaba in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-fall-with-divided-fed-alibaba-in-focus-230354294.html
+Time Published: 2025-09-23T23:03:54Z
+Description: US stocks reversed gains after Wall Street ended a record-setting rally.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq slide after Powell flags Fed's challenge, 'highly valued' stocks
@@ -127,14 +133,14 @@ Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures pull back from records as gold powers to fresh high
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-pull-back-from-records-as-gold-powers-to-fresh-high-234423457.html
+Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as Nvidia surges on OpenAI deal
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-nvidia-surges-on-openai-deal-234423447.html
 Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq turn higher as Nvidia surges on OpenAI deal
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-as-nvidia-surges-on-openai-deal-234423447.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures pull back from records as gold powers to fresh high
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-pull-back-from-records-as-gold-powers-to-fresh-high-234423457.html
 Time Published: 2025-09-21T23:44:23Z
 Description: A parade of Fed speakers and a key inflation print are in focus for clues to further rate cuts.
 --------------------------------------------------

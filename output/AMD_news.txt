@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: AMD Gains Traction in AI Infrastructure Market: A Sign of More Upside?
+URL: https://finance.yahoo.com/news/amd-gains-traction-ai-infrastructure-164000247.html
+Time Published: 2025-09-25T16:40:00Z
+Description: Advanced Micro Devices' growth is driven by AI footprint with record sales, new Instinct MI350 GPUs and major partnerships.
+--------------------------------------------------
+
 Title: Stocks See Support from Strength in Chip Makers and AI Optimism
 URL: https://www.barchart.com/story/news/35008681/stocks-see-support-from-strength-in-chip-makers-and-ai-optimism
 Time Published: 2025-09-24T14:09:47Z

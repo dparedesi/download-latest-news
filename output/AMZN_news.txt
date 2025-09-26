@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Banks Can Now Streamline Operations With Nasdaq Calypso On AWS
+URL: https://finance.yahoo.com/news/banks-now-streamline-operations-nasdaq-120410679.html
+Time Published: 2025-09-25T12:04:10Z
+Description: Nasdaq Inc. (NASDAQ: NDAQ) and Amazon Web Services, Inc., a subsidiary of Amazon.com Inc. (NASDAQ: AMZN), expanded their partnership on Thursday to make...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq slip for 2nd day in a row as Fed sends mixed signals, Alibaba keeps AI optimism in focus
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-for-2nd-day-in-a-row-as-fed-sends-mixed-signals-alibaba-plans-ai-push-200103891.html
 Time Published: 2025-09-24T20:01:03Z
