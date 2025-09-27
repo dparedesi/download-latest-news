@@ -1,5 +1,48 @@
 List of news related to NVIDIA NVDA:
 
+Title: This bold Oracle move could be the beginning of something big
+URL: https://www.thestreet.com/technology/this-bold-oracle-move-could-be-the-beginning-of-something-big-
+Time Published: 2025-09-26T01:03:00Z
+Description: Two insiders now lead Oracle’s next chapter. The move could be visionary — or risky.
+--------------------------------------------------
+
+Title: $20,000 invested in the Betashares Nasdaq 100 ETF (NDQ) 5 years ago is now worth
+URL: https://www.fool.com.au/2025/09/26/20000-invested-in-the-betashares-nasdaq-100-etf-ndq-5-years-ago-is-now-worth/
+Time Published: 2025-09-25T20:54:20Z
+Description: Let's see what would have happened if you had bought this popular fund five years ago.
+The post $20,000 invested in the Betashares Nasdaq 100 ETF (NDQ) 5 years ago is now worth appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: Stocks fall for the third day in a row. Is this the start of a deeper pullback?
+URL: https://www.marketwatch.com/story/stocks-are-falling-for-the-third-day-in-a-row-is-this-the-start-of-a-deeper-pullback-62e4059e
+Time Published: 2025-09-25T20:47:00Z
+Description: A week after the Federal Reserve resumed rate cuts after a nine-month pause, stocks reversed their uptrend with a three-day losing streak, leaving investors ...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq slide for 3rd day as Wall Street slump continues
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-for-3rd-day-as-wall-street-slump-continues-200014895.html
+Time Published: 2025-09-25T20:00:14Z
+Description: Fresh jobs data could reset interest-rate bets amid uncertainty about Federal Reserve unity on policy.
+--------------------------------------------------
+
+Title: Intel 'needs' Apple to invest like Nvidia & US government did
+URL: https://finance.yahoo.com/video/intel-needs-apple-invest-nvidia-193000697.html
+Time Published: 2025-09-25T19:30:00Z
+Description: Intel (INTC) is reportedly working to secure an investment from Apple (AAPL), just after securing investments from Nvidia (NVDA) and the US government. D.A. ...
+--------------------------------------------------
+
+Title: As Intel Pops on Potential Apple Stake, Options Data Tells Us INTC Stock Could Be Headed Here Next
+URL: https://www.barchart.com/story/news/35042216/as-intel-pops-on-potential-apple-stake-options-data-tells-us-intc-stock-could-be-headed-here-next
+Time Published: 2025-09-25T19:09:09Z
+Description: Intel stock rallies further on reports the chipmaker has approached Apple for a strategic investment. But it may not be the lifeline that INTC shares so...
+--------------------------------------------------
+
+Title: Nvidia Is on a Dealmaking Spree: Should You Buy NVDA Stock Amid Fears of an AI Bubble?
+URL: https://www.barchart.com/story/news/35040319/nvidia-is-on-a-dealmaking-spree-should-you-buy-nvda-stock-amid-fears-of-an-ai-bubble
+Time Published: 2025-09-25T17:25:06Z
+Description: Nvidia has announced a flurry of deals this month, even as concerns linger over AI being a bubble. NVDA’s forecast looks positive, though as global AI...
+--------------------------------------------------
+
 Title: Jim Cramer on NVIDIA: “The Ultimate Own it, Don’t Trade It”
 URL: https://finance.yahoo.com/news/jim-cramer-nvidia-ultimate-own-171237962.html
 Time Published: 2025-09-25T17:12:37Z
@@ -10,6 +53,12 @@ Title: AMD Gains Traction in AI Infrastructure Market: A Sign of More Upside?
 URL: https://finance.yahoo.com/news/amd-gains-traction-ai-infrastructure-164000247.html
 Time Published: 2025-09-25T16:40:00Z
 Description: Advanced Micro Devices' growth is driven by AI footprint with record sales, new Instinct MI350 GPUs and major partnerships.
+--------------------------------------------------
+
+Title: Up 300% in 2025, Should You Buy This Red-Hot AI Data Center Stock Here?
+URL: https://www.barchart.com/story/news/35038276/up-300-in-2025-should-you-buy-this-red-hot-ai-data-center-stock-here
+Time Published: 2025-09-25T16:10:18Z
+Description: IREN’s more than 300% surge in 2025 highlights its bold pivot from Bitcoin mining to AI infrastructure, but the key question is whether the rally still has...
 --------------------------------------------------
 
 Title: Charles Schwab CEO: Don't try to time the market
@@ -56,14 +105,14 @@ Time Published: 2025-09-25T01:22:32Z
 Description: Here are the stocks that made the biggest moves today.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures fall after back-to-back losses, jobless claims dip
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-after-back-to-back-losses-jobless-claims-dip-234737751.html
+Title: Stock market today: Dow, S&P 500, Nasdaq fall amid sharp GDP expansion, jobless claims dip
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fall-amid-sharp-gdp-expansion-jobless-claims-dip-234737367.html
 Time Published: 2025-09-24T23:47:37Z
 Description: Fresh jobs data could reset interest-rate bets amid uncertainty about Federal Reserve unity on policy.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq fall amid sharp GDP expansion, jobless claims dip
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fall-amid-sharp-gdp-expansion-jobless-claims-dip-234737367.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures fall after back-to-back losses, jobless claims dip
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-after-back-to-back-losses-jobless-claims-dip-234737751.html
 Time Published: 2025-09-24T23:47:37Z
 Description: Fresh jobs data could reset interest-rate bets amid uncertainty about Federal Reserve unity on policy.
 --------------------------------------------------
@@ -178,7 +227,7 @@ Title: Bitcoin Miner IREN Has 80% Potential Upside Thanks to Big Bet on AI Cloud
 URL: https://www.coindesk.com/markets/2025/09/24/bitcoin-miner-iren-has-80-potential-upside-thanks-to-big-bet-on-ai-cloud-bernstein
 Time Published: 2025-09-24T13:27:15Z
 Full Content:
-IREN (IREN), one of the largest self-operated BTC$109,810.41 miners in the U.S., is breaking away from the pack, and Wall Street is taking notice. Bernstein analysts raised their price target on IREN to $75 from $20, implying about 80% upside, as the miner doubles down on building its own AI cloud business rather than relying on co-location deals with partners like CoreWeave (CRWV). IREN has already had a major move, ahead more than eight-fold from its 52-week low of $5.13 hit in April. The shares are higher by 365% year-over-year. The broker now sees IREN’s AI pivot as credible, despite early skepticism about the miner’s ability to execute on a capital-intensive data center build-out and compete with AI cloud players tied to hyperscalers and Nvidia (NVDA). IREN is guiding for rapid growth, the report noted, with $500 million in annual recurring revenue by Q1 2026 on 23,300 GPUs, up from roughly $14 million in Q1 2025. Beyond AI, IREN retains flexibility with its 3 gigawatt (GW) power portfolio, balancing bitcoin mining and AI workloads to maximize revenue per megawatt, Bernstein analysts led by Gautam Chhugani wrote. Its 50 EH/s mining operation generates an estimated $600 million in annualized EBITDA at current bitcoin prices, funding its AI expansion, according to the analysts. Bernstein has shifted its valuation approach to a sum-of-parts model, assigning 87% of enterprise value to AI cloud and co-location potential at IREN’s 2GW West Texas site, with the remaining 13% coming from bitcoin mining. At the revised target, IREN would trade at $7.5 million per megawatt (MW), above other AI-focused miners but still far below established data center peers like CoreWeave, suggesting further room for multiple expansion, the report added. Read more: IREN Shares Jump 11% in Pre-Market Trading as Bitcoin Miner Doubles AI Cloud Fleet More For You Total Crypto Trading Volume Hits Yearly High of $9.72T Combined spot and derivatives trading on centralized exchanges surged 7.58% to $9.72 trillion in August, marking the highest monthly volume of 2025 What to know: More For You Bitcoin Edges Higher, ETH Rebounds Above $4k as Sentiment Slips Into 'Fear' Territory PCE inflation data matched analyst expectations, but leaves policymakers balancing sticky inflation with a softer labor market, Sygnum Bank's CIO noted. What to know: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
+IREN (IREN), one of the largest self-operated BTC$109,734.55 miners in the U.S., is breaking away from the pack, and Wall Street is taking notice. Bernstein analysts raised their price target on IREN to $75 from $20, implying about 80% upside, as the miner doubles down on building its own AI cloud business rather than relying on co-location deals with partners like CoreWeave (CRWV). IREN has already had a major move, ahead more than eight-fold from its 52-week low of $5.13 hit in April. The shares are higher by 365% year-over-year. The broker now sees IREN’s AI pivot as credible, despite early skepticism about the miner’s ability to execute on a capital-intensive data center build-out and compete with AI cloud players tied to hyperscalers and Nvidia (NVDA). IREN is guiding for rapid growth, the report noted, with $500 million in annual recurring revenue by Q1 2026 on 23,300 GPUs, up from roughly $14 million in Q1 2025. Beyond AI, IREN retains flexibility with its 3 gigawatt (GW) power portfolio, balancing bitcoin mining and AI workloads to maximize revenue per megawatt, Bernstein analysts led by Gautam Chhugani wrote. Its 50 EH/s mining operation generates an estimated $600 million in annualized EBITDA at current bitcoin prices, funding its AI expansion, according to the analysts. Bernstein has shifted its valuation approach to a sum-of-parts model, assigning 87% of enterprise value to AI cloud and co-location potential at IREN’s 2GW West Texas site, with the remaining 13% coming from bitcoin mining. At the revised target, IREN would trade at $7.5 million per megawatt (MW), above other AI-focused miners but still far below established data center peers like CoreWeave, suggesting further room for multiple expansion, the report added. Read more: IREN Shares Jump 11% in Pre-Market Trading as Bitcoin Miner Doubles AI Cloud Fleet Higit pang Para sa Iyo Total Crypto Trading Volume Hits Yearly High of $9.72T Combined spot and derivatives trading on centralized exchanges surged 7.58% to $9.72 trillion in August, marking the highest monthly volume of 2025 Ano ang dapat malaman: Higit pang Para sa Iyo Dubai Royal-Backed Fund MGX Buys 15% of TikTok U.S. Business in Major Stake Deal: Report MGX, which previously bought $2 billion of World Liberty Financial's USD1, and Oracle will control nearly half of TikTok’s U.S. arm as American firms secure majority ownership. Ano ang dapat malaman: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
 --------------------------------------------------
 
 Title: Trump’s Bet on Intel Stock Is Up 50%. Should You Try to Get In on the INTC Action Too?
@@ -232,16 +281,16 @@ Time Published: 2025-09-23T23:03:54Z
 Description: US stock futures ticked up after Wall Street ended a record-setting rally.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, Dow, S&P 500 waver with divided Fed, Alibaba in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-waver-with-divided-fed-alibaba-in-focus-230354679.html
-Time Published: 2025-09-23T23:03:54Z
-Description: US stocks wavered after Wall Street ended a record-setting rally.
---------------------------------------------------
-
 Title: Stock market today: Nasdaq, Dow, S&P 500 fall with divided Fed, Alibaba in focus
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-fall-with-divided-fed-alibaba-in-focus-230354294.html
 Time Published: 2025-09-23T23:03:54Z
 Description: US stocks reversed gains after Wall Street ended a record-setting rally.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq, Dow, S&P 500 waver with divided Fed, Alibaba in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-waver-with-divided-fed-alibaba-in-focus-230354679.html
+Time Published: 2025-09-23T23:03:54Z
+Description: US stocks wavered after Wall Street ended a record-setting rally.
 --------------------------------------------------
 
 Title: Stock market today: Nasdaq, Dow, S&P 500 rise as Alibaba spreads AI cheer
@@ -262,52 +311,4 @@ URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-
 Time Published: 2025-09-23T20:56:34Z
 Full Content:
 US stock market retreated today after hitting record highs recently, with the S&P 500 slipping 0.53% to around 6,658 and the Nasdaq falling nearly 1% amid a selloff in Nvidia shares. The Dow Jones Industrial Average also dipped 0.19%, closing near 46,293. Nvidia's shares dropped about 2.8% a day after announcing a $100 billion investment in OpenAI, which had initially boosted its stock and lifted the market. Micron Technology bucked the trend by jumping on strong fiscal fourth-quarter results that exceeded Wall Street expectations, driven by robust AI-related demand. Wall Street stepped back from record territory on Tuesday, as Federal Reserve Chair Jerome Powell warned that stocks are “fairly highly valued” and signaled caution on further rate cuts. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Canada bars Irish rap band Kneecap from entry over alleged terrorism support Bank of Canada cuts interest rate to 2.5% as GDP shrinks, job market softens Beverly Thomson, veteran CTV journalist and Canada AM co-host, dies at 61 Seth Rogen wins Emmy Award for best lead actor in comedy series 'The Studio' Zach Bryan confronts Gavin Adcock at Oklahoma music festival after country singer criticism Weekend streaming guide Canada: top 10 Netflix, Crave, Disney+ and Apple TV+ shows September 2025 Canada pension and retirement benefits 2025: up to $2,461 in federal and provincial payments through December Molly McCann wins professional boxing debut despite opponent's illegal kick How Americans and a fake Fox News account accused Toronto retiree Michael Mallinson of assassinating Charlie Kirk Canadian bread price fixing settlement opens: $500m available for claims Canadian soldier found dead in Latvia during NATO operation reassurance deployment Mexico vs Japan international soccer: live stream, TV schedule and match preview Trump denies knowledge of reported SEAL Team 6 mission in North Korea that killed civilians Trump roasts Europe, calls India & China Russia war funders Trump slams $372M UN aid fueling illegal migration into US 'Unbelievably dangerous…': Trump declares war on bio-weapons Trump vs Lula at UN: Brazil faces tariffs as Trump cites rights clash GST Reforms trigger auto frenzy: Maruti, Hyundai, Tata see record sales Unilateralism in trade will hurt the world: Lula at UNGA Reports expose Kristi Noem’s fiery outburst at DHS officials Assam bids emotional goodbye to legend music maestro Zubeen Garg 71st National Film Awards: SRK, Rani, 12th Fail sweep top honours Trump stumbles over ‘acetaminophen’ at White House autism briefing Trump roasts Europe, calls India & China Russia war funders Trump slams $372M UN aid fueling illegal migration into US 'Unbelievably dangerous…': Trump declares war on bio-weapons Trump vs Lula at UN: Brazil faces tariffs as Trump cites rights clash GST Reforms trigger auto frenzy: Maruti, Hyundai, Tata see record sales Unilateralism in trade will hurt the world: Lula at UNGA Reports expose Kristi Noem’s fiery outburst at DHS officials Assam bids emotional goodbye to legend music maestro Zubeen Garg 71st National Film Awards: SRK, Rani, 12th Fail sweep top honours Trump stumbles over ‘acetaminophen’ at White House autism briefing Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Prime Articles Top Market Pages Top Story Listing Top Slideshow Private Companies Top Commodities Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq slide after Powell flags Fed's challenge, 'highly valued' stocks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-after-powell-flags-feds-challenge-highly-valued-stocks-174834474.html
-Time Published: 2025-09-23T20:01:43Z
-Description: Wall Street heard from Chair Jerome Powell for the first time since the Federal Reserve started cutting interest rates again.
---------------------------------------------------
-
-Title: Micron set to report Q4 earnings in latest test of AI trade
-URL: https://finance.yahoo.com/news/micron-set-to-report-q4-earnings-in-latest-test-of-ai-trade-192351303.html
-Time Published: 2025-09-23T19:23:51Z
-Description: Micron is scheduled to report earnings after the bell Tuesday. Here's what to expect.
---------------------------------------------------
-
-Title: How to Build the Ultimate Trading Dashboard with Grid Charts
-URL: https://www.barchart.com/story/news/34987669/how-to-build-the-ultimate-trading-dashboard-with-grid-charts
-Time Published: 2025-09-23T18:26:44Z
-Description: Track and compare stocks and ETFs across multiple time frames, stack indicators, and more with Grid Charts.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq slide as Powell warns of 'challenging situation'
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-powell-warns-of-challenging-situation-174834970.html
-Time Published: 2025-09-23T17:48:34Z
-Description: Wall Street will hear from Chair Jerome Powell for the first time since the Federal Reserve started cutting interest rates again.
---------------------------------------------------
-
-Title: The ‘Irrational Exuberance’ in AI Stocks Isn’t Going Anywhere. Buy These 3 Top-Rated Names Here.
-URL: https://www.barchart.com/story/news/34985172/the-irrational-exuberance-in-ai-stocks-isnt-going-anywhere-buy-these-3-top-rated-names-here
-Time Published: 2025-09-23T16:33:25Z
-Description: This analyst believes the AI rally is far from over, but we may still be looking at a dot com-esque boom in the coming years.
---------------------------------------------------
-
-Title: AI-driven market rally shows signs of overheating, economist warns
-URL: https://finance.yahoo.com/news/ai-driven-market-rally-shows-signs-of-overheating-economist-warns-154621428.html
-Time Published: 2025-09-23T15:46:21Z
-Description: RSM chief economist Joe Brusuelas says investors may see a "healthy correction" as tech-heavy valuations climb.
---------------------------------------------------
-
-Title: Nvidia Is Partnering Up With OpenAI. Should You Buy, Sell, or Hold NVDA Stock Here?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ab57b226-a332-45c4-9e38-a46c3cb84973
-Time Published: 2025-09-23T15:20:06Z
-Description: None
---------------------------------------------------
-
-Title: Stocks Lower After Fed Chair Powell Comments
-URL: https://www.barchart.com/story/news/34983527/stocks-mixed-before-fed-chair-powell-comments
-Time Published: 2025-09-23T15:17:13Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.62%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.29%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------

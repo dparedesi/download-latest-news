@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: This bold Oracle move could be the beginning of something big
+URL: https://www.thestreet.com/technology/this-bold-oracle-move-could-be-the-beginning-of-something-big-
+Time Published: 2025-09-26T01:03:00Z
+Description: Two insiders now lead Oracle’s next chapter. The move could be visionary — or risky.
+--------------------------------------------------
+
 Title: Banks Can Now Streamline Operations With Nasdaq Calypso On AWS
 URL: https://finance.yahoo.com/news/banks-now-streamline-operations-nasdaq-120410679.html
 Time Published: 2025-09-25T12:04:10Z
@@ -95,10 +101,4 @@ Title: Dear Amazon Stock Fans, Mark Your Calendars for October 7
 URL: https://www.barchart.com/story/news/34958372/dear-amazon-stock-fans-mark-your-calendars-for-october-7
 Time Published: 2025-09-22T16:08:35Z
 Description: Amazon has just announced its Prime Day sale dates; it is set to kick off early next month.
---------------------------------------------------
-
-Title: Morgan Stanley Maintains Overweight Rating on Amazon (AMZN) Amid Fresh Grocery Expansion
-URL: https://finance.yahoo.com/news/morgan-stanley-maintains-overweight-rating-081118540.html
-Time Published: 2025-09-21T08:11:18Z
-Description: Amazon.com, Inc. (NASDAQ:AMZN) ranks among the best fundamental stocks to buy right now. Morgan Stanley reaffirmed its Overweight rating and $300 price...
 --------------------------------------------------

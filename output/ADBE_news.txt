@@ -1,5 +1,11 @@
 List of news related to Adobe stock price ADBE:
 
+Title: Stocks Slip Before the Open With Focus on U.S. Economic Data and Fed Speak
+URL: https://www.barchart.com/story/news/35027476/stocks-muted-before-the-open-with-focus-on-u-s-economic-data-and-fed-speak
+Time Published: 2025-09-25T10:00:39Z
+Description: December S&P 500 E-Mini futures (ESZ25) are down -0.06%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.12% this morning as investors await a...
+--------------------------------------------------
+
 Title: Stocks Retreat on Higher Bond Yields
 URL: https://www.barchart.com/story/news/35017245/stocks-retreat-on-higher-bond-yields
 Time Published: 2025-09-24T20:45:01Z

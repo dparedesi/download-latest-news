@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: As Intel Pops on Potential Apple Stake, Options Data Tells Us INTC Stock Could Be Headed Here Next
+URL: https://www.barchart.com/story/news/35042216/as-intel-pops-on-potential-apple-stake-options-data-tells-us-intc-stock-could-be-headed-here-next
+Time Published: 2025-09-25T19:09:09Z
+Description: Intel stock rallies further on reports the chipmaker has approached Apple for a strategic investment. But it may not be the lifeline that INTC shares so...
+--------------------------------------------------
+
 Title: Why these ASX ETFs could power long-term wealth
 URL: https://www.fool.com.au/2025/09/25/why-these-asx-etfs-could-power-long-term-wealth/
 Time Published: 2025-09-25T07:28:14Z
@@ -43,10 +49,4 @@ Title: Demand Uptick Lifted Taiwan Semiconductor Manufacturing Company Limited (
 URL: https://finance.yahoo.com/news/demand-uptick-lifted-taiwan-semiconductor-131414497.html
 Time Published: 2025-09-22T13:14:14Z
 Description: Brown Advisory, an investment management company, released its “Brown Advisory Global Leaders Strategy” second-quarter 2025 investor letter. A copy of the...
---------------------------------------------------
-
-Title: The Hottest Thing in the Stock Market Is Suddenly Boring Tech
-URL: https://finance.yahoo.com/news/hottest-thing-stock-market-suddenly-130007003.html
-Time Published: 2025-09-21T13:00:07Z
-Description: Seagate Technology Holdings Plc, which makes hard disk drives for computers, is the best performing stock in the S&P 500 Index this year after soaring 156...
 --------------------------------------------------

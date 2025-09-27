@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Stocks Decline as Bond Yields Push Higher
+URL: https://www.barchart.com/story/news/35044145/stocks-decline-as-bond-yields-push-higher
+Time Published: 2025-09-25T20:45:03Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -0.50%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.38%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: AVGO: Broadcom $110 Billion Backlog Can't Hide Margin Pressures
+URL: https://finance.yahoo.com/news/avgo-broadcom-110-billion-backlog-193822413.html
+Time Published: 2025-09-25T19:38:22Z
+Description: AVGO's $110B Backlog And VMware Shift Support Growth, But Margins Remain Under Pressure
+--------------------------------------------------
+
 Title: Nvidia Stock Weakens As AI Chip Stocks Struggle
 URL: https://www.investors.com/news/technology/nvidia-stock-weakens-ai-chip-stocks-struggle/
 Time Published: 2025-09-25T14:38:35Z
@@ -35,10 +47,4 @@ Title: Nvidia, Oracle, Broadcom Lead the Week's Biggest Insider Selling
 URL: https://finance.yahoo.com/news/nvidia-oracle-broadcom-lead-weeks-122152078.html
 Time Published: 2025-09-22T12:21:52Z
 Description: Tech Titans Show Insider Sales Surge: Nvidia, Oracle, Broadcom in Focus
---------------------------------------------------
-
-Title: The Hottest Thing in the Stock Market Is Suddenly Boring Tech
-URL: https://finance.yahoo.com/news/hottest-thing-stock-market-suddenly-130007003.html
-Time Published: 2025-09-21T13:00:07Z
-Description: Seagate Technology Holdings Plc, which makes hard disk drives for computers, is the best performing stock in the S&P 500 Index this year after soaring 156...
 --------------------------------------------------
