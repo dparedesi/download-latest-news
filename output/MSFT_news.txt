@@ -1,5 +1,23 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Tesla Target Raised by Deutsche Bank on AI Growth Potential
+URL: https://finance.yahoo.com/news/tesla-target-raised-deutsche-bank-163209425.html
+Time Published: 2025-09-26T16:32:09Z
+Description: Analyst sees artificial intelligence initiatives as long-term driver
+--------------------------------------------------
+
+Title: Why memory is key element to the AI revolution
+URL: https://www.thestreet.com/technology/why-memory-is-key-element-to-the-ai-revolution
+Time Published: 2025-09-26T15:07:00Z
+Description: Micron, the only-U.S. based memory manufacturer, is one of the biggest companies in the AI memory sector.
+--------------------------------------------------
+
+Title: Palantir Stock: Is PLTR Outperforming the Technology Sector?
+URL: https://www.barchart.com/story/news/35059413/palantir-stock-is-pltr-outperforming-the-technology-sector
+Time Published: 2025-09-26T12:41:06Z
+Description: Despite Palantir’s blistering run that’s left the broader tech sector in the dust, analysts are still hesitant to buy into the hype.
+--------------------------------------------------
+
 Title: Up 85% YTD, More Returns In Store For Micron Stock?
 URL: https://www.forbes.com/sites/greatspeculations/2025/09/26/up-85-ytd-more-returns-in-store-for-micron-stock/
 Time Published: 2025-09-26T09:30:24Z
@@ -37,16 +55,16 @@ Time Published: 2025-09-24T20:01:03Z
 Description: US stocks reversed gains after Wall Street ended a record-setting rally.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, Dow, S&P 500 fall with divided Fed, Alibaba in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-fall-with-divided-fed-alibaba-in-focus-230354294.html
-Time Published: 2025-09-23T23:03:54Z
-Description: US stocks reversed gains after Wall Street ended a record-setting rally.
---------------------------------------------------
-
 Title: Stock market today: Nasdaq, Dow, S&P 500 waver with divided Fed, Alibaba in focus
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-waver-with-divided-fed-alibaba-in-focus-230354679.html
 Time Published: 2025-09-23T23:03:54Z
 Description: US stocks wavered after Wall Street ended a record-setting rally.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq, Dow, S&P 500 fall with divided Fed, Alibaba in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-fall-with-divided-fed-alibaba-in-focus-230354294.html
+Time Published: 2025-09-23T23:03:54Z
+Description: US stocks reversed gains after Wall Street ended a record-setting rally.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq slide after Powell flags Fed's challenge, 'highly valued' stocks
