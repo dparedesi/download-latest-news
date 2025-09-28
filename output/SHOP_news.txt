@@ -1,5 +1,11 @@
 List of news related to Shopify stock price SHOP:
 
+Title: This TSX-listed stock has analysts raising their targets in a 'game changer' development
+URL: https://financialpost.com/investing/barrick-mining-analysts-raising-targets-gam-changer
+Time Published: 2025-09-26T21:23:12Z
+Description: The week in stocks: a haven asset with room to run, TSX hits a new record and cheers and fears greet a tech juggernaut's bold move. Read on.
+--------------------------------------------------
+
 Title: The Tim Ferriss Show Transcripts: David Senra — How Extreme Winners Think and Win: Lessons from 400+ of History’s Greatest Founders and Investors (Including Buffett, Munger, Rockefeller, Jobs, Ovitz, Zell, and Names You Don’t Know But Should) (#828)
 URL: https://tim.blog/2025/09/26/david-senra-transcript/
 Time Published: 2025-09-26T17:23:04Z
@@ -31,16 +37,4 @@ Title: This Stock Could Be the ‘Shopify of Mortgages.’ Should You Buy It Her
 URL: https://www.barchart.com/story/news/34987351/this-stock-could-be-the-shopify-of-mortgages-should-you-buy-it-here
 Time Published: 2025-09-23T18:09:51Z
 Description: BETR stock soars as Eric Jackson says it’s a “potential 350 bagger in 2 years.” But owning Better shares is not without caveats in 2025.
---------------------------------------------------
-
-Title: Better Home & Finance stock soars again as investor behind Opendoor rally calls it 'Shopify of mortgages'
-URL: https://finance.yahoo.com/news/better-home--finance-stock-soars-again-as-investor-behind-opendoor-rally-calls-it-shopify-of-mortgages-164138817.html
-Time Published: 2025-09-22T16:41:38Z
-Description: The investor who sparked the Opendoor rally is out with his latest call on Better Home & Finance.
---------------------------------------------------
-
-Title: Better Home & Finance stock doubles after investor behind Opendoor rally calls it the 'Shopify of mortgages'
-URL: https://finance.yahoo.com/news/better-home--finance-stock-doubles-after-investor-behind-opendoor-rally-calls-it-the-shopify-of-mortgages-164138450.html
-Time Published: 2025-09-22T16:41:38Z
-Description: The investor who sparked the Opendoor rally is out with his latest call on Better Home & Finance.
 --------------------------------------------------

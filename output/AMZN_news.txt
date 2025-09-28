@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Costco Beats Wall Street Estimate-- Here is Why Stock Falls?
+URL: https://finance.yahoo.com/news/costco-beats-wall-street-estimate-203216058.html
+Time Published: 2025-09-26T20:32:16Z
+Description: Costco Stock Pulls Back Over Valuation Worries Despite Earnings Beat
+--------------------------------------------------
+
+Title: Wall Street Can’t Get Enough of Nvidia Stock. Is It a Buy Below $180?
+URL: https://www.barchart.com/story/news/35065072/wall-street-cant-get-enough-of-nvidia-stock-is-it-a-buy-below-180
+Time Published: 2025-09-26T16:24:42Z
+Description: Nvidia is a big tech stock that remains at the epicenter of the artificial intelligence megatrend. Is NVDA stock still a good buy right now?
+--------------------------------------------------
+
 Title: Why memory is key element to the AI revolution
 URL: https://www.thestreet.com/technology/why-memory-is-key-element-to-the-ai-revolution
 Time Published: 2025-09-26T15:07:00Z
@@ -108,16 +120,4 @@ Title: Is Oracle Stock a Buy, Sell, or Hold as the Company Names 2 New CEOs?
 URL: https://www.barchart.com/story/news/34984465/is-oracle-stock-a-buy-sell-or-hold-as-the-company-names-2-new-ceos
 Time Published: 2025-09-23T16:01:41Z
 Description: Oracle is going the Netflix route with Clay Magouyrk and Mike Sicilia appointed as co-CEOs.
---------------------------------------------------
-
-Title: Amazon (AMZN) Outlook Brightens With Strong Demand, No Tariff Impact Yet
-URL: https://finance.yahoo.com/news/amazon-amzn-outlook-brightens-strong-212947213.html
-Time Published: 2025-09-22T21:29:47Z
-Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the AI Stocks Making Big Moves on Wall Street. On September 16, Truist Securities analyst Youssef Squali raised the ...
---------------------------------------------------
-
-Title: Dear Amazon Stock Fans, Mark Your Calendars for October 7
-URL: https://www.barchart.com/story/news/34958372/dear-amazon-stock-fans-mark-your-calendars-for-october-7
-Time Published: 2025-09-22T16:08:35Z
-Description: Amazon has just announced its Prime Day sale dates; it is set to kick off early next month.
 --------------------------------------------------

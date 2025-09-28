@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Investors Heavily Search Advanced Micro Devices, Inc. (AMD): Here is What You Need to Know
+URL: https://finance.yahoo.com/news/investors-heavily-search-advanced-micro-130003181.html
+Time Published: 2025-09-26T13:00:03Z
+Description: Advanced Micro (AMD) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the...
+--------------------------------------------------
+
 Title: AMD Gains Traction in AI Infrastructure Market: A Sign of More Upside?
 URL: https://finance.yahoo.com/news/amd-gains-traction-ai-infrastructure-164000247.html
 Time Published: 2025-09-25T16:40:00Z
@@ -41,22 +47,4 @@ Title: AMD Target Raised to $200 on AI Gains, CPU Momentum
 URL: https://finance.yahoo.com/news/amd-target-raised-200-ai-121944722.html
 Time Published: 2025-09-23T12:19:44Z
 Description: Bank of America sees growth offsetting console and embedded weakness
---------------------------------------------------
-
-Title: This Analyst Said AMD Will Give Nvidia ‘Run For Its Money’ – Was He Right?
-URL: https://finance.yahoo.com/news/analyst-said-amd-nvidia-run-204716011.html
-Time Published: 2025-09-22T20:47:16Z
-Description: We recently published Top 10 Stocks to Watch After Federal Reserve’s Rate Cut. Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the stocks analysts were...
---------------------------------------------------
-
-Title: This Under-the-Radar Data Center Stock Is Soaring Thanks to the AI Boom
-URL: https://www.barchart.com/story/news/34960304/this-under-the-radar-data-center-stock-is-soaring-thanks-to-the-ai-boom
-Time Published: 2025-09-22T17:43:43Z
-Description: With demand accelerating, Arista’s AI future looks dynamic.
---------------------------------------------------
-
-Title: Stocks Supported as Chip Makers and AI-Infrastructure Companies Rally
-URL: https://www.barchart.com/story/news/34957363/stocks-supported-as-chip-makers-and-ai-infrastructure-companies-rally
-Time Published: 2025-09-22T15:15:55Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.18%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.01%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
