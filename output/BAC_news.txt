@@ -5,15 +5,3 @@ URL: https://finance.yahoo.com/news/bank-america-bac-stock-rated-124557180.html
 Time Published: 2025-09-24T12:45:57Z
 Description: Bank of America Corporation (NYSE:BAC) ranks among the hot stocks to invest in right now. On September 9, TD Cowen confirmed its Buy rating on Bank of...
 --------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq slide after Powell flags Fed's challenge, 'highly valued' stocks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-after-powell-flags-feds-challenge-highly-valued-stocks-174834474.html
-Time Published: 2025-09-23T20:01:43Z
-Description: Wall Street heard from Chair Jerome Powell for the first time since the Federal Reserve started cutting interest rates again.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq slide as Powell warns of 'challenging situation'
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-powell-warns-of-challenging-situation-174834970.html
-Time Published: 2025-09-23T17:48:34Z
-Description: Wall Street will hear from Chair Jerome Powell for the first time since the Federal Reserve started cutting interest rates again.
---------------------------------------------------
