@@ -48,21 +48,3 @@ URL: https://finance.yahoo.com/news/banks-now-streamline-operations-nasdaq-12041
 Time Published: 2025-09-25T12:04:10Z
 Description: Nasdaq Inc. (NASDAQ: NDAQ) and Amazon Web Services, Inc., a subsidiary of Amazon.com Inc. (NASDAQ: AMZN), expanded their partnership on Thursday to make...
 --------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq slip for 2nd day in a row as Fed sends mixed signals, Alibaba keeps AI optimism in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-for-2nd-day-in-a-row-as-fed-sends-mixed-signals-alibaba-plans-ai-push-200103891.html
-Time Published: 2025-09-24T20:01:03Z
-Description: US stocks reversed gains after Wall Street ended a record-setting rally.
---------------------------------------------------
-
-Title: This Analyst Thinks CoreWeave Stock Can Jump 50%. Should You Buy CRWV Now?
-URL: https://www.barchart.com/story/news/35010872/this-analyst-thinks-coreweave-stock-can-jump-50-should-you-buy-crwv-now
-Time Published: 2025-09-24T15:54:04Z
-Description: CoreWeave scales rapidly in AI compute, balancing growth potential with steep operating costs and losses.
---------------------------------------------------
-
-Title: How Amazon And SAP Plan To Keep European Data Safe And Local
-URL: https://finance.yahoo.com/news/amazon-sap-plan-keep-european-141452821.html
-Time Published: 2025-09-24T14:14:52Z
-Description: Amazon Web Services (AWS), the cloud unit of Amazon.com, Inc. (NASDAQ:AMZN), and German software maker SAP SE ADS (NYSE:SAP) said on Wednesday they will...
---------------------------------------------------
