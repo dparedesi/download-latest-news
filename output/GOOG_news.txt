@@ -1,5 +1,11 @@
 List of news related to Alphabet Inc stock price GOOG:
 
+Title: Is Alphabet’s (GOOG) Position in Search Affected by Artificial Intelligence?
+URL: https://finance.yahoo.com/news/alphabet-goog-position-search-affected-130019174.html
+Time Published: 2025-09-29T13:00:19Z
+Description: Lakehouse Capital, a Sydney-based investment manager, released its “Lakehouse Global Growth Fund” annual investor letter. A copy of the letter can be...
+--------------------------------------------------
+
 Title: Google Just Made Cipher Mining An AI-Crypto Hybrid Bet
 URL: https://www.benzinga.com/crypto/cryptocurrency/25/09/47874802/google-just-made-cipher-mining-an-ai-crypto-hybrid-bet
 Time Published: 2025-09-25T20:18:38Z
