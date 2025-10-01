@@ -1,5 +1,17 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Wall Street Says AMD Stock Could Gain 40% in a Year
+URL: https://www.barchart.com/story/news/35104377/wall-street-says-amd-stock-could-gain-40-in-a-year
+Time Published: 2025-09-29T15:24:18Z
+Description: Analysts see significant upside in AMD stock as the company executes on its AI roadmap and capitalizes on broader demand in its core businesses.
+--------------------------------------------------
+
+Title: Stocks Climb on Lower Bond Yields and Strength in Chip Makers
+URL: https://www.barchart.com/story/news/35104226/stocks-climb-on-lower-bond-yields-and-strength-in-chip-makers
+Time Published: 2025-09-29T15:15:25Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.42%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
 Title: Vulnerability Summary for the Week of September 22, 2025
 URL: https://www.cisa.gov/news-events/bulletins/sb25-272
 Time Published: 2025-09-29T13:22:08Z
@@ -23,22 +35,4 @@ Title: Investors Heavily Search Advanced Micro Devices, Inc. (AMD): Here is What
 URL: https://finance.yahoo.com/news/investors-heavily-search-advanced-micro-130003181.html
 Time Published: 2025-09-26T13:00:03Z
 Description: Advanced Micro (AMD) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the...
---------------------------------------------------
-
-Title: AMD Gains Traction in AI Infrastructure Market: A Sign of More Upside?
-URL: https://finance.yahoo.com/news/amd-gains-traction-ai-infrastructure-164000247.html
-Time Published: 2025-09-25T16:40:00Z
-Description: Advanced Micro Devices' growth is driven by AI footprint with record sales, new Instinct MI350 GPUs and major partnerships.
---------------------------------------------------
-
-Title: Stocks Under Pressure as Strong US Economic Reports Boost Bond Yields
-URL: https://www.barchart.com/story/news/35037421/stocks-under-pressure-as-strong-us-economic-reports-boost-bond-yields
-Time Published: 2025-09-25T15:19:34Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.40%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.15%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stocks Fall as Bond Yields Rise on Economic Strength
-URL: https://www.barchart.com/story/news/35035920/stocks-fall-as-bond-yields-rise-on-economic-strength
-Time Published: 2025-09-25T14:13:14Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.83%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.42%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------

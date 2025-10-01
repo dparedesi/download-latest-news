@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: This Quantum Computing Stock Just Set Another Scientific Record. Should You Buy It Here?
+URL: https://www.barchart.com/story/news/35108859/this-quantum-computing-stock-just-set-another-scientific-record-should-you-buy-it-here
+Time Published: 2025-09-29T19:54:34Z
+Description: IonQ stock is back in the spotlight after its Tempo system achieved a record-breaking #AQ 64 benchmark three months ahead of schedule.
+--------------------------------------------------
+
+Title: Move Over, Nvidia! These Analysts Are Betting on Another Tech Stock for the World’s No. 1 Spot.
+URL: https://www.barchart.com/story/news/35108473/move-over-nvidia-these-analysts-are-betting-on-another-tech-stock-for-the-worlds-no-1-spot
+Time Published: 2025-09-29T19:27:53Z
+Description: Analysts are bullish on GOOGL stock as Alphabet continues to expand its AI capabilities while growing revenue and earnings at a steady pace.
+--------------------------------------------------
+
 Title: Broadcom and Nvidia Executives Cash Out Shares After Big Rally
 URL: https://finance.yahoo.com/news/broadcom-nvidia-executives-cash-shares-163612199.html
 Time Published: 2025-09-29T16:36:12Z
@@ -13,6 +25,12 @@ Full Content:
 U.S. stock markets started the week mostly higher. The S&P 500 rose about 0.4%, closing near 6,672 points. The Nasdaq Composite led with a 0.8% gain, fueled largely by strong performances in artificial intelligence (AI) and tech companies like Nvidia and Oracle. The Dow Jones Industrial Average edged down slightly by 0.07%, reflecting mixed sector-by-sector sentiment. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Could your next pack of cigarettes be funding criminal networks? Inside Western Canada’s billion-dollar contraband trade Canada bars Irish rap band Kneecap from entry over alleged terrorism support Bank of Canada cuts interest rate to 2.5% as GDP shrinks, job market softens Beverly Thomson, veteran CTV journalist and Canada AM co-host, dies at 61 Seth Rogen wins Emmy Award for best lead actor in comedy series 'The Studio' Zach Bryan confronts Gavin Adcock at Oklahoma music festival after country singer criticism Weekend streaming guide Canada: top 10 Netflix, Crave, Disney+ and Apple TV+ shows September 2025 Canada pension and retirement benefits 2025: up to $2,461 in federal and provincial payments through December Molly McCann wins professional boxing debut despite opponent's illegal kick How Americans and a fake Fox News account accused Toronto retiree Michael Mallinson of assassinating Charlie Kirk Canadian bread price fixing settlement opens: $500m available for claims Canadian soldier found dead in Latvia during NATO operation reassurance deployment Mexico vs Japan international soccer: live stream, TV schedule and match preview Bihar receives 12,500 special trains; 3 new Amrit Bharat Express ‘We won’t celebrate or play until…’: Priyanka Chaturvedi slams Asia Cup match LIVE | Tyler Robinson faces first in-person hearing FBI deploys 100+ agents after Michigan church shooting PM Modi to inaugurate Delhi BJP’s five storey new office building No handshake, no trophy: India reject Asia Cup from Pakistan ACC chairman India wins Asia Cup: 'Pehle humne Sindoor lagaya tha aur ab Tilak' Michigan church shooting: Gunman kills at least 4, wounds 8 'Wray lied to Congress': Kash Patel clarifies role of FBI agents on Jan 6 Florida Immigration Crackdown: 350 illegal migrants nabbed in just 4 days Bihar receives 12,500 special trains; 3 new Amrit Bharat Express ‘We won’t celebrate or play until…’: Priyanka Chaturvedi slams Asia Cup match LIVE | Tyler Robinson faces first in-person hearing FBI deploys 100+ agents after Michigan church shooting PM Modi to inaugurate Delhi BJP’s five storey new office building No handshake, no trophy: India reject Asia Cup from Pakistan ACC chairman India wins Asia Cup: 'Pehle humne Sindoor lagaya tha aur ab Tilak' Michigan church shooting: Gunman kills at least 4, wounds 8 'Wray lied to Congress': Kash Patel clarifies role of FBI agents on Jan 6 Florida Immigration Crackdown: 350 illegal migrants nabbed in just 4 days Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Prime Articles Private Companies Top Commodities Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
 --------------------------------------------------
 
+Title: Stocks Climb on Lower Bond Yields and Strength in Chip Makers
+URL: https://www.barchart.com/story/news/35104226/stocks-climb-on-lower-bond-yields-and-strength-in-chip-makers
+Time Published: 2025-09-29T15:15:25Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.42%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
 Title: NVIDIA Accelerates Robotics Research and Development With New Open Models and Simulation Libraries
 URL: https://www.globenewswire.com/news-release/2025/09/29/3157918/0/en/NVIDIA-Accelerates-Robotics-Research-and-Development-With-New-Open-Models-and-Simulation-Libraries.html
 Time Published: 2025-09-29T15:00:00Z
@@ -24,6 +42,12 @@ Title: Here’s Why NVIDIA Corporation (NVDA) is on Detectors’ List of Baird C
 URL: https://finance.yahoo.com/news/why-nvidia-corporation-nvda-detectors-144432722.html
 Time Published: 2025-09-29T14:44:32Z
 Description: Chautauqua Capital Management, a division of Baird Asset Management, is a boutique investment firm that released its second quarter 2025 investor letter for ...
+--------------------------------------------------
+
+Title: Stocks Supported by Hopes of Additional Fed Rate Cuts
+URL: https://www.barchart.com/story/news/35102420/stocks-supported-by-hopes-of-additional-fed-rate-cuts
+Time Published: 2025-09-29T14:03:38Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.39%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.08%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
 --------------------------------------------------
 
 Title: Watch These Intel Price Levels After Stock Surged 20% Last Week
@@ -43,6 +67,12 @@ Title: This Analyst’s Prediction About NVIDIA (NVDA) Was Right
 URL: https://finance.yahoo.com/news/analyst-prediction-nvidia-nvda-130104159.html
 Time Published: 2025-09-29T13:01:04Z
 Description: We recently published Analysts Are Talking About These 10 Stocks as AI Investments Continue to Grow. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks...
+--------------------------------------------------
+
+Title: This AI Chip Stock Just Got a New Street-High Price Target. Should You Buy It Here?
+URL: https://www.barchart.com/story/news/35096953/this-ai-chip-stock-just-got-a-new-street-high-price-target-should-you-buy-it-here
+Time Published: 2025-09-29T11:30:02Z
+Description: Teradyne is an AI stock many investors may not have on their radar. These analysts think that's a mistake.
 --------------------------------------------------
 
 Title: Cathie Wood sells $22.3 million of popular tech stock
@@ -204,7 +234,7 @@ Title: Key Indicators to Watch in Q4: Bitcoin Seasonal Trends, XRP/BTC, Dollar I
 URL: https://www.coindesk.com/markets/2025/09/26/key-indicators-to-watch-in-q4-bitcoin-seasonal-trends-xrp-btc-dollar-index-nvidia-and-more
 Time Published: 2025-09-26T07:25:27Z
 Full Content:
-This is an analysis post by CoinDesk analyst and Chartered Market Technician Omkar Godbole. As we approach the final quarter of 2025, the following key charts provide valuable insights to help crypto traders navigate the evolving market landscape. Seasonal trends suggest a bullish Q4 outlook for both BTC$113,639.86 and ETH$4,113.77, the top two cryptocurrencies by market capitalization. Since 2013, BTC$113,639.86 has delivered an average return of 85% in the final quarter, according to data from Coinglass, making Q4 historically the strongest period for bulls. November stands out as the most bullish month, with an average gain of 46%, followed by October, which typically sees a 21% increase. ETH$4,113.77 also tends to perform well in the last three months of the year, although its strongest historical returns have been in the first quarter since inception. Bitcoin's price has dropped by 5% this week, consistent with the bearish technical signals and looks set to extend losses to late August lows near $107,300. If bulls fail to defend that, the focus will shift to the 200-day simple moving average at $104,200. The ongoing price decline, combined with bitcoin's historical pattern of peaking approximately 16 to 18 months after a halving event, may scare bulls. However, such concerns may be premature as long as prices remain above the 50-week simple moving average (SMA). This moving average has consistently acted as a support level, marking the end of corrective price pullbacks during the current bull run that began in early 2023. Traders, therefore, should closely watch the 50-week SMA, which is currently positioned around $98,900, as a key level for broader market direction. XRP, often called the "U.S. government coin" by firms like Arca, has surged 32% this year. However, despite this strong rally, the payments-focused cryptocurrency remains confined within a prolonged sideways trading range against Bitcoin (XRP/BTC), showing limited relative strength. The XRP/BTC pair has been confined within a narrow trading range since early 2021, resulting in over four years of low-volatility compression. Recent price action near the upper boundary of this channel suggests that bulls are gradually gaining control. A breakout from such a prolonged consolidation could trigger a powerful rally in XRP relative to BTC, as the accumulated energy from this squeeze is released. Now, let’s turn to charts that call for caution. The leveraged anti-Strategy ETF (SMST), which seeks to deliver daily investment results that are -200%, or minus 2x, the daily percentage change in bitcoin-holder Strategy's (MSTR) share price, is flashing bullish signals. The ETF’s price climbed to a five-month high of $35.65, forming what appears to be an inverse head-and-shoulders pattern, characterized by a prominent trough (the head) flanked by two smaller, roughly equal troughs (the shoulders). This pattern often signals a potential bullish reversal, suggesting the ETF may be gearing up for a significant upward move. In other words, it's flashing a bearish signal for both BTC and Strategy, which is the largest publicly listed BTC holder with a coin stash of 639,835 BTC. Last week, I discussed the dollar's post-Fed rate cut resilience as a potential headwind for risk assets, including cryptocurrencies. The dollar index has since gained ground, establishing a double bottom at around 96.30. It's a sign that bulls have successfully established the path of least resistance on the higher side. A continued move beyond 100.26, the high of the interim recovery between the twin bottoms around 96.30, would confirm the so-called double bottom breakout, opening the door for a move to 104.00. Watch out for the pattern failure below 96.00, as that could lead to increased risk-taking in financial markets. Nvidia (NVDA), the world's largest listed company by market value, and a bellwether for risk assets, continues to flirt with the upper end of the broadening channel identified by June 2024 and November 2024 highs and lows hit in August 2024 and April 2025. The rally has stalled at the upper trendline since late July in a sign of bullish exhaustion. Should it decline from here, it could signal the onset of a risk-off period in global markets, including cryptocurrencies. More For You Total Crypto Trading Volume Hits Yearly High of $9.72T Combined spot and derivatives trading on centralized exchanges surged 7.58% to $9.72 trillion in August, marking the highest monthly volume of 2025 What to know: More For You Stellar’s XLM Slips 4% as Institutional Selling Weighs on Market The token fell from $0.38 to $0.36 over a 23-hour stretch, with heavy resistance at $0.38 and sustained downside momentum signaling bearish sentiment. What to know: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
+This is an analysis post by CoinDesk analyst and Chartered Market Technician Omkar Godbole. As we approach the final quarter of 2025, the following key charts provide valuable insights to help crypto traders navigate the evolving market landscape. Seasonal trends suggest a bullish Q4 outlook for both bitcoin BTC$114,349.09 and ether ETH$4,145.47, the top two cryptocurrencies by market capitalization. Since 2013, Bitcoin BTC$114,349.09 has delivered an average return of 85% in the final quarter, according to data from Coinglass, making Q4 historically the strongest period for bulls. November stands out as the most bullish month, with an average gain of 46%, followed by October, which typically sees a 21% increase. Ether ETH$4,145.47 also tends to perform well in the last three months of the year, although its strongest historical returns have been in the first quarter since inception. Bitcoin's price has dropped by 5% this week, consistent with the bearish technical signals and looks set to extend losses to late August lows near $107,300. If bulls fail to defend that, the focus will shift to the 200-day simple moving average at $104,200. The ongoing price decline, combined with bitcoin's historical pattern of peaking approximately 16 to 18 months after a halving event, may scare bulls. However, such concerns may be premature as long as prices remain above the 50-week simple moving average (SMA). This moving average has consistently acted as a support level, marking the end of corrective price pullbacks during the current bull run that began in early 2023. Traders, therefore, should closely watch the 50-week SMA, which is currently positioned around $98,900, as a key level for broader market direction. XRP, often called the "U.S. government coin" by firms like Arca, has surged 32% this year. However, despite this strong rally, the payments-focused cryptocurrency remains confined within a prolonged sideways trading range against Bitcoin (XRP/BTC), showing limited relative strength. The XRP/BTC pair has been confined within a narrow trading range since early 2021, resulting in over four years of low-volatility compression. Recent price action near the upper boundary of this channel suggests that bulls are gradually gaining control. A breakout from such a prolonged consolidation could trigger a powerful rally in XRP relative to BTC, as the accumulated energy from this squeeze is released. Now, let’s turn to charts that call for caution. The leveraged anti-Strategy ETF (SMST), which seeks to deliver daily investment results that are -200%, or minus 2x, the daily percentage change in bitcoin-holder Strategy's (MSTR) share price, is flashing bullish signals. The ETF’s price climbed to a five-month high of $35.65, forming what appears to be an inverse head-and-shoulders pattern, characterized by a prominent trough (the head) flanked by two smaller, roughly equal troughs (the shoulders). This pattern often signals a potential bullish reversal, suggesting the ETF may be gearing up for a significant upward move. In other words, it's flashing a bearish signal for both BTC and Strategy, which is the largest publicly listed BTC holder with a coin stash of 639,835 BTC. Last week, I discussed the dollar's post-Fed rate cut resilience as a potential headwind for risk assets, including cryptocurrencies. The dollar index has since gained ground, establishing a double bottom at around 96.30. It's a sign that bulls have successfully established the path of least resistance on the higher side. A continued move beyond 100.26, the high of the interim recovery between the twin bottoms around 96.30, would confirm the so-called double bottom breakout, opening the door for a move to 104.00. Watch out for the pattern failure below 96.00, as that could lead to increased risk-taking in financial markets. Nvidia (NVDA), the world's largest listed company by market value, and a bellwether for risk assets, continues to flirt with the upper end of the broadening channel identified by June 2024 and November 2024 highs and lows hit in August 2024 and April 2025. The rally has stalled at the upper trendline since late July in a sign of bullish exhaustion. Should it decline from here, it could signal the onset of a risk-off period in global markets, including cryptocurrencies. More For You Total Crypto Trading Volume Hits Yearly High of $9.72T Combined spot and derivatives trading on centralized exchanges surged 7.58% to $9.72 trillion in August, marking the highest monthly volume of 2025 알아야 할 것: More For You Bitcoin Steady, but Bitfinex Warns of Downside Risks as U.S. Government Shutdown Looms Most altcoins including ETH, SOL, AVAX, UNI posted declines Tuesday but bitcoin was flat after a late rally. What to know: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
 --------------------------------------------------
 
 Title: Here’s What Analysts Are Saying About NVDA’s $100 Billion OpenAI Deal
@@ -223,90 +253,4 @@ Title: Wall Street Analyst Sees Nvidia (NVDA) on Track for $3–4 Trillion TAM b
 URL: https://finance.yahoo.com/news/wall-street-analyst-sees-nvidia-000845317.html
 Time Published: 2025-09-26T00:08:45Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Buzzing AI Stocks on Wall Street. On September 23, UBS analyst Timothy Arcuri reiterated a Buy rating on the...
---------------------------------------------------
-
-Title: $20,000 invested in the Betashares Nasdaq 100 ETF (NDQ) 5 years ago is now worth
-URL: https://www.fool.com.au/2025/09/26/20000-invested-in-the-betashares-nasdaq-100-etf-ndq-5-years-ago-is-now-worth/
-Time Published: 2025-09-25T20:54:20Z
-Description: Let's see what would have happened if you had bought this popular fund five years ago.
-The post $20,000 invested in the Betashares Nasdaq 100 ETF (NDQ) 5 years ago is now worth appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: Stocks fall for the third day in a row. Is this the start of a deeper pullback?
-URL: https://www.marketwatch.com/story/stocks-are-falling-for-the-third-day-in-a-row-is-this-the-start-of-a-deeper-pullback-62e4059e
-Time Published: 2025-09-25T20:47:00Z
-Description: A week after the Federal Reserve resumed rate cuts after a nine-month pause, stocks reversed their uptrend with a three-day losing streak, leaving investors ...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq slide for 3rd day as Wall Street slump continues
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-for-3rd-day-as-wall-street-slump-continues-200014895.html
-Time Published: 2025-09-25T20:00:14Z
-Description: Fresh jobs data could reset interest-rate bets amid uncertainty about Federal Reserve unity on policy.
---------------------------------------------------
-
-Title: Intel 'needs' Apple to invest like Nvidia & US government did
-URL: https://finance.yahoo.com/video/intel-needs-apple-invest-nvidia-193000697.html
-Time Published: 2025-09-25T19:30:00Z
-Description: Intel (INTC) is reportedly working to secure an investment from Apple (AAPL), just after securing investments from Nvidia (NVDA) and the US government. D.A. ...
---------------------------------------------------
-
-Title: As Intel Pops on Potential Apple Stake, Options Data Tells Us INTC Stock Could Be Headed Here Next
-URL: https://www.barchart.com/story/news/35042216/as-intel-pops-on-potential-apple-stake-options-data-tells-us-intc-stock-could-be-headed-here-next
-Time Published: 2025-09-25T19:09:09Z
-Description: Intel stock rallies further on reports the chipmaker has approached Apple for a strategic investment. But it may not be the lifeline that INTC shares so...
---------------------------------------------------
-
-Title: Nvidia Is on a Dealmaking Spree: Should You Buy NVDA Stock Amid Fears of an AI Bubble?
-URL: https://www.barchart.com/story/news/35040319/nvidia-is-on-a-dealmaking-spree-should-you-buy-nvda-stock-amid-fears-of-an-ai-bubble
-Time Published: 2025-09-25T17:25:06Z
-Description: Nvidia has announced a flurry of deals this month, even as concerns linger over AI being a bubble. NVDA’s forecast looks positive, though as global AI...
---------------------------------------------------
-
-Title: Jim Cramer on NVIDIA: “The Ultimate Own it, Don’t Trade It”
-URL: https://finance.yahoo.com/news/jim-cramer-nvidia-ultimate-own-171237962.html
-Time Published: 2025-09-25T17:12:37Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer shared his opinions on. Cramer discussed the company’s latest deal with OpenAI and said...
---------------------------------------------------
-
-Title: AMD Gains Traction in AI Infrastructure Market: A Sign of More Upside?
-URL: https://finance.yahoo.com/news/amd-gains-traction-ai-infrastructure-164000247.html
-Time Published: 2025-09-25T16:40:00Z
-Description: Advanced Micro Devices' growth is driven by AI footprint with record sales, new Instinct MI350 GPUs and major partnerships.
---------------------------------------------------
-
-Title: Up 300% in 2025, Should You Buy This Red-Hot AI Data Center Stock Here?
-URL: https://www.barchart.com/story/news/35038276/up-300-in-2025-should-you-buy-this-red-hot-ai-data-center-stock-here
-Time Published: 2025-09-25T16:10:18Z
-Description: IREN’s more than 300% surge in 2025 highlights its bold pivot from Bitcoin mining to AI infrastructure, but the key question is whether the rally still has...
---------------------------------------------------
-
-Title: Charles Schwab CEO: Don't try to time the market
-URL: https://finance.yahoo.com/news/charles-schwab-ceo-dont-try-to-time-the-market-144103662.html
-Time Published: 2025-09-25T14:41:03Z
-Description: Charles Schwab CEO Rick Wurster says investors are "happy" but cautious as Big Tech powers stocks to new highs
---------------------------------------------------
-
-Title: Nvidia Stock Weakens As AI Chip Stocks Struggle
-URL: https://www.investors.com/news/technology/nvidia-stock-weakens-ai-chip-stocks-struggle/
-Time Published: 2025-09-25T14:38:35Z
-Description: Nvidia stock has pulled back since touching a record high on Monday. Meanwhile, other AI chip stocks have fallen as well.
---------------------------------------------------
-
-Title: CoreWeave strikes $6.5 billion deal with OpenAI to power next-gen AI models
-URL: https://finance.yahoo.com/news/coreweave-strikes-65-billion-deal-with-openai-to-power-next-gen-ai-models-143554085.html
-Time Published: 2025-09-25T14:35:54Z
-Description: CoreWeave holds flat on news of a $6.5 billion deal with OpenAI.
---------------------------------------------------
-
-Title: NVDA: Nvidia and OpenAI Partnership Could Generate $500 Billion Revenue
-URL: https://finance.yahoo.com/news/nvda-nvidia-openai-partnership-could-122637483.html
-Time Published: 2025-09-25T12:26:37Z
-Description: BofA says Nvidia's $100B OpenAI wager could unlock $500B windfall
---------------------------------------------------
-
-Title: 5 Things to Know Before the Stock Market Opens
-URL: https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-september-25-2025-11816837
-Time Published: 2025-09-25T12:21:05Z
-Full Content:
-Stock futures are lower after two straight days of declines for major indexes as investors await key economic data; Costco Wholesale (COST) is scheduled to report earnings after the closing bell; Intel (INTC) shares are rising on a report it is seeking an investment from Apple (AAPL); and Starbucks (SBUX) is laying off workers and closing stores as it continues to restructure. Here's what you need to know today. Stock futures are pointing a lower open for major indexes after two days of declines as investors prepare for the release of key economic data reports to finish off the week. Futures tied to the benchmark S&P 500 and the tech-heavy Nasdaq were recently down 0.4% and 0.6%, respectively, while Dow Jones Industrial Average futures slipped 0.2%. Gold futures edged higher to $3,785 an ounce to stay near record highs, while bitcoin (BTCUSD) was at $111,500, little changed from yesterday afternoon. The yield on the 10-year Treasury note, which affects mortgage rates and a variety of other consumer borrowing costs, edged higher to 4.16%. Costco Wholesale (COST) will release its fiscal fourth-quarter results after the closing bell today, with some analysts expecting volatility in the stock. The update comes after some investors were shaken in the spring by signs that sales growth had decelerated. The company has already reported that fourth-quarter sales rose 8% compared with the year-ago quarter. Analysts tracked by Visible Alpha expect the retailer to report that profits grew to $2.6 million in the fourth-quarter, up from $2.4 million a year ago. Costco shares, which have gained 3% since the start of the year, were slightly higher in premarket trading. Data on economic growth, jobless claims and housing sales are in focus this morning ahead of a highly anticipated inflation report that's set to be released Friday. The jobless claims numbers, which are expected to show a slight increase, are being closely watched by investors after the Federal Reserve cut interest rates last week amid signs that the labor market is weakening. Revisions to second-quarter gross domestic product are expected to show that growth held steady at 3.3%, while existing home sales are estimated to have declined slightly. Several Fed officials are scheduled to speak today, ahead of the release tomorrow morning of the Fed's preferred measure of inflation. Shares of Intel (INTC) continued gaining ground this morning following a report the chipmaker is seeking an investment from Apple (AAPL). Intel shares rose more than 6% on Wednesday after Bloomberg News reported on talks between the companies, which also centered on other ways that Apple could help the beleaguered chipmaker. The report comes after Nvidia (NVDA) last week agreed to invest $5 billion in Intel as part of a deal that will see the two companies co-develop chips for data centers and PCs. Intel shares were up nearly 2% in recent premarket trading. The stock has gained more than 50% year-to-date, but remain well off its historical highs. Apple shares were little changed ahead of the bell. Starbucks (SBUX) is laying off around 900 employees in its corporate offices and closing some stores as CEO Brian Niccol continues to implement his “Back to Starbucks” turnaround plan. Niccol said in an update Thursday that the total number of stores was expected to decline by about 1% in 2025 after the closures. He said that laid-off employees in corporate offices would receive severance packages, while employees at closed stores could also receive severance if they are not transferred to other nearby stores. The moves come as analysts have praised the coffee chain’s efforts to revive sales amid sluggish customer traffic. Starbucks shares were flat in premarket trading.
 --------------------------------------------------

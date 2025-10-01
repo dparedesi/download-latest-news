@@ -1,5 +1,23 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: This Quantum Computing Stock Just Set Another Scientific Record. Should You Buy It Here?
+URL: https://www.barchart.com/story/news/35108859/this-quantum-computing-stock-just-set-another-scientific-record-should-you-buy-it-here
+Time Published: 2025-09-29T19:54:34Z
+Description: IonQ stock is back in the spotlight after its Tempo system achieved a record-breaking #AQ 64 benchmark three months ahead of schedule.
+--------------------------------------------------
+
+Title: Analysts Issue a Key Warning on Oracle Stock: Sell Now
+URL: https://www.barchart.com/story/news/35105317/analysts-issue-a-key-warning-on-oracle-stock-sell-now
+Time Published: 2025-09-29T16:12:15Z
+Description: Oracle stock has nearly doubled this year on cloud and AI optimism, but with a stretched valuation above 57x forward earnings, Rothschild has issued a rare “...
+--------------------------------------------------
+
+Title: Amazon Stock Is Underperforming Badly in 2025. What It Needs in Q4.
+URL: https://www.barchart.com/story/news/35105216/amazon-stock-is-underperforming-badly-in-2025-what-it-needs-in-q4
+Time Published: 2025-09-29T16:06:41Z
+Description: Amazon stock is barely in the green this year and is the worst-performing Magnificent 7 constituent. Management needs to come up with a new story to buoy...
+--------------------------------------------------
+
 Title: Jefferies (JEF) Reports Q3: Everything You Need To Know Ahead Of Earnings
 URL: https://finance.yahoo.com/news/jefferies-jef-reports-q3-everything-030048274.html
 Time Published: 2025-09-28T03:00:48Z
@@ -65,16 +83,4 @@ Title: This bold Oracle move could be the beginning of something big
 URL: https://www.thestreet.com/technology/this-bold-oracle-move-could-be-the-beginning-of-something-big-
 Time Published: 2025-09-26T01:03:00Z
 Description: Two insiders now lead Oracle’s next chapter. The move could be visionary — or risky.
---------------------------------------------------
-
-Title: Why Is Marvell Technology Stock Climbing Thursday?
-URL: https://finance.yahoo.com/news/why-marvell-technology-stock-climbing-164830571.html
-Time Published: 2025-09-25T16:48:30Z
-Description: Marvell Technology (NASDAQ: MRVL) shares rose Thursday, fueled by investor optimism around artificial intelligence infrastructure and the company’s recent...
---------------------------------------------------
-
-Title: Alibaba’s AI Ambitions Make It Top-Performing China Tech Stock
-URL: https://finance.yahoo.com/news/alibaba-ai-ambitions-top-performing-024635901.html
-Time Published: 2025-09-25T02:46:35Z
-Description: Hong Kong-listed shares of the company are up 52% in September, making them the best performer on the Hang Seng Tech Index.  Announcements Wednesday of the...
 --------------------------------------------------

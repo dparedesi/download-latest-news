@@ -13,6 +13,12 @@ Time Published: 2025-09-29T16:36:12Z
 Description: Chipmakers' insiders take profits as semiconductor stocks soar in 2025
 --------------------------------------------------
 
+Title: Stocks Supported by Hopes of Additional Fed Rate Cuts
+URL: https://www.barchart.com/story/news/35102420/stocks-supported-by-hopes-of-additional-fed-rate-cuts
+Time Published: 2025-09-29T14:03:38Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.39%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.08%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
 Title: Is the Big Business of AI Dominated by Too Few Big Businesses?
 URL: https://www.investopedia.com/is-the-big-business-of-ai-dominated-by-too-few-big-businesses-11812655
 Time Published: 2025-09-28T11:00:00Z
@@ -42,22 +48,4 @@ Title: Wall Street Analyst Sees Nvidia (NVDA) on Track for $3–4 Trillion TAM b
 URL: https://finance.yahoo.com/news/wall-street-analyst-sees-nvidia-000845317.html
 Time Published: 2025-09-26T00:08:45Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Buzzing AI Stocks on Wall Street. On September 23, UBS analyst Timothy Arcuri reiterated a Buy rating on the...
---------------------------------------------------
-
-Title: Stocks Decline as Bond Yields Push Higher
-URL: https://www.barchart.com/story/news/35044145/stocks-decline-as-bond-yields-push-higher
-Time Published: 2025-09-25T20:45:03Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -0.50%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.38%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: AVGO: Broadcom $110 Billion Backlog Can't Hide Margin Pressures
-URL: https://finance.yahoo.com/news/avgo-broadcom-110-billion-backlog-193822413.html
-Time Published: 2025-09-25T19:38:22Z
-Description: AVGO's $110B Backlog And VMware Shift Support Growth, But Margins Remain Under Pressure
---------------------------------------------------
-
-Title: Nvidia Stock Weakens As AI Chip Stocks Struggle
-URL: https://www.investors.com/news/technology/nvidia-stock-weakens-ai-chip-stocks-struggle/
-Time Published: 2025-09-25T14:38:35Z
-Description: Nvidia stock has pulled back since touching a record high on Monday. Meanwhile, other AI chip stocks have fallen as well.
 --------------------------------------------------

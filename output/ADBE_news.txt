@@ -11,15 +11,3 @@ URL: https://finance.yahoo.com/news/evercore-keeps-buy-adobe-adbe-150947187.html
 Time Published: 2025-09-26T15:09:47Z
 Description: Adobe Inc. (NASDAQ:ADBE) is one of the best value stocks in Goldman Sachs’ portfolio. The company is facing increasing scrutiny over the monetization of its ...
 --------------------------------------------------
-
-Title: Morgan Stanley warns AI could sink 42-year-old software giant
-URL: https://www.thestreet.com/technology/morgan-stanley-warns-ai-could-sink-42-year-old-software-giant-
-Time Published: 2025-09-25T18:03:00Z
-Description: Market braces for fallout if AI risk plays out
---------------------------------------------------
-
-Title: Stocks Slip Before the Open With Focus on U.S. Economic Data and Fed Speak
-URL: https://www.barchart.com/story/news/35027476/stocks-muted-before-the-open-with-focus-on-u-s-economic-data-and-fed-speak
-Time Published: 2025-09-25T10:00:39Z
-Description: December S&P 500 E-Mini futures (ESZ25) are down -0.06%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.12% this morning as investors await a...
---------------------------------------------------

@@ -11,21 +11,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6a819b12
 Time Published: 2025-09-27T22:32:19Z
 Description: None
 --------------------------------------------------
-
-Title: CrowdStrike's Scale And Profits Make It Rare Asset In Software: Analyst
-URL: https://finance.yahoo.com/news/crowdstrikes-scale-profits-rare-asset-172421167.html
-Time Published: 2025-09-25T17:24:21Z
-Description: CrowdStrike (NASDAQ: CRWD) is more competitively entrenched than ever in endpoint security while gaining traction in cloud protection and next-generation...
---------------------------------------------------
-
-Title: Oracle initiated, Ulta Beauty upgraded: Wall Street's top analyst calls
-URL: https://finance.yahoo.com/news/oracle-initiated-ulta-beauty-upgraded-133846264.html
-Time Published: 2025-09-25T13:38:46Z
-Description: Oracle initiated, Ulta Beauty upgraded: Wall Street's top analyst calls
---------------------------------------------------
-
-Title: CrowdStrike Stock: Is CRWD Underperforming the Technology Sector?
-URL: https://www.barchart.com/story/news/35033982/crowdstrike-stock-is-crwd-underperforming-the-technology-sector
-Time Published: 2025-09-25T13:15:10Z
-Description: Although CrowdStrike has trailed behind its sector recently, analysts remain moderately optimistic about the stock’s prospects.
---------------------------------------------------

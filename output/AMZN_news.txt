@@ -1,5 +1,23 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Analysts Issue a Key Warning on Oracle Stock: Sell Now
+URL: https://www.barchart.com/story/news/35105317/analysts-issue-a-key-warning-on-oracle-stock-sell-now
+Time Published: 2025-09-29T16:12:15Z
+Description: Oracle stock has nearly doubled this year on cloud and AI optimism, but with a stretched valuation above 57x forward earnings, Rothschild has issued a rare “...
+--------------------------------------------------
+
+Title: Amazon Stock Is Underperforming Badly in 2025. What It Needs in Q4.
+URL: https://www.barchart.com/story/news/35105216/amazon-stock-is-underperforming-badly-in-2025-what-it-needs-in-q4
+Time Published: 2025-09-29T16:06:41Z
+Description: Amazon stock is barely in the green this year and is the worst-performing Magnificent 7 constituent. Management needs to come up with a new story to buoy...
+--------------------------------------------------
+
+Title: IonQ Just Achieved a New Quantum Computing Milestone. Should You Buy IONQ Stock Here?
+URL: https://www.barchart.com/story/news/35101084/ionq-just-achieved-a-new-quantum-computing-milestone-should-you-buy-ionq-stock-here
+Time Published: 2025-09-29T13:18:05Z
+Description: IonQ has reached a groundbreaking quantum computing milestone, moving closer to a connected Quantum Internet.
+--------------------------------------------------
+
 Title: Amazon (AMZN) Stock Upgraded to Overweight on AWS Growth Outlook
 URL: https://finance.yahoo.com/news/amazon-amzn-stock-upgraded-overweight-224237792.html
 Time Published: 2025-09-27T22:42:37Z
@@ -41,10 +59,4 @@ Title: This bold Oracle move could be the beginning of something big
 URL: https://www.thestreet.com/technology/this-bold-oracle-move-could-be-the-beginning-of-something-big-
 Time Published: 2025-09-26T01:03:00Z
 Description: Two insiders now lead Oracle’s next chapter. The move could be visionary — or risky.
---------------------------------------------------
-
-Title: Banks Can Now Streamline Operations With Nasdaq Calypso On AWS
-URL: https://finance.yahoo.com/news/banks-now-streamline-operations-nasdaq-120410679.html
-Time Published: 2025-09-25T12:04:10Z
-Description: Nasdaq Inc. (NASDAQ: NDAQ) and Amazon Web Services, Inc., a subsidiary of Amazon.com Inc. (NASDAQ: AMZN), expanded their partnership on Thursday to make...
 --------------------------------------------------
