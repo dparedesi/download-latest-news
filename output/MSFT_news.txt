@@ -30,16 +30,16 @@ Time Published: 2025-09-27T16:12:00Z
 Description: Recent estimates indicate the Microsoft magnate owns around 270,000 acres of U.S. farmland.
 --------------------------------------------------
 
-Title: Leonardo DRS, Mercury Systems, Sealed Air, MYR Group, and Winnebago Shares Are Soaring, What You Need To Know
-URL: https://finance.yahoo.com/news/leonardo-drs-mercury-systems-sealed-194043813.html
-Time Published: 2025-09-26T19:40:43Z
-Description: A number of stocks jumped in the afternoon session after a key inflation data aligned with forecasts, bolstering hopes for continued interest rate cuts from ...
---------------------------------------------------
-
 Title: Enviri (NVRI) Stock Trades Up, Here Is Why
 URL: https://finance.yahoo.com/news/enviri-nvri-stock-trades-why-194043194.html
 Time Published: 2025-09-26T19:40:43Z
 Description: Shares of steel and waste handling company Enviri (NYSE:NVRI) jumped 3.5% in the afternoon session after a key inflation data aligned with forecasts...
+--------------------------------------------------
+
+Title: Leonardo DRS, Mercury Systems, Sealed Air, MYR Group, and Winnebago Shares Are Soaring, What You Need To Know
+URL: https://finance.yahoo.com/news/leonardo-drs-mercury-systems-sealed-194043813.html
+Time Published: 2025-09-26T19:40:43Z
+Description: A number of stocks jumped in the afternoon session after a key inflation data aligned with forecasts, bolstering hopes for continued interest rate cuts from ...
 --------------------------------------------------
 
 Title: Tesla Target Raised by Deutsche Bank on AI Growth Potential
