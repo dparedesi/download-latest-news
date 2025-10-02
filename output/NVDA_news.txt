@@ -1,5 +1,36 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia's 'Jensen Math' Of $50 Billion Revenue Per GW Gets A Reality Check: Here's What Barclays Analysts Project For NVDA
+URL: https://finance.yahoo.com/news/nvidias-jensen-math-50-billion-033104538.html
+Time Published: 2025-10-01T03:31:04Z
+Description: A multi-billion-dollar gap has emerged in the estimated cost of powering the AI revolution, pitting a new bullish forecast from Barclays against Nvidia Corp....
+--------------------------------------------------
+
+Title: Top Stocks today: Nvidia, Robinhood and Pfizer lead the market
+URL: https://www.thestreet.com/investing/stocks/top-stocks-today-nvidia-robinhood-and-pfizer-lead-the-market
+Time Published: 2025-10-01T02:41:57Z
+Description: Here are the stocks that made the biggest moves today
+--------------------------------------------------
+
+Title: Big Tech's AI Spending—and Borrowing—Will Be Even Higher Next Year, Says Citi
+URL: https://www.investopedia.com/big-tech-s-ai-spending-and-borrowing-will-be-even-higher-next-year-says-citi-11821812
+Time Published: 2025-09-30T22:39:30Z
+Full Content:
+After a series of big cloud computing deals this month, Citigroup analysts now expect AI spending to exceed their already eye-watering forecast. Citi analysts on Tuesday estimated that hyperscalers—including Microsoft (MSFT), Alphabet (GOOG), Amazon (AMZN), Oracle (ORCL), and CoreWeave (CRWV)—will spend $490 billion on infrastructure and other capital goods next year, up from a prior estimate of $420 billion. Citi’s forecasts are slightly above the Wall Street consensus. The AI infrastructure boom has been a major force behind U.S. stock market gains and economic growth in recent years. If tech companies rely on debt to fund their massive AI investments, they could expose the AI buildout—and the broader economy—to greater risk. The analysts pointed to an onslaught of announced partnerships, investments, and products in recent weeks as evidence of strong AI demand. They said their recent conversations with CIOs and CTOs at a range of companies “reflect a similar increase in urgency around adoption at the enterprise level.” Citi expects AI infrastructure providers like Nvidia (NVDA) to benefit from higher spending. As such, the firm’s analysts raised their price target on Nvidia shares to $210 from $200 on Tuesday. The hyperscalers are among the world’s largest, most profitable companies, a fact that has enabled them to increase their infrastructure spending exponentially over the past few years. But not even hugely profitable tech giants can undertake this level of investment on their own. “It is notable that we have gone from the cash flow funded stage of this investment cycle to the debt funded stage, with the incremental risks that come with it,” Citi’s analysts wrote. Oracle last week sold $18 billion of bonds in the second-largest U.S. debt deal this year, according to a Bloomberg report. Oracle, which has spent more than it's made in each of the last two quarters, is expected to use the debt to increase its cloud capacity so it can deliver on a five-year, $300 billion deal with OpenAI. Adding that much capacity will be expensive. Citi sees Oracle’s capital expenditures ballooning to $58 billion in fiscal year 2027, nearly three times what it spent in the fiscal year that ended in May. OpenAI, another company that will need to spend a lot to support its ambitions, took a different approach to raising money. Last week, the company struck a deal with Nvidia to deploy 10 GW of Nvidia systems over the next five years in exchange for an incremental $100 billion equity investment. OpenAI is reportedly discussing leasing—not buying—the chips from Nvidia, a novel arrangement that could cut its hardware costs by 10 to 15%, according to The Information. The deal raised eyebrows on Wall Street, where some analysts and investors expressed concern about the “circularity” and concentration of the AI ecosystem. Some skeptics likened it to a bailout, with Nvidia stepping in as an investor of last resort to support a cash-starved OpenAI. It has also inspired comparisons to the Dotcom Bubble, when telecom equipment providers lent to and invested in their own customers, fueling speculative fervor. But analysts see important differences between the 1990s and today. “The critical distinction, in our view, is the ‘off-ramp’ created by growing external demand for AI services driven by enterprise adoption,” write Citi analysts. Companies like OpenAI and Meta (META), they say, are rolling out AI-driven applications and services with clear monetization prospects. And the rate of AI’s technological progress, they argue, is quickly expanding the scope of potential applications.
+--------------------------------------------------
+
+Title: Mag 7 Remains Top Picks for Hedge Funds as Money Managers Poured $185B Into These Stocks in Q2
+URL: https://www.ibtimes.com/mag-7-remains-top-picks-hedge-funds-money-managers-poured-185b-these-stocks-q2-3784904
+Time Published: 2025-09-30T20:03:35Z
+Description: US megacap tech stocks, which are driving the AI boom, remain the top picks for hedge funds, reaffirming their forecasts of long-term growth potential.
+--------------------------------------------------
+
+Title: Stock market today: S&P 500, Nasdaq close out best third quarter since 2020 as US government looks set to enter shutdown
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-hits-record-sp-500-nasdaq-cap-best-q3-since-2020-as-wall-street-braces-for-shutdown-200013623.html
+Time Published: 2025-09-30T20:00:13Z
+Description: Wall Street is worried a government shutdown could begin as soon as Wednesday.
+--------------------------------------------------
+
 Title: ETH falls as crypto, stocks correct, but $547M spot ETF inflows show TradFi positioning
 URL: https://cointelegraph.com/news/eth-drops-as-crypto-stocks-correct-dollar547m-in-spot-etf-inflows-may-save-the-day
 Time Published: 2025-09-30T18:10:00Z
@@ -32,10 +63,22 @@ Time Published: 2025-09-30T15:42:00Z
 Description: Datavault AI Inc. (NASDAQ:DVLT) is among the best fast money stocks to buy now. On Friday, Datavault AI Inc. (NASDAQ:DVLT) announced an update to its...
 --------------------------------------------------
 
+Title: Stocks Post Gains on Mixed US Economic News
+URL: https://www.barchart.com/story/news/35132860/stocks-post-modest-losses-on-mixed-us-economic-news
+Time Published: 2025-09-30T15:25:12Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.25%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.06%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: CoreWeave stock surges as reported $14 billion Meta deal signals 'limitless' AI demand
 URL: https://finance.yahoo.com/news/coreweave-stock-surges-as-reported-14-billion-meta-deal-signals-limitless-ai-demand-142356584.html
 Time Published: 2025-09-30T14:23:56Z
 Description: CoreWeave stock jumped as the company has inked a $14.2 billion deal with Meta.
+--------------------------------------------------
+
+Title: Sudden acceleration, not a bubble, is the AI story that investors are missing, says this top researcher
+URL: https://www.marketwatch.com/story/sudden-acceleration-not-a-bubble-is-the-ai-story-that-investors-are-missing-says-this-top-researcher-1dcd36ba
+Time Published: 2025-09-30T13:50:00Z
+Description: A blog post by a prominent AI researcher says those worried about an AI bubble, should be thinking about widespread integration by next year instead.
 --------------------------------------------------
 
 Title: US stock futures slip as shutdown risk looms, Nvidia shines, Intel falls, gold price hits $3,842 record
@@ -185,8 +228,7 @@ Description: The major averages are sitting just below all-time highs as Septemb
 Title: 5 ‘Fed-Friendly’ REITs Paying Up To 13%
 URL: https://www.forbes.com/sites/brettowens/2025/09/28/5-fed-friendly-reits-paying-up-to-13/
 Time Published: 2025-09-28T12:46:00Z
-Full Content:
-ByBrett Owens, Contributor. The Fed has finally cut rates, and if the “dot plot” is any indication, it won’t be the last. This is fuel for real estate investment trusts (REITs)—they thrive when borrowing costs fall and their fat dividends shine next to shrinking bond yields. Today we can lock in payouts between 6% and 13% from landlords set to surge as Powell’s long-awaited pivot plays out. Why do REITs rally as rates fall? These stocks act as “bond proxies” that move alongside bonds and opposite rates. Here is a major REIT ETF plotted against the 10-year Treasury yield. As you can see, when the important rate zigs, the REIT benchmark zags: Rate cuts don’t always hit the 10-year overnight. But the direction is now clear—and history shows that REITs rally once the bond market adjusts. So, let’s look at a lineup of landlords yielding up to 13.3% that are ready to ride Powell’s pivot higher. We’ll start with Healthpeak Properties (DOC, 6.5% dividend yield). Healthpeak owns 702 properties across outpatient medical, labs and senior housing. This blend has weighed on 2025 results because labs have been weak. However this “property patient” has perked up since August, when a sad jobs report foreshadowed the September rate cut. In other words, the Fed is driving this rebound: Broadstone Net Lease (BNL, 6.3% dividend yield) specializes in single-tenant commercial properties. Currently, its portfolio is made up of 766 properties in 44 states and four Canadian provinces, leased out to a whopping 205 tenants representing more than 50 industries. Its blend looks a lot different than it did even a year or two ago—Broadstone has been actively shedding healthcare properties, which made up roughly 20% of annualized based rent back in 2024 but now accounts for less than 4% of ABR. Today, industrial makes up roughly 60% of ABR, retail accounts for more than 30%, and office buildings drive most of the remainder. Broadstone deals in “net leases,” where tenants cover taxes, insurance and maintenance costs. BNL just collects rent. Those long-term leases, with built-in 2% rent escalators, deliver the steady cash flows we want from a landlord. I said more than a year ago that although its transformation might weigh on earnings in the short term, “the renewed portfolio focus is a benefit to BNL.” At the time, insiders thought so too. All of us were right. Broadstone’s doing a lot that we can like. It looks like it’s handling the bankruptcies of tenants At Home and Claire’s in stride. Management expects that its burgeoning build-to-suit pipeline will reach its $500 million end-of-year goal. But it’d be nice to see BNL share the wealth. The company recently updated its full-year guidance for adjusted funds from operations (AFFO), expecting $1.48 to $1.50 per share. It’s on track to pay $1.16. BNL could easily boost its dividend. Management just hasn’t shared the wealth yet. Global Net Lease (GNL, 9.4% dividend yield) is another commercial net-lease operator, and it has a significant international bent. GNL’s 911-property portfolio spans 10 countries. North American operations (U.S. and Canada) account for 70% of straight-line rents; eight European companies account for the remaining 30%. The average remaining lease term isn’t as long as Broadstone’s, at just over six years, but it does utilize rent escalators, which are on 88% of leases. Global Net Lease has also been busy trying to improve its operations. It recently completed the $1.8 billion sale of its multitenant retail portfolio, which improved overall occupancy and improved its annualized net operating income (NOI) margin. It has been buying back stock. And it has been rapidly deleveraging—GNL has shed $2 billion in net debt in roughly a year. During the company’s most recent earnings call, CEO Michael Weil noted that “S&P Global upgraded our corporate credit rating to BB+ from BB and raised our issuer level rating on our unsecured notes to investment-grade BBB- from BB+.” The stock has been doing exactly what we’d expect in the midst of that kind of turnaround, beating the pants off the real estate sector year-to-date. GNL’s past payout cuts weren’t by choice—they were survival. Dividend coverage looks fine today, but only if cash flow keeps climbing. A couple “hybrid” REITs—Armada Hoffler Properties (AHH, 7.7% dividend yield) and Brandywine Realty Trust (BDN, 13.3% dividend yield) are benefiting from a one-two punch: declining rates and return-to-office mandates. But both cut payouts this year and their balance sheets leave no margin for error: Armada Hoffler kicked off 2025 with weak guidance and a quick dividend cut. It’s still on pace for a significant drop in FFO, and its guidance hasn’t changed, but the most recent quarter saw at least a few green shoots, including a slight improvement in same-store cash NOI growth. Brandywine, while a hybrid REIT, is much heavier in office influence. BDN owns 63 properties representing ~11.8 million rentable square feet, and office space accounts for just less than 90% of each (56 properties representing ~10.4 million rentable square feet). Joint ventures have been Brandywine’s Achilles’ heel of late; some of its development deals force BDN to recognize numerous costs until the projects become profitable, and that has resulted in significant downward revisions to FFO estimates. Relief could be on the way, though, as several JVs could be recapitalized in coming quarters. Brandywine also secured a massive deal with Nvidia (NVDA), which will occupy nearly 100,000 square feet in BDN’s One Uptown development in Austin. But let’s keep a really close eye on the dividend. The payout was 107% of FFO through the first half of 2025, and full-year FFO are expected to just barely pay for the dividend. If Brandywine runs into liquidity issues, that 13%-plus yield could be a rug-pull just waiting to happen. Brett Owens is Chief Investment Strategist for Contrarian Outlook. For more great income ideas, get your free copy his latest special report: How to Live off Huge Monthly Dividends (up to 7.6%) — Practically Forever. Disclosure: none
+Description: Rate cuts don’t always hit the 10-year overnight. But the direction is now clear—and history shows that REITs rally once the bond market adjusts.
 --------------------------------------------------
 
 Title: AI stock pickers just got an important reminder
@@ -256,59 +298,4 @@ Title: Nvidia (NVDA) Equips GeForce Now with RTX 5080 Blackwell SuperPods
 URL: https://finance.yahoo.com/news/nvidia-nvda-equips-geforce-now-003725206.html
 Time Published: 2025-09-27T00:37:25Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the best dividend stocks to buy. On September 13, Nvidia unveiled the latest GeForce Now enhancement...
---------------------------------------------------
-
-Title: Trump Never Expected This—His Most-Hated Stocks Are Crushing Nvidia, Gold Miners
-URL: https://finance.yahoo.com/news/trump-never-expected-most-hated-233412317.html
-Time Published: 2025-09-26T23:34:12Z
-Description: President Donald Trump has never hidden his antipathy for clean energy, solar and wind investments, but what's happening in U.S. markets since April is...
---------------------------------------------------
-
-Title: Kevin O’Leary is furious at Trump ‘force-feeding’ him Intel — as the US aims to invest taxpayer money in another company
-URL: https://finance.yahoo.com/news/kevin-o-leary-furious-trump-211500380.html
-Time Published: 2025-09-26T21:15:00Z
-Description: “I don’t like governments picking winners and losers,” Mr. Wonderful says.
---------------------------------------------------
-
-Title: I inherited $600K in Apple stock. It now makes up 50% of my portfolio. Is that too risky?
-URL: https://www.marketwatch.com/story/my-mother-left-me-600k-in-apple-shares-they-are-50-of-my-portfolio-am-i-crazy-if-i-dont-diversify-a6643a81
-Time Published: 2025-09-26T20:25:00Z
-Description: “I worry that a downturn in the tech sector, or something Apple-specific, could wipe out half my portfolio.”
---------------------------------------------------
-
-Title: S&P 500 Gains and Losses Today: Electronic Arts Stock Pops on Buyout Talks; Costco Slips
-URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-electronic-arts-stock-pops-on-buyout-talks-costco-slips-11819608
-Time Published: 2025-09-26T20:15:41Z
-Full Content:
-Reports that a group of investors could be gearing up for a takeover bid helped drive a power-up for a major video game publisher, while soft same-store sales results in the U.S. weighed on the stock of a membership warehouse club. Major U.S. equities indexes broke their three-day losing streak as a key inflation gauge was in line with expectations, which could keep the Federal Reserve on track to cut interest rates further. The S&P 500 advanced 0.6%, the Dow was up 0.7%, and the Nasdaq ended 0.4% higher. Click here to find more coverage from Investopedia of the day's market news. Shares of video game maker Electronic Arts (EA) surged nearly 15%, logging the top performance in the S&P 500, after a report that a deal could be in the works to take the company private. According to The Wall Street Journal, a group of investors that includes Saudi Arabia’s Public Investment Fund and the private equity firm Silver Lake could be nearing a $50 billion transaction—potentially the largest leveraged buyout of all time—to take over the game publisher known for its sports titles. President Donald Trump announced a new set of tariffs Thursday, including levies on imports of pharmaceuticals, certain types of furniture, and heavy-duty trucks. Shares of Paccar (PCAR), parent company of the Peterbilt and Kenworth truck brands, gaining over 5%. The company had previously indicated that tariff-related uncertainty was weighing on the truck market, with U.S. truck manufacturers also managing the impact of tariffs on key components like steel and aluminum. Intel (INTC) shares extended their recent rally, adding 4.4% Friday. The Wall Street Journal indicated that, in addition to talks with Apple (AAPL), Intel has approached TSMC (TSM) about potential investment and partnership opportunities. Nvidia (NVDA), the world's largest company by market capitalization, announced a $5 billion investment and collaboration plan with Intel last week. Boeing (BA) shares climbed 3.6% after the Federal Aviation Administration said the plane maker will be allowed to issue airworthiness certificates on some of its 737 Max and 787 jets. The eased restrictions, which enable the company to conduct the final safety check on certain aircraft, could help Boeing accelerate production and delivery schedules. In addition, Turkish Airlines finalized a deal to purchase 225 Boeing planes following Turkish President Recep Tayyip Erdoğan's visit to the U.S. this week. Costco (COST) stock slid nearly 3% after the members-only warehouse giant reported its fiscal fourth-quarter financial results. Sales and profits topped analysts' expectations, but U.S. same-store sales fell slightly short of estimates. While shoppers may be drawn to Costco's bargains on essential items amid economic uncertainty and concerns about inflation, the company said consumers remain cautious about discretionary purchases and pointed to intensifying competition in the space. Oracle (ORCL) shares fell 2.7% Friday, extending declines posted in the prior session after Rothschild Redburn initiated coverage of the stock with a "sell" rating. Analysts cautioned that markets may be overly optimistic in their lofty expectations for the software provider's cloud operations. Shares of online auction platform operator eBay (EBAY) slipped about 2%. The stock had notched strong gains after the e-commerce company posted better-than-expected revenue, adjusted earnings, and gross merchandise volume in its latest earnings report released at the end of July. EBay said this week that it agreed to purchase Norway-based consumer-to-consumer social marketplace Tise.
---------------------------------------------------
-
-Title: Nvidia makes surprising move into British AI company
-URL: https://www.thestreet.com/investing/nvidia-makes-surprising-move-into-british-ai-company
-Time Published: 2025-09-26T17:07:00Z
-Description: Here’s what could be next for Nscale.
---------------------------------------------------
-
-Title: Wall Street Can’t Get Enough of Nvidia Stock. Is It a Buy Below $180?
-URL: https://www.barchart.com/story/news/35065072/wall-street-cant-get-enough-of-nvidia-stock-is-it-a-buy-below-180
-Time Published: 2025-09-26T16:24:42Z
-Description: Nvidia is a big tech stock that remains at the epicenter of the artificial intelligence megatrend. Is NVDA stock still a good buy right now?
---------------------------------------------------
-
-Title: Jim Cramer Believes “NVIDIA is Making a Very Smart Investment in OpenAI”
-URL: https://finance.yahoo.com/news/jim-cramer-believes-nvidia-making-151821840.html
-Time Published: 2025-09-26T15:18:21Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer shed light on. Cramer discussed the company’s recent deal with OpenAI. He remarked: “It...
---------------------------------------------------
-
-Title: BofA Reiterates Buy Rating on NVIDIA Corporation, Keeps PT at $235
-URL: https://finance.yahoo.com/news/bofa-reiterates-buy-rating-nvidia-150228793.html
-Time Published: 2025-09-26T15:02:28Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the 10 Best AI Stocks to Buy According to Goldman Sachs. On September 22, BofA reiterated its Buy rating on NVIDIA...
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA) To Invest $100 Billion In OpenAI, Linking Two AI Giants
-URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-invest-100-144520918.html
-Time Published: 2025-09-26T14:45:20Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is among the Renaissance Technologies Portfolio: 10 Biggest Stocks. On September 22, the company announced to invest up to $...
 --------------------------------------------------

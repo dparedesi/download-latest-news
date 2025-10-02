@@ -1,5 +1,24 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Big Tech's AI Spending—and Borrowing—Will Be Even Higher Next Year, Says Citi
+URL: https://www.investopedia.com/big-tech-s-ai-spending-and-borrowing-will-be-even-higher-next-year-says-citi-11821812
+Time Published: 2025-09-30T22:39:30Z
+Full Content:
+After a series of big cloud computing deals this month, Citigroup analysts now expect AI spending to exceed their already eye-watering forecast. Citi analysts on Tuesday estimated that hyperscalers—including Microsoft (MSFT), Alphabet (GOOG), Amazon (AMZN), Oracle (ORCL), and CoreWeave (CRWV)—will spend $490 billion on infrastructure and other capital goods next year, up from a prior estimate of $420 billion. Citi’s forecasts are slightly above the Wall Street consensus. The AI infrastructure boom has been a major force behind U.S. stock market gains and economic growth in recent years. If tech companies rely on debt to fund their massive AI investments, they could expose the AI buildout—and the broader economy—to greater risk. The analysts pointed to an onslaught of announced partnerships, investments, and products in recent weeks as evidence of strong AI demand. They said their recent conversations with CIOs and CTOs at a range of companies “reflect a similar increase in urgency around adoption at the enterprise level.” Citi expects AI infrastructure providers like Nvidia (NVDA) to benefit from higher spending. As such, the firm’s analysts raised their price target on Nvidia shares to $210 from $200 on Tuesday. The hyperscalers are among the world’s largest, most profitable companies, a fact that has enabled them to increase their infrastructure spending exponentially over the past few years. But not even hugely profitable tech giants can undertake this level of investment on their own. “It is notable that we have gone from the cash flow funded stage of this investment cycle to the debt funded stage, with the incremental risks that come with it,” Citi’s analysts wrote. Oracle last week sold $18 billion of bonds in the second-largest U.S. debt deal this year, according to a Bloomberg report. Oracle, which has spent more than it's made in each of the last two quarters, is expected to use the debt to increase its cloud capacity so it can deliver on a five-year, $300 billion deal with OpenAI. Adding that much capacity will be expensive. Citi sees Oracle’s capital expenditures ballooning to $58 billion in fiscal year 2027, nearly three times what it spent in the fiscal year that ended in May. OpenAI, another company that will need to spend a lot to support its ambitions, took a different approach to raising money. Last week, the company struck a deal with Nvidia to deploy 10 GW of Nvidia systems over the next five years in exchange for an incremental $100 billion equity investment. OpenAI is reportedly discussing leasing—not buying—the chips from Nvidia, a novel arrangement that could cut its hardware costs by 10 to 15%, according to The Information. The deal raised eyebrows on Wall Street, where some analysts and investors expressed concern about the “circularity” and concentration of the AI ecosystem. Some skeptics likened it to a bailout, with Nvidia stepping in as an investor of last resort to support a cash-starved OpenAI. It has also inspired comparisons to the Dotcom Bubble, when telecom equipment providers lent to and invested in their own customers, fueling speculative fervor. But analysts see important differences between the 1990s and today. “The critical distinction, in our view, is the ‘off-ramp’ created by growing external demand for AI services driven by enterprise adoption,” write Citi analysts. Companies like OpenAI and Meta (META), they say, are rolling out AI-driven applications and services with clear monetization prospects. And the rate of AI’s technological progress, they argue, is quickly expanding the scope of potential applications.
+--------------------------------------------------
+
+Title: Bruker, Agilent, Revvity, Avantor, and Bio-Techne Shares Are Soaring, What You Need To Know
+URL: https://finance.yahoo.com/news/bruker-agilent-revvity-avantor-bio-200539969.html
+Time Published: 2025-09-30T20:05:39Z
+Description: A number of stocks jumped in the afternoon session after reports revealed a potential drug-pricing agreement between the White House and the pharmaceutical...
+--------------------------------------------------
+
+Title: Mag 7 Remains Top Picks for Hedge Funds as Money Managers Poured $185B Into These Stocks in Q2
+URL: https://www.ibtimes.com/mag-7-remains-top-picks-hedge-funds-money-managers-poured-185b-these-stocks-q2-3784904
+Time Published: 2025-09-30T20:03:35Z
+Description: US megacap tech stocks, which are driving the AI boom, remain the top picks for hedge funds, reaffirming their forecasts of long-term growth potential.
+--------------------------------------------------
+
 Title: These Small, Unloved Companies Are The Next Big Dividend Plays
 URL: https://www.forbes.com/sites/michaelfoster/2025/09/30/these-small-unloved-companies-are-the-next-big-dividend-plays/
 Time Published: 2025-09-30T14:00:00Z
@@ -41,59 +60,4 @@ Title: Bill Gates says he owns 1 out of every 4000 acres of all US farmland – 
 URL: https://finance.yahoo.com/news/bill-gates-says-owns-1-161200466.html
 Time Published: 2025-09-27T16:12:00Z
 Description: Recent estimates indicate the Microsoft magnate owns around 270,000 acres of U.S. farmland.
---------------------------------------------------
-
-Title: Enviri (NVRI) Stock Trades Up, Here Is Why
-URL: https://finance.yahoo.com/news/enviri-nvri-stock-trades-why-194043194.html
-Time Published: 2025-09-26T19:40:43Z
-Description: Shares of steel and waste handling company Enviri (NYSE:NVRI) jumped 3.5% in the afternoon session after a key inflation data aligned with forecasts...
---------------------------------------------------
-
-Title: Leonardo DRS, Mercury Systems, Sealed Air, MYR Group, and Winnebago Shares Are Soaring, What You Need To Know
-URL: https://finance.yahoo.com/news/leonardo-drs-mercury-systems-sealed-194043813.html
-Time Published: 2025-09-26T19:40:43Z
-Description: A number of stocks jumped in the afternoon session after a key inflation data aligned with forecasts, bolstering hopes for continued interest rate cuts from ...
---------------------------------------------------
-
-Title: Tesla Target Raised by Deutsche Bank on AI Growth Potential
-URL: https://finance.yahoo.com/news/tesla-target-raised-deutsche-bank-163209425.html
-Time Published: 2025-09-26T16:32:09Z
-Description: Analyst sees artificial intelligence initiatives as long-term driver
---------------------------------------------------
-
-Title: Wall Street Can’t Get Enough of Nvidia Stock. Is It a Buy Below $180?
-URL: https://www.barchart.com/story/news/35065072/wall-street-cant-get-enough-of-nvidia-stock-is-it-a-buy-below-180
-Time Published: 2025-09-26T16:24:42Z
-Description: Nvidia is a big tech stock that remains at the epicenter of the artificial intelligence megatrend. Is NVDA stock still a good buy right now?
---------------------------------------------------
-
-Title: Why memory is key element to the AI revolution
-URL: https://www.thestreet.com/technology/why-memory-is-key-element-to-the-ai-revolution
-Time Published: 2025-09-26T15:07:00Z
-Description: Micron, the only-U.S. based memory manufacturer, is one of the biggest companies in the AI memory sector.
---------------------------------------------------
-
-Title: Palantir Stock: Is PLTR Outperforming the Technology Sector?
-URL: https://www.barchart.com/story/news/35059413/palantir-stock-is-pltr-outperforming-the-technology-sector
-Time Published: 2025-09-26T12:41:06Z
-Description: Despite Palantir’s blistering run that’s left the broader tech sector in the dust, analysts are still hesitant to buy into the hype.
---------------------------------------------------
-
-Title: Up 85% YTD, More Returns In Store For Micron Stock?
-URL: https://www.forbes.com/sites/greatspeculations/2025/09/26/up-85-ytd-more-returns-in-store-for-micron-stock/
-Time Published: 2025-09-26T09:30:24Z
-Full Content:
-ByTrefis Team, Contributor. As generative AI transforms various industries, one of the most essential – yet frequently overlooked – elements driving this change is memory. Memory manufacturer Micron (NASDAQ:MU) is central to this evolution, supplying the high-bandwidth memory (HBM) and DRAM necessary to keep extensive AI models operating at both speed and scale. As AI workloads become increasingly complex, memory is becoming vital for hyperscalers and cloud service providers. While GPUs and accelerators capture attention, memory is the discreet backbone that dictates the speed and efficiency of these systems. The stock price of Micron reflects this rising demand, having surged roughly 85% year-to-date in 2025. Nonetheless, is the stock still worthy of consideration at present valuations? Regardless of its appeal, investing in a single stock carries significant risk. The Trefis High-Quality Portfolio has been designed to lessen stock-specific risk while providing upside potential. The figures from Micron’s results speak for themselves. For the quarter ending in August, Micron’s revenue reached $11.32 billion, an increase of 46% year-over-year, while adjusted net income skyrocketed by 157% to $3.47 billion ($3.03 per diluted share). Remarkably, sales in the cloud memory segment more than tripled to $4.5 billion. CEO Sanjay Mehrotra informed analysts that the demand for Micron’s DRAM and NAND offerings was stronger than previously anticipated, enhancing the company’s outlook. Robust DRAM shipments across all end markets, strong pricing due to constrained supply and low inventory levels, along with slower transitions to newer process nodes limiting total output, are all factors contributing to growth. Micron anticipates a favorable demand-supply balance for DRAM in 2026, which will support ongoing profitability. For Q1 2026, Micron projects revenue of $12.5 billion, plus or minus $300 million, marking an increase of approximately 61% year-over-year at the midpoint. HBM is an ultra-fast, low-latency memory primarily crafted for AI accelerators and GPUs to swiftly process vast model data, while DRAM provides larger-capacity, general-purpose memory supporting AI workloads by storing large volumes of data, albeit at slower transfer speeds than HBM. Micron serves as a primary memory and storage partner for Nvidia’s Blackwell GB200 and GB300 platforms, supplying both HBM3E and LPDDR5X solutions, and is also a key supplier for AMD’s Instinct MI350 GPUs. Nvidia’s latest systems incorporate 33% more memory per node compared to previous generations, as AI models increasingly adopt a multimodal approach – integrating text, video, and speech – heightening the demand for memory. Refer to our note on how Micron Stock Surges 2x To $300 To underscore the magnitude of investment in AI, Amazon (NASDAQ:AMZN), Alphabet (NASDAQ:GOOG), Microsoft (NASDAQ:MSFT), and Meta (NASDAQ:META) have suggested that they could collectively commit $364 billion to capital expenditures in their respective current fiscal years. Earlier in September, Oracle revealed it has entered into contracts worth hundreds of billions of dollars to offer cloud computing services to OpenAI and other large clients. While these infrastructure agreements will necessitate computing power – either GPUs or custom ASICs, as well as server and networking equipment, memory will also be vital, and Micron stands to gain significantly from this expansion. With the ascent of AI adoption throughout the economy, Micron is poised for sustained growth. Indications suggest that the most compute-intensive phase of AI training may start to plateau, with the industry pivoting toward inference – the application of trained models to fresh data in real-time and at massive scale. Inference is less demanding per task but takes place continuously across millions of users and applications. HBM is critical for enabling AI inference at scale, thanks to its bandwidth and power efficiency benefits, complementing high-performance GPUs primarily utilized for training. This trend undeniably favors specialized, power-efficient suppliers like Micron. However, supply may struggle to keep up. Manufacturing HBM is more complex than producing standard DRAM, and supply levels remain tight. Creating HBM is wafer-intensive—it necessitates around three times more wafers than standard DRAM to yield the same volume of bits due to its lower bit density and complex 3D stacking, resulting in a natural bottleneck. While Micron has been increasing its HBM production capabilities, its output for 2025 has already been sold out, with strong demand expected for 2026. The company allocated $13.8 billion for capital expenditures in FY’25 and plans to further boost spending in 2026, chiefly to enhance DRAM capacity for AI workloads. For Q1 2026 alone, Micron aims to invest $4.5 billion, with the majority of capex focused on DRAM. This figure serves as a baseline for what investors can anticipate each quarter, indicating that total capital expenditures for the year will likely exceed $18 billion. Despite this notable rally, Micron stock is valued at approximately 10 times estimated earnings for 2026. Projected growth appears robust: anticipated revenues are expected to increase by 42% in 2026, based on consensus forecasts. Nevertheless, the memory market has historically been cyclical. DRAM and NAND are susceptible to variations in supply and demand, along with price volatility. At this point, it seems that HBM acts as a partially secular growth factor, given the relentless investment by major tech firms over the last three years. However, HBM currently represents only a small fraction of total sales, meaning the company is not completely shielded from traditional market cycles. The Trefis High Quality (HQ) Portfolio, comprising 30 stocks, boasts a history of consistently outperforming its benchmark, which includes the S&P 500, Russell, and S&P midcap — and has achieved returns exceeding 91% since its inception. What is the reason for this? Collectively, HQ Portfolio stocks have provided superior returns with lower risk compared to the benchmark index; resulting in a less tumultuous experience, as demonstrated by the HQ Portfolio performance metrics.
---------------------------------------------------
-
-Title: Truist Keeps Buy Rating on Microsoft (MSFT) After New OpenAI Deal
-URL: https://finance.yahoo.com/news/truist-keeps-buy-rating-microsoft-040700103.html
-Time Published: 2025-09-26T04:07:00Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the 15 Best American Tech Stocks to Buy Right Now. On September 15, Truist Securities reaffirmed its Buy rating...
---------------------------------------------------
-
-Title: This bold Oracle move could be the beginning of something big
-URL: https://www.thestreet.com/technology/this-bold-oracle-move-could-be-the-beginning-of-something-big-
-Time Published: 2025-09-26T01:03:00Z
-Description: Two insiders now lead Oracle’s next chapter. The move could be visionary — or risky.
 --------------------------------------------------
