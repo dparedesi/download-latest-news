@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Now Up 70% in 2025, Is Intel Stock a Buy, Sell, or Hold for Q4?
+URL: https://www.barchart.com/story/news/35169458/now-up-70-in-2025-is-intel-stock-a-buy-sell-or-hold-for-q4
+Time Published: 2025-10-01T18:13:36Z
+Description: Intel stock has skyrocketed in 2025 thanks to a historic AI partnership with Nvidia and aggressive restructuring efforts.
+--------------------------------------------------
+
 Title: These S&P 500 Stocks Stood Out in Q3 2025: Western Digital, Warner Bros Discovery, Seagate, Corning, Teradyne
 URL: https://www.thestreet.com/markets/these-s-p-500-stocks-stood-out-in-q3-2025-western-digital-warner-bros-discovery-seagate-corning-teradyne
 Time Published: 2025-10-01T16:35:10Z
@@ -149,14 +155,14 @@ Time Published: 2025-09-30T15:25:12Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.25%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.06%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
-Title: CoreWeave stock surges as $14 billion deal with Meta signals 'limitless' AI demand
-URL: https://finance.yahoo.com/news/coreweave-stock-surges-as-14-billion-deal-with-meta-signals-limitless-ai-demand-142356928.html
+Title: CoreWeave stock surges as reported $14 billion Meta deal signals 'limitless' AI demand
+URL: https://finance.yahoo.com/news/coreweave-stock-surges-as-reported-14-billion-meta-deal-signals-limitless-ai-demand-142356584.html
 Time Published: 2025-09-30T14:23:56Z
 Description: CoreWeave stock jumped as the company has inked a $14.2 billion deal with Meta.
 --------------------------------------------------
 
-Title: CoreWeave stock surges as reported $14 billion Meta deal signals 'limitless' AI demand
-URL: https://finance.yahoo.com/news/coreweave-stock-surges-as-reported-14-billion-meta-deal-signals-limitless-ai-demand-142356584.html
+Title: CoreWeave stock surges as $14 billion deal with Meta signals 'limitless' AI demand
+URL: https://finance.yahoo.com/news/coreweave-stock-surges-as-14-billion-deal-with-meta-signals-limitless-ai-demand-142356928.html
 Time Published: 2025-09-30T14:23:56Z
 Description: CoreWeave stock jumped as the company has inked a $14.2 billion deal with Meta.
 --------------------------------------------------
@@ -303,10 +309,4 @@ Title: Cathie Wood sells $22.3 million of popular tech stock
 URL: https://www.thestreet.com/investing/cathie-wood-sells-22-3-million-of-popular-tech-stock
 Time Published: 2025-09-28T18:03:00Z
 Description: Here are Cathie Wood’s latest moves.
---------------------------------------------------
-
-Title: Watch out: Soaring stocks could tip markets over
-URL: https://www.thestreet.com/investing/stocks/watch-out-soaring-stocks-could-tip-markets-over
-Time Published: 2025-09-28T15:17:54Z
-Description: The major averages are sitting just below all-time highs as September closes.
 --------------------------------------------------
