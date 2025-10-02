@@ -5,3 +5,9 @@ URL: https://www.thestreet.com/investing/stocks/top-stocks-today-nvidia-robinhoo
 Time Published: 2025-10-01T02:41:57Z
 Description: Here are the stocks that made the biggest moves today
 --------------------------------------------------
+
+Title: Stocks Settle Higher as Drug Makers and Chip Stocks Rally
+URL: https://www.barchart.com/story/news/35140026/stocks-settle-higher-as-drug-makers-and-chip-stocks-rally
+Time Published: 2025-09-30T20:41:19Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed up +0.41%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.18%, and the Nasdaq 100 Index...
+--------------------------------------------------
