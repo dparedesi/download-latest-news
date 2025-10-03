@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Stock Market Today: Nike, Eli Lily surge; Robinhood slips
+URL: https://www.thestreet.com/markets/stock-market-today-nike-eli-lily-surge-robinhood-slips
+Time Published: 2025-10-02T00:05:20Z
+Description: Here are the stocks that made the biggest moves today.
+--------------------------------------------------
+
 Title: Taiwan will not agree to 50-50 chip production deal with US, negotiator says
 URL: https://finance.yahoo.com/news/taiwan-not-agree-50-50-002030899.html
 Time Published: 2025-10-01T00:20:30Z

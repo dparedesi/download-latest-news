@@ -1,5 +1,29 @@
 List of news related to JPMorgan stock price JPM:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq mixed as AI optimism blots out US shutdown risks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-ai-optimism-blots-out-us-shutdown-risks-145218407.html
+Time Published: 2025-10-02T14:52:18Z
+Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq gains fizzle with AI buzz, Trump's shutdown threats in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-with-ai-buzz-trumps-shutdown-threats-in-focus-145218301.html
+Time Published: 2025-10-02T14:52:18Z
+Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
+--------------------------------------------------
+
+Title: Stock market today: S&P 500, Nasdaq rise as AI optimism blots out US shutdown risks
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-ai-optimism-blots-out-us-shutdown-risks-133118033.html
+Time Published: 2025-10-02T13:31:18Z
+Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
+--------------------------------------------------
+
+Title: Stock market today: S&P 500, Nasdaq jump as AI optimism blots out US shutdown risks
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-as-ai-optimism-blots-out-us-shutdown-risks-133118631.html
+Time Published: 2025-10-02T13:31:18Z
+Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
+--------------------------------------------------
+
 Title: Stock market today: S&P 500, Nasdaq futures rise as AI optimism grows, while Dow stalls amid US shutdown
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-rise-as-ai-optimism-blots-out-us-shutdown-230340381.html
 Time Published: 2025-10-01T23:03:40Z
