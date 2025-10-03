@@ -1,5 +1,23 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Mizuho Maintains Neutral Rating on Xylem Inc. (XYL), Raises Its Price Target from $125 to $140
+URL: https://finance.yahoo.com/news/mizuho-maintains-neutral-rating-xylem-224645161.html
+Time Published: 2025-10-01T22:46:45Z
+Description: Xylem Inc. (NYSE:XYL) is one of the 20 Best Stocks to Buy and Hold for a Lifetime, delivering consistent revenue and dividend growth. Mizuho maintained a...
+--------------------------------------------------
+
+Title: As Alibaba Goes From ‘Uninvestable’ to FOMO, Should You Buy or Sell BABA Stock?
+URL: https://www.barchart.com/story/news/35166120/as-alibaba-goes-from-uninvestable-to-fomo-should-you-buy-or-sell-baba-stock
+Time Published: 2025-10-01T16:05:37Z
+Description: Alibaba, which, like other Chinese companies, had become "uninvestible" for global funds a couple of years back, is now seeing buying interest in what looks ...
+--------------------------------------------------
+
+Title: 1 ‘Strong Buy’ Growth Stock to Grab With 60% Upside
+URL: https://www.barchart.com/story/news/35154799/1-strong-buy-growth-stock-to-grab-with-60-upside
+Time Published: 2025-10-01T11:30:03Z
+Description: With surging revenue growth, rising profitability, and expanding AI-driven adoption, GitLab appears to be a compelling AI stock to consider now.
+--------------------------------------------------
+
 Title: U.S. stock futures fall as government shutdown hits markets — Dow, S&P 500, and Nasdaq show early losses
 URL: https://economictimes.indiatimes.com/news/international/us/u-s-stock-futures-fall-today-october-1-as-government-shutdown-hits-markets-dow-sp-500-and-nasdaq-show-early-losses-nike-lithium-americas-apple-and-nvidia-stand-out/articleshow/124255360.cms
 Time Published: 2025-10-01T10:27:37Z
@@ -62,10 +80,4 @@ Title: IonQ Just Achieved a New Quantum Computing Milestone. Should You Buy IONQ
 URL: https://www.barchart.com/story/news/35101084/ionq-just-achieved-a-new-quantum-computing-milestone-should-you-buy-ionq-stock-here
 Time Published: 2025-09-29T13:18:05Z
 Description: IonQ has reached a groundbreaking quantum computing milestone, moving closer to a connected Quantum Internet.
---------------------------------------------------
-
-Title: Amazon (AMZN) Stock Upgraded to Overweight on AWS Growth Outlook
-URL: https://finance.yahoo.com/news/amazon-amzn-stock-upgraded-overweight-224237792.html
-Time Published: 2025-09-27T22:42:37Z
-Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the AI Stocks Every Investor Should Watch. On September 24, Wells Fargo analyst Ken Gawrelski upgraded the stock...
 --------------------------------------------------

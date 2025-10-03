@@ -1,5 +1,24 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: S&P 500, Nasdaq futures rise as AI optimism grows, while Dow stalls amid US shutdown
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-rise-as-ai-optimism-blots-out-us-shutdown-230340381.html
+Time Published: 2025-10-01T23:03:40Z
+Description: US stock futures wavered as Wall Street's confidence in the Federal Reserve instituting more rate cuts this year so far overshadowed a US government shutdown...
+--------------------------------------------------
+
+Title: S&P 500 Gains and Losses Today: AES and Pharma Stocks Soar; Corteva Drops
+URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-aes-and-pharma-stocks-soar-corteva-drops-11822426
+Time Published: 2025-10-01T20:24:52Z
+Full Content:
+Reports of a potential acquisition helped shares of a utility company power higher, while an agricultural sciences firm faced pressure after it announced a plan to separate into two independent entities. Major U.S. equities indexes recovered from early losses to end higher on the first trading day after a federal government shutdown took effect. The S&P 500 added 0.3% and the Dow eked out a 0.1% gain to finish at all-time highs. The Nasdaq climbed 0.4% to finish just short of its closing record. Find the full market summary from Investopedia here. Shares of renewable energy provider AES (AES) surged nearly 17%, gaining the most of any S&P 500 stock. The push higher followed reports that Global Infrastructure Partners, owned by asset management giant BlackRock (BLK), is in talks to buy AES. The deal could be worth around $38 billion, which would make it one of the largest infrastructure takeovers ever. Pharmaceutical stocks and others in the healthcare sector extended their gains Wednesday, a day after Pfizer (PFE) became the first major drugmaker to comply with a push from the White House cut medication prices in the U.S. to the lower levels seen in other countries. According to media reports, other major pharma companies could follow Pfizer's lead and seek pricing deals with the Trump administration. Shares of Biogen (BIIB), Thermo Fisher Scientific (TMO), Eli Lilly (LLY), Regeneron Pharmaceuticals (REGN) all ranked among the benchmark index's top performers Wednesday. Shares of memory chip maker and Nvidia (NVDA) partner Micron Technology (MU) advanced close to 9%, along with hard drive makers Seagate Technology (STX) and Western Digital (WDC). The moves extended recent gains on anticipation they could benefit from growing demand for data storage to support AI. Corteva (CTVA) shares tumbled 9.1%, logging the S&P 500's weakest performance Wednesday, after the agricultural sciences firm announced a plan to split its crop protection and its seed businesses into two independent companies. The company expects the transaction to be complete by the second half of 2026. Shares of tech-focused research firm Gartner (IT) fell 4.5%. Although the U.S. federal government accounts for less than 5% of Gartner's revenue, the government shutdown weighed on sentiment across the advisory industry. Gartner stock has also faced pressure stemming from concerns about how AI could disrupt the research business. Interpublic Group (IPG) stock lost 5% on Wednesday, reversing gains posted in the prior session after German biotech giant Bayer (BAYRY) named IPG as the exclusive creative and media partner for its consumer health business. IPG and fellow marketing firm Omnicom (OMC) announced that the regulatory approval process for their intended merger remains in progress and that they expect the deal to close by year-end. Omnicom shares also slipped 5%.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500 notch records as Wall Street shrugs at shutdown, amps up rate cut bets
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-notch-records-as-wall-street-shrugs-at-shutdown-amps-up-rate-cut-bets-200022081.html
+Time Published: 2025-10-01T20:00:22Z
+Description: Wall Streett is assessing the first US shutdown in seven years and an unexpected drop in private-sector jobs.
+--------------------------------------------------
+
 Title: Now Up 70% in 2025, Is Intel Stock a Buy, Sell, or Hold for Q4?
 URL: https://www.barchart.com/story/news/35169458/now-up-70-in-2025-is-intel-stock-a-buy-sell-or-hold-for-q4
 Time Published: 2025-10-01T18:13:36Z
@@ -12,11 +31,29 @@ Time Published: 2025-10-01T16:35:10Z
 Description: AI beneficiaries dominate the list of top performers in the S&P 500 in Q3.
 --------------------------------------------------
 
+Title: As Alibaba Goes From ‘Uninvestable’ to FOMO, Should You Buy or Sell BABA Stock?
+URL: https://www.barchart.com/story/news/35166120/as-alibaba-goes-from-uninvestable-to-fomo-should-you-buy-or-sell-baba-stock
+Time Published: 2025-10-01T16:05:37Z
+Description: Alibaba, which, like other Chinese companies, had become "uninvestible" for global funds a couple of years back, is now seeing buying interest in what looks ...
+--------------------------------------------------
+
 Title: US stock market today: Dow, S&P 500, Nasdaq slip as US shutdown collides with ADP’s shock 32,000 job losses; fueling Fed cut expectations
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-wall-street-wavers-as-us-shutdown-triggers-jobs-shock-dow-sp-500-and-nasdaq-slip-as-adp-reports-surprise-32000-job-losses-in-september-and-fed-rate-cut-bets-rise/articleshow/124262035.cms
 Time Published: 2025-10-01T15:37:02Z
 Full Content:
 U.S. stock market opened weaker on Wednesday, October 1, 2025, as investors reacted to the first government shutdown in nearly seven years. Major indices were mixed, with the Dow Jones Industrial Average (^DJI) near 46,463, the S&P 500 (^GSPC) down about 0.1%, and the Nasdaq Composite (^IXIC) also slipping slightly. Traders are closely watching key sectors, safe-haven assets like gold, and upcoming economic reports for clues on the market’s direction. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Alberta teachers say ‘no’ to government’s latest contract, set to strike on Monday, disrupting classes for 700,000+ students Could your next pack of cigarettes be funding criminal networks? Inside Western Canada’s billion-dollar contraband trade Canada bars Irish rap band Kneecap from entry over alleged terrorism support Bank of Canada cuts interest rate to 2.5% as GDP shrinks, job market softens Beverly Thomson, veteran CTV journalist and Canada AM co-host, dies at 61 Seth Rogen wins Emmy Award for best lead actor in comedy series 'The Studio' Zach Bryan confronts Gavin Adcock at Oklahoma music festival after country singer criticism Weekend streaming guide Canada: top 10 Netflix, Crave, Disney+ and Apple TV+ shows September 2025 Canada pension and retirement benefits 2025: up to $2,461 in federal and provincial payments through December Molly McCann wins professional boxing debut despite opponent's illegal kick How Americans and a fake Fox News account accused Toronto retiree Michael Mallinson of assassinating Charlie Kirk Canadian bread price fixing settlement opens: $500m available for claims Canadian soldier found dead in Latvia during NATO operation reassurance deployment EC’s SIR in Patna: 48 Lakh+ voters across 14 constituencies US agrees to let Koreans return under short-term visa deal US govt shutdown begins; Senate fails to reach funding deal Ladakh relief: Markets reopen, LG assures dialogue, more jobs Big Diwali Gift for govt employees, cabinet announces 3% Dearness Allowance Sheikh Hasina’s Awami League alleges Yunus govt rebuilding ties with Pak Zubeen case: Organiser, manager produced before CJM PM stresses Swadeshi, Unity, Demography Mission for future India PM unveils ₹100 coin; first-ever depiction of Bharat Mata on a currency Cabinet announces DA hike ahead of Diwali EC’s SIR in Patna: 48 Lakh+ voters across 14 constituencies US agrees to let Koreans return under short-term visa deal US govt shutdown begins; Senate fails to reach funding deal Ladakh relief: Markets reopen, LG assures dialogue, more jobs Big Diwali Gift for govt employees, cabinet announces 3% Dearness Allowance Sheikh Hasina’s Awami League alleges Yunus govt rebuilding ties with Pak Zubeen case: Organiser, manager produced before CJM PM stresses Swadeshi, Unity, Demography Mission for future India PM unveils ₹100 coin; first-ever depiction of Bharat Mata on a currency Cabinet announces DA hike ahead of Diwali Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Prime Articles Private Companies Top Commodities Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: ‘2 Out of 3 Ain’t Bad’ When It Comes to Charting the S&P 500’s Top 3 Stocks
+URL: https://www.barchart.com/story/news/35158765/2-out-of-3-aint-bad-when-it-comes-to-charting-the-s-p-500s-top-3-stocks
+Time Published: 2025-10-01T12:45:01Z
+Description: Here’s a look at the three largest stocks in the S&P 500 Index right now… and why one is a bust.
+--------------------------------------------------
+
+Title: See How NVIDIA Leaps Higher with Money Flows
+URL: https://finance.yahoo.com/news/see-nvidia-leaps-higher-money-112233137.html
+Time Published: 2025-10-01T11:22:33Z
+Description: Shares of hyperscaler NVIDIA Corporation (NVDA) up almost 72,566% since first Big Money outlier signal in 2000.
 --------------------------------------------------
 
 Title: U.S. stock futures fall as government shutdown hits markets — Dow, S&P 500, and Nasdaq show early losses
@@ -272,41 +309,4 @@ Title: Here’s Why NVIDIA Corporation (NVDA) is on Detectors’ List of Baird C
 URL: https://finance.yahoo.com/news/why-nvidia-corporation-nvda-detectors-144432722.html
 Time Published: 2025-09-29T14:44:32Z
 Description: Chautauqua Capital Management, a division of Baird Asset Management, is a boutique investment firm that released its second quarter 2025 investor letter for ...
---------------------------------------------------
-
-Title: Stocks Supported by Hopes of Additional Fed Rate Cuts
-URL: https://www.barchart.com/story/news/35102420/stocks-supported-by-hopes-of-additional-fed-rate-cuts
-Time Published: 2025-09-29T14:03:38Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.39%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.08%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: Watch These Intel Price Levels After Stock Surged 20% Last Week
-URL: https://www.investopedia.com/watch-these-intel-price-levels-after-stock-surged-20-percent-last-week-11820262
-Time Published: 2025-09-29T13:34:37Z
-Full Content:
-Intel (INTC) shares remain in the spotlight after soaring last week amid investor optimism that the embattled chipmaker could secure additional investments. The stock gained 20% last week and has risen more than 40% since the start of the month, boosted recently by reports that the chipmaker is soliciting investments from Apple (AAPL) and Taiwan Semiconductor Manufacturing Co. (TSM). Intel earlier this month receiving a $5 billion pledge from AI Favorite Nvidia (NVDA), which came not long after the U.S. government announced it had taken a 10% stake in the company. Analysts say they anticipate new developments on the investment front spurring more gains for the stock in the near term, though cautioned they still have concerns about the company's fundamentals. Intel shares were down 4% at around $34 in the opening minutes of Monday's session. Below, we take a closer look at the technicals on Intel’s weekly chart and identify critical price levels worth monitoring. Since breaking out above a multi-month trading range earlier this month, Intel shares have continued to trend sharply higher and closed above the closely watched 200-week moving average last week. Importantly, the stock’s recent advance has occurred on above-average trading volume, raising the prospect of follow-through buying. Meanwhile, the relative strength index confirms bullish price momentum, though the indicator sits in overbought territory near a reading that marked local tops in the stock in January 2020 and December 2023. Let’s identify major overhead areas on Intel’s chart to watch if the shares keep climbing and also point out support levels worth monitoring during potential retracements. The first overhead area to watch sits around $45. This location may provide resistance near a trendline that connects a range of peaks and troughs on the chart stretching all the way back to May 2019. This level also roughly coincides with the 78.6% Fibonacci retracement level when applying a grid from the December 2023 high to the lower trendline of the stock’s multi-month trading range. A successful close above this critical level could trigger a rally toward $56. Investors who have accumulated shares at lower prices may decide to lock in profits in this region near a horizontal line that links a series of comparable trading activity on the chart between October 2019 and January 2022. During retracements in the stock, investors should initially monitor the $30 level. The shares could attract buying interest in this location near several countertrend highs in late 2022 and early 2023, which also closely align with a sideways trend on the chart from May to July last year. Finally, a deeper pullback in Intel shares may see a retest of major support around $26. This area on the chart marks the top of the stock's multi-month trading range and could flip from prior resistance into future support. The comments, opinions, and analyses expressed on Investopedia are for informational purposes only. Read our warranty and liability disclaimer for more info. As of the date this article was written, the author does not own any of the above securities.
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq climb as Dow wavers with government shutdown in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-climb-as-dow-wavers-with-government-shutdown-in-focus-133119846.html
-Time Published: 2025-09-29T13:31:19Z
-Description: A US government shutdown risks delaying the release of the all-important monthly jobs report later in the week.
---------------------------------------------------
-
-Title: This Analyst’s Prediction About NVIDIA (NVDA) Was Right
-URL: https://finance.yahoo.com/news/analyst-prediction-nvidia-nvda-130104159.html
-Time Published: 2025-09-29T13:01:04Z
-Description: We recently published Analysts Are Talking About These 10 Stocks as AI Investments Continue to Grow. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks...
---------------------------------------------------
-
-Title: This AI Chip Stock Just Got a New Street-High Price Target. Should You Buy It Here?
-URL: https://www.barchart.com/story/news/35096953/this-ai-chip-stock-just-got-a-new-street-high-price-target-should-you-buy-it-here
-Time Published: 2025-09-29T11:30:02Z
-Description: Teradyne is an AI stock many investors may not have on their radar. These analysts think that's a mistake.
---------------------------------------------------
-
-Title: Cathie Wood sells $22.3 million of popular tech stock
-URL: https://www.thestreet.com/investing/cathie-wood-sells-22-3-million-of-popular-tech-stock
-Time Published: 2025-09-28T18:03:00Z
-Description: Here are Cathie Wood’s latest moves.
 --------------------------------------------------
