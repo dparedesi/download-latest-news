@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: INTC: Intel Stock Jumps 50% Since U.S. Stake Soars To $16 Billion
+URL: https://finance.yahoo.com/news/intc-intel-stock-jumps-50-175539698.html
+Time Published: 2025-10-03T17:55:39Z
+Description: Intel Surges Past $37, Turning Washington's Stake Into A Windfall
+--------------------------------------------------
+
 Title: ‘I Relish Having Competitors Who Are Unable to Fund Capital Expenditures’: Warren Buffett on Berkshire’s Biggest Strength
 URL: https://www.barchart.com/story/news/35221442/i-relish-having-competitors-who-are-unable-to-fund-capital-expenditures-warren-buffett-on-berkshires-biggest-strength
 Time Published: 2025-10-03T17:00:02Z
@@ -201,14 +207,14 @@ Full Content:
 OpenAI has reportedly finalized a secondary share sale that values the artificial intelligence company at $500 billion, making the ChatGPT owner the world's most valuable startup ever. The share sale, which allows employees to cash out, comes just months after OpenAI CEO Sam Altman said that Meta Platforms (META) was poaching the company's AI staff with signing bonuses as high as $100 million. OpenAI's sky-high valuation suggests investor demand for AI plays, which has helped propel the major U.S. equities indexes to record highs, remains strong. According to Bloomberg, OpenAI's current and former employees sold about $6.6 billion in stock in a deal that has has vaulted the company past Elon Musk’s SpaceX to become the world’s largest startup. OpenAI had a $300 billion valuation earlier this year. Rocket company SpaceX is valued at $400 billion, Bloomberg said. Investors that bought into the secondary share sale—where investors buy from other investors rather than the company—included Japan's SoftBank, which put forth $30 billion in a funding round earlier this year. Thrive Capital, Dragoneer Investment Group, Abu Dhabi’s MGX, and T. Rowe Price also snapped up shares, the report said. OpenAI, which is backed by Microsoft (MSFT), is the latest of a string of AI startups to have seen valuations soar as investors are eager for exposure ahead of potential market entries. Nvidia (NVDA) also said last month that it plans to invest up to $100 billion in OpenAI to build out AI data centers. Nvidia, the chipmaker at the heart of the AI boom, has a market capitalization of well over $4 trillion, making it the world's most valuable publicly listed company. OpenAI didn't immediately respond to an Investopedia request for comment.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq mixed as AI optimism blots out US shutdown risks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-ai-optimism-blots-out-us-shutdown-risks-145218407.html
+Title: Stock market today: Dow, S&P 500, Nasdaq gains fizzle with AI buzz, Trump's shutdown threats in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-with-ai-buzz-trumps-shutdown-threats-in-focus-145218301.html
 Time Published: 2025-10-02T14:52:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq gains fizzle with AI buzz, Trump's shutdown threats in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-with-ai-buzz-trumps-shutdown-threats-in-focus-145218301.html
+Title: Stock market today: Dow, S&P 500, Nasdaq mixed as AI optimism blots out US shutdown risks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-ai-optimism-blots-out-us-shutdown-risks-145218407.html
 Time Published: 2025-10-02T14:52:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
@@ -238,14 +244,14 @@ Time Published: 2025-10-02T13:40:18Z
 Description: TSMC Extends Rally After Taiwan Says No to U.S. Semiconductor Mandate
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq rise as AI optimism blots out US shutdown risks
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-ai-optimism-blots-out-us-shutdown-risks-133118033.html
+Title: Stock market today: S&P 500, Nasdaq jump as AI optimism blots out US shutdown risks
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-as-ai-optimism-blots-out-us-shutdown-risks-133118631.html
 Time Published: 2025-10-02T13:31:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq jump as AI optimism blots out US shutdown risks
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-as-ai-optimism-blots-out-us-shutdown-risks-133118631.html
+Title: Stock market today: S&P 500, Nasdaq rise as AI optimism blots out US shutdown risks
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-ai-optimism-blots-out-us-shutdown-risks-133118033.html
 Time Published: 2025-10-02T13:31:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
@@ -305,10 +311,4 @@ Title: Stock market today: Dow, S&P 500 notch records as Wall Street shrugs at s
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-notch-records-as-wall-street-shrugs-at-shutdown-amps-up-rate-cut-bets-200022081.html
 Time Published: 2025-10-01T20:00:22Z
 Description: Wall Streett is assessing the first US shutdown in seven years and an unexpected drop in private-sector jobs.
---------------------------------------------------
-
-Title: Analyst Says He’s Not ‘Worried At All’ About Nvidia (NVDA)’s Customer Concentration Problem
-URL: https://finance.yahoo.com/news/analyst-says-not-worried-nvidia-194941017.html
-Time Published: 2025-10-01T19:49:41Z
-Description: We recently published 10 AI Analyst Calls You Should Pay Attention To. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks analysts were recently talking...
 --------------------------------------------------
