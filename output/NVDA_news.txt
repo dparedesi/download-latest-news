@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Microsoft Strikes $17B Deal With Nebius to Power AI Ambitions
+URL: https://finance.yahoo.com/news/microsoft-strikes-17b-deal-nebius-051909894.html
+Time Published: 2025-10-03T05:19:09Z
+Description: Agreement provides 100,000 Nvidia GPUs as company shifts workloads to neoclouds
+--------------------------------------------------
+
 Title: S&P 500 Gains & Losses Today: Buffett's Berkshire Buys; Fair Isaac Soars, Equifax Falls
 URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-buffett-s-berkshire-buys-fair-isaac-soars-equifax-falls-11823467
 Time Published: 2025-10-02T20:59:06Z
@@ -305,10 +311,4 @@ Title: NVIDIA Corporation (NVDA), Abu Dhabi’s Technology Innovation Institute 
 URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-abu-dhabi-211112852.html
 Time Published: 2025-09-30T21:11:12Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) is among the 10 Best Money Making Stocks to Invest In. The company has recently launched a joint research lab in the UAE, in...
---------------------------------------------------
-
-Title: Stocks Settle Higher as Drug Makers and Chip Stocks Rally
-URL: https://www.barchart.com/story/news/35140026/stocks-settle-higher-as-drug-makers-and-chip-stocks-rally
-Time Published: 2025-09-30T20:41:19Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed up +0.41%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.18%, and the Nasdaq 100 Index...
 --------------------------------------------------
