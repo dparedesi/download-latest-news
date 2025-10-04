@@ -1,9 +1,27 @@
 List of news related to MONDELEZ INTERNATIONAL stock price MDLZ:
 
+Title: Stocks Settle Higher as Chip Makers and AI Infrastructure Stocks Rally
+URL: https://www.barchart.com/story/news/35200263/stocks-settle-higher-as-chip-makers-and-ai-infrastructure-stocks-rally
+Time Published: 2025-10-02T20:35:00Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +0.06%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.17%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: Stocks Turn Mixed as Bond Yields Climb
+URL: https://www.barchart.com/story/news/35193319/stocks-turn-mixed-as-bond-yields-climb
+Time Published: 2025-10-02T15:11:06Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.22%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: Pepsi's chips empire is losing its shine
 URL: https://finance.yahoo.com/news/pepsis-chips-empire-is-losing-its-shine-144704245.html
 Time Published: 2025-10-02T14:47:04Z
 Description: Once PepsiCo's growth engine, Frito-Lay now faces affordability issues and shifting consumer tastes, analysts warn.
+--------------------------------------------------
+
+Title: S&P 500 and Nasdaq 100 Post Record Highs on AI Optimism
+URL: https://www.barchart.com/story/news/35191461/s-p-500-and-nasdaq-100-post-record-highs-on-ai-optimism
+Time Published: 2025-10-02T14:02:00Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.13%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
 Title: Evercore Lowers Mondelez (MDLZ) Price Target Amid Rising Price Sensitivity

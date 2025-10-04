@@ -1,9 +1,40 @@
 List of news related to Broadcom AVGO:
 
+Title: Stocks Settle Higher as Chip Makers and AI Infrastructure Stocks Rally
+URL: https://www.barchart.com/story/news/35200263/stocks-settle-higher-as-chip-makers-and-ai-infrastructure-stocks-rally
+Time Published: 2025-10-02T20:35:00Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +0.06%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.17%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: Why Is Broadcom Stock Surging Thursday?
+URL: https://www.benzinga.com/markets/tech/25/10/48002704/why-is-broadcom-stock-surging-thursday
+Time Published: 2025-10-02T20:33:18Z
+Full Content:
+Broadcom (NASDAQ:AVGO) capitalized on Wall Street’s artificial intelligence boom Thursday, fueled by billions in chip investments from Microsoft (NASDAQ:MSFT), Meta Platforms (NASDAQ:META), and other technology giants. Broadcom has emerged as one of the biggest beneficiaries of the generative AI boom, carving out a strategic niche in the rapidly evolving chip market. While competitors like Nvidia (NASDAQ:NVDA) offer off-the-shelf, high-performance GPUs, Broadcom focuses on designing custom AI chips for its hyperscale customers, the tech giants that own and operate the world’s largest data centers. Also Read: Broadcom Wins $10 Billion OpenAI Order, Analyst Sees More Growth Ahead This approach allows companies like Microsoft, Meta, and Apple (NASDAQ:AAPL) to tailor silicon to their exact needs, offering a compelling, often less expensive, alternative to the pricier, general-purpose Nvidia chips. By helping these key players design their proprietary AI accelerators, Broadcom solidifies its foundational role in the sector, ensuring its technology is deeply integrated into the core infrastructure of the AI revolution. KeyBanc Capital Markets reinforced this outlook by reiterating its Overweight rating on Broadcom and raising its price forecast to $420 from $400, citing the company’s foundational position in AI and the broader semiconductor supply chain. Following recent channel checks, analyst John Vinh said that the supply chains of Nvidia and Broadcom “sound the best,” as upward revisions are coming to chip-on-a-wafer-substrate (CoWoS) supply. Broadcom’s trajectory as a core AI beneficiary is evident in its expanded targets. Its 2026 CoWoS supply goal has climbed to 190,000 units, reflecting an anticipated year-over-year increase exceeding 160%, Vinh noted. A critical factor in its AI dominance remains control over Alphabet’s (NASDAQ:GOOGL) (NASDAQ:GOOG) Google TPU franchise through 2026, with volumes expected to more than double. Additionally, Broadcom has secured significant new AI ASIC orders, including 400,000-500,000 units for OpenAI and roughly 100,000 units for Apple, reinforcing its influence over AI development and production. Analyst John Vinh raised the price forecast to $420 based on $10.37 fiscal 2026 consolidated earnings per share (EPS). Price Action: AVGO stock was trading higher by 2.31% to $341.10 at last check Thursday. Read Next: Photo by Remus Rigo via Shutterstock © 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. A newsletter built for market enthusiasts by market enthusiasts. Top stories, top movers, and trade ideas delivered to your inbox every weekday before and after the market closes.
+--------------------------------------------------
+
+Title: Dow, S&P 500, Nasdaq notch records on AI buzz even as government shutdown drags on
+URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-notch-records-on-ai-buzz-even-as-government-shutdown-drags-on-200207403.html
+Time Published: 2025-10-02T20:02:07Z
+Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
+--------------------------------------------------
+
 Title: Why Is Broadcom Stock Surging Thursday?
 URL: https://finance.yahoo.com/news/why-broadcom-stock-surging-thursday-183327721.html
 Time Published: 2025-10-02T18:33:18Z
 Description: Broadcom (NASDAQ:AVGO) capitalized on Wall Street’s artificial intelligence boom Thursday, fueled by billions in chip investments from Microsoft (NASDAQ:MSFT...
+--------------------------------------------------
+
+Title: Move Over, Mag 7. Buy This 1 Missing AI Winner Instead.
+URL: https://www.barchart.com/story/news/35196340/move-over-mag-7-buy-this-1-missing-ai-winner-instead
+Time Published: 2025-10-02T17:03:51Z
+Description: As the AI trade remains defined by other stocks, Broadcom is silently up by almost 45% so far this year.
+--------------------------------------------------
+
+Title: Stocks Turn Mixed as Bond Yields Climb
+URL: https://www.barchart.com/story/news/35193319/stocks-turn-mixed-as-bond-yields-climb
+Time Published: 2025-10-02T15:11:06Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.22%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq mixed as AI optimism blots out US shutdown risks
@@ -16,6 +47,12 @@ Title: Stock market today: Dow, S&P 500, Nasdaq gains fizzle with AI buzz, Trump
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-with-ai-buzz-trumps-shutdown-threats-in-focus-145218301.html
 Time Published: 2025-10-02T14:52:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
+--------------------------------------------------
+
+Title: S&P 500 and Nasdaq 100 Post Record Highs on AI Optimism
+URL: https://www.barchart.com/story/news/35191461/s-p-500-and-nasdaq-100-post-record-highs-on-ai-optimism
+Time Published: 2025-10-02T14:02:00Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.13%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
 Title: Stock market today: S&P 500, Nasdaq rise as AI optimism blots out US shutdown risks
@@ -79,11 +116,4 @@ Title: Stocks Supported by Hopes of Additional Fed Rate Cuts
 URL: https://www.barchart.com/story/news/35102420/stocks-supported-by-hopes-of-additional-fed-rate-cuts
 Time Published: 2025-09-29T14:03:38Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.39%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.08%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: Is the Big Business of AI Dominated by Too Few Big Businesses?
-URL: https://www.investopedia.com/is-the-big-business-of-ai-dominated-by-too-few-big-businesses-11812655
-Time Published: 2025-09-28T11:00:00Z
-Full Content:
-U.S. companies expect to spend hundreds of billions of dollars on AI over the next few years, but some investors are worried those plans—and the stock market rally they've fueled—depend too much on just a handful of companies. Chip giant Nvidia (NVDA) revealed in a regulatory filing last month that two direct customers accounted for nearly 40% of total revenue in the second quarter, with "Customer A" representing 23% of sales and "Customer B" 16%. At no other point since 2022, when ChatGPT sparked the AI craze, have two individual buyers represented a greater share of Nvidia’s sales. But experts note that the 40% figure likely overstates Nvidia's reliance on those two customers. Nvidia doesn't disclose who its customers are, but Customers A and B are likely distributors or system integrators that package Nvidia products in larger systems for sale to end users like hyperscalers and software companies. Nvidia has less visibility into how much of its revenue comes from the hyperscalers. In the most recent quarter, the company estimated that two unnamed end users each accounted for 10% or more of total revenue. Unless they each account for well over 10%, the estimate suggests Nvidia's pool of final users could be more diverse than its pool of direct customers. “Feast or famine,” is how Bill Kleyman, Senior Data Center Analyst at HostingAdvice, characterizes Nvidia’s sales. The company’s fortunes, Kleyman told Investopedia, “are increasingly tied to how much the big cloud platforms spend on AI infrastructure.” The artificial intelligence boom has helped the U.S. stock market and economy weather elevated inflation and interest rates for the past several years. A slowdown in spending by just a few major tech companies could shake investor confidence in AI, rattle the stock market, and detract from economic growth. Competitor Broadcom (AVGO) is in the same boat. One distributor accounted for nearly 30% of sales in the past two quarters, and Broadcom estimated that about 40% of revenue came from its five largest end users. Broadcom's sales have become more concentrated during the AI arms race of the past few years. Nonetheless, according to Kleyman, the unique dynamic of the AI infrastructure buildout makes this level of concentration less risky than it otherwise would be. “Overall AI demand is so strong across many sectors that a shortfall from one large customer would likely be offset by others ramping up their investments,” he said. Chipmakers aren’t the only companies in the AI supply chain that could be forced to grapple with the consequences of customer concentration. Enterprise software and cloud computing company Oracle (ORCL) reported earlier this month that its backlog swelled by nearly $320 billion in the most recent quarter. Shares soared as Wall Street hailed the “historic” quarter. But it quickly became apparent that nearly all of the backlog could be attributed to a 5-year, $300 billion cloud computing deal with OpenAI. The terms of the agreement are unknown, but experts say flexibility is always written into contracts of that size and duration. How much of Oracle's backlog is converted into revenue will depend on OpenAI’s usage, which hinges on factors beyond how much the public uses ChatGPT. “These deals are only as sticky as the models they serve,” says Rory Bokser, Head of Product at Moken.io, a decentralized computing network data provider. “If OpenAI changes architectures, moves off Oracle’s flavor of cloud, or pivots deployment strategy (edge vs. centralized), those ‘backlogs’ get revised real fast.” Another risk of inking a $300 billion deal with one company is that the customer may not have $300 billion to spend. OpenAI's annualized recurring revenue reportedly reached $12 billion in July, and the company is targeting $125 billion in revenue by 2029. Whether OpenAI hits those aggressive growth targets will likely depend on the ability of other companies to use its models to expand their profit margins or develop revenue-generating applications. Jabin Botsford /The Washington Post / Getty Images Without rapid revenue growth, OpenAI may need to lean on investors to supply it with the billions of dollars it expects to burn through by the end of the decade. A recent funding round put the company’s valuation at about $500 billion, making it one of the world’s most valuable private enterprises. “It remains to be seen whether or not OpenAI will continue to receive the lavish funding it has received so far,” said Greg Osuri, founder and CEO of Akash, a decentralized computing marketplace. Future funding could become scarce if AI implementation fails to live up to Wall Street's lofty expectations or economic stress forces investors and creditors to pull back.
 --------------------------------------------------
