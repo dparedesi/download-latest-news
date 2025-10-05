@@ -1,15 +1,59 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock Market Week Ahead: OpenAI DevDep Day, Fed Minutes, Shutdown Impact
+URL: https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-openai-devdep-day-fed-minutes-shutdown-impact/
+Time Published: 2025-10-03T21:25:04Z
+Description: The stock market rebounded to new highs and OpenAI's DevDep Day, Fed Minutes and Taiwan Semiconductor's monthly sales will be centerstage.
+--------------------------------------------------
+
+Title: Stocks Settle Mixed as Tech Rally Loses Steam
+URL: https://www.barchart.com/story/news/35225113/stocks-settle-mixed-as-tech-rally-loses-steam
+Time Published: 2025-10-03T20:41:29Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed up +0.01%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.51%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: Build significant wealth with these ASX ETFs
+URL: https://www.fool.com.au/2025/10/04/build-significant-wealth-with-these-asx-etfs/
+Time Published: 2025-10-03T19:38:00Z
+Description: Want to be wealthy? These funds could help you on your journey.
+The post Build significant wealth with these ASX ETFs appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: UiPath Is Teaming Up With Nvidia. Does That Make PATH Stock a Buy Here?
+URL: https://www.barchart.com/story/news/35223417/uipath-is-teaming-up-with-nvidia-does-that-make-path-stock-a-buy-here
+Time Published: 2025-10-03T18:57:45Z
+Description: UiPath announced a new deal with Nvidia, OpenAI, Snowflake, and Alphabet.
+--------------------------------------------------
+
+Title: The Magnificent Seven Stocks Are Roaring Again. Can They Keep Climbing?
+URL: https://www.investopedia.com/the-magnificent-seven-stocks-are-roaring-again-can-they-keep-climbing-11823869
+Time Published: 2025-10-03T17:57:53Z
+Full Content:
+Last year's Magnificent 7 tech leaders are rolling again. That hasn't always been the case this year. As a group, the the large-cap technology companies—Apple (AAPL), Nvidia (NVDA), Microsoft (MSFT), Amazon (AMZN), Alphabet (GOOG, GOOGL), Meta (META) and Tesla (TSLA)—have lagged the broader market for most of 2025. That's led to questions about whether the grouping's reign is over or if its membership should change. Then came September's rally. The Roundhill Magnificent Seven ETF (MAGS) is now up nearly 20% year-to-date, ahead of the S&P 500's close to 15% gain; it more than doubled the benchmark index's performance in the third quarter. The question now: What next? The bullishness hasn't dried up. Jeff Buchbinder, chief equity strategist at LPL Financial, said Thursday that growth stocks, particularly those with ties to AI, were supported in the third quarter by strong earnings, expectations of AI-driven growth, and easing interest rates, which make borrowing less expensive. Wall Street analysts largely expect those trends to continue. There's wariness about a bubble in AI; Even Jeff Bezos has suggested that it's in a kind of "industrial bubble" in which it can be difficult for investors to identify the future winners and losers from the field of would-be standouts. Bank of America analysts on Friday said that "every bubble in history popped by central bank tightening, and no central bank in the world has hiked rates in past 2 months." A recent survey of Investopedia readers suggested cooling optimism about the stock market, though they said they remain heavily invested in growth stocks even with valuations at high levels. The Magnificent 7’s resurgence comes on the back of a rebound by tech heavyweights like Tesla and Apple, which had spent most of the year in the red. Their influence within the S&P 500, meanwhile, illustrates the power the group of tech giants have on global markets. The recent performance of some Magnificent 7 stocks highlights the breadth of the enthusiasm. AI darling Nvidia, which has seen its stock rise steadily since April as sales of its chips boomed and trade policy headwinds eased, remains the biggest gainer of the year. But Tesla, Google parent Alphabet, and Apple have been the biggest contributors to the group's advance in recent weeks after spending a large part of the year in negative territory. Gains for Tesla's stock, which added a third of its value in September, came as worries about CEO Elon Musk's political activities and slumping sales cooled, and bulls shifted their focus toward the electric vehicle maker's advances in autonomous driving, robotics, and AI. Alphabet climbed about 15% in September after a major legal win in which a federal judge ruled Google doesn't have to sell its Chrome browser. Apple rose close to 10% after signs of surprisingly strong demand for its latest iPhone 17 and inroads with the Trump administration. All this has many market watchers wondering when the party might end but unwilling to leave just yet. Pictet Asset Management Chief Strategist Luca Paolini on Friday noted the expectation of lower rates and strong corporate profits among reasons to "see upside in equities despite possible impacts of the US government shutdown." Pictet, he wrote, sees "upside in riskier asset classes in the short term." This article has been updated since it was first published to reflect more recent market levels.
+--------------------------------------------------
+
 Title: INTC: Intel Stock Jumps 50% Since U.S. Stake Soars To $16 Billion
 URL: https://finance.yahoo.com/news/intc-intel-stock-jumps-50-175539698.html
 Time Published: 2025-10-03T17:55:39Z
 Description: Intel Surges Past $37, Turning Washington's Stake Into A Windfall
 --------------------------------------------------
 
+Title: Intel’s Unusually Active Halloween Call Sets Up Nicely for This Options Strategy
+URL: https://www.barchart.com/story/news/35222167/intels-unusually-active-halloween-call-sets-up-nicely-for-this-options-strategy
+Time Published: 2025-10-03T17:30:02Z
+Description: In Thursday’s trading, Intel had the third-highest Vol/OI ratio at 134.59. With 29 days to expiration, the Halloween call sets up nicely for bullish...
+--------------------------------------------------
+
 Title: ‘I Relish Having Competitors Who Are Unable to Fund Capital Expenditures’: Warren Buffett on Berkshire’s Biggest Strength
 URL: https://www.barchart.com/story/news/35221442/i-relish-having-competitors-who-are-unable-to-fund-capital-expenditures-warren-buffett-on-berkshires-biggest-strength
 Time Published: 2025-10-03T17:00:02Z
 Description: Warren Buffett’s view on competition highlights the advantage of financial discipline and resilience in business strategy and market positioning.
+--------------------------------------------------
+
+Title: Wall Street Can’t Get Enough of Alibaba Stock. Should You Buy BABA Here?
+URL: https://www.barchart.com/story/news/35220279/wall-street-cant-get-enough-of-alibaba-stock-should-you-buy-baba-here
+Time Published: 2025-10-03T16:05:32Z
+Description: Alibaba’s AI bets and global expansion excite investors, though heavy spending clouds its near-term profitability.
 --------------------------------------------------
 
 Title: Amazon founder Jeff Bezos says AI bubble is real, but so is the technology
@@ -207,14 +251,14 @@ Full Content:
 OpenAI has reportedly finalized a secondary share sale that values the artificial intelligence company at $500 billion, making the ChatGPT owner the world's most valuable startup ever. The share sale, which allows employees to cash out, comes just months after OpenAI CEO Sam Altman said that Meta Platforms (META) was poaching the company's AI staff with signing bonuses as high as $100 million. OpenAI's sky-high valuation suggests investor demand for AI plays, which has helped propel the major U.S. equities indexes to record highs, remains strong. According to Bloomberg, OpenAI's current and former employees sold about $6.6 billion in stock in a deal that has has vaulted the company past Elon Musk’s SpaceX to become the world’s largest startup. OpenAI had a $300 billion valuation earlier this year. Rocket company SpaceX is valued at $400 billion, Bloomberg said. Investors that bought into the secondary share sale—where investors buy from other investors rather than the company—included Japan's SoftBank, which put forth $30 billion in a funding round earlier this year. Thrive Capital, Dragoneer Investment Group, Abu Dhabi’s MGX, and T. Rowe Price also snapped up shares, the report said. OpenAI, which is backed by Microsoft (MSFT), is the latest of a string of AI startups to have seen valuations soar as investors are eager for exposure ahead of potential market entries. Nvidia (NVDA) also said last month that it plans to invest up to $100 billion in OpenAI to build out AI data centers. Nvidia, the chipmaker at the heart of the AI boom, has a market capitalization of well over $4 trillion, making it the world's most valuable publicly listed company. OpenAI didn't immediately respond to an Investopedia request for comment.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq gains fizzle with AI buzz, Trump's shutdown threats in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-with-ai-buzz-trumps-shutdown-threats-in-focus-145218301.html
+Title: Stock market today: Dow, S&P 500, Nasdaq mixed as AI optimism blots out US shutdown risks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-ai-optimism-blots-out-us-shutdown-risks-145218407.html
 Time Published: 2025-10-02T14:52:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq mixed as AI optimism blots out US shutdown risks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-ai-optimism-blots-out-us-shutdown-risks-145218407.html
+Title: Stock market today: Dow, S&P 500, Nasdaq gains fizzle with AI buzz, Trump's shutdown threats in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-with-ai-buzz-trumps-shutdown-threats-in-focus-145218301.html
 Time Published: 2025-10-02T14:52:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
@@ -244,14 +288,14 @@ Time Published: 2025-10-02T13:40:18Z
 Description: TSMC Extends Rally After Taiwan Says No to U.S. Semiconductor Mandate
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq jump as AI optimism blots out US shutdown risks
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-as-ai-optimism-blots-out-us-shutdown-risks-133118631.html
+Title: Stock market today: S&P 500, Nasdaq rise as AI optimism blots out US shutdown risks
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-ai-optimism-blots-out-us-shutdown-risks-133118033.html
 Time Published: 2025-10-02T13:31:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq rise as AI optimism blots out US shutdown risks
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-ai-optimism-blots-out-us-shutdown-risks-133118033.html
+Title: Stock market today: S&P 500, Nasdaq jump as AI optimism blots out US shutdown risks
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-as-ai-optimism-blots-out-us-shutdown-risks-133118631.html
 Time Published: 2025-10-02T13:31:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
@@ -267,48 +311,4 @@ Title: Telegram Wallet to Offer Tokenized US Stocks via Kraken and Backed Partne
 URL: https://cryptonews.com/news/telegram-wallet-to-offer-tokenized-us-stocks-via-kraken-and-backed-partnership/
 Time Published: 2025-10-02T12:00:48Z
 Description: Telegram users will soon gain access to tokenized US equities through a new partnership between Wallet in Telegram, crypto exchange Kraken, and xStocks...
---------------------------------------------------
-
-Title: Tokenized US Stocks & ETFs Coming To Telegram Wallet Via Kraken & BackedFi
-URL: http://www.newsbtc.com/altcoin/tokenized-us-stocks-etfs-coming-to-telegram-wallet-via-kraken-backedfi/
-Time Published: 2025-10-02T11:00:49Z
-Full Content:
-Strict editorial policy that focuses on accuracy, relevance, and impartiality Morbi pretium leo et nisl aliquam mollis. Quisque arcu lorem, ultricies quis pellentesque nec, ullamcorper eu odio. Telegram is taking another step toward bridging traditional finance with crypto. Through a new partnership among Wallet in Telegram, xStocks operator Backed, and US-based crypto exchange Kraken, tokenized equities will soon be available directly within the messaging platform. The announcement, made on Wednesday, confirms that users will gain access to tokenized versions of US equities. Wallet in Telegram, a third-party crypto wallet app integrated into the Telegram ecosystem, will serve as the gateway for this new offering. By leveraging xStocks, which specializes in tokenized assets, and Kraken’s infrastructure, the platform aims to deliver seamless trading of tokenized stocks and ETFs. Users will be able to purchase fractions of these equities in digital form, opening access to markets that are typically less inclusive. This move represents a significant evolution in Telegram’s crypto ecosystem, expanding beyond digital assets into the tokenization of traditional securities. It also underscores the growing role of tokenized finance in making equities more accessible, liquid, and tradable across global markets. With the launch planned for late October, investors are watching closely to see how Telegram’s massive user base responds to this new frontier. The news was shared by Wallet in Telegram’s chief strategy officer, Halil Mirakhmed, during Token2024 Singapore, highlighting the project’s mission to merge traditional financial markets with Web3 accessibility. At the same event, Max Crown, President & CEO of the TON Foundation, outlined the significance of the move in his keynote at Token2049. He emphasized that the partnership with xStocks, in collaboration with Kraken and Backed, will allow over 100 million Telegram users to access more than 60 tokenized US assets at launch. These will include major names such as Nvidia (NVDA), Tesla (TSLA), and MicroStrategy (MSTR), all backed by a 1:1 collateralization framework to ensure trust and transparency. One of the most notable features of this integration is fractional ownership, which enables users to purchase small portions of high-value stocks that might otherwise remain inaccessible. Trading will also be available 24 hours a day, five days a week, breaking away from the restrictions of traditional US market hours. This flexibility lowers barriers for global investors and represents a major step toward democratizing access to equities. Looking ahead, xStocks is set to become available on the TON blockchain in Q4, further cementing TON’s role as the foundation for Telegram’s growing financial ecosystem. By combining blockchain scalability, tokenization, and Telegram’s massive user base, the initiative has the potential to redefine how millions of people interact with traditional markets. Toncoin (TON) is trading around $2.80 after a modest rebound of nearly 3.6% on the 3-day chart. Despite the short-term bounce, the broader trend remains bearish, with TON locked in a prolonged downtrend since peaking above $8.50 in early 2024. Price has consistently posted lower highs and lower lows, signaling persistent selling pressure. The moving averages reinforce this picture. TON remains well below its 50-period (blue), 100-period (green), and 200-period (red) moving averages. The inability to reclaim these levels underscores weak momentum and the dominance of bears in the market. The $3.00 area has become a critical resistance zone; without a decisive break above it, TON risks further sideways or downward action. Support continues to cluster near $2.50–$2.70, where buyers have stepped in repeatedly over the past months. A breakdown below this level could accelerate losses toward $2.00, while a successful defense may allow the token to consolidate and attempt another push higher. Featured image from ChatGPT, chart from TradingView.com Sebastian's journey into the world of crypto began four years ago, driven by a fascination with the potential of blockchain technology to revolutionize financial systems. His initial exploration focused on understanding the intricacies of various crypto projects, particularly those focused on building innovative financial solutions. Through countless hours of research and learning, Sebastian developed a deep understanding of the underlying technologies, market dynamics, and potential applications of cryptocurrencies. Sebastian's journey into the world of crypto began four years ago, driven by a fascination with the potential of blockchain technology to revolutionize financial systems. His initial exploration focused on understanding the intricacies of various crypto projects, particularly those focused on building innovative financial solutions. Through countless hours of research and learning, Sebastian developed a deep understanding of the underlying technologies, market dynamics, and potential applications of cryptocurrencies. To share his insights with others, Sebastian became an active contributor to online discussions on platforms like X and LinkedIn. His focus on fintech and crypto-related topics quickly established him as a trusted voice in the online crypto community. Sebastian's goal was to educate and inform his audience about the latest trends and insights in the rapidly evolving crypto landscape. To further enhance his expertise, Sebastian pursued a UC Berkeley Fintech: Frameworks, Applications, and Strategies certification. This rigorous program equipped him with valuable skills and knowledge regarding Financial Technology, bridging the gap between traditional finance and decentralized finance. The certification deepened his understanding of the broader financial landscape and its intersection with blockchain technology. Sebastian's passion for finance and writing is evident in his work. He enjoys delving into financial research, analyzing market trends, and exploring the latest developments in the crypto space. In his spare time, Sebastian can often be found immersed in charts, studying 10-K reports, or engaging in thought-provoking discussions about the future of finance. Sebastian's journey as a crypto pioneer has been marked by a relentless pursuit of knowledge and a dedication to sharing his insights. His ability to navigate the complex world of crypto, combined with his passion for financial research and communication, makes him a valuable contributor to the industry. As the crypto landscape continues to evolve, Sebastian remains at the forefront, providing valuable insights and helping to shape the future of this revolutionary technology. Disclaimer: The information found on NewsBTC is for educational purposes only. It does not represent the opinions of NewsBTC on whether to buy, sell or hold any investments and naturally investing carries risks. You are advised to conduct your own research before making any investment decisions. Use information provided on this website entirely at your own risk. Een opvallende ontwikkeling in de cryptomarkt is dat het Nasdaq genoteerde VivoPower International PLC (NASDAQ: VVPR) $19 miljoen heeft opgehaald... According to social posts and on-chain trackers, XRP appears poised for a sharp move that could leave little time for... According to Arkham, a wallet labeled “Tether: Bitcoin Reserves” received 8,889 Bitcoin in a single transfer from Bitfinex. Related Reading:... Strict editorial policy that focuses on accuracy, relevance, and impartiality Morbi pretium leo et nisl aliquam mollis. Quisque arcu lorem, ultricies quis pellentesque nec, ullamcorper eu odio. NewsBTC is a cryptocurrency news service that covers bitcoin news today, technical analysis & forecasts for bitcoin price and other altcoins. Here at NewsBTC, we are dedicated to enlightening everyone about bitcoin and other cryptocurrencies. We cover BTC news related to bitcoin exchanges, bitcoin mining and price forecasts for various cryptocurrencies. © 2025 NewsBTC. All Rights Reserved. © 2025 NewsBTC. All Rights Reserved.
---------------------------------------------------
-
-Title: Stocks Rise Before the Open on Fed Rate-Cut Hopes and AI Optimism
-URL: https://www.barchart.com/story/news/35183457/stocks-rise-before-the-open-on-fed-rate-cut-hopes-and-ai-optimism
-Time Published: 2025-10-02T10:01:20Z
-Description: December S&P 500 E-Mini futures (ESZ25) are up +0.14%, and December Nasdaq 100 E-Mini futures (NQZ25) are up +0.32% this morning, buoyed by hopes for Federal...
---------------------------------------------------
-
-Title: Wallet in Telegram to list tokenized stocks and ETFs by xStocks
-URL: https://cointelegraph.com/news/wallet-telegram-tokenized-stocks-etfs-xstocks-kraken
-Time Published: 2025-10-02T08:00:19Z
-Description: Tokenized equities are coming to Telegram following a partnership between Wallet in Telegram, xStocks operator Backed and the US crypto exchange Kraken
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq futures rise as AI optimism grows, while Dow stalls amid US shutdown
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-rise-as-ai-optimism-blots-out-us-shutdown-230340381.html
-Time Published: 2025-10-01T23:03:40Z
-Description: US stock futures wavered as Wall Street's confidence in the Federal Reserve instituting more rate cuts this year so far overshadowed a US government shutdown...
---------------------------------------------------
-
-Title: Analyst Highlights Red Flags in Nvidia (NVDA)-OpenAI $100 Billion Deal – ‘Feature of Past Bubbles’
-URL: https://finance.yahoo.com/news/analyst-highlights-red-flags-nvidia-202807470.html
-Time Published: 2025-10-01T20:28:07Z
-Description: We recently published 10 Stocks to Watch as Investors Scramble to Pour Money into AI Trade. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks that caught...
---------------------------------------------------
-
-Title: S&P 500 Gains and Losses Today: AES and Pharma Stocks Soar; Corteva Drops
-URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-aes-and-pharma-stocks-soar-corteva-drops-11822426
-Time Published: 2025-10-01T20:24:52Z
-Full Content:
-Reports of a potential acquisition helped shares of a utility company power higher, while an agricultural sciences firm faced pressure after it announced a plan to separate into two independent entities. Major U.S. equities indexes recovered from early losses to end higher on the first trading day after a federal government shutdown took effect. The S&P 500 added 0.3% and the Dow eked out a 0.1% gain to finish at all-time highs. The Nasdaq climbed 0.4% to finish just short of its closing record. Find the full market summary from Investopedia here. Shares of renewable energy provider AES (AES) surged nearly 17%, gaining the most of any S&P 500 stock. The push higher followed reports that Global Infrastructure Partners, owned by asset management giant BlackRock (BLK), is in talks to buy AES. The deal could be worth around $38 billion, which would make it one of the largest infrastructure takeovers ever. Pharmaceutical stocks and others in the healthcare sector extended their gains Wednesday, a day after Pfizer (PFE) became the first major drugmaker to comply with a push from the White House cut medication prices in the U.S. to the lower levels seen in other countries. According to media reports, other major pharma companies could follow Pfizer's lead and seek pricing deals with the Trump administration. Shares of Biogen (BIIB), Thermo Fisher Scientific (TMO), Eli Lilly (LLY), Regeneron Pharmaceuticals (REGN) all ranked among the benchmark index's top performers Wednesday. Shares of memory chip maker and Nvidia (NVDA) partner Micron Technology (MU) advanced close to 9%, along with hard drive makers Seagate Technology (STX) and Western Digital (WDC). The moves extended recent gains on anticipation they could benefit from growing demand for data storage to support AI. Corteva (CTVA) shares tumbled 9.1%, logging the S&P 500's weakest performance Wednesday, after the agricultural sciences firm announced a plan to split its crop protection and its seed businesses into two independent companies. The company expects the transaction to be complete by the second half of 2026. Shares of tech-focused research firm Gartner (IT) fell 4.5%. Although the U.S. federal government accounts for less than 5% of Gartner's revenue, the government shutdown weighed on sentiment across the advisory industry. Gartner stock has also faced pressure stemming from concerns about how AI could disrupt the research business. Interpublic Group (IPG) stock lost 5% on Wednesday, reversing gains posted in the prior session after German biotech giant Bayer (BAYRY) named IPG as the exclusive creative and media partner for its consumer health business. IPG and fellow marketing firm Omnicom (OMC) announced that the regulatory approval process for their intended merger remains in progress and that they expect the deal to close by year-end. Omnicom shares also slipped 5%.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500 notch records as Wall Street shrugs at shutdown, amps up rate cut bets
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-notch-records-as-wall-street-shrugs-at-shutdown-amps-up-rate-cut-bets-200022081.html
-Time Published: 2025-10-01T20:00:22Z
-Description: Wall Streett is assessing the first US shutdown in seven years and an unexpected drop in private-sector jobs.
 --------------------------------------------------

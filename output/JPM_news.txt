@@ -1,14 +1,14 @@
 List of news related to JPMorgan stock price JPM:
 
+Title: Bitcoin beats world's top 5 banks by $350 billion
+URL: https://www.thestreet.com/crypto/investing/bitcoin-beats-worlds-top-5-banks-by-350-billion
+Time Published: 2025-10-03T18:00:08Z
+Description: Bitcoin’s $2.4 trillion value tops world’s five biggest banks, fueled by ETF demand.
+--------------------------------------------------
+
 Title: Dow, S&P 500, Nasdaq notch records on AI buzz even as government shutdown drags on
 URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-notch-records-on-ai-buzz-even-as-government-shutdown-drags-on-200207403.html
 Time Published: 2025-10-02T20:02:07Z
-Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq gains fizzle with AI buzz, Trump's shutdown threats in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-with-ai-buzz-trumps-shutdown-threats-in-focus-145218301.html
-Time Published: 2025-10-02T14:52:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
 
@@ -18,14 +18,20 @@ Time Published: 2025-10-02T14:52:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq jump as AI optimism blots out US shutdown risks
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-as-ai-optimism-blots-out-us-shutdown-risks-133118631.html
-Time Published: 2025-10-02T13:31:18Z
+Title: Stock market today: Dow, S&P 500, Nasdaq gains fizzle with AI buzz, Trump's shutdown threats in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-with-ai-buzz-trumps-shutdown-threats-in-focus-145218301.html
+Time Published: 2025-10-02T14:52:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
 
 Title: Stock market today: S&P 500, Nasdaq rise as AI optimism blots out US shutdown risks
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-ai-optimism-blots-out-us-shutdown-risks-133118033.html
+Time Published: 2025-10-02T13:31:18Z
+Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
+--------------------------------------------------
+
+Title: Stock market today: S&P 500, Nasdaq jump as AI optimism blots out US shutdown risks
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-as-ai-optimism-blots-out-us-shutdown-risks-133118631.html
 Time Published: 2025-10-02T13:31:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
@@ -40,10 +46,4 @@ Title: 2 ‘Perfect 10’ Stocks Earning Top Marks from JPMorgan
 URL: https://finance.yahoo.com/news/2-perfect-10-stocks-earning-102314270.html
 Time Published: 2025-10-01T10:23:14Z
 Description: Successful stock picking is hardly mysterious. It’s not about finding hidden secrets or unlocking secret knowledge. Rather, it’s about the basics...
---------------------------------------------------
-
-Title: Electronic Arts Is Going Private. Is It Too Late to Buy EA Stock Here?
-URL: https://www.barchart.com/story/news/35106961/electronic-arts-is-going-private-is-it-too-late-to-buy-ea-stock-here
-Time Published: 2025-09-29T17:43:14Z
-Description: EA stock is rallying today after the company agreed to be taken private in a $55 billion leveraged buyout. But is there any upside left in Electric Arts...
 --------------------------------------------------

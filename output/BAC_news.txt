@@ -1,13 +1,7 @@
 List of news related to Bank of America stock price BAC:
 
-Title: Stock Market Today: Stocks rise as government shutdown threat looms
-URL: https://www.thestreet.com/markets/stock-market-today-september-29-2025
-Time Published: 2025-09-29T14:38:30Z
-Description: U.S. equities seek strong conclusion to banner quarter
---------------------------------------------------
-
-Title: Here's What to Expect From Bank of America's Next Earnings Report
-URL: https://www.barchart.com/story/news/35095146/here-s-what-to-expect-from-bank-of-america-s-next-earnings-report
-Time Published: 2025-09-29T09:59:50Z
-Description: Bank of America is scheduled to release its fiscal third-quarter earnings next month, and analysts project a double-digit earnings growth.
+Title: Bitcoin beats world's top 5 banks by $350 billion
+URL: https://www.thestreet.com/crypto/investing/bitcoin-beats-worlds-top-5-banks-by-350-billion
+Time Published: 2025-10-03T18:00:08Z
+Description: Bitcoin’s $2.4 trillion value tops world’s five biggest banks, fueled by ETF demand.
 --------------------------------------------------

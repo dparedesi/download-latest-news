@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stocks Settle Mixed as Tech Rally Loses Steam
+URL: https://www.barchart.com/story/news/35225113/stocks-settle-mixed-as-tech-rally-loses-steam
+Time Published: 2025-10-03T20:41:29Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed up +0.01%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.51%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
 Title: U.S. stocks surge to record highs: Dow, S&P 500, Nasdaq hit all-time highs on AI momentum
 URL: https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-today-surges-to-record-highs-dow-sp-500-nasdaq-hit-all-time-highs-on-ai-momentum-heres-top-stocks-to-watch/articleshow/124294075.cms
 Time Published: 2025-10-03T15:44:01Z
@@ -53,29 +59,4 @@ Title: Intel Soars on Nvidia Deal, But This 1 Stock Could Be the Biggest Loser
 URL: https://www.barchart.com/story/news/35138247/intel-soars-on-nvidia-deal-but-this-1-stock-could-be-the-biggest-loser
 Time Published: 2025-09-30T19:41:33Z
 Description: The Nvidia-Intel collaboration appears to be a direct threat to AMD.
---------------------------------------------------
-
-Title: Stocks Finish Higher as Bond Yields Slip and Chip Makers Climb
-URL: https://www.barchart.com/story/news/35110071/stocks-finish-higher-as-bond-yields-slip-and-chip-makers-climb
-Time Published: 2025-09-29T20:34:53Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +0.26%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.15%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Wall Street Says AMD Stock Could Gain 40% in a Year
-URL: https://www.barchart.com/story/news/35104377/wall-street-says-amd-stock-could-gain-40-in-a-year
-Time Published: 2025-09-29T15:24:18Z
-Description: Analysts see significant upside in AMD stock as the company executes on its AI roadmap and capitalizes on broader demand in its core businesses.
---------------------------------------------------
-
-Title: Stocks Climb on Lower Bond Yields and Strength in Chip Makers
-URL: https://www.barchart.com/story/news/35104226/stocks-climb-on-lower-bond-yields-and-strength-in-chip-makers
-Time Published: 2025-09-29T15:15:25Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.42%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: Vulnerability Summary for the Week of September 22, 2025
-URL: https://www.cisa.gov/news-events/bulletins/sb25-272
-Time Published: 2025-09-29T13:22:08Z
-Full Content:
-An official website of the United States government Here’s how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. NOTICE: Due to the lapse in federal funding, this website will not be actively managed. Free Cyber ServicesCybersecurity Awareness MonthSecure by design Shields UpReport A Cyber Issue Search NOTICE: Due to the lapse in federal funding, this website will not be actively managed. Free Cyber ServicesCybersecurity Awareness MonthSecure by design Shields UpReport A Cyber Issue The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded in the past week. In some cases, the vulnerabilities in the bulletin may not yet have assigned CVSS scores. Vulnerabilities are based on the Common Vulnerabilities and Exposures (CVE) vulnerability naming standard and are organized according to severity, determined by the Common Vulnerability Scoring System (CVSS) standard. The division of high, medium, and low severities correspond to the following scores: Entries may include additional information provided by organizations and efforts sponsored by CISA. This information may include identifying information, values, definitions, and related links. Patch information is provided when available. Please note that some of the information in the bulletin is compiled from external, open-source reports and is not a direct result of CISA analysis. Back to top DataTables -- DataTables up to V1.10.13 Back to top Back to top Back to top We recently updated our anonymous product survey; we welcome your feedback.
 --------------------------------------------------
