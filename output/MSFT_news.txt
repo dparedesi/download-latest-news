@@ -44,26 +44,26 @@ Full Content:
 OpenAI has reportedly finalized a secondary share sale that values the artificial intelligence company at $500 billion, making the ChatGPT owner the world's most valuable startup ever. The share sale, which allows employees to cash out, comes just months after OpenAI CEO Sam Altman said that Meta Platforms (META) was poaching the company's AI staff with signing bonuses as high as $100 million. OpenAI's sky-high valuation suggests investor demand for AI plays, which has helped propel the major U.S. equities indexes to record highs, remains strong. According to Bloomberg, OpenAI's current and former employees sold about $6.6 billion in stock in a deal that has has vaulted the company past Elon Musk’s SpaceX to become the world’s largest startup. OpenAI had a $300 billion valuation earlier this year. Rocket company SpaceX is valued at $400 billion, Bloomberg said. Investors that bought into the secondary share sale—where investors buy from other investors rather than the company—included Japan's SoftBank, which put forth $30 billion in a funding round earlier this year. Thrive Capital, Dragoneer Investment Group, Abu Dhabi’s MGX, and T. Rowe Price also snapped up shares, the report said. OpenAI, which is backed by Microsoft (MSFT), is the latest of a string of AI startups to have seen valuations soar as investors are eager for exposure ahead of potential market entries. Nvidia (NVDA) also said last month that it plans to invest up to $100 billion in OpenAI to build out AI data centers. Nvidia, the chipmaker at the heart of the AI boom, has a market capitalization of well over $4 trillion, making it the world's most valuable publicly listed company. OpenAI didn't immediately respond to an Investopedia request for comment.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq mixed as AI optimism blots out US shutdown risks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-ai-optimism-blots-out-us-shutdown-risks-145218407.html
-Time Published: 2025-10-02T14:52:18Z
-Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq gains fizzle with AI buzz, Trump's shutdown threats in focus
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-with-ai-buzz-trumps-shutdown-threats-in-focus-145218301.html
 Time Published: 2025-10-02T14:52:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq jump as AI optimism blots out US shutdown risks
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-as-ai-optimism-blots-out-us-shutdown-risks-133118631.html
-Time Published: 2025-10-02T13:31:18Z
+Title: Stock market today: Dow, S&P 500, Nasdaq mixed as AI optimism blots out US shutdown risks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-ai-optimism-blots-out-us-shutdown-risks-145218407.html
+Time Published: 2025-10-02T14:52:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
 
 Title: Stock market today: S&P 500, Nasdaq rise as AI optimism blots out US shutdown risks
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-ai-optimism-blots-out-us-shutdown-risks-133118033.html
+Time Published: 2025-10-02T13:31:18Z
+Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
+--------------------------------------------------
+
+Title: Stock market today: S&P 500, Nasdaq jump as AI optimism blots out US shutdown risks
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-as-ai-optimism-blots-out-us-shutdown-risks-133118631.html
 Time Published: 2025-10-02T13:31:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
