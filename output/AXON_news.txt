@@ -1,6 +1,12 @@
 List of news related to Axon Enterprise AXON:
 
 Title: More CEOs want Elon Musk–style ‘moonshot’ pay packages—but comp experts are raising alarms
+URL: https://finance.yahoo.com/news/more-ceos-want-elon-musk-100400001.html
+Time Published: 2025-10-05T10:04:00Z
+Description: Moonshot grants tie CEO compensation almost entirely to aggressive, seemingly impossible performance targets.
+--------------------------------------------------
+
+Title: More CEOs want Elon Musk–style ‘moonshot’ pay packages—but comp experts are raising alarms
 URL: https://fortune.com/2025/10/05/elon-musk-moonshot-ceo-pay-stock-options/
 Time Published: 2025-10-05T10:04:00Z
 Full Content:
