@@ -54,9 +54,3 @@ URL: https://finance.yahoo.com/news/zyphra-taps-ibm-amd-build-131051288.html
 Time Published: 2025-10-01T13:10:51Z
 Description: International Business Machines (NYSE:IBM) and Advanced Micro Devices (NASDAQ:AMD) announced on Wednesday a strategic collaboration to provide Zyphra, a San ...
 --------------------------------------------------
-
-Title: Intel Soars on Nvidia Deal, But This 1 Stock Could Be the Biggest Loser
-URL: https://www.barchart.com/story/news/35138247/intel-soars-on-nvidia-deal-but-this-1-stock-could-be-the-biggest-loser
-Time Published: 2025-09-30T19:41:33Z
-Description: The Nvidia-Intel collaboration appears to be a direct threat to AMD.
---------------------------------------------------
