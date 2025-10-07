@@ -24,26 +24,14 @@ Time Published: 2025-10-02T14:52:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq jump as AI optimism blots out US shutdown risks
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-as-ai-optimism-blots-out-us-shutdown-risks-133118631.html
-Time Published: 2025-10-02T13:31:18Z
-Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
---------------------------------------------------
-
 Title: Stock market today: S&P 500, Nasdaq rise as AI optimism blots out US shutdown risks
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-ai-optimism-blots-out-us-shutdown-risks-133118033.html
 Time Published: 2025-10-02T13:31:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq futures rise as AI optimism grows, while Dow stalls amid US shutdown
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-rise-as-ai-optimism-blots-out-us-shutdown-230340381.html
-Time Published: 2025-10-01T23:03:40Z
-Description: US stock futures wavered as Wall Street's confidence in the Federal Reserve instituting more rate cuts this year so far overshadowed a US government shutdown...
---------------------------------------------------
-
-Title: 2 ‘Perfect 10’ Stocks Earning Top Marks from JPMorgan
-URL: https://finance.yahoo.com/news/2-perfect-10-stocks-earning-102314270.html
-Time Published: 2025-10-01T10:23:14Z
-Description: Successful stock picking is hardly mysterious. It’s not about finding hidden secrets or unlocking secret knowledge. Rather, it’s about the basics...
+Title: Stock market today: S&P 500, Nasdaq jump as AI optimism blots out US shutdown risks
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-as-ai-optimism-blots-out-us-shutdown-risks-133118631.html
+Time Published: 2025-10-02T13:31:18Z
+Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------

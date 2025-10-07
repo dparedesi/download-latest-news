@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: Soaring student loans are weighing on the economy
+URL: https://www.thestreet.com/economy/soaring-student-loans-are-weighing-on-the-economy
+Time Published: 2025-10-06T00:49:52Z
+Description: Here's why consumer bankruptcies are growing and likely to be bigger ahead.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as government shutdown drags on
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-government-shutdown-drags-on-232706218.html
+Time Published: 2025-10-05T23:27:06Z
+Description: US stock futures tick upwards despite the government shutdown.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures tick up as government shutdown drags on
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-tick-up-as-government-shutdown-drags-on-232706734.html
+Time Published: 2025-10-05T23:27:06Z
+Description: US stock futures tick upwards despite the government shutdown.
+--------------------------------------------------
+
 Title: Analyst on NVIDIA (NVDA): ‘Eventually, We Will Hit a Wall’
 URL: https://finance.yahoo.com/news/analyst-nvidia-nvda-eventually-hit-141543966.html
 Time Published: 2025-10-05T14:15:43Z
@@ -292,23 +310,4 @@ Title: Stock market today: Dow, S&P 500, Nasdaq mixed as AI optimism blots out U
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-ai-optimism-blots-out-us-shutdown-risks-145218407.html
 Time Published: 2025-10-02T14:52:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq gains fizzle with AI buzz, Trump's shutdown threats in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-with-ai-buzz-trumps-shutdown-threats-in-focus-145218301.html
-Time Published: 2025-10-02T14:52:18Z
-Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
---------------------------------------------------
-
-Title: S&P 500 hits record high despite government shutdown: Nvidia shares reach all-time high; Magnificent Seven including AMD, SK Hynix soar on AI frenzy while Tesla falters — what’s driving Wall Street today
-URL: https://economictimes.indiatimes.com/news/international/us/sp-500-hits-record-high-despite-government-shutdown-nvidia-shares-reach-all-time-high-magnificent-seven-including-amd-sk-hynix-soar-on-ai-frenzy-while-tesla-falters-whats-driving-wall-street-today/articleshow/124275488.cms
-Time Published: 2025-10-02T14:23:02Z
-Full Content:
-S&P 500 opened at a fresh record high on October 2, 2025, rising about 0.1% as investors. The market optimism is largely driven by the technology sector. Nvidia shares reached an all-time high. Other major AI-focused tech companies known as the "Magnificent Seven" are also reporting solid quarterly earnings. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. MEA: India-Canada security talks, flights to China, 25 yrs Russia ties Cough syrup scare: 12 samples tested after Chhindwara tragedy Day 3 of US govt shutdown: Press Secy Karloine Leavitt briefs media PoK unrest: India flays Pak's 'oppressive approach' Colombia controversy: BJP calls Rahul Gandhi anti-India, serial liar ‘Our choices will decide if resilience becomes leadership': FM Putin lauds Modi, but concerns over Russia jet transfers to Pakistan remain Wangchuk detention: Wife moves to SC, LAB rejects magisterial probe Bareilly: Police ensure tight security on 'Jumme ki Namaz' ‘US buying Russian Uranium but pressuring India’: Putin MEA: India-Canada security talks, flights to China, 25 yrs Russia ties Cough syrup scare: 12 samples tested after Chhindwara tragedy Day 3 of US govt shutdown: Press Secy Karloine Leavitt briefs media PoK unrest: India flays Pak's 'oppressive approach' Colombia controversy: BJP calls Rahul Gandhi anti-India, serial liar ‘Our choices will decide if resilience becomes leadership': FM Putin lauds Modi, but concerns over Russia jet transfers to Pakistan remain Wangchuk detention: Wife moves to SC, LAB rejects magisterial probe Bareilly: Police ensure tight security on 'Jumme ki Namaz' ‘US buying Russian Uranium but pressuring India’: Putin Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Slideshow Top Prime Articles Top Definitions Most Searched IFSC Codes Top Story Listing Private Companies Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: S&P 500 and Nasdaq 100 Post Record Highs on AI Optimism
-URL: https://www.barchart.com/story/news/35191461/s-p-500-and-nasdaq-100-post-record-highs-on-ai-optimism
-Time Published: 2025-10-02T14:02:00Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.13%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
