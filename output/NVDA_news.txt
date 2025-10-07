@@ -1,5 +1,12 @@
 List of news related to NVIDIA NVDA:
 
+Title: Micron's Record Run Isn't Over Yet, According to These Wall Street Bulls
+URL: https://www.investopedia.com/micron-shares-will-rise-say-these-wall-street-bulls-11824707
+Time Published: 2025-10-06T17:35:12Z
+Full Content:
+Micron Technology's (MU) stock has had a strong run in 2025 so far, and some Wall Street bulls say it's set to move. higher, as AI-driven orders grow. The memory chip maker's shares were up about 3% to around $193 in recent trading, extending their recent rally and putting them on track to top Friday's closing record. The stock has added more than half its value since the year began, making it one of the S&P 500's top performers for 2025. Morgan Stanley analysts upgraded the stock to “overweight” from a neutral rating on Monday, and lifted their price target to $220 from $160, a bit above the $196 average target compiled by Visible Alpha, pointing to booming demand for its high-bandwidth memory to support AI. "Conviction from our purchasing contacts is very high," the analysts said, adding "we see more room to run." Many of the S&P 500's top performers this year are companies that make data storage or memory products needed to support AI data centers, like Micron, and stand to benefit from the same tailwinds. Micron, which counts leading AI chipmakers Nvidia (NVDA) and Advanced Micro Devices (AMD) among its partners, last month posted record quarterly sales, thanks in large part to growth from its data center business. AMD announced a massive deal on Monday with OpenAI that sent its stock soaring nearly 30% in recent trading. The news also helped lift shares of partner stocks like Micron and Astera Labs (ALAB), which saw its stock jump 11%.
+--------------------------------------------------
+
 Title: The AI bubble is 17 times the size of the dot-com frenzy and four times subprime
 URL: https://www.morningstar.com/news/marketwatch/20251003175/the-ai-bubble-is-17-times-the-size-of-the-dot-com-frenzy-and-four-times-subprime-this-analyst-argues
 Time Published: 2025-10-06T16:46:12Z
@@ -46,10 +53,10 @@ Time Published: 2025-10-06T14:20:05Z
 Description: A massive upgrade on IREN Limited signals a potential doubling of IREN stock.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq leads Dow, S&P 500 higher as AMD surges on OpenAI deal, shutdown drags on
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-leads-dow-sp-500-higher-as-amd-surges-on-openai-deal-shutdown-drags-on-133132602.html
+Title: Stock market today: Dow falls, S&P 500 and Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-sp-500-and-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132590.html
 Time Published: 2025-10-06T13:31:32Z
-Description: US stock futures tick upwards despite the government shutdown.
+Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
 --------------------------------------------------
 
 Title: Stock market today: Dow falls whiS&P 500, Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
@@ -58,22 +65,22 @@ Time Published: 2025-10-06T13:31:32Z
 Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
 --------------------------------------------------
 
-Title: Stock market today: Dow falls, S&P 500 and Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-sp-500-and-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132590.html
+Title: Stock market today: Nasdaq leads Dow, S&P 500 higher as AMD surges on OpenAI deal, shutdown drags on
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-leads-dow-sp-500-higher-as-amd-surges-on-openai-deal-shutdown-drags-on-133132602.html
 Time Published: 2025-10-06T13:31:32Z
-Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
---------------------------------------------------
-
-Title: AMD stock rockets more than 35% on OpenAI deal
-URL: https://finance.yahoo.com/news/amd-stock-rockets-more-than-35-on-openai-deal-125503247.html
-Time Published: 2025-10-06T12:55:03Z
-Description: AMD stock rocketed in pre-market trading on news that it signed a 6 gigawatt GPU deal with OpenAI.
+Description: US stock futures tick upwards despite the government shutdown.
 --------------------------------------------------
 
 Title: AMD stock rockets higher on multibillion-dollar OpenAI deal
 URL: https://finance.yahoo.com/news/amd-stock-rockets-higher-on-multibillion-dollar-openai-deal-125503782.html
 Time Published: 2025-10-06T12:55:03Z
 Description: AMD stock rocketed in early trading on news that it signed a 6 gigawatt GPU deal with OpenAI.
+--------------------------------------------------
+
+Title: AMD stock rockets more than 35% on OpenAI deal
+URL: https://finance.yahoo.com/news/amd-stock-rockets-more-than-35-on-openai-deal-125503247.html
+Time Published: 2025-10-06T12:55:03Z
+Description: AMD stock rocketed in pre-market trading on news that it signed a 6 gigawatt GPU deal with OpenAI.
 --------------------------------------------------
 
 Title: Novice Investor’s Digest For Monday, October 6: Stock Prices Stay Strong On AI Enthusiasm
@@ -307,11 +314,4 @@ Title: AIQ and CHAT- Are These ETFs Vulnerable Amid AI Bubble Talk
 URL: https://finance.yahoo.com/news/aiq-chat-etfs-vulnerable-amid-050100381.html
 Time Published: 2025-10-03T05:01:00Z
 Description: Nvidia Corp. (NVDA) and OpenAI recently announced a “strategic partnership” under which the former will invest as much as $100 billion in the latter. But...
---------------------------------------------------
-
-Title: S&P 500 Gains & Losses Today: Buffett's Berkshire Buys; Fair Isaac Soars, Equifax Falls
-URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-buffett-s-berkshire-buys-fair-isaac-soars-equifax-falls-11823467
-Time Published: 2025-10-02T20:59:06Z
-Full Content:
-Shares of a data analytics firm took off after the company said it would provide its consumer credit scores directly to firms that give credit reports to mortgage lenders. The move pressured the credit bureaus that also evaluate potential borrowers. Major U.S. equities indexes ticked higher Thursday. Outperformance from materials and technology stocks offset declines in most sectors as investors continued to weigh the implications of a government shutdown. The S&P 500 added less than 0.1%, while the Dow and the Nasdaq were up 0.2% and 0.4%, respectively. See here to read Investopedia's full coverage of the day's trading. Warren Buffet's Berkshire Hathaway (BRK.A, BRK.B) confirmed a nearly $10 billion deal to acquire the petrochemical division of Occidental Petroleum (OXY). The transaction marks Berkshire's largest deal since 2022. Shares of Occidental Petroleum fell 7.3%, while Berkshire Hathaway shares posted fractional losses. Fair Isaac (FICO) shares surged 18%, notching the top performance in the S&P 500, after the data analytics company said it would offer its FICO consumer credit scores directly to firms that sell consolidated credit reports to mortgage providers. The data provider said the move would reduce the reliance on the three nationwide credit bureaus, and shares of the credit bureaus moved lower. Equifax (EFX) shares were down 8.5%, falling the most of any S&P 500 stock, while TransUnion (TRU) shares dropped nearly 11%. The prices of bitcoin (BTCUSD) and other major cryptocurrencies extended their recent revival. Shares of Coinbase Global (COIN), operator of the largest U.S. crypto exchange, jumped 7.5%, while of online brokerage Robinhood Markets (HOOD), which also offers crypto trading, added 4.1%. Robinhood CEO Vlad Tenev at a conference predicted that the "tokenization" of real-world assets, including stocks, would have a major impact on global financial markets. Intel (INTC) shares gained 3.8% in the wake of recent reports that Advanced Micro Devices (AMD) is in early talks to become a customer of Intel's foundry business. Intel stock has doubled in value since reaching its year-to-date low in April, boosted by a series of high-profile investments from Nvidia (NVDA), SoftBank (SFTBY), and the U.S. government. Shares of the renewable energy provider AES Corp. (AES) sank 7%. The downturn reversed some of the gains posted in the previous session amid reports that Global Infrastructure Partners, owned by BlackRock (BLK), was in advanced negotiations about a potential acquisition of AES, which has signed deals with several tech firms to power artificial intelligence data centers.
 --------------------------------------------------
