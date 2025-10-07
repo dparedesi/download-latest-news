@@ -56,14 +56,14 @@ Time Published: 2025-10-02T14:52:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq jump as AI optimism blots out US shutdown risks
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-as-ai-optimism-blots-out-us-shutdown-risks-133118631.html
+Title: Stock market today: S&P 500, Nasdaq rise as AI optimism blots out US shutdown risks
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-ai-optimism-blots-out-us-shutdown-risks-133118033.html
 Time Published: 2025-10-02T13:31:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq rise as AI optimism blots out US shutdown risks
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-ai-optimism-blots-out-us-shutdown-risks-133118033.html
+Title: Stock market today: S&P 500, Nasdaq jump as AI optimism blots out US shutdown risks
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-as-ai-optimism-blots-out-us-shutdown-risks-133118631.html
 Time Published: 2025-10-02T13:31:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
