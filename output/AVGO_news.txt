@@ -87,14 +87,14 @@ Time Published: 2025-10-02T15:11:06Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.22%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq gains fizzle with AI buzz, Trump's shutdown threats in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-with-ai-buzz-trumps-shutdown-threats-in-focus-145218301.html
+Title: Stock market today: Dow, S&P 500, Nasdaq mixed as AI optimism blots out US shutdown risks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-ai-optimism-blots-out-us-shutdown-risks-145218407.html
 Time Published: 2025-10-02T14:52:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq mixed as AI optimism blots out US shutdown risks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-ai-optimism-blots-out-us-shutdown-risks-145218407.html
+Title: Stock market today: Dow, S&P 500, Nasdaq gains fizzle with AI buzz, Trump's shutdown threats in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-with-ai-buzz-trumps-shutdown-threats-in-focus-145218301.html
 Time Published: 2025-10-02T14:52:18Z
 Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------
