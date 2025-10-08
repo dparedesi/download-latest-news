@@ -1,5 +1,11 @@
 List of news related to Netflix stock price NFLX:
 
+Title: Stock Index Futures Muted as U.S. Government Shutdown Continues
+URL: https://www.barchart.com/story/news/35272729/stock-index-futures-muted-as-u-s-government-shutdown-continues
+Time Published: 2025-10-07T10:10:14Z
+Description: December S&P 500 E-Mini futures (ESZ25) are down -0.04%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.01% this morning, taking a breather after...
+--------------------------------------------------
+
 Title: Weekly Market Wrap: Intel, Nvidia and Electronic Arts made major news
 URL: https://www.thestreet.com/markets/weekly-market-wrap-intel-nvidia-and-electronic-arts-made-the-most-news
 Time Published: 2025-10-05T03:52:44Z
