@@ -1,5 +1,25 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Top Stock Movers Now: Ford, AppLovin, AMD, and More
+URL: https://www.investopedia.com/top-stock-movers-now-ford-applovin-amd-and-more-11825434
+Time Published: 2025-10-07T16:03:18Z
+Full Content:
+Major U.S. equities indexes were lower at midday Tuesday after the benchmark S&P 500 and the tech-heavy Nasdaq hit new intraday records. Ford Motor (F) was one of the worst-performing stocks in the S&P 500, with shares down roughly 7%, following a report that a fire at a major aluminum supplier would affect production for months. Tesla (TSLA) shares, which jumped 5.5% yesterday after the company teased a Tuesday product launch, pulled back 3%. Strategy (MSTR) shares fell over 7% to lead Nasdaq decliners as the price of Bitcoin dropped from an all-time high set yesterday. Strategy is the largest corporate holder of the cryptocurrency. Advanced Micro Devices (AMD) shares climbed close to 4%, extending this week's rally after soaring 24% Monday on news of a massive chip deal with OpenAI. AppLovin (APP) shares rebounded 7% to lead the S&P 500 and Nasdaq after sinking 14% yesterday on a report that the Securities and Exchange Commission was investigating the mobile app monetization company's data-collection practices after a whistleblower's complaint. Constellation Brands (STZ) stock rose 2.5% after the parent of Modelo and other beer brands reported a smaller-than-expected decline in quarterly sales. Gold set a new record high, crossing $4,000 per ounce for the first time. The yield on the 10-year Treasury note pulled back. The U.S. dollar rose against the euro, pound, and yen. Oil prices edged lower.
+--------------------------------------------------
+
+Title: Watch These AMD Price Levels as Stock Continues Surging on OpenAI Deal
+URL: https://www.investopedia.com/watch-these-amd-price-levels-as-stock-continues-surging-after-openai-chip-deal-11825430
+Time Published: 2025-10-07T14:57:32Z
+Full Content:
+Advanced Micro Devices (AMD) shares rose Tuesday after soaring yesterday to a 19-month high on news that the chip designer and ChatGPT maker OpenAI have inked a multi-year supply deal. Under the agreement, OpenAI is committing to buying several generations of AI chips from AMD in a long-term deal that could see it take a 10% stake in the Nvidia (NVDA) rival. AMD said it anticipates the ripple effect of the deal to net it more than $100 billion in new revenue over four years from OpenAI and other customers. AMD shares, which jumped 24% on Monday, were up more than 5% at around $215 in recent trading, putting the stock on pace for a record closing high. The stock is up 77% since the start of the year, handily outpacing Nvidia’s 40% return over the same period. Below, we take a closer look at AMD’s weekly chart and apply technical analysis to identify critical price levels worth watching out for. AMD shares staged a dramatic breakout from an inverse head and shoulders pattern on Monday, laying the groundwork for follow-through buying. While the surge coincided with the relative strength index crossing into overbought territory, the indicator remains below peaks that preceded drawdowns in November 2021 and March 2024. However, the stock closed near its low for the day yesterday, indicating a short-term over-extension. Let’s point out two critical overhead areas to watch on AMD’s chart if the shares continue their bullish run and also identify support levels worth monitoring during potential pullbacks. If the chipmaker’s shares regain their upward momentum, investors should initially keep track of the $227 area. This location on the chart would likely attract significant attention near Monday's high, which coincidently sits just below the stock’s record intraday high set in March last year. Investors can project an overhead area to watch above the stock’s all-time high by using the measuring principle, a technique that analyzes chart patterns to forecast future price movements. When applying the study to AMD’s chart, we calculate the distance from the inverse head and shoulders’ head to neckline in points and add that amount to the pattern’s neckline. For example, adding $98 to $174 projects a bullish target of $272, about 34% above Monday's closing price. During retracements, it’s worth watching for a potential fill of yesterday's stock gap down to around $174. Investors would likely see this as a high probability buying area near the inverse head and shoulders’ neckline, which could flip from prior resistance to future support. Finally, a steeper pullback would open the door to a retest of the $150 level. This area on the chart could provide support near the inverse head and shoulders’ two shoulders, which closely align with the December 2023 high. The comments, opinions, and analyses expressed on Investopedia are for informational purposes only. Read our warranty and liability disclaimer for more info. As of the date this article was written, the author does not own any of the above securities.
+--------------------------------------------------
+
+Title: IREN (IREN) Touches Fresh Peak on AI Deals
+URL: https://finance.yahoo.com/news/iren-iren-touches-fresh-peak-112455047.html
+Time Published: 2025-10-07T11:24:55Z
+Description: We recently published 10 Stocks Investors Are Gobbling Up. IREN Ltd. (NASDAQ:IREN) is one of the top performers on Monday. IREN Ltd. soared to a new all-time...
+--------------------------------------------------
+
 Title: OpenAI’s Windows Play
 URL: https://stratechery.com/2025/openais-windows-play/
 Time Published: 2025-10-07T09:57:32Z
@@ -287,10 +307,4 @@ Title: Intel Stock Has Doubled Since April 8. Here Is Where the Stock Could Be a
 URL: https://www.barchart.com/story/news/35218063/intel-stock-has-doubled-since-april-8-here-is-where-the-stock-could-be-at-the-end-of-2025
 Time Published: 2025-10-03T14:04:25Z
 Description: Intel stock has roughly doubled on the back of government and corporate investments. Here’s where the options data suggests INTC shares are headed next.
---------------------------------------------------
-
-Title: Nasdaq Futures Gain on AI Optimism
-URL: https://www.barchart.com/story/news/35211325/nasdaq-futures-gain-on-ai-optimism
-Time Published: 2025-10-03T10:11:33Z
-Description: December Nasdaq 100 E-Mini futures (NQZ25) are trending up +0.31% this morning as another round of major AI deals and partnerships boosted sentiment.
 --------------------------------------------------

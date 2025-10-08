@@ -1,5 +1,11 @@
 List of news related to Axon Enterprise AXON:
 
+Title: Disrupting threats targeting Microsoft Teams
+URL: https://www.microsoft.com/en-us/security/blog/2025/10/07/disrupting-threats-targeting-microsoft-teams/
+Time Published: 2025-10-07T17:00:00Z
+Description: Threat actors seek to abuse Microsoft Teams features and capabilities across the attack chain, underscoring the importance for defenders to proactively monitor, detect, and respond effectively. In this blog, we recommend countermeasures and optimal controls a…
+--------------------------------------------------
+
 Title: What happens when C-suite pay becomes all or nothing
 URL: https://finance.yahoo.com/news/happens-c-suite-pay-becomes-091419380.html
 Time Published: 2025-10-06T09:14:19Z

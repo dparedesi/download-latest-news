@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Amazon Scores a 'Perfect 10' as Wall Street Bets on Its AI and Cloud Comeback
+URL: https://finance.yahoo.com/news/amazon-scores-perfect-10-wall-165550861.html
+Time Published: 2025-10-07T16:55:50Z
+Description: Analysts say AWS is regaining strength while new AI devices deepen Amazon's ecosystem
+--------------------------------------------------
+
 Title: Is Meta Stock a Buy or a Sell as ‘AI Bubble’ Chatter Grows?
 URL: https://www.barchart.com/story/news/35259538/is-meta-stock-a-buy-or-a-sell-as-ai-bubble-chatter-grows
 Time Published: 2025-10-06T17:50:37Z
