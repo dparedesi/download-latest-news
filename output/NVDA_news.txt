@@ -1,5 +1,12 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia Stock 2x To $350?
+URL: https://www.forbes.com/sites/greatspeculations/2025/10/07/nvidia-stock-2x-to-350/
+Time Published: 2025-10-07T09:30:26Z
+Full Content:
+ByTrefis Team, Contributor. Will Nvidia stock (NASDAQ: NVDA) reach $350 in the upcoming years? This likelihood is more than mere speculation. In the last six months alone, Nvidia’s share price has almost doubled, soaring from around $94 per share to nearly $185. At first sight, trading at approximately 42x consensus adjusted FY’26 earnings and 62x for FY’25, the stock may seem expensive. However, considering Nvidia's remarkable earnings growth (with EPS anticipated to increase by nearly 50% this year), its leading role in accelerated computing, and the substantial potential for AI adoption, the valuation begins to appear more justifiable. CEO Jensen Huang foresees that spending on AI infrastructure could rise to $4 trillion by the decade's conclusion, and if artificial general intelligence (AGI) materializes even partially, the need for high-performance computing could soar. Below, we illustrate a possible path indicating how Nvidia’s revenue, profitability, and valuation multiples could elevate its stock to over $350 per share, nearing a $10 trillion market cap. That being said, if you seek an upside with less volatility than holding an individual stock like NVDA, consider the High Quality Portfolio. It has comfortably outperformed its benchmark—a combination of the S&P 500, Russell, and S&P MidCap indexes—and has achieved returns exceeding 91% since its inception. Why is that? As a group, HQ Portfolio stocks provided better returns with less risk versus the benchmark index; less of a roller-coaster ride, as evident in HQ Portfolio performance metrics. Nvidia’s revenues have nearly doubled over the past 12 months, while achieving an average annual growth rate of about 69% over the previous three years, and this momentum could persist. If Nvidia increases its sales at an average annual rate of approximately 60% for the next two years and around 45% in the third year—its revenues could rise from about $131 billion in FY’25 to roughly $486 billion by FY’28, or nearly 3.7x. Several trends could continue to fuel Nvidia’s growth. While the initial AI models implemented by companies like OpenAI in 2022 were mainly text-based, AI is increasingly evolving to be multimodal—handling speech, images, video, and even 3D—which necessitates greater computing power and a higher quantity of GPU shipments. Activity in AI deal-making shows no signs of deceleration. In the past three months, Nvidia has completed some of its most significant AI-related agreements, including a $100 billion investment and partnership with OpenAI, covering the provision of advanced AI chips and an equity stake, a $6.3 billion cloud capacity agreement with CoreWeave, and Microsoft’s $19.4 billion contract with Nebius, which secures access to nearly 100,000 of Nvidia’s latest GPU chips to boost its AI capabilities. Separately, see How SOUN Stock Falls To $2? The next significant tech revolution could be AGI—Artificial General Intelligence—and Nvidia is positioned at the core of it. Though the timeline is uncertain, the objective is to enable AI to reason, plan, and learn new tasks without requiring retraining. Artificial General Intelligence could conduct scientific research, generate innovative insights, or design complete products independently. This potential could unlock breakthroughs and innovations across various industries, with some models suggesting that AGI could elevate global GDP growth from low single-digit percentages to over 20% annually. [1] As the world approaches AGI, Nvidia stands to gain significantly. AGI will require immense computing power to train and operate, far exceeding current AI models, and Nvidia’s GPUs are the gold standard for these high-performance functions. Combining this robust revenue growth with the fact that Nvidia’s margins (net income, or profits after all expenses and taxes, expressed as a percentage of revenues) are on an upward trend—they increased from approximately 25% in FY’19 to around 51% in FY’25 as the company benefited from enhanced economies of scale and a more favorable product mix biased toward complex data center products. Software-related sales are also on the rise. We can assume that margins will remain stable at current levels since Nvidia's introduction of pricier high-end products, such as the latest Blackwell chips, is offset by potentially increased costs and competition in the low-end market from competitors like AMD. With margins staying steady and revenue increasing 3.7x, we could witness earnings rise 3.7x. If earnings increase by 3.7x, the PE multiple will decline by 3.7x to approximately 18x, assuming the stock price remains constant. But that’s precisely what Nvidia investors are betting will not occur. If earnings grow 3.7x over the next few years, instead of the trailing PE decreasing from around 62x currently to roughly 18x, a situation where the PE metric remains around 32x appears quite probable. For context, Apple—a company experiencing low single-digit growth—trades at 30x. This scenario could mean Nvidia's stock could grow by approximately 1.9x within the next three years or so, a tangible possibility, leading to a share price exceeding $350. What about the timeline for this high-return scenario? In practice, it won’t significantly matter whether it takes three years or four, as long as Nvidia continues on this revenue growth trajectory, coupled with margins holding steady, the stock price could respond accordingly. As always, investing in a single company stock carries risk. Consider the Trefis Reinforced Value (RV) Portfolio, which has outperformed its all-cap benchmark (a blend of the S&P 500, S&P MidCap, and Russell 2000) to deliver strong returns for investors. The quarterly rebalanced mix of large-, mid-, and small-cap RV Portfolio stocks provides a flexible approach to capitalize on bullish markets while minimizing drawdowns, as shown in RV Portfolio performance metrics.
+--------------------------------------------------
+
 Title: How to build a strong portfolio with ASX ETFs
 URL: https://www.fool.com.au/2025/10/07/how-to-build-a-strong-portfolio-with-asx-etfs/
 Time Published: 2025-10-07T06:22:13Z
@@ -20,6 +27,12 @@ Time Published: 2025-10-06T21:17:52Z
 Description: Nvidia Stock Could Jump 45% as Analyst Dismisses AI Slowdown Fears
 --------------------------------------------------
 
+Title: Stocks Settle Mostly Higher as AI Frenzy Boosts Chipmakers
+URL: https://www.barchart.com/story/news/35262467/stocks-settle-mostly-higher-as-ai-frenzy-boosts-chipmakers
+Time Published: 2025-10-06T20:36:14Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +0.36%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.14%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
 Title: AMD CEO Lisa Su says AI critics are 'thinking too small' after massive OpenAI deal
 URL: https://finance.yahoo.com/news/amd-ceo-lisa-su-says-ai-critics-are-thinking-too-small-after-massive-openai-deal-202818700.html
 Time Published: 2025-10-06T20:28:18Z
@@ -30,6 +43,12 @@ Title: Nvidia Stock Price's Wild Rollercoaster: Shares Plummet Then Roar Back Af
 URL: https://www.ibtimes.com/nvidia-stock-prices-wild-rollercoaster-shares-plummet-then-roar-back-after-amds-shock-openai-deal-3785842
 Time Published: 2025-10-06T20:17:21Z
 Description: Nvidia's stock recovers after an initial dip as rival AMD announces a major AI chip deal with OpenAI. Explore the market reaction and the escalating battle for GPU supremacy in our latest analysis.
+--------------------------------------------------
+
+Title: AMD Is Soaring on an OpenAI Deal. Is AMD Stock a Better Buy Than Nvidia Here?
+URL: https://www.barchart.com/story/news/35261713/amd-is-soaring-on-an-openai-deal-is-amd-stock-a-better-buy-than-nvidia-here
+Time Published: 2025-10-06T20:10:53Z
+Description: AMD stock soars after announcing a new AI deal with OpenAI. Here’s what keeps AMD shares worth owning despite a massive rally since early April.
 --------------------------------------------------
 
 Title: Nvidia Target Raised to $210 by Goldman Sachs on OpenAI Ties
@@ -133,6 +152,12 @@ Time Published: 2025-10-06T14:08:54Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.20%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
 --------------------------------------------------
 
+Title: Stock market today: Dow falls whiS&P 500, Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-whisp-500-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132036.html
+Time Published: 2025-10-06T13:31:32Z
+Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
+--------------------------------------------------
+
 Title: Stock market today: Nasdaq leads Dow, S&P 500 higher as AMD surges on OpenAI deal, shutdown drags on
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-leads-dow-sp-500-higher-as-amd-surges-on-openai-deal-shutdown-drags-on-133132602.html
 Time Published: 2025-10-06T13:31:32Z
@@ -145,28 +170,22 @@ Time Published: 2025-10-06T13:31:32Z
 Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
 --------------------------------------------------
 
-Title: Stock market today: Dow falls whiS&P 500, Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-whisp-500-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132036.html
-Time Published: 2025-10-06T13:31:32Z
-Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
---------------------------------------------------
-
 Title: Advanced Micro Devices Explodes on OpenAI Pact, But is AMD the Best AI Chip Stock to Buy Now?
 URL: https://www.barchart.com/story/news/35253836/advanced-micro-devices-explodes-on-openai-pact-but-is-amd-the-best-ai-chip-stock-to-buy-now
 Time Published: 2025-10-06T13:06:04Z
 Description: By some measures, Nvidia stock still looks cheaper than underdog rival AMD, which is spiking this morning after partnering with Sam Altman’s company.
 --------------------------------------------------
 
-Title: AMD stock rockets higher on multibillion-dollar OpenAI deal
-URL: https://finance.yahoo.com/news/amd-stock-rockets-higher-on-multibillion-dollar-openai-deal-125503782.html
-Time Published: 2025-10-06T12:55:03Z
-Description: AMD stock rocketed in early trading on news that it signed a 6 gigawatt GPU deal with OpenAI.
---------------------------------------------------
-
 Title: AMD stock rockets more than 35% on OpenAI deal
 URL: https://finance.yahoo.com/news/amd-stock-rockets-more-than-35-on-openai-deal-125503247.html
 Time Published: 2025-10-06T12:55:03Z
 Description: AMD stock rocketed in pre-market trading on news that it signed a 6 gigawatt GPU deal with OpenAI.
+--------------------------------------------------
+
+Title: AMD stock rockets higher on multibillion-dollar OpenAI deal
+URL: https://finance.yahoo.com/news/amd-stock-rockets-higher-on-multibillion-dollar-openai-deal-125503782.html
+Time Published: 2025-10-06T12:55:03Z
+Description: AMD stock rocketed in early trading on news that it signed a 6 gigawatt GPU deal with OpenAI.
 --------------------------------------------------
 
 Title: Novice Investor’s Digest For Monday, October 6: Stock Prices Stay Strong On AI Enthusiasm
@@ -294,22 +313,4 @@ Title: INTC: Intel Stock Jumps 50% Since U.S. Stake Soars To $16 Billion
 URL: https://finance.yahoo.com/news/intc-intel-stock-jumps-50-175539698.html
 Time Published: 2025-10-03T17:55:39Z
 Description: Intel Surges Past $37, Turning Washington's Stake Into A Windfall
---------------------------------------------------
-
-Title: Intel’s Unusually Active Halloween Call Sets Up Nicely for This Options Strategy
-URL: https://www.barchart.com/story/news/35222167/intels-unusually-active-halloween-call-sets-up-nicely-for-this-options-strategy
-Time Published: 2025-10-03T17:30:02Z
-Description: In Thursday’s trading, Intel had the third-highest Vol/OI ratio at 134.59. With 29 days to expiration, the Halloween call sets up nicely for bullish...
---------------------------------------------------
-
-Title: ‘I Relish Having Competitors Who Are Unable to Fund Capital Expenditures’: Warren Buffett on Berkshire’s Biggest Strength
-URL: https://www.barchart.com/story/news/35221442/i-relish-having-competitors-who-are-unable-to-fund-capital-expenditures-warren-buffett-on-berkshires-biggest-strength
-Time Published: 2025-10-03T17:00:02Z
-Description: Warren Buffett’s view on competition highlights the advantage of financial discipline and resilience in business strategy and market positioning.
---------------------------------------------------
-
-Title: Wall Street Can’t Get Enough of Alibaba Stock. Should You Buy BABA Here?
-URL: https://www.barchart.com/story/news/35220279/wall-street-cant-get-enough-of-alibaba-stock-should-you-buy-baba-here
-Time Published: 2025-10-03T16:05:32Z
-Description: Alibaba’s AI bets and global expansion excite investors, though heavy spending clouds its near-term profitability.
 --------------------------------------------------
