@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Could Broadcom Benefit from the OpenAI AMD Deal? AVGO Stock Could Be Cheap Here
+URL: https://www.barchart.com/story/news/35259459/could-broadcom-benefit-from-the-openai-amd-deal-avgo-stock-could-be-cheap-here
+Time Published: 2025-10-06T17:43:14Z
+Description: Broadcom could benefit from OpenAI's diversification away from its sole reliance on Nvidia with its new AMD deal. It's possible, especially after the Sept. 4...
+--------------------------------------------------
+
+Title: Why your S&P 500 index fund might be more risky than the internet bubble
+URL: https://www.marketwatch.com/story/why-your-s-p-500-index-fund-might-be-more-risky-than-the-internet-bubble-af1050e6
+Time Published: 2025-10-06T14:53:00Z
+Description: The S 500’s record concentration to a handful of stocks at a time of relatively high valuations makes a case for broadening investment portfolios.
+--------------------------------------------------
+
 Title: Broadcom (AVGO): The Non-Nvidia Winner in Chip Designers
 URL: https://finance.yahoo.com/news/broadcom-avgo-non-nvidia-winner-144718126.html
 Time Published: 2025-10-06T14:47:18Z
@@ -16,6 +28,12 @@ Title: MRVL Surges 31% in a Month: Should You Hold or Fold the Stock?
 URL: https://finance.yahoo.com/news/mrvl-surges-31-month-hold-140600987.html
 Time Published: 2025-10-06T14:06:00Z
 Description: Marvell Technology's 31% surge rides on booming AI and data center demand, but lofty valuation and fierce rivals keep investors cautious.
+--------------------------------------------------
+
+Title: Advanced Micro Devices Explodes on OpenAI Pact, But is AMD the Best AI Chip Stock to Buy Now?
+URL: https://www.barchart.com/story/news/35253836/advanced-micro-devices-explodes-on-openai-pact-but-is-amd-the-best-ai-chip-stock-to-buy-now
+Time Published: 2025-10-06T13:06:04Z
+Description: By some measures, Nvidia stock still looks cheaper than underdog rival AMD, which is spiking this morning after partnering with Sam Altman’s company.
 --------------------------------------------------
 
 Title: Jim Cramer Was Right About Broadcom (AVGO)
@@ -66,65 +84,4 @@ Title: Top Money Manager Finds 3 Ways To Make Money From Today's 'Noise'
 URL: https://www.investors.com/etfs-and-funds/etfs/stock-market-manager-finds-3-ways-to-profit-noise/
 Time Published: 2025-10-03T11:00:10Z
 Description: Apriem Advisors, an independent California wealth manager, is leaning into three trends with its best ETF picks.
---------------------------------------------------
-
-Title: Stocks Settle Higher as Chip Makers and AI Infrastructure Stocks Rally
-URL: https://www.barchart.com/story/news/35200263/stocks-settle-higher-as-chip-makers-and-ai-infrastructure-stocks-rally
-Time Published: 2025-10-02T20:35:00Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +0.06%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.17%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Why Is Broadcom Stock Surging Thursday?
-URL: https://www.benzinga.com/markets/tech/25/10/48002704/why-is-broadcom-stock-surging-thursday
-Time Published: 2025-10-02T20:33:18Z
-Full Content:
-Broadcom (NASDAQ:AVGO) capitalized on Wall Street’s artificial intelligence boom Thursday, fueled by billions in chip investments from Microsoft (NASDAQ:MSFT), Meta Platforms (NASDAQ:META), and other technology giants. Broadcom has emerged as one of the biggest beneficiaries of the generative AI boom, carving out a strategic niche in the rapidly evolving chip market. While competitors like Nvidia (NASDAQ:NVDA) offer off-the-shelf, high-performance GPUs, Broadcom focuses on designing custom AI chips for its hyperscale customers, the tech giants that own and operate the world’s largest data centers. Also Read: Broadcom Wins $10 Billion OpenAI Order, Analyst Sees More Growth Ahead This approach allows companies like Microsoft, Meta, and Apple (NASDAQ:AAPL) to tailor silicon to their exact needs, offering a compelling, often less expensive, alternative to the pricier, general-purpose Nvidia chips. By helping these key players design their proprietary AI accelerators, Broadcom solidifies its foundational role in the sector, ensuring its technology is deeply integrated into the core infrastructure of the AI revolution. KeyBanc Capital Markets reinforced this outlook by reiterating its Overweight rating on Broadcom and raising its price forecast to $420 from $400, citing the company’s foundational position in AI and the broader semiconductor supply chain. Following recent channel checks, analyst John Vinh said that the supply chains of Nvidia and Broadcom “sound the best,” as upward revisions are coming to chip-on-a-wafer-substrate (CoWoS) supply. Broadcom’s trajectory as a core AI beneficiary is evident in its expanded targets. Its 2026 CoWoS supply goal has climbed to 190,000 units, reflecting an anticipated year-over-year increase exceeding 160%, Vinh noted. A critical factor in its AI dominance remains control over Alphabet’s (NASDAQ:GOOGL) (NASDAQ:GOOG) Google TPU franchise through 2026, with volumes expected to more than double. Additionally, Broadcom has secured significant new AI ASIC orders, including 400,000-500,000 units for OpenAI and roughly 100,000 units for Apple, reinforcing its influence over AI development and production. Analyst John Vinh raised the price forecast to $420 based on $10.37 fiscal 2026 consolidated earnings per share (EPS). Price Action: AVGO stock was trading higher by 2.31% to $341.10 at last check Thursday. Read Next: Photo by Remus Rigo via Shutterstock © 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. A newsletter built for market enthusiasts by market enthusiasts. Top stories, top movers, and trade ideas delivered to your inbox every weekday before and after the market closes.
---------------------------------------------------
-
-Title: Dow, S&P 500, Nasdaq notch records on AI buzz even as government shutdown drags on
-URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-notch-records-on-ai-buzz-even-as-government-shutdown-drags-on-200207403.html
-Time Published: 2025-10-02T20:02:07Z
-Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
---------------------------------------------------
-
-Title: Why Is Broadcom Stock Surging Thursday?
-URL: https://finance.yahoo.com/news/why-broadcom-stock-surging-thursday-183327721.html
-Time Published: 2025-10-02T18:33:18Z
-Description: Broadcom (NASDAQ:AVGO) capitalized on Wall Street’s artificial intelligence boom Thursday, fueled by billions in chip investments from Microsoft (NASDAQ:MSFT...
---------------------------------------------------
-
-Title: Move Over, Mag 7. Buy This 1 Missing AI Winner Instead.
-URL: https://www.barchart.com/story/news/35196340/move-over-mag-7-buy-this-1-missing-ai-winner-instead
-Time Published: 2025-10-02T17:03:51Z
-Description: As the AI trade remains defined by other stocks, Broadcom is silently up by almost 45% so far this year.
---------------------------------------------------
-
-Title: Stocks Turn Mixed as Bond Yields Climb
-URL: https://www.barchart.com/story/news/35193319/stocks-turn-mixed-as-bond-yields-climb
-Time Published: 2025-10-02T15:11:06Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.22%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq mixed as AI optimism blots out US shutdown risks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-ai-optimism-blots-out-us-shutdown-risks-145218407.html
-Time Published: 2025-10-02T14:52:18Z
-Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq gains fizzle with AI buzz, Trump's shutdown threats in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-with-ai-buzz-trumps-shutdown-threats-in-focus-145218301.html
-Time Published: 2025-10-02T14:52:18Z
-Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
---------------------------------------------------
-
-Title: S&P 500 and Nasdaq 100 Post Record Highs on AI Optimism
-URL: https://www.barchart.com/story/news/35191461/s-p-500-and-nasdaq-100-post-record-highs-on-ai-optimism
-Time Published: 2025-10-02T14:02:00Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.13%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq rise as AI optimism blots out US shutdown risks
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-ai-optimism-blots-out-us-shutdown-risks-133118033.html
-Time Published: 2025-10-02T13:31:18Z
-Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------

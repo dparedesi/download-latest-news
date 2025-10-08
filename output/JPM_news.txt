@@ -1,37 +1,13 @@
 List of news related to JPMorgan stock price JPM:
 
+Title: Why your S&P 500 index fund might be more risky than the internet bubble
+URL: https://www.marketwatch.com/story/why-your-s-p-500-index-fund-might-be-more-risky-than-the-internet-bubble-af1050e6
+Time Published: 2025-10-06T14:53:00Z
+Description: The S 500’s record concentration to a handful of stocks at a time of relatively high valuations makes a case for broadening investment portfolios.
+--------------------------------------------------
+
 Title: Bitcoin beats world's top 5 banks by $350 billion
 URL: https://www.thestreet.com/crypto/investing/bitcoin-beats-worlds-top-5-banks-by-350-billion
 Time Published: 2025-10-03T18:00:08Z
 Description: Bitcoin’s $2.4 trillion value tops world’s five biggest banks, fueled by ETF demand.
---------------------------------------------------
-
-Title: Dow, S&P 500, Nasdaq notch records on AI buzz even as government shutdown drags on
-URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-notch-records-on-ai-buzz-even-as-government-shutdown-drags-on-200207403.html
-Time Published: 2025-10-02T20:02:07Z
-Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq mixed as AI optimism blots out US shutdown risks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-ai-optimism-blots-out-us-shutdown-risks-145218407.html
-Time Published: 2025-10-02T14:52:18Z
-Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq gains fizzle with AI buzz, Trump's shutdown threats in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-with-ai-buzz-trumps-shutdown-threats-in-focus-145218301.html
-Time Published: 2025-10-02T14:52:18Z
-Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq rise as AI optimism blots out US shutdown risks
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-ai-optimism-blots-out-us-shutdown-risks-133118033.html
-Time Published: 2025-10-02T13:31:18Z
-Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq jump as AI optimism blots out US shutdown risks
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-as-ai-optimism-blots-out-us-shutdown-risks-133118631.html
-Time Published: 2025-10-02T13:31:18Z
-Description: A wave of upbeat AI news is giving markets more reason to shrug off shutdown risks.
 --------------------------------------------------

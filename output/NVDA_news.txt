@@ -1,5 +1,48 @@
 List of news related to NVIDIA NVDA:
 
+Title: Little Movement Predicted For Malaysia Shares
+URL: https://www.rttnews.com/3579711/little-movement-predicted-for-malaysia-shares.aspx
+Time Published: 2025-10-07T03:36:26Z
+Full Content:
+The Malaysia stock market on Friday snapped the five-day winning streak in which it had rallied more than 35 points or 2.2 percent. The Kuala Lumpur Composite Index now sits just above the 1,635-point plateau and it figures to remain in that neighborhood again on Monday. The global forecast for the Asian markets is murky as the U.S. government shutdown continues. The European and U.S. markets were mixed and little changed and the Asian bourses are expected to open in similar fashion. The KLCI finished slightly lower on Friday following losses from the telecoms and mixed performances from the financial shares and property stocks. For the day, the index slipped 2.74 points or 0.17 percent to finish at 1,635.06 after trading between 1,631.43 and 1,658.73. Among the actives, 99 Speed Mart Retail rallied 1.39 percent, while AMMB Holdings sank 0.68 percent, Celcomdigi lost 0.54 percent, CIMB Group climbed 1.05 percent, Gamuda dipped 0.18 percent, IHH Healthcare tanked 1.57 percent, IOI Corporation gathered 0.25 percent, Kuala Lumpur Kepong stumbled 1.66 percent, Maxis rose 0.27 percent, Maybank and PPB Group both perked 0.20 percent, MISC added 0.54 percent, MRDIY jumped 1.20 percent, Nestle Malaysia and Hong Leong Bank both eased 0.10 percent, Petronas Chemicals advanced 0.94 percent, Petronas Dagangan increased 0.78 percent, Petronas Gas gained 0.43 percent, Press Metal shed 0.67 percent, Public Bank dropped 0.69 percent, QL Resources improved 0.92 percent, Sunway fell 0.34 percent, Telekom Malaysia slumped 0.70 percent, Tenaga Nasional tumbled 1.34 percent and YTL Corporation, YTL Power, RHB Bank, Sime Darby, SD Guthrie and Axiata were unchanged. The lead from Wall Street offers little clarity as the major averages opened higher on Friday but went off in different directions to finish mixed. The Dow jumped 238.58 points or 0.51 percent to finish at a record 46,758.28, while the NASDAQ sank 63.59 points or 0.28 percent to end at 22,780.51 and the S&P 500 perked 0.44 points or 0.01 percent to close at 6,715.79, also a record. For the week, the NASDAQ rallied 1.3 percent, while the Dow and the S&P both rose 1.1 percent. The NASDAQ sank on weakness from technology shares such as Palantir (PLTR), Tesla (TSLA) and Nvidia (NVDA). The lackluster performance by the broader markets came as the ongoing U.S. government shutdown has led to the indefinite delay of key U.S. economic data, including Friday's closely watched monthly jobs report. However, weak data from non-government sources has increased confidence that the Federal Reserve will continue cutting interest rates in the coming months. Crude oil prices advanced on Friday amid U.S. dollar weakness as the government shutdown persisted. West Texas Intermediate crude for November delivery was up $0.41 or 0.68 percent at $60.89 per barrel. For comments and feedback contact: editorial@rttnews.com October 03, 2025 16:10 ET First half of this week the focus was on efforts to avoid a government shutdown in the U.S. However, talks to avert one failed and an almost total blackout of federal government began on October 1, Wednesday. The weekly claims data due on Thursday and the job report on Friday from the Bureau of Labor Statistics were not released. In Europe, inflation data in the euro area raised concern and the latest interest rate decision from India was among the main news in Asia.
+--------------------------------------------------
+
+Title: NVDA: Top Analyst Hikes Nvidia Price Target -- Sees 47% Upside Potential
+URL: https://finance.yahoo.com/news/nvda-top-analyst-hikes-nvidia-211752848.html
+Time Published: 2025-10-06T21:17:52Z
+Description: Nvidia Stock Could Jump 45% as Analyst Dismisses AI Slowdown Fears
+--------------------------------------------------
+
+Title: AMD CEO Lisa Su says AI critics are 'thinking too small' after massive OpenAI deal
+URL: https://finance.yahoo.com/news/amd-ceo-lisa-su-says-ai-critics-are-thinking-too-small-after-massive-openai-deal-202818700.html
+Time Published: 2025-10-06T20:28:18Z
+Description: The chipmaker inked a multi-gigawatt GPU agreement with OpenAI, setting the stage for a potential 10-year AI supercycle
+--------------------------------------------------
+
+Title: Nvidia Stock Price's Wild Rollercoaster: Shares Plummet Then Roar Back After AMD's Shock OpenAI Deal
+URL: https://www.ibtimes.com/nvidia-stock-prices-wild-rollercoaster-shares-plummet-then-roar-back-after-amds-shock-openai-deal-3785842
+Time Published: 2025-10-06T20:17:21Z
+Description: Nvidia's stock recovers after an initial dip as rival AMD announces a major AI chip deal with OpenAI. Explore the market reaction and the escalating battle for GPU supremacy in our latest analysis.
+--------------------------------------------------
+
+Title: Nvidia Target Raised to $210 by Goldman Sachs on OpenAI Ties
+URL: https://finance.yahoo.com/news/nvidia-target-raised-210-goldman-191515934.html
+Time Published: 2025-10-06T19:15:15Z
+Description: Bank sees stronger earnings and strategic upside from AI partnerships
+--------------------------------------------------
+
+Title: Is Meta Stock a Buy or a Sell as ‘AI Bubble’ Chatter Grows?
+URL: https://www.barchart.com/story/news/35259538/is-meta-stock-a-buy-or-a-sell-as-ai-bubble-chatter-grows
+Time Published: 2025-10-06T17:50:37Z
+Description: Observers are cautioning about a possible bubble in AI. Is Meta stock a buy or a sell as the stock trades above its historical valuations on optimism over...
+--------------------------------------------------
+
+Title: Could Broadcom Benefit from the OpenAI AMD Deal? AVGO Stock Could Be Cheap Here
+URL: https://www.barchart.com/story/news/35259459/could-broadcom-benefit-from-the-openai-amd-deal-avgo-stock-could-be-cheap-here
+Time Published: 2025-10-06T17:43:14Z
+Description: Broadcom could benefit from OpenAI's diversification away from its sole reliance on Nvidia with its new AMD deal. It's possible, especially after the Sept. 4...
+--------------------------------------------------
+
 Title: Micron's Record Run Isn't Over Yet, According to These Wall Street Bulls
 URL: https://www.investopedia.com/micron-shares-will-rise-say-these-wall-street-bulls-11824707
 Time Published: 2025-10-06T17:35:12Z
@@ -28,11 +71,29 @@ Time Published: 2025-10-06T15:16:30Z
 Description: Quantum Computing stock soared after an Ascendiant Capital analyst raised his price target on QUBT shares to $40. Here’s why investors must still tread with ...
 --------------------------------------------------
 
+Title: Stocks Gain on Strength in Chipmakers
+URL: https://www.barchart.com/story/news/35256787/stocks-gain-on-strength-in-chipmakers
+Time Published: 2025-10-06T15:08:02Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.20%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
 Title: Market Rally: AMD/OpenAI Deal, MU Upgrade [12:02]
 URL: https://freerepublic.com/focus/f-chat/4344658/posts
 Time Published: 2025-10-06T15:00:58Z
 Full Content:
 Skip to comments. Posted on 10/06/2025 8:00:58 AM PDT by SunkenCiv Monday's off to a busy start! As investors and traders await any developments from Washington DC, Tom White points out the fact that in the previous 5 government shutdowns equity markets actually rose higher. He joins Diane King Hall to set up the trading week before turning to a pair of big premarket movers. AMD (AMD) is jumping on news that it reached a deal to sell a potential 10% stake to OpenAI in tranches. And, Micron (MU) begins Monday's action with an upgrade at Morgan Stanley and a new price target to $220. Market Rally: AMD/OpenAI Deal, MU Upgrade | 12:02 Schwab Network | 235K subscribers | 1,175 views | October 6, 2025 (Excerpt) Read more at youtube.com ... Click here: to donate by Credit Card Or here: to donate by PayPal Or by mail to: Free Republic, LLC - PO Box 9771 - Fresno, CA 93794 Thank you very much and God bless you. Or here: to donate by PayPal Or by mail to: Free Republic, LLC - PO Box 9771 - Fresno, CA 93794 Thank you very much and God bless you. Or by mail to: Free Republic, LLC - PO Box 9771 - Fresno, CA 93794 Thank you very much and God bless you. Thank you very much and God bless you. Gold, almost 4K. That’s not at all concerning. saw someone got a large open call right before friday market close and so far otm it looks like insider trading... turn 2k Friday night into 1.2 million this morning and sold. https://www.youtube.com/results?search_query=congress+insider+trading https://www.youtube.com/@ZipTrader/search?query=pelosi https://www.youtube.com/watch?v=yV8f4Qgpf0c That Lisa Su is extremely smart and tough as heck. That Lisa Su is extremely smart and tough as heck. I wholeheartedly agree. With the kind of capex that’s coming in, second place will be pretty darned good. Thank you for all your hard work!!! APPRECIATED Thanks for your kind remark! Disclaimer: Opinions posted on Free Republic are those of the individual posters and do not necessarily represent the opinion of Free Republic or its management. All materials posted herein are protected by copyright law and the exemption for fair use of copyrighted works. Free Republic Browse · Search General/Chat Topics · Post Article FreeRepublic, LLC, PO BOX 9771, FRESNO, CA 93794 FreeRepublic.com is powered by software copyright 2000-2008 John Robinson Disclaimer: Opinions posted on Free Republic are those of the individual posters and do not necessarily represent the opinion of Free Republic or its management. All materials posted herein are protected by copyright law and the exemption for fair use of copyrighted works.
+--------------------------------------------------
+
+Title: Why your S&P 500 index fund might be more risky than the internet bubble
+URL: https://www.marketwatch.com/story/why-your-s-p-500-index-fund-might-be-more-risky-than-the-internet-bubble-af1050e6
+Time Published: 2025-10-06T14:53:00Z
+Description: The S 500’s record concentration to a handful of stocks at a time of relatively high valuations makes a case for broadening investment portfolios.
+--------------------------------------------------
+
+Title: Market Minute 10-6-25- Gold, Bitcoin Hit Records as Shutdown Enters Week Two
+URL: https://finance.yahoo.com/news/market-minute-10-6-25-144500173.html
+Time Published: 2025-10-06T14:45:00Z
+Description: Precious metals are rocking and rolling again, as are most cryptocurrencies. Stocks are modestly higher along with the US dollar, while Treasuries are...
 --------------------------------------------------
 
 Title: NVDA: Nvidia Billion-Dollar AI Chip Shipment To UAE Suddenly Put On Hold
@@ -53,6 +114,12 @@ Time Published: 2025-10-06T14:20:05Z
 Description: A massive upgrade on IREN Limited signals a potential doubling of IREN stock.
 --------------------------------------------------
 
+Title: Stocks Supported by AI Spending
+URL: https://www.barchart.com/story/news/35255586/stocks-supported-by-ai-spending
+Time Published: 2025-10-06T14:08:54Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.20%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
 Title: Stock market today: Dow falls, S&P 500 and Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-sp-500-and-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132590.html
 Time Published: 2025-10-06T13:31:32Z
@@ -71,16 +138,22 @@ Time Published: 2025-10-06T13:31:32Z
 Description: US stock futures tick upwards despite the government shutdown.
 --------------------------------------------------
 
-Title: AMD stock rockets higher on multibillion-dollar OpenAI deal
-URL: https://finance.yahoo.com/news/amd-stock-rockets-higher-on-multibillion-dollar-openai-deal-125503782.html
-Time Published: 2025-10-06T12:55:03Z
-Description: AMD stock rocketed in early trading on news that it signed a 6 gigawatt GPU deal with OpenAI.
+Title: Advanced Micro Devices Explodes on OpenAI Pact, But is AMD the Best AI Chip Stock to Buy Now?
+URL: https://www.barchart.com/story/news/35253836/advanced-micro-devices-explodes-on-openai-pact-but-is-amd-the-best-ai-chip-stock-to-buy-now
+Time Published: 2025-10-06T13:06:04Z
+Description: By some measures, Nvidia stock still looks cheaper than underdog rival AMD, which is spiking this morning after partnering with Sam Altman’s company.
 --------------------------------------------------
 
 Title: AMD stock rockets more than 35% on OpenAI deal
 URL: https://finance.yahoo.com/news/amd-stock-rockets-more-than-35-on-openai-deal-125503247.html
 Time Published: 2025-10-06T12:55:03Z
 Description: AMD stock rocketed in pre-market trading on news that it signed a 6 gigawatt GPU deal with OpenAI.
+--------------------------------------------------
+
+Title: AMD stock rockets higher on multibillion-dollar OpenAI deal
+URL: https://finance.yahoo.com/news/amd-stock-rockets-higher-on-multibillion-dollar-openai-deal-125503782.html
+Time Published: 2025-10-06T12:55:03Z
+Description: AMD stock rocketed in early trading on news that it signed a 6 gigawatt GPU deal with OpenAI.
 --------------------------------------------------
 
 Title: Novice Investor’s Digest For Monday, October 6: Stock Prices Stay Strong On AI Enthusiasm
@@ -102,6 +175,12 @@ URL: https://economictimes.indiatimes.com/news/international/us/us-stock-futures
 Time Published: 2025-10-06T11:32:43Z
 Full Content:
 US stock futures are rising today as market optimism holds despite Washington gridlock. The Dow gained 0.17%, S&P 500 rose 0.38%, and Nasdaq 100 jumped 0.59% early Monday. Investors remain alert as the U.S. government shutdown enters its second week, challenging Wall Street’s strong four-week winning streak. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Alberta teachers say ‘no’ to government’s latest contract, set to strike on Monday, disrupting classes for 700,000+ students Could your next pack of cigarettes be funding criminal networks? Inside Western Canada’s billion-dollar contraband trade Canada bars Irish rap band Kneecap from entry over alleged terrorism support Bank of Canada cuts interest rate to 2.5% as GDP shrinks, job market softens Beverly Thomson, veteran CTV journalist and Canada AM co-host, dies at 61 Seth Rogen wins Emmy Award for best lead actor in comedy series 'The Studio' Zach Bryan confronts Gavin Adcock at Oklahoma music festival after country singer criticism Weekend streaming guide Canada: top 10 Netflix, Crave, Disney+ and Apple TV+ shows September 2025 Canada pension and retirement benefits 2025: up to $2,461 in federal and provincial payments through December Molly McCann wins professional boxing debut despite opponent's illegal kick How Americans and a fake Fox News account accused Toronto retiree Michael Mallinson of assassinating Charlie Kirk Canadian bread price fixing settlement opens: $500m available for claims Canadian soldier found dead in Latvia during NATO operation reassurance deployment Darjeeling landslides claim 18 lives; BJP slams govt for negligence Bihar Elections 2025: 7.42 Cr voters, 14 lakh first-timers Bihar poll dates: Nov 6 & 11 Voting, Nov 14 Counting Tensions rise in Cuttack as idol immersion triggers clashes Advocate tries to throw a shoe at CJI Gavai in Supreme Court France PM Lecornu resigns hours after cabinet unveiled SMS Hospital fire triggers political storm amid protests Bihar Elections 2025 LIVE: EC announce poll dates Massive fire in SMS Hospital ICU Jaipur: 6 lives lost Kiren Rijiju attacks Rahul Gandhi over statements abroad Darjeeling landslides claim 18 lives; BJP slams govt for negligence Bihar Elections 2025: 7.42 Cr voters, 14 lakh first-timers Bihar poll dates: Nov 6 & 11 Voting, Nov 14 Counting Tensions rise in Cuttack as idol immersion triggers clashes Advocate tries to throw a shoe at CJI Gavai in Supreme Court France PM Lecornu resigns hours after cabinet unveiled SMS Hospital fire triggers political storm amid protests Bihar Elections 2025 LIVE: EC announce poll dates Massive fire in SMS Hospital ICU Jaipur: 6 lives lost Kiren Rijiju attacks Rahul Gandhi over statements abroad Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Commodities Top Story Listing Top Prime Articles Top Definitions Top Slideshow Private Companies Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: Low IV Alert: Stocks that Could be Ready to Pop
+URL: https://www.barchart.com/story/news/35249960/low-iv-alert-stocks-that-could-be-ready-to-pop
+Time Published: 2025-10-06T11:00:02Z
+Description: Market volatility has dropped since the April correction, but with plenty of items on the news front, we could see a volatility spike at any point.
 --------------------------------------------------
 
 Title: Advantest Pioneers a New Era of AI-Powered Semiconductor Testing
@@ -233,85 +312,4 @@ URL: https://economictimes.indiatimes.com/news/international/us/u-s-stock-market
 Time Published: 2025-10-03T15:44:01Z
 Full Content:
 U.S. stock market surged to record highs on Friday. The Dow, S&P 500, and Nasdaq all hit all-time highs. Investors are riding strong momentum from AI-driven growth. Small-cap stocks also climbed, with the Russell 2000 jumping sharply. Even with a third-day government shutdown, Wall Street remains resilient. Traders are watching key movers like Johnson & Johnson and USA Rare Earth for potential gains. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Alberta teachers say ‘no’ to government’s latest contract, set to strike on Monday, disrupting classes for 700,000+ students Could your next pack of cigarettes be funding criminal networks? Inside Western Canada’s billion-dollar contraband trade Canada bars Irish rap band Kneecap from entry over alleged terrorism support Bank of Canada cuts interest rate to 2.5% as GDP shrinks, job market softens Beverly Thomson, veteran CTV journalist and Canada AM co-host, dies at 61 Seth Rogen wins Emmy Award for best lead actor in comedy series 'The Studio' Zach Bryan confronts Gavin Adcock at Oklahoma music festival after country singer criticism Weekend streaming guide Canada: top 10 Netflix, Crave, Disney+ and Apple TV+ shows September 2025 Canada pension and retirement benefits 2025: up to $2,461 in federal and provincial payments through December Molly McCann wins professional boxing debut despite opponent's illegal kick How Americans and a fake Fox News account accused Toronto retiree Michael Mallinson of assassinating Charlie Kirk Canadian bread price fixing settlement opens: $500m available for claims Canadian soldier found dead in Latvia during NATO operation reassurance deployment MEA: India-Canada security talks, flights to China, 25 yrs Russia ties Cough syrup scare: 12 samples tested after Chhindwara tragedy PoK unrest: India flays Pak's 'oppressive approach' Colombia controversy: BJP calls Rahul Gandhi anti-India, serial liar ‘Our choices will decide if resilience becomes leadership': FM Putin lauds Modi, but concerns over Russia jet transfers to Pakistan remain Wangchuk detention: Wife moves to SC, LAB rejects magisterial probe Bareilly: Police ensure tight security on 'Jumme ki Namaz' ‘US buying Russian Uranium but pressuring India’: Putin ‘One can say I love Modi but not I love Mohammad’: Owaisi MEA: India-Canada security talks, flights to China, 25 yrs Russia ties Cough syrup scare: 12 samples tested after Chhindwara tragedy PoK unrest: India flays Pak's 'oppressive approach' Colombia controversy: BJP calls Rahul Gandhi anti-India, serial liar ‘Our choices will decide if resilience becomes leadership': FM Putin lauds Modi, but concerns over Russia jet transfers to Pakistan remain Wangchuk detention: Wife moves to SC, LAB rejects magisterial probe Bareilly: Police ensure tight security on 'Jumme ki Namaz' ‘US buying Russian Uranium but pressuring India’: Putin ‘One can say I love Modi but not I love Mohammad’: Owaisi Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Prime Articles Private Companies Top Commodities Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Intel Stock Has Doubled Since April 8. Here Is Where the Stock Could Be at the End of 2025
-URL: https://www.barchart.com/story/news/35218063/intel-stock-has-doubled-since-april-8-here-is-where-the-stock-could-be-at-the-end-of-2025
-Time Published: 2025-10-03T14:04:25Z
-Description: Intel stock has roughly doubled on the back of government and corporate investments. Here’s where the options data suggests INTC shares are headed next.
---------------------------------------------------
-
-Title: Nvidia UAE Chip Deal Stalls, Testing Patience of CEO Huang
-URL: https://finance.yahoo.com/news/nvidia-uae-chip-deal-stalls-130717580.html
-Time Published: 2025-10-03T13:07:17Z
-Description: National security concerns leave multibillion-dollar agreement in limbo
---------------------------------------------------
-
-Title: MSFT: Microsoft Inks Multi-Billion Nebius Deal to Secure 100,000 Nvidia AI Chips
-URL: https://finance.yahoo.com/news/msft-microsoft-inks-multi-billion-125705192.html
-Time Published: 2025-10-03T12:57:05Z
-Description: Microsoft Bets Big on Nebius To Fuel ChatGPT and Copilot Growth
---------------------------------------------------
-
-Title: Nvidia And Fujitsu Team Up To Build AI Systems For The Future
-URL: https://www.benzinga.com/markets/tech/25/10/48012320/nvidia-and-fujitsu-team-up-to-build-ai-systems-for-the-future
-Time Published: 2025-10-03T12:09:03Z
-Full Content:
-Nvidia (NASDAQ:NVDA) is strengthening its alliance with Fujitsu to co-develop full-stack artificial intelligence infrastructure, a move aimed at accelerating enterprise adoption of AI across industries from healthcare to manufacturing and robotics. The collaboration centers on building industry-specific AI agents that continuously learn and adapt, forming what both companies describe as the foundation for the next phase of the AI industrial revolution. The effort will integrate Fujitsu’s Monaka Central Processing Units (CPUs) with Nvidia’s Graphics Processing Units (GPUs) via NVLink Fusion, enabling more specialized systems than general-purpose architectures can provide. Also Read: Nvidia Becomes The $4.5 Trillion Giant Driving AI’s Biggest Deals “Fujitsu’s strategic collaboration with NVIDIA will accelerate AI-driven business transformation in enterprise and government sectors. By combining the cutting-edge technologies of both companies, we will develop and provide full-stack AI infrastructure, starting with sectors such as manufacturing where Japan is a global leader. To further support the expanding needs of AI infrastructure, Fujitsu and NVIDIA will expand this partnership in the areas of high-performance computing and quantum,” said Fujitsu CEO Takahito Tokita. “The AI industrial revolution has begun, and we must build the infrastructure to power it, in Japan and across the globe. Fujitsu is a true pioneer in computing and Japan’s trusted leader in supercomputing, quantum research, and enterprise systems. Together, NVIDIA and Fujitsu are connecting and extending our ecosystems to forge a powerful partnership for the era of AI,” Nvidia founder and CEO Jensen Huang added. Fujitsu framed the collaboration against a backdrop of rising demand for generative AI, where high costs and technical hurdles have kept adoption largely confined to major corporations. The company said the partnership is designed to address those barriers by creating scalable infrastructure that balances performance, security, and enterprise autonomy. The deal comes as Nvidia continues to ride surging demand for its GPUs, which underpin most of the world’s cutting-edge AI systems. The company’s stock has surged 41% year-to-date, far outpacing the Nasdaq 100 index’s 19% gain. Earlier this week, Nvidia became the first company to reach a $4.5 trillion market capitalization, underscoring its central role in the AI boom. Price Action: NVDA stock was trading higher by 0.55% to $189.92 premarket at last check Friday. Read Next: Photo by Evolf via Shutterstock © 2025 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. A newsletter built for market enthusiasts by market enthusiasts. Top stories, top movers, and trade ideas delivered to your inbox every weekday before and after the market closes.
---------------------------------------------------
-
-Title: U.S. stock market futures today surge as AI optimism drives Dow, S&P 500, Nasdaq higher – Tesla, Nvidia, AMD lead rally – here’s the top stock to watch
-URL: https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-futures-today-surge-as-ai-optimism-drives-dow-sp-500-nasdaq-higher-tesla-nvidia-amd-lead-rally-heres-the-top-stock-to-watch/articleshow/124290538.cms
-Time Published: 2025-10-03T11:50:43Z
-Full Content:
-U.S. stock futures rose Friday morning after Wall Street recorded record highs on Thursday. Tech and AI stocks drove the gains, helping investors look past concerns about the government shutdown. The three major U.S. indexes reached record closing levels on Thursday. Gains in Nvidia pushed the tech-heavy Nasdaq to new highs. Despite the government shutdown entering its third day, investors are focusing on strong earnings and AI optimism to guide trading. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Alberta teachers say ‘no’ to government’s latest contract, set to strike on Monday, disrupting classes for 700,000+ students Could your next pack of cigarettes be funding criminal networks? Inside Western Canada’s billion-dollar contraband trade Canada bars Irish rap band Kneecap from entry over alleged terrorism support Bank of Canada cuts interest rate to 2.5% as GDP shrinks, job market softens Beverly Thomson, veteran CTV journalist and Canada AM co-host, dies at 61 Seth Rogen wins Emmy Award for best lead actor in comedy series 'The Studio' Zach Bryan confronts Gavin Adcock at Oklahoma music festival after country singer criticism Weekend streaming guide Canada: top 10 Netflix, Crave, Disney+ and Apple TV+ shows September 2025 Canada pension and retirement benefits 2025: up to $2,461 in federal and provincial payments through December Molly McCann wins professional boxing debut despite opponent's illegal kick How Americans and a fake Fox News account accused Toronto retiree Michael Mallinson of assassinating Charlie Kirk Canadian bread price fixing settlement opens: $500m available for claims Canadian soldier found dead in Latvia during NATO operation reassurance deployment PoK unrest: India flays Pak's 'oppressive approach' Colombia controversy: BJP calls Rahul Gandhi anti-India, serial liar ‘Our choices will decide if resilience becomes leadership': FM Putin lauds Modi, but concerns over Russia jet transfers to Pakistan remain Wangchuk detention: Wife moves to SC, LAB rejects magisterial probe Bareilly: Police ensure tight security on 'Jumme ki Namaz' ‘US buying Russian Uranium but pressuring India’: Putin ‘One can say I love Modi but not I love Mohammad’: Owaisi 'Pakistan is becoming alarming...,' says UN panel Vijaya Dashami celebrated with festive fervour across India PoK unrest: India flays Pak's 'oppressive approach' Colombia controversy: BJP calls Rahul Gandhi anti-India, serial liar ‘Our choices will decide if resilience becomes leadership': FM Putin lauds Modi, but concerns over Russia jet transfers to Pakistan remain Wangchuk detention: Wife moves to SC, LAB rejects magisterial probe Bareilly: Police ensure tight security on 'Jumme ki Namaz' ‘US buying Russian Uranium but pressuring India’: Putin ‘One can say I love Modi but not I love Mohammad’: Owaisi 'Pakistan is becoming alarming...,' says UN panel Vijaya Dashami celebrated with festive fervour across India Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Slideshow Top Prime Articles Top Definitions Most Searched IFSC Codes Top Story Listing Private Companies Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Magnificence beyond the Magnificent 7? Here’s the next generation of AI winners powering the stock market.
-URL: https://www.marketwatch.com/story/magnificence-beyond-the-magnificent-7-heres-the-next-generation-of-ai-winners-powering-the-stock-market-c87e9e66
-Time Published: 2025-10-03T11:30:00Z
-Description: Wall Street’s tech darlings are losing their shine in 2025, as a new class of large-cap companies — particularly Broadcom, Oracle and Palantir — is rewriting...
---------------------------------------------------
-
-Title: Top Money Manager Finds 3 Ways To Make Money From Today's 'Noise'
-URL: https://www.investors.com/etfs-and-funds/etfs/stock-market-manager-finds-3-ways-to-profit-noise/
-Time Published: 2025-10-03T11:00:10Z
-Description: Apriem Advisors, an independent California wealth manager, is leaning into three trends with its best ETF picks.
---------------------------------------------------
-
-Title: U.S. stock futures jump as AI optimism drives Dow, S&P 500, Nasdaq higher despite 3-day shutdown
-URL: https://economictimes.indiatimes.com/news/international/us/u-s-stock-futures-jump-today-as-ai-optimism-outshines-3-day-government-shutdown-dow-sp-500-nasdaq-all-in-green-on-tesla-nvidia-amd-rally/articleshow/124288854.cms
-Time Published: 2025-10-03T10:25:57Z
-Full Content:
-U.S. stock futures jumped today as investors shrugged off a 3-day government shutdown. AI optimism and tech rallies led the gains. Dow, S&P 500, and Nasdaq all moved higher. Tesla, Nvidia, and AMD drove much of the momentum. Wall Street indexes are on track for weekly gains as traders focus on earnings and economic signals. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Alberta teachers say ‘no’ to government’s latest contract, set to strike on Monday, disrupting classes for 700,000+ students Could your next pack of cigarettes be funding criminal networks? Inside Western Canada’s billion-dollar contraband trade Canada bars Irish rap band Kneecap from entry over alleged terrorism support Bank of Canada cuts interest rate to 2.5% as GDP shrinks, job market softens Beverly Thomson, veteran CTV journalist and Canada AM co-host, dies at 61 Seth Rogen wins Emmy Award for best lead actor in comedy series 'The Studio' Zach Bryan confronts Gavin Adcock at Oklahoma music festival after country singer criticism Weekend streaming guide Canada: top 10 Netflix, Crave, Disney+ and Apple TV+ shows September 2025 Canada pension and retirement benefits 2025: up to $2,461 in federal and provincial payments through December Molly McCann wins professional boxing debut despite opponent's illegal kick How Americans and a fake Fox News account accused Toronto retiree Michael Mallinson of assassinating Charlie Kirk Canadian bread price fixing settlement opens: $500m available for claims Canadian soldier found dead in Latvia during NATO operation reassurance deployment ‘Our choices will decide if resilience becomes leadership': FM Putin lauds Modi, but concerns over Russia jet transfers to Pakistan remain Wangchuk detention: Wife moves to SC, LAB rejects magisterial probe Bareilly: Police ensure tight security on 'Jumme ki Namaz' ‘US buying Russian Uranium but pressuring India’: Putin ‘One can say I love Modi but not I love Mohammad’: Owaisi 'Pakistan is becoming alarming...,' says UN panel Vijaya Dashami celebrated with festive fervour across India 'Sindoor Khela': Durga Puja’s grand farewell ritual President Murmu attends Dussehra Celebration at Red Fort ‘Our choices will decide if resilience becomes leadership': FM Putin lauds Modi, but concerns over Russia jet transfers to Pakistan remain Wangchuk detention: Wife moves to SC, LAB rejects magisterial probe Bareilly: Police ensure tight security on 'Jumme ki Namaz' ‘US buying Russian Uranium but pressuring India’: Putin ‘One can say I love Modi but not I love Mohammad’: Owaisi 'Pakistan is becoming alarming...,' says UN panel Vijaya Dashami celebrated with festive fervour across India 'Sindoor Khela': Durga Puja’s grand farewell ritual President Murmu attends Dussehra Celebration at Red Fort Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Prime Articles Top Slideshow Top Commodities Private Companies Top Story Listing Top Definitions Most Searched IFSC Codes Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Nvidia And Fujitsu Team Up To Build AI Systems For The Future
-URL: https://finance.yahoo.com/news/nvidia-fujitsu-team-build-ai-100903900.html
-Time Published: 2025-10-03T10:09:03Z
-Description: Nvidia (NASDAQ:NVDA) is strengthening its alliance with Fujitsu to co-develop full-stack artificial intelligence infrastructure, a move aimed at accelerating...
---------------------------------------------------
-
-Title: The Zacks Analyst Blog Highlights NVIDIA, Microsoft, IBM, D-Wave and IonQ
-URL: https://finance.yahoo.com/news/zacks-analyst-blog-highlights-nvidia-091000163.html
-Time Published: 2025-10-03T09:10:00Z
-Description: NVDA, MSFT, IBM, QBTS, and IONQ are poised to benefit from quantum computing advancements, combining hardware breakthroughs, commercial traction, and...
---------------------------------------------------
-
-Title: Nvidia and Fujitsu agree to work together on AI robots and other technology
-URL: https://finance.yahoo.com/news/nvidia-fujitsu-agree-together-ai-073114124.html
-Time Published: 2025-10-03T07:31:14Z
-Description: U.S. technology company Nvidia and Fujitsu, a Japanese telecommunications and computer maker, agreed Friday to work together on artificial intelligence to...
---------------------------------------------------
-
-Title: Microsoft Strikes $17B Deal With Nebius to Power AI Ambitions
-URL: https://finance.yahoo.com/news/microsoft-strikes-17b-deal-nebius-051909894.html
-Time Published: 2025-10-03T05:19:09Z
-Description: Agreement provides 100,000 Nvidia GPUs as company shifts workloads to neoclouds
---------------------------------------------------
-
-Title: AIQ and CHAT- Are These ETFs Vulnerable Amid AI Bubble Talk
-URL: https://finance.yahoo.com/news/aiq-chat-etfs-vulnerable-amid-050100381.html
-Time Published: 2025-10-03T05:01:00Z
-Description: Nvidia Corp. (NVDA) and OpenAI recently announced a “strategic partnership” under which the former will invest as much as $100 billion in the latter. But...
 --------------------------------------------------
