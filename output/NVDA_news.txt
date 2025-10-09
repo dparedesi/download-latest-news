@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise, gold rally roars on with Fed minutes on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-gold-rally-roars-on-with-fed-minutes-on-deck-231516964.html
+Time Published: 2025-10-07T23:15:16Z
+Description: Wall Street braced for the release of minutes from the Federal Reserve's September meeting.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures edge up, gold rally roars on ahead of Fed minutes
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-gold-rally-roars-on-ahead-of-fed-minutes-231516412.html
+Time Published: 2025-10-07T23:15:16Z
+Description: Wall Street braced for the release of minutes from the Federal Reserve's September meeting.
+--------------------------------------------------
+
 Title: Jim Cramer Says Nvidia's Next Decade Could Be Even More Life-Changing Than the Last
 URL: https://finance.yahoo.com/news/jim-cramer-says-nvidias-next-170732588.html
 Time Published: 2025-10-07T17:07:32Z
@@ -13,6 +25,18 @@ Full Content:
 US stock market fell on October 7, 2025. The S&P 500 dropped 0.4% amid worries about Oracle’s cloud business. The Nasdaq fell 0.7%, dragged down by tech stocks. The Dow slipped 0.2% as the government shutdown extended, causing uncertainty for investors. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Alberta teachers say ‘no’ to government’s latest contract, set to strike on Monday, disrupting classes for 700,000+ students Could your next pack of cigarettes be funding criminal networks? Inside Western Canada’s billion-dollar contraband trade Canada bars Irish rap band Kneecap from entry over alleged terrorism support Bank of Canada cuts interest rate to 2.5% as GDP shrinks, job market softens Beverly Thomson, veteran CTV journalist and Canada AM co-host, dies at 61 Seth Rogen wins Emmy Award for best lead actor in comedy series 'The Studio' Zach Bryan confronts Gavin Adcock at Oklahoma music festival after country singer criticism Weekend streaming guide Canada: top 10 Netflix, Crave, Disney+ and Apple TV+ shows September 2025 Canada pension and retirement benefits 2025: up to $2,461 in federal and provincial payments through December Molly McCann wins professional boxing debut despite opponent's illegal kick How Americans and a fake Fox News account accused Toronto retiree Michael Mallinson of assassinating Charlie Kirk Canadian bread price fixing settlement opens: $500m available for claims Canadian soldier found dead in Latvia during NATO operation reassurance deployment Thamma is completely different from my filmography: Ayushmann Khurrana Maithili Thakur wants to bring change; Father recalls 1995 caste divide Qatar Development Bank to back India in third country ventures FIP flags Boeing 787 safety ‘PM Modi a real hero,’ Fadnavis brands Maharashtra ‘content capital' Indian defence self-reliance soars with ₹1.2 lakh cr production Lucknow’s Sahara Shahar sealed A look at Navi Mumbai International Airport BJP hits out at TMC after attack on Khagen Murmu, Shankar Ghosh ‘AI will impact every...,’ Jaishankar full speech at Trust & Safety India Festival Thamma is completely different from my filmography: Ayushmann Khurrana Maithili Thakur wants to bring change; Father recalls 1995 caste divide Qatar Development Bank to back India in third country ventures FIP flags Boeing 787 safety ‘PM Modi a real hero,’ Fadnavis brands Maharashtra ‘content capital' Indian defence self-reliance soars with ₹1.2 lakh cr production Lucknow’s Sahara Shahar sealed A look at Navi Mumbai International Airport BJP hits out at TMC after attack on Khagen Murmu, Shankar Ghosh ‘AI will impact every...,’ Jaishankar full speech at Trust & Safety India Festival Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Prime Articles Private Companies Top Commodities Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
 --------------------------------------------------
 
+Title: This AI ETF Is Surging. Should You Join the Party Now?
+URL: https://www.barchart.com/story/news/35285141/this-ai-etf-is-surging-should-you-join-the-party-now
+Time Published: 2025-10-07T15:42:08Z
+Description: Charting this ETF’s holdings helped me find this 1 under-the-radar stock that looks like it’s breaking out.
+--------------------------------------------------
+
+Title: Supermicro Stock Is Gaining Steam. Can the Rally Continue?
+URL: https://www.barchart.com/story/news/35284488/supermicro-stock-is-gaining-steam-can-the-rally-continue
+Time Published: 2025-10-07T15:12:05Z
+Description: SMCI’s rebound comes after a post-earnings slump, when slowing sales momentum briefly cooled investors’ enthusiasm for one of the market’s favorite AI...
+--------------------------------------------------
+
 Title: Watch These AMD Price Levels as Stock Continues Surging on OpenAI Deal
 URL: https://www.investopedia.com/watch-these-amd-price-levels-as-stock-continues-surging-after-openai-chip-deal-11825430
 Time Published: 2025-10-07T14:57:32Z
@@ -24,6 +48,12 @@ Title: NVDA: Nvidia Deals Ignite Iris Energy Stock Rally With Double-Digit Surge
 URL: https://finance.yahoo.com/news/nvda-nvidia-deals-ignite-iris-143245180.html
 Time Published: 2025-10-07T14:32:45Z
 Description: Iris Energy Stock Rallies as AI Cloud Deals Strengthen Growth Pipeline
+--------------------------------------------------
+
+Title: Billionaire Ken Griffin warns on consequences of gold’s rally as Goldman targets nearly $5,000
+URL: https://www.marketwatch.com/story/billionaire-ken-griffin-warns-on-golds-rally-as-goldman-targets-nearly-5-000-857edd74
+Time Published: 2025-10-07T13:33:00Z
+Description: Goldman Sachs is now forecasting gold to reach nearly $5,000 next year, but one billionaire investor says the precious metal’s rally is a sign of trouble for...
 --------------------------------------------------
 
 Title: Intel Stock (INTC) Gets Price Target Lift on Strategic Moves and Foundry Expansion
@@ -196,16 +226,16 @@ Time Published: 2025-10-06T14:08:54Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.20%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq leads Dow, S&P 500 higher as AMD surges on OpenAI deal, shutdown drags on
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-leads-dow-sp-500-higher-as-amd-surges-on-openai-deal-shutdown-drags-on-133132602.html
-Time Published: 2025-10-06T13:31:32Z
-Description: US stock futures tick upwards despite the government shutdown.
---------------------------------------------------
-
 Title: Stock market today: Dow falls whiS&P 500, Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-whisp-500-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132036.html
 Time Published: 2025-10-06T13:31:32Z
 Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq leads Dow, S&P 500 higher as AMD surges on OpenAI deal, shutdown drags on
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-leads-dow-sp-500-higher-as-amd-surges-on-openai-deal-shutdown-drags-on-133132602.html
+Time Published: 2025-10-06T13:31:32Z
+Description: US stock futures tick upwards despite the government shutdown.
 --------------------------------------------------
 
 Title: Stock market today: Dow falls, S&P 500 and Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
@@ -220,16 +250,16 @@ Time Published: 2025-10-06T13:06:04Z
 Description: By some measures, Nvidia stock still looks cheaper than underdog rival AMD, which is spiking this morning after partnering with Sam Altman’s company.
 --------------------------------------------------
 
-Title: AMD stock rockets higher on multibillion-dollar OpenAI deal
-URL: https://finance.yahoo.com/news/amd-stock-rockets-higher-on-multibillion-dollar-openai-deal-125503782.html
-Time Published: 2025-10-06T12:55:03Z
-Description: AMD stock rocketed in early trading on news that it signed a 6 gigawatt GPU deal with OpenAI.
---------------------------------------------------
-
 Title: AMD stock rockets more than 35% on OpenAI deal
 URL: https://finance.yahoo.com/news/amd-stock-rockets-more-than-35-on-openai-deal-125503247.html
 Time Published: 2025-10-06T12:55:03Z
 Description: AMD stock rocketed in pre-market trading on news that it signed a 6 gigawatt GPU deal with OpenAI.
+--------------------------------------------------
+
+Title: AMD stock rockets higher on multibillion-dollar OpenAI deal
+URL: https://finance.yahoo.com/news/amd-stock-rockets-higher-on-multibillion-dollar-openai-deal-125503782.html
+Time Published: 2025-10-06T12:55:03Z
+Description: AMD stock rocketed in early trading on news that it signed a 6 gigawatt GPU deal with OpenAI.
 --------------------------------------------------
 
 Title: Novice Investor’s Digest For Monday, October 6: Stock Prices Stay Strong On AI Enthusiasm
@@ -282,34 +312,4 @@ Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as government shutd
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-government-shutdown-drags-on-232706218.html
 Time Published: 2025-10-05T23:27:06Z
 Description: US stock futures tick upwards despite the government shutdown.
---------------------------------------------------
-
-Title: Analyst on NVIDIA (NVDA): ‘Eventually, We Will Hit a Wall’
-URL: https://finance.yahoo.com/news/analyst-nvidia-nvda-eventually-hit-141543966.html
-Time Published: 2025-10-05T14:15:43Z
-Description: We recently published 10 Stocks Wall Street is Watching Heading into October. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Wall Street is watching. ...
---------------------------------------------------
-
-Title: Wall Street, crypto industry say tokenization will reshape global markets: 'It’s going to eat the entire financial system'
-URL: https://finance.yahoo.com/news/wall-street-crypto-industry-say-tokenization-will-reshape-global-markets-its-going-to-eat-the-entire-financial-system-133005463.html
-Time Published: 2025-10-05T13:30:05Z
-Description: The crypto industry, along with Wall Street heavyweights, wants to bring tokenized stocks, or digital versions of traditional shares that are recorded on a...
---------------------------------------------------
-
-Title: Why tariffs should overtake government shutdown as your biggest investing concern
-URL: https://finance.yahoo.com/news/why-tariffs-should-overtake-government-shutdown-as-your-biggest-investing-concern-123032647.html
-Time Published: 2025-10-05T12:30:32Z
-Description: Government shutdowns are taking over the headlines, but remember tariffs?
---------------------------------------------------
-
-Title: Weekly Market Wrap: Intel, Nvidia and Electronic Arts made major news
-URL: https://www.thestreet.com/markets/weekly-market-wrap-intel-nvidia-and-electronic-arts-made-the-most-news
-Time Published: 2025-10-05T03:52:44Z
-Description: This is how the market performed this week
---------------------------------------------------
-
-Title: Citi Lifts PT on NVIDIA (NVDA) Stock
-URL: https://finance.yahoo.com/news/citi-lifts-pt-nvidia-nvda-211549259.html
-Time Published: 2025-10-04T21:15:49Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Best Quantum Computing Stocks to Buy and Hold for 5 Years. On September 30, Citi’s Atif Malik lifted the price...
 --------------------------------------------------

@@ -26,15 +26,3 @@ URL: https://www.barchart.com/story/news/35243516/government-shutdown-openai-con
 Time Published: 2025-10-05T17:00:02Z
 Description: Markets face a week of critical catalysts including the ongoing US government shutdown impacting federal operations, Tesla's (TSLA) Full Self-Driving v14...
 --------------------------------------------------
-
-Title: Stock Market Week Ahead: OpenAI DevDep Day, Fed Minutes, Shutdown Impact
-URL: https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-openai-devdep-day-fed-minutes-shutdown-impact/
-Time Published: 2025-10-03T21:25:04Z
-Description: The stock market rebounded to new highs and OpenAI's DevDep Day, Fed Minutes and Taiwan Semiconductor's monthly sales will be centerstage.
---------------------------------------------------
-
-Title: Top Money Manager Finds 3 Ways To Make Money From Today's 'Noise'
-URL: https://www.investors.com/etfs-and-funds/etfs/stock-market-manager-finds-3-ways-to-profit-noise/
-Time Published: 2025-10-03T11:00:10Z
-Description: Apriem Advisors, an independent California wealth manager, is leaning into three trends with its best ETF picks.
---------------------------------------------------

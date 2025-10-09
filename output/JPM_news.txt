@@ -12,9 +12,3 @@ URL: https://www.marketwatch.com/story/why-your-s-p-500-index-fund-might-be-more
 Time Published: 2025-10-06T14:53:00Z
 Description: The S 500’s record concentration to a handful of stocks at a time of relatively high valuations makes a case for broadening investment portfolios.
 --------------------------------------------------
-
-Title: Bitcoin beats world's top 5 banks by $350 billion
-URL: https://www.thestreet.com/crypto/investing/bitcoin-beats-worlds-top-5-banks-by-350-billion
-Time Published: 2025-10-03T18:00:08Z
-Description: Bitcoin’s $2.4 trillion value tops world’s five biggest banks, fueled by ETF demand.
---------------------------------------------------
