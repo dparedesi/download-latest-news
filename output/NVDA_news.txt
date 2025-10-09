@@ -1,15 +1,22 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures edge up, gold rally roars on ahead of Fed minutes
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-gold-rally-roars-on-ahead-of-fed-minutes-231516412.html
+Time Published: 2025-10-07T23:15:16Z
+Description: Wall Street braced for the release of minutes from the Federal Reserve's September meeting.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures rise, gold rally roars on with Fed minutes on deck
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-gold-rally-roars-on-with-fed-minutes-on-deck-231516964.html
 Time Published: 2025-10-07T23:15:16Z
 Description: Wall Street braced for the release of minutes from the Federal Reserve's September meeting.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures edge up, gold rally roars on ahead of Fed minutes
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-gold-rally-roars-on-ahead-of-fed-minutes-231516412.html
-Time Published: 2025-10-07T23:15:16Z
-Description: Wall Street braced for the release of minutes from the Federal Reserve's September meeting.
+Title: Think It's Too Late to Buy Nvidia (NVDA)? Here's the 1 Reason Why There's Still Time.
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8c6f5688-2b42-4371-bba5-6a07e30c3224
+Time Published: 2025-10-07T18:39:27Z
+Full Content:
+Yahoo is part of the Yahoo family of brandsThe sites and apps that we own and operate, including Yahoo, AOL, Engadget, In The Know and Makers.Yahoo family of brands. If you do not want us and our partners to use cookies and personal data for these additional purposes, click 'Reject all'. If you would like to customise your choices, click 'Manage privacy settings'. You can withdraw your consent or change your choices at any time by clicking on the 'Privacy & cookie settings' or 'Privacy dashboard' links on our sites and apps. Find out more about how we use your personal data in our privacy policy and cookie policy.
 --------------------------------------------------
 
 Title: Jim Cramer Says Nvidia's Next Decade Could Be Even More Life-Changing Than the Last
@@ -226,16 +233,16 @@ Time Published: 2025-10-06T14:08:54Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.20%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
 --------------------------------------------------
 
-Title: Stock market today: Dow falls whiS&P 500, Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-whisp-500-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132036.html
-Time Published: 2025-10-06T13:31:32Z
-Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
---------------------------------------------------
-
 Title: Stock market today: Nasdaq leads Dow, S&P 500 higher as AMD surges on OpenAI deal, shutdown drags on
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-leads-dow-sp-500-higher-as-amd-surges-on-openai-deal-shutdown-drags-on-133132602.html
 Time Published: 2025-10-06T13:31:32Z
 Description: US stock futures tick upwards despite the government shutdown.
+--------------------------------------------------
+
+Title: Stock market today: Dow falls whiS&P 500, Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-whisp-500-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132036.html
+Time Published: 2025-10-06T13:31:32Z
+Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
 --------------------------------------------------
 
 Title: Stock market today: Dow falls, S&P 500 and Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
@@ -250,16 +257,16 @@ Time Published: 2025-10-06T13:06:04Z
 Description: By some measures, Nvidia stock still looks cheaper than underdog rival AMD, which is spiking this morning after partnering with Sam Altman’s company.
 --------------------------------------------------
 
-Title: AMD stock rockets more than 35% on OpenAI deal
-URL: https://finance.yahoo.com/news/amd-stock-rockets-more-than-35-on-openai-deal-125503247.html
-Time Published: 2025-10-06T12:55:03Z
-Description: AMD stock rocketed in pre-market trading on news that it signed a 6 gigawatt GPU deal with OpenAI.
---------------------------------------------------
-
 Title: AMD stock rockets higher on multibillion-dollar OpenAI deal
 URL: https://finance.yahoo.com/news/amd-stock-rockets-higher-on-multibillion-dollar-openai-deal-125503782.html
 Time Published: 2025-10-06T12:55:03Z
 Description: AMD stock rocketed in early trading on news that it signed a 6 gigawatt GPU deal with OpenAI.
+--------------------------------------------------
+
+Title: AMD stock rockets more than 35% on OpenAI deal
+URL: https://finance.yahoo.com/news/amd-stock-rockets-more-than-35-on-openai-deal-125503247.html
+Time Published: 2025-10-06T12:55:03Z
+Description: AMD stock rocketed in pre-market trading on news that it signed a 6 gigawatt GPU deal with OpenAI.
 --------------------------------------------------
 
 Title: Novice Investor’s Digest For Monday, October 6: Stock Prices Stay Strong On AI Enthusiasm
@@ -304,12 +311,6 @@ Description: Here's why consumer bankruptcies are growing and likely to be bigge
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures tick up as government shutdown drags on
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-tick-up-as-government-shutdown-drags-on-232706734.html
-Time Published: 2025-10-05T23:27:06Z
-Description: US stock futures tick upwards despite the government shutdown.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as government shutdown drags on
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-government-shutdown-drags-on-232706218.html
 Time Published: 2025-10-05T23:27:06Z
 Description: US stock futures tick upwards despite the government shutdown.
 --------------------------------------------------
