@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Alphabet to Invest $10 Billion in India's First Major Data Center Cluster
+URL: https://finance.yahoo.com/news/alphabet-invest-10-billion-indias-161240919.html
+Time Published: 2025-10-08T16:12:40Z
+Description: Project to anchor country's emerging AI infrastructure hub
+--------------------------------------------------
+
+Title: Goldman Sachs strategist: No stock market bubble, yet
+URL: https://finance.yahoo.com/news/goldman-sachs-strategist-no-stock-market-bubble-yet-130324119.html
+Time Published: 2025-10-08T13:03:24Z
+Description: The bank says tech valuations are stretched but not all levels are consistent with past cycles
+--------------------------------------------------
+
 Title: Wells Fargo Stays Bullish on Microsoft (MSFT) as Azure Growth Remains a Key Driver
 URL: https://finance.yahoo.com/news/wells-fargo-stays-bullish-microsoft-100029428.html
 Time Published: 2025-10-08T10:00:29Z

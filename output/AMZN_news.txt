@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Alphabet to Invest $10 Billion in India's First Major Data Center Cluster
+URL: https://finance.yahoo.com/news/alphabet-invest-10-billion-indias-161240919.html
+Time Published: 2025-10-08T16:12:40Z
+Description: Project to anchor country's emerging AI infrastructure hub
+--------------------------------------------------
+
 Title: Amazon Scores a 'Perfect 10' as Wall Street Bets on Its AI and Cloud Comeback
 URL: https://finance.yahoo.com/news/amazon-scores-perfect-10-wall-165550861.html
 Time Published: 2025-10-07T16:55:50Z
