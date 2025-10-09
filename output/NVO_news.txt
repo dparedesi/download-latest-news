@@ -1,13 +1,13 @@
 List of news related to Novo Nordisk NVO:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq slide as Oracle leads tech stocks lower
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-oracle-leads-tech-stocks-lower-161751382.html
+Title: Stock market today: Dow slides, S&P 500 and Nasdaq snap winning streaks as Oracle leads tech stocks lower
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-sp-500-and-nasdaq-snap-winning-streaks-as-oracle-leads-tech-stocks-lower-161751130.html
 Time Published: 2025-10-07T16:17:51Z
 Description: Wall Street weighed worries over the government shutdown against bright hopes for AI.
 --------------------------------------------------
 
-Title: Stock market today: Dow slides, S&P 500 and Nasdaq snap winning streaks as Oracle leads tech stocks lower
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-sp-500-and-nasdaq-snap-winning-streaks-as-oracle-leads-tech-stocks-lower-161751130.html
+Title: Stock market today: Dow, S&P 500, Nasdaq slide as Oracle leads tech stocks lower
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-oracle-leads-tech-stocks-lower-161751382.html
 Time Published: 2025-10-07T16:17:51Z
 Description: Wall Street weighed worries over the government shutdown against bright hopes for AI.
 --------------------------------------------------
@@ -18,14 +18,14 @@ Time Published: 2025-10-07T15:13:08Z
 Description: Wall Street weighed worries over the government shutdown against bright hopes for AI.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq tick higher after records as gold tops $4,000
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-tick-higher-after-records-as-gold-tops-4000-133157089.html
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble after records as gold tops $4,000
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-after-records-as-gold-tops-4000-133157868.html
 Time Published: 2025-10-07T13:31:57Z
 Description: Wall Street weighed worries over the government shutdown against bright hopes for AI.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq wobble after records as gold tops $4,000
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-after-records-as-gold-tops-4000-133157868.html
+Title: Stock market today: Dow, S&P 500, Nasdaq tick higher after records as gold tops $4,000
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-tick-higher-after-records-as-gold-tops-4000-133157089.html
 Time Published: 2025-10-07T13:31:57Z
 Description: Wall Street weighed worries over the government shutdown against bright hopes for AI.
 --------------------------------------------------

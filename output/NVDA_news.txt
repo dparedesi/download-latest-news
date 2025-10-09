@@ -1,5 +1,24 @@
 List of news related to NVIDIA NVDA:
 
+Title: Jamie Dimon has blunt call on the stock market
+URL: https://www.thestreet.com/investing/jamie-dimon-has-blunt-call-on-the-stock-market-
+Time Published: 2025-10-08T18:56:38Z
+Description: So far in 2025, the U.S. stock market has marched forward with considerable aplomb. Case in point: after racking up multiple highs, the S&P 500 is up nearly ...
+--------------------------------------------------
+
+Title: Legendary fund manager has surprising take on AI
+URL: https://www.thestreet.com/technology/legendary-fund-manager-has-surprising-take-on-ai-
+Time Published: 2025-10-08T17:33:00Z
+Description: AI continues rewriting the rules, and its pace isn’t slowing down anytime soon. So far this year, the AI trade has minted nearly $4.3 trillion in fresh...
+--------------------------------------------------
+
+Title: Top Stock Movers Now: Nvidia, AMD, Dell, Fair Isaac, and More
+URL: https://www.investopedia.com/top-stock-movers-now-nvidia-amd-dell-fair-isaac-and-more-11826416
+Time Published: 2025-10-08T17:28:23Z
+Full Content:
+Major U.S. equities indexes climbed Wednesday as enthusiasm for artificial intelligence stocks boosted the tech sector. The Dow, S&P 500, and Nasdaq all gained. Nvidia (NVDA) shares rose after CEO Jensen Huang said in a televised interview with CNBC that AI demand is up "substantially" this year, and that he expects it to grow further. Shares of rival chipmaker Advanced Micro Devices (AMD) led gains on the S&P 500, adding to their recent rally in the wake of a deal with OpenAI. Dell Technology (DELL) also jumped, after the server maker reported yesterday that it sees a “massive” growth opportunity in AI as it raised its outlook. AST SpaceMobile (ASTS) shares soared to a record high as the provider of space-based cellphone service and Verizon Communications (VZ) agreed on a partnership to offer direct-to-customer broadband service across the continental U.S. Credit score data provider Fair Isaac (FICO) was the worst-performing stock in the S&P 500 after score reporter Equifax (EFX) slashed prices in response to Fair Isaac providing its information directly to firms that give credit reports to mortgage companies. Equifax shares advanced. DaVita (DVA) shares declined as Barclays lowered its price target for the kidney dialysis service provider's stock, pointing to a cyberattack that disrupted operations in August. Gold prices high a fresh high, and oil futures climbed. The yield on the 10-year Treasury note dropped. The U.S. dollar was higher versus the euro, pound, and yen. Most major cryptocurrencies traded lower.
+--------------------------------------------------
+
 Title: Nvidia CEO Jensen Huang Calls AMD's 10% OpenAI Stake Offer Surprising but Clever
 URL: https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-calls-165724205.html
 Time Published: 2025-10-08T16:57:24Z
@@ -293,22 +312,4 @@ Title: Stock Market Today: AMD Soars After Announcing Big Deal with OpenAI
 URL: https://www.thestreet.com/markets/stock-market-today-october-6-2025
 Time Published: 2025-10-06T14:24:13Z
 Description: Plus: Stocks to continue their rise despite gov't shutdown, missing economic data
---------------------------------------------------
-
-Title: This Crypto and AI Stock Just Got a Massive New Street-High Price Target That Implies Shares Could Double in the Next Year
-URL: https://www.barchart.com/story/news/35255871/this-crypto-and-ai-stock-just-got-a-massive-new-street-high-price-target-that-implies-shares-could-double-in-the-next-year
-Time Published: 2025-10-06T14:20:05Z
-Description: A massive upgrade on IREN Limited signals a potential doubling of IREN stock.
---------------------------------------------------
-
-Title: Stocks Supported by AI Spending
-URL: https://www.barchart.com/story/news/35255586/stocks-supported-by-ai-spending
-Time Published: 2025-10-06T14:08:54Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.20%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: Stock market today: Dow falls, S&P 500 and Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-sp-500-and-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132590.html
-Time Published: 2025-10-06T13:31:32Z
-Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
 --------------------------------------------------
