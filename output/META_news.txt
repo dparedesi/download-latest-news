@@ -1,5 +1,11 @@
 List of news related to Meta stock price META:
 
+Title: Mizuho Reiterates Oracle (ORCL) “Outperform,” Sets $350 Target Ahead of Analyst Day
+URL: https://finance.yahoo.com/news/mizuho-reiterates-oracle-orcl-outperform-100723005.html
+Time Published: 2025-10-08T10:07:23Z
+Description: Oracle Corporation (NYSE:ORCL) is one of the AI Stocks Shaping Wall Street’s Next Big Rally. On October 6, Mizuho reiterated the stock as “Outperform” with a...
+--------------------------------------------------
+
 Title: Everything Is Becoming a Bank
 URL: https://jacobin.com/2025/10/bankification-financialization-debt-interest-credit/
 Time Published: 2025-10-08T05:47:01Z
@@ -131,6 +137,12 @@ Time Published: 2025-10-06T14:02:00Z
 Description: None
 --------------------------------------------------
 
+Title: Stock market today: Dow falls, S&P 500 and Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-sp-500-and-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132590.html
+Time Published: 2025-10-06T13:31:32Z
+Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
+--------------------------------------------------
+
 Title: Stock market today: Nasdaq leads Dow, S&P 500 higher as AMD surges on OpenAI deal, shutdown drags on
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-leads-dow-sp-500-higher-as-amd-surges-on-openai-deal-shutdown-drags-on-133132602.html
 Time Published: 2025-10-06T13:31:32Z
@@ -139,12 +151,6 @@ Description: US stock futures tick upwards despite the government shutdown.
 
 Title: Stock market today: Dow falls whiS&P 500, Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-whisp-500-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132036.html
-Time Published: 2025-10-06T13:31:32Z
-Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
---------------------------------------------------
-
-Title: Stock market today: Dow falls, S&P 500 and Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-sp-500-and-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132590.html
 Time Published: 2025-10-06T13:31:32Z
 Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
 --------------------------------------------------

@@ -1,9 +1,15 @@
 List of news related to NVIDIA NVDA:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures edge up, gold rally roars on ahead of Fed minutes
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-gold-rally-roars-on-ahead-of-fed-minutes-231516412.html
-Time Published: 2025-10-07T23:15:16Z
-Description: Wall Street braced for the release of minutes from the Federal Reserve's September meeting.
+Title: Analysts at Melius See Nvidia’s (NVDA) Growth Concerns as “Overblown,” Maintain Buy Rating
+URL: https://finance.yahoo.com/news/analysts-melius-see-nvidia-nvda-100309167.html
+Time Published: 2025-10-08T10:03:09Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Shaping Wall Street’s Next Big Rally. On October 6, Melius Research raised its price target on the...
+--------------------------------------------------
+
+Title: Thinking of buying gold? Here's what investors should watch for.
+URL: https://finance.yahoo.com/personal-finance/investing/article/risks-for-gold-investors-100015304.html
+Time Published: 2025-10-08T10:00:15Z
+Description: Gold has the same high-level risk as any investment. Would-be gold investors should understand the risks associated with price, speculation, opportunity cost...
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures rise, gold rally roars on with Fed minutes on deck
@@ -12,11 +18,23 @@ Time Published: 2025-10-07T23:15:16Z
 Description: Wall Street braced for the release of minutes from the Federal Reserve's September meeting.
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures edge up, gold rally roars on ahead of Fed minutes
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-gold-rally-roars-on-ahead-of-fed-minutes-231516412.html
+Time Published: 2025-10-07T23:15:16Z
+Description: Wall Street braced for the release of minutes from the Federal Reserve's September meeting.
+--------------------------------------------------
+
+Title: These Stocks Score From AMD's OpenAI Deal, Wall Street Analysts Say
+URL: https://www.investopedia.com/these-stocks-score-from-amd-openai-deal-wall-street-analysts-say-11825690
+Time Published: 2025-10-07T19:55:57Z
+Full Content:
+Advanced Micro Devices (AMD) has a number of partners that could be set to benefit from its big deal with OpenAI, according to Wall Street analysts. The ChatGPT maker committed to buying several generations of AMD's AI chips, sending shares of the semiconductor firm up 24% yesterday and another 4% on Tuesday. The announcement also boosted shares of Super Micro Computer (SMCI), Astera Labs (ALAB), Dell Technologies (DELL), and others that have business with AMD. J.P. Morgan analysts said in a note to clients Tuesday that they see current AMD partners and AI server makers Supermicro, Dell, and Hewlett Packard Enterprise (HPE) as poised to gain from the deal. They also highlighted Arista Networks (ANET) and Sanmina (SANM), which earlier this year agreed to buy ZT Systems’ Data Center Infrastructure manufacturing business from AMD and became a preferred manufacturing partner as part of the agreement. Several analysts suggested AMD's deal could be taken as a positive signal for the semiconductor sector and AI trade broadly, though they pointed to some of AMD's networking partners as more direct beneficiaries. The deal underscores the wide-ranging impact of the surge in AI demand on companies and stocks, with analysts likening the AI boom to a rising tide that lifts all boats. "While the announcements till date from OpenAI have largely focused on tight partnerships with semiconductor companies, we expect to see similar partnerships with Hardware and Networking companies as critical to scaling infrastructure," J.P. Morgan said. Citi analysts said they see AMD's OpenAI agreement as presenting a positive read-through for memory chip maker Micron Technology (MU) and Astera Labs as well. Astera, which supplies connectivity solutions for AI data centers and counts Nvidia (NVDA) and AMD as customers, saw its stock pop 10% Monday, before pulling back Tuesday.
+--------------------------------------------------
+
 Title: Think It's Too Late to Buy Nvidia (NVDA)? Here's the 1 Reason Why There's Still Time.
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8c6f5688-2b42-4371-bba5-6a07e30c3224
 Time Published: 2025-10-07T18:39:27Z
-Full Content:
-Yahoo is part of the Yahoo family of brandsThe sites and apps that we own and operate, including Yahoo, AOL, Engadget, In The Know and Makers.Yahoo family of brands. If you do not want us and our partners to use cookies and personal data for these additional purposes, click 'Reject all'. If you would like to customise your choices, click 'Manage privacy settings'. You can withdraw your consent or change your choices at any time by clicking on the 'Privacy & cookie settings' or 'Privacy dashboard' links on our sites and apps. Find out more about how we use your personal data in our privacy policy and cookie policy.
+Description: None
 --------------------------------------------------
 
 Title: Jim Cramer Says Nvidia's Next Decade Could Be Even More Life-Changing Than the Last
@@ -233,10 +251,10 @@ Time Published: 2025-10-06T14:08:54Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.20%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq leads Dow, S&P 500 higher as AMD surges on OpenAI deal, shutdown drags on
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-leads-dow-sp-500-higher-as-amd-surges-on-openai-deal-shutdown-drags-on-133132602.html
+Title: Stock market today: Dow falls, S&P 500 and Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-sp-500-and-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132590.html
 Time Published: 2025-10-06T13:31:32Z
-Description: US stock futures tick upwards despite the government shutdown.
+Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
 --------------------------------------------------
 
 Title: Stock market today: Dow falls whiS&P 500, Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
@@ -245,10 +263,10 @@ Time Published: 2025-10-06T13:31:32Z
 Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
 --------------------------------------------------
 
-Title: Stock market today: Dow falls, S&P 500 and Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-sp-500-and-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132590.html
+Title: Stock market today: Nasdaq leads Dow, S&P 500 higher as AMD surges on OpenAI deal, shutdown drags on
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-leads-dow-sp-500-higher-as-amd-surges-on-openai-deal-shutdown-drags-on-133132602.html
 Time Published: 2025-10-06T13:31:32Z
-Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
+Description: US stock futures tick upwards despite the government shutdown.
 --------------------------------------------------
 
 Title: Advanced Micro Devices Explodes on OpenAI Pact, But is AMD the Best AI Chip Stock to Buy Now?
@@ -257,16 +275,16 @@ Time Published: 2025-10-06T13:06:04Z
 Description: By some measures, Nvidia stock still looks cheaper than underdog rival AMD, which is spiking this morning after partnering with Sam Altman’s company.
 --------------------------------------------------
 
-Title: AMD stock rockets higher on multibillion-dollar OpenAI deal
-URL: https://finance.yahoo.com/news/amd-stock-rockets-higher-on-multibillion-dollar-openai-deal-125503782.html
-Time Published: 2025-10-06T12:55:03Z
-Description: AMD stock rocketed in early trading on news that it signed a 6 gigawatt GPU deal with OpenAI.
---------------------------------------------------
-
 Title: AMD stock rockets more than 35% on OpenAI deal
 URL: https://finance.yahoo.com/news/amd-stock-rockets-more-than-35-on-openai-deal-125503247.html
 Time Published: 2025-10-06T12:55:03Z
 Description: AMD stock rocketed in pre-market trading on news that it signed a 6 gigawatt GPU deal with OpenAI.
+--------------------------------------------------
+
+Title: AMD stock rockets higher on multibillion-dollar OpenAI deal
+URL: https://finance.yahoo.com/news/amd-stock-rockets-higher-on-multibillion-dollar-openai-deal-125503782.html
+Time Published: 2025-10-06T12:55:03Z
+Description: AMD stock rocketed in early trading on news that it signed a 6 gigawatt GPU deal with OpenAI.
 --------------------------------------------------
 
 Title: Novice Investor’s Digest For Monday, October 6: Stock Prices Stay Strong On AI Enthusiasm
@@ -294,23 +312,4 @@ Title: Low IV Alert: Stocks that Could be Ready to Pop
 URL: https://www.barchart.com/story/news/35249960/low-iv-alert-stocks-that-could-be-ready-to-pop
 Time Published: 2025-10-06T11:00:02Z
 Description: Market volatility has dropped since the April correction, but with plenty of items on the news front, we could see a volatility spike at any point.
---------------------------------------------------
-
-Title: Advantest Pioneers a New Era of AI-Powered Semiconductor Testing
-URL: https://www.globenewswire.com/news-release/2025/10/06/3161421/0/en/Advantest-Pioneers-a-New-Era-of-AI-Powered-Semiconductor-Testing.html
-Time Published: 2025-10-06T07:00:00Z
-Full Content:
-October 06, 2025 03:00 ET | Source: Advantest America, Inc. Advantest America, Inc. SAN JOSE, Calif., Oct. 06, 2025 (GLOBE NEWSWIRE) -- Advantest America, a leader in semiconductor test solutions, today announced it is reinventing semiconductor testing with the power of real-time artificial intelligence (AI). Advantest is combining advanced machine learning (ML) from NVIDIA (NASDAQ: NVDA) with the Advantest Cloud Solutions Real-Time Data Infrastructure (ACS RTDI™) to drive a shift from traditional test workflows to adaptive AI-driven systems. NVIDIA has selected ACS RTDI for high-volume production to power its latest AI-enabled applications for Blackwell and next-generation devices —aiming to deliver breakthrough efficiency, reduced costs, and improved yields. Transforming Test into Intelligence Testing has long been the cornerstone of chip manufacturing, ensuring every device meets exacting standards of quality and performance. Traditionally, this required weeks of data collection, fault analysis, and test deployment cycles. ACS RTDI moves testing from validation to prediction—transforming semiconductor production into an AI-driven, continuously adaptive process. Integrated with NVIDIA AI inference, ACS RTDI could bring real-time intelligence to semiconductor testing. For NVIDIA Blackwell and future devices, massive data streams are ingested through ACS Data-Feed-Forward cross-insertion, where GPU-accelerated compute optimizes the test set for every chip. This scalable GPU architecture expands seamlessly, supporting the concurrent training of multiple ML models—enabling non-stop operation to drive yield gains, dynamically optimized test coverage, and sharp reductions in latency, power, and cost. Scaling AI Across ProductionACS RTDI has demonstrated its robustness at high-volume production sites worldwide, securely supporting AI/ML-driven test automation across diverse applications. Its flexible architecture —separating data preparation, algorithms, and decisioning—empowers manufacturers to rapidly adapt as production needs evolve. “Integrating NVIDIA AI inference into high-volume production demonstrates the transformative potential of ACS solutions,” said Michael Chang, vice president and general manager of ACS at Advantest. “Together, we are accelerating the fusion of compute and data, paving the way for a new era of semiconductor testing that is adaptive, scalable, and intelligence-driven.” Building the AI-Driven Test Facility of the Future Advantest also plans to incorporate NVIDIA’s NeMo and NVIDIA NIM microservices into ACS semiconductor test analytics solutions. These technologies will curate heterogeneous production data, evaluate models, and deploy AI agents capable of running generative AI applications directly in the test environment. Through this integration, Advantest is setting the stage for the next wave of semiconductor innovation —where AI not only accelerates the chip development process but also transforms how such chips are tested, validated, and delivered to market. About Advantest CorporationAdvantest (TSE: 6857) is the leading manufacturer of automatic test and measurement equipment used in the design and production of semiconductors for applications including 5G communications, the Internet of Things (IoT), autonomous vehicles, high-performance computing (HPC), including artificial intelligence (AI) and machine learning, and more. Its leading-edge systems and products are integrated into the most advanced semiconductor production lines in the world. The company also conducts R&D to address emerging testing challenges and applications; develops advanced test-interface solutions for wafer sort and final test; produces scanning electron microscopes essential to photomask manufacturing; and offers system-level test solutions and other test-related accessories. Founded in Tokyo in 1954, Advantest is a global company with facilities around the world and an international commitment to sustainable practices and social responsibility. More information is available at www.advantest.com. ADVANTEST CORPORATION3061 Zanker RoadSan Jose, CA 95134, USACassandra Koenig cassandra.koenig@advantest.com TOKYO, Oct. 06, 2025 (GLOBE NEWSWIRE) -- Leading semiconductor test equipment supplier Advantest Corporation (TSE: 6857) will feature its latest semiconductor test solutions at SEMICON West 2025,... TOKYO, Sept. 30, 2025 (GLOBE NEWSWIRE) -- Leading semiconductor test equipment supplier Advantest Corporation (TSE: 6857) today launched its new Advantest Power Optimization Solution (APOS) for the...
---------------------------------------------------
-
-Title: Soaring student loans are weighing on the economy
-URL: https://www.thestreet.com/economy/soaring-student-loans-are-weighing-on-the-economy
-Time Published: 2025-10-06T00:49:52Z
-Description: Here's why consumer bankruptcies are growing and likely to be bigger ahead.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures tick up as government shutdown drags on
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-tick-up-as-government-shutdown-drags-on-232706734.html
-Time Published: 2025-10-05T23:27:06Z
-Description: US stock futures tick upwards despite the government shutdown.
 --------------------------------------------------

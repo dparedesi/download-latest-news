@@ -6,6 +6,12 @@ Time Published: 2025-10-08T02:00:22Z
 Description: Here is your daily stock market update.
 --------------------------------------------------
 
+Title: Stocks Settle Lower on Weakness in Chipmakers
+URL: https://www.barchart.com/story/news/35291347/stocks-settle-lower-on-weakness-in-chipmakers
+Time Published: 2025-10-07T20:36:31Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -0.38%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.20%, and the Nasdaq 100 Index ...
+--------------------------------------------------
+
 Title: Stocks Turn Lower as Chipmakers Retreat
 URL: https://www.barchart.com/story/news/35284656/stocks-turn-lower-as-chipmakers-retreat
 Time Published: 2025-10-07T15:21:08Z
