@@ -1,5 +1,18 @@
 List of news related to NVIDIA NVDA:
 
+Title: US stock futures: Dow, S&P 500, Nasdaq steady after record highs as gold nears $4,100, Nvidia gains export boost, TSMC revenue surges 30% — is a Fed rate cut next?
+URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-today-dow-sp-500-nasdaq-steady-after-record-highs-as-gold-nears-4100-nvidia-gains-export-boost-tsmc-revenue-surges-30-is-a-fed-rate-cut-next/articleshow/124412319.cms
+Time Published: 2025-10-09T10:39:32Z
+Full Content:
+US stock futures held steady Thursday after a record-setting rally. S&P 500 futures stayed flat as investors await more Fed rate cuts. Nasdaq and Dow futures also showed little change. Market optimism rose after the Fed’s September meeting minutes hinted at possible interest-rate cuts this year. No major economic reports ahead due to the government shutdown. Traders will watch key earnings from Delta Air Lines and PepsiCo. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Alberta teachers say ‘no’ to government’s latest contract, set to strike on Monday, disrupting classes for 700,000+ students Could your next pack of cigarettes be funding criminal networks? Inside Western Canada’s billion-dollar contraband trade Canada bars Irish rap band Kneecap from entry over alleged terrorism support Bank of Canada cuts interest rate to 2.5% as GDP shrinks, job market softens Beverly Thomson, veteran CTV journalist and Canada AM co-host, dies at 61 Seth Rogen wins Emmy Award for best lead actor in comedy series 'The Studio' Zach Bryan confronts Gavin Adcock at Oklahoma music festival after country singer criticism Weekend streaming guide Canada: top 10 Netflix, Crave, Disney+ and Apple TV+ shows September 2025 Canada pension and retirement benefits 2025: up to $2,461 in federal and provincial payments through December Molly McCann wins professional boxing debut despite opponent's illegal kick How Americans and a fake Fox News account accused Toronto retiree Michael Mallinson of assassinating Charlie Kirk Canadian bread price fixing settlement opens: $500m available for claims Canadian soldier found dead in Latvia during NATO operation reassurance deployment Starmer endorses UN seat as India-UK push for global peace & security Telangana government faces backlash over RTC fare hike 'Will bring down logistics cost to single digit by Dec': Gadkari India-UK trade deal boost ties in tech, defence, education Congress: Modi’s ‘he said, she said’ weakens India Jan Suraaj releases first list of 51 candidates Deadly cough syrup case: owner arrested Nitin Gadkari addresses 120th PHDCCI annual session PM Modi meets UK PM Keir Starmer in Mumbai Families rejoice as Israel-Hamas hostage deal brings hope Starmer endorses UN seat as India-UK push for global peace & security Telangana government faces backlash over RTC fare hike 'Will bring down logistics cost to single digit by Dec': Gadkari India-UK trade deal boost ties in tech, defence, education Congress: Modi’s ‘he said, she said’ weakens India Jan Suraaj releases first list of 51 candidates Deadly cough syrup case: owner arrested Nitin Gadkari addresses 120th PHDCCI annual session PM Modi meets UK PM Keir Starmer in Mumbai Families rejoice as Israel-Hamas hostage deal brings hope Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Most Searched IFSC Codes Top Story Listing Top Prime Articles Top Slideshow Private Companies Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: NVIDIA Corporation (NVDA): Analyst Sees Upside to 2026 Estimates
+URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-analyst-sees-071530899.html
+Time Published: 2025-10-09T07:15:30Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the companies that are pertinent to the discussion about The Future of Artificial Intelligence: 10 Predictions for...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures regroup after record-setting rally
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-regroup-after-record-setting-rally-231749159.html
 Time Published: 2025-10-08T23:17:49Z
@@ -16,6 +29,19 @@ Title: AMD Options Trader Triples $6 Million in Two Days After OpenAI Partnershi
 URL: https://finance.yahoo.com/news/amd-options-trader-triples-6-205950527.html
 Time Published: 2025-10-08T20:59:50Z
 Description: AMD Options Play Delivers $18 Million Gain Amid OpenAI Deal Buzz
+--------------------------------------------------
+
+Title: Stocks Power Higher on AI Optimism
+URL: https://www.barchart.com/story/news/35320354/stocks-power-higher-on-ai-optimism
+Time Published: 2025-10-08T20:50:37Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +0.58%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed unchanged, and the Nasdaq 100 Index ($...
+--------------------------------------------------
+
+Title: S&P 500 Gains and Losses Today: AI-Fueled Rally Powers Index to Fresh High
+URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-ai-fueled-rally-powers-index-to-fresh-high-11826428
+Time Published: 2025-10-08T20:24:03Z
+Full Content:
+An AI chipmaker's stock extended its rally in the wake of a major artificial intelligence deal. Meanwhile, the latest salvo in an escalating competition between credit score providers weighed on one of the industry's big players. The S&P 500 rose 0.6% and the tech-heavy Nasdaq climbed 1.1% to set fresh closing highs, bolstered by gains in the tech sector and minutes from the latest Federal Reserve meeting suggesting the central bank could be on track toward more interest-rate cuts this year. The Dow was little changed. Find Investopedia's full daily market recap here. Advanced Micro Devices (AMD) shares posted the day's best performance in the S&P 500 index with a nearly 12% jump, extending their winning streak following the announcement of a partnership with OpenAI. A slew of analysts have raised their price targets for AMD this week, with Jefferies upgrading its rating to "buy" from "hold." Dell Technologies (DELL) shares surged 9.1%, after the server maker raised its outlook, citing strong demand driven by the buildout of AI infrastructure. CEO Michael Dell said the company's broad portfolio of tech products makes it well positioned to provide the compute, storage, and network capacity necessary to deploy AI at scale. Optimism around AI helped boost other companies with exposure to the burgeoning technology as well. Shares of AI chip leader Nvidia (NVDA) rose about 2% after CEO Jensen Huang said in a televised interview with CNBC that AI demand is up "substantially" this year, and that he expects it to keep growing. Equifax (EFX) announced it will provide its VantageScore 4.0 credit scores at a reduced price or free to customers, just days after Fair Isaac (FICO) said last week that it would offer its FICO credit scores directly to firms that provide credit reports to lenders, reducing reliance on Equifax and the other nationwide credit bureaus. Fair Isaac shares dropped nearly 10%, losing the most of any S&P 500 stock Wednesday and reversing a portion of the gains posted after last week's announcement, while Equifax shares advanced close to 1%. Live Nation (LYV) shares fell 3.4% after the Ticketmaster parent announced a plan to offer $1.3 billion in convertible senior notes maturing in 2031. The live entertainment company intends to use the proceeds of the transaction to redeem senior notes due in 2026, repay other debt, and for general corporate purposes.
 --------------------------------------------------
 
 Title: As Jeff Bezos Warns of an ‘AI Bubble,’ This Could Be the Safest Magnificent 7 AI Stock to Buy Now
@@ -284,28 +310,4 @@ Title: AMD CEO Lisa Su says AI critics are 'thinking too small' after massive Op
 URL: https://finance.yahoo.com/news/amd-ceo-lisa-su-says-ai-critics-are-thinking-too-small-after-massive-openai-deal-202818700.html
 Time Published: 2025-10-06T20:28:18Z
 Description: The chipmaker inked a multi-gigawatt GPU agreement with OpenAI, setting the stage for a potential 10-year AI supercycle
---------------------------------------------------
-
-Title: Nvidia Stock Price's Wild Rollercoaster: Shares Plummet Then Roar Back After AMD's Shock OpenAI Deal
-URL: https://www.ibtimes.com/nvidia-stock-prices-wild-rollercoaster-shares-plummet-then-roar-back-after-amds-shock-openai-deal-3785842
-Time Published: 2025-10-06T20:17:21Z
-Description: Nvidia's stock recovers after an initial dip as rival AMD announces a major AI chip deal with OpenAI. Explore the market reaction and the escalating battle for GPU supremacy in our latest analysis.
---------------------------------------------------
-
-Title: AMD Is Soaring on an OpenAI Deal. Is AMD Stock a Better Buy Than Nvidia Here?
-URL: https://www.barchart.com/story/news/35261713/amd-is-soaring-on-an-openai-deal-is-amd-stock-a-better-buy-than-nvidia-here
-Time Published: 2025-10-06T20:10:53Z
-Description: AMD stock soars after announcing a new AI deal with OpenAI. Here’s what keeps AMD shares worth owning despite a massive rally since early April.
---------------------------------------------------
-
-Title: Nvidia Target Raised to $210 by Goldman Sachs on OpenAI Ties
-URL: https://finance.yahoo.com/news/nvidia-target-raised-210-goldman-191515934.html
-Time Published: 2025-10-06T19:15:15Z
-Description: Bank sees stronger earnings and strategic upside from AI partnerships
---------------------------------------------------
-
-Title: Should You Buy the Dip in This AI Data Center Stock?
-URL: https://www.barchart.com/story/news/35260598/should-you-buy-the-dip-in-this-ai-data-center-stock
-Time Published: 2025-10-06T19:07:27Z
-Description: Here's one chip stock that's down but certainly not out. Why a key announcement could change the game for this AI data center stock.
 --------------------------------------------------
