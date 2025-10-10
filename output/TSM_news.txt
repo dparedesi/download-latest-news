@@ -1,5 +1,17 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Bank of America Lifts Taiwan Semiconductor Manufacturing (TSM) Price Outlook on Revenue and Earnings Growth Prospects
+URL: https://finance.yahoo.com/news/bank-america-lifts-taiwan-semiconductor-144818523.html
+Time Published: 2025-10-09T14:48:18Z
+Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the high-growth semiconductor stocks that are expected to be profitable in 2025. On...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq steady after latest record-setting rally
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-steady-after-latest-record-setting-rally-133715412.html
+Time Published: 2025-10-09T13:37:15Z
+Description: Investors paused to assess the optimism around AI and interest-rate cuts that has buoyed markets amid the government shutdown.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures regroup after record-setting rally
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-regroup-after-record-setting-rally-231749159.html
 Time Published: 2025-10-08T23:17:49Z
