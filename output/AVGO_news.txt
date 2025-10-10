@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Stocks Supported by AI Optimism and Lower Bond Yields
+URL: https://www.barchart.com/story/news/35310693/stocks-supported-by-ai-optimism-and-lower-bond-yields
+Time Published: 2025-10-08T14:04:15Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.38%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.20%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: Broadcom (AVGO) Surged on Robust Earnings and Outlooks
 URL: https://finance.yahoo.com/news/broadcom-avgo-surged-robust-earnings-140201030.html
 Time Published: 2025-10-08T14:02:01Z

@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures regroup after record-setting rally
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-regroup-after-record-setting-rally-231749159.html
+Time Published: 2025-10-08T23:17:49Z
+Description: Investors paused to assess the optimism around AI and interest-rate cuts that has buoyed markets amid the government shutdown.
+--------------------------------------------------
+
+Title: Nvidia CEO drops bombshell on 68-year-old chip giant
+URL: https://www.thestreet.com/technology/nvidia-ceo-drops-bombshell-on-68-year-old-chip-giant-
+Time Published: 2025-10-08T21:33:00Z
+Description: Once upon a time, a chipmaker didn’t matter unless it was Intel INTC. In the 1990s and early 2000s, Intel dominated the PC CPU market, with a market share...
+--------------------------------------------------
+
+Title: AMD Options Trader Triples $6 Million in Two Days After OpenAI Partnership
+URL: https://finance.yahoo.com/news/amd-options-trader-triples-6-205950527.html
+Time Published: 2025-10-08T20:59:50Z
+Description: AMD Options Play Delivers $18 Million Gain Amid OpenAI Deal Buzz
+--------------------------------------------------
+
 Title: Jamie Dimon has blunt call on the stock market
 URL: https://www.thestreet.com/investing/jamie-dimon-has-blunt-call-on-the-stock-market-
 Time Published: 2025-10-08T18:56:38Z
@@ -31,11 +49,23 @@ Time Published: 2025-10-08T16:11:28Z
 Description: None
 --------------------------------------------------
 
+Title: Can AMD Stock Keep Flying After an 85% Takeoff?
+URL: https://www.barchart.com/story/news/35314140/can-amd-stock-keep-flying-after-an-85-takeoff
+Time Published: 2025-10-08T15:58:34Z
+Description: AMD’s long-term catalysts are compelling. However, after a 76% rally, AMD isn’t cheap.
+--------------------------------------------------
+
 Title: US stock market today: Dow, S&P 500 and Nasdaq rally as Nvidia’s xAI deal lifts AI stocks; here’s top stocks to watch amid Fed minutes and Powell speech
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-dow-sp-500-and-nasdaq-rally-as-nvidias-xai-deal-lifts-ai-stocks-heres-top-stocks-to-watch-amid-fed-minutes-and-powell-speech/articleshow/124390585.cms
 Time Published: 2025-10-08T15:47:55Z
 Full Content:
 US stock market jumps today. Investors are cautious but optimistic. Dow Jones rose 3% while the S&P 500 climbed 0.5%, and the Nasdaq led with a 0.7% increase. Small caps on the Russell 2000 also advanced by 0.6%. Nvidia’s $2B xAI deal with Elon Musk lifted AI stocks. The Federal Reserve’s upcoming decisions and the government shutdown keep traders alert. Market volatility is expected, but recovery signs are clear. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Alberta teachers say ‘no’ to government’s latest contract, set to strike on Monday, disrupting classes for 700,000+ students Could your next pack of cigarettes be funding criminal networks? Inside Western Canada’s billion-dollar contraband trade Canada bars Irish rap band Kneecap from entry over alleged terrorism support Bank of Canada cuts interest rate to 2.5% as GDP shrinks, job market softens Beverly Thomson, veteran CTV journalist and Canada AM co-host, dies at 61 Seth Rogen wins Emmy Award for best lead actor in comedy series 'The Studio' Zach Bryan confronts Gavin Adcock at Oklahoma music festival after country singer criticism Weekend streaming guide Canada: top 10 Netflix, Crave, Disney+ and Apple TV+ shows September 2025 Canada pension and retirement benefits 2025: up to $2,461 in federal and provincial payments through December Molly McCann wins professional boxing debut despite opponent's illegal kick How Americans and a fake Fox News account accused Toronto retiree Michael Mallinson of assassinating Charlie Kirk Canadian bread price fixing settlement opens: $500m available for claims Canadian soldier found dead in Latvia during NATO operation reassurance deployment RBI unveils ULI, CBDC Sandbox, and CD tokenisation at GFF 2025 India is ‘digital flag bearer of the world’, says Scindia at IMC 2025 India’s longest fully underground metro line opens PM Modi slams Congress over 26/11: ‘Weakness strengthened terrorists’ Mamata hits back over flood row and attack on Khagen Murmu India-UK relations enter new era as PM Keir Starmer lands in Mumbai Hair Stylist Javed Habib faces 20 FIRs over multi-crore crypto scam Watch as Bihar Congress chief breaks down over attack on CJI BR Gavai ‘Trump declared war on Chicago’: Mayor Johnson hits back over ICE raids Ukrainian media reports capture of Indian national RBI unveils ULI, CBDC Sandbox, and CD tokenisation at GFF 2025 India is ‘digital flag bearer of the world’, says Scindia at IMC 2025 India’s longest fully underground metro line opens PM Modi slams Congress over 26/11: ‘Weakness strengthened terrorists’ Mamata hits back over flood row and attack on Khagen Murmu India-UK relations enter new era as PM Keir Starmer lands in Mumbai Hair Stylist Javed Habib faces 20 FIRs over multi-crore crypto scam Watch as Bihar Congress chief breaks down over attack on CJI BR Gavai ‘Trump declared war on Chicago’: Mayor Johnson hits back over ICE raids Ukrainian media reports capture of Indian national Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Prime Articles Private Companies Top Commodities Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: Stocks Climb as AI Investment Accelerates
+URL: https://www.barchart.com/story/news/35313091/stocks-climb-as-ai-investment-accelerates
+Time Published: 2025-10-08T15:23:17Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.36%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
 Title: The 6%+ Dividends To Buy As AI Surges And Layoffs Arrive
@@ -45,10 +75,22 @@ Full Content:
 ByBrett Owens, Contributor. By now, it’s glaringly obvious: AI is replacing workers. And it’s boosting corporate bottom lines as it does. I call this the “growth-without-hiring” trend, and it’s accelerating. Today we’re going to grab our share in the form of big dividends (up to 8.1%) and upside, too. The latest evidence that “growth without hiring” is the real deal? The September ADP payrolls report, which showed that companies cut 32,000 positions. The August numbers were also revised to 3,000 losses, not the 54,000 gains originally reported. With numbers like those, you’d expect the US to be in recession, or close to it. Nope. According to the Atlanta Fed’s up-to-the-minute GDPNow indicator, the economy grew a fit 3.8% annualized in the just-completed third quarter. Numbers from companies themselves back up this shift. IT consulting firm Accenture plc (ACN), for example, laid off more than 11,000 employees in the last three months and has said more cuts are coming as part of its AI-focused restructuring. But while Accenture’s workers pack their banker’s boxes, its profits are soaring: In its fiscal 2025 fourth quarter, revenue jumped 7%. For fiscal 2026, it expects a 2% to 5% revenue boost and a 5% to 8% increase in adjusted EPS. (Too bad ACN’s 2.6% divvie isn’t enough to get our hearts racing.) We’ve talked about this trend before, first in tech and then as it’s spread into other industries, including insurance and even agriculture. And this is where our dividend opportunity comes in, including that shot at payouts up to 8.1%. To be sure, that payout is not coming from the popular AI plays. I probably don’t have to tell you that NVIDIA (NVDA), Microsoft (MSFT), Alphabet (GOOGL) and Meta Platforms (META) pay somewhere between nothing and almost nothing. Instead, we’re buying through closed-end funds (CEFs), for three reasons: That last point is vital because most of the profits from AI will flow to companies that use the tech, rather than those that develop it. Accenture is a good example, but think of insurers using AI to read medical records and process claims in minutes. Or banks using it to make better decisions on exactly who they want to lend to—and who they don’t. With that, here are three CEFs that come at it through developers, users and (our sweetest dividend deal of the three) firms feeding AI’s bottomless power demand. QQQX, as the name says, holds the stocks in the tech-heavy NASDAQ 100. But unlike index funds, it pays a big dividend: to the tune of 8.1%. The fund can pay that high divvie thanks to its strategy of selling call options on its portfolio. Under this scheme, it sells option buyers the right to buy its stocks in the future at a fixed price. It keeps the fee it charges for that right. Hence, that healthy 8.1% payout. This strategy generates the most cash when markets are volatile, and more volatility is likely, considering the rocket ride stocks have been on. QQQX’s portfolio includes all the big tech kingpins, plus some firms on the user side of AI, too, like travel-site operator Booking Holdings (BKG), which uses AI to help travelers save time by letting them ask specific questions about a vacation property—like whether it has a beach view, for example. It also offers an AI summary of reviews. No more endless scrolling. The fund also sports an 8.2% discount as I write this, which is good … but not quite as good as it was earlier this year, when it sunk to double digits: That’s why I rate QQQX, a holding in my Contrarian Income Report advisory, a hold for now. Once it flips to a buy in our portfolio, members of the service will know right away. “Growth-Without-Hiring” Dividend #2: Kayne Anderson Energy Infrastructure Fund (KYN) Artificial intelligence is supposed to be graceful, just code humming in the cloud. Yet it’s anything but lightweight. AI is an energy hog. Every time a chatbot like ChatGPT spits out an answer, it pulls from enormous racks of servers running in data centers. Those servers draw power on the scale of small cities. AI can’t happen without natural gas. Renewables are growing, for sure, but most new data centers are still tied to gas-fired plants. Gas is abundant and reliable, and it fires up quickly when demand surges. Which means every new AI deployment is more business for the gas lines feeding those power plants. KYN is a savvy CEF play on this situation, sporting a portfolio that reads like a who’s-who of big US pipeline operators, including Kinder Morgan (KMI), ONEOK (OKE) and master limited partnerships (MLPs) like Energy Transfer LP (ET) and Enterprise Products Partners LP (EPD). (Bonus: With KYN, you get a simple form 1099 for reporting your dividends at tax time, not the complicated K-1 package you—or your accountant—would have to deal with if you bought these MLPs “direct”.) KYN collects “tolls” on the gas flowing through its holdings’ pipes and hands them to us as a 7.5% divvie. And while plenty of investors have made the connection between AI’s power needs and utility stocks, they haven’t yet made the leap to pipelines. That’s handed us “second-level” thinkers a likely-time-limited chance to buy KYN an 11%-off deal that’s actually gotten cheaper this year: My take? It’s only a matter of time before the “first-level” crowd realizes just how good AI will be for gas pipelines—and sends that discount hurtling toward a premium. GDV focuses on innovators from across the economy—particularly finance stocks—set to cash in as they integrate AI into their businesses. Top holdings include Mastercard (MA), JPMorgan Chase & Co. (JPM) and American Express (AXP). GDV yields 6.2% and hasn’t cut its payout since the 2008 financial crisis. The fund’s discount had been narrowing lately, but it recently widened to 11%, giving us another chance to get in cheap: I expect that discount to keep shrinking as AI optimizes sectors like finance. GDV is an especially sweet deal when you consider that the fund has been outperforming the S&P 500 on a total-return basis this year: 18% to 15% as I write this. Throw in a tailwind from “growth-without-hiring”—especially as the trend spreads from tech to other parts of the economy—and you get a sense of the opportunity for upside (and high, steady dividends) here. Brett Owens is Chief Investment Strategist for Contrarian Outlook. For more great income ideas, get your free copy his latest special report: How to Live off Huge Monthly Dividends (up to 7.6%) — Practically Forever. Disclosure: none
 --------------------------------------------------
 
+Title: Goldman Sachs on the one thing that could turn the rally into a bubble
+URL: https://www.marketwatch.com/story/heres-whats-keeping-goldmans-worries-over-a-stock-bubble-at-bay-for-now-a7a219c5
+Time Published: 2025-10-08T14:25:00Z
+Description: Goldman Sachs strategists have taken a deep dive into current stock bubble worries for investors. They argue the puzzle pieces aren’t in place yet.
+--------------------------------------------------
+
 Title: NVIDIA Gains Cramer’s Backing with OpenAI Partnership and Next-Gen Chip Confidence
 URL: https://finance.yahoo.com/news/nvidia-gains-cramer-backing-openai-141928400.html
 Time Published: 2025-10-08T14:19:28Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) is one of Jim Cramer’s Recession-Proof Stock Picks. Cramer expresses confidence in the next generation of chips as the...
+--------------------------------------------------
+
+Title: Stocks Supported by AI Optimism and Lower Bond Yields
+URL: https://www.barchart.com/story/news/35310693/stocks-supported-by-ai-optimism-and-lower-bond-yields
+Time Published: 2025-10-08T14:04:15Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.38%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.20%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
 Title: Analyst Says Concerns About NVIDIA (NVDA) ‘Circle of CapEx Spending’ Are Not ‘Accurate’
@@ -269,47 +311,4 @@ Title: Wall Street analyst sees Bitcoin hitting new highs despite U.S. shutdown
 URL: https://www.thestreet.com/crypto/investing/shutdown
 Time Published: 2025-10-06T16:39:06Z
 Description: Standard Chartered analyst Geoffrey Kendrick predicts that Bitcoin will continue to rise during the shutdown.
---------------------------------------------------
-
-Title: Analysts Think This Quantum Computing Stock Can Gain 80%. Should You Buy It Here?
-URL: https://www.barchart.com/story/news/35256911/analysts-think-this-quantum-computing-stock-can-gain-80-should-you-buy-it-here
-Time Published: 2025-10-06T15:16:30Z
-Description: Quantum Computing stock soared after an Ascendiant Capital analyst raised his price target on QUBT shares to $40. Here’s why investors must still tread with ...
---------------------------------------------------
-
-Title: Stocks Gain on Strength in Chipmakers
-URL: https://www.barchart.com/story/news/35256787/stocks-gain-on-strength-in-chipmakers
-Time Published: 2025-10-06T15:08:02Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.20%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: Market Rally: AMD/OpenAI Deal, MU Upgrade [12:02]
-URL: https://freerepublic.com/focus/f-chat/4344658/posts
-Time Published: 2025-10-06T15:00:58Z
-Full Content:
-Skip to comments. Posted on 10/06/2025 8:00:58 AM PDT by SunkenCiv Monday's off to a busy start! As investors and traders await any developments from Washington DC, Tom White points out the fact that in the previous 5 government shutdowns equity markets actually rose higher. He joins Diane King Hall to set up the trading week before turning to a pair of big premarket movers. AMD (AMD) is jumping on news that it reached a deal to sell a potential 10% stake to OpenAI in tranches. And, Micron (MU) begins Monday's action with an upgrade at Morgan Stanley and a new price target to $220. Market Rally: AMD/OpenAI Deal, MU Upgrade | 12:02 Schwab Network | 235K subscribers | 1,175 views | October 6, 2025 (Excerpt) Read more at youtube.com ... Gold, almost 4K. That’s not at all concerning. saw someone got a large open call right before friday market close and so far otm it looks like insider trading... turn 2k Friday night into 1.2 million this morning and sold. https://www.youtube.com/results?search_query=congress+insider+trading https://www.youtube.com/@ZipTrader/search?query=pelosi https://www.youtube.com/watch?v=yV8f4Qgpf0c That Lisa Su is extremely smart and tough as heck. That Lisa Su is extremely smart and tough as heck. I wholeheartedly agree. With the kind of capex that’s coming in, second place will be pretty darned good. Thank you for all your hard work!!! APPRECIATED Thanks for your kind remark! I own a lot of AMD shares. I looked at the price when I went to bed and it was up like $1.25. Then a few hours before opening bell I saw it was up like $56 then as much as $64 I went to sleep happy. The deal say there are 4 steps to OpenAI owning 160 million shares of AMD paying just 1 penny each.... when it hits $600 in about hopefully 4 years time. With the 1st in mid 2026 at $300 a share. Excellent! Disclaimer: Opinions posted on Free Republic are those of the individual posters and do not necessarily represent the opinion of Free Republic or its management. All materials posted herein are protected by copyright law and the exemption for fair use of copyrighted works. Free Republic Browse · Search General/Chat Topics · Post Article FreeRepublic, LLC, PO BOX 9771, FRESNO, CA 93794 FreeRepublic.com is powered by software copyright 2000-2008 John Robinson Disclaimer: Opinions posted on Free Republic are those of the individual posters and do not necessarily represent the opinion of Free Republic or its management. All materials posted herein are protected by copyright law and the exemption for fair use of copyrighted works.
---------------------------------------------------
-
-Title: Why your S&P 500 index fund might be more risky than the internet bubble
-URL: https://www.marketwatch.com/story/why-your-s-p-500-index-fund-might-be-more-risky-than-the-internet-bubble-af1050e6
-Time Published: 2025-10-06T14:53:00Z
-Description: The S 500’s record concentration to a handful of stocks at a time of relatively high valuations makes a case for broadening investment portfolios.
---------------------------------------------------
-
-Title: Market Minute 10-6-25- Gold, Bitcoin Hit Records as Shutdown Enters Week Two
-URL: https://finance.yahoo.com/news/market-minute-10-6-25-144500173.html
-Time Published: 2025-10-06T14:45:00Z
-Description: Precious metals are rocking and rolling again, as are most cryptocurrencies. Stocks are modestly higher along with the US dollar, while Treasuries are...
---------------------------------------------------
-
-Title: NVDA: Nvidia Billion-Dollar AI Chip Shipment To UAE Suddenly Put On Hold
-URL: https://finance.yahoo.com/news/nvda-nvidia-billion-dollar-ai-143923421.html
-Time Published: 2025-10-06T14:39:23Z
-Description: Nvidia Export Deal To UAE Slows Amid National Security Scrutiny
---------------------------------------------------
-
-Title: Stock Market Today: AMD Soars After Announcing Big Deal with OpenAI
-URL: https://www.thestreet.com/markets/stock-market-today-october-6-2025
-Time Published: 2025-10-06T14:24:13Z
-Description: Plus: Stocks to continue their rise despite gov't shutdown, missing economic data
 --------------------------------------------------
