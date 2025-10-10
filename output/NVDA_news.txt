@@ -18,10 +18,41 @@ Time Published: 2025-10-08T20:59:50Z
 Description: AMD Options Play Delivers $18 Million Gain Amid OpenAI Deal Buzz
 --------------------------------------------------
 
+Title: As Jeff Bezos Warns of an ‘AI Bubble,’ This Could Be the Safest Magnificent 7 AI Stock to Buy Now
+URL: https://www.barchart.com/story/news/35318534/as-jeff-bezos-warns-of-an-ai-bubble-this-could-be-the-safest-magnificent-7-ai-stock-to-buy-now
+Time Published: 2025-10-08T19:51:03Z
+Description: Nvidia is an AI stock that continues to trade at a reasonable multiple in 2025, despite generating outsized returns over the last five years.
+--------------------------------------------------
+
+Title: Analysts Say Micron Has ‘More Room to Run.’ Should You Buy MU Stock Here?
+URL: https://www.barchart.com/story/news/35318226/analysts-say-micron-has-more-room-to-run-should-you-buy-mu-stock-here
+Time Published: 2025-10-08T19:37:38Z
+Description: Micron’s AI-fueled rally may not be done yet, but investors should weigh the memory boom’s upside against a potential cyclical cooldown.
+--------------------------------------------------
+
+Title: Nvidia Stock Got Rocked by AMD’s OpenAI Deal, But Wall Street Still Loves NVDA
+URL: https://www.barchart.com/story/news/35317746/nvidia-stock-got-rocked-by-amds-openai-deal-but-wall-street-still-loves-nvda
+Time Published: 2025-10-08T19:00:51Z
+Description: Despite the recent downturn, Nvidia continues to find takers among the analyst community.
+--------------------------------------------------
+
 Title: Jamie Dimon has blunt call on the stock market
 URL: https://www.thestreet.com/investing/jamie-dimon-has-blunt-call-on-the-stock-market-
 Time Published: 2025-10-08T18:56:38Z
 Description: So far in 2025, the U.S. stock market has marched forward with considerable aplomb. Case in point: after racking up multiple highs, the S&P 500 is up nearly ...
+--------------------------------------------------
+
+Title: Nvidia's Jensen Huang Says AI Demand Is Up 'Substantially' This Year, and Still Growing
+URL: https://www.investopedia.com/nvidia-jensen-huang-says-ai-demand-is-up-substantially-this-year-and-still-growing-11826549
+Time Published: 2025-10-08T18:38:45Z
+Full Content:
+Demand for artificial intelligence is booming and only just getting started, according to Nvidia CEO Jensen Huang. “This year, particularly the last six months, demand of computing has gone up substantially,” the CEO told CNBC in a televised interview Wednesday, adding that that he believes the AI boom is still in its early stages, leaving room for further growth. Shares of Nvidia (NVDA) were up 2% in recent trading, contributing to a rally in the tech sector. The chipmaker at the heart of the AI boom has seen its stock climb roughly 40% so far in 2025 as sales of its chips to power data centers surged and trade policy headwinds eased. Its move this year has helped propel Nvidia into the top spot as the world's most valuable public company, and made its CEO one of the richest people in the world. As a leading beneficiary of the AI boom, Nvidia has become something of a bellwether for the AI trade, with changes in its business and big moves in its stock able to influence broader markets. Shares of Nvidia partners such as Micron Technology (MU) and Super Micro Computer (SMCI) also climbed Wednesday, adding to gains earlier in the week on a massive OpenAI deal with Advanced Micro Devices (AMD), which also collaborates with the companies. AMD's deal came just weeks after Nvidia announced its own deal with OpenAI. OpenAI CEO Sam Altman said in a social media post Monday that the startup views its AMD deal as incremental to the ChatGPT maker's work with Nvidia, and that "the world needs much more compute." The move raised speculation more high-profile partnerships could be in the works, affecting a growing number of companies, with several Wall Street analysts likening the signal of strong demand for AI to a rising tide that lifts all boats. Huang said Wednesday that his only regret is not investing more in major AI players like OpenAI and CoreWeave (CRWV), an AI data center provider in which Nvidia holds a stake. The CEO also gave a shoutout to Tesla (TSLA) CEO Elon Musk, saying Nvidia is investing in Musk's xAI and that “almost everything that Elon is part of, you really want to be part of as well." Shares of the EV maker, which were up about 1% Wednesday, have been on a tear in recent weeks, adding roughly a third of their value since the start of September as bulls have shifted more of their focus to the company's developments in autonomous driving, robotics, and AI.
+--------------------------------------------------
+
+Title: AMD Stock Is Soaring on an OpenAI Deal, But Analysts Still Think It Can Climb 35% From Here
+URL: https://www.barchart.com/story/news/35317112/amd-stock-is-soaring-on-an-openai-deal-but-analysts-still-think-it-can-climb-35-from-here
+Time Published: 2025-10-08T18:10:59Z
+Description: AMD stock gained more than 20% on Monday, following its partnership with OpenAI, which is expected to significantly widen the chipmaker's revenue base.
 --------------------------------------------------
 
 Title: Legendary fund manager has surprising take on AI
@@ -277,38 +308,4 @@ Title: Should You Buy the Dip in This AI Data Center Stock?
 URL: https://www.barchart.com/story/news/35260598/should-you-buy-the-dip-in-this-ai-data-center-stock
 Time Published: 2025-10-06T19:07:27Z
 Description: Here's one chip stock that's down but certainly not out. Why a key announcement could change the game for this AI data center stock.
---------------------------------------------------
-
-Title: Is Meta Stock a Buy or a Sell as ‘AI Bubble’ Chatter Grows?
-URL: https://www.barchart.com/story/news/35259538/is-meta-stock-a-buy-or-a-sell-as-ai-bubble-chatter-grows
-Time Published: 2025-10-06T17:50:37Z
-Description: Observers are cautioning about a possible bubble in AI. Is Meta stock a buy or a sell as the stock trades above its historical valuations on optimism over...
---------------------------------------------------
-
-Title: Could Broadcom Benefit from the OpenAI AMD Deal? AVGO Stock Could Be Cheap Here
-URL: https://www.barchart.com/story/news/35259459/could-broadcom-benefit-from-the-openai-amd-deal-avgo-stock-could-be-cheap-here
-Time Published: 2025-10-06T17:43:14Z
-Description: Broadcom could benefit from OpenAI's diversification away from its sole reliance on Nvidia with its new AMD deal. It's possible, especially after the Sept. 4...
---------------------------------------------------
-
-Title: Micron's Record Run Isn't Over Yet, According to These Wall Street Bulls
-URL: https://www.investopedia.com/micron-shares-will-rise-say-these-wall-street-bulls-11824707
-Time Published: 2025-10-06T17:35:12Z
-Full Content:
-Micron Technology's (MU) stock has had a strong run in 2025 so far, and some Wall Street bulls say it's set to move. higher, as AI-driven orders grow. The memory chip maker's shares were up about 3% to around $193 in recent trading, extending their recent rally and putting them on track to top Friday's closing record. The stock has added more than half its value since the year began, making it one of the S&P 500's top performers for 2025. Morgan Stanley analysts upgraded the stock to “overweight” from a neutral rating on Monday, and lifted their price target to $220 from $160, a bit above the $196 average target compiled by Visible Alpha, pointing to booming demand for its high-bandwidth memory to support AI. "Conviction from our purchasing contacts is very high," the analysts said, adding "we see more room to run." Many of the S&P 500's top performers this year are companies that make data storage or memory products needed to support AI data centers, like Micron, and stand to benefit from the same tailwinds. Micron, which counts leading AI chipmakers Nvidia (NVDA) and Advanced Micro Devices (AMD) among its partners, last month posted record quarterly sales, thanks in large part to growth from its data center business. AMD announced a massive deal on Monday with OpenAI that sent its stock soaring nearly 30% in recent trading. The news also helped lift shares of partner stocks like Micron and Astera Labs (ALAB), which saw its stock jump 11%.
---------------------------------------------------
-
-Title: The AI bubble is 17 times the size of the dot-com frenzy and four times subprime
-URL: https://www.morningstar.com/news/marketwatch/20251003175/the-ai-bubble-is-17-times-the-size-of-the-dot-com-frenzy-and-four-times-subprime-this-analyst-argues
-Time Published: 2025-10-06T16:46:12Z
-Description: Article URL: https://www.morningstar.com/news/marketwatch/20251003175/the-ai-bubble-is-17-times-the-size-of-the-dot-com-frenzy-and-four-times-subprime-this-analyst-argues
-Comments URL: https://news.ycombinator.com/item?id=45493287
-Points: 24
-# Comments: 1
---------------------------------------------------
-
-Title: Wall Street analyst sees Bitcoin hitting new highs despite U.S. shutdown
-URL: https://www.thestreet.com/crypto/investing/shutdown
-Time Published: 2025-10-06T16:39:06Z
-Description: Standard Chartered analyst Geoffrey Kendrick predicts that Bitcoin will continue to rise during the shutdown.
 --------------------------------------------------

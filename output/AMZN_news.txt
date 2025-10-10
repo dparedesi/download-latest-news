@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: As Jeff Bezos Warns of an ‘AI Bubble,’ This Could Be the Safest Magnificent 7 AI Stock to Buy Now
+URL: https://www.barchart.com/story/news/35318534/as-jeff-bezos-warns-of-an-ai-bubble-this-could-be-the-safest-magnificent-7-ai-stock-to-buy-now
+Time Published: 2025-10-08T19:51:03Z
+Description: Nvidia is an AI stock that continues to trade at a reasonable multiple in 2025, despite generating outsized returns over the last five years.
+--------------------------------------------------
+
 Title: Alphabet to Invest $10 Billion in India's First Major Data Center Cluster
 URL: https://finance.yahoo.com/news/alphabet-invest-10-billion-indias-161240919.html
 Time Published: 2025-10-08T16:12:40Z

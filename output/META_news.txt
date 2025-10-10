@@ -1,5 +1,11 @@
 List of news related to Meta stock price META:
 
+Title: Are Meta’s Display $800 AI Smart Glasses the Future or a Flop?
+URL: https://www.geeky-gadgets.com/meta-ray-ban-display-glasses-review/
+Time Published: 2025-10-09T06:46:48Z
+Description: Imagine slipping on a pair of glasses that don’t just sharpen your vision but also overlay your world with real-time information, hands-free controls, and AI-enhanced visuals. Sounds like something out of a sci-fi movie, right? Enter the Meta Display glasses,…
+--------------------------------------------------
+
 Title: Six Mag 7 Stocks Failed To Hit New Highs Wednesday As Indexes Did So
 URL: https://www.forbes.com/sites/johnnavin/2025/10/08/six-mag-7-stocks-failed-to-hit-new-highs-wednesday-as-indexes-did-so/
 Time Published: 2025-10-09T00:28:16Z
@@ -208,14 +214,14 @@ Time Published: 2025-10-06T13:31:32Z
 Description: US stock futures tick upwards despite the government shutdown.
 --------------------------------------------------
 
-Title: Stock market today: Dow falls whiS&P 500, Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-whisp-500-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132036.html
+Title: Stock market today: Dow falls, S&P 500 and Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-sp-500-and-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132590.html
 Time Published: 2025-10-06T13:31:32Z
 Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
 --------------------------------------------------
 
-Title: Stock market today: Dow falls, S&P 500 and Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-sp-500-and-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132590.html
+Title: Stock market today: Dow falls whiS&P 500, Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-whisp-500-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132036.html
 Time Published: 2025-10-06T13:31:32Z
 Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
 --------------------------------------------------
