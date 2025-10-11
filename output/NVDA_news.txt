@@ -1,5 +1,50 @@
 List of news related to NVIDIA NVDA:
 
+Title: Top Stock Movers Now: AMD, Arm, Levi Strauss, and More
+URL: https://www.investopedia.com/top-stock-movers-now-amd-arm-levi-strauss-and-more-11828053
+Time Published: 2025-10-10T16:46:34Z
+Full Content:
+The major U.S. equities indexes dropped sharply Friday afternoon, wiping out early gains after President Trump threatened "massive" tariffs on Chinese goods in response to China’s move to tighten rare earths export curbs. The Dow, S&P 500, and Nasdaq all lost over 1%. China is a leading producer for rare earths that are critical components in a wide range of high-tech products from cars to semiconductors, and chip stocks including Advanced Micro Devices (AMD) and Arm (ARM) were among the S&P 500 and Nasdaq's biggest decliners. Shares of AI favorite Nvidia (NVDA) also turned lower after climbing to a fresh intraday record, with the PHLX Semiconductor Index (SOX) down 4%. Adding to Qualcomm's (QCOM) woes was a report that Chinese regulators are investigating the chipmaker’s purchase of Israel-based car safety semiconductor manufacturer Autotalks over possible antitrust violations. Mosaic (MOS) was the worst-performing stock in the S&P 500 after the fertilizer maker reported problems at two of its plants significantly held back production. Shares of Levi Strauss (LEVI) also dropped after the jeans maker said tariffs would negatively impact current-quarter results. PepsiCo (PEP) shares added to yesterday's gains after the soft drink and snacks maker posted better-than-expected results on higher international demand and strong sales of its healthier drinks in the U.S. Shares of Applied Digital (APLD) took off as the AI data center firm also beat earnings and revenue forecasts on higher demand for its services, which included a new data center lease agreement with AI computing firm CoreWeave (CRWD). Gold prices rose, and oil futures sank. The yield on the 10-year Treasury note slid. The U.S. dollar lost ground to the euro, pound, and yen. Most major cryptocurrencies lost ground.
+--------------------------------------------------
+
+Title: China launches probe into Qualcomm amid ongoing US trade fight
+URL: https://finance.yahoo.com/news/china-launches-probe-into-qualcomm-amid-ongoing-us-trade-fight-162815501.html
+Time Published: 2025-10-10T16:28:15Z
+Description: China's markets regulator has launched an investigation into Qualcomm.
+--------------------------------------------------
+
+Title: Qualcomm Stock Slides on News of Antitrust Probe by Chinese Regulators
+URL: https://www.investopedia.com/qualcomm-stock-slides-on-news-of-antitrust-probe-by-chinese-regulators-11827911
+Time Published: 2025-10-10T15:54:26Z
+Full Content:
+Qualcomm (QCOM) shares declined Friday following news Chinese regulators have opened an antitrust investigation of the chipmaker’s June purchase of Israel-based car safety semiconductor manufacturer Autotalks. China’s State Administration for Market Regulation wrote in a statement seen by news organizations that it would be looking into whether Qualcomm unlawfully withheld certain details about the acquisition. China's antitrust investigation into Qualcomm’s acquisition of Autotalks puts a spotlight on tensions that could affect U.S.-China trade talks. The investigation may influence Qualcomm’s operations in the region, which could weigh on investor sentiment. Bloomberg reported that Beijing was targeting Qualcomm as part of an effort to gain leverage ahead of trade talks between President Donald Trump and Chinese President Xi Jinping expected at the end of the month. It noted China has already announced an antitrust probe of Nvidia (NVDA), and has slapped curbs on exports of rare earth and other key minerals to the U.S., as well as limiting imports of soybeans from American farmers. Qualcomm did not respond to Investopedia's request for comment before publication. Shares of the company have gained 3% since the start of the year, trailing the performance of tech stocks that have surged amid booming demand for AI.
+--------------------------------------------------
+
+Title: AI bubble? Bitcoin's high correlation to Nvidia sparks 80% crash warning
+URL: https://cointelegraph.com/news/ai-bubble-bitcoin-high-correlation-nvidia-80-percent-btc-crash-warning
+Time Published: 2025-10-10T14:37:32Z
+Description: Circular AI investments among Nvidia, OpenAI, and AMD have shown similarities to the dot-com bubble, which could spill over to harm the crypto market.
+--------------------------------------------------
+
+Title: Comfort Makes You Poor - The Snowball Strategy That Builds Wealth
+URL: https://www.forbes.com/sites/jonmarkman/2025/10/10/comfort-makes-you-poorthe-snowball-strategy-that-builds-wealth/
+Time Published: 2025-10-10T14:07:12Z
+Full Content:
+ByJon Markman, Contributor. The Two Paths to Investing: Conviction vs. Comfort Every investor is offered two paths: the comfortable, well-lit path of following the crowd and listening to the latest fear-mongering, or the quiet, proven path of conviction and compounding. The first path is an illusion (a trap that leads to mediocrity). The second is the only road to real, generational wealth. The biggest stumbling block for most investors isn’t the market; it’s emotion. People instinctively seek comfort, which means they often fall victim to tall tales of doom from analysts or economists who consistently lag the market. The data doesn’t lie: over every time frame, these advisors underperform the S&P 500. They sell bottoms and urge switching from winners to tired value stocks, leading investors away from long-term success. Professional fund managers are no exception. In 2025, only about 30% are matching or beating the S&P. The stark reality is this: most are paid well for mediocrity and actively encourage costly portfolio churn. They construct narratives to justify cautious moves, rarely providing the conviction that real wealth-building requires. The Secret Weapon: Harnessing the Snowball Effect We don’t talk about timing the market; we talk about harnessing the most powerful, yet patient, force in finance: Compounding. It’s not a straight line; it’s a snowball rolling down a hill (slowly at first, gathering mass, and then, inexorably, becoming an unstoppable force that creates fortune out of patience). Not many advisors talk about this because their business model depends on activity, not patience. Our business is built on the opposite: allowing this magic to work. When investors buy and hold great stocks, they allow compounding to work its magic, earning profits on profits. Real wealth stems from holding, not trading, exceptional businesses over decades. We have told this story before, but it bears repeating. We put Markman Capital members into Nvidia (NVDA) a decade before ChatGPT. We did this because our research showed Nvidia was building a business at the vanguard of a huge secular trend. Adjusted for stock splits, many members own shares from 50 cents. Today, Nvidia trades at $192.50. This has been a life-changing investment, but there have been challenges. Think back to 2022. Imagine you held shares of Nvidia, a company we knew was poised to dominate for the foreseeable future, and the stock price had just been cut in half. The talking heads were screaming “sell.” Fear was palpable. That moment, that overwhelming feeling of doubt, that was the test. Markman Capital members didn’t just hold; they acted with conviction and bought even more. The business fundamentals had not changed. The secular tailwind was far from complete. The talkers missed the return because they failed the emotional test. They chased safety, missing the growth that only discipline and long-term vision could deliver. The Test of Discipline What stops most investors? Fear. Fear of loss, regret, and missing out. The industry profits by stoking these emotions, pushing protection products and constant analysis. Ignore the noise. Mastery in investing is not found in prediction; it is found in the discipline to act with conviction while others are paralyzed by volatility. Here are four other stocks for steadfast accumulation: businesses with a long track record of operational excellence and sustained profit growth: Netflix (NFLX), Booking Holdings (BKNG), Costco Wholesale (COST), and Intuitive Surgical (ISRG). Buy them with a decade-long mindset. Add to positions during deep declines. Leave the short-term trading to nervous hands. Compounding doesn’t need perfect timing. It needs great businesses and the ability to leave them alone, letting profits snowball across decades. Markman Capital’s history, not just Nvidia, but dozens of holdings, proves this principle works quietly but inexorably. Conviction, not comfort, is the true engine of wealth. Stick with the simple, proven method. Buy and hold. As always, today’s advice is simple, yet profound. Choose greatness. Stay disciplined. Resist drama and noise. Let compounding do the heavy lifting. In a world awash in anxious forecasts, let this be your anchor. Choose conviction, not comfort. Share this with someone selling bottoms and calling it “prudence.”
+--------------------------------------------------
+
+Title: Billionaire David Tepper Explains Why He Doesn’t Hold NVIDIA (NVDA) ‘All the Way’
+URL: https://finance.yahoo.com/news/billionaire-david-tepper-explains-why-130022913.html
+Time Published: 2025-10-10T13:00:22Z
+Description: We recently published 10 Stocks Everyone’s Talking About As AI Investments Continue. NVIDIA Corp (NASDAQ:NVDA) is one of the stocks analysts were recently...
+--------------------------------------------------
+
+Title: 5 ‘Strong Buy’ Stocks That Could Dominate the AI Economy in the Next 10 Years
+URL: https://www.barchart.com/story/news/35362532/5-strong-buy-stocks-that-could-dominate-the-ai-economy-in-the-next-10-years
+Time Published: 2025-10-10T11:30:02Z
+Description: AI is transforming entire industries at lightning speed, and these five stocks are positioned to lead and capture massive value.
+--------------------------------------------------
+
 Title: Jim Cramer Defends NVIDIA (NVDA) After AMD’s OpenAI Deal
 URL: https://finance.yahoo.com/news/jim-cramer-defends-nvidia-nvda-013536690.html
 Time Published: 2025-10-10T01:35:36Z
@@ -264,48 +309,4 @@ Title: As Jeff Bezos Warns of an ‘AI Bubble,’ This Could Be the Safest Magni
 URL: https://www.barchart.com/story/news/35318534/as-jeff-bezos-warns-of-an-ai-bubble-this-could-be-the-safest-magnificent-7-ai-stock-to-buy-now
 Time Published: 2025-10-08T19:51:03Z
 Description: Nvidia is an AI stock that continues to trade at a reasonable multiple in 2025, despite generating outsized returns over the last five years.
---------------------------------------------------
-
-Title: Analysts Say Micron Has ‘More Room to Run.’ Should You Buy MU Stock Here?
-URL: https://www.barchart.com/story/news/35318226/analysts-say-micron-has-more-room-to-run-should-you-buy-mu-stock-here
-Time Published: 2025-10-08T19:37:38Z
-Description: Micron’s AI-fueled rally may not be done yet, but investors should weigh the memory boom’s upside against a potential cyclical cooldown.
---------------------------------------------------
-
-Title: Nvidia Stock Got Rocked by AMD’s OpenAI Deal, But Wall Street Still Loves NVDA
-URL: https://www.barchart.com/story/news/35317746/nvidia-stock-got-rocked-by-amds-openai-deal-but-wall-street-still-loves-nvda
-Time Published: 2025-10-08T19:00:51Z
-Description: Despite the recent downturn, Nvidia continues to find takers among the analyst community.
---------------------------------------------------
-
-Title: Jamie Dimon has blunt call on the stock market
-URL: https://www.thestreet.com/investing/jamie-dimon-has-blunt-call-on-the-stock-market-
-Time Published: 2025-10-08T18:56:38Z
-Description: So far in 2025, the U.S. stock market has marched forward with considerable aplomb. Case in point: after racking up multiple highs, the S&P 500 is up nearly ...
---------------------------------------------------
-
-Title: Nvidia's Jensen Huang Says AI Demand Is Up 'Substantially' This Year, and Still Growing
-URL: https://www.investopedia.com/nvidia-jensen-huang-says-ai-demand-is-up-substantially-this-year-and-still-growing-11826549
-Time Published: 2025-10-08T18:38:45Z
-Full Content:
-Demand for artificial intelligence is booming and only just getting started, according to Nvidia CEO Jensen Huang. “This year, particularly the last six months, demand of computing has gone up substantially,” the CEO told CNBC in a televised interview Wednesday, adding that that he believes the AI boom is still in its early stages, leaving room for further growth. Shares of Nvidia (NVDA) were up 2% in recent trading, contributing to a rally in the tech sector. The chipmaker at the heart of the AI boom has seen its stock climb roughly 40% so far in 2025 as sales of its chips to power data centers surged and trade policy headwinds eased. Its move this year has helped propel Nvidia into the top spot as the world's most valuable public company, and made its CEO one of the richest people in the world. As a leading beneficiary of the AI boom, Nvidia has become something of a bellwether for the AI trade, with changes in its business and big moves in its stock able to influence broader markets. Shares of Nvidia partners such as Micron Technology (MU) and Super Micro Computer (SMCI) also climbed Wednesday, adding to gains earlier in the week on a massive OpenAI deal with Advanced Micro Devices (AMD), which also collaborates with the companies. AMD's deal came just weeks after Nvidia announced its own deal with OpenAI. OpenAI CEO Sam Altman said in a social media post Monday that the startup views its AMD deal as incremental to the ChatGPT maker's work with Nvidia, and that "the world needs much more compute." The move raised speculation more high-profile partnerships could be in the works, affecting a growing number of companies, with several Wall Street analysts likening the signal of strong demand for AI to a rising tide that lifts all boats. Huang said Wednesday that his only regret is not investing more in major AI players like OpenAI and CoreWeave (CRWV), an AI data center provider in which Nvidia holds a stake. The CEO also gave a shoutout to Tesla (TSLA) CEO Elon Musk, saying Nvidia is investing in Musk's xAI and that “almost everything that Elon is part of, you really want to be part of as well." Shares of the EV maker, which were up about 1% Wednesday, have been on a tear in recent weeks, adding roughly a third of their value since the start of September as bulls have shifted more of their focus to the company's developments in autonomous driving, robotics, and AI.
---------------------------------------------------
-
-Title: AMD Stock Is Soaring on an OpenAI Deal, But Analysts Still Think It Can Climb 35% From Here
-URL: https://www.barchart.com/story/news/35317112/amd-stock-is-soaring-on-an-openai-deal-but-analysts-still-think-it-can-climb-35-from-here
-Time Published: 2025-10-08T18:10:59Z
-Description: AMD stock gained more than 20% on Monday, following its partnership with OpenAI, which is expected to significantly widen the chipmaker's revenue base.
---------------------------------------------------
-
-Title: Legendary fund manager has surprising take on AI
-URL: https://www.thestreet.com/technology/legendary-fund-manager-has-surprising-take-on-ai-
-Time Published: 2025-10-08T17:33:00Z
-Description: AI continues rewriting the rules, and its pace isn’t slowing down anytime soon. So far this year, the AI trade has minted nearly $4.3 trillion in fresh...
---------------------------------------------------
-
-Title: Top Stock Movers Now: Nvidia, AMD, Dell, Fair Isaac, and More
-URL: https://www.investopedia.com/top-stock-movers-now-nvidia-amd-dell-fair-isaac-and-more-11826416
-Time Published: 2025-10-08T17:28:23Z
-Full Content:
-Major U.S. equities indexes climbed Wednesday as enthusiasm for artificial intelligence stocks boosted the tech sector. The Dow, S&P 500, and Nasdaq all gained. Nvidia (NVDA) shares rose after CEO Jensen Huang said in a televised interview with CNBC that AI demand is up "substantially" this year, and that he expects it to grow further. Shares of rival chipmaker Advanced Micro Devices (AMD) led gains on the S&P 500, adding to their recent rally in the wake of a deal with OpenAI. Dell Technology (DELL) also jumped, after the server maker reported yesterday that it sees a “massive” growth opportunity in AI as it raised its outlook. AST SpaceMobile (ASTS) shares soared to a record high as the provider of space-based cellphone service and Verizon Communications (VZ) agreed on a partnership to offer direct-to-customer broadband service across the continental U.S. Credit score data provider Fair Isaac (FICO) was the worst-performing stock in the S&P 500 after score reporter Equifax (EFX) slashed prices in response to Fair Isaac providing its information directly to firms that give credit reports to mortgage companies. Equifax shares advanced. DaVita (DVA) shares declined as Barclays lowered its price target for the kidney dialysis service provider's stock, pointing to a cyberattack that disrupted operations in August. Gold prices high a fresh high, and oil futures climbed. The yield on the 10-year Treasury note dropped. The U.S. dollar was higher versus the euro, pound, and yen. Most major cryptocurrencies traded lower.
 --------------------------------------------------
