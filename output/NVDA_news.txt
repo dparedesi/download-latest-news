@@ -1,9 +1,63 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq inch higher as shutdown drags on
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-inch-higher-as-shutdown-drags-on-232721490.html
+Time Published: 2025-10-09T23:27:21Z
+Description: Markets have had an uncertain week, pulled in different directions by AI demand hopes and US government shutdown worries.
+--------------------------------------------------
+
+Title: Planet Labs is using AI & Nvidia chips to power new satellite images
+URL: https://finance.yahoo.com/video/planet-labs-using-ai-nvidia-212648298.html
+Time Published: 2025-10-09T21:26:48Z
+Description: Planet Labs (PL), an Earth imaging and data company, is launching Owl, a new monitoring satellite powered by Nvidia (NVDA) chips that can deliver AI-analyzed...
+--------------------------------------------------
+
+Title: KeyBanc Reaffirms Buy on Nvidia Ahead of Earnings, Citing Strong AI Demand
+URL: https://finance.yahoo.com/news/keybanc-reaffirms-buy-nvidia-ahead-211538708.html
+Time Published: 2025-10-09T21:15:38Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Trending AI Stocks on Wall Street’s Radar. On October 6, KeyBanc reiterated its Overweight rating on the stock...
+--------------------------------------------------
+
+Title: NVDA: Nvidia Stock Breaks New Record After Cantor Hikes Price Target to $300
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d4de039a-832d-4306-b28e-1fac23a6cf1a
+Time Published: 2025-10-09T19:21:23Z
+Description: None
+--------------------------------------------------
+
+Title: Nvidia Gets US Approval to Ship Chips to the UAE. Should You Buy NVDA Stock Here?
+URL: https://www.barchart.com/story/news/35347632/nvidia-gets-us-approval-to-ship-chips-to-the-uae-should-you-buy-nvda-stock-here
+Time Published: 2025-10-09T19:07:14Z
+Description: Nvidia stock inches higher as the Trump administration approves export of AI chips to the UAE. Cantor Fitzgerald sees NVDA shares climbing to $300 over the...
+--------------------------------------------------
+
+Title: Nvidia Just Invested in xAI. Should You Buy, Sell, or Hold NVDA Stock?
+URL: https://www.barchart.com/story/news/35347406/nvidia-just-invested-in-xai-should-you-buy-sell-or-hold-nvda-stock
+Time Published: 2025-10-09T18:50:16Z
+Description: Nvidia’s xAI investment extends its AI dominance, yet its sky-high valuation tests investors' nerves.
+--------------------------------------------------
+
+Title: As AI Demand Rises ‘Substantially,” CEO Jensen Huang Wants You to Keep Buying Nvidia Stock
+URL: https://www.barchart.com/story/news/35347222/as-ai-demand-rises-substantially-ceo-jensen-huang-wants-you-to-keep-buying-nvidia-stock
+Time Published: 2025-10-09T18:31:50Z
+Description: The CEO of the most valuable company in the world sees no let-up in demand.
+--------------------------------------------------
+
+Title: Oracle Just Teamed Up With SoftBank. Should You Buy, Sell, or Hold ORCL Stock Now?
+URL: https://www.barchart.com/story/news/35346870/oracle-just-teamed-up-with-softbank-should-you-buy-sell-or-hold-orcl-stock-now
+Time Published: 2025-10-09T18:05:28Z
+Description: Oracle stock has returned close to 400% to shareholders in the last three years, due to its expanding capabilities in the AI segment.
+--------------------------------------------------
+
 Title: Nvidia-Backed AI Startup n8n Raises $180M at $2.5B Valuation
 URL: https://finance.yahoo.com/news/nvidia-backed-ai-startup-n8n-174230387.html
 Time Published: 2025-10-09T17:42:30Z
 Description: Funding round led by Accel adds momentum to growing AI agent market
+--------------------------------------------------
+
+Title: 1 Unexpected ETF to Buy Now If You Want to Play the OpenAI Rally in AMD Stock
+URL: https://www.barchart.com/story/news/35345095/1-unexpected-etf-to-buy-now-if-you-want-to-play-the-openai-rally-in-amd-stock
+Time Published: 2025-10-09T16:48:33Z
+Description: AMD has a 12.98% weighting in the Amplify Video Game Leaders ETF.
 --------------------------------------------------
 
 Title: US stock market today: Dow falls, S&P 500 and Nasdaq pull back after record highs - Investors paused amid AI bubble fears, a federal shutdown, and Powell’s upcoming remarks
@@ -13,16 +67,40 @@ Full Content:
 U.S. stock market today paused after a week of record gains. Dow Jones fell while the S&P 500 and Nasdaq retreated from all-time highs. Traders are reassessing optimism around the AI boom and Federal Reserve rate cuts amid the ongoing government shutdown. Nvidia stock hits record high. Weak sentiment and data delays weighed on Wall Street as investors awaited Jerome Powell’s speech for clues on the economy’s next direction. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Alberta teachers say ‘no’ to government’s latest contract, set to strike on Monday, disrupting classes for 700,000+ students Could your next pack of cigarettes be funding criminal networks? Inside Western Canada’s billion-dollar contraband trade Canada bars Irish rap band Kneecap from entry over alleged terrorism support Bank of Canada cuts interest rate to 2.5% as GDP shrinks, job market softens Beverly Thomson, veteran CTV journalist and Canada AM co-host, dies at 61 Seth Rogen wins Emmy Award for best lead actor in comedy series 'The Studio' Zach Bryan confronts Gavin Adcock at Oklahoma music festival after country singer criticism Weekend streaming guide Canada: top 10 Netflix, Crave, Disney+ and Apple TV+ shows September 2025 Canada pension and retirement benefits 2025: up to $2,461 in federal and provincial payments through December Molly McCann wins professional boxing debut despite opponent's illegal kick How Americans and a fake Fox News account accused Toronto retiree Michael Mallinson of assassinating Charlie Kirk Canadian bread price fixing settlement opens: $500m available for claims Canadian soldier found dead in Latvia during NATO operation reassurance deployment Railway Minister Vaishnaw confirms bullet train by 2027 Taliban FM to meet EAM Jaishankar under UN travel exemption Clean Yamuna, park over the landfills: Amit Shah’s vision for Delhi Starmer endorses UN seat as India-UK push for global peace & security Telangana government faces backlash over RTC fare hike 'Will bring down logistics cost to single digit by Dec': Gadkari India-UK trade deal boost ties in tech, defence, education Congress: Modi’s ‘he said, she said’ weakens India Jan Suraaj releases first list of 51 candidates Deadly cough syrup case: owner arrested Railway Minister Vaishnaw confirms bullet train by 2027 Taliban FM to meet EAM Jaishankar under UN travel exemption Clean Yamuna, park over the landfills: Amit Shah’s vision for Delhi Starmer endorses UN seat as India-UK push for global peace & security Telangana government faces backlash over RTC fare hike 'Will bring down logistics cost to single digit by Dec': Gadkari India-UK trade deal boost ties in tech, defence, education Congress: Modi’s ‘he said, she said’ weakens India Jan Suraaj releases first list of 51 candidates Deadly cough syrup case: owner arrested Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Prime Articles Top Slideshow Top Commodities Private Companies Top Story Listing Top Definitions Most Searched IFSC Codes Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
 --------------------------------------------------
 
+Title: Is Nvidia Stock a Buy as AI Demand Soars?
+URL: https://www.barchart.com/story/news/35343494/is-nvidia-stock-a-buy-as-ai-demand-soars
+Time Published: 2025-10-09T15:45:16Z
+Description: Significant demand for AI compute and Nvidia’s leadership in AI hardware provide a solid base for future growth.
+--------------------------------------------------
+
 Title: Nvidia stock climbs amid reported UAE export approval, Wall Street price target raise: 'This is not a bubble'
 URL: https://finance.yahoo.com/news/nvidia-stock-climbs-amid-reported-uae-export-approval-wall-street-price-target-raise-this-is-not-a-bubble-154018275.html
 Time Published: 2025-10-09T15:40:18Z
 Description: Nvidia stock hit an intraday record high as Bloomberg reported the US government approved the tech leader's chip exports to the UAE.
 --------------------------------------------------
 
+Title: Nvidia stock climbs to record amid reported UAE export approval, price target raise: 'This is not a bubble'
+URL: https://finance.yahoo.com/news/nvidia-stock-climbs-to-record-amid-reported-uae-export-approval-price-target-raise-this-is-not-a-bubble-154018663.html
+Time Published: 2025-10-09T15:40:18Z
+Description: Nvidia stock hit an intraday record high as Bloomberg reported that the US government approved the tech leader's chip exports to the UAE.
+--------------------------------------------------
+
+Title: Nvidia CEO Is Surprised by AMD’s OpenAI Equity Move: What’s in Store for NVDA Stock?
+URL: https://www.barchart.com/story/news/35343235/nvidia-ceo-is-surprised-by-amds-openai-equity-move-whats-in-store-for-nvda-stock
+Time Published: 2025-10-09T15:38:49Z
+Description: The market is speculating about Nvidia CEO’s blunt reaction to the AMD-OpenAI deal and Nvidia is in the spotlight again.
+--------------------------------------------------
+
 Title: Top AI Stocks You Should Buy to Rejuvenate Your Portfolio
 URL: https://finance.yahoo.com/news/top-ai-stocks-buy-rejuvenate-153600347.html
 Time Published: 2025-10-09T15:36:00Z
 Description: Here, we have picked three AI stocks, ADI, MU and MSFT, which are well-poised to benefit from AI's growing use and ability to solve complex problems.
+--------------------------------------------------
+
+Title: Stocks Fall on Higher Bond Yields and Weakness in Chipmakers
+URL: https://www.barchart.com/story/news/35342713/stocks-fall-on-higher-bond-yields-and-weakness-in-chipmakers
+Time Published: 2025-10-09T15:18:12Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.24%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
 Title: Jim Cramer on NVIDIA’s CEO: “Why the Heck Wouldn’t I Believe Him”
@@ -35,6 +113,12 @@ Title: Nvidia Corporation (NVDA) Rated as ‘Overweight’ at KeyBanc amid Boomi
 URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-rated-overweight-144817756.html
 Time Published: 2025-10-09T14:48:17Z
 Description: Nvidia Corporation (NASDAQ:NVDA) is one of the high-growth semiconductor stocks that are profitable in 2025. On October 6, KeyBanc reiterated an ‘Overweight ...
+--------------------------------------------------
+
+Title: Stocks Pressured by Higher Bond Yields
+URL: https://www.barchart.com/story/news/35340974/stocks-pressured-by-higher-bond-yields
+Time Published: 2025-10-09T14:05:15Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.07%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.27%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq steady after latest record-setting rally
@@ -61,6 +145,12 @@ Time Published: 2025-10-09T13:00:23Z
 Description: Intel is pushing deeper into robotics with its latest hardware and software updates.
 --------------------------------------------------
 
+Title: Should You Buy, Sell, or Hold CoreWeave Stock for October 2025?
+URL: https://www.barchart.com/story/news/35338245/should-you-buy-sell-or-hold-coreweave-stock-for-october-2025
+Time Published: 2025-10-09T13:00:02Z
+Description: With multi-billion-dollar AI deals potentially reshaping CoreWeave’s trajectory, is it time to buy CRWV stock?
+--------------------------------------------------
+
 Title: Global A.I. Influenced Cybersecurity Market Size Projected to Reach $234 Billion By 2032
 URL: https://www.prnewswire.co.uk/news-releases/global-ai-influenced-cybersecurity-market-size-projected-to-reach-234-billion-by-2032-302579253.html
 Time Published: 2025-10-09T13:00:00Z
@@ -69,14 +159,14 @@ Searching for your content... Phone +44 (0)20 7454 5110 from 8 AM - 5:30 PM GMT 
 --------------------------------------------------
 
 Title: Experts caution: Gold isn’t risk-free — here’s what to watch before you invest
-URL: https://economictimes.indiatimes.com/news/international/us/gold-investment-risks-what-you-need-to-know-before-investing/articleshow/124415151.cms
+URL: https://economictimes.indiatimes.com/news/international/us/gold-price-investment-risks-what-you-need-to-know-before-investing/articleshow/124415151.cms
 Time Published: 2025-10-09T12:39:24Z
 Full Content:
 Gold price: Gold is a traditional safe haven, but experts warn of risks. Investors face price swings when buying near record highs. Gold is a commodity, making its prices unpredictable. Holding gold means missing out on potential gains from other investments. Scammers also target gold investors with fake products. Diversification remains key for managing these risks. Gold price (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. UNGA: India exposes Pakistan’s civilian attacks K'taka 1st state in India to grant 12 paid menstrual leaves to women in all sectors Ayodhya shaken by deadly house explosion; 5 killed on spot, probe on Railway Minister Vaishnaw confirms bullet train by 2027 ‘Gaza will never be broken’: Hamas confirms ceasefire Judge blocks Trump National Guard plan in Illinois Days ahead of Nobel announcement, Trump slams Obama, Biden Netanyahu, Kushner, Witkoff credit Trump for Gaza deal Taliban FM to meet EAM Jaishankar under UN travel exemption Clean Yamuna, park over the landfills: Amit Shah’s vision for Delhi UNGA: India exposes Pakistan’s civilian attacks K'taka 1st state in India to grant 12 paid menstrual leaves to women in all sectors Ayodhya shaken by deadly house explosion; 5 killed on spot, probe on Railway Minister Vaishnaw confirms bullet train by 2027 ‘Gaza will never be broken’: Hamas confirms ceasefire Judge blocks Trump National Guard plan in Illinois Days ahead of Nobel announcement, Trump slams Obama, Biden Netanyahu, Kushner, Witkoff credit Trump for Gaza deal Taliban FM to meet EAM Jaishankar under UN travel exemption Clean Yamuna, park over the landfills: Amit Shah’s vision for Delhi Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Prime Articles Top Market Pages Top Story Listing Top Slideshow Private Companies Top Commodities Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
 --------------------------------------------------
 
 Title: Experts caution: Gold isn’t risk-free — here’s what to watch before you invest
-URL: https://economictimes.indiatimes.com/news/international/us/gold-price-investment-risks-what-you-need-to-know-before-investing/articleshow/124415151.cms
+URL: https://economictimes.indiatimes.com/news/international/us/gold-investment-risks-what-you-need-to-know-before-investing/articleshow/124415151.cms
 Time Published: 2025-10-09T12:39:24Z
 Full Content:
 Gold price: Gold is a traditional safe haven, but experts warn of risks. Investors face price swings when buying near record highs. Gold is a commodity, making its prices unpredictable. Holding gold means missing out on potential gains from other investments. Scammers also target gold investors with fake products. Diversification remains key for managing these risks. Gold price (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. UNGA: India exposes Pakistan’s civilian attacks K'taka 1st state in India to grant 12 paid menstrual leaves to women in all sectors Ayodhya shaken by deadly house explosion; 5 killed on spot, probe on Railway Minister Vaishnaw confirms bullet train by 2027 ‘Gaza will never be broken’: Hamas confirms ceasefire Judge blocks Trump National Guard plan in Illinois Days ahead of Nobel announcement, Trump slams Obama, Biden Netanyahu, Kushner, Witkoff credit Trump for Gaza deal Taliban FM to meet EAM Jaishankar under UN travel exemption Clean Yamuna, park over the landfills: Amit Shah’s vision for Delhi UNGA: India exposes Pakistan’s civilian attacks K'taka 1st state in India to grant 12 paid menstrual leaves to women in all sectors Ayodhya shaken by deadly house explosion; 5 killed on spot, probe on Railway Minister Vaishnaw confirms bullet train by 2027 ‘Gaza will never be broken’: Hamas confirms ceasefire Judge blocks Trump National Guard plan in Illinois Days ahead of Nobel announcement, Trump slams Obama, Biden Netanyahu, Kushner, Witkoff credit Trump for Gaza deal Taliban FM to meet EAM Jaishankar under UN travel exemption Clean Yamuna, park over the landfills: Amit Shah’s vision for Delhi Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Prime Articles Top Market Pages Top Story Listing Top Slideshow Private Companies Top Commodities Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
@@ -106,6 +196,19 @@ URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-
 Time Published: 2025-10-09T10:39:32Z
 Full Content:
 US stock futures held steady Thursday after a record-setting rally. S&P 500 futures stayed flat as investors await more Fed rate cuts. Nasdaq and Dow futures also showed little change. Market optimism rose after the Fed’s September meeting minutes hinted at possible interest-rate cuts this year. No major economic reports ahead due to the government shutdown. Traders will watch key earnings from Delta Air Lines and PepsiCo. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Alberta teachers say ‘no’ to government’s latest contract, set to strike on Monday, disrupting classes for 700,000+ students Could your next pack of cigarettes be funding criminal networks? Inside Western Canada’s billion-dollar contraband trade Canada bars Irish rap band Kneecap from entry over alleged terrorism support Bank of Canada cuts interest rate to 2.5% as GDP shrinks, job market softens Beverly Thomson, veteran CTV journalist and Canada AM co-host, dies at 61 Seth Rogen wins Emmy Award for best lead actor in comedy series 'The Studio' Zach Bryan confronts Gavin Adcock at Oklahoma music festival after country singer criticism Weekend streaming guide Canada: top 10 Netflix, Crave, Disney+ and Apple TV+ shows September 2025 Canada pension and retirement benefits 2025: up to $2,461 in federal and provincial payments through December Molly McCann wins professional boxing debut despite opponent's illegal kick How Americans and a fake Fox News account accused Toronto retiree Michael Mallinson of assassinating Charlie Kirk Canadian bread price fixing settlement opens: $500m available for claims Canadian soldier found dead in Latvia during NATO operation reassurance deployment Starmer endorses UN seat as India-UK push for global peace & security Telangana government faces backlash over RTC fare hike 'Will bring down logistics cost to single digit by Dec': Gadkari India-UK trade deal boost ties in tech, defence, education Congress: Modi’s ‘he said, she said’ weakens India Jan Suraaj releases first list of 51 candidates Deadly cough syrup case: owner arrested Nitin Gadkari addresses 120th PHDCCI annual session PM Modi meets UK PM Keir Starmer in Mumbai Families rejoice as Israel-Hamas hostage deal brings hope Starmer endorses UN seat as India-UK push for global peace & security Telangana government faces backlash over RTC fare hike 'Will bring down logistics cost to single digit by Dec': Gadkari India-UK trade deal boost ties in tech, defence, education Congress: Modi’s ‘he said, she said’ weakens India Jan Suraaj releases first list of 51 candidates Deadly cough syrup case: owner arrested Nitin Gadkari addresses 120th PHDCCI annual session PM Modi meets UK PM Keir Starmer in Mumbai Families rejoice as Israel-Hamas hostage deal brings hope Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Most Searched IFSC Codes Top Story Listing Top Prime Articles Top Slideshow Private Companies Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: Stocks Muted Before the Open With Earnings Season in Focus
+URL: https://www.barchart.com/story/news/35331847/stocks-muted-before-the-open-with-focus-on-earnings-season
+Time Published: 2025-10-09T10:12:13Z
+Description: December S&P 500 E-Mini futures (ESZ25) are up +0.01%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.03% this morning, steadying after...
+--------------------------------------------------
+
+Title: Why Wall Street Analysts Say We’re Not in an AI Bubble… Yet
+URL: https://www.investopedia.com/wall-street-analysts-ai-bubble-stock-market-11826943
+Time Published: 2025-10-09T10:00:00Z
+Full Content:
+A spate of unusual deals within the AI ecosystem has recently fueled concern that the AI boom is actually an AI bubble, but some professional market watchers say this isn't 1999—at least not yet. OpenAI has vowed to spend hundreds of billions on Nvidia (NVDA) and Advanced Micro Devices (AMD) chips; in exchange, Nvidia will invest in OpenAI, and OpenAI will invest in AMD. Nvidia has invested in cloud providers Nebius (NBIS) and CoreWeave (CRWV), both of which buy its chips, and agreed with the latter to buy all of its unused computing capacity through 2032. These deals are just a few threads in a growing web of entanglements connecting chipmakers, cloud providers and AI model makers. Artificial intelligence excitement has been the main driver of stock market returns for the past three years, increasing the weight of big tech stocks in most portfolios. Until companies can demonstrate AI is contributing to the bottom line, the AI rally will depend on investors remaining optimistic about future returns. Skeptics warn these circular deals are evidence of an artificial intelligence bubble forming. They argue that Nvidia, through investments in the companies buying and renting its chips, is subsidizing the AI build-out, and artificially overstating the strength of AI demand in the process. But many on Wall Street disagree, including analysts at Bank of America and Goldman Sachs, who cast doubt on the bubble narrative in notes published Wednesday. “We believe the recent concerns re AI financing are highly overstated,” wrote BofA semiconductor equity analyst Vivek Arya, who doesn’t expect circular deals to account for more than 5% to 10% of the $5 trillion that is likely to be spent on AI by 2030. Though, it’s worth noting that by BofA’s calculation, OpenAI will have to spend between $500 and $600 billion on infrastructure as part of its Nvidia deal alone; add in its commitments to AMD and Oracle (ORCL), and the startup has agreed to spend about $1 trillion on cloud computing in the coming years. OpenAI’s centrality to the recent spate of deals has concerned some onlookers. The ChatGPT maker recently became the world’s most valuable startup, valued at $500 billion, and is in the process of becoming a for-profit company. Still, it anticipates burning through $115 billion on the road to profitability, which isn’t expected to happen until the end of this decade at the earliest. However, Arya notes that OpenAI, while a big player in the AI boom, is “only one of multiple (5-10) ecosystems including the four large US hyperscalers, Tesla/xAI, multiple sovereign buildouts (Middle East, Asia), 100+ neoclouds that do not require or have disclosed minimal vendor financing.” Skeptics have repeatedly pointed to the stock prices of the Magnificent Seven—Nvidia, Microsoft (MSFT), Apple (AAPL), Alphabet (GOOG), Amazon (AMZN), Meta (META), and Tesla (TSLA)—as evidence of a burgeoning bubble. The ten largest companies in the U.S., including all of the Mag 7, cumulatively account for a quarter of global equity market value. “This degree of concentration is, in our view, unsustainable,” wrote Goldman Sachs analysts in a note on Wednesday, “but this is not the same as saying that we are experiencing a bubble.” Goldman identifies three common components of financial bubbles: “rapidly rising asset prices, extreme valuations and rising significant systemic risks driven by increased leverage.” While the Mag 7 stocks have soared over the past three years, Goldman notes that their valuations remain modest compared with the lead up to the Dotcom bubble, in part because their stock prices reflect “powerful and sustained profit growth rather than excessive speculation about the future.” Another difference between then and now is that the companies fueling the AI boom with their spending have unusually strong balance sheets, cash flows and hugely profitable businesses not tied to AI. That has allowed them to fund their buildouts with existing revenue streams rather than equity and debt, which reduces the risk that a sudden shock to the AI ecosystem halts AI investment, forces a sharp revaluation of related assets, and ripples through the broader economy. Though, Goldman concedes that, while we’re not currently in a bubble, a few developing trends suggest we’re headed there. Big tech’s debt issuance picked up this year as cash reserves dwindled, suggesting systemic risk may be increasing. More companies have gone public to cash in on the AI frenzy, and investors have eaten the new offerings up. “The starting day premiums for new issues has reached an average of 30% in the US,” the highest since the Dotcom bubble, according to Goldman.
 --------------------------------------------------
 
 Title: NVIDIA Corporation (NVDA): Analyst Sees Upside to 2026 Estimates
@@ -205,109 +308,4 @@ Title: Nvidia CEO Jensen Huang Calls AMD's 10% OpenAI Stake Offer Surprising but
 URL: https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-calls-165724205.html
 Time Published: 2025-10-08T16:57:24Z
 Description: Huang says AMD's deal is imaginative but risky as competition intensifies in AI chips
---------------------------------------------------
-
-Title: NVDA: Nvidia Stock Climbs After Joining Musk's $20 Billion AI Funding Push
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aed1665d-e196-4644-b693-290eae681240
-Time Published: 2025-10-08T16:11:28Z
-Description: None
---------------------------------------------------
-
-Title: Can AMD Stock Keep Flying After an 85% Takeoff?
-URL: https://www.barchart.com/story/news/35314140/can-amd-stock-keep-flying-after-an-85-takeoff
-Time Published: 2025-10-08T15:58:34Z
-Description: AMD’s long-term catalysts are compelling. However, after a 76% rally, AMD isn’t cheap.
---------------------------------------------------
-
-Title: US stock market today: Dow, S&P 500 and Nasdaq rally as Nvidia’s xAI deal lifts AI stocks; here’s top stocks to watch amid Fed minutes and Powell speech
-URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-dow-sp-500-and-nasdaq-rally-as-nvidias-xai-deal-lifts-ai-stocks-heres-top-stocks-to-watch-amid-fed-minutes-and-powell-speech/articleshow/124390585.cms
-Time Published: 2025-10-08T15:47:55Z
-Full Content:
-US stock market jumps today. Investors are cautious but optimistic. Dow Jones rose 3% while the S&P 500 climbed 0.5%, and the Nasdaq led with a 0.7% increase. Small caps on the Russell 2000 also advanced by 0.6%. Nvidia’s $2B xAI deal with Elon Musk lifted AI stocks. The Federal Reserve’s upcoming decisions and the government shutdown keep traders alert. Market volatility is expected, but recovery signs are clear. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Alberta teachers say ‘no’ to government’s latest contract, set to strike on Monday, disrupting classes for 700,000+ students Could your next pack of cigarettes be funding criminal networks? Inside Western Canada’s billion-dollar contraband trade Canada bars Irish rap band Kneecap from entry over alleged terrorism support Bank of Canada cuts interest rate to 2.5% as GDP shrinks, job market softens Beverly Thomson, veteran CTV journalist and Canada AM co-host, dies at 61 Seth Rogen wins Emmy Award for best lead actor in comedy series 'The Studio' Zach Bryan confronts Gavin Adcock at Oklahoma music festival after country singer criticism Weekend streaming guide Canada: top 10 Netflix, Crave, Disney+ and Apple TV+ shows September 2025 Canada pension and retirement benefits 2025: up to $2,461 in federal and provincial payments through December Molly McCann wins professional boxing debut despite opponent's illegal kick How Americans and a fake Fox News account accused Toronto retiree Michael Mallinson of assassinating Charlie Kirk Canadian bread price fixing settlement opens: $500m available for claims Canadian soldier found dead in Latvia during NATO operation reassurance deployment RBI unveils ULI, CBDC Sandbox, and CD tokenisation at GFF 2025 India is ‘digital flag bearer of the world’, says Scindia at IMC 2025 India’s longest fully underground metro line opens PM Modi slams Congress over 26/11: ‘Weakness strengthened terrorists’ Mamata hits back over flood row and attack on Khagen Murmu India-UK relations enter new era as PM Keir Starmer lands in Mumbai Hair Stylist Javed Habib faces 20 FIRs over multi-crore crypto scam Watch as Bihar Congress chief breaks down over attack on CJI BR Gavai ‘Trump declared war on Chicago’: Mayor Johnson hits back over ICE raids Ukrainian media reports capture of Indian national RBI unveils ULI, CBDC Sandbox, and CD tokenisation at GFF 2025 India is ‘digital flag bearer of the world’, says Scindia at IMC 2025 India’s longest fully underground metro line opens PM Modi slams Congress over 26/11: ‘Weakness strengthened terrorists’ Mamata hits back over flood row and attack on Khagen Murmu India-UK relations enter new era as PM Keir Starmer lands in Mumbai Hair Stylist Javed Habib faces 20 FIRs over multi-crore crypto scam Watch as Bihar Congress chief breaks down over attack on CJI BR Gavai ‘Trump declared war on Chicago’: Mayor Johnson hits back over ICE raids Ukrainian media reports capture of Indian national Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Prime Articles Private Companies Top Commodities Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Stocks Climb as AI Investment Accelerates
-URL: https://www.barchart.com/story/news/35313091/stocks-climb-as-ai-investment-accelerates
-Time Published: 2025-10-08T15:23:17Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.36%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: The 6%+ Dividends To Buy As AI Surges And Layoffs Arrive
-URL: https://www.forbes.com/sites/brettowens/2025/10/08/the-6-dividends-to-buy-as-ai-surges-and-layoffs-arrive/
-Time Published: 2025-10-08T14:40:00Z
-Full Content:
-ByBrett Owens, Contributor. By now, it’s glaringly obvious: AI is replacing workers. And it’s boosting corporate bottom lines as it does. I call this the “growth-without-hiring” trend, and it’s accelerating. Today we’re going to grab our share in the form of big dividends (up to 8.1%) and upside, too. The latest evidence that “growth without hiring” is the real deal? The September ADP payrolls report, which showed that companies cut 32,000 positions. The August numbers were also revised to 3,000 losses, not the 54,000 gains originally reported. With numbers like those, you’d expect the US to be in recession, or close to it. Nope. According to the Atlanta Fed’s up-to-the-minute GDPNow indicator, the economy grew a fit 3.8% annualized in the just-completed third quarter. Numbers from companies themselves back up this shift. IT consulting firm Accenture plc (ACN), for example, laid off more than 11,000 employees in the last three months and has said more cuts are coming as part of its AI-focused restructuring. But while Accenture’s workers pack their banker’s boxes, its profits are soaring: In its fiscal 2025 fourth quarter, revenue jumped 7%. For fiscal 2026, it expects a 2% to 5% revenue boost and a 5% to 8% increase in adjusted EPS. (Too bad ACN’s 2.6% divvie isn’t enough to get our hearts racing.) We’ve talked about this trend before, first in tech and then as it’s spread into other industries, including insurance and even agriculture. And this is where our dividend opportunity comes in, including that shot at payouts up to 8.1%. To be sure, that payout is not coming from the popular AI plays. I probably don’t have to tell you that NVIDIA (NVDA), Microsoft (MSFT), Alphabet (GOOGL) and Meta Platforms (META) pay somewhere between nothing and almost nothing. Instead, we’re buying through closed-end funds (CEFs), for three reasons: That last point is vital because most of the profits from AI will flow to companies that use the tech, rather than those that develop it. Accenture is a good example, but think of insurers using AI to read medical records and process claims in minutes. Or banks using it to make better decisions on exactly who they want to lend to—and who they don’t. With that, here are three CEFs that come at it through developers, users and (our sweetest dividend deal of the three) firms feeding AI’s bottomless power demand. QQQX, as the name says, holds the stocks in the tech-heavy NASDAQ 100. But unlike index funds, it pays a big dividend: to the tune of 8.1%. The fund can pay that high divvie thanks to its strategy of selling call options on its portfolio. Under this scheme, it sells option buyers the right to buy its stocks in the future at a fixed price. It keeps the fee it charges for that right. Hence, that healthy 8.1% payout. This strategy generates the most cash when markets are volatile, and more volatility is likely, considering the rocket ride stocks have been on. QQQX’s portfolio includes all the big tech kingpins, plus some firms on the user side of AI, too, like travel-site operator Booking Holdings (BKG), which uses AI to help travelers save time by letting them ask specific questions about a vacation property—like whether it has a beach view, for example. It also offers an AI summary of reviews. No more endless scrolling. The fund also sports an 8.2% discount as I write this, which is good … but not quite as good as it was earlier this year, when it sunk to double digits: That’s why I rate QQQX, a holding in my Contrarian Income Report advisory, a hold for now. Once it flips to a buy in our portfolio, members of the service will know right away. “Growth-Without-Hiring” Dividend #2: Kayne Anderson Energy Infrastructure Fund (KYN) Artificial intelligence is supposed to be graceful, just code humming in the cloud. Yet it’s anything but lightweight. AI is an energy hog. Every time a chatbot like ChatGPT spits out an answer, it pulls from enormous racks of servers running in data centers. Those servers draw power on the scale of small cities. AI can’t happen without natural gas. Renewables are growing, for sure, but most new data centers are still tied to gas-fired plants. Gas is abundant and reliable, and it fires up quickly when demand surges. Which means every new AI deployment is more business for the gas lines feeding those power plants. KYN is a savvy CEF play on this situation, sporting a portfolio that reads like a who’s-who of big US pipeline operators, including Kinder Morgan (KMI), ONEOK (OKE) and master limited partnerships (MLPs) like Energy Transfer LP (ET) and Enterprise Products Partners LP (EPD). (Bonus: With KYN, you get a simple form 1099 for reporting your dividends at tax time, not the complicated K-1 package you—or your accountant—would have to deal with if you bought these MLPs “direct”.) KYN collects “tolls” on the gas flowing through its holdings’ pipes and hands them to us as a 7.5% divvie. And while plenty of investors have made the connection between AI’s power needs and utility stocks, they haven’t yet made the leap to pipelines. That’s handed us “second-level” thinkers a likely-time-limited chance to buy KYN an 11%-off deal that’s actually gotten cheaper this year: My take? It’s only a matter of time before the “first-level” crowd realizes just how good AI will be for gas pipelines—and sends that discount hurtling toward a premium. GDV focuses on innovators from across the economy—particularly finance stocks—set to cash in as they integrate AI into their businesses. Top holdings include Mastercard (MA), JPMorgan Chase & Co. (JPM) and American Express (AXP). GDV yields 6.2% and hasn’t cut its payout since the 2008 financial crisis. The fund’s discount had been narrowing lately, but it recently widened to 11%, giving us another chance to get in cheap: I expect that discount to keep shrinking as AI optimizes sectors like finance. GDV is an especially sweet deal when you consider that the fund has been outperforming the S&P 500 on a total-return basis this year: 18% to 15% as I write this. Throw in a tailwind from “growth-without-hiring”—especially as the trend spreads from tech to other parts of the economy—and you get a sense of the opportunity for upside (and high, steady dividends) here. Brett Owens is Chief Investment Strategist for Contrarian Outlook. For more great income ideas, get your free copy his latest special report: How to Live off Huge Monthly Dividends (up to 7.6%) — Practically Forever. Disclosure: none
---------------------------------------------------
-
-Title: Goldman Sachs on the one thing that could turn the rally into a bubble
-URL: https://www.marketwatch.com/story/heres-whats-keeping-goldmans-worries-over-a-stock-bubble-at-bay-for-now-a7a219c5
-Time Published: 2025-10-08T14:25:00Z
-Description: Goldman Sachs strategists have taken a deep dive into current stock bubble worries for investors. They argue the puzzle pieces aren’t in place yet.
---------------------------------------------------
-
-Title: NVIDIA Gains Cramer’s Backing with OpenAI Partnership and Next-Gen Chip Confidence
-URL: https://finance.yahoo.com/news/nvidia-gains-cramer-backing-openai-141928400.html
-Time Published: 2025-10-08T14:19:28Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of Jim Cramer’s Recession-Proof Stock Picks. Cramer expresses confidence in the next generation of chips as the...
---------------------------------------------------
-
-Title: Stocks Supported by AI Optimism and Lower Bond Yields
-URL: https://www.barchart.com/story/news/35310693/stocks-supported-by-ai-optimism-and-lower-bond-yields
-Time Published: 2025-10-08T14:04:15Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.38%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.20%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Analyst Says Concerns About NVIDIA (NVDA) ‘Circle of CapEx Spending’ Are Not ‘Accurate’
-URL: https://finance.yahoo.com/news/analyst-says-concerns-nvidia-nvda-130537234.html
-Time Published: 2025-10-08T13:05:37Z
-Description: We recently published Top 10 Trending Stocks as Famous Billionaire Predicts Massive AI Stock Rally Before Bubble Burst. NVIDIA Corp (NASDAQ:NVDA) is one of...
---------------------------------------------------
-
-Title: Goldman Sachs strategist: No stock market bubble, yet
-URL: https://finance.yahoo.com/news/goldman-sachs-strategist-no-stock-market-bubble-yet-130324119.html
-Time Published: 2025-10-08T13:03:24Z
-Description: The bank says tech valuations are stretched but not all levels are consistent with past cycles
---------------------------------------------------
-
-Title: Bubble or not, AI is continues to draw billions in investments
-URL: https://finance.yahoo.com/news/bubble-or-not-ai-continues-to-draw-billions-in-investments-124713161.html
-Time Published: 2025-10-08T12:47:13Z
-Description: Whether we're in an AI bubble or not, the investments will eventually pay off.
---------------------------------------------------
-
-Title: Nvidia Forms First Direct Partnership With OpenAI
-URL: https://finance.yahoo.com/news/nvidia-forms-first-direct-partnership-120217274.html
-Time Published: 2025-10-08T12:02:17Z
-Description: Company to invest $100 billion in AI infrastructure buildout
---------------------------------------------------
-
-Title: Analysts at Melius See Nvidia’s (NVDA) Growth Concerns as “Overblown,” Maintain Buy Rating
-URL: https://finance.yahoo.com/news/analysts-melius-see-nvidia-nvda-100309167.html
-Time Published: 2025-10-08T10:03:09Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Shaping Wall Street’s Next Big Rally. On October 6, Melius Research raised its price target on the...
---------------------------------------------------
-
-Title: Thinking of buying gold? Here's what investors should watch for.
-URL: https://finance.yahoo.com/personal-finance/investing/article/risks-for-gold-investors-100015304.html
-Time Published: 2025-10-08T10:00:15Z
-Description: Gold has the same high-level risk as any investment. Would-be gold investors should understand the risks associated with price, speculation, opportunity cost...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise, gold rally roars on with Fed minutes on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-gold-rally-roars-on-with-fed-minutes-on-deck-231516964.html
-Time Published: 2025-10-07T23:15:16Z
-Description: Wall Street braced for the release of minutes from the Federal Reserve's September meeting.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures edge up, gold rally roars on ahead of Fed minutes
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-gold-rally-roars-on-ahead-of-fed-minutes-231516412.html
-Time Published: 2025-10-07T23:15:16Z
-Description: Wall Street braced for the release of minutes from the Federal Reserve's September meeting.
---------------------------------------------------
-
-Title: These Stocks Score From AMD's OpenAI Deal, Wall Street Analysts Say
-URL: https://www.investopedia.com/these-stocks-score-from-amd-openai-deal-wall-street-analysts-say-11825690
-Time Published: 2025-10-07T19:55:57Z
-Full Content:
-Advanced Micro Devices (AMD) has a number of partners that could be set to benefit from its big deal with OpenAI, according to Wall Street analysts. The ChatGPT maker committed to buying several generations of AMD's AI chips, sending shares of the semiconductor firm up 24% yesterday and another 4% on Tuesday. The announcement also boosted shares of Super Micro Computer (SMCI), Astera Labs (ALAB), Dell Technologies (DELL), and others that have business with AMD. J.P. Morgan analysts said in a note to clients Tuesday that they see current AMD partners and AI server makers Supermicro, Dell, and Hewlett Packard Enterprise (HPE) as poised to gain from the deal. They also highlighted Arista Networks (ANET) and Sanmina (SANM), which earlier this year agreed to buy ZT Systems’ Data Center Infrastructure manufacturing business from AMD and became a preferred manufacturing partner as part of the agreement. Several analysts suggested AMD's deal could be taken as a positive signal for the semiconductor sector and AI trade broadly, though they pointed to some of AMD's networking partners as more direct beneficiaries. The deal underscores the wide-ranging impact of the surge in AI demand on companies and stocks, with analysts likening the AI boom to a rising tide that lifts all boats. "While the announcements till date from OpenAI have largely focused on tight partnerships with semiconductor companies, we expect to see similar partnerships with Hardware and Networking companies as critical to scaling infrastructure," J.P. Morgan said. Citi analysts said they see AMD's OpenAI agreement as presenting a positive read-through for memory chip maker Micron Technology (MU) and Astera Labs as well. Astera, which supplies connectivity solutions for AI data centers and counts Nvidia (NVDA) and AMD as customers, saw its stock pop 10% Monday, before pulling back Tuesday.
 --------------------------------------------------

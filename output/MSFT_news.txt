@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: IBM Is Racking Up Agentic AI Deals. Is IBM Stock a Buy, Sell, or Hold for October 2025?
+URL: https://www.barchart.com/story/news/35346194/ibm-is-racking-up-agentic-ai-deals-is-ibm-stock-a-buy-sell-or-hold-for-october-2025
+Time Published: 2025-10-09T17:40:49Z
+Description: IBM continues to expand its AI ecosystem with yet another major partnership. Is IBM stock still a good buy right now?
+--------------------------------------------------
+
 Title: US stock market today: Dow falls, S&P 500 and Nasdaq pull back after record highs - Investors paused amid AI bubble fears, a federal shutdown, and Powell’s upcoming remarks
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-dow-falls-sp-500-and-nasdaq-pull-back-after-record-highs-investors-paused-amid-ai-bubble-fears-a-federal-shutdown-and-powells-upcoming-remarks/articleshow/124424684.cms
 Time Published: 2025-10-09T16:05:37Z
@@ -11,6 +17,24 @@ Title: Nvidia stock climbs amid reported UAE export approval, Wall Street price 
 URL: https://finance.yahoo.com/news/nvidia-stock-climbs-amid-reported-uae-export-approval-wall-street-price-target-raise-this-is-not-a-bubble-154018275.html
 Time Published: 2025-10-09T15:40:18Z
 Description: Nvidia stock hit an intraday record high as Bloomberg reported the US government approved the tech leader's chip exports to the UAE.
+--------------------------------------------------
+
+Title: Nvidia stock climbs to record amid reported UAE export approval, price target raise: 'This is not a bubble'
+URL: https://finance.yahoo.com/news/nvidia-stock-climbs-to-record-amid-reported-uae-export-approval-price-target-raise-this-is-not-a-bubble-154018663.html
+Time Published: 2025-10-09T15:40:18Z
+Description: Nvidia stock hit an intraday record high as Bloomberg reported that the US government approved the tech leader's chip exports to the UAE.
+--------------------------------------------------
+
+Title: Should You Buy, Sell, or Hold CoreWeave Stock for October 2025?
+URL: https://www.barchart.com/story/news/35338245/should-you-buy-sell-or-hold-coreweave-stock-for-october-2025
+Time Published: 2025-10-09T13:00:02Z
+Description: With multi-billion-dollar AI deals potentially reshaping CoreWeave’s trajectory, is it time to buy CRWV stock?
+--------------------------------------------------
+
+Title: Stocks Muted Before the Open With Earnings Season in Focus
+URL: https://www.barchart.com/story/news/35331847/stocks-muted-before-the-open-with-focus-on-earnings-season
+Time Published: 2025-10-09T10:12:13Z
+Description: December S&P 500 E-Mini futures (ESZ25) are up +0.01%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.03% this morning, steadying after...
 --------------------------------------------------
 
 Title: Top Stock Movers Today: AMD, Dell and CoreWeave

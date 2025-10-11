@@ -19,8 +19,8 @@ Time Published: 2025-10-07T21:16:43Z
 Description: TORONTO — Canada’s main stock index finished in negative territory, while U.S. markets also fell as gold prices reached new highs. Kevin Burkett, portfolio manager at Victoria-based Burkett Asset Management, said Tuesday’s trading session marked a “quiet day.…
 --------------------------------------------------
 
-Title: Stock market today: Dow falls whiS&P 500, Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-whisp-500-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132036.html
+Title: Stock market today: Dow falls, S&P 500 and Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-sp-500-and-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132590.html
 Time Published: 2025-10-06T13:31:32Z
 Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
 --------------------------------------------------
@@ -31,14 +31,8 @@ Time Published: 2025-10-06T13:31:32Z
 Description: US stock futures tick upwards despite the government shutdown.
 --------------------------------------------------
 
-Title: Stock market today: Dow falls, S&P 500 and Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-sp-500-and-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132590.html
+Title: Stock market today: Dow falls whiS&P 500, Nasdaq rise as AMD surges on OpenAI deal, shutdown drags on
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-whisp-500-nasdaq-rise-as-amd-surges-on-openai-deal-shutdown-drags-on-133132036.html
 Time Published: 2025-10-06T13:31:32Z
 Description: Eyes are on upbeat prospects for AI even as the federal shutdown delays key economic releases.
---------------------------------------------------
-
-Title: Make a 4.5% One-Month Yield Shorting Shopify Cash-Secured OTM Puts
-URL: https://www.barchart.com/story/news/35242793/make-a-4-5-one-month-yield-shorting-shopify-cash-secured-otm-puts
-Time Published: 2025-10-05T13:30:02Z
-Description: A Shopify cash-secured put option play offers a one-month yield of 4.5%. The put strike price is also 7% below the stock price. This play offers good...
 --------------------------------------------------

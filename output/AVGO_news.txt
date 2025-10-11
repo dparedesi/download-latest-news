@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: KeyBanc Reaffirms Buy on Broadcom (AVGO) Ahead of Earnings, Citing Strong AI Demand
+URL: https://finance.yahoo.com/news/keybanc-reaffirms-buy-broadcom-avgo-211211287.html
+Time Published: 2025-10-09T21:12:11Z
+Description: Broadcom Inc. (NASDAQ:AVGO) is one of the Trending AI Stocks on Wall Street’s Radar. On October 6, KeyBanc reiterated an Overweight rating and $420.00 price ...
+--------------------------------------------------
+
 Title: Stacy Rasgon on Broadcom (AVGO), Other Major AI Stocks: No Sustainability Worries in Short Term
 URL: https://finance.yahoo.com/news/stacy-rasgon-broadcom-avgo-other-133146589.html
 Time Published: 2025-10-09T13:31:46Z
@@ -121,16 +127,4 @@ Title: Advanced Micro Devices Explodes on OpenAI Pact, But is AMD the Best AI Ch
 URL: https://www.barchart.com/story/news/35253836/advanced-micro-devices-explodes-on-openai-pact-but-is-amd-the-best-ai-chip-stock-to-buy-now
 Time Published: 2025-10-06T13:06:04Z
 Description: By some measures, Nvidia stock still looks cheaper than underdog rival AMD, which is spiking this morning after partnering with Sam Altman’s company.
---------------------------------------------------
-
-Title: Jim Cramer Was Right About Broadcom (AVGO)
-URL: https://finance.yahoo.com/news/jim-cramer-broadcom-avgo-144141760.html
-Time Published: 2025-10-05T14:41:41Z
-Description: We recently published 10 Stocks Wall Street is Watching Heading into October. Broadcom Inc. (NASDAQ:AVGO) is one of the stocks Wall Street is watching. Near ...
---------------------------------------------------
-
-Title: KeyBanc Capital Lifts Broadcom Inc. (AVGO) Price Target amid Growing AI Opportunity
-URL: https://finance.yahoo.com/news/keybanc-capital-lifts-broadcom-inc-064231417.html
-Time Published: 2025-10-05T06:42:31Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of the best stocks to buy right now, according to Nancy Pelosi. On September 30, KeyBanc Capital Markets reiterated an...
 --------------------------------------------------

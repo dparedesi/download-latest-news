@@ -1,5 +1,11 @@
 List of news related to Bank of America stock price BAC:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq inch higher as shutdown drags on
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-inch-higher-as-shutdown-drags-on-232721490.html
+Time Published: 2025-10-09T23:27:21Z
+Description: Markets have had an uncertain week, pulled in different directions by AI demand hopes and US government shutdown worries.
+--------------------------------------------------
+
 Title: Stock market today: S&P 500, Nasdaq resume record rally as gold jumps, Fed minutes point to more rate cuts
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-resume-record-rally-as-gold-jumps-fed-minutes-point-to-more-rate-cuts-200208111.html
 Time Published: 2025-10-08T20:02:08Z
