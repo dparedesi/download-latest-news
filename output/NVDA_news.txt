@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Jim Cramer Defends NVIDIA (NVDA) After AMD’s OpenAI Deal
+URL: https://finance.yahoo.com/news/jim-cramer-defends-nvidia-nvda-013536690.html
+Time Published: 2025-10-10T01:35:36Z
+Description: We recently published 16 Stocks Jim Cramer Mentioned In An Episode Where He Said OpenAI Could Beat All Big Tech Giants. NVIDIA Corporation (NASDAQ:NVDA) is...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq inch higher as shutdown drags on
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-inch-higher-as-shutdown-drags-on-232721490.html
 Time Published: 2025-10-09T23:27:21Z
@@ -302,10 +308,4 @@ URL: https://www.investopedia.com/top-stock-movers-now-nvidia-amd-dell-fair-isaa
 Time Published: 2025-10-08T17:28:23Z
 Full Content:
 Major U.S. equities indexes climbed Wednesday as enthusiasm for artificial intelligence stocks boosted the tech sector. The Dow, S&P 500, and Nasdaq all gained. Nvidia (NVDA) shares rose after CEO Jensen Huang said in a televised interview with CNBC that AI demand is up "substantially" this year, and that he expects it to grow further. Shares of rival chipmaker Advanced Micro Devices (AMD) led gains on the S&P 500, adding to their recent rally in the wake of a deal with OpenAI. Dell Technology (DELL) also jumped, after the server maker reported yesterday that it sees a “massive” growth opportunity in AI as it raised its outlook. AST SpaceMobile (ASTS) shares soared to a record high as the provider of space-based cellphone service and Verizon Communications (VZ) agreed on a partnership to offer direct-to-customer broadband service across the continental U.S. Credit score data provider Fair Isaac (FICO) was the worst-performing stock in the S&P 500 after score reporter Equifax (EFX) slashed prices in response to Fair Isaac providing its information directly to firms that give credit reports to mortgage companies. Equifax shares advanced. DaVita (DVA) shares declined as Barclays lowered its price target for the kidney dialysis service provider's stock, pointing to a cyberattack that disrupted operations in August. Gold prices high a fresh high, and oil futures climbed. The yield on the 10-year Treasury note dropped. The U.S. dollar was higher versus the euro, pound, and yen. Most major cryptocurrencies traded lower.
---------------------------------------------------
-
-Title: Nvidia CEO Jensen Huang Calls AMD's 10% OpenAI Stake Offer Surprising but Clever
-URL: https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-calls-165724205.html
-Time Published: 2025-10-08T16:57:24Z
-Description: Huang says AMD's deal is imaginative but risky as competition intensifies in AI chips
 --------------------------------------------------
