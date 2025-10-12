@@ -1,5 +1,17 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Barclays Raises AMD (AMD) Price Target to $300, Citing OpenAI Partnership Upside
+URL: https://finance.yahoo.com/news/barclays-raises-amd-amd-price-133407134.html
+Time Published: 2025-10-11T13:34:07Z
+Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the AI Stocks In The Spotlight For Investors. On October 6, Barclays raised its price target on the stock...
+--------------------------------------------------
+
+Title: Astera Labs (ALAB) Gets Street-High Price Target as Citi Sees Major AI Upside
+URL: https://finance.yahoo.com/news/astera-labs-alab-gets-street-123459642.html
+Time Published: 2025-10-11T12:34:59Z
+Description: Astera Labs, Inc. (NASDAQ:ALAB) is one of the AI Stocks In The Spotlight For Investors. On October 7, Citi set a Street-high $275 price target on the stock...
+--------------------------------------------------
+
 Title: China's lesson for the US: it takes more than chips to win the AI race
 URL: https://finance.yahoo.com/news/chinas-lesson-us-takes-more-093000938.html
 Time Published: 2025-10-11T09:30:00Z
