@@ -52,14 +52,14 @@ Time Published: 2025-10-07T15:13:08Z
 Description: Wall Street weighed worries over the government shutdown against bright hopes for AI.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq tick higher after records as gold tops $4,000
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-tick-higher-after-records-as-gold-tops-4000-133157872.html
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble after records as gold tops $4,000
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-after-records-as-gold-tops-4000-133157868.html
 Time Published: 2025-10-07T13:31:57Z
 Description: Wall Street weighed worries over the government shutdown against bright hopes for AI.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq wobble after records as gold tops $4,000
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-after-records-as-gold-tops-4000-133157868.html
+Title: Stock market today: S&P 500, Nasdaq tick higher after records as gold tops $4,000
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-tick-higher-after-records-as-gold-tops-4000-133157872.html
 Time Published: 2025-10-07T13:31:57Z
 Description: Wall Street weighed worries over the government shutdown against bright hopes for AI.
 --------------------------------------------------

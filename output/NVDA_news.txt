@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: 'Circular' AI Mega-Deals by AI and Hardware Giants are Raising Eyebrows
+URL: https://slashdot.org/story/25/10/11/1819237/circular-ai-mega-deals-by-ai-and-hardware-giants-are-raising-eyebrows
+Time Published: 2025-10-11T18:34:00Z
+Description: "Nvidia is investing billions in and selling chips to OpenAI, which is also buying chips from and earning stock in AMD," writes SFGate. "AMD sells processors to Oracle, which is building data centers with OpenAI — which also gets data center work from CoreWea…
+--------------------------------------------------
+
 Title: Jim Cramer Says “I’ve Been Telling People to Just Buy NVIDIA”
 URL: https://finance.yahoo.com/news/jim-cramer-says-ve-telling-140316411.html
 Time Published: 2025-10-11T14:03:16Z
@@ -168,16 +174,16 @@ Time Published: 2025-10-09T15:45:16Z
 Description: Significant demand for AI compute and Nvidia’s leadership in AI hardware provide a solid base for future growth.
 --------------------------------------------------
 
-Title: Nvidia stock climbs amid reported UAE export approval, Wall Street price target raise: 'This is not a bubble'
-URL: https://finance.yahoo.com/news/nvidia-stock-climbs-amid-reported-uae-export-approval-wall-street-price-target-raise-this-is-not-a-bubble-154018275.html
-Time Published: 2025-10-09T15:40:18Z
-Description: Nvidia stock hit an intraday record high as Bloomberg reported the US government approved the tech leader's chip exports to the UAE.
---------------------------------------------------
-
 Title: Nvidia stock climbs to record amid reported UAE export approval, price target raise: 'This is not a bubble'
 URL: https://finance.yahoo.com/news/nvidia-stock-climbs-to-record-amid-reported-uae-export-approval-price-target-raise-this-is-not-a-bubble-154018663.html
 Time Published: 2025-10-09T15:40:18Z
 Description: Nvidia stock hit an intraday record high as Bloomberg reported that the US government approved the tech leader's chip exports to the UAE.
+--------------------------------------------------
+
+Title: Nvidia stock climbs amid reported UAE export approval, Wall Street price target raise: 'This is not a bubble'
+URL: https://finance.yahoo.com/news/nvidia-stock-climbs-amid-reported-uae-export-approval-wall-street-price-target-raise-this-is-not-a-bubble-154018275.html
+Time Published: 2025-10-09T15:40:18Z
+Description: Nvidia stock hit an intraday record high as Bloomberg reported the US government approved the tech leader's chip exports to the UAE.
 --------------------------------------------------
 
 Title: Nvidia CEO Is Surprised by AMD’s OpenAI Equity Move: What’s in Store for NVDA Stock?
@@ -304,10 +310,4 @@ URL: https://www.investopedia.com/wall-street-analysts-ai-bubble-stock-market-11
 Time Published: 2025-10-09T10:00:00Z
 Full Content:
 A spate of unusual deals within the AI ecosystem has recently fueled concern that the AI boom is actually an AI bubble, but some professional market watchers say this isn't 1999—at least not yet. OpenAI has vowed to spend hundreds of billions on Nvidia (NVDA) and Advanced Micro Devices (AMD) chips; in exchange, Nvidia will invest in OpenAI, and OpenAI will invest in AMD. Nvidia has invested in cloud providers Nebius (NBIS) and CoreWeave (CRWV), both of which buy its chips, and agreed with the latter to buy all of its unused computing capacity through 2032. These deals are just a few threads in a growing web of entanglements connecting chipmakers, cloud providers and AI model makers. Artificial intelligence excitement has been the main driver of stock market returns for the past three years, increasing the weight of big tech stocks in most portfolios. Until companies can demonstrate AI is contributing to the bottom line, the AI rally will depend on investors remaining optimistic about future returns. Skeptics warn these circular deals are evidence of an artificial intelligence bubble forming. They argue that Nvidia, through investments in the companies buying and renting its chips, is subsidizing the AI build-out, and artificially overstating the strength of AI demand in the process. But many on Wall Street disagree, including analysts at Bank of America and Goldman Sachs, who cast doubt on the bubble narrative in notes published Wednesday. “We believe the recent concerns re AI financing are highly overstated,” wrote BofA semiconductor equity analyst Vivek Arya, who doesn’t expect circular deals to account for more than 5% to 10% of the $5 trillion that is likely to be spent on AI by 2030. Though, it’s worth noting that by BofA’s calculation, OpenAI will have to spend between $500 and $600 billion on infrastructure as part of its Nvidia deal alone; add in its commitments to AMD and Oracle (ORCL), and the startup has agreed to spend about $1 trillion on cloud computing in the coming years. OpenAI’s centrality to the recent spate of deals has concerned some onlookers. The ChatGPT maker recently became the world’s most valuable startup, valued at $500 billion, and is in the process of becoming a for-profit company. Still, it anticipates burning through $115 billion on the road to profitability, which isn’t expected to happen until the end of this decade at the earliest. However, Arya notes that OpenAI, while a big player in the AI boom, is “only one of multiple (5-10) ecosystems including the four large US hyperscalers, Tesla/xAI, multiple sovereign buildouts (Middle East, Asia), 100+ neoclouds that do not require or have disclosed minimal vendor financing.” Skeptics have repeatedly pointed to the stock prices of the Magnificent Seven—Nvidia, Microsoft (MSFT), Apple (AAPL), Alphabet (GOOG), Amazon (AMZN), Meta (META), and Tesla (TSLA)—as evidence of a burgeoning bubble. The ten largest companies in the U.S., including all of the Mag 7, cumulatively account for a quarter of global equity market value. “This degree of concentration is, in our view, unsustainable,” wrote Goldman Sachs analysts in a note on Wednesday, “but this is not the same as saying that we are experiencing a bubble.” Goldman identifies three common components of financial bubbles: “rapidly rising asset prices, extreme valuations and rising significant systemic risks driven by increased leverage.” While the Mag 7 stocks have soared over the past three years, Goldman notes that their valuations remain modest compared with the lead up to the Dotcom bubble, in part because their stock prices reflect “powerful and sustained profit growth rather than excessive speculation about the future.” Another difference between then and now is that the companies fueling the AI boom with their spending have unusually strong balance sheets, cash flows and hugely profitable businesses not tied to AI. That has allowed them to fund their buildouts with existing revenue streams rather than equity and debt, which reduces the risk that a sudden shock to the AI ecosystem halts AI investment, forces a sharp revaluation of related assets, and ripples through the broader economy. Though, Goldman concedes that, while we’re not currently in a bubble, a few developing trends suggest we’re headed there. Big tech’s debt issuance picked up this year as cash reserves dwindled, suggesting systemic risk may be increasing. More companies have gone public to cash in on the AI frenzy, and investors have eaten the new offerings up. “The starting day premiums for new issues has reached an average of 30% in the US,” the highest since the Dotcom bubble, according to Goldman.
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA): Analyst Sees Upside to 2026 Estimates
-URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-analyst-sees-071530899.html
-Time Published: 2025-10-09T07:15:30Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the companies that are pertinent to the discussion about The Future of Artificial Intelligence: 10 Predictions for...
 --------------------------------------------------
