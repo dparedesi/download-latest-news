@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia-backed AI stock’s monster run gets CoreWeave jolt
+URL: https://www.thestreet.com/technology/nvidia-backed-ai-stocks-monster-run-gets-coreweave-jolt
+Time Published: 2025-10-10T22:07:00Z
+Description: Nvidia (NVDA) is clearly the poster child of the AI boom. It’s got a hold on chipmaking, the software stack, and invests in virtually any startup or business...
+--------------------------------------------------
+
 Title: S&P 500 Gains and Losses Today: Index Plunges as Trump Threatens Hiking Tariffs on China
 URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-index-plunges-as-trump-threatens-hiking-tariffs-on-china-11827984
 Time Published: 2025-10-10T21:13:14Z
@@ -242,14 +248,14 @@ Searching for your content... Phone +44 (0)20 7454 5110 from 8 AM - 5:30 PM GMT 
 --------------------------------------------------
 
 Title: Experts caution: Gold isn’t risk-free — here’s what to watch before you invest
-URL: https://economictimes.indiatimes.com/news/international/us/gold-investment-risks-what-you-need-to-know-before-investing/articleshow/124415151.cms
+URL: https://economictimes.indiatimes.com/news/international/us/gold-price-investment-risks-what-you-need-to-know-before-investing/articleshow/124415151.cms
 Time Published: 2025-10-09T12:39:24Z
 Full Content:
 Gold price: Gold is a traditional safe haven, but experts warn of risks. Investors face price swings when buying near record highs. Gold is a commodity, making its prices unpredictable. Holding gold means missing out on potential gains from other investments. Scammers also target gold investors with fake products. Diversification remains key for managing these risks. Gold price (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. UNGA: India exposes Pakistan’s civilian attacks K'taka 1st state in India to grant 12 paid menstrual leaves to women in all sectors Ayodhya shaken by deadly house explosion; 5 killed on spot, probe on Railway Minister Vaishnaw confirms bullet train by 2027 ‘Gaza will never be broken’: Hamas confirms ceasefire Judge blocks Trump National Guard plan in Illinois Days ahead of Nobel announcement, Trump slams Obama, Biden Netanyahu, Kushner, Witkoff credit Trump for Gaza deal Taliban FM to meet EAM Jaishankar under UN travel exemption Clean Yamuna, park over the landfills: Amit Shah’s vision for Delhi UNGA: India exposes Pakistan’s civilian attacks K'taka 1st state in India to grant 12 paid menstrual leaves to women in all sectors Ayodhya shaken by deadly house explosion; 5 killed on spot, probe on Railway Minister Vaishnaw confirms bullet train by 2027 ‘Gaza will never be broken’: Hamas confirms ceasefire Judge blocks Trump National Guard plan in Illinois Days ahead of Nobel announcement, Trump slams Obama, Biden Netanyahu, Kushner, Witkoff credit Trump for Gaza deal Taliban FM to meet EAM Jaishankar under UN travel exemption Clean Yamuna, park over the landfills: Amit Shah’s vision for Delhi Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Prime Articles Top Market Pages Top Story Listing Top Slideshow Private Companies Top Commodities Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
 --------------------------------------------------
 
 Title: Experts caution: Gold isn’t risk-free — here’s what to watch before you invest
-URL: https://economictimes.indiatimes.com/news/international/us/gold-price-investment-risks-what-you-need-to-know-before-investing/articleshow/124415151.cms
+URL: https://economictimes.indiatimes.com/news/international/us/gold-investment-risks-what-you-need-to-know-before-investing/articleshow/124415151.cms
 Time Published: 2025-10-09T12:39:24Z
 Full Content:
 Gold price: Gold is a traditional safe haven, but experts warn of risks. Investors face price swings when buying near record highs. Gold is a commodity, making its prices unpredictable. Holding gold means missing out on potential gains from other investments. Scammers also target gold investors with fake products. Diversification remains key for managing these risks. Gold price (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. UNGA: India exposes Pakistan’s civilian attacks K'taka 1st state in India to grant 12 paid menstrual leaves to women in all sectors Ayodhya shaken by deadly house explosion; 5 killed on spot, probe on Railway Minister Vaishnaw confirms bullet train by 2027 ‘Gaza will never be broken’: Hamas confirms ceasefire Judge blocks Trump National Guard plan in Illinois Days ahead of Nobel announcement, Trump slams Obama, Biden Netanyahu, Kushner, Witkoff credit Trump for Gaza deal Taliban FM to meet EAM Jaishankar under UN travel exemption Clean Yamuna, park over the landfills: Amit Shah’s vision for Delhi UNGA: India exposes Pakistan’s civilian attacks K'taka 1st state in India to grant 12 paid menstrual leaves to women in all sectors Ayodhya shaken by deadly house explosion; 5 killed on spot, probe on Railway Minister Vaishnaw confirms bullet train by 2027 ‘Gaza will never be broken’: Hamas confirms ceasefire Judge blocks Trump National Guard plan in Illinois Days ahead of Nobel announcement, Trump slams Obama, Biden Netanyahu, Kushner, Witkoff credit Trump for Gaza deal Taliban FM to meet EAM Jaishankar under UN travel exemption Clean Yamuna, park over the landfills: Amit Shah’s vision for Delhi Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Prime Articles Top Market Pages Top Story Listing Top Slideshow Private Companies Top Commodities Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
@@ -304,10 +310,4 @@ Title: Top Stock Movers Today: AMD, Dell and CoreWeave
 URL: https://www.thestreet.com/markets/top-stock-movers-today-amd-dell-and-coreweave
 Time Published: 2025-10-09T04:34:52Z
 Description: Wednesday, Oct 8, 2025 The market rebounded from yesterday’s slump and set new records on Wednesday, partly buoyed by optimism over the Fed’s minutes of the ...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures regroup after record-setting rally
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-regroup-after-record-setting-rally-231749159.html
-Time Published: 2025-10-08T23:17:49Z
-Description: Investors paused to assess the optimism around AI and interest-rate cuts that has buoyed markets amid the government shutdown.
 --------------------------------------------------
