@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Stocks Fall Sharply on China Trade Tensions
+URL: https://www.barchart.com/story/news/35375460/stocks-fall-sharply-on-china-trade-tensions
+Time Published: 2025-10-10T20:40:20Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed down -2.71%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -1.90%, and the Nasdaq 100 Index (...
+--------------------------------------------------
+
 Title: This Analyst’s Prediction About Broadcom (AVGO) Was Right
 URL: https://finance.yahoo.com/news/analyst-prediction-broadcom-avgo-125428395.html
 Time Published: 2025-10-10T12:54:28Z
@@ -110,40 +116,4 @@ URL: https://www.forbes.com/sites/greatspeculations/2025/10/07/up-500-whats-happ
 Time Published: 2025-10-07T10:00:01Z
 Full Content:
 ByTrefis Team, Contributor. Broadcom Inc. (NASDAQ: AVGO) has significantly exceeded the broader market performance this year, with a year-to-date increase of about 46% compared to the S&P 500’s 14%. This robust performance has been fueled by strong quarterly outcomes and the acquisition of a new custom AI-chip client. Despite this recent rise, the stock has shown considerable long-term growth, skyrocketing over 500% since early 2023. This remarkable long-term increase is primarily due to two crucial factors: We will explore the details of these factors and the company’s valuation in the sections that follow. Nevertheless, if you are looking for potential upside with less volatility than holding an individual stock, consider the High Quality Portfolio. It has consistently outperformed its benchmark—a mix of the S&P 500, Russell, and S&P MidCap indexes—and has achieved returns surpassing 91% since its launch. Why is that? As a collective, HQ Portfolio stocks delivered better returns with lower risk compared to the benchmark index; it was less of a turbulent experience, as illustrated in HQ Portfolio performance metrics. The market reassessed Broadcom from a traditional semiconductor company to an AI infrastructure growth entity. The company secured significant agreements, including a $10 billion deal with OpenAI, establishing it as a vital supplier of custom AI accelerators to hyperscalers. AI revenue has expanded for eleven consecutive quarters, with Q3 2025 AI revenue skyrocketing 63% year-over-year to $5.2 billion. This evolution from a legacy chip manufacturer to an essential AI infrastructure supplier warranted a notable valuation premium, elevating the P/E from 14 to 54. Our dashboard on Broadcom’s Valuation Ratiosprovides additional insights on Broadcom’s other valuation multiples. Two primary factors propelled the near doubling of adjusted net income: The 15% rise in outstanding shares is directly attributed to the financing of the VMware acquisition. Broadcom offered VMware shareholders merger consideration in cash and stock, issuing new shares as part of the $69 billion transaction. This dilution was the cost of swiftly expanding the business through acquisition instead of solely relying on organic growth. Currently trading around $340 per share following the recent market fluctuations, Broadcom’s valuation reflects both the opportunities and challenges inherent in its business model. The stock’s price-to-earnings (P/E) ratio of approximately 54x based on trailing adjusted earnings represents a premium in comparison to traditional semiconductor companies and is notably higher than the stock’s own average of 30x over the past three years. Nonetheless, this valuation premium seems warranted given the company’s strong AI exposure and ongoing software transformation. With an average analyst price target of $370, AVGO stock still appears to have potential for growth. That said, our assessment may not be accurate, and investors might not be inclined to pay such a high multiple for AVGO, considering its intrinsic risks. Primary risks include customer concentration, cyclical semiconductor demand, and competitive pressures in the AI chip sector. Investors should carefully evaluate all these risks before purchasing AVGO stock. Additionally, see how AVGO stock’s valuation compares to that of its peers. Therefore, investing in a single stock without thorough analysis can be risky. Consider the Trefis Reinforced Value (RV) Portfolio, which has outperformed its all-cap stocks benchmark (a combination of the S&P 500, S&P MidCap, and Russell 2000 benchmark indices) to deliver strong returns for investors. Why is that? The quarterly re-balanced mix of large-, mid-, and small-cap RV Portfolio stocks provided a responsive approach to capitalize on favorable market conditions while minimizing losses during market downturns, as detailed in RV Portfolio performance metrics.
---------------------------------------------------
-
-Title: Could Broadcom Benefit from the OpenAI AMD Deal? AVGO Stock Could Be Cheap Here
-URL: https://www.barchart.com/story/news/35259459/could-broadcom-benefit-from-the-openai-amd-deal-avgo-stock-could-be-cheap-here
-Time Published: 2025-10-06T17:43:14Z
-Description: Broadcom could benefit from OpenAI's diversification away from its sole reliance on Nvidia with its new AMD deal. It's possible, especially after the Sept. 4...
---------------------------------------------------
-
-Title: Why your S&P 500 index fund might be more risky than the internet bubble
-URL: https://www.marketwatch.com/story/why-your-s-p-500-index-fund-might-be-more-risky-than-the-internet-bubble-af1050e6
-Time Published: 2025-10-06T14:53:00Z
-Description: The S 500’s record concentration to a handful of stocks at a time of relatively high valuations makes a case for broadening investment portfolios.
---------------------------------------------------
-
-Title: Broadcom (AVGO): The Non-Nvidia Winner in Chip Designers
-URL: https://finance.yahoo.com/news/broadcom-avgo-non-nvidia-winner-144718126.html
-Time Published: 2025-10-06T14:47:18Z
-Description: Middle Coast Investing, an investment advisor firm, released its third-quarter 2025 investor letter. A copy of the letter can be downloaded here. The third...
---------------------------------------------------
-
-Title: Stock Market Today: AMD Soars After Announcing Big Deal with OpenAI
-URL: https://www.thestreet.com/markets/stock-market-today-october-6-2025
-Time Published: 2025-10-06T14:24:13Z
-Description: Plus: Stocks to continue their rise despite gov't shutdown, missing economic data
---------------------------------------------------
-
-Title: MRVL Surges 31% in a Month: Should You Hold or Fold the Stock?
-URL: https://finance.yahoo.com/news/mrvl-surges-31-month-hold-140600987.html
-Time Published: 2025-10-06T14:06:00Z
-Description: Marvell Technology's 31% surge rides on booming AI and data center demand, but lofty valuation and fierce rivals keep investors cautious.
---------------------------------------------------
-
-Title: Advanced Micro Devices Explodes on OpenAI Pact, But is AMD the Best AI Chip Stock to Buy Now?
-URL: https://www.barchart.com/story/news/35253836/advanced-micro-devices-explodes-on-openai-pact-but-is-amd-the-best-ai-chip-stock-to-buy-now
-Time Published: 2025-10-06T13:06:04Z
-Description: By some measures, Nvidia stock still looks cheaper than underdog rival AMD, which is spiking this morning after partnering with Sam Altman’s company.
 --------------------------------------------------

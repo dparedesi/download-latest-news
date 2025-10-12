@@ -29,24 +29,3 @@ URL: https://www.marketwatch.com/story/heres-whats-keeping-goldmans-worries-over
 Time Published: 2025-10-08T14:25:00Z
 Description: Goldman Sachs strategists have taken a deep dive into current stock bubble worries for investors. They argue the puzzle pieces aren’t in place yet.
 --------------------------------------------------
-
-Title: The AI bubble is 17 times the size of the dot-com frenzy and four times subprime
-URL: https://www.morningstar.com/news/marketwatch/20251003175/the-ai-bubble-is-17-times-the-size-of-the-dot-com-frenzy-and-four-times-subprime-this-analyst-argues
-Time Published: 2025-10-06T16:46:12Z
-Description: Article URL: https://www.morningstar.com/news/marketwatch/20251003175/the-ai-bubble-is-17-times-the-size-of-the-dot-com-frenzy-and-four-times-subprime-this-analyst-argues
-Comments URL: https://news.ycombinator.com/item?id=45493287
-Points: 24
-# Comments: 1
---------------------------------------------------
-
-Title: Broadcom (AVGO): The Non-Nvidia Winner in Chip Designers
-URL: https://finance.yahoo.com/news/broadcom-avgo-non-nvidia-winner-144718126.html
-Time Published: 2025-10-06T14:47:18Z
-Description: Middle Coast Investing, an investment advisor firm, released its third-quarter 2025 investor letter. A copy of the letter can be downloaded here. The third...
---------------------------------------------------
-
-Title: Analyst Trims His Taiwan Semiconductor (TSM) Stake Amid a New ‘Concern’
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0a2aa423-13e3-4c2f-8f93-a7a09e9edb95
-Time Published: 2025-10-06T06:56:39Z
-Description: None
---------------------------------------------------

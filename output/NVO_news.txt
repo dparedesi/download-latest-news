@@ -69,9 +69,3 @@ URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-ti
 Time Published: 2025-10-07T13:31:57Z
 Description: Wall Street weighed worries over the government shutdown against bright hopes for AI.
 --------------------------------------------------
-
-Title: What Makes Novo Nordisk A/S (NVO) a Promising and Profitable Investment in The Long Term?
-URL: https://finance.yahoo.com/news/makes-novo-nordisk-nvo-promising-150902027.html
-Time Published: 2025-10-06T15:09:02Z
-Description: Vltava Fund, an investment management company, recently released its third-quarter 2025 investor letter. A copy of the letter can be downloaded here. The...
---------------------------------------------------

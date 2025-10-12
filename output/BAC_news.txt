@@ -1,5 +1,23 @@
 List of news related to Bank of America stock price BAC:
 
+Title: Stock market today: Dow sinks 800 points, S&P 500 and Nasdaq tumble as Trump's return to tariff threats spooks Wall Street
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-800-points-sp-500-and-nasdaq-clobbered-as-trumps-renewed-tariff-threats-jolt-wall-street-200026724.html
+Time Published: 2025-10-10T20:00:26Z
+Description: Markets tumble to end the week as President Trump renewed tariff threats on China.
+--------------------------------------------------
+
+Title: Stock market today: Dow sinks 800 points, S&P 500 and Nasdaq see worst day since April as Trump's renewed tariff threats spook Wall Street
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-800-points-sp-500-and-nasdaq-see-worst-day-since-april-as-trumps-renewed-tariff-threats-spook-wall-street-200026352.html
+Time Published: 2025-10-10T20:00:26Z
+Description: Markets tumble to end the week as President Trump renewed tariff threats on China.
+--------------------------------------------------
+
+Title: Stock market today: Dow sinks 700 points, S&P 500, Nasdaq plummet as Trump threatens 'massive increase' on China tariffs
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-700-points-sp-500-nasdaq-plummet-as-trump-threatens-massive-increase-on-china-tariffs-192456998.html
+Time Published: 2025-10-10T19:24:56Z
+Description: Markets have had an uncertain week, pulled in different directions by AI demand hopes and US government shutdown worries.
+--------------------------------------------------
+
 Title: Stock market today: Dow sinks 500 points, S&P 500, Nasdaq plummet as Trump threatens 'massive increase' on China tariffs
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-500-points-sp-500-nasdaq-plummet-as-trump-threatens-massive-increase-on-china-tariffs-164432249.html
 Time Published: 2025-10-10T16:44:32Z
