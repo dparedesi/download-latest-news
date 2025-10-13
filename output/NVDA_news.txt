@@ -186,16 +186,16 @@ Time Published: 2025-10-09T15:45:16Z
 Description: Significant demand for AI compute and Nvidia’s leadership in AI hardware provide a solid base for future growth.
 --------------------------------------------------
 
-Title: Nvidia stock climbs to record amid reported UAE export approval, price target raise: 'This is not a bubble'
-URL: https://finance.yahoo.com/news/nvidia-stock-climbs-to-record-amid-reported-uae-export-approval-price-target-raise-this-is-not-a-bubble-154018663.html
-Time Published: 2025-10-09T15:40:18Z
-Description: Nvidia stock hit an intraday record high as Bloomberg reported that the US government approved the tech leader's chip exports to the UAE.
---------------------------------------------------
-
 Title: Nvidia stock climbs amid reported UAE export approval, Wall Street price target raise: 'This is not a bubble'
 URL: https://finance.yahoo.com/news/nvidia-stock-climbs-amid-reported-uae-export-approval-wall-street-price-target-raise-this-is-not-a-bubble-154018275.html
 Time Published: 2025-10-09T15:40:18Z
 Description: Nvidia stock hit an intraday record high as Bloomberg reported the US government approved the tech leader's chip exports to the UAE.
+--------------------------------------------------
+
+Title: Nvidia stock climbs to record amid reported UAE export approval, price target raise: 'This is not a bubble'
+URL: https://finance.yahoo.com/news/nvidia-stock-climbs-to-record-amid-reported-uae-export-approval-price-target-raise-this-is-not-a-bubble-154018663.html
+Time Published: 2025-10-09T15:40:18Z
+Description: Nvidia stock hit an intraday record high as Bloomberg reported that the US government approved the tech leader's chip exports to the UAE.
 --------------------------------------------------
 
 Title: Nvidia CEO Is Surprised by AMD’s OpenAI Equity Move: What’s in Store for NVDA Stock?

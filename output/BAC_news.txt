@@ -1,13 +1,13 @@
 List of news related to Bank of America stock price BAC:
 
-Title: Stock market today: Dow sinks 800 points, S&P 500 and Nasdaq tumble as Trump's return to tariff threats spooks Wall Street
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-800-points-sp-500-and-nasdaq-clobbered-as-trumps-renewed-tariff-threats-jolt-wall-street-200026724.html
+Title: Stock market today: Dow sinks 800 points, S&P 500 and Nasdaq see worst day since April as Trump's renewed tariff threats spook Wall Street
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-800-points-sp-500-and-nasdaq-see-worst-day-since-april-as-trumps-renewed-tariff-threats-spook-wall-street-200026352.html
 Time Published: 2025-10-10T20:00:26Z
 Description: Markets tumble to end the week as President Trump renewed tariff threats on China.
 --------------------------------------------------
 
-Title: Stock market today: Dow sinks 800 points, S&P 500 and Nasdaq see worst day since April as Trump's renewed tariff threats spook Wall Street
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-800-points-sp-500-and-nasdaq-see-worst-day-since-april-as-trumps-renewed-tariff-threats-spook-wall-street-200026352.html
+Title: Stock market today: Dow sinks 800 points, S&P 500 and Nasdaq tumble as Trump's return to tariff threats spooks Wall Street
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-800-points-sp-500-and-nasdaq-clobbered-as-trumps-renewed-tariff-threats-jolt-wall-street-200026724.html
 Time Published: 2025-10-10T20:00:26Z
 Description: Markets tumble to end the week as President Trump renewed tariff threats on China.
 --------------------------------------------------
