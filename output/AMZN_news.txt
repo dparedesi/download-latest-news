@@ -37,21 +37,3 @@ URL: https://finance.yahoo.com/news/alphabet-invest-10-billion-indias-161240919.
 Time Published: 2025-10-08T16:12:40Z
 Description: Project to anchor country's emerging AI infrastructure hub
 --------------------------------------------------
-
-Title: Amazon Scores a 'Perfect 10' as Wall Street Bets on Its AI and Cloud Comeback
-URL: https://finance.yahoo.com/news/amazon-scores-perfect-10-wall-165550861.html
-Time Published: 2025-10-07T16:55:50Z
-Description: Analysts say AWS is regaining strength while new AI devices deepen Amazon's ecosystem
---------------------------------------------------
-
-Title: Hertz Is Doubling Down on E-Commerce. Does That Make HTZ Stock a Buy Now?
-URL: https://www.barchart.com/story/news/35284300/hertz-is-doubling-down-on-e-commerce-does-that-make-htz-stock-a-buy-now
-Time Published: 2025-10-07T15:05:26Z
-Description: While the digital transformation brings retail efficiencies and record sales, Hertz’s turnaround case still faces fundamental hurdles.
---------------------------------------------------
-
-Title: Billionaire Ken Griffin warns on consequences of gold’s rally as Goldman targets nearly $5,000
-URL: https://www.marketwatch.com/story/billionaire-ken-griffin-warns-on-golds-rally-as-goldman-targets-nearly-5-000-857edd74
-Time Published: 2025-10-07T13:33:00Z
-Description: Goldman Sachs is now forecasting gold to reach nearly $5,000 next year, but one billionaire investor says the precious metal’s rally is a sign of trouble for...
---------------------------------------------------
