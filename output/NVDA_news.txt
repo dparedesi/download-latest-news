@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq stage comeback as Trump tempers tariff talk toward China
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stage-comeback-as-trump-tempers-tariff-talk-toward-china-231010620.html
+Time Published: 2025-10-12T23:10:10Z
+Description: Markets are assessing Trump's retreat from combative comments on China.
+--------------------------------------------------
+
 Title: 5 High Yield CEFs With Steep Discounts Right Now
 URL: https://www.forbes.com/sites/brettowens/2025/10/12/5-high-yield-cefs-with-steep-discounts-right-now/
 Time Published: 2025-10-12T14:00:00Z
@@ -302,10 +308,4 @@ Title: NVDA: Nvidia Rises After U.S. Approves Billions In AI Chip Exports To UAE
 URL: https://finance.yahoo.com/news/nvda-nvidia-rises-u-approves-123811095.html
 Time Published: 2025-10-09T12:38:11Z
 Description: Nvidia Gains Ground As U.S. Unlocks Billions In AI Exports To The Gulf
---------------------------------------------------
-
-Title: Mar Vista U.S. Quality Premier Strategy: NVIDIA (NVDA) Continues to Benefit from AI infrastructure Build-out
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dc8418ac-8c03-44cd-bd1f-f92abd453075
-Time Published: 2025-10-09T12:07:36Z
-Description: None
 --------------------------------------------------

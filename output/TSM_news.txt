@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq stage comeback as Trump tempers tariff talk toward China
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stage-comeback-as-trump-tempers-tariff-talk-toward-china-231010620.html
+Time Published: 2025-10-12T23:10:10Z
+Description: Markets are assessing Trump's retreat from combative comments on China.
+--------------------------------------------------
+
 Title: Trade Tensions, Market Volatility and Other Key Things to Watch this Week
 URL: https://www.barchart.com/story/news/35397025/trade-tensions-market-volatility-and-other-key-things-to-watch-this-week
 Time Published: 2025-10-12T17:00:02Z
@@ -41,16 +47,4 @@ Title: Stock market today: Dow, S&P 500, Nasdaq steady after latest record-setti
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-steady-after-latest-record-setting-rally-133715412.html
 Time Published: 2025-10-09T13:37:15Z
 Description: Investors paused to assess the optimism around AI and interest-rate cuts that has buoyed markets amid the government shutdown.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures regroup after record-setting rally
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-regroup-after-record-setting-rally-231749159.html
-Time Published: 2025-10-08T23:17:49Z
-Description: Investors paused to assess the optimism around AI and interest-rate cuts that has buoyed markets amid the government shutdown.
---------------------------------------------------
-
-Title: Goldman Sachs on the one thing that could turn the rally into a bubble
-URL: https://www.marketwatch.com/story/heres-whats-keeping-goldmans-worries-over-a-stock-bubble-at-bay-for-now-a7a219c5
-Time Published: 2025-10-08T14:25:00Z
-Description: Goldman Sachs strategists have taken a deep dive into current stock bubble worries for investors. They argue the puzzle pieces aren’t in place yet.
 --------------------------------------------------

@@ -1,5 +1,11 @@
 List of news related to Bank of America stock price BAC:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq stage comeback as Trump tempers tariff talk toward China
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stage-comeback-as-trump-tempers-tariff-talk-toward-china-231010620.html
+Time Published: 2025-10-12T23:10:10Z
+Description: Markets are assessing Trump's retreat from combative comments on China.
+--------------------------------------------------
+
 Title: Trade Tensions, Market Volatility and Other Key Things to Watch this Week
 URL: https://www.barchart.com/story/news/35397025/trade-tensions-market-volatility-and-other-key-things-to-watch-this-week
 Time Published: 2025-10-12T17:00:02Z
@@ -10,6 +16,13 @@ Title: Stocks dip as government shutdown continues, rare earths rally: What to w
 URL: https://finance.yahoo.com/news/stocks-dip-as-government-shutdown-continues-rare-earths-rally-what-to-watch-this-week-114600627.html
 Time Published: 2025-10-12T11:46:00Z
 Description: The stock market will enter the second full week of the government shutdown. Investors will also focus on big bank earnings.
+--------------------------------------------------
+
+Title: What to Expect in Markets This Week: Big Bank Earnings, Fed Speakers, Shutdown Data Delays
+URL: https://www.investopedia.com/what-to-expect-in-markets-this-week-big-bank-earnings-fed-speakers-shutdown-data-delays-11827144
+Time Published: 2025-10-12T10:00:00Z
+Full Content:
+After Friday’s big selloff as President Trump fired back at China’s tightening of rare earths export curbs with higher tariffs, investors will be watching closely for the latest trade policy developments. An ongoing federal government shutdown may delay the release of several economic reports, but investors can look forward to a full slate of corporate earnings from big banks and mainstays in the semiconductor industry. JPMorgan Chase, Wells Fargo, Goldman Sachs, and American Express are on the list of major financial firms set to report this week, while reports from TSMC, Johnson & Johnson, and United Airlines will also be in focus. Without a resolution to the budget dispute, the government shutdown will enter its third week, likely delaying the release of data on wholesale inflation, retail sales, housing starts, and jobless claims. Homebuilder confidence and small business optimism surveys are still scheduled, and several Federal Reserve speakers are expected to deliver remarks, including Federal Reserve Chair Jerome Powell. The bond market is closed on Monday for the Columbus Day holiday (observed in some places as Indigenous Peoples Day), while major stock exchanges are open. The Federal Reserve system, major financial institutions, and many federal, state, and local government offices will be closed on Monday. Read to the bottom for our calendar of key events—and one more thing. This week is set to bring third-quarter updates from some of the world's biggest banks and top financial institutions, starting with Tuesday's release from JPMorgan Chase. The world’s largest bank by market capitalization has reported better-than-expected revenue in the year’s first two quarters, even as sales declined and net interest income came up short in its most recent report amid CEO Jamie Dimon’s warnings about "turbulence" in the economy. Others expected to release quarterly financials Tuesday include Wells Fargo, Goldman Sachs, BlackRock, and CitiGroup. Reports from Bank of America and Morgan Stanley are due to follow Wednesday, while Charles Schwab, Bank of New York Mellon, and U.S. Bancorp are scheduled for Thursday. Earnings from American Express, Truist Financial, and State Street are slated for Friday. The world's largest chip manufacturer, TSMC, is set to report its results Thursday, after growing its revenue by 40% in the first half of 2025 on strong sales of AI chips. Chipmaking equipment maker ASML looks to report Wednesday after the Dutch firm raised worries about future growth amid tariff pressures. Also this week, cloud computing giant Oracle will host a three-day AI World conference beginning on Monday, and customer relationship management software firm Salesforce's Dreamforce event starts Tuesday. With the federal government shutdown heading into its third week, the blackout on economic data releases is likely to continue. The Thursday reports on U.S. retail sales and initial jobless claims and Friday’s update on housing starts could be delayed by the shutdown. The Bureau of Labor Statistics said last week it plans to release on Oct. 24 the Consumer Price Index inflation report for September that was originally scheduled for release on Wednesday. Several Federal Reserve officials are also scheduled to speak, coming as the central bank is set to release its Beige Book economic update on Wednesday. Chair Jerome Powell is due to give an economic update on Tuesday, with remarks also expected this week from Fed Governor Stephen Miran, Fed Vice Chair Michelle Bowman and Fed Governor Christopher Waller. Some data releases are still expected, including a survey of small business optimism on Tuesday and report on homebuilder confidence on Thursday. Quick Links: Recap Last Week’s Trading | Read Investopedia’s Latest News Monday, Oct. 13 Tuesday, Oct. 14 Wednesday, Oct. 15 Thursday, Oct. 16 Friday, Oct. 17 Medicare open enrollment begins on Wednesday, Oct. 15, giving those covered by the federal health insurance program an opportunity to change their plans. Investopedia’s Jeanine Skowronski has more information on how to prepare for Medicare’s open enrollment period.
 --------------------------------------------------
 
 Title: Stock market today: Dow sinks 800 points, S&P 500 and Nasdaq see worst day since April as Trump's renewed tariff threats spook Wall Street
@@ -40,16 +53,4 @@ Title: Stock market today: Dow, S&P 500, Nasdaq inch higher as shutdown drags on
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-inch-higher-as-shutdown-drags-on-232721490.html
 Time Published: 2025-10-09T23:27:21Z
 Description: Markets have had an uncertain week, pulled in different directions by AI demand hopes and US government shutdown worries.
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq resume record rally as gold jumps, Fed minutes point to more rate cuts
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-resume-record-rally-as-gold-jumps-fed-minutes-point-to-more-rate-cuts-200208111.html
-Time Published: 2025-10-08T20:02:08Z
-Description: Wall Street digested the release of minutes from the Federal Reserve's September meeting.
---------------------------------------------------
-
-Title: Bank of America Gains Jim Cramer’s Backing Amid Fintech Funding and Strong Institutional Support
-URL: https://finance.yahoo.com/news/bank-america-gains-jim-cramer-142005583.html
-Time Published: 2025-10-08T14:20:05Z
-Description: Bank of America Corporation (NYSE:BAC) is one of Jim Cramer’s Recession-Proof Stock Picks. Addressing the stock in one of his episodes, Jim Cramer says...
 --------------------------------------------------
