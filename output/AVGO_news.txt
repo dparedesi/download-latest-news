@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Jim Cramer Says It’s Okay To Own Broadcom (AVGO) Shares
+URL: https://finance.yahoo.com/news/jim-cramer-says-okay-own-061743325.html
+Time Published: 2025-10-13T06:17:43Z
+Description: We recently published Jim Cramer Discussed These 13 Stocks And Talked About Market “Froth” & Dotcom Bubble. Broadcom Inc. (NASDAQ:AVGO) is one of the stocks ...
+--------------------------------------------------
+
+Title: Broadcom’s (AVGO) AI and Compute Demand Remain Robust, Bernstein Reaffirms Bullish Outlook
+URL: https://finance.yahoo.com/news/broadcom-avgo-ai-compute-demand-040115204.html
+Time Published: 2025-10-13T04:01:15Z
+Description: Broadcom Inc. (NASDAQ:AVGO) is one of the AI Stocks on the Market’s Radar. On October 8, Bernstein SocGen Group analyst Stacy Rasgon reiterated an Outperform...
+--------------------------------------------------
+
 Title: OpenAI and Broadcom Announce Collaboration to Deploy 10 Gigawatts of Custom AI Accelerators
 URL: https://www.c-sharpcorner.com/news/openai-and-broadcom-announce-collaboration-to-deploy-10-gigawatts-of-custom-ai-accelerators
 Time Published: 2025-10-13T00:00:00Z

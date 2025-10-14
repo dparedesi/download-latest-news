@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Jim Cramer Discusses NVIDIA (NVDA) & Circular AI Deals
+URL: https://finance.yahoo.com/news/jim-cramer-discusses-nvidia-nvda-061839972.html
+Time Published: 2025-10-13T06:18:39Z
+Description: We recently published Jim Cramer Discussed These 13 Stocks And Talked About Market “Froth” & Dotcom Bubble. NVIDIA Corporation (NASDAQ:NVDA) is one of the...
+--------------------------------------------------
+
+Title: Is Nvidia (NVDA) One of the AI Stocks on the Market’s Radar?
+URL: https://finance.yahoo.com/news/nvidia-nvda-one-ai-stocks-040329294.html
+Time Published: 2025-10-13T04:03:29Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks on the Market’s Radar. On October 10, UBS analyst Timothy Arcuri reiterated a Buy rating on the...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq stage comeback as Trump tempers tariff talk toward China
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stage-comeback-as-trump-tempers-tariff-talk-toward-china-231010620.html
 Time Published: 2025-10-12T23:10:10Z
@@ -295,17 +307,4 @@ URL: https://economictimes.indiatimes.com/news/international/us/gold-investment-
 Time Published: 2025-10-09T12:39:24Z
 Full Content:
 Gold price: Gold is a traditional safe haven, but experts warn of risks. Investors face price swings when buying near record highs. Gold is a commodity, making its prices unpredictable. Holding gold means missing out on potential gains from other investments. Scammers also target gold investors with fake products. Diversification remains key for managing these risks. Gold price (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. UNGA: India exposes Pakistan’s civilian attacks K'taka 1st state in India to grant 12 paid menstrual leaves to women in all sectors Ayodhya shaken by deadly house explosion; 5 killed on spot, probe on Railway Minister Vaishnaw confirms bullet train by 2027 ‘Gaza will never be broken’: Hamas confirms ceasefire Judge blocks Trump National Guard plan in Illinois Days ahead of Nobel announcement, Trump slams Obama, Biden Netanyahu, Kushner, Witkoff credit Trump for Gaza deal Taliban FM to meet EAM Jaishankar under UN travel exemption Clean Yamuna, park over the landfills: Amit Shah’s vision for Delhi UNGA: India exposes Pakistan’s civilian attacks K'taka 1st state in India to grant 12 paid menstrual leaves to women in all sectors Ayodhya shaken by deadly house explosion; 5 killed on spot, probe on Railway Minister Vaishnaw confirms bullet train by 2027 ‘Gaza will never be broken’: Hamas confirms ceasefire Judge blocks Trump National Guard plan in Illinois Days ahead of Nobel announcement, Trump slams Obama, Biden Netanyahu, Kushner, Witkoff credit Trump for Gaza deal Taliban FM to meet EAM Jaishankar under UN travel exemption Clean Yamuna, park over the landfills: Amit Shah’s vision for Delhi Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Prime Articles Top Market Pages Top Story Listing Top Slideshow Private Companies Top Commodities Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Experts caution: Gold isn’t risk-free — here’s what to watch before you invest
-URL: https://economictimes.indiatimes.com/news/international/us/gold-price-investment-risks-what-you-need-to-know-before-investing/articleshow/124415151.cms
-Time Published: 2025-10-09T12:39:24Z
-Full Content:
-Gold price: Gold is a traditional safe haven, but experts warn of risks. Investors face price swings when buying near record highs. Gold is a commodity, making its prices unpredictable. Holding gold means missing out on potential gains from other investments. Scammers also target gold investors with fake products. Diversification remains key for managing these risks. Gold price (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. UNGA: India exposes Pakistan’s civilian attacks K'taka 1st state in India to grant 12 paid menstrual leaves to women in all sectors Ayodhya shaken by deadly house explosion; 5 killed on spot, probe on Railway Minister Vaishnaw confirms bullet train by 2027 ‘Gaza will never be broken’: Hamas confirms ceasefire Judge blocks Trump National Guard plan in Illinois Days ahead of Nobel announcement, Trump slams Obama, Biden Netanyahu, Kushner, Witkoff credit Trump for Gaza deal Taliban FM to meet EAM Jaishankar under UN travel exemption Clean Yamuna, park over the landfills: Amit Shah’s vision for Delhi UNGA: India exposes Pakistan’s civilian attacks K'taka 1st state in India to grant 12 paid menstrual leaves to women in all sectors Ayodhya shaken by deadly house explosion; 5 killed on spot, probe on Railway Minister Vaishnaw confirms bullet train by 2027 ‘Gaza will never be broken’: Hamas confirms ceasefire Judge blocks Trump National Guard plan in Illinois Days ahead of Nobel announcement, Trump slams Obama, Biden Netanyahu, Kushner, Witkoff credit Trump for Gaza deal Taliban FM to meet EAM Jaishankar under UN travel exemption Clean Yamuna, park over the landfills: Amit Shah’s vision for Delhi Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Prime Articles Top Market Pages Top Story Listing Top Slideshow Private Companies Top Commodities Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: NVDA: Nvidia Rises After U.S. Approves Billions In AI Chip Exports To UAE
-URL: https://finance.yahoo.com/news/nvda-nvidia-rises-u-approves-123811095.html
-Time Published: 2025-10-09T12:38:11Z
-Description: Nvidia Gains Ground As U.S. Unlocks Billions In AI Exports To The Gulf
 --------------------------------------------------
