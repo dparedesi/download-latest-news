@@ -1,5 +1,11 @@
 List of news related to Uber stock price UBER:
 
+Title: This Long Straddle Can Cash In If Bond Volatility Heats Up
+URL: https://www.investors.com/research/options/bonds-tlt-etf-vix-markets-volatility-options-trading-strategy/
+Time Published: 2025-10-13T17:24:25Z
+Description: Bond market volatility has picked up. Investors may consider using an options strategy for the iShares 20+ Year Treasury Bond ETF, or TLT.
+--------------------------------------------------
+
 Title: WeWork Management bulk deal: CLSA sells 8.4 lakh shares in recently listed stock for Rs 52 crore
 URL: https://economictimes.indiatimes.com/markets/stocks/news/wework-management-bulk-deal-clsa-sells-8-4-lakh-shares-in-recently-listed-stock-for-rs-52-crore/articleshow/124529820.cms
 Time Published: 2025-10-13T14:24:16Z
