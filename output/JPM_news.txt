@@ -6,6 +6,12 @@ Time Published: 2025-10-12T23:10:10Z
 Description: Markets are assessing Trump's retreat from combative comments on China.
 --------------------------------------------------
 
+Title: Stocks face earnings test with S&P 500 on pace for worst performance in a shutdown since 1990
+URL: https://www.marketwatch.com/story/stocks-face-earnings-test-with-s-p-500-on-pace-for-worst-performance-in-a-shutdown-since-1990-ee8bd807
+Time Published: 2025-10-12T20:00:00Z
+Description: Stocks are approaching a clear test after investors were left in the fog of a government shutdown this month and rattled by fresh tariff fears Friday.
+--------------------------------------------------
+
 Title: Trade Tensions, Market Volatility and Other Key Things to Watch this Week
 URL: https://www.barchart.com/story/news/35397025/trade-tensions-market-volatility-and-other-key-things-to-watch-this-week
 Time Published: 2025-10-12T17:00:02Z
