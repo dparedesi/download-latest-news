@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stocks Settle Sharply Higher on Trade Hopes and AI Optimism
+URL: https://www.barchart.com/story/news/35414255/stocks-settle-sharply-higher-on-trade-hopes-and-ai-optimism
+Time Published: 2025-10-13T20:34:25Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +1.56%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +1.29%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: Stock market today: Dow jumps 600 points, S&P 500, Nasdaq soar as Wall Street rebounds from tariff-fueled rout
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-600-points-sp-500-nasdaq-soar-as-wall-street-rebounds-from-tariff-fueled-rout-200627651.html
+Time Published: 2025-10-13T20:06:27Z
+Description: Markets are assessing Trump's retreat from combative comments on China.
+--------------------------------------------------
+
 Title: Can NVDA Still Be a $300 Stock If Nvidia Loses Its Monopoly in AI GPUs?
 URL: https://www.barchart.com/story/news/35409557/can-nvda-still-be-a-300-stock-if-nvidia-loses-its-monopoly-in-ai-gpus
 Time Published: 2025-10-13T15:58:32Z
