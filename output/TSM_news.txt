@@ -1,5 +1,17 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Earnings live: JPMorgan, Citi, and other Wall Street banks set to lead off Q3 earnings season
+URL: https://finance.yahoo.com/news/live/earnings-live-jpmorgan-citi-and-other-wall-street-banks-set-to-lead-off-q3-earnings-season-202336019.html
+Time Published: 2025-10-13T20:23:36Z
+Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
+Title: Why Washington’s Bet on This AI Stock Could Be the Most Important Investment of the Decade
+URL: https://www.barchart.com/story/news/35412550/why-washingtons-bet-on-this-ai-stock-could-be-the-most-important-investment-of-the-decade
+Time Published: 2025-10-13T18:31:58Z
+Description: Intel is betting big on government-backed AI and chip manufacturing initiatives to reclaim its technological leadership.
+--------------------------------------------------
+
 Title: Taiwan Semi (TSM) is Going to $400
 URL: https://finance.yahoo.com/news/taiwan-semi-tsm-going-400-163200307.html
 Time Published: 2025-10-13T16:32:00Z
@@ -24,6 +36,12 @@ URL: https://www.forbes.com/sites/johndorfman/2025/10/13/step-into-the-shadows-a
 Time Published: 2025-10-13T13:15:00Z
 Full Content:
 ByJohn Dorfman, Contributor. Do you keep an eye on your competition? Of course you do. Competition research is common sense. When you think a competitor has a great idea, adopt it or adapt it. In that spirit, once a year I compile a Purloined Portfolio, consisting of one stock from each of five rival investment managers I respect. Here goes. I’ve always been a fan of Scott Black, who heads Delphi Management in Boston. Black is a major art collector and Democratic Party donor. He is featured in Barron’s magazine each year on its stock-picking panel. From his holdings, I select Berkshire Hathaway Inc. (BRK.B). Berkshire has been run for six decades by investment legend Warren Buffett, who plans to relinquish the helm at the end of this year. I think he has a good team in place, led by Greg Abel, who will be the next CEO. I regard Berkshire as the country’s most successful conglomerate. I don’t advocate breaking it up, but if Abel needed or wanted to sell off some of the pieces, I think he could reap high valuations for many of them. Randall Eley runs pension-fund money and the Edgar Lomax Value Fund (LOMAX) in Alexandria, Virginia. His largest holding is CVS Health Corp. (CVS). You might be surprised by this choice, since the stock has lost 24% of its value over the past decade. I think CVS is poised for a comeback. One of its competitors, Rite Aid, has declared bankruptcy and ceased operations. Its largest competitor, Walgreens, seems to me to have lost some of its mojo. CVS is considering selling or splitting off Caremark (a pharmacy benefits manager) and Aetna (a health insurer). I’m in favor of such a move. I believe that pharmacy benefits management has build-in conflicts of interest. As for health insurance, I think it’s a difficult business because of rising health-care costs. The core drugstore business is the one that most appeals to me. A veteran international stock picker, Benard (Bernie) Horn runs the Polaris Global Value Fund. From his holdings I draw Mitsubishi UFJ Financial Group Inc. (MUFG). It’s the largest bank in Japan, and also owns approximately 23% of Morgan Stanley, a big investment bank in the U.S. In the past four quarters, Mitsubishi UFJ has seen profits climb 29%, on a 10% increase in revenue. Most analysts expect growth to slow down. Should you buy it? Analytical opinion is split, but I think the present valuation (14 times recent earnings and 1.3 times book value) leaves room for more gains. Matrix Asset Advisors in New York City manages a little over $1 billion, with David Katz as chief investment officer. One of the stocks he owns is L3 Harris Technologies Inc. (LHX), a defense contractor that specializes in military electronics. I think that ISR – intelligence, surveillance and reconnaissance – is already vital to national defense, and will become even more so. That why I like L3 Harris even though it’s more expensive than I normally go for. The stock trades at 33 times recent earnings and 24 times estimated earnings. The Buffalo International Fund, run by Nicole Kornitzer, is up more than 16% this year through October 10. From Kornitzer’s holdings, I choose the same stock I did last year, Taiwan Semiconductors Manufacturing Co. (TSM). In the past year, it’s up 47%. It might seem crazy to hope for more, but I do. Every major semiconductor company I know, except Intel Corp. (INTC), uses TSM to manufacture its chips. Thus, TSM is at the very heart of the global economy. Of course, there is geopolitical risk: An invasion of Taiwan by China is a real threat. In the past year (October 14, 2024 through October 10, 2025) my Purloined Portfolio returned 20.1%, including dividends. That handily beat the Standard & Poor’s 500 Total Return Index, which returned 13.3%. Leading the charge was Taiwan Semiconductor’s 47% return. Also doing well was J.P. Morgan Chase & Co. (JPM), drawn from David Katz’s holdings. My worst selection was Schlumberger Ltd. (SLB), which declined 27%. The long-term results are also favorable. In 21 years, my Purloined Portfolios have averaged 13.2%, while the S&P 500 has averaged 11.6%. Bear in mind that my column results are hypothetical and shouldn’t be confused with results I obtain for clients. Also, past performance doesn’t predict the future. Of the 21 stolen-idea lists, 17 have been profitable and 11 have beaten the S&P. Disclosure: I own Berkshire Hathaway, J.P. Morgan Chase, Mitsubishi UFG and Taiwan Semiconductor personally and for most of my clients. John Dorfman is chairman of Dorfman Value Investments in Boston. His firm of clients may own or trade securities discussed in this column. He can be reached at jdorfman@dorfmanvalue.com.
+--------------------------------------------------
+
+Title: Option Volatility And Earnings Report For October 13 – 17
+URL: https://www.barchart.com/story/news/35403578/option-volatility-and-earnings-report-for-october-13-17
+Time Published: 2025-10-13T11:00:02Z
+Description: Earnings season kicks into gear this week with Bank of America, Taiwan Semiconductor, JP Morgan, Wells Fargo, Citigroup, Morgan Stanley, Goldman Sachs...
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq stage comeback as Trump tempers tariff talk toward China
@@ -61,16 +79,4 @@ Title: 5 ‘Strong Buy’ Stocks That Could Dominate the AI Economy in the Next 
 URL: https://www.barchart.com/story/news/35362532/5-strong-buy-stocks-that-could-dominate-the-ai-economy-in-the-next-10-years
 Time Published: 2025-10-10T11:30:02Z
 Description: AI is transforming entire industries at lightning speed, and these five stocks are positioned to lead and capture massive value.
---------------------------------------------------
-
-Title: Bank of America Lifts Taiwan Semiconductor Manufacturing (TSM) Price Outlook on Revenue and Earnings Growth Prospects
-URL: https://finance.yahoo.com/news/bank-america-lifts-taiwan-semiconductor-144818523.html
-Time Published: 2025-10-09T14:48:18Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the high-growth semiconductor stocks that are expected to be profitable in 2025. On...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq steady after latest record-setting rally
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-steady-after-latest-record-setting-rally-133715412.html
-Time Published: 2025-10-09T13:37:15Z
-Description: Investors paused to assess the optimism around AI and interest-rate cuts that has buoyed markets amid the government shutdown.
 --------------------------------------------------

@@ -6,6 +6,12 @@ Time Published: 2025-10-13T13:28:30Z
 Description: Bank of America Corporation (NYSE:BAC) is one of the best value stocks to invest in now. On September 30, Evercore ISI raised the firm’s price target on Bank...
 --------------------------------------------------
 
+Title: Option Volatility And Earnings Report For October 13 – 17
+URL: https://www.barchart.com/story/news/35403578/option-volatility-and-earnings-report-for-october-13-17
+Time Published: 2025-10-13T11:00:02Z
+Description: Earnings season kicks into gear this week with Bank of America, Taiwan Semiconductor, JP Morgan, Wells Fargo, Citigroup, Morgan Stanley, Goldman Sachs...
+--------------------------------------------------
+
 Title: Stocks Set to Open Sharply Higher as Trump Tempers Tariff Threats, Powell’s Remarks and Big Bank Earnings Awaited
 URL: https://www.barchart.com/story/news/35402785/stocks-set-to-open-sharply-higher-as-trump-tempers-tariff-threats-powells-remarks-and-big-bank-earnings-awaited
 Time Published: 2025-10-13T10:06:35Z
@@ -64,11 +70,5 @@ Description: Markets have had an uncertain week, pulled in different directions 
 Title: Stock market today: Dow sinks 500 points, S&P 500, Nasdaq plummet as Trump threatens 'massive increase' on China tariffs
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-500-points-sp-500-nasdaq-plummet-as-trump-threatens-massive-increase-on-china-tariffs-164432249.html
 Time Published: 2025-10-10T16:44:32Z
-Description: Markets have had an uncertain week, pulled in different directions by AI demand hopes and US government shutdown worries.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq inch higher as shutdown drags on
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-inch-higher-as-shutdown-drags-on-232721490.html
-Time Published: 2025-10-09T23:27:21Z
 Description: Markets have had an uncertain week, pulled in different directions by AI demand hopes and US government shutdown worries.
 --------------------------------------------------
