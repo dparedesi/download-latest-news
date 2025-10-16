@@ -12,16 +12,28 @@ Time Published: 2025-10-14T17:06:05Z
 Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the Best Wide Moat Stocks to Buy Right Now. The company’s wide moat stems from cost...
 --------------------------------------------------
 
-Title: Earnings live: JPMorgan, BlackRock, Wells Fargo, Johnson & Johnson take spotlight as Q3 earnings kick off
-URL: https://finance.yahoo.com/news/live/earnings-live-jpmorgan-blackrock-wells-fargo-johnson--johnson-take-spotlight-as-q3-earnings-kick-off-113555421.html
-Time Published: 2025-10-14T11:35:55Z
-Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+Title: Friday’s selloff broke something in the stock market. Here’s what that means for investors.
+URL: https://www.marketwatch.com/story/fridays-selloff-broke-something-in-the-stock-market-heres-what-that-means-for-investors-f93ae0c3
+Time Published: 2025-10-14T13:44:00Z
+Description: Longview Economics says investors should tread carefully with stocks as something was broken with Friday’s selloff last week.
 --------------------------------------------------
 
 Title: Earnings live: JPMorgan, BlackRock stocks edge lower, Wells Fargo rises as Q3 earnings season kicks off
 URL: https://finance.yahoo.com/news/live/earnings-live-jpmorgan-blackrock-stocks-edge-lower-wells-fargo-rises-as-q3-earnings-season-kicks-off-113555582.html
 Time Published: 2025-10-14T11:35:55Z
 Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
+Title: Earnings live: JPMorgan, BlackRock, Wells Fargo, Johnson & Johnson take spotlight as Q3 earnings kick off
+URL: https://finance.yahoo.com/news/live/earnings-live-jpmorgan-blackrock-wells-fargo-johnson--johnson-take-spotlight-as-q3-earnings-kick-off-113555421.html
+Time Published: 2025-10-14T11:35:55Z
+Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
+Title: Turn Market Volatility Into Income This Earnings Season
+URL: https://www.barchart.com/story/news/35426862/turn-market-volatility-into-income-this-earnings-season
+Time Published: 2025-10-14T11:00:02Z
+Description: Earnings season is here and we’ve got the first batch of big name companies reporting earnings this week with Taiwan Semiconductor, JP Morgan Chase, Wells...
 --------------------------------------------------
 
 Title: Earnings live: JPMorgan, Citi, and other Wall Street banks set to lead off Q3 earnings season
@@ -109,10 +121,4 @@ Title: Taiwan Semiconductor (TSM) Reports Solid Yearly Revenue Growth in Septemb
 URL: https://finance.yahoo.com/news/taiwan-semiconductor-tsm-reports-solid-133527752.html
 Time Published: 2025-10-11T13:35:27Z
 Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the 10 Most Profitable Stocks of the Last 5 Years. On October 9, Taiwan Semiconductor...
---------------------------------------------------
-
-Title: 5 ‘Strong Buy’ Stocks That Could Dominate the AI Economy in the Next 10 Years
-URL: https://www.barchart.com/story/news/35362532/5-strong-buy-stocks-that-could-dominate-the-ai-economy-in-the-next-10-years
-Time Published: 2025-10-10T11:30:02Z
-Description: AI is transforming entire industries at lightning speed, and these five stocks are positioned to lead and capture massive value.
 --------------------------------------------------

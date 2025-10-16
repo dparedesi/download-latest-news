@@ -7,10 +7,22 @@ Full Content:
 Broadcom (AVGO) shares dropped Tuesday morning, giving back a portion of the big gains posted yesterday following news that the chip giant had forged a deal with ChatGPT maker OpenAI. The company said it would collaborate with OpenAI on the development of artificial intelligence accelerator and network systems for delivery from 2026 to 2029. The announcement comes just a week after rival Advanced Micro Devices (AMD) inked a deal with the San Francisco-based AI start-up. Broadcom shares were down nearly 4% at around $343 in recent trading, tracking a broader move lower for U.S. equities, after surging 10% on Monday. Investors have bid up the stock, which has risen about 50% since the start of the year, amid surging demand for custom AI chips as enterprises build out their AI capacity. Below, we take a closer look at Broadcom’s chart and use technical analysis to identify key price levels worth watching out for. After hitting their all-time high last month, Broadcom shares retraced toward the 50-day moving average (MA) before attracting buying interest near the respected indicator. Buying in the stock accelerated yesterday on the highest trading volume in over a month, a move that also coincided with the relative strength index (RSI) reclaiming the 50 threshold to signal a return of bullish price momentum. Let’s point out two key overhead areas to watch on Broadcom’s chart and also identify important support levels worth monitoring during profit-taking episodes. Buying from current levels could initially see a move up to around $374. Tactical traders who have bought the recent pullback may look to lock in profits in this location near the stock’s record high, especially if the RSI simultaneously moves into overbought territory. If the shares enter price discovery mode, investors can forecast a possible overhead target to watch by using bars pattern analysis, a technique that analyzes prior price action to project future directional movements. When applying the analysis to Broadcom’s chart, we take the uptrend from late August to early September and reposition it from last month’s low. This forecasts a bullish target of around $415, implying 16% upside from Monday’s closing price. We selected this prior move as it followed an earlier dip to the 50-day-MA in August, providing clues as to how a new trend higher from the indicator may take shape if price action rhymes. The first support level worth monitoring sits around $324. This area on the chart could attract buying interest near the September and October lows, which currently closely align with the rising 50-day MA. Finally, selling below this important level could spark a more significant drop to the $291 level. Investors could look to accumulate Broadcom shares in this region near a trendline that connects a range of corresponding trading activity on the chart between July and September. The comments, opinions, and analyses expressed on Investopedia are for informational purposes only. Read our warranty and liability disclaimer for more info. As of the date this article was written, the author does not own any of the above securities.
 --------------------------------------------------
 
+Title: Friday’s selloff broke something in the stock market. Here’s what that means for investors.
+URL: https://www.marketwatch.com/story/fridays-selloff-broke-something-in-the-stock-market-heres-what-that-means-for-investors-f93ae0c3
+Time Published: 2025-10-14T13:44:00Z
+Description: Longview Economics says investors should tread carefully with stocks as something was broken with Friday’s selloff last week.
+--------------------------------------------------
+
 Title: Jim Cramer's top 10 things to watch in the stock market Tuesday
 URL: https://www.cnbc.com/2025/10/14/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html
 Time Published: 2025-10-14T13:18:25Z
 Description: Stock futures fell Tuesday as trade tensions between the U.S. and China intensified.
+--------------------------------------------------
+
+Title: Can AMD Stock Reach $300 in 2025?
+URL: https://www.barchart.com/story/news/35432227/can-amd-stock-reach-300-in-2025
+Time Published: 2025-10-14T13:00:02Z
+Description: Barclays just pushed AMD’s target to $300 after its OpenAI tie-up. Can the chipmaker really keep this pace?
 --------------------------------------------------
 
 Title: Stock market today: Dow jumps 600 points, S&P 500, Nasdaq soar as Wall Street rebounds from tariff-fueled rout
@@ -90,23 +102,4 @@ Title: Is AMD's Valuation Justified After OpenAI Partnership and 30% Weekly Stoc
 URL: https://finance.yahoo.com/news/amds-valuation-justified-openai-partnership-071210518.html
 Time Published: 2025-10-11T07:12:10Z
 Description: If you’ve been watching Advanced Micro Devices lately with your finger hovering over the buy or sell button, you’re not alone. The stock has soared an...
---------------------------------------------------
-
-Title: Stocks Fall Sharply on China Trade Tensions
-URL: https://www.barchart.com/story/news/35375460/stocks-fall-sharply-on-china-trade-tensions
-Time Published: 2025-10-10T20:40:20Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed down -2.71%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -1.90%, and the Nasdaq 100 Index (...
---------------------------------------------------
-
-Title: Lisa Su has built AMD into a $378 billion microchip titan. So why isn't she richer?
-URL: https://www.businessinsider.com/amd-stock-lisa-su-wealth-ai-microchips-nvidia-jensen-billionaires-2025-10
-Time Published: 2025-10-10T14:20:54Z
-Full Content:
-Every time Theron publishes a story, you’ll get an alert straight to your inbox! Enter your email By clicking “Sign up”, you agree to receive emails from Business Insider. In addition, you accept Insider’s Terms of Service and Privacy Policy. Lisa Su, the CEO of Advanced Micro Devices, has built one of the world's most valuable companies and made investors billions — but is barely a billionaire herself. She has delivered a 70-fold increase in her company's stock price during her 11 years in charge, including a 41% surge this week to fresh highs thanks to its OpenAI partnership. The chipmaker's market value has soared to $378 billion, surpassing Home Depot, Bank of America, and Procter & Gamble. Yet Su doesn't rank among the world's 500 richest people, per the Bloomberg Billionaires Index. Forbes puts her net worth at $1.5 billion — less than 1% of the $167 billion fortune of her rival and distant cousin, Jensen Huang, the CEO of chipmaker Nvidia. There is one big difference: Huang cofounded Nvidia, while AMD was established in 1969 by a group of engineers who had left Fairchild Semiconductor. One of them, Jerry Sanders, served as CEO until 2002. AMD filings show Su has amassed about 4.7 million shares or a 0.3% stake, worth about $1.1 billion based on the company's stock price ahead of Friday's market open. Her compensation, including salary, bonuses, and stock options, totaled around $31 million last year, per the filings. Su's small ownership stake is the main reason she's not worth more. For comparison, Huang still owns close to a 4% stake in Nvidia, which is worth upward of $160 billion despite significant dilution over the years. Nvidia is also about 12 times larger than AMD, with an unmatched $4.7 trillion market capitalization. Oracle's $847 billion market value is a little over double AMD's figure, but cofounder Larry Ellison owns nearly 41% of the enterprise-software giant — a roughly $350 billion stake that makes him the world's second-wealthiest man after Elon Musk on both Bloomberg and Forbes' rich lists. The difference in size between Su's fortune and theirs underscores that founding a company, and retaining a large stake in it, is the most common path to enormous wealth. Seven of the top 10 people on Bloomberg's list are founders, and another two, Elon Musk and Warren Buffett, shaped their companies, Tesla and Berkshire Hathaway, in their respective images as much as any founder. Steve Ballmer, who joined Microsoft as Bill Gates' assistant in 1980 and later became CEO, is a rare exception because he parlayed a quirk in his contract into a sizable equity stake. AMD stock has almost doubled this year as investors buy into Su's vision of building an AI hardware, software, and services ecosystem. Su isn't likely to crack the top 10 of the rich list soon, but if her shares keep soaring, she could be worth billions more. Your daily guide to what's moving markets — straight to your inbox. Sign up chevron down icon An icon in the shape of an angle pointing down. Jump to
---------------------------------------------------
-
-Title: 5 ‘Strong Buy’ Stocks That Could Dominate the AI Economy in the Next 10 Years
-URL: https://www.barchart.com/story/news/35362532/5-strong-buy-stocks-that-could-dominate-the-ai-economy-in-the-next-10-years
-Time Published: 2025-10-10T11:30:02Z
-Description: AI is transforming entire industries at lightning speed, and these five stocks are positioned to lead and capture massive value.
 --------------------------------------------------

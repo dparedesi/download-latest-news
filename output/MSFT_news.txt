@@ -1,5 +1,35 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: CSX (CSX) Reports Q3: Everything You Need To Know Ahead Of Earnings
+URL: https://finance.yahoo.com/news/csx-csx-reports-q3-everything-030327973.html
+Time Published: 2025-10-15T03:03:27Z
+Description: Freight rail services provider CSX (NASDAQ:CSX) will be reporting earnings this Thursday afternoon. Here’s what to look for.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as strong bank earnings, rate-cut hopes soothe US-China jitters
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-strong-bank-earnings-rate-cut-hopes-soothe-us-china-jitters-231143129.html
+Time Published: 2025-10-14T23:11:43Z
+Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq climb amid strong bank earnings, rate-cut hopes
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-amid-strong-bank-earnings-rate-cut-hopes-231143771.html
+Time Published: 2025-10-14T23:11:43Z
+Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq slip amid strong bank earnings, rate-cut hopes
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-amid-strong-bank-earnings-rate-cut-hopes-231143750.html
+Time Published: 2025-10-14T23:11:43Z
+Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq climb as strong bank earnings, rate-cut hopes soothe US-China jitters
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-as-strong-bank-earnings-rate-cut-hopes-soothe-us-china-jitters-231143652.html
+Time Published: 2025-10-14T23:11:43Z
+Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
+--------------------------------------------------
+
 Title: This Protects You From An AI Bubble, Pays 7.7% Dividends
 URL: https://www.forbes.com/sites/michaelfoster/2025/10/14/this-protects-you-from-an-ai-bubble-pays-77-dividends/
 Time Published: 2025-10-14T16:31:00Z
@@ -11,6 +41,18 @@ Title: Stocks Turn Mixed as Walmart-OpenAI Deal Pushes Dow Higher
 URL: https://www.barchart.com/story/news/35436979/stocks-pressured-from-us-china-trade-dispute
 Time Published: 2025-10-14T15:16:59Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up 0.09%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up 0.54%, and the Nasdaq-100 Index ($IUXX ) (QQQ ) is ...
+--------------------------------------------------
+
+Title: Stocks Fall as US-China Trade Conflict Escalates
+URL: https://www.barchart.com/story/news/35435355/stocks-fall-as-us-china-trade-conflict-escalates
+Time Published: 2025-10-14T14:13:54Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.99%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.86%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
+Title: Can AMD Stock Reach $300 in 2025?
+URL: https://www.barchart.com/story/news/35432227/can-amd-stock-reach-300-in-2025
+Time Published: 2025-10-14T13:00:02Z
+Description: Barclays just pushed AMD’s target to $300 after its OpenAI tie-up. Can the chipmaker really keep this pace?
 --------------------------------------------------
 
 Title: Stocks Settle Sharply Higher on Trade Hopes and AI Optimism
@@ -54,28 +96,4 @@ Title: Stock market today: Dow, S&P 500, Nasdaq stage comeback as Trump tempers 
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stage-comeback-as-trump-tempers-tariff-talk-toward-china-231010620.html
 Time Published: 2025-10-12T23:10:10Z
 Description: Markets are assessing Trump's retreat from combative comments on China.
---------------------------------------------------
-
-Title: Stocks Fall Sharply on China Trade Tensions
-URL: https://www.barchart.com/story/news/35375460/stocks-fall-sharply-on-china-trade-tensions
-Time Published: 2025-10-10T20:40:20Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed down -2.71%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -1.90%, and the Nasdaq 100 Index (...
---------------------------------------------------
-
-Title: This is the dumbest stock market in history
-URL: https://www.marketwatch.com/story/this-is-the-dumbest-stock-market-in-history-815aaa05
-Time Published: 2025-10-10T17:40:00Z
-Description: Wisdom of crowds, indeed.
---------------------------------------------------
-
-Title: 5 ‘Strong Buy’ Stocks That Could Dominate the AI Economy in the Next 10 Years
-URL: https://www.barchart.com/story/news/35362532/5-strong-buy-stocks-that-could-dominate-the-ai-economy-in-the-next-10-years
-Time Published: 2025-10-10T11:30:02Z
-Description: AI is transforming entire industries at lightning speed, and these five stocks are positioned to lead and capture massive value.
---------------------------------------------------
-
-Title: AI Stocks- After Data Center Construction Boom, Will Profits Flow
-URL: https://finance.yahoo.com/news/ai-stocks-data-center-construction-050100480.html
-Time Published: 2025-10-10T05:01:00Z
-Description: The lure of riches and tight capacity today has money flooding into the construction of Artificial Intelligence (AI) data centers. The irony is that...
 --------------------------------------------------
