@@ -1,5 +1,17 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Earnings live: Bank of America, LVMH, and ASML stocks jump on strong results
+URL: https://finance.yahoo.com/news/live/earnings-live-bank-of-america-lvmh-and-asml-stocks-jump-on-strong-results-113031603.html
+Time Published: 2025-10-15T11:30:31Z
+Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
+Title: Earnings live: Bank of America, Morgan Stanley, LVMH, and ASML stocks jump on strong results
+URL: https://finance.yahoo.com/news/live/earnings-live-bank-of-america-morgan-stanley-lvmh-and-asml-stocks-jump-on-strong-results-113031714.html
+Time Published: 2025-10-15T11:30:31Z
+Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
 Title: Jim Cramer on Taiwan Semiconductor’s Earnings: “I Expect a Very Rosy Picture”
 URL: https://finance.yahoo.com/news/jim-cramer-taiwan-semiconductor-earnings-172207811.html
 Time Published: 2025-10-14T17:22:07Z
@@ -18,14 +30,14 @@ Time Published: 2025-10-14T13:44:00Z
 Description: Longview Economics says investors should tread carefully with stocks as something was broken with Friday’s selloff last week.
 --------------------------------------------------
 
-Title: Earnings live: JPMorgan, BlackRock, Wells Fargo, Johnson & Johnson take spotlight as Q3 earnings kick off
-URL: https://finance.yahoo.com/news/live/earnings-live-jpmorgan-blackrock-wells-fargo-johnson--johnson-take-spotlight-as-q3-earnings-kick-off-113555421.html
+Title: Earnings live: JPMorgan, BlackRock stocks edge lower, Wells Fargo rises as Q3 earnings season kicks off
+URL: https://finance.yahoo.com/news/live/earnings-live-jpmorgan-blackrock-stocks-edge-lower-wells-fargo-rises-as-q3-earnings-season-kicks-off-113555582.html
 Time Published: 2025-10-14T11:35:55Z
 Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
 
-Title: Earnings live: JPMorgan, BlackRock stocks edge lower, Wells Fargo rises as Q3 earnings season kicks off
-URL: https://finance.yahoo.com/news/live/earnings-live-jpmorgan-blackrock-stocks-edge-lower-wells-fargo-rises-as-q3-earnings-season-kicks-off-113555582.html
+Title: Earnings live: JPMorgan, BlackRock, Wells Fargo, Johnson & Johnson take spotlight as Q3 earnings kick off
+URL: https://finance.yahoo.com/news/live/earnings-live-jpmorgan-blackrock-wells-fargo-johnson--johnson-take-spotlight-as-q3-earnings-kick-off-113555421.html
 Time Published: 2025-10-14T11:35:55Z
 Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------

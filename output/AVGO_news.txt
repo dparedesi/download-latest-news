@@ -1,5 +1,36 @@
 List of news related to Broadcom AVGO:
 
+Title: Broadcom (AVGO) Price Target Raised on Massive OpenAI Custom Chip Partnership
+URL: https://finance.yahoo.com/news/broadcom-avgo-price-target-raised-160017824.html
+Time Published: 2025-10-15T15:58:15Z
+Description: Broadcom Inc. (NASDAQ:AVGO) is one of the AI Stocks in Focus on Wall Street. On October 13, Mizuho raised its price target on the stock to $430.00 from...
+--------------------------------------------------
+
+Title: Silicon Valley is plowing money into AI, and the latest deals are eye-watering
+URL: https://finance.yahoo.com/news/silicon-valley-is-plowing-money-into-ai-and-the-latest-deals-are-eye-watering-155525505.html
+Time Published: 2025-10-15T15:55:25Z
+Description: Big Tech is spending billions on AI deals, but the web of agreements is getting difficult to follow. We break down the latest deals to make it easier to...
+--------------------------------------------------
+
+Title: What Chipmaking Equipment Giant ASML's Q3 Results Said About AI Demand, China Trade
+URL: https://www.investopedia.com/what-chipmaking-equipment-giant-asml-q3-results-said-about-ai-demand-china-trade-11830006
+Time Published: 2025-10-15T15:55:20Z
+Full Content:
+Chipmaking equipment supplier ASML says it's upbeat on AI demand, even in the face trade policy headwinds. The Netherlands-based firm said it doesn't see its 2026 sales falling from 2025 levels even though it expects sales in China to “decline significantly,” thanks in part to strong demand for its machines to make chips supporting AI data centers. CEO Christophe Fouquet said the company has seen “continued positive momentum around investments in AI, and (has) also seen this extending to more customers.” U.S.-listed shares of ASML (ASML) were up about 3% in recent trading. Shares of other companies in the semiconductor industry, including Nvidia (NVDA), Broadcom (AVGO), Advanced Micro Devices (AMD), and Lam Research (LRCX), also gained after a down day for the sector yesterday. As one of the world’s leading suppliers of chipmaking equipment, ASML's results can be taken as a signal of whether chipmakers are feeling confident in the future of their businesses. ASML reported third-quarter earnings per share of 5.49 euros ($6.38), above analysts' estimates compiled by Visible Alpha, though its revenue of 7.52 billion euros ($8.74 billion) missed. Fouquet said ASML sees current-quarter sales of between 9.2 billion and 9.8 billion euros ($10.7 billion and $11.4 billion), above the analyst consensus, and that the company plans to provide more details on its 2026 outlook in January. With Wednesday's gains, ASML shares have added 46% in 2025 so far.
+--------------------------------------------------
+
+Title: Jim Cramer Says Broadcom “Rarely Gets the Attention it Deserves”
+URL: https://finance.yahoo.com/news/jim-cramer-says-broadcom-rarely-142026419.html
+Time Published: 2025-10-15T14:20:26Z
+Description: Broadcom Inc. (NASDAQ:AVGO) is one of the stocks on Jim Cramer’s radar. Cramer mentioned the company’s deal with OpenAI, as he commented: “We got this...
+--------------------------------------------------
+
+Title: Broadcom (AVGO) Unveils AI Networking Solutions at OCP Summit
+URL: https://finance.yahoo.com/news/broadcom-avgo-unveils-ai-networking-142011055.html
+Time Published: 2025-10-15T14:20:11Z
+Description: Broadcom Inc. (NASDAQ:AVGO) is one of the 11 Best American Semiconductor Stocks to Invest In. On October 8, Broadcom Inc. (NASDAQ:AVGO) reported that it will...
+--------------------------------------------------
+
 Title: Trade Jitters Weigh on Stocks
 URL: https://www.barchart.com/story/news/35444120/trade-jitters-weigh-on-stocks
 Time Published: 2025-10-14T20:45:24Z
@@ -154,7 +185,7 @@ Title: Bitcoin Miners Lead Crypto Stock Bounce as OpenAI-Broadcom Deal Fuels AI 
 URL: https://www.coindesk.com/markets/2025/10/13/bitcoin-miners-lead-crypto-stock-bounce-as-openai-broadcom-deal-fuels-ai-trade
 Time Published: 2025-10-13T19:31:28Z
 Full Content:
-Crypto mining stocks tied to the red-hot artificial intelligence (AI) data center trade were the fastest horses on Monday to recover from Friday's market rout. Bitfarms (BITF) and Cipher Mining (CIFR) surged 26% and 20% respectively on Monday, while Bitdeer (BTDR), IREN (IREN) and MARA Holdings (MARA) advanced around 10%. The rally reflects optimism that booming AI compute demand will help miners. Perhaps boosting sentiment was ChatGPT creator OpenAI striking a deal with chipmaker Broadcom (AVGO) to build up custom chips for AI and machine learning. Also on Monday, Bloom Energy (BE) announced a $5 billion deal with Brookfield Asset Management to deploy fuel cells in data centers to satisfy AI's voracious energy demand. The gains occurred after Friday's steep downturn as trade tensions between the U.S. and China ratcheted up, with Trump imposing a 100% increase in tariffs on Chinese goods to retaliate against tightening rare earth metals export controls. Investor concerns eased somewhat over the weekend, and the Nasdaq and S&P 500 indexes were up 2.1% and 1.4% on Monday. Other crypto related names enjoyed modest gains. Strategy (MSTR), the world's largest bitcoin treasury firm, climbed 2.8%, while crypto exchange Coinbase was roughly flat. Digital brokerage Robinhood, which earns a large portion of its revenue from crypto trading, was up 1%. Ethereum ETH$4,050.66 treasury firm BitMine (BMNR), meanwhile, bounced almost 7% as the firm said to capitalize on the crypto plunge of the past few days, purchasing over 200,000 tokens worth over $840 million at current prices. Read more: Tom Lee's BitMine Bought the Dip, Adding Over 200K ETH to Ethereum Treasury More For You Crypto Trading Volumes Fall 17.5% in September Despite Record Open Interest Combined spot and derivatives volumes fell 17.5% in September, continuing a four-year seasonal trend What to know: More For You Bitfarms Launches $300M Convertible Note Offering, Shares Drop Pre-Market Bitfarms share price has soared over 315% year to date, due to AI/HPC pivot. What to know: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
+Crypto mining stocks tied to the red-hot artificial intelligence (AI) data center trade were the fastest horses on Monday to recover from Friday's market rout. Bitfarms (BITF) and Cipher Mining (CIFR) surged 26% and 20% respectively on Monday, while Bitdeer (BTDR), IREN (IREN) and MARA Holdings (MARA) advanced around 10%. The rally reflects optimism that booming AI compute demand will help miners. Perhaps boosting sentiment was ChatGPT creator OpenAI striking a deal with chipmaker Broadcom (AVGO) to build up custom chips for AI and machine learning. Also on Monday, Bloom Energy (BE) announced a $5 billion deal with Brookfield Asset Management to deploy fuel cells in data centers to satisfy AI's voracious energy demand. The gains occurred after Friday's steep downturn as trade tensions between the U.S. and China ratcheted up, with Trump imposing a 100% increase in tariffs on Chinese goods to retaliate against tightening rare earth metals export controls. Investor concerns eased somewhat over the weekend, and the Nasdaq and S&P 500 indexes were up 2.1% and 1.4% on Monday. Other crypto related names enjoyed modest gains. Strategy (MSTR), the world's largest bitcoin treasury firm, climbed 2.8%, while crypto exchange Coinbase was roughly flat. Digital brokerage Robinhood, which earns a large portion of its revenue from crypto trading, was up 1%. Ethereum ETH$3,939.56 treasury firm BitMine (BMNR), meanwhile, bounced almost 7% as the firm said to capitalize on the crypto plunge of the past few days, purchasing over 200,000 tokens worth over $840 million at current prices. Read more: Tom Lee's BitMine Bought the Dip, Adding Over 200K ETH to Ethereum Treasury More For You Crypto Trading Volumes Fall 17.5% in September Despite Record Open Interest Combined spot and derivatives volumes fell 17.5% in September, continuing a four-year seasonal trend What to know: More For You Stellar Slides Late as Volatility Returns Despite Institutional Milestone WisdomTree introduces Europe's first physically-backed Stellar exchange-traded product amid heightened competition in digital payments infrastructure. What to know: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
 --------------------------------------------------
 
 Title: Broadcom Stock: The Latest to Enjoy OpenAI Tailwinds
@@ -209,14 +240,14 @@ Time Published: 2025-10-13T14:04:26Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +1.22%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.91%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
-Title: OpenAI and Broadcom sign deal to build up to 10 gigawatts of custom chips, Broadcom stock surges
-URL: https://finance.yahoo.com/news/openai-and-broadcom-sign-deal-to-build-up-to-10-gigawatts-of-custom-chips-broadcom-stock-surges-135932920.html
+Title: OpenAI and Broadcom sign deal to build up to 10 gigawatts of custom chips, Broadcom stock jumps more than 7%
+URL: https://finance.yahoo.com/news/openai-and-broadcom-sign-deal-to-build-up-to-10-gigawatts-of-custom-chips-broadcom-stock-jumps-more-than-7-135932845.html
 Time Published: 2025-10-13T13:59:32Z
 Description: OpenAI and Broadcom have entered an agreement that will see the companies collaborate on up to 10 gigwatts of custom AI acclerators.
 --------------------------------------------------
 
-Title: OpenAI and Broadcom sign deal to build up to 10 gigawatts of custom chips, Broadcom stock jumps more than 7%
-URL: https://finance.yahoo.com/news/openai-and-broadcom-sign-deal-to-build-up-to-10-gigawatts-of-custom-chips-broadcom-stock-jumps-more-than-7-135932845.html
+Title: OpenAI and Broadcom sign deal to build up to 10 gigawatts of custom chips, Broadcom stock surges
+URL: https://finance.yahoo.com/news/openai-and-broadcom-sign-deal-to-build-up-to-10-gigawatts-of-custom-chips-broadcom-stock-surges-135932920.html
 Time Published: 2025-10-13T13:59:32Z
 Description: OpenAI and Broadcom have entered an agreement that will see the companies collaborate on up to 10 gigwatts of custom AI acclerators.
 --------------------------------------------------
@@ -283,16 +314,4 @@ Title: Goldman Sachs Reiterates Buy on Broadcom (AVGO), Calls It a Leader in AI 
 URL: https://finance.yahoo.com/news/goldman-sachs-reiterates-buy-broadcom-222818219.html
 Time Published: 2025-10-11T22:28:18Z
 Description: Broadcom Inc. (NASDAQ:AVGO) is one of the Hot AI Stocks to Keep on Your Radar. On October 9, Goldman Sachs reiterated the stock as “Buy.” Analyst Jim...
---------------------------------------------------
-
-Title: Jim Cramer on Broadcom: “It Wouldn’t Hurt You to Buy More”
-URL: https://finance.yahoo.com/news/jim-cramer-broadcom-wouldn-t-140322600.html
-Time Published: 2025-10-11T14:03:22Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of the stocks Jim Cramer recently offered insights on. Mentioning that they bought a small position in the stock three...
---------------------------------------------------
-
-Title: KeyBanc Raises Broadcom (AVGO) PT, Keeps Overweight Rating
-URL: https://finance.yahoo.com/news/keybanc-raises-broadcom-avgo-pt-133529083.html
-Time Published: 2025-10-11T13:35:29Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of the 10 Most Profitable Stocks of the Last 5 Years. On September 30, KeyBanc Capital Markets kept an Overweight rating...
 --------------------------------------------------
