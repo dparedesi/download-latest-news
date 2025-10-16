@@ -6,6 +6,18 @@ Time Published: 2025-10-15T03:03:27Z
 Description: Freight rail services provider CSX (NASDAQ:CSX) will be reporting earnings this Thursday afternoon. Here’s what to look for.
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq slip amid strong bank earnings, rate-cut hopes
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-amid-strong-bank-earnings-rate-cut-hopes-231143750.html
+Time Published: 2025-10-14T23:11:43Z
+Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq climb as strong bank earnings, rate-cut hopes soothe US-China jitters
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-as-strong-bank-earnings-rate-cut-hopes-soothe-us-china-jitters-231143652.html
+Time Published: 2025-10-14T23:11:43Z
+Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as strong bank earnings, rate-cut hopes soothe US-China jitters
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-strong-bank-earnings-rate-cut-hopes-soothe-us-china-jitters-231143129.html
 Time Published: 2025-10-14T23:11:43Z
@@ -18,16 +30,10 @@ Time Published: 2025-10-14T23:11:43Z
 Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq slip amid strong bank earnings, rate-cut hopes
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-amid-strong-bank-earnings-rate-cut-hopes-231143750.html
-Time Published: 2025-10-14T23:11:43Z
-Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq climb as strong bank earnings, rate-cut hopes soothe US-China jitters
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-as-strong-bank-earnings-rate-cut-hopes-soothe-us-china-jitters-231143652.html
-Time Published: 2025-10-14T23:11:43Z
-Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
+Title: Shorting Microsoft Out-of-the-Money Put Options Works Well for Defensive Investors
+URL: https://www.barchart.com/story/news/35440259/shorting-microsoft-out-of-the-money-put-options-works-well-for-defensive-investors
+Time Published: 2025-10-14T17:31:09Z
+Description: Selling short out-of-the-money put options in Microsoft is a proven strategy to make income and potentially set a lower buy-in point for new investors. This ...
 --------------------------------------------------
 
 Title: This Protects You From An AI Bubble, Pays 7.7% Dividends
