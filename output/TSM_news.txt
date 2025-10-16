@@ -1,13 +1,13 @@
 List of news related to Taiwan Semiconductor TSM:
 
-Title: Earnings live: Bank of America, LVMH, and ASML stocks jump on strong results
-URL: https://finance.yahoo.com/news/live/earnings-live-bank-of-america-lvmh-and-asml-stocks-jump-on-strong-results-113031603.html
+Title: Earnings live: Bank of America, Morgan Stanley, LVMH, and ASML stocks jump on strong results
+URL: https://finance.yahoo.com/news/live/earnings-live-bank-of-america-morgan-stanley-lvmh-and-asml-stocks-jump-on-strong-results-113031714.html
 Time Published: 2025-10-15T11:30:31Z
 Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
 
-Title: Earnings live: Bank of America, Morgan Stanley, LVMH, and ASML stocks jump on strong results
-URL: https://finance.yahoo.com/news/live/earnings-live-bank-of-america-morgan-stanley-lvmh-and-asml-stocks-jump-on-strong-results-113031714.html
+Title: Earnings live: Bank of America, LVMH, and ASML stocks jump on strong results
+URL: https://finance.yahoo.com/news/live/earnings-live-bank-of-america-lvmh-and-asml-stocks-jump-on-strong-results-113031603.html
 Time Published: 2025-10-15T11:30:31Z
 Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
