@@ -1,5 +1,12 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Reasons Behind Microsoft's Recent 40% Stock Surge
+URL: https://www.forbes.com/sites/greatspeculations/2025/10/15/reasons-behind-microsofts-recent-40-stock-surge/
+Time Published: 2025-10-15T10:14:55Z
+Full Content:
+ByTrefis Team, Contributor. From a quantitative perspective, the 40.1% fluctuation in Microsoft (MSFT) stock between 4/17/2025 and 10/14/2025 can be largely attributed to a 27.5% variation in the company's P/E Multiple. Although there is more to this narrative than mere figures, let’s first analyze the stock price trends and their influencing factors. Investing in a single stock can be risky, but there is considerable advantage to a more diversified strategy, such as the one we take with Trefis High Quality Portfolio. Should you invest in one stock that appeals to you, or should you create a portfolio that is structured to succeed throughout market cycles? Our analyses indicate that the High Quality Portfolio has transformed the uncertainty of stock selection into reliable market-outperforming results. This portfolio is part of the asset allocation framework of Empirical Asset Management – a Boston-based wealth management firm and Trefis collaborator – whose asset allocation strategy achieved positive returns during the 2008-09 crisis when the S&P 500 plummeted by over 40%. Returning to the "change": The shifts in fundamental aspects such as valuation, revenue, and profit margins reflect underlying business dynamics and investor sentiment. Below, we outline the key factors that affected the stock price movements for MSFT. For context, MSFT provides software, services, devices, and solutions, including Office, Microsoft Teams, Windows OEM licensing, and productivity tools to meet both business and personal computing demands. Opinion: At present, we view MSFT stock as relatively overpriced. Why is that the case? Investigate the complete narrative. Read Buy or Sell MSFT Stock to understand the factors influencing our current viewpoint. Risk: Nonetheless, Microsoft is not immune to significant declines. It experienced a drop of approximately 65% during the Dot-Com bubble and nearly 58% in the Global Financial Crisis. Recent shocks have also led to considerable declines — around 37% in the inflation spike and nearly 28% amid the Covid sell-off. The lesser correction in 2018 still resulted in a fall of over 18%. Strong fundamentals are essential, but when the market undergoes severe sell-offs, even leading stocks like MSFT can be caught in the downturn. Consistently identifying winners is a challenging endeavor — particularly given the volatility that comes with an individual stock. Instead, the Trefis High Quality (HQ) Portfolio, comprising of 30 stocks, has a proven history of significantly outperforming the S&P 500 throughout the last four years. Why does that happen? Collectively, HQ Portfolio stocks have delivered superior returns with reduced risk compared to the benchmark index; it’s been less of a roller-coaster experience, as illustrated by the HQ Portfolio performance metrics.
+--------------------------------------------------
+
 Title: CSX (CSX) Reports Q3: Everything You Need To Know Ahead Of Earnings
 URL: https://finance.yahoo.com/news/csx-csx-reports-q3-everything-030327973.html
 Time Published: 2025-10-15T03:03:27Z
@@ -8,12 +15,6 @@ Description: Freight rail services provider CSX (NASDAQ:CSX) will be reporting e
 
 Title: Stock market today: Dow, S&P 500, Nasdaq slip amid strong bank earnings, rate-cut hopes
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-amid-strong-bank-earnings-rate-cut-hopes-231143750.html
-Time Published: 2025-10-14T23:11:43Z
-Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq climb as strong bank earnings, rate-cut hopes soothe US-China jitters
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-as-strong-bank-earnings-rate-cut-hopes-soothe-us-china-jitters-231143652.html
 Time Published: 2025-10-14T23:11:43Z
 Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
 --------------------------------------------------
@@ -28,6 +29,18 @@ Title: Stock market today: Dow, S&P 500, Nasdaq climb amid strong bank earnings,
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-amid-strong-bank-earnings-rate-cut-hopes-231143771.html
 Time Published: 2025-10-14T23:11:43Z
 Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq climb as strong bank earnings, rate-cut hopes soothe US-China jitters
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-as-strong-bank-earnings-rate-cut-hopes-soothe-us-china-jitters-231143652.html
+Time Published: 2025-10-14T23:11:43Z
+Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
+--------------------------------------------------
+
+Title: Trade Jitters Weigh on Stocks
+URL: https://www.barchart.com/story/news/35444120/trade-jitters-weigh-on-stocks
+Time Published: 2025-10-14T20:45:24Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -0.16%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.44%, and the Nasdaq 100 Index ($...
 --------------------------------------------------
 
 Title: Shorting Microsoft Out-of-the-Money Put Options Works Well for Defensive Investors

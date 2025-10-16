@@ -1,9 +1,21 @@
 List of news related to Broadcom AVGO:
 
+Title: Trade Jitters Weigh on Stocks
+URL: https://www.barchart.com/story/news/35444120/trade-jitters-weigh-on-stocks
+Time Published: 2025-10-14T20:45:24Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -0.16%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.44%, and the Nasdaq 100 Index ($...
+--------------------------------------------------
+
 Title: Walmart stock hits all-time high after announcing partnership with OpenAI
 URL: https://finance.yahoo.com/news/walmart-stock-hits-all-time-high-after-announcing-partnership-with-openai-201032798.html
 Time Published: 2025-10-14T20:10:32Z
 Description: Walmart is the latest company to announce a partnership with OpenAI.
+--------------------------------------------------
+
+Title: ‘Absolutely' a market bubble: Wall Street sounds the alarm on AI-driven boom as investors go all in
+URL: https://finance.yahoo.com/news/absolutely-a-market-bubble-wall-street-sounds-the-alarm-on-ai-driven-boom-as-investors-go-all-in-200449201.html
+Time Published: 2025-10-14T20:04:49Z
+Description: Wall Street is warning the AI trade may be overheating as record spending, investor optimism, and soaring valuations fuel fresh fears of a bubble.
 --------------------------------------------------
 
 Title: Walmart stock pops on OpenAI partnership to create a ChatGPT shopping experience
@@ -107,14 +119,14 @@ Time Published: 2025-10-13T23:33:14Z
 Description: China upped the ante in its trade spat with the US, rattling investors' nerves as big Wall Street banks kicked off earnings season.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq slide as US-China tensions simmer; Dow steadies as big banks report
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-slide-as-us-china-tensions-simmer-dow-steadies-as-big-banks-report-233314488.html
+Title: Stock market today: S&P 500 and Dow turn higher, Nasdaq dips with Fed's Powell, China tariff tensions in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-and-dow-turn-higher-nasdaq-dips-with-feds-powell-china-tariff-tensions-in-focus-233314697.html
 Time Published: 2025-10-13T23:33:14Z
 Description: China upped the ante in its trade spat with the US, rattling investors' nerves as big Wall Street banks kicked off earnings season.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500 and Dow turn higher, Nasdaq dips with Fed's Powell, China tariff tensions in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-and-dow-turn-higher-nasdaq-dips-with-feds-powell-china-tariff-tensions-in-focus-233314697.html
+Title: Stock market today: S&P 500, Nasdaq slide as US-China tensions simmer; Dow steadies as big banks report
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-slide-as-us-china-tensions-simmer-dow-steadies-as-big-banks-report-233314488.html
 Time Published: 2025-10-13T23:33:14Z
 Description: China upped the ante in its trade spat with the US, rattling investors' nerves as big Wall Street banks kicked off earnings season.
 --------------------------------------------------
@@ -142,7 +154,7 @@ Title: Bitcoin Miners Lead Crypto Stock Bounce as OpenAI-Broadcom Deal Fuels AI 
 URL: https://www.coindesk.com/markets/2025/10/13/bitcoin-miners-lead-crypto-stock-bounce-as-openai-broadcom-deal-fuels-ai-trade
 Time Published: 2025-10-13T19:31:28Z
 Full Content:
-Crypto mining stocks tied to the red-hot artificial intelligence (AI) data center trade were the fastest horses on Monday to recover from Friday's market rout. Bitfarms (BITF) and Cipher Mining (CIFR) surged 26% and 20% respectively on Monday, while Bitdeer (BTDR), IREN (IREN) and MARA Holdings (MARA) advanced around 10%. The rally reflects optimism that booming AI compute demand will help miners. Perhaps boosting sentiment was ChatGPT creator OpenAI striking a deal with chipmaker Broadcom (AVGO) to build up custom chips for AI and machine learning. Also on Monday, Bloom Energy (BE) announced a $5 billion deal with Brookfield Asset Management to deploy fuel cells in data centers to satisfy AI's voracious energy demand. The gains occurred after Friday's steep downturn as trade tensions between the U.S. and China ratcheted up, with Trump imposing a 100% increase in tariffs on Chinese goods to retaliate against tightening rare earth metals export controls. Investor concerns eased somewhat over the weekend, and the Nasdaq and S&P 500 indexes were up 2.1% and 1.4% on Monday. Other crypto related names enjoyed modest gains. Strategy (MSTR), the world's largest bitcoin treasury firm, climbed 2.8%, while crypto exchange Coinbase was roughly flat. Digital brokerage Robinhood, which earns a large portion of its revenue from crypto trading, was up 1%. Ethereum ETH$4,044.48 treasury firm BitMine (BMNR), meanwhile, bounced almost 7% as the firm said to capitalize on the crypto plunge of the past few days, purchasing over 200,000 tokens worth over $840 million at current prices. Read more: Tom Lee's BitMine Bought the Dip, Adding Over 200K ETH to Ethereum Treasury More For You Crypto Trading Volumes Fall 17.5% in September Despite Record Open Interest Combined spot and derivatives volumes fell 17.5% in September, continuing a four-year seasonal trend What to know: More For You Ripple, Immunefi Launch $200K Bug Hunt for XRPL’s New Institutional Lending Protocol Researchers will focus on vulnerabilities that could threaten fund safety or protocol solvency. What to know: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
+Crypto mining stocks tied to the red-hot artificial intelligence (AI) data center trade were the fastest horses on Monday to recover from Friday's market rout. Bitfarms (BITF) and Cipher Mining (CIFR) surged 26% and 20% respectively on Monday, while Bitdeer (BTDR), IREN (IREN) and MARA Holdings (MARA) advanced around 10%. The rally reflects optimism that booming AI compute demand will help miners. Perhaps boosting sentiment was ChatGPT creator OpenAI striking a deal with chipmaker Broadcom (AVGO) to build up custom chips for AI and machine learning. Also on Monday, Bloom Energy (BE) announced a $5 billion deal with Brookfield Asset Management to deploy fuel cells in data centers to satisfy AI's voracious energy demand. The gains occurred after Friday's steep downturn as trade tensions between the U.S. and China ratcheted up, with Trump imposing a 100% increase in tariffs on Chinese goods to retaliate against tightening rare earth metals export controls. Investor concerns eased somewhat over the weekend, and the Nasdaq and S&P 500 indexes were up 2.1% and 1.4% on Monday. Other crypto related names enjoyed modest gains. Strategy (MSTR), the world's largest bitcoin treasury firm, climbed 2.8%, while crypto exchange Coinbase was roughly flat. Digital brokerage Robinhood, which earns a large portion of its revenue from crypto trading, was up 1%. Ethereum ETH$4,050.66 treasury firm BitMine (BMNR), meanwhile, bounced almost 7% as the firm said to capitalize on the crypto plunge of the past few days, purchasing over 200,000 tokens worth over $840 million at current prices. Read more: Tom Lee's BitMine Bought the Dip, Adding Over 200K ETH to Ethereum Treasury More For You Crypto Trading Volumes Fall 17.5% in September Despite Record Open Interest Combined spot and derivatives volumes fell 17.5% in September, continuing a four-year seasonal trend What to know: More For You Bitfarms Launches $300M Convertible Note Offering, Shares Drop Pre-Market Bitfarms share price has soared over 315% year to date, due to AI/HPC pivot. What to know: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
 --------------------------------------------------
 
 Title: Broadcom Stock: The Latest to Enjoy OpenAI Tailwinds
@@ -197,14 +209,14 @@ Time Published: 2025-10-13T14:04:26Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +1.22%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.91%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
-Title: OpenAI and Broadcom sign deal to build up to 10 gigawatts of custom chips, Broadcom stock jumps more than 7%
-URL: https://finance.yahoo.com/news/openai-and-broadcom-sign-deal-to-build-up-to-10-gigawatts-of-custom-chips-broadcom-stock-jumps-more-than-7-135932845.html
+Title: OpenAI and Broadcom sign deal to build up to 10 gigawatts of custom chips, Broadcom stock surges
+URL: https://finance.yahoo.com/news/openai-and-broadcom-sign-deal-to-build-up-to-10-gigawatts-of-custom-chips-broadcom-stock-surges-135932920.html
 Time Published: 2025-10-13T13:59:32Z
 Description: OpenAI and Broadcom have entered an agreement that will see the companies collaborate on up to 10 gigwatts of custom AI acclerators.
 --------------------------------------------------
 
-Title: OpenAI and Broadcom sign deal to build up to 10 gigawatts of custom chips, Broadcom stock surges
-URL: https://finance.yahoo.com/news/openai-and-broadcom-sign-deal-to-build-up-to-10-gigawatts-of-custom-chips-broadcom-stock-surges-135932920.html
+Title: OpenAI and Broadcom sign deal to build up to 10 gigawatts of custom chips, Broadcom stock jumps more than 7%
+URL: https://finance.yahoo.com/news/openai-and-broadcom-sign-deal-to-build-up-to-10-gigawatts-of-custom-chips-broadcom-stock-jumps-more-than-7-135932845.html
 Time Published: 2025-10-13T13:59:32Z
 Description: OpenAI and Broadcom have entered an agreement that will see the companies collaborate on up to 10 gigwatts of custom AI acclerators.
 --------------------------------------------------
