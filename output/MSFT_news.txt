@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: DocuSign CEO says OpenAI’s speed of development is forcing companies to move faster
+URL: https://finance.yahoo.com/news/docusign-ceo-says-openais-speed-of-development-is-forcing-companies-to-move-faster-173127967.html
+Time Published: 2025-10-16T17:31:27Z
+Description: As OpenAI races ahead, Docusign is betting on agents and data to stay in the game
+--------------------------------------------------
+
 Title: Why Nextracker (NXT) Stock Is Up Today
 URL: https://finance.yahoo.com/news/why-nextracker-nxt-stock-today-180112794.html
 Time Published: 2025-10-15T18:01:12Z
@@ -44,14 +50,14 @@ Time Published: 2025-10-14T23:11:43Z
 Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq slip amid strong bank earnings, rate-cut hopes
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-amid-strong-bank-earnings-rate-cut-hopes-231143750.html
+Title: Stock market today: Dow, S&P 500, Nasdaq climb amid strong bank earnings, rate-cut hopes
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-amid-strong-bank-earnings-rate-cut-hopes-231143771.html
 Time Published: 2025-10-14T23:11:43Z
 Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq climb amid strong bank earnings, rate-cut hopes
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-amid-strong-bank-earnings-rate-cut-hopes-231143771.html
+Title: Stock market today: Dow, S&P 500, Nasdaq slip amid strong bank earnings, rate-cut hopes
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-amid-strong-bank-earnings-rate-cut-hopes-231143750.html
 Time Published: 2025-10-14T23:11:43Z
 Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
 --------------------------------------------------

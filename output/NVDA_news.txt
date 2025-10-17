@@ -1,5 +1,35 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVDA: This Analyst Sees Massive 80% Upside For Nvidia Stock -- Here's Why
+URL: https://finance.yahoo.com/news/nvda-analyst-sees-massive-80-183637187.html
+Time Published: 2025-10-16T18:36:37Z
+Description: HSBC Predicts Nvidia's Market Cap Could Double To $8 Trillion
+--------------------------------------------------
+
+Title: Oracle stock jumps 4% as company says cloud revenue will skyrocket to $166B by 2030
+URL: https://finance.yahoo.com/news/oracle-stock-jumps-4-as-company-says-cloud-revenue-will-skyrocket-to-166b-by-2030-182501729.html
+Time Published: 2025-10-16T18:25:01Z
+Description: Oracle says its cloud revenue will see a 75% CAGR over the next 5 years.
+--------------------------------------------------
+
+Title: Cisco Trades Near 52-Week High: Is the CSCO Stock Still a Buy?
+URL: https://finance.yahoo.com/news/cisco-trades-near-52-week-180300346.html
+Time Published: 2025-10-16T18:03:00Z
+Description: CSCO's AI surge, NVIDIA partnership, and expanding security portfolio fuel optimism for sustained growth despite networking headwinds.
+--------------------------------------------------
+
+Title: DocuSign CEO says OpenAI’s speed of development is forcing companies to move faster
+URL: https://finance.yahoo.com/news/docusign-ceo-says-openais-speed-of-development-is-forcing-companies-to-move-faster-173127967.html
+Time Published: 2025-10-16T17:31:27Z
+Description: As OpenAI races ahead, Docusign is betting on agents and data to stay in the game
+--------------------------------------------------
+
+Title: Palantir Stock is About to Breakout... Again
+URL: https://finance.yahoo.com/news/palantir-stock-breakout-again-165800932.html
+Time Published: 2025-10-16T16:58:00Z
+Description: Palantir Technologies, one of the market's clear leaders has been consolidating for the last few months and now the stock appears ready to break out again
+--------------------------------------------------
+
 Title: US stock market today: Dow, S&P 500, and Nasdaq advance despite US-China trade tensions — top gainers Nvidia, TSMC, Salesforce, and big banks lift Wall Street
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-october-16-2025-dow-sp-500-and-nasdaq-advance-despite-us-china-trade-tensions-top-gainers-nvidia-tsmc-salesforce-and-big-banks-lift-wall-street/articleshow/124608675.cms
 Time Published: 2025-10-16T15:44:14Z
@@ -188,6 +218,18 @@ Time Published: 2025-10-15T10:09:35Z
 Description: December S&P 500 E-Mini futures (ESZ25) are trending up +0.63% this morning amid optimism over Federal Reserve interest-rate cuts following dovish comments...
 --------------------------------------------------
 
+Title: Stock market today: S&P 500, Nasdaq rise in choppy trade as Wall Street weighs earnings, China tensions
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-in-choppy-trade-as-wall-street-weighs-earnings-china-tensions-200023201.html
+Time Published: 2025-10-14T23:11:43Z
+Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq climb amid strong bank earnings, rate-cut hopes
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-amid-strong-bank-earnings-rate-cut-hopes-231143771.html
+Time Published: 2025-10-14T23:11:43Z
+Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as strong bank earnings, rate-cut hopes soothe US-China jitters
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-strong-bank-earnings-rate-cut-hopes-soothe-us-china-jitters-231143129.html
 Time Published: 2025-10-14T23:11:43Z
@@ -200,20 +242,8 @@ Time Published: 2025-10-14T23:11:43Z
 Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq rise in choppy trade as Wall Street weighs earnings, China tensions
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-in-choppy-trade-as-wall-street-weighs-earnings-china-tensions-200023201.html
-Time Published: 2025-10-14T23:11:43Z
-Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq climb as strong bank earnings, rate-cut hopes soothe US-China jitters
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-as-strong-bank-earnings-rate-cut-hopes-soothe-us-china-jitters-231143652.html
-Time Published: 2025-10-14T23:11:43Z
-Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq climb amid strong bank earnings, rate-cut hopes
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-amid-strong-bank-earnings-rate-cut-hopes-231143771.html
 Time Published: 2025-10-14T23:11:43Z
 Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
 --------------------------------------------------
@@ -277,36 +307,4 @@ Title: Walmart stock pops on OpenAI partnership to create a ChatGPT shopping exp
 URL: https://finance.yahoo.com/news/walmart-stock-pops-on-openai-partnership-to-create-a-chatgpt-shopping-experience-160427665.html
 Time Published: 2025-10-14T16:04:27Z
 Description: Walmart is the latest company to announce a partnership with OpenAI.
---------------------------------------------------
-
-Title: Looking for Taylor Swift Returns
-URL: https://dailyreckoning.com/looking-for-taylor-swift-returns/
-Time Published: 2025-10-14T15:59:28Z
-Full Content:
-By Byron King PostedOctober 14, 2025 Legend has it that in November 2004 Taylor Swift was “discovered” in Nashville. A youngster at the time, merely 14 years old, she was playing guitar and singing at the Bluebird Café when a music promoter heard her, took a look, and decided that this gal was going places. And as you surely know, today she’s a huge mega-star. Taylor Swift in Nashville, but no I didn’t see her. Courtesy billboard.com. Well, I was in Nashville too, last week in fact. But sorry to say, I didn’t see Taylor Swift, nor did I discover any future big-time songstresses. Indeed, I didn’t even hit the music scene. Because I was busy. I was on the company clock at a Paradigm Press event at Nashville’s Renaissance Hotel; me, numerous colleagues, a bunch of audiovisual bubbas, and about 800 guests. We all came together to discuss U.S. and global markets, particularly with respect to precious metals, other critical metals, technology, biotech, crypto, macro trends and much more. Many things are booming in the markets, with some offering “Swift” returns just now, if you’ll excuse the pun, and the numbers are eye-popping (see below). So, I’ll leave singing to Taylor Swift and instead discuss a few things that I heard in Nashville about making money. And really; some of the investment ideas from Nashville could possibly go “Taylor Swift” upside on you if things play out. Let’s dig in… I’ll begin with what I heard from a colleague and friend Ray Blanco, our resident tech and biotech guru. How good is Ray? Well, he (humbly) reminded us of how in 2015 he recommended a then-modest chipmaking company called Nvidia (NVDA); yes, that one. When you adjust for splits, Ray’s 2015 entry price was $0.50 per share; and consider that today’s bid/ask for Nvidia is over $188. In other words, in the past decade Ray delivered readers a gain of over 37,500%. And yes, you are reading that number correctly. Which means that Ray has minted more than a few multimillionaires if they held their original shares, or even if they sold off fractions of their holding on the way up. Ray explained how he did it, and it began with a tech conference in Las Vegas in 2015. There, he took a hard look at Nvidia when the company’s brand emphasized its specialized chips for video gaming consoles. Back then, gaming and gamers were kind of a geeky niche market, but Ray discerned that the same processing capability that delivers game-quality video might transfer over to other areas. And this led to his Nvidia recommendation. As events unfolded, it turned out that Nvidia chips could process immensely large data streams. Thus, Nvidia’s chips were particularly useful for crypto mining, and more recently for massive bit-crunching that goes on with artificial intelligence (AI). And so, Nvidia leads the tech charge these days, and boasts a market cap over $4.5 trillion (yes, trillion with a “t”). Hmm… Kind of a Taylor Swift story, when you think about it. Having established his cred, Ray went on to discuss what he has up his sleeve now. The short answer is that Ray sees a massive robot revolution coming to America. Indeed, Ray envisions America’s old Rust Belt transforming into a “Robot Belt.” It’s in the beginning phases and rapidly ramping up big-time as Ray looks out five to ten more years. Ray foresees robots coming to job sites almost everywhere, from office work to stores and warehouses, factories, farms, mines, mills and more. And Ray explained how the rise of robots will dovetail nicely with American demographics, considering the aging Baby Boomers and how the trend is to replace people in jobs that are repetitive and boring if not physically dangerous. In one example of the robotic future, Ray showed an astonishing video of an AI-controlled farm implement that navigates through plowed fields, a self-driving robot-tractor, so to speak. It identifies weeds with advanced optics and zaps them with a laser beam. This beast can work all day, and even at night because of its night-vision capabilities. In essence, this machine – truly a system of systems – will make farming way more efficient, and also eliminate the need for quite a lot of agricultural chemicals currently in use. And absent the agrichemicals, it’ll lead to healthier food in general. Of course, China too is building its own versions of robot workers, factories, etc., and the Chinese are aggressive. So obviously, the U.S. must compete hard to make things work out for our own economy. And along these lines, Ray laid out several investable non-Chinese opportunities in the robot arena. Meanwhile in Nashville, many of us were watching the charts, but not for Taylor Swift’s latest album. No, we were watching as the price of gold popped over $4,000 per ounce, while silver hit the $50 level. Clearly, something is going on. I learned long ago, in geochemistry class at Harvard (back at “that” Harvard, not the current one), that gold and silver atoms don’t change over time. Indeed, elements like gold and silver are formed in stellar supernovae, and to all intent and purpose are immutable. In other words, the metals don’t change, but their rising price reflects the fall in value of our currency, created and controlled by not-so-cosmic forces in Washington, D.C. And then this week, as the newly reinaugurated Columbus Day holiday unfolded, gold broke over $4,100 and silver crossed above $52; and yes, these prices can bounce around, up and down, but the trend is clear: up-up-up for metals and down-down-down for dollars. As I’ve noted many times, the chief driver for rising gold prices over the past three years was buying by central banks that want to de-risk from holding dollars, definitely in a world of mercurial U.S. politics and sanctions. On the silver side, one key driver for rising prices has been global-scale industrial demand, particularly for more and more use in electronics and solar panels. One way or another, these demand forces push against supply, whether it’s new metal out of the mine pits, or from recycling what’s already here. Another angle on this rising trend for precious metal has to do with “paper” gold and silver, namely the worldwide trading system that pretends to sell metal but is actually just an elaborate gambling pit. That is, most precious metal trading has nothing to do with the metal; it’s all about buying or selling a claim on gold and silver bars that never leave the bullion bank. Except that… well, whoops! We currently have a massive imbalance between “paper” metal and the physical version, and this has created pressure within the physical supply chain. People, businesses and even governments are actually doing what’s called “standing for delivery” for precious metal from bullion banks, which in turn must come up with real ounces to wheel out onto the loading dock. With silver, for example, bullion banks have set themselves up with short positions on paper product; i.e., they sold claims on ounces that do not exist. And now, claimants want the metal but it’s not down in the vault. Indeed, we have far more claims via paper silver ounces than there are physical metal ounces available for delivery. And those delivery requests are surging, which is leading to a collapse in inventories. Looking ahead, markets appear to anticipate a breakout of “failures to deliver,” which will wreck confidence in the pricing structure. And thus, we’re on a trend that could lead to $100 an ounce for silver before year-end. This is what happens when markets become overly financialized, when leverage meets absolute scarcity in an environment of “panic.” That is, when just about everybody with a claim shows up at the same time to demand fulfillment on the underlying promise. I could go on with these points, but I want to switch over and discuss the mining side. Gold and silver prices are rising, which is easy to see at a glance. But what about the mining sector? Well, in general share prices for miners lag the rate of rise in the product they produce. Or look at it this way. Mining companies have an asset called an ore deposit in the ground, and they mine rock, process ore, and refine their material into mineral concentrates, if not produce actual gold or silver. And they carefully calculate costs along the way. Let’s say that in 2022, it cost a company $1,500 to mine an ounce of gold, and the metal sold for, say, $2,000 per ounce, a profit of $500. Okay, great. But now in 2025, let’s say that mining that same ounce of gold costs $2,100 (yes, inflation in labor, materials, energy, etc.), but the sales price is $4,100. Well, the profit has quadrupled from $500 to $2,000, or 4x what it was just a couple of years ago. Here’s a chart to help visualize things. Mining has become a cash machine. Courtesy Mr. Uppy on X/Twitter. In other words, miners in general are looking at serious cash flow benefits from gold and silver, not to mention better days ahead for whatever else comes out of the pits associated with precious metals, such as copper, lead, zinc, nickel and much more, depending on the geology. Looking ahead, if mining companies can keep their costs under control, and the price of energy stays reasonable (eg., oil prices don’t explode upwards), we should see superb cash flows and margins across the sector. And that will attract more and more investors who are currently fixated on the tech vaporware bubble. In other words, if you already own miners then good for you. If you don’t own them, you had better get on the train because it’s moving out of the station. Or stated another way… The mining sector is about to go all Taylor Swift on us. There’s more to say, but that’s enough for now. Thank you for subscribing and reading.
---------------------------------------------------
-
-Title: Jensen Huang Says the U.S. Is Desperate for Data Centers. Here’s 1 Top-Rated Stock to Buy Now.
-URL: https://www.barchart.com/story/news/35437680/jensen-huang-says-the-u-s-is-desperate-for-data-centers-heres-1-top-rated-stock-to-buy-now
-Time Published: 2025-10-14T15:52:27Z
-Description: The Nvidia CEO says that the U.S. needs to invest in energy as AI compute demand grows “exponentially.”
---------------------------------------------------
-
-Title: US stock market today: Massive market crash — Dow plunges 504 points, S&P 500 down 1.3%, Nasdaq loses nearly 2% as Nvidia, Tesla, and Oracle fall; could Fed rate cuts rescue Wall Street?
-URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-massive-market-crash-dow-plunges-504-points-sp-500-down-1-3-nasdaq-loses-nearly-2-as-nvidia-tesla-and-oracle-fall-could-fed-rate-cuts-rescue-wall-street/articleshow/124555416.cms
-Time Published: 2025-10-14T15:33:16Z
-Full Content:
-US stock market today tumbled sharply. The Dow dropped 504 points, the S&P 500 fell 1.3%, and the Nasdaq slid nearly 2%. Renewed U.S.-China trade tensions rattled investors. Tech and AI stocks led losses, with Nvidia, Tesla, and Oracle hitting the hardest. Rising tariffs, sanctions on Hanwha Ocean subsidiaries, and market volatility pushed investors toward safe-haven assets like gold. Wall Street now braces for further swings as Powell’s Fed speech looms. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Verijet files chapter 7 bankruptcy after CEO Kane’s death; private jet operator collapses amid $38.7M liabilities and legal turmoil Mario Pelchat partner Claire Lemaître-Auger: fashion designer and vineyard co-owner celebrates 30 years together Katy Perry and Justin Trudeau spotted kissing on yacht in California, confirming romance rumors Philippines President promises tents, aid for earthquake survivors as death toll reaches 72 in Cebu Province Alberta teachers say ‘no’ to government’s latest contract, set to strike on Monday, disrupting classes for 700,000+ students Could your next pack of cigarettes be funding criminal networks? Inside Western Canada’s billion-dollar contraband trade Canada bars Irish rap band Kneecap from entry over alleged terrorism support Bank of Canada cuts interest rate to 2.5% as GDP shrinks, job market softens Beverly Thomson, veteran CTV journalist and Canada AM co-host, dies at 61 Seth Rogen wins Emmy Award for best lead actor in comedy series 'The Studio' Zach Bryan confronts Gavin Adcock at Oklahoma music festival after country singer criticism Weekend streaming guide Canada: top 10 Netflix, Crave, Disney+ and Apple TV+ shows September 2025 Canada pension and retirement benefits 2025: up to $2,461 in federal and provincial payments through December ‘Buckle up’ | the global economy is facing multiple menaces: IMF Mongolian airline to link Amritsar, Delhi as India-Mongolia deepen trade Tariff Impact Smaller Than Expected Google to invest $15 bn in India's Largest AI Data Centre in Vizag Lt Gen Katiyar warns Pak: 'Any attack will be met...' India boosts anti-terror grid with ₹141 cr NSG training Centre Bessent confirms Trump-Xi meeting 'Blue Helmet is the glue that binds missions,' says COAS LG Electronics India gets listed on NSE, soars 50% on debut 'Our trade with India exceeds $1 billion,' says Afghan FM Muttaqi ‘Buckle up’ | the global economy is facing multiple menaces: IMF Mongolian airline to link Amritsar, Delhi as India-Mongolia deepen trade Tariff Impact Smaller Than Expected Google to invest $15 bn in India's Largest AI Data Centre in Vizag Lt Gen Katiyar warns Pak: 'Any attack will be met...' India boosts anti-terror grid with ₹141 cr NSG training Centre Bessent confirms Trump-Xi meeting 'Blue Helmet is the glue that binds missions,' says COAS LG Electronics India gets listed on NSE, soars 50% on debut 'Our trade with India exceeds $1 billion,' says Afghan FM Muttaqi Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Commodities Top Story Listing Top Prime Articles Top Definitions Top Slideshow Private Companies Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Power Integrations says collaborating with Nvidia on transition to 800 VDC power
-URL: https://finance.yahoo.com/news/power-integrations-says-collaborating-nvidia-152507007.html
-Time Published: 2025-10-14T15:25:07Z
-Description: Power Integrations (POWI) outlined the benefits of its PowiGaN gallium-nitride technology for 800 VDC power architectures in a new white paper, published at ...
---------------------------------------------------
-
-Title: Stocks Turn Mixed as Walmart-OpenAI Deal Pushes Dow Higher
-URL: https://www.barchart.com/story/news/35436979/stocks-pressured-from-us-china-trade-dispute
-Time Published: 2025-10-14T15:16:59Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up 0.09%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up 0.54%, and the Nasdaq-100 Index ($IUXX ) (QQQ ) is ...
 --------------------------------------------------
