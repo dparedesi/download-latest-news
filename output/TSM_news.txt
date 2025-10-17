@@ -1,13 +1,31 @@
 List of news related to Taiwan Semiconductor TSM:
 
-Title: Earnings live: Bank of America, Morgan Stanley, LVMH, and ASML stocks jump on strong results
-URL: https://finance.yahoo.com/news/live/earnings-live-bank-of-america-morgan-stanley-lvmh-and-asml-stocks-jump-on-strong-results-113031714.html
-Time Published: 2025-10-15T11:30:31Z
-Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+Title: Stock market today: Dow, S&P 500, Nasdaq futures inch up as Wall Street weighs earnings, renewed US-China trade tensions
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-up-as-wall-street-weighs-earnings-renewed-us-china-trade-tensions-232657656.html
+Time Published: 2025-10-15T23:26:57Z
+Description: US stock futures made slight gains Wednesday evening as investors weighed corporate earnings against the escalating US-China trade war.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as TSMC's stellar earnings eclipse trade-war jitters
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-tsmcs-stellar-earnings-eclipse-trade-war-jitters-232657775.html
+Time Published: 2025-10-15T23:26:57Z
+Description: Investors weighed corporate earnings against the escalating US-China trade war.
+--------------------------------------------------
+
+Title: ‘Expensive, but not nutty.’ Howard Marks on U.S. stocks and the one thing investors should be doing right now.
+URL: https://www.marketwatch.com/story/expensive-but-not-nutty-howard-marks-on-u-s-stocks-and-the-one-thing-investors-should-be-doing-right-now-74c75960
+Time Published: 2025-10-15T13:41:00Z
+Description: Oaktree co-founder Howard Marks says investors should start taking some “chips off the table,” after a strong run for markets.
 --------------------------------------------------
 
 Title: Earnings live: Bank of America, LVMH, and ASML stocks jump on strong results
 URL: https://finance.yahoo.com/news/live/earnings-live-bank-of-america-lvmh-and-asml-stocks-jump-on-strong-results-113031603.html
+Time Published: 2025-10-15T11:30:31Z
+Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
+Title: Earnings live: Bank of America, Morgan Stanley, LVMH, and ASML stocks jump on strong results
+URL: https://finance.yahoo.com/news/live/earnings-live-bank-of-america-morgan-stanley-lvmh-and-asml-stocks-jump-on-strong-results-113031714.html
 Time Published: 2025-10-15T11:30:31Z
 Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
@@ -30,14 +48,14 @@ Time Published: 2025-10-14T13:44:00Z
 Description: Longview Economics says investors should tread carefully with stocks as something was broken with Friday’s selloff last week.
 --------------------------------------------------
 
-Title: Earnings live: JPMorgan, BlackRock stocks edge lower, Wells Fargo rises as Q3 earnings season kicks off
-URL: https://finance.yahoo.com/news/live/earnings-live-jpmorgan-blackrock-stocks-edge-lower-wells-fargo-rises-as-q3-earnings-season-kicks-off-113555582.html
+Title: Earnings live: JPMorgan, BlackRock, Wells Fargo, Johnson & Johnson take spotlight as Q3 earnings kick off
+URL: https://finance.yahoo.com/news/live/earnings-live-jpmorgan-blackrock-wells-fargo-johnson--johnson-take-spotlight-as-q3-earnings-kick-off-113555421.html
 Time Published: 2025-10-14T11:35:55Z
 Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
 
-Title: Earnings live: JPMorgan, BlackRock, Wells Fargo, Johnson & Johnson take spotlight as Q3 earnings kick off
-URL: https://finance.yahoo.com/news/live/earnings-live-jpmorgan-blackrock-wells-fargo-johnson--johnson-take-spotlight-as-q3-earnings-kick-off-113555421.html
+Title: Earnings live: JPMorgan, BlackRock stocks edge lower, Wells Fargo rises as Q3 earnings season kicks off
+URL: https://finance.yahoo.com/news/live/earnings-live-jpmorgan-blackrock-stocks-edge-lower-wells-fargo-rises-as-q3-earnings-season-kicks-off-113555582.html
 Time Published: 2025-10-14T11:35:55Z
 Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
@@ -127,10 +145,4 @@ Title: Stocks dip as government shutdown continues, rare earths rally: What to w
 URL: https://finance.yahoo.com/news/stocks-dip-as-government-shutdown-continues-rare-earths-rally-what-to-watch-this-week-114600627.html
 Time Published: 2025-10-12T11:46:00Z
 Description: The stock market will enter the second full week of the government shutdown. Investors will also focus on big bank earnings.
---------------------------------------------------
-
-Title: Taiwan Semiconductor (TSM) Reports Solid Yearly Revenue Growth in September 2025
-URL: https://finance.yahoo.com/news/taiwan-semiconductor-tsm-reports-solid-133527752.html
-Time Published: 2025-10-11T13:35:27Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the 10 Most Profitable Stocks of the Last 5 Years. On October 9, Taiwan Semiconductor...
 --------------------------------------------------

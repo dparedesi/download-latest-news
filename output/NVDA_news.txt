@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as TSMC's stellar earnings eclipse trade-war jitters
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-tsmcs-stellar-earnings-eclipse-trade-war-jitters-232657775.html
+Time Published: 2025-10-15T23:26:57Z
+Description: Investors weighed corporate earnings against the escalating US-China trade war.
+--------------------------------------------------
+
+Title: This Semiconductor Stock Soared 26% Tuesday After Launching Devices for Nvidia's AI Factory Architecture
+URL: https://www.ibtimes.com/this-semiconductor-stock-soared-26-tuesday-after-launching-devices-nvidias-ai-factory-3787212
+Time Published: 2025-10-15T21:09:13Z
+Description: Navitas Semiconductor shares surged after it unveiled new semiconductor power devices designed for Nvidia's 800 VDC AI factory power architecture.
+--------------------------------------------------
+
 Title: Nvidia, Microsoft, and BlackRock Just Struck a Massive AI Data Center Deal
 URL: https://www.investopedia.com/nvidia-microsoft-and-blackrock-just-struck-a-massive-ai-data-center-deal-11830096
 Time Published: 2025-10-15T16:05:20Z
@@ -58,6 +70,12 @@ Time Published: 2025-10-15T13:59:26Z
 Description: Nvidia CEO Jensen Huang’s remarks on the exponential rise of inference computing highlight the scale of AI’s industrial revolution and its economic...
 --------------------------------------------------
 
+Title: ‘Expensive, but not nutty.’ Howard Marks on U.S. stocks and the one thing investors should be doing right now.
+URL: https://www.marketwatch.com/story/expensive-but-not-nutty-howard-marks-on-u-s-stocks-and-the-one-thing-investors-should-be-doing-right-now-74c75960
+Time Published: 2025-10-15T13:41:00Z
+Description: Oaktree co-founder Howard Marks says investors should start taking some “chips off the table,” after a strong run for markets.
+--------------------------------------------------
+
 Title: Will You Be Comfortable Buying Nvidia Stock?
 URL: https://www.forbes.com/sites/greatspeculations/2025/10/15/will-you-be-comfortable-buying-nvidia-stock/
 Time Published: 2025-10-15T13:35:36Z
@@ -71,20 +89,38 @@ Time Published: 2025-10-15T13:02:18Z
 Description: Massive contract spans U.S. and Europe to expand hyperscale AI capacity
 --------------------------------------------------
 
+Title: Micron Stock Price Prediction: Can MU Touch $270 in 2025?
+URL: https://www.barchart.com/story/news/35458956/micron-stock-price-prediction-can-mu-touch-270-in-2025
+Time Published: 2025-10-15T11:30:02Z
+Description: Micron appears to be entering one of its strongest multi-year growth phases.
+--------------------------------------------------
+
+Title: Options Alert: Iron Condor Screener Results for October 15th
+URL: https://www.barchart.com/story/news/35457782/options-alert-iron-condor-screener-results-for-october-15th
+Time Published: 2025-10-15T11:00:02Z
+Description: A short iron condor is an income strategy that aims to profit when a stock stays within a specified range over the course of the trade. The trade is composed...
+--------------------------------------------------
+
+Title: S&P Futures Climb on Fed Rate-Cut Optimism, More Big Bank Earnings on Tap
+URL: https://www.barchart.com/story/news/35456289/s-p-futures-climb-on-fed-rate-cut-optimism-more-big-bank-earnings-on-tap
+Time Published: 2025-10-15T10:09:35Z
+Description: December S&P 500 E-Mini futures (ESZ25) are trending up +0.63% this morning amid optimism over Federal Reserve interest-rate cuts following dovish comments...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as strong bank earnings, rate-cut hopes soothe US-China jitters
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-strong-bank-earnings-rate-cut-hopes-soothe-us-china-jitters-231143129.html
 Time Published: 2025-10-14T23:11:43Z
 Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq climb amid strong bank earnings, rate-cut hopes
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-amid-strong-bank-earnings-rate-cut-hopes-231143771.html
+Title: Stock market today: Dow, S&P 500, Nasdaq slip amid strong bank earnings, rate-cut hopes
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-amid-strong-bank-earnings-rate-cut-hopes-231143750.html
 Time Published: 2025-10-14T23:11:43Z
 Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq slip amid strong bank earnings, rate-cut hopes
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-amid-strong-bank-earnings-rate-cut-hopes-231143750.html
+Title: Stock market today: Dow, S&P 500, Nasdaq climb amid strong bank earnings, rate-cut hopes
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-amid-strong-bank-earnings-rate-cut-hopes-231143771.html
 Time Published: 2025-10-14T23:11:43Z
 Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
 --------------------------------------------------
@@ -274,41 +310,4 @@ URL: https://prtimes.jp/main/html/rd/p/000000561.000012662.html
 Time Published: 2025-10-14T04:40:02Z
 Full Content:
 PR TIMESのご利用について 資料をダウンロード NVIDIA ニュース概要： NVIDIA の創業者/CEO であるジェンスン フアンが、SpaceX の Elon Musk 氏に DGX Spark を届ける 今週、NVIDIA と NVIDIA のパートナーは、コンパクトなデスクトップ フォームファクター向けに NVIDIA の AI スタックを搭載した、世界最小の AI スーパーコンピューターである DGX Spark を出荷開始 Acer、ASUS、Dell Technologies、GIGABYTE、HPI、Lenovo、MSI がそれぞれ DGX Spark システムを発表し、強力な AI コンピューティングへのアクセスを拡大 NVIDIA Grace Blackwell アーキテクチャを基盤とする DGX Spark は、NVIDIA GPU、CPU、ネットワーク、CUDA ライブラリ、NVIDIA AI ソフトウェアを統合し、エージェント型 AI とフィジカル AI の開発を加速 カリフォルニア州サンタクララ — 2025 年 10 月 13 日 — NVIDIA は本日、世界最小の AI スーパーコンピューター、NVIDIA DGX Spark™ の出荷を開始することを発表しました。 AI ワークロードは、現在何百万もの開発者が頼りにしている PC、ワークステーション、ノート PC のメモリとソフトウェア能力を急速に超えており、開発者をはじめとするチームはクラウドやローカル データセンターに作業を移行せざるを得ない状況にあります。 新しいクラスのコンピューターである DGX Spark は、コンパクトなデスクトップ フォームファクターでペタフロップスの AI パフォーマンスと 128GB の統合メモリを提供します。これにより、開発者は最大 2,000 億のパラメータを持つ AI モデルの推論を実行し、最大 700 億のパラメータを持つモデルをローカルでファインチューンすることができます。さらに、DGX Spark 上で開発者が AI エージェントを作成し、高度なソフトウェア スタックをローカルで実行することも可能です。 NVIDIA の創業者/CEO であるジェンスン フアン (Jensen Huang) は、次のように述べています。「2016 年、NVIDIA は AI 研究者に独自のスーパーコンピューターを提供するために DGX-1 を開発しました。私は最初のシステムを OpenAI という小さなスタートアップ企業に直接納品しました。そしてそこから ChatGPT が生まれ、AI 革命の火付け役となりました。DGX-1 は AI スーパーコンピューターの時代を切り開き、今日の AI を推進するスケーリング則を解き放ちました。DGX Spark によって、私たちはその使命に立ち返ります。あらゆる開発者に AI コンピューターを提供し、次なるブレークスルーの波を起こすのです」 DGX Spark は、GPU、CPU、ネットワーク、CUDA® ライブラリ、NVIDIA AI ソフトウェア スタックを含む NVIDIA AI プラットフォーム全体を、ラボやオフィスに導入できるほど小型でありながら、エージェント型 AI およびフィジカル AI 開発を加速できるほどパワフルなシステムに統合します。画期的なパフォーマンスと NVIDIA エコシステムのリーチを組み合わせることで、DGX Spark はデスクトップを AI 開発プラットフォームへと変革します。 DGX Spark システムは、NVIDIA GB10 Grace Blackwell Superchip、NVIDIA ConnectX®-7 200 Gb/秒のネットワーク、NVIDIA NVLink™-C2C テクノロジによって加速され、最大 1 ペタフロップスの AI パフォーマンスを実現します。128GB の CPU-GPU コヒーレント メモリを搭載し、第 5 世代 PCIe の 5 倍の帯域幅を実現します。 NVIDIA AI ソフトウェア スタックがプリインストールされているため、開発者はすぐに AI プロジェクトに取り組めます。DGX Spark を使用すると、開発者はモデル、ライブラリ、NVIDIA NIM™ マイクロサービスなどの NVIDIA AI エコシステム ツールにアクセスでき、Black Forest Labs の FLUX.1 モデルのカスタマイズによる画像生成の洗練、Cosmos Reason 視覚言語モデルを用いたビジョン検索および要約エージェントの作成、DGX Spark 向けに最適化された Qwen3 を用いた AI チャットボットの構築といったローカルワークフローが可能になります。 DGX Spark の全世界出荷開始を記念して、フアンは本日、テキサス州スターベースにて SpaceX の主任エンジニアである Elon Mask 氏に最初のユニットの一つを手渡しました。Musk 氏は 2016 年にフアンから最初の NVIDIA DGX™-1 スーパーコンピューターを受け取ったチームの一員であり、今回の納入は、この時の足跡を辿るものです。 DGX Spark の初期のユニットの受領企業には、Anaconda、Cadence、ComfyUI、Docker、Google、Hugging Face、JetBrains、LM Studio、Meta、Microsoft、Ollama、Roboflow などが含まれます。これらの企業は現在、DGX Spark 向けにツール、ソフトウェア、モデルのテスト、検証、最適化を進めています。 NYU Global Frontier Lab を含む世界中の研究機関が、AI 開発の促進を目的として DGX Spark をプレビューしました。 NYU Global Frontier Lab のコンピューターとデータサイエンスの教授である Kyunghyun Cho 氏は、次のように述べています。「DGX Spark によって、デスクトップ上でペタスケールの計算能力にアクセスできるようになりました。この AI 研究と開発の新たな方法により、ヘルスケアなどプライバシーやセキュリティが重要な分野を含めて、高度な AI アルゴリズムやモデルの迅速なプロトタイピングと実験が可能となるでしょう」 NVIDIA DGX Spark が出荷開始 DGX Spark のパートナー製品は、Acer、ASUS、Dell Technologies、GIGABYTE、HP、Lenovo、MSI、および米国の Micro Center ストア、そして世界中の NVIDIA チャネル パートナーからご購入いただけます。 ※本発表資料は米国時間 2025年10 月13 日に発表されたプレスリリースの抄訳です。 NVIDIAについて NVIDIA (NASDAQ: NVDA) はアクセラレーテッド コンピューティングの世界的なリーダーです。 このプレスリリースには、メディア関係者向けの情報があります メディアユーザー登録を行うと、企業担当者の連絡先や、イベント・記者会見の情報など様々な特記情報を閲覧できます。※内容はプレスリリースにより異なります。 すべての画像 このプレスリリース内で使われている画像ファイルがダウンロードできます 87フォロワー Copyright © PR TIMES Corporation All Rights Reserved.
---------------------------------------------------
-
-Title: The Fidelity Dividend ETF beating Vanguard and Schwab in 2025
-URL: https://www.thestreet.com/investing/the-fidelity-dividend-etf-beating-vanguard-and-schwab-in-2025
-Time Published: 2025-10-14T03:33:00Z
-Description: For years, the dividend ETF leaderboard seemed locked in place. The Vanguard Dividend Appreciation ETF (VIG), the Vanguard High Dividend Yield ETF (VYM), and...
---------------------------------------------------
-
-Title: NVIDIA DGX Spark Arrives for World’s AI Developers
-URL: https://www.globenewswire.com/news-release/2025/10/13/3165851/0/en/NVIDIA-DGX-Spark-Arrives-for-World-s-AI-Developers.html
-Time Published: 2025-10-13T23:39:00Z
-Full Content:
-October 13, 2025 19:39 ET | Source: NVIDIA NVIDIA News Summary: SANTA CLARA, Calif., Oct. 13, 2025 (GLOBE NEWSWIRE) -- NVIDIA today announced it will start shipping NVIDIA DGX Spark™, the world’s smallest AI supercomputer. AI workloads are quickly outgrowing the memory and software capabilities of the PCs, workstations and laptops millions of developers rely on today — forcing teams to shift work to the cloud or local data centers. As a new class of computer, DGX Spark delivers a petaflop of AI performance and 128GB of unified memory in a compact desktop form factor, giving developers the power to run inference on AI models with up to 200 billion parameters and fine-tune models of up to 70 billion parameters locally. In addition, DGX Spark lets developers create AI agents and run advanced software stacks locally. “In 2016, we built DGX-1 to give AI researchers their own supercomputer. I hand-delivered the first system to Elon at a small startup called OpenAI — and from it came ChatGPT, kickstarting the AI revolution,” said Jensen Huang, founder and CEO of NVIDIA. “DGX-1 launched the era of AI supercomputers and unlocked the scaling laws that drive modern AI. With DGX Spark, we return to that mission — placing an AI computer in the hands of every developer to ignite the next wave of breakthroughs.” DGX Spark brings together the full NVIDIA AI platform — including GPUs, CPUs, networking, CUDA® libraries and the NVIDIA AI software stack — into a system small enough for a lab or an office, yet powerful enough to accelerate agentic and physical AI development. By combining breakthrough performance with the reach of the NVIDIA ecosystem, DGX Spark transforms the desktop into an AI development platform. DGX Spark systems deliver up to 1 petaflop of AI performance, accelerated by a NVIDIA GB10 Grace Blackwell Superchip, NVIDIA ConnectX®-7 200 Gb/s networking and NVIDIA NVLink™-C2C technology, providing 5x the bandwidth of fifth-generation PCIe with 128GB of CPU-GPU coherent memory. The NVIDIA AI software stack is preinstalled to enable developers to start working on AI projects out of the box. With DGX Spark, developers can access NVIDIA AI ecosystem tools including models, libraries, and NVIDIA NIM™ microservices, enabling local workflows such as customizing Black Forest Labs’ FLUX.1 models to refine image generation, creating a vision search and summarization agent using the NVIDIA Cosmos™ Reason vision language model, or building an AI chatbot using Qwen3 that is optimized for DGX Spark. To celebrate DGX Spark shipping worldwide, Huang hand-delivered one of the first units of DGX Spark to Elon Musk, chief engineer at SpaceX, today in Starbase, Texas. The exchange was a connection to the supercomputer’s origins, as Musk was among the team that received the first NVIDIA DGX™-1 supercomputer from Huang in 2016. Other early recipients of DGX Spark, including Anaconda, Cadence, ComfyUI, Docker, Google, Hugging Face, JetBrains, LM Studio, Meta, Microsoft, Ollama and Roboflow, are testing, validating and optimizing their tools, software and models for DGX Spark. Research organizations around the world, including the NYU Global Frontier Lab, previewed DGX Spark to boost their AI development. “DGX Spark allows us to access peta-scale computing on our desktop,” said Kyunghyun Cho, professor of computer and data science at the NYU Global Frontier Lab. “This new way to conduct AI research and development enables us to rapidly prototype and experiment with advanced AI algorithms and models — even for privacy- and security-sensitive applications, such as healthcare.” NVIDIA DGX Spark Now Shipping Starting Wednesday, Oct. 15, DGX Spark can be ordered on NVIDIA.com. Partner systems will be available from Acer, ASUS, Dell Technologies, GIGABYTE, HP, Lenovo, MSI as well as Micro Center stores in the U.S., and from NVIDIA channel partners worldwide. About NVIDIA NVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing. For further information, contact: Alex Shapiro Public Relations NVIDIA Corporation +1-415-608-5044 ashapiro@nvidia.com Certain statements in this press release including, but not limited to, statements as to: with DGX Spark, NVIDIA placing an AI computer in the hands of every developer to ignite the next wave of breakthroughs; the benefits, impact, performance, and availability of NVIDIA’s products, services, and technologies; expectations with respect to NVIDIA’s third party arrangements, including with its collaborators and partners; expectations with respect to technology developments; and other statements that are not historical facts are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections based on management’s beliefs and assumptions and on information currently available to management and are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic and political conditions; NVIDIA’s reliance on third parties to manufacture, assemble, package and test NVIDIA’s products; the impact of technological development and competition; development of new products and technologies or enhancements to NVIDIA’s existing product and technologies; market acceptance of NVIDIA’s products or NVIDIA’s partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of NVIDIA’s products or technologies when integrated into systems; and changes in applicable laws and regulations, as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q. Copies of reports filed with the SEC are posted on the company’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances. © 2025 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, ConnectX, CUDA, DGX, NVIDIA Cosmos, NVIDIA NIM and NVLink are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Other NVIDIA trademarks and service marks not listed herein are also the property of NVIDIA Corporation. All rights reserved. All other company and product names are trademarks or registered trademarks of their respective owners. Features, pricing, availability and specifications are subject to change without notice. Photos accompanying this announcement are available at https://www.globenewswire.com/NewsRoom/AttachmentNg/ee138c12-fd60-431a-9b43-c6fb1a34287c https://www.globenewswire.com/NewsRoom/AttachmentNg/a6e9e492-6a02-47d9-9042-856c567fd7c9 News Summary: Meta to introduce switches built on NVIDIA Spectrum Ethernet for its Facebook Open Switching System platform. Oracle to build giga-scale AI supercomputers with Spectrum-X Ethernet... News Summary: The open-source Newton Physics Engine — codeveloped with Google DeepMind and Disney Research, and now available in NVIDIA Isaac Lab — helps researchers and developers create more...
---------------------------------------------------
-
-Title: Stock market today: S&P 500 and Dow rise, Nasdaq slides as US-China tensions simmer, big banks report
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-and-dow-rise-nasdaq-slides-as-us-china-tensions-simmer-big-banks-report-233314867.html
-Time Published: 2025-10-13T23:33:14Z
-Description: China upped the ante in its trade spat with the US, rattling investors' nerves as big Wall Street banks kicked off earnings season.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq slide as US-China tensions rattle nerves, big banks report earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-us-china-tensions-rattle-nerves-big-banks-report-earnings-233314485.html
-Time Published: 2025-10-13T23:33:14Z
-Description: China upped the ante in its trade spat with the US, rattling investors' nerves as big Wall Street banks kicked off earnings season.
---------------------------------------------------
-
-Title: Stock market today: S&P 500 and Dow turn higher, Nasdaq dips with Fed's Powell, China tariff tensions in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-and-dow-turn-higher-nasdaq-dips-with-feds-powell-china-tariff-tensions-in-focus-233314697.html
-Time Published: 2025-10-13T23:33:14Z
-Description: China upped the ante in its trade spat with the US, rattling investors' nerves as big Wall Street banks kicked off earnings season.
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq slide as US-China tensions simmer; Dow steadies as big banks report
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-slide-as-us-china-tensions-simmer-dow-steadies-as-big-banks-report-233314488.html
-Time Published: 2025-10-13T23:33:14Z
-Description: China upped the ante in its trade spat with the US, rattling investors' nerves as big Wall Street banks kicked off earnings season.
 --------------------------------------------------
