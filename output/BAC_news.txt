@@ -6,6 +6,12 @@ Time Published: 2025-10-16T04:24:33Z
 Description: Bank of America (BAC) posted an average annual earnings growth of 2.7% over the past five years, highlighted by a sharp 28.8% increase in the most recent...
 --------------------------------------------------
 
+Title: Stocks Boosted by Strength in Chipmakers and Earnings Optimism
+URL: https://www.barchart.com/story/news/35475583/stocks-boosted-by-strength-in-chipmakers-and-earnings-optimism
+Time Published: 2025-10-15T20:36:09Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +0.40%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.04%, and the Nasdaq 100 Index ...
+--------------------------------------------------
+
 Title: Top Stock Movers Now: AMD, Morgan Stanley, Bank of America, Progressive, and More
 URL: https://www.investopedia.com/top-stock-movers-now-amd-morgan-stanley-bank-of-america-progressive-and-more-11830134
 Time Published: 2025-10-15T16:44:59Z
@@ -53,6 +59,12 @@ Description: December S&P 500 E-Mini futures (ESZ25) are trending up +0.63% this
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as strong bank earnings, rate-cut hopes soothe US-China jitters
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-strong-bank-earnings-rate-cut-hopes-soothe-us-china-jitters-231143129.html
+Time Published: 2025-10-14T23:11:43Z
+Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
+--------------------------------------------------
+
+Title: Stock market today: S&P 500, Nasdaq rise in choppy trade as Wall Street weighs earnings, China tensions
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-in-choppy-trade-as-wall-street-weighs-earnings-china-tensions-200023201.html
 Time Published: 2025-10-14T23:11:43Z
 Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
 --------------------------------------------------
