@@ -1,5 +1,62 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: TSMC’s Results Add Another Feather in the Hat of AI Bulls—What You Need to Know
+URL: https://www.investopedia.com/tsmc-results-add-another-feather-in-the-hat-of-ai-bulls-what-you-need-to-know-11830920
+Time Published: 2025-10-16T15:38:16Z
+Full Content:
+Taiwan Semiconductor Manufacturing Co. (TSM) posted record earnings and lifted its outlook, in what could be taken as another strong signal of AI demand. The world's largest chip manufacturer posted earnings per share of $2.92 on revenue that surged 41% year-over-year to $33.10 billion in the third quarter, topping analysts' estimates compiled by Visible Alpha. TSMC CEO C.C. Wei pointed to "robust" AI-related demand for the growth, telling investors on Thursday's earnings call that “conviction in the AI megatrend is strengthening and we believe that demand for semiconductors will continue to be very fundamental,” according to a transcript provided by AlphaSense. Results from TSMC, which makes chips for many of the biggest names in AI chip design like Nvidia and AMD, can be taken as an early sign of robust orders and demand for their AI chips, adding another feather in the hat of AI trade bulls. TSMC said it sees fourth-quarter revenue of between $32.2 billion and $33.4 billion, and boosted its 2025 revenue growth forecast to the mid-30% range, up from its previous projection of about 30%. Shares of TSMC climbed to a record high Thursday morning following the news before paring their early gains. The stock has added over 50% in 2025 so far.
+--------------------------------------------------
+
+Title: Dear Taiwan Semi Stock Fans, Today's Earnings Could Change Everything
+URL: https://www.barchart.com/story/news/35500279/dear-taiwan-semi-stock-fans-today-s-earnings-could-change-everything
+Time Published: 2025-10-16T15:24:19Z
+Description: Taiwan Semiconductor fans, brace yourselves, as today could redefine the company’s growth story as Q3 2025 results drop.
+--------------------------------------------------
+
+Title: TSMC Breaks Records on AI Chip Orders from Nvidia, Apple
+URL: https://finance.yahoo.com/news/tsmc-breaks-records-ai-chip-150448944.html
+Time Published: 2025-10-16T15:16:19Z
+Description: TSMC Hits Record Profit as AI Chip Boom Lifts Nvidia and Apple Demand
+--------------------------------------------------
+
+Title: TSMC +39% Profit, Sold‑Out 3nm - Chip Scarcity Is Real
+URL: https://www.forbes.com/sites/jonmarkman/2025/10/16/tsmc-39-profit-soldout-3nmchip-scarcity-is-real/
+Time Published: 2025-10-16T14:30:20Z
+Full Content:
+ByJon Markman, Contributor. Skeptics are stuck on "bubble talk," but they’re missing the single clearest market signal of this AI cycle: a brutal, tightening chip supply shortage driven by one company. TSM's Capacity: The Hottest Ticket in TechTaiwan Semiconductor (TSM) just reported a 39% profit surge driven by demand so "insatiable" that even their next-gen 3nm process nodes can’t keep up. Revenue nearly hit $33 billion, with gross margins near 60%. TSM isn’t drowning in stockpiles; it’s running at full throttle, selling every advanced wafer the company can make. Clients like Nvidia, Apple, AMD, Broadcom, and the hyperscalers are gobbling up foundry capacity and pushing prices higher. The supply bottleneck is real and tightening. This market isn’t a bubble; it's a sold-out stadium tour. Tens of thousands are battling for a handful of tickets, driving prices to a premium and fueling frenzy. TSM’s manufacturing capacity is the hottest ticket in tech, with limited supply failing to meet global AI upgrade demand. This shortage is a testament to the overwhelming demand from every major chip designer. Secular Shift, Not Short-Term FadOf course, we’ll see corrections. That is simply gravity in action. But anyone focused on market optimism over fundamentals is fundamentally missing the point. This isn't a fad; it’s a secular shift that’s rewiring the global computing foundation. Naysayers are sleeping on a crucial truth: computing hardware must evolve with software trends. The entire IT landscape is being refitted to process AI workloads. Foundry supply can’t keep pace with soaring demand, proving the strength of this shift. TSM’s raised guidance should be a wake-up call for AI pessimists. The company expects 2025 revenue growth near the mid-30% range, fueled by robust AI demand and new tech ramps like the 2nm nodes this quarter. Scarcity Drives Lasting GrowthThe key insight: it’s not only demand but acute supply scarcity driving this. Excess supply creates bubble fears; here it’s the opposite, indicating lasting pricing power and growth.The supply crunch isn't a warning sign; it's the all-clear signal. Ignoring this fundamental supply-demand imbalance isn't just a bet against the AI trade. It is a bet against the inevitable future of computing. The AI upgrade cycle is unstoppable. For investors, the choice is clear: get aligned with the defining technological momentum of our era, or stay stranded on the sidelines, watching the biggest story in tech history accelerate without you.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as TSMC's stellar earnings eclipse trade-war jitters
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-tsmcs-stellar-earnings-eclipse-trade-war-jitters-232657093.html
+Time Published: 2025-10-16T13:34:58Z
+Description: Investors weighed corporate earnings against the escalating US-China trade war.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq waver amid TSMC's stellar earnings, trade-war jitters
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-amid-tsmcs-stellar-earnings-trade-war-jitters-133458276.html
+Time Published: 2025-10-16T13:34:58Z
+Description: Investors weighed corporate earnings against the escalating US-China trade war.
+--------------------------------------------------
+
+Title: Taiwan Semiconductor Manufacturing Co Ltd (TSM) (Q3 2025) Earnings Call Highlights: Robust ...
+URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-co-ltd-130059539.html
+Time Published: 2025-10-16T13:00:59Z
+Description: TSMC reports strong third-quarter results with significant contributions from advanced technologies and outlines strategic plans to manage growth and...
+--------------------------------------------------
+
+Title: 5 Things to Know Before the Stock Market Opens
+URL: https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-11830831
+Time Published: 2025-10-16T12:20:41Z
+Full Content:
+Stock futures are pointing to a higher open for major indexes as investors digest a flurry of corporate earnings reports, while gold continues hitting new highs; Walmart (WMT) shares are higher after closing at record highs the last two days following news of the retailer's collaboration with OpenAI; Salesforce (CRM) shares are gaining after the company issued new long-term revenue projections; Taiwan Semiconductor Manufacturing Co. (TSM) shares are rising as strong AI chip demand continues to fuel sales growth; and Nestlé is laying off 16,000 workers. Here's what you need to know today. Stock futures are higher as strong earnings reports from banks continue to roll in. Futures tied to the Dow Jones Industrial Average were up 0.2% recently, after the blue chip index closed fractionally lower yesterday. Futures linked to the benchmark S&P 500 and the tech-heavy Nasdaq, both of which finished higher on Wednesday, were up 0.4% and 0.6%, respectively, this morning. Gold was up 1.4% at $4,260 an ounce, as investors continue pouring money into the safe-haven asset amid stock market volatility and economic uncertainty. Bitcoin (BTCUSD) was little changed at $111,600, trading near its lowest levels of the month and well below the record high of $126,000 set early last week. The yield on the 10-year Treasury note, which affects borrowing costs on a array of loans, was at 4.01%, down from 4.04% yesterday. Walmart (WMT) shares are slightly higher in premarket trading after closing at record highs the past two sessions following news the retail giant would team up with ChatGPT developer OpenAI. The collaboration, announced Tuesday, will allow shoppers to discover and buy items via instant checkout directly through the AI platform. The stock has gained 21% so far this year, outpacing broader market returns, as the retailer has benefitted from strong e-commerce sales and demand across income levels amid economic uncertainty. Walmart shares were up 0.1% before the opening bell, after gaining nearly 7% over the previous two sessions. Salesforce (CRM) shares are surging in premarket trading after the customer relationship software maker announced new long-term revenue targets as part of its annual conference. Salesforce said it expects $60 billion in revenue in 2030, which would reflect an annual growth rate of around 10%. The projections exclude impacts from the company’s $8 billion acquisition of data management software provider Informatica. The fresh outlook comes after the cloud-based software company recently issued current-quarter growth projections that came in below expectations. Salesforce shares, which come into today's session down roughly 30% so far in 2025, were up nearly 6% in recent trading. Taiwan Semiconductor Manufacturing Co. (TSM) reported a huge increase in third-quarter revenue as the chipmaker continued to see strong demand amid the AI spending boom. TSMC posted third-quarter revenue of $33.10 billion, up 41% from the year-ago period and 10% from the second quarter this year. The company is forecasting fourth-quarter revenue of between $32.2 billion and $33.4 billion. TSMC shares were up 2% in recent premarket trading. Nestlé announced plans to cut 16,000 jobs over the next two years. About 12,000 of the eliminated will be in white-collar roles, while the remainder will be manufacturing and supply chain jobs. Nestlé said it expects to save CHF 1.0 billion ($1.256 billion) by the end of 2027. The move by new CEO Philipp Navratil comes after the company dismissed its former chief executive in September over an undisclosed relationship with a subordinate. Nestlé shares traded in Switzerland moved sharply higher Thursday.
+--------------------------------------------------
+
+Title: Earnings live: TSMC profit surges amid 'strong' AI demand, Charles Schwab stock rises, United slips premarket
+URL: https://finance.yahoo.com/news/live/earnings-live-tsmc-profit-surges-amid-strong-ai-demand-charles-schwab-stock-rises-united-slips-premarket-115013246.html
+Time Published: 2025-10-16T11:50:13Z
+Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
 Title: TSMC posts strongest-ever quarterly profit, lifts 2025 growth outlook to mid-30 per cent range
 URL: https://economictimes.indiatimes.com/news/international/us/tsmc-posts-strongest-ever-profit-lifts-2025-growth-outlook-to-mid-30-per-cent-range/articleshow/124600212.cms
 Time Published: 2025-10-16T08:48:42Z
@@ -31,14 +88,14 @@ Time Published: 2025-10-15T13:41:00Z
 Description: Oaktree co-founder Howard Marks says investors should start taking some “chips off the table,” after a strong run for markets.
 --------------------------------------------------
 
-Title: Earnings live: Bank of America, LVMH, and ASML stocks jump on strong results
-URL: https://finance.yahoo.com/news/live/earnings-live-bank-of-america-lvmh-and-asml-stocks-jump-on-strong-results-113031603.html
+Title: Earnings live: Bank of America, Morgan Stanley, LVMH, and ASML stocks jump on strong results
+URL: https://finance.yahoo.com/news/live/earnings-live-bank-of-america-morgan-stanley-lvmh-and-asml-stocks-jump-on-strong-results-113031714.html
 Time Published: 2025-10-15T11:30:31Z
 Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
 
-Title: Earnings live: Bank of America, Morgan Stanley, LVMH, and ASML stocks jump on strong results
-URL: https://finance.yahoo.com/news/live/earnings-live-bank-of-america-morgan-stanley-lvmh-and-asml-stocks-jump-on-strong-results-113031714.html
+Title: Earnings live: Bank of America, LVMH, and ASML stocks jump on strong results
+URL: https://finance.yahoo.com/news/live/earnings-live-bank-of-america-lvmh-and-asml-stocks-jump-on-strong-results-113031603.html
 Time Published: 2025-10-15T11:30:31Z
 Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
