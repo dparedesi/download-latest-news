@@ -61,6 +61,12 @@ Time Published: 2025-10-15T13:36:39Z
 Description: Macquarie Asset Management, an investment management company, released its “Macquarie Large Cap Growth Fund” investor letter for the third quarter of 2025. A...
 --------------------------------------------------
 
+Title: NVDA vs. AMD: Which AI Hardware Stock Has Better Investment Potential?
+URL: https://finance.yahoo.com/news/nvda-vs-amd-ai-hardware-123500021.html
+Time Published: 2025-10-15T12:35:00Z
+Description: NVIDIA's dominance in AI chips, booming data center sales and expanding partnerships give it an edge over AMD in the race for AI hardware leadership.
+--------------------------------------------------
+
 Title: Nvidia Upgraded at HSBC as AI Suggests Upside of Nearly 80%
 URL: https://finance.yahoo.com/news/nvidia-upgraded-hsbc-ai-suggests-115531703.html
 Time Published: 2025-10-15T11:55:31Z
