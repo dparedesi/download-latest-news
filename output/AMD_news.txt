@@ -1,5 +1,17 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stocks Stabilize as Bank Stocks Recover and US-China Trade Tensions Ease
+URL: https://www.barchart.com/story/news/35527906/stocks-stabilize-as-bank-stocks-recover-and-us-china-trade-tensions-ease
+Time Published: 2025-10-17T14:14:59Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.14%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.43%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
+Title: S&P Futures Trim Losses as Trump Eases Trade Concerns
+URL: https://www.barchart.com/story/news/35519948/s-p-futures-plunge-on-u-s-bank-credit-woes
+Time Published: 2025-10-17T10:18:34Z
+Description: December S&P 500 E-Mini futures (ESZ25) are trending down -0.02% this morning, paring earlier losses after U.S. President Donald Trump moved to ease concerns...
+--------------------------------------------------
+
 Title: OpenAI to Deploy 6 Gigawatts of Advanced Micro Devices (AMD) GPUs
 URL: https://finance.yahoo.com/news/openai-deploy-6-gigawatts-advanced-203448346.html
 Time Published: 2025-10-16T20:34:48Z

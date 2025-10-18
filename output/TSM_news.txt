@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Susquehanna Maintains a Buy on Taiwan Semiconductor Manufacturing (TSM)
+URL: https://finance.yahoo.com/news/susquehanna-maintains-buy-taiwan-semiconductor-150857111.html
+Time Published: 2025-10-17T15:08:57Z
+Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the Hottest Mega-Cap Stocks of 2025. On October 9, Taiwan Semiconductor Manufacturing...
+--------------------------------------------------
+
 Title: Should You Buy the Post-Earnings Dip in Taiwan Semi Stock?
 URL: https://www.barchart.com/story/news/35507820/should-you-buy-the-post-earnings-dip-in-taiwan-semi-stock
 Time Published: 2025-10-16T20:45:05Z
@@ -112,14 +118,14 @@ Time Published: 2025-10-15T13:41:00Z
 Description: Oaktree co-founder Howard Marks says investors should start taking some “chips off the table,” after a strong run for markets.
 --------------------------------------------------
 
-Title: Earnings live: Bank of America, Morgan Stanley, LVMH, and ASML stocks jump on strong results
-URL: https://finance.yahoo.com/news/live/earnings-live-bank-of-america-morgan-stanley-lvmh-and-asml-stocks-jump-on-strong-results-113031714.html
+Title: Earnings live: Bank of America, LVMH, and ASML stocks jump on strong results
+URL: https://finance.yahoo.com/news/live/earnings-live-bank-of-america-lvmh-and-asml-stocks-jump-on-strong-results-113031603.html
 Time Published: 2025-10-15T11:30:31Z
 Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
 
-Title: Earnings live: Bank of America, LVMH, and ASML stocks jump on strong results
-URL: https://finance.yahoo.com/news/live/earnings-live-bank-of-america-lvmh-and-asml-stocks-jump-on-strong-results-113031603.html
+Title: Earnings live: Bank of America, Morgan Stanley, LVMH, and ASML stocks jump on strong results
+URL: https://finance.yahoo.com/news/live/earnings-live-bank-of-america-morgan-stanley-lvmh-and-asml-stocks-jump-on-strong-results-113031714.html
 Time Published: 2025-10-15T11:30:31Z
 Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
@@ -142,14 +148,14 @@ Time Published: 2025-10-14T13:44:00Z
 Description: Longview Economics says investors should tread carefully with stocks as something was broken with Friday’s selloff last week.
 --------------------------------------------------
 
-Title: Earnings live: JPMorgan, BlackRock, Wells Fargo, Johnson & Johnson take spotlight as Q3 earnings kick off
-URL: https://finance.yahoo.com/news/live/earnings-live-jpmorgan-blackrock-wells-fargo-johnson--johnson-take-spotlight-as-q3-earnings-kick-off-113555421.html
+Title: Earnings live: JPMorgan, BlackRock stocks edge lower, Wells Fargo rises as Q3 earnings season kicks off
+URL: https://finance.yahoo.com/news/live/earnings-live-jpmorgan-blackrock-stocks-edge-lower-wells-fargo-rises-as-q3-earnings-season-kicks-off-113555582.html
 Time Published: 2025-10-14T11:35:55Z
 Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
 
-Title: Earnings live: JPMorgan, BlackRock stocks edge lower, Wells Fargo rises as Q3 earnings season kicks off
-URL: https://finance.yahoo.com/news/live/earnings-live-jpmorgan-blackrock-stocks-edge-lower-wells-fargo-rises-as-q3-earnings-season-kicks-off-113555582.html
+Title: Earnings live: JPMorgan, BlackRock, Wells Fargo, Johnson & Johnson take spotlight as Q3 earnings kick off
+URL: https://finance.yahoo.com/news/live/earnings-live-jpmorgan-blackrock-wells-fargo-johnson--johnson-take-spotlight-as-q3-earnings-kick-off-113555421.html
 Time Published: 2025-10-14T11:35:55Z
 Description: Third quarter earnings season is just beginning, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------

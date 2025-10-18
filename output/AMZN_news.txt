@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Amazon Faces Growing Pressure to Reignite Cloud Growth Ahead of Q3 Results
+URL: https://finance.yahoo.com/news/amazon-faces-growing-pressure-reignite-135516578.html
+Time Published: 2025-10-17T13:55:16Z
+Description: AWS performance remains central to investor sentiment as competition intensifies.
+--------------------------------------------------
+
 Title: If You Think AI’s A Bubble, You’re Already Late
 URL: https://www.barchart.com/story/news/35510153/if-you-think-ais-a-bubble-youre-already-late
 Time Published: 2025-10-16T22:20:21Z

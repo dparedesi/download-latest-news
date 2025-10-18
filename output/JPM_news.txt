@@ -1,5 +1,11 @@
 List of news related to JPMorgan stock price JPM:
 
+Title: S&P Futures Trim Losses as Trump Eases Trade Concerns
+URL: https://www.barchart.com/story/news/35519948/s-p-futures-plunge-on-u-s-bank-credit-woes
+Time Published: 2025-10-17T10:18:34Z
+Description: December S&P 500 E-Mini futures (ESZ25) are trending down -0.02% this morning, paring earlier losses after U.S. President Donald Trump moved to ease concerns...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq wobble as Trump tamps down China threats amid regional bank jitters
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-trump-tamps-down-china-threats-amid-regional-bank-jitters-000232728.html
 Time Published: 2025-10-17T00:02:32Z
