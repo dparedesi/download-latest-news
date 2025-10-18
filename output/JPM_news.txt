@@ -1,9 +1,33 @@
 List of news related to JPMorgan stock price JPM:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble as Trump tamps down China threats amid regional bank jitters
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-trump-tamps-down-china-threats-amid-regional-bank-jitters-000232728.html
+Time Published: 2025-10-17T00:02:32Z
+Description: Fears spread about regional banks' exposure to bad loans and credit quality, spurring an exodus by investors to safe havens.
+--------------------------------------------------
+
+Title: Stock market today: Dow drops 300 points, S&P 500, Nasdaq slide as regional bank woes hit markets
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-drops-300-points-sp-500-nasdaq-slide-as-regional-bank-woes-hit-markets-133458076.html
+Time Published: 2025-10-16T20:04:00Z
+Description: Investors weighed corporate earnings against the escalating US-China trade war.
+--------------------------------------------------
+
 Title: DocuSign CEO says OpenAI’s speed of development is forcing companies to move faster
 URL: https://finance.yahoo.com/news/docusign-ceo-says-openais-speed-of-development-is-forcing-companies-to-move-faster-173127967.html
 Time Published: 2025-10-16T17:31:27Z
 Description: As OpenAI races ahead, Docusign is betting on agents and data to stay in the game
+--------------------------------------------------
+
+Title: Three Standout Trades Emerge from First Horizon’s 11 Unusually Active Options
+URL: https://www.barchart.com/story/news/35503172/three-standout-trades-emerge-from-first-horizons-11-unusually-active-options
+Time Published: 2025-10-16T17:30:02Z
+Description: The Tennessee-based regional bank had 11 unusually active options in Wednesday’s trading due to the stock’s second-highest options volume in 2025. However...
+--------------------------------------------------
+
+Title: Three Standout Trades Emerge from First Horizon’s 11 Unusually Active Options
+URL: https://www.barchart.com/story/news/35500883/three-standout-trades-emerge-from-first-horizons-11-unusually-active-options
+Time Published: 2025-10-16T15:51:42Z
+Description: The Tennessee-based regional bank had 11 unusually active options in Wednesday’s trading due to the stock’s second-highest options volume in 2025. However...
 --------------------------------------------------
 
 Title: US stock market today rallies strong: Dow jumps 351 points, the S&P 500 gains 1%, and the Nasdaq rises 1.2% as bank earnings smash forecasts, Fed rate-cut hopes lift Wall Street, and trade jitters ease before Trump-Xi talks
@@ -86,35 +110,4 @@ Title: Stocks Set to Open Sharply Higher as Trump Tempers Tariff Threats, Powell
 URL: https://www.barchart.com/story/news/35402785/stocks-set-to-open-sharply-higher-as-trump-tempers-tariff-threats-powells-remarks-and-big-bank-earnings-awaited
 Time Published: 2025-10-13T10:06:35Z
 Description: December S&P 500 E-Mini futures (ESZ25) are up +1.38%, and December Nasdaq 100 E-Mini futures (NQZ25) are up +1.84% this morning, signaling a rebound from...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq stage comeback as Trump tempers tariff talk toward China
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stage-comeback-as-trump-tempers-tariff-talk-toward-china-231010620.html
-Time Published: 2025-10-12T23:10:10Z
-Description: Markets are assessing Trump's retreat from combative comments on China.
---------------------------------------------------
-
-Title: Stocks face earnings test with S&P 500 on pace for worst performance in a shutdown since 1990
-URL: https://www.marketwatch.com/story/stocks-face-earnings-test-with-s-p-500-on-pace-for-worst-performance-in-a-shutdown-since-1990-ee8bd807
-Time Published: 2025-10-12T20:00:00Z
-Description: Stocks are approaching a clear test after investors were left in the fog of a government shutdown this month and rattled by fresh tariff fears Friday.
---------------------------------------------------
-
-Title: Trade Tensions, Market Volatility and Other Key Things to Watch this Week
-URL: https://www.barchart.com/story/news/35397025/trade-tensions-market-volatility-and-other-key-things-to-watch-this-week
-Time Published: 2025-10-12T17:00:02Z
-Description: Markets enter a critical week following Friday's dramatic selloff triggered by President Trump's threat of "massive tariffs" against China over tighter rare-...
---------------------------------------------------
-
-Title: Stocks dip as government shutdown continues, rare earths rally: What to watch this week
-URL: https://finance.yahoo.com/news/stocks-dip-as-government-shutdown-continues-rare-earths-rally-what-to-watch-this-week-114600627.html
-Time Published: 2025-10-12T11:46:00Z
-Description: The stock market will enter the second full week of the government shutdown. Investors will also focus on big bank earnings.
---------------------------------------------------
-
-Title: What to Expect in Markets This Week: Big Bank Earnings, Fed Speakers, Shutdown Data Delays
-URL: https://www.investopedia.com/what-to-expect-in-markets-this-week-big-bank-earnings-fed-speakers-shutdown-data-delays-11827144
-Time Published: 2025-10-12T10:00:00Z
-Full Content:
-After Friday’s big selloff as President Trump fired back at China’s tightening of rare earths export curbs with higher tariffs, investors will be watching closely for the latest trade policy developments. An ongoing federal government shutdown may delay the release of several economic reports, but investors can look forward to a full slate of corporate earnings from big banks and mainstays in the semiconductor industry. JPMorgan Chase, Wells Fargo, Goldman Sachs, and American Express are on the list of major financial firms set to report this week, while reports from TSMC, Johnson & Johnson, and United Airlines will also be in focus. Without a resolution to the budget dispute, the government shutdown will enter its third week, likely delaying the release of data on wholesale inflation, retail sales, housing starts, and jobless claims. Homebuilder confidence and small business optimism surveys are still scheduled, and several Federal Reserve speakers are expected to deliver remarks, including Federal Reserve Chair Jerome Powell. The bond market is closed on Monday for the Columbus Day holiday (observed in some places as Indigenous Peoples Day), while major stock exchanges are open. The Federal Reserve system, major financial institutions, and many federal, state, and local government offices will be closed on Monday. Read to the bottom for our calendar of key events—and one more thing. This week is set to bring third-quarter updates from some of the world's biggest banks and top financial institutions, starting with Tuesday's release from JPMorgan Chase. The world’s largest bank by market capitalization has reported better-than-expected revenue in the year’s first two quarters, even as sales declined and net interest income came up short in its most recent report amid CEO Jamie Dimon’s warnings about "turbulence" in the economy. Others expected to release quarterly financials Tuesday include Wells Fargo, Goldman Sachs, BlackRock, and CitiGroup. Reports from Bank of America and Morgan Stanley are due to follow Wednesday, while Charles Schwab, Bank of New York Mellon, and U.S. Bancorp are scheduled for Thursday. Earnings from American Express, Truist Financial, and State Street are slated for Friday. The world's largest chip manufacturer, TSMC, is set to report its results Thursday, after growing its revenue by 40% in the first half of 2025 on strong sales of AI chips. Chipmaking equipment maker ASML looks to report Wednesday after the Dutch firm raised worries about future growth amid tariff pressures. Also this week, cloud computing giant Oracle will host a three-day AI World conference beginning on Monday, and customer relationship management software firm Salesforce's Dreamforce event starts Tuesday. With the federal government shutdown heading into its third week, the blackout on economic data releases is likely to continue. The Thursday reports on U.S. retail sales and initial jobless claims and Friday’s update on housing starts could be delayed by the shutdown. The Bureau of Labor Statistics said last week it plans to release on Oct. 24 the Consumer Price Index inflation report for September that was originally scheduled for release on Wednesday. Several Federal Reserve officials are also scheduled to speak, coming as the central bank is set to release its Beige Book economic update on Wednesday. Chair Jerome Powell is due to give an economic update on Tuesday, with remarks also expected this week from Fed Governor Stephen Miran, Fed Vice Chair Michelle Bowman and Fed Governor Christopher Waller. Some data releases are still expected, including a survey of small business optimism on Tuesday and report on homebuilder confidence on Thursday. Quick Links: Recap Last Week’s Trading | Read Investopedia’s Latest News Monday, Oct. 13 Tuesday, Oct. 14 Wednesday, Oct. 15 Thursday, Oct. 16 Friday, Oct. 17 Medicare open enrollment begins on Wednesday, Oct. 15, giving those covered by the federal health insurance program an opportunity to change their plans. Investopedia’s Jeanine Skowronski has more information on how to prepare for Medicare’s open enrollment period.
 --------------------------------------------------

@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: If You Think AI’s A Bubble, You’re Already Late
+URL: https://www.barchart.com/story/news/35510153/if-you-think-ais-a-bubble-youre-already-late
+Time Published: 2025-10-16T22:20:21Z
+Description: The real AI opportunity is already underway while skeptics are still arguing about bubbles.
+--------------------------------------------------
+
+Title: Goldman Sachs Says This 1 Stock Is at a ‘Fundamental Inflection Point’ and You Should Buy It Now
+URL: https://www.barchart.com/story/news/35505202/goldman-sachs-says-this-1-stock-is-at-a-fundamental-inflection-point-and-you-should-buy-it-now
+Time Published: 2025-10-16T19:11:17Z
+Description: Estee Lauder stock might deliver outsized returns to shareholders over the next four years, given its widening earnings base and improving fundamentals.
+--------------------------------------------------
+
 Title: Nvidia upgraded, Ibotta downgraded: Wall Street's top analyst calls
 URL: https://finance.yahoo.com/news/nvidia-upgraded-ibotta-downgraded-wall-133644844.html
 Time Published: 2025-10-15T13:36:44Z
@@ -29,10 +41,4 @@ Title: Can NVDA Still Be a $300 Stock If Nvidia Loses Its Monopoly in AI GPUs?
 URL: https://www.barchart.com/story/news/35409557/can-nvda-still-be-a-300-stock-if-nvidia-loses-its-monopoly-in-ai-gpus
 Time Published: 2025-10-13T15:58:32Z
 Description: While Nvidia’s market share in the AI GPU market might come down, the sheer size of growth in that market means that NVDA stock could still continue to be a ...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq stage comeback as Trump tempers tariff talk toward China
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stage-comeback-as-trump-tempers-tariff-talk-toward-china-231010620.html
-Time Published: 2025-10-12T23:10:10Z
-Description: Markets are assessing Trump's retreat from combative comments on China.
 --------------------------------------------------

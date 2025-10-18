@@ -1,9 +1,27 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: OpenAI to Deploy 6 Gigawatts of Advanced Micro Devices (AMD) GPUs
+URL: https://finance.yahoo.com/news/openai-deploy-6-gigawatts-advanced-203448346.html
+Time Published: 2025-10-16T20:34:48Z
+Description: ​Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the Hottest Mega-Cap Stocks of 2025. On October 6, Advanced Micro Devices, Inc. (NASDAQ:AMD) announced a...
+--------------------------------------------------
+
+Title: Stock market today: Dow drops 300 points, S&P 500, Nasdaq slide as regional bank woes hit markets
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-drops-300-points-sp-500-nasdaq-slide-as-regional-bank-woes-hit-markets-133458076.html
+Time Published: 2025-10-16T20:04:00Z
+Description: Investors weighed corporate earnings against the escalating US-China trade war.
+--------------------------------------------------
+
 Title: NVDA: This Analyst Sees Massive 80% Upside For Nvidia Stock -- Here's Why
 URL: https://finance.yahoo.com/news/nvda-analyst-sees-massive-80-183637187.html
 Time Published: 2025-10-16T18:36:37Z
 Description: HSBC Predicts Nvidia's Market Cap Could Double To $8 Trillion
+--------------------------------------------------
+
+Title: Qualcomm vs. Supermicro Stock: Which Will Be the Next AI Winner?
+URL: https://www.barchart.com/story/news/35503436/qualcomm-vs-supermicro-stock-which-will-be-the-next-ai-winner
+Time Published: 2025-10-16T17:41:52Z
+Description: As the AI race heats up, who could emerge as the better choice over the long term?
 --------------------------------------------------
 
 Title: Why AMD Stock Jumped 50%?
@@ -11,6 +29,12 @@ URL: https://www.forbes.com/sites/greatspeculations/2025/10/16/why-amd-stock-jum
 Time Published: 2025-10-16T13:13:18Z
 Full Content:
 ByTrefis Team, Contributor. Advanced Micro Devices (NASDAQ:AMD) stock surged by almost 50% between 7/17/2025 and 10/15/2025. The gains come on the back of improving earnings, a recovering CPU market and surging interest in GPUs for artificial intelligence applications. AMD also recently snagged a high profile deal with ChatGPT maker OpenAI, to supply tens of thousands of its GPU chips for 6 gigawatts of computing capacity over the next five years. From a quantitative perspective, the gains were mainly influenced by a 19.3% shift in the company's Net Income Margin (%). While there is more to this story than just figures, let's first analyze the stock price movement by breaking it down into its contributing factors. Investing in individual stocks can be daunting, but there is great advantage in adopting a more diversified approach, such as with the Trefis High Quality Portfolio. Trefis collaborates with Empirical Asset Management – a Boston-based wealth management firm – whose asset allocation strategies have yielded positive returns during the 2008-09 period when the S&P experienced a loss of over 40%. Empirical has integrated the Trefis HQ Portfolio within this asset allocation framework to offer clients superior returns with reduced risk compared to the benchmark index; it provides a smoother investment experience, as demonstrated by HQ Portfolio performance metrics. Returning to the “change”: The shifts in fundamental factors such as valuation, revenue, and margins reveal a deeper narrative regarding the business and investor sentiment. Below, we highlight key developments that impacted the price movement of AMD stock. To provide context: AMD offers x86 microprocessors, accelerated processing units, chipsets, discrete and integrated GPUs, data center and professional GPUs, as well as development services across computing, graphics, enterprise, embedded, and semi-custom segments. Here Is Why Advanced Micro Devices Stock Moved Our Current Assessment Of AMD Stock Opinion: At the moment, we regard AMD stock as relatively pricey. Why is that? For an in-depth analysis, read Buy or Sell AMD Stock to understand the basis of our current view. Risk: AMD is also vulnerable to significant downturns. It dropped about 83% during the Dot-Com crash and nearly 91% in the Global Financial Crisis. The corrections in 2018 and inflation shock caused losses of 49% and 65%, respectively. Even the Covid sell-off was harsh, erasing over 34%. While solid fundamentals are important, during market downturns, AMD has demonstrated its capacity to incur substantial losses. Consistently identifying winners is not an easy endeavor, particularly given the volatility associated with individual stocks. Conversely, the Trefis High Quality (HQ) Portfolio, featuring a collection of 30 stocks, has a demonstrated history of outperforming the S&P 500 over the past four years. What is the reason for this? On average, HQ Portfolio stocks yielded better returns with less risk compared to the benchmark index; resulting in a smoother investment journey, as seen in HQ Portfolio performance metrics.
+--------------------------------------------------
+
+Title: Palantir Technologies’ Quarterly Earnings Preview: What You Need to Know
+URL: https://www.barchart.com/story/news/35488880/palantir-technologies-quarterly-earnings-preview-what-you-need-to-know
+Time Published: 2025-10-16T10:13:44Z
+Description: Palantir Technologies is scheduled to release its third-quarter results next month, with analysts projecting a robust triple-digit surge in earnings.
 --------------------------------------------------
 
 Title: Top Stocks: Walmart, Bunge Global, and AMD
@@ -164,16 +188,4 @@ Title: Piper Sandler Raises Price Target on AMD (AMD) to $240 After Landmark Ope
 URL: https://finance.yahoo.com/news/piper-sandler-raises-price-target-035704566.html
 Time Published: 2025-10-13T03:57:04Z
 Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the AI Stocks on the Market’s Radar. On October 7, Piper Sandler analyst Harsh Kumar raised the firm’s...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq stage comeback as Trump tempers tariff talk toward China
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stage-comeback-as-trump-tempers-tariff-talk-toward-china-231010620.html
-Time Published: 2025-10-12T23:10:10Z
-Description: Markets are assessing Trump's retreat from combative comments on China.
---------------------------------------------------
-
-Title: One move just sent AMD into a whole new league
-URL: https://www.thestreet.com/technology/one-move-just-sent-amd-into-a-whole-new-league
-Time Published: 2025-10-12T17:17:00Z
-Description: Wall Street just gave Advanced Micro Devices a big vote of confidence. After AMD made a huge deal with OpenAI that could bring in $100 billion in revenue...
 --------------------------------------------------
