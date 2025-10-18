@@ -1,5 +1,11 @@
 List of news related to JPMorgan stock price JPM:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Trump tamps down China threats amid regional bank jitters
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-tamps-down-china-threats-after-regional-bank-jitters-182020110.html
+Time Published: 2025-10-17T18:20:20Z
+Description: Fears spread about regional banks' exposure to bad loans and credit quality, spurring an exodus by investors to safe havens.
+--------------------------------------------------
+
 Title: S&P Futures Trim Losses as Trump Eases Trade Concerns
 URL: https://www.barchart.com/story/news/35519948/s-p-futures-plunge-on-u-s-bank-credit-woes
 Time Published: 2025-10-17T10:18:34Z

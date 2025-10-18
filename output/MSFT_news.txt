@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Oracle stock tumbles as investors weigh ambitious financial targets
+URL: https://finance.yahoo.com/news/oracle-stock-tumbles-as-investors-weigh-ambitious-financial-targets-184134267.html
+Time Published: 2025-10-17T18:41:34Z
+Description: Oracle stock reversed Thursday's gains as investors weighted its aggressive revenue and gross margin forecasts.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Trump tamps down China threats amid regional bank jitters
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-tamps-down-china-threats-after-regional-bank-jitters-182020110.html
+Time Published: 2025-10-17T18:20:20Z
+Description: Fears spread about regional banks' exposure to bad loans and credit quality, spurring an exodus by investors to safe havens.
+--------------------------------------------------
+
 Title: quantlabs added to PyPI
 URL: https://pypi.org/project/quantlabs/
 Time Published: 2025-10-16T22:03:45Z
@@ -75,12 +87,6 @@ Time Published: 2025-10-14T23:11:43Z
 Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq climb amid strong bank earnings, rate-cut hopes
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-amid-strong-bank-earnings-rate-cut-hopes-231143771.html
-Time Published: 2025-10-14T23:11:43Z
-Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq slip amid strong bank earnings, rate-cut hopes
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-amid-strong-bank-earnings-rate-cut-hopes-231143750.html
 Time Published: 2025-10-14T23:11:43Z
@@ -89,6 +95,12 @@ Description: investors weighed hopes for rate cuts and strong results from Wall 
 
 Title: Stock market today: Dow, S&P 500, Nasdaq climb as strong bank earnings, rate-cut hopes soothe US-China jitters
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-as-strong-bank-earnings-rate-cut-hopes-soothe-us-china-jitters-231143652.html
+Time Published: 2025-10-14T23:11:43Z
+Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq climb amid strong bank earnings, rate-cut hopes
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-climb-amid-strong-bank-earnings-rate-cut-hopes-231143771.html
 Time Published: 2025-10-14T23:11:43Z
 Description: investors weighed hopes for rate cuts and strong results from Wall Street banks as the US-China trade dispute rolled on.
 --------------------------------------------------
