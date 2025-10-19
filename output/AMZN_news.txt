@@ -48,15 +48,3 @@ URL: https://finance.yahoo.com/news/amazon-amzn-one-best-wide-170817559.html
 Time Published: 2025-10-14T17:08:17Z
 Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the Best Wide Moat Stocks to Buy Right Now. The company enjoys a wide moat, which stems from its strong network...
 --------------------------------------------------
-
-Title: Stock market today: Dow jumps 600 points, S&P 500, Nasdaq soar as Wall Street rebounds from tariff-fueled rout
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-600-points-sp-500-nasdaq-soar-as-wall-street-rebounds-from-tariff-fueled-rout-200627651.html
-Time Published: 2025-10-13T20:06:27Z
-Description: Markets are assessing Trump's retreat from combative comments on China.
---------------------------------------------------
-
-Title: Can NVDA Still Be a $300 Stock If Nvidia Loses Its Monopoly in AI GPUs?
-URL: https://www.barchart.com/story/news/35409557/can-nvda-still-be-a-300-stock-if-nvidia-loses-its-monopoly-in-ai-gpus
-Time Published: 2025-10-13T15:58:32Z
-Description: While Nvidia’s market share in the AI GPU market might come down, the sheer size of growth in that market means that NVDA stock could still continue to be a ...
---------------------------------------------------

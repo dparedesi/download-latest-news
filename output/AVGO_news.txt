@@ -1,21 +1,27 @@
 List of news related to Broadcom AVGO:
 
+Title: Stocks Settle Higher as Bank Worries and Trade Tensions Recede
+URL: https://www.barchart.com/story/news/35534543/stocks-settle-higher-as-bank-worries-and-trade-tensions-recede
+Time Published: 2025-10-17T20:33:13Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed up +0.53%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.52%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
 Title: Is Broadcom Stock Overvalued in October 2025?
 URL: https://www.barchart.com/story/news/35532691/is-broadcom-stock-overvalued-in-october-2025
 Time Published: 2025-10-17T18:26:50Z
 Description: AVGO is red hot after Broadcom announced an OpenAI deal. However, shares trade at a forward P/E near 65x.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as Trump tamps down China threats amid regional bank jitters
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-tamps-down-china-threats-after-regional-bank-jitters-182020110.html
-Time Published: 2025-10-17T18:20:20Z
-Description: Fears spread about regional banks' exposure to bad loans and credit quality, spurring an exodus by investors to safe havens.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq notch weekly wins after volatile week as Trump signals China talks back on track
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-notch-weekly-wins-after-volatile-week-as-trump-signals-china-talks-back-on-track-182020560.html
 Time Published: 2025-10-17T18:20:20Z
 Description: Investor fears over regional banks' exposure to bad loans and credit quality eased while talks between the US and China appeared to be back on track.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Trump tamps down China threats amid regional bank jitters
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-tamps-down-china-threats-after-regional-bank-jitters-182020110.html
+Time Published: 2025-10-17T18:20:20Z
+Description: Fears spread about regional banks' exposure to bad loans and credit quality, spurring an exodus by investors to safe havens.
 --------------------------------------------------
 
 Title: Micron Stock Slips From Record High Amid China Business Concerns—Watch These Key Price Levels
@@ -284,28 +290,4 @@ Title: The Fidelity Dividend ETF beating Vanguard and Schwab in 2025
 URL: https://www.thestreet.com/investing/the-fidelity-dividend-etf-beating-vanguard-and-schwab-in-2025
 Time Published: 2025-10-14T03:33:00Z
 Description: For years, the dividend ETF leaderboard seemed locked in place. The Vanguard Dividend Appreciation ETF (VIG), the Vanguard High Dividend Yield ETF (VYM), and...
---------------------------------------------------
-
-Title: Stock market today: S&P 500 and Dow rise, Nasdaq slides as US-China tensions simmer, big banks report
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-and-dow-rise-nasdaq-slides-as-us-china-tensions-simmer-big-banks-report-233314867.html
-Time Published: 2025-10-13T23:33:14Z
-Description: China upped the ante in its trade spat with the US, rattling investors' nerves as big Wall Street banks kicked off earnings season.
---------------------------------------------------
-
-Title: Stock market today: S&P 500 and Dow turn higher, Nasdaq dips with Fed's Powell, China tariff tensions in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-and-dow-turn-higher-nasdaq-dips-with-feds-powell-china-tariff-tensions-in-focus-233314697.html
-Time Published: 2025-10-13T23:33:14Z
-Description: China upped the ante in its trade spat with the US, rattling investors' nerves as big Wall Street banks kicked off earnings season.
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq slide as US-China tensions simmer; Dow steadies as big banks report
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-slide-as-us-china-tensions-simmer-dow-steadies-as-big-banks-report-233314488.html
-Time Published: 2025-10-13T23:33:14Z
-Description: China upped the ante in its trade spat with the US, rattling investors' nerves as big Wall Street banks kicked off earnings season.
---------------------------------------------------
-
-Title: Stocks Settle Sharply Higher on Trade Hopes and AI Optimism
-URL: https://www.barchart.com/story/news/35414255/stocks-settle-sharply-higher-on-trade-hopes-and-ai-optimism
-Time Published: 2025-10-13T20:34:25Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +1.56%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +1.29%, and the Nasdaq 100 Index...
 --------------------------------------------------

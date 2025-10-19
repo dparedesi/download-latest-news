@@ -105,27 +105,3 @@ URL: https://www.barchart.com/story/news/35425570/stock-index-futures-plunge-as-
 Time Published: 2025-10-14T10:18:07Z
 Description: December S&P 500 E-Mini futures (ESZ25) are down -1.18%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -1.65% this morning as sentiment weakened...
 --------------------------------------------------
-
-Title: Stocks Settle Sharply Higher on Trade Hopes and AI Optimism
-URL: https://www.barchart.com/story/news/35414255/stocks-settle-sharply-higher-on-trade-hopes-and-ai-optimism
-Time Published: 2025-10-13T20:34:25Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +1.56%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +1.29%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Stock market today: Dow jumps 600 points, S&P 500, Nasdaq soar as Wall Street rebounds from tariff-fueled rout
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-600-points-sp-500-nasdaq-soar-as-wall-street-rebounds-from-tariff-fueled-rout-200627651.html
-Time Published: 2025-10-13T20:06:27Z
-Description: Markets are assessing Trump's retreat from combative comments on China.
---------------------------------------------------
-
-Title: Gold price today, Friday, October 17: Gold opens at record $4,348.10 as credit quality fears spread
-URL: https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-october-17-gold-opens-at-record-434810-as-credit-quality-fears-spread-114156473.html
-Time Published: 2025-10-13T11:41:56Z
-Description: Gold futures opened at a record $4,348.10 per ounce on Friday, up 1.2% from Thursday’s close of $4,280.20. In early trading, gold rose as high as $4,392...
---------------------------------------------------
-
-Title: Stocks Set to Open Sharply Higher as Trump Tempers Tariff Threats, Powell’s Remarks and Big Bank Earnings Awaited
-URL: https://www.barchart.com/story/news/35402785/stocks-set-to-open-sharply-higher-as-trump-tempers-tariff-threats-powells-remarks-and-big-bank-earnings-awaited
-Time Published: 2025-10-13T10:06:35Z
-Description: December S&P 500 E-Mini futures (ESZ25) are up +1.38%, and December Nasdaq 100 E-Mini futures (NQZ25) are up +1.84% this morning, signaling a rebound from...
---------------------------------------------------
