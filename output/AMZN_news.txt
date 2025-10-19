@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Big Tech's AI ambitions are remaking the US power grid. Consumers are paying the price.
+URL: https://finance.yahoo.com/news/big-techs-ai-ambitions-are-remaking-the-us-power-grid-consumers-are-paying-the-price-160535898.html
+Time Published: 2025-10-18T16:05:35Z
+Description: Requests from Big Tech for power supply are skyrocketing. If that demand doesn't end up following through, utility companies could be stuck with the bill.
+--------------------------------------------------
+
 Title: Oracle stock tumbles as investors weigh ambitious financial targets
 URL: https://finance.yahoo.com/news/oracle-stock-tumbles-as-investors-weigh-ambitious-financial-targets-184134267.html
 Time Published: 2025-10-17T18:41:34Z

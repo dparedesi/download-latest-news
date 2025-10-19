@@ -12,6 +12,12 @@ Time Published: 2025-10-17T14:14:59Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.14%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.43%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
+Title: Should You Buy, Sell or Hold INTC Stock Before Q3 Earnings?
+URL: https://finance.yahoo.com/news/buy-sell-hold-intc-stock-132300758.html
+Time Published: 2025-10-17T13:23:00Z
+Description: INTC readies its Q3 earnings as new AI partnerships, product launches and global headwinds shape investor sentiment ahead of Oct. 23.
+--------------------------------------------------
+
 Title: S&P Futures Trim Losses as Trump Eases Trade Concerns
 URL: https://www.barchart.com/story/news/35519948/s-p-futures-plunge-on-u-s-bank-credit-woes
 Time Published: 2025-10-17T10:18:34Z
