@@ -1,5 +1,24 @@
 List of news related to Netflix stock price NFLX:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq rise amid trade-war lull, with flurry of earnings on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138424.html
+Time Published: 2025-10-20T13:31:38Z
+Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq jump amid trade-war lull, with flurry of earnings on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138155.html
+Time Published: 2025-10-20T13:31:38Z
+Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
+--------------------------------------------------
+
+Title: Stocks Poised For More Gains As Shutdown Continues
+URL: https://www.forbes.com/sites/catherinebrock/2025/10/20/stocks-poised-for-more-gains-as-shutdown-continues/
+Time Published: 2025-10-20T12:31:05Z
+Full Content:
+ByCatherine Brock, Contributor. U.S. stocks rose Friday and notched gains last week as the government shutdown continues. The shutdown is now the third-longest in U.S. history. The record is 35 days from Donald Trump’s first presidential term. There was also a 21-day shutdown under President Bill Clinton. Last week, the large-cap S&P 500 index rose 1.7%, the technology-focused Nasdaq Composite gained 3% and the Dow Jones Industrial Average, the blue-chip index, was up 1.6%. Health care subsidies are central to the standoff between Republicans and Democrats. Democrats want Affordable Care Act subsidies to continue, and Republicans have refused to negotiate. Meanwhile, federal workers are set to miss their first full paycheck this week, which was originally scheduled for electronic deposit on Oct. 24. Key government data releases, including the monthly jobs report, are also delayed due to the shutdown. The Bureau of Labor Statistics will publish the September 2025 Consumer Price Index (CPI) report on Oct. 24, but no other reports will be produced until the government reopens. The inflation report will be instrumental to the Federal Reserve’s next meeting on Oct. 28 and 29. The Fed last met on Sept. 16 and 17, when the committee reduced the federal funds rate by a quarter-point and acknowledged the dual risks of inflation and unemployment. If the September CPI shows higher-than-expected prices, the Fed’s job of stimulating jobs gets more complicated. Lower interest rates can support higher employment but can also fuel price increases. CME FedWatch currently shows a 96.7% probability that rates will decline again in October, down from 98.7% on Friday. Stock futures for the S&P 500, Nasdaq 100 and Dow Jones are up ahead of the market open on Monday. Contracts tied to the S&P 500 are up 0.3%, Nasdaq 100 futures are up 0.4%, and Dow Jones futures have gained 0.2%. Netflix (NFLX), Coca-Cola (KO) and General Motors (GM) will report third quarter earnings on Tuesday. Tesla (TSLA) and IBM (IBM) are on the calendar for Wednesday, and Intel (INTC) and Ford (F) report Thursday.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures steady with government shutdown, earnings season in focus
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-steady-with-government-shutdown-earnings-season-in-focus-011610446.html
 Time Published: 2025-10-20T01:16:10Z
