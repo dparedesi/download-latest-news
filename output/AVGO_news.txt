@@ -106,14 +106,14 @@ Time Published: 2025-10-16T13:39:23Z
 Description: (Reuters) -Semiconductor stocks advanced on Thursday after top contract chipmaker TSMC (TSM) issued a rosy forecast, fanning optimism about demand for...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq waver amid TSMC's stellar earnings, trade-war jitters
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-amid-tsmcs-stellar-earnings-trade-war-jitters-133458276.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as TSMC's stellar earnings eclipse trade-war jitters
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-tsmcs-stellar-earnings-eclipse-trade-war-jitters-232657093.html
 Time Published: 2025-10-16T13:34:58Z
 Description: Investors weighed corporate earnings against the escalating US-China trade war.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as TSMC's stellar earnings eclipse trade-war jitters
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-tsmcs-stellar-earnings-eclipse-trade-war-jitters-232657093.html
+Title: Stock market today: Dow, S&P 500, Nasdaq waver amid TSMC's stellar earnings, trade-war jitters
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-amid-tsmcs-stellar-earnings-trade-war-jitters-133458276.html
 Time Published: 2025-10-16T13:34:58Z
 Description: Investors weighed corporate earnings against the escalating US-China trade war.
 --------------------------------------------------
