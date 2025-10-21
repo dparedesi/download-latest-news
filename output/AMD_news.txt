@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Bank of America Raises AMD (AMD) Price Target to $300, Citing 11/11 as Next Major Catalyst
+URL: https://finance.yahoo.com/news/bank-america-raises-amd-amd-203721916.html
+Time Published: 2025-10-19T20:37:21Z
+Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the AI Stocks in the Spotlight This Week. On October 17, Bank of America reiterated the stock as “Buy...
+--------------------------------------------------
+
 Title: HSBC Lifts AMD Price Target to $310 on OpenAI Deal Visibility
 URL: https://finance.yahoo.com/news/hsbc-lifts-amd-price-target-220539572.html
 Time Published: 2025-10-18T22:05:39Z
@@ -71,89 +77,4 @@ Title: Top Stocks: Walmart, Bunge Global, and AMD
 URL: https://www.thestreet.com/markets/top-stocks-walmart-bunge-global-and-amd
 Time Published: 2025-10-16T01:32:14Z
 Description: After a mixed market performance on Tuesday, when major indices slipped at the close despite intraday gains, Wednesday opened on a bullish note. The S&P 500 ...
---------------------------------------------------
-
-Title: Billionaire Investor David Tepper's $180M Investment in Intel in Q2 is Already Up 58%
-URL: https://www.ibtimes.com/billionaire-investor-david-teppers-180m-investment-intel-q2-already-58-3787213
-Time Published: 2025-10-15T21:08:57Z
-Description: Appaloosa Management's David Tepper heavily bought Intel shares right before its stock price soared on the US government's $11 billion investment in August and subsequent collaboration with Nvidia.
---------------------------------------------------
-
-Title: Stocks Boosted by Strength in Chipmakers and Earnings Optimism
-URL: https://www.barchart.com/story/news/35475583/stocks-boosted-by-strength-in-chipmakers-and-earnings-optimism
-Time Published: 2025-10-15T20:36:09Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +0.40%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.04%, and the Nasdaq 100 Index ...
---------------------------------------------------
-
-Title: INTC: Intel Stock Rises After Unveiling New AI Chip To Challenge AMD
-URL: https://finance.yahoo.com/news/intc-intel-stock-rises-unveiling-175527378.html
-Time Published: 2025-10-15T17:55:27Z
-Description: Intel Ramps Up AI Chip Race With Launch Of 'Crescent Island' GPU
---------------------------------------------------
-
-Title: Top Stock Movers Now: AMD, Morgan Stanley, Bank of America, Progressive, and More
-URL: https://www.investopedia.com/top-stock-movers-now-amd-morgan-stanley-bank-of-america-progressive-and-more-11830134
-Time Published: 2025-10-15T16:44:59Z
-Full Content:
-Major U.S. equities indexes climbed Wednesday afternoon in the wake of strong bank earnings and indications of more Federal Reserve rate cuts ahead. The S&P 500, Nasdaq, and Dow were all higher. Shares of Advanced Micro Devices (AMD) surged, leading broader gains for semiconductor companies a day after the chipmaker announced a deal to sell chips to Oracle (ORCL). Also helping lift semiconductor stocks was an update from chipmaking equipment manufacturer ASML (ASML), which said AI-driven demand was strong. Shares of Morgan Stanley (MS) and Bank of America (BAC) gained after both financial firms reported better-than-expected results on booming investment banking revenue. Bunge Global (BG) was the best-performing stock in the S&P 500 as the soybean exporter stands to benefit from soybean trade tensions between the U.S. and China. Progressive (PGR) shares slumped after the insurer reported its combined ratio rose on higher costs. Shares of F5 (FFIV) also dropped after the cloud services firm reported a cyberattack by government hackers. Abbott Laboratories (ABT) shares declined after the drugmaker cut the top end of its earnings guidance on concerns about the impact of tariffs. Gold price climbed to a fresh high, while oil futures slid. The yield on the 10-year Treasury note was little changed. The U.S. dollar lost ground to the euro, pound, and yen. Prices for most major cryptocurrencies were higher.
---------------------------------------------------
-
-Title: Stocks Climb on Strong Q3 Earnings and Easing Trade Concerns
-URL: https://www.barchart.com/story/news/35468388/stocks-climb-on-strong-q3-earnings-and-easing-trade-concerns
-Time Published: 2025-10-15T15:24:02Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +1.01%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Is Intel (INTC) One of the Best American Semiconductor Stocks to Buy?
-URL: https://finance.yahoo.com/news/intel-intc-one-best-american-142016231.html
-Time Published: 2025-10-15T14:20:16Z
-Description: Intel Corporation (NASDAQ:INTC) is one of the 11 Best American Semiconductor Stocks to Invest In. On October 2, Bernstein reiterated its Market Perform...
---------------------------------------------------
-
-Title: AMD Partners with OpenAI, Goldman Keeps Neutral Rating
-URL: https://finance.yahoo.com/news/amd-partners-openai-goldman-keeps-142012810.html
-Time Published: 2025-10-15T14:20:12Z
-Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the 11 Best American Semiconductor Stocks to Invest In. On October 7, Goldman Sachs kept its price target...
---------------------------------------------------
-
-Title: Stocks Supported by Strong Q3 Earnings Results
-URL: https://www.barchart.com/story/news/35466474/stocks-supported-by-strong-q3-earnings-results
-Time Published: 2025-10-15T14:09:55Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.73%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: ‘Expensive, but not nutty.’ Howard Marks on U.S. stocks and the one thing investors should be doing right now.
-URL: https://www.marketwatch.com/story/expensive-but-not-nutty-howard-marks-on-u-s-stocks-and-the-one-thing-investors-should-be-doing-right-now-74c75960
-Time Published: 2025-10-15T13:41:00Z
-Description: Oaktree co-founder Howard Marks says investors should start taking some “chips off the table,” after a strong run for markets.
---------------------------------------------------
-
-Title: What Makes Micro Devices (AMD) an Interesting Investment Bet?
-URL: https://finance.yahoo.com/news/makes-micro-devices-amd-interesting-133639937.html
-Time Published: 2025-10-15T13:36:39Z
-Description: Macquarie Asset Management, an investment management company, released its “Macquarie Large Cap Growth Fund” investor letter for the third quarter of 2025. A...
---------------------------------------------------
-
-Title: NVDA vs. AMD: Which AI Hardware Stock Has Better Investment Potential?
-URL: https://finance.yahoo.com/news/nvda-vs-amd-ai-hardware-123500021.html
-Time Published: 2025-10-15T12:35:00Z
-Description: NVIDIA's dominance in AI chips, booming data center sales and expanding partnerships give it an edge over AMD in the race for AI hardware leadership.
---------------------------------------------------
-
-Title: Nvidia Upgraded at HSBC as AI Suggests Upside of Nearly 80%
-URL: https://finance.yahoo.com/news/nvidia-upgraded-hsbc-ai-suggests-115531703.html
-Time Published: 2025-10-15T11:55:31Z
-Description: HSBC also raised the price target on the stock to a Street-high of $320, up from $200.  The new target implies upside of nearly 80% from Nvidia’s last close ...
---------------------------------------------------
-
-Title: Micron Stock Price Prediction: Can MU Touch $270 in 2025?
-URL: https://www.barchart.com/story/news/35458956/micron-stock-price-prediction-can-mu-touch-270-in-2025
-Time Published: 2025-10-15T11:30:02Z
-Description: Micron appears to be entering one of its strongest multi-year growth phases.
---------------------------------------------------
-
-Title: S&P Futures Climb on Fed Rate-Cut Optimism, More Big Bank Earnings on Tap
-URL: https://www.barchart.com/story/news/35456289/s-p-futures-climb-on-fed-rate-cut-optimism-more-big-bank-earnings-on-tap
-Time Published: 2025-10-15T10:09:35Z
-Description: December S&P 500 E-Mini futures (ESZ25) are trending up +0.63% this morning amid optimism over Federal Reserve interest-rate cuts following dovish comments...
 --------------------------------------------------

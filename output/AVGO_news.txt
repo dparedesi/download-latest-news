@@ -18,16 +18,16 @@ Time Published: 2025-10-17T18:26:50Z
 Description: AVGO is red hot after Broadcom announced an OpenAI deal. However, shares trade at a forward P/E near 65x.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq notch weekly wins after volatile week as Trump signals China talks back on track
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-notch-weekly-wins-after-volatile-week-as-trump-signals-china-talks-back-on-track-182020560.html
-Time Published: 2025-10-17T18:20:20Z
-Description: Investor fears over regional banks' exposure to bad loans and credit quality eased while talks between the US and China appeared to be back on track.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as Trump tamps down China threats amid regional bank jitters
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-tamps-down-china-threats-after-regional-bank-jitters-182020110.html
 Time Published: 2025-10-17T18:20:20Z
 Description: Fears spread about regional banks' exposure to bad loans and credit quality, spurring an exodus by investors to safe havens.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq notch weekly wins after volatile week as Trump signals China talks back on track
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-notch-weekly-wins-after-volatile-week-as-trump-signals-china-talks-back-on-track-182020560.html
+Time Published: 2025-10-17T18:20:20Z
+Description: Investor fears over regional banks' exposure to bad loans and credit quality eased while talks between the US and China appeared to be back on track.
 --------------------------------------------------
 
 Title: Micron Stock Slips From Record High Amid China Business Concerns—Watch These Key Price Levels
@@ -128,59 +128,4 @@ Title: Analyst Bullish on Broadcom (AVGO) Amid an ‘Underappreciated Growth’ 
 URL: https://finance.yahoo.com/news/analyst-bullish-broadcom-avgo-amid-081458446.html
 Time Published: 2025-10-16T08:14:58Z
 Description: We recently published 10 Stocks Moving On Key Analyst Calls. Broadcom Inc. (NASDAQ:AVGO) is one of the stocks analysts were recently talking about. Clare...
---------------------------------------------------
-
-Title: Stocks Boosted by Strength in Chipmakers and Earnings Optimism
-URL: https://www.barchart.com/story/news/35475583/stocks-boosted-by-strength-in-chipmakers-and-earnings-optimism
-Time Published: 2025-10-15T20:36:09Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +0.40%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.04%, and the Nasdaq 100 Index ...
---------------------------------------------------
-
-Title: Morgan Stanley revamps Broadcom’s price target with a twist
-URL: https://www.thestreet.com/technology/morgan-stanley-revamps-broadcoms-price-target-with-a-twist
-Time Published: 2025-10-15T18:49:21Z
-Description: Broadcom (AVGO) just signed on to perhaps the biggest AI infrastructure push in recent memory. On October 13, OpenAI and Broadcom announced a mind-boggling...
---------------------------------------------------
-
-Title: Broadcom (AVGO) Price Target Raised on Massive OpenAI Custom Chip Partnership
-URL: https://finance.yahoo.com/news/broadcom-avgo-price-target-raised-160017824.html
-Time Published: 2025-10-15T15:58:15Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of the AI Stocks in Focus on Wall Street. On October 13, Mizuho raised its price target on the stock to $430.00 from...
---------------------------------------------------
-
-Title: Silicon Valley is plowing money into AI, and the latest deals are eye-watering
-URL: https://finance.yahoo.com/news/silicon-valley-is-plowing-money-into-ai-and-the-latest-deals-are-eye-watering-155525505.html
-Time Published: 2025-10-15T15:55:25Z
-Description: Big Tech is spending billions on AI deals, but the web of agreements is getting difficult to follow. We break down the latest deals to make it easier to...
---------------------------------------------------
-
-Title: What Chipmaking Equipment Giant ASML's Q3 Results Said About AI Demand, China Trade
-URL: https://www.investopedia.com/what-chipmaking-equipment-giant-asml-q3-results-said-about-ai-demand-china-trade-11830006
-Time Published: 2025-10-15T15:55:20Z
-Full Content:
-Chipmaking equipment supplier ASML says it's upbeat on AI demand, even in the face trade policy headwinds. The Netherlands-based firm said it doesn't see its 2026 sales falling from 2025 levels even though it expects sales in China to “decline significantly,” thanks in part to strong demand for its machines to make chips supporting AI data centers. CEO Christophe Fouquet said the company has seen “continued positive momentum around investments in AI, and (has) also seen this extending to more customers.” U.S.-listed shares of ASML (ASML) were up about 3% in recent trading. Shares of other companies in the semiconductor industry, including Nvidia (NVDA), Broadcom (AVGO), Advanced Micro Devices (AMD), and Lam Research (LRCX), also gained after a down day for the sector yesterday. As one of the world’s leading suppliers of chipmaking equipment, ASML's results can be taken as a signal of whether chipmakers are feeling confident in the future of their businesses. ASML reported third-quarter earnings per share of 5.49 euros ($6.38), above analysts' estimates compiled by Visible Alpha, though its revenue of 7.52 billion euros ($8.74 billion) missed. Fouquet said ASML sees current-quarter sales of between 9.2 billion and 9.8 billion euros ($10.7 billion and $11.4 billion), above the analyst consensus, and that the company plans to provide more details on its 2026 outlook in January. With Wednesday's gains, ASML shares have added 46% in 2025 so far.
---------------------------------------------------
-
-Title: Stocks Climb on Strong Q3 Earnings and Easing Trade Concerns
-URL: https://www.barchart.com/story/news/35468388/stocks-climb-on-strong-q3-earnings-and-easing-trade-concerns
-Time Published: 2025-10-15T15:24:02Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +1.01%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Jim Cramer Says Broadcom “Rarely Gets the Attention it Deserves”
-URL: https://finance.yahoo.com/news/jim-cramer-says-broadcom-rarely-142026419.html
-Time Published: 2025-10-15T14:20:26Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of the stocks on Jim Cramer’s radar. Cramer mentioned the company’s deal with OpenAI, as he commented: “We got this...
---------------------------------------------------
-
-Title: Broadcom (AVGO) Unveils AI Networking Solutions at OCP Summit
-URL: https://finance.yahoo.com/news/broadcom-avgo-unveils-ai-networking-142011055.html
-Time Published: 2025-10-15T14:20:11Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of the 11 Best American Semiconductor Stocks to Invest In. On October 8, Broadcom Inc. (NASDAQ:AVGO) reported that it will...
---------------------------------------------------
-
-Title: Stocks Supported by Strong Q3 Earnings Results
-URL: https://www.barchart.com/story/news/35466474/stocks-supported-by-strong-q3-earnings-results
-Time Published: 2025-10-15T14:09:55Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.73%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
