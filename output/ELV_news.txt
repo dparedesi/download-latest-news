@@ -6,6 +6,12 @@ Time Published: 2025-10-20T23:32:17Z
 Description: US stock futures were little changed Monday night as Wall Street geared up for a packed week of corporate earnings.
 --------------------------------------------------
 
+Title: Stocks Rally on Easing Trade Tensions and Solid Q3 Earnings
+URL: https://www.barchart.com/story/news/35569815/stocks-rally-on-easing-trade-tensions-and-solid-q3-earnings
+Time Published: 2025-10-20T20:34:20Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +1.07%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +1.12%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
 Title: Tesla, Netflix set to report earnings as US-China trade fight turns 'unsustainable': What to watch this week
 URL: https://finance.yahoo.com/news/tesla-netflix-set-to-report-earnings-as-us-china-trade-fight-turns-unsustainable-what-to-watch-this-week-113358947.html
 Time Published: 2025-10-19T11:33:58Z

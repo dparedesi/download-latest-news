@@ -1,9 +1,21 @@
 List of news related to Netflix stock price NFLX:
 
+Title: Is Netflix (NFLX) One of the Best Big Tech Stocks to Invest in Now?
+URL: https://finance.yahoo.com/news/netflix-nflx-one-best-big-093733139.html
+Time Published: 2025-10-21T09:37:33Z
+Description: Netflix Inc. (NASDAQ:NFLX) is one of the best big tech stocks to invest in now. On October 16, KeyBanc analyst Justin Patterson kept a Buy rating on Netflix ...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as investors eye earnings flood
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-investors-eye-earnings-flood-233217948.html
 Time Published: 2025-10-20T23:32:17Z
 Description: US stock futures were little changed Monday night as Wall Street geared up for a packed week of corporate earnings.
+--------------------------------------------------
+
+Title: Stocks Rally on Easing Trade Tensions and Solid Q3 Earnings
+URL: https://www.barchart.com/story/news/35569815/stocks-rally-on-easing-trade-tensions-and-solid-q3-earnings
+Time Published: 2025-10-20T20:34:20Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +1.07%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +1.12%, and the Nasdaq 100 Index...
 --------------------------------------------------
 
 Title: Netflix earnings: Investors weigh ad growth, valuation risks with shares down 8% from June's record highs
@@ -18,14 +30,14 @@ Time Published: 2025-10-20T20:00:47Z
 Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise amid trade-war lull, with flurry of earnings on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138424.html
+Title: Stock market today: Dow, S&P 500, Nasdaq jump amid trade-war lull, with flurry of earnings on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138155.html
 Time Published: 2025-10-20T13:31:38Z
 Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq jump amid trade-war lull, with flurry of earnings on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138155.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise amid trade-war lull, with flurry of earnings on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138424.html
 Time Published: 2025-10-20T13:31:38Z
 Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
 --------------------------------------------------
