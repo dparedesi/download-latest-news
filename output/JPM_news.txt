@@ -24,27 +24,3 @@ URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wo
 Time Published: 2025-10-17T00:02:32Z
 Description: Fears spread about regional banks' exposure to bad loans and credit quality, spurring an exodus by investors to safe havens.
 --------------------------------------------------
-
-Title: Stock market today: Dow drops 300 points, S&P 500, Nasdaq slide as regional bank woes hit markets
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-drops-300-points-sp-500-nasdaq-slide-as-regional-bank-woes-hit-markets-133458076.html
-Time Published: 2025-10-16T20:04:00Z
-Description: Investors weighed corporate earnings against the escalating US-China trade war.
---------------------------------------------------
-
-Title: DocuSign CEO says OpenAI’s speed of development is forcing companies to move faster
-URL: https://finance.yahoo.com/news/docusign-ceo-says-openais-speed-of-development-is-forcing-companies-to-move-faster-173127967.html
-Time Published: 2025-10-16T17:31:27Z
-Description: As OpenAI races ahead, Docusign is betting on agents and data to stay in the game
---------------------------------------------------
-
-Title: Three Standout Trades Emerge from First Horizon’s 11 Unusually Active Options
-URL: https://www.barchart.com/story/news/35503172/three-standout-trades-emerge-from-first-horizons-11-unusually-active-options
-Time Published: 2025-10-16T17:30:02Z
-Description: The Tennessee-based regional bank had 11 unusually active options in Wednesday’s trading due to the stock’s second-highest options volume in 2025. However...
---------------------------------------------------
-
-Title: Three Standout Trades Emerge from First Horizon’s 11 Unusually Active Options
-URL: https://www.barchart.com/story/news/35500883/three-standout-trades-emerge-from-first-horizons-11-unusually-active-options
-Time Published: 2025-10-16T15:51:42Z
-Description: The Tennessee-based regional bank had 11 unusually active options in Wednesday’s trading due to the stock’s second-highest options volume in 2025. However...
---------------------------------------------------

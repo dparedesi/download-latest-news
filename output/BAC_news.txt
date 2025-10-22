@@ -30,9 +30,3 @@ URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wo
 Time Published: 2025-10-17T00:02:32Z
 Description: Fears spread about regional banks' exposure to bad loans and credit quality, spurring an exodus by investors to safe havens.
 --------------------------------------------------
-
-Title: Bank of America (BAC) Margin Surge Reinforces Profitability Narrative Despite Industry-Lagging Growth Outlook
-URL: https://finance.yahoo.com/news/bank-america-bac-margin-surge-042433436.html
-Time Published: 2025-10-16T04:24:33Z
-Description: Bank of America (BAC) posted an average annual earnings growth of 2.7% over the past five years, highlighted by a sharp 28.8% increase in the most recent...
---------------------------------------------------

@@ -43,9 +43,3 @@ URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wo
 Time Published: 2025-10-17T00:02:32Z
 Description: Fears spread about regional banks' exposure to bad loans and credit quality, spurring an exodus by investors to safe havens.
 --------------------------------------------------
-
-Title: Stock Indexes Fall as Regional Bank Stocks Plunge
-URL: https://www.barchart.com/story/news/35508055/stock-indexes-fall-as-regional-bank-stocks-plunge
-Time Published: 2025-10-16T20:51:50Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -0.63%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.65%, and the Nasdaq 100 Index...
---------------------------------------------------

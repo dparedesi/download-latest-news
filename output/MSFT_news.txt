@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: WD-40 (WDFC) Reports Q3: Everything You Need To Know Ahead Of Earnings
+URL: https://finance.yahoo.com/news/wd-40-wdfc-reports-q3-030612703.html
+Time Published: 2025-10-21T03:06:12Z
+Description: Household products company WD-40 (NASDAQ:WDFC) will be reporting results this Wednesday after market hours. Here’s what investors should know.
+--------------------------------------------------
+
+Title: 1 Delicious Options Strategy to Trade Apple Stock at Record Highs
+URL: https://www.barchart.com/story/news/35568115/1-delicious-options-strategy-to-trade-apple-stock-at-record-highs
+Time Published: 2025-10-20T18:47:18Z
+Description: This option collar lets us keep riding the Apple high without risking a major downside move.
+--------------------------------------------------
+
 Title: Valmont (VMI) Reports Earnings Tomorrow: What To Expect
 URL: https://finance.yahoo.com/news/valmont-vmi-reports-earnings-tomorrow-030635256.html
 Time Published: 2025-10-20T03:06:35Z
@@ -47,35 +59,4 @@ Title: Stock market today: Dow, S&P 500, Nasdaq rise as Trump tamps down China t
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-tamps-down-china-threats-after-regional-bank-jitters-182020110.html
 Time Published: 2025-10-17T18:20:20Z
 Description: Fears spread about regional banks' exposure to bad loans and credit quality, spurring an exodus by investors to safe havens.
---------------------------------------------------
-
-Title: quantlabs added to PyPI
-URL: https://pypi.org/project/quantlabs/
-Time Published: 2025-10-16T22:03:45Z
-Full Content:
-pip install quantlabs Copy PIP instructions Released: Oct 17, 2025 Professional quantitative trading research platform with ML-powered backtesting, multi-source options analysis, portfolio management, and interactive Plotly visualizations A quantitative trading research platform powered by Microsoft's Qlib, designed for systematic alpha generation and backtesting. 📚 Full Documentation | 🚀 Quick Start Guide | 📖 API Reference Results will be saved to results/visualizations/backtest_visualization.png QuantLab includes a powerful CLI for portfolio management, market analysis, and data queries. Scenario: Create and manage a diversified tech portfolio with FAANG+ stocks. Scenario: Track actual shares purchased at specific cost basis. Scenario: Deep-dive analysis on ORCL before adding to portfolio. Scenario: Analyze all positions in your tech portfolio. Scenario: Research historical price patterns for backtesting. Scenario: Keep company info and analyst ratings up-to-date. Scenario: Manage multiple portfolios for different strategies. Scenario: Research options opportunities for covered calls. Scenario: Monthly portfolio review workflow. Scenario: Monitor portfolio risk daily. IC (Information Coefficient): 0.06-0.08 is good - shows predictive power Rank IC: Near zero - model struggles with relative ranking Sharpe Ratio: 2.98-4.54 - excellent risk-adjusted returns QuantLab includes comprehensive interactive visualization tools powered by Plotly. Features: Example Charts: Example Chart: Available Strategies: Example Chart: Metrics Displayed: This is a research project. Key areas for improvement: Research and educational purposes. 0.3.0 Oct 17, 2025 0.2.1 Oct 16, 2025 0.2.0 Oct 16, 2025 Download the file for your platform. If you're not sure which to choose, learn more about installing packages. Uploaded Oct 17, 2025 Source Filter files by name, interpreter, ABI, and platform. If you're not sure about the file name format, learn more about wheel file names. The dropdown lists show the available interpreters, ABIs, and platforms. Enable javascript to be able to filter the list of wheel files. Copy a direct link to the current filters Copy Uploaded Oct 17, 2025 Python 3 Details for the file quantlabs-0.3.0.tar.gz. See more details on using hashes here. The following attestation bundles were made for quantlabs-0.3.0.tar.gz: Publisher: publish-to-pypi.yml on nittygritty-zzy/quantlab Details for the file quantlabs-0.3.0-py3-none-any.whl. See more details on using hashes here. The following attestation bundles were made for quantlabs-0.3.0-py3-none-any.whl: Publisher: publish-to-pypi.yml on nittygritty-zzy/quantlab Status: all systems operational Developed and maintained by the Python community, for the Python community. Donate today! "PyPI", "Python Package Index", and the blocks logos are registered trademarks of the Python Software Foundation. © 2025 Python Software Foundation Site map Supported by
---------------------------------------------------
-
-Title: DocuSign CEO says OpenAI’s speed of development is forcing companies to move faster
-URL: https://finance.yahoo.com/news/docusign-ceo-says-openais-speed-of-development-is-forcing-companies-to-move-faster-173127967.html
-Time Published: 2025-10-16T17:31:27Z
-Description: As OpenAI races ahead, Docusign is betting on agents and data to stay in the game
---------------------------------------------------
-
-Title: Microsoft (NASDAQ: MSFT) Stock Price Prediction for 2025: Where Will It Be in 1 Year
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_569f48e9-38eb-46b7-8d34-737c08602462
-Time Published: 2025-10-16T16:11:04Z
-Description: None
---------------------------------------------------
-
-Title: Indexes Turn Red as Stocks Give Up Morning Gains
-URL: https://www.barchart.com/story/news/35500171/stocks-supported-by-strong-tech-earnings-and-ai-spending
-Time Published: 2025-10-16T15:17:07Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.66%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.59%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stocks Climb as Strong AI Spending Boosts Market Confidence
-URL: https://www.barchart.com/story/news/35498833/stocks-climb-as-strong-ai-spending-boosts-market-confidence
-Time Published: 2025-10-16T14:14:43Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.24%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.16%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------

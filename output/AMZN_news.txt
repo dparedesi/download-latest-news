@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Netflix earnings: Investors weigh ad growth, valuation risks with shares down 8% from June's record highs
+URL: https://finance.yahoo.com/news/netflix-earnings-investors-weigh-ad-growth-valuation-risks-with-shares-down-8-from-junes-record-highs-200622573.html
+Time Published: 2025-10-20T20:06:22Z
+Description: Netflix will report third quarter earnings after the bell on Tuesday. Here's what to expect.
+--------------------------------------------------
+
+Title: Dow, S&P 500, Nasdaq jump as Apple leads tech stocks higher ahead of busy earnings week
+URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-jump-as-apple-leads-tech-stocks-higher-ahead-of-busy-earnings-week-200047280.html
+Time Published: 2025-10-20T20:00:47Z
+Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq jump amid trade-war lull, with flurry of earnings on deck
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138155.html
 Time Published: 2025-10-20T13:31:38Z
@@ -48,16 +60,4 @@ Title: Amazon Faces Growing Pressure to Reignite Cloud Growth Ahead of Q3 Result
 URL: https://finance.yahoo.com/news/amazon-faces-growing-pressure-reignite-135516578.html
 Time Published: 2025-10-17T13:55:16Z
 Description: AWS performance remains central to investor sentiment as competition intensifies.
---------------------------------------------------
-
-Title: If You Think AI’s A Bubble, You’re Already Late
-URL: https://www.barchart.com/story/news/35510153/if-you-think-ais-a-bubble-youre-already-late
-Time Published: 2025-10-16T22:20:21Z
-Description: The real AI opportunity is already underway while skeptics are still arguing about bubbles.
---------------------------------------------------
-
-Title: Goldman Sachs Says This 1 Stock Is at a ‘Fundamental Inflection Point’ and You Should Buy It Now
-URL: https://www.barchart.com/story/news/35505202/goldman-sachs-says-this-1-stock-is-at-a-fundamental-inflection-point-and-you-should-buy-it-now
-Time Published: 2025-10-16T19:11:17Z
-Description: Estee Lauder stock might deliver outsized returns to shareholders over the next four years, given its widening earnings base and improving fundamentals.
 --------------------------------------------------
