@@ -13,12 +13,6 @@ Time Published: 2025-10-22T13:31:57Z
 Description: Eyes are on the latest flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble as next rush of earnings kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-as-next-rush-of-earnings-kicks-off-234617882.html
-Time Published: 2025-10-21T23:46:17Z
-Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause as investors brace for Tesla earnings after Netflix disappoints
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-as-investors-brace-for-tesla-earnings-after-netflix-disappoints-234617907.html
 Time Published: 2025-10-21T23:46:17Z
@@ -31,14 +25,20 @@ Time Published: 2025-10-21T23:46:17Z
 Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
-Title: Netflix stock falls after Q3 earnings miss estimates, operating profit takes a hit
-URL: https://finance.yahoo.com/news/netflix-stock-falls-after-q3-earnings-miss-estimates-operating-profit-takes-a-hit-222330311.html
-Time Published: 2025-10-21T22:23:30Z
-Description: Netflix reported third quarter earnings after the bell on Tuesday. Here's what to know.
+Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble as next rush of earnings kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-as-next-rush-of-earnings-kicks-off-234617882.html
+Time Published: 2025-10-21T23:46:17Z
+Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
 Title: Netflix stock falls after earnings miss estimates, operating profit takes a hit
 URL: https://finance.yahoo.com/news/netflix-stock-falls-after-earnings-miss-estimates-operating-profit-takes-a-hit-201113517.html
+Time Published: 2025-10-21T22:23:30Z
+Description: Netflix reported third quarter earnings after the bell on Tuesday. Here's what to know.
+--------------------------------------------------
+
+Title: Netflix stock falls after Q3 earnings miss estimates, operating profit takes a hit
+URL: https://finance.yahoo.com/news/netflix-stock-falls-after-q3-earnings-miss-estimates-operating-profit-takes-a-hit-222330311.html
 Time Published: 2025-10-21T22:23:30Z
 Description: Netflix reported third quarter earnings after the bell on Tuesday. Here's what to know.
 --------------------------------------------------
