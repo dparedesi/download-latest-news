@@ -1,7 +1,19 @@
 List of news related to Netflix stock price NFLX:
 
+Title: Netflix Stock Sinks After Surprise EPS Miss: Brazil Tax Row Blamed as Record Ad Sales Confuse Markets
+URL: https://www.ibtimes.com/netflix-stock-sinks-after-surprise-eps-miss-brazil-tax-row-blamed-record-ad-sales-confuse-markets-3787994
+Time Published: 2025-10-22T09:48:32Z
+Description: Netflix (NFLX) stock slides on a Q3 EPS miss caused by a £516M Brazil tax charge, overshadowing record ad sales and subscriber growth.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble as next rush of earnings kicks off
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-as-next-rush-of-earnings-kicks-off-234617882.html
+Time Published: 2025-10-21T23:46:17Z
+Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
 Time Published: 2025-10-21T23:46:17Z
 Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
@@ -10,12 +22,6 @@ Title: Stock market today: Dow, S&P 500, Nasdaq futures trade flat as investors 
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-flat-as-investors-look-to-tesla-earnings-after-netflix-disappoints-234617471.html
 Time Published: 2025-10-21T23:46:17Z
 Description: US stock futures were steady Tuesday night as investors looked towards the next wave of earnings following a record-setting session for the Dow Jones...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
-Time Published: 2025-10-21T23:46:17Z
-Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause as investors brace for Tesla earnings after Netflix disappoints
@@ -30,14 +36,14 @@ Time Published: 2025-10-21T22:32:43Z
 Description: (This is the free version of CWS Market Review. If you like what you see, then please sign up for the premium newsletter for $20 […]
 --------------------------------------------------
 
-Title: Netflix stock falls after earnings miss estimates, operating profit takes a hit
-URL: https://finance.yahoo.com/news/netflix-stock-falls-after-earnings-miss-estimates-operating-profit-takes-a-hit-201113517.html
+Title: Netflix stock falls after Q3 earnings miss estimates, operating profit takes a hit
+URL: https://finance.yahoo.com/news/netflix-stock-falls-after-q3-earnings-miss-estimates-operating-profit-takes-a-hit-222330311.html
 Time Published: 2025-10-21T22:23:30Z
 Description: Netflix reported third quarter earnings after the bell on Tuesday. Here's what to know.
 --------------------------------------------------
 
-Title: Netflix stock falls after Q3 earnings miss estimates, operating profit takes a hit
-URL: https://finance.yahoo.com/news/netflix-stock-falls-after-q3-earnings-miss-estimates-operating-profit-takes-a-hit-222330311.html
+Title: Netflix stock falls after earnings miss estimates, operating profit takes a hit
+URL: https://finance.yahoo.com/news/netflix-stock-falls-after-earnings-miss-estimates-operating-profit-takes-a-hit-201113517.html
 Time Published: 2025-10-21T22:23:30Z
 Description: Netflix reported third quarter earnings after the bell on Tuesday. Here's what to know.
 --------------------------------------------------
