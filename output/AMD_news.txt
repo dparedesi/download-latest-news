@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Advanced Micro Devices' Q3 2025 Earnings: What to Expect
+URL: https://www.barchart.com/story/news/35583679/advanced-micro-devices-q3-2025-earnings-what-to-expect
+Time Published: 2025-10-21T12:45:33Z
+Description: Advanced Micro Devices will release its third-quarter earnings next month, and analysts anticipate a double-digit bottom-line growth.
+--------------------------------------------------
+
 Title: Stocks Rally on Easing Trade Tensions and Solid Q3 Earnings
 URL: https://www.barchart.com/story/news/35569815/stocks-rally-on-easing-trade-tensions-and-solid-q3-earnings
 Time Published: 2025-10-20T20:34:20Z
@@ -22,28 +28,4 @@ Title: HSBC Lifts AMD Price Target to $310 on OpenAI Deal Visibility
 URL: https://finance.yahoo.com/news/hsbc-lifts-amd-price-target-220539572.html
 Time Published: 2025-10-18T22:05:39Z
 Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the AI Stocks Analysts Are Watching Closely. On October 15, HSBC analyst Frank Lee raised his price...
---------------------------------------------------
-
-Title: Is Broadcom Stock Overvalued in October 2025?
-URL: https://www.barchart.com/story/news/35532691/is-broadcom-stock-overvalued-in-october-2025
-Time Published: 2025-10-17T18:26:50Z
-Description: AVGO is red hot after Broadcom announced an OpenAI deal. However, shares trade at a forward P/E near 65x.
---------------------------------------------------
-
-Title: Stocks Stabilize as Bank Stocks Recover and US-China Trade Tensions Ease
-URL: https://www.barchart.com/story/news/35527906/stocks-stabilize-as-bank-stocks-recover-and-us-china-trade-tensions-ease
-Time Published: 2025-10-17T14:14:59Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.14%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.43%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Should You Buy, Sell or Hold INTC Stock Before Q3 Earnings?
-URL: https://finance.yahoo.com/news/buy-sell-hold-intc-stock-132300758.html
-Time Published: 2025-10-17T13:23:00Z
-Description: INTC readies its Q3 earnings as new AI partnerships, product launches and global headwinds shape investor sentiment ahead of Oct. 23.
---------------------------------------------------
-
-Title: S&P Futures Trim Losses as Trump Eases Trade Concerns
-URL: https://www.barchart.com/story/news/35519948/s-p-futures-plunge-on-u-s-bank-credit-woes
-Time Published: 2025-10-17T10:18:34Z
-Description: December S&P 500 E-Mini futures (ESZ25) are trending down -0.02% this morning, paring earlier losses after U.S. President Donald Trump moved to ease concerns...
 --------------------------------------------------

@@ -1,9 +1,21 @@
 List of news related to Elevance Health stock price ELV:
 
+Title: Stocks Mixed on Mostly Positive Corporate News
+URL: https://www.barchart.com/story/news/35586522/stocks-mixed-on-mostly-positive-corporate-news
+Time Published: 2025-10-21T14:05:08Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.05%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.12%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: Stock market today: Dow rises, but Nasdaq lags as investors assess flood of earnings
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-but-nasdaq-lags-as-investors-assess-flood-of-earnings-133157509.html
 Time Published: 2025-10-21T13:31:57Z
 Description: The Dow touched an intraday record high while the Nasdaq slipped as investors focused on a wave of quarterly earnings while remaining vigilant about US-China...
+--------------------------------------------------
+
+Title: Stock Index Futures Muted With Focus on Corporate Earnings
+URL: https://www.barchart.com/story/news/35578678/stock-index-futures-muted-with-focus-on-corporate-earnings
+Time Published: 2025-10-21T10:04:53Z
+Description: December S&P 500 E-Mini futures (ESZ25) are down -0.04%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.08% this morning, pointing to a muted...
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as investors eye earnings flood

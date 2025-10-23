@@ -1,5 +1,35 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble as next rush of earnings kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-as-next-rush-of-earnings-kicks-off-234617882.html
+Time Published: 2025-10-21T23:46:17Z
+Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
+Time Published: 2025-10-21T23:46:17Z
+Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause as investors brace for Tesla earnings after Netflix disappoints
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-as-investors-brace-for-tesla-earnings-after-netflix-disappoints-234617907.html
+Time Published: 2025-10-21T23:46:17Z
+Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
+--------------------------------------------------
+
+Title: Netflix stock falls after Q3 earnings miss estimates, operating profit takes a hit
+URL: https://finance.yahoo.com/news/netflix-stock-falls-after-q3-earnings-miss-estimates-operating-profit-takes-a-hit-222330311.html
+Time Published: 2025-10-21T22:23:30Z
+Description: Netflix reported third quarter earnings after the bell on Tuesday. Here's what to know.
+--------------------------------------------------
+
+Title: Netflix stock falls after earnings miss estimates, operating profit takes a hit
+URL: https://finance.yahoo.com/news/netflix-stock-falls-after-earnings-miss-estimates-operating-profit-takes-a-hit-201113517.html
+Time Published: 2025-10-21T22:23:30Z
+Description: Netflix reported third quarter earnings after the bell on Tuesday. Here's what to know.
+--------------------------------------------------
+
 Title: Analyst Says Amazon.com (AMZN) Stock Rebound Coming Soon – Here’s Why
 URL: https://finance.yahoo.com/news/analyst-says-amazon-com-amzn-125019483.html
 Time Published: 2025-10-21T12:50:19Z
@@ -18,14 +48,14 @@ Time Published: 2025-10-20T20:00:47Z
 Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq jump amid trade-war lull, with flurry of earnings on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138155.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise amid trade-war lull, with flurry of earnings on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138424.html
 Time Published: 2025-10-20T13:31:38Z
 Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise amid trade-war lull, with flurry of earnings on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138424.html
+Title: Stock market today: Dow, S&P 500, Nasdaq jump amid trade-war lull, with flurry of earnings on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138155.html
 Time Published: 2025-10-20T13:31:38Z
 Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
 --------------------------------------------------
@@ -48,22 +78,4 @@ Title: Big Tech's AI ambitions are remaking the US power grid. Consumers are pay
 URL: https://finance.yahoo.com/news/big-techs-ai-ambitions-are-remaking-the-us-power-grid-consumers-are-paying-the-price-160535898.html
 Time Published: 2025-10-18T16:05:35Z
 Description: Requests from Big Tech for power supply are skyrocketing. If that demand doesn't end up following through, utility companies could be stuck with the bill.
---------------------------------------------------
-
-Title: Oracle stock tumbles as investors weigh ambitious financial targets
-URL: https://finance.yahoo.com/news/oracle-stock-tumbles-as-investors-weigh-ambitious-financial-targets-184134267.html
-Time Published: 2025-10-17T18:41:34Z
-Description: Oracle stock reversed Thursday's gains as investors weighted its aggressive revenue and gross margin forecasts.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as Trump tamps down China threats amid regional bank jitters
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-trump-tamps-down-china-threats-after-regional-bank-jitters-182020110.html
-Time Published: 2025-10-17T18:20:20Z
-Description: Fears spread about regional banks' exposure to bad loans and credit quality, spurring an exodus by investors to safe havens.
---------------------------------------------------
-
-Title: Amazon Faces Growing Pressure to Reignite Cloud Growth Ahead of Q3 Results
-URL: https://finance.yahoo.com/news/amazon-faces-growing-pressure-reignite-135516578.html
-Time Published: 2025-10-17T13:55:16Z
-Description: AWS performance remains central to investor sentiment as competition intensifies.
 --------------------------------------------------

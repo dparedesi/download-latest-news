@@ -1,9 +1,63 @@
 List of news related to Netflix stock price NFLX:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble as next rush of earnings kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-as-next-rush-of-earnings-kicks-off-234617882.html
+Time Published: 2025-10-21T23:46:17Z
+Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures trade flat as investors look to Tesla earnings after Netflix disappoints
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-flat-as-investors-look-to-tesla-earnings-after-netflix-disappoints-234617471.html
+Time Published: 2025-10-21T23:46:17Z
+Description: US stock futures were steady Tuesday night as investors looked towards the next wave of earnings following a record-setting session for the Dow Jones...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
+Time Published: 2025-10-21T23:46:17Z
+Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause as investors brace for Tesla earnings after Netflix disappoints
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-as-investors-brace-for-tesla-earnings-after-netflix-disappoints-234617907.html
+Time Published: 2025-10-21T23:46:17Z
+Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
+--------------------------------------------------
+
+Title: CWS Market Review – October 21, 2025
+URL: https://www.crossingwallstreet.com/archives/2025/10/cws-market-review-october-21-2025.html
+Time Published: 2025-10-21T22:32:43Z
+Description: (This is the free version of CWS Market Review. If you like what you see, then please sign up for the premium newsletter for $20 […]
+--------------------------------------------------
+
+Title: Netflix stock falls after Q3 earnings miss estimates, operating profit takes a hit
+URL: https://finance.yahoo.com/news/netflix-stock-falls-after-q3-earnings-miss-estimates-operating-profit-takes-a-hit-222330311.html
+Time Published: 2025-10-21T22:23:30Z
+Description: Netflix reported third quarter earnings after the bell on Tuesday. Here's what to know.
+--------------------------------------------------
+
+Title: Netflix stock falls after earnings miss estimates, operating profit takes a hit
+URL: https://finance.yahoo.com/news/netflix-stock-falls-after-earnings-miss-estimates-operating-profit-takes-a-hit-201113517.html
+Time Published: 2025-10-21T22:23:30Z
+Description: Netflix reported third quarter earnings after the bell on Tuesday. Here's what to know.
+--------------------------------------------------
+
+Title: Stocks Mixed on Mostly Positive Corporate News
+URL: https://www.barchart.com/story/news/35586522/stocks-mixed-on-mostly-positive-corporate-news
+Time Published: 2025-10-21T14:05:08Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.05%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.12%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: Stock market today: Dow rises, but Nasdaq lags as investors assess flood of earnings
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-but-nasdaq-lags-as-investors-assess-flood-of-earnings-133157509.html
 Time Published: 2025-10-21T13:31:57Z
 Description: The Dow touched an intraday record high while the Nasdaq slipped as investors focused on a wave of quarterly earnings while remaining vigilant about US-China...
+--------------------------------------------------
+
+Title: Stock Index Futures Muted With Focus on Corporate Earnings
+URL: https://www.barchart.com/story/news/35578678/stock-index-futures-muted-with-focus-on-corporate-earnings
+Time Published: 2025-10-21T10:04:53Z
+Description: December S&P 500 E-Mini futures (ESZ25) are down -0.04%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.08% this morning, pointing to a muted...
 --------------------------------------------------
 
 Title: Is Netflix (NFLX) One of the Best Big Tech Stocks to Invest in Now?
@@ -108,16 +162,4 @@ Title: Analysts Forecast Further Upside For Netflix, Inc. (NFLX) Ahead of Q3 Ear
 URL: https://finance.yahoo.com/news/analysts-forecast-further-upside-netflix-055651109.html
 Time Published: 2025-10-18T05:56:51Z
 Description: Netflix, Inc. (NASDAQ:NFLX) is among the 14 Best Big Name Stocks to Invest in Right Now. Earlier this month, two analysts shared their ratings and price...
---------------------------------------------------
-
-Title: As Disney Raises Theme Park Prices, Should You Buy, Sell, or Hold DIS Stock?
-URL: https://www.barchart.com/story/news/35531654/as-disney-raises-theme-park-prices-should-you-buy-sell-or-hold-dis-stock
-Time Published: 2025-10-17T17:26:15Z
-Description: With Disney raising prices on most of its parks, should investors grab a piece of DIS stock now?
---------------------------------------------------
-
-Title: Morgan Stanley Maintains a Buy on Netflix (NFLX), Keeps the PT
-URL: https://finance.yahoo.com/news/morgan-stanley-maintains-buy-netflix-150901527.html
-Time Published: 2025-10-17T15:09:01Z
-Description: Netflix, Inc. (NASDAQ:NFLX) is one of the Hottest Mega-Cap Stocks of 2025. On October 10, Benjamin Swinburne from Morgan Stanley maintained a Buy rating on...
 --------------------------------------------------
