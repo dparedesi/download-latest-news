@@ -1,1 +1,7 @@
-No news found for Crowdstrike +CRWD
+List of news related to Crowdstrike CRWD:
+
+Title: AWS Outage: Why Amazon Stock Didn't Take A Hit From Cloud Crash
+URL: https://www.investors.com/news/technology/amazon-stock-aws-outage-amzn-news/
+Time Published: 2025-10-22T17:02:32Z
+Description: Amazon stock is having a strong week despite a massive outage for its important cloud business. Investors still are hyper-focused on AI.
+--------------------------------------------------

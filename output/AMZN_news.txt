@@ -1,9 +1,16 @@
 List of news related to Amazon stock price AMZN:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
-Time Published: 2025-10-21T23:46:17Z
-Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
+Title: Amazon Plans to Replace 500,000 People With Robots
+URL: https://247wallst.com/companies-and-brands/2025/10/22/amazon-plans-to-replace-500000-people-with-robots/
+Time Published: 2025-10-22T14:15:40Z
+Full Content:
+Companies and Brands Sending You to Google News in 3 Amazon.com Inc. (NASDAQ: AMZN) hired over 200,000 part-time workers to help with holiday sales. That is good news for the overall economy. It indicates that people plan to spend briskly over the holidays. That, in turn, will help Amazon’s e-commerce top line. However, those people may not get jobs next year, and many full-time employees may find themselves out of work as well. 24/7 Wall St. Key Points: Amazon.com Inc. (NASDAQ: AMZN) reportedly plans to spend billions to automate its warehouses. Thousands of employees will soon find themselves out of work. Are you ahead, or behind on retirement? SmartAsset’s free tool can match you with a financial advisor in minutes to help you answer that today. Each advisor has been carefully vetted, and must act in your best interests. Don’t waste another minute; learn more here.(Sponsor) Amazon.com Inc. (NASDAQ: AMZN) reportedly plans to spend billions to automate its warehouses. Thousands of employees will soon find themselves out of work. The New York Times got ahold of confidential Amazon documents that indicate the company plans to automate huge numbers of tasks that are done by people. Robots will take over their workload. Management also told its board that it expects a surge in orders, reaching twice the current level by 2033. “Robots” is another word for AI-based automation that can replace most of the people who work in its massive warehouses. These are central to Amazon’s ability to deliver items to customers in one or two days. By most estimates, Amazon has 350 warehouses worldwide and another 1,200 logistics facilities. The Times quoted Daron Acemoglu, a professor at the Massachusetts Institute of Technology who has a Nobel Prize in economics. He said, “Nobody else has the same incentive as Amazon to find a way to automate.” To accomplish this, the company’s e-commerce division will need nearly a million robots. Presumably, the plan will save hundreds of millions of dollars a year. Amazon indeed has a powerful incentive to set up a more automated system. Its North American e-commerce margins are thin. In the most recent quarter, revenue for the region was $100 billion and operating income was $7.5 billion. Amazon is uniquely positioned for the plan. It is among the early leaders in artificial intelligence. Up against Meta, Alphabet, Microsoft, and OpenAI, it plans to invest $100 billion in the technology this year. That is a staggering amount, even for the second-largest company in the United States as measured by revenue. It can recoup at least some of that AI investment by significantly cutting its e-commerce workforce. Amazon Stock Price Prediction and Forecast 2025-2030 The image featured for this article is © onurdongel / E+ via Getty Images Latest Podcast Episode OpenAI Signs Two Massive Deals and Two New Portfolio Buys 51 min See us invest in our favorite AI stock ideas for free Live Oct 20, 2025 Live Oct 19, 2025 Amazon reportedly is testing humanoid delivery robots as a way to reduce the costs of delivering packages. The plan may… Amazon is reportedly in talks to buy the autonomous mobility company Zoox as it looks to automation to cut warehousing… For some time, robotics experts have forecast that robots will replace many of the jobs within the retail industry. This… We have crunched the numbers and here is our best estimates about Amazon’s share price through the rest of the… Amazon.com Inc. (NASDAQ: AMZN) has proven it has an ability to spend money on just about anything. Yesterday’s news that… Amazon (NASDAQ: AMZN) pressed further into the bricks and mortar business, but in the most recent case, it was not… Amazon (NASDAQ:AMZN) is one of the last mega-cap tech titans to pull the curtain on its quarterly numbers. And to… Amazon hiring 250,000 workers for the holidays says something about the state of the U.S. economy and the effects of… Strikes are about to hit Amazon in the middle of the year's busiest e-commerce shipping week. Amazon’s e-commerce revenue is most…
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq sell-off accelerates as Netflix sinks, Tesla earnings loom
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sell-off-accelerates-as-netflix-sinks-tesla-earnings-loom-133157670.html
+Time Published: 2025-10-22T13:31:57Z
+Description: Eyes are on the latest flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble as next rush of earnings kicks off
@@ -14,6 +21,12 @@ Description: Eyes are on the next flurry of earnings after a record-setting sess
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause as investors brace for Tesla earnings after Netflix disappoints
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-as-investors-brace-for-tesla-earnings-after-netflix-disappoints-234617907.html
+Time Published: 2025-10-21T23:46:17Z
+Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
 Time Published: 2025-10-21T23:46:17Z
 Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
