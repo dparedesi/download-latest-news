@@ -6,6 +6,19 @@ Time Published: 2025-10-23T03:45:00Z
 Description: Brasada Capital Management analyzes Q3 market resilience, AI-driven capex risks, and selective equity strategies. Explore their cautious outlook and positioning.
 --------------------------------------------------
 
+Title: Amazon.com (AMZN) ‘Snapping Back’ Could Mean Its “Horrible Slide” Ends, Says Jim Cramer
+URL: https://finance.yahoo.com/news/amazon-com-amzn-snapping-back-232302934.html
+Time Published: 2025-10-22T23:23:02Z
+Description: We recently published Jim Cramer Discussed These 13 Stocks & Shared Major Warning For Rare Earth Stocks. Amazon.com, Inc. (NASDAQ:AMZN) is one of the stocks ...
+--------------------------------------------------
+
+Title: Tesla Posts Return to Revenue Growth, Though Q3 Profits Miss Estimates
+URL: https://www.investopedia.com/tesla-posts-return-to-revenue-growth-though-q3-profits-miss-estimates-11835164
+Time Published: 2025-10-22T20:33:29Z
+Full Content:
+Tesla returned to revenue growth in the third quarter as buyers rushed to take advantage of expiring tax credits. The electric vehicle maker's revenue climbed 12% year-over-year to $28.1 billion, topping analysts' expectations, in the wake of President Donald Trump's signature "One Big Beautiful Bill." Tesla (TSLA) said its vehicle deliveries reached a record high globally, showing "growth across all regions." That followed two straight quarters of decline as a backlash against CEO Elon Musk's political activities weighed on sales. A strong run of EV deliveries, many in response to the expiration of U.S. tax credits, helped power better-than-expected revenue at Tesla in the latest quarter. Enthusiasm about next-generation businesses like robots and robotaxis have pulled the stock into the black for 2025, but wariness about the car business may partly explain why it's among the lower-performing Magnificent 7 stocks this year. However, Tesla's adjusted earnings per share of $0.50 missed the consensus estimate of $0.54 compiled by Visible Alpha. The company said it faced higher costs from restructuring and investments in AI. The company in a shareholder letter said its Cybercab, semi truck and Megapack 3 battery products were "on schedule" for production at volume next year, adding that it was also installing production lines for its Optimus robots. Shares of Tesla, the first Magnificent 7 company to report third-quarter results, were down more than 1% in extended trading following the late-Wednesday release. They were up roughly 9% for 2025 through today's close, after spending much of the year in negative territory. Tesla has underperformed every Magnificent 7 stock so far this year except Apple (AAPL) and Amazon (AMZN), the latter which is the only one in the red for 2025. It's also lagged the Roundhill Magnificent Seven ETF (MAGS) along with the S&P 500, Dow, and Nasdaq. This article has been updated since it was first published to reflect share price movement and add new information and context.
+--------------------------------------------------
+
 Title: Amazon Just Suffered a Major AWS Outage. Does It Even Matter for AMZN Stock?
 URL: https://www.barchart.com/story/news/35615372/amazon-just-suffered-a-major-aws-outage-does-it-even-matter-for-amzn-stock
 Time Published: 2025-10-22T17:53:45Z
@@ -25,14 +38,14 @@ Time Published: 2025-10-22T13:31:57Z
 Description: Eyes are on the latest flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble as next rush of earnings kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-as-next-rush-of-earnings-kicks-off-234617882.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
 Time Published: 2025-10-21T23:46:17Z
 Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble as next rush of earnings kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-as-next-rush-of-earnings-kicks-off-234617882.html
 Time Published: 2025-10-21T23:46:17Z
 Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
@@ -73,14 +86,14 @@ Time Published: 2025-10-20T20:00:47Z
 Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise amid trade-war lull, with flurry of earnings on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138424.html
+Title: Stock market today: Dow, S&P 500, Nasdaq jump amid trade-war lull, with flurry of earnings on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138155.html
 Time Published: 2025-10-20T13:31:38Z
 Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq jump amid trade-war lull, with flurry of earnings on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138155.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise amid trade-war lull, with flurry of earnings on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138424.html
 Time Published: 2025-10-20T13:31:38Z
 Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
 --------------------------------------------------

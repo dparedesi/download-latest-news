@@ -12,10 +12,28 @@ Time Published: 2025-10-23T00:26:48Z
 Description: Investors are weighing lackluster earnings from Tesla and rising oil prices after Trump hit Russia with sanctions.
 --------------------------------------------------
 
+Title: NVIDIA Corporation (NVDA): Don’t Worry About AI Taking Away Jobs, Says Jim Cramer
+URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-don-t-232358832.html
+Time Published: 2025-10-22T23:23:58Z
+Description: We recently published Jim Cramer Discussed These 13 Stocks & Shared Major Warning For Rare Earth Stocks. NVIDIA Corporation (NASDAQ:NVDA) is one of the...
+--------------------------------------------------
+
+Title: NVIDIA Corporation (NVDA): A Bull Case Theory
+URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-bull-case-212244448.html
+Time Published: 2025-10-22T21:22:44Z
+Description: We came across a bullish thesis on NVIDIA Corporation on Compounding Your Wealth’s Substack by Sergey. In this article, we will summarize the bulls’ thesis...
+--------------------------------------------------
+
 Title: Wall Street's sleeping on Nvidia, AMD, and Broadcom? A major investment bank says yes
 URL: https://www.thestreet.com/investing/wall-streets-sleeping-on-nvidia-amd-and-broadcom-a-major-investment-bank-says-yes
 Time Published: 2025-10-22T19:37:00Z
 Description: Nvidia, AMD, and Broadcom are the most talked-about companies in AI. JPMorgan still believes investors don't grasp how much these three enterprises are worth...
+--------------------------------------------------
+
+Title: ASML Holding N.V. (ASML): A Bull Case Theory
+URL: https://finance.yahoo.com/news/asml-holding-n-v-asml-193119752.html
+Time Published: 2025-10-22T19:31:19Z
+Description: We came across a bullish thesis on ASML Holding N.V. on Value investing subreddit by West-Chard-1474. In this article, we will summarize the bulls’ thesis on...
 --------------------------------------------------
 
 Title: AI hype is real, but a Nobel-winning economist warns profits aren't guaranteed
