@@ -1,5 +1,17 @@
 List of news related to Netflix stock price NFLX:
 
+Title: Hasbro's tariff battle could make playtime pricier
+URL: https://finance.yahoo.com/news/hasbros-tariff-battle-could-make-playtime-pricier-161503799.html
+Time Published: 2025-10-23T16:15:03Z
+Description: Toymaker Hasbro lifted its sales outlook as costs climb across the supply chain.
+--------------------------------------------------
+
+Title: Earnings live: Tesla stock falls after earnings miss, American Airlines climbs, IBM and Hasbro sink
+URL: https://finance.yahoo.com/news/live/earnings-live-tesla-stock-falls-after-earnings-miss-american-airlines-climbs-ibm-and-hasbro-sink-120953739.html
+Time Published: 2025-10-23T12:09:53Z
+Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
 Title: Stocks Retreat on Chipmaker Weakness and Renewed China Tensions
 URL: https://www.barchart.com/story/news/35619470/stocks-retreat-on-chipmaker-weakness-and-renewed-china-tensions
 Time Published: 2025-10-22T20:36:47Z
@@ -100,12 +112,6 @@ Time Published: 2025-10-21T23:46:17Z
 Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures trade flat as investors look to Tesla earnings after Netflix disappoints
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-flat-as-investors-look-to-tesla-earnings-after-netflix-disappoints-234617471.html
-Time Published: 2025-10-21T23:46:17Z
-Description: US stock futures were steady Tuesday night as investors looked towards the next wave of earnings following a record-setting session for the Dow Jones...
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
 Time Published: 2025-10-21T23:46:17Z
@@ -116,6 +122,12 @@ Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause as investors b
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-as-investors-brace-for-tesla-earnings-after-netflix-disappoints-234617907.html
 Time Published: 2025-10-21T23:46:17Z
 Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures trade flat as investors look to Tesla earnings after Netflix disappoints
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-flat-as-investors-look-to-tesla-earnings-after-netflix-disappoints-234617471.html
+Time Published: 2025-10-21T23:46:17Z
+Description: US stock futures were steady Tuesday night as investors looked towards the next wave of earnings following a record-setting session for the Dow Jones...
 --------------------------------------------------
 
 Title: CWS Market Review – October 21, 2025
