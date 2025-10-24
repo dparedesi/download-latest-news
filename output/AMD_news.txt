@@ -1,9 +1,21 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stocks Slide on Weakness in Chipmakers
+URL: https://www.barchart.com/story/news/35612544/stocks-slide-on-weakness-in-chipmakers
+Time Published: 2025-10-22T15:20:55Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.37%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: Analyst Explains Why He Likes Advanced Micro Devices (AMD) – Says There Are ‘Other Options’ Beyond Nvidia
 URL: https://finance.yahoo.com/news/analyst-explains-why-likes-advanced-145127899.html
 Time Published: 2025-10-22T14:51:27Z
 Description: We recently published 10 Stock News You Should Not Miss as Tom Lee Reiterates Bullish Market Outlook Amid AI Catalysts. Advanced Micro Devices, Inc...
+--------------------------------------------------
+
+Title: Morgan Stanley Loves Nvidia Stock. The AMD-OpenAI Deal Doesn’t Change That.
+URL: https://www.barchart.com/story/news/35608697/morgan-stanley-loves-nvidia-stock-the-amd-openai-deal-doesnt-change-that
+Time Published: 2025-10-22T13:00:02Z
+Description: Morgan Stanley analysts recently met with Nvidia executives and emerged with a favorable view of the company.
 --------------------------------------------------
 
 Title: Inside Superstar Investor Cathie Wood's AI Stock-Fueled Comeback
@@ -47,10 +59,4 @@ Title: Bank of America Raises AMD (AMD) Price Target to $300, Citing 11/11 as Ne
 URL: https://finance.yahoo.com/news/bank-america-raises-amd-amd-203721916.html
 Time Published: 2025-10-19T20:37:21Z
 Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the AI Stocks in the Spotlight This Week. On October 17, Bank of America reiterated the stock as “Buy...
---------------------------------------------------
-
-Title: HSBC Lifts AMD Price Target to $310 on OpenAI Deal Visibility
-URL: https://finance.yahoo.com/news/hsbc-lifts-amd-price-target-220539572.html
-Time Published: 2025-10-18T22:05:39Z
-Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the AI Stocks Analysts Are Watching Closely. On October 15, HSBC analyst Frank Lee raised his price...
 --------------------------------------------------
