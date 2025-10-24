@@ -43,16 +43,16 @@ Time Published: 2025-10-22T13:31:57Z
 Description: Eyes are on the latest flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
-Title: Morgan Stanley Loves Nvidia Stock. The AMD-OpenAI Deal Doesn’t Change That.
-URL: https://www.barchart.com/story/news/35608697/morgan-stanley-loves-nvidia-stock-the-amd-openai-deal-doesnt-change-that
-Time Published: 2025-10-22T13:00:02Z
-Description: Morgan Stanley analysts recently met with Nvidia executives and emerged with a favorable view of the company.
---------------------------------------------------
-
 Title: Can Nvidia Stock Hit $300 in 2025?
 URL: https://www.barchart.com/story/news/35608693/can-nvidia-stock-hit-300-in-2025
 Time Published: 2025-10-22T13:00:02Z
 Description: Will Nvidia’s unstoppable AI momentum drive the stock past $300 by the end of 2025?
+--------------------------------------------------
+
+Title: Morgan Stanley Loves Nvidia Stock. The AMD-OpenAI Deal Doesn’t Change That.
+URL: https://www.barchart.com/story/news/35608697/morgan-stanley-loves-nvidia-stock-the-amd-openai-deal-doesnt-change-that
+Time Published: 2025-10-22T13:00:02Z
+Description: Morgan Stanley analysts recently met with Nvidia executives and emerged with a favorable view of the company.
 --------------------------------------------------
 
 Title: Analyst Says Latest US-China Tensions Won’t Impact NVIDIA (NVDA)-Led AI Bull Market
