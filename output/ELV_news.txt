@@ -1,9 +1,21 @@
 List of news related to Elevance Health stock price ELV:
 
+Title: Earnings live: Intel stock surges, Ford rises after-hours, Deckers drops
+URL: https://finance.yahoo.com/news/live/earnings-live-intel-stock-surges-ford-rises-after-hours-deckers-drops-203435980.html
+Time Published: 2025-10-23T20:34:35Z
+Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
 Title: Molina Healthcare stock falls as medical costs spike, Obamacare worries mount
 URL: https://finance.yahoo.com/news/molina-healthcare-stock-falls-as-medical-costs-spike-obamacare-worries-mount-171521043.html
 Time Published: 2025-10-23T17:15:21Z
 Description: Molina Healthcare stock fell by more than 20% on Thursday after the company posted a miss on earnings per share and slashed its guidance for the fourth...
+--------------------------------------------------
+
+Title: Stocks Climb on Strength in Energy Producers
+URL: https://www.barchart.com/story/news/35638054/stocks-climb-on-strength-in-energy-producers
+Time Published: 2025-10-23T14:05:02Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.32%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
 Title: Earnings live: Tesla stock falls after earnings miss, American Airlines climbs, IBM and Hasbro sink
@@ -12,14 +24,14 @@ Time Published: 2025-10-23T12:09:53Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
 
-Title: Earnings live: Netflix stock dives, AT&T, GE Vernova, and Hilton rise as Tesla earnings loom
-URL: https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-att-ge-vernova-and-hilton-rise-as-tesla-earnings-loom-120948724.html
+Title: Earnings live: Netflix stock dives, GE Vernova reverses gains, Hilton rises as Tesla earnings loom
+URL: https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-ge-vernova-reverses-gains-hilton-rises-as-tesla-earnings-loom-120948437.html
 Time Published: 2025-10-22T12:09:48Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
 
-Title: Earnings live: Netflix stock dives, GE Vernova reverses gains, Hilton rises as Tesla earnings loom
-URL: https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-ge-vernova-reverses-gains-hilton-rises-as-tesla-earnings-loom-120948437.html
+Title: Earnings live: Netflix stock dives, AT&T, GE Vernova, and Hilton rise as Tesla earnings loom
+URL: https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-att-ge-vernova-and-hilton-rise-as-tesla-earnings-loom-120948724.html
 Time Published: 2025-10-22T12:09:48Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
@@ -52,10 +64,4 @@ Title: Stocks Rally on Easing Trade Tensions and Solid Q3 Earnings
 URL: https://www.barchart.com/story/news/35569815/stocks-rally-on-easing-trade-tensions-and-solid-q3-earnings
 Time Published: 2025-10-20T20:34:20Z
 Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +1.07%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +1.12%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Tesla, Netflix set to report earnings as US-China trade fight turns 'unsustainable': What to watch this week
-URL: https://finance.yahoo.com/news/tesla-netflix-set-to-report-earnings-as-us-china-trade-fight-turns-unsustainable-what-to-watch-this-week-113358947.html
-Time Published: 2025-10-19T11:33:58Z
-Description: As investors enters shutdown week three, a US-China trade war, credit gesticulation, and an incoming oil glut are weighing on the market.
 --------------------------------------------------

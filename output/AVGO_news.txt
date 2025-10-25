@@ -1,5 +1,29 @@
 List of news related to Broadcom AVGO:
 
+Title: Intel stock jumps as Q3 earnings beat expectations, AI drives chip demand
+URL: https://finance.yahoo.com/news/intel-stock-jumps-as-q3-earnings-beat-expectations-ai-drives-chip-demand-201344592.html
+Time Published: 2025-10-23T20:43:08Z
+Description: Intel reported earnings after the bell on Thursday.
+--------------------------------------------------
+
+Title: Broadcom Stock Could Soon Generate $100 Billion in AI Revenue Each Year. Should You Buy AVGO Now?
+URL: https://www.barchart.com/story/news/35644995/broadcom-stock-could-soon-generate-100-billion-in-ai-revenue-each-year-should-you-buy-avgo-now
+Time Published: 2025-10-23T19:52:03Z
+Description: J.P. Morgan says current estimates are not generous enough based on the AI revenue potential.
+--------------------------------------------------
+
+Title: Barclays Downgrades Marvell (MRVL) as AI Chip Market Leans Toward Broadcom
+URL: https://finance.yahoo.com/news/barclays-downgrades-marvell-mrvl-ai-190050780.html
+Time Published: 2025-10-23T19:00:50Z
+Description: Marvell Technology, Inc. (NASDAQ:MRVL) is one of the Trending AI Stocks on Wall Street’s Radar. On October 20, Barclays analyst Tom O’Malley downgraded the...
+--------------------------------------------------
+
+Title: Mizuho Sees Anthropic as Broadcom’s (AVGO) Fourth Hyperscale ASIC Partner, Raises Target
+URL: https://finance.yahoo.com/news/mizuho-sees-anthropic-broadcom-avgo-185116379.html
+Time Published: 2025-10-23T18:51:16Z
+Description: Broadcom Inc. (NASDAQ:AVGO) is one of the Trending AI Stocks on Wall Street’s Radar. On October 21, Mizuho reiterated the stock as “Outperform” and raised...
+--------------------------------------------------
+
 Title: US stock market today: Wall Street climbed 0.3% – Dow, S&P 500 and Nasdaq all rise as tech stocks drive rebound; gold and oil surge
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-wall-street-climbed-0-3-dow-sp-500-and-nasdaq-all-rise-as-tech-stocks-drive-rebound-gold-and-oil-surge/articleshow/124765682.cms
 Time Published: 2025-10-23T15:57:31Z

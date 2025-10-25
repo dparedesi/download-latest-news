@@ -1,5 +1,11 @@
 List of news related to GE Vernova stock price GEV:
 
+Title: Earnings live: Intel stock surges, Ford rises after-hours, Deckers drops
+URL: https://finance.yahoo.com/news/live/earnings-live-intel-stock-surges-ford-rises-after-hours-deckers-drops-203435980.html
+Time Published: 2025-10-23T20:34:35Z
+Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
 Title: Earnings live: Tesla stock falls after earnings miss, American Airlines climbs, IBM and Hasbro sink
 URL: https://finance.yahoo.com/news/live/earnings-live-tesla-stock-falls-after-earnings-miss-american-airlines-climbs-ibm-and-hasbro-sink-120953739.html
 Time Published: 2025-10-23T12:09:53Z
@@ -42,14 +48,14 @@ Time Published: 2025-10-22T13:31:57Z
 Description: Eyes are on the latest flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
-Title: Earnings live: Netflix stock dives, AT&T, GE Vernova, and Hilton rise as Tesla earnings loom
-URL: https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-att-ge-vernova-and-hilton-rise-as-tesla-earnings-loom-120948724.html
+Title: Earnings live: Netflix stock dives, GE Vernova reverses gains, Hilton rises as Tesla earnings loom
+URL: https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-ge-vernova-reverses-gains-hilton-rises-as-tesla-earnings-loom-120948437.html
 Time Published: 2025-10-22T12:09:48Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
 
-Title: Earnings live: Netflix stock dives, GE Vernova reverses gains, Hilton rises as Tesla earnings loom
-URL: https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-ge-vernova-reverses-gains-hilton-rises-as-tesla-earnings-loom-120948437.html
+Title: Earnings live: Netflix stock dives, AT&T, GE Vernova, and Hilton rise as Tesla earnings loom
+URL: https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-att-ge-vernova-and-hilton-rise-as-tesla-earnings-loom-120948724.html
 Time Published: 2025-10-22T12:09:48Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
@@ -70,17 +76,4 @@ Title: GE Vernova Stock Hasn’t Budged in 3 Months, Will Q3 Power it Higher?
 URL: https://www.barchart.com/story/news/35588507/ge-vernova-stock-hasnt-budged-in-3-months-will-q3-power-it-higher
 Time Published: 2025-10-21T15:43:40Z
 Description: Despite the secular demand environment, GE Vernova stock has largely plateaued over the past three months.
---------------------------------------------------
-
-Title: Tesla, Netflix set to report earnings as US-China trade fight turns 'unsustainable': What to watch this week
-URL: https://finance.yahoo.com/news/tesla-netflix-set-to-report-earnings-as-us-china-trade-fight-turns-unsustainable-what-to-watch-this-week-113358947.html
-Time Published: 2025-10-19T11:33:58Z
-Description: As investors enters shutdown week three, a US-China trade war, credit gesticulation, and an incoming oil glut are weighing on the market.
---------------------------------------------------
-
-Title: What to Expect in Markets This Week: CPI Inflation Data; Tesla, Netflix, Intel Earnings
-URL: https://www.investopedia.com/what-to-expect-in-markets-this-week-cpi-inflation-data-tesla-netflix-intel-earnings-11831225
-Time Published: 2025-10-19T09:00:00Z
-Full Content:
-Trade is the talk of the town this week. Investors will be watching for updates on trade policy ahead of a scheduled meeting between President Donald Trump and China's Xi Jinping, as well as a highly anticipated inflation reading, after a volatile week of trading marked by worries about bad loans at regional banks. Friday’s release of the Consumer Price Index for September, delayed by the government shutdown, is likely the last major piece of data the Federal Reserve will receive before its interest rate decision next week. Other government reports could remain delayed until there is a resolution to the budget dispute in Washington. Magnificent 7 member Tesla is set to report earnings Wednesday, when CEO Elon Musk could offer more details on the electric vehicles maker's advances in robotics and artificial intelligence, after a torrid rally in recent months. Intel’s report will be in focus after a flurry of investments in the struggling chipmaker boosted its stock. Read to the bottom for our calendar of key events—and one more thing. Tesla’s scheduled earnings release Wednesday follows stronger-than-expected deliveries as buyers rushed to take advantage of expiring EV tax credits. Big Three automakers Ford and General Motors, also set to report this week, likely benefited from the same tailwinds, though both automakers have scaled back their EV ambitions. Tesla CEO Elon Musk could offer more details on developments in the company's high-tech offerings beyond EVs, including an expansion of its robotaxi services, its Optimus robots, and self-driving technology. Intel’s report, due Thursday, comes as the U.S. chipmaker’s shares have surged after a string of deals including one that saw the U.S. government take a stake and a partnership with AI leader Nvidia. Netflix’s report comes after the streamer recently raised its prices and boosted its revenue outlook. Updates from Coca-Cola and Procter & Gamble could bring some insights into consumer spending, while Friday’s earnings from HCA Healthcare may offer a look into the hospital sector. Gold miner Newmont’s report on Thursday arrives as the precious metal has set a string of new all-time highs . With many economic reports in limbo due to the federal shutdown, Friday's CPI inflation report could be the last major piece of economic data the Fed gets before issuing a decision on interest rates next week. Forecasters expect the report to show prices continuing to rise, but at a slower pace than in August. The data could influence whether the Fed will continue with its plans to keep lowering interest rates. Fed officials have said their focus is turning to the weakening labor market, which would favor rate cuts. But higher-than-expected inflation could push them to reconsider. While the release of new home sales data is likely to be delayed, market watchers will still see on Thursday the National Association of Realtors’ existing home sales data for September, as economists look for signs of a resurgence in an anemic housing market. The week will also bring fresh figures on consumer sentiment and Purchasing Managers Index surveys for October. Quick Links: Recap Last Week’s Trading | Latest Markets News Monday, Oct. 20 Tuesday, Oct. 21 Wednesday, Oct. 22 Thursday, Oct. 23 Friday, Oct. 24 Banking fees are rising at one major bank, with new waiver rules for checking accounts taking effect this month. Investopedia’s Sabrina Karl has more information on options that customers have to avoid paying more.
 --------------------------------------------------
