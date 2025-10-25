@@ -63,14 +63,14 @@ Time Published: 2025-10-21T23:46:17Z
 Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause as investors brace for Tesla earnings after Netflix disappoints
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-as-investors-brace-for-tesla-earnings-after-netflix-disappoints-234617907.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
 Time Published: 2025-10-21T23:46:17Z
 Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause as investors brace for Tesla earnings after Netflix disappoints
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-as-investors-brace-for-tesla-earnings-after-netflix-disappoints-234617907.html
 Time Published: 2025-10-21T23:46:17Z
 Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
