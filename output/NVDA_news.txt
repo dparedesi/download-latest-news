@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Neocloud Crusoe Scores Funding, Oracle Debt Offering, CoreWeave Deal Drama
+URL: https://www.investors.com/news/technology/neoclouds-crusoe-coreweave-stock-oracle-banks/
+Time Published: 2025-10-24T17:15:23Z
+Description: Crusoe is among a wave of  AI infrastructure builders called "neoclouds." CoreWeave stock has climbed 225% in 2025.
+--------------------------------------------------
+
 Title: US stock market surges today – Why is stock market rising today – Dow, S&P 500, Nasdaq all gaining as cooling inflation and strong corporate earnings boost Wall Street confidence
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-surges-today-why-is-stock-market-rising-today-dow-sp-500-nasdaq-all-gaining-as-cooling-inflation-and-strong-corporate-earnings-boost-wall-street-confidence/articleshow/124788437.cms
 Time Published: 2025-10-24T15:39:49Z
@@ -232,16 +238,16 @@ Time Published: 2025-10-22T13:31:57Z
 Description: Eyes are on the latest flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
-Title: Morgan Stanley Loves Nvidia Stock. The AMD-OpenAI Deal Doesn’t Change That.
-URL: https://www.barchart.com/story/news/35608697/morgan-stanley-loves-nvidia-stock-the-amd-openai-deal-doesnt-change-that
-Time Published: 2025-10-22T13:00:02Z
-Description: Morgan Stanley analysts recently met with Nvidia executives and emerged with a favorable view of the company.
---------------------------------------------------
-
 Title: Can Nvidia Stock Hit $300 in 2025?
 URL: https://www.barchart.com/story/news/35608693/can-nvidia-stock-hit-300-in-2025
 Time Published: 2025-10-22T13:00:02Z
 Description: Will Nvidia’s unstoppable AI momentum drive the stock past $300 by the end of 2025?
+--------------------------------------------------
+
+Title: Morgan Stanley Loves Nvidia Stock. The AMD-OpenAI Deal Doesn’t Change That.
+URL: https://www.barchart.com/story/news/35608697/morgan-stanley-loves-nvidia-stock-the-amd-openai-deal-doesnt-change-that
+Time Published: 2025-10-22T13:00:02Z
+Description: Morgan Stanley analysts recently met with Nvidia executives and emerged with a favorable view of the company.
 --------------------------------------------------
 
 Title: Analyst Says Latest US-China Tensions Won’t Impact NVIDIA (NVDA)-Led AI Bull Market
@@ -305,10 +311,4 @@ Title: Forget Rare Earths; This 1 Critical Commodity is Powering a Structural AI
 URL: https://www.barchart.com/story/news/35588585/forget-rare-earths-this-1-critical-commodity-is-powering-a-structural-ai-revolution
 Time Published: 2025-10-21T15:46:55Z
 Description: Here’s how to invest in the heartbeat of the energy transition and artificial intelligence infrastructure.
---------------------------------------------------
-
-Title: Dear Intel Stock Fans, Mark Your Calendars for October 23
-URL: https://www.barchart.com/story/news/35588511/dear-intel-stock-fans-mark-your-calendars-for-october-23
-Time Published: 2025-10-21T15:43:43Z
-Description: The upcoming earnings could bring a positive surprise, but everyone has their eyes on the company's product roadmap.
 --------------------------------------------------

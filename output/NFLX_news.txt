@@ -1,5 +1,23 @@
 List of news related to Netflix stock price NFLX:
 
+Title: Cathie Wood Just Bought the Dip in Netflix Stock. Should You?
+URL: https://www.barchart.com/story/news/35665556/cathie-wood-just-bought-the-dip-in-netflix-stock-should-you
+Time Published: 2025-10-24T17:57:41Z
+Description: Cathie Wood's ARKW ETF just bought Netflix stock worth $17.5 million after it fell 10% following Q3 results this week.
+--------------------------------------------------
+
+Title: Disney Just Lost 7 Million Subscribers. Does That Even Matter for DIS Stock?
+URL: https://www.barchart.com/story/news/35665237/disney-just-lost-7-million-subscribers-does-that-even-matter-for-dis-stock
+Time Published: 2025-10-24T17:32:52Z
+Description: Disney lost 7 million subscribers related to its decision to suspend Jimmy Kimmel. The churn for Disney+ and Hulu also increased in September. However, data ...
+--------------------------------------------------
+
+Title: Unusually Active: 4 Options to Watch Next Month for Potential Future Gains
+URL: https://www.barchart.com/story/news/35665205/unusually-active-4-options-to-watch-next-month-for-potential-future-gains
+Time Published: 2025-10-24T17:30:03Z
+Description: Overall options volume was about average on Thursday, with calls accounting for 60% of the action. Of the 1,291 unusually active options on the day, here are...
+--------------------------------------------------
+
 Title: Netflix Produces Strong FCF Q3 Margins - NFLX Looks 23% Too Cheap
 URL: https://www.barchart.com/story/news/35659982/netflix-produces-strong-fcf-q3-margins-nflx-looks-23-too-cheap
 Time Published: 2025-10-24T13:00:02Z
@@ -142,12 +160,6 @@ Time Published: 2025-10-21T23:46:17Z
 Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures trade flat as investors look to Tesla earnings after Netflix disappoints
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-flat-as-investors-look-to-tesla-earnings-after-netflix-disappoints-234617471.html
-Time Published: 2025-10-21T23:46:17Z
-Description: US stock futures were steady Tuesday night as investors looked towards the next wave of earnings following a record-setting session for the Dow Jones...
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
 Time Published: 2025-10-21T23:46:17Z
@@ -158,6 +170,12 @@ Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause as investors b
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-as-investors-brace-for-tesla-earnings-after-netflix-disappoints-234617907.html
 Time Published: 2025-10-21T23:46:17Z
 Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures trade flat as investors look to Tesla earnings after Netflix disappoints
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-flat-as-investors-look-to-tesla-earnings-after-netflix-disappoints-234617471.html
+Time Published: 2025-10-21T23:46:17Z
+Description: US stock futures were steady Tuesday night as investors looked towards the next wave of earnings following a record-setting session for the Dow Jones...
 --------------------------------------------------
 
 Title: CWS Market Review – October 21, 2025
