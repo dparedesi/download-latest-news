@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: JPMorgan Is Betting Big on Quantum Computing. 1 Top-Rated Stock to Buy Now.
+URL: https://www.barchart.com/story/news/35661658/jpmorgan-is-betting-big-on-quantum-computing-1-top-rated-stock-to-buy-now
+Time Published: 2025-10-24T14:07:01Z
+Description: While JPMorgan bets on quantum computing, Amazon is emerging as a top-rated quantum stock, capturing Wall Street’s bullish spotlight.
+--------------------------------------------------
+
 Title: Analysts Just Flagged a $4 Billion Opportunity for Amazon. Should You Buy AMZN Stock Here?
 URL: https://www.barchart.com/story/news/35641095/analysts-just-flagged-a-4-billion-opportunity-for-amazon-should-you-buy-amzn-stock-here
 Time Published: 2025-10-23T16:22:45Z
@@ -57,14 +63,14 @@ Time Published: 2025-10-22T13:31:57Z
 Description: Eyes are on the latest flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble as next rush of earnings kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-as-next-rush-of-earnings-kicks-off-234617882.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
 Time Published: 2025-10-21T23:46:17Z
 Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble as next rush of earnings kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-as-next-rush-of-earnings-kicks-off-234617882.html
 Time Published: 2025-10-21T23:46:17Z
 Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
@@ -105,14 +111,14 @@ Time Published: 2025-10-20T20:00:47Z
 Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise amid trade-war lull, with flurry of earnings on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138424.html
+Title: Stock market today: Dow, S&P 500, Nasdaq jump amid trade-war lull, with flurry of earnings on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138155.html
 Time Published: 2025-10-20T13:31:38Z
 Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq jump amid trade-war lull, with flurry of earnings on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138155.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise amid trade-war lull, with flurry of earnings on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138424.html
 Time Published: 2025-10-20T13:31:38Z
 Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
 --------------------------------------------------

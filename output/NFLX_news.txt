@@ -1,5 +1,11 @@
 List of news related to Netflix stock price NFLX:
 
+Title: Netflix Produces Strong FCF Q3 Margins - NFLX Looks 23% Too Cheap
+URL: https://www.barchart.com/story/news/35659982/netflix-produces-strong-fcf-q3-margins-nflx-looks-23-too-cheap
+Time Published: 2025-10-24T13:00:02Z
+Description: Netflix produced a 23% Q3 FCF margin, in line with its YTD margin. NFLX stock has fallen since the release, putting its value over 23% higher at $1374 per...
+--------------------------------------------------
+
 Title: Veteran analyst takes surprising move on Netflix stock after earnings
 URL: https://www.thestreet.com/investing/veteran-analyst-takes-surprising-move-on-netflix-stock-after-earnings
 Time Published: 2025-10-23T23:37:00Z
@@ -130,20 +136,8 @@ Time Published: 2025-10-22T09:48:32Z
 Description: Netflix (NFLX) stock slides on a Q3 EPS miss caused by a £516M Brazil tax charge, overshadowing record ad sales and subscriber growth.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
-Time Published: 2025-10-21T23:46:17Z
-Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble as next rush of earnings kicks off
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-as-next-rush-of-earnings-kicks-off-234617882.html
-Time Published: 2025-10-21T23:46:17Z
-Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause as investors brace for Tesla earnings after Netflix disappoints
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-as-investors-brace-for-tesla-earnings-after-netflix-disappoints-234617907.html
 Time Published: 2025-10-21T23:46:17Z
 Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
@@ -154,20 +148,32 @@ Time Published: 2025-10-21T23:46:17Z
 Description: US stock futures were steady Tuesday night as investors looked towards the next wave of earnings following a record-setting session for the Dow Jones...
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
+Time Published: 2025-10-21T23:46:17Z
+Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause as investors brace for Tesla earnings after Netflix disappoints
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-as-investors-brace-for-tesla-earnings-after-netflix-disappoints-234617907.html
+Time Published: 2025-10-21T23:46:17Z
+Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
+--------------------------------------------------
+
 Title: CWS Market Review – October 21, 2025
 URL: https://www.crossingwallstreet.com/archives/2025/10/cws-market-review-october-21-2025.html
 Time Published: 2025-10-21T22:32:43Z
 Description: (This is the free version of CWS Market Review. If you like what you see, then please sign up for the premium newsletter for $20 […]
 --------------------------------------------------
 
-Title: Netflix stock falls after Q3 earnings miss estimates, operating profit takes a hit
-URL: https://finance.yahoo.com/news/netflix-stock-falls-after-q3-earnings-miss-estimates-operating-profit-takes-a-hit-222330311.html
+Title: Netflix stock falls after earnings miss estimates, operating profit takes a hit
+URL: https://finance.yahoo.com/news/netflix-stock-falls-after-earnings-miss-estimates-operating-profit-takes-a-hit-201113517.html
 Time Published: 2025-10-21T22:23:30Z
 Description: Netflix reported third quarter earnings after the bell on Tuesday. Here's what to know.
 --------------------------------------------------
 
-Title: Netflix stock falls after earnings miss estimates, operating profit takes a hit
-URL: https://finance.yahoo.com/news/netflix-stock-falls-after-earnings-miss-estimates-operating-profit-takes-a-hit-201113517.html
+Title: Netflix stock falls after Q3 earnings miss estimates, operating profit takes a hit
+URL: https://finance.yahoo.com/news/netflix-stock-falls-after-q3-earnings-miss-estimates-operating-profit-takes-a-hit-222330311.html
 Time Published: 2025-10-21T22:23:30Z
 Description: Netflix reported third quarter earnings after the bell on Tuesday. Here's what to know.
 --------------------------------------------------
@@ -220,14 +226,14 @@ Time Published: 2025-10-20T20:00:47Z
 Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise amid trade-war lull, with flurry of earnings on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138424.html
+Title: Stock market today: Dow, S&P 500, Nasdaq jump amid trade-war lull, with flurry of earnings on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138155.html
 Time Published: 2025-10-20T13:31:38Z
 Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq jump amid trade-war lull, with flurry of earnings on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138155.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise amid trade-war lull, with flurry of earnings on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138424.html
 Time Published: 2025-10-20T13:31:38Z
 Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
 --------------------------------------------------
