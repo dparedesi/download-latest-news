@@ -1,5 +1,24 @@
 List of news related to Meta stock price META:
 
+Title: AI spending is boosting the economy, but many businesses are in survival mode
+URL: https://www.cnbc.com/2025/10/25/ai-spending-is-boosting-the-economy-many-businesses-in-survival-mode.html
+Time Published: 2025-10-25T12:07:11Z
+Description: As AI lifts the economy and stock market, businesses in retail, travel and construction are struggling with high costs and a downbeat consumer.
+--------------------------------------------------
+
+Title: Needham Sees Opportunity in 2 Lesser-Known Energy Stocks Riding the Data-Center Boom
+URL: https://finance.yahoo.com/news/needham-sees-opportunity-2-lesser-100355735.html
+Time Published: 2025-10-25T10:03:55Z
+Description: One of the biggest stories in markets today is the boom in AI – and with it, the surge in data center development. This trend extends far beyond the digital ...
+--------------------------------------------------
+
+Title: Wall Street Is Worried About an AI Bubble—Here's the Sector Where Stock Prices Really Stand Out
+URL: https://www.investopedia.com/wall-street-is-worried-about-an-ai-bubble-the-sector-where-stock-prices-really-stand-out-11835209
+Time Published: 2025-10-25T10:00:00Z
+Full Content:
+AI boom or AI bubble? That's been one of the most pressing debates on Wall Street of late. Some investors see echoes of the Dotcom Bubble in Nvidia's (NVDA) and OpenAI's recent circular dealmaking bonanza and soaring stock prices. Others note the AI boom is being financed by hugely profitable tech companies, whose valuations aren't nearly as high as their Dotcom peers. As Big Tech's AI spending has ballooned, so have the ranks of companies claiming a piece of the pie. The AI buildout has turbocharged the sales of unsexy, slow-and-steady businesses and transformed their stocks into buzzy growth names. It has also juiced the stocks of nascent companies that are years from self-sufficiency, creating pockets of exceptional froth within a pricey AI ecosystem. The stocks that gain the most during sharp market rallies are often the stocks that, when sentiment turns negative, have the farthest to fall. That is especially true of young companies that, without substantial sales, rely on debt and equity markets to fund their growth. To understand where the AI trade has become most bubbly, Investopedia identified 75 companies regularly referred to as "AI beneficiaries" by Wall Street analysts, and sorted each into one of five categories: cloud computing providers; semiconductor makers; software companies; power providers; and networking, storage, and cooling equipment makers. A few companies, like Microsoft (MSFT), fit in multiple categories, in which case we've placed them in the one that feels most central to their AI business today. At present, Microsoft's cloud revenue is the best metric for assessing its AI business, so it's classified as a cloud provider instead of a software company. All five categories have seen their valuations rise over the past few years, but none more than power providers. The median price-to-sales (P/S) ratio of our power basket in 2025 is 4.53, nearly three times the median in 2023 (1.52). The next largest P/S expansions over that period were in networking, storage and cooling (4.45 in 2025 vs. 2.09 in 2023) and cloud providers (10.5 vs 6.34). (Cloud providers have a higher P/S ratio in absolute terms because the category is composed of tech stocks that have historically commanded higher valuations. This is why we've compared change over the past three years rather than absolute P/S ratios.) Power also has more unprofitable companies than any other category—so many in fact that we’re using price-to-sales as our benchmark valuation metric rather than the more common price-to-earnings ratio. Five of the 14 companies in our power basket are expected to report a loss this calendar year. No other category has more than one unprofitable company. The race to build the data centers that train and run AI models has set off an equally frenzied race to generate and transmit the vast amounts of electricity those data centers consume. Nuclear energy has attracted interest from tech companies for its efficiency and small carbon footprint. Microsoft, Amazon (AMZN), Alphabet (GOOG), and Meta (META) have all signed multi-billion dollar deals with nuclear power plant operators like Constellation Energy Corp. (CEG) and Vistra (VST), both of which have seen their stocks surge over the past two years. But in their rush to bring reliable sources of electricity online, tech companies and investors have also thrown money at nuclear tech upstarts, some without operational generators or regulatory approvals. Shares of small modular reactor maker NuScale Power (SMR) doubled in value between January and mid-October. At the stock’s peak earlier this month, the company, which reported $37 million in revenue last year and isn’t expected to be profitable until 2029, was valued at more than $15 billion. Meanwhile, nuclear tech startup Oklo’s (OKLO) market capitalization peaked at $25.7 billion earlier this month, a 720% increase from the start of the year. Oklo is the only company of the 75 we’ve included in our analysis that is expected to report no revenue this year. Analysts forecast it will turn a profit for the first time in 2030. Though it’s not just nuclear businesses that have achieved rich valuations. Fermi (FRMI), the developer of a massive AI data center campus in the Texas Panhandle, was founded in January and went public in early October at a valuation of more than $19 billion. Fermi plans to build 11 gigawatts of computing capacity powered by on-site nuclear, natural gas, wind, and solar generators. It expects to break ground on its first data center in March, and hopes to have about 1 GW of capacity online by the end of 2026. AI power stocks just finished a volatile week that may underscore the extent to which their prices are driven by fickle sentiment. Constellation Energy and Vistra both shed more than 10% of their value in the first half of the week, as did GE Vernova (GEV), whose turbines are in high demand from data center clients seeking to draw on the South’s ample supply of natural gas. All three finished the week little changed. The upstarts were hit even harder. NuScale, Oklo, and Fermi all lost more than 25% of their value between Monday's open and midday Wednesday. But they too rebounded, finishing the week with losses in the low- to mid-teens.
+--------------------------------------------------
+
 Title: US stocks notch record closing highs on cool inflation, solid earnings
 URL: https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-notch-record-closing-highs-on-cool-inflation-solid-earnings/articleshow/124799265.cms
 Time Published: 2025-10-25T04:46:35Z
@@ -26,14 +45,14 @@ Time Published: 2025-10-24T17:15:23Z
 Description: Crusoe is among a wave of  AI infrastructure builders called "neoclouds." CoreWeave stock has climbed 225% in 2025.
 --------------------------------------------------
 
-Title: Target plans layoffs, eliminating 1,800 roles, as new CEO Michael Fiddelke aims to reset the struggling retailer
-URL: https://finance.yahoo.com/news/target-plans-layoffs-eliminating-1800-roles-as-new-ceo-michael-fiddelke-aims-to-reset-the-struggling-retailer-152024247.html
+Title: Target is eliminating 1,800 roles as new CEO Michael Fiddelke gets set to take over the struggling retailer
+URL: https://finance.yahoo.com/news/target-is-eliminating-1800-roles-as-new-ceo-michael-fiddelke-gets-set-to-take-over-the-struggling-retailer-152024529.html
 Time Published: 2025-10-24T15:20:24Z
 Description: Target, like other companies, is assessing its workforce.
 --------------------------------------------------
 
-Title: Target is eliminating 1,800 roles as new CEO Michael Fiddelke gets set to take over the struggling retailer
-URL: https://finance.yahoo.com/news/target-is-eliminating-1800-roles-as-new-ceo-michael-fiddelke-gets-set-to-take-over-the-struggling-retailer-152024529.html
+Title: Target plans layoffs, eliminating 1,800 roles, as new CEO Michael Fiddelke aims to reset the struggling retailer
+URL: https://finance.yahoo.com/news/target-plans-layoffs-eliminating-1800-roles-as-new-ceo-michael-fiddelke-aims-to-reset-the-struggling-retailer-152024247.html
 Time Published: 2025-10-24T15:20:24Z
 Description: Target, like other companies, is assessing its workforce.
 --------------------------------------------------
@@ -285,22 +304,4 @@ Title: Evercore ISI Reiterates Outperform on Arista Networks (ANET), Adds Stock 
 URL: https://finance.yahoo.com/news/evercore-isi-reiterates-outperform-arista-212022119.html
 Time Published: 2025-10-21T21:20:22Z
 Description: Arista Networks Inc (NYSE:ANET) is one of the AI Stocks Making Moves on Wall Street. On October 20, Evercore ISI analyst Amit Daryanani reiterated an...
---------------------------------------------------
-
-Title: Travis Kelce has sights on Six Flags, WBD to hike HBO Max prices
-URL: https://finance.yahoo.com/video/travis-kelce-sights-six-flags-204009682.html
-Time Published: 2025-10-21T20:40:09Z
-Description: Market Domination Overtime host Josh Lipton and Yahoo Finance senior reporter Brooke DiPalma track several of the day's top trending stock tickers, including...
---------------------------------------------------
-
-Title: Anthropic Is Now a Top Broadcom Customer According to Analysts. Should You Buy AVGO Stock?
-URL: https://www.barchart.com/story/news/35594448/anthropic-is-now-a-top-broadcom-customer-according-to-analysts-should-you-buy-avgo-stock
-Time Published: 2025-10-21T20:34:08Z
-Description: Mizuho analyst says Broadcom’s mystery $10 billion customer could be Anthropic. Here’s why that could prove mega positive for AVGO stock price.
---------------------------------------------------
-
-Title: Will Tech Stocks Blow Up the Stock Market Again?
-URL: https://finance.yahoo.com/news/tech-stocks-blow-stock-market-190000737.html
-Time Published: 2025-10-21T19:00:00Z
-Description: Economists note that AI-related capital spending now contributes more to U.S. GDP growth than consumer spending
 --------------------------------------------------
