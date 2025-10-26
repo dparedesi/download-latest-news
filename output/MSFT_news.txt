@@ -1,5 +1,29 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Microsoft Has Reportedly Pushed Xbox Studios to Deliver a 30% Profit Margin, Allegedly Leading to All Those Layoffs, Canceled Projects, Price Rises, and the End
+URL: https://slashdot.org/firehose.pl?op=view&amp;id=179865544
+Time Published: 2025-10-24T23:12:18Z
+Description: Microsoft Has Reportedly Pushed Xbox Studios to Deliver a 30% Profit Margin, Allegedly Leading to All Those Layoffs, Canceled Projects, Price Rises, and the End of ExclusivesIGN Microsoft Pushes Xbox Division to Hit Higher Profit MarginsBloomberg.com MSFT: Mi…
+--------------------------------------------------
+
+Title: Google Just Achieved a First-Ever Quantum Advantage. Should You Buy GOOGL Stock Here?
+URL: https://www.barchart.com/story/news/35666214/google-just-achieved-a-first-ever-quantum-advantage-should-you-buy-googl-stock-here
+Time Published: 2025-10-24T18:35:49Z
+Description: Tech giant Google just scored a major win in the quantum computing space. Should investors pay attention to GOOGL stock now?
+--------------------------------------------------
+
+Title: Intel Stock Pops on Estimate-Beating Q3. Options Data Tells Us INTC Could Be Headed Here Next.
+URL: https://www.barchart.com/story/news/35666187/intel-stock-pops-on-estimate-beating-q3-options-data-tells-us-intc-could-be-headed-here-next
+Time Published: 2025-10-24T18:33:29Z
+Description: Intel stock inches higher on better-than-expected Q3 financial results. Options data suggests INTC shares could push higher from here through the end of 2025...
+--------------------------------------------------
+
+Title: Buy, Sell or Hold GOOGL Stock Before Q3 Earnings? Here's What to Know
+URL: https://finance.yahoo.com/news/buy-sell-hold-googl-stock-173800424.html
+Time Published: 2025-10-24T17:38:00Z
+Description: Alphabet's AI-driven Search gains, cloud expansion, and easing regulatory pressure set the stage for its Q3 2025 earnings release.
+--------------------------------------------------
+
 Title: Neocloud Crusoe Scores Funding, Oracle Debt Offering, CoreWeave Deal Drama
 URL: https://www.investors.com/news/technology/neoclouds-crusoe-coreweave-stock-oracle-banks/
 Time Published: 2025-10-24T17:15:23Z
@@ -65,22 +89,4 @@ Title: WD-40 (WDFC) Reports Q3: Everything You Need To Know Ahead Of Earnings
 URL: https://finance.yahoo.com/news/wd-40-wdfc-reports-q3-030612703.html
 Time Published: 2025-10-21T03:06:12Z
 Description: Household products company WD-40 (NASDAQ:WDFC) will be reporting results this Wednesday after market hours. Here’s what investors should know.
---------------------------------------------------
-
-Title: Stocks Rally on Easing Trade Tensions and Solid Q3 Earnings
-URL: https://www.barchart.com/story/news/35569815/stocks-rally-on-easing-trade-tensions-and-solid-q3-earnings
-Time Published: 2025-10-20T20:34:20Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +1.07%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +1.12%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: 1 Delicious Options Strategy to Trade Apple Stock at Record Highs
-URL: https://www.barchart.com/story/news/35568115/1-delicious-options-strategy-to-trade-apple-stock-at-record-highs
-Time Published: 2025-10-20T18:47:18Z
-Description: This option collar lets us keep riding the Apple high without risking a major downside move.
---------------------------------------------------
-
-Title: Valmont (VMI) Reports Earnings Tomorrow: What To Expect
-URL: https://finance.yahoo.com/news/valmont-vmi-reports-earnings-tomorrow-030635256.html
-Time Published: 2025-10-20T03:06:35Z
-Description: Infrastructure and agriculture equipment manufacturer Valmont Industries (NYSE:VMI) will be announcing earnings results this Tuesday before market hours...
 --------------------------------------------------

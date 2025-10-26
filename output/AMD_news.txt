@@ -1,5 +1,30 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: S&P 500 Gains and Losses Today: Ford Leads Automakers Higher; Deckers Drops
+URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-ford-leads-automakers-higher-deckers-drops-11837019
+Time Published: 2025-10-24T21:14:49Z
+Full Content:
+Shares of a major automaker surged Friday on a strong earnings report, while a shoes and apparel maker lost ground after warning tariffs and higher prices could discourage shoppers. Major U.S. equities indexes finished the week at record highs after the release of a cooler-than-expected inflation report, reinforcing expectations of an interest rate cut by the Federal Reserve next week. The Nasdaq rose 1.2%, the S&P 500 added 0.8%, and the Dow climbed 1% to finish above 47000 for the first time. All three indexes posted roughly 2% gains for the week. See here for more coverage from Investopedia of Friday's market moves. Ford Motor (F) was the best-performing stock in the S&P 500 Friday, soaring over 12% after the automaker posted third-quarter earnings that topped analysts' estimates. The strong results overshadowed a cut to Ford's outlook, related to the impacts of a fire at an aluminum supplier. Shares of other big automakers, including General Motors (GM), also rose. Tesla (TSLA), which reported quarterly results late Wednesday, finished more than 3% lower. Shares of International Business Machines (IBM) and Advanced Micro Devices (AMD) jumped nearly 8% to finish at record highs following a report that IBM found it could run a key quantum computing error-correcting algorithm on an easy-to-get and reasonably priced chip made by AMD. Micron Technology (MU), which supplies memory solutions for AMD and Nvidia (NVDA) chips, also gained following the news, adding 6%. The SOX index of semiconductor stocks finished the day up 1.9%. Deckers Outdoor (DECK) shares plunged more than 15% to lead decliners on the benchmark index. The Ugg and Hoka shoe maker gave a weaker-than-expected outlook, saying it anticipates a pullback in consumer spending because of tariffs and higher prices. Shares of Newmont (NEM), the world's largest gold miner, fell 6.2% amid concerns about its production outlook, though its third-quarter results topped analysts' estimates as the price of gold has lately surged.
+--------------------------------------------------
+
+Title: Nvidia's New Partner And Rival: Intel, AMD Witness Improving Technical Indicators Amid Solid Momentum Gains
+URL: https://finance.yahoo.com/news/nvidias-partner-rival-intel-amd-203123083.html
+Time Published: 2025-10-24T20:31:23Z
+Description: The semiconductor trio, which includes Nvidia Corp.‘s (NASDAQ:NVDA) rival turned partner Intel Corp. (INTC) and its peer Advanced Micro Devices Inc. (AMD...
+--------------------------------------------------
+
+Title: AMD Stock Just Hit a New All-Time High. Options Data Tells Us It Could Be Headed Here Next.
+URL: https://www.barchart.com/story/news/35667692/amd-stock-just-hit-a-new-all-time-high-options-data-tells-us-it-could-be-headed-here-next
+Time Published: 2025-10-24T20:11:29Z
+Description: AMD stock prints an all-time high as investors continue to cheer its AI partnerships and strong fundamentals. Options data suggests AMD shares could rip...
+--------------------------------------------------
+
+Title: Intel Stock Pops on Estimate-Beating Q3. Options Data Tells Us INTC Could Be Headed Here Next.
+URL: https://www.barchart.com/story/news/35666187/intel-stock-pops-on-estimate-beating-q3-options-data-tells-us-intc-could-be-headed-here-next
+Time Published: 2025-10-24T18:33:29Z
+Description: Intel stock inches higher on better-than-expected Q3 financial results. Options data suggests INTC shares could push higher from here through the end of 2025...
+--------------------------------------------------
+
 Title: AMD stock soars 90% on massive AI deals worth billions
 URL: https://rollingout.com/2025/10/24/amd-stock-surge-openai-oracle-ai-deals/
 Time Published: 2025-10-24T14:45:28Z
@@ -83,16 +108,4 @@ Title: Advanced Micro Devices' Q3 2025 Earnings: What to Expect
 URL: https://www.barchart.com/story/news/35583679/advanced-micro-devices-q3-2025-earnings-what-to-expect
 Time Published: 2025-10-21T12:45:33Z
 Description: Advanced Micro Devices will release its third-quarter earnings next month, and analysts anticipate a double-digit bottom-line growth.
---------------------------------------------------
-
-Title: Stocks Rally on Easing Trade Tensions and Solid Q3 Earnings
-URL: https://www.barchart.com/story/news/35569815/stocks-rally-on-easing-trade-tensions-and-solid-q3-earnings
-Time Published: 2025-10-20T20:34:20Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +1.07%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +1.12%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: With Apple stock near a record high as earnings loom, here’s the options trade to make
-URL: https://www.marketwatch.com/story/with-apple-stock-near-a-record-high-as-earnings-loom-heres-the-options-trade-to-make-73ef26ae
-Time Published: 2025-10-20T13:30:00Z
-Description: The iPhone maker’s shares tend to rise in the last 3 months of the year, says Evercore
 --------------------------------------------------

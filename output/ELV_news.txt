@@ -53,15 +53,3 @@ URL: https://www.barchart.com/story/news/35578678/stock-index-futures-muted-with
 Time Published: 2025-10-21T10:04:53Z
 Description: December S&P 500 E-Mini futures (ESZ25) are down -0.04%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.08% this morning, pointing to a muted...
 --------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures stall as investors eye earnings flood
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-as-investors-eye-earnings-flood-233217948.html
-Time Published: 2025-10-20T23:32:17Z
-Description: US stock futures were little changed Monday night as Wall Street geared up for a packed week of corporate earnings.
---------------------------------------------------
-
-Title: Stocks Rally on Easing Trade Tensions and Solid Q3 Earnings
-URL: https://www.barchart.com/story/news/35569815/stocks-rally-on-easing-trade-tensions-and-solid-q3-earnings
-Time Published: 2025-10-20T20:34:20Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +1.07%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +1.12%, and the Nasdaq 100 Index...
---------------------------------------------------

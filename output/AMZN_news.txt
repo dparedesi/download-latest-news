@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq surge to records as tame inflation cements Fed rate cut bets
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-surge-to-records-as-tame-inflation-cements-fed-rate-cut-bets-200014567.html
+Time Published: 2025-10-24T20:00:14Z
+Description: US stocks rose as Wall Street digested a CPI report showing cooler-than-expected inflation.
+--------------------------------------------------
+
+Title: Buy, Sell or Hold GOOGL Stock Before Q3 Earnings? Here's What to Know
+URL: https://finance.yahoo.com/news/buy-sell-hold-googl-stock-173800424.html
+Time Published: 2025-10-24T17:38:00Z
+Description: Alphabet's AI-driven Search gains, cloud expansion, and easing regulatory pressure set the stage for its Q3 2025 earnings release.
+--------------------------------------------------
+
 Title: JPMorgan Is Betting Big on Quantum Computing. 1 Top-Rated Stock to Buy Now.
 URL: https://www.barchart.com/story/news/35661658/jpmorgan-is-betting-big-on-quantum-computing-1-top-rated-stock-to-buy-now
 Time Published: 2025-10-24T14:07:01Z
@@ -69,14 +81,14 @@ Time Published: 2025-10-21T23:46:17Z
 Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause as investors brace for Tesla earnings after Netflix disappoints
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-as-investors-brace-for-tesla-earnings-after-netflix-disappoints-234617907.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
 Time Published: 2025-10-21T23:46:17Z
 Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause as investors brace for Tesla earnings after Netflix disappoints
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-as-investors-brace-for-tesla-earnings-after-netflix-disappoints-234617907.html
 Time Published: 2025-10-21T23:46:17Z
 Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
@@ -97,42 +109,4 @@ Title: Analyst Says Amazon.com (AMZN) Stock Rebound Coming Soon – Here’s Why
 URL: https://finance.yahoo.com/news/analyst-says-amazon-com-amzn-125019483.html
 Time Published: 2025-10-21T12:50:19Z
 Description: We recently published 10 Trending Stocks This Week. Amazon.com, Inc. (NASDAQ:AMZN) is one of the trending stocks this week. Frances Stacy from Scarlet Oak...
---------------------------------------------------
-
-Title: Netflix earnings: Investors weigh ad growth, valuation risks with shares down 8% from June's record highs
-URL: https://finance.yahoo.com/news/netflix-earnings-investors-weigh-ad-growth-valuation-risks-with-shares-down-8-from-junes-record-highs-200622573.html
-Time Published: 2025-10-20T20:06:22Z
-Description: Netflix will report third quarter earnings after the bell on Tuesday. Here's what to expect.
---------------------------------------------------
-
-Title: Dow, S&P 500, Nasdaq jump as Apple leads tech stocks higher ahead of busy earnings week
-URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-jump-as-apple-leads-tech-stocks-higher-ahead-of-busy-earnings-week-200047280.html
-Time Published: 2025-10-20T20:00:47Z
-Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq rise amid trade-war lull, with flurry of earnings on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138424.html
-Time Published: 2025-10-20T13:31:38Z
-Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq jump amid trade-war lull, with flurry of earnings on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-amid-trade-war-lull-with-flurry-of-earnings-on-deck-133138155.html
-Time Published: 2025-10-20T13:31:38Z
-Description: Wall Street is gearing up for a heavy-hitting earnings season, with the federal government still in shutdown.
---------------------------------------------------
-
-Title: 5 Things to Know Before the Stock Market Opens
-URL: https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-october-20-2025-11832670
-Time Published: 2025-10-20T12:21:21Z
-Full Content:
-Stock futures are rising this morning as investors await a slew of earnings reports, key inflation data and updates on trade negotiations in the coming days; Amazon Web Services experienced disruptions that created service issues for several major websites; Apple’s (AAPL) iPhone 17 model outsold the prior model in the U.S. and China during its first ten days on the market; proxy firm Institutional Shareholder Services advised Tesla (TSLA) shareholders to reject a proposed pay package for CEO Elon Musk; and Cooper Companies (COO) stock is rising on news activist investor Jana had built a stake in the medical device maker. Here's what you need to know today. Stock futures are gaining ground at the start of of a busy week for corporate earnings, after major indexes rose last week despite a volatile stretch of trading fueled by banking sector worries and trade-related tensions. Investors are awaiting further developments on the trade front and awaiting the scheduled release on Wednesday of inflation data that will factor into the Federal Reserve's upcoming decision on interest rates. Futures tied to the Dow Jones Industrial Average were up 0.2% recently, while those linked to the benchmark S&P 500 and the tech-focussed Nasdaq added 0.3% and 0.4%, respectively. Gold futures were up nearly 2% at $4,295 an ounce, rebounding from a downturn on Friday that followed a string of record highs. Bitcoin (BTCUSD) was trading near $111,000, after dropping below $104,000 on Friday. The yield on the 10-year Treasury note, which affects borrowing costs on an array of consumer loans, held steady at 4.01%. Several major websites went down after cloud platform Amazon Web Services experienced major outages early Monday. The outage affected several Amazon (AMZN) services, including Alexa, while also reportedly creating disruptions for Disney+, Lyft, the New York Times, Reddit, Ring, Snapchat, Reddit, Ring, Robinhood, T-Mobile, United Airlines, Venmo, Verizon, gaming site Fortnite, OpenAI’s ChatGPT, Epic Games Store, AI model Perplexity and the McDonalds app. Shares of Amazon were little-changed in premarket trading. The shares have lost 3% since the start of the year, making Amazon the only member of the Magnificent 7 group of major technology stocks to be in negative territory in 2025. Apple’s (AAPL) iPhone 17 model outsold the iPhone 16 by 14% during the first ten days of sales in the U.S. and China, the two markets that make up the bulk of the company’s phone sales, according to Counterpoint Research. The report said that improvements to the iPhone 17 provided value that helped draw in more buyers. “A better chip, improved display, higher base storage, selfie camera upgrade – all for the same price as last year’s iPhone 16,” said senior analyst Mengmeng Zhang. The report found that the base model iPhone 17 performed well in China, while the premium iPhone 17 Max saw strong demand in the U.S., with discounts provided by phone carriers helping to spur sales. Apple shares were up 1.5% in recent premarket trading. Proxy voting service Institutional Shareholder Services (ISS) is advising Tesla (TSLA) shareholders to vote against a proposed $1 trillion pay package for CEO Elon Musk. The proxy firm wrote that it was concerned about the magnitude and structure of the pay package, which features several lofty benchmarks that include pushing the company’s value to more than $8.5 trillion, well above its current market capitalization of roughly $1.5 trillion. ISS also advised shareholders to reject a proposal for Tesla to invest in Musk’s xAI, the AI company that merged with Musk’s X social media platform earlier this month. Tesla shares, which have gained 33% over the past three months, were up about 1% ahead of the opening bell. The company is scheduled to report earnings on Wednesday. Shares of Cooper Companies (COO) surged more than 5% in premarket trading after activist investor Jana Partners reportedly built a stake in the medical device maker. The Wall Street Journal said Jana is looking for strategic alternatives for the company, including a potential deal to combine the company’s contact lens unit with rival Bausch + Lomb (BLCO). Shares of Bausch + Lomb were down nearly 2% in premarket trading.
---------------------------------------------------
-
-Title: Amazon stock today: After the Amazon AWS Outage hits Snapchat and Robinhood now the Amazon stock in trouble? - Are investors safe?
-URL: https://economictimes.indiatimes.com/news/international/us/amazon-stock-today-after-the-amazon-aws-outage-hits-snapchat-and-robinhood-now-the-amazon-stock-in-trouble-are-investors-safe/articleshow/124702912.cms
-Time Published: 2025-10-20T09:42:06Z
-Full Content:
-Amazon Web Services (AWS) went down on October 20, 2025, hitting its US-EAST-1 region hard. Millions of users lost access to platforms like Snapchat, Robinhood, Fortnite, Roblox, and Amazon.com services. Downdetector logged over 20,000 outage reports in hours. Despite the massive disruption, Amazon stock closed at $213.04, down just 0.68%, with pre-market trading at $212.27. Analysts say the outage underscores risks in cloud dependency but doesn’t immediately threaten Amazon’s stock. Investors remain cautiously optimistic ahead of the earnings report. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. PM Modi celebrates Diwali with armed forces aboard INS Vikrant GRAP-II imposed in Delhi-NCR to curb pollution Ayodhya glows as Deepotsav 2025 celebrations light up night sky FBI probes structure overlooking Trump’s Air Force One exit Ayodhya's Deepotsav: New world record with 26.17 lakh diyas Israel-Gaza ceasefire status? Trump drops unexpected revelation Israel-Hamas ceasefire strained as deadly strikes kill dozens Israel weeps with joy: Twin brothers finally reunite home The Economic Times wishes all a very happy and prosperous Diwali 2025 CM Yogi Adityanath in Ayodhya | Ram Mandir | Diwali PM Modi celebrates Diwali with armed forces aboard INS Vikrant GRAP-II imposed in Delhi-NCR to curb pollution Ayodhya glows as Deepotsav 2025 celebrations light up night sky FBI probes structure overlooking Trump’s Air Force One exit Ayodhya's Deepotsav: New world record with 26.17 lakh diyas Israel-Gaza ceasefire status? Trump drops unexpected revelation Israel-Hamas ceasefire strained as deadly strikes kill dozens Israel weeps with joy: Twin brothers finally reunite home The Economic Times wishes all a very happy and prosperous Diwali 2025 CM Yogi Adityanath in Ayodhya | Ram Mandir | Diwali Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Commodities Top Slideshow Private Companies Top Prime Articles Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
 --------------------------------------------------
