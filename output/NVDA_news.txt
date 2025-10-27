@@ -6,6 +6,13 @@ Time Published: 2025-10-26T15:00:18Z
 Description: Bitcoin miners have been pivoting to using their high computing power to service AI as crypto mining profits get squeezed.
 --------------------------------------------------
 
+Title: Meta Is Set to Report Earnings on Wednesday—What You Need to Know
+URL: https://www.investopedia.com/meta-earnings-preview-q3-2025-11836943
+Time Published: 2025-10-26T10:00:00Z
+Full Content:
+Meta has big AI goals, but can it convince investors to keep supporting its big spending? The company's progress with AI will be in focus when the social media giant reports third-quarter earnings after the bell Wednesday, with investors likely to be watching closely for signs its investments are paying off. Meta Platforms (META), which expanded its capital expenditures projections twice this year to support its data center buildouts and hefty compensation packages for poached AI talent, could now face a higher bar to impress with its results. Bank of America analysts said last week they're calling for a revenue beat of $50 billion driven by ad gains to support Meta's spending, slightly above the Street consensus compiled by Visible Alpha at $49.54 billion—which would represent a record high. Meanwhile, the mean estimate for Meta's earnings per share at $6.71 would suggest year-over-year growth, but a decline from the previous quarter. Recent reports of layoffs and hiring freezes could point to some signs of strain in Meta's efforts to rein in costs. Meta has been more successful than many of its other big tech peers so far this year in convincing investors to support its AI goals. Thursday's results could represent the next big test to show it's made the revenue gains to justify its spending. Wall Street analysts are overwhelmingly bullish on the social media giant's stock heading into the results, with all but one of the 21 analysts surveyed by Visible Alpha calling it a "buy" compared to just one "hold" rating. Their mean price target near $873 would suggest roughly 18% upside from Friday's close. The stock has added over one-quarter of its value in 2025, making it one of the better-performing members of the Magnificent 7, behind Nvidia (NVDA) and Google parent Alphabet (GOOGL).
+--------------------------------------------------
+
 Title: S&P 500 Surges: Magnificent 7 Earnings, Rate Cut, And AI Boom Drive Q3
 URL: https://www.forbes.com/sites/bill_stone/2025/10/26/sp-500-surges-magnificent-7-earnings-rate-cut-and-ai-boom-drive-q3/
 Time Published: 2025-10-26T09:53:54Z
@@ -305,10 +312,4 @@ Title: ASML Holding N.V. (ASML): A Bull Case Theory
 URL: https://finance.yahoo.com/news/asml-holding-n-v-asml-193119752.html
 Time Published: 2025-10-22T19:31:19Z
 Description: We came across a bullish thesis on ASML Holding N.V. on Value investing subreddit by West-Chard-1474. In this article, we will summarize the bulls’ thesis on...
---------------------------------------------------
-
-Title: AI hype is real, but a Nobel-winning economist warns profits aren't guaranteed
-URL: https://finance.yahoo.com/news/ai-hype-is-real-but-a-nobel-winning-economist-warns-profits-arent-guaranteed-192514082.html
-Time Published: 2025-10-22T19:25:14Z
-Description: Investors are betting big on AI — but Richard Thaler says don't count on easy profits.
 --------------------------------------------------
