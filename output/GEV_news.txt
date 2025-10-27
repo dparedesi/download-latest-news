@@ -55,14 +55,14 @@ Time Published: 2025-10-22T13:31:57Z
 Description: Eyes are on the latest flurry of earnings after a record-setting session for the Dow.
 --------------------------------------------------
 
-Title: Earnings live: Netflix stock dives, AT&T, GE Vernova, and Hilton rise as Tesla earnings loom
-URL: https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-att-ge-vernova-and-hilton-rise-as-tesla-earnings-loom-120948724.html
+Title: Earnings live: Netflix stock dives, GE Vernova reverses gains, Hilton rises as Tesla earnings loom
+URL: https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-ge-vernova-reverses-gains-hilton-rises-as-tesla-earnings-loom-120948437.html
 Time Published: 2025-10-22T12:09:48Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
 
-Title: Earnings live: Netflix stock dives, GE Vernova reverses gains, Hilton rises as Tesla earnings loom
-URL: https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-ge-vernova-reverses-gains-hilton-rises-as-tesla-earnings-loom-120948437.html
+Title: Earnings live: Netflix stock dives, AT&T, GE Vernova, and Hilton rise as Tesla earnings loom
+URL: https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-att-ge-vernova-and-hilton-rise-as-tesla-earnings-loom-120948724.html
 Time Published: 2025-10-22T12:09:48Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
@@ -71,16 +71,4 @@ Title: Enbridge Inc. (ENB): A Bull Case Theory
 URL: https://finance.yahoo.com/news/enbridge-inc-enb-bull-case-023153530.html
 Time Published: 2025-10-22T02:31:53Z
 Description: We came across a bullish thesis on Enbridge Inc. on Beat the TSX (BTSX-20)’s Substack by Beat the TSX-27 Strategy. In this article, we will summarize the...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble as next rush of earnings kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-as-next-rush-of-earnings-kicks-off-234617882.html
-Time Published: 2025-10-21T23:46:17Z
-Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
---------------------------------------------------
-
-Title: GE Vernova Stock Hasn’t Budged in 3 Months, Will Q3 Power it Higher?
-URL: https://www.barchart.com/story/news/35588507/ge-vernova-stock-hasnt-budged-in-3-months-will-q3-power-it-higher
-Time Published: 2025-10-21T15:43:40Z
-Description: Despite the secular demand environment, GE Vernova stock has largely plateaued over the past three months.
 --------------------------------------------------

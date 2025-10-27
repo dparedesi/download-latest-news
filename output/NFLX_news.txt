@@ -129,14 +129,14 @@ Full Content:
 ByCatherine Brock, Contributor. U.S. stocks were mixed Tuesday as investors await earnings results from the Magnificent Seven stocks, starting with Tesla (TSLA) after the market closes on Wednesday. The large-cap S&P 500 index and the technology-focused Nasdaq Composite were nearly flat, and the Dow Jones Industrial Average gained 0.5%. Tesla is expected to report EPS of $0.56 per share after missing the consensus estimate for three consecutive quarters. The EV maker reported $0.72 per share earnings in last year’s third quarter. Meanwhile, Netflix (NFLX) stock declined in pre-market trading after the streaming company fell short of expectations on revenue and profit. Netflix’s miss may be a less-common outcome in this earnings season, however. Bloomberg reports that among S&P 500 firms that have already reported earnings, 85% have beat profit expectations. If the trend continues, the third quarter of 2025 may end up being the best earnings quarter since 2021. Stock futures for the S&P 500, Nasdaq 100 and Dow Jones are mixed ahead of the market open on Wednesday. Contracts tied to the S&P 500 rose almost 0.1% and Nasdaq 100 futures fell 0.3%. Dow Jones futures declined 0.1%. What is a bubble in investing? In investing, a bubble is a period of rapidly increasing asset prices, usually driven by investor enthusiasm more so than underlying value. Bubbles end when prices reset or “burst.” The run-up in prices and the correction that follows tend to be overreactions to market conditions. To oversimplify, an optimistic trading environment can fuel aggressive buying and a general increase in risk appetite. Investors may stretch outside their normal parameters in terms of valuations and business fundamentals. The immediate outcome is positive—stock prices keep rising, which encourages more buying. At some point, investors begin to take profits from the run-up. This can be prompted by a change in economic conditions, disappointing earnings, or something else. The profit-taking can be as contagious as the aggressive buying. It can quickly shift into loss-aversion and panic if the selloff continues. Long-term investors can protect themselves from bubble-related volatility by sticking to their investment plan. Resisting the urge to follow the masses during the rally is key. A diversified portfolio of quality assets should be resilient enough to withstand the correction or crash that can follow a bubble. Also, the price reset that follows a bubble can be a good time to snap up under-priced shares.
 --------------------------------------------------
 
-Title: Earnings live: Netflix stock dives, GE Vernova reverses gains, Hilton rises as Tesla earnings loom
-URL: https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-ge-vernova-reverses-gains-hilton-rises-as-tesla-earnings-loom-120948437.html
+Title: Earnings live: Netflix stock dives, AT&T, GE Vernova, and Hilton rise as Tesla earnings loom
+URL: https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-att-ge-vernova-and-hilton-rise-as-tesla-earnings-loom-120948724.html
 Time Published: 2025-10-22T12:09:48Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
 
-Title: Earnings live: Netflix stock dives, AT&T, GE Vernova, and Hilton rise as Tesla earnings loom
-URL: https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-att-ge-vernova-and-hilton-rise-as-tesla-earnings-loom-120948724.html
+Title: Earnings live: Netflix stock dives, GE Vernova reverses gains, Hilton rises as Tesla earnings loom
+URL: https://finance.yahoo.com/news/live/earnings-live-netflix-stock-dives-ge-vernova-reverses-gains-hilton-rises-as-tesla-earnings-loom-120948437.html
 Time Published: 2025-10-22T12:09:48Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
@@ -152,70 +152,4 @@ Title: Netflix Stock Sinks After Surprise EPS Miss: Brazil Tax Row Blamed as Rec
 URL: https://www.ibtimes.com/netflix-stock-sinks-after-surprise-eps-miss-brazil-tax-row-blamed-record-ad-sales-confuse-markets-3787994
 Time Published: 2025-10-22T09:48:32Z
 Description: Netflix (NFLX) stock slides on a Q3 EPS miss caused by a £516M Brazil tax charge, overshadowing record ad sales and subscriber growth.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather in wait for next rush of earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-records-in-play-ahead-of-next-rush-of-earnings-234617375.html
-Time Published: 2025-10-21T23:46:17Z
-Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble as next rush of earnings kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-as-next-rush-of-earnings-kicks-off-234617882.html
-Time Published: 2025-10-21T23:46:17Z
-Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause as investors brace for Tesla earnings after Netflix disappoints
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-as-investors-brace-for-tesla-earnings-after-netflix-disappoints-234617907.html
-Time Published: 2025-10-21T23:46:17Z
-Description: Eyes are on the next flurry of earnings after a record-setting session for the Dow.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures trade flat as investors look to Tesla earnings after Netflix disappoints
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-flat-as-investors-look-to-tesla-earnings-after-netflix-disappoints-234617471.html
-Time Published: 2025-10-21T23:46:17Z
-Description: US stock futures were steady Tuesday night as investors looked towards the next wave of earnings following a record-setting session for the Dow Jones...
---------------------------------------------------
-
-Title: CWS Market Review – October 21, 2025
-URL: https://www.crossingwallstreet.com/archives/2025/10/cws-market-review-october-21-2025.html
-Time Published: 2025-10-21T22:32:43Z
-Description: (This is the free version of CWS Market Review. If you like what you see, then please sign up for the premium newsletter for $20 […]
---------------------------------------------------
-
-Title: Netflix stock falls after Q3 earnings miss estimates, operating profit takes a hit
-URL: https://finance.yahoo.com/news/netflix-stock-falls-after-q3-earnings-miss-estimates-operating-profit-takes-a-hit-222330311.html
-Time Published: 2025-10-21T22:23:30Z
-Description: Netflix reported third quarter earnings after the bell on Tuesday. Here's what to know.
---------------------------------------------------
-
-Title: Netflix stock falls after earnings miss estimates, operating profit takes a hit
-URL: https://finance.yahoo.com/news/netflix-stock-falls-after-earnings-miss-estimates-operating-profit-takes-a-hit-201113517.html
-Time Published: 2025-10-21T22:23:30Z
-Description: Netflix reported third quarter earnings after the bell on Tuesday. Here's what to know.
---------------------------------------------------
-
-Title: Stocks Mixed on Mostly Positive Corporate News
-URL: https://www.barchart.com/story/news/35586522/stocks-mixed-on-mostly-positive-corporate-news
-Time Published: 2025-10-21T14:05:08Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.05%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.12%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stock market today: Dow rises, but Nasdaq lags as investors assess flood of earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-but-nasdaq-lags-as-investors-assess-flood-of-earnings-133157509.html
-Time Published: 2025-10-21T13:31:57Z
-Description: The Dow touched an intraday record high while the Nasdaq slipped as investors focused on a wave of quarterly earnings while remaining vigilant about US-China...
---------------------------------------------------
-
-Title: Stock Index Futures Muted With Focus on Corporate Earnings
-URL: https://www.barchart.com/story/news/35578678/stock-index-futures-muted-with-focus-on-corporate-earnings
-Time Published: 2025-10-21T10:04:53Z
-Description: December S&P 500 E-Mini futures (ESZ25) are down -0.04%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.08% this morning, pointing to a muted...
---------------------------------------------------
-
-Title: Is Netflix (NFLX) One of the Best Big Tech Stocks to Invest in Now?
-URL: https://finance.yahoo.com/news/netflix-nflx-one-best-big-093733139.html
-Time Published: 2025-10-21T09:37:33Z
-Description: Netflix Inc. (NASDAQ:NFLX) is one of the best big tech stocks to invest in now. On October 16, KeyBanc analyst Justin Patterson kept a Buy rating on Netflix ...
 --------------------------------------------------

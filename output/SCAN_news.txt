@@ -1,5 +1,11 @@
 List of news related to Stocks with massive upside potential:
 
+Title: Bull-Dog Sauce (TSE:2804) Margin Surge Driven by ¥2.8B One-Off Gain Challenges Sustainability Narrative
+URL: https://finance.yahoo.com/news/bull-dog-sauce-tse-2804-021527380.html
+Time Published: 2025-10-26T02:15:27Z
+Description: Bull-Dog Sauce (TSE:2804) turned heads with a massive 809.1% earnings growth for the past year. Net profit margins have also surged, climbing from 1.9% to...
+--------------------------------------------------
+
 Title: Fortrea Holdings (FTRE): Valuation Update Following Debt Tender Offer and Ongoing Capital Restructuring
 URL: https://finance.yahoo.com/news/fortrea-holdings-ftre-valuation-following-161322476.html
 Time Published: 2025-10-25T16:13:22Z
@@ -93,16 +99,4 @@ Title: Here’s Wedgewood Partners’ Views on Microsoft (MSFT)
 URL: https://finance.yahoo.com/news/wedgewood-partners-views-microsoft-msft-105956436.html
 Time Published: 2025-10-22T10:59:56Z
 Description: Wedgewood Partners, an investment management company, released its third-quarter 2025 investor letter. The letter is available for download here. AI stocks...
---------------------------------------------------
-
-Title: Oracle (ORCL) Drops as Analyst Turns Neutral
-URL: https://finance.yahoo.com/news/oracle-orcl-drops-analyst-turns-163105876.html
-Time Published: 2025-10-21T16:31:05Z
-Description: We recently published 10 Stocks With Massive Losses; AI Stocks Not Spared. Oracle Corp. (NYSE:ORCL) is one of the worst performers on Monday. Oracle dropped ...
---------------------------------------------------
-
-Title: What to Expect From PTC's Q4 2025 Earnings Report
-URL: https://www.barchart.com/story/news/35577885/what-to-expect-from-ptc-s-q4-2025-earnings-report
-Time Published: 2025-10-21T09:02:07Z
-Description: PTC is expected to report its fourth-quarter results in early November, and analysts expect a massive double-digit surge in earnings.
 --------------------------------------------------
