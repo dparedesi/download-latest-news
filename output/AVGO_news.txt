@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Bitcoin 'just doesn’t cut it anymore': Miners' pivot to AI sends stocks soaring
+URL: https://finance.yahoo.com/news/bitcoin-just-doesnt-cut-it-anymore-miners-pivot-to-ai-sends-stocks-soaring-150018229.html
+Time Published: 2025-10-26T15:00:18Z
+Description: Bitcoin miners have been pivoting to using their high computing power to service AI as crypto mining profits get squeezed.
+--------------------------------------------------
+
 Title: 'This fight is far from over': Intel’s key business is nowhere near a turnaround
 URL: https://finance.yahoo.com/news/this-fight-is-far-from-over-intels-key-business-is-nowhere-near-a-turnaround-143041684.html
 Time Published: 2025-10-25T14:30:41Z

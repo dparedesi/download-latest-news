@@ -1,5 +1,23 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Earnings, Trade War and Other Can't Miss Items this Week
+URL: https://www.barchart.com/story/news/35686665/earnings-trade-war-and-other-can-t-miss-items-this-week
+Time Published: 2025-10-26T17:00:02Z
+Description: This week brings an extraordinary convergence of market-moving events: Wednesday's virtually certain Fed rate cut and a blockbuster earnings lineup featuring...
+--------------------------------------------------
+
+Title: Bitcoin 'just doesn’t cut it anymore': Miners' pivot to AI sends stocks soaring
+URL: https://finance.yahoo.com/news/bitcoin-just-doesnt-cut-it-anymore-miners-pivot-to-ai-sends-stocks-soaring-150018229.html
+Time Published: 2025-10-26T15:00:18Z
+Description: Bitcoin miners have been pivoting to using their high computing power to service AI as crypto mining profits get squeezed.
+--------------------------------------------------
+
+Title: Big Tech earnings, a crucial Fed meeting, and a Trump-Xi sit-down: What to watch this week
+URL: https://finance.yahoo.com/news/big-tech-earnings-a-crucial-fed-meeting-and-a-trump-xi-sit-down-what-to-watch-this-week-114354660.html
+Time Published: 2025-10-26T11:43:54Z
+Description: The market enters the fourth full week of the government shutdown with international trade and domestic rates in focus.
+--------------------------------------------------
+
 Title: S&P 500 Surges: Magnificent 7 Earnings, Rate Cut, And AI Boom Drive Q3
 URL: https://www.forbes.com/sites/bill_stone/2025/10/26/sp-500-surges-magnificent-7-earnings-rate-cut-and-ai-boom-drive-q3/
 Time Published: 2025-10-26T09:53:54Z
