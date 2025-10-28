@@ -40,7 +40,8 @@ def load_config(config_file):
     return {
         'queries': parsed_queries,
         'api_key': config['API']['alphavantage_key'],
-        'news_limit': int(config['Settings']['news_limit'])
+        'news_limit': int(config['Settings']['news_limit']),
+        'fetch_full_content': config['Settings'].getboolean('fetch_full_content', fallback=True)
     }
 
 def create_output_folder():
@@ -62,7 +63,7 @@ def get_article_content(url, session):
         logging.error(f"Error fetching article content: {str(e)}")
         return ""
 
-def process_article_item(item, session):
+def process_article_item(item, session, fetch_full_content):
     """Process a single article item"""
     try:
         news_items = []
@@ -70,16 +71,20 @@ def process_article_item(item, session):
         news_items.append(f"URL: {item['url']}")
         news_items.append(f"Time Published: {item['time_published']}")
         news_items.append(f"Summary: {item['summary']}")
-        content = get_article_content(item['url'], session)
-        if content:
-            news_items.append(f"Content: {content}")
+        
+        # Only fetch full content if enabled in config
+        if fetch_full_content:
+            content = get_article_content(item['url'], session)
+            if content:
+                news_items.append(f"Content: {content}")
+        
         news_items.append("-" * 50)
         return "\n".join(news_items)
     except Exception as e:
         logging.error(f"Error processing article item: {str(e)}")
         return ""
 
-def get_latest_news(symbol, session, api_key, news_limit):
+def get_latest_news(symbol, session, api_key, news_limit, fetch_full_content):
     url = "https://www.alphavantage.co/query"
     params = {
         "function": "NEWS_SENTIMENT",
@@ -112,7 +117,7 @@ def get_latest_news(symbol, session, api_key, news_limit):
         news_items = []
         # Use concurrent processing for article content fetching
         with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
-            future_to_item = {executor.submit(process_article_item, item, session): idx for idx, item in enumerate(data["feed"][:news_limit], 1)}
+            future_to_item = {executor.submit(process_article_item, item, session, fetch_full_content): idx for idx, item in enumerate(data["feed"][:news_limit], 1)}
             for future in concurrent.futures.as_completed(future_to_item):
                 idx = future_to_item[future]
                 try:
@@ -138,12 +143,12 @@ def truncate_content(content, max_length=5000):
 def sanitize_filename(filename):
     return re.sub(r'[\\/*?:"<>|]', "", filename)
 
-def process_symbol(symbol_tuple, session, api_key, news_limit, output_folder):
+def process_symbol(symbol_tuple, session, api_key, news_limit, fetch_full_content, output_folder):
     """Process a single symbol query"""
     symbol, query = symbol_tuple
     logging.info(f"Processing symbol: {symbol} (Query: {query})")
     
-    latest_news = get_latest_news(symbol, session, api_key, news_limit)
+    latest_news = get_latest_news(symbol, session, api_key, news_limit, fetch_full_content)
     safe_symbol = sanitize_filename(symbol)
     with open(os.path.join(output_folder, f'{safe_symbol}_news.txt'), 'w', encoding='utf-8') as f:
         f.write(latest_news)
@@ -165,7 +170,7 @@ def main():
 
     # Use concurrent processing for better performance
     with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
-        future_to_symbol = {executor.submit(process_symbol, symbol_tuple, session, config['api_key'], config['news_limit'], output_folder): symbol_tuple for symbol_tuple in config['queries']}
+        future_to_symbol = {executor.submit(process_symbol, symbol_tuple, session, config['api_key'], config['news_limit'], config['fetch_full_content'], output_folder): symbol_tuple for symbol_tuple in config['queries']}
         for future in concurrent.futures.as_completed(future_to_symbol):
             symbol_tuple = future_to_symbol[future]
             try:

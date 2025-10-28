@@ -87,7 +87,7 @@ Both scripts will create an `output` folder containing:
 
 - Adjust the number of days to look back for news by modifying the `timedelta(days=5)` in the respective `get_latest_news` functions.
 - Change the limit of news articles fetched per query/symbol by modifying the `news_limit` in the config file.
-- Set `fetch_full_content = false` in the config file to skip fetching full article content for faster execution (NewsAPI script only).
+- Set `fetch_full_content = false` in the config file to skip fetching full article content for faster execution (applies to both NewsAPI and Alpha Vantage scripts).
 
 ## Performance Optimizations
 
@@ -96,7 +96,7 @@ The scripts include several optimizations for faster news data retrieval:
 1. **Parallel Processing**: Both scripts use ThreadPoolExecutor for concurrent processing of queries and article content
 2. **Connection Pooling**: Increased HTTP connection pool size (20 connections) for better parallel request handling
 3. **Reduced Timeouts**: Article content fetching timeout reduced to 5 seconds for faster processing
-4. **Configurable Content Fetching**: Option to skip full article content fetching in NewsAPI script via `fetch_full_content` setting
+4. **Configurable Content Fetching**: Option to skip full article content fetching in both scripts via `fetch_full_content` setting
 5. **Retry Strategy**: Automatic retry with exponential backoff for failed requests
 
 ## Note
