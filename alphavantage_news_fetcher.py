@@ -9,6 +9,7 @@ from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
 import re
 import json
+import concurrent.futures
 
 def setup_logging():
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -16,7 +17,10 @@ def setup_logging():
 def create_session():
     session = requests.Session()
     retries = Retry(total=3, backoff_factor=0.1, status_forcelist=[500, 502, 503, 504])
-    session.mount('https://', HTTPAdapter(max_retries=retries))
+    # Increase pool size for better parallel performance
+    adapter = HTTPAdapter(max_retries=retries, pool_connections=20, pool_maxsize=20)
+    session.mount('https://', adapter)
+    session.mount('http://', adapter)
     return session
 
 def load_config(config_file):
@@ -46,7 +50,8 @@ def create_output_folder():
 
 def get_article_content(url, session):
     try:
-        response = session.get(url, timeout=10)
+        # Reduced timeout from 10s to 5s for faster processing
+        response = session.get(url, timeout=5)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
         
@@ -55,6 +60,23 @@ def get_article_content(url, session):
         return content[:2000]
     except Exception as e:
         logging.error(f"Error fetching article content: {str(e)}")
+        return ""
+
+def process_article_item(item, session):
+    """Process a single article item"""
+    try:
+        news_items = []
+        news_items.append(f"Title: {item['title']}")
+        news_items.append(f"URL: {item['url']}")
+        news_items.append(f"Time Published: {item['time_published']}")
+        news_items.append(f"Summary: {item['summary']}")
+        content = get_article_content(item['url'], session)
+        if content:
+            news_items.append(f"Content: {content}")
+        news_items.append("-" * 50)
+        return "\n".join(news_items)
+    except Exception as e:
+        logging.error(f"Error processing article item: {str(e)}")
         return ""
 
 def get_latest_news(symbol, session, api_key, news_limit):
@@ -88,17 +110,18 @@ def get_latest_news(symbol, session, api_key, news_limit):
             return f"No news found for {symbol}"
 
         news_items = []
-        for index, item in enumerate(data["feed"][:news_limit], 1):
-            logging.info(f"Processing news item {index} for {symbol}")
-            news_items.append(f"Title: {item['title']}")
-            news_items.append(f"URL: {item['url']}")
-            news_items.append(f"Time Published: {item['time_published']}")
-            news_items.append(f"Summary: {item['summary']}")
-            content = get_article_content(item['url'], session)
-            if content:
-                news_items.append(f"Content: {content}")
-            news_items.append("-" * 50)
-            time.sleep(1)
+        # Use concurrent processing for article content fetching
+        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+            future_to_item = {executor.submit(process_article_item, item, session): idx for idx, item in enumerate(data["feed"][:news_limit], 1)}
+            for future in concurrent.futures.as_completed(future_to_item):
+                idx = future_to_item[future]
+                try:
+                    result = future.result()
+                    if result:
+                        logging.info(f"Processing news item {idx} for {symbol}")
+                        news_items.append(result)
+                except Exception as e:
+                    logging.error(f"Error processing news item {idx} for {symbol}: {str(e)}")
 
         return "\n".join(news_items)
 
@@ -115,6 +138,23 @@ def truncate_content(content, max_length=5000):
 def sanitize_filename(filename):
     return re.sub(r'[\\/*?:"<>|]', "", filename)
 
+def process_symbol(symbol_tuple, session, api_key, news_limit, output_folder):
+    """Process a single symbol query"""
+    symbol, query = symbol_tuple
+    logging.info(f"Processing symbol: {symbol} (Query: {query})")
+    
+    latest_news = get_latest_news(symbol, session, api_key, news_limit)
+    safe_symbol = sanitize_filename(symbol)
+    with open(os.path.join(output_folder, f'{safe_symbol}_news.txt'), 'w', encoding='utf-8') as f:
+        f.write(latest_news)
+    
+    if latest_news.startswith("No news found") or latest_news.startswith("Error fetching news"):
+        logging.warning(latest_news)
+        return None
+    else:
+        logging.info(f"Successfully processed {symbol} (Query: {query})")
+        return f"News for {symbol} ({query}):\n{latest_news}\n\n{'='*70}\n\n"
+
 def main():
     setup_logging()
     config = load_config('config.ini')
@@ -123,20 +163,18 @@ def main():
     
     consolidated_news = []
 
-    for symbol, query in config['queries']:
-        logging.info(f"Processing symbol: {symbol} (Query: {query})")
-        
-        latest_news = get_latest_news(symbol, session, config['api_key'], config['news_limit'])
-        safe_symbol = sanitize_filename(symbol)
-        with open(os.path.join(output_folder, f'{safe_symbol}_news.txt'), 'w', encoding='utf-8') as f:
-            f.write(latest_news)
-        
-        if latest_news.startswith("No news found") or latest_news.startswith("Error fetching news"):
-            logging.warning(latest_news)
-        else:
-            logging.info(f"Successfully processed {symbol} (Query: {query})")
-            consolidated_news.append(f"News for {symbol} ({query}):\n{latest_news}\n\n{'='*70}\n\n")
-        logging.info("-" * 50)
+    # Use concurrent processing for better performance
+    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+        future_to_symbol = {executor.submit(process_symbol, symbol_tuple, session, config['api_key'], config['news_limit'], output_folder): symbol_tuple for symbol_tuple in config['queries']}
+        for future in concurrent.futures.as_completed(future_to_symbol):
+            symbol_tuple = future_to_symbol[future]
+            try:
+                result = future.result()
+                if result:
+                    consolidated_news.append(result)
+            except Exception as exc:
+                logging.error(f'{symbol_tuple[0]} generated an exception: {exc}')
+            logging.info("-" * 50)
 
     with open(os.path.join(output_folder, 'consolidated_news.txt'), 'w', encoding='utf-8') as f:
         f.write("\n".join(consolidated_news))
