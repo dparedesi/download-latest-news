@@ -1,15 +1,21 @@
 List of news related to Microsoft stock price MSFT:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq head toward records as Trump stokes hopes US-China trade deal is near
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-head-toward-records-as-trump-stokes-hopes-us-china-trade-deal-is-near-225050682.html
-Time Published: 2025-10-26T22:50:50Z
-Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
+Title: Microsoft upgraded, Harley-Davidson downgraded: Wall Street's top analyst calls
+URL: https://finance.yahoo.com/news/microsoft-upgraded-harley-davidson-downgraded-134416753.html
+Time Published: 2025-10-27T13:44:16Z
+Description: Microsoft upgraded, Harley-Davidson downgraded: Wall Street's top analyst calls
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as Trump stokes hopes a US-China trade deal is near
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-trump-stokes-hopes-a-us-china-trade-deal-is-near-225050765.html
-Time Published: 2025-10-26T22:50:50Z
-Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
+Title: Earnings live: Keurig Dr. Pepper stock pops as investors await Big Tech earnings from Apple, Google, and more
+URL: https://finance.yahoo.com/news/live/earnings-live-keurig-dr-pepper-stock-pops-as-investors-await-big-tech-earnings-from-apple-google-and-more-120146338.html
+Time Published: 2025-10-27T12:01:46Z
+Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
+Title: Microsoft Upgrade Leaves 99% of Analysts Bullish on the Stock
+URL: https://finance.yahoo.com/news/microsoft-upgrade-leaves-99-analysts-115109314.html
+Time Published: 2025-10-27T11:51:09Z
+Description: The upgrade means nearly 99% of analysts tracked by Bloomberg currently recommend buying the stock.  Of the 73 who follow Microsoft, the only holdout is...
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as US-China talks tee up trade deal for Trump
@@ -22,6 +28,18 @@ Title: Stock market today: Dow, S&P 500, Nasdaq futures climb with Fed, Big Tech
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-with-fed-big-tech-earnings-trump-xi-meeting-ahead-225050011.html
 Time Published: 2025-10-26T22:50:50Z
 Description: Futures on the major gauges rose overnight Sunday ahead of a packed week of economic events.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq head toward records as Trump stokes hopes US-China trade deal is near
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-head-toward-records-as-trump-stokes-hopes-us-china-trade-deal-is-near-225050682.html
+Time Published: 2025-10-26T22:50:50Z
+Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as Trump stokes hopes a US-China trade deal is near
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-trump-stokes-hopes-a-us-china-trade-deal-is-near-225050765.html
+Time Published: 2025-10-26T22:50:50Z
+Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
 --------------------------------------------------
 
 Title: Earnings, Trade War and Other Can't Miss Items this Week
