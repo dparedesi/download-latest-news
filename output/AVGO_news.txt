@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq head toward records as Trump stokes hopes US-China trade deal is near
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-head-toward-records-as-trump-stokes-hopes-us-china-trade-deal-is-near-225050682.html
+Time Published: 2025-10-26T22:50:50Z
+Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
+--------------------------------------------------
+
 Title: Bitcoin 'just doesn’t cut it anymore': Miners' pivot to AI sends stocks soaring
 URL: https://finance.yahoo.com/news/bitcoin-just-doesnt-cut-it-anymore-miners-pivot-to-ai-sends-stocks-soaring-150018229.html
 Time Published: 2025-10-26T15:00:18Z
@@ -84,22 +90,4 @@ Title: Brasada Capital Third Quarter Of 2025 Quarterly Update
 URL: https://seekingalpha.com/article/4832202-brasada-capital-third-quarter-of-2025-quarterly-update
 Time Published: 2025-10-23T03:45:00Z
 Description: Brasada Capital Management analyzes Q3 market resilience, AI-driven capex risks, and selective equity strategies. Explore their cautious outlook and positioning.
---------------------------------------------------
-
-Title: Broadcom Inc. (AVGO): A Bull Case Theory
-URL: https://finance.yahoo.com/news/broadcom-inc-avgo-bull-case-213630772.html
-Time Published: 2025-10-22T21:36:30Z
-Description: We came across a bullish thesis on Broadcom Inc. on TechIt_alt’s Substack. In this article, we will summarize the bulls’ thesis on AVGO. Broadcom Inc.’s...
---------------------------------------------------
-
-Title: Credo Technology Group Holding Ltd (CRDO): A Bull Case Theory
-URL: https://finance.yahoo.com/news/credo-technology-group-holding-ltd-212141962.html
-Time Published: 2025-10-22T21:21:41Z
-Description: We came across a bullish thesis on Credo Technology Group Holding Ltd on Nikhs Substack. In this article, we will summarize the bulls’ thesis on CRDO. Credo ...
---------------------------------------------------
-
-Title: Wall Street's sleeping on Nvidia, AMD, and Broadcom? A major investment bank says yes
-URL: https://www.thestreet.com/investing/wall-streets-sleeping-on-nvidia-amd-and-broadcom-a-major-investment-bank-says-yes
-Time Published: 2025-10-22T19:37:00Z
-Description: Nvidia, AMD, and Broadcom are the most talked-about companies in AI. JPMorgan still believes investors don't grasp how much these three enterprises are worth...
 --------------------------------------------------

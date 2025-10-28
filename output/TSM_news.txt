@@ -23,21 +23,3 @@ URL: https://www.marketwatch.com/story/gold-just-stumbled-a-jpmorgan-strategist-
 Time Published: 2025-10-23T13:34:00Z
 Description: JPMorgan believes gold will increasingly become an investor favored hedge against equities, to the tune of 110%.
 --------------------------------------------------
-
-Title: Morgan Stanley Loves Nvidia Stock. The AMD-OpenAI Deal Doesn’t Change That.
-URL: https://www.barchart.com/story/news/35608697/morgan-stanley-loves-nvidia-stock-the-amd-openai-deal-doesnt-change-that
-Time Published: 2025-10-22T13:00:02Z
-Description: Morgan Stanley analysts recently met with Nvidia executives and emerged with a favorable view of the company.
---------------------------------------------------
-
-Title: Wedgewood Partners Trimmed Taiwan Semiconductor Manufacturing Company (TSM) in Q3 as It Re-Rated Higher
-URL: https://finance.yahoo.com/news/wedgewood-partners-trimmed-taiwan-semiconductor-104608634.html
-Time Published: 2025-10-22T10:46:08Z
-Description: Wedgewood Partners, an investment management company, released its third-quarter 2025 investor letter. The letter is available for download here. AI stocks...
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA) And Taiwan Semiconductor Manufacturing (TSM) Produces the First Blackwell Wafer in US
-URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-taiwan-semiconductor-091719296.html
-Time Published: 2025-10-22T09:17:19Z
-Description: ​NVIDIA Corporation (NASDAQ:NVDA) is one of the Best Revenue Growth Stocks to Invest In. On October 17, NVIDIA Corporation (NASDAQ:NVDA) announced reaching a...
---------------------------------------------------

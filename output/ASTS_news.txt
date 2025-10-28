@@ -17,27 +17,3 @@ URL: https://finance.yahoo.com/news/jim-cramer-says-ast-spacemobile-121247758.ht
 Time Published: 2025-10-24T12:12:47Z
 Description: AST SpaceMobile, Inc. (NASDAQ:ASTS) is one of the stocks Jim Cramer recently answered questions about. When a caller asked about the company during the...
 --------------------------------------------------
-
-Title: AST SpaceMobile, Inc. (ASTS): A Bull Case Theory
-URL: https://finance.yahoo.com/news/ast-spacemobile-inc-asts-bull-213611548.html
-Time Published: 2025-10-22T21:36:11Z
-Description: We came across a bullish thesis on AST SpaceMobile, Inc. on Investment Ideas by Antonio’s Substack by Antonio Linares. In this article, we will summarize the...
---------------------------------------------------
-
-Title: Stocks Retreat on Chipmaker Weakness and Renewed China Tensions
-URL: https://www.barchart.com/story/news/35619470/stocks-retreat-on-chipmaker-weakness-and-renewed-china-tensions
-Time Published: 2025-10-22T20:36:47Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed down -0.53%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.71%, and the Nasdaq 100...
---------------------------------------------------
-
-Title: Stocks Slide on Weakness in Chipmakers
-URL: https://www.barchart.com/story/news/35612544/stocks-slide-on-weakness-in-chipmakers
-Time Published: 2025-10-22T15:20:55Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.37%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stocks Pressured as Texas Instruments Drags Chipmakers Lower
-URL: https://www.barchart.com/story/news/35611071/stocks-pressured-as-texas-instruments-drags-chipmakers-lower
-Time Published: 2025-10-22T14:06:47Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.02%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.14%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
