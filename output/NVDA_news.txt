@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA's Quarterly Earnings Preview: What You Need to Know
+URL: https://www.barchart.com/story/news/35690175/nvidia-s-quarterly-earnings-preview-what-you-need-to-know
+Time Published: 2025-10-27T06:08:14Z
+Description: Semiconductor giant NVIDIA is gearing up to release its Q3 results in the upcoming month, and analysts expect a massive double-digit surge in earnings.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq head toward records as Trump stokes hopes US-China trade deal is near
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-head-toward-records-as-trump-stokes-hopes-us-china-trade-deal-is-near-225050682.html
 Time Published: 2025-10-26T22:50:50Z
