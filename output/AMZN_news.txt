@@ -1,15 +1,39 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq eye fresh records as earnings roll in, Trump seals trade deals
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-eye-fresh-records-as-earnings-roll-in-trump-seals-trade-deals-224625592.html
+Time Published: 2025-10-27T22:46:25Z
+Description: Eyes are on Trump's visit to Japan in the wait for his meeting with China's Xi, as the flood of earnings continues to roll in.
+--------------------------------------------------
+
+Title: Stock market today: S&P 500 crosses 6,800 mark, joining Dow, Nasdaq in fresh records as US-China trade deal hopes run high
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-crosses-6800-mark-joining-dow-nasdaq-in-fresh-records-as-us-china-trade-deal-hopes-run-high-200037582.html
+Time Published: 2025-10-27T20:02:19Z
+Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
+--------------------------------------------------
+
+Title: Stifel and Benchmark Keep Buy Ratings on Amazon (AMZN)
+URL: https://finance.yahoo.com/news/stifel-benchmark-keep-buy-ratings-155414250.html
+Time Published: 2025-10-27T15:54:14Z
+Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the 10 Best Dow Stocks to Buy According to Wall Street Analysts. On October 24, Stifel increased its price target on...
+--------------------------------------------------
+
+Title: As Takeover Rumors Swirl, Should You Buy DigitalOcean Stock?
+URL: https://www.barchart.com/story/news/35698417/as-takeover-rumors-swirl-should-you-buy-digitalocean-stock
+Time Published: 2025-10-27T13:00:03Z
+Description: Rumor has it that DigitalOcean is once again on the takeover radar. Is now the time to keep a close eye on DOCN stock?
+--------------------------------------------------
+
 Title: Earnings live: Keurig Dr. Pepper stock pops as investors await Big Tech earnings from Apple, Google, and more
 URL: https://finance.yahoo.com/news/live/earnings-live-keurig-dr-pepper-stock-pops-as-investors-await-big-tech-earnings-from-apple-google-and-more-120146338.html
 Time Published: 2025-10-27T12:01:46Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as Trump stokes hopes a US-China trade deal is near
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-trump-stokes-hopes-a-us-china-trade-deal-is-near-225050765.html
-Time Published: 2025-10-26T22:50:50Z
-Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
+Title: Option Volatility And Earnings Report For October 27 - 31
+URL: https://www.barchart.com/story/news/35694540/option-volatility-and-earnings-report-for-october-27-31
+Time Published: 2025-10-27T11:00:02Z
+Description: Earnings are going to be front and center of everyone’s attention this week, with five of the Mag Seven reporting.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures climb with Fed, Big Tech earnings, Trump-Xi meeting ahead
@@ -18,16 +42,22 @@ Time Published: 2025-10-26T22:50:50Z
 Description: Futures on the major gauges rose overnight Sunday ahead of a packed week of economic events.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as US-China talks tee up trade deal for Trump
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-us-china-talks-tee-up-trade-deal-for-trump-225050786.html
-Time Published: 2025-10-26T22:50:50Z
-Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq head toward records as Trump stokes hopes US-China trade deal is near
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-head-toward-records-as-trump-stokes-hopes-us-china-trade-deal-is-near-225050682.html
 Time Published: 2025-10-26T22:50:50Z
 Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as Trump stokes hopes a US-China trade deal is near
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-trump-stokes-hopes-a-us-china-trade-deal-is-near-225050765.html
+Time Published: 2025-10-26T22:50:50Z
+Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as US-China talks tee up trade deal for Trump
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-us-china-talks-tee-up-trade-deal-for-trump-225050786.html
+Time Published: 2025-10-26T22:50:50Z
+Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
 --------------------------------------------------
 
 Title: Earnings, Trade War and Other Can't Miss Items this Week
@@ -77,29 +107,4 @@ Title: JPMorgan Is Betting Big on Quantum Computing. 1 Top-Rated Stock to Buy No
 URL: https://www.barchart.com/story/news/35661658/jpmorgan-is-betting-big-on-quantum-computing-1-top-rated-stock-to-buy-now
 Time Published: 2025-10-24T14:07:01Z
 Description: While JPMorgan bets on quantum computing, Amazon is emerging as a top-rated quantum stock, capturing Wall Street’s bullish spotlight.
---------------------------------------------------
-
-Title: Analysts Just Flagged a $4 Billion Opportunity for Amazon. Should You Buy AMZN Stock Here?
-URL: https://www.barchart.com/story/news/35641095/analysts-just-flagged-a-4-billion-opportunity-for-amazon-should-you-buy-amzn-stock-here
-Time Published: 2025-10-23T16:22:45Z
-Description: Morgan Stanley believes that the e-commerce major can save billions through this initiative.
---------------------------------------------------
-
-Title: US stock market today: Wall Street climbed 0.3% – Dow, S&P 500 and Nasdaq all rise as tech stocks drive rebound; gold and oil surge
-URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-wall-street-climbed-0-3-dow-sp-500-and-nasdaq-all-rise-as-tech-stocks-drive-rebound-gold-and-oil-surge/articleshow/124765682.cms
-Time Published: 2025-10-23T15:57:31Z
-Full Content:
-US stock market today saw gains as investors reacted to rising oil prices and fresh earnings reports. Dow, S&P 500, and Nasdaq all moved higher. Oil jumped more than 5%, boosting energy stocks. Tesla and IBM disappointed in earnings, while quantum computing companies surged. Tech stocks were mixed. Traders focused on energy, tech, and emerging sectors. Overall, selective gains drove the market. Investors remain cautious amid volatility and global uncertainties. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Mark Carney unveils immigration plan to attract workers hit by US visa fee hikes - Here’s what Canadians can expect in federal budget Foo Fighters set to rock Detroit with monumental Ford Field concert in August 2026 Benjamin Netanyahu would be arrested if he enters Canada, affirms Canadian Prime Minister Mark Carney to enforce ICC arrest warrant Tony Wakeham causes major upset in Newfoundland and Labrador; more on former basketball coach, PC Party’s win and what it means for the region Verijet files chapter 7 bankruptcy after CEO Kane’s death; private jet operator collapses amid $38.7M liabilities and legal turmoil Mario Pelchat partner Claire Lemaître-Auger: fashion designer and vineyard co-owner celebrates 30 years together Katy Perry and Justin Trudeau spotted kissing on yacht in California, confirming romance rumors Philippines President promises tents, aid for earthquake survivors as death toll reaches 72 in Cebu Province Alberta teachers say ‘no’ to government’s latest contract, set to strike on Monday, disrupting classes for 700,000+ students Could your next pack of cigarettes be funding criminal networks? Inside Western Canada’s billion-dollar contraband trade Canada bars Irish rap band Kneecap from entry over alleged terrorism support Bank of Canada cuts interest rate to 2.5% as GDP shrinks, job market softens Beverly Thomson, veteran CTV journalist and Canada AM co-host, dies at 61 India will decide own policies, not Trump: Shashi Tharoor J&K Rajya Sabha polls: Congress-NC rift widens; PDP backs Pappu Yadav invites Bihar CM to join Mahagathbandhan NY erupts in protest over ICE raids Tripura bandh: Widespread protests erupt over illegal infiltration Youth take to water skiing on Dal Lake Maurya's Goddess Lakshmi comment sparks uproar, Acharya Pramod reacts Mahagathbandhan unites behind Tejashwi Yadav as CM face Delhi encounter: 4 most-wanted Bihar gangsters gunned down ‘India will cut Russian oil…’: Trump's big claim India will decide own policies, not Trump: Shashi Tharoor J&K Rajya Sabha polls: Congress-NC rift widens; PDP backs Pappu Yadav invites Bihar CM to join Mahagathbandhan NY erupts in protest over ICE raids Tripura bandh: Widespread protests erupt over illegal infiltration Youth take to water skiing on Dal Lake Maurya's Goddess Lakshmi comment sparks uproar, Acharya Pramod reacts Mahagathbandhan unites behind Tejashwi Yadav as CM face Delhi encounter: 4 most-wanted Bihar gangsters gunned down ‘India will cut Russian oil…’: Trump's big claim Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Commodities Top Slideshow Private Companies Top Prime Articles Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Bernstein Reaffirms Its “Buy” Rating on Amazon.com (AMZN) with $250 Price Target
-URL: https://finance.yahoo.com/news/bernstein-reaffirms-buy-rating-amazon-092549820.html
-Time Published: 2025-10-23T09:25:49Z
-Description: With significant hedge fund interest, Amazon.com, Inc. (NASDAQ:AMZN) secures a spot on our list of the 13 best Fortune 500 stocks to invest in now. On...
---------------------------------------------------
-
-Title: Brasada Capital Third Quarter Of 2025 Quarterly Update
-URL: https://seekingalpha.com/article/4832202-brasada-capital-third-quarter-of-2025-quarterly-update
-Time Published: 2025-10-23T03:45:00Z
-Description: Brasada Capital Management analyzes Q3 market resilience, AI-driven capex risks, and selective equity strategies. Explore their cautious outlook and positioning.
 --------------------------------------------------

@@ -1,5 +1,11 @@
 List of news related to Alphabet Inc stock price GOOG:
 
+Title: Stock market today: S&P 500 crosses 6,800 mark, joining Dow, Nasdaq in fresh records as US-China trade deal hopes run high
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-crosses-6800-mark-joining-dow-nasdaq-in-fresh-records-as-us-china-trade-deal-hopes-run-high-200037582.html
+Time Published: 2025-10-27T20:02:19Z
+Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as Trump stokes hopes a US-China trade deal is near
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-trump-stokes-hopes-a-us-china-trade-deal-is-near-225050765.html
 Time Published: 2025-10-26T22:50:50Z
@@ -10,16 +16,4 @@ Title: Stock market today: Dow, S&P 500, Nasdaq head toward records as Trump sto
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-head-toward-records-as-trump-stokes-hopes-us-china-trade-deal-is-near-225050682.html
 Time Published: 2025-10-26T22:50:50Z
 Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
---------------------------------------------------
-
-Title: Stacy Rasgon Says Companies Like Alphabet (GOOG) Already Getting Returns on AI Investment – ‘They’re Not Idiots’
-URL: https://finance.yahoo.com/news/stacy-rasgon-says-companies-alphabet-130948445.html
-Time Published: 2025-10-23T13:09:48Z
-Description: We recently published Top 10 Trending Stocks Everyone’s Watching in Q4. Alphabet Inc. (NASDAQ:GOOG) is one of the trending stocks everyone’s watching. Stacy ...
---------------------------------------------------
-
-Title: Bretton Fund Q3 2025 Shareholder Letter
-URL: https://seekingalpha.com/article/4832176-bretton-fund-q3-2025-shareholder-letter
-Time Published: 2025-10-23T02:00:00Z
-Description: Alphabet’s antitrust win and UnitedHealth’s rebound helped Bretton Fund outperform with 8.21% in Q3. Read the full shareholder update from Bretton Fund.
 --------------------------------------------------

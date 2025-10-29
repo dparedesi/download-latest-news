@@ -5,27 +5,3 @@ URL: https://finance.yahoo.com/news/cantor-fitzgerald-reiterates-buy-rating-1125
 Time Published: 2025-10-26T11:25:16Z
 Description: ​Elevance Health, Inc. (NYSE:ELV) is one of the Most Undervalued Long Term Stocks to Buy Right Now. On October 21, Sarah James from Cantor Fitzgerald...
 --------------------------------------------------
-
-Title: Earnings live: Intel stock surges, Ford rises after-hours, Deckers drops
-URL: https://finance.yahoo.com/news/live/earnings-live-intel-stock-surges-ford-rises-after-hours-deckers-drops-203435980.html
-Time Published: 2025-10-23T20:34:35Z
-Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
---------------------------------------------------
-
-Title: Molina Healthcare stock falls as medical costs spike, Obamacare worries mount
-URL: https://finance.yahoo.com/news/molina-healthcare-stock-falls-as-medical-costs-spike-obamacare-worries-mount-171521043.html
-Time Published: 2025-10-23T17:15:21Z
-Description: Molina Healthcare stock fell by more than 20% on Thursday after the company posted a miss on earnings per share and slashed its guidance for the fourth...
---------------------------------------------------
-
-Title: Stocks Climb on Strength in Energy Producers
-URL: https://www.barchart.com/story/news/35638054/stocks-climb-on-strength-in-energy-producers
-Time Published: 2025-10-23T14:05:02Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.32%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Earnings live: Tesla stock falls after earnings miss, American Airlines climbs, IBM and Hasbro sink
-URL: https://finance.yahoo.com/news/live/earnings-live-tesla-stock-falls-after-earnings-miss-american-airlines-climbs-ibm-and-hasbro-sink-120953739.html
-Time Published: 2025-10-23T12:09:53Z
-Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
---------------------------------------------------

@@ -1,5 +1,35 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Earnings To Watch: Markel Group (MKL) Reports Q3 Results Tomorrow
+URL: https://finance.yahoo.com/news/earnings-watch-markel-group-mkl-031916069.html
+Time Published: 2025-10-28T03:19:16Z
+Description: Specialty insurance company Markel Group (NYSE:MKL) will be reporting results this Wednesday after market hours. Here’s what investors should know.
+--------------------------------------------------
+
+Title: What To Expect From Watsco’s (WSO) Q3 Earnings
+URL: https://finance.yahoo.com/news/expect-watsco-wso-q3-earnings-031407032.html
+Time Published: 2025-10-28T03:14:07Z
+Description: Equipment distributor Watsco (NYSE:WSO) will be reporting earnings this Wednesday before the bell. Here’s what to expect.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq eye fresh records as earnings roll in, Trump seals trade deals
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-eye-fresh-records-as-earnings-roll-in-trump-seals-trade-deals-224625592.html
+Time Published: 2025-10-27T22:46:25Z
+Description: Eyes are on Trump's visit to Japan in the wait for his meeting with China's Xi, as the flood of earnings continues to roll in.
+--------------------------------------------------
+
+Title: Stock market today: S&P 500 crosses 6,800 mark, joining Dow, Nasdaq in fresh records as US-China trade deal hopes run high
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-crosses-6800-mark-joining-dow-nasdaq-in-fresh-records-as-us-china-trade-deal-hopes-run-high-200037582.html
+Time Published: 2025-10-27T20:02:19Z
+Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
+--------------------------------------------------
+
+Title: TD Cowen Keeps Buy Rating on Microsoft (MSFT) Ahead of Q1 Report
+URL: https://finance.yahoo.com/news/td-cowen-keeps-buy-rating-155412001.html
+Time Published: 2025-10-27T15:54:12Z
+Description: Microsoft Corporation (NASDAQ:MSFT) is one of the 10 Best Dow Stocks to Buy According to Wall Street Analysts. On October 24, TD Cowen reaffirmed its Buy...
+--------------------------------------------------
+
 Title: Microsoft upgraded, Harley-Davidson downgraded: Wall Street's top analyst calls
 URL: https://finance.yahoo.com/news/microsoft-upgraded-harley-davidson-downgraded-134416753.html
 Time Published: 2025-10-27T13:44:16Z
@@ -18,14 +48,26 @@ Time Published: 2025-10-27T11:51:09Z
 Description: The upgrade means nearly 99% of analysts tracked by Bloomberg currently recommend buying the stock.  Of the 73 who follow Microsoft, the only holdout is...
 --------------------------------------------------
 
+Title: Option Volatility And Earnings Report For October 27 - 31
+URL: https://www.barchart.com/story/news/35694540/option-volatility-and-earnings-report-for-october-27-31
+Time Published: 2025-10-27T11:00:02Z
+Description: Earnings are going to be front and center of everyone’s attention this week, with five of the Mag Seven reporting.
+--------------------------------------------------
+
+Title: Stocks Set to Open Sharply Higher on U.S.-China Trade Optimism, Big Tech Earnings and Fed Meeting in Focus
+URL: https://www.barchart.com/story/news/35692513/stocks-set-to-open-sharply-higher-on-u-s-china-trade-optimism-big-tech-earnings-and-fed-meeting-in-focus
+Time Published: 2025-10-27T10:12:29Z
+Description: December S&P 500 E-Mini futures (ESZ25) are up +0.91%, and December Nasdaq 100 E-Mini futures (NQZ25) are up +1.28% this morning, pointing to a sharply...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures climb with Fed, Big Tech earnings, Trump-Xi meeting ahead
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-with-fed-big-tech-earnings-trump-xi-meeting-ahead-225050011.html
 Time Published: 2025-10-26T22:50:50Z
 Description: Futures on the major gauges rose overnight Sunday ahead of a packed week of economic events.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as US-China talks tee up trade deal for Trump
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-us-china-talks-tee-up-trade-deal-for-trump-225050786.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as Trump stokes hopes a US-China trade deal is near
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-trump-stokes-hopes-a-us-china-trade-deal-is-near-225050765.html
 Time Published: 2025-10-26T22:50:50Z
 Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
 --------------------------------------------------
@@ -36,8 +78,8 @@ Time Published: 2025-10-26T22:50:50Z
 Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as Trump stokes hopes a US-China trade deal is near
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-trump-stokes-hopes-a-us-china-trade-deal-is-near-225050765.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as US-China talks tee up trade deal for Trump
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-us-china-talks-tee-up-trade-deal-for-trump-225050786.html
 Time Published: 2025-10-26T22:50:50Z
 Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
 --------------------------------------------------
@@ -115,22 +157,4 @@ Title: This Stock Could Be 2026’s Dark Horse AI Winner — Here’s Why
 URL: https://www.barchart.com/story/news/35660589/this-stock-could-be-2026s-dark-horse-ai-winner-heres-why
 Time Published: 2025-10-24T13:22:24Z
 Description: Intel's Q3 results showed signs of recovery.
---------------------------------------------------
-
-Title: Analysts Remain Bullish on Microsoft Corporation (MSFT), Citing Strong AI and Cloud Momentum
-URL: https://finance.yahoo.com/news/analysts-remain-bullish-microsoft-corporation-092554030.html
-Time Published: 2025-10-23T09:25:54Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the 13 best Fortune 500 stocks to invest in now. As of October 22, 2025, the most recent analyst sentiment on...
---------------------------------------------------
-
-Title: Brasada Capital Third Quarter Of 2025 Quarterly Update
-URL: https://seekingalpha.com/article/4832202-brasada-capital-third-quarter-of-2025-quarterly-update
-Time Published: 2025-10-23T03:45:00Z
-Description: Brasada Capital Management analyzes Q3 market resilience, AI-driven capex risks, and selective equity strategies. Explore their cautious outlook and positioning.
---------------------------------------------------
-
-Title: Bretton Fund Q3 2025 Shareholder Letter
-URL: https://seekingalpha.com/article/4832176-bretton-fund-q3-2025-shareholder-letter
-Time Published: 2025-10-23T02:00:00Z
-Description: Alphabet’s antitrust win and UnitedHealth’s rebound helped Bretton Fund outperform with 8.21% in Q3. Read the full shareholder update from Bretton Fund.
 --------------------------------------------------

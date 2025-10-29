@@ -13,10 +13,22 @@ Time Published: 2025-10-27T15:37:48Z
 Description: Advanced Micro Devices has announced a strategic partnership with OpenAI aimed at strengthening its position in the artificial intelligence computing market, where competitor Nvidia has maintained dominant market share. The collaboration focuses on improving …
 --------------------------------------------------
 
+Title: As Takeover Rumors Swirl, Should You Buy DigitalOcean Stock?
+URL: https://www.barchart.com/story/news/35698417/as-takeover-rumors-swirl-should-you-buy-digitalocean-stock
+Time Published: 2025-10-27T13:00:03Z
+Description: Rumor has it that DigitalOcean is once again on the takeover radar. Is now the time to keep a close eye on DOCN stock?
+--------------------------------------------------
+
 Title: AMD Stock Just Got a New Street-High Price Target. Should You Buy AMD Stock Now?
 URL: https://www.barchart.com/story/news/35698425/amd-stock-just-got-a-new-street-high-price-target-should-you-buy-amd-stock-now
 Time Published: 2025-10-27T13:00:03Z
 Description: Chipmaker AMD received a Street-high price target after its OpenAI deal.
+--------------------------------------------------
+
+Title: Should You Buy the Dip in Astera Labs Stock?
+URL: https://www.barchart.com/story/news/35698413/should-you-buy-the-dip-in-astera-labs-stock
+Time Published: 2025-10-27T13:00:02Z
+Description: Astera Labs stock dropped after AMD announced a partnership with Oracle.
 --------------------------------------------------
 
 Title: AMD the next Nvidia in making? AMD stock rises to all-time high – what is powering AMD rally; here’s the latest AMD stock prediction
@@ -67,16 +79,4 @@ Title: See How Big Money Flows Made AMD Shares Rise Yet Again
 URL: https://finance.yahoo.com/news/see-big-money-flows-made-130141070.html
 Time Published: 2025-10-24T13:01:41Z
 Description: Advanced Micro Devices, Inc. (AMD) is up 2,139% since first Big Money outlier inflow signal in 1992.
---------------------------------------------------
-
-Title: Broadcom Stock Could Soon Generate $100 Billion in AI Revenue Each Year. Should You Buy AVGO Now?
-URL: https://www.barchart.com/story/news/35644995/broadcom-stock-could-soon-generate-100-billion-in-ai-revenue-each-year-should-you-buy-avgo-now
-Time Published: 2025-10-23T19:52:03Z
-Description: J.P. Morgan says current estimates are not generous enough based on the AI revenue potential.
---------------------------------------------------
-
-Title: Gold just stumbled. A JPMorgan strategist says the metal could double in value.
-URL: https://www.marketwatch.com/story/gold-just-stumbled-a-jpmorgan-strategist-says-the-metal-could-double-in-value-c97eb6fd
-Time Published: 2025-10-23T13:34:00Z
-Description: JPMorgan believes gold will increasingly become an investor favored hedge against equities, to the tune of 110%.
 --------------------------------------------------

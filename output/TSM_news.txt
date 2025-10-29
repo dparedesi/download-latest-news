@@ -5,21 +5,3 @@ URL: https://www.barchart.com/story/news/35666187/intel-stock-pops-on-estimate-b
 Time Published: 2025-10-24T18:33:29Z
 Description: Intel stock inches higher on better-than-expected Q3 financial results. Options data suggests INTC shares could push higher from here through the end of 2025...
 --------------------------------------------------
-
-Title: Intel Q3 earnings set to test stock's rally amid Nvidia, US government investments
-URL: https://finance.yahoo.com/news/intel-q3-earnings-set-to-test-stocks-rally-amid-nvidia-us-government-investments-150922622.html
-Time Published: 2025-10-23T15:09:22Z
-Description: Wall Street is looking for any signals on the future of Intel's struggling manufacturing business.
---------------------------------------------------
-
-Title: Should You Buy the Dip in Tesla Stock Today?
-URL: https://www.barchart.com/story/news/35638740/should-you-buy-the-dip-in-tesla-stock-today
-Time Published: 2025-10-23T14:37:37Z
-Description: Tesla stock is slipping today after the company reported mixed earnings for Q3 2025. Does it make sense to buy the dip in TSLA stock?
---------------------------------------------------
-
-Title: Gold just stumbled. A JPMorgan strategist says the metal could double in value.
-URL: https://www.marketwatch.com/story/gold-just-stumbled-a-jpmorgan-strategist-says-the-metal-could-double-in-value-c97eb6fd
-Time Published: 2025-10-23T13:34:00Z
-Description: JPMorgan believes gold will increasingly become an investor favored hedge against equities, to the tune of 110%.
---------------------------------------------------
