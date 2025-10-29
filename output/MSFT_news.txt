@@ -13,16 +13,16 @@ Time Published: 2025-10-28T14:46:37Z
 Description: Microsoft Corporation (NASDAQ:MSFT) is one of the Most Promising AI Stocks to Buy Right Now. On October 20, BofA analyst Brad Sills maintained a “Buy” rating...
 --------------------------------------------------
 
-Title: Microsoft, OpenAI agree to new for-profit deal. Windows maker gets 27% stake.
-URL: https://finance.yahoo.com/news/microsoft-openai-agree-to-new-for-profit-deal-windows-maker-gets-27-stake-142521183.html
-Time Published: 2025-10-28T14:25:21Z
-Description: Microsoft and OpenAI on Tuesday said they have reached a new agreement that lets the ChatGPT developer move forward with its plans to transform into a for...
---------------------------------------------------
-
 Title: Microsoft and OpenAI agree to a new for-profit deal. Windows maker gets 27% stake
 URL: https://finance.yahoo.com/news/microsoft-and-openai-agree-to-a-new-for-profit-deal-windows-maker-gets-27-stake-142521650.html
 Time Published: 2025-10-28T14:25:21Z
 Description: Microsoft and OpenAI on Tuesday said they have come to terms for a new agreement that lets the ChatGPT developer move forward with its plans to transform...
+--------------------------------------------------
+
+Title: Microsoft, OpenAI agree to new for-profit deal. Windows maker gets 27% stake.
+URL: https://finance.yahoo.com/news/microsoft-openai-agree-to-new-for-profit-deal-windows-maker-gets-27-stake-142521183.html
+Time Published: 2025-10-28T14:25:21Z
+Description: Microsoft and OpenAI on Tuesday said they have reached a new agreement that lets the ChatGPT developer move forward with its plans to transform into a for...
 --------------------------------------------------
 
 Title: Invest $100K In These Funds, Beat Inflation For A Lifetime
@@ -117,14 +117,14 @@ Time Published: 2025-10-26T22:50:50Z
 Description: Futures on the major gauges rose overnight Sunday ahead of a packed week of economic events.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as US-China talks tee up trade deal for Trump
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-us-china-talks-tee-up-trade-deal-for-trump-225050786.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as Trump stokes hopes a US-China trade deal is near
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-trump-stokes-hopes-a-us-china-trade-deal-is-near-225050765.html
 Time Published: 2025-10-26T22:50:50Z
 Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as Trump stokes hopes a US-China trade deal is near
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-trump-stokes-hopes-a-us-china-trade-deal-is-near-225050765.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as US-China talks tee up trade deal for Trump
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-us-china-talks-tee-up-trade-deal-for-trump-225050786.html
 Time Published: 2025-10-26T22:50:50Z
 Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
 --------------------------------------------------
