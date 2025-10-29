@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Nvidia Investors Look to DC ‘Super Bowl’ to Juice Sluggish Stock
+URL: https://finance.yahoo.com/news/nvidia-investors-look-dc-super-100956221.html
+Time Published: 2025-10-28T10:09:56Z
+Description: Now Wall Street is looking for some DC magic to get the shares running again.  The chip giant’s three-day artificial intelligence conference called “GTC...
+--------------------------------------------------
+
 Title: Stock market today: S&P 500 crosses 6,800 mark, joining Dow, Nasdaq in fresh records as US-China trade deal hopes run high
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-crosses-6800-mark-joining-dow-nasdaq-in-fresh-records-as-us-china-trade-deal-hopes-run-high-200037582.html
 Time Published: 2025-10-27T20:02:19Z

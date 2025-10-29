@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: AMD Stock at Record Highs: Buy, Sell, or Hold before Q3 Earnings?
+URL: https://www.barchart.com/story/news/35709247/amd-stock-at-record-highs-buy-sell-or-hold-before-q3-earnings
+Time Published: 2025-10-27T20:20:15Z
+Description: AMD stock has hit a record high ahead of the Q3 earnings report. AMD is well-positioned for a robust rebound in its AI data center business in Q3.
+--------------------------------------------------
+
 Title: Qualcomm Is Going Head to Head with Nvidia on New AI Chips. Should You Buy QCOM Stock Here?
 URL: https://www.barchart.com/story/news/35707876/qualcomm-is-going-head-to-head-with-nvidia-on-new-ai-chips-should-you-buy-qcom-stock-here
 Time Published: 2025-10-27T19:31:52Z
@@ -19,16 +25,16 @@ Time Published: 2025-10-27T15:37:48Z
 Description: Advanced Micro Devices has announced a strategic partnership with OpenAI aimed at strengthening its position in the artificial intelligence computing market, where competitor Nvidia has maintained dominant market share. The collaboration focuses on improving …
 --------------------------------------------------
 
-Title: As Takeover Rumors Swirl, Should You Buy DigitalOcean Stock?
-URL: https://www.barchart.com/story/news/35698417/as-takeover-rumors-swirl-should-you-buy-digitalocean-stock
-Time Published: 2025-10-27T13:00:03Z
-Description: Rumor has it that DigitalOcean is once again on the takeover radar. Is now the time to keep a close eye on DOCN stock?
---------------------------------------------------
-
 Title: AMD Stock Just Got a New Street-High Price Target. Should You Buy AMD Stock Now?
 URL: https://www.barchart.com/story/news/35698425/amd-stock-just-got-a-new-street-high-price-target-should-you-buy-amd-stock-now
 Time Published: 2025-10-27T13:00:03Z
 Description: Chipmaker AMD received a Street-high price target after its OpenAI deal.
+--------------------------------------------------
+
+Title: As Takeover Rumors Swirl, Should You Buy DigitalOcean Stock?
+URL: https://www.barchart.com/story/news/35698417/as-takeover-rumors-swirl-should-you-buy-digitalocean-stock
+Time Published: 2025-10-27T13:00:03Z
+Description: Rumor has it that DigitalOcean is once again on the takeover radar. Is now the time to keep a close eye on DOCN stock?
 --------------------------------------------------
 
 Title: Should You Buy the Dip in Astera Labs Stock?
