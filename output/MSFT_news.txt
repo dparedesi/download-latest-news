@@ -24,6 +24,12 @@ Time Published: 2025-10-27T20:02:19Z
 Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
 --------------------------------------------------
 
+Title: Amazon Is the Worst-Performing ‘Mag 7’ Stock in 2025: Can Q3 Earnings Turn the Tide?
+URL: https://www.barchart.com/story/news/35708157/amazon-is-the-worst-performing-mag-7-stock-in-2025-can-q3-earnings-turn-the-tide
+Time Published: 2025-10-27T19:56:12Z
+Description: Amazon stock is barely in the green this year and is underperforming badly. Can the Q3 earnings help revive sentiments?
+--------------------------------------------------
+
 Title: TD Cowen Keeps Buy Rating on Microsoft (MSFT) Ahead of Q1 Report
 URL: https://finance.yahoo.com/news/td-cowen-keeps-buy-rating-155412001.html
 Time Published: 2025-10-27T15:54:12Z
@@ -72,16 +78,16 @@ Time Published: 2025-10-26T22:50:50Z
 Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq head toward records as Trump stokes hopes US-China trade deal is near
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-head-toward-records-as-trump-stokes-hopes-us-china-trade-deal-is-near-225050682.html
-Time Published: 2025-10-26T22:50:50Z
-Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as US-China talks tee up trade deal for Trump
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-us-china-talks-tee-up-trade-deal-for-trump-225050786.html
 Time Published: 2025-10-26T22:50:50Z
 Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq head toward records as Trump stokes hopes US-China trade deal is near
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-head-toward-records-as-trump-stokes-hopes-us-china-trade-deal-is-near-225050682.html
+Time Published: 2025-10-26T22:50:50Z
+Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
 --------------------------------------------------
 
 Title: Earnings, Trade War and Other Can't Miss Items this Week
