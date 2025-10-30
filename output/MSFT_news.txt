@@ -1,5 +1,14 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: CAPE Valuations: Does Nvidia Overstate Its Ominous Warning?
+URL: https://realinvestmentadvice.com/resources/blog/cape-valuation-does-nvidia-overstate-its-ominous-warning/
+Time Published: 2025-10-29T09:23:00Z
+Description: As equity valuations approach the record highs of 1999, investors are growing anxious. This unease is partly driven by the media issuing grim warnings, often based in part on CAPE valuations. Consider the following headlines and their summaries.
+
+
+<ul><!-- wp…
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq notch fresh records as Nvidia soars ahead of Fed rate decision
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-notch-fresh-records-as-nvidia-soars-ahead-of-fed-rate-decision-200057996.html
 Time Published: 2025-10-28T20:00:57Z
@@ -62,16 +71,16 @@ Time Published: 2025-10-28T14:46:37Z
 Description: Microsoft Corporation (NASDAQ:MSFT) is one of the Most Promising AI Stocks to Buy Right Now. On October 20, BofA analyst Brad Sills maintained a “Buy” rating...
 --------------------------------------------------
 
-Title: Microsoft and OpenAI agree to a new for-profit deal. Windows maker gets 27% stake
-URL: https://finance.yahoo.com/news/microsoft-and-openai-agree-to-a-new-for-profit-deal-windows-maker-gets-27-stake-142521650.html
-Time Published: 2025-10-28T14:25:21Z
-Description: Microsoft and OpenAI on Tuesday said they have come to terms for a new agreement that lets the ChatGPT developer move forward with its plans to transform...
---------------------------------------------------
-
 Title: Microsoft, OpenAI agree to new for-profit deal. Windows maker gets 27% stake.
 URL: https://finance.yahoo.com/news/microsoft-openai-agree-to-new-for-profit-deal-windows-maker-gets-27-stake-142521183.html
 Time Published: 2025-10-28T14:25:21Z
 Description: Microsoft and OpenAI on Tuesday said they have reached a new agreement that lets the ChatGPT developer move forward with its plans to transform into a for...
+--------------------------------------------------
+
+Title: Microsoft and OpenAI agree to a new for-profit deal. Windows maker gets 27% stake
+URL: https://finance.yahoo.com/news/microsoft-and-openai-agree-to-a-new-for-profit-deal-windows-maker-gets-27-stake-142521650.html
+Time Published: 2025-10-28T14:25:21Z
+Description: Microsoft and OpenAI on Tuesday said they have come to terms for a new agreement that lets the ChatGPT developer move forward with its plans to transform...
 --------------------------------------------------
 
 Title: Stocks See Support Ahead of Wednesday's FOMC Decision
@@ -178,16 +187,16 @@ Time Published: 2025-10-26T22:50:50Z
 Description: Futures on the major gauges rose overnight Sunday ahead of a packed week of economic events.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq head toward records as Trump stokes hopes US-China trade deal is near
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-head-toward-records-as-trump-stokes-hopes-us-china-trade-deal-is-near-225050682.html
-Time Published: 2025-10-26T22:50:50Z
-Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as Trump stokes hopes a US-China trade deal is near
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-trump-stokes-hopes-a-us-china-trade-deal-is-near-225050765.html
 Time Published: 2025-10-26T22:50:50Z
 Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq head toward records as Trump stokes hopes US-China trade deal is near
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-head-toward-records-as-trump-stokes-hopes-us-china-trade-deal-is-near-225050682.html
+Time Published: 2025-10-26T22:50:50Z
+Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
 --------------------------------------------------
 
 Title: Earnings, Trade War and Other Can't Miss Items this Week
