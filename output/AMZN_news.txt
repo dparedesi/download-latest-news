@@ -1,5 +1,24 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq notch fresh records as Nvidia soars ahead of Fed rate decision
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-notch-fresh-records-as-nvidia-soars-ahead-of-fed-rate-decision-200057996.html
+Time Published: 2025-10-28T20:00:57Z
+Description: Wall Street is sifting through the latest earnings as the Fed meeting kicks off.
+--------------------------------------------------
+
+Title: Here's How Much Traders Expect Amazon Stock To Move After Earnings
+URL: https://www.investopedia.com/how-much-traders-expect-amazon-stock-to-move-after-earnings-q3-2025-11838456
+Time Published: 2025-10-28T19:28:36Z
+Full Content:
+Amazon (AMZN) is slated to report third-quarter earnings after the closing bell on Thursday, and some traders are betting the results can lift the stock, the laggard of the Magnificent Seven so far this year, to a fresh record. Amazon stock is expected to move about 6.2% in either direction by the end of the week, according to recent options pricing data. A move of that magnitude, based on Monday's closing price, would put Amazon shares at about $243.50, an all-time high, or $215. Amazon's $2.4 trillion market capitalization makes its stock one of the most impactful in the U.S. equity market. A big share price move after Thursday's results would have a larger effect on the major indexes than nearly every other stock. Amazon stock has moved an average of 4.7% following its four most recent earnings reports. Shares slumped more than 8% after the company in July reported cloud revenue growth that disappointed Wall Street after strong showings from competitors Microsoft (MSFT) and Alphabet (GOOG). The last time Amazon stock rose following an earnings report was this time last year, when the company topped sales and earnings estimates on strong cloud and advertising growth. Amazon is the worst-performing stock in the Magnificent Seven so far this year, with the company’s outsized tariff exposure weighing on shares. The stock is up just 5% since the start of the year. Amazon’s retail business is contending with increased tariff costs and increasingly squeezed consumers, while its cloud computing unit is making massive data center investments to meet demand for AI workloads. As such, cost savings will be top of mind for investors during Thursday’s earnings call with executives. Amazon on Tuesday announced it would cut 14,000 corporate roles, reportedly part of a larger downsizing that could see the company slash up to 30,000 office jobs, nearly 10% of its white collar workforce. And according to a recent New York Times report, some executives expect warehouse robotics to keep the company from hiring as many as 600,000 workers in the coming years. Cloud growth and capital expenditures will also be in focus. Amazon’s infrastructure investments totaled more than $31 billion in the second quarter, about 20% more than Wall Street was expecting. Chief financial officer Brian Olsavsky forecast the second quarter's spending would be "reasonably representative" of capex spending for the remainder of the year. Update—October 29, 2025: This story has been updated with the latest options and stock prices.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq eye fresh records Nvidia provides lift ahead of earnings, Fed tests
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-eye-fresh-records-nvidia-provides-lift-ahead-of-earnings-fed-tests-133435567.html
+Time Published: 2025-10-28T19:28:24Z
+Description: Wall Street is sifting through the latest earnings as the Fed meeting kicks off.
+--------------------------------------------------
+
 Title: Microsoft, OpenAI agree to new for-profit deal. Windows maker gets 27% stake.
 URL: https://finance.yahoo.com/news/microsoft-openai-agree-to-new-for-profit-deal-windows-maker-gets-27-stake-142521183.html
 Time Published: 2025-10-28T14:25:21Z
@@ -67,16 +86,16 @@ Time Published: 2025-10-26T22:50:50Z
 Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as Trump stokes hopes a US-China trade deal is near
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-trump-stokes-hopes-a-us-china-trade-deal-is-near-225050765.html
-Time Published: 2025-10-26T22:50:50Z
-Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq head toward records as Trump stokes hopes US-China trade deal is near
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-head-toward-records-as-trump-stokes-hopes-us-china-trade-deal-is-near-225050682.html
 Time Published: 2025-10-26T22:50:50Z
 Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as Trump stokes hopes a US-China trade deal is near
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-trump-stokes-hopes-a-us-china-trade-deal-is-near-225050765.html
+Time Published: 2025-10-26T22:50:50Z
+Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
 --------------------------------------------------
 
 Title: Earnings, Trade War and Other Can't Miss Items this Week
@@ -108,22 +127,4 @@ URL: https://www.investopedia.com/wall-street-is-worried-about-an-ai-bubble-the-
 Time Published: 2025-10-25T10:00:00Z
 Full Content:
 AI boom or AI bubble? That's been one of the most pressing debates on Wall Street of late. Some investors see echoes of the Dotcom Bubble in Nvidia's (NVDA) and OpenAI's recent circular dealmaking bonanza and soaring stock prices. Others note the AI boom is being financed by hugely profitable tech companies, whose valuations aren't nearly as high as their Dotcom peers. As Big Tech's AI spending has ballooned, so have the ranks of companies claiming a piece of the pie. The AI buildout has turbocharged the sales of unsexy, slow-and-steady businesses and transformed their stocks into buzzy growth names. It has also juiced the stocks of nascent companies that are years from self-sufficiency, creating pockets of exceptional froth within a pricey AI ecosystem. The stocks that gain the most during sharp market rallies are often the stocks that, when sentiment turns negative, have the farthest to fall. That is especially true of young companies that, without substantial sales, rely on debt and equity markets to fund their growth. To understand where the AI trade has become most bubbly, Investopedia identified 75 companies regularly referred to as "AI beneficiaries" by Wall Street analysts, and sorted each into one of five categories: cloud computing providers; semiconductor makers; software companies; power providers; and networking, storage, and cooling equipment makers. A few companies, like Microsoft (MSFT), fit in multiple categories, in which case we've placed them in the one that feels most central to their AI business today. At present, Microsoft's cloud revenue is the best metric for assessing its AI business, so it's classified as a cloud provider instead of a software company. All five categories have seen their valuations rise over the past few years, but none more than power providers. The median price-to-sales (P/S) ratio of our power basket in 2025 is 4.53, nearly three times the median in 2023 (1.52). The next largest P/S expansions over that period were in networking, storage and cooling (4.45 in 2025 vs. 2.09 in 2023) and cloud providers (10.5 vs 6.34). (Cloud providers have a higher P/S ratio in absolute terms because the category is composed of tech stocks that have historically commanded higher valuations. This is why we've compared change over the past three years rather than absolute P/S ratios.) Power also has more unprofitable companies than any other category—so many in fact that we’re using price-to-sales as our benchmark valuation metric rather than the more common price-to-earnings ratio. Five of the 14 companies in our power basket are expected to report a loss this calendar year. No other category has more than one unprofitable company. The race to build the data centers that train and run AI models has set off an equally frenzied race to generate and transmit the vast amounts of electricity those data centers consume. Nuclear energy has attracted interest from tech companies for its efficiency and small carbon footprint. Microsoft, Amazon (AMZN), Alphabet (GOOG), and Meta (META) have all signed multi-billion dollar deals with nuclear power plant operators like Constellation Energy Corp. (CEG) and Vistra (VST), both of which have seen their stocks surge over the past two years. But in their rush to bring reliable sources of electricity online, tech companies and investors have also thrown money at nuclear tech upstarts, some without operational generators or regulatory approvals. Shares of small modular reactor maker NuScale Power (SMR) doubled in value between January and mid-October. At the stock’s peak earlier this month, the company, which reported $37 million in revenue last year and isn’t expected to be profitable until 2029, was valued at more than $15 billion. Meanwhile, nuclear tech startup Oklo’s (OKLO) market capitalization peaked at $25.7 billion earlier this month, a 720% increase from the start of the year. Oklo is the only company of the 75 we’ve included in our analysis that is expected to report no revenue this year. Analysts forecast it will turn a profit for the first time in 2030. Though it’s not just nuclear businesses that have achieved rich valuations. Fermi (FRMI), the developer of a massive AI data center campus in the Texas Panhandle, was founded in January and went public in early October at a valuation of more than $19 billion. Fermi plans to build 11 gigawatts of computing capacity powered by on-site nuclear, natural gas, wind, and solar generators. It expects to break ground on its first data center in March, and hopes to have about 1 GW of capacity online by the end of 2026. AI power stocks just finished a volatile week that may underscore the extent to which their prices are driven by fickle sentiment. Constellation Energy and Vistra both shed more than 10% of their value in the first half of the week, as did GE Vernova (GEV), whose turbines are in high demand from data center clients seeking to draw on the South’s ample supply of natural gas. All three finished the week little changed. The upstarts were hit even harder. NuScale, Oklo, and Fermi all lost more than 25% of their value between Monday's open and midday Wednesday. But they too rebounded, finishing the week with losses in the low- to mid-teens.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq surge to records as tame inflation cements Fed rate cut bets
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-surge-to-records-as-tame-inflation-cements-fed-rate-cut-bets-200014567.html
-Time Published: 2025-10-24T20:00:14Z
-Description: US stocks rose as Wall Street digested a CPI report showing cooler-than-expected inflation.
---------------------------------------------------
-
-Title: Buy, Sell or Hold GOOGL Stock Before Q3 Earnings? Here's What to Know
-URL: https://finance.yahoo.com/news/buy-sell-hold-googl-stock-173800424.html
-Time Published: 2025-10-24T17:38:00Z
-Description: Alphabet's AI-driven Search gains, cloud expansion, and easing regulatory pressure set the stage for its Q3 2025 earnings release.
---------------------------------------------------
-
-Title: JPMorgan Is Betting Big on Quantum Computing. 1 Top-Rated Stock to Buy Now.
-URL: https://www.barchart.com/story/news/35661658/jpmorgan-is-betting-big-on-quantum-computing-1-top-rated-stock-to-buy-now
-Time Published: 2025-10-24T14:07:01Z
-Description: While JPMorgan bets on quantum computing, Amazon is emerging as a top-rated quantum stock, capturing Wall Street’s bullish spotlight.
 --------------------------------------------------

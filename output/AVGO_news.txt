@@ -79,9 +79,3 @@ URL: https://www.barchart.com/story/news/35676813/can-this-ai-stock-dethrone-nvi
 Time Published: 2025-10-25T13:00:02Z
 Description: Broadcom is no longer a background player. It is in the spotlight.
 --------------------------------------------------
-
-Title: Stocks Rally to Record Highs on Favorable US CPI Report
-URL: https://www.barchart.com/story/news/35668522/stocks-rally-to-record-highs-on-favorable-us-cpi-report
-Time Published: 2025-10-24T20:46:20Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Friday rose by +0.79%, the Dow Jones Industrials Index ($DOWI ) (DIA ) rose by +1.01%, and the Nasdaq 100 Index ($IUXX ) ...
---------------------------------------------------
