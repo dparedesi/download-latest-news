@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Dear Apple Stock Fans, Mark Your Calendars for October 30
+URL: https://www.barchart.com/story/news/35778366/dear-apple-stock-fans-mark-your-calendars-for-october-30
+Time Published: 2025-10-29T23:45:01Z
+Description: Apple is set to report its fiscal Q4 earnings after the close on Wednesday.
+--------------------------------------------------
+
 Title: OpenAI Agreement Supports Microsoft’s (MSFT) Growth Prospects, Mizuho Says
 URL: https://finance.yahoo.com/news/openai-agreement-supports-microsoft-msft-164950810.html
 Time Published: 2025-10-29T16:49:50Z
@@ -220,28 +226,28 @@ Time Published: 2025-10-27T10:12:29Z
 Description: December S&P 500 E-Mini futures (ESZ25) are up +0.91%, and December Nasdaq 100 E-Mini futures (NQZ25) are up +1.28% this morning, pointing to a sharply...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as US-China talks tee up trade deal for Trump
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-us-china-talks-tee-up-trade-deal-for-trump-225050786.html
-Time Published: 2025-10-26T22:50:50Z
-Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures climb with Fed, Big Tech earnings, Trump-Xi meeting ahead
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-with-fed-big-tech-earnings-trump-xi-meeting-ahead-225050011.html
 Time Published: 2025-10-26T22:50:50Z
 Description: Futures on the major gauges rose overnight Sunday ahead of a packed week of economic events.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq head toward records as Trump stokes hopes US-China trade deal is near
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-head-toward-records-as-trump-stokes-hopes-us-china-trade-deal-is-near-225050682.html
-Time Published: 2025-10-26T22:50:50Z
-Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as Trump stokes hopes a US-China trade deal is near
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-trump-stokes-hopes-a-us-china-trade-deal-is-near-225050765.html
 Time Published: 2025-10-26T22:50:50Z
 Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as US-China talks tee up trade deal for Trump
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-us-china-talks-tee-up-trade-deal-for-trump-225050786.html
+Time Published: 2025-10-26T22:50:50Z
+Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq head toward records as Trump stokes hopes US-China trade deal is near
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-head-toward-records-as-trump-stokes-hopes-us-china-trade-deal-is-near-225050682.html
+Time Published: 2025-10-26T22:50:50Z
+Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
 --------------------------------------------------
 
 Title: Earnings, Trade War and Other Can't Miss Items this Week
