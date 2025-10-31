@@ -1,5 +1,17 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Analysts Stay Bullish on AMD as AI GPU Momentum Builds Ahead of Earnings
+URL: https://finance.yahoo.com/news/analysts-stay-bullish-amd-ai-161642876.html
+Time Published: 2025-10-30T16:16:42Z
+Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the AI Stocks Analysts are Tracking Closely. On October 27, UBS reiterated its “Buy” rating on the stock ...
+--------------------------------------------------
+
+Title: Rosenblatt Reiterates Buy on Advanced Micro Devices (AMD), Sets $250 PT Amid Growth Outlook
+URL: https://finance.yahoo.com/news/rosenblatt-reiterates-buy-advanced-micro-133108983.html
+Time Published: 2025-10-30T13:31:08Z
+Description: Advanced Micro Devices Inc. (NASDAQ:AMD) is one of the best NASDAQ growth stocks to buy for the next 5 years. On October 22, Rosenblatt Securities analyst...
+--------------------------------------------------
+
 Title: AMD’s 118% YTD Rally Is ‘Ludicrous’ According to This Analyst. Should You Still Buy AMD Stock?
 URL: https://www.barchart.com/story/news/35766685/amds-118-ytd-rally-is-ludicrous-according-to-this-analyst-should-you-still-buy-amd-stock
 Time Published: 2025-10-29T15:25:17Z
@@ -74,16 +86,16 @@ Time Published: 2025-10-27T15:37:48Z
 Description: Advanced Micro Devices has announced a strategic partnership with OpenAI aimed at strengthening its position in the artificial intelligence computing market, where competitor Nvidia has maintained dominant market share. The collaboration focuses on improving …
 --------------------------------------------------
 
-Title: As Takeover Rumors Swirl, Should You Buy DigitalOcean Stock?
-URL: https://www.barchart.com/story/news/35698417/as-takeover-rumors-swirl-should-you-buy-digitalocean-stock
-Time Published: 2025-10-27T13:00:03Z
-Description: Rumor has it that DigitalOcean is once again on the takeover radar. Is now the time to keep a close eye on DOCN stock?
---------------------------------------------------
-
 Title: AMD Stock Just Got a New Street-High Price Target. Should You Buy AMD Stock Now?
 URL: https://www.barchart.com/story/news/35698425/amd-stock-just-got-a-new-street-high-price-target-should-you-buy-amd-stock-now
 Time Published: 2025-10-27T13:00:03Z
 Description: Chipmaker AMD received a Street-high price target after its OpenAI deal.
+--------------------------------------------------
+
+Title: As Takeover Rumors Swirl, Should You Buy DigitalOcean Stock?
+URL: https://www.barchart.com/story/news/35698417/as-takeover-rumors-swirl-should-you-buy-digitalocean-stock
+Time Published: 2025-10-27T13:00:03Z
+Description: Rumor has it that DigitalOcean is once again on the takeover radar. Is now the time to keep a close eye on DOCN stock?
 --------------------------------------------------
 
 Title: Should You Buy the Dip in Astera Labs Stock?

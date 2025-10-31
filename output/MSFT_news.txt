@@ -1,5 +1,31 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Amazon Is Set To Report Earnings Today. Here's What Investors Should Know
+URL: https://www.investopedia.com/amazon-is-set-to-report-earnings-today-what-investors-should-know-11840316
+Time Published: 2025-10-30T16:55:58Z
+Full Content:
+Amazon is scheduled to report third-quarter earnings after markets close on Thursday, and all eyes are likely to be on the e-commerce giant’s cloud business. Amazon is expected to report third-quarter revenue of about $178 billion, a 12% increase from last year, according to analyst estimates compiled by Visible Alpha. Its earnings are expected to increase 10% to $1.57 a share. While Amazon’s e-commerce operation makes up the bulk of its business, investors will be most focused on its AI efforts, represented by cloud revenue and capital expenditures. Amazon’s cloud growth of 17.5% in the second quarter exceeded official expectations, but disappointed Wall Street after two blowout reports from competitors Microsoft (MSFT) and Alphabet (GOOG). On Wednesday, both of those companies again posted cloud revenue well ahead of Wall Street’s estimates, setting another high bar for Amazon to clear. Amazon's array of businesses spans e-commerce, logistics, advertising, cloud computing and more, making its results a partial reflection of the financial health of U.S. consumers and businesses. Its market capitalization—well over $2 trillion as of midday Thursday—makes its stock one of the most influential in the stock market. Investors may also be primed for Amazon to increase its capital expenditures guidance after Alphabet and Meta Platforms (META) did so with their reports Wednesday. Amazon’s second-quarter capex of $32.2 billion was about 25% higher than analysts expected. Wedbush analysts expect Amazon’s full-year capex to total $119 billion, implying growth of about 10% between the first and second halves of this year. “We are constructive on the setup leading into the report given positive commentary around [Amazon Web Services] growth, healthy trends for the core retail business, and strong advertiser demand,” wrote Wedbush analysts in a note late last week. Amazon stock has been the laggard of the Magnificent Seven recently, with shares up just 3% since the start of the year. Concerns about tariffs and lagging cloud growth have weighed on the stock. Some investors see the potential for shares to close the gap with the rest of the Mag 7 after earnings. Options prices on Thursday morning suggest traders expect Amazon stock to move about 6.3% in either direction by end of the week. A move higher off of Wednesday’s closing price would put shares around $244.75, which would be their first all-time high since early February, while an equivalent decline would put the stock at about $216. Wall Street is generally bullish on the outlook for Amazon stock, with all 22 of the analysts with current ratings tracked by Visible Alpha assigning it a “Buy” rating. Their median price target of $270 is nearly 20% above the stock’s intraday price on Thursday. This article has been updated since it was first published to reflect analysts’ estimates for Amazon's diluted earnings per share.
+--------------------------------------------------
+
+Title: 5 Things to Know Before the Stock Market Opens
+URL: https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-october-30-2025-11840105
+Time Published: 2025-10-30T12:34:15Z
+Full Content:
+Stock futures are losing ground amid a barrage of earnings reports from major companies, as investors assess the latest developments in trade talks and Federal Reserve Chair Jerome Powell's warning that more rate cuts aren't a certainty; President Donald Trump said his meeting with Chinese leader Xi Jinping resulted in a rare earths mineral agreement and a reduction in certain tariffs on China; shares of Meta (META) and Microsoft (MSFT) are losing ground after the Magnificent Seven members reported results late yesterday, while Alphabet (GOOG) shares are surging after the Google parent reported more than $100 billion in quarterly sales; Apple (AAPL) and Amazon (AMZN) are due to release their quarterly reports after the closing bell; and Eli Lilly (LLY) shares are rising after the company reported strong sales of weight loss drug Zepbound and diabetes treatment Mounjaro. Here's what you need to know today. Stock futures are lower as investors digest a flurry of corporate earnings reports and evaluate the results of trade talks between the U.S. and China. The major indexes hit record highs yesterday but gave back early gains after Fed Chair Jerome Powell said that another interest rate cut at the upcoming December meeting was “not a foregone conclusion—far from it." The comments came after the Fed trimmed its benchmark rate for the second time in as many months to support a labor market that has weakened. Futures tied to the Dow Jones Industrial Average were down 0.4% recently, while those linked to the benchmark S&P 500 and the tech-focused Nasdaq slipped 0.2%. The yield on the 10-year Treasury note, which affects borrowing costs on a wide array of consumer and business loans, was at 4.10%, up from 4.06% at yesterday's close and at its highest level in three weeks. Bitcoin was at $109,800, down from an overnight high of around $111,600. Gold futures fell slightly from yesterday's close to $3,985 an ounce, and are well off the record high of near $4,400 set early last week. President Trump reportedly said that “a lot of decisions were made” in his meeting with Chinese leader Xi on Thursday, potentially signaling a thaw in trade relations between the two nations. Trump said that an agreement on rare earth minerals was reached after China restricted exports of the key product for high-tech manufacturing. The agreement will need to be renewed every year. Trump also said that U.S. tariffs targeting China’s fentanyl production were reduced to 10% from 20%, taking overall U.S. tariffs on Chinese products down to 47%. More negotiations could be coming as Trump said he will visit China in April, with Xi making a visit to the U.S. sometime after that. The agreements are expected to add some certainty to U.S. trade policy after tariff announcements roiled markets earlier this year. Shares of Microsoft (MSFT) and Meta (META) are lower in premarket trading after the Magnificent Seven members delivered their highly anticipated quarterly results, while Alphabet (GOOG) stock soared after the Google-parent hit a new revenue milestone. Alphabet’s earnings topped Wall Street expectations as quarterly revenues topped $100 billion for the first time, with each of its major business segments reporting sales growth of at least 10%. Microsoft also posted better-than-expected earnings as quarterly revenue jumped 18% year-over-year, led by 28% growth in cloud sales, though the stock fell amid concerns about the company's capital spending plan. Facebook parent Meta also reported strong revenue growth, but a one-time $16 billion tax charge helped sink its earnings well below estimates. Alphabet shares were up about 8% ahead of the opening bell, while Meta tumbled 9% and Microsoft declined 2%.. More Magnificent Seven company earnings are on tap today, with Apple (AAPL) and Amazon (AMZN) set to release results after the closing bell. Apple shares hit record highs recently, boosting its market capitalization above $4 trillion (only Nvidia and Microsoft have higher market values), following a report that showed solid sales of newly released iPhone 17 models. Apple’s stock has fallen after recent earnings reports on investor worries over its progress on AI products. Meanwhile, Amazon has been the laggard among “Mag 7” stocks this year, and options pricing suggests that traders expect a big move for the online retailer’s share price after the earnings report is released today. Apple shares were up 0.5% in recent premarket trading, while Amazon stock fell more than 1%. Eli Lilly (LLY) shares are rising after the drugmaker reported better-than-expected earnings on strong demand for its weight loss drug Zepbound and diabetes treatment Mounjaro. Lilly reported third-quarter revenue of $17.6 billion, a jump of 54% over the prior year and ahead of analyst estimates of $16.1 billion as tracked by Visible Alpha. The company’s adjusted earnings per share of $7.02 beat the consensus estimate of $5.91. Eli Lilly reported strong sales growth of key drugs, with worldwide Mounjaro revenue doubling to $6.52 billion, while U.S. sales of Zepbound nearly tripled to $3.57 billion. Eli Lilly shares were up 4% in recent premarket trading.
+--------------------------------------------------
+
+Title: Earnings live: Meta stock tumbles, Microsoft slides, and Alphabet jumps as Big Tech earnings pour in
+URL: https://finance.yahoo.com/news/live/earnings-live-meta-stock-tumbles-microsoft-slides-and-alphabet-jumps-as-big-tech-earnings-pour-in-121919945.html
+Time Published: 2025-10-30T12:19:19Z
+Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
+Title: Are Wall Street Analysts Bullish on Microsoft Stock?
+URL: https://www.barchart.com/story/news/35780080/are-wall-street-analysts-bullish-on-microsoft-stock
+Time Published: 2025-10-30T02:26:13Z
+Description: As Microsoft has outperformed the S&P 500 Index over the past year, Wall Street analysts maintain a highly optimistic outlook about the stock’s prospects.
+--------------------------------------------------
+
 Title: Dear Apple Stock Fans, Mark Your Calendars for October 30
 URL: https://www.barchart.com/story/news/35778366/dear-apple-stock-fans-mark-your-calendars-for-october-30
 Time Published: 2025-10-29T23:45:01Z
@@ -226,20 +252,8 @@ Time Published: 2025-10-27T10:12:29Z
 Description: December S&P 500 E-Mini futures (ESZ25) are up +0.91%, and December Nasdaq 100 E-Mini futures (NQZ25) are up +1.28% this morning, pointing to a sharply...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb with Fed, Big Tech earnings, Trump-Xi meeting ahead
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-with-fed-big-tech-earnings-trump-xi-meeting-ahead-225050011.html
-Time Published: 2025-10-26T22:50:50Z
-Description: Futures on the major gauges rose overnight Sunday ahead of a packed week of economic events.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as Trump stokes hopes a US-China trade deal is near
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-trump-stokes-hopes-a-us-china-trade-deal-is-near-225050765.html
-Time Published: 2025-10-26T22:50:50Z
-Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as US-China talks tee up trade deal for Trump
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-us-china-talks-tee-up-trade-deal-for-trump-225050786.html
 Time Published: 2025-10-26T22:50:50Z
 Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
 --------------------------------------------------
@@ -248,6 +262,18 @@ Title: Stock market today: Dow, S&P 500, Nasdaq head toward records as Trump sto
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-head-toward-records-as-trump-stokes-hopes-us-china-trade-deal-is-near-225050682.html
 Time Published: 2025-10-26T22:50:50Z
 Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb with Fed, Big Tech earnings, Trump-Xi meeting ahead
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-with-fed-big-tech-earnings-trump-xi-meeting-ahead-225050011.html
+Time Published: 2025-10-26T22:50:50Z
+Description: Futures on the major gauges rose overnight Sunday ahead of a packed week of economic events.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as US-China talks tee up trade deal for Trump
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-us-china-talks-tee-up-trade-deal-for-trump-225050786.html
+Time Published: 2025-10-26T22:50:50Z
+Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
 --------------------------------------------------
 
 Title: Earnings, Trade War and Other Can't Miss Items this Week
