@@ -75,21 +75,3 @@ URL: https://finance.yahoo.com/news/bull-dog-sauce-tse-2804-021527380.html
 Time Published: 2025-10-26T02:15:27Z
 Description: Bull-Dog Sauce (TSE:2804) turned heads with a massive 809.1% earnings growth for the past year. Net profit margins have also surged, climbing from 1.9% to...
 --------------------------------------------------
-
-Title: Fortrea Holdings (FTRE): Valuation Update Following Debt Tender Offer and Ongoing Capital Restructuring
-URL: https://finance.yahoo.com/news/fortrea-holdings-ftre-valuation-following-161322476.html
-Time Published: 2025-10-25T16:13:22Z
-Description: Fortrea Holdings (FTRE) has announced the start of a debt tender offer to repurchase part of its outstanding senior secured notes, following through on...
---------------------------------------------------
-
-Title: After a Massive 207.5% Run-Up, Is This AI Stock Still a Buy?
-URL: https://www.barchart.com/story/news/35677525/after-a-massive-207-5-run-up-is-this-ai-stock-still-a-buy
-Time Published: 2025-10-25T15:00:02Z
-Description: CoreWeave is a high-risk, high-reward growth story.
---------------------------------------------------
-
-Title: Needham Sees Opportunity in 2 Lesser-Known Energy Stocks Riding the Data-Center Boom
-URL: https://finance.yahoo.com/news/needham-sees-opportunity-2-lesser-100355735.html
-Time Published: 2025-10-25T10:03:55Z
-Description: One of the biggest stories in markets today is the boom in AI – and with it, the surge in data center development. This trend extends far beyond the digital ...
---------------------------------------------------
