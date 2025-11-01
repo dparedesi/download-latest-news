@@ -1,13 +1,37 @@
 List of news related to Microsoft stock price MSFT:
 
-Title: Earnings live: Amazon stock soars, Apple CEO predicts 'best-ever' holiday quarter, Reddit and Coinbase rise
-URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-ceo-predicts-best-ever-holiday-quarter-reddit-and-coinbase-rise-204131316.html
-Time Published: 2025-10-30T20:41:31Z
+Title: Commvault Systems - Scaling SaaS Business At Double-Digits
+URL: https://finance.yahoo.com/news/commvault-systems-scaling-saas-business-203826178.html
+Time Published: 2025-10-31T14:52:50Z
+Description: SaaS companies are high margin growth business with predictable earnings, making them attractive portfolio additions
+--------------------------------------------------
+
+Title: Earnings live: Amazon stock soars, Apple CEO predicts 'best-ever' quarter; Exxon, Chevron post strong earnings
+URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-ceo-predicts-best-ever-quarter-exxon-chevron-post-strong-earnings-115006428.html
+Time Published: 2025-10-31T11:50:06Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
+Title: The AI boom is over — here’s your bubble survival guide
+URL: https://www.marketwatch.com/story/everyones-asking-the-wrong-question-about-an-ai-bubble-here-are-the-stocks-to-buy-and-when-b3fddce5
+Time Published: 2025-10-31T11:31:00Z
+Description: Everyone’s asking the wrong question about an AI bubble. Here are the stocks to buy — and when.
+--------------------------------------------------
+
+Title: Here’s how Nvidia’s Jensen Huang answers the AI bubble question
+URL: https://www.marketwatch.com/story/heres-how-nvidias-jensen-huang-answers-the-ai-bubble-question-8ef4e0fc
+Time Published: 2025-10-31T11:10:00Z
+Description: Jensen Huang thinks AI is now useful to people and companies , and it’s profitable and so corporates will want to invest more.
 --------------------------------------------------
 
 Title: Earnings live: Amazon stock soars on AWS growth, Apple wavers, Reddit and Coinbase move higher
 URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-on-aws-growth-apple-wavers-reddit-and-coinbase-move-higher-204131223.html
+Time Published: 2025-10-30T20:41:31Z
+Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
+Title: Earnings live: Amazon stock soars, Apple CEO predicts 'best-ever' holiday quarter, Reddit and Coinbase rise
+URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-ceo-predicts-best-ever-holiday-quarter-reddit-and-coinbase-rise-204131316.html
 Time Published: 2025-10-30T20:41:31Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
@@ -190,16 +214,16 @@ Time Published: 2025-10-28T14:46:37Z
 Description: Microsoft Corporation (NASDAQ:MSFT) is one of the Most Promising AI Stocks to Buy Right Now. On October 20, BofA analyst Brad Sills maintained a “Buy” rating...
 --------------------------------------------------
 
-Title: Microsoft and OpenAI agree to a new for-profit deal. Windows maker gets 27% stake
-URL: https://finance.yahoo.com/news/microsoft-and-openai-agree-to-a-new-for-profit-deal-windows-maker-gets-27-stake-142521650.html
-Time Published: 2025-10-28T14:25:21Z
-Description: Microsoft and OpenAI on Tuesday said they have come to terms for a new agreement that lets the ChatGPT developer move forward with its plans to transform...
---------------------------------------------------
-
 Title: Microsoft, OpenAI agree to new for-profit deal. Windows maker gets 27% stake.
 URL: https://finance.yahoo.com/news/microsoft-openai-agree-to-new-for-profit-deal-windows-maker-gets-27-stake-142521183.html
 Time Published: 2025-10-28T14:25:21Z
 Description: Microsoft and OpenAI on Tuesday said they have reached a new agreement that lets the ChatGPT developer move forward with its plans to transform into a for...
+--------------------------------------------------
+
+Title: Microsoft and OpenAI agree to a new for-profit deal. Windows maker gets 27% stake
+URL: https://finance.yahoo.com/news/microsoft-and-openai-agree-to-a-new-for-profit-deal-windows-maker-gets-27-stake-142521650.html
+Time Published: 2025-10-28T14:25:21Z
+Description: Microsoft and OpenAI on Tuesday said they have come to terms for a new agreement that lets the ChatGPT developer move forward with its plans to transform...
 --------------------------------------------------
 
 Title: Stocks See Support Ahead of Wednesday's FOMC Decision
@@ -286,10 +310,4 @@ Title: Option Volatility And Earnings Report For October 27 - 31
 URL: https://www.barchart.com/story/news/35694540/option-volatility-and-earnings-report-for-october-27-31
 Time Published: 2025-10-27T11:00:02Z
 Description: Earnings are going to be front and center of everyone’s attention this week, with five of the Mag Seven reporting.
---------------------------------------------------
-
-Title: Stocks Set to Open Sharply Higher on U.S.-China Trade Optimism, Big Tech Earnings and Fed Meeting in Focus
-URL: https://www.barchart.com/story/news/35692513/stocks-set-to-open-sharply-higher-on-u-s-china-trade-optimism-big-tech-earnings-and-fed-meeting-in-focus
-Time Published: 2025-10-27T10:12:29Z
-Description: December S&P 500 E-Mini futures (ESZ25) are up +0.91%, and December Nasdaq 100 E-Mini futures (NQZ25) are up +1.28% this morning, pointing to a sharply...
 --------------------------------------------------
