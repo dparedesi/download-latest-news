@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: 'Aggressive' Spending Spooks Meta Platforms Investors. Should You Buy the Dip in META Stock?
+URL: https://www.barchart.com/story/news/35833229/aggressive-spending-spooks-meta-platforms-investors-should-you-buy-the-dip-in-meta-stock
+Time Published: 2025-10-31T18:07:06Z
+Description: Meta Platforms stock shed more than 11% despite a strong Q3 earnings report, as investors are wary of rising AI spending costs.
+--------------------------------------------------
+
+Title: A $135 Billion Reason to Buy Microsoft Stock Now
+URL: https://www.barchart.com/story/news/35832951/a-135-billion-reason-to-buy-microsoft-stock-now
+Time Published: 2025-10-31T17:49:10Z
+Description: Microsoft’s $135B OpenAI stake deepens its AI moat, giving investors cloud scale, IP control and a fresh reason to buy the dip.
+--------------------------------------------------
+
 Title: Commvault Systems - Scaling SaaS Business At Double-Digits
 URL: https://finance.yahoo.com/news/commvault-systems-scaling-saas-business-203826178.html
 Time Published: 2025-10-31T14:52:50Z
@@ -214,16 +226,16 @@ Time Published: 2025-10-28T14:46:37Z
 Description: Microsoft Corporation (NASDAQ:MSFT) is one of the Most Promising AI Stocks to Buy Right Now. On October 20, BofA analyst Brad Sills maintained a “Buy” rating...
 --------------------------------------------------
 
-Title: Microsoft, OpenAI agree to new for-profit deal. Windows maker gets 27% stake.
-URL: https://finance.yahoo.com/news/microsoft-openai-agree-to-new-for-profit-deal-windows-maker-gets-27-stake-142521183.html
-Time Published: 2025-10-28T14:25:21Z
-Description: Microsoft and OpenAI on Tuesday said they have reached a new agreement that lets the ChatGPT developer move forward with its plans to transform into a for...
---------------------------------------------------
-
 Title: Microsoft and OpenAI agree to a new for-profit deal. Windows maker gets 27% stake
 URL: https://finance.yahoo.com/news/microsoft-and-openai-agree-to-a-new-for-profit-deal-windows-maker-gets-27-stake-142521650.html
 Time Published: 2025-10-28T14:25:21Z
 Description: Microsoft and OpenAI on Tuesday said they have come to terms for a new agreement that lets the ChatGPT developer move forward with its plans to transform...
+--------------------------------------------------
+
+Title: Microsoft, OpenAI agree to new for-profit deal. Windows maker gets 27% stake.
+URL: https://finance.yahoo.com/news/microsoft-openai-agree-to-new-for-profit-deal-windows-maker-gets-27-stake-142521183.html
+Time Published: 2025-10-28T14:25:21Z
+Description: Microsoft and OpenAI on Tuesday said they have reached a new agreement that lets the ChatGPT developer move forward with its plans to transform into a for...
 --------------------------------------------------
 
 Title: Stocks See Support Ahead of Wednesday's FOMC Decision
@@ -298,16 +310,4 @@ Title: Earnings live: Keurig Dr. Pepper stock pops as investors await Big Tech e
 URL: https://finance.yahoo.com/news/live/earnings-live-keurig-dr-pepper-stock-pops-as-investors-await-big-tech-earnings-from-apple-google-and-more-120146338.html
 Time Published: 2025-10-27T12:01:46Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
---------------------------------------------------
-
-Title: Microsoft Upgrade Leaves 99% of Analysts Bullish on the Stock
-URL: https://finance.yahoo.com/news/microsoft-upgrade-leaves-99-analysts-115109314.html
-Time Published: 2025-10-27T11:51:09Z
-Description: The upgrade means nearly 99% of analysts tracked by Bloomberg currently recommend buying the stock.  Of the 73 who follow Microsoft, the only holdout is...
---------------------------------------------------
-
-Title: Option Volatility And Earnings Report For October 27 - 31
-URL: https://www.barchart.com/story/news/35694540/option-volatility-and-earnings-report-for-october-27-31
-Time Published: 2025-10-27T11:00:02Z
-Description: Earnings are going to be front and center of everyone’s attention this week, with five of the Mag Seven reporting.
 --------------------------------------------------
