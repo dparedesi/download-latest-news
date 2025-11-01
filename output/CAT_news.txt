@@ -1,13 +1,13 @@
 List of news related to Caterpillar stock price CAT:
 
-Title: Earnings live: Amazon stock soars, Apple CEO predicts 'best-ever' holiday quarter, Reddit and Coinbase rise
-URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-ceo-predicts-best-ever-holiday-quarter-reddit-and-coinbase-rise-204131316.html
+Title: Earnings live: Amazon stock soars on AWS growth, Apple wavers, Reddit and Coinbase move higher
+URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-on-aws-growth-apple-wavers-reddit-and-coinbase-move-higher-204131223.html
 Time Published: 2025-10-30T20:41:31Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
 
-Title: Earnings live: Amazon stock soars on AWS growth, Apple wavers, Reddit and Coinbase move higher
-URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-on-aws-growth-apple-wavers-reddit-and-coinbase-move-higher-204131223.html
+Title: Earnings live: Amazon stock soars, Apple CEO predicts 'best-ever' holiday quarter, Reddit and Coinbase rise
+URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-ceo-predicts-best-ever-holiday-quarter-reddit-and-coinbase-rise-204131316.html
 Time Published: 2025-10-30T20:41:31Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
