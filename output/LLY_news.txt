@@ -1,5 +1,29 @@
 List of news related to Eli Lilly And Co LLY:
 
+Title: Earnings live: Amazon stock soars on AWS growth, Apple wavers, Reddit and Coinbase move higher
+URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-on-aws-growth-apple-wavers-reddit-and-coinbase-move-higher-204131223.html
+Time Published: 2025-10-30T20:41:31Z
+Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
+Title: Earnings live: Amazon stock soars, Apple CEO predicts 'best-ever' holiday quarter, Reddit and Coinbase rise
+URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-ceo-predicts-best-ever-holiday-quarter-reddit-and-coinbase-rise-204131316.html
+Time Published: 2025-10-30T20:41:31Z
+Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
+Title: Stocks Settle Lower as Megacap Technology Stocks Slide
+URL: https://www.barchart.com/story/news/35807971/stocks-settle-lower-as-megacap-technology-stocks-slide
+Time Published: 2025-10-30T20:33:04Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -0.99%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.23%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: Stock Indexes Slip on Weakness in Megacap Technology Stocks
+URL: https://www.barchart.com/story/news/35799739/stock-indexes-slip-on-weakness-in-megacap-technology-stocks
+Time Published: 2025-10-30T15:25:30Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.42%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.60%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq slide after Trump-Xi truce with Big Tech earnings ahead
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-meta-sinks-after-earnings-with-apple-amazon-ahead-133548029.html
 Time Published: 2025-10-30T13:35:48Z
@@ -16,6 +40,12 @@ Title: Earnings live: Meta stock tumbles, Microsoft slides, and Alphabet jumps a
 URL: https://finance.yahoo.com/news/live/earnings-live-meta-stock-tumbles-microsoft-slides-and-alphabet-jumps-as-big-tech-earnings-pour-in-121919945.html
 Time Published: 2025-10-30T12:19:19Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
+Title: Stocks Fall Before the Open After Mixed Big Tech Earnings, Trump-Xi Summit
+URL: https://www.barchart.com/story/news/35786857/stocks-fall-before-the-open-after-mixed-big-tech-earnings-trump-xi-summit
+Time Published: 2025-10-30T10:20:38Z
+Description: December S&P 500 E-Mini futures (ESZ25) are down -0.18%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.20% this morning as investors weigh the...
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures struggle after Trump-Xi truce with Big Tech earnings ahead
@@ -53,10 +83,4 @@ Title: Earnings live: Keurig Dr. Pepper stock pops as investors await Big Tech e
 URL: https://finance.yahoo.com/news/live/earnings-live-keurig-dr-pepper-stock-pops-as-investors-await-big-tech-earnings-from-apple-google-and-more-120146338.html
 Time Published: 2025-10-27T12:01:46Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
---------------------------------------------------
-
-Title: Big Tech earnings, a crucial Fed meeting, and a Trump-Xi sit-down: What to watch this week
-URL: https://finance.yahoo.com/news/big-tech-earnings-a-crucial-fed-meeting-and-a-trump-xi-sit-down-what-to-watch-this-week-114354660.html
-Time Published: 2025-10-26T11:43:54Z
-Description: The market enters the fourth full week of the government shutdown with international trade and domestic rates in focus.
 --------------------------------------------------

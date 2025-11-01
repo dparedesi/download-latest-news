@@ -1,5 +1,41 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Earnings live: Amazon stock soars, Apple CEO predicts 'best-ever' holiday quarter, Reddit and Coinbase rise
+URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-ceo-predicts-best-ever-holiday-quarter-reddit-and-coinbase-rise-204131316.html
+Time Published: 2025-10-30T20:41:31Z
+Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
+Title: Earnings live: Amazon stock soars on AWS growth, Apple wavers, Reddit and Coinbase move higher
+URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-on-aws-growth-apple-wavers-reddit-and-coinbase-move-higher-204131223.html
+Time Published: 2025-10-30T20:41:31Z
+Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
+Title: Stocks Settle Lower as Megacap Technology Stocks Slide
+URL: https://www.barchart.com/story/news/35807971/stocks-settle-lower-as-megacap-technology-stocks-slide
+Time Published: 2025-10-30T20:33:04Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -0.99%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.23%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: Microsoft Stock (MSFT) Slides as Xbox Console Sales Fall 30% Year-Over-Year - TipRanks
+URL: https://slashdot.org/firehose.pl?op=view&amp;id=179917568
+Time Published: 2025-10-30T19:53:12Z
+Description: Microsoft Stock (MSFT) Slides as Xbox Console Sales Fall 30% Year-Over-YearTipRanks Xbox Q1 hardware sales down 29% while third-party content experiences "better-than-expected performance"GamesIndustry.biz Xbox FY26 Q1 earnings: Game Pass lifts revenue as con…
+--------------------------------------------------
+
+Title: Welcome to the $4 Trillion Market Cap Club, Microsoft! Are There More Gains for MSFT Stock in Store?
+URL: https://www.barchart.com/story/news/35803765/welcome-to-the-4-trillion-market-cap-microsoft-are-there-more-gains-for-msft-stock-in-store
+Time Published: 2025-10-30T18:08:41Z
+Description: Microsoft is up over 900% in the past decade, valuing the Big Tech giant at $4 trillion. Can MSFT stock continue to rise over the next 12 months?
+--------------------------------------------------
+
+Title: Meta Stock Falls Below $700 as Mark Zuckerberg Doubles Down on AI Spending: Time to Buy the Dip?
+URL: https://www.barchart.com/story/news/35801809/meta-stock-falls-below-700-as-mark-zuckerberg-doubles-down-on-ai-spending-time-to-buy-the-dip
+Time Published: 2025-10-30T16:58:04Z
+Description: Meta Platforms stock has fallen below $700 today after the company spooked markets with a massive one-time charge and upped its capex guidance. Should you...
+--------------------------------------------------
+
 Title: Amazon Is Set To Report Earnings Today. Here's What Investors Should Know
 URL: https://www.investopedia.com/amazon-is-set-to-report-earnings-today-what-investors-should-know-11840316
 Time Published: 2025-10-30T16:55:58Z
@@ -256,53 +292,4 @@ Title: Stocks Set to Open Sharply Higher on U.S.-China Trade Optimism, Big Tech 
 URL: https://www.barchart.com/story/news/35692513/stocks-set-to-open-sharply-higher-on-u-s-china-trade-optimism-big-tech-earnings-and-fed-meeting-in-focus
 Time Published: 2025-10-27T10:12:29Z
 Description: December S&P 500 E-Mini futures (ESZ25) are up +0.91%, and December Nasdaq 100 E-Mini futures (NQZ25) are up +1.28% this morning, pointing to a sharply...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb with Fed, Big Tech earnings, Trump-Xi meeting ahead
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-with-fed-big-tech-earnings-trump-xi-meeting-ahead-225050011.html
-Time Published: 2025-10-26T22:50:50Z
-Description: Futures on the major gauges rose overnight Sunday ahead of a packed week of economic events.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as US-China talks tee up trade deal for Trump
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-us-china-talks-tee-up-trade-deal-for-trump-225050786.html
-Time Published: 2025-10-26T22:50:50Z
-Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as Trump stokes hopes a US-China trade deal is near
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-trump-stokes-hopes-a-us-china-trade-deal-is-near-225050765.html
-Time Published: 2025-10-26T22:50:50Z
-Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest-rate cut and a barrage of Big Tech...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq head toward records as Trump stokes hopes US-China trade deal is near
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-head-toward-records-as-trump-stokes-hopes-us-china-trade-deal-is-near-225050682.html
-Time Published: 2025-10-26T22:50:50Z
-Description: Wall Street is in an upbeat mood as it gears up for a pivotal week featuring the Federal Reserve’s expected interest rate cut and a barrage of Big Tech...
---------------------------------------------------
-
-Title: Earnings, Trade War and Other Can't Miss Items this Week
-URL: https://www.barchart.com/story/news/35686665/earnings-trade-war-and-other-can-t-miss-items-this-week
-Time Published: 2025-10-26T17:00:02Z
-Description: This week brings an extraordinary convergence of market-moving events: Wednesday's virtually certain Fed rate cut and a blockbuster earnings lineup featuring...
---------------------------------------------------
-
-Title: Bitcoin 'just doesn’t cut it anymore': Miners' pivot to AI sends stocks soaring
-URL: https://finance.yahoo.com/news/bitcoin-just-doesnt-cut-it-anymore-miners-pivot-to-ai-sends-stocks-soaring-150018229.html
-Time Published: 2025-10-26T15:00:18Z
-Description: Bitcoin miners have been pivoting to using their high computing power to service AI as crypto mining profits get squeezed.
---------------------------------------------------
-
-Title: Big Tech earnings, a crucial Fed meeting, and a Trump-Xi sit-down: What to watch this week
-URL: https://finance.yahoo.com/news/big-tech-earnings-a-crucial-fed-meeting-and-a-trump-xi-sit-down-what-to-watch-this-week-114354660.html
-Time Published: 2025-10-26T11:43:54Z
-Description: The market enters the fourth full week of the government shutdown with international trade and domestic rates in focus.
---------------------------------------------------
-
-Title: S&P 500 Surges: Magnificent 7 Earnings, Rate Cut, And AI Boom Drive Q3
-URL: https://www.forbes.com/sites/bill_stone/2025/10/26/sp-500-surges-magnificent-7-earnings-rate-cut-and-ai-boom-drive-q3/
-Time Published: 2025-10-26T09:53:54Z
-Full Content:
-ByBill Stone, Contributor. The third-quarter earnings season begins its busiest week, which includes an earnings report from five of the Magnificent 7 and Warren Buffett’s Berkshire Hathaway (BRK/A, BRK/B). 173 S&P 500 companies are scheduled to report. Notable companies scheduled to release earnings include: Boeing (BA), Kraft Heinz (KHC), ServiceNow (NOW), Merck (MRK), Mastercard (MA), Chevron (CVX), and Exxon Mobil (XOM). With 29% of companies reporting so far, 86% have beaten consensus earnings estimates. The earnings season preview from last week contains more details about the underlying drivers of earnings. Combining actual results with consensus estimates for companies yet to report, the S&P 500’s blended earnings growth rate for the quarter is at 9.2% year-over-year, above the expectations of 7.9% at the end of the quarter. The expected earnings growth rate for calendar years 2025 and 2026 is unchanged at 11.0% and 13.9%, respectively. The continuation of the strong earnings season helped lift the S&P 500 last week. The Magnificent 7, consisting of Microsoft (MSFT), Meta Platforms (META), Amazon.com (AMZN), Apple (AAPL), NVIDIA (NVDA), Alphabet (GOOGL), and Tesla (TSLA), outperformed last week. In addition, the better-than-expected consumer inflation reading opened the door to a Federal Reserve rate cut this week, which helped stocks, particularly banks. The lack of additional “cockroaches” last week helped regional banks snap back from concerns over reported loan fraud. Because these companies are critical drivers of earnings growth and a significant percentage of the S&P 500’s market capitalization, the Magnificent 7 remains the group to watch this earnings season. Tesla’s (TSLA) earnings were below expectations last week, and it was the only member of the Magnificent 7 that saw a stock price decline last week. Five of the Magnificent 7 report earnings this week: Alphabet (GOOGL), Meta Platforms (META), and Microsoft (MSFT) after the close on Wednesday; Apple (AAPL) and Amazon.com (AMZN) after the close on Thursday. According to FactSet data, the positive earnings surprises from companies in the financials, information technology, and industrials sectors were the most significant contributors to the S&P 500’s earnings growth rate increase last week. Within financials, Capital One Financial (COF) and Chubb (CB) were the most significant positive drivers. Intel (INTC) was the most crucial positive surprise in technology, while RTX (RTX) and GE Aerospace (GE) were the most notable positive surprises in industrials. Sales growth is closely tied to nominal GDP growth, which combines after-inflation economic growth (real GDP) with inflation. If the third-quarter nominal year-over-year GDP growth estimate of 4.8% is correct, there could be downside to expected sales growth. However, sales growth at 7.0% is running well above expectations. So far this earnings season, the consumer discretionary and financials sectors have been the most critical drivers of improved sales growth. The government shutdown delayed September consumer inflation (CPI) readings, but the headline and core, excluding food and energy, were better than expected. The headline and core CPI were 3% year-over-year. The top-line numbers were more favorable than expected, despite concerns about price pressure from tariffs. In addition, the details were similarly comforting, with the pace of price gains for services and housing slowing. The 3-month annualized rate of CPI growth held steady, suggesting the recent inflation acceleration might be subsiding. With the government shutdown dragging on and delaying or withholding many US economic releases, the focus will be on the busiest week of the earnings season. In addition, five of the Magnificent 7 companies report earnings. This group has an outsized impact on the S&P 500’s expected earnings growth rate. It is also an essential bellwether for gauging the health of the artificial intelligence boom and the technology sector as a whole. Despite the government shutdown, tariffs, and a cooling labor market, the economy continues to hold up well, with the betting odds of a US recession in 2025 falling to 4%. President Trump is scheduled to meet with China’s President Xi this week, and markets anticipate some thawing in tensions between the countries, though a full-scale trade deal is unlikely. The friendlier inflation data last week sealed the deal for another 25 basis point (0.25%) rate cut from the Federal Reserve (Fed) at their meeting on Wednesday. Financial markets expect another cut at the December meeting. Given the additional economic visibility issues arising from the government shutdown, management’s forward earnings guidance will be even more closely watched. Since the Fed rate cut is a virtual certainty, Chair Powell’s comments about the future path of monetary policy will be closely watched. He is unlikely to be forceful in his views, given the lack of visibility into the health of the labor market, but shouldn’t buck expectations for another Fed easing in December. Disclosure: Glenview Trust holds many stocks mentioned in this article within its recommended investment strategies.
 --------------------------------------------------
