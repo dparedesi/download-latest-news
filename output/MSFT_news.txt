@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: America's industrial giants are getting a boost from the AI build-out that remains in its 'early stages'
+URL: https://finance.yahoo.com/news/americas-industrial-giants-are-getting-a-boost-from-the-ai-build-out-that-remains-in-its-early-stages-123042531.html
+Time Published: 2025-11-01T12:30:42Z
+Description: Data center demand was a bright spot for the industrial sector's third quarter earnings as power and manufacturing demand from Big Tech have rapidly grown.
+--------------------------------------------------
+
 Title: Morgan Stanley Turns More Bullish on Microsoft (MSFT) After Earnings Beat
 URL: https://finance.yahoo.com/news/morgan-stanley-turns-more-bullish-233903127.html
 Time Published: 2025-10-31T23:39:03Z

@@ -1,5 +1,11 @@
 List of news related to Caterpillar stock price CAT:
 
+Title: America's industrial giants are getting a boost from the AI build-out that remains in its 'early stages'
+URL: https://finance.yahoo.com/news/americas-industrial-giants-are-getting-a-boost-from-the-ai-build-out-that-remains-in-its-early-stages-123042531.html
+Time Published: 2025-11-01T12:30:42Z
+Description: Data center demand was a bright spot for the industrial sector's third quarter earnings as power and manufacturing demand from Big Tech have rapidly grown.
+--------------------------------------------------
+
 Title: Earnings live: Amazon stock soars, Apple pares gains with earnings from AI players to come
 URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-pares-gains-with-earnings-from-ai-players-to-come-211227493.html
 Time Published: 2025-10-31T21:12:27Z
@@ -12,14 +18,14 @@ Time Published: 2025-10-31T11:50:06Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
 
-Title: Earnings live: Amazon stock soars on AWS growth, Apple wavers, Reddit and Coinbase move higher
-URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-on-aws-growth-apple-wavers-reddit-and-coinbase-move-higher-204131223.html
+Title: Earnings live: Amazon stock soars, Apple CEO predicts 'best-ever' holiday quarter, Reddit and Coinbase rise
+URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-ceo-predicts-best-ever-holiday-quarter-reddit-and-coinbase-rise-204131316.html
 Time Published: 2025-10-30T20:41:31Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
 
-Title: Earnings live: Amazon stock soars, Apple CEO predicts 'best-ever' holiday quarter, Reddit and Coinbase rise
-URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-ceo-predicts-best-ever-holiday-quarter-reddit-and-coinbase-rise-204131316.html
+Title: Earnings live: Amazon stock soars on AWS growth, Apple wavers, Reddit and Coinbase move higher
+URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-on-aws-growth-apple-wavers-reddit-and-coinbase-move-higher-204131223.html
 Time Published: 2025-10-30T20:41:31Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
