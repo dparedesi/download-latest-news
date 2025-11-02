@@ -19,7 +19,10 @@ def setup_logging():
 def create_session():
     session = requests.Session()
     retries = Retry(total=3, backoff_factor=0.1, status_forcelist=[500, 502, 503, 504])
-    session.mount('https://', HTTPAdapter(max_retries=retries))
+    # Increase pool size for better parallel performance
+    adapter = HTTPAdapter(max_retries=retries, pool_connections=20, pool_maxsize=20)
+    session.mount('https://', adapter)
+    session.mount('http://', adapter)
     return session
 
 def load_config(config_file):
@@ -40,13 +43,15 @@ def load_config(config_file):
     api_keys = [config['API'][f'newsapi_key{i}'] for i in range(1, 6)]
  
     api_key_file = config['Settings']['api_key_file']
+    fetch_full_content = config['Settings'].getboolean('fetch_full_content', fallback=True)
     
     return {
         'queries': parsed_queries,
         'api_keys': api_keys,
         'api_key_file': api_key_file,
         'news_limit': int(config['Settings']['news_limit']),
-        'exclude_domains': config['Settings']['exclude_domains']
+        'exclude_domains': config['Settings']['exclude_domains'],
+        'fetch_full_content': fetch_full_content
     }
 
 def get_next_api_key(api_keys, api_key_file):
@@ -71,7 +76,8 @@ def create_output_folder():
 
 def get_article_content(url, session):
     try:
-        response = session.get(url, timeout=10)
+        # Reduced timeout from 10s to 5s for faster processing
+        response = session.get(url, timeout=5)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
         
@@ -90,7 +96,7 @@ def get_article_content(url, session):
         logging.error(f"Error fetching article content: {str(e)}")
         return ""
 
-def get_latest_news(query, session, api_key, news_limit, exclude_domains):
+def get_latest_news(query, session, api_key, news_limit, exclude_domains, fetch_full_content):
     url = "https://newsapi.org/v2/everything"
     params = {
         "q": query,
@@ -122,8 +128,9 @@ def get_latest_news(query, session, api_key, news_limit, exclude_domains):
             return []
 
         news_items = []
-        with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
-            future_to_item = {executor.submit(process_news_item, item, session): item for item in data["articles"][:news_limit]}
+        # Increased workers from 5 to 10 for better parallelism
+        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+            future_to_item = {executor.submit(process_news_item, item, session, fetch_full_content): item for item in data["articles"][:news_limit]}
             for future in concurrent.futures.as_completed(future_to_item):
                 try:
                     result = future.result()
@@ -139,7 +146,7 @@ def get_latest_news(query, session, api_key, news_limit, exclude_domains):
         logging.error(error_message)
         return []
 
-def process_news_item(item, session):
+def process_news_item(item, session, fetch_full_content):
     news_item = {
         'title': f"Title: {item['title']}",
         'url': f"URL: {item['url']}",
@@ -147,10 +154,14 @@ def process_news_item(item, session):
         'time_published': f"Time Published: {item['publishedAt']}",
     }
     
-    content = get_article_content(item['url'], session)
-    
-    if content:
-        news_item['content'] = f"Full Content:\n{content}"
+    # Only fetch full content if enabled in config
+    if fetch_full_content:
+        content = get_article_content(item['url'], session)
+        
+        if content:
+            news_item['content'] = f"Full Content:\n{content}"
+        else:
+            news_item['content'] = f"Description: {item['description']}"
     else:
         news_item['content'] = f"Description: {item['description']}"
     
@@ -162,11 +173,11 @@ def format_news_item(item):
 def sanitize_filename(filename):
     return re.sub(r'[\\/*?:"<>|]', "", filename)
 
-def process_query(query_tuple, session, api_key, news_limit, exclude_domains, output_folder):
+def process_query(query_tuple, session, api_key, news_limit, exclude_domains, fetch_full_content, output_folder):
     symbol, query = query_tuple
     logging.info(f"Processing query: {query} (Symbol: {symbol})")
     
-    latest_news = get_latest_news(query, session, api_key, news_limit, exclude_domains)
+    latest_news = get_latest_news(query, session, api_key, news_limit, exclude_domains, fetch_full_content)
     safe_symbol = sanitize_filename(symbol)
     
     if not latest_news:
@@ -199,8 +210,9 @@ def main():
     
     all_news = []
 
-    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
-        future_to_query = {executor.submit(process_query, query_tuple, session, api_key, config['news_limit'], config['exclude_domains'], output_folder): query_tuple for query_tuple in config['queries']}
+    # Increased workers from 5 to 10 for better parallelism
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+        future_to_query = {executor.submit(process_query, query_tuple, session, api_key, config['news_limit'], config['exclude_domains'], config['fetch_full_content'], output_folder): query_tuple for query_tuple in config['queries']}
         for future in concurrent.futures.as_completed(future_to_query):
             query_tuple = future_to_query[future]
             try:
