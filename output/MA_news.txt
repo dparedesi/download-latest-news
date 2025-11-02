@@ -42,21 +42,3 @@ URL: https://finance.yahoo.com/news/investors-think-mastercard-shares-13-0706488
 Time Published: 2025-10-28T07:06:48Z
 Description: Thinking about what to do with your Mastercard shares, or considering jumping in? You are not alone. In a year where market momentum has ebbed and flowed...
 --------------------------------------------------
-
-Title: Jim Cramer on Mastercard: “You Can Put This One on Auto”
-URL: https://finance.yahoo.com/news/jim-cramer-mastercard-put-one-155436949.html
-Time Published: 2025-10-27T15:54:36Z
-Description: Mastercard Incorporated (NYSE:MA) is one of the stocks in focus in the game plan Jim Cramer shared. Cramer expects the company to report an “enviable quarter...
---------------------------------------------------
-
-Title: Earnings live: Keurig Dr. Pepper stock pops as investors await Big Tech earnings from Apple, Google, and more
-URL: https://finance.yahoo.com/news/live/earnings-live-keurig-dr-pepper-stock-pops-as-investors-await-big-tech-earnings-from-apple-google-and-more-120146338.html
-Time Published: 2025-10-27T12:01:46Z
-Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
---------------------------------------------------
-
-Title: Stocks Set to Open Sharply Higher on U.S.-China Trade Optimism, Big Tech Earnings and Fed Meeting in Focus
-URL: https://www.barchart.com/story/news/35692513/stocks-set-to-open-sharply-higher-on-u-s-china-trade-optimism-big-tech-earnings-and-fed-meeting-in-focus
-Time Published: 2025-10-27T10:12:29Z
-Description: December S&P 500 E-Mini futures (ESZ25) are up +0.91%, and December Nasdaq 100 E-Mini futures (NQZ25) are up +1.28% this morning, pointing to a sharply...
---------------------------------------------------

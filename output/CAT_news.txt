@@ -1,5 +1,11 @@
 List of news related to Caterpillar stock price CAT:
 
+Title: Earnings live: Amazon stock soars, Apple pares gains with earnings from AI players to come
+URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-pares-gains-with-earnings-from-ai-players-to-come-211227493.html
+Time Published: 2025-10-31T21:12:27Z
+Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
 Title: Earnings live: Amazon stock soars, Apple CEO predicts 'best-ever' quarter; Exxon, Chevron post strong earnings
 URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-ceo-predicts-best-ever-quarter-exxon-chevron-post-strong-earnings-115006428.html
 Time Published: 2025-10-31T11:50:06Z
@@ -48,16 +54,4 @@ URL: https://www.investopedia.com/the-reason-caterpillar-s-stock-is-priced-for-p
 Time Published: 2025-10-28T09:00:00Z
 Full Content:
 A company known for its distinctive yellow construction equipment and its iconic logo has become an AI darling. Yes, we mean Caterpillar (CAT)—which through Monday's close has the best-performing stock in the Dow, ahead of companies like Nvidia (NVDA) and Microsoft (MSFT), thanks to an AI-driven metamorphosis. Caterpillar has lately seen stalling earnings growth in 2025, with its past two quarterly reports missing expectations. Still, its shares are up more than 45% year-to-date, more than the Industrial Select Sector SPDR Fund's (XLI) 18% gain, the S&P's 17%, and Nvidia's 38%. And when Caterpillar reports third-quarter earnings pre-market tomorrow morning, investors are likely to focus on a key driver of its future growth: data centers' surging demand for electricity. That trend is shifting the spotlight to Caterpillar's energy and transportation segment from its construction and resources segments, which have been challenged. The latter—bulldozers, excavators, and mining trucks—will "take a backseat" as the former—backup and primary power generation sets, solar turbines, and gas pipelines—drives earnings in the coming years, according to BofA Global Research analysts, who have a "buy" rating on the stock. The E&T segment accounts for roughly 40% of Caterpillar's sales, according to BofA. Businesses within the segment, including its power generation business, "continue to outgrow the overall business," Bank of America wrote in June. Last year, E&T chipped in about $29 billion of the company's roughly $65 billion in total sales, more than either of the construction and resources units. Caterpillar's stock has been a beneficiary of investor penchant for AI-themed investments. Its next earnings report, due Wednesday morning, will be the latest opportunity for investors to determine whether the company's data center power-play narrative can endure. Can the stock keep rising? Morgan Stanley analyst Angel Castillo recent said Caterpillar shares, sitting near all-time highs, were "priced for perfection." Wall Street analysts, on average, have a price target of about $497, 6% below Monday's close of $527. More evidence of an oversupplied construction market and the firm's cautious views on non-residential construction activity, Castillo said, will put pressure on its construction segment. Without strength in other segments to offset that weakness, he said, there's the risk of negative earnings revisions. Still, growth in E&T could be a potent mood booster. "Any amount of sequential growth is enough to keep sentiment positive," he wrote in a report last week. The firm has a bearish rating on the stock.
---------------------------------------------------
-
-Title: Earnings live: Keurig Dr. Pepper stock pops as investors await Big Tech earnings from Apple, Google, and more
-URL: https://finance.yahoo.com/news/live/earnings-live-keurig-dr-pepper-stock-pops-as-investors-await-big-tech-earnings-from-apple-google-and-more-120146338.html
-Time Published: 2025-10-27T12:01:46Z
-Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
---------------------------------------------------
-
-Title: Stocks Set to Open Sharply Higher on U.S.-China Trade Optimism, Big Tech Earnings and Fed Meeting in Focus
-URL: https://www.barchart.com/story/news/35692513/stocks-set-to-open-sharply-higher-on-u-s-china-trade-optimism-big-tech-earnings-and-fed-meeting-in-focus
-Time Published: 2025-10-27T10:12:29Z
-Description: December S&P 500 E-Mini futures (ESZ25) are up +0.91%, and December Nasdaq 100 E-Mini futures (NQZ25) are up +1.28% this morning, pointing to a sharply...
 --------------------------------------------------
