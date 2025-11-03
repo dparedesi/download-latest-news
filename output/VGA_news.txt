@@ -32,21 +32,3 @@ URL: https://financialpost.com/pmn/business-wire-news-releases-pmn/doha-debates-
 Time Published: 2025-10-29T15:17:04Z
 Description: Episode two of flagship debate show asks: Have we lost touch with beauty in the world we have built? DOHA, Qatar — This week, Qatar Foundation’s Doha Debates examines how architecture reflects and shapes cultural values on their flagship show, Doha Debates. T…
 --------------------------------------------------
-
-Title: Tesla eyes internal CEO candidates if Musk leaves over pay vote
-URL: https://financialpost.com/fp-work/tesla-eyes-internal-ceo-candidates-if-musk-leaves-over-pay-vote
-Time Published: 2025-10-28T20:08:50Z
-Description: Tesla Inc. is prepared to name a new CEO from inside the company if shareholders reject Elon Musk’s US$1 trillion pay package. Read here
---------------------------------------------------
-
-Title: Tesla Eyes Internal CEO Candidates If Musk Leaves Over $1 Trillion Pay Vote
-URL: https://finance.yahoo.com/news/tesla-eyes-internal-ceo-candidates-180023948.html
-Time Published: 2025-10-28T18:00:23Z
-Description: To ensure an “orderly transition, the most likely would be internal,” Robyn Denholm said Tuesday in an interview, without ruling out the possibility of...
---------------------------------------------------
-
-Title: Meta's AI app has seen growth soar since launch of Vibes, but trails OpenAI's Sora
-URL: https://www.cnbc.com/2025/10/28/meta-ai-vibes-on-wall-street-radar-in-q3-earnings-trails-openai-sora.html
-Time Published: 2025-10-28T11:00:01Z
-Description: The Meta AI app has seen a major jolt in downloads since the company launched Vibes and began paying creators to make AI-generated videos.
---------------------------------------------------

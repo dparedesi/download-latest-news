@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Weekly Market Wrap: First Solar, Amazon lead, Starbucks slips
+URL: https://www.thestreet.com/investing/stocks/weekly-market-wrap-first-solar-amazon-lead-starbucks-slips
+Time Published: 2025-11-02T02:29:42Z
+Description: An overall mixed week in terms of the major indices’ performances and the stock market’s reaction to earnings from big tech companies. The S&P 500 was up...
+--------------------------------------------------
+
 Title: Investing.com’s stocks of the week
 URL: https://finance.yahoo.com/news/investing-com-stocks-week-083014040.html
 Time Published: 2025-11-01T08:30:14Z
@@ -100,14 +106,14 @@ Time Published: 2025-10-30T20:53:52Z
 Description: Options data suggests AMZN shares will push higher after the quarterly release on Oct. 30.
 --------------------------------------------------
 
-Title: Earnings live: Amazon stock soars on AWS growth, Apple wavers, Reddit and Coinbase move higher
-URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-on-aws-growth-apple-wavers-reddit-and-coinbase-move-higher-204131223.html
+Title: Earnings live: Amazon stock soars, Apple CEO predicts 'best-ever' holiday quarter, Reddit and Coinbase rise
+URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-ceo-predicts-best-ever-holiday-quarter-reddit-and-coinbase-rise-204131316.html
 Time Published: 2025-10-30T20:41:31Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
 
-Title: Earnings live: Amazon stock soars, Apple CEO predicts 'best-ever' holiday quarter, Reddit and Coinbase rise
-URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-ceo-predicts-best-ever-holiday-quarter-reddit-and-coinbase-rise-204131316.html
+Title: Earnings live: Amazon stock soars on AWS growth, Apple wavers, Reddit and Coinbase move higher
+URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-on-aws-growth-apple-wavers-reddit-and-coinbase-move-higher-204131223.html
 Time Published: 2025-10-30T20:41:31Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
@@ -175,42 +181,4 @@ Description: As equity valuations approach the record highs of 1999, investors a
 
 
 <ul><!-- wp…
---------------------------------------------------
-
-Title: Dear Meta Platforms Stock Fans, Mark Your Calendars for October 29
-URL: https://www.barchart.com/story/news/35740080/dear-meta-platforms-stock-fans-mark-your-calendars-for-october-29
-Time Published: 2025-10-28T20:11:16Z
-Description: Meta’s Oct. 29 earnings could set the tone for tech. Strong ad growth and AI momentum fuel optimism, but rising costs remain watchpoints.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq notch fresh records as Nvidia soars ahead of Fed rate decision
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-notch-fresh-records-as-nvidia-soars-ahead-of-fed-rate-decision-200057996.html
-Time Published: 2025-10-28T20:00:57Z
-Description: Wall Street is sifting through the latest earnings as the Fed meeting kicks off.
---------------------------------------------------
-
-Title: Here's How Much Traders Expect Amazon Stock To Move After Earnings
-URL: https://www.investopedia.com/how-much-traders-expect-amazon-stock-to-move-after-earnings-q3-2025-11838456
-Time Published: 2025-10-28T19:28:36Z
-Full Content:
-Amazon (AMZN) is slated to report third-quarter earnings after the closing bell on Thursday, and some traders are betting the results can lift the stock, the laggard of the Magnificent Seven so far this year, to a fresh record. Amazon stock is expected to move about 6.2% in either direction by the end of the week, according to recent options pricing data. A move of that magnitude, based on Monday's closing price, would put Amazon shares at about $243.50, an all-time high, or $215. Amazon's $2.4 trillion market capitalization makes its stock one of the most impactful in the U.S. equity market. A big share price move after Thursday's results would have a larger effect on the major indexes than nearly every other stock. Amazon stock has moved an average of 4.7% following its four most recent earnings reports. Shares slumped more than 8% after the company in July reported cloud revenue growth that disappointed Wall Street after strong showings from competitors Microsoft (MSFT) and Alphabet (GOOG). The last time Amazon stock rose following an earnings report was this time last year, when the company topped sales and earnings estimates on strong cloud and advertising growth. Amazon is the worst-performing stock in the Magnificent Seven so far this year, with the company’s outsized tariff exposure weighing on shares. The stock is up just 5% since the start of the year. Amazon’s retail business is contending with increased tariff costs and increasingly squeezed consumers, while its cloud computing unit is making massive data center investments to meet demand for AI workloads. As such, cost savings will be top of mind for investors during Thursday’s earnings call with executives. Amazon on Tuesday announced it would cut 14,000 corporate roles, reportedly part of a larger downsizing that could see the company slash up to 30,000 office jobs, nearly 10% of its white collar workforce. And according to a recent New York Times report, some executives expect warehouse robotics to keep the company from hiring as many as 600,000 workers in the coming years. Cloud growth and capital expenditures will also be in focus. Amazon’s infrastructure investments totaled more than $31 billion in the second quarter, about 20% more than Wall Street was expecting. Chief financial officer Brian Olsavsky forecast the second quarter's spending would be "reasonably representative" of capex spending for the remainder of the year. Update—October 29, 2025: This story has been updated with the latest options and stock prices.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq eye fresh records Nvidia provides lift ahead of earnings, Fed tests
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-eye-fresh-records-nvidia-provides-lift-ahead-of-earnings-fed-tests-133435567.html
-Time Published: 2025-10-28T19:28:24Z
-Description: Wall Street is sifting through the latest earnings as the Fed meeting kicks off.
---------------------------------------------------
-
-Title: Microsoft, OpenAI agree to new for-profit deal. Windows maker gets 27% stake.
-URL: https://finance.yahoo.com/news/microsoft-openai-agree-to-new-for-profit-deal-windows-maker-gets-27-stake-142521183.html
-Time Published: 2025-10-28T14:25:21Z
-Description: Microsoft and OpenAI on Tuesday said they have reached a new agreement that lets the ChatGPT developer move forward with its plans to transform into a for...
---------------------------------------------------
-
-Title: Amazon layoffs 2025: Why 14,000 jobs are being cut, which Amazon divisions are most affected, and how Amazon stock is reacting
-URL: https://economictimes.indiatimes.com/news/international/us/amazon-layoffs-2025-why-14000-jobs-are-being-cut-which-amazon-divisions-are-most-affected-and-how-amazon-stock-is-reacting/articleshow/124874824.cms
-Time Published: 2025-10-28T13:47:23Z
-Full Content:
-Amazon layoffs 2025 shook the tech world. The company is cutting 14,000 corporate jobs. That’s about 4% of its white-collar staff. The move is to boost its AI transformation. Most cuts hit tech and office roles, not warehouses. CEO Andy Jassy said Amazon must get leaner and faster. Investors liked the shift. Amazon stock (AMZN) traded near $226.97, edging higher. Wolfe Research kept its $270 target, citing stronger margins and AI growth. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Clayton Kershaw’s wife Ellen gets emotional during his dramatic World Series appearance - WATCH Porsche recalls over 3,000 vehicles in Canada across several models over safety issues which can lead to crash; check list of affected models and what you can do if yours is on the list Who was Dr. Agron Alija? Physician who died in Canada in a head on crash; how did he die; all you need to know Trump tells cattle ranchers to lower prices amid Argentina beef import plan, sparks industry backlash Alberta Premier sets Monday deadline for back-to-work legislation as teachers strike enters third week Popeyes franchisee placed in receivership over $10.8 million debt, unpaid wages Mark Carney unveils immigration plan to attract workers hit by US visa fee hikes - Here’s what Canadians can expect in federal budget Foo Fighters set to rock Detroit with monumental Ford Field concert in August 2026 Benjamin Netanyahu would be arrested if he enters Canada, affirms Canadian Prime Minister Mark Carney to enforce ICC arrest warrant Tony Wakeham causes major upset in Newfoundland and Labrador; more on former basketball coach, PC Party’s win and what it means for the region Verijet files chapter 7 bankruptcy after CEO Kane’s death; private jet operator collapses amid $38.7M liabilities and legal turmoil Mario Pelchat partner Claire Lemaître-Auger: fashion designer and vineyard co-owner celebrates 30 years together Katy Perry and Justin Trudeau spotted kissing on yacht in California, confirming romance rumors Amazon to cut 14,000 jobs amid AI overhaul GOI announces formation of 8th pay commission and more Pawan Singh extends warm wishes on Chhath Mahaparv ‘Big mistake with India: Ex-US Commerce Secy blasts Trump’s tariff Charlie Kirk’s daughter’s heartfelt moment in emotional video Watch: Hurricane hunters fly into Melissa’s eye President Trump visits USS George Washington Odisha’s Ganjam braces for Cyclone ‘Montha’ Delhi CM Rekha Gupta performs Chhath Puja at Hathi Ghat Farage slams Starmer for staying frozen on grooming gang cases Amazon to cut 14,000 jobs amid AI overhaul GOI announces formation of 8th pay commission and more Pawan Singh extends warm wishes on Chhath Mahaparv ‘Big mistake with India: Ex-US Commerce Secy blasts Trump’s tariff Charlie Kirk’s daughter’s heartfelt moment in emotional video Watch: Hurricane hunters fly into Melissa’s eye President Trump visits USS George Washington Odisha’s Ganjam braces for Cyclone ‘Montha’ Delhi CM Rekha Gupta performs Chhath Puja at Hathi Ghat Farage slams Starmer for staying frozen on grooming gang cases Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Prime Articles Top Slideshow Top Commodities Private Companies Top Story Listing Top Definitions Most Searched IFSC Codes Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
 --------------------------------------------------
