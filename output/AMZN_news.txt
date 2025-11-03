@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Piper Sandler Raises Amazon (AMZN) Price Target as AWS Growth Reaccelerates
+URL: https://finance.yahoo.com/news/piper-sandler-raises-amazon-amzn-112837066.html
+Time Published: 2025-11-02T11:28:37Z
+Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the AI Stocks on the Market’s Radar. On October 31, Piper Sandler raised its price target on the stock to $300 from ...
+--------------------------------------------------
+
 Title: Weekly Market Wrap: First Solar, Amazon lead, Starbucks slips
 URL: https://www.thestreet.com/investing/stocks/weekly-market-wrap-first-solar-amazon-lead-starbucks-slips
 Time Published: 2025-11-02T02:29:42Z
