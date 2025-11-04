@@ -1,5 +1,35 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Microsoft's $9.7 billion deal with IREN shows bitcoin miners' AI pivot is paying off
+URL: https://finance.yahoo.com/news/microsofts-97-billion-deal-with-iren-shows-bitcoin-miners-ai-pivot-is-paying-off-165316526.html
+Time Published: 2025-11-03T16:53:16Z
+Description: IREN said that it struck a five-year agreement making Microsoft its largest customer.
+--------------------------------------------------
+
+Title: Big Tech's rising AI investments show market bubble 'still has a good ways to go'
+URL: https://finance.yahoo.com/news/big-techs-rising-ai-investments-show-market-bubble-still-has-a-good-ways-to-go-154416770.html
+Time Published: 2025-11-03T15:44:16Z
+Description: Alphabet, Amazon, and Meta raised their capital expenditure forecasts in the tech giants' most recent earnings reports.
+--------------------------------------------------
+
+Title: Stock market today: Dow slips, Nasdaq pops as Amazon's OpenAI deal boosts AI bets
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slips-nasdaq-pops-as-amazons-openai-deal-boosts-ai-bets-143720746.html
+Time Published: 2025-11-03T14:37:20Z
+Description: US stock futures made gains, with Wall Street looking to maintain upward momentum.
+--------------------------------------------------
+
+Title: Is Big Tech’s soaring AI spending creating a bubble? Here’s what it means for stocks.
+URL: https://www.marketwatch.com/story/is-big-techs-soaring-ai-spending-creating-a-bubble-heres-what-it-means-for-stocks-39fdd0d3
+Time Published: 2025-11-03T13:39:00Z
+Description: Bulls say the tech rally can keep going, while bears warn of a repeat of the early-2000s dot-com crash.
+--------------------------------------------------
+
+Title: Gemini 3 Anticipation Builds Amid OpenAI Rivalry. Is Google Stock A Buy?
+URL: https://www.investors.com/news/technology/google-stock-buy-alphabet-stock-november-2025/
+Time Published: 2025-11-03T13:01:35Z
+Description: Google seems to be in the artificial intelligence winners circle. But it may have to share it with OpenAI. Will Gemini 3 make a difference?
+--------------------------------------------------
+
 Title: Microsoft (MSFT) Maintains Buy Rating at Truist After Solid Fiscal Q1 Results
 URL: https://finance.yahoo.com/news/microsoft-msft-maintains-buy-rating-112741532.html
 Time Published: 2025-11-02T11:27:41Z
