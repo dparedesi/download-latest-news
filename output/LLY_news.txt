@@ -53,27 +53,3 @@ URL: https://www.barchart.com/story/news/35786857/stocks-fall-before-the-open-af
 Time Published: 2025-10-30T10:20:38Z
 Description: December S&P 500 E-Mini futures (ESZ25) are down -0.18%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.20% this morning as investors weigh the...
 --------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures struggle after Trump-Xi truce with Big Tech earnings ahead
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-struggle-after-trump-xi-truce-with-big-tech-earnings-ahead-224956363.html
-Time Published: 2025-10-29T22:49:56Z
-Description: Wall Street eyed a US-China truce agreed by Trump and Xi, cooling hopes for a December rate cut and the next batch of Big Tech earnings.
---------------------------------------------------
-
-Title: Stocks Pressured as Fed Chair Powell Downplays Further Rate Cuts
-URL: https://www.barchart.com/story/news/35774802/stocks-pressured-as-fed-chair-powell-downplays-further-rate-cuts
-Time Published: 2025-10-29T20:35:52Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed unchanged, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.16%, and the Nasdaq 100 Index ...
---------------------------------------------------
-
-Title: Earnings live: Meta stock tumbles, Microsoft slides, and Alphabet rises as Big Tech earnings pour in
-URL: https://finance.yahoo.com/news/live/earnings-live-meta-stock-tumbles-microsoft-slides-and-alphabet-rises-as-big-tech-earnings-pour-in-203356226.html
-Time Published: 2025-10-29T20:33:56Z
-Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
---------------------------------------------------
-
-Title: Earnings live: Boeing stock slips as cash burn improves, Caterpillar and Verizon rise, Enphase tumbles
-URL: https://finance.yahoo.com/news/live/earnings-live-boeing-stock-slips-as-cash-burn-improves-caterpillar-and-verizon-rise-enphase-tumbles-121132329.html
-Time Published: 2025-10-29T12:11:32Z
-Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
---------------------------------------------------
