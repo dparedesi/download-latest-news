@@ -1,25 +1,19 @@
 List of news related to Merck & Co stock price MRK:
 
+Title: Stocks See Support From M&A and AI Optimism
+URL: https://www.barchart.com/story/news/35867547/stocks-see-support-from-m-a-and-ai-optimism
+Time Published: 2025-11-03T16:38:50Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.07% the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.43%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
+--------------------------------------------------
+
+Title: Are Wall Street Analysts Predicting Merck & Co. Stock Will Climb or Sink?
+URL: https://www.barchart.com/story/news/35860224/are-wall-street-analysts-predicting-merck-co-stock-will-climb-or-sink
+Time Published: 2025-11-03T12:11:31Z
+Description: Despite Merck & Co.’s underperformance relative to the broader market over the past year, Wall Street analysts remain moderately optimistic about the stock’s...
+--------------------------------------------------
+
 Title: Earnings live: Amazon stock soars, Apple CEO predicts 'best-ever' quarter; Exxon, Chevron post strong earnings
 URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-ceo-predicts-best-ever-quarter-exxon-chevron-post-strong-earnings-115006428.html
 Time Published: 2025-10-31T11:50:06Z
-Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
---------------------------------------------------
-
-Title: Earnings live: Amazon stock soars, Apple CEO predicts 'best-ever' holiday quarter, Reddit and Coinbase rise
-URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-ceo-predicts-best-ever-holiday-quarter-reddit-and-coinbase-rise-204131316.html
-Time Published: 2025-10-30T20:41:31Z
-Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
---------------------------------------------------
-
-Title: Earnings live: Amazon stock soars on AWS growth, Apple wavers, Reddit and Coinbase move higher
-URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-on-aws-growth-apple-wavers-reddit-and-coinbase-move-higher-204131223.html
-Time Published: 2025-10-30T20:41:31Z
-Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
---------------------------------------------------
-
-Title: Earnings live: Meta stock tumbles, Microsoft slides, and Alphabet jumps as Big Tech earnings pour in
-URL: https://finance.yahoo.com/news/live/earnings-live-meta-stock-tumbles-microsoft-slides-and-alphabet-jumps-as-big-tech-earnings-pour-in-121919945.html
-Time Published: 2025-10-30T12:19:19Z
 Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------

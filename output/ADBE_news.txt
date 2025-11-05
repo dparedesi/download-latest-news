@@ -23,15 +23,3 @@ URL: https://www.marketwatch.com/story/everyones-asking-the-wrong-question-about
 Time Published: 2025-10-31T11:31:00Z
 Description: Everyone’s asking the wrong question about an AI bubble. Here are the stocks to buy — and when.
 --------------------------------------------------
-
-Title: Ashes to Alpha: Adobe’s (ADBE) Implosion Offers an Opportunity for a Rebound
-URL: https://www.barchart.com/story/news/35794447/ashes-to-alpha-adobes-adbe-implosion-offers-an-opportunity-for-a-rebound
-Time Published: 2025-10-30T13:15:01Z
-Description: While Adobe’s creativity conference failed to excite investors, ADBE stock is also flashing a quant signal that statistically points to potential upside.
---------------------------------------------------
-
-Title: Adobe Systems Bear Put Spread Could Return 233% in this Down Move
-URL: https://www.barchart.com/story/news/35788054/adobe-systems-bear-put-spread-could-return-233-in-this-down-move
-Time Published: 2025-10-30T11:00:02Z
-Description: Adobe Systems (ADBE) stock was a bearish candidate that came up on one of my Barchart Stock Screeners having broken below the 50-day moving average.
---------------------------------------------------

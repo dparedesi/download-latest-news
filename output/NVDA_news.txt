@@ -1,15 +1,58 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures sink as worries about frothy valuations run high
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-as-worries-about-frothy-valuations-run-high-234947080.html
+Time Published: 2025-11-03T23:49:47Z
+Description: Techs led a sharp retreat before the bell as doubts about valuations and the recent rally emerge.
+--------------------------------------------------
+
+Title: S&P 500 Gains & Losses Today: Amazon Stock Jumps After OpenAI Deal; Kimberly-Clark Acquires Kenvue
+URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-amazon-stock-jumps-after-openai-deal-kimberly-clark-acquires-kenvue-11842271
+Time Published: 2025-11-03T21:21:51Z
+Full Content:
+A linkup with an artificial intelligence player helped power shares of a top cloud-computing services company higher Monday, while an acquisition in the consumer goods space sent the two stocks on divergent paths. Major U.S. equities indexes ended the first trading day of November mixed, kicking off a market week that will bring a wave of big-name quarterly reports. The S&P 500 added 0.2%, while the Nasdaq was up 0.5%. The Dow ended the session 0.5% lower. For more from Investopedia on the day's major market news, click here. IDEXX Laboratories (IDXX) shares jumped 15%, the best performance on the S&P 500 today, after the pet health specialist reported better-than-expected third quarter sales and profit. The company raised its 2025 revenue and earnings per share guidance, highlighting global customer adoption of its new diagnostic tools, which IDEXX says can help veterinarian teams increase clinical insights and streamline their workflows. Paper products giant Kimberly-Clark (KMB) said it would buy Tylenol, Band-Aid, and Listerine parent company Kenvue (KVUE) in a cash-and-stock deal valued at around $49 billion. Kenvue, which completed a spin-off from Johnson & Johnson (JNJ) in 2023, has been navigating litigation over allegations that its talcum powder causes cancer and statements from the Trump administration linking Tylenol to autism. Kenvue shares rose more than 12% Monday following the announcement of the deal, which came at a significant premium to Friday's closing price for Kenvue stock, while Kimberly-Clark shares plunged more than 14%. The latter company's shares were the worst performers on the S&P 500 today. Amazon (AMZN) shares jumped 5% after ChatGPT owner OpenAI signed an agreement to buy more than $38 billion worth of capacity its Amazon Web Services cloud unit. OpenAI said the deal to use AWS infrastructure would provide it with access to a significant number of Nvidia (NVDA) graphics processing units that could be employed to train its AI models. Nvidia shares gained 2.2%. Moderna (MRNA) stock sank 8.3% Monday, reversing a portion of the gains posted last week amid reports that the vaccine maker had held strategic talks with a major pharmaceutical company about a potential partnership or sale. Waning enthusiasm around a possible deal and concerns about the company's financial situation overshadowed Moderna's announcement that it administered the first dose in an early stage study of its experimental multiple myeloma therapy. KeyBanc downgraded Charter Communications (CHTR) stock to "sector weight" from "overweight" after the cable and internet provider reported lower-than-expected third-quarter sales and profit in its most-recent quarterly release. Analysts cited competitive headwinds to Charter's broadband subscriber growth, which can affect its free cash flow. Its stock fell about 5%.
+--------------------------------------------------
+
+Title: Qualcomm set to report Q4 earnings as it enters AI data center market
+URL: https://finance.yahoo.com/news/qualcomm-set-to-report-q4-earnings-as-it-enters-ai-data-center-market-202724807.html
+Time Published: 2025-11-03T20:27:24Z
+Description: Qualcomm will report its Q4 earnings after the bell Wednesday.
+--------------------------------------------------
+
+Title: AMD to report Q3 earnings following massive OpenAI, Oracle chip deals
+URL: https://finance.yahoo.com/news/amd-to-report-q3-earnings-following-massive-openai-oracle-chip-deals-202400565.html
+Time Published: 2025-11-03T20:24:34Z
+Description: AMD to report Q3 earnings after the bell Tuesday.
+--------------------------------------------------
+
 Title: Trump Imposes Export Ban On Nvidia Blackwell AI Chip — China's Tech Dreams Face a Setback
 URL: https://www.ibtimes.com/trump-imposes-export-ban-nvidia-blackwell-ai-chip-chinas-tech-dreams-face-setback-3789319
 Time Published: 2025-11-03T18:48:47Z
 Description: The US-China tech rivalry intensifies as President Donald Trump confirms an export ban on Nvidia's most advanced Blackwell AI chips, reserving them exclusively for American companies.
 --------------------------------------------------
 
+Title: Morgan Stanley issues shock take on the stock market
+URL: https://www.thestreet.com/investing/morgan-stanley-issues-shock-take-on-the-stock-market
+Time Published: 2025-11-03T18:47:00Z
+Description: The stock market’s been on a long, confident run since late 2022, but Morgan Stanley’s Andrew Slimmon feels we’re moving swiftly towards the final act. The...
+--------------------------------------------------
+
+Title: Six cheap stocks of S&P 500 companies expected to grow quickly through 2027
+URL: https://www.marketwatch.com/story/six-cheap-stocks-of-s-p-500-companies-expected-to-grow-quickly-through-2027-646fe5b1
+Time Published: 2025-11-03T17:09:00Z
+Description: These stocks have also shown recent earnings momentum, with increases to consensus estimates.
+--------------------------------------------------
+
 Title: Uber Q3 preview: Strong earnings, forward guidance, and autonomous outlook key for investors
 URL: https://finance.yahoo.com/news/uber-q3-preview-strong-earnings-forward-guidance-and-autonomous-outlook-key-for-investors-170159679.html
 Time Published: 2025-11-03T17:01:59Z
 Description: Uber will report third quarter earnings before the bell on Tuesday as the ride-hailing giant looks to continue its strong run this year. The results follow a...
+--------------------------------------------------
+
+Title: Stocks See Support From M&A and AI Optimism
+URL: https://www.barchart.com/story/news/35867547/stocks-see-support-from-m-a-and-ai-optimism
+Time Published: 2025-11-03T16:38:50Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.07% the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.43%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
 --------------------------------------------------
 
 Title: Oppenheimer Initiates Coverage on TeraWulf (WULF) with Outperform Rating
@@ -22,6 +65,18 @@ Title: Is Rigetti Computing (RGTI) One of the Best Performing Stocks in the Last
 URL: https://finance.yahoo.com/news/rigetti-computing-rgti-one-best-161555792.html
 Time Published: 2025-11-03T16:15:55Z
 Description: Rigetti Computing, Inc. (NASDAQ:RGTI) is one of the 12 Best Performing Stocks in the Last 3 Months. On October 29, Craig-Hallum analyst Richard Shannon...
+--------------------------------------------------
+
+Title: This Robotaxi Stock Just Scored a Major Win. Should You Buy It Here?
+URL: https://www.barchart.com/story/news/35867072/this-robotaxi-stock-just-scored-a-major-win-should-you-buy-it-here
+Time Published: 2025-11-03T16:06:13Z
+Description: WeRide just got a driverless taxi permit for the UAE.
+--------------------------------------------------
+
+Title: Stocks See Support From M&A and AI Optimism
+URL: https://www.barchart.com/story/news/35865878/stocks-see-support-from-m-a-and-ai-optimism
+Time Published: 2025-11-03T15:03:46Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.08% the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
 --------------------------------------------------
 
 Title: AWS and OpenAI announce multi-year strategic partnership - About Amazon
@@ -59,6 +114,12 @@ Title: Amazon, OpenAI ink massive $38B deal to supply 'hundreds of thousands' of
 URL: https://slashdot.org/firehose.pl?op=view&amp;id=179951036
 Time Published: 2025-11-03T14:32:58Z
 Description: Amazon, OpenAI ink massive $38B deal to supply 'hundreds of thousands' of Nvidia GPUs (AMZN:NASDAQ)Seeking Alpha OpenAI signs $38 billion compute deal with Amazon, partnering with cloud leader for first timeCNBC AWS and OpenAI announce multi-year strategic pa…
+--------------------------------------------------
+
+Title: Market Minute 11-3-25- Kimberly-Kenvue Ink $40 BLN Deal
+URL: https://finance.yahoo.com/news/market-minute-11-3-25-142000392.html
+Time Published: 2025-11-03T14:20:00Z
+Description: Stocks are mixed in the early going after last week’s solid finish. Gold and silver are rising modestly, while the dollar, Treasuries, and crude oil are...
 --------------------------------------------------
 
 Title: Analyst Says NVIDIA (NVDA) Price/Sales Ratio is a ‘Big Number’ – ‘We Shall See’
@@ -216,7 +277,7 @@ Title: Apple shares hit new all-time intraday high
 URL: https://macdailynews.com/2025/10/31/apple-shares-hit-new-all-time-intraday-high-12/
 Time Published: 2025-10-31T20:37:20Z
 Full Content:
-Update font size. Reset In Nasdaq trading today, shares of Apple Inc. (AAPL) rose $5.92 to $277.32, a new all-time intraday high. Apple’s all-time closing high was set yesterday at $271.40. Apple’s 52-week low stands at $169.21 set on April 8, 2025, the very date on which we wrote, “Sub-$170 AAPL seems like an absolute gift to us…” Today’s trading volume for AAPL shares was 75,267,591 versus Apple’s average trading volume of 54,588,395 shares. Apple’s PE Ratio currently stands at 40.97. Apple currently has a market value of $4.012 trillion, making it the world’s second-most valuable company. The top five U.S. publicly-traded companies, based on market value: Selected companies’ current market values: • Meta Platforms (META) – $1.634T • Taiwan Semi (TSM) – $1.558T • Tesla (TSLA) – $1.518T • Berkshire Hathaway (BRK-A) – $1.029T • Walmart (WMT) – $806.639B • Netflix (NFLX) – $474.097B • Advanced Micro Devices (AMD) – $415.643B • Cisco (CSCO) – $288.106B • IBM (IBM) – $287.347B • SoftBank (SFTBF) – $255.002B • Disney (DIS) – $202.483B • Intel (INTC) – $190.592B • Sony (SONY) – $166.367B • Adobe (ADBE) – $142.454B • Spotify (SPOT) – $134.850B • Dell (DELL) – $108.579B • Nokia (NOK) – $37.354B • Hewlett-Packard (HPQ) – $25.863B • SiriusXM (SIRI) – $7.304B • BlackBerry (BB) – $2.894B • Sonos (SONO) – $2.076B • RealNetworks (RNWK) was delisted from U.S. exchanges on December 21, 2022 and is no longer publicly traded.🍩 Apple all-time high (AAPL) via NASDAQ here. MacDailyNews Take: Happy Halloween, everyone! Please help support MacDailyNews — and enjoy subscriber-only articles, comments, chat, and more — by subscribing to our Substack: macdailynews.substack.com. Thank you! Support MacDailyNews at no extra cost to you by using this link to shop at Amazon. Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Notify me of follow-up comments by email. Notify me of new posts by email. Δ This site uses Akismet to reduce spam. Learn how your comment data is processed. While many of the largest tech companies race to build massive data centers for their artificial intelligence ambitions, Apple is taking a… Apple is holding back on AI data center spending. Its free cash flow is fueling the tech industry’s largest buybacks program… Wedbush analysts led by Daniel Ives raised their target price on Apple to $320 per share from $310 to reflect what they called “increased… Apple is stockpiling components for its first foldable iPhone ahead of a planned launch next year. The device, tentatively dubbed… Apple CEO Tim Cook described the global response to the latest iPhones as “tremendous” during the release of the company’s… Enter your email address to follow MacDailyNews and receive notifications of new posts by email. Email Address Follow :-)
+Update font size. Reset In Nasdaq trading today, shares of Apple Inc. (AAPL) rose $5.92 to $277.32, a new all-time intraday high. Apple’s all-time closing high was set yesterday at $271.40. Apple’s 52-week low stands at $169.21 set on April 8, 2025, the very date on which we wrote, “Sub-$170 AAPL seems like an absolute gift to us…” Today’s trading volume for AAPL shares was 75,267,591 versus Apple’s average trading volume of 54,588,395 shares. Apple’s PE Ratio currently stands at 40.97. Apple currently has a market value of $4.012 trillion, making it the world’s second-most valuable company. The top five U.S. publicly-traded companies, based on market value: Selected companies’ current market values: • Meta Platforms (META) – $1.634T • Taiwan Semi (TSM) – $1.558T • Tesla (TSLA) – $1.518T • Berkshire Hathaway (BRK-A) – $1.029T • Walmart (WMT) – $806.639B • Netflix (NFLX) – $474.097B • Advanced Micro Devices (AMD) – $415.643B • Cisco (CSCO) – $288.106B • IBM (IBM) – $287.347B • SoftBank (SFTBF) – $255.002B • Disney (DIS) – $202.483B • Intel (INTC) – $190.592B • Sony (SONY) – $166.367B • Adobe (ADBE) – $142.454B • Spotify (SPOT) – $134.850B • Dell (DELL) – $108.579B • Nokia (NOK) – $37.354B • Hewlett-Packard (HPQ) – $25.863B • SiriusXM (SIRI) – $7.304B • BlackBerry (BB) – $2.894B • Sonos (SONO) – $2.076B • RealNetworks (RNWK) was delisted from U.S. exchanges on December 21, 2022 and is no longer publicly traded.🍩 Apple all-time high (AAPL) via NASDAQ here. MacDailyNews Take: Happy Halloween, everyone! Please help support MacDailyNews — and enjoy subscriber-only articles, comments, chat, and more — by subscribing to our Substack: macdailynews.substack.com. Thank you! Support MacDailyNews at no extra cost to you by using this link to shop at Amazon. Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Notify me of follow-up comments by email. Notify me of new posts by email. Δ This site uses Akismet to reduce spam. Learn how your comment data is processed. Apple is gearing up to launch its first budget MacBook, targeting cost-conscious buyers of Chromebooks and entry-level Windows laptops… “Pluribus” is Apple TV’s the highly anticipated drama hailing from writer and director Vince Gilligan, the creator of “Breaking Bad” and… Apple analyst’s focus is increasingly shifting to the high bar set for the new Siri, expected around April of next year. Anticipation of that… Apple on Monday released watchOS 26.1 which includes improvements and bug fixes. For information on the security content… Apple on Monday released iPadOS 26.1 which includes the following features and enhancements: Slide Over lets you keep a window on top… Enter your email address to follow MacDailyNews and receive notifications of new posts by email. Email Address Follow :-)
 --------------------------------------------------
 
 Title: This Pair of New 2X ETFs Goes Double or Nothing on Big Tech. Should You Chase the Volatility in Apple, Nvidia, and Microsoft Now?
@@ -248,64 +309,4 @@ Title: Nvidia CEO Jensen Huang Says You Can ‘Tokenize Anything’ But You’ll
 URL: https://www.barchart.com/story/news/35834490/nvidia-ceo-jensen-huang-says-you-can-tokenize-anything-but-youll-need-thousands-of-chips-thats-good-news-for-nvda-stock
 Time Published: 2025-10-31T19:14:11Z
 Description: Huang recently discussed the build-out of AI gigafactories and Nvidia's role.
---------------------------------------------------
-
-Title: Amazon Stock Popped on Earnings. Options Data Tells Us AMZN Could Be Headed Here Next.
-URL: https://www.barchart.com/story/news/35832637/amazon-stock-popped-on-earnings-options-data-tells-us-amzn-could-be-headed-here-next
-Time Published: 2025-10-31T17:28:04Z
-Description: Amazon stock soars as AWS posts its strongest quarterly growth since 2022. Options data suggests AMZN shares will push higher through the remainder of 2025.
---------------------------------------------------
-
-Title: Texas company shareholders reject $9B acquisition by Nvidia-backed AI firm
-URL: https://www.thestreet.com/crypto/business/bitcoin-mining-nvidia-ai-deal
-Time Published: 2025-10-31T16:26:56Z
-Description: Shareholders of the Austin, Texas-based Bitcoin (BTC) mining company Core Scientific (Nasdaq: CORZ) have rejected a $9 billion merger deal with the AI cloud ...
---------------------------------------------------
-
-Title: Palantir Q3 Preview: Can $1B Repeat?
-URL: https://finance.yahoo.com/news/palantir-q3-preview-1b-repeat-140243253.html
-Time Published: 2025-10-31T14:02:43Z
-Description: Investors eye reaccelerating AI growth and a demanding valuation.
---------------------------------------------------
-
-Title: Stocks Rally on Strong Amazon Earnings
-URL: https://www.barchart.com/story/news/35827861/stocks-rally-on-strong-amazon-earnings
-Time Published: 2025-10-31T14:01:20Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.46%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Analyst Sentiment Remains Broadly Bullish on NVIDIA (NVDA)
-URL: https://finance.yahoo.com/news/analyst-sentiment-remains-broadly-bullish-135829659.html
-Time Published: 2025-10-31T13:58:29Z
-Description: Man GLG holds $1.66 billion worth of NVIDIA Corporation (NASDAQ:NVDA) shares, representing 3.17% of its 13-F portfolio as of Q2 2025. The company is included...
---------------------------------------------------
-
-Title: AMD Earnings On Watch -- Major Q3 Reveal Coming Next Week
-URL: https://finance.yahoo.com/news/amd-earnings-watch-major-q3-121950182.html
-Time Published: 2025-10-31T12:19:50Z
-Description: Wall Street Goes All-In on AMD as Critical AI Earnings Showdown Nears
---------------------------------------------------
-
-Title: Jim Cramer Recalls When He “Doubted” NVIDIA (NVDA) CEO Jensen Huang
-URL: https://finance.yahoo.com/news/jim-cramer-recalls-doubted-nvidia-115204598.html
-Time Published: 2025-10-31T11:52:04Z
-Description: We recently published Jim Cramer Talked About These 14 Stocks & Discussed AI And Layoffs. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer...
---------------------------------------------------
-
-Title: The AI boom is over — here’s your bubble survival guide
-URL: https://www.marketwatch.com/story/everyones-asking-the-wrong-question-about-an-ai-bubble-here-are-the-stocks-to-buy-and-when-b3fddce5
-Time Published: 2025-10-31T11:31:00Z
-Description: Everyone’s asking the wrong question about an AI bubble. Here are the stocks to buy — and when.
---------------------------------------------------
-
-Title: Here’s how Nvidia’s Jensen Huang answers the AI bubble question
-URL: https://www.marketwatch.com/story/heres-how-nvidias-jensen-huang-answers-the-ai-bubble-question-8ef4e0fc
-Time Published: 2025-10-31T11:10:00Z
-Description: Jensen Huang thinks AI is now useful to people and companies , and it’s profitable and so corporates will want to invest more.
---------------------------------------------------
-
-Title: The great AI buildout shows no sign of slowing
-URL: https://finance.yahoo.com/news/great-ai-buildout-shows-no-100532758.html
-Time Published: 2025-10-31T10:05:32Z
-Description: (Reuters) -A momentous week in the technology sector made it clear there is no sign the boom in building artificial intelligence infrastructure is slowing — ...
 --------------------------------------------------

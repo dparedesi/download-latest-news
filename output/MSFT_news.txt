@@ -1,9 +1,33 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures sink as worries about frothy valuations run high
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-as-worries-about-frothy-valuations-run-high-234947080.html
+Time Published: 2025-11-03T23:49:47Z
+Description: Techs led a sharp retreat before the bell as doubts about valuations and the recent rally emerge.
+--------------------------------------------------
+
+Title: Morgan Stanley issues shock take on the stock market
+URL: https://www.thestreet.com/investing/morgan-stanley-issues-shock-take-on-the-stock-market
+Time Published: 2025-11-03T18:47:00Z
+Description: The stock market’s been on a long, confident run since late 2022, but Morgan Stanley’s Andrew Slimmon feels we’re moving swiftly towards the final act. The...
+--------------------------------------------------
+
+Title: Six cheap stocks of S&P 500 companies expected to grow quickly through 2027
+URL: https://www.marketwatch.com/story/six-cheap-stocks-of-s-p-500-companies-expected-to-grow-quickly-through-2027-646fe5b1
+Time Published: 2025-11-03T17:09:00Z
+Description: These stocks have also shown recent earnings momentum, with increases to consensus estimates.
+--------------------------------------------------
+
 Title: Microsoft's $9.7 billion deal with IREN shows bitcoin miners' AI pivot is paying off
 URL: https://finance.yahoo.com/news/microsofts-97-billion-deal-with-iren-shows-bitcoin-miners-ai-pivot-is-paying-off-165316526.html
 Time Published: 2025-11-03T16:53:16Z
 Description: IREN said that it struck a five-year agreement making Microsoft its largest customer.
+--------------------------------------------------
+
+Title: Stocks See Support From M&A and AI Optimism
+URL: https://www.barchart.com/story/news/35867547/stocks-see-support-from-m-a-and-ai-optimism
+Time Published: 2025-11-03T16:38:50Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.07% the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.43%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
 --------------------------------------------------
 
 Title: Big Tech's rising AI investments show market bubble 'still has a good ways to go'
@@ -12,10 +36,22 @@ Time Published: 2025-11-03T15:44:16Z
 Description: Alphabet, Amazon, and Meta raised their capital expenditure forecasts in the tech giants' most recent earnings reports.
 --------------------------------------------------
 
+Title: Stocks See Support From M&A and AI Optimism
+URL: https://www.barchart.com/story/news/35865878/stocks-see-support-from-m-a-and-ai-optimism
+Time Published: 2025-11-03T15:03:46Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.08% the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
+--------------------------------------------------
+
 Title: Stock market today: Dow slips, Nasdaq pops as Amazon's OpenAI deal boosts AI bets
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slips-nasdaq-pops-as-amazons-openai-deal-boosts-ai-bets-143720746.html
 Time Published: 2025-11-03T14:37:20Z
 Description: US stock futures made gains, with Wall Street looking to maintain upward momentum.
+--------------------------------------------------
+
+Title: Market Minute 11-3-25- Kimberly-Kenvue Ink $40 BLN Deal
+URL: https://finance.yahoo.com/news/market-minute-11-3-25-142000392.html
+Time Published: 2025-11-03T14:20:00Z
+Description: Stocks are mixed in the early going after last week’s solid finish. Gold and silver are rising modestly, while the dollar, Treasuries, and crude oil are...
 --------------------------------------------------
 
 Title: Is Big Tech’s soaring AI spending creating a bubble? Here’s what it means for stocks.
@@ -100,72 +136,4 @@ Title: Here’s how Nvidia’s Jensen Huang answers the AI bubble question
 URL: https://www.marketwatch.com/story/heres-how-nvidias-jensen-huang-answers-the-ai-bubble-question-8ef4e0fc
 Time Published: 2025-10-31T11:10:00Z
 Description: Jensen Huang thinks AI is now useful to people and companies , and it’s profitable and so corporates will want to invest more.
---------------------------------------------------
-
-Title: Earnings live: Amazon stock soars, Apple CEO predicts 'best-ever' holiday quarter, Reddit and Coinbase rise
-URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-ceo-predicts-best-ever-holiday-quarter-reddit-and-coinbase-rise-204131316.html
-Time Published: 2025-10-30T20:41:31Z
-Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
---------------------------------------------------
-
-Title: Earnings live: Amazon stock soars on AWS growth, Apple wavers, Reddit and Coinbase move higher
-URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-on-aws-growth-apple-wavers-reddit-and-coinbase-move-higher-204131223.html
-Time Published: 2025-10-30T20:41:31Z
-Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
---------------------------------------------------
-
-Title: Stocks Settle Lower as Megacap Technology Stocks Slide
-URL: https://www.barchart.com/story/news/35807971/stocks-settle-lower-as-megacap-technology-stocks-slide
-Time Published: 2025-10-30T20:33:04Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -0.99%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.23%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Microsoft Stock (MSFT) Slides as Xbox Console Sales Fall 30% Year-Over-Year - TipRanks
-URL: https://slashdot.org/firehose.pl?op=view&amp;id=179917568
-Time Published: 2025-10-30T19:53:12Z
-Description: Microsoft Stock (MSFT) Slides as Xbox Console Sales Fall 30% Year-Over-YearTipRanks Xbox Q1 hardware sales down 29% while third-party content experiences "better-than-expected performance"GamesIndustry.biz Xbox FY26 Q1 earnings: Game Pass lifts revenue as con…
---------------------------------------------------
-
-Title: Welcome to the $4 Trillion Market Cap Club, Microsoft! Are There More Gains for MSFT Stock in Store?
-URL: https://www.barchart.com/story/news/35803765/welcome-to-the-4-trillion-market-cap-microsoft-are-there-more-gains-for-msft-stock-in-store
-Time Published: 2025-10-30T18:08:41Z
-Description: Microsoft is up over 900% in the past decade, valuing the Big Tech giant at $4 trillion. Can MSFT stock continue to rise over the next 12 months?
---------------------------------------------------
-
-Title: Meta Stock Falls Below $700 as Mark Zuckerberg Doubles Down on AI Spending: Time to Buy the Dip?
-URL: https://www.barchart.com/story/news/35801809/meta-stock-falls-below-700-as-mark-zuckerberg-doubles-down-on-ai-spending-time-to-buy-the-dip
-Time Published: 2025-10-30T16:58:04Z
-Description: Meta Platforms stock has fallen below $700 today after the company spooked markets with a massive one-time charge and upped its capex guidance. Should you...
---------------------------------------------------
-
-Title: Amazon Is Set To Report Earnings Today. Here's What Investors Should Know
-URL: https://www.investopedia.com/amazon-is-set-to-report-earnings-today-what-investors-should-know-11840316
-Time Published: 2025-10-30T16:55:58Z
-Full Content:
-Amazon is scheduled to report third-quarter earnings after markets close on Thursday, and all eyes are likely to be on the e-commerce giant’s cloud business. Amazon is expected to report third-quarter revenue of about $178 billion, a 12% increase from last year, according to analyst estimates compiled by Visible Alpha. Its earnings are expected to increase 10% to $1.57 a share. While Amazon’s e-commerce operation makes up the bulk of its business, investors will be most focused on its AI efforts, represented by cloud revenue and capital expenditures. Amazon’s cloud growth of 17.5% in the second quarter exceeded official expectations, but disappointed Wall Street after two blowout reports from competitors Microsoft (MSFT) and Alphabet (GOOG). On Wednesday, both of those companies again posted cloud revenue well ahead of Wall Street’s estimates, setting another high bar for Amazon to clear. Amazon's array of businesses spans e-commerce, logistics, advertising, cloud computing and more, making its results a partial reflection of the financial health of U.S. consumers and businesses. Its market capitalization—well over $2 trillion as of midday Thursday—makes its stock one of the most influential in the stock market. Investors may also be primed for Amazon to increase its capital expenditures guidance after Alphabet and Meta Platforms (META) did so with their reports Wednesday. Amazon’s second-quarter capex of $32.2 billion was about 25% higher than analysts expected. Wedbush analysts expect Amazon’s full-year capex to total $119 billion, implying growth of about 10% between the first and second halves of this year. “We are constructive on the setup leading into the report given positive commentary around [Amazon Web Services] growth, healthy trends for the core retail business, and strong advertiser demand,” wrote Wedbush analysts in a note late last week. Amazon stock has been the laggard of the Magnificent Seven recently, with shares up just 3% since the start of the year. Concerns about tariffs and lagging cloud growth have weighed on the stock. Some investors see the potential for shares to close the gap with the rest of the Mag 7 after earnings. Options prices on Thursday morning suggest traders expect Amazon stock to move about 6.3% in either direction by end of the week. A move higher off of Wednesday’s closing price would put shares around $244.75, which would be their first all-time high since early February, while an equivalent decline would put the stock at about $216. Wall Street is generally bullish on the outlook for Amazon stock, with all 22 of the analysts with current ratings tracked by Visible Alpha assigning it a “Buy” rating. Their median price target of $270 is nearly 20% above the stock’s intraday price on Thursday. This article has been updated since it was first published to reflect analysts’ estimates for Amazon's diluted earnings per share.
---------------------------------------------------
-
-Title: 5 Things to Know Before the Stock Market Opens
-URL: https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-october-30-2025-11840105
-Time Published: 2025-10-30T12:34:15Z
-Full Content:
-Stock futures are losing ground amid a barrage of earnings reports from major companies, as investors assess the latest developments in trade talks and Federal Reserve Chair Jerome Powell's warning that more rate cuts aren't a certainty; President Donald Trump said his meeting with Chinese leader Xi Jinping resulted in a rare earths mineral agreement and a reduction in certain tariffs on China; shares of Meta (META) and Microsoft (MSFT) are losing ground after the Magnificent Seven members reported results late yesterday, while Alphabet (GOOG) shares are surging after the Google parent reported more than $100 billion in quarterly sales; Apple (AAPL) and Amazon (AMZN) are due to release their quarterly reports after the closing bell; and Eli Lilly (LLY) shares are rising after the company reported strong sales of weight loss drug Zepbound and diabetes treatment Mounjaro. Here's what you need to know today. Stock futures are lower as investors digest a flurry of corporate earnings reports and evaluate the results of trade talks between the U.S. and China. The major indexes hit record highs yesterday but gave back early gains after Fed Chair Jerome Powell said that another interest rate cut at the upcoming December meeting was “not a foregone conclusion—far from it." The comments came after the Fed trimmed its benchmark rate for the second time in as many months to support a labor market that has weakened. Futures tied to the Dow Jones Industrial Average were down 0.4% recently, while those linked to the benchmark S&P 500 and the tech-focused Nasdaq slipped 0.2%. The yield on the 10-year Treasury note, which affects borrowing costs on a wide array of consumer and business loans, was at 4.10%, up from 4.06% at yesterday's close and at its highest level in three weeks. Bitcoin was at $109,800, down from an overnight high of around $111,600. Gold futures fell slightly from yesterday's close to $3,985 an ounce, and are well off the record high of near $4,400 set early last week. President Trump reportedly said that “a lot of decisions were made” in his meeting with Chinese leader Xi on Thursday, potentially signaling a thaw in trade relations between the two nations. Trump said that an agreement on rare earth minerals was reached after China restricted exports of the key product for high-tech manufacturing. The agreement will need to be renewed every year. Trump also said that U.S. tariffs targeting China’s fentanyl production were reduced to 10% from 20%, taking overall U.S. tariffs on Chinese products down to 47%. More negotiations could be coming as Trump said he will visit China in April, with Xi making a visit to the U.S. sometime after that. The agreements are expected to add some certainty to U.S. trade policy after tariff announcements roiled markets earlier this year. Shares of Microsoft (MSFT) and Meta (META) are lower in premarket trading after the Magnificent Seven members delivered their highly anticipated quarterly results, while Alphabet (GOOG) stock soared after the Google-parent hit a new revenue milestone. Alphabet’s earnings topped Wall Street expectations as quarterly revenues topped $100 billion for the first time, with each of its major business segments reporting sales growth of at least 10%. Microsoft also posted better-than-expected earnings as quarterly revenue jumped 18% year-over-year, led by 28% growth in cloud sales, though the stock fell amid concerns about the company's capital spending plan. Facebook parent Meta also reported strong revenue growth, but a one-time $16 billion tax charge helped sink its earnings well below estimates. Alphabet shares were up about 8% ahead of the opening bell, while Meta tumbled 9% and Microsoft declined 2%.. More Magnificent Seven company earnings are on tap today, with Apple (AAPL) and Amazon (AMZN) set to release results after the closing bell. Apple shares hit record highs recently, boosting its market capitalization above $4 trillion (only Nvidia and Microsoft have higher market values), following a report that showed solid sales of newly released iPhone 17 models. Apple’s stock has fallen after recent earnings reports on investor worries over its progress on AI products. Meanwhile, Amazon has been the laggard among “Mag 7” stocks this year, and options pricing suggests that traders expect a big move for the online retailer’s share price after the earnings report is released today. Apple shares were up 0.5% in recent premarket trading, while Amazon stock fell more than 1%. Eli Lilly (LLY) shares are rising after the drugmaker reported better-than-expected earnings on strong demand for its weight loss drug Zepbound and diabetes treatment Mounjaro. Lilly reported third-quarter revenue of $17.6 billion, a jump of 54% over the prior year and ahead of analyst estimates of $16.1 billion as tracked by Visible Alpha. The company’s adjusted earnings per share of $7.02 beat the consensus estimate of $5.91. Eli Lilly reported strong sales growth of key drugs, with worldwide Mounjaro revenue doubling to $6.52 billion, while U.S. sales of Zepbound nearly tripled to $3.57 billion. Eli Lilly shares were up 4% in recent premarket trading.
---------------------------------------------------
-
-Title: Earnings live: Meta stock tumbles, Microsoft slides, and Alphabet jumps as Big Tech earnings pour in
-URL: https://finance.yahoo.com/news/live/earnings-live-meta-stock-tumbles-microsoft-slides-and-alphabet-jumps-as-big-tech-earnings-pour-in-121919945.html
-Time Published: 2025-10-30T12:19:19Z
-Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
---------------------------------------------------
-
-Title: Jim Cramer Discusses Microsoft (MSFT)’s Control Over Productivity Software
-URL: https://finance.yahoo.com/news/jim-cramer-discusses-microsoft-msft-085406044.html
-Time Published: 2025-10-30T08:54:06Z
-Description: We recently published 11 Stocks Jim Cramer Discussed, Including A Potential “Worst Stock Ever”. Microsoft Corporation (NASDAQ:MSFT) is one of the stocks Jim ...
---------------------------------------------------
-
-Title: Are Wall Street Analysts Bullish on Microsoft Stock?
-URL: https://www.barchart.com/story/news/35780080/are-wall-street-analysts-bullish-on-microsoft-stock
-Time Published: 2025-10-30T02:26:13Z
-Description: As Microsoft has outperformed the S&P 500 Index over the past year, Wall Street analysts maintain a highly optimistic outlook about the stock’s prospects.
 --------------------------------------------------
