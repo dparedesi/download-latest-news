@@ -1,5 +1,11 @@
 List of news related to Axon Enterprise AXON:
 
+Title: Stocks Close Higher on M&A and AI Optimism
+URL: https://www.barchart.com/story/news/35873921/stocks-close-higher-on-m-a-and-ai-optimism
+Time Published: 2025-11-03T21:54:57Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Monday rose +0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) fell -0.52%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
 Title: Jim Cramer Says Axon is One of the “Long-Term Outperformers That You Simply Have to Consider Owning”
 URL: https://finance.yahoo.com/news/jim-cramer-says-axon-one-160646914.html
 Time Published: 2025-11-03T16:06:46Z

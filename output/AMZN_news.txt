@@ -12,6 +12,12 @@ Time Published: 2025-11-03T22:33:00Z
 Description: Amazon's (AMZN) artificial intelligence strategy is paying off. The company's third-quarter earnings report released on October 30 corroborates this. Amazon ...
 --------------------------------------------------
 
+Title: Stocks Close Higher on M&A and AI Optimism
+URL: https://www.barchart.com/story/news/35873921/stocks-close-higher-on-m-a-and-ai-optimism
+Time Published: 2025-11-03T21:54:57Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Monday rose +0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) fell -0.52%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
 Title: Earnings live: Palantir stock rises modestly on strong results, Hims & Hers stock surges
 URL: https://finance.yahoo.com/news/live/earnings-live-palantir-stock-rises-modestly-on-strong-results-hims--hers-stock-surges-213229940.html
 Time Published: 2025-11-03T21:32:29Z
@@ -23,6 +29,18 @@ URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-amazon-stoc
 Time Published: 2025-11-03T21:21:51Z
 Full Content:
 A linkup with an artificial intelligence player helped power shares of a top cloud-computing services company higher Monday, while an acquisition in the consumer goods space sent the two stocks on divergent paths. Major U.S. equities indexes ended the first trading day of November mixed, kicking off a market week that will bring a wave of big-name quarterly reports. The S&P 500 added 0.2%, while the Nasdaq was up 0.5%. The Dow ended the session 0.5% lower. For more from Investopedia on the day's major market news, click here. IDEXX Laboratories (IDXX) shares jumped 15%, the best performance on the S&P 500 today, after the pet health specialist reported better-than-expected third quarter sales and profit. The company raised its 2025 revenue and earnings per share guidance, highlighting global customer adoption of its new diagnostic tools, which IDEXX says can help veterinarian teams increase clinical insights and streamline their workflows. Paper products giant Kimberly-Clark (KMB) said it would buy Tylenol, Band-Aid, and Listerine parent company Kenvue (KVUE) in a cash-and-stock deal valued at around $49 billion. Kenvue, which completed a spin-off from Johnson & Johnson (JNJ) in 2023, has been navigating litigation over allegations that its talcum powder causes cancer and statements from the Trump administration linking Tylenol to autism. Kenvue shares rose more than 12% Monday following the announcement of the deal, which came at a significant premium to Friday's closing price for Kenvue stock, while Kimberly-Clark shares plunged more than 14%. The latter company's shares were the worst performers on the S&P 500 today. Amazon (AMZN) shares jumped 5% after ChatGPT owner OpenAI signed an agreement to buy more than $38 billion worth of capacity its Amazon Web Services cloud unit. OpenAI said the deal to use AWS infrastructure would provide it with access to a significant number of Nvidia (NVDA) graphics processing units that could be employed to train its AI models. Nvidia shares gained 2.2%. Moderna (MRNA) stock sank 8.3% Monday, reversing a portion of the gains posted last week amid reports that the vaccine maker had held strategic talks with a major pharmaceutical company about a potential partnership or sale. Waning enthusiasm around a possible deal and concerns about the company's financial situation overshadowed Moderna's announcement that it administered the first dose in an early stage study of its experimental multiple myeloma therapy. KeyBanc downgraded Charter Communications (CHTR) stock to "sector weight" from "overweight" after the cable and internet provider reported lower-than-expected third-quarter sales and profit in its most-recent quarterly release. Analysts cited competitive headwinds to Charter's broadband subscriber growth, which can affect its free cash flow. Its stock fell about 5%.
+--------------------------------------------------
+
+Title: Amazon Is Lifting Cipher Mining Stock. Is There More Upside in Store?
+URL: https://www.barchart.com/story/news/35871681/amazon-is-lifting-cipher-mining-stock-is-there-more-upside-in-store
+Time Published: 2025-11-03T21:02:35Z
+Description: Cipher Mining stock soars as the company announces a 15-year hosting agreement with AWS. Cantor Fitzgerald says CIFR shares will hit $26 within the next 12...
+--------------------------------------------------
+
+Title: Amazon Is Giving Marvell Technologies Stock a Huge Boost. Why, and Should You Buy MRVL Here?
+URL: https://www.barchart.com/story/news/35871129/amazon-is-giving-marvell-technologies-stock-a-huge-boost-why-and-should-you-buy-mrvl-here
+Time Published: 2025-11-03T20:24:27Z
+Description: Despite the recent rally, Marvell stock is down 17% in 2025. Is the chipmaker an attractive buy for value investors right now?
 --------------------------------------------------
 
 Title: Morgan Stanley issues shock take on the stock market
