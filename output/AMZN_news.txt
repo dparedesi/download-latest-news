@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: SoundHound to Post Q3 Earnings: Buy, Sell or Hold the Stock?
+URL: https://finance.yahoo.com/news/soundhound-post-q3-earnings-buy-131800552.html
+Time Published: 2025-11-04T13:18:00Z
+Description: Can SOUN's AI momentum across autos, restaurants and enterprise drive another strong quarter in Q3?
+--------------------------------------------------
+
+Title: Earnings live: Spotify stock jumps on strong results, Palantir and Uber stocks fall
+URL: https://finance.yahoo.com/news/live/earnings-live-spotify-stock-jumps-on-strong-results-palantir-and-uber-stocks-fall-125333292.html
+Time Published: 2025-11-04T12:53:33Z
+Description: Third quarter earnings season is in full swing, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
+--------------------------------------------------
+
 Title: Daily Market Wrap: Top Stocks - Amazon, Cipher, and Idexx Laboratories
 URL: https://www.thestreet.com/investing/stocks/daily-market-wrap-top-stocks-amazon-cipher-and-idexx-laboratories
 Time Published: 2025-11-04T02:50:55Z
