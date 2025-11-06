@@ -1,5 +1,17 @@
 List of news related to Shopify stock price SHOP:
 
+Title: Stocks Pressured Amid Valuation Concerns
+URL: https://www.barchart.com/story/news/35894193/stocks-pressured-amid-valuation-concerns
+Time Published: 2025-11-04T16:11:43Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.70%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.35%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
+Title: Stocks Retreat on Valuation Concerns
+URL: https://www.barchart.com/story/news/35892541/stocks-retreat-on-valuation-concerns
+Time Published: 2025-11-04T15:02:13Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.97%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.69%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq fall as tech leads sell-off amid worries over frothy valuations
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fall-as-tech-leads-sell-off-amid-worries-over-frothy-valuations-143449641.html
 Time Published: 2025-11-04T14:34:49Z
@@ -58,10 +70,4 @@ Title: Stocks Set to Extend Rally as Investors Await Key Earnings and Fed Speak
 URL: https://www.barchart.com/story/news/35858743/stocks-set-to-extend-rally-as-investors-await-key-earnings-and-fed-speak
 Time Published: 2025-11-03T11:12:33Z
 Description: December S&P 500 E-Mini futures (ESZ25) are up +0.42%, and December Nasdaq 100 E-Mini futures (NQZ25) are up +0.57% this morning, pointing to further gains...
---------------------------------------------------
-
-Title: Earnings live: Amazon stock soars, Apple pares gains with earnings from AI players to come
-URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-pares-gains-with-earnings-from-ai-players-to-come-211227493.html
-Time Published: 2025-10-31T21:12:27Z
-Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------

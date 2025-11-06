@@ -17,9 +17,3 @@ URL: https://www.barchart.com/story/news/35860224/are-wall-street-analysts-predi
 Time Published: 2025-11-03T12:11:31Z
 Description: Despite Merck & Co.’s underperformance relative to the broader market over the past year, Wall Street analysts remain moderately optimistic about the stock’s...
 --------------------------------------------------
-
-Title: Earnings live: Amazon stock soars, Apple CEO predicts 'best-ever' quarter; Exxon, Chevron post strong earnings
-URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-ceo-predicts-best-ever-quarter-exxon-chevron-post-strong-earnings-115006428.html
-Time Published: 2025-10-31T11:50:06Z
-Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
---------------------------------------------------

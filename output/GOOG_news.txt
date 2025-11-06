@@ -1,5 +1,17 @@
 List of news related to Alphabet Inc stock price GOOG:
 
+Title: Stocks Pressured Amid Valuation Concerns
+URL: https://www.barchart.com/story/news/35894193/stocks-pressured-amid-valuation-concerns
+Time Published: 2025-11-04T16:11:43Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.70%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.35%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
+Title: Stocks Retreat on Valuation Concerns
+URL: https://www.barchart.com/story/news/35892541/stocks-retreat-on-valuation-concerns
+Time Published: 2025-11-04T15:02:13Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.97%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.69%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: Stocks Close Higher on M&A and AI Optimism
 URL: https://www.barchart.com/story/news/35873921/stocks-close-higher-on-m-a-and-ai-optimism
 Time Published: 2025-11-03T21:54:57Z

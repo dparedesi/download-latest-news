@@ -25,15 +25,3 @@ URL: https://finance.yahoo.com/news/americas-industrial-giants-are-getting-a-boo
 Time Published: 2025-11-01T12:30:42Z
 Description: Data center demand was a bright spot for the industrial sector's third quarter earnings as power and manufacturing demand from Big Tech have rapidly grown.
 --------------------------------------------------
-
-Title: Earnings live: Amazon stock soars, Apple pares gains with earnings from AI players to come
-URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-pares-gains-with-earnings-from-ai-players-to-come-211227493.html
-Time Published: 2025-10-31T21:12:27Z
-Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
---------------------------------------------------
-
-Title: Earnings live: Amazon stock soars, Apple CEO predicts 'best-ever' quarter; Exxon, Chevron post strong earnings
-URL: https://finance.yahoo.com/news/live/earnings-live-amazon-stock-soars-apple-ceo-predicts-best-ever-quarter-exxon-chevron-post-strong-earnings-115006428.html
-Time Published: 2025-10-31T11:50:06Z
-Description: Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
---------------------------------------------------
