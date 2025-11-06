@@ -83,10 +83,12 @@
     .negative {
       background-color: var(--border-color);
       color: var(--text-secondary);
+      opacity: 0.8;
     }
     .positive {
       background-color: var(--border-color);
-      color: var(--text-secondary);
+      color: var(--text-primary);
+      font-weight: 500;
     }
     .opportunity-badge {
       padding: 4px 8px;
@@ -94,22 +96,24 @@
       font-weight: 400;
       font-size: 0.75rem;
       white-space: nowrap;
-      opacity: 0.9;
       margin-left: 8px;
       background-color: var(--border-color);
       color: var(--text-secondary);
     }
     .high-opportunity {
-      background-color: var(--border-color);
-      color: var(--text-secondary);
+      background-color: var(--text-primary);
+      color: var(--background);
+      font-weight: 500;
     }
     .medium-opportunity {
       background-color: var(--border-color);
-      color: var(--text-secondary);
+      color: var(--text-primary);
+      font-weight: 500;
     }
     .low-opportunity, .near-high {
       background-color: var(--border-color);
       color: var(--text-secondary);
+      opacity: 0.7;
     }
     .high-info {
       grid-area: high-info;
