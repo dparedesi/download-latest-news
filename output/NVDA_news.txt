@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Jim Cramer Points Out “Misinterpretation” Regarding President Trump’s Comments About NVIDIA (NVDA)
+URL: https://finance.yahoo.com/news/jim-cramer-points-misinterpretation-regarding-105714657.html
+Time Published: 2025-11-05T10:57:14Z
+Description: We recently published 11 Latest Stocks Jim Cramer Talked About. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer recently discussed. AI GPU...
+--------------------------------------------------
+
+Title: China bans foreign AI chips from state-funded data centers, sources say
+URL: https://finance.yahoo.com/news/exclusive-china-bans-foreign-ai-080808297.html
+Time Published: 2025-11-05T08:08:08Z
+Description: The latest move by Beijing would dash Nvidia's hopes of regaining Chinese market share.
+--------------------------------------------------
+
 Title: 3 amazing ASX ETFs for beginner investors to buy
 URL: https://www.fool.com.au/2025/11/05/3-amazing-asx-etfs-for-beginner-investors-to-buy/
 Time Published: 2025-11-05T06:42:00Z
@@ -14,16 +26,22 @@ Full Content:
 AMD stock crashed 3.7% to $250.05 despite posting record Q3 2025 earnings. The chipmaker reported $9.25 billion in revenue, up 36% year-over-year, and $1.20 EPS, beating forecasts. Strong AI chip demand and new deals with OpenAI and Oracle pushed data center revenue to $4.3 billion. Yet, investors booked profits after massive gains this year. AMD’s $406 billion market cap and high 150.63 P/E ratio reflect steep valuation worries. Analysts still see rack-scale AI systems as AMD’s 2026 growth catalyst. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Quebec Municipal Election: results for all cities in Quebec, find out list of winners, runner-ups, election plans, and more; Ferrada takes home Montreal post 8-yr Liberal rule Former Liberal now “centrist” Soraya Martinez Ferrada elected Montreal mayor defeating 8 years of left-leaning mayoralty of city; read more to find out why she left the Liberals, “reviewing bike lanes, tackling homelessness” agenda? Sam Hamad loses Quebec City mayoral race to Bruno Marchand; former Liberal minister faces accusations of threats to daughter, etc. find out more on details, history & controversies of Syrian-born Quebecer Canadian ‘Reagan ad expose’ damages Trump-era economics? Carney apologises amid Trump’s brouhaha over 1987 Ronald Reagan ad showcasing tariff as weak strategy; US Prez stubborn ‘NO’ on resuming trade Canada Shooting: Indian origin business tycoon found dead in Abbotsford, B.C., son identifies him as victim of homicide; shocking details emerge amid probe Clayton Kershaw’s wife Ellen gets emotional during his dramatic World Series appearance - WATCH Porsche recalls over 3,000 vehicles in Canada across several models over safety issues which can lead to crash; check list of affected models and what you can do if yours is on the list Who was Dr. Agron Alija? Physician who died in Canada in a head on crash; how did he die; all you need to know Trump tells cattle ranchers to lower prices amid Argentina beef import plan, sparks industry backlash Alberta Premier sets Monday deadline for back-to-work legislation as teachers strike enters third week Mark Carney unveils immigration plan to attract workers hit by US visa fee hikes - Here’s what Canadians can expect in federal budget Foo Fighters set to rock Detroit with monumental Ford Field concert in August 2026 Benjamin Netanyahu would be arrested if he enters Canada, affirms Canadian Prime Minister Mark Carney to enforce ICC arrest warrant Adani Enterprises Q2 FY26: Income ₹44,281 Cr; Cons profit soars 84% India-Israel ties: Reaffirms counter-terrorism, Gaza peace West Bengal: TMC hits streets as SIR Phase 2 begins Tamil Nadu: SIR phase 2 kicks off amid political slugfest China denies Trump’s explosive nuclear test allegation Nirahua slams Khesari Lal over Ram Mandir remark in Bihar poll heat LIVE | Mahindra & Mahindra Q2 FY26 results ‘PM Modi is anchor of India-Bhutan friendship’: PM Tobgay ‘I’ll make roads like America’s, this is my promise...’: Gadkari in Bihar Horror near Coimbatore airport: 20 yr old PG student abducted, gang-raped Adani Enterprises Q2 FY26: Income ₹44,281 Cr; Cons profit soars 84% India-Israel ties: Reaffirms counter-terrorism, Gaza peace West Bengal: TMC hits streets as SIR Phase 2 begins Tamil Nadu: SIR phase 2 kicks off amid political slugfest China denies Trump’s explosive nuclear test allegation Nirahua slams Khesari Lal over Ram Mandir remark in Bihar poll heat LIVE | Mahindra & Mahindra Q2 FY26 results ‘PM Modi is anchor of India-Bhutan friendship’: PM Tobgay ‘I’ll make roads like America’s, this is my promise...’: Gadkari in Bihar Horror near Coimbatore airport: 20 yr old PG student abducted, gang-raped Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Prime Articles Top Commodities Top Slideshow Private Companies Top Story Listing Top Definitions Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breath after tech selloff
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-take-a-breath-after-tech-selloff-235720689.html
+Time Published: 2025-11-04T23:57:20Z
+Description: ADP private payrolls will be closely watched as the US shutdown stifling the flow of official data becomes the longest ever.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures sink after tech sell-off, AMD slides after earnings
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-after-tech-sell-off-amd-slides-after-earnings-235720287.html
 Time Published: 2025-11-04T23:57:20Z
 Description: Stock futures were mixed following a choppy day that saw all three major gauges fall.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breath after tech selloff
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-take-a-breath-after-tech-selloff-235720689.html
-Time Published: 2025-11-04T23:57:20Z
-Description: ADP private payrolls will be closely watched as the US shutdown stifling the flow of official data becomes the longest ever.
+Title: Michael Burry latest move sparks fiery Palantir CEO rant
+URL: https://www.thestreet.com/investing/stocks/fund-manager-who-predicted-great-recession-sparks-fiery-palantir-ceo-rant
+Time Published: 2025-11-04T23:04:10Z
+Description: The hedge fund legend who called the 2008 US housing crisis and is the famed investor behind the “Big Short” is back in the spotlight. This time, he is...
 --------------------------------------------------
 
 Title: Burry’s New ‘Big Short’ on AI
@@ -31,6 +49,18 @@ URL: https://dailyreckoning.com/burrys-new-big-short-on-ai/
 Time Published: 2025-11-04T23:00:30Z
 Full Content:
 By Adam Sharp PostedNovember 4, 2025 The Big Short is one of my favorite movies (and books). It’s a powerful story of investors who bet against the housing bubble, persevered through adversity, and won big. The story focuses on Michael J. Burry, a small but successful hedge fund manager in California. In the movie, Burry is played by actor Christian Bale. There are others featured in The Big Short who bet against the housing market, but today we’re going to focus on Burry and his new AI short. First, however, some background is in order. Back around 2004-2005, Burry discovered that lenders were giving huge loans to borrowers with bad credit, and as a topper, many of these mortgages were teasers with adjustable rates. The first few years were artificially cheap, then payments would balloon. Burry dissected the data, and discovered a great way to bet against housing using credit default swaps (CDS) on mortgage bonds. Many of Burry’s hedge fund clients thought he was insane. Betting so much of the fund’s capital against housing seemed ludicrous. Burry was forced to restrict fund redemptions, so his investors had no choice but to ride along with him. When the bubble finally burst, Burry’s fund made a killing. After fees, his big short returned almost 500% to investors. Burry had beat the big banks at their own game. But be warned. This story has inspired countless traders to attempt their own big shorts, with mixed results. At best… Michael J. Burry is a reclusive fellow. He keeps a low profile, but occasionally resurfaces on X (Twitter). On X, Burry goes by the handle “Cassandra”. Cassandra was an ancient Trojan priestess dedicated to the god Apollo. She was cursed with the ability to predict the future, but never be believed. The last time Burry reappeared was in January of 2023, when he posted a simple message: Sell. Via ZeroHedge Since then, the market has soared 69% higher. Burry got burnt on that big short. Shortly after, Burry deleted all his X posts and deactivated his account. But now Cassandra has finally returned to X. Just as 13F SEC filings disclosed his hedge fund, Scion Capital, took big short positions on Palantir (PLTR) and NVIDIA (NVDA). As of September 30th (these filings have a delay), Burry’s hedge fund held puts worth $912 million in Palantir and $186 million in NVIDIA (notional). Burry has seemingly initiated a new ‘Big Short’ on AI. It isn’t surprising to me that Burry is betting big against Palantir. It might be the most overvalued large-cap stock I’ve ever seen. The chart shows just how unusual Palantir’s valuation is. To be clear, Palantir is growing fast and appears to have tech which nobody else does. But it still looks way overpriced. Its current price-to-sales ratio is an incredible 126x. The company is valued at $491 billion and only produced $3.9 billion of revenue over the past year. Even during the dotcom bubble, no large company ever reached such lofty heights. Burry followed up his big AI short disclosure with some charts showing how AI bubble spending is similar to the dotcom era: We should remember that these filings have a delay, so these were Scion’s positions as of September 30th. Since then both NVDA and PLTR have risen, which means that thus far, Burry’s bet is down. He could have sold out of these positions, or added to them. We don’t know. Attempting to nail the top on red-hot stocks like these is extremely difficult. Even when he made the housing bubble bet, Burry had to wait years for it to pay off. In the meantime, he had to pay significant premiums on the CDS (his short instrument). For a while, it looked like his housing bet might fail. But eventually the housing bubble did pop, and Burry came out way ahead. We’ll have to wait and see whether he’ll be proven correct with this latest AI short. It’s easy to see that certain AI stocks are overvalued. Timing the short, however, is the tricky part. Today Palantir is down almost 7% today after reporting earnings yesterday. Palantir CEO and co-founder Alex Karp isn’t happy about Burry’s short position, calling it “market manipulation”. He told CNBC the following this morning: “The two companies he’s shorting are the ones making all the money, which is super weird. The idea that chips and ontology is what you want to short is bats**t crazy. … I do think this behavior is egregious and I’m going to be dancing around when it’s proven wrong.” Is this the beginning of the crash? Or just a correction after a parabolic move, and there’s more upside ahead? I’m not taking a bet either way, for now. My advice: don’t bet the house on an AI collapse. As Keynes famously said, the market can stay irrational longer than you can stay solvent. We’ll be keeping a close eye on this story.
+--------------------------------------------------
+
+Title: Stocks are falling for reasons that go beyond AI jitters
+URL: https://www.marketwatch.com/story/stocks-are-falling-for-reasons-that-go-beyond-ai-jitters-737e32cc
+Time Published: 2025-11-04T22:33:00Z
+Description: U.S. stocks wobbled on Tuesday, with several high-flying tech names leading the way lower.
+--------------------------------------------------
+
+Title: Stocks Finish Sharply Lower on Concerns About Lofty Valuations
+URL: https://www.barchart.com/story/news/35902492/stocks-finish-sharply-lower-on-concerns-about-lofty-valuations
+Time Published: 2025-11-04T21:28:28Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -1.17%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.53%, and the Nasdaq 100 Index ...
 --------------------------------------------------
 
 Title: AMD beats Q3 estimates on top and bottom line, offers strong Q4 guidance
@@ -82,14 +112,14 @@ Time Published: 2025-11-04T16:11:43Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.70%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.35%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
-Title: Michael Burry of 'Big Short' fame discloses bets against Palantir and Nvidia after bubble warning
-URL: https://finance.yahoo.com/news/michael-burry-of-big-short-fame-discloses-bets-against-palantir-and-nvidia-after-bubble-warning-160833723.html
+Title: Michael Burry of 'Big Short' fame discloses bets against Palantir and Nvidia
+URL: https://finance.yahoo.com/news/michael-burry-of-big-short-fame-discloses-bets-against-palantir-and-nvidia-160833044.html
 Time Published: 2025-11-04T16:08:33Z
 Description: Trader Michael Burry, famous for calling the 2008 housing crisis, has announced bets against Palantir and Nvidia.
 --------------------------------------------------
 
-Title: Michael Burry of 'Big Short' fame discloses bets against Palantir and Nvidia
-URL: https://finance.yahoo.com/news/michael-burry-of-big-short-fame-discloses-bets-against-palantir-and-nvidia-160833044.html
+Title: Michael Burry of 'Big Short' fame discloses bets against Palantir and Nvidia after bubble warning
+URL: https://finance.yahoo.com/news/michael-burry-of-big-short-fame-discloses-bets-against-palantir-and-nvidia-after-bubble-warning-160833723.html
 Time Published: 2025-11-04T16:08:33Z
 Description: Trader Michael Burry, famous for calling the 2008 housing crisis, has announced bets against Palantir and Nvidia.
 --------------------------------------------------
@@ -278,34 +308,4 @@ Title: Stock market today: S&P 500, Nasdaq jump to kick off November as Amazon, 
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-jump-to-kick-off-november-as-amazon-nvidia-lead-way-000604456.html
 Time Published: 2025-11-03T14:37:20Z
 Description: US stock futures made gains, with Wall Street looking to maintain upward momentum.
---------------------------------------------------
-
-Title: Stock market today: Dow slips, Nasdaq pops as Amazon's OpenAI deal boosts AI bets
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slips-nasdaq-pops-as-amazons-openai-deal-boosts-ai-bets-143720746.html
-Time Published: 2025-11-03T14:37:20Z
-Description: US stock futures made gains, with Wall Street looking to maintain upward momentum.
---------------------------------------------------
-
-Title: Amazon, OpenAI ink massive $38B deal to supply 'hundreds of thousands' of Nvidia GPUs (AMZN:NASDAQ) - Seeking Alpha
-URL: https://slashdot.org/firehose.pl?op=view&amp;id=179951036
-Time Published: 2025-11-03T14:32:58Z
-Description: Amazon, OpenAI ink massive $38B deal to supply 'hundreds of thousands' of Nvidia GPUs (AMZN:NASDAQ)Seeking Alpha OpenAI signs $38 billion compute deal with Amazon, partnering with cloud leader for first timeCNBC AWS and OpenAI announce multi-year strategic pa…
---------------------------------------------------
-
-Title: Market Minute 11-3-25- Kimberly-Kenvue Ink $40 BLN Deal
-URL: https://finance.yahoo.com/news/market-minute-11-3-25-142000392.html
-Time Published: 2025-11-03T14:20:00Z
-Description: Stocks are mixed in the early going after last week’s solid finish. Gold and silver are rising modestly, while the dollar, Treasuries, and crude oil are...
---------------------------------------------------
-
-Title: Analyst Says NVIDIA (NVDA) Price/Sales Ratio is a ‘Big Number’ – ‘We Shall See’
-URL: https://finance.yahoo.com/news/analyst-says-nvidia-nvda-price-140920414.html
-Time Published: 2025-11-03T14:09:20Z
-Description: We recently published Top 9 AI and Non-Tech Stocks to Watch Amid Latest Earnings Season. NVIDIA Corporation (NASDAQ:NVDA) is one of the top AI and non-tech...
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA): Uniquely Positioned at the Center of the Global AI Computing Cycle
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_58d28e8a-f562-431e-b1c0-a9a8489266e3
-Time Published: 2025-11-03T14:07:26Z
-Description: None
 --------------------------------------------------

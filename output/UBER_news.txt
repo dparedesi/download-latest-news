@@ -1,5 +1,11 @@
 List of news related to Uber stock price UBER:
 
+Title: Stocks Finish Sharply Lower on Concerns About Lofty Valuations
+URL: https://www.barchart.com/story/news/35902492/stocks-finish-sharply-lower-on-concerns-about-lofty-valuations
+Time Published: 2025-11-04T21:28:28Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -1.17%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.53%, and the Nasdaq 100 Index ...
+--------------------------------------------------
+
 Title: Uber Q3 earnings show strong growth but $479 million legal hit cuts profit
 URL: https://economictimes.indiatimes.com/news/international/us/uber-q3-earnings-show-strong-growth-but-479-million-legal-hit-cuts-profit/articleshow/125093733.cms
 Time Published: 2025-11-04T18:24:24Z
@@ -103,16 +109,16 @@ Full Content:
 US stock market ended mixed on Monday as investors chased the AI trade after a wave of billion-dollar tech deals. Nasdaq rose 0.46% to 23,834.72, the S&P 500 gained 0.17% to 6,851.97, but the Dow fell 0.48% to 47,336.68. Apple jumped 2%, Nvidia climbed 1.8%, and Tesla surged 3%, driving tech higher. Energy and industrials sank as Chevron and Boeing dropped. Yields held near 4.58%, keeping rate fears alive. Investors rotated into AI and chips, betting big on growth. The S&P 500 stays up 14% YTD, Nasdaq 22%, with AI stocks dominating November’s rally. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Quebec Municipal Election: results for all cities in Quebec, find out list of winners, runner-ups, election plans, and more; Ferrada takes home Montreal post 8-yr Liberal rule Former Liberal now “centrist” Soraya Martinez Ferrada elected Montreal mayor defeating 8 years of left-leaning mayoralty of city; read more to find out why she left the Liberals, “reviewing bike lanes, tackling homelessness” agenda? Sam Hamad loses Quebec City mayoral race to Bruno Marchand; former Liberal minister faces accusations of threats to daughter, etc. find out more on details, history & controversies of Syrian-born Quebecer Canadian ‘Reagan ad expose’ damages Trump-era economics? Carney apologises amid Trump’s brouhaha over 1987 Ronald Reagan ad showcasing tariff as weak strategy; US Prez stubborn ‘NO’ on resuming trade Canada Shooting: Indian origin business tycoon found dead in Abbotsford, B.C., son identifies him as victim of homicide; shocking details emerge amid probe Clayton Kershaw’s wife Ellen gets emotional during his dramatic World Series appearance - WATCH Porsche recalls over 3,000 vehicles in Canada across several models over safety issues which can lead to crash; check list of affected models and what you can do if yours is on the list Who was Dr. Agron Alija? Physician who died in Canada in a head on crash; how did he die; all you need to know Trump tells cattle ranchers to lower prices amid Argentina beef import plan, sparks industry backlash Alberta Premier sets Monday deadline for back-to-work legislation as teachers strike enters third week Popeyes franchisee placed in receivership over $10.8 million debt, unpaid wages Mark Carney unveils immigration plan to attract workers hit by US visa fee hikes - Here’s what Canadians can expect in federal budget Foo Fighters set to rock Detroit with monumental Ford Field concert in August 2026 Ravi Kishan jibes at Rahul Gandhi over fishing Trump’s big claim: Pakistan testing nukes India, Bahrain to boost multi-sector cooperation Rangareddy accident: 20 dead, baby among victims ED attaches ₹3,084 cr in Anil Ambani Group assets 6.3 Magnitude quake rocks Afghanistan; 20 killed BCCI announces ₹51 cr reward for Women team Smog still chokes Delhi despite AQI improvement Global icons hail Team India’s World Cup triumph Women in Blue clinch World Cup title, Fans celebrate Ravi Kishan jibes at Rahul Gandhi over fishing Trump’s big claim: Pakistan testing nukes India, Bahrain to boost multi-sector cooperation Rangareddy accident: 20 dead, baby among victims ED attaches ₹3,084 cr in Anil Ambani Group assets 6.3 Magnitude quake rocks Afghanistan; 20 killed BCCI announces ₹51 cr reward for Women team Smog still chokes Delhi despite AQI improvement Global icons hail Team India’s World Cup triumph Women in Blue clinch World Cup title, Fans celebrate Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Slideshow Top Prime Articles Top Definitions Most Searched IFSC Codes Top Story Listing Private Companies Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures sink as worries about frothy valuations run high
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-as-worries-about-frothy-valuations-run-high-234947080.html
-Time Published: 2025-11-03T23:49:47Z
-Description: Techs led a sharp retreat before the bell as doubts about valuations and the recent rally emerge.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures fall as Wall Street waits for latest key earnings tests
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-wall-street-waits-for-latest-key-earnings-tests-234947454.html
 Time Published: 2025-11-03T23:49:47Z
 Description: US stock futures slipped as earnings continue, with megacap companies dominating gains as smaller companies falter.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures sink as worries about frothy valuations run high
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-as-worries-about-frothy-valuations-run-high-234947080.html
+Time Published: 2025-11-03T23:49:47Z
+Description: Techs led a sharp retreat before the bell as doubts about valuations and the recent rally emerge.
 --------------------------------------------------
 
 Title: Stocks Close Higher on M&A and AI Optimism

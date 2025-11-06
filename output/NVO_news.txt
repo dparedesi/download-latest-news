@@ -7,14 +7,14 @@ Full Content:
 November 05, 2025 01:30 ET | Source: Novo Nordisk A/S Novo Nordisk A/S Bagsværd, 5 November, 2025 - Financial report for the period 1 January 2025 to 30 September 2025 "Our company-wide transformation has already driven operational efficiencies, and we have a renewed focus that can deliver a range of potential treatment options that will serve millions more patients, mainly in obesity. While we delivered robust sales growth in the first nine months of 2025, the lower growth expectations for our GLP-1 treatments have led to a narrowing of our guidance. We agreed to acquire Akero Therapeutics Inc., adding a potential first-and-best-in-class asset within F4 in MASH, and initiated our phase 3 programme with cagrilintide for weight management. We aim to accelerate on all fronts to be able to compete better in dynamic and increasingly competitive markets," said Mike Doustdar, president and CEO.On 5 November 2025 at 13.00 CET, corresponding to 07.00 am EST, an earnings call will be held. Investors will be able to listen in via a link on novonordisk.com, which can be found under 'Investors' (the contents of the company's website do not form a part of this Form 6-K) About Novo Nordisk Novo Nordisk is a leading global healthcare company founded in 1923 and headquartered in Denmark. Our purpose is to drive change to defeat serious chronic diseases built upon our heritage in diabetes. We do so by pioneering scientific breakthroughs, expanding access to our medicines and working to prevent and ultimately cure disease. Novo Nordisk employs about 78,500 people in 80 countries and markets its products in around 170 countries. Novo Nordisk's B shares are listed on Nasdaq Copenhagen (Novo-B). Its ADRs are listed on the New York Stock Exchange (NVO). For more information, visit novonordisk.com, Facebook, X, LinkedIn and YouTube. Company announcement No 31 / 2025 Attachment Novo Nordisk presented new findings from the STEP UP phase 3b trial. It showed that, in addition to losing an average of 21% of their body weight... Today, Novo Nordisk confirms that it has submitted an updated, unsolicited proposal to acquire Metsera. The updated proposal has been declared superior
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq set to slide deeper as tech worries keep investors on edge
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-set-to-slide-deeper-as-tech-worries-keep-investors-on-edge-235720595.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breath after tech selloff
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-take-a-breath-after-tech-selloff-235720689.html
 Time Published: 2025-11-04T23:57:20Z
 Description: ADP private payrolls will be closely watched as the US shutdown stifling the flow of official data becomes the longest ever.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breath after tech selloff
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-take-a-breath-after-tech-selloff-235720689.html
+Title: Stock market today: S&P 500, Nasdaq set to slide deeper as tech worries keep investors on edge
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-set-to-slide-deeper-as-tech-worries-keep-investors-on-edge-235720595.html
 Time Published: 2025-11-04T23:57:20Z
 Description: ADP private payrolls will be closely watched as the US shutdown stifling the flow of official data becomes the longest ever.
 --------------------------------------------------
@@ -38,14 +38,14 @@ Time Published: 2025-11-04T13:06:09Z
 Description: Pfizer (PFE) announced that it has filed a second lawsuit against Metsera, its controlling stockholders, and Novo Nordisk (NVO) in the United States District...
 --------------------------------------------------
 
-Title: Earnings live: Spotify stock jumps on strong results, Palantir and Uber stocks fall
-URL: https://finance.yahoo.com/news/live/earnings-live-spotify-stock-jumps-on-strong-results-palantir-and-uber-stocks-fall-125333292.html
+Title: Earnings live: Spotify stock turns lower, Palantir and Uber dive while Pfizer, Marriott rise
+URL: https://finance.yahoo.com/news/live/earnings-live-spotify-stock-turns-lower-palantir-and-uber-dive-while-pfizer-marriott-rise-125333826.html
 Time Published: 2025-11-04T12:53:33Z
 Description: Third quarter earnings season is in full swing, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
 
-Title: Earnings live: Spotify stock turns lower, Palantir and Uber dive while Pfizer, Marriott rise
-URL: https://finance.yahoo.com/news/live/earnings-live-spotify-stock-turns-lower-palantir-and-uber-dive-while-pfizer-marriott-rise-125333826.html
+Title: Earnings live: Spotify stock jumps on strong results, Palantir and Uber stocks fall
+URL: https://finance.yahoo.com/news/live/earnings-live-spotify-stock-jumps-on-strong-results-palantir-and-uber-stocks-fall-125333292.html
 Time Published: 2025-11-04T12:53:33Z
 Description: Third quarter earnings season is in full swing, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
