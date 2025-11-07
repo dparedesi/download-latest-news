@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Stocks Rebound on Economic Optimism
+URL: https://www.barchart.com/story/news/35925804/stocks-rebound-on-economic-optimism
+Time Published: 2025-11-05T16:21:49Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.42%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.12%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: AMD stock crashes despite strong Q3 results: why is AMD stock down today, and could AMD’s rack-scale AI breakthrough spark a massive 2026 comeback?
 URL: https://economictimes.indiatimes.com/news/international/us/amd-stock-crashes-despite-strong-q3-results-why-is-amd-stock-down-today-and-could-amds-rack-scale-ai-breakthrough-spark-a-massive-2026-comeback/articleshow/125099007.cms
 Time Published: 2025-11-05T00:22:06Z
