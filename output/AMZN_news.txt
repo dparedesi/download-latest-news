@@ -1,5 +1,23 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Buy Nvidia Stock Now for the Next ‘Golden Wave’ of AI
+URL: https://www.barchart.com/story/news/35929642/buy-nvidia-stock-now-for-the-next-golden-wave-of-ai
+Time Published: 2025-11-05T19:43:39Z
+Description: Nvidia’s next growth phase is being fueled by soaring Blackwell GPU demand and record AI infrastructure spending from hyperscalers.
+--------------------------------------------------
+
+Title: 3 Reasons to Fold MercadoLibre Stock Post Third Quarter Earnings Miss
+URL: https://finance.yahoo.com/news/3-reasons-fold-mercadolibre-stock-184200194.html
+Time Published: 2025-11-05T18:42:00Z
+Description: MELI's Q3 beat on revenue but missed on earnings, as shrinking margins and rising competition cloud its outlook.
+--------------------------------------------------
+
+Title: Should You Buy or Sell AMZN Stock as Amazon Feuds with Perplexity?
+URL: https://www.barchart.com/story/news/35928571/should-you-buy-or-sell-amzn-stock-as-amazon-feuds-with-perplexity
+Time Published: 2025-11-05T18:23:45Z
+Description: Amazon has sent a “cease and desist” letter to Perplexity over its Comet AI shopping assistant. How should you play AMZN stock now?
+--------------------------------------------------
+
 Title: Amazon Lands $38B Deal With OpenAI: 3 Signs to Buy the Stock Now
 URL: https://finance.yahoo.com/news/amazon-lands-38b-deal-openai-163600830.html
 Time Published: 2025-11-05T16:36:00Z
@@ -128,14 +146,14 @@ Time Published: 2025-11-03T13:39:00Z
 Description: Bulls say the tech rally can keep going, while bears warn of a repeat of the early-2000s dot-com crash.
 --------------------------------------------------
 
-Title: Earnings live: Berkshire Hathaway profits rise as Buffett prepares to step down; Palantir results on deck
-URL: https://finance.yahoo.com/news/live/earnings-live-berkshire-hathaway-profits-rise-as-buffett-prepares-to-step-down-palantir-results-on-deck-130631607.html
+Title: Earnings live: Berkshire Hathaway profits rise, Beyond Meat postpones earnings, with Palantir results on deck
+URL: https://finance.yahoo.com/news/live/earnings-live-berkshire-hathaway-profits-rise-beyond-meat-postpones-earnings-with-palantir-results-on-deck-130631795.html
 Time Published: 2025-11-03T13:06:31Z
 Description: Third quarter earnings season is in full swing, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------
 
-Title: Earnings live: Berkshire Hathaway profits rise, Beyond Meat postpones earnings, with Palantir results on deck
-URL: https://finance.yahoo.com/news/live/earnings-live-berkshire-hathaway-profits-rise-beyond-meat-postpones-earnings-with-palantir-results-on-deck-130631795.html
+Title: Earnings live: Berkshire Hathaway profits rise as Buffett prepares to step down; Palantir results on deck
+URL: https://finance.yahoo.com/news/live/earnings-live-berkshire-hathaway-profits-rise-as-buffett-prepares-to-step-down-palantir-results-on-deck-130631607.html
 Time Published: 2025-11-03T13:06:31Z
 Description: Third quarter earnings season is in full swing, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.
 --------------------------------------------------

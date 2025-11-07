@@ -19,6 +19,37 @@ Full Content:
 Social sentiment crashes while on-chain data stays strong. BTC’s Social Sentiment hit its third most bearish reading in six months, signaling rising fear despite steady fundamentals. Not necessarily. Experts say the 20% dip could be a buying opportunity. Bitcoin’s [BTC] mood turned darker than its data. Social Sentiment just hit its third most bearish reading in six months, at a moment when the fundamentals aren’t actually breaking. Instead, BTC remained near historic relative lows against Apple [AAPL] and NVIDIA [NVDA], and the on-chain base case still looks firm. It feels like sentiment pricing in stress that the network itself isn’t showing yet. Crypto Analyst Nic Puckrin, Co-Founder of The Coin Bureau, told AMBCrypto, “Bitcoin under $100,000 tends to fill crypto investors with an almost biblical level of dread. It’s worth remembering that despite the recent sell-off, BTC is currently only around 20% below its all-time high. This is crypto, not the bond market, so a 20% drop is often just a buying signal.” Source: Santiment Bitcoin’s drop coincided with one of the most bearish comment ratios in six months, yet crowd behavior revealed a twist. Santiment data showed the highest level of Negative Words in eight months, even as “buy” mentions stayed elevated. Similar setups, like in late October, preceded short-term recoveries. Source: Santiment The latest data showed extreme negativity paired with active buy mentions. BTC may be near another local sentiment-driven inflection point. Source: X The crypto market’s $1 trillion drawdown since January was a massive leverage reset. Open interest collapsed over 40% after peaking near record highs, as hundreds of thousands of traders were liquidated daily. But adoption never slowed. User counts jumped to 560 million, stablecoins now handle 30% of transactions, and institutional participation via ETFs and reserves keeps expanding. While prices fell from $3.66 trillion peak to $2.65 trillion, fundamentals strengthened. The market is rebuilding from forced liquidation. That disconnect between fear and fundamentals is also showing up beyond crypto charts, too. Source: X BTC/NVIDIA touched the bottom of its long-term channel, a level that has triggered reversals where Bitcoin went on to outperform NVIDIA’s stock. Similarly, BTC/APPLE stayed inside a clean multi-year structure, cooling off after its July 2025 peak. Source: X Together, this could mean a rotation of capital back into BTC as tech momentum cools. This is a setup that’s repeatedly meant the start of new strength cycles for Bitcoin. About BTC’s current state, Puckrin said, “While I don’t believe this sell-off marks the end of Bitcoin’s bull market, this point is drawing nearer, and that means the swings are getting wilder.” Disclaimer: AMBCrypto's content is meant to be informational in nature and should not be interpreted as investment advice. Trading, buying or selling cryptocurrencies should be considered a high-risk investment and every reader is advised to do their own research before making any decisions. © 2025 AMBCrypto
 --------------------------------------------------
 
+Title: Palantir Just Got a New Street-High Price Target. Should You Buy PLTR Stock Here?
+URL: https://www.barchart.com/story/news/35930341/palantir-just-got-a-new-street-high-price-target-should-you-buy-pltr-stock-here
+Time Published: 2025-11-05T20:12:45Z
+Description: Palantir soared to a new record-high analyst price target of $230 after its Q3 report showed 63% revenue growth and blockbuster U.S. commercial sales, but...
+--------------------------------------------------
+
+Title: AI companies need to 'start generating some serious income'
+URL: https://finance.yahoo.com/news/ai-companies-need-to-start-generating-some-serious-income-195745389.html
+Time Published: 2025-11-05T19:57:45Z
+Description: AI companies need to start bringing in major revenue to keep up with spending.
+--------------------------------------------------
+
+Title: Buy Nvidia Stock Now for the Next ‘Golden Wave’ of AI
+URL: https://www.barchart.com/story/news/35929642/buy-nvidia-stock-now-for-the-next-golden-wave-of-ai
+Time Published: 2025-11-05T19:43:39Z
+Description: Nvidia’s next growth phase is being fueled by soaring Blackwell GPU demand and record AI infrastructure spending from hyperscalers.
+--------------------------------------------------
+
+Title: Here's What Wall Street Analysts Are Saying About AMD's Earnings
+URL: https://www.investopedia.com/here-is-what-wall-street-analysts-are-saying-about-amd-earnings-11843959
+Time Published: 2025-11-05T18:39:04Z
+Full Content:
+Advanced Micro Devices investors have become harder to impress. The chipmaker yesterday posted record quarterly results and an upbeat outlook on surging demand for its data center chips—and its stock has hardly budged. Advanced Micro Devices (AMD) shares were up about 2%, near $255, in recent trading as the broader tech sector looked to rebound from yesterday's sell-off. Here's a roundup of what Wall Street analysts said about AMD after last night's results. This year's big stock gains for chipmakers like AMD have given rise to worries about an AI bubble. The weak reaction to AMD's strong results could underscore growing uncertainty around the sector—or, at least, the rich valuations carried by stocks in it. Analysts at Oppenheimer, who maintained a neutral rating, voiced some concerns about AMD's reputation as a "second horse supplier" to AI chip leader Nvidia (NVDA), preferring to stay on the sidelines while waiting to see more from AMD's ability to compete with its AI strategy. Most Wall Street analysts, however, remain bullish on the chipmaker's stock amid expectations of growing market share for AMD. Jefferies and HSBC analysts, who have "buy" or equivalent ratings for the stock and $300 price targets, said they came away from Tuesday's results convinced of AMD's potential for more AI-driven growth. HSBC called AMD's recent deal with OpenAI a "game changing" development. Wedbush, which boosted its target to $290 from $270, said it is looking forward to an Analyst Day event next Tuesday for more color on its roadmap. While Wall Street's targets and ratings may be in flux, the mean price target on AMD's shares is around $275 based on Visible Alpha data and Investopedia calculations. About twice as many analysts have "buy" ratings as have "holds," with no bearish ratings currently tracked by the service. Shares of AMD have more than doubled in 2025 so far, with much of its recent gains coming in the wake of the OpenAI deal announced last month.
+--------------------------------------------------
+
+Title: Vertiv Soars 29% in Three Months: Should Investors Buy VRT Stock?
+URL: https://finance.yahoo.com/news/vertiv-soars-29-three-months-173500945.html
+Time Published: 2025-11-05T17:35:00Z
+Description: VRT benefits from strategic acquisitions, AI-driven solutions, and an expanding partnership with NVIDIA.
+--------------------------------------------------
+
 Title: Nvidia Could Be the First Company to Reach $8.5 Trillion. Should You Buy NVDA Stock Here?
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5a5e391e-91fe-40e1-9bc1-7277795a2fbc
 Time Published: 2025-11-05T16:17:52Z
@@ -120,16 +151,16 @@ Full Content:
 AMD stock crashed 3.7% to $250.05 despite posting record Q3 2025 earnings. The chipmaker reported $9.25 billion in revenue, up 36% year-over-year, and $1.20 EPS, beating forecasts. Strong AI chip demand and new deals with OpenAI and Oracle pushed data center revenue to $4.3 billion. Yet, investors booked profits after massive gains this year. AMD’s $406 billion market cap and high 150.63 P/E ratio reflect steep valuation worries. Analysts still see rack-scale AI systems as AMD’s 2026 growth catalyst. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Quebec Municipal Election: results for all cities in Quebec, find out list of winners, runner-ups, election plans, and more; Ferrada takes home Montreal post 8-yr Liberal rule Former Liberal now “centrist” Soraya Martinez Ferrada elected Montreal mayor defeating 8 years of left-leaning mayoralty of city; read more to find out why she left the Liberals, “reviewing bike lanes, tackling homelessness” agenda? Sam Hamad loses Quebec City mayoral race to Bruno Marchand; former Liberal minister faces accusations of threats to daughter, etc. find out more on details, history & controversies of Syrian-born Quebecer Canadian ‘Reagan ad expose’ damages Trump-era economics? Carney apologises amid Trump’s brouhaha over 1987 Ronald Reagan ad showcasing tariff as weak strategy; US Prez stubborn ‘NO’ on resuming trade Canada Shooting: Indian origin business tycoon found dead in Abbotsford, B.C., son identifies him as victim of homicide; shocking details emerge amid probe Clayton Kershaw’s wife Ellen gets emotional during his dramatic World Series appearance - WATCH Porsche recalls over 3,000 vehicles in Canada across several models over safety issues which can lead to crash; check list of affected models and what you can do if yours is on the list Who was Dr. Agron Alija? Physician who died in Canada in a head on crash; how did he die; all you need to know Trump tells cattle ranchers to lower prices amid Argentina beef import plan, sparks industry backlash Alberta Premier sets Monday deadline for back-to-work legislation as teachers strike enters third week Mark Carney unveils immigration plan to attract workers hit by US visa fee hikes - Here’s what Canadians can expect in federal budget Foo Fighters set to rock Detroit with monumental Ford Field concert in August 2026 Benjamin Netanyahu would be arrested if he enters Canada, affirms Canadian Prime Minister Mark Carney to enforce ICC arrest warrant Adani Enterprises Q2 FY26: Income ₹44,281 Cr; Cons profit soars 84% India-Israel ties: Reaffirms counter-terrorism, Gaza peace West Bengal: TMC hits streets as SIR Phase 2 begins Tamil Nadu: SIR phase 2 kicks off amid political slugfest China denies Trump’s explosive nuclear test allegation Nirahua slams Khesari Lal over Ram Mandir remark in Bihar poll heat LIVE | Mahindra & Mahindra Q2 FY26 results ‘PM Modi is anchor of India-Bhutan friendship’: PM Tobgay ‘I’ll make roads like America’s, this is my promise...’: Gadkari in Bihar Horror near Coimbatore airport: 20 yr old PG student abducted, gang-raped Adani Enterprises Q2 FY26: Income ₹44,281 Cr; Cons profit soars 84% India-Israel ties: Reaffirms counter-terrorism, Gaza peace West Bengal: TMC hits streets as SIR Phase 2 begins Tamil Nadu: SIR phase 2 kicks off amid political slugfest China denies Trump’s explosive nuclear test allegation Nirahua slams Khesari Lal over Ram Mandir remark in Bihar poll heat LIVE | Mahindra & Mahindra Q2 FY26 results ‘PM Modi is anchor of India-Bhutan friendship’: PM Tobgay ‘I’ll make roads like America’s, this is my promise...’: Gadkari in Bihar Horror near Coimbatore airport: 20 yr old PG student abducted, gang-raped Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Prime Articles Top Commodities Top Slideshow Private Companies Top Story Listing Top Definitions Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures sink after tech sell-off, AMD slides after earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-after-tech-sell-off-amd-slides-after-earnings-235720287.html
-Time Published: 2025-11-04T23:57:20Z
-Description: Stock futures were mixed following a choppy day that saw all three major gauges fall.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breath after tech selloff
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-take-a-breath-after-tech-selloff-235720689.html
 Time Published: 2025-11-04T23:57:20Z
 Description: ADP private payrolls will be closely watched as the US shutdown stifling the flow of official data becomes the longest ever.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures sink after tech sell-off, AMD slides after earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-after-tech-sell-off-amd-slides-after-earnings-235720287.html
+Time Published: 2025-11-04T23:57:20Z
+Description: Stock futures were mixed following a choppy day that saw all three major gauges fall.
 --------------------------------------------------
 
 Title: Michael Burry latest move sparks fiery Palantir CEO rant
@@ -206,14 +237,14 @@ Time Published: 2025-11-04T16:11:43Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.70%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.35%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
-Title: Michael Burry of 'Big Short' fame discloses bets against Palantir and Nvidia after bubble warning
-URL: https://finance.yahoo.com/news/michael-burry-of-big-short-fame-discloses-bets-against-palantir-and-nvidia-after-bubble-warning-160833723.html
+Title: Michael Burry of 'Big Short' fame discloses bets against Palantir and Nvidia
+URL: https://finance.yahoo.com/news/michael-burry-of-big-short-fame-discloses-bets-against-palantir-and-nvidia-160833044.html
 Time Published: 2025-11-04T16:08:33Z
 Description: Trader Michael Burry, famous for calling the 2008 housing crisis, has announced bets against Palantir and Nvidia.
 --------------------------------------------------
 
-Title: Michael Burry of 'Big Short' fame discloses bets against Palantir and Nvidia
-URL: https://finance.yahoo.com/news/michael-burry-of-big-short-fame-discloses-bets-against-palantir-and-nvidia-160833044.html
+Title: Michael Burry of 'Big Short' fame discloses bets against Palantir and Nvidia after bubble warning
+URL: https://finance.yahoo.com/news/michael-burry-of-big-short-fame-discloses-bets-against-palantir-and-nvidia-after-bubble-warning-160833723.html
 Time Published: 2025-11-04T16:08:33Z
 Description: Trader Michael Burry, famous for calling the 2008 housing crisis, has announced bets against Palantir and Nvidia.
 --------------------------------------------------
@@ -279,35 +310,4 @@ Title: Stock market today: Dow, S&P 500, Nasdaq futures sink as worries about fr
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-as-worries-about-frothy-valuations-run-high-234947080.html
 Time Published: 2025-11-03T23:49:47Z
 Description: Techs led a sharp retreat before the bell as doubts about valuations and the recent rally emerge.
---------------------------------------------------
-
-Title: Stocks Close Higher on M&A and AI Optimism
-URL: https://www.barchart.com/story/news/35873921/stocks-close-higher-on-m-a-and-ai-optimism
-Time Published: 2025-11-03T21:54:57Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday rose +0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) fell -0.52%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: S&P 500 Gains & Losses Today: Amazon Stock Jumps After OpenAI Deal; Kimberly-Clark Acquires Kenvue
-URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-amazon-stock-jumps-after-openai-deal-kimberly-clark-acquires-kenvue-11842271
-Time Published: 2025-11-03T21:21:51Z
-Full Content:
-A linkup with an artificial intelligence player helped power shares of a top cloud-computing services company higher Monday, while an acquisition in the consumer goods space sent the two stocks on divergent paths. Major U.S. equities indexes ended the first trading day of November mixed, kicking off a market week that will bring a wave of big-name quarterly reports. The S&P 500 added 0.2%, while the Nasdaq was up 0.5%. The Dow ended the session 0.5% lower. For more from Investopedia on the day's major market news, click here. IDEXX Laboratories (IDXX) shares jumped 15%, the best performance on the S&P 500 today, after the pet health specialist reported better-than-expected third quarter sales and profit. The company raised its 2025 revenue and earnings per share guidance, highlighting global customer adoption of its new diagnostic tools, which IDEXX says can help veterinarian teams increase clinical insights and streamline their workflows. Paper products giant Kimberly-Clark (KMB) said it would buy Tylenol, Band-Aid, and Listerine parent company Kenvue (KVUE) in a cash-and-stock deal valued at around $49 billion. Kenvue, which completed a spin-off from Johnson & Johnson (JNJ) in 2023, has been navigating litigation over allegations that its talcum powder causes cancer and statements from the Trump administration linking Tylenol to autism. Kenvue shares rose more than 12% Monday following the announcement of the deal, which came at a significant premium to Friday's closing price for Kenvue stock, while Kimberly-Clark shares plunged more than 14%. The latter company's shares were the worst performers on the S&P 500 today. Amazon (AMZN) shares jumped 5% after ChatGPT owner OpenAI signed an agreement to buy more than $38 billion worth of capacity its Amazon Web Services cloud unit. OpenAI said the deal to use AWS infrastructure would provide it with access to a significant number of Nvidia (NVDA) graphics processing units that could be employed to train its AI models. Nvidia shares gained 2.2%. Moderna (MRNA) stock sank 8.3% Monday, reversing a portion of the gains posted last week amid reports that the vaccine maker had held strategic talks with a major pharmaceutical company about a potential partnership or sale. Waning enthusiasm around a possible deal and concerns about the company's financial situation overshadowed Moderna's announcement that it administered the first dose in an early stage study of its experimental multiple myeloma therapy. KeyBanc downgraded Charter Communications (CHTR) stock to "sector weight" from "overweight" after the cable and internet provider reported lower-than-expected third-quarter sales and profit in its most-recent quarterly release. Analysts cited competitive headwinds to Charter's broadband subscriber growth, which can affect its free cash flow. Its stock fell about 5%.
---------------------------------------------------
-
-Title: Qualcomm set to report Q4 earnings as it enters AI data center market
-URL: https://finance.yahoo.com/news/qualcomm-set-to-report-q4-earnings-as-it-enters-ai-data-center-market-202724807.html
-Time Published: 2025-11-03T20:27:24Z
-Description: Qualcomm will report its Q4 earnings after the bell Wednesday.
---------------------------------------------------
-
-Title: AMD to report Q3 earnings following massive OpenAI, Oracle chip deals
-URL: https://finance.yahoo.com/news/amd-to-report-q3-earnings-following-massive-openai-oracle-chip-deals-202400565.html
-Time Published: 2025-11-03T20:24:34Z
-Description: AMD to report Q3 earnings after the bell Tuesday.
---------------------------------------------------
-
-Title: A $100 Billion Reason to Buy Google Stock
-URL: https://www.barchart.com/story/news/35870726/a-100-billion-reason-to-buy-google-stock
-Time Published: 2025-11-03T19:48:59Z
-Description: Alphabet posted its first quarterly revenue above $100 billion
 --------------------------------------------------
