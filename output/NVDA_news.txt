@@ -123,14 +123,14 @@ Time Published: 2025-11-06T15:00:02Z
 Description: Nvidia’s 260,000-chip deal with South Korea just gave investors another solid reason to double down on the AI chip giant.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq sink as AI valuation concerns mount amid bleak jobs data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-ai-valuation-concerns-mount-amid-bleak-jobs-data-143722263.html
+Title: Stock market today: Dow, S&P 500, Nasdaq waver as layoffs jump, key Tesla vote looms
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-layoffs-jump-key-tesla-vote-looms-143722803.html
 Time Published: 2025-11-06T14:37:22Z
 Description: The major gauges have reached a holding pattern in a volatile week with investors seeking firm news on tariffs, earnings and Tesla.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq waver as layoffs jump, key Tesla vote looms
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-layoffs-jump-key-tesla-vote-looms-143722803.html
+Title: Stock market today: Dow, S&P 500, Nasdaq sink as AI valuation concerns mount amid bleak jobs data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-ai-valuation-concerns-mount-amid-bleak-jobs-data-143722263.html
 Time Published: 2025-11-06T14:37:22Z
 Description: The major gauges have reached a holding pattern in a volatile week with investors seeking firm news on tariffs, earnings and Tesla.
 --------------------------------------------------
