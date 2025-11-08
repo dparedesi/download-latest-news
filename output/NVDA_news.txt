@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Zacks Investment Ideas feature highlights Microsoft, Nvidia, Amazon, Alphabet and Apple
+URL: https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-063900957.html
+Time Published: 2025-11-07T06:39:00Z
+Description: Microsoft, Nvidia, Amazon, Alphabet and Apple have been highlighted in this Investment Ideas article.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures falter in bid to recover from tech-led sell-off
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-falter-in-bid-to-recover-from-tech-led-sell-off-000747991.html
 Time Published: 2025-11-07T00:07:47Z
@@ -123,14 +129,14 @@ Time Published: 2025-11-06T15:00:02Z
 Description: Nvidia’s 260,000-chip deal with South Korea just gave investors another solid reason to double down on the AI chip giant.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq waver as layoffs jump, key Tesla vote looms
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-layoffs-jump-key-tesla-vote-looms-143722803.html
+Title: Stock market today: Dow, S&P 500, Nasdaq sink as AI valuation concerns mount amid bleak jobs data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-ai-valuation-concerns-mount-amid-bleak-jobs-data-143722263.html
 Time Published: 2025-11-06T14:37:22Z
 Description: The major gauges have reached a holding pattern in a volatile week with investors seeking firm news on tariffs, earnings and Tesla.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq sink as AI valuation concerns mount amid bleak jobs data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-ai-valuation-concerns-mount-amid-bleak-jobs-data-143722263.html
+Title: Stock market today: Dow, S&P 500, Nasdaq waver as layoffs jump, key Tesla vote looms
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-layoffs-jump-key-tesla-vote-looms-143722803.html
 Time Published: 2025-11-06T14:37:22Z
 Description: The major gauges have reached a holding pattern in a volatile week with investors seeking firm news on tariffs, earnings and Tesla.
 --------------------------------------------------
@@ -300,10 +306,4 @@ Title: Michael Burry Just Bet on This 1 Student Loan Stock. Should You Buy It No
 URL: https://www.barchart.com/story/news/35925181/michael-burry-just-bet-on-this-1-student-loan-stock-should-you-buy-it-now
 Time Published: 2025-11-05T15:57:00Z
 Description: SLM provides student loans in the U.S. and is a financial services company that trades at a relatively low valuation as of November 2025.
---------------------------------------------------
-
-Title: Should You Buy the Dip in Palantir Stock Today?
-URL: https://www.barchart.com/story/news/35924008/should-you-buy-the-dip-in-palantir-stock-today
-Time Published: 2025-11-05T15:22:19Z
-Description: Palantir stock tanked even though the company reported a blockbuster Q3 and raised future guidance. Here’s why you shouldn’t buy PLTR shares on the post...
 --------------------------------------------------

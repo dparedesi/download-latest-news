@@ -24,16 +24,16 @@ Time Published: 2025-11-06T17:02:00Z
 Description: With rising AI adoption and strong customer growth, SNOW's 71% rally is more than just market momentum.
 --------------------------------------------------
 
-Title: CoreWeave Is Building a Massive New Data Center. Should You Buy CRWV Stock Here?
-URL: https://www.barchart.com/story/news/35954584/coreweave-is-building-a-massive-new-data-center-should-you-buy-crwv-stock-here
-Time Published: 2025-11-06T14:00:02Z
-Description: CoreWeave is set to help Poolside build a massive data center in Texas. Should you buy CRWV stock here?
---------------------------------------------------
-
 Title: As Oracle Reveals Its new AI Data Platform, Should You Buy, Hold, or Sell ORCL Stock?
 URL: https://www.barchart.com/story/news/35954591/as-oracle-reveals-its-new-ai-data-platform-should-you-buy-hold-or-sell-orcl-stock
 Time Published: 2025-11-06T14:00:02Z
 Description: Oracle is leaping into the AI spotlight with its new AI Data Platform. Is ORCL stock a buy?
+--------------------------------------------------
+
+Title: CoreWeave Is Building a Massive New Data Center. Should You Buy CRWV Stock Here?
+URL: https://www.barchart.com/story/news/35954584/coreweave-is-building-a-massive-new-data-center-should-you-buy-crwv-stock-here
+Time Published: 2025-11-06T14:00:02Z
+Description: CoreWeave is set to help Poolside build a massive data center in Texas. Should you buy CRWV stock here?
 --------------------------------------------------
 
 Title: DayTrading.com's Head Analyst Issues Warning That US Stock Market Is Priced For Impossible Perfection
