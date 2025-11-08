@@ -1,5 +1,24 @@
 List of news related to Uber stock price UBER:
 
+Title: Remember, Tesla (TSLA)’s Not “Really Trading” On Being A Car Company, Says Jim Cramer
+URL: https://finance.yahoo.com/news/remember-tesla-tsla-not-really-163129792.html
+Time Published: 2025-11-07T16:31:29Z
+Description: We recently published 8 Stocks Jim Cramer Talked About. Tesla, Inc. (NASDAQ:TSLA) is one of the stocks Jim Cramer recently discussed. The central debate...
+--------------------------------------------------
+
+Title: Heavy Tech Spending Sends DoorDash Stock Crashing in After-Hours Trading
+URL: https://www.ibtimes.com/heavy-tech-spending-sends-doordash-stock-crashing-after-hours-trading-3789864
+Time Published: 2025-11-07T11:55:49Z
+Description: DoorDash plans to boost investment in AI and new technology in 2026, causing a sharp after-hours stock decline. The company aims for global expansion and innovation.
+--------------------------------------------------
+
+Title: Pony.ai, WeRide shares plunge on Hong Kong debut
+URL: https://www.just-auto.com/news/pony-ai-weride-shares-plunge-on-hong-kong-debut/
+Time Published: 2025-11-07T10:02:03Z
+Full Content:
+Chinese autonomous driving technology company Pony.ai Inc has listed its shares on the Hong Kong Stock Exchange’s (HKEX) Main Board, with the issue of 48.25 million shares priced at HKD 139. The share issue is expected to have generated total proceeds of HKD 7.7 billion (US$ 991 million), making it the world’s largest IPO in the autonomous driving sector in 2025. The share price in Hong Kong dropped by 13% to HKD 124 when the market opened. Dr James Peng, Founder and CEO of Pony.ai, said in a statement: “After nearly nine years of relentless innovation and exploration, Pony.ai stands on the brink of large-scale commercialization in autonomous driving. Years of technological advancement, real-world deployment, and ecosystem building are now coming to a moment of fruition. Our Hong Kong listing represents not only a critical step in our capital strategy but also a significant milestone in connecting with global markets and resources. We are deeply grateful to everyone who has walked this journey with us.” The gold standard of business intelligence. Find out more Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. Find out more Another Chinese robotaxi firm, WeRide Inc, also listed its shares on the HKEX this week, raising around HKD 2.39 billion. Its shares, listed at HKD 27.1 per share, fell by over 13% when the market opened. WeRide’s founder and CEO, Dr Tony Han, said on the day of the listing: “We are deeply grateful to our partners, investors, customers, and every member of the WeRide team. Your trust and dedication have helped turn our vision of autonomous driving into reality. Over the past eight years, WeRide has evolved from technological innovation to commercial operation, becoming the only company worldwide with products holding autonomous driving permits in seven countries, and deployments in over 30 cities across 11 countries. We firmly believe that safe and reliable autonomous driving technology will deliver huge economic and social benefits. Our Hong Kong listing marks a new beginning, and we will continue to lead with technology, drive global commercial deployment, and deliver long-term, sustainable value for our shareholders and society.” Competition in the global robotaxi business is heating up, with Pony.ai and WeRide up against larger competitors such as Baidu’s Apollo Go in China and Alphabet’s Waymo in the US. Stellantis recently formed a new partnership with Uber, with Nvidia and Taiwan’s Foxconn as their technology partners. Another Chinese automotive company, components maker Ningbo Joyson Electronic Corporation, also listed its shares on the HKEX on the same day, priced at HKD 22, before closing down by 8% at HKD 20.24. Don’t let policy changes catch you off guard. Stay proactive with real-time data and expert analysis. Gain the recognition you deserve! The Just Auto Excellence Awards celebrate innovation, leadership, and impact. By entering, you showcase your achievements, elevate your industry profile, and position yourself among top leaders driving automotive industry advancements. Don’t miss your chance to stand out—submit your entry today!
+--------------------------------------------------
+
 Title: WeRide’s CEO pitches robotaxis as a solution to aging populations and long commutes, as the firm raises more money for R&D with a HK IPO
 URL: https://fortune.com/2025/11/06/weride-ceo-tony-han-robotaxi-hong-kong-ipo-shares-safety/
 Time Published: 2025-11-06T05:01:00Z

@@ -1,5 +1,42 @@
 List of news related to NVIDIA NVDA:
 
+Title: Jim Cramer Comments On Michael Burry’s NVIDIA (NVDA) Short Position
+URL: https://finance.yahoo.com/news/jim-cramer-comments-michael-burry-161255721.html
+Time Published: 2025-11-07T16:12:55Z
+Description: We recently published 10 Stocks Jim Cramer Discussed Including His Palantir Deep Dive. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer...
+--------------------------------------------------
+
+Title: Nvidia Stock 2026 Prediction: Can NVDA’s Gravity-Defying Rally Continue?
+URL: https://www.barchart.com/story/news/35982554/nvidia-stock-2026-prediction-can-nvdas-gravity-defying-rally-continue
+Time Published: 2025-11-07T12:30:02Z
+Description: Nvidia stock is set to deliver strong returns for the third consecutive year. It should continue its rally into 2026 as well, though the intensity might not ...
+--------------------------------------------------
+
+Title: Nvidia loses $450 billion in value in just 3 days, biggest wipeout in 2025 - what went wrong with Jensen Huang-led AI star?
+URL: https://economictimes.indiatimes.com/news/international/us/nvidia-loses-450-billion-in-value-in-just-3-days-biggest-wipeout-in-2025-what-went-wrong-with-jensen-huang-led-ai-star/articleshow/125160068.cms
+Time Published: 2025-11-07T12:04:21Z
+Full Content:
+Nvidia share price was down by over 1 per cent in the Friday pre-market. Here's why Nvidia stock is falling. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Guwahati gets world-class Riverfront on Brahmaputra Assam: India’s first Modern River Ferry Terminal in Guwahati US: FAA nationwide flight cuts due to shutdown now in effect Ravi Kishan sparks BJP-Tej Pratap alliance speculation Dog bite menace: SC orders removal; Maneka Gandhi reacts Acharya Dhirendra Shastri leads ‘Sanatan Hindu Ekta Padyatra’ from Delhi Bhagalpur: Shah warns against Osama, Rahul urges to stop ‘vote chori’ 'Modi became PM through 'chunav chori'...': Rahul reaches out to Gen Z PM Modi inaugurates 150-year commemoration of Vande Mataram ‘Modi invited me, I may visit India next year’: Trump Guwahati gets world-class Riverfront on Brahmaputra Assam: India’s first Modern River Ferry Terminal in Guwahati US: FAA nationwide flight cuts due to shutdown now in effect Ravi Kishan sparks BJP-Tej Pratap alliance speculation Dog bite menace: SC orders removal; Maneka Gandhi reacts Acharya Dhirendra Shastri leads ‘Sanatan Hindu Ekta Padyatra’ from Delhi Bhagalpur: Shah warns against Osama, Rahul urges to stop ‘vote chori’ 'Modi became PM through 'chunav chori'...': Rahul reaches out to Gen Z PM Modi inaugurates 150-year commemoration of Vande Mataram ‘Modi invited me, I may visit India next year’: Trump Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Slideshow Top Prime Articles Top Definitions Most Searched IFSC Codes Top Story Listing Private Companies Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: These 3 Tech Stocks Have Been Red-Hot in 2025 but Their Charts Are Screaming ‘Danger’
+URL: https://www.barchart.com/story/news/35981738/these-3-tech-stocks-have-been-red-hot-in-2025-but-their-charts-are-screaming-danger
+Time Published: 2025-11-07T12:00:02Z
+Description: These stocks are quickly going from “heroes” to “villains.” How to read the charts now.
+--------------------------------------------------
+
+Title: Stock Index Futures Slip as Valuation and Economic Concerns Persist, U.S. Confidence Data on Tap
+URL: https://www.barchart.com/story/news/35980912/s-p-futures-muted-ahead-of-u-s-confidence-data-and-fed-speak
+Time Published: 2025-11-07T11:14:30Z
+Description: December S&P 500 E-Mini futures (ESZ25) are down -0.26%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.30% this morning, extending yesterday’s...
+--------------------------------------------------
+
+Title: Stocks Face ‘Critical Tipping Point’ as Key Thresholds Tested
+URL: https://finance.yahoo.com/news/stocks-face-critical-tipping-point-103000309.html
+Time Published: 2025-11-07T10:30:00Z
+Description: Doubts around whether the billions of dollars being invested in artificial intelligence will pay off, combined with still-lofty stock valuations sent the S&P...
+--------------------------------------------------
+
 Title: Zacks Investment Ideas feature highlights Microsoft, Nvidia, Amazon, Alphabet and Apple
 URL: https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-063900957.html
 Time Published: 2025-11-07T06:39:00Z
@@ -269,41 +306,4 @@ Title: AI companies need to 'start generating some serious income'
 URL: https://finance.yahoo.com/news/ai-companies-need-to-start-generating-some-serious-income-195745389.html
 Time Published: 2025-11-05T19:57:45Z
 Description: AI companies need to start bringing in major revenue to keep up with spending.
---------------------------------------------------
-
-Title: Buy Nvidia Stock Now for the Next ‘Golden Wave’ of AI
-URL: https://www.barchart.com/story/news/35929642/buy-nvidia-stock-now-for-the-next-golden-wave-of-ai
-Time Published: 2025-11-05T19:43:39Z
-Description: Nvidia’s next growth phase is being fueled by soaring Blackwell GPU demand and record AI infrastructure spending from hyperscalers.
---------------------------------------------------
-
-Title: Here's What Wall Street Analysts Are Saying About AMD's Earnings
-URL: https://www.investopedia.com/here-is-what-wall-street-analysts-are-saying-about-amd-earnings-11843959
-Time Published: 2025-11-05T18:39:04Z
-Full Content:
-Advanced Micro Devices investors have become harder to impress. The chipmaker yesterday posted record quarterly results and an upbeat outlook on surging demand for its data center chips—and its stock has hardly budged. Advanced Micro Devices (AMD) shares were up about 2%, near $255, in recent trading as the broader tech sector looked to rebound from yesterday's sell-off. Here's a roundup of what Wall Street analysts said about AMD after last night's results. This year's big stock gains for chipmakers like AMD have given rise to worries about an AI bubble. The weak reaction to AMD's strong results could underscore growing uncertainty around the sector—or, at least, the rich valuations carried by stocks in it. Analysts at Oppenheimer, who maintained a neutral rating, voiced some concerns about AMD's reputation as a "second horse supplier" to AI chip leader Nvidia (NVDA), preferring to stay on the sidelines while waiting to see more from AMD's ability to compete with its AI strategy. Most Wall Street analysts, however, remain bullish on the chipmaker's stock amid expectations of growing market share for AMD. Jefferies and HSBC analysts, who have "buy" or equivalent ratings for the stock and $300 price targets, said they came away from Tuesday's results convinced of AMD's potential for more AI-driven growth. HSBC called AMD's recent deal with OpenAI a "game changing" development. Wedbush, which boosted its target to $290 from $270, said it is looking forward to an Analyst Day event next Tuesday for more color on its roadmap. While Wall Street's targets and ratings may be in flux, the mean price target on AMD's shares is around $275 based on Visible Alpha data and Investopedia calculations. About twice as many analysts have "buy" ratings as have "holds," with no bearish ratings currently tracked by the service. Shares of AMD have more than doubled in 2025 so far, with much of its recent gains coming in the wake of the OpenAI deal announced last month.
---------------------------------------------------
-
-Title: Vertiv Soars 29% in Three Months: Should Investors Buy VRT Stock?
-URL: https://finance.yahoo.com/news/vertiv-soars-29-three-months-173500945.html
-Time Published: 2025-11-05T17:35:00Z
-Description: VRT benefits from strategic acquisitions, AI-driven solutions, and an expanding partnership with NVIDIA.
---------------------------------------------------
-
-Title: Nvidia Could Be the First Company to Reach $8.5 Trillion. Should You Buy NVDA Stock Here?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5a5e391e-91fe-40e1-9bc1-7277795a2fbc
-Time Published: 2025-11-05T16:17:52Z
-Description: None
---------------------------------------------------
-
-Title: Worried About an AI Bubble? Here's Exactly How to Limit Stock Risk by Hedging With Put Options
-URL: https://www.barchart.com/story/news/35925442/worried-about-an-ai-bubble-here-s-exactly-how-to-limit-stock-risk-by-hedging-with-put-options
-Time Published: 2025-11-05T16:04:58Z
-Description: Rick Orford explains how to protect your portfolio like a pro using long puts.
---------------------------------------------------
-
-Title: Michael Burry Just Bet on This 1 Student Loan Stock. Should You Buy It Now?
-URL: https://www.barchart.com/story/news/35925181/michael-burry-just-bet-on-this-1-student-loan-stock-should-you-buy-it-now
-Time Published: 2025-11-05T15:57:00Z
-Description: SLM provides student loans in the U.S. and is a financial services company that trades at a relatively low valuation as of November 2025.
 --------------------------------------------------
