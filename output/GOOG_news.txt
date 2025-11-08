@@ -59,9 +59,3 @@ URL: https://www.marketwatch.com/story/is-big-techs-soaring-ai-spending-creating
 Time Published: 2025-11-03T13:39:00Z
 Description: Bulls say the tech rally can keep going, while bears warn of a repeat of the early-2000s dot-com crash.
 --------------------------------------------------
-
-Title: Meta’s (META) AI Push Mirrors Metaverse Risks, Says Oppenheimer
-URL: https://finance.yahoo.com/news/meta-meta-ai-push-mirrors-112609627.html
-Time Published: 2025-11-02T11:26:09Z
-Description: Meta Platforms, Inc. (NASDAQ:META) is one of the AI Stocks on the Market’s Radar. On October 30, Oppenheimer downgraded the stock to “Perform” from...
---------------------------------------------------

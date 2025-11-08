@@ -1,5 +1,41 @@
 List of news related to Amazon stock price AMZN:
 
+Title: A $5.5 Billion Reason to Buy Cipher Mining Stock Here
+URL: https://www.barchart.com/story/news/35967217/a-5-5-billion-reason-to-buy-cipher-mining-stock-here
+Time Published: 2025-11-06T21:18:38Z
+Description: A $5.5 billion Amazon partnership has transformed Cipher from miner to modern AI powerhouse. Investors seem to witness it as the start of Cipher’s next...
+--------------------------------------------------
+
+Title: Analysts Expect Growth at Amazon to ‘Accelerate.’ Does That Make AMZN Stock a Buy Now?
+URL: https://www.barchart.com/story/news/35960693/analysts-expect-growth-at-amazon-to-accelerate-does-that-make-amzn-stock-a-buy-now
+Time Published: 2025-11-06T17:02:37Z
+Description: Analysts say they continue to expect accelerating growth from AWS.
+--------------------------------------------------
+
+Title: 3 Key Reasons to Buy Snowflake Stock Beyond the 71% Surge YTD
+URL: https://finance.yahoo.com/news/3-key-reasons-buy-snowflake-170200860.html
+Time Published: 2025-11-06T17:02:00Z
+Description: With rising AI adoption and strong customer growth, SNOW's 71% rally is more than just market momentum.
+--------------------------------------------------
+
+Title: Apple’s Record Quarter Hints at Something Huge Coming: Is AAPL Stock a Buy Now?
+URL: https://www.barchart.com/story/news/35959333/apples-record-quarter-hints-at-something-huge-coming-is-aapl-stock-a-buy-now
+Time Published: 2025-11-06T16:24:52Z
+Description: Besides a stellar quarter, Apple’s $1 billion AI move could propel its stock higher.
+--------------------------------------------------
+
+Title: As Oracle Reveals Its new AI Data Platform, Should You Buy, Hold, or Sell ORCL Stock?
+URL: https://www.barchart.com/story/news/35954591/as-oracle-reveals-its-new-ai-data-platform-should-you-buy-hold-or-sell-orcl-stock
+Time Published: 2025-11-06T14:00:02Z
+Description: Oracle is leaping into the AI spotlight with its new AI Data Platform. Is ORCL stock a buy?
+--------------------------------------------------
+
+Title: Analysis-AI stock wobble points to US market reliance on tech
+URL: https://finance.yahoo.com/news/analysis-ai-stock-wobble-points-110127396.html
+Time Published: 2025-11-06T11:01:27Z
+Description: NEW YORK (Reuters) -This week's wobble in shares connected to artificial intelligence is a stark reminder that the U.S. stock market is ever more reliant on ...
+--------------------------------------------------
+
 Title: Buy Nvidia Stock Now for the Next ‘Golden Wave’ of AI
 URL: https://www.barchart.com/story/news/35929642/buy-nvidia-stock-now-for-the-next-golden-wave-of-ai
 Time Published: 2025-11-05T19:43:39Z
@@ -162,16 +198,4 @@ Title: Is Amazon.com Inc. (AMZN) One of the Best Stocks to Invest in, According 
 URL: https://finance.yahoo.com/news/amazon-com-inc-amzn-one-103158197.html
 Time Published: 2025-11-03T10:31:58Z
 Description: Amazon.com Inc. (NASDAQ:AMZN) is one of the best stocks to invest in, according to billionaire D.E. Shaw. On October 31, Oppenheimer increased its price...
---------------------------------------------------
-
-Title: Piper Sandler Raises Amazon (AMZN) Price Target as AWS Growth Reaccelerates
-URL: https://finance.yahoo.com/news/piper-sandler-raises-amazon-amzn-112837066.html
-Time Published: 2025-11-02T11:28:37Z
-Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the AI Stocks on the Market’s Radar. On October 31, Piper Sandler raised its price target on the stock to $300 from ...
---------------------------------------------------
-
-Title: Weekly Market Wrap: First Solar, Amazon lead, Starbucks slips
-URL: https://www.thestreet.com/investing/stocks/weekly-market-wrap-first-solar-amazon-lead-starbucks-slips
-Time Published: 2025-11-02T02:29:42Z
-Description: An overall mixed week in terms of the major indices’ performances and the stock market’s reaction to earnings from big tech companies. The S&P 500 was up...
 --------------------------------------------------
