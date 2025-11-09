@@ -1,9 +1,22 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Core Scientific Just Rejected CoreWeave’s Bid. Should You Buy CRWV Stock Here or Stay Far Away?
+URL: https://www.barchart.com/story/news/36004075/core-scientific-just-rejected-coreweaves-bid-should-you-buy-crwv-stock-here-or-stay-far-away
+Time Published: 2025-11-08T14:30:02Z
+Description: With CoreWeave’s dreams of acquiring Core Scientific falling apart, is this a perfect buy-the-dip opportunity, or a sign to steer clear of CRWV stock?
+--------------------------------------------------
+
 Title: Elon Musk's pay package is a clear signal that Tesla is done being just a car company
 URL: https://finance.yahoo.com/news/elon-musks-pay-package-is-a-clear-signal-that-tesla-is-done-being-just-a-car-company-110058483.html
 Time Published: 2025-11-08T11:00:58Z
 Description: We've seen Amazon without Jeff Bezos, Apple without Steve Jobs, and Microsoft without Bill Gates, but for the time being, we're not going to see Tesla...
+--------------------------------------------------
+
+Title: Bitcoin mining news: Cipher lands $5.5B AWS lease, IREN inks $9.7B Microsoft deal, and public bitcoin miner Q3 earnings
+URL: https://blockspace.media/insight/bitcoin-mining-news-cipher-lands-5-5b-aws-lease-iren-inks-9-7b-microsoft-deal-and-public-bitcoin-miner-q3-earnings/
+Time Published: 2025-11-08T11:00:00Z
+Full Content:
+It was a blockbuster week for bitcoin mining news, and the clearest sign yet that miners’ AI ambitions are entering the big leagues. Cipher Mining (NASDAQ: CIFR) inked a $5.5 billion, 15-year lease with Amazon Web Services (NASDAQ: AMZN) for 300 megawatts at its Bear Lake facility, while IREN (NASDAQ: IREN) announced a $9.7 billion, five-year agreement with Microsoft (NASDAQ: MSFT) for 200 megawatts of cloud compute in Texas. Hashprice tumbled to fresh lows near $40 per petahash per day, Bitcoin retraced to $101,000, and Cipher also unveiled plans for a one-gigawatt data center joint venture. And in the background, Warren Buffett’s Pacific Power failed to deliver power to Amazon, a development that could funnel even more demand toward Bitcoin miners with spare megawatts. You’re reading a recap of The Mining Pod. Watch the full episode on YouTube. Cipher announced a 15-year, $5.5 billion lease agreement with Amazon Web Services to host AI workloads at its 300-megawatt Bear Lake facility. The site is scheduled to come online in July 2026, marking AWS’s latest move to secure long-term compute capacity amid surging AI demand. The partnership makes Cipher one of the first public Bitcoin miners to land a hyperscaler as a direct tenant. Cipher also revealed plans for a new one-gigawatt data center project dubbed “Colchis,” in which the company will retain a 95% ownership stake. Despite the historic announcement, Cipher’s stock slid more than 10% Friday, caught in a broader tech-sector sell-off. The company’s $5.5 billion deal value dwarfs its own $8 billion market cap, underscoring investor enthusiasm for miners with AI exposure. Concurrent with Cipher’s own deal, IREN signed a five-year, $9.7 billion cloud compute agreement with Microsoft to deliver 200 megawatts of critical IT load at its Childress, Texas site. The company will also collaborate with Dell in a separate $5.8 billion procurement deal to supply servers, cables, and supporting hardware for its new liquid-cooled data centers “Horizon 1” and “Horizon 4.” The twin announcements represent one of the largest combined partnerships between a Bitcoin miner and major tech firms to date. Like Cipher, IREN’s shares fell roughly 10% on the day, but analysts called the Microsoft deal a “watershed moment” for miners pivoting toward AI and HPC infrastructure. The agreement validates the “powershell” model miners are pursuing: providing power and physical infrastructure for AI tenants while leaving GPU cluster management to specialized partners. Still, open questions remain over IREN’s own GPU strategy and its 20,000-unit Neo Cloud cluster, which could serve as a proving ground for independent AI compute capabilities. Beyond the AI headlines, traditional mining economics continued to worsen. Hashprice fell to around $40 per petahash per day, levels not seen since the spring downturn following President Trump’s “Liberation Day” tariff announcements. Bitcoin’s price has pulled back from highs near $126,000 to roughly $101,000, with network difficulty up more than 6% in the most recent adjustment. “The streets are bleeding,” Mining Pod analyst Matt Kimmel said. “Hash rice is flatlining, fees are dry, and the only excitement left in mining is AI.” The bleak trend underscores the widening gap between miners chasing compute diversification and those still dependent on Bitcoin block rewards. Q3 results from leading miners offered a snapshot of an industry in transition: With AI contracts now dictating sentiment, shares of several miners appear to be pricing in future deal flow rather than immediate mining economics. In a twist tying Warren Buffett to the week’s biggest AI news, Amazon reportedly filed a complaint against Berkshire Hathaway–owned Pacific Power for failing to deliver sufficient electricity to new data centers in Oregon. The shortfall, according to Bloomberg, has forced AWS to seek alternative partners, a potential win for miners like Cipher that already control scalable, low-cost energy infrastructure. The incident follows lawsuits against Pacific Power related to wildfire liabilities, adding pressure on the utility as hyperscalers scramble for new capacity. To close the week, Nvidia CEO Jensen Huang warned that China could overtake the U.S. in the AI arms race, citing cheaper power, looser regulations, and government-backed industrial policy. Speaking at the Financial Times’ Future of AI Summit, Huang said Western “cynicism” and fragmented state-level rules risked slowing U.S. innovation. If China continues expanding its power grid and chip manufacturing base, he said, “they will come.” For miners, that comment hit close to home. As U.S. firms repurpose Bitcoin data centers for AI, the global race for compute, and the energy to fuel it, is accelerating on all fronts. Bitcoin’s first industry publication. From tech to venture to mining, Blockspace has the info and audience Bitcoin builders listen to. Get articles just like this delivered to your inbox By subscribing, you agree to the Blockspace Privacy Policy and Terms and Conditions. Get exclusive access to the people behind Bitcoin. Join 10,000 readers from Galaxy Digital, Fidelity Investments, BlackRock, and more.
 --------------------------------------------------
 
 Title: DELL at 14.87X P/E is Trading Dirt Cheap: Right Time to Buy the Stock?
@@ -56,16 +69,16 @@ Time Published: 2025-11-06T17:02:00Z
 Description: With rising AI adoption and strong customer growth, SNOW's 71% rally is more than just market momentum.
 --------------------------------------------------
 
-Title: As Oracle Reveals Its new AI Data Platform, Should You Buy, Hold, or Sell ORCL Stock?
-URL: https://www.barchart.com/story/news/35954591/as-oracle-reveals-its-new-ai-data-platform-should-you-buy-hold-or-sell-orcl-stock
-Time Published: 2025-11-06T14:00:02Z
-Description: Oracle is leaping into the AI spotlight with its new AI Data Platform. Is ORCL stock a buy?
---------------------------------------------------
-
 Title: CoreWeave Is Building a Massive New Data Center. Should You Buy CRWV Stock Here?
 URL: https://www.barchart.com/story/news/35954584/coreweave-is-building-a-massive-new-data-center-should-you-buy-crwv-stock-here
 Time Published: 2025-11-06T14:00:02Z
 Description: CoreWeave is set to help Poolside build a massive data center in Texas. Should you buy CRWV stock here?
+--------------------------------------------------
+
+Title: As Oracle Reveals Its new AI Data Platform, Should You Buy, Hold, or Sell ORCL Stock?
+URL: https://www.barchart.com/story/news/35954591/as-oracle-reveals-its-new-ai-data-platform-should-you-buy-hold-or-sell-orcl-stock
+Time Published: 2025-11-06T14:00:02Z
+Description: Oracle is leaping into the AI spotlight with its new AI Data Platform. Is ORCL stock a buy?
 --------------------------------------------------
 
 Title: DayTrading.com's Head Analyst Issues Warning That US Stock Market Is Priced For Impossible Perfection

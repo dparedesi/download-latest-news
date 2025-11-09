@@ -1,19 +1,25 @@
 List of news related to Broadcom AVGO:
 
+Title: Is Broadcom (AVGO) The Best AI Chips Stock to Buy Now?
+URL: https://finance.yahoo.com/news/broadcom-avgo-best-ai-chips-154340474.html
+Time Published: 2025-11-08T15:43:40Z
+Description: We recently published 10 Best AI Stocks to Buy According to American Politicians. Broadcom Inc (NASDAQ:AVGO) is one of the best AI stocks to buy. On Sept. 17...
+--------------------------------------------------
+
 Title: Stock market today: Nasdaq, S&P 500, Dow rise off lows as rough week for tech nears end
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-come-off-lows-as-rough-week-for-tech-nears-end-201237522.html
 Time Published: 2025-11-07T20:12:37Z
 Description: Markets trimmed losses as investors weighed Musk's $1T pay package and deteriorating jobs data.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, S&P 500, Dow sink as another tech sell-off has stocks on track for brutal week
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-sink-as-another-tech-sell-off-has-stocks-on-track-for-brutal-week-000747395.html
+Title: Stock market today: Nasdaq, S&P 500, Dow falter in bid to recover from tech-led sell-off
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-falter-in-bid-to-recover-from-tech-led-sell-off-000747762.html
 Time Published: 2025-11-07T00:07:47Z
 Description: Markets fell after a steep sell-off in stocks with Musk's $1T pay package and layoffs in focus.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, S&P 500, Dow falter in bid to recover from tech-led sell-off
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-falter-in-bid-to-recover-from-tech-led-sell-off-000747762.html
+Title: Stock market today: Nasdaq, S&P 500, Dow sink as another tech sell-off has stocks on track for brutal week
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-sink-as-another-tech-sell-off-has-stocks-on-track-for-brutal-week-000747395.html
 Time Published: 2025-11-07T00:07:47Z
 Description: Markets fell after a steep sell-off in stocks with Musk's $1T pay package and layoffs in focus.
 --------------------------------------------------
