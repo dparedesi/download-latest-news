@@ -1,5 +1,12 @@
 List of news related to Axon Enterprise AXON:
 
+Title: Is it time to end Major League Baseball’s antitrust exemption?
+URL: https://www.deseret.com/politics/2025/11/07/major-league-baseball-antitrust-exemption-mike-lee-urge-court-overturn/
+Time Published: 2025-11-07T19:34:17Z
+Full Content:
+Two U.S. senators, including one from Utah, are taking another swing at ending Major League Baseball’s century-old exemption from antitrust laws. Sen. Mike Lee, R-Utah, and Sen. Cory Booker, D-N.J., filed a friend-of-the-court brief urging the Supreme Court to overturn a longstanding precedent that has shielded professional baseball from the nation’s antitrust laws. Lee in a statement said baseball for too long has enjoyed an exemption from the competition laws that apply to every other professional sport and business in the country. “As I’ve said before, baseball understands best of all the benefits of competition,” said Lee, chair of the Senate Judiciary Subcommittee on Antitrust, Competition Policy, and Consumer Rights. “Sadly, our Supreme Court has historically balked at the opportunity to overturn a wrongly decided case, and subject professional baseball to the same competition laws as every other professional sport. It is time for America’s pastime to be revitalized by the laws governing all American businesses.” Lee introduced legislation in 2023 to end the exemption. Booker, the subcommittee ranking member, said baseball has enjoyed a “free pass” to break the rules of fair competition because of a flawed Supreme Court ruling, one that the court itself has acknowledged was a mistake. “The one-of-a-kind antitrust exemption gives leagues the power to artificially control salaries, ticket prices, team relocations, and more, harming players and baseball fans alike,” he said in a statement. In 1922, the Supreme Court ruled in Federal Baseball Club v. National League that the Sherman Antitrust Act does not apply to professional baseball, specifically to “[t]he business [of] giving exhibitions of base ball [sic].” In that case, the Federal Baseball Club of Baltimore, a team and member of the Federal League, sued the National League and the American League, claiming they had conspired to monopolize the business of professional baseball by buying out members of the Federal League and by inducing its members to leave. The court decided that pro baseball games were not interstate commerce and were therefore outside the scope of the antitrust act because they were exhibitions, rather than a business affecting trade or commerce among the states. The senators’ brief comes in the case of Cangrejeros de Santurce Baseball Club, LLC v. Liga de Beisbol Profesional de Puerto Rico, Inc. They argue in the filing that modern professional baseball bears no resemblance to the localized exhibitions in 1922 and is a multibillion-dollar interstate enterprise indistinguishable from other professional sports. The case involves a dispute between the former owner of a professional baseball franchise in Puerto Rico and the league, its president and other franchise owners. The owner, Thomas Axon, a financial professional from New York, alleges that the league conspired to force him to relinquish control of the team, violating the Sherman Antitrust Act and other laws. Axon claims that the league’s actions were in retaliation for his criticism of the conditions at the team’s publicly-owned stadium and his threat to move the team to another city. The case has worked its way through various courts over the past three years. Attorneys for Axon petitioned the Supreme Court in October to take up the case. “The baseball antitrust exemption is no longer sustainable (if ever it was), and it should be overruled. The exemption’s conceptual foundation — that the business of baseball is not interstate commerce and thus not subject to federal economic regulation at all — was questionable from the start and is today wholly indefensible," according to the petition. The Supreme Court addressed the baseball exemption twice before. In 1953, it upheld the exemption. In 1972, it continued the exemption based on precedent set by prior cases and saying Congress must correct any errors in previous decisions by amending the antitrust laws. Lee and Booker argue in the brief that Congress should not be required to fix a “mistaken interpretation” of the law — when the court can and should overrule the Federal Baseball decision now. Congress has considered bills in the past to do away with baseball’s exemption, with the late Utah Republican Sen. Orrin Hatch among those leading the charge in the 1990s. In 1998, it passed the Curt Flood Act partially repealing the exemption, allowing major league players to sue MLB for employment-related matters, such as compensation and working conditions. The law does not apply to minor league players, franchise relocation or other areas of baseball’s business. MLB commissioner Rob Manfred has defended baseball in response to a Senate Judiciary Committee inquiry about the exemption in 2023. He argued that “it may not be possible” for the league to enforce, establish and maintain better working conditions for minor leaguer players if the exemption were lifted. “Without coordinated oversight and decision-making by MLB, it is likely that more Minor League affiliates will leave their existing communities for a superior player-development environment, and that fewer — rather than more — Minor League clubs affiliated with MLB clubs will exist in the future,” he wrote. As ESPN reported, Manfred argued that the league must maintain the current player development system because it already spends $1 billion annually to support the minor leagues, which do not make a profit and are subsidized by MLB teams. That allows teams to provide low ticket prices and remain in areas that otherwise could not “economically support a professional baseball team.”
+--------------------------------------------------
+
 Title: Should You Buy the Post-Earnings Dip in Axon Stock or Stay Far, Far Away?
 URL: https://www.barchart.com/story/news/35965197/should-you-buy-the-post-earnings-dip-in-axon-stock-or-stay-far-far-away
 Time Published: 2025-11-06T21:00:29Z
@@ -84,13 +91,13 @@ Description: December Nasdaq 100 E-Mini futures (NQZ25) are trending down -0.57%
 --------------------------------------------------
 
 Title: Wall Street gains ground amid steady flow of earnings reports, upbeat economic updates
-URL: https://finance.yahoo.com/news/asian-shares-sink-losses-big-033709177.html
+URL: https://finance.yahoo.com/news/asian-shares-sink-losses-big-033709658.html
 Time Published: 2025-11-05T03:37:09Z
 Description: Stocks gained ground on Wall Street Wednesday following several upbeat economic updates and a steady flow of quarterly reports from U.S. companies.  Much of ...
 --------------------------------------------------
 
 Title: Wall Street gains ground amid steady flow of earnings reports, upbeat economic updates
-URL: https://finance.yahoo.com/news/asian-shares-sink-losses-big-033709658.html
+URL: https://finance.yahoo.com/news/asian-shares-sink-losses-big-033709177.html
 Time Published: 2025-11-05T03:37:09Z
 Description: Stocks gained ground on Wall Street Wednesday following several upbeat economic updates and a steady flow of quarterly reports from U.S. companies.  Much of ...
 --------------------------------------------------
@@ -124,16 +131,4 @@ Title: Stock Index Futures Plunge on Valuation Concerns
 URL: https://www.barchart.com/story/news/35884101/stock-index-futures-plunge-amid-valuation-worries
 Time Published: 2025-11-04T11:22:15Z
 Description: December S&P 500 E-Mini futures (ESZ25) are down -1.01%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -1.31% this morning as quarterly results...
---------------------------------------------------
-
-Title: Stocks Close Higher on M&A and AI Optimism
-URL: https://www.barchart.com/story/news/35873921/stocks-close-higher-on-m-a-and-ai-optimism
-Time Published: 2025-11-03T21:54:57Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday rose +0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) fell -0.52%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: Jim Cramer Says Axon is One of the “Long-Term Outperformers That You Simply Have to Consider Owning”
-URL: https://finance.yahoo.com/news/jim-cramer-says-axon-one-160646914.html
-Time Published: 2025-11-03T16:06:46Z
-Description: Axon Enterprise, Inc. (NASDAQ:AXON) is one of the stocks Jim Cramer had in this week’s game plan. Cramer showed bullish sentiment when discussing the company...
 --------------------------------------------------

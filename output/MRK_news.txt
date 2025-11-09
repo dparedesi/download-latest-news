@@ -5,21 +5,3 @@ URL: https://finance.yahoo.com/news/azn-q3-earnings-top-estimates-164500415.html
 Time Published: 2025-11-06T16:45:00Z
 Description: AstraZeneca posts strong Q3 results. Core earnings and revenues beat estimates as key drugs like Tagrisso, Imfinzi and Farxiga fuel broad-based growth.
 --------------------------------------------------
-
-Title: Stocks Close Higher on M&A and AI Optimism
-URL: https://www.barchart.com/story/news/35873921/stocks-close-higher-on-m-a-and-ai-optimism
-Time Published: 2025-11-03T21:54:57Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday rose +0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) fell -0.52%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: Stocks See Support From M&A and AI Optimism
-URL: https://www.barchart.com/story/news/35867547/stocks-see-support-from-m-a-and-ai-optimism
-Time Published: 2025-11-03T16:38:50Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.07% the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.43%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
---------------------------------------------------
-
-Title: Are Wall Street Analysts Predicting Merck & Co. Stock Will Climb or Sink?
-URL: https://www.barchart.com/story/news/35860224/are-wall-street-analysts-predicting-merck-co-stock-will-climb-or-sink
-Time Published: 2025-11-03T12:11:31Z
-Description: Despite Merck & Co.’s underperformance relative to the broader market over the past year, Wall Street analysts remain moderately optimistic about the stock’s...
---------------------------------------------------

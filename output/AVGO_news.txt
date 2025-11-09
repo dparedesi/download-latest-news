@@ -1,13 +1,19 @@
 List of news related to Broadcom AVGO:
 
-Title: Stock market today: Nasdaq, S&P 500, Dow falter in bid to recover from tech-led sell-off
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-falter-in-bid-to-recover-from-tech-led-sell-off-000747762.html
-Time Published: 2025-11-07T00:07:47Z
-Description: Markets fell after a steep sell-off in stocks with Musk's $1T pay package and layoffs in focus.
+Title: Stock market today: Nasdaq, S&P 500, Dow rise off lows as rough week for tech nears end
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-come-off-lows-as-rough-week-for-tech-nears-end-201237522.html
+Time Published: 2025-11-07T20:12:37Z
+Description: Markets trimmed losses as investors weighed Musk's $1T pay package and deteriorating jobs data.
 --------------------------------------------------
 
 Title: Stock market today: Nasdaq, S&P 500, Dow sink as another tech sell-off has stocks on track for brutal week
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-sink-as-another-tech-sell-off-has-stocks-on-track-for-brutal-week-000747395.html
+Time Published: 2025-11-07T00:07:47Z
+Description: Markets fell after a steep sell-off in stocks with Musk's $1T pay package and layoffs in focus.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq, S&P 500, Dow falter in bid to recover from tech-led sell-off
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-falter-in-bid-to-recover-from-tech-led-sell-off-000747762.html
 Time Published: 2025-11-07T00:07:47Z
 Description: Markets fell after a steep sell-off in stocks with Musk's $1T pay package and layoffs in focus.
 --------------------------------------------------
@@ -54,16 +60,4 @@ Title: Jefferies names Broadcom new Top Pick as ASICs are ’at an inflection po
 URL: https://finance.yahoo.com/news/jefferies-names-broadcom-top-pick-121110175.html
 Time Published: 2025-11-04T12:11:10Z
 Description: Investing.com -- Jefferies named Broadcom its new Top Pick, saying the chipmaker is “at an inflection point” as demand for custom AI chips surges across...
---------------------------------------------------
-
-Title: Amazon stock jumps on $38 billion deal with OpenAI to use hundreds of thousands of Nvidia chips
-URL: https://finance.yahoo.com/news/amazon-stock-jumps-on-38-billion-deal-with-openai-to-use-hundreds-of-thousands-of-nvidia-chips-145357373.html
-Time Published: 2025-11-03T14:53:57Z
-Description: Amazon announced a multi-year $38 billion deal with OpenAI that would allow the ChatGPT developer to access hundreds of thousands of Nvidia's AI chips...
---------------------------------------------------
-
-Title: Broadcom (AVGO) Surged on Exceptional Demand for AI Chips
-URL: https://finance.yahoo.com/news/broadcom-avgo-surged-exceptional-demand-134034893.html
-Time Published: 2025-11-03T13:40:34Z
-Description: Columbia Threadneedle Investments, an investment management company, released its “Columbia Global Technology Growth Fund” third-quarter 2025 investor letter...
 --------------------------------------------------

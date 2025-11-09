@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: DELL at 14.87X P/E is Trading Dirt Cheap: Right Time to Buy the Stock?
+URL: https://finance.yahoo.com/news/dell-14-87x-p-e-180000142.html
+Time Published: 2025-11-07T18:00:00Z
+Description: Dell Technologies' cheap valuation and surging AI server demand highlight its growth momentum and make it a compelling buy opportunity.
+--------------------------------------------------
+
 Title: AI bubble bursting or deeper market correction? US stocks plunge as Nvidia crashes 4% and Palantir slides 1.2% — Wall Street’s favorite AI synonyms tumble big
 URL: https://economictimes.indiatimes.com/news/international/us/ai-bubble-bursting-or-deeper-market-correction-us-stocks-plunge-as-nvidia-crashes-4-and-palantir-slides-1-2-wall-streets-favorite-ai-synonyms-tumble-big/articleshow/125167924.cms
 Time Published: 2025-11-07T17:49:46Z
@@ -170,76 +176,4 @@ Title: ‘Enjoy the Ride’: Wedbush Urges Investors to Grab MSFT and GOOGL Afte
 URL: https://finance.yahoo.com/news/enjoy-ride-wedbush-urges-investors-111427761.html
 Time Published: 2025-11-04T11:14:27Z
 Description: Last week saw big news, as a number of the ‘Magnificent 7’ mega-cap tech giants released their quarterly earnings – and the results from several of these...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures sink as worries about frothy valuations run high
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-as-worries-about-frothy-valuations-run-high-234947080.html
-Time Published: 2025-11-03T23:49:47Z
-Description: Techs led a sharp retreat before the bell as doubts about valuations and the recent rally emerge.
---------------------------------------------------
-
-Title: Stocks Close Higher on M&A and AI Optimism
-URL: https://www.barchart.com/story/news/35873921/stocks-close-higher-on-m-a-and-ai-optimism
-Time Published: 2025-11-03T21:54:57Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday rose +0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) fell -0.52%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: Morgan Stanley issues shock take on the stock market
-URL: https://www.thestreet.com/investing/morgan-stanley-issues-shock-take-on-the-stock-market
-Time Published: 2025-11-03T18:47:00Z
-Description: The stock market’s been on a long, confident run since late 2022, but Morgan Stanley’s Andrew Slimmon feels we’re moving swiftly towards the final act. The...
---------------------------------------------------
-
-Title: Six cheap stocks of S&P 500 companies expected to grow quickly through 2027
-URL: https://www.marketwatch.com/story/six-cheap-stocks-of-s-p-500-companies-expected-to-grow-quickly-through-2027-646fe5b1
-Time Published: 2025-11-03T17:09:00Z
-Description: These stocks have also shown recent earnings momentum, with increases to consensus estimates.
---------------------------------------------------
-
-Title: Microsoft's $9.7 billion deal with IREN shows bitcoin miners' AI pivot is paying off
-URL: https://finance.yahoo.com/news/microsofts-97-billion-deal-with-iren-shows-bitcoin-miners-ai-pivot-is-paying-off-165316526.html
-Time Published: 2025-11-03T16:53:16Z
-Description: IREN said that it struck a five-year agreement making Microsoft its largest customer.
---------------------------------------------------
-
-Title: Stocks See Support From M&A and AI Optimism
-URL: https://www.barchart.com/story/news/35867547/stocks-see-support-from-m-a-and-ai-optimism
-Time Published: 2025-11-03T16:38:50Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.07% the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.43%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
---------------------------------------------------
-
-Title: Big Tech's rising AI investments show market bubble 'still has a good ways to go'
-URL: https://finance.yahoo.com/news/big-techs-rising-ai-investments-show-market-bubble-still-has-a-good-ways-to-go-154416770.html
-Time Published: 2025-11-03T15:44:16Z
-Description: Alphabet, Amazon, and Meta raised their capital expenditure forecasts in the tech giants' most recent earnings reports.
---------------------------------------------------
-
-Title: Stocks See Support From M&A and AI Optimism
-URL: https://www.barchart.com/story/news/35865878/stocks-see-support-from-m-a-and-ai-optimism
-Time Published: 2025-11-03T15:03:46Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.08% the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
---------------------------------------------------
-
-Title: Stock market today: Dow slips, Nasdaq pops as Amazon's OpenAI deal boosts AI bets
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slips-nasdaq-pops-as-amazons-openai-deal-boosts-ai-bets-143720746.html
-Time Published: 2025-11-03T14:37:20Z
-Description: US stock futures made gains, with Wall Street looking to maintain upward momentum.
---------------------------------------------------
-
-Title: Market Minute 11-3-25- Kimberly-Kenvue Ink $40 BLN Deal
-URL: https://finance.yahoo.com/news/market-minute-11-3-25-142000392.html
-Time Published: 2025-11-03T14:20:00Z
-Description: Stocks are mixed in the early going after last week’s solid finish. Gold and silver are rising modestly, while the dollar, Treasuries, and crude oil are...
---------------------------------------------------
-
-Title: Is Big Tech’s soaring AI spending creating a bubble? Here’s what it means for stocks.
-URL: https://www.marketwatch.com/story/is-big-techs-soaring-ai-spending-creating-a-bubble-heres-what-it-means-for-stocks-39fdd0d3
-Time Published: 2025-11-03T13:39:00Z
-Description: Bulls say the tech rally can keep going, while bears warn of a repeat of the early-2000s dot-com crash.
---------------------------------------------------
-
-Title: Gemini 3 Anticipation Builds Amid OpenAI Rivalry. Is Google Stock A Buy?
-URL: https://www.investors.com/news/technology/google-stock-buy-alphabet-stock-november-2025/
-Time Published: 2025-11-03T13:01:35Z
-Description: Google seems to be in the artificial intelligence winners circle. But it may have to share it with OpenAI. Will Gemini 3 make a difference?
 --------------------------------------------------
