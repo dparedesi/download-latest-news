@@ -91,13 +91,13 @@ Description: December Nasdaq 100 E-Mini futures (NQZ25) are trending down -0.57%
 --------------------------------------------------
 
 Title: Wall Street gains ground amid steady flow of earnings reports, upbeat economic updates
-URL: https://finance.yahoo.com/news/asian-shares-sink-losses-big-033709658.html
+URL: https://finance.yahoo.com/news/asian-shares-sink-losses-big-033709177.html
 Time Published: 2025-11-05T03:37:09Z
 Description: Stocks gained ground on Wall Street Wednesday following several upbeat economic updates and a steady flow of quarterly reports from U.S. companies.  Much of ...
 --------------------------------------------------
 
 Title: Wall Street gains ground amid steady flow of earnings reports, upbeat economic updates
-URL: https://finance.yahoo.com/news/asian-shares-sink-losses-big-033709177.html
+URL: https://finance.yahoo.com/news/asian-shares-sink-losses-big-033709658.html
 Time Published: 2025-11-05T03:37:09Z
 Description: Stocks gained ground on Wall Street Wednesday following several upbeat economic updates and a steady flow of quarterly reports from U.S. companies.  Much of ...
 --------------------------------------------------
