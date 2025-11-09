@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Elon Musk's pay package is a clear signal that Tesla is done being just a car company
+URL: https://finance.yahoo.com/news/elon-musks-pay-package-is-a-clear-signal-that-tesla-is-done-being-just-a-car-company-110058483.html
+Time Published: 2025-11-08T11:00:58Z
+Description: We've seen Amazon without Jeff Bezos, Apple without Steve Jobs, and Microsoft without Bill Gates, but for the time being, we're not going to see Tesla...
+--------------------------------------------------
+
 Title: DELL at 14.87X P/E is Trading Dirt Cheap: Right Time to Buy the Stock?
 URL: https://finance.yahoo.com/news/dell-14-87x-p-e-180000142.html
 Time Published: 2025-11-07T18:00:00Z
@@ -50,16 +56,16 @@ Time Published: 2025-11-06T17:02:00Z
 Description: With rising AI adoption and strong customer growth, SNOW's 71% rally is more than just market momentum.
 --------------------------------------------------
 
-Title: CoreWeave Is Building a Massive New Data Center. Should You Buy CRWV Stock Here?
-URL: https://www.barchart.com/story/news/35954584/coreweave-is-building-a-massive-new-data-center-should-you-buy-crwv-stock-here
-Time Published: 2025-11-06T14:00:02Z
-Description: CoreWeave is set to help Poolside build a massive data center in Texas. Should you buy CRWV stock here?
---------------------------------------------------
-
 Title: As Oracle Reveals Its new AI Data Platform, Should You Buy, Hold, or Sell ORCL Stock?
 URL: https://www.barchart.com/story/news/35954591/as-oracle-reveals-its-new-ai-data-platform-should-you-buy-hold-or-sell-orcl-stock
 Time Published: 2025-11-06T14:00:02Z
 Description: Oracle is leaping into the AI spotlight with its new AI Data Platform. Is ORCL stock a buy?
+--------------------------------------------------
+
+Title: CoreWeave Is Building a Massive New Data Center. Should You Buy CRWV Stock Here?
+URL: https://www.barchart.com/story/news/35954584/coreweave-is-building-a-massive-new-data-center-should-you-buy-crwv-stock-here
+Time Published: 2025-11-06T14:00:02Z
+Description: CoreWeave is set to help Poolside build a massive data center in Texas. Should you buy CRWV stock here?
 --------------------------------------------------
 
 Title: DayTrading.com's Head Analyst Issues Warning That US Stock Market Is Priced For Impossible Perfection
