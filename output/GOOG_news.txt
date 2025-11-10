@@ -11,27 +11,3 @@ URL: https://finance.yahoo.com/news/fpa-crescent-fund-views-alphabet-132157561.h
 Time Published: 2025-11-06T13:21:57Z
 Description: Investment management company First Pacific Advisors recently released its “The FPA Crescent Fund” third-quarter 2025 investor letter. A copy of the letter...
 --------------------------------------------------
-
-Title: Stocks are falling for reasons that go beyond AI jitters
-URL: https://www.marketwatch.com/story/stocks-are-falling-for-reasons-that-go-beyond-ai-jitters-737e32cc
-Time Published: 2025-11-04T22:33:00Z
-Description: U.S. stocks wobbled on Tuesday, with several high-flying tech names leading the way lower.
---------------------------------------------------
-
-Title: Stocks Finish Sharply Lower on Concerns About Lofty Valuations
-URL: https://www.barchart.com/story/news/35902492/stocks-finish-sharply-lower-on-concerns-about-lofty-valuations
-Time Published: 2025-11-04T21:28:28Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -1.17%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.53%, and the Nasdaq 100 Index ...
---------------------------------------------------
-
-Title: Stocks Pressured Amid Valuation Concerns
-URL: https://www.barchart.com/story/news/35894193/stocks-pressured-amid-valuation-concerns
-Time Published: 2025-11-04T16:11:43Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.70%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.35%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stocks Retreat on Valuation Concerns
-URL: https://www.barchart.com/story/news/35892541/stocks-retreat-on-valuation-concerns
-Time Published: 2025-11-04T15:02:13Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.97%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.69%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------

@@ -38,6 +38,12 @@ Time Published: 2025-11-07T21:40:00Z
 Description: Strong tech earnings weren’t enough to reassure investors worried about high valuations.
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq end volatile week lower amid worst tech sell-off since April
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-end-volatile-week-lower-amid-worst-tech-sell-off-since-april-210026318.html
+Time Published: 2025-11-07T21:00:26Z
+Description: Markets trimmed losses as investors weighed Musk's $1T pay package and deteriorating jobs data.
+--------------------------------------------------
+
 Title: Stock market today: Nasdaq, S&P 500, Dow rise off lows as rough week for tech nears end
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-come-off-lows-as-rough-week-for-tech-nears-end-201237522.html
 Time Published: 2025-11-07T20:12:37Z
@@ -146,10 +152,10 @@ Time Published: 2025-11-07T06:39:00Z
 Description: Microsoft, Nvidia, Amazon, Alphabet and Apple have been highlighted in this Investment Ideas article.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures falter in bid to recover from tech-led sell-off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-falter-in-bid-to-recover-from-tech-led-sell-off-000747991.html
+Title: Stock market today: Nasdaq, S&P 500, Dow falter in bid to recover from tech-led sell-off
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-falter-in-bid-to-recover-from-tech-led-sell-off-000747762.html
 Time Published: 2025-11-07T00:07:47Z
-Description: Markets are muted after a steep sell-off in stocks with Musk's $1T pay package and layoffs in focus.
+Description: Markets fell after a steep sell-off in stocks with Musk's $1T pay package and layoffs in focus.
 --------------------------------------------------
 
 Title: Stock market today: Nasdaq, S&P 500, Dow sink as another tech sell-off has stocks on track for brutal week
@@ -158,10 +164,10 @@ Time Published: 2025-11-07T00:07:47Z
 Description: Markets fell after a steep sell-off in stocks with Musk's $1T pay package and layoffs in focus.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, S&P 500, Dow falter in bid to recover from tech-led sell-off
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-falter-in-bid-to-recover-from-tech-led-sell-off-000747762.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures falter in bid to recover from tech-led sell-off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-falter-in-bid-to-recover-from-tech-led-sell-off-000747991.html
 Time Published: 2025-11-07T00:07:47Z
-Description: Markets fell after a steep sell-off in stocks with Musk's $1T pay package and layoffs in focus.
+Description: Markets are muted after a steep sell-off in stocks with Musk's $1T pay package and layoffs in focus.
 --------------------------------------------------
 
 Title: Disaster Ensues After AI Behemoth Floats Idea Of Stealing Your Tax Dollars If They Fail
@@ -245,14 +251,14 @@ Time Published: 2025-11-06T16:08:59Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the must-buy US stocks to buy now. On October 27, reports emerged indicating NVIDIA Corporation (NASDAQ:NVDA) is...
 --------------------------------------------------
 
-Title: Lucid Q3 losses widen as Gravity SUV production is 'ramping up,' midsize EV on track for 2026 release
-URL: https://finance.yahoo.com/news/lucid-q3-losses-widen-as-gravity-suv-production-is-ramping-up-midsize-ev-on-track-for-2026-release-160723902.html
+Title: Lucid: Q3 losses widen as Gravity SUV production 'ramping up,' midsize EV on track for 2026 release
+URL: https://finance.yahoo.com/news/lucid-q3-losses-widen-as-gravity-suv-production-ramping-up-midsize-ev-on-track-for-2026-release-160723754.html
 Time Published: 2025-11-06T16:07:23Z
 Description: Pure-play EV maker Lucid reported third quarter results that missed the mark on Wednesday, as losses piled on despite sales pulling higher, ahead of the EV...
 --------------------------------------------------
 
-Title: Lucid: Q3 losses widen as Gravity SUV production 'ramping up,' midsize EV on track for 2026 release
-URL: https://finance.yahoo.com/news/lucid-q3-losses-widen-as-gravity-suv-production-ramping-up-midsize-ev-on-track-for-2026-release-160723754.html
+Title: Lucid Q3 losses widen as Gravity SUV production is 'ramping up,' midsize EV on track for 2026 release
+URL: https://finance.yahoo.com/news/lucid-q3-losses-widen-as-gravity-suv-production-is-ramping-up-midsize-ev-on-track-for-2026-release-160723902.html
 Time Published: 2025-11-06T16:07:23Z
 Description: Pure-play EV maker Lucid reported third quarter results that missed the mark on Wednesday, as losses piled on despite sales pulling higher, ahead of the EV...
 --------------------------------------------------
@@ -269,14 +275,14 @@ Time Published: 2025-11-06T15:00:02Z
 Description: Nvidia’s 260,000-chip deal with South Korea just gave investors another solid reason to double down on the AI chip giant.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq waver as layoffs jump, key Tesla vote looms
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-layoffs-jump-key-tesla-vote-looms-143722803.html
+Title: Stock market today: Dow, S&P 500, Nasdaq sink as AI valuation concerns mount amid bleak jobs data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-ai-valuation-concerns-mount-amid-bleak-jobs-data-143722263.html
 Time Published: 2025-11-06T14:37:22Z
 Description: The major gauges have reached a holding pattern in a volatile week with investors seeking firm news on tariffs, earnings and Tesla.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq sink as AI valuation concerns mount amid bleak jobs data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-ai-valuation-concerns-mount-amid-bleak-jobs-data-143722263.html
+Title: Stock market today: Dow, S&P 500, Nasdaq waver as layoffs jump, key Tesla vote looms
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-layoffs-jump-key-tesla-vote-looms-143722803.html
 Time Published: 2025-11-06T14:37:22Z
 Description: The major gauges have reached a holding pattern in a volatile week with investors seeking firm news on tariffs, earnings and Tesla.
 --------------------------------------------------
@@ -303,10 +309,4 @@ Title: Exclusive-Nvidia-backed Vast Data inks $1.17 billion AI deal with CoreWea
 URL: https://finance.yahoo.com/news/exclusive-nvidia-backed-vast-data-120456403.html
 Time Published: 2025-11-06T12:04:56Z
 Description: (Reuters) -AI startup Vast Data has signed a $1.17 billion commercial agreement with cloud provider CoreWeave, extending their ​existing partnership as...
---------------------------------------------------
-
-Title: Analysis-AI stock wobble points to US market reliance on tech
-URL: https://finance.yahoo.com/news/analysis-ai-stock-wobble-points-110127396.html
-Time Published: 2025-11-06T11:01:27Z
-Description: NEW YORK (Reuters) -This week's wobble in shares connected to artificial intelligence is a stark reminder that the U.S. stock market is ever more reliant on ...
 --------------------------------------------------
