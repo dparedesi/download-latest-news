@@ -1,5 +1,17 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Valuation worries, record-long government shutdown hang over markets: What to watch this week
+URL: https://finance.yahoo.com/news/valuation-worries-record-long-government-shutdown-hang-over-markets-what-to-watch-this-week-123041065.html
+Time Published: 2025-11-09T12:30:41Z
+Description: Skepticism around sky-high tech valuations and a continued dearth of economic data set up the week for investors.
+--------------------------------------------------
+
+Title: Top Wall Street analysts favor these 3 tech stocks for their growth outlook
+URL: https://www.cnbc.com/2025/11/09/top-wall-street-analysts-favor-3-tech-stocks-for-their-growth-outlook.html
+Time Published: 2025-11-09T12:28:05Z
+Description: TipRanks' ranking service discusses three stocks that are favored by Wall Street, including Amazon and Alphabet.
+--------------------------------------------------
+
 Title: Hedge funds go bearish! Shorting at fastest pace since April as market jitters rise
 URL: https://economictimes.indiatimes.com/news/international/us/hedge-funds-go-bearish-shorting-at-fastest-pace-since-april-as-market-jitters-rise/articleshow/125185573.cms
 Time Published: 2025-11-08T13:09:23Z
@@ -85,7 +97,8 @@ Description: AMD's Q3 beat & AI supercomputer deals signal strong growth, but Am
 Title: As bubble debate rages, a new study finds why companies are getting stuck by the AI productivity paradox
 URL: https://www.marketwatch.com/story/as-bubble-debate-rages-a-new-study-finds-why-companies-are-getting-stuck-by-the-ai-productivity-paradox-f1123c7d
 Time Published: 2025-11-05T14:58:00Z
-Description: Companies do benefit from attracting AI workers, but only from lean organizations, study finds
+Full Content:
+As bubble debate rages, a new study finds why companies are getting stuck by the AI productivity paradox Listen (5 min) Listen (5 min) There feels something toppy about the rants from Palantir’s Alex Karp and OpenAI’s Sam Altman against short sellers – in the latter’s case, entirely imaginary, as the ChatGPT maker is still a private company – given the meteoric stock-market gains so far from the AI trade. On the other hand, the possibly revolutionary impact from artificial intelligence argues that maybe it is still early days, no matter how abrasively these chieftains behave. About the Author Steven Goldstein is based in London and responsible for MarketWatch's coverage of financial markets in Europe, with a particular focus on global macro and commodities. Previously, he was Washington bureau chief, directing MarketWatch's economic, political and regulatory coverage. Follow Steve on Twitter: @MKTWgoldstein. Copyright © 2025 MarketWatch, Inc. All rights reserved.
 --------------------------------------------------
 
 Title: 3 Reasons Why You Should Buy This Amazing AI Stock

@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia Looks 22% Undervalued Here Based on Projected FCF Margins - $230 Price Target
+URL: https://www.barchart.com/story/news/36011975/nvidia-looks-22-undervalued-here-based-on-projected-fcf-margins-230-price-target
+Time Published: 2025-11-09T14:30:02Z
+Description: Nvidia stock looks at least 22% too cheap here, based on its strong FCF margins (i.e., with a 39% FCF TTM margin) and using a 2.0% FCF yield valuation metric...
+--------------------------------------------------
+
+Title: Valuation worries, record-long government shutdown hang over markets: What to watch this week
+URL: https://finance.yahoo.com/news/valuation-worries-record-long-government-shutdown-hang-over-markets-what-to-watch-this-week-123041065.html
+Time Published: 2025-11-09T12:30:41Z
+Description: Skepticism around sky-high tech valuations and a continued dearth of economic data set up the week for investors.
+--------------------------------------------------
+
 Title: Bitcoin fell from 2025’s ‘hottest trade,’ but attention will return: Alex Thorn
 URL: https://cointelegraph.com/news/bitcoin-trade-lag-attention-to-return-galaxy-digital-alex-thorn
 Time Published: 2025-11-09T05:45:02Z
@@ -298,16 +310,4 @@ Title: CoreWeave Is Building a Massive New Data Center. Should You Buy CRWV Stoc
 URL: https://www.barchart.com/story/news/35954584/coreweave-is-building-a-massive-new-data-center-should-you-buy-crwv-stock-here
 Time Published: 2025-11-06T14:00:02Z
 Description: CoreWeave is set to help Poolside build a massive data center in Texas. Should you buy CRWV stock here?
---------------------------------------------------
-
-Title: Quantum Computing Stocks: IonQ Earnings Miss, Revenue Beats
-URL: https://www.investors.com/news/technology/quantum-computing-stocks-ionq-earnings-q32025/
-Time Published: 2025-11-06T13:42:07Z
-Description: Kicking off financial results for quantum computing stocks, IonQ reported a bigger than expected Q3 loss while revenue topped expectations.
---------------------------------------------------
-
-Title: Dear Nvidia Stock Fans, Mark Your Calendars for November 19
-URL: https://www.barchart.com/story/news/35950027/dear-nvidia-stock-fans-mark-your-calendars-for-november-19
-Time Published: 2025-11-06T12:15:01Z
-Description: The countdown is on for Nvidia’s November 19 earnings. After hitting $5 trillion, the world is watching to see what magic happens next.
 --------------------------------------------------
