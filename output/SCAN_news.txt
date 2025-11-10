@@ -37,14 +37,14 @@ Time Published: 2025-11-07T04:01:14Z
 Description: Lockheed Martin has been treading water for the past six months, recording a small loss of 0.7% while holding steady at $468.11. The stock also fell short of...
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, S&P 500, Dow falter in bid to recover from tech-led sell-off
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-falter-in-bid-to-recover-from-tech-led-sell-off-000747762.html
+Title: Stock market today: Nasdaq, S&P 500, Dow sink as another tech sell-off has stocks on track for brutal week
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-sink-as-another-tech-sell-off-has-stocks-on-track-for-brutal-week-000747395.html
 Time Published: 2025-11-07T00:07:47Z
 Description: Markets fell after a steep sell-off in stocks with Musk's $1T pay package and layoffs in focus.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, S&P 500, Dow sink as another tech sell-off has stocks on track for brutal week
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-sink-as-another-tech-sell-off-has-stocks-on-track-for-brutal-week-000747395.html
+Title: Stock market today: Nasdaq, S&P 500, Dow falter in bid to recover from tech-led sell-off
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-falter-in-bid-to-recover-from-tech-led-sell-off-000747762.html
 Time Published: 2025-11-07T00:07:47Z
 Description: Markets fell after a steep sell-off in stocks with Musk's $1T pay package and layoffs in focus.
 --------------------------------------------------
