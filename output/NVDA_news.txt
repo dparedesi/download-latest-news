@@ -1,5 +1,12 @@
 List of news related to NVIDIA NVDA:
 
+Title: US stock market futures today: Why Dow, S&P 500, and Nasdaq futures rising? Here's top gainers and losers for the day on Wall Street
+URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-today-why-dow-sp-500-and-nasdaq-futures-rising-heres-top-gainers-and-losers-for-the-day-on-wall-street/articleshow/125221683.cms
+Time Published: 2025-11-10T10:22:31Z
+Full Content:
+US stock market futures today surged as optimism built over Washington’s progress on ending the record 2025 government shutdown. Dow Jones, S&P 500, and Nasdaq futures climbed sharply after the Senate cleared a 60–40 procedural vote on a short-term funding deal through January 2026. The move boosted risk appetite and sent global markets higher, with KOSPI up 3%, Nikkei 1.3%, and Hang Seng 1.5%. Tech rebounded, led by Nvidia, while energy and financial stocks gained. The 10-year Treasury yield edged up to 4.13% as investors rotated back into equities. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Are Facebook ads helping users buy illegal drugs by mail in Canada - Drugs travel through an ad to a postal delivery; $9 million worth of illegal drugs were turned over to police in 2024 by Canada Post Alberta nursing care workers threaten massive strike, what are they demanding; Alberta Finance minister responds as time runs out; all you need to know Anunay Sood death: What we know about his networth, family, journey, relationships, and career Anunay Sood's ex-fiancée Brinda Sharma: Why did the two influencers call off their engagement? Anunay Sood’s final Instagram post just days before death: ‘Still can't believe I spent the weekend surrounded by legends and dream machines’ Anunay Sood, acclaimed travel creator with millions of followers, dies at 32 Quebec Municipal Election: results for all cities in Quebec, find out list of winners, runner-ups, election plans, and more; Ferrada takes home Montreal post 8-yr Liberal rule Former Liberal now “centrist” Soraya Martinez Ferrada elected Montreal mayor defeating 8 years of left-leaning mayoralty of city; read more to find out why she left the Liberals, “reviewing bike lanes, tackling homelessness” agenda? Sam Hamad loses Quebec City mayoral race to Bruno Marchand; former Liberal minister faces accusations of threats to daughter, etc. find out more on details, history & controversies of Syrian-born Quebecer Canadian ‘Reagan ad expose’ damages Trump-era economics? Carney apologises amid Trump’s brouhaha over 1987 Ronald Reagan ad showcasing tariff as weak strategy; US Prez stubborn ‘NO’ on resuming trade Canada Shooting: Indian origin business tycoon found dead in Abbotsford, B.C., son identifies him as victim of homicide; shocking details emerge amid probe Clayton Kershaw’s wife Ellen gets emotional during his dramatic World Series appearance - WATCH Porsche recalls over 3,000 vehicles in Canada across several models over safety issues which can lead to crash; check list of affected models and what you can do if yours is on the list ‘Amit Shah ji astifa dedo…’: Cong attacks Shah over infiltrator remark in Bihar Tejashwi Yadav blasts EC for withholding voter data after phase 1 6,000 people sent from Haryana to Bihar? Sibal’s charge puts BJP Bengaluru jail turns party hub? Inmates caught drinking, dancing in viral video Pak-Afghan peace talks break down, what happens to ceasefire now? Trump says shutdown end ‘very close,’ pushes Dems to reopen govt Senate votes 60-40 to break filibuster, move to reopen govt Watch: Lava erupts from Hawaii’s Kilauea volcano President’s visit to Angola focuses on strengthening trade ties Delhi: Toxic air pollution sparks protests demanding govt action ‘Amit Shah ji astifa dedo…’: Cong attacks Shah over infiltrator remark in Bihar Tejashwi Yadav blasts EC for withholding voter data after phase 1 6,000 people sent from Haryana to Bihar? Sibal’s charge puts BJP Bengaluru jail turns party hub? Inmates caught drinking, dancing in viral video Pak-Afghan peace talks break down, what happens to ceasefire now? Trump says shutdown end ‘very close,’ pushes Dems to reopen govt Senate votes 60-40 to break filibuster, move to reopen govt Watch: Lava erupts from Hawaii’s Kilauea volcano President’s visit to Angola focuses on strengthening trade ties Delhi: Toxic air pollution sparks protests demanding govt action Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Story Listing Private Companies Top Prime Articles Most Searched IFSC Codes Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures march higher as vote lifts hopes for end to US shutdown
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-march-higher-as-vote-lifts-hopes-for-end-to-us-shutdown-002422119.html
 Time Published: 2025-11-10T00:24:22Z
@@ -208,14 +215,14 @@ Time Published: 2025-11-07T00:07:47Z
 Description: Markets are muted after a steep sell-off in stocks with Musk's $1T pay package and layoffs in focus.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, S&P 500, Dow falter in bid to recover from tech-led sell-off
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-falter-in-bid-to-recover-from-tech-led-sell-off-000747762.html
+Title: Stock market today: Nasdaq, S&P 500, Dow sink as another tech sell-off has stocks on track for brutal week
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-sink-as-another-tech-sell-off-has-stocks-on-track-for-brutal-week-000747395.html
 Time Published: 2025-11-07T00:07:47Z
 Description: Markets fell after a steep sell-off in stocks with Musk's $1T pay package and layoffs in focus.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, S&P 500, Dow sink as another tech sell-off has stocks on track for brutal week
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-sink-as-another-tech-sell-off-has-stocks-on-track-for-brutal-week-000747395.html
+Title: Stock market today: Nasdaq, S&P 500, Dow falter in bid to recover from tech-led sell-off
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-falter-in-bid-to-recover-from-tech-led-sell-off-000747762.html
 Time Published: 2025-11-07T00:07:47Z
 Description: Markets fell after a steep sell-off in stocks with Musk's $1T pay package and layoffs in focus.
 --------------------------------------------------
@@ -299,10 +306,4 @@ Title: NVIDIA Corporation (NVDA) Partners with Deutsche Telekom on €1B Data Ce
 URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-partners-deutsche-160859643.html
 Time Published: 2025-11-06T16:08:59Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the must-buy US stocks to buy now. On October 27, reports emerged indicating NVIDIA Corporation (NASDAQ:NVDA) is...
---------------------------------------------------
-
-Title: Lucid Q3 losses widen as Gravity SUV production is 'ramping up,' midsize EV on track for 2026 release
-URL: https://finance.yahoo.com/news/lucid-q3-losses-widen-as-gravity-suv-production-is-ramping-up-midsize-ev-on-track-for-2026-release-160723902.html
-Time Published: 2025-11-06T16:07:23Z
-Description: Pure-play EV maker Lucid reported third quarter results that missed the mark on Wednesday, as losses piled on despite sales pulling higher, ahead of the EV...
 --------------------------------------------------
