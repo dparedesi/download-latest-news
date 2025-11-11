@@ -306,9 +306,3 @@ URL: https://finance.yahoo.com/news/lucid-q3-losses-widen-as-gravity-suv-product
 Time Published: 2025-11-06T16:07:23Z
 Description: Pure-play EV maker Lucid reported third quarter results that missed the mark on Wednesday, as losses piled on despite sales pulling higher, ahead of the EV...
 --------------------------------------------------
-
-Title: Lucid: Q3 losses widen as Gravity SUV production 'ramping up,' midsize EV on track for 2026 release
-URL: https://finance.yahoo.com/news/lucid-q3-losses-widen-as-gravity-suv-production-ramping-up-midsize-ev-on-track-for-2026-release-160723754.html
-Time Published: 2025-11-06T16:07:23Z
-Description: Pure-play EV maker Lucid reported third quarter results that missed the mark on Wednesday, as losses piled on despite sales pulling higher, ahead of the EV...
---------------------------------------------------
