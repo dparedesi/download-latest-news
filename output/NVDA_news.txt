@@ -1,5 +1,18 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures march higher as vote lifts hopes for end to US shutdown
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-march-higher-as-vote-lifts-hopes-for-end-to-us-shutdown-002422119.html
+Time Published: 2025-11-10T00:24:22Z
+Description: Hopes are rising for an end to the longest government shutdown in US history.
+--------------------------------------------------
+
+Title: NVIDIA Shares Dropped 7% This Week: 3 Catalysts For the Fall
+URL: https://247wallst.com/investing/2025/11/09/nvidia-shares-dropped-7-this-week-3-catalysts-for-the-fall/
+Time Published: 2025-11-09T21:00:44Z
+Full Content:
+Investing Sending You to Google News in 3 © 24/7 Wall St Shares of NVIDIA (Nasdaq: NVDA) dropped 7.1% this week, sinking sharply after hitting a high of $211.34 on Monday morning. Yet, even with the losses, NVIDIA shares had quickly plummeted into correction territory midday Friday. Shares sank to a low of $178.91 before rebounding to close the day at $188.15, a slight gain from Thursday’s close. So, the big question facing NVIDIA investors is whether last week’s losses were the result of ‘market noise’ or were a signal of something larger and more troubling. Let’s dive into 3 catalysts that led to this week’s sell-off. The Nasdaq Composite fell more than 3% last week. Tech stocks in particular were under pressure with the Technology Select Sector SPDR (NYSE: XLK) down 4.2% NVIDIA may have fallen 7.1%, but other semiconductor stocks also fell. Broadcom (Nasdaq: AVGO) fell 5.5% while AMD (Nasdaq: AMD) plunged 8.8%. The biggest news among this group of companies at the forefront of producing AI accelerators was AMD’s earnings. Overall, the earnings were a positive piece of news for the industry. AMD forecast outlook of $9.6 billion next quarter, far ahead of Wall Street estimates of about $9.2 billion. Looking further out, AMD projects ‘tens of billions’ in revenue from their data center business from 2027. If you’re an ‘AI bull’ who believes the cycle is far from slowing down, AMD’s earnings generally supported that idea. If you’re looking for reasons the broader market took a nose dive this week, it appeared to be a broader ‘risk-off.’ Most days, technology stocks fell, more defensive industries like Financials, Healthcare, and Consumer Staples rose. Macroeconomic headlines like consumer confidence plummeting amidst the continuing government shutdown also rattled markets. Another key reason technology stocks fell this week was OpenAI ‘spooking’ the market. Earlier in the week, comments from OpenAI CEO Sam Altman were widely shared across both social media and within money management circles. In the video (embedded in the X post below), you can see Altman get very defensive about a very reasonable question about the company’s ability to finance aggressive spending plans from venture capitalist Brad Gerstner. Apparently, if you ask @sama how his $13 billion money-losing for profit not-for-profit can support $1.4 TRILLION of spend commitments, he gets very defensive and starts to attack non-existent short sellers.I cannot wait for @OpenAI to be a public company. pic.twitter.com/DTPVJJf86x Another key OpenAI storyline was the Wall Street Journal reporting the company was seeking a government backstop on its data center investments. The comments were made by CFO Sarah Friar in an interview with the paper, and OpenAI tried walking them back as ‘poor wording.’ Yet the damage was done. Investors are quickly reversing course and viewing OpenAI as less of a catalyst in the AI space and more of a risk. The company has been on a barnstorming PR tour for more than a month, announcing major deal after major deal and the longer the PR tour goes, the more ‘bubble talk’ grows. There were other headlines this week that captured the media’s attention, such as Jensen Huang stating ‘China is going to win the AI race’ (another statement that has been walked back). But beyond all the noise, the bottom line for NVIDIA investors is that the actual earnings news was very positive last week. Earlier, we detailed how AMD’s guidance for next quarter was very positive and the company also forecast massive scale into 2027. Another bright spot was optics companies. Lumentum, Fabrinet, and Coherent all forecast extremely strong sales. That’s an important indicator for other AI infrastructure companies, as a surge in optics is just one more datapoint in a major acceleration in data center builds. Overall, NVIDIA saw a big decline this week, but the actual news flow around the company was fairly positive this week, thanks to earnings. Their losses are mostly attributable to investors selling off risk this week and comments from OpenAI leading to added selling pressure on AI stocks. Latest Podcast Episode OpenAI Signs Two Massive Deals and Two New Portfolio Buys 51 min See us invest in our favorite AI stock ideas for free Live Nov 9, 2025 Live Nov 4, 2025 AMD (NASDAQ:AMD) and Nvidia (NASDAQ:NVDA) have been locked in a high-stakes AI chip race that has sent investors into a… AMD (Nasdaq: AMD) signed a massive deal with OpenAI that was announced before the market opened on October 6th. Since that… Seaport Global Securities analyst Jay Goldberg downgraded NVIDIA (NASDAQ: NVDA) three months ago. He put a “sell” on the stock… AI stocks are on the move after hours. The primary catalyst is earnings from Alphabet (Nasdaq: GOOGL). While Alphabet shares are off… It is hard to imagine a company in which the stock will crater if its quarterly revenue is up less… AI stocks were sold off big on Friday. NVIDIA (Nasdaq: NVDA) closed down an even 10% while Super Micro Computer (Nasdaq: SMCI) plummeted 23.14%.… CoreWeave (NASDAQ: CRWV), Broadcom (NASDAQ:AVGO) and Oracle (NYSE:ORCL) are 3 very popular stocks amount retail investors. They are also favorite… As the marketplace for semiconductors grows beyond Nvidia, Broadcom—a major competitor—should see its stock price grow significantly. Shares of Oracle (NYSE: ORCL) fell 11% this past week, sliding to $245.01 as retail investors and options traders have…
+--------------------------------------------------
+
 Title: Verizon reportedly planning major store closures and layoffs
 URL: https://www.thestreet.com/retail/verizon-reportedly-planning-major-store-closures-and-layoffs
 Time Published: 2025-11-09T18:53:14Z
@@ -22,6 +35,12 @@ Title: Jim Cramer on NVIDIA: “I Can’t Blame Anyone for Selling”
 URL: https://finance.yahoo.com/news/jim-cramer-nvidia-t-blame-115445815.html
 Time Published: 2025-11-09T11:54:45Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer recently discussed. Cramer discussed the block White House put on the company regarding...
+--------------------------------------------------
+
+Title: NVDA: Nvidia Stock Tumbles -- CEO Confirms No China Blackwell Chip Talks
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_25c14087-dff4-4c5b-860f-469a47a57445
+Time Published: 2025-11-09T09:33:01Z
+Description: None
 --------------------------------------------------
 
 Title: Bitcoin fell from 2025’s ‘hottest trade,’ but attention will return: Alex Thorn
@@ -292,22 +311,4 @@ Title: Lucid: Q3 losses widen as Gravity SUV production 'ramping up,' midsize EV
 URL: https://finance.yahoo.com/news/lucid-q3-losses-widen-as-gravity-suv-production-ramping-up-midsize-ev-on-track-for-2026-release-160723754.html
 Time Published: 2025-11-06T16:07:23Z
 Description: Pure-play EV maker Lucid reported third quarter results that missed the mark on Wednesday, as losses piled on despite sales pulling higher, ahead of the EV...
---------------------------------------------------
-
-Title: Jim Cramer resets AI stock ‘buy’ list for rest of 2025
-URL: https://www.thestreet.com/investing/stocks/jim-cramer-resets-ai-stock-buy-list-for-rest-of-2025
-Time Published: 2025-11-06T15:35:01Z
-Description: CNBC’s "Mad Money" host Jim Cramer isn’t beating around the bush with his revamped AI buy list. In a market that’s overflowing with a ton of hype, his latest...
---------------------------------------------------
-
-Title: 260,000 Reasons to Buy Nvidia Stock Now
-URL: https://www.barchart.com/story/news/35956827/260-000-reasons-to-buy-nvidia-stock-now
-Time Published: 2025-11-06T15:00:02Z
-Description: Nvidia’s 260,000-chip deal with South Korea just gave investors another solid reason to double down on the AI chip giant.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq sink as AI valuation concerns mount amid bleak jobs data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-ai-valuation-concerns-mount-amid-bleak-jobs-data-143722263.html
-Time Published: 2025-11-06T14:37:22Z
-Description: The major gauges have reached a holding pattern in a volatile week with investors seeking firm news on tariffs, earnings and Tesla.
 --------------------------------------------------
