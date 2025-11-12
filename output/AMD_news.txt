@@ -1,5 +1,29 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stocks Rally on Optimism that the US Government Will Soon Reopen
+URL: https://www.barchart.com/story/news/36025494/stocks-rally-on-optimism-that-the-us-government-will-soon-reopen
+Time Published: 2025-11-10T15:10:33Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +1.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.55%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
+Title: Will Data Center Business Help NVIDIA Beat Q3 Sales Target of $54B?
+URL: https://finance.yahoo.com/news/data-center-business-help-nvidia-132500088.html
+Time Published: 2025-11-10T13:25:00Z
+Description: NVDA's surging data center business and booming AI chip demand are likely to aid it in topping Q3 sales expectations of $54 billion.
+--------------------------------------------------
+
+Title: Is Micron's Cheap Valuation an Opportunity to Invest in the Stock?
+URL: https://finance.yahoo.com/news/microns-cheap-valuation-opportunity-invest-132000491.html
+Time Published: 2025-11-10T13:20:00Z
+Description: MU's soaring stock still trades at a steep discount to tech peers, with AI-driven growth and solid fundamentals supporting further upside.
+--------------------------------------------------
+
+Title: Stocks Set to Open Sharply Higher as End to U.S. Government Shutdown Nears
+URL: https://www.barchart.com/story/news/36019139/stocks-set-to-open-sharply-higher-as-end-to-u-s-government-shutdown-nears
+Time Published: 2025-11-10T11:22:07Z
+Description: December S&P 500 E-Mini futures (ESZ25) are up +0.92%, and December Nasdaq 100 E-Mini futures (NQZ25) are up +1.39% this morning as optimism that lawmakers...
+--------------------------------------------------
+
 Title: The modernization mandate: Inside Dell and AMD’s new playbook
 URL: https://siliconangle.com/2025/11/09/dell-amd-alliance-powers-next-generation-ai-architecture-dellsmarterprivatecloud/
 Time Published: 2025-11-09T18:05:10Z
@@ -42,30 +66,4 @@ Title: These 3 Tech Stocks Have Been Red-Hot in 2025 but Their Charts Are Scream
 URL: https://www.barchart.com/story/news/35981738/these-3-tech-stocks-have-been-red-hot-in-2025-but-their-charts-are-screaming-danger
 Time Published: 2025-11-07T12:00:02Z
 Description: These stocks are quickly going from “heroes” to “villains.” How to read the charts now.
---------------------------------------------------
-
-Title: Stock Market News for Nov 6, 2025
-URL: https://finance.yahoo.com/news/stock-market-news-nov-6-094500587.html
-Time Published: 2025-11-06T09:45:00Z
-Description: Wall Street closed higher on Wednesday as Supreme Court judges looked unconvinced about sweeping tariffs imposed by the Trump administration.
---------------------------------------------------
-
-Title: DayTrading.com's Head Analyst Issues Warning That US Stock Market Is Priced For Impossible Perfection
-URL: https://www.globenewswire.com/news-release/2025/11/06/3182241/0/en/DayTrading-com-s-Head-Analyst-Issues-Warning-That-US-Stock-Market-Is-Priced-For-Impossible-Perfection.html
-Time Published: 2025-11-06T09:05:00Z
-Full Content:
-November 06, 2025 04:05 ET | Source: DayTrading.com DayTrading.com LONDON, Nov. 06, 2025 (GLOBE NEWSWIRE) -- Analysis from an investor with 60,000+ hours trading under his belt and a degree in Economics from Harvard examines the current valuation landscape of U.S. equities. DayTrading.com’s Dan Buckley started by looking at basic metrics, namely the forward Price-to-Earnings (P/E) ratio. This evaluates how much today’s investors are paying for each dollar of next year’s expected profit.The U.S. market is trading at roughly 23x forward earnings, which is far above the 15x times level seen in international markets. "This is an extreme gap, representing a roughly 51% void," Buckley says. "When valuations stretch this far, future returns are often modest at best and downright negative at worst." The last times the U.S. hit these sorts of valuations were: Buckley noted that since the 2021 peak, the U.S. stock market has delivered a compound annual return of around 9%, but before that, it went nearly a decade without making substantial, sustained gains. After the downturn in early 2022, U.S. equities took nearly two years just to get back to previous highs. A Market Bigger Than Its EconomyAnalysis from DayTrading.com reviewed several metrics highlighting a familiar pattern: global investors maintain a significant weighting in U.S. assets compared with the scale of the underlying economy. This imbalance reflects how influential U.S. markets have become within global portfolios and index benchmarks. U.S. Market ImbalanceThe research highlighted that the U.S. currently represents around 65% of the MSCI All Country World Index. This is a benchmark that guides billions in global investment flows. Yet by comparison, America produces only around 26% of the world’s economic output in nominal dollar terms, and it’s actually more like 15% when adjusted for the cost of living. Buckley noted that even investment vehicles labelled as "global" reflect this outsized concentration. For example, Vanguard’s Total World Stock ETF (VT), is often used as a diversified core holding by many institutions. That still invests around 66% of its assets in the U.S., with 4% just in Nvidia. "When one single chipmaker accounts for more in a portfolio than many entire countries, diversification is merely a slogan - not a reality," Buckley added. The Outsized Impact Of AIDayTrading.com's research took aim at AI, pointing out that roughly half of the S&P 500’s gains in 2025 stem from companies tied to artificial intelligence - semiconductor leaders, mega-cap platforms, and infrastructure providers. These include now household names like Nvidia (NVDA), Microsoft (MSFT), Advanced Micro Devices (AMD), and Palantir (PLTR). Buckley observed that AI has become a major focus for both markets and corporate strategy, but noted that the extent and pace of its long-term impact remain to be seen. "It’s true that AI will transform many businesses and their operations," he says. "But investors are pouring money in assuming every firm will be a winner, and better yet, all at the same time. But that’s rarely how innovation pays out – just look at the dot-com era, where many went under and only a few flourished." Market Perspective: A Measured ViewBuckley emphasized that his comments should not be interpreted as forecasting a market downturn. Rather, he offered a measured assessment of current U.S. equity conditions, noting potential areas of imbalance that may emerge when market expectations are elevated. While financial markets can often behave unpredictably, Buckley observed that not all sectors appear overextended. Certain segments—including financials, healthcare, select industrials, and international markets—continue to show valuations that align more closely with underlying fundamentals. “U.S. stocks don’t necessarily need a flood of negative news to experience adjustment,” Buckley noted. “Even subtle signs of strain can have an effect when perfection is already reflected in prices.”The full analysis is available here: U.S. Stocks: Great Expectations, Even Greater Valuations About DayTrading.comDayTrading.com is a platform that provides information and market analysis for individual investors. It’s been used by millions of traders worldwide. Contact BarraJamesDayTrading.comjames.barra@daytrading.com A photo accompanying this announcement is available at https://www.globenewswire.com/NewsRoom/AttachmentNg/70b7cb7d-f2ac-4a14-9e18-e594f6063100
---------------------------------------------------
-
-Title: Zacks Investment Ideas feature highlights: Advanced Micro, Oracle, NVIDIA, AMDL and Meta
-URL: https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-084600164.html
-Time Published: 2025-11-06T08:46:00Z
-Description: Advanced Micro, Oracle, NVIDIA, AMDL and Meta have been highlighted in this Investment Ideas article.
---------------------------------------------------
-
-Title: US stock market rebounded sharply today: What is fuelling Dow, S&P, and Nasdaq rise? AMD, Seagate, Micron, and Western Digital hit record highs
-URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-rebounded-sharply-today-what-is-fuelling-dow-sp-and-nasdaq-rise-amd-seagate-micron-and-western-digital-hit-record-highs/articleshow/125121405.cms
-Time Published: 2025-11-06T02:51:10Z
-Full Content:
-U.S. stock market rebounded Wednesday as investors brushed off AI bubble fears and the Supreme Court questioned Trump’s tariff authority. The Nasdaq rose 0.7%, the Dow gained 0.5%, and the S&P 500 added 0.4%. AMD surged 2.5% after record results, while Palantir slipped 1.5% despite strong earnings. Pinterest plunged 22%, Amgen jumped 8%, and McDonald’s climbed 2%. Data-storage giants Seagate, Micron, and Western Digital hit record highs. Bitcoin rose to $103,900, gold neared $4,000, and oil fell below $60 as the shutdown stretched into day 36. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Bihar Polls: Voting begins across 121 seats; Tejashwi Yadav, Tej Pratap in fray PM Modi hosts Women’s World Cup Champions, praises comeback Trump reveals two ‘big factors’ behindGOPloss 'Our opponents offering an economic nightmare': Trump on Mamdani's victory India-New Zealand FTA to balance sensitivities: Piyush Goyal Affordable flats built on land recovered from Mukhtar Ansari in Lucknow Piyush Goyal shares amusing travel tale at India-NZ Business Forum Rijiju blasts Rahul’s ‘H Files’; slams him for wasting time What if US SC blocks Trump’s tariffs? WH reveals ‘Plan B’ Priyanka defends Rahul over Army remark, hits back at PM Modi Bihar Polls: Voting begins across 121 seats; Tejashwi Yadav, Tej Pratap in fray PM Modi hosts Women’s World Cup Champions, praises comeback Trump reveals two ‘big factors’ behindGOPloss 'Our opponents offering an economic nightmare': Trump on Mamdani's victory India-New Zealand FTA to balance sensitivities: Piyush Goyal Affordable flats built on land recovered from Mukhtar Ansari in Lucknow Piyush Goyal shares amusing travel tale at India-NZ Business Forum Rijiju blasts Rahul’s ‘H Files’; slams him for wasting time What if US SC blocks Trump’s tariffs? WH reveals ‘Plan B’ Priyanka defends Rahul over Army remark, hits back at PM Modi Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Prime Articles Private Companies Top Commodities Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
 --------------------------------------------------

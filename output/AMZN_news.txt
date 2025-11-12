@@ -1,5 +1,35 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Google Has a ‘Secret Weapon’ That Could Make GOOGL Stock One of the Best AI Buys for 2026
+URL: https://www.barchart.com/story/news/36032876/google-has-a-secret-weapon-that-could-make-googl-stock-one-of-the-best-ai-buys-for-2026
+Time Published: 2025-11-10T21:18:33Z
+Description: Google's stock has increased by more than 50% in the last 12 months, making it a top investment given its expanding AI product portfolio.
+--------------------------------------------------
+
+Title: Buy, Sell or Hold JD.com Stock? Key Tips Ahead of Q3 Earnings
+URL: https://finance.yahoo.com/news/buy-sell-hold-jd-com-165200325.html
+Time Published: 2025-11-10T16:52:00Z
+Description: JD heads into Q3 with steady retail momentum and solid revenue growth, but rising costs and stiff competition threaten margins.
+--------------------------------------------------
+
+Title: Microsoft Stock Rises 17.9% YTD on Cloud Strength: Buy Now or Hold?
+URL: https://finance.yahoo.com/news/microsoft-stock-rises-17-9-160200760.html
+Time Published: 2025-11-10T16:02:00Z
+Description: MSFT's 17.9% YTD gain masks valuation concerns and capacity constraints. Strong fundamentals support holding, but new investors should wait for a pullback.
+--------------------------------------------------
+
+Title: Nebius to Report Q3 Earnings: How to Approach the Stock Now?
+URL: https://finance.yahoo.com/news/nebius-report-q3-earnings-approach-151800772.html
+Time Published: 2025-11-10T15:18:00Z
+Description: NBIS' surging AI cloud demand and $17.4B Microsoft deal boost momentum, but high capex and competition cloud near-term outlook.
+--------------------------------------------------
+
+Title: Should You Buy Gitlab Stock Amid Takeover Speculation?
+URL: https://www.barchart.com/story/news/36025414/should-you-buy-gitlab-stock-amid-takeover-speculation
+Time Published: 2025-11-10T15:03:42Z
+Description: GitLab stock has surged amid takeover chatter. Could this momentum signal a genuine acquisition opportunity?
+--------------------------------------------------
+
 Title: Top Wall Street analysts favor these 3 tech stocks for their growth outlook
 URL: https://www.cnbc.com/2025/11/09/top-wall-street-analysts-favor-3-tech-stocks-for-their-growth-outlook.html
 Time Published: 2025-11-09T12:28:05Z
@@ -37,40 +67,4 @@ Title: Nvidia Stock 2026 Prediction: Can NVDA’s Gravity-Defying Rally Continue
 URL: https://www.barchart.com/story/news/35982554/nvidia-stock-2026-prediction-can-nvdas-gravity-defying-rally-continue
 Time Published: 2025-11-07T12:30:02Z
 Description: Nvidia stock is set to deliver strong returns for the third consecutive year. It should continue its rally into 2026 as well, though the intensity might not ...
---------------------------------------------------
-
-Title: A $5.5 Billion Reason to Buy Cipher Mining Stock Here
-URL: https://www.barchart.com/story/news/35967217/a-5-5-billion-reason-to-buy-cipher-mining-stock-here
-Time Published: 2025-11-06T21:18:38Z
-Description: A $5.5 billion Amazon partnership has transformed Cipher from miner to modern AI powerhouse. Investors seem to witness it as the start of Cipher’s next...
---------------------------------------------------
-
-Title: Analysts Expect Growth at Amazon to ‘Accelerate.’ Does That Make AMZN Stock a Buy Now?
-URL: https://www.barchart.com/story/news/35960693/analysts-expect-growth-at-amazon-to-accelerate-does-that-make-amzn-stock-a-buy-now
-Time Published: 2025-11-06T17:02:37Z
-Description: Analysts say they continue to expect accelerating growth from AWS.
---------------------------------------------------
-
-Title: 3 Key Reasons to Buy Snowflake Stock Beyond the 71% Surge YTD
-URL: https://finance.yahoo.com/news/3-key-reasons-buy-snowflake-170200860.html
-Time Published: 2025-11-06T17:02:00Z
-Description: With rising AI adoption and strong customer growth, SNOW's 71% rally is more than just market momentum.
---------------------------------------------------
-
-Title: Apple’s Record Quarter Hints at Something Huge Coming: Is AAPL Stock a Buy Now?
-URL: https://www.barchart.com/story/news/35959333/apples-record-quarter-hints-at-something-huge-coming-is-aapl-stock-a-buy-now
-Time Published: 2025-11-06T16:24:52Z
-Description: Besides a stellar quarter, Apple’s $1 billion AI move could propel its stock higher.
---------------------------------------------------
-
-Title: As Oracle Reveals Its new AI Data Platform, Should You Buy, Hold, or Sell ORCL Stock?
-URL: https://www.barchart.com/story/news/35954591/as-oracle-reveals-its-new-ai-data-platform-should-you-buy-hold-or-sell-orcl-stock
-Time Published: 2025-11-06T14:00:02Z
-Description: Oracle is leaping into the AI spotlight with its new AI Data Platform. Is ORCL stock a buy?
---------------------------------------------------
-
-Title: Analysis-AI stock wobble points to US market reliance on tech
-URL: https://finance.yahoo.com/news/analysis-ai-stock-wobble-points-110127396.html
-Time Published: 2025-11-06T11:01:27Z
-Description: NEW YORK (Reuters) -This week's wobble in shares connected to artificial intelligence is a stark reminder that the U.S. stock market is ever more reliant on ...
 --------------------------------------------------
