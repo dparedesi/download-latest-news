@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Qualcomm Wants to Beat Nvidia in AI Chips, but QCOM Stock Needs to Win Over Wall Street First
+URL: https://www.barchart.com/story/news/36030915/qualcomm-wants-to-beat-nvidia-in-ai-chips-but-qcom-stock-needs-to-win-over-wall-street-first
+Time Published: 2025-11-10T20:13:15Z
+Description: QCOM stock is down after earnings after failing to impress investors with its results. This comes as Qualcomm plans to get into the AI chip market to rival...
+--------------------------------------------------
+
+Title: Will Astera Labs' Expanding AI Platforms Drive the Next Growth Wave?
+URL: https://finance.yahoo.com/news/astera-labs-expanding-ai-platforms-174800542.html
+Time Published: 2025-11-10T17:48:00Z
+Description: ALAB's surging revenues and expanding AI platform lineup position it to power the next wave of hyperscale data center growth.
+--------------------------------------------------
+
 Title: Can the AI Boom Push Broadcom Stock to a $2 Trillion Market Cap in 2026?
 URL: https://www.barchart.com/story/news/36026306/can-the-ai-boom-push-broadcom-stock-to-a-2-trillion-market-cap-in-2026
 Time Published: 2025-11-10T15:42:33Z
