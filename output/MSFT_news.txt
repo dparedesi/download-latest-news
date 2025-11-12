@@ -1,9 +1,21 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stocks Finish Sharply Higher on Plans to Reopen the US Government
+URL: https://www.barchart.com/story/news/36033320/stocks-finish-sharply-higher-on-plans-to-reopen-the-us-government
+Time Published: 2025-11-10T21:35:03Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +1.54%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.81%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
 Title: Google Has a ‘Secret Weapon’ That Could Make GOOGL Stock One of the Best AI Buys for 2026
 URL: https://www.barchart.com/story/news/36032876/google-has-a-secret-weapon-that-could-make-googl-stock-one-of-the-best-ai-buys-for-2026
 Time Published: 2025-11-10T21:18:33Z
 Description: Google's stock has increased by more than 50% in the last 12 months, making it a top investment given its expanding AI product portfolio.
+--------------------------------------------------
+
+Title: AI Stock Correction: MSFT, AVGO, IONQ Seen as Stable Tech, Quantum Bets
+URL: https://finance.yahoo.com/news/ai-stock-correction-msft-avgo-200000734.html
+Time Published: 2025-11-10T20:00:00Z
+Description: MSFT, AVGO and IONQ stand out as resilient plays as investors rotate from overheated AI hype to sustainable tech and quantum growth paths.
 --------------------------------------------------
 
 Title: 5 Defensive Consumer Plays to Watch If Markets Keep Slipping
