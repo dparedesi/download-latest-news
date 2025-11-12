@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Cantor Fitzgeral Maintains Overweight Rating on Microsoft (MSFT) Following Strong Q1 Results
+URL: https://finance.yahoo.com/news/cantor-fitzgeral-maintains-overweight-rating-161704238.html
+Time Published: 2025-11-11T16:17:04Z
+Description: Microsoft Corporation (NASDAQ:MSFT) ranks among the stocks in Bill Gates’ portfolio that analysts are watching. On October 30, Cantor Fitzgerald reaffirmed...
+--------------------------------------------------
+
+Title: CoreWeave Falls As Data Center Issue Hits Capital Spending, 2025 Revenue Outlook
+URL: https://www.investors.com/news/technology/coreweave-stock-coreweave-earnings-news-q32025/
+Time Published: 2025-11-11T11:36:45Z
+Description: CoreWeave stock fell as investors mulled the company's lowered 2025 guidance for capital spending and revenue amid capacity issues.
+--------------------------------------------------
+
 Title: Stocks Finish Sharply Higher on Plans to Reopen the US Government
 URL: https://www.barchart.com/story/news/36033320/stocks-finish-sharply-higher-on-plans-to-reopen-the-us-government
 Time Published: 2025-11-10T21:35:03Z

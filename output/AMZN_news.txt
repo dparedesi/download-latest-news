@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Jeff Bezos Gifts 1M Amazon Shares Worth $251M to Non-Profit Organizations
+URL: https://www.ibtimes.com/jeff-bezos-gifts-1m-amazon-shares-worth-251m-non-profit-organizations-3790103
+Time Published: 2025-11-11T12:12:48Z
+Description: Amazon founder Jeff Bezos has donated over 1 million Amazon shares worth $251 million to non-profits this year, with plans to sell more shares under a trading plan.
+--------------------------------------------------
+
+Title: CoreWeave Falls As Data Center Issue Hits Capital Spending, 2025 Revenue Outlook
+URL: https://www.investors.com/news/technology/coreweave-stock-coreweave-earnings-news-q32025/
+Time Published: 2025-11-11T11:36:45Z
+Description: CoreWeave stock fell as investors mulled the company's lowered 2025 guidance for capital spending and revenue amid capacity issues.
+--------------------------------------------------
+
 Title: Meta's,Tesla's, Alphabet's and Amazon are part of Zacks Earnings Preview
 URL: https://finance.yahoo.com/news/metas-teslas-alphabets-amazon-part-074500249.html
 Time Published: 2025-11-11T07:45:00Z
