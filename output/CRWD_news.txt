@@ -1,1 +1,7 @@
-No news found for Crowdstrike +CRWD
+List of news related to Crowdstrike CRWD:
+
+Title: Bank of America resets price target as CoreWeave earnings send stock reeling
+URL: https://www.thestreet.com/investing/stocks/bank-of-america-resets-price-target-as-coreweave-earnings-send-stock-reeling
+Time Published: 2025-11-11T22:47:00Z
+Description: CoreWeave reported its Q3 earnings on November 10. During the earnings call, Mike Intrator, CEO and co-founder of CoreWeave, said: "We continue to scale...
+--------------------------------------------------

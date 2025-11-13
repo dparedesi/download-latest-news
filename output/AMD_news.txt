@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stocks Settle Mostly Higher on Government Reopening Optimism
+URL: https://www.barchart.com/story/news/36056089/stocks-settle-mostly-higher-on-government-reopening-optimism
+Time Published: 2025-11-11T21:36:46Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed up +0.21%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +1.18%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
 Title: AMD Unveils Strategy to Lead the $1 Trillion Compute Market and Accelerate Next Phase of Growth
 URL: https://financialpost.com/globe-newswire/amd-unveils-strategy-to-lead-the-1-trillion-compute-market-and-accelerate-next-phase-of-growth
 Time Published: 2025-11-11T21:32:50Z
