@@ -7,6 +7,18 @@ Full Content:
 Exciting news for investors! Advanced Micro Devices (AMD) has announced ambitious growth projections for its data center business. The company forecasts a potential $100 billion in annual revenue from data center chips within the next five years, accompanied by a threefold increase in profits. The Santa Clara, California-based chip design company saw its stock initially dip by 2.7% to $237.52 after market close, but quickly rebounded with a 4% increase in volatile trading as markets opened. This positive momentum builds upon a 16% increase in AMD’s share price since October 6th. This rise coincided with AMD securing a multi-year agreement with OpenAI, a deal expected to generate tens of billions of dollars annually. While this agreement may not immediately challenge Nvidia’s dominance in the AI chip market, it signals growing confidence in AMD’s chip technology. The company’s optimistic financial outlook, revealed on Tuesday, is anticipated to alleviate investor concerns. According to AMD CEO Lisa Su, the data center chip market is expected to reach a staggering $1 trillion by 2030. She shared this forecast at an analyst day event in New York, highlighting the pivotal role of artificial intelligence (AI) in driving this growth. The market includes AMD’s general-purpose processors, networking chips, and specialized AI chips. “This is a very exciting market,” Su stated. “The data center is the largest growth opportunity right now, and AMD is incredibly well positioned for it.” Over the next three to five years, AMD projects an annual growth rate of 35% for its overall business, with a remarkable 60% growth rate specifically for its data center business, as announced by AMD’s Chief Financial Officer, Jean Hu. The company is targeting earnings per share of up to $20 within this timeframe. For context, Reuters cited an LSEG estimate predicting AMD’s 2025 profit at $2.68 per share. The future looks bright for AMD in the high-performance computing and artificial intelligence landscape. Nep123.com is your reliable source for news, stories, and insights from Nepal. We cover current affairs, politics, culture, tourism, lifestyle, and more—bringing you fresh perspectives and engaging content that captures the essence of Nepal. Whether you’re in Nepal or abroad, we keep you connected to the heartbeat of the nation. Copyright © 2025 NEP123.com Powered by Namaste Webmedia
 --------------------------------------------------
 
+Title: AMD Strengthens Its Bull Case. Can the Stock Hit $350 in a Year?
+URL: https://www.barchart.com/story/news/36078875/amd-strengthens-its-bull-case-can-the-stock-hit-350-in-a-year
+Time Published: 2025-11-12T18:42:22Z
+Description: AMD’s financial targets reflect its potential for sustained, profitable expansion. Moreover, the growth catalysts ahead suggest that AMD’s momentum is far...
+--------------------------------------------------
+
+Title: Heavy Put Option Activity in Advanced Micro Devices Implies AMD Stock Is Overvalued - But Is It?
+URL: https://www.barchart.com/story/news/36078692/heavy-put-option-activity-in-advanced-micro-devices-implies-amd-stock-is-overvalued-but-is-it
+Time Published: 2025-11-12T18:30:02Z
+Description: Today, large volumes of short-term put options in AMD stock imply that it might be overvalued. But a closer look at its strong free cash flow (FCF) and FCF...
+--------------------------------------------------
+
 Title: Dow Targets New Record Highs Amid Mixed Stock Trading
 URL: https://www.barchart.com/story/news/36075997/stocks-pressured-by-weakness-in-the-magnificent-seven-tech-stocks
 Time Published: 2025-11-12T16:14:16Z
@@ -54,13 +66,13 @@ Stock futures are higher this morning after the Dow Jones Industrial Average clo
 --------------------------------------------------
 
 Title: Wall Street drifts around its records as AMD rallies
-URL: https://finance.yahoo.com/news/asian-shares-mostly-higher-cautious-072614329.html
+URL: https://finance.yahoo.com/news/asian-shares-mostly-higher-cautious-072614763.html
 Time Published: 2025-11-12T07:26:14Z
 Description: The Dow Jones Industrial Average jumped 327 points, or 0.7%, to set a record for the second straight day, while the Nasdaq composite slipped 0.3%.  It...
 --------------------------------------------------
 
 Title: Wall Street drifts around its records as AMD rallies
-URL: https://finance.yahoo.com/news/asian-shares-mostly-higher-cautious-072614763.html
+URL: https://finance.yahoo.com/news/asian-shares-mostly-higher-cautious-072614329.html
 Time Published: 2025-11-12T07:26:14Z
 Description: The Dow Jones Industrial Average jumped 327 points, or 0.7%, to set a record for the second straight day, while the Nasdaq composite slipped 0.3%.  It...
 --------------------------------------------------
