@@ -1,13 +1,19 @@
 List of news related to Uber stock price UBER:
 
-Title: Earnings live: Circle stock slides as the stablecoin issuer's Q3 revenue jumps, On Holding stock surges
-URL: https://finance.yahoo.com/news/live/earnings-live-circle-stock-slides-as-the-stablecoin-issuers-q3-revenue-jumps-on-holding-stock-surges-132042222.html
-Time Published: 2025-11-12T13:20:42Z
+Title: Earnings live: Cisco stock pops, Circle slides, On Holding and McGraw Hill stocks surge
+URL: https://finance.yahoo.com/news/live/earnings-live-disney-stock-falls-as-revenue-misses-cisco-surges-chipmaker-smic-rises-121947853.html
+Time Published: 2025-11-12T21:51:54Z
 Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
 --------------------------------------------------
 
 Title: Earnings live: Circle stock slides as the stablecoin issuer's revenue jumps, On Holding stock surges
 URL: https://finance.yahoo.com/news/live/earnings-live-circle-stock-slides-as-the-stablecoin-issuers-revenue-jumps-on-holding-stock-surges-132042367.html
+Time Published: 2025-11-12T13:20:42Z
+Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
+--------------------------------------------------
+
+Title: Earnings live: Circle stock slides as the stablecoin issuer's Q3 revenue jumps, On Holding stock surges
+URL: https://finance.yahoo.com/news/live/earnings-live-circle-stock-slides-as-the-stablecoin-issuers-q3-revenue-jumps-on-holding-stock-surges-132042222.html
 Time Published: 2025-11-12T13:20:42Z
 Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
 --------------------------------------------------
