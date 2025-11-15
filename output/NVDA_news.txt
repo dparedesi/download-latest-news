@@ -1,9 +1,9 @@
 List of news related to NVIDIA NVDA:
 
-Title: Stock market today: Dow slides, Nasdaq pares losses as Fed rate-cut doubts creep in
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-nasdaq-recovers-amid-growing-doubts-on-fed-rate-cut-path-235130256.html
-Time Published: 2025-11-13T23:51:30Z
-Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
+Title: FTSE 100 LIVE: London slides and UK gilts sell as Reeves spooks market with tax U-turn
+URL: https://uk.finance.yahoo.com/news/ftse-100-live-markets-reeves-drops-budget-plan-raise-income-tax-092225015.html
+Time Published: 2025-11-14T09:22:25Z
+Description: The chancellor is reportedly looking to trim the thresholds at which people pay different rates of income tax
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq dive, deepening bruising sell-off as rate-cut doubts creep in
@@ -14,6 +14,12 @@ Description: Stock futures have inched up following the market's worst day in ov
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures dive after bruising sell-off as rate-cut doubts creep in
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-dive-after-bruising-sell-off-as-rate-cut-doubts-creep-in-235130357.html
+Time Published: 2025-11-13T23:51:30Z
+Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
+--------------------------------------------------
+
+Title: Stock market today: Dow slides, Nasdaq pares losses as Fed rate-cut doubts creep in
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-nasdaq-recovers-amid-growing-doubts-on-fed-rate-cut-path-235130256.html
 Time Published: 2025-11-13T23:51:30Z
 Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
 --------------------------------------------------
@@ -298,10 +304,4 @@ Title: Daily Market Wrap: Paramount Skydance, CoreWeave, and SoftBank
 URL: https://www.thestreet.com/economy/daily-market-wrap-paramount-skydance-coreweave-and-softbank
 Time Published: 2025-11-12T01:42:16Z
 Description: The market had a mixed performance on Tuesday, Nov. 11, with tech stocks underperforming as a ripple effect of Nvidia’s lackluster performance. The S&P 500...
---------------------------------------------------
-
-Title: AMD says its data center revenue will jump 60% over the next 3 to 5 years
-URL: https://finance.yahoo.com/news/amd-says-its-data-center-revenue-will-jump-60-over-the-next-3-to-5-years-234017711.html
-Time Published: 2025-11-11T23:40:17Z
-Description: AMD says its data center revenue will grow as much as 60% over the next three to five years.
 --------------------------------------------------

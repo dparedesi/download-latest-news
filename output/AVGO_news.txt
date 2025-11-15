@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: FTSE 100 LIVE: London slides and UK gilts sell as Reeves spooks market with tax U-turn
+URL: https://uk.finance.yahoo.com/news/ftse-100-live-markets-reeves-drops-budget-plan-raise-income-tax-092225015.html
+Time Published: 2025-11-14T09:22:25Z
+Description: The chancellor is reportedly looking to trim the thresholds at which people pay different rates of income tax
+--------------------------------------------------
+
 Title: Stock market today: Dow slides, Nasdaq pares losses as Fed rate-cut doubts creep in
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-nasdaq-recovers-amid-growing-doubts-on-fed-rate-cut-path-235130256.html
 Time Published: 2025-11-13T23:51:30Z
