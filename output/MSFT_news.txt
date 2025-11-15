@@ -1,5 +1,23 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stock market today: Dow slides, Nasdaq pares losses as Fed rate-cut doubts creep in
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-nasdaq-recovers-amid-growing-doubts-on-fed-rate-cut-path-235130256.html
+Time Published: 2025-11-13T23:51:30Z
+Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
+--------------------------------------------------
+
+Title: Stocks Slump on Reduced Fed Rate Cut Chances
+URL: https://www.barchart.com/story/news/36111219/stocks-slump-on-reduced-fed-rate-cut-chances
+Time Published: 2025-11-13T21:35:46Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -1.66%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -1.65%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: Stocks Weighed Down by Weakness in Chipmakers and Megacap Tech Stocks
+URL: https://www.barchart.com/story/news/36104318/stocks-weighed-down-by-weakness-in-chipmakers-and-megacap-tech-stocks
+Time Published: 2025-11-13T16:18:36Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -1.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.68%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: Stocks Settle Mostly Higher as Government Poised to Reopen
 URL: https://www.barchart.com/story/news/36083109/stocks-settle-mostly-higher-as-government-poised-to-reopen
 Time Published: 2025-11-12T21:35:28Z
@@ -106,10 +124,4 @@ Title: Stocks Rally on Optimism that the US Government Will Soon Reopen
 URL: https://www.barchart.com/story/news/36025494/stocks-rally-on-optimism-that-the-us-government-will-soon-reopen
 Time Published: 2025-11-10T15:10:33Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +1.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.55%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Valuation worries, record-long government shutdown hang over markets: What to watch this week
-URL: https://finance.yahoo.com/news/valuation-worries-record-long-government-shutdown-hang-over-markets-what-to-watch-this-week-123041065.html
-Time Published: 2025-11-09T12:30:41Z
-Description: Skepticism around sky-high tech valuations and a continued dearth of economic data set up the week for investors.
 --------------------------------------------------

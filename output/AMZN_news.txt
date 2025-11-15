@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Should You Buy the Post-Earnings Pop in Affirm Stock?
+URL: https://www.barchart.com/story/news/36095285/should-you-buy-the-post-earnings-pop-in-affirm-stock
+Time Published: 2025-11-13T12:15:01Z
+Description: After riding high on its latest earnings release, is now the right time to buy Affirm stock?
+--------------------------------------------------
+
 Title: Palantir Achieved ‘Eye-Popping Growth’ and Is a Buy Through Year-End, According to Wedbush
 URL: https://www.barchart.com/story/news/36055039/palantir-achieved-eye-popping-growth-and-is-a-buy-through-year-end-according-to-wedbush
 Time Published: 2025-11-11T20:59:57Z
@@ -77,10 +83,4 @@ Title: Should You Buy Gitlab Stock Amid Takeover Speculation?
 URL: https://www.barchart.com/story/news/36025414/should-you-buy-gitlab-stock-amid-takeover-speculation
 Time Published: 2025-11-10T15:03:42Z
 Description: GitLab stock has surged amid takeover chatter. Could this momentum signal a genuine acquisition opportunity?
---------------------------------------------------
-
-Title: Top Wall Street analysts favor these 3 tech stocks for their growth outlook
-URL: https://www.cnbc.com/2025/11/09/top-wall-street-analysts-favor-3-tech-stocks-for-their-growth-outlook.html
-Time Published: 2025-11-09T12:28:05Z
-Description: TipRanks' ranking service discusses three stocks that are favored by Wall Street, including Amazon and Alphabet.
 --------------------------------------------------
