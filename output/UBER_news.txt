@@ -1,5 +1,11 @@
 List of news related to Uber stock price UBER:
 
+Title: Earnings live: Applied Materials stock falls, Trump brothers' American Bitcoin revenue doubles
+URL: https://finance.yahoo.com/news/live/earnings-live-applied-materials-stock-falls-trump-brothers-american-bitcoin-revenue-doubles-135356821.html
+Time Published: 2025-11-14T13:53:56Z
+Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
+--------------------------------------------------
+
 Title: Delta CEO says flying will feel more like streaming as the airline furthers its premium push
 URL: https://finance.yahoo.com/news/delta-ceo-says-flying-will-feel-more-like-streaming-as-the-airline-furthers-its-premium-push-200529468.html
 Time Published: 2025-11-13T20:05:29Z
@@ -18,14 +24,14 @@ Time Published: 2025-11-12T21:51:54Z
 Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
 --------------------------------------------------
 
-Title: Earnings live: Circle stock slides as the stablecoin issuer's Q3 revenue jumps, On Holding stock surges
-URL: https://finance.yahoo.com/news/live/earnings-live-circle-stock-slides-as-the-stablecoin-issuers-q3-revenue-jumps-on-holding-stock-surges-132042222.html
+Title: Earnings live: Circle stock slides as the stablecoin issuer's revenue jumps, On Holding stock surges
+URL: https://finance.yahoo.com/news/live/earnings-live-circle-stock-slides-as-the-stablecoin-issuers-revenue-jumps-on-holding-stock-surges-132042367.html
 Time Published: 2025-11-12T13:20:42Z
 Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
 --------------------------------------------------
 
-Title: Earnings live: Circle stock slides as the stablecoin issuer's revenue jumps, On Holding stock surges
-URL: https://finance.yahoo.com/news/live/earnings-live-circle-stock-slides-as-the-stablecoin-issuers-revenue-jumps-on-holding-stock-surges-132042367.html
+Title: Earnings live: Circle stock slides as the stablecoin issuer's Q3 revenue jumps, On Holding stock surges
+URL: https://finance.yahoo.com/news/live/earnings-live-circle-stock-slides-as-the-stablecoin-issuers-q3-revenue-jumps-on-holding-stock-surges-132042222.html
 Time Published: 2025-11-12T13:20:42Z
 Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
 --------------------------------------------------

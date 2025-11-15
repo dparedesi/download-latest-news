@@ -1,5 +1,11 @@
 List of news related to Rocket Lab RKLB:
 
+Title: Earnings live: Applied Materials stock falls, Trump brothers' American Bitcoin revenue doubles
+URL: https://finance.yahoo.com/news/live/earnings-live-applied-materials-stock-falls-trump-brothers-american-bitcoin-revenue-doubles-135356821.html
+Time Published: 2025-11-14T13:53:56Z
+Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
+--------------------------------------------------
+
 Title: Rocket Lab-Built Twin Spacecraft Begin Mars Journey for NASA and UC Berkeley’s ESCAPADE Mission
 URL: https://financialpost.com/globe-newswire/rocket-lab-built-twin-spacecraft-begin-mars-journey-for-nasa-and-uc-berkeleys-escapade-mission
 Time Published: 2025-11-14T05:00:20Z

@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stock Index Futures Plunge on Fed Rate-Cut Doubts and Valuation Concerns
+URL: https://www.barchart.com/story/news/36121360/stock-index-futures-slip-on-fed-rate-cut-doubts-and-valuation-concerns
+Time Published: 2025-11-14T11:18:49Z
+Description: December S&P 500 E-Mini futures (ESZ25) are down -0.97%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -1.29% this morning, pointing to further...
+--------------------------------------------------
+
 Title: Stocks Slump on Reduced Fed Rate Cut Chances
 URL: https://www.barchart.com/story/news/36111219/stocks-slump-on-reduced-fed-rate-cut-chances
 Time Published: 2025-11-13T21:35:46Z
