@@ -1,11 +1,5 @@
 List of news related to NVIDIA NVDA:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures dive after bruising sell-off as rate-cut doubts creep in
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-dive-after-bruising-sell-off-as-rate-cut-doubts-creep-in-235130357.html
-Time Published: 2025-11-13T23:51:30Z
-Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
---------------------------------------------------
-
 Title: Stock market today: Dow slides, Nasdaq pares losses as Fed rate-cut doubts creep in
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-nasdaq-recovers-amid-growing-doubts-on-fed-rate-cut-path-235130256.html
 Time Published: 2025-11-13T23:51:30Z
@@ -18,10 +12,28 @@ Time Published: 2025-11-13T23:51:30Z
 Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures dive after bruising sell-off as rate-cut doubts creep in
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-dive-after-bruising-sell-off-as-rate-cut-doubts-creep-in-235130357.html
+Time Published: 2025-11-13T23:51:30Z
+Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
+--------------------------------------------------
+
+Title: Reddit co-founder Alexis Ohanian says AI is 'here to stay'
+URL: https://finance.yahoo.com/news/reddit-co-founder-alexis-ohanian-says-ai-is-here-to-stay-233052935.html
+Time Published: 2025-11-13T23:30:52Z
+Description: Reddit co-founder Alexis Ohanian spoke about the AI boom during the Yahoo Finance Invest event.
+--------------------------------------------------
+
 Title: AI Nuclear Energy Stocks to Now Buy On the Dip: CEG, GEV
 URL: https://finance.yahoo.com/news/ai-nuclear-energy-stocks-now-225500330.html
 Time Published: 2025-11-13T22:55:00Z
 Description: The pullback across AI stocks and the broader nuclear-heavy AI energy trade offers investors a great chance to start buying best-in-class stocks on the dip, ...
+--------------------------------------------------
+
+Title: Dow’s big drop after a record close is fairly rare. How doubts about December rate cut are weighing on Wall Street.
+URL: https://www.marketwatch.com/story/dows-big-drop-after-a-record-close-is-fairly-rare-how-doubts-about-december-rate-cut-are-weighing-on-wall-street-0e6bbff9
+Time Published: 2025-11-13T22:51:00Z
+Description: The Dow’s large drop on Thursday was fairly rare in the wake of its close at a fresh record high, according to Dow Jones Market Data
 --------------------------------------------------
 
 Title: Nvidia Earnings Seen As Key To Reviving AI Stock Trade
@@ -292,16 +304,4 @@ Title: AMD says its data center revenue will jump 60% over the next 3 to 5 years
 URL: https://finance.yahoo.com/news/amd-says-its-data-center-revenue-will-jump-60-over-the-next-3-to-5-years-234017711.html
 Time Published: 2025-11-11T23:40:17Z
 Description: AMD says its data center revenue will grow as much as 60% over the next three to five years.
---------------------------------------------------
-
-Title: AMD stock soars after company says its data center revenue will jump 60% over the next 3 to 5 years
-URL: https://finance.yahoo.com/news/amd-stock-soars-after-company-says-its-data-center-revenue-will-jump-60-over-the-next-3-to-5-years-234017497.html
-Time Published: 2025-11-11T23:40:17Z
-Description: AMD says its data center revenue will grow as much as 60% over the next three to five years.
---------------------------------------------------
-
-Title: CWS Market Review – November 11, 2025
-URL: https://www.crossingwallstreet.com/archives/2025/11/cws-market-review-november-11-2025.html
-Time Published: 2025-11-11T23:38:36Z
-Description: (This is the free version of CWS Market Review. If you like what you see, then please sign up for the premium newsletter for $20 […]
 --------------------------------------------------
