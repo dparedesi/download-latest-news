@@ -1,9 +1,22 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia Has One of the ‘Largest’ Opportunities Ahead. Should You Buy NVDA Stock Before November 19?
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3a292fac-8821-4e4d-a72c-7cf334586bda
+Time Published: 2025-11-15T17:00:02Z
+Description: None
+--------------------------------------------------
+
 Title: AI's valuation problem reaches a 'mini panic moment'
 URL: https://finance.yahoo.com/news/ais-valuation-problem-reaches-a-mini-panic-moment-110046323.html
 Time Published: 2025-11-15T11:00:46Z
 Description: AI's triumphant forward march confronts investor jitters over staggering valuations and a bull case that won't quit.
+--------------------------------------------------
+
+Title: Bitcoin mining news: Bitcoin mining stocks Lose $8B, Bitdeer’s datacenter fire, AI delays hit CORZ
+URL: https://blockspace.media/insight/bitcoin-mining-news-bitcoin-mining-stocks-lose-8b-bitdeers-datacenter-fire-ai-delays-hit-corz/
+Time Published: 2025-11-15T11:00:00Z
+Full Content:
+It was a rough week across Bitcoin mining and broader tech markets. Bitcoin mining stocks sold off alongside Nvidia (NASDAQ: NVDA) and other large-cap names, and hashprice flirted with cycle lows as bitcoin mining difficulty is still sky high. Against that backdrop, companies faced fires, hardware delays, product launches, and a fresh debate over custodial risk in Bitcoin lending. You are reading a recap of The Mining Pod. Watch the full episode on YouTube Mining stocks fell sharply this week as part of a wider tech correction. “Everything is just getting absolutely destroyed right now,” Blockspace Founder Will Foxley said on the most recent Mining Pod, pointing out that bitcoin mining stocks have lost $20 billion in their collective market cap since October. (And they lost $8 billion this past Thursday alone). Hashprice is now hovering just above its all time low, which co-host Colin Harper described as “a clear floor for where the average miner is right now in terms of their operating cost.” Hashprice–a measurement of Bitcoin mining revenue–recently tested around $40 per petahash per day, near its all time low, while network difficulty continues to trend higher, according to Luxor’s Hashrate Index. That combination leaves many pure play miners exposed and increases pressure to secure AI or high performance compute tenants to backfill power contracts. At the same time, the podcast hosts warn that phasing out Bitcoin mining too quickly to chase AI could shock revenue and disappoint equity investors. “If you phase it out too quickly, then you just lose a chunk of revenue,” Harper said, arguing that miners need a careful ramp if they want to keep balance sheets and shareholders intact. Bitdeer’s under construction Ohio site suffered an electrical fire that damaged two of 26 planned buildings after welding sparks ignited equipment inside one of the large metal structures. CEO Jihan Wu said on social media that crews were welding on site when sparks flew into the building and caused the blaze, a costly mistake even if insurance covers much of the loss. The fire hit just as Bitdeer reported weak Q3 earnings, missing expectations on revenue and income, and as Wu skipped the earnings call while traveling to an event in Miami. The company also announced a $400 million convertible note, structured with call spreads to limit dilution but still expected to dilute shareholders by 2 to 4 percent. “Down 45 percent over the last five days, just an absolutely brutal drawdown,” Harper said, adding that Tether dropped some 7.7 million shares of Bitdeer from September to October. Bitcoin backed lending app Lava is under fire after a mandatory September update quietly changed how user funds are held. Lava originally launched as a discrete log contract (DLC)-powered lending platform where users locked Bitcoin into a DLC-based multisig, a model that drew users who wanted self custody and programmatic enforcement of loans. The recent app update prompted users to sign a transaction that moved their BTC from the DLC wallet on their phone to institutional cold storage that on chain sleuthing suggests is with Kraken, although Lava has not confirmed the custodian. Harper said users were told they were moving to a “new vault” but not that this vault used a completely different custodial model, calling it “a really bad look” for a sector already scarred by the fallout of last cycle’s leading crypto loan companies, BlockFi and Celsius. “You seem to have needed to move to a custodial cold storage model to lock lower interest rate credit,” Harper said, “but the way in which you went about it completely obliterated trust.” Auradine, one of the few U.S.-based Bitcoin mining hardware makers, announced its next generation TeraFlux miner. The rig can hit 9.8 joules per terahash in eco mode, in line with current generation machines from Bitmain, MicroBT, and Canaan according to the hosts. At standard settings it delivers around 310 terahash per second, or 240 terahash per second in eco mode, with efficiency closer to 11 joules per terahash when pushed for more hashrate. Auradine plans air cooled, hydro, and immersion variants, matching the current expectation that vendors ship multiple thermal configurations at launch. “I like to see the unit competitive against other manufacturers,” Mining Pod analyst Matt Kimmel said, adding that broader support for non-Chinese manufacturers would help diversify supply. Private miner NYDIG and its parent Stoneridge continue to scale a vertically integrated mining strategy centered on oil and gas assets. This week, AFE Founder Brandon Davis shared his findings that Stone Ridge is lining up a $2.3 billion dollar acquisition of Eagle Ford, an oil and gas basis in South Texas. The Mining Pod hosts noted that this follows Stone Ridge’s planned purchase of Conoco Phillips assets in Oklahoma, and NYDIG’s pending buy out of Crusoe’s flared gas mining operations. With these moves, Stone Ridge appears to be building a portfolio that combines upstream energy, midstream services, and mining infrastructure under one umbrella. “What Bitcoin mining will survive in the U.S. will be at the energy level,” Harper said, arguing that Stoneridge’s growing oil and gas portfolio gives it a structural edge as other miners scale back. The show closed with a segment on Core Scientific and its key AI client CoreWeave. In a tense CNBC interview, CoreWeave CEO Michael Intrator framed delays at certain Core Scientific data centers in Texas and Oklahoma as a temporary construction issue and stressed that customer contracts and revenue are only pushed back by about one quarter. Markets were not convinced: CoreWeave shares are down about 50% from recent highs amid concerns that many “neocloud” providers will miss aggressive build timelines. Bitcoin’s first industry publication. From tech to venture to mining, Blockspace has the info and audience Bitcoin builders listen to. Get articles just like this delivered to your inbox By subscribing, you agree to the Blockspace Privacy Policy and Terms and Conditions. Get exclusive access to the people behind Bitcoin. Join 10,000 readers from Galaxy Digital, Fidelity Investments, BlackRock, and more.
 --------------------------------------------------
 
 Title: UBS Reaffirms Buy on Nvidia (NVDA) Despite Growth Sustainability and Valuation Concerns
@@ -107,14 +120,14 @@ Time Published: 2025-11-14T09:22:25Z
 Description: The chancellor is reportedly looking to trim the thresholds at which people pay different rates of income tax
 --------------------------------------------------
 
-Title: Stock market today: Dow slides, Nasdaq pares losses as Fed rate-cut doubts creep in
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-nasdaq-recovers-amid-growing-doubts-on-fed-rate-cut-path-235130256.html
+Title: Stock market today: Dow, S&P 500, Nasdaq dive, deepening bruising sell-off as rate-cut doubts creep in
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-dive-deepening-bruising-sell-off-as-rate-cut-doubts-creep-in-235130386.html
 Time Published: 2025-11-13T23:51:30Z
 Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq dive, deepening bruising sell-off as rate-cut doubts creep in
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-dive-deepening-bruising-sell-off-as-rate-cut-doubts-creep-in-235130386.html
+Title: Stock market today: Dow slides, Nasdaq pares losses as Fed rate-cut doubts creep in
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-nasdaq-recovers-amid-growing-doubts-on-fed-rate-cut-path-235130256.html
 Time Published: 2025-11-13T23:51:30Z
 Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
 --------------------------------------------------
@@ -293,16 +306,4 @@ Title: 4 Reasons to Roll Your Covered Call Option and Keep Your Income Strategy 
 URL: https://www.barchart.com/story/news/36083344/4-reasons-to-roll-your-covered-call-option-and-keep-your-income-strategy-alive
 Time Published: 2025-11-12T21:43:02Z
 Description: Options expert Gavin McMaster explains when and why covered call traders should roll their positions.
---------------------------------------------------
-
-Title: Stocks Settle Mostly Higher as Government Poised to Reopen
-URL: https://www.barchart.com/story/news/36083109/stocks-settle-mostly-higher-as-government-poised-to-reopen
-Time Published: 2025-11-12T21:35:28Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +0.06%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.68%, and the Nasdaq 100 Index ($...
---------------------------------------------------
-
-Title: AMD Says Data Center Revenue Could Jump 60% Annually from Here. Should You Buy AMD Stock Now?
-URL: https://www.barchart.com/story/news/36082826/amd-says-data-center-revenue-could-jump-60-annually-from-here-should-you-buy-amd-stock-now
-Time Published: 2025-11-12T21:25:07Z
-Description: AMD stock rallies as the chipmaker says its data center revenue will grow by 60% annually through the end of this decade. Wells Fargo sees AMD shares hitting...
 --------------------------------------------------

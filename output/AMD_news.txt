@@ -120,13 +120,13 @@ Stock futures are higher this morning after the Dow Jones Industrial Average clo
 --------------------------------------------------
 
 Title: Wall Street drifts around its records as AMD rallies
-URL: https://finance.yahoo.com/news/asian-shares-mostly-higher-cautious-072614329.html
+URL: https://finance.yahoo.com/news/asian-shares-mostly-higher-cautious-072614763.html
 Time Published: 2025-11-12T07:26:14Z
 Description: The Dow Jones Industrial Average jumped 327 points, or 0.7%, to set a record for the second straight day, while the Nasdaq composite slipped 0.3%.  It...
 --------------------------------------------------
 
 Title: Wall Street drifts around its records as AMD rallies
-URL: https://finance.yahoo.com/news/asian-shares-mostly-higher-cautious-072614763.html
+URL: https://finance.yahoo.com/news/asian-shares-mostly-higher-cautious-072614329.html
 Time Published: 2025-11-12T07:26:14Z
 Description: The Dow Jones Industrial Average jumped 327 points, or 0.7%, to set a record for the second straight day, while the Nasdaq composite slipped 0.3%.  It...
 --------------------------------------------------
