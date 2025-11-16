@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: AI's valuation problem reaches a 'mini panic moment'
+URL: https://finance.yahoo.com/news/ais-valuation-problem-reaches-a-mini-panic-moment-110046323.html
+Time Published: 2025-11-15T11:00:46Z
+Description: AI's triumphant forward march confronts investor jitters over staggering valuations and a bull case that won't quit.
+--------------------------------------------------
+
 Title: UBS Reaffirms Buy on Nvidia (NVDA) Despite Growth Sustainability and Valuation Concerns
 URL: https://finance.yahoo.com/news/ubs-reaffirms-buy-nvidia-nvda-061033776.html
 Time Published: 2025-11-15T06:10:33Z
@@ -101,12 +107,6 @@ Time Published: 2025-11-14T09:22:25Z
 Description: The chancellor is reportedly looking to trim the thresholds at which people pay different rates of income tax
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures dive after bruising sell-off as rate-cut doubts creep in
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-dive-after-bruising-sell-off-as-rate-cut-doubts-creep-in-235130357.html
-Time Published: 2025-11-13T23:51:30Z
-Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
---------------------------------------------------
-
 Title: Stock market today: Dow slides, Nasdaq pares losses as Fed rate-cut doubts creep in
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-nasdaq-recovers-amid-growing-doubts-on-fed-rate-cut-path-235130256.html
 Time Published: 2025-11-13T23:51:30Z
@@ -115,6 +115,12 @@ Description: Stock futures have inched up following the market's worst day in ov
 
 Title: Stock market today: Dow, S&P 500, Nasdaq dive, deepening bruising sell-off as rate-cut doubts creep in
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-dive-deepening-bruising-sell-off-as-rate-cut-doubts-creep-in-235130386.html
+Time Published: 2025-11-13T23:51:30Z
+Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures dive after bruising sell-off as rate-cut doubts creep in
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-dive-after-bruising-sell-off-as-rate-cut-doubts-creep-in-235130357.html
 Time Published: 2025-11-13T23:51:30Z
 Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
 --------------------------------------------------
@@ -299,11 +305,4 @@ Title: AMD Says Data Center Revenue Could Jump 60% Annually from Here. Should Yo
 URL: https://www.barchart.com/story/news/36082826/amd-says-data-center-revenue-could-jump-60-annually-from-here-should-you-buy-amd-stock-now
 Time Published: 2025-11-12T21:25:07Z
 Description: AMD stock rallies as the chipmaker says its data center revenue will grow by 60% annually through the end of this decade. Wells Fargo sees AMD shares hitting...
---------------------------------------------------
-
-Title: Nvidia's Earnings Are Almost Here. Investors Are Already Worried About the AI Rally.
-URL: https://www.investopedia.com/ai-stocks-are-on-shaky-footing-heading-into-nvidia-earnings-nvda-stock-11848221
-Time Published: 2025-11-12T21:16:16Z
-Full Content:
-Nvidia is slated to report quarterly results next Wednesday. It could be a make-or-break moment for the bull market. Anxiety about AI is running high on Wall Street heading into Nvidia's (NVDA) print. AI stocks weighed on the broader market last week, when the Nasdaq notched its worst weekly performance since early April’s “Liberation Day” tariff announcement roiled markets. The mood improved to start the week amid signs that the government was moving closer to reopening. But AI jitters returned after Japanese investment firm SoftBank on Tuesday said it had sold its entire stake in Nvidia: Shares of both companies slumped despite SoftBank executives clarifying that the sale was made to fund other AI investments, not a sign that the company had soured on the chipmaker. Nvidia's quarterly earnings report is one of the most closely followed events on Wall Street. Investors parse Nvidia's results and guidance for confirmation that the AI infrastructure buildout, which made the chipmaker the world's most valuable company and has help power partners' and competitors' shares higher, is continuing. Some investors are increasingly concerned that an AI bubble is forming, fueled by a series of circular business deals, massive AI investments, and optimism about the technology’s near-term commercial utility. Michael Burry, known for predicting the 2007 subprime mortgage crisis, recently revealed his hedge fund had shorted $1.2 billion of Nvidia and Palantir (PLTR) stock as of the end of September. The major hyperscalers—tech giants like Microsoft (MSFT), Alphabet (GOOG), Amazon (AMZN), Meta (META), and Oracle (ORCL)—plan to spend hundreds of billions of dollars this year and next as they construct data centers and outfit them with the advanced chips and support equipment required the train and run artificial intelligence. That spending has been a boon to companies like Nvidia, whose sales and earnings have soared over the past three years. But some investors question whether the hyperscalers would recoup their investments. BCA Research analysts last week suggested shorting hyperscaler stocks, citing their belief that the speed and scale of AI investments will weigh the companies' returns on equity, and thus their stock valuations, regardless of profit growth in their core businesses. “Our biggest fear would be a repeat of the telecom and fiber buildout experiences, where the revenue curve failed to materialize at a pace that justified continued investment,” wrote JPMorgan analysts on Wednesday. JPMorgan estimated that it would require about $650 billion of annual revenue indefinitely for tech companies to reap a 10% return on their AI investments through 2030. For scale, they likened that figure to nearly six basis points of global gross domestic product or nearly $35 a month from every current iPhone user. The growing importance of OpenAI to the rally has also raised eyebrows. According to CEO Sam Altman, the start-up recently reached an annualized revenue run rate of $20 billion. But JPMorgan estimates the ChatGPT maker has agreed to pay just three companies—Nvidia, Advanced Micro Devices (AMD), and Broadcom (AVGO)—between $1.2 trillion and $1.5 trillion for data center capacity over the next 5 years. To be sure, many investors see ample reason to remain bullish on AI stocks—or, at least, that it's too hard to call the top to bet against them. They note that comparisons of today to the Dotcom Bubble ignore that tech valuations are below their Dotcom peaks, and that, unlike during the 1990s internet craze, the companies making the biggest investments in AI infrastructure are among the world's largest most profitable companies. Others point to the likelihood that the Federal Reserve is in the middle of a rate-cutting cycle, which should stimulate data center construction by making borrowing more affordable. Rate cuts are also expected to increase liquidity in financial markets, likely boosting stock prices. AI excitement can still send a stock soaring despite the skeptics. Chipmaker AMD on Tuesday said it expects the AI chip market to reach $1 trillion by 2030, and that it is aiming to grow its share of that market to double digits. Oppenheimer analysts in a note on Wednesday called the updates "more sizzle than steak," and lamented the absence of a major customer announcement. Still, the projections caught the attention of investors. AMD shares finished today up more than 8%.
 --------------------------------------------------
