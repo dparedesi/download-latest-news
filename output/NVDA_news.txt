@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA (NVDA) Has The AI Orders, Says Jim Cramer
+URL: https://finance.yahoo.com/news/nvidia-nvda-ai-orders-says-180421149.html
+Time Published: 2025-11-15T18:04:21Z
+Description: We recently published 11 Stocks on Jim Cramer’s Radar. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer recently discussed. NVIDIA...
+--------------------------------------------------
+
+Title: Only one analyst has a sell rating on Nvidia — and he says ‘it feels fantastic’
+URL: https://www.marketwatch.com/story/only-one-analyst-has-a-sell-rating-on-nvidia-and-he-says-it-feels-fantastic-c4a887fb
+Time Published: 2025-11-15T17:38:00Z
+Description: Lone Nvidia bear Jay Goldberg shares why he’s still not a buyer of the AI superstock.
+--------------------------------------------------
+
 Title: Nvidia Has One of the ‘Largest’ Opportunities Ahead. Should You Buy NVDA Stock Before November 19?
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3a292fac-8821-4e4d-a72c-7cf334586bda
 Time Published: 2025-11-15T17:00:02Z
@@ -120,8 +132,8 @@ Time Published: 2025-11-14T09:22:25Z
 Description: The chancellor is reportedly looking to trim the thresholds at which people pay different rates of income tax
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq dive, deepening bruising sell-off as rate-cut doubts creep in
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-dive-deepening-bruising-sell-off-as-rate-cut-doubts-creep-in-235130386.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures dive after bruising sell-off as rate-cut doubts creep in
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-dive-after-bruising-sell-off-as-rate-cut-doubts-creep-in-235130357.html
 Time Published: 2025-11-13T23:51:30Z
 Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
 --------------------------------------------------
@@ -132,8 +144,8 @@ Time Published: 2025-11-13T23:51:30Z
 Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures dive after bruising sell-off as rate-cut doubts creep in
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-dive-after-bruising-sell-off-as-rate-cut-doubts-creep-in-235130357.html
+Title: Stock market today: Dow, S&P 500, Nasdaq dive, deepening bruising sell-off as rate-cut doubts creep in
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-dive-deepening-bruising-sell-off-as-rate-cut-doubts-creep-in-235130386.html
 Time Published: 2025-11-13T23:51:30Z
 Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
 --------------------------------------------------
@@ -294,16 +306,4 @@ Title: Economist sends startling warning after ‘Big Short's AI call
 URL: https://www.thestreet.com/crypto/markets/economist-sends-startling-warning-after-big-shorts-call
 Time Published: 2025-11-12T22:41:12Z
 Description: After popular investor and hedge fund manager Michael Burry sounded the alarm over an AI bubble forming, a popular economist has gone ahead and warned...
---------------------------------------------------
-
-Title: 5 Best Investments for the Upper Class To Make Before 2026
-URL: https://finance.yahoo.com/news/5-best-investments-upper-class-215509538.html
-Time Published: 2025-11-12T21:55:09Z
-Description: Discover five smart investments the wealthy are making before 2026 to grow their fortunes and stay ahead of economic shifts and market trends.
---------------------------------------------------
-
-Title: 4 Reasons to Roll Your Covered Call Option and Keep Your Income Strategy Alive
-URL: https://www.barchart.com/story/news/36083344/4-reasons-to-roll-your-covered-call-option-and-keep-your-income-strategy-alive
-Time Published: 2025-11-12T21:43:02Z
-Description: Options expert Gavin McMaster explains when and why covered call traders should roll their positions.
 --------------------------------------------------
