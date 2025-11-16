@@ -1,5 +1,23 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stocks Settle Mixed as Fed Comments Suggest a Rate Cut Pause
+URL: https://www.barchart.com/story/news/36133868/stocks-settle-mixed-as-fed-comments-suggest-a-rate-cut-pause
+Time Published: 2025-11-14T21:45:46Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed down -0.05%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.65%, and the Nasdaq 100 Index (...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq close mixed to cap a volatile week as Fed cut in doubt
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-close-mixed-to-cap-a-volatile-week-as-fed-cut-in-doubt-210027944.html
+Time Published: 2025-11-14T21:00:27Z
+Description: Stocks recovered from steep losses following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
+--------------------------------------------------
+
+Title: I’m Old Enough to Remember When a 500-Point-Drop in the Dow Jones Was a Crisis. Now It’s Just a Warning.
+URL: https://www.barchart.com/story/news/36129214/im-old-enough-to-remember-when-a-500-point-drop-in-the-dow-jones-was-a-crisis-now-its-just-a-warning
+Time Published: 2025-11-14T17:00:02Z
+Description: The top six stocks in the Dow Jones Industrial Average account for almost 40% of the index. That’s a huge concentration risk.
+--------------------------------------------------
+
 Title: Stock market today: Dow slides, Nasdaq pares losses as Fed rate-cut doubts creep in
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-nasdaq-recovers-amid-growing-doubts-on-fed-rate-cut-path-235130256.html
 Time Published: 2025-11-13T23:51:30Z
@@ -82,46 +100,4 @@ Title: CoreWeave Falls As Data Center Issue Hits Capital Spending, 2025 Revenue 
 URL: https://www.investors.com/news/technology/coreweave-stock-coreweave-earnings-news-q32025/
 Time Published: 2025-11-11T11:36:45Z
 Description: CoreWeave stock fell as investors mulled the company's lowered 2025 guidance for capital spending and revenue amid capacity issues.
---------------------------------------------------
-
-Title: Stocks Finish Sharply Higher on Plans to Reopen the US Government
-URL: https://www.barchart.com/story/news/36033320/stocks-finish-sharply-higher-on-plans-to-reopen-the-us-government
-Time Published: 2025-11-10T21:35:03Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +1.54%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.81%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Google Has a ‘Secret Weapon’ That Could Make GOOGL Stock One of the Best AI Buys for 2026
-URL: https://www.barchart.com/story/news/36032876/google-has-a-secret-weapon-that-could-make-googl-stock-one-of-the-best-ai-buys-for-2026
-Time Published: 2025-11-10T21:18:33Z
-Description: Google's stock has increased by more than 50% in the last 12 months, making it a top investment given its expanding AI product portfolio.
---------------------------------------------------
-
-Title: AI Stock Correction: MSFT, AVGO, IONQ Seen as Stable Tech, Quantum Bets
-URL: https://finance.yahoo.com/news/ai-stock-correction-msft-avgo-200000734.html
-Time Published: 2025-11-10T20:00:00Z
-Description: MSFT, AVGO and IONQ stand out as resilient plays as investors rotate from overheated AI hype to sustainable tech and quantum growth paths.
---------------------------------------------------
-
-Title: 5 Defensive Consumer Plays to Watch If Markets Keep Slipping
-URL: https://www.marketbeat.com/stock-ideas/5-defensive-consumer-plays-to-watch-if-markets-keep-slipping/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-10T16:22:00Z
-Description: Last week, the market showed its first meaningful signs of weakness since May, with SPY breaking its 50-day SMA and several tech leaders selling off sharply.
---------------------------------------------------
-
-Title: Microsoft Stock Rises 17.9% YTD on Cloud Strength: Buy Now or Hold?
-URL: https://finance.yahoo.com/news/microsoft-stock-rises-17-9-160200760.html
-Time Published: 2025-11-10T16:02:00Z
-Description: MSFT's 17.9% YTD gain masks valuation concerns and capacity constraints. Strong fundamentals support holding, but new investors should wait for a pullback.
---------------------------------------------------
-
-Title: Nebius to Report Q3 Earnings: How to Approach the Stock Now?
-URL: https://finance.yahoo.com/news/nebius-report-q3-earnings-approach-151800772.html
-Time Published: 2025-11-10T15:18:00Z
-Description: NBIS' surging AI cloud demand and $17.4B Microsoft deal boost momentum, but high capex and competition cloud near-term outlook.
---------------------------------------------------
-
-Title: Stocks Rally on Optimism that the US Government Will Soon Reopen
-URL: https://www.barchart.com/story/news/36025494/stocks-rally-on-optimism-that-the-us-government-will-soon-reopen
-Time Published: 2025-11-10T15:10:33Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +1.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.55%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------

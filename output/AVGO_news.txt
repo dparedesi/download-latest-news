@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Jefferies Tells NVIDIA to Step Aside, Picks Broadcom as Top Semiconductor Stock
+URL: https://www.marketbeat.com/originals/jefferies-tells-nvidia-to-step-aside-picks-broadcom-as-top-semiconductor-stock/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-11-14T21:29:00Z
+Description: Analysts at Jefferies just told NVIDIA to step aside. The firm named Broadcom as its top semiconductor stock and expects its revenue to reach $100 billion in...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq close mixed to cap a volatile week as Fed cut in doubt
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-close-mixed-to-cap-a-volatile-week-as-fed-cut-in-doubt-210027944.html
+Time Published: 2025-11-14T21:00:27Z
+Description: Stocks recovered from steep losses following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
+--------------------------------------------------
+
 Title: Why are the Dow, S&P 500 and Nasdaq falling today? Here’s why Wall Street’s top gainers and losers are shifting fast
 URL: https://economictimes.indiatimes.com/news/international/us/why-are-the-dow-sp-500-and-nasdaq-falling-today-heres-why-wall-streets-top-gainers-and-losers-are-shifting-fast/articleshow/125331132.cms
 Time Published: 2025-11-14T16:34:11Z
@@ -124,70 +136,4 @@ Title: Institutional Buying Seen As Progressive Adds Broadcom Inc. (AVGO) Shares
 URL: https://finance.yahoo.com/news/institutional-buying-seen-progressive-adds-015826191.html
 Time Published: 2025-11-11T01:58:26Z
 Description: Broadcom Inc. (NASDAQ:AVGO) is among the most profitable semiconductor stocks to buy. As reported on November 7, Progressive Investment Management Corp, a...
---------------------------------------------------
-
-Title: Stocks Finish Sharply Higher on Plans to Reopen the US Government
-URL: https://www.barchart.com/story/news/36033320/stocks-finish-sharply-higher-on-plans-to-reopen-the-us-government
-Time Published: 2025-11-10T21:35:03Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +1.54%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.81%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Qualcomm Wants to Beat Nvidia in AI Chips, but QCOM Stock Needs to Win Over Wall Street First
-URL: https://www.barchart.com/story/news/36030915/qualcomm-wants-to-beat-nvidia-in-ai-chips-but-qcom-stock-needs-to-win-over-wall-street-first
-Time Published: 2025-11-10T20:13:15Z
-Description: QCOM stock is down after earnings after failing to impress investors with its results. This comes as Qualcomm plans to get into the AI chip market to rival...
---------------------------------------------------
-
-Title: AI Stock Correction: MSFT, AVGO, IONQ Seen as Stable Tech, Quantum Bets
-URL: https://finance.yahoo.com/news/ai-stock-correction-msft-avgo-200000734.html
-Time Published: 2025-11-10T20:00:00Z
-Description: MSFT, AVGO and IONQ stand out as resilient plays as investors rotate from overheated AI hype to sustainable tech and quantum growth paths.
---------------------------------------------------
-
-Title: Will Astera Labs' Expanding AI Platforms Drive the Next Growth Wave?
-URL: https://finance.yahoo.com/news/astera-labs-expanding-ai-platforms-174800542.html
-Time Published: 2025-11-10T17:48:00Z
-Description: ALAB's surging revenues and expanding AI platform lineup position it to power the next wave of hyperscale data center growth.
---------------------------------------------------
-
-Title: Can the AI Boom Push Broadcom Stock to a $2 Trillion Market Cap in 2026?
-URL: https://www.barchart.com/story/news/36026306/can-the-ai-boom-push-broadcom-stock-to-a-2-trillion-market-cap-in-2026
-Time Published: 2025-11-10T15:42:33Z
-Description: With demand strengthening from both existing and new customers, Broadcom’s outlook for fiscal 2026 is highly optimistic.
---------------------------------------------------
-
-Title: Stocks Rally on Optimism that the US Government Will Soon Reopen
-URL: https://www.barchart.com/story/news/36025494/stocks-rally-on-optimism-that-the-us-government-will-soon-reopen
-Time Published: 2025-11-10T15:10:33Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +1.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.55%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Do You Have Conviction in the Long-Term Growth of Broadcom Inc. (AVGO)?
-URL: https://finance.yahoo.com/news/conviction-long-term-growth-broadcom-142302037.html
-Time Published: 2025-11-10T14:23:02Z
-Description: Baron Funds, an investment management company, released its “Baron Technology Fund” third-quarter 2025 investor letter. A copy of the letter can be...
---------------------------------------------------
-
-Title: Credo Technology Up 38% in Three Months: Can the Stock Climb Higher?
-URL: https://finance.yahoo.com/news/credo-technology-38-three-months-140500565.html
-Time Published: 2025-11-10T14:05:00Z
-Description: CRDO's 38% surge rides AI data center demand, but lofty valuation and hyperscaler risks temper near-term upside.
---------------------------------------------------
-
-Title: Should QCOM Stock Be Part of Your Portfolio Post Robust Q4 Earnings?
-URL: https://finance.yahoo.com/news/qcom-stock-part-portfolio-post-135800777.html
-Time Published: 2025-11-10T13:58:00Z
-Description: QCOM's Q4 earnings beat estimates as record automotive revenues and strong Snapdragon demand fuel growth, but China tensions and high R&D costs weigh.
---------------------------------------------------
-
-Title: Is Micron's Cheap Valuation an Opportunity to Invest in the Stock?
-URL: https://finance.yahoo.com/news/microns-cheap-valuation-opportunity-invest-132000491.html
-Time Published: 2025-11-10T13:20:00Z
-Description: MU's soaring stock still trades at a steep discount to tech peers, with AI-driven growth and solid fundamentals supporting further upside.
---------------------------------------------------
-
-Title: What Are Wall Street Analysts' Target Price for Broadcom Stock?
-URL: https://www.barchart.com/story/news/36019876/what-are-wall-street-analysts-target-price-for-broadcom-stock
-Time Published: 2025-11-10T12:01:08Z
-Description: Broadcom has considerably outperformed the broader market over the past year, and analysts are highly optimistic about the stock’s prospects.
 --------------------------------------------------
