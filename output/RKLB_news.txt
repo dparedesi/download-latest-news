@@ -25,26 +25,14 @@ Time Published: 2025-11-12T21:51:54Z
 Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
 --------------------------------------------------
 
-Title: Earnings live: Circle stock slides as the stablecoin issuer's Q3 revenue jumps, On Holding stock surges
-URL: https://finance.yahoo.com/news/live/earnings-live-circle-stock-slides-as-the-stablecoin-issuers-q3-revenue-jumps-on-holding-stock-surges-132042222.html
-Time Published: 2025-11-12T13:20:42Z
-Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
---------------------------------------------------
-
 Title: Earnings live: Circle stock slides as the stablecoin issuer's revenue jumps, On Holding stock surges
 URL: https://finance.yahoo.com/news/live/earnings-live-circle-stock-slides-as-the-stablecoin-issuers-revenue-jumps-on-holding-stock-surges-132042367.html
 Time Published: 2025-11-12T13:20:42Z
 Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
 --------------------------------------------------
 
-Title: Dow and S&P Rise as Nasdaq Faces Selling Pressure
-URL: https://www.barchart.com/story/news/36050908/stocks-pressured-as-chipmakers-slide-and-the-us-labor-market-weakens
-Time Published: 2025-11-11T16:17:16Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.22%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +1.01%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stock Index Futures Slip on AI Caution
-URL: https://www.barchart.com/story/news/36042856/stock-index-futures-slip-on-ai-caution
-Time Published: 2025-11-11T11:16:33Z
-Description: December S&P 500 E-Mini futures (ESZ25) are down -0.22%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.39% this morning, pointing to a lower...
+Title: Earnings live: Circle stock slides as the stablecoin issuer's Q3 revenue jumps, On Holding stock surges
+URL: https://finance.yahoo.com/news/live/earnings-live-circle-stock-slides-as-the-stablecoin-issuers-q3-revenue-jumps-on-holding-stock-surges-132042222.html
+Time Published: 2025-11-12T13:20:42Z
+Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
 --------------------------------------------------

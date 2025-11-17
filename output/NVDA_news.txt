@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: BofA Maintains Buy Rating on NVIDIA (NVDA) Stock
+URL: https://finance.yahoo.com/news/bofa-maintains-buy-rating-nvidia-044147539.html
+Time Published: 2025-11-16T04:41:47Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Best Fundamentally Strong Stocks to Buy. On November 10, Vivek Arya maintained a “Buy” rating on the company’s...
+--------------------------------------------------
+
 Title: NVIDIA (NVDA) Has The AI Orders, Says Jim Cramer
 URL: https://finance.yahoo.com/news/nvidia-nvda-ai-orders-says-180421149.html
 Time Published: 2025-11-15T18:04:21Z
@@ -132,8 +138,8 @@ Time Published: 2025-11-14T09:22:25Z
 Description: The chancellor is reportedly looking to trim the thresholds at which people pay different rates of income tax
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures dive after bruising sell-off as rate-cut doubts creep in
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-dive-after-bruising-sell-off-as-rate-cut-doubts-creep-in-235130357.html
+Title: Stock market today: Dow, S&P 500, Nasdaq dive, deepening bruising sell-off as rate-cut doubts creep in
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-dive-deepening-bruising-sell-off-as-rate-cut-doubts-creep-in-235130386.html
 Time Published: 2025-11-13T23:51:30Z
 Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
 --------------------------------------------------
@@ -144,8 +150,8 @@ Time Published: 2025-11-13T23:51:30Z
 Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq dive, deepening bruising sell-off as rate-cut doubts creep in
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-dive-deepening-bruising-sell-off-as-rate-cut-doubts-creep-in-235130386.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures dive after bruising sell-off as rate-cut doubts creep in
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-dive-after-bruising-sell-off-as-rate-cut-doubts-creep-in-235130357.html
 Time Published: 2025-11-13T23:51:30Z
 Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
 --------------------------------------------------
@@ -300,10 +306,4 @@ Title: Michael Burry turns up heat on anti-AI bet
 URL: https://www.thestreet.com/investing/fund-manager-michael-burry-turns-up-heat-on-anti-ai-bet
 Time Published: 2025-11-12T23:07:00Z
 Description: Artificial intelligence skepticism was growing even before legendary hedge fund manager Michael Burry, a contrarian, decided to kick a hornet's nest. First, ...
---------------------------------------------------
-
-Title: Economist sends startling warning after ‘Big Short's AI call
-URL: https://www.thestreet.com/crypto/markets/economist-sends-startling-warning-after-big-shorts-call
-Time Published: 2025-11-12T22:41:12Z
-Description: After popular investor and hedge fund manager Michael Burry sounded the alarm over an AI bubble forming, a popular economist has gone ahead and warned...
 --------------------------------------------------

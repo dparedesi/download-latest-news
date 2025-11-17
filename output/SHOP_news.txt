@@ -18,9 +18,3 @@ URL: https://www.theverge.com/news/819431/google-shopping-ai-gemini-agentic-chec
 Time Published: 2025-11-12T22:13:07Z
 Description: Google is infusing artificial intelligence into just about every part of how people shop online — including having an AI tool call local stores on a human’s behalf and purchase items automatically. Beginning Thursday (and ahead of the holiday shopping season)…
 --------------------------------------------------
-
-Title: Opendoor Is Betting That It Can Become an AI Company. Does That Make OPEN Stock a Buy, or Should You Stay on the Sidelines Here?
-URL: https://www.barchart.com/story/news/36054655/opendoor-is-betting-that-it-can-become-an-ai-company-does-that-make-open-stock-a-buy-or-should-you-stay-on-the-sidelines-here
-Time Published: 2025-11-11T20:21:22Z
-Description: Down over 80% from all-time highs, Opendoor stock is focusing on improving profit margins amid slowing sales and a challenging macro environment.
---------------------------------------------------
