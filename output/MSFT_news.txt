@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Peter Thiel dumps top AI stock, stirring bubble fears
+URL: https://www.thestreet.com/investing/peter-thiel-dumps-top-ai-stock-stirring-bubble-fears
+Time Published: 2025-11-16T14:33:00Z
+Description: Billionaire Peter Thiel’s latest 13F didn’t show off a mere trim, but a full-blown exit from AI bellwether Nvidia (NVDA). It comes at a surprising point when...
+--------------------------------------------------
+
 Title: Bill and Melinda Gates Foundation just slashed its Microsoft holdings by nearly 65%, move raises eyebrows
 URL: https://economictimes.indiatimes.com/news/international/us/bill-and-melinda-gates-foundation-just-slashed-its-microsoft-holdings-by-nearly-65-move-raises-eyebrows/articleshow/125347417.cms
 Time Published: 2025-11-15T13:11:14Z

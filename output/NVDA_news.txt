@@ -1,5 +1,29 @@
 List of news related to NVIDIA NVDA:
 
+Title: ‘Hold your ground’: Wall Street strategists say tech stock sell-off is a short-term blip as earnings bull case remains intact
+URL: https://finance.yahoo.com/news/hold-your-ground-wall-street-strategists-say-tech-stock-sell-off-is-a-short-term-blip-as-earnings-bull-case-remains-intact-153023828.html
+Time Published: 2025-11-16T15:30:23Z
+Description: Wall Street says this week’s tech sell-off is more about profit-taking and positioning than fading AI fundamentals.
+--------------------------------------------------
+
+Title: Peter Thiel dumps top AI stock, stirring bubble fears
+URL: https://www.thestreet.com/investing/peter-thiel-dumps-top-ai-stock-stirring-bubble-fears
+Time Published: 2025-11-16T14:33:00Z
+Description: Billionaire Peter Thiel’s latest 13F didn’t show off a mere trim, but a full-blown exit from AI bellwether Nvidia (NVDA). It comes at a surprising point when...
+--------------------------------------------------
+
+Title: Nvidia's Earnings Report Will Be Out on Wednesday, Nov. 19 - How to Play NVDA Stock
+URL: https://www.barchart.com/story/news/36149219/nvidia-s-earnings-report-will-be-out-on-wednesday-nov-19-how-to-play-nvda-stock
+Time Published: 2025-11-16T14:00:02Z
+Description: Nvidia, Inc.'s earnings and free cash flow for the quarter ending October are scheduled to be released after the market close on Wednesday, November 19. One ...
+--------------------------------------------------
+
+Title: Nvidia, Walmart earnings, and the return of jobs numbers: What to watch this week
+URL: https://finance.yahoo.com/news/nvidia-walmart-earnings-and-the-return-of-jobs-numbers-what-to-watch-this-week-124502640.html
+Time Published: 2025-11-16T12:45:02Z
+Description: The final full week of trading in November will bring investors key results from the biggest AI and retail names in the market.
+--------------------------------------------------
+
 Title: BofA Maintains Buy Rating on NVIDIA (NVDA) Stock
 URL: https://finance.yahoo.com/news/bofa-maintains-buy-rating-nvidia-044147539.html
 Time Published: 2025-11-16T04:41:47Z
@@ -282,28 +306,4 @@ URL: https://247wallst.com/investing/2025/11/13/nancy-pelosi-is-retiring-up-595-
 Time Published: 2025-11-13T14:12:44Z
 Full Content:
 Investing Sending You to Google News in 3 © Drew Angerer / Getty Images News via Getty Images Nancy Pelosi announced her retirement last week. She has been a leading voice in Congress for decades, and her term will end in January 2027. She’s currently holding on to many stocks, with Nvidia (NASDAQ:NVDA), Alphabet (NASDAQ:GOOGL), and Broadcom (NASDAQ:AVGO) being the latest buys. Pelosi hasn’t been without controversy, with stock trading being one of the biggest concerns of her critics. It should be noted that Nancy Pelosi’s stock trades are not directly hers. Her husband, Paul Pelosi, is the person buying and selling stocks, though these trades are still attributed to her, as she is likely legally entitled to a significant portion of them, upon a possible divorce or her husband’s passing. At the same time, there are concerns that Nancy Pelosi will be passing information to her husband. These claims are not proven. But what is proven is that the Pelosis have had remarkable wins over the course of their investing history. Since mid-2014, her strategy has yielded her 858.58% in gains, whereas the S&P 500 only returned 263.2%. This is a 595% outperformance over the S&P 500. Let’s take a look at the three stocks she holds now. Nvidia is Pelosi’s biggest holding, with 20% of her portfolio being in this one stock. Her latest trade was on January 14, 2025, and was disclosed on January 17. She purchased 50 call options with a strike price of $80 and an expiration date of January 16, 2026. Since that trade, NVDA stock is up 47.09%. If the options were to be exercised today, she would have a total of $569,000 in NVDA stock. To find the true profits, you’d have to exclude the premium paid for all these options, the exact amount of which is not known. Alphabet is her second-biggest holding, with 15% of her portfolio in GOOGL stock. Her latest transaction was on January 14, 2025, and was filed three days later on January 17. She bought 50 call options on GOOGL stock, with each option representing 100 shares. This has been a very profitable buy, with GOOGL stock up more than 46% since that transaction took place. Since these are options, Pelosi will be able to exercise 5,000 shares of GOOGL at the strike price of $150. If these options were to be exercised today, she would have $683,550 in GOOGL stock. This is a well-timed trade, and Pelosi is very likely to exercise these options by the time they expire and then hold GOOGL stock directly. Broadcom also has the same weight as Alphabet at 15%. Her most recent AVGO trade happened on June 20, 2025, and it was disclosed on July 9. She exercised 20 call options that were purchased on June 24, 2024 (20,000 shares post-split). President Donald Trump announced a $70 billion investment in AI and energy, less than a month after Pelosi exercised those options. AVGO stock is up 42.09% since the call options were exercised, but her initial call options trade made even more money. Pelosi bought 20 call options on AVGO with an $800 strike price and an expiry of June 20, 2025. This was three weeks before AVGO went through a 10-for-1 stock split. AVGO stock gained over 50% from June 24, 2024, to June 20, 2025. Latest Podcast Episode Amazon Strikes Back, A Big $10,000 Buy And Sam Altman Gets Rattled 38 min See us invest in our favorite AI stock ideas for free Live Nov 9, 2025 Live Nov 4, 2025 Nancy Pelosi no longer runs the House, but her name can still move markets. There are even Nancy Pelosi-themed ETFs… You’ve likely heard that most hedge fund managers end up underperforming the S&P 500. It is indeed challenging, especially during… Warren Buffett may be considered the greatest investor of our time, but even he can’t touch the prowess of California… 24/7 Wall St. takes a look at the current Speaker of the House, Nancy Pelosi, and what stock trades are… Nancy Pelosi in 2023 saw some of the highest investment wins in Congress with a 65.5% return. Congress is not… According to Unusual Whales – a service that tracks Congressional trades – Nancy Pelosi saw a 65.5% return in 2023,… Former House Speaker Nancy Pelosi is among the most prominent stock traders in congress. She remains active in reporting trades,… Goldman Sachs Nasdaq-100 Core Premium Income ETF (Nasdaq: GPIQ) presents a compelling opportunity for investors seeking a steady stream of… Congress has an unusual ability to make remarkably well-timed stock trades. Cross their hearts, they are not buying and selling…
---------------------------------------------------
-
-Title: Analysts Say China Restrictions Are ‘Irrelevant’ for Nvidia Stock, So Buy NVDA Now
-URL: https://www.barchart.com/story/news/36095560/analysts-say-china-restrictions-are-irrelevant-for-nvidia-stock-so-buy-nvda-now
-Time Published: 2025-11-13T12:30:02Z
-Description: Wolfe Research, Citi, and Bank of America are all still bullish on Nvidia despite restrictions on what AI chips it can send to China.
---------------------------------------------------
-
-Title: Akamai Technologies Stock: Is Wall Street Bullish or Bearish?
-URL: https://www.barchart.com/story/news/36095165/akamai-technologies-stock-is-wall-street-bullish-or-bearish
-Time Published: 2025-11-13T12:11:42Z
-Description: Akamai Technologies has trailed the broader market over the past year, and Wall Street analysts maintain a cautious stance on the stock’s near-term outlook.
---------------------------------------------------
-
-Title: Inside Yahoo Finance Invest 2025: Elon Musk's $1 trillion pay package, crypto cracks, and AI bubbles
-URL: https://finance.yahoo.com/news/inside-yahoo-finance-invest-2025-elon-musks-1-trillion-pay-package-crypto-cracks-and-ai-bubbles-120109950.html
-Time Published: 2025-11-13T12:01:09Z
-Description: If you love investing or want to love investing, Yahoo Finance's annual Invest event is here to help!
---------------------------------------------------
-
-Title: Michael Burry turns up heat on anti-AI bet
-URL: https://www.thestreet.com/investing/fund-manager-michael-burry-turns-up-heat-on-anti-ai-bet
-Time Published: 2025-11-12T23:07:00Z
-Description: Artificial intelligence skepticism was growing even before legendary hedge fund manager Michael Burry, a contrarian, decided to kick a hornet's nest. First, ...
 --------------------------------------------------
