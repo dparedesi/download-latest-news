@@ -138,12 +138,6 @@ Time Published: 2025-11-14T09:22:25Z
 Description: The chancellor is reportedly looking to trim the thresholds at which people pay different rates of income tax
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq dive, deepening bruising sell-off as rate-cut doubts creep in
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-dive-deepening-bruising-sell-off-as-rate-cut-doubts-creep-in-235130386.html
-Time Published: 2025-11-13T23:51:30Z
-Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
---------------------------------------------------
-
 Title: Stock market today: Dow slides, Nasdaq pares losses as Fed rate-cut doubts creep in
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-nasdaq-recovers-amid-growing-doubts-on-fed-rate-cut-path-235130256.html
 Time Published: 2025-11-13T23:51:30Z
@@ -152,6 +146,12 @@ Description: Stock futures have inched up following the market's worst day in ov
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures dive after bruising sell-off as rate-cut doubts creep in
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-dive-after-bruising-sell-off-as-rate-cut-doubts-creep-in-235130357.html
+Time Published: 2025-11-13T23:51:30Z
+Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq dive, deepening bruising sell-off as rate-cut doubts creep in
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-dive-deepening-bruising-sell-off-as-rate-cut-doubts-creep-in-235130386.html
 Time Published: 2025-11-13T23:51:30Z
 Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
 --------------------------------------------------
