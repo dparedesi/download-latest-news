@@ -1,16 +1,16 @@
 List of news related to NVIDIA NVDA:
 
+Title: GMI Cloud to build $500 million AI data centre in Taiwan with Nvidia chips
+URL: https://finance.yahoo.com/news/gmi-cloud-build-500-million-110205941.html
+Time Published: 2025-11-17T11:02:05Z
+Description: TAIPEI (Reuters) -U.S.-based cloud services provider GMI Cloud said on Monday it will build a $500 million artificial intelligence data centre ​in Taiwan...
+--------------------------------------------------
+
 Title: Where to invest $2,500 in ASX ETFs this month
 URL: https://www.fool.com.au/2025/11/17/where-to-invest-2500-in-asx-etfs-this-month-2/
 Time Published: 2025-11-17T06:50:33Z
 Description: Got money to invest? Check out these top funds for easy investing.
 The post Where to invest $2,500 in ASX ETFs this month appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: Stock market today: Nasdaq, S&P 500 futures rise as investors look ahead to Nvidia earnings, jobs report
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-futures-rise-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944096.html
-Time Published: 2025-11-17T01:19:44Z
-Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
 --------------------------------------------------
 
 Title: Stock market today: Nasdaq, S&P 500 futures wobble as investors look ahead to Nvidia earnings, jobs report
@@ -21,6 +21,12 @@ Description: Investors get their first official read on the labor market this we
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as investors count down to Nvidia earnings, jobs report
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-investors-count-down-to-nvidia-earnings-jobs-report-011944273.html
+Time Published: 2025-11-17T01:19:44Z
+Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq, S&P 500 futures rise as investors look ahead to Nvidia earnings, jobs report
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-futures-rise-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944096.html
 Time Published: 2025-11-17T01:19:44Z
 Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
 --------------------------------------------------
@@ -301,10 +307,4 @@ Title: Stock market today: Dow tumbles 800 points with Nasdaq, S&P 500 hammered 
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-tumbles-800-points-with-nasdaq-sp-500-hammered-as-investors-pare-rate-cut-bets-210136974.html
 Time Published: 2025-11-13T21:01:36Z
 Description: The economic after-effects of the shutdown are muddying the picture for rate cuts.
---------------------------------------------------
-
-Title: Build-a-Bear Rivals Nvidia’s 5-Year Returns. Is BBW or NVDA Stock the Better Buy Here?
-URL: https://www.barchart.com/story/news/36108677/build-a-bear-rivals-nvidias-5-year-returns-is-bbw-or-nvda-stock-the-better-buy-here
-Time Published: 2025-11-13T20:12:30Z
-Description: Build-a-Bear stock is up more than 1,160% over the last five years. But is BBW stock still a good buy right now?
 --------------------------------------------------

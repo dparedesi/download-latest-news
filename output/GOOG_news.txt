@@ -6,14 +6,14 @@ Time Published: 2025-11-17T01:19:44Z
 Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
 --------------------------------------------------
 
-Title: Stock market today: Dow, Nasdaq, S&P 500 slip as investors look ahead to Nvidia earnings, jobs report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html
+Title: Stock market today: Nasdaq, S&P 500 futures wobble as investors look ahead to Nvidia earnings, jobs report
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-futures-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944956.html
 Time Published: 2025-11-17T01:19:44Z
 Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, S&P 500 futures wobble as investors look ahead to Nvidia earnings, jobs report
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-futures-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944956.html
+Title: Stock market today: Dow, Nasdaq, S&P 500 slip as investors look ahead to Nvidia earnings, jobs report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html
 Time Published: 2025-11-17T01:19:44Z
 Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
 --------------------------------------------------
