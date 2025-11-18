@@ -1,13 +1,20 @@
 List of news related to NVIDIA NVDA:
 
+Title: Where to invest $2,500 in ASX ETFs this month
+URL: https://www.fool.com.au/2025/11/17/where-to-invest-2500-in-asx-etfs-this-month-2/
+Time Published: 2025-11-17T06:50:33Z
+Description: Got money to invest? Check out these top funds for easy investing.
+The post Where to invest $2,500 in ASX ETFs this month appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
 Title: Stock market today: Nasdaq, S&P 500 futures rise as investors look ahead to Nvidia earnings, jobs report
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-futures-rise-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944096.html
 Time Published: 2025-11-17T01:19:44Z
 Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
 --------------------------------------------------
 
-Title: Stock market today: Dow, Nasdaq, S&P 500 slip as investors look ahead to Nvidia earnings, jobs report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html
+Title: Stock market today: Nasdaq, S&P 500 futures wobble as investors look ahead to Nvidia earnings, jobs report
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-futures-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944956.html
 Time Published: 2025-11-17T01:19:44Z
 Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
 --------------------------------------------------
@@ -18,8 +25,8 @@ Time Published: 2025-11-17T01:19:44Z
 Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, S&P 500 futures wobble as investors look ahead to Nvidia earnings, jobs report
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-futures-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944956.html
+Title: Stock market today: Dow, Nasdaq, S&P 500 slip as investors look ahead to Nvidia earnings, jobs report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html
 Time Published: 2025-11-17T01:19:44Z
 Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
 --------------------------------------------------
@@ -229,14 +236,14 @@ Time Published: 2025-11-13T23:51:30Z
 Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq dive, deepening bruising sell-off as rate-cut doubts creep in
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-dive-deepening-bruising-sell-off-as-rate-cut-doubts-creep-in-235130386.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures dive after bruising sell-off as rate-cut doubts creep in
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-dive-after-bruising-sell-off-as-rate-cut-doubts-creep-in-235130357.html
 Time Published: 2025-11-13T23:51:30Z
 Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures dive after bruising sell-off as rate-cut doubts creep in
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-dive-after-bruising-sell-off-as-rate-cut-doubts-creep-in-235130357.html
+Title: Stock market today: Dow, S&P 500, Nasdaq dive, deepening bruising sell-off as rate-cut doubts creep in
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-dive-deepening-bruising-sell-off-as-rate-cut-doubts-creep-in-235130386.html
 Time Published: 2025-11-13T23:51:30Z
 Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
 --------------------------------------------------
@@ -300,10 +307,4 @@ Title: Build-a-Bear Rivals Nvidia’s 5-Year Returns. Is BBW or NVDA Stock the B
 URL: https://www.barchart.com/story/news/36108677/build-a-bear-rivals-nvidias-5-year-returns-is-bbw-or-nvda-stock-the-better-buy-here
 Time Published: 2025-11-13T20:12:30Z
 Description: Build-a-Bear stock is up more than 1,160% over the last five years. But is BBW stock still a good buy right now?
---------------------------------------------------
-
-Title: As Momentum Slows for Rigetti Computing, Should You Sell RGTI Stock Here?
-URL: https://www.barchart.com/story/news/36108663/as-momentum-slows-for-rigetti-computing-should-you-sell-rgti-stock-here
-Time Published: 2025-11-13T20:10:00Z
-Description: Rigetti shares extend losses as mixed Q3 earnings continue to weigh on sentiment. Benchmark recommends that investors be opportunistic buyers on further...
 --------------------------------------------------
