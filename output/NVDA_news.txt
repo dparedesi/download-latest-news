@@ -1,5 +1,47 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Nasdaq, S&P 500 futures rise as investors look ahead to Nvidia earnings, jobs report
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-futures-rise-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944096.html
+Time Published: 2025-11-17T01:19:44Z
+Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
+--------------------------------------------------
+
+Title: Stock market today: Dow, Nasdaq, S&P 500 slip as investors look ahead to Nvidia earnings, jobs report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944169.html
+Time Published: 2025-11-17T01:19:44Z
+Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as investors count down to Nvidia earnings, jobs report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-investors-count-down-to-nvidia-earnings-jobs-report-011944273.html
+Time Published: 2025-11-17T01:19:44Z
+Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq, S&P 500 futures wobble as investors look ahead to Nvidia earnings, jobs report
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-futures-wobble-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944956.html
+Time Published: 2025-11-17T01:19:44Z
+Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as traders look toward Nvidia earnings, jobs report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-traders-look-toward-nvidia-earnings-jobs-report-011944838.html
+Time Published: 2025-11-17T01:19:44Z
+Description: The major gauges rose after a rocky week, as major players in the AI space failed to impress Wall Street with their earnings reports.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq, S&P 500 futures waver as investors look ahead to Nvidia earnings, jobs report
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-futures-waver-as-investors-look-ahead-to-nvidia-earnings-jobs-report-011944135.html
+Time Published: 2025-11-17T01:19:44Z
+Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
+--------------------------------------------------
+
+Title: Nvidia Shares May Plunge After Results (NASDAQ:NVDA) - Seeking Alpha
+URL: https://slashdot.org/firehose.pl?op=view&amp;id=180099837
+Time Published: 2025-11-17T00:32:23Z
+Description: Nvidia Shares May Plunge After Results (NASDAQ:NVDA)Seeking Alpha Dow Jones Futures Loom With Nvidia Earnings Key For Rocky Market; 5 Stocks Near Buy PointsInvestor's Business Daily U.S. stock futures little changed as investors anxiously await Nvidia earning…
+--------------------------------------------------
+
 Title: Peter Thiel dumps top AI stock, stirring bubble fears
 URL: https://freerepublic.com/focus/f-news/4352849/posts
 Time Published: 2025-11-16T18:29:36Z
@@ -264,46 +306,4 @@ Title: As Momentum Slows for Rigetti Computing, Should You Sell RGTI Stock Here?
 URL: https://www.barchart.com/story/news/36108663/as-momentum-slows-for-rigetti-computing-should-you-sell-rgti-stock-here
 Time Published: 2025-11-13T20:10:00Z
 Description: Rigetti shares extend losses as mixed Q3 earnings continue to weigh on sentiment. Benchmark recommends that investors be opportunistic buyers on further...
---------------------------------------------------
-
-Title: CoreWeave Has ‘Boots on the Ground’ to Solve Data Center Delays. Should You Bet on a Rebound in CRWV Stock?
-URL: https://www.barchart.com/story/news/36108410/coreweave-has-boots-on-the-ground-to-solve-data-center-delays-should-you-bet-on-a-rebound-in-crwv-stock
-Time Published: 2025-11-13T19:49:23Z
-Description: A reduced revenue guidance for 205 led to a sharp fall in the company's stock.
---------------------------------------------------
-
-Title: Why Nvidia CEO Jensen Huang’s Meeting with Taiwan Semi Is a Big Deal for NVDA Stock
-URL: https://www.barchart.com/story/news/36107963/why-nvidia-ceo-jensen-huangs-meeting-with-taiwan-semi-is-a-big-deal-for-nvda-stock
-Time Published: 2025-11-13T19:19:24Z
-Description: Nvidia CEO Jensen Huang’s meeting with Taiwan Semiconductor signals surging AI demand and suggests Nvidia is securing the additional chip supply needed to...
---------------------------------------------------
-
-Title: AMD to $300 Looks Easy—Here’s Why $500 Could Be Next
-URL: https://www.marketbeat.com/originals/amd-to-300-looks-easyheres-why-500-could-be-next/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-13T17:03:00Z
-Description: Advanced Micro Devices is on the verge of a game-changing shift. The launch of MI450 products will unleash revenue growth for the next five years.
---------------------------------------------------
-
-Title: Michael Burry Shutters Hedge Fund as Trump’s 50-Year Mortgage Threatens an $11 Trillion Housing Collapse – Is Big Short 2.0 Brewing in Housing, Not Tech?
-URL: https://www.barchart.com/story/news/36104761/michael-burry-shutters-hedge-fund-as-trumps-50-year-mortgage-threatens-an-11-trillion-housing-collapse-is-big-short-2-0-brewing-in-housing-not-tech
-Time Published: 2025-11-13T16:45:01Z
-Description: Michael Burry revealed that he was deregistering his Scion Asset Management after entering put positions on Nvidia and Palantir in the third quarter.
---------------------------------------------------
-
-Title: Jim Cramer Discusses NVIDIA (NVDA) CEO’s Comments About US, China, And AI
-URL: https://finance.yahoo.com/news/jim-cramer-discusses-nvidia-nvda-163527425.html
-Time Published: 2025-11-13T16:35:27Z
-Description: We recently published Jim Cramer Discussed These 25 Stocks In An Important Show About AI Spending. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim ...
---------------------------------------------------
-
-Title: Stocks Weighed Down by Weakness in Chipmakers and Megacap Tech Stocks
-URL: https://www.barchart.com/story/news/36104318/stocks-weighed-down-by-weakness-in-chipmakers-and-megacap-tech-stocks
-Time Published: 2025-11-13T16:18:36Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -1.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.68%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: NVDA: Top Analysts Hike Nvidia Price Target Ahead of Key Earnings
-URL: https://finance.yahoo.com/news/nvda-top-analysts-hike-nvidia-160551448.html
-Time Published: 2025-11-13T16:05:51Z
-Description: Top Analysts Increase Nvidia Targets, Investors Sell Into Strength
 --------------------------------------------------

@@ -30,27 +30,3 @@ URL: https://www.bikeexif.com/walzwerk-x-plorer-bmw-gs
 Time Published: 2025-11-13T16:59:00Z
 Description: The hit-making German custom shop WalzWerk enters the vintage enduro scene with their new X-Plorer series, based on the BMW R100GS.WalzWerk is one of the most prolific custom shops on the scene. They've been in business for 35 years with over 1,000 builds to …
 --------------------------------------------------
-
-Title: Earnings live: Cisco stock pops, Circle slides, On Holding and McGraw Hill stocks surge
-URL: https://finance.yahoo.com/news/live/earnings-live-disney-stock-falls-as-revenue-misses-cisco-surges-chipmaker-smic-rises-121947853.html
-Time Published: 2025-11-12T21:51:54Z
-Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
---------------------------------------------------
-
-Title: Earnings live: Circle stock slides as the stablecoin issuer's revenue jumps, On Holding stock surges
-URL: https://finance.yahoo.com/news/live/earnings-live-circle-stock-slides-as-the-stablecoin-issuers-revenue-jumps-on-holding-stock-surges-132042367.html
-Time Published: 2025-11-12T13:20:42Z
-Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
---------------------------------------------------
-
-Title: Earnings live: Circle stock slides as the stablecoin issuer's Q3 revenue jumps, On Holding stock surges
-URL: https://finance.yahoo.com/news/live/earnings-live-circle-stock-slides-as-the-stablecoin-issuers-q3-revenue-jumps-on-holding-stock-surges-132042222.html
-Time Published: 2025-11-12T13:20:42Z
-Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
---------------------------------------------------
-
-Title: Autonomous EV trucking company Einride going public in SPAC deal valuing it at $1.8 billion
-URL: https://www.cnbc.com/2025/11/12/autonomous-ev-trucker-einride-to-go-public-in-spac-at-1point8-billion-value.html
-Time Published: 2025-11-12T11:42:09Z
-Description: Swedish autonomous EV trucking company Einride is planning to go public on the NYSE through a SPAC deal with Legato Merger Corp. III valuing it at $1.8 billion.
---------------------------------------------------
