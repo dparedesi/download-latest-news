@@ -18,16 +18,16 @@ Time Published: 2025-11-17T15:11:10Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.11%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.06%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as traders look toward Nvidia earnings, jobs report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-traders-look-toward-nvidia-earnings-jobs-report-011944838.html
-Time Published: 2025-11-17T01:19:44Z
-Description: The major gauges rose after a rocky week, as major players in the AI space failed to impress Wall Street with their earnings reports.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as investors count down to Nvidia earnings, jobs report
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-investors-count-down-to-nvidia-earnings-jobs-report-011944273.html
 Time Published: 2025-11-17T01:19:44Z
 Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as traders look toward Nvidia earnings, jobs report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-traders-look-toward-nvidia-earnings-jobs-report-011944838.html
+Time Published: 2025-11-17T01:19:44Z
+Description: The major gauges rose after a rocky week, as major players in the AI space failed to impress Wall Street with their earnings reports.
 --------------------------------------------------
 
 Title: Stanley Druckenmiller's latest buys suggest shifting tech trend
