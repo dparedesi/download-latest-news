@@ -1,15 +1,27 @@
 List of news related to Broadcom AVGO:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as traders look toward Nvidia earnings, jobs report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-traders-look-toward-nvidia-earnings-jobs-report-011944838.html
-Time Published: 2025-11-17T01:19:44Z
-Description: The major gauges rose after a rocky week, as major players in the AI space failed to impress Wall Street with their earnings reports.
+Title: Fidelity sues Broadcom over access to key software to avoid outages
+URL: https://finance.yahoo.com/news/fidelity-sues-broadcom-over-access-211716465.html
+Time Published: 2025-11-17T21:17:16Z
+Description: BOSTON (Reuters) -A subsidiary of Fidelity Investments has filed a lawsuit accusing technology company Broadcom of threatening to cut off its access to ​key ...
+--------------------------------------------------
+
+Title: Stocks Supported by Strength in Chip Makers and AI Stocks
+URL: https://www.barchart.com/story/news/36162837/stocks-supported-by-strength-in-chip-makers-and-ai-stocks
+Time Published: 2025-11-17T15:11:10Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.11%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.06%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as investors count down to Nvidia earnings, jobs report
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-investors-count-down-to-nvidia-earnings-jobs-report-011944273.html
 Time Published: 2025-11-17T01:19:44Z
 Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as traders look toward Nvidia earnings, jobs report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-traders-look-toward-nvidia-earnings-jobs-report-011944838.html
+Time Published: 2025-11-17T01:19:44Z
+Description: The major gauges rose after a rocky week, as major players in the AI space failed to impress Wall Street with their earnings reports.
 --------------------------------------------------
 
 Title: Stanley Druckenmiller's latest buys suggest shifting tech trend
@@ -53,54 +65,4 @@ Title: FTSE 100 LIVE: London slides and UK gilts sell as Reeves spooks market wi
 URL: https://uk.finance.yahoo.com/news/ftse-100-live-markets-reeves-drops-budget-plan-raise-income-tax-092225015.html
 Time Published: 2025-11-14T09:22:25Z
 Description: The chancellor is reportedly looking to trim the thresholds at which people pay different rates of income tax
---------------------------------------------------
-
-Title: Stock market today: Dow slides, Nasdaq pares losses as Fed rate-cut doubts creep in
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-nasdaq-recovers-amid-growing-doubts-on-fed-rate-cut-path-235130256.html
-Time Published: 2025-11-13T23:51:30Z
-Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
---------------------------------------------------
-
-Title: Nvidia Earnings Seen As Key To Reviving AI Stock Trade
-URL: https://www.investors.com/news/technology/nvidia-stock-earnings-key-ai-stock-trade/
-Time Published: 2025-11-13T22:01:02Z
-Description: AI stocks have pulled back recently on bubble concerns, which has raised the stakes for Nvidia's upcoming earnings report.
---------------------------------------------------
-
-Title: Stocks Slump on Reduced Fed Rate Cut Chances
-URL: https://www.barchart.com/story/news/36111219/stocks-slump-on-reduced-fed-rate-cut-chances
-Time Published: 2025-11-13T21:35:46Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -1.66%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -1.65%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: The Shutdown Is Over. Winter Is Usually Good For Stocks. Here's Why Investors Are Selling.
-URL: https://www.investopedia.com/the-shutdown-is-over-winter-is-usually-good-for-stocks-here-s-why-investors-are-selling-11849088
-Time Published: 2025-11-13T21:23:29Z
-Full Content:
-The stock market cleared a major hurdle this week. It's the outset of what is historically a good time for equities. You wouldn't know it if you looked at your portfolio today. President Donald Trump on Wednesday signed legislation to reopen the federal government, ending the longest shutdown in U.S. history. The reopening removes the economic drag from more than 1 million federal workers going without pay and clears a path for federal agencies to once again release vital economic data. Yet stocks were falling Thursday, led by the tech-heavy Nasdaq, which finished the day down more than 2%—perhaps a “buy the rumor, sell the news” event, since stocks rallied on Monday as an end to the shutdown looked imminent. AI optimism and expectations for rate cuts have been two of the primary drivers of stock returns this year. If either AI or the Federal Reserve fail to meet Wall Street's expectations, stocks may be vulnerable to correction. Historically, the end of a shutdown has supported stocks, according to Adam Turnquist, Chief Technical Strategist at LPL Financial. Since 1976, he wrote Wednesday, covering 20 shutdowns, the S&P 500 has risen more in the one- and three-month periods after a budget resolution than in all other comparable periods. This shutdown is also ending at a time of year that’s historically good for the stock market. Since 2000, November has, on average, been the best month of the year for the S&P 500. December, another positive month, is more often than not capped off with a Santa Claus rally. But the mood on Wall Street heading into the end of the year appears more dour than rosy, with investors debating the existence of an AI bubble and uncertain what incoming economic data will say about the health of the economy. The debate about an AI bubble has taken a toll on tech stocks in recent weeks. Shares of chipmaker Nvidia (NVDA) slid 7% last week, and were down more than 3.5% on Thursday. Palantir (PLTR) stock tumbled 8% the day after it posted earnings that blew past estimates and raised its full-year guidance. On Thursday, the majority of the S&P 500’s worst-performing stocks were high-flying AI beneficiaries like software firm Applovin (APP) and chipmaker Broadcom (AVGO). AI bubble concerns are being fueled by soaring valuations in both public and private markets. OpenAI, which doesn't expect to turn a profit until 2029, is valued at $500 billion. Palantir, even with its recent pullback, trades at about 240 times forward earnings. The chasm between AI spending and AI revenue has also raised eyebrows. Hyperscalers Microsoft (MSFT), Alphabet (GOOG), Amazon (AMZN), Meta (META), and Oracle (ORCL) intend to spend hundreds of billions of dollars to build data centers and fill them with AI-enabling equipment. They have had some success showing investors that AI is contributing to their top and bottom lines, but some investors are turning skeptical. Wall Street has also taken note of a shift in how AI investments are funded. Up to this point, tech giants like Microsoft and Amazon have mostly relied on cash flows to build data centers and buy chips. Proponents of the AI bubble narrative have frequently pointed to the size and stability of these cash flows to argue for the AI boom’s sustainability. Investors will also be watching economic data heading into the Federal Reserve’s last policy meeting of the year next month. Inflation and labor market reports were delayed by the shutdown, denying Wall Street and the Fed vital economic temperature checks. And, despite the end of the shutdown, investors aren’t sure when they’ll get that data, if at all. The White House on Wednesday suggested inflation and labor market data for October may never be released, which would leave policymakers to lean on other public and private datasets as they deliberate whether to cut interest rates for a third time this year in mid-December. Officials are divided on how to proceed. Some have urged caution, citing concerns that inflation, which has reaccelerated this year, could stick above their 2% target. The data blackout has given inflation-wary officials even more reason to argue for slower cuts. Meanwhile, recent private sector data suggests that labor market conditions have deteriorated more than expected this year, giving dovish officials fodder to argue for more aggressive cuts. Wall Street increasingly believes the hawks, who favor higher rates, have the upper hand. Federal funds futures trading data on Thursday put the odds of a December rate cut at 47%, down from 96% a month ago and 63% yesterday.
---------------------------------------------------
-
-Title: Stock market today: Dow tumbles 800 points with Nasdaq, S&P 500 hammered as investors pare rate cut bets
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-tumbles-800-points-with-nasdaq-sp-500-hammered-as-investors-pare-rate-cut-bets-210136974.html
-Time Published: 2025-11-13T21:01:36Z
-Description: The economic after-effects of the shutdown are muddying the picture for rate cuts.
---------------------------------------------------
-
-Title: Stocks Weighed Down by Weakness in Chipmakers and Megacap Tech Stocks
-URL: https://www.barchart.com/story/news/36104318/stocks-weighed-down-by-weakness-in-chipmakers-and-megacap-tech-stocks
-Time Published: 2025-11-13T16:18:36Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -1.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.68%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stocks Pressured by Higher Bond Yields and Weakness in Chipmakers
-URL: https://www.barchart.com/story/news/36102231/stocks-pressured-by-higher-bond-yields-and-weakness-in-chipmakers
-Time Published: 2025-11-13T15:00:35Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.64%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Nancy Pelosi Is Retiring up 595%, but She’s Still Holding on to These 3 Stocks
-URL: https://247wallst.com/investing/2025/11/13/nancy-pelosi-is-retiring-up-595-but-shes-still-holding-on-to-these-3-stocks/
-Time Published: 2025-11-13T14:12:44Z
-Full Content:
-Investing Sending You to Google News in 3 © Drew Angerer / Getty Images News via Getty Images Nancy Pelosi announced her retirement last week. She has been a leading voice in Congress for decades, and her term will end in January 2027. She’s currently holding on to many stocks, with Nvidia (NASDAQ:NVDA), Alphabet (NASDAQ:GOOGL), and Broadcom (NASDAQ:AVGO) being the latest buys. Pelosi hasn’t been without controversy, with stock trading being one of the biggest concerns of her critics. It should be noted that Nancy Pelosi’s stock trades are not directly hers. Her husband, Paul Pelosi, is the person buying and selling stocks, though these trades are still attributed to her, as she is likely legally entitled to a significant portion of them, upon a possible divorce or her husband’s passing. At the same time, there are concerns that Nancy Pelosi will be passing information to her husband. These claims are not proven. But what is proven is that the Pelosis have had remarkable wins over the course of their investing history. Since mid-2014, her strategy has yielded her 858.58% in gains, whereas the S&P 500 only returned 263.2%. This is a 595% outperformance over the S&P 500. Let’s take a look at the three stocks she holds now. Nvidia is Pelosi’s biggest holding, with 20% of her portfolio being in this one stock. Her latest trade was on January 14, 2025, and was disclosed on January 17. She purchased 50 call options with a strike price of $80 and an expiration date of January 16, 2026. Since that trade, NVDA stock is up 47.09%. If the options were to be exercised today, she would have a total of $569,000 in NVDA stock. To find the true profits, you’d have to exclude the premium paid for all these options, the exact amount of which is not known. Alphabet is her second-biggest holding, with 15% of her portfolio in GOOGL stock. Her latest transaction was on January 14, 2025, and was filed three days later on January 17. She bought 50 call options on GOOGL stock, with each option representing 100 shares. This has been a very profitable buy, with GOOGL stock up more than 46% since that transaction took place. Since these are options, Pelosi will be able to exercise 5,000 shares of GOOGL at the strike price of $150. If these options were to be exercised today, she would have $683,550 in GOOGL stock. This is a well-timed trade, and Pelosi is very likely to exercise these options by the time they expire and then hold GOOGL stock directly. Broadcom also has the same weight as Alphabet at 15%. Her most recent AVGO trade happened on June 20, 2025, and it was disclosed on July 9. She exercised 20 call options that were purchased on June 24, 2024 (20,000 shares post-split). President Donald Trump announced a $70 billion investment in AI and energy, less than a month after Pelosi exercised those options. AVGO stock is up 42.09% since the call options were exercised, but her initial call options trade made even more money. Pelosi bought 20 call options on AVGO with an $800 strike price and an expiry of June 20, 2025. This was three weeks before AVGO went through a 10-for-1 stock split. AVGO stock gained over 50% from June 24, 2024, to June 20, 2025. Latest Podcast Episode Amazon Strikes Back, A Big $10,000 Buy And Sam Altman Gets Rattled 38 min See us invest in our favorite AI stock ideas for free Live Nov 9, 2025 Live Nov 4, 2025 Nancy Pelosi no longer runs the House, but her name can still move markets. There are even Nancy Pelosi-themed ETFs… You’ve likely heard that most hedge fund managers end up underperforming the S&P 500. It is indeed challenging, especially during… Warren Buffett may be considered the greatest investor of our time, but even he can’t touch the prowess of California… 24/7 Wall St. takes a look at the current Speaker of the House, Nancy Pelosi, and what stock trades are… Nancy Pelosi in 2023 saw some of the highest investment wins in Congress with a 65.5% return. Congress is not… According to Unusual Whales – a service that tracks Congressional trades – Nancy Pelosi saw a 65.5% return in 2023,… Former House Speaker Nancy Pelosi is among the most prominent stock traders in congress. She remains active in reporting trades,… Goldman Sachs Nasdaq-100 Core Premium Income ETF (Nasdaq: GPIQ) presents a compelling opportunity for investors seeking a steady stream of… Congress has an unusual ability to make remarkably well-timed stock trades. Cross their hearts, they are not buying and selling…
 --------------------------------------------------

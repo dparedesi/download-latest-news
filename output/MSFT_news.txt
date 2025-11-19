@@ -1,5 +1,18 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Should You Buy Nvidia Stock Before November 19 or Wait for a Post-Earnings Dip?
+URL: https://www.barchart.com/story/news/36163934/should-you-buy-nvidia-stock-before-november-19-or-wait-for-a-post-earnings-dip
+Time Published: 2025-11-17T16:09:05Z
+Description: Nvidia is set to release its Q3 earnings this week. NVDA stock could be in a post-earnings pop given the reasonable valuations and expectations of upbeat...
+--------------------------------------------------
+
+Title: Capture the Rally With These Dividend Plus Growth ETFs
+URL: https://www.dividendstocks.com/articles/capture-the-rally-with-these-dividend-plus-growth-etfs/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-11-17T14:32:00Z
+Full Content:
+Dividend stocks are not traditionally known for their share price rallies. Companies making distributions to stockholders tend to be stable and well-established, with their biggest growth days long in the past. Similarly, exchange-traded funds (ETFs) that hold baskets of dividend stocks tend to provide investors with a healthy passive income stream simply for owning shares rather than capital appreciation. Occasionally, though, investors can find the best of both worlds. Vanguard FTSE Developed Markets ETF (NYSEARCA: VEA), iShares MSCI EAFE ETF (NYSEARCA: EFA), and SPDR S&P 500 Value ETF (NYSEARCA: SPYV) are three ETFs that pay noteworthy dividends and deliver notable capital appreciation. While not the highest of any ETF making distributions, the dividends are still enough to provide a compelling perk for shareholders—especially considering these ETFs are trading at or near year-to-date (YTD) highs after experiencing sizable rallies. VEA capitalizes on the strong performance of many international equity markets in 2025, some of which have outpaced the S&P 500's already robust 15% returns YTD. The fund can be a long-term investment option for investors seeking access to non-U.S. equities. Like many other broad-based Vanguard ETFs, it boasts a highly competitive expense ratio—just 0.03% per year. Comprised of nearly 4,000 total stocks, VEA offers a highly diversified group of stocks at a low cost. The fund's geographic and stock mandates are expansive, as it holds companies across the market capitalization spectrum from Canada, Europe, and parts of the Pacific, with European stocks comprising 52% of its holdings. Japan is the single largest country by portfolio allocation, accounting for approximately 21% of the portfolio. VEA pays out a dividend yield of 2.74%, which is quite high for a fund that doesn't specifically employ a dividend strategy. On top of that, the fund has rallied by close to 29% YTD, or about twice the return rate of the broader U.S. market during that period. Utilizing a similar approach to VEA, EFA distinguishes itself with its large-cap focus. Both funds are sizable and trade very actively, although EFA's trading volume tends to be higher than VEA's, making it a prime choice for traders looking to move in and out of positions more frequently. EFA's basket of stocks is not as extensive as VEA's, but with nearly 1,000 holdings, it still offers exceptional diversification. While the portfolio focuses on European names, Japanese stocks represent the largest portion of the portfolio, at approximately 22%. The fund also invests in a smaller percentage of Australian equities, which may appeal to investors seeking a specific geographic tilt. Where EFA falls short a bit is in its annual fee, which is substantially higher at 0.32%. Still, with an annual dividend yield of 2.7% and YTD returns of nearly 29%, there are plenty of benefits to considering this fund nonetheless. The SPYV adopts a different approach from the two above. Besides its exclusive focus on U.S. equities, SPYV also narrows the search further by tracking large-cap stocks with value characteristics such as price-to-earnings and price-to-sales ratios. Although its portfolio comprises nearly 400 positions, SPYV prioritizes three major companies: Apple Inc. (NASDAQ: AAPL), Microsoft Corp. (NASDAQ: MSFT), and Amazon.com Inc. (NASDAQ: AMZN) collectively represent approximately 20% of invested assets. At 1.83%, SPYV's dividend yield is slightly lower than that of the funds above, but it is still a nice bonus for investors interested in a value play. SPYV's momentum has been accelerating after an early-2025 dip, and the fund is up about 13% YTD. With an annual fee of 0.04%, SPYV may be a good buy-and-hold option for investors looking to capture undervalued stocks across sectors, with a bit of a passive income benefit thrown in for good measure. Stop riding the roller coaster of the stock market and sign-up to receive DividendStocks.com's daily ex-dividend stocks and dividend investing news for VEA and related companies. Nathan Reiff has been a contributing writer for DividendStocks.com since 2024. Doctor of Musical Arts, Yale University, New Haven, Connecticut; Bachelor of Arts, Yale University, New Haven, Connecticut; Master of Music, University of Michigan, Ann Arbor, Michigan DividendStocks.com is a daily email newsletter for dividend and income investors that covers ex-dividend stocks, new dividend declarations, dividend stock ideas, and the latest market news. Read your copy every afternoon at 1:00 PM Eastern. DividendStocks.com is powered by MarketBeat. Read our Privacy Policy here. Manage Account Our Accessibility Statement Do Not Sell My Information MarketBeat Media, LLC dba DividendStocks.com 345 N Reid Place, Suite 620, Sioux Falls, SD 57103 [email protected]
+--------------------------------------------------
+
 Title: Peter Thiel slashes Tesla (TSLA) stake as Elon Musk warns shorts
 URL: http://electrek.co/2025/11/17/peter-thiel-slashes-tesla-tsla-stake-as-elon-musk-warns-shorts/
 Time Published: 2025-11-17T13:34:09Z
@@ -55,22 +68,4 @@ Title: I’m Old Enough to Remember When a 500-Point-Drop in the Dow Jones Was a
 URL: https://www.barchart.com/story/news/36129214/im-old-enough-to-remember-when-a-500-point-drop-in-the-dow-jones-was-a-crisis-now-its-just-a-warning
 Time Published: 2025-11-14T17:00:02Z
 Description: The top six stocks in the Dow Jones Industrial Average account for almost 40% of the index. That’s a huge concentration risk.
---------------------------------------------------
-
-Title: Stock market today: Dow slides, Nasdaq pares losses as Fed rate-cut doubts creep in
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-slides-nasdaq-recovers-amid-growing-doubts-on-fed-rate-cut-path-235130256.html
-Time Published: 2025-11-13T23:51:30Z
-Description: Stock futures have inched up following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
---------------------------------------------------
-
-Title: Stocks Slump on Reduced Fed Rate Cut Chances
-URL: https://www.barchart.com/story/news/36111219/stocks-slump-on-reduced-fed-rate-cut-chances
-Time Published: 2025-11-13T21:35:46Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -1.66%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -1.65%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Stocks Weighed Down by Weakness in Chipmakers and Megacap Tech Stocks
-URL: https://www.barchart.com/story/news/36104318/stocks-weighed-down-by-weakness-in-chipmakers-and-megacap-tech-stocks
-Time Published: 2025-11-13T16:18:36Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -1.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.68%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------

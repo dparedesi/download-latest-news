@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Morgan Stanley hikes S&P 500 target for next year. Here are the plays to make.
+URL: https://www.marketwatch.com/story/morgan-stanley-hikes-s-p-500-target-for-next-year-here-are-the-plays-to-make-388cad9a
+Time Published: 2025-11-17T14:38:00Z
+Description: Earnings growth and an accommodative Fed will support market multiples says Mike Wilson
+--------------------------------------------------
+
 Title: Bank of America Securities Maintains Buy Rating on Taiwan Semiconductor Manufacturing (TSM) Stock
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aef840cb-4f87-46a8-b82b-0521df00054d
 Time Published: 2025-11-16T04:41:49Z
@@ -10,16 +16,4 @@ Title: Is Taiwan Semiconductor Manufacturing (TSM) the Most Fantastic Stock to B
 URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-tsm-most-061044471.html
 Time Published: 2025-11-15T06:10:44Z
 Description: Taiwan Semiconductor Manufacturing Company Ltd. (NYSE:TSM) is among the most fantastic stocks every investor should pay attention to. The company’s shares...
---------------------------------------------------
-
-Title: Nvidia Earnings Seen As Key To Reviving AI Stock Trade
-URL: https://www.investors.com/news/technology/nvidia-stock-earnings-key-ai-stock-trade/
-Time Published: 2025-11-13T22:01:02Z
-Description: AI stocks have pulled back recently on bubble concerns, which has raised the stakes for Nvidia's upcoming earnings report.
---------------------------------------------------
-
-Title: Why Nvidia CEO Jensen Huang’s Meeting with Taiwan Semi Is a Big Deal for NVDA Stock
-URL: https://www.barchart.com/story/news/36107963/why-nvidia-ceo-jensen-huangs-meeting-with-taiwan-semi-is-a-big-deal-for-nvda-stock
-Time Published: 2025-11-13T19:19:24Z
-Description: Nvidia CEO Jensen Huang’s meeting with Taiwan Semiconductor signals surging AI demand and suggests Nvidia is securing the additional chip supply needed to...
 --------------------------------------------------

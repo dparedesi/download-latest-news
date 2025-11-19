@@ -1,5 +1,23 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Should You Buy Nvidia Stock Before November 19 or Wait for a Post-Earnings Dip?
+URL: https://www.barchart.com/story/news/36163934/should-you-buy-nvidia-stock-before-november-19-or-wait-for-a-post-earnings-dip
+Time Published: 2025-11-17T16:09:05Z
+Description: Nvidia is set to release its Q3 earnings this week. NVDA stock could be in a post-earnings pop given the reasonable valuations and expectations of upbeat...
+--------------------------------------------------
+
+Title: Morgan Stanley hikes S&P 500 target for next year. Here are the plays to make.
+URL: https://www.marketwatch.com/story/morgan-stanley-hikes-s-p-500-target-for-next-year-here-are-the-plays-to-make-388cad9a
+Time Published: 2025-11-17T14:38:00Z
+Description: Earnings growth and an accommodative Fed will support market multiples says Mike Wilson
+--------------------------------------------------
+
+Title: A $1 TRILLION Reason to Buy AMD Stock Here
+URL: https://www.barchart.com/story/news/36160732/a-1-trillion-reason-to-buy-amd-stock-here
+Time Published: 2025-11-17T14:00:02Z
+Description: AMD’s bold $1 trillion AI and data center vision signals a solid opportunity for investors ready to ride the next wave of semiconductor growth.
+--------------------------------------------------
+
 Title: Evercore ISI Raises PT on Advanced Micro Devices (AMD) Stock
 URL: https://finance.yahoo.com/news/evercore-isi-raises-pt-advanced-044154852.html
 Time Published: 2025-11-16T04:41:54Z
@@ -22,28 +40,4 @@ Title: Stock Index Futures Plunge on Fed Rate-Cut Doubts and Valuation Concerns
 URL: https://www.barchart.com/story/news/36121360/stock-index-futures-slip-on-fed-rate-cut-doubts-and-valuation-concerns
 Time Published: 2025-11-14T11:18:49Z
 Description: December S&P 500 E-Mini futures (ESZ25) are down -0.97%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -1.29% this morning, pointing to further...
---------------------------------------------------
-
-Title: Stocks Slump on Reduced Fed Rate Cut Chances
-URL: https://www.barchart.com/story/news/36111219/stocks-slump-on-reduced-fed-rate-cut-chances
-Time Published: 2025-11-13T21:35:46Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -1.66%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -1.65%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: AMD to $300 Looks Easy—Here’s Why $500 Could Be Next
-URL: https://www.marketbeat.com/originals/amd-to-300-looks-easyheres-why-500-could-be-next/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-13T17:03:00Z
-Description: Advanced Micro Devices is on the verge of a game-changing shift. The launch of MI450 products will unleash revenue growth for the next five years.
---------------------------------------------------
-
-Title: Stocks Weighed Down by Weakness in Chipmakers and Megacap Tech Stocks
-URL: https://www.barchart.com/story/news/36104318/stocks-weighed-down-by-weakness-in-chipmakers-and-megacap-tech-stocks
-Time Published: 2025-11-13T16:18:36Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -1.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.68%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stocks Pressured by Higher Bond Yields and Weakness in Chipmakers
-URL: https://www.barchart.com/story/news/36102231/stocks-pressured-by-higher-bond-yields-and-weakness-in-chipmakers
-Time Published: 2025-11-13T15:00:35Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.64%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------
