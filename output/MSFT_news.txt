@@ -1,13 +1,25 @@
 List of news related to Microsoft stock price MSFT:
 
-Title: Stock market today: Nasdaq, S&P 500 rise, Dow slips as Wall Street awaits Nvidia earnings, bitcoin resumes sell-off
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-dow-slips-as-wall-street-awaits-nvidia-earnings-bitcoin-resumes-sell-off-233634143.html
-Time Published: 2025-11-18T23:36:34Z
-Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
+Title: Rothschild & Co Redburn Downgrades Microsoft Corporation (MSFT) to Hold, Lowers PT
+URL: https://finance.yahoo.com/news/rothschild-co-redburn-downgrades-microsoft-121109022.html
+Time Published: 2025-11-19T12:11:09Z
+Description: ​Microsoft Corporation (NASDAQ:MSFT) is one of the Most Profitable Stocks to Buy Now. On November 18, Alexander Haissl from Rothschild & Co Redburn...
+--------------------------------------------------
+
+Title: Nvidia, Microsoft deal takes 'circular' financing to entirely new level
+URL: https://www.thestreet.com/investing/stocks/nvidia-microsoft-deal-takes-circular-financing-to-entirely-new-level
+Time Published: 2025-11-19T01:14:30Z
+Description: Nvidia’s stock is under immense pressure as investors nervously await its earnings, set to be released on November 19. The stock is slightly down at the time...
 --------------------------------------------------
 
 Title: Stock market today: Nasdaq, S&P 500, Dow rise as Wall Street awaits Nvidia earnings
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-rise-as-wall-street-awaits-nvidia-earnings-233634674.html
+Time Published: 2025-11-18T23:36:34Z
+Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq, S&P 500 rise, Dow slips as Wall Street awaits Nvidia earnings, bitcoin resumes sell-off
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-dow-slips-as-wall-street-awaits-nvidia-earnings-bitcoin-resumes-sell-off-233634143.html
 Time Published: 2025-11-18T23:36:34Z
 Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
 --------------------------------------------------
