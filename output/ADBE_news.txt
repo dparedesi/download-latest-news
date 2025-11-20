@@ -1,1 +1,19 @@
-No news found for Adobe stock price +ADBE
+List of news related to Adobe stock price ADBE:
+
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble as Wall Street awaits Nvidia earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-while-dow-holds-steady-as-wall-street-awaits-nvidia-earnings-233634171.html
+Time Published: 2025-11-18T23:36:34Z
+Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq, S&P 500 rise, Dow slips as Wall Street awaits Nvidia earnings, bitcoin resumes sell-off
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-dow-slips-as-wall-street-awaits-nvidia-earnings-bitcoin-resumes-sell-off-233634143.html
+Time Published: 2025-11-18T23:36:34Z
+Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq, S&P 500, Dow rise as Wall Street awaits Nvidia earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-rise-as-wall-street-awaits-nvidia-earnings-233634674.html
+Time Published: 2025-11-18T23:36:34Z
+Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
+--------------------------------------------------

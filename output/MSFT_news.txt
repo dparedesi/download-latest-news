@@ -1,5 +1,60 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stock market today: Nasdaq, S&P 500 rise, Dow slips as Wall Street awaits Nvidia earnings, bitcoin resumes sell-off
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-dow-slips-as-wall-street-awaits-nvidia-earnings-bitcoin-resumes-sell-off-233634143.html
+Time Published: 2025-11-18T23:36:34Z
+Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq, S&P 500, Dow rise as Wall Street awaits Nvidia earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-rise-as-wall-street-awaits-nvidia-earnings-233634674.html
+Time Published: 2025-11-18T23:36:34Z
+Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble as Wall Street awaits Nvidia earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-while-dow-holds-steady-as-wall-street-awaits-nvidia-earnings-233634171.html
+Time Published: 2025-11-18T23:36:34Z
+Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
+--------------------------------------------------
+
+Title: Top Stock Movers Now: Home Depot, Cloudflare, Nvidia, and More
+URL: https://www.investopedia.com/top-stock-movers-now-home-depot-cloudflare-nvidia-and-more-11851574
+Time Published: 2025-11-18T17:07:51Z
+Full Content:
+Major U.S. equities indexes extended their slide Tuesday afternoon, amid worries about an AI bubble. The Dow Jones Industrial Average and Nasdaq were down about 1%, while the S&P 500 fell 0.6%. Home Depot (HD) shares fell 4% after the home-improvement retailer reported disappointing third-quarter earnings and cut its full-year profit outlook. Cloudflare (NET) shares declined 3% after the web security company was affected by an outage that hit several prominent customers, including social media site X and ChatGPT. Shares of Nvidia (NVDA), which reports quarterly results after the bell Wednesday, were down 3%. Microsoft (MSFT) shares were also about 3% lower after the two Magnificent 7 members announced partnerships with Claude AI developer Anthropic. Nvidia and Microsoft said they will invest up to $10 billion and up to $5 billion, respectively, in Anthropic as part of the deals. Medtronic (MDT) shares rose 4% after the maker of medical devices reported better-than-expected fiscal 2026 second-quarter results and lifted its full-year outlook. Shares of crypto-treasury firm Strategy (MSTR), which entered Tuesday down 27% this month as the price of Bitcoin has tumbled, rebounded roughly 6% along with the price of the largest cryptocurrency. Merck (MRK) stock advanced 4% after the pharmaceutical firm announced positive results from a Phase 2 trial of a heart drug. Oil and gold futures slipped. The yield on the 10-year Treasury note edged lower. The U.S. dollar was little changed against the euro, pound, and yen. Prices for most major cryptocurrencies were higher.
+--------------------------------------------------
+
+Title: Half a Trillion Reasons to Buy Nvidia Stock Before November 19
+URL: https://www.barchart.com/story/news/36188013/half-a-trillion-reasons-to-buy-nvidia-stock-before-november-19
+Time Published: 2025-11-18T16:35:35Z
+Description: Nvidia stock continues to trade at an attractive multiple, given its vast order book and robust growth estimates.
+--------------------------------------------------
+
+Title: Stock Indexes Slump as the Slide in Tech Stocks Deepens
+URL: https://www.barchart.com/story/news/36187717/stock-indexes-slump-as-the-slide-in-tech-stocks-deepens
+Time Published: 2025-11-18T16:20:51Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -1.17%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -1.24%, and the Nasdaq 100 Index ($IUXX ...
+--------------------------------------------------
+
+Title: ‘Good News’ Is Coming for Nvidia Stock, So Buy NVDA Shares Here
+URL: https://www.barchart.com/story/news/36187107/good-news-is-coming-for-nvidia-stock-so-buy-nvda-shares-here
+Time Published: 2025-11-18T15:53:43Z
+Description: Analysts see Nvidia beating forecasts, but with options pricing a tight move, investors need clarity on guidance before chasing the next breakout.
+--------------------------------------------------
+
+Title: Seagate Stock Could Soar as AI Drives Storage Demand
+URL: https://www.marketbeat.com/originals/seagate-stock-could-soar-as-ai-drives-storage-demand/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-11-18T12:07:00Z
+Description: Seagate Technology is on the cusp of a value-building revenue and earnings surge. Analysts and institutional trends point to significant gains in 2026.
+--------------------------------------------------
+
+Title: S&P Futures Slip on Souring Risk Sentiment
+URL: https://www.barchart.com/story/news/36177460/s-p-futures-slip-on-souring-risk-sentiment
+Time Published: 2025-11-18T11:08:53Z
+Description: December S&P 500 E-Mini futures (ESZ25) are trending down -0.31% this morning as investors continue to unload risk assets while awaiting Nvidia’s earnings...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq slide as sell-off resumes ahead of Nvidia earnings, jobs data
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-sell-off-resumes-ahead-of-nvidia-earnings-jobs-data-181130773.html
 Time Published: 2025-11-17T21:05:01Z
@@ -55,29 +110,4 @@ Title: Microsoft Corporation (MSFT) Partners with Pantone to Enable AI Use in Cr
 URL: https://finance.yahoo.com/news/microsoft-corporation-msft-partners-pantone-045041119.html
 Time Published: 2025-11-15T04:50:41Z
 Description: Microsoft Corporation (NASDAQ:MSFT) is one of the best blue-chip stocks to buy now. On November 5, Microsoft Corporation (NASDAQ:MSFT) entered into a...
---------------------------------------------------
-
-Title: Why These Wall Street Experts Expect Big Things From Nvidia's Earnings Report Next Week
-URL: https://www.investopedia.com/why-these-wall-street-experts-expect-big-things-from-nvidia-earnings-report-next-week-11849946
-Time Published: 2025-11-14T22:46:44Z
-Full Content:
-Nvidia (NVDA) is set to report its latest earnings after the market closes next Wednesday, and analysts are expecting big things. Analysts from Jefferies and Wedbush have each said in recent notes that they expect the artificial intelligence giant to "beat and raise," or report better financial metrics than analysts have projected and lift their future forecasts. "Hyperscale capex spending results for Q3 generally exceeded expectations," Wedbush analysts wrote, maintaining their $210 price target. "More importantly, the large hyperscalers nearly ubiquitously talked to an expectation of increasing spending trends into future periods as they continue to expand investment to support their AI efforts." Nvidia shares closed nearly 2% higher on Friday at around $190. The stock has gained 42% since the start of the year, far outpacing the gains of the benchmark S&P 500 index. Nvidia is the most valuable company on the market today, meaning its stock likely has an outsized impact on your portfolio, and potentially your retirement. The chipmaker's performance in quarterly earnings can affect the stock prices of a range of companies involved in the AI sector. The Wedbush analysts said that much of the growth in spending from "hyperscalers" such as Microsoft (MSFT), Alphabet (GOOGL) and Amazon (AMZN) seems to end up being funneled to Nvidia, as the chipmaker "supplies a disproportionate amount of the AI server value." However, some investors and analysts are starting to question how much the biggest tech companies should be willing to spend before they see a clearer path to getting a return on their investment into AI. Meanwhile, many market participants have been looking for signs of a bubble. Bank of America analysts, keeping their price target at $275, said they expect Nvidia executives to reassure investors about their ability to meet demand, and said the company is facing high earnings expectations and growing skepticism around AI spending. Nvidia is expected to report adjusted earnings per share of $1.26 on revenue of $55.28 billion, each up more than 55% from the same time a year ago, according to estimates compiled by Visible Alpha. Data center revenue, the chips Nvidia sells that other companies buy to train and run a variety of AI models, is expected to grow 61% and make up $49.53 billion of Nvidia's revenue. Oppenheimer analysts lifted their price target for Nvidia earlier this week, calling the chipmaker the single company that is "best positioned to win" in the AI sector.
---------------------------------------------------
-
-Title: Stocks Settle Mixed as Fed Comments Suggest a Rate Cut Pause
-URL: https://www.barchart.com/story/news/36133868/stocks-settle-mixed-as-fed-comments-suggest-a-rate-cut-pause
-Time Published: 2025-11-14T21:45:46Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed down -0.05%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.65%, and the Nasdaq 100 Index (...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq close mixed to cap a volatile week as Fed cut in doubt
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-close-mixed-to-cap-a-volatile-week-as-fed-cut-in-doubt-210027944.html
-Time Published: 2025-11-14T21:00:27Z
-Description: Stocks recovered from steep losses following the market's worst day in over a month, erasing weeks of gains and pulling back from record highs.
---------------------------------------------------
-
-Title: I’m Old Enough to Remember When a 500-Point-Drop in the Dow Jones Was a Crisis. Now It’s Just a Warning.
-URL: https://www.barchart.com/story/news/36129214/im-old-enough-to-remember-when-a-500-point-drop-in-the-dow-jones-was-a-crisis-now-its-just-a-warning
-Time Published: 2025-11-14T17:00:02Z
-Description: The top six stocks in the Dow Jones Industrial Average account for almost 40% of the index. That’s a huge concentration risk.
 --------------------------------------------------

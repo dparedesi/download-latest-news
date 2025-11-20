@@ -1,5 +1,17 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stock Indexes Slump as the Slide in Tech Stocks Deepens
+URL: https://www.barchart.com/story/news/36187717/stock-indexes-slump-as-the-slide-in-tech-stocks-deepens
+Time Published: 2025-11-18T16:20:51Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -1.17%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -1.24%, and the Nasdaq 100 Index ($IUXX ...
+--------------------------------------------------
+
+Title: S&P Futures Slip on Souring Risk Sentiment
+URL: https://www.barchart.com/story/news/36177460/s-p-futures-slip-on-souring-risk-sentiment
+Time Published: 2025-11-18T11:08:53Z
+Description: December S&P 500 E-Mini futures (ESZ25) are trending down -0.31% this morning as investors continue to unload risk assets while awaiting Nvidia’s earnings...
+--------------------------------------------------
+
 Title: AMD and Eviden to Power Europe’s New Exascale Supercomputer, the First Based in France
 URL: https://www.globenewswire.com/news-release/2025/11/18/3189806/0/en/AMD-and-Eviden-to-Power-Europe-s-New-Exascale-Supercomputer-the-First-Based-in-France.html
 Time Published: 2025-11-18T11:06:00Z
@@ -53,16 +65,4 @@ Title: Advanced Micro Devices (AMD) Gains Investor Momentum, Mizuho Raises PT to
 URL: https://finance.yahoo.com/news/advanced-micro-devices-amd-gains-094325087.html
 Time Published: 2025-11-15T09:43:25Z
 Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the 11 best AI infrastructure stocks to buy right now. Advanced Micro Devices, Inc. (NASDAQ:AMD)’s shares...
---------------------------------------------------
-
-Title: If You Wait for the Dip, Micron Technology Could Leave You Behind
-URL: https://www.marketbeat.com/originals/if-you-wait-for-the-dip-micron-technology-could-leave-you-behind/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-14T22:18:00Z
-Description: Micron Technology is in the early stages of a significant demand boom and DRAM supercycle driven by AI and a shortage of capable memory.
---------------------------------------------------
-
-Title: Stock Index Futures Plunge on Fed Rate-Cut Doubts and Valuation Concerns
-URL: https://www.barchart.com/story/news/36121360/stock-index-futures-slip-on-fed-rate-cut-doubts-and-valuation-concerns
-Time Published: 2025-11-14T11:18:49Z
-Description: December S&P 500 E-Mini futures (ESZ25) are down -0.97%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -1.29% this morning, pointing to further...
 --------------------------------------------------
