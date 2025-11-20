@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble as Wall Street awaits Nvidia earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-while-dow-holds-steady-as-wall-street-awaits-nvidia-earnings-233634171.html
+Time Published: 2025-11-18T23:36:34Z
+Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
+--------------------------------------------------
+
 Title: Stock market today: Nasdaq, S&P 500 rise, Dow slips as Wall Street awaits Nvidia earnings, bitcoin resumes sell-off
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-dow-slips-as-wall-street-awaits-nvidia-earnings-bitcoin-resumes-sell-off-233634143.html
 Time Published: 2025-11-18T23:36:34Z
@@ -12,10 +18,16 @@ Time Published: 2025-11-18T23:36:34Z
 Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq wobble as Wall Street awaits Nvidia earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-while-dow-holds-steady-as-wall-street-awaits-nvidia-earnings-233634171.html
-Time Published: 2025-11-18T23:36:34Z
-Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
+Title: AI Spending Is ‘NOT’ Slowing Down, According to Wedbush. That Makes Nvidia Stock a Buy Before November 19.
+URL: https://www.barchart.com/story/news/36191839/ai-spending-is-not-slowing-down-according-to-wedbush-that-makes-nvidia-stock-a-buy-before-november-19
+Time Published: 2025-11-18T20:07:43Z
+Description: Tech stocks are facing pressure in the market as talk of an AI bubble worries investors while analysts claim a tech rally.
+--------------------------------------------------
+
+Title: Apple Is Apparently Getting Ready to Replace CEO Tim Cook. Is That Good News for AAPL Stock?
+URL: https://www.barchart.com/story/news/36191546/apple-is-apparently-getting-ready-to-replace-ceo-tim-cook-is-that-good-news-for-aapl-stock
+Time Published: 2025-11-18T19:51:04Z
+Description: Apple is apparently accelerating its plans to replace Cook amid concerns that the company is falling behind in AI.
 --------------------------------------------------
 
 Title: Top Stock Movers Now: Home Depot, Cloudflare, Nvidia, and More
