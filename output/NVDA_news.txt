@@ -1,5 +1,24 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia isn't the only stock to watch. Why experts say you should consider buying others just like it.
+URL: https://finance.yahoo.com/personal-finance/investing/article/nvidia-isnt-the-only-stock-to-watch-why-experts-say-you-should-consider-buying-others-just-like-it-173538962.html
+Time Published: 2025-11-19T17:35:38Z
+Description: Thinking of buying Nvidia? A recent survey shows more people are investing in the market and, in some cases, favoring individual stocks over ETFs. Is it...
+--------------------------------------------------
+
+Title: Before you buy Nvidia, here’s what one expert wants you to know
+URL: https://finance.yahoo.com/personal-finance/investing/article/before-you-buy-nvidia-heres-what-one-expert-wants-you-to-know-173538043.html
+Time Published: 2025-11-19T17:35:38Z
+Description: Thinking of buying Nvidia? A recent survey shows more people are investing in the market and, in some cases, favoring individual stocks over ETFs. Is it...
+--------------------------------------------------
+
+Title: DRAMA: STREET HOLDS BREATH FOR NVIDIA EARNINGS... DEVELOPING...
+URL: https://www.cnn.com/2025/11/19/markets/nvidia-us-stock-market
+Time Published: 2025-11-19T17:10:39Z
+Full Content:
+Markets Hot Stocks Fear & Greed Index Latest Market News Hot Stocks Growing concerns about an artificial intelligence bubble have, in large part, caused the stock market’s recent bout of volatility. So the AI industry will face an enormous test when Nvidia, the world’s most valuable company and backbone of the AI boom, reports earnings after the bell on Wednesday. The stock market rally — ﻿that had been going practically nonstop since April until this month’s blip — largely depends on Nvidia. The chipmaker, which is the gold standard for AI computing power, has propelled the market higher across the past three years. Investors are now eager to know whether demand for Nvidia’s chips — and its optimism about the future — are continuing to grow or if there are signs of AI fatigue. Earnings this month from tech company Palantir (PLTR), which uses AI for its government contracts, beat Wall Street’s estimates. However, concerns about the stock’s expensive valuation and nerves about a bubble gave investors pause — and fueled a sell-off in AI stocks over the past several weeks. Nvidia’s stock (NVDA) has fallen more than 8% this month, although it’s still up 37% this year. “The market for the first time is questioning whether the hype will turn into reality,” Bob Elliott, CIO at asset management firm Unlimited Funds, told CNN. Nvidia’s chips power part of practically every major AI venture, meaning investors will scrutinize its earnings as well as chief executive Jensen Huang’s remarks. “Nvidia takes on even greater weight than normal,” Elliott said. “If it doesn’t confirm high expectations built into the market, then watch out below.” Every investor should care about Nvidia’s earnings this afternoon: Nvidia accounts for roughly 8% of the S&P 500, which is weighted by market value. That means investors — and those with 401(k)s — are increasingly exposed to the company’s strong gains. Similarly, they are more exposed to a drop in Nvidia’s stock price. As of Tuesday, Nvidia shares’ gains have accounted for 18% of the S&P 500’s total return this year, according to Howard Silverblatt, senior index analyst at S&P Dow Jones Indices. Since Nvidia last reported earnings in August, concerns have been rising about circular financing, with tech companies entwined in a massive web of extraordinarily lucrative deals. Now nerves are fraying about whether the money being poured into the AI boom will be justified. On top of that, tech stocks have become relatively expensive. “Nvidia’s earnings on Wednesday are particularly important given the rising skepticism regarding the longevity of the AI cycle and current AI stock valuations,” James Demmert, CIO at Main Street Research, said in an email. “Anything less than a stellar report and outlook could make stock indexes vulnerable.” And it’s bigger than just Wall Street. There are concerns that the AI boom — which has helped boost US economic growth this year — is now masking signs of weakness in the economy. At its market value of $4.4 trillion, Nvidia is currently larger than every country’s economy except the United States, China and Germany. Nvidia’s fate is interlinked with other big tech companies that depend on its products. A sign of a slowdown in demand could signal that the other tech companies are less confident about the AI buildout. Some Wall Street analysts are optimistic that Nvidia will continue to deliver impressive earnings. AI chatbots like ChatGPT — and the data centers powering AI — depend on the company’s chips. It’s the foundation of the current AI wave. “That is why everyone listens to every word that Jensen Huang has to say, because it’s a good gauge of the health of the AI ecosystem,” said Angelo Zino, a tech analyst at CFRA Research. CNN’s Matt Egan contributed reporting. Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited. © 2025 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved. CNN Sans ™ & © 2016 Cable News Network.
+--------------------------------------------------
+
 Title: Jensen Huang is the talk of the town — Trump posts three quotes from the Nvidia CEO just before earnings
 URL: https://economictimes.indiatimes.com/news/international/us/jensen-huang-is-the-talk-of-the-town-trump-posts-three-quotes-from-the-nvidia-ceo-just-before-earnings/articleshow/125441736.cms
 Time Published: 2025-11-19T16:30:38Z
@@ -105,16 +124,16 @@ Full Content:
 November 18, 2025 19:00 ET | Source: Purpose Investments Inc. Purpose Investments Inc. TORONTO, Nov. 18, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of November 2025 for its open-end exchange-traded funds and closed-end funds (“the Funds”). The ex-distribution date for all Open-End Funds is November 26, 2025. The ex-distribution date for all closed-end funds is November 28, 2025. Estimated November 2025 Distributions for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund The November 2025 distribution rates for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund are estimated to be as follows: Purpose expects to issue a press release on or about November 25, 2025, which will provide the final distribution rate for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund. The ex-distribution date will be November 26, 2025. About Purpose Investments Inc. Purpose Investments is an asset management company with more than $27 billion in assets under management. Purpose Investments has an unrelenting focus on client-centric innovation and offers a range of managed and quantitative investment products. Purpose Investments is led by well-known entrepreneur Som Seif and is a division of Purpose Unlimited, an independent technology-driven financial services company. For further information, please contact:Keera HartKeera.Hart@kaiserpartners.com905-580-1257 Commissions, trailing commissions, management fees and expenses all may be associated with investment fund investments. Please read the prospectus and other disclosure documents before investing. Investment funds are not covered by the Canada Deposit Insurance Corporation or any other government deposit insurer. There can be no assurance that the full amount of your investment in a fund will be returned to you. If the securities are purchased or sold on a stock exchange, you may pay more or receive less than the current net asset value. Investment funds are not guaranteed, their values change frequently and past performance may not be repeated. TORONTO, Nov. 19, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) today announced, further to its news release of September 22, 2025, that it will be delaying the merger of Purpose... TORONTO, Nov. 18, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose Investments”) is proud to announce the addition of a new single-stock income-focused ETF to its Purpose Yield Shares...
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq futures edge up as Wall Street awaits Nvidia earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-edge-up-as-wall-street-awaits-nvidia-earnings-233634690.html
-Time Published: 2025-11-18T23:36:34Z
-Description: Stock futures traded mostly steady as traders prepared for Nvidia earnings, following several days of losses.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq wobble as Wall Street awaits Nvidia earnings
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-while-dow-holds-steady-as-wall-street-awaits-nvidia-earnings-233634171.html
 Time Published: 2025-11-18T23:36:34Z
 Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
+--------------------------------------------------
+
+Title: Stock market today: S&P 500, Nasdaq futures edge up as Wall Street awaits Nvidia earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-edge-up-as-wall-street-awaits-nvidia-earnings-233634690.html
+Time Published: 2025-11-18T23:36:34Z
+Description: Stock futures traded mostly steady as traders prepared for Nvidia earnings, following several days of losses.
 --------------------------------------------------
 
 Title: Stock market today: Nasdaq, S&P 500, Dow rise as Wall Street awaits Nvidia earnings
@@ -288,32 +307,14 @@ Time Published: 2025-11-18T14:55:46Z
 Description: Our top technical strategist explains the upside and downside targets that traders should be tracking ahead of the market-moving quarterly report from AI...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq pull back as AI worries sap markets ahead of Nvidia earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pull-back-as-ai-worries-sap-markets-ahead-of-nvidia-earnings-143845859.html
-Time Published: 2025-11-18T14:38:45Z
-Description: This year's AI-fueled stock rally faces two key tests this week.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq sink as worries on AI, US economy hit markets before Nvidia earnings
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-worries-on-ai-us-economy-hit-markets-before-nvidia-earnings-143845338.html
 Time Published: 2025-11-18T14:38:45Z
 Description: This year's AI-fueled stock rally faces two key tests this week.
 --------------------------------------------------
 
-Title: The $1 billion bet: how Nokia stake fits Nvidia's AI roadmap
-URL: https://www.thestreet.com/investing/the-1-billion-bet-how-nokia-stake-fits-nvidias-ai-roadmap
-Time Published: 2025-11-18T14:33:00Z
-Description: Nokia just completed a capital raise. Normally, capital raising is more of a routine exercise and not a reason for euphoria. However, in this case, there is ...
---------------------------------------------------
-
-Title: Market Minute 11-18-25- When Will the "Everything" Selloff End
-URL: https://finance.yahoo.com/news/market-minute-11-18-25-141500279.html
-Time Published: 2025-11-18T14:15:00Z
-Description: Markets continue to bleed in the early going, with stocks, cryptocurrencies, gold and silver all sliding further. Bonds are up a bit, while the dollar is...
---------------------------------------------------
-
-Title: NVIDIA (NVDA) Rallied Following the Blowout Results
-URL: https://finance.yahoo.com/news/nvidia-nvda-rallied-following-blowout-134148287.html
-Time Published: 2025-11-18T13:41:48Z
-Description: RiverPark Advisors, an investment advisory firm and sponsor of the RiverPark family of mutual funds, released its “RiverPark Large Growth Fund” Q3 2025...
+Title: Stock market today: Dow, S&P 500, Nasdaq pull back as AI worries sap markets ahead of Nvidia earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pull-back-as-ai-worries-sap-markets-ahead-of-nvidia-earnings-143845859.html
+Time Published: 2025-11-18T14:38:45Z
+Description: This year's AI-fueled stock rally faces two key tests this week.
 --------------------------------------------------
