@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: As Arm Bets on AI Infrastructure with Nvidia, Should You Buy, Sell, or Hold ARM Stock?
+URL: https://www.barchart.com/story/news/36213962/as-arm-bets-on-ai-infrastructure-with-nvidia-should-you-buy-sell-or-hold-arm-stock
+Time Published: 2025-11-19T19:33:13Z
+Description: Arm Holdings has extended its partnership with AI giant Nvidia.
+--------------------------------------------------
+
+Title: Gemini 3 Pushes Google Stock to New All-Time Highs. Is It Too Late to Buy GOOGL Here?
+URL: https://www.barchart.com/story/news/36212916/gemini-3-pushes-google-stock-to-new-all-time-highs-is-it-too-late-to-buy-googl-here
+Time Published: 2025-11-19T18:39:24Z
+Description: Google stock rallies to a new all-time high after the company’s launch of Gemini 3. Here’s why GOOGL shares are worth owning heading into 2026.
+--------------------------------------------------
+
 Title: Rothschild & Co Redburn Downgrades Microsoft Corporation (MSFT) to Hold, Lowers PT
 URL: https://finance.yahoo.com/news/rothschild-co-redburn-downgrades-microsoft-121109022.html
 Time Published: 2025-11-19T12:11:09Z
@@ -18,14 +30,14 @@ Time Published: 2025-11-18T23:36:34Z
 Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, S&P 500, Dow rise as Wall Street awaits Nvidia earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-rise-as-wall-street-awaits-nvidia-earnings-233634674.html
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble as Wall Street awaits Nvidia earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-while-dow-holds-steady-as-wall-street-awaits-nvidia-earnings-233634171.html
 Time Published: 2025-11-18T23:36:34Z
 Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq wobble as Wall Street awaits Nvidia earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-while-dow-holds-steady-as-wall-street-awaits-nvidia-earnings-233634171.html
+Title: Stock market today: Nasdaq, S&P 500, Dow rise as Wall Street awaits Nvidia earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-rise-as-wall-street-awaits-nvidia-earnings-233634674.html
 Time Published: 2025-11-18T23:36:34Z
 Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
 --------------------------------------------------
