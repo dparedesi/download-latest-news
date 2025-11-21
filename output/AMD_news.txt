@@ -1,5 +1,23 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Nvidia says there's 'no assurance' of final agreement with OpenAI despite $100 billion pact
+URL: https://www.cnbc.com/2025/11/19/nvidia-says-no-assurance-of-deal-with-openai-after-100-billion-pact.html
+Time Published: 2025-11-20T00:19:18Z
+Description: Two months after announcing its blockbuster $100 billion agreement with OpenAI, Nvidia said in its quarterly report that an official deal is not guaranteed.
+--------------------------------------------------
+
+Title: Stocks Supported by Strength in Megacap Tech and Chip Stocks
+URL: https://www.barchart.com/story/news/36210333/stock-supported-by-strength-in-megacap-tech-and-chip-stocks
+Time Published: 2025-11-19T16:16:36Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.38%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.22%, and the Nasdaq 100 Index ($IUXX ) ...
+--------------------------------------------------
+
+Title: T-bill and chill: Robinhood CIO on what to do after the selloff and the danger markets are ignoring
+URL: https://www.marketwatch.com/story/t-bill-and-chill-robinhood-cio-on-what-to-do-after-the-selloff-and-the-danger-markets-are-ignoring-7a5e1ade
+Time Published: 2025-11-19T14:32:00Z
+Description: The best move investors can make right now may be to just ‘sit tight,’ says Robinhood’s CIO Stephanie Guild.
+--------------------------------------------------
+
 Title: AMD, Cisco and HUMAIN to Form Joint Venture to Deliver World-Leading AI Infrastructure
 URL: https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2025/m11/amd-cisco-and-humain-to-form-joint-venture-to-deliver-world-leading-ai-infrastructure.html
 Time Published: 2025-11-19T13:00:00Z
@@ -72,10 +90,4 @@ Title: Evercore ISI Raises PT on Advanced Micro Devices (AMD) Stock
 URL: https://finance.yahoo.com/news/evercore-isi-raises-pt-advanced-044154852.html
 Time Published: 2025-11-16T04:41:54Z
 Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the Best Fundamentally Strong Stocks to Buy. On November 12, Evercore ISI analyst Mark Lipacis lifted the...
---------------------------------------------------
-
-Title: Advanced Micro Devices (AMD) Gains Investor Momentum, Mizuho Raises PT to $285
-URL: https://finance.yahoo.com/news/advanced-micro-devices-amd-gains-094325087.html
-Time Published: 2025-11-15T09:43:25Z
-Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the 11 best AI infrastructure stocks to buy right now. Advanced Micro Devices, Inc. (NASDAQ:AMD)’s shares...
 --------------------------------------------------
