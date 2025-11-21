@@ -1,15 +1,33 @@
 List of news related to Broadcom AVGO:
 
+Title: Get Ready for the Year-End Review – October Dividend Income Report
+URL: https://thedividendguyblog.com/get-ready-for-the-year-end-review-october-dividend-income-report/
+Time Published: 2025-11-20T10:30:01Z
+Description: In 2016, I made a life-changing decision: I took a sabbatical, put my family in a small RV, and we drove all the way to Costa Rica. Upon my return in 2017, I officially quit my job as a private banker at National Bank and started working full-time on my baby:…
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures pop after Nvidia's earnings beat with jobs report on deck
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-pop-after-nvidias-earnings-beat-with-jobs-report-on-deck-233508629.html
 Time Published: 2025-11-19T23:35:08Z
 Description: Stocks are eyeing a rebound from a four-day losing streak following Nvidia's earnings beat.
 --------------------------------------------------
 
+Title: Stocks Settle Higher Before Nvidia Earnings
+URL: https://www.barchart.com/story/news/36216128/stocks-settle-higher-before-nvidia-earnings
+Time Published: 2025-11-19T21:33:29Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up by +0.38%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.10%, and the Nasdaq 100...
+--------------------------------------------------
+
 Title: Earnings live: Nvidia Q3 results beat, CEO Jensen Huang says Blackwell chip demand is 'off the charts'
 URL: https://finance.yahoo.com/news/live/earnings-live-nvidia-q3-results-beat-ceo-jensen-huang-says-blackwell-chip-demand-is-off-the-charts-213245875.html
 Time Published: 2025-11-19T21:32:45Z
 Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as stocks pause sell-off streak before Nvidia earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-stocks-pause-sell-off-streak-before-nvidia-earnings-210332709.html
+Time Published: 2025-11-19T21:03:32Z
+Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
 --------------------------------------------------
 
 Title: Broadcom Stock Could Bounce Back Toward Records
