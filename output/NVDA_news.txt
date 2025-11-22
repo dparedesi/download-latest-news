@@ -1,5 +1,18 @@
 List of news related to NVIDIA NVDA:
 
+Title: Jim Cramer on NVIDIA: “It’s Indispensable If You Want to Keep Up With the New Industrial Revolution”
+URL: https://finance.yahoo.com/news/jim-cramer-nvidia-indispensable-want-100257846.html
+Time Published: 2025-11-21T10:02:57Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer put under the spotlight. Cramer noted that he has no clue about how the company will report....
+--------------------------------------------------
+
+Title: US stock futures jump as Wall Street snaps back from a steep Thursday drop — Dow, S&P and Nasdaq rally, here’s today’s top gainer to watch
+URL: https://economictimes.indiatimes.com/news/international/us/us-stock-futures-jump-as-wall-street-snaps-back-from-a-steep-thursday-drop-dow-sp-and-nasdaq-rally-heres-todays-top-gainer-to-watch/articleshow/125482472.cms
+Time Published: 2025-11-21T09:39:26Z
+Full Content:
+U.S. stock futures rose early Friday, offering relief after Thursday’s steep tech-led selloff. Dow futures gained 0.43%, S&P 500 futures rose 0.31%, and Nasdaq 100 futures added 0.17%. The rebound followed Nvidia’s strong Q3 FY26 results, which briefly lifted markets before weak unemployment data dragged major indices down, with the Nasdaq falling 2.15%, the S&P 500 sliding 1.56%, and the Dow dropping 0.84%. Treasury yields hovered near 4.084%. WTI crude dipped to $58.09 and gold eased to $4,040. Gap surged 5.6% pre-market, emerging as today’s top gainer. Listen to this article in summarized format Unlock AI Briefing and Premium Content (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Punjab Police gun down ISI-linked suspects in Ludhiana encounter How fake job promises on Telegram led to a deadly human trafficking racket Rave party whispers: Orry’s name surfaces in ₹252 crore drug scandal Piyush Goyal hails ‘win‑win, fair, equitable FTA’ as India, Israel set negotiations Google is building tools to detect AI‑generated content? Watch: PM Modi stops mid-speech for schoolgirls’ heartfelt message Indian Navy's ₹1,500 cr tech upgrade to counter China-Pak moves Trump Jr toured the Taj Mahal during his India trip MEA briefs on PM Modi's visit to South Africa ‘Vote Chor Gaddi Chhor returns in Jaipur’: Congress against SIR Punjab Police gun down ISI-linked suspects in Ludhiana encounter How fake job promises on Telegram led to a deadly human trafficking racket Rave party whispers: Orry’s name surfaces in ₹252 crore drug scandal Piyush Goyal hails ‘win‑win, fair, equitable FTA’ as India, Israel set negotiations Google is building tools to detect AI‑generated content? Watch: PM Modi stops mid-speech for schoolgirls’ heartfelt message Indian Navy's ₹1,500 cr tech upgrade to counter China-Pak moves Trump Jr toured the Taj Mahal during his India trip MEA briefs on PM Modi's visit to South Africa ‘Vote Chor Gaddi Chhor returns in Jaipur’: Congress against SIR Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Commodities Top Slideshow Private Companies Top Prime Articles Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
 Title: Nvidia’s AI-driven earnings surge sparks market rally, easing bubble fears
 URL: https://www.naturalnews.com/2025-11-21-nvidia-ai-earnings-market-rally-bubble-fears.html
 Time Published: 2025-11-21T06:00:00Z
@@ -21,6 +34,12 @@ Description: Morgan Stanley expects the bull run on the S&P 500 Index is only ge
 The post Why Morgan Stanley's S&P 500 target forecasts a 19% gain for this top ASX ETF appeared first on The Motley Fool Australia.
 --------------------------------------------------
 
+Title: These two corners of the stock market haven’t fallen this far together since 1990 — a cautious sign for the economy
+URL: https://www.marketwatch.com/story/these-two-corners-of-the-stock-market-havent-fallen-this-far-together-since-1990-a-cautious-sign-for-the-economy-0a0c00da
+Time Published: 2025-11-21T00:12:00Z
+Description: The consumer discretionary and consumer staples sectors now rank among the S 500’s bottom performers for 2025 — a sign that Wall Street sees cracks in the...
+--------------------------------------------------
+
 Title: Why are WiseTech Global shares tumbling 4% today?
 URL: https://www.fool.com.au/2025/11/21/why-are-wisetech-global-shares-tumbling-4-today/
 Time Published: 2025-11-20T23:20:24Z
@@ -40,14 +59,14 @@ Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow, Nasdaq, S&P whipsaw higher as Fed rate-cut bets jump; bitcoin slides
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-whipsaw-higher-as-fed-rate-cut-bets-jump-bitcoin-slides-231846311.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846112.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate-cut bets jump; bitcoin sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846112.html
+Title: Stock market today: Dow, Nasdaq, S&P whipsaw higher as Fed rate-cut bets jump; bitcoin slides
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-whipsaw-higher-as-fed-rate-cut-bets-jump-bitcoin-slides-231846311.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
@@ -71,17 +90,17 @@ Description: The S 500 needs to stay above 6,500 — or all bets are off.
 --------------------------------------------------
 
 Title: NVIDIA Announces Upcoming Event for Financial Community
+URL: https://www.globenewswire.com/news-release/2025/11/20/3192445/0/en/NVIDIA-Announces-Upcoming-Event-for-Financial-Community.html
+Time Published: 2025-11-20T22:00:00Z
+Full Content:
+November 20, 2025 17:00 ET | Source: NVIDIA NVIDIA SANTA CLARA, Calif., Nov. 20, 2025 (GLOBE NEWSWIRE) -- NVIDIA will present at the following event for the financial community: UBS Global Technology and AI ConferenceTuesday, Dec. 2, 6:35 a.m. Pacific time Interested parties can listen to the live audio webcast of NVIDIA financial presentations at investor.nvidia.com. Webcast replays are available for 90 days afterward. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing. © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Record revenue of $57.0 billion, up 22% from Q2 and up 62% from a year agoRecord Data Center revenue of $51.2 billion, up 25% from Q2 and up 66% from a year ago SANTA CLARA, Calif., Nov. 19, 2025 ... News Summary: Two new RIKEN supercomputers for scientific AI and quantum computing, powered by NVIDIA GB200 systems, will position Japan as a driving force behind AI for science, next-generation...
+--------------------------------------------------
+
+Title: NVIDIA Announces Upcoming Event for Financial Community
 URL: https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6914936
 Time Published: 2025-11-20T22:00:00Z
 Full Content:
 SANTA CLARA, Calif., Nov. 20, 2025 (GLOBE NEWSWIRE) -- NVIDIA will present at the following event for the financial community: UBS Global Technology and AI ConferenceTuesday, Dec. 2, 6:35 a.m. Pacific time Interested parties can listen to the live audio webcast of NVIDIA financial presentations at investor.nvidia.com. Webcast replays are available for 90 days afterward. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing. © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries.
---------------------------------------------------
-
-Title: NVIDIA Announces Upcoming Event for Financial Community
-URL: https://www.globenewswire.com/news-release/2025/11/20/3192445/0/en/NVIDIA-Announces-Upcoming-Event-for-Financial-Community.html
-Time Published: 2025-11-20T22:00:00Z
-Full Content:
-November 20, 2025 17:00 ET | Source: NVIDIA NVIDIA SANTA CLARA, Calif., Nov. 20, 2025 (GLOBE NEWSWIRE) -- NVIDIA will present at the following event for the financial community: UBS Global Technology and AI ConferenceTuesday, Dec. 2, 6:35 a.m. Pacific time Interested parties can listen to the live audio webcast of NVIDIA financial presentations at investor.nvidia.com. Webcast replays are available for 90 days afterward. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing. © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Record revenue of $57.0 billion, up 22% from Q2 and up 62% from a year agoRecord Data Center revenue of $51.2 billion, up 25% from Q2 and up 66% from a year ago SANTA CLARA, Calif., Nov. 19, 2025 ... News Summary: NVIDIA NVQLink to be broadly adopted by more than a dozen supercomputing centers across the globe, joining U.S. labs and quantum builders to advance quantum computing.NVQLink connects...
 --------------------------------------------------
 
 Title: Why were stocks down today? What to know as Dow gives up 700-point gain
@@ -198,7 +217,7 @@ Title: Bitcoin's Nvidia-Led Gains Prove Short-Lived, With Price Slumping Back to
 URL: https://www.coindesk.com/markets/2025/11/20/bitcoin-s-nvidia-led-gains-prove-short-lived-with-price-slumping-back-to-usd88k
 Time Published: 2025-11-20T16:52:17Z
 Full Content:
-Continuing with recent patterns, even the most modest of crypto gains were met with waves of selling on Thursday, sending bitcoin BTC$84,620.42 back to $88,000 after a rally above $93,000 just hours earlier. The move higher had begun on Wednesday evening in the U.S. after Nvidia (NVDA) calmed jittery markets with an earnings beat and rosy outlook. In addition to boosting battered crypto, the NVDA results sent the Nasdaq higher by more than 2%. Stocks are also rapidly reversing their gains, with the Nasdaq now higher by just 0.3%. Even mighty Nvidia is trading flat after being up more than 5%. Hurting sentiment at the macro level are continued ideas that the Fed, for now, appears set not to trim interest rates at its December meeting. The September employment report (released today instead of weeks ago due to the government shutdown) showed a far stronger than expected 119,000 jobs added that month. Also leading hawk, Cleveland Fed President Beth Hammack, was on the wires suggesting that not only was perky inflation not a reason to cut rates, but high stock prices were also a concern. Market veterans will hear echoes of Alan Greenspan's "irrational exuberance" speech of 1996. Stocks went on to strongly rally for four more years. Hit harder than bitcoin was Ethereum’s ether ETH$2,765.63, now off nearly 4% over the past hour, perhaps weighed down by digital asset treasury FG Nexus selling a chunk of its holdings to buy back some of its battered stock (down more than 95% from its summer high). A check of crypto-related stocks now finds large losses after opening gains. Michael Saylor's Strategy (MSTR) is down by another 4.7% and off 62% year-over-year to a new 52-week low of $178. Exchanges Coinbase (COIN) and Gemini (GEMI) are down 4% and 5%, respectively, and stabecoin issuer Circle (CRCL) is lower by 3.5%. More For You Protocol Research: GoPlus Security What to know: More For You Bitcoin Greed & Fear Index Shows Extreme Pessimism, Tactical Bottom May Be Near: Analyst Peak fear suggests a tactical low may be near. What to know: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
+Continuing with recent patterns, even the most modest of crypto gains were met with waves of selling on Thursday, sending bitcoin BTC$83.722,10 back to $88,000 after a rally above $93,000 just hours earlier. The move higher had begun on Wednesday evening in the U.S. after Nvidia (NVDA) calmed jittery markets with an earnings beat and rosy outlook. In addition to boosting battered crypto, the NVDA results sent the Nasdaq higher by more than 2%. Stocks are also rapidly reversing their gains, with the Nasdaq now higher by just 0.3%. Even mighty Nvidia is trading flat after being up more than 5%. Hurting sentiment at the macro level are continued ideas that the Fed, for now, appears set not to trim interest rates at its December meeting. The September employment report (released today instead of weeks ago due to the government shutdown) showed a far stronger than expected 119,000 jobs added that month. Also leading hawk, Cleveland Fed President Beth Hammack, was on the wires suggesting that not only was perky inflation not a reason to cut rates, but high stock prices were also a concern. Market veterans will hear echoes of Alan Greenspan's "irrational exuberance" speech of 1996. Stocks went on to strongly rally for four more years. Hit harder than bitcoin was Ethereum’s ether ETH$2.712,90, now off nearly 4% over the past hour, perhaps weighed down by digital asset treasury FG Nexus selling a chunk of its holdings to buy back some of its battered stock (down more than 95% from its summer high). A check of crypto-related stocks now finds large losses after opening gains. Michael Saylor's Strategy (MSTR) is down by another 4.7% and off 62% year-over-year to a new 52-week low of $178. Exchanges Coinbase (COIN) and Gemini (GEMI) are down 4% and 5%, respectively, and stabecoin issuer Circle (CRCL) is lower by 3.5%. Mais para você Protocol Research: GoPlus Security O que saber: Mais para você Bitcoin Greed & Fear Index Shows Extreme Pessimism, Tactical Bottom May Be Near: Analyst Peak fear suggests a tactical low may be near. O que saber: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
 --------------------------------------------------
 
 Title: As Nvidia Stock Soars Following Q3 Beat, Will Michael Burry Bite the Dust?
@@ -244,12 +263,6 @@ Time Published: 2025-11-20T14:56:37Z
 Description: Shares of the Google parent are up nearly 60% this year, making them by far the top performer among the Magnificent Seven technology giants.  The enthusiasm ...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq pop after Nvidia's earnings beat, jobs report blows past expectations
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pop-after-nvidias-earnings-beat-jobs-report-blows-past-expectations-143553475.html
-Time Published: 2025-11-20T14:35:53Z
-Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq rally fizzles after Nvidia earnings, jobs report
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-fizzles-after-nvidia-earnings-jobs-report-143553232.html
 Time Published: 2025-11-20T14:35:53Z
@@ -262,14 +275,20 @@ Time Published: 2025-11-20T14:35:53Z
 Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq soar after Nvidia's earnings beat, jobs report blows past expectations
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-after-nvidias-earnings-beat-jobs-report-blows-past-expectations-143553808.html
+Title: Stock market today: Dow, S&P 500, Nasdaq pop after Nvidia's earnings beat, jobs report blows past expectations
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pop-after-nvidias-earnings-beat-jobs-report-blows-past-expectations-143553475.html
 Time Published: 2025-11-20T14:35:53Z
 Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq rise after Nvidia earnings, jobs report beats
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-after-nvidia-earnings-jobs-report-beats-143553801.html
+Time Published: 2025-11-20T14:35:53Z
+Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq soar after Nvidia's earnings beat, jobs report blows past expectations
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-after-nvidias-earnings-beat-jobs-report-blows-past-expectations-143553808.html
 Time Published: 2025-11-20T14:35:53Z
 Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
 --------------------------------------------------
@@ -297,23 +316,4 @@ Title: Nvidia 'disappointed' as China business falls flat amid geopolitical turm
 URL: https://finance.yahoo.com/news/nvidia-disappointed-as-china-business-falls-flat-amid-geopolitical-turmoil-121808618.html
 Time Published: 2025-11-20T12:18:08Z
 Description: Nvidia saw just $50 million in sales of its H20 chips during the quarter.
---------------------------------------------------
-
-Title: AI and HPC Bitcoin Miners Surge Pre Market Following Stellar NVIDIA Earnings
-URL: https://www.coindesk.com/markets/2025/11/20/ai-and-hpc-bitcoin-miners-surge-pre-market-following-stellar-nvidia-earnings
-Time Published: 2025-11-20T12:13:30Z
-Full Content:
-After NVIDIA (NVDA) beat Q3 earnings and issued a strong Q4 outlook, artificial intelligence (AI) and high-performance computing (HPC) related stocks have surged in pre-market trading. The beat in expectations helped calm recent market jitters sparked by U.S. jobs data delays, fading rate cut expectations, and a 30% pullback in bitcoin from its record high. AI/HPC bitcoin miners have been the biggest beneficiaries of the stellar earnings beat. IREN (IREN) is up more than 8% at about $50, Cipher Mining (CIFR) is up 11% at over $16, and Hive Digital (HIVE) is up more than 6% at $3.28. Broader tech has also bounced, with Invesco QQQ up over 1.5% at $610 and NVIDIA (NVDA) up more than 5%. The strength in tech is supporting the DXY Index, which is back above 100 for the first time since Nov. 5. In addition, Kindly MD (NAKA) reported Q3 earnings after initially delaying results. The company posted $0.4 million in revenue for its medical business, down from $0.6 million in Q3 2024. NAKA recorded an $86 million net loss in Q3 2025, driven by non-cash charges from the Nakamoto merger and unrealized bitcoin losses. As of Sept. 30, NAKA reported $24 million in cash on hand and holds 5,765 BTC purchased at an average price of $118,204 each. The company has deployed 367 BTC for investments including in Metaplanet (3350), leaving 5,398 BTC in treasury as of Nov. 12; it also carries $203 million in convertible notes. NAKA is trading at 0.916 times mNAV, with shares at $0.54, little changed in pre-market. Di più per voi Protocol Research: GoPlus Security Cosa sapere: Di più per voi Bitcoin Greed & Fear Index Shows Extreme Pessimism, Tactical Bottom May Be Near: Analyst Peak fear suggests a tactical low may be near. Cosa sapere: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
---------------------------------------------------
-
-Title: Jensen Huang Says ‘Blackwell Sales Are Off the Charts, and Cloud GPUs Are Sold Out’ as Nvidia Crushes Q3 Earnings and Beats Analyst Expectations
-URL: https://www.barchart.com/story/news/36226367/jensen-huang-says-blackwell-sales-are-off-the-charts-and-cloud-gpus-are-sold-out-as-nvidia-crushes-q3-earnings-and-beats-analyst-expectations
-Time Published: 2025-11-20T12:00:02Z
-Description: Nvidia reported record data center revenue in its Q3.
---------------------------------------------------
-
-Title: Stocks Rally Before the Open on Upbeat Nvidia Earnings, U.S. Jobs Report in Focus
-URL: https://www.barchart.com/story/news/36225359/stocks-rally-before-the-open-on-upbeat-nvidia-earnings-u-s-jobs-report-in-focus
-Time Published: 2025-11-20T11:10:59Z
-Description: December S&P 500 E-Mini futures (ESZ25) are up +1.12%, and December Nasdaq 100 E-Mini futures (NQZ25) are up +1.55% this morning as strong quarterly results ...
 --------------------------------------------------
