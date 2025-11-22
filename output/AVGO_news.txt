@@ -1,13 +1,13 @@
 List of news related to Broadcom AVGO:
 
-Title: Stock market today: Dow rises, Nasdaq slides as Fed rate-cut bets jump; bitcoin sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-nasdaq-slides-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846350.html
+Title: Stock market today: Dow rises as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846058.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Fed rate-cut bets jump; bitcoin sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846277.html
+Title: Stock market today: Dow rises, Nasdaq slides as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-nasdaq-slides-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846350.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
@@ -18,8 +18,8 @@ Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow rises as Fed rate-cut bets jump; bitcoin sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846058.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846277.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
@@ -55,18 +55,6 @@ Time Published: 2025-11-20T15:06:55Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +1.74%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +1.40%, and the Nasdaq 100 Index ($IUXX...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq wipe out gains in sharp reversal lower as Nvidia slides
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wipe-out-gains-in-sharp-reversal-lower-as-nvidia-slides-143553691.html
-Time Published: 2025-11-20T14:35:53Z
-Description: The US stocks rally reversed as investors parsed a September jobs data surprise and stellar Nvidia earnings.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq soar after Nvidia's earnings beat, jobs report blows past expectations
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-after-nvidias-earnings-beat-jobs-report-blows-past-expectations-143553808.html
-Time Published: 2025-11-20T14:35:53Z
-Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq rally fizzles after Nvidia earnings, jobs report
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-fizzles-after-nvidia-earnings-jobs-report-143553232.html
 Time Published: 2025-11-20T14:35:53Z
@@ -79,16 +67,28 @@ Time Published: 2025-11-20T14:35:53Z
 Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq soar after Nvidia earnings beat, jobs report blows past expectations
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-after-nvidia-earnings-beat-jobs-report-blows-past-expectations-143553342.html
+Time Published: 2025-11-20T14:35:53Z
+Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq soar after Nvidia's earnings beat, jobs report blows past expectations
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-after-nvidias-earnings-beat-jobs-report-blows-past-expectations-143553808.html
+Time Published: 2025-11-20T14:35:53Z
+Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq rise after Nvidia earnings, jobs report beats
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-after-nvidia-earnings-jobs-report-beats-143553801.html
 Time Published: 2025-11-20T14:35:53Z
 Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq soar after Nvidia earnings beat, jobs report blows past expectations
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-after-nvidia-earnings-beat-jobs-report-blows-past-expectations-143553342.html
+Title: Stock market today: Dow, S&P 500, Nasdaq wipe out gains in sharp reversal lower as Nvidia slides
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wipe-out-gains-in-sharp-reversal-lower-as-nvidia-slides-143553691.html
 Time Published: 2025-11-20T14:35:53Z
-Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
+Description: The US stocks rally reversed as investors parsed a September jobs data surprise and stellar Nvidia earnings.
 --------------------------------------------------
 
 Title: Earnings live: Walmart raises outlook again, Nvidia stock jumps after blockbuster report
