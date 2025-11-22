@@ -1,5 +1,15 @@
 List of news related to NU bank stock price NU:
 
+Title: Show HN: Jeffrey Epstein's Inbox
+URL: https://epsteininbox.com/
+Time Published: 2025-11-21T13:58:01Z
+Description: I built an Email client style viewer for Epstein emails disclosed by the US house of congress
+
+Comments URL: https://news.ycombinator.com/item?id=46004664
+Points: 3
+# Comments: 2
+--------------------------------------------------
+
 Title: Nu Holdings Stock Presses Higher—Breakout on Deck?
 URL: https://www.marketbeat.com/originals/nu-holdings-stock-presses-higherbreakout-on-deck/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2025-11-17T13:27:00Z

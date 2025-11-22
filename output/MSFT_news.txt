@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: This 1 Company Is the Nvidia of Quantum Computing. Should You Buy Its Stock Now?
+URL: https://www.barchart.com/story/news/36255837/this-1-company-is-the-nvidia-of-quantum-computing-should-you-buy-its-stock-now
+Time Published: 2025-11-21T16:23:57Z
+Description: IONQ stock is up 20% in the past 52 weeks and remains a top investment as it expands its quantum computing moat, according to investment bank J.P. Morgan.
+--------------------------------------------------
+
+Title: Guggenheim Stays Bullish on Microsoft (MSFT) as Ignite Showcases AI Momentum
+URL: https://finance.yahoo.com/news/guggenheim-stays-bullish-microsoft-msft-153714846.html
+Time Published: 2025-11-21T15:36:40Z
+Description: Microsoft Corporation (NASDAQ:MSFT) is one of the AI Stocks Making Moves on Wall Street. On November 19, Guggenheim reiterated its Buy rating on the stock...
+--------------------------------------------------
+
 Title: synthetic-data-crafter added to PyPI
 URL: https://pypi.org/project/synthetic-data-crafter/
 Time Published: 2025-11-21T06:50:51Z
