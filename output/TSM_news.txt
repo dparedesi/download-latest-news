@@ -6,8 +6,8 @@ Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Fed rate-cut bets jump; bitcoin sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846277.html
+Title: Stock market today: Dow rises as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846058.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
@@ -18,14 +18,14 @@ Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow rises as Fed rate-cut bets jump; bitcoin sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846058.html
+Title: Stock market today: Dow, Nasdaq, S&P whipsaw higher as Fed rate-cut bets jump; bitcoin slides
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-whipsaw-higher-as-fed-rate-cut-bets-jump-bitcoin-slides-231846311.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow, Nasdaq, S&P whipsaw higher as Fed rate-cut bets jump; bitcoin slides
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-whipsaw-higher-as-fed-rate-cut-bets-jump-bitcoin-slides-231846311.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846277.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
