@@ -1,5 +1,29 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stocks Reverse Sharply Lower as Tech Stocks Get Crushed
+URL: https://www.barchart.com/story/news/36240011/stocks-reverse-sharply-lower-as-tech-stocks-get-crushed
+Time Published: 2025-11-20T21:38:47Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down by -1.56%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down by -0.84%, and the Nasdaq 100...
+--------------------------------------------------
+
+Title: Can Nvidia Stock Test Wall Street’s Price Target of $350?
+URL: https://www.barchart.com/story/news/36238344/can-nvidia-stock-test-wall-streets-price-target-of-350
+Time Published: 2025-11-20T20:16:36Z
+Description: Wall Street is not buying into the bubble talk. Neither should you.
+--------------------------------------------------
+
+Title: Stocks Reverse Course as Nvidia Earnings Rally Fades, VIX Spikes
+URL: https://www.barchart.com/story/news/36234328/stocks-rally-as-nvidia-earnings-boost-optimism-in-tech
+Time Published: 2025-11-20T16:12:54Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is off by -0.19%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.21%, and the Nasdaq 100 Index ($IUXX )...
+--------------------------------------------------
+
+Title: Stocks Soar on Robust Nvidia Earnings
+URL: https://www.barchart.com/story/news/36232835/stocks-soar-on-robust-nvidia-earnings
+Time Published: 2025-11-20T15:06:55Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +1.74%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +1.40%, and the Nasdaq 100 Index ($IUXX...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as stocks pause sell-off streak before Nvidia earnings
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-stocks-pause-sell-off-streak-before-nvidia-earnings-210332709.html
 Time Published: 2025-11-19T21:03:32Z
@@ -37,12 +61,6 @@ Time Published: 2025-11-19T01:14:30Z
 Description: Nvidia’s stock is under immense pressure as investors nervously await its earnings, set to be released on November 19. The stock is slightly down at the time...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq wobble as Wall Street awaits Nvidia earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-while-dow-holds-steady-as-wall-street-awaits-nvidia-earnings-233634171.html
-Time Published: 2025-11-18T23:36:34Z
-Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
---------------------------------------------------
-
 Title: Stock market today: Nasdaq, S&P 500, Dow rise as Wall Street awaits Nvidia earnings
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-rise-as-wall-street-awaits-nvidia-earnings-233634674.html
 Time Published: 2025-11-18T23:36:34Z
@@ -51,6 +69,12 @@ Description: Investors prepared for Nvidia earnings, following several days of l
 
 Title: Stock market today: Nasdaq, S&P 500 rise, Dow slips as Wall Street awaits Nvidia earnings, bitcoin resumes sell-off
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-dow-slips-as-wall-street-awaits-nvidia-earnings-bitcoin-resumes-sell-off-233634143.html
+Time Published: 2025-11-18T23:36:34Z
+Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble as Wall Street awaits Nvidia earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-while-dow-holds-steady-as-wall-street-awaits-nvidia-earnings-233634171.html
 Time Published: 2025-11-18T23:36:34Z
 Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
 --------------------------------------------------
@@ -152,10 +176,4 @@ Title: Bill Gates' Trust Offloads 17M Microsoft Shares and Over 2.3M Berkshire H
 URL: https://www.ibtimes.com/bill-gates-trust-offloads-17m-microsoft-shares-over-23m-berkshire-hathaway-class-b-shares-q3-3790494
 Time Published: 2025-11-17T12:43:11Z
 Description: Bill Gates sold significant holdings in Q3, including Microsoft and Berkshire Hathaway shares, amid concerns over AI bubble risks and Warren Buffett's impending retirement.
---------------------------------------------------
-
-Title: Peter Thiel dumps top AI stock, stirring bubble fears
-URL: https://www.thestreet.com/investing/peter-thiel-dumps-top-ai-stock-stirring-bubble-fears
-Time Published: 2025-11-16T14:33:00Z
-Description: Billionaire Peter Thiel’s latest 13F didn’t show off a mere trim, but a full-blown exit from AI bellwether Nvidia (NVDA). It comes at a surprising point when...
 --------------------------------------------------

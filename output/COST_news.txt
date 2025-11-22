@@ -36,9 +36,3 @@ URL: https://finance.yahoo.com/personal-finance/investing/article/gold-price-tod
 Time Published: 2025-11-17T12:50:31Z
 Description: Gold (GC=F) futures opened at $4,067.80 per ounce on Wednesday, flat with Tuesday’s close of $4,066.50. The price of gold rose above $4,100 in early trading.
 --------------------------------------------------
-
-Title: JPMorgan Lowers Costco (COST) Price Target to $1,025, Maintains Overweight Rating
-URL: https://finance.yahoo.com/news/jpmorgan-lowers-costco-cost-price-033030050.html
-Time Published: 2025-11-16T03:30:30Z
-Description: Costco Wholesale Corporation (NASDAQ:COST) is included among the 15 Best Passive Income Stocks to Buy Right Now. On November​ 6, JPMorgan analyst Christopher...
---------------------------------------------------

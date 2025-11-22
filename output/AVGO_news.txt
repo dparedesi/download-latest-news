@@ -1,15 +1,58 @@
 List of news related to Broadcom AVGO:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rally fizzles after Nvidia earnings, jobs report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-fizzles-after-nvidia-earnings-jobs-report-143553232.html
-Time Published: 2025-11-20T14:35:53Z
-Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
+Title: Stock market today: Dow rises, Nasdaq slides as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-nasdaq-slides-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846350.html
+Time Published: 2025-11-20T23:18:46Z
+Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq soar after Nvidia earnings beat, jobs report blows past expectations
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-after-nvidia-earnings-beat-jobs-report-blows-past-expectations-143553342.html
-Time Published: 2025-11-20T14:35:53Z
-Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846277.html
+Time Published: 2025-11-20T23:18:46Z
+Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846112.html
+Time Published: 2025-11-20T23:18:46Z
+Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
+--------------------------------------------------
+
+Title: Stock market today: Dow rises as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846058.html
+Time Published: 2025-11-20T23:18:46Z
+Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
+--------------------------------------------------
+
+Title: Stock market today: Dow, Nasdaq, S&P whipsaw higher as Fed rate-cut bets jump; bitcoin slides
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-whipsaw-higher-as-fed-rate-cut-bets-jump-bitcoin-slides-231846311.html
+Time Published: 2025-11-20T23:18:46Z
+Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
+--------------------------------------------------
+
+Title: S&P 500 Gains and Losses Today: Nvidia-Led Rally Reverses Course; Walmart Stock Soars
+URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-nvidia-led-rally-reverses-course-walmart-stock-soars-nvda-wmt-11853963
+Time Published: 2025-11-20T21:50:59Z
+Full Content:
+Shares of the world's most valuable company lost hold of their early gains after a blowout earnings report, while a big-box retailer soared after its latest quarterly results surpassed expectations. Major U.S. equities indexes finished Thursday's session in the red after overdue September jobs data sent mixed signals. The tech sector led the declines, as shares of Nvidia (NVDA) pulled back from their early advance in the wake of the AI chipmaker's better-than-expected quarterly results to close 3.2% lower. Nvidia was one of the day's worst-performing stocks in the Dow, which slid 0.8%. The S&P 500 fell 1.6%, and the tech-heavy Nasdaq dropped 2.2%. See here for more from Investopedia on Thursday's market action. Shares of other AI chipmakers lost ground along with Nvidia. Rival Advanced Micro Devices (AMD) slumped nearly 8% and Broadcom (AVGO) slipped 2%, with the PHLX Semiconductor Index registering a nearly 5% decline. Nvidia memory chip partner Micron Technology (MU) tumbled 10.9%. Jacobs Solutions (J) shares lost the most of any stock in the S&P 500, dropping close to 11% after the engineering and consulting company reported a year-over-year decline in quarterly profits. The company said the results reflected a change in value of its investment in Amentum (AMTM), which was spun off from the company last year and combined its former intelligence arm with its cyber and critical mission solutions business. The price of Bitcoin (BTCUSD) extended its downtrend to hover around $87,000. Shares of Robinhood Markets (HOOD), which offers crypto trading on its platform, dropped about 10%, while shares of crypto exchange operator Coinbase Global (COIN) fell 7.4%. Walmart (WMT) shares jumped nearly 7% to notch Thursday's top performance in the S&P 500, after the retail giant's earnings topped analysts' estimates. Year-over-year growth in e-commerce sales and advertising revenue helped drive the strong performance, in what could be a positive signal for U.S. consumer spending heading into the height of the holiday season. Regeneron Pharmaceuticals (REGN) received approval from the Food and Drug Administration for use of its Eylea HD eye treatment for patients with macular edema following retinal vein occlusion. Regulators also greenlighted a monthly dosing option for Eylea HD for patients a variety of eye conditions. Regeneron shares advanced 5%. Shares of Solventum (SOLV), the health care company that was spun off from 3M (MMM) last year, gained close to 3%. The push higher followed Solventum's announcement that it had agreed to acquire Acera Surgical, a bioscience firm focusing on regenerative wound care. Solventum is set to pay $725 million in cash for Acera, with up to $125 million in potential additional payments tied to reaching certain milestones.
+--------------------------------------------------
+
+Title: Stocks Reverse Course as Nvidia Earnings Rally Fades, VIX Spikes
+URL: https://www.barchart.com/story/news/36234328/stocks-rally-as-nvidia-earnings-boost-optimism-in-tech
+Time Published: 2025-11-20T16:12:54Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is off by -0.19%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.21%, and the Nasdaq 100 Index ($IUXX )...
+--------------------------------------------------
+
+Title: Broadcom Just Unveiled a New Key Product for AI Workflows. Does That Make AVGO Stock a Buy Today?
+URL: https://www.barchart.com/story/news/36234266/broadcom-just-unveiled-a-new-key-product-for-ai-workflows-does-that-make-avgo-stock-a-buy-today
+Time Published: 2025-11-20T16:07:46Z
+Description: Broadcom stock inches up following the launch of Brocade Gen 8 switches. Citi sees significant further upside in AVGO shares heading into 2026.
+--------------------------------------------------
+
+Title: Stocks Soar on Robust Nvidia Earnings
+URL: https://www.barchart.com/story/news/36232835/stocks-soar-on-robust-nvidia-earnings
+Time Published: 2025-11-20T15:06:55Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +1.74%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +1.40%, and the Nasdaq 100 Index ($IUXX...
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq wipe out gains in sharp reversal lower as Nvidia slides
@@ -20,6 +63,12 @@ Description: The US stocks rally reversed as investors parsed a September jobs d
 
 Title: Stock market today: Dow, S&P 500, Nasdaq soar after Nvidia's earnings beat, jobs report blows past expectations
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-after-nvidias-earnings-beat-jobs-report-blows-past-expectations-143553808.html
+Time Published: 2025-11-20T14:35:53Z
+Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq rally fizzles after Nvidia earnings, jobs report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-fizzles-after-nvidia-earnings-jobs-report-143553232.html
 Time Published: 2025-11-20T14:35:53Z
 Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
 --------------------------------------------------
@@ -36,10 +85,22 @@ Time Published: 2025-11-20T14:35:53Z
 Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq soar after Nvidia earnings beat, jobs report blows past expectations
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-after-nvidia-earnings-beat-jobs-report-blows-past-expectations-143553342.html
+Time Published: 2025-11-20T14:35:53Z
+Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
+--------------------------------------------------
+
 Title: Earnings live: Walmart raises outlook again, Nvidia stock jumps after blockbuster report
 URL: https://finance.yahoo.com/news/live/earnings-live-walmart-raises-outlook-again-nvidia-stock-jumps-after-blockbuster-report-130706461.html
 Time Published: 2025-11-20T13:07:06Z
 Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
+--------------------------------------------------
+
+Title: Stocks Rally Before the Open on Upbeat Nvidia Earnings, U.S. Jobs Report in Focus
+URL: https://www.barchart.com/story/news/36225359/stocks-rally-before-the-open-on-upbeat-nvidia-earnings-u-s-jobs-report-in-focus
+Time Published: 2025-11-20T11:10:59Z
+Description: December S&P 500 E-Mini futures (ESZ25) are up +1.12%, and December Nasdaq 100 E-Mini futures (NQZ25) are up +1.55% this morning as strong quarterly results ...
 --------------------------------------------------
 
 Title: Get Ready for the Year-End Review – October Dividend Income Report
@@ -143,10 +204,4 @@ Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as traders look to
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-traders-look-toward-nvidia-earnings-jobs-report-011944838.html
 Time Published: 2025-11-17T01:19:44Z
 Description: The major gauges rose after a rocky week, as major players in the AI space failed to impress Wall Street with their earnings reports.
---------------------------------------------------
-
-Title: Stanley Druckenmiller's latest buys suggest shifting tech trend
-URL: https://www.thestreet.com/investing/stanley-druckenmillers-latest-buys-suggest-shifting-tech-trend
-Time Published: 2025-11-16T20:17:16Z
-Description: In January, legendary billionaire hedge fund manager Stanley Druckenmiller struck an enthusiastic tone, suggesting that stock market returns would surge due ...
 --------------------------------------------------

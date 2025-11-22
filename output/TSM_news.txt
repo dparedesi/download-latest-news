@@ -1,5 +1,41 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846112.html
+Time Published: 2025-11-20T23:18:46Z
+Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
+--------------------------------------------------
+
+Title: Stock market today: Dow, Nasdaq, S&P whipsaw higher as Fed rate-cut bets jump; bitcoin slides
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-whipsaw-higher-as-fed-rate-cut-bets-jump-bitcoin-slides-231846311.html
+Time Published: 2025-11-20T23:18:46Z
+Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
+--------------------------------------------------
+
+Title: Stock market today: Dow rises, Nasdaq slides as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-nasdaq-slides-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846350.html
+Time Published: 2025-11-20T23:18:46Z
+Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
+--------------------------------------------------
+
+Title: Stock market today: Dow rises as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846058.html
+Time Published: 2025-11-20T23:18:46Z
+Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846277.html
+Time Published: 2025-11-20T23:18:46Z
+Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
+--------------------------------------------------
+
+Title: Intel Could Be the Biggest Winner of TSMC’s AI Bottleneck
+URL: https://www.marketbeat.com/originals/intel-could-be-the-biggest-winner-of-tsmcs-ai-bottleneck/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-11-20T18:38:00Z
+Description: The AI industry's demand for chips is creating a supply bottleneck, positioning Intel's growing foundry business for significant long-term growth.
+--------------------------------------------------
+
 Title: Taiwan Semiconductor, IBD Stock Of The Day, Gets Brief Lift From Key Customer Nvidia
 URL: https://www.investors.com/research/ibd-stock-of-the-day/tsm-stock-taiwan-semiconductor-tsmc-gets-nvidia-lift/
 Time Published: 2025-11-20T17:44:38Z
@@ -40,10 +76,4 @@ Title: Morgan Stanley hikes S&P 500 target for next year. Here are the plays to 
 URL: https://www.marketwatch.com/story/morgan-stanley-hikes-s-p-500-target-for-next-year-here-are-the-plays-to-make-388cad9a
 Time Published: 2025-11-17T14:38:00Z
 Description: Earnings growth and an accommodative Fed will support market multiples says Mike Wilson
---------------------------------------------------
-
-Title: Bank of America Securities Maintains Buy Rating on Taiwan Semiconductor Manufacturing (TSM) Stock
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aef840cb-4f87-46a8-b82b-0521df00054d
-Time Published: 2025-11-16T04:41:49Z
-Description: None
 --------------------------------------------------
