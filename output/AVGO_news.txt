@@ -1,5 +1,18 @@
 List of news related to Broadcom AVGO:
 
+Title: S&P 500 Gains and Losses Today: Ross Stores Climbs on Strong Earnings; Nvidia, Oracle, Broadcom Fall as AI Slump Persists
+URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-ross-stores-climbs-on-strong-earnings-oracle-nvidia-broadcom-fall-ai-bubble-11854937
+Time Published: 2025-11-21T21:35:32Z
+Full Content:
+Shares of an off-price apparel retailer climbed after the company touted its success in the back-to-school season and issued a rosy outlook for the critical holiday quarter. Meanwhile, a database software firm remained under pressure as questions linger about its valuation and capacity to meet lofty targets. Major U.S. equities indexes bounced back Friday, clawing back losses posted in the prior session. The S&P 500 ended the final trading session of the week 0.9% higher. The Dow added 1.1%, while the Nasdaq rose 0.8%. See here for Investopedia's full wrap-up of Friday's major market moves. Shares of Ross Stores (ROST) surged 8.4% after the off-price apparel, footwear, and accessories retailer surpassed third-quarter sales and profit estimates. The company is the latest discount retailer to demonstrate it's benefiting from consumers' bargain-seeking. Ross highlighted strength in the back-to-school shopping season and raised its outlook, pointing to optimism about the crucial holiday period. Comments from John Williams, president of the Federal Reserve Bank of New York, helped boost expectations that policymakers might cut interest rates in December. Rate-cut optimism boosted the stocks of companies exposed to the housing market, which stand to benefit from lower mortgage rates. Shares of residential construction materials supplier Builders FirstSource (BLDR) jumped 7.1%, while homebuilders D.R. Horton (DHI) and Lennar (LEN) also notched solid gains. Insulet (PODD) shares climbed 5.8% a day after the medical device maker held an investor day event. The manufacturer of continuous glucose monitoring devices provided a three-year sales and profit forecast that exceeded consensus expectations. Several research firms raised their price targets on Insulet stock following the event. Oracle (ORCL) shares tumbled 5.7%, extending their recent downtrend and suffering the heaviest decline of any S&P 500 stock Friday. The database software and cloud computing giant has been rattled recently by concerns about its elevated valuation and heavy borrowing tied to its data center investments. Following Friday's drop, the stock is down around 28% over the past month. Nvidia (NVDA) shares slid 1% as concerns about an AI bubble continued to weigh on high-flying tech stocks. Friday's decline extended the stock's 3% loss yesterday despite the AI chip giant blowing past estimates with its third-quarter earnings report. Nvidia's largest rivals, Broadcom (AVGO) and Advanced Micro Devices (AMD), shed 1.9% and 1.1%, respectively, on Friday. Nuclear power providers Vistra (VST) and Constellation Energy Corp. (CEG), whose stocks soared over the past year as they struck multi-billion dollar deals to power AI data centers, were also dogged by bubble fears. Their stocks fell a respective 3% and 2.2%.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq bounce but end turbulent week with sharp losses
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-bounce-but-end-turbulent-week-with-sharp-losses-210532877.html
+Time Published: 2025-11-21T21:05:32Z
+Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
+--------------------------------------------------
+
 Title: Want $4,000 per Year in Monthly Passive Income? Invest Just $2,500 in These Yield-Heavy Dividend Stocks
 URL: https://247wallst.com/investing/2025/11/21/want-4000-per-year-in-monthly-passive-income-invest-just-2500-in-these-yield-heavy-dividend-stocks/
 Time Published: 2025-11-21T16:50:03Z
@@ -7,8 +20,14 @@ Full Content:
 Investing Sending You to Google News in 3 © Panchenko Vladimir / Shutterstock.com It would be an impressive feat to generate $4,000 in yearly passive income with just $12,500 in your account. Yet, it’s actually possible if you invest $2,500 into five carefully chosen stocks or exchange traded funds (ETFs). Not only that, but you could get paid cash distributions every month and possibly even every week. The plan is to own high-yield stocks that represent profitable businesses which pay monthly dividends. Also, you can own some ETFs offering big yields and frequent cash payouts. Allocating $2,500 toward the five assets on today’s list means you’d be investing $12,500 in total. It’s possible to earn $4,000 per year in dividends/distributions is you achieve an average yield of at least $4,000 / $12,500 or 32%. Sure, that’s ambitious and these five stocks/ETFs carry some risk; for example, any of the annual yields might get cut. On the other hand, you could become a passive income overachiever simply by holding five assets, so let’s start off with two high-paying stock picks. We’ll begin with Oxford Square Capital Corp. (NASDAQ:OXSQ), a business development company mainly specializing in bank loans and collateralized loan obligations (CLOs). Since Oxford Square Capital Corp. sends out its cash dividends on a monthly basis, you can take advantage of frequent reinvestment and compounding opportunities. It’s smart to focus on income-positive businesses in order to mitigate your overall risk level. As it turns out, Oxford Square Capital Corp. is income-positive as it reported roughly $5.56 million of third-quarter 2025 net investment income. At the moment, Oxford Square Capital Corp. offers a 22.46% forward annual dividend yield. This doesn’t measure up to our objective of achieving an average yield of at least 32%. Nevertheless, buying $2,500 worth of OXSQ stock is a good start as we’ll raise the average yield later with some mega-yield ETFs. Another stock you could invest $2,500 into is Orchid Island Capital (NYSE:ORC). This company is a real estate investment trust (REIT) that concentrates on U.S.-based residential mortgage-backed securities. Like Oxford Square Capital Corp., Orchid Island Capital pays dividends every month. Furthermore, Orchid Island Capital is a profitable business enterprise, having recorded $72.08 million in Q3 2025 net income. Being income-positive implies, more or less, that these companies should be able to continue paying monthly cash dividends. Currently, Orchid Island Capital stock investors can expect a 20.14% forward annual dividend yield. We’re still below our 32% average yield target, but there’s no need to fret as I’ve got a three-pack of ETFs that could bring massive payouts. To raise the bar in terms of overall annual yield, you could invest $2,500 into three funds from Roundhill. These ETFs all pay distributions on a weekly basis, so you can continue to receive cash payments every month or even more often than that. To provide a simplified explanation, the following Roundhill ETFs trade shares of a well-known stock as well as a type of derivatives known as swaps. This typically raises the risk level but also enables substantial income-generation opportunities. First, we have the Roundhill AMZN WeeklyPay ETF (CBOE:AMZW), which trades shares and swaps to indirectly extract income from Amazon (NASDAQ:AMZN) stock. Unlike a direct investment in Amazon stock, you’ll receive weekly cash distributions if you hold AMZW shares. Clarifying the fund’s objective, Roundhill explains that the AMZW ETF targets “enhanced returns corresponding to 120% of” the weekly performance of AMZN stock. The expected annual distribution rate of the Roundhill AMZN WeeklyPay ETF is quite hefty at 37.57%. Next up is the Roundhill TSLA WeeklyPay ETF (CBOE:TSLW), which uses similar trading strategies to indirectly derive income from Tesla (NASDAQ:TSLA) stock. In particular, the TSLW ETF aims for “enhanced returns corresponding to 120% of” the weekly performance of TSLA stock. There’s risk involved as the share price of the Roundhill TSLA WeeklyPay ETF may be volatile. However, it’s hard to resist the fund’s massive 53.28% annual distribution rate, no doubt. Then there’s the Roundhill AVGO WeeklyPay ETF (CBOE:AVGW), which attempts to achieve similar results with Broadcom (NASDAQ:AVGO) stock. Again, the share-price volatility risk shouldn’t be overlooked, but the AVGW ETF’s gigantic 54.68% distribution rate makes it a worthwhile addition to this list. So, have we reached or objective of a 32% or higher average annual yield? To fond out, we just need to add up the expected yields of OXSQ, ORC, AMZW, TSLW, and AVGW and then divide the total by five. The result is a 37.63% average annual yield between these five stocks/ETFs. Thus, we’ve put together a plan to earn at least $4,000 per year in dividends/distributions (assuming there are no yield cuts) with monthly or even weekly cash payments to your account. Latest Podcast Episode Amazon Strikes Back, And A Surprise $10,000 Portfolio Buy 38 min See us invest in our favorite AI stock ideas for free Nov 9, 2025 Live Nov 4, 2025 Want more income with less effort and capital? You’ll need to choose your investments carefully, but it’s possible to achieve… Do you need to be a millionaire to earn $4,000 per year with stocks and exchange traded funds (ETFs)? Not… Investing just $2,500 in these nine ultra-high-yield stocks that pay investors monthly can yield $3,480 annually. Successful passive income investing doesn’t have to be overly expensive or labor-intensive. With just $2,500 invested in a handful of… Investing $10,000 in each of these nine companies will generate more than $1,000 per month in passive income. According to the US Inflation Aggregate Index, the US dollar has lost 25% of its buying power since 2020. Regardless… These four ultra-high-yield stocks and an exchange-traded fund offering huge monthly dividends and may interest investors trying to build strong… A monthly check from your stock portfolio makes sense for most people with bills and expenses due every 30 days.… One of the most unforeseen investment trends to emerge over the past few years is the level of strong interest…
 --------------------------------------------------
 
-Title: Stock market today: Dow, Nasdaq, S&P whipsaw higher as Fed rate-cut bets jump; bitcoin slides
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-whipsaw-higher-as-fed-rate-cut-bets-jump-bitcoin-slides-231846311.html
+Title: Stocks Extend Rebound Rally on Dovish Williams Remarks
+URL: https://www.barchart.com/story/news/36255897/stocks-turn-mixed-on-chip-stock-weakness
+Time Published: 2025-11-21T16:27:16Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +1.38%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +1.52%, and the Nasdaq 100 Index ($IUXX...
+--------------------------------------------------
+
+Title: Stock market today: Dow rises as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846058.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
@@ -19,14 +38,14 @@ Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate-cut bets jump; bitcoin sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846112.html
+Title: Stock market today: Dow, Nasdaq, S&P whipsaw higher as Fed rate-cut bets jump; bitcoin slides
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-whipsaw-higher-as-fed-rate-cut-bets-jump-bitcoin-slides-231846311.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow rises as Fed rate-cut bets jump; bitcoin sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846058.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846112.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
@@ -62,6 +81,12 @@ Time Published: 2025-11-20T15:06:55Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +1.74%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +1.40%, and the Nasdaq 100 Index ($IUXX...
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq soar after Nvidia earnings beat, jobs report blows past expectations
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-after-nvidia-earnings-beat-jobs-report-blows-past-expectations-143553342.html
+Time Published: 2025-11-20T14:35:53Z
+Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq rally fizzles after Nvidia earnings, jobs report
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-fizzles-after-nvidia-earnings-jobs-report-143553232.html
 Time Published: 2025-11-20T14:35:53Z
@@ -80,22 +105,16 @@ Time Published: 2025-11-20T14:35:53Z
 Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq wipe out gains in sharp reversal lower as Nvidia slides
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wipe-out-gains-in-sharp-reversal-lower-as-nvidia-slides-143553691.html
-Time Published: 2025-11-20T14:35:53Z
-Description: The US stocks rally reversed as investors parsed a September jobs data surprise and stellar Nvidia earnings.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq rise after Nvidia earnings, jobs report beats
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-after-nvidia-earnings-jobs-report-beats-143553801.html
 Time Published: 2025-11-20T14:35:53Z
 Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq soar after Nvidia earnings beat, jobs report blows past expectations
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-after-nvidia-earnings-beat-jobs-report-blows-past-expectations-143553342.html
+Title: Stock market today: Dow, S&P 500, Nasdaq wipe out gains in sharp reversal lower as Nvidia slides
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wipe-out-gains-in-sharp-reversal-lower-as-nvidia-slides-143553691.html
 Time Published: 2025-11-20T14:35:53Z
-Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
+Description: The US stocks rally reversed as investors parsed a September jobs data surprise and stellar Nvidia earnings.
 --------------------------------------------------
 
 Title: Earnings live: Walmart raises outlook again, Nvidia stock jumps after blockbuster report
@@ -165,14 +184,14 @@ Full Content:
 November 18, 2025 19:00 ET | Source: Purpose Investments Inc. Purpose Investments Inc. TORONTO, Nov. 18, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of November 2025 for its open-end exchange-traded funds and closed-end funds (“the Funds”). The ex-distribution date for all Open-End Funds is November 26, 2025. The ex-distribution date for all closed-end funds is November 28, 2025. Estimated November 2025 Distributions for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund The November 2025 distribution rates for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund are estimated to be as follows: Purpose expects to issue a press release on or about November 25, 2025, which will provide the final distribution rate for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund. The ex-distribution date will be November 26, 2025. About Purpose Investments Inc. Purpose Investments is an asset management company with more than $27 billion in assets under management. Purpose Investments has an unrelenting focus on client-centric innovation and offers a range of managed and quantitative investment products. Purpose Investments is led by well-known entrepreneur Som Seif and is a division of Purpose Unlimited, an independent technology-driven financial services company. For further information, please contact:Keera HartKeera.Hart@kaiserpartners.com905-580-1257 Commissions, trailing commissions, management fees and expenses all may be associated with investment fund investments. Please read the prospectus and other disclosure documents before investing. Investment funds are not covered by the Canada Deposit Insurance Corporation or any other government deposit insurer. There can be no assurance that the full amount of your investment in a fund will be returned to you. If the securities are purchased or sold on a stock exchange, you may pay more or receive less than the current net asset value. Investment funds are not guaranteed, their values change frequently and past performance may not be repeated. TORONTO, 20 nov. 2025 (GLOBE NEWSWIRE) -- Investissements Purpose Inc. (« Purpose ») annonce aujourd’hui une correction concernant le communiqué sur les distributions de novembre 2025 publié le 18... TORONTO, Nov. 19, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) today announced, further to its news release of September 22, 2025, that it will be delaying the merger of Purpose...
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, S&P 500 rise, Dow slips as Wall Street awaits Nvidia earnings, bitcoin resumes sell-off
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-dow-slips-as-wall-street-awaits-nvidia-earnings-bitcoin-resumes-sell-off-233634143.html
+Title: Stock market today: Nasdaq, S&P 500, Dow rise as Wall Street awaits Nvidia earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-rise-as-wall-street-awaits-nvidia-earnings-233634674.html
 Time Published: 2025-11-18T23:36:34Z
 Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, S&P 500, Dow rise as Wall Street awaits Nvidia earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-rise-as-wall-street-awaits-nvidia-earnings-233634674.html
+Title: Stock market today: Nasdaq, S&P 500 rise, Dow slips as Wall Street awaits Nvidia earnings, bitcoin resumes sell-off
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-dow-slips-as-wall-street-awaits-nvidia-earnings-bitcoin-resumes-sell-off-233634143.html
 Time Published: 2025-11-18T23:36:34Z
 Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
 --------------------------------------------------
@@ -181,34 +200,4 @@ Title: Stock Indexes Slump as the Slide in Tech Stocks Deepens
 URL: https://www.barchart.com/story/news/36187717/stock-indexes-slump-as-the-slide-in-tech-stocks-deepens
 Time Published: 2025-11-18T16:20:51Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -1.17%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -1.24%, and the Nasdaq 100 Index ($IUXX ...
---------------------------------------------------
-
-Title: Fidelity sues Broadcom over access to key software to avoid outages
-URL: https://finance.yahoo.com/news/fidelity-sues-broadcom-over-access-211716465.html
-Time Published: 2025-11-17T21:17:16Z
-Description: BOSTON (Reuters) -A subsidiary of Fidelity Investments has filed a lawsuit accusing technology company Broadcom of threatening to cut off its access to ​key ...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq slide as sell-off resumes ahead of Nvidia earnings, jobs data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-sell-off-resumes-ahead-of-nvidia-earnings-jobs-data-181130773.html
-Time Published: 2025-11-17T21:05:01Z
-Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
---------------------------------------------------
-
-Title: Stocks Supported by Strength in Chip Makers and AI Stocks
-URL: https://www.barchart.com/story/news/36162837/stocks-supported-by-strength-in-chip-makers-and-ai-stocks
-Time Published: 2025-11-17T15:11:10Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.11%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.06%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as investors count down to Nvidia earnings, jobs report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-investors-count-down-to-nvidia-earnings-jobs-report-011944273.html
-Time Published: 2025-11-17T01:19:44Z
-Description: Investors get their first official read on the labor market this week after a shutdown-induced blackout.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as traders look toward Nvidia earnings, jobs report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-traders-look-toward-nvidia-earnings-jobs-report-011944838.html
-Time Published: 2025-11-17T01:19:44Z
-Description: The major gauges rose after a rocky week, as major players in the AI space failed to impress Wall Street with their earnings reports.
 --------------------------------------------------
