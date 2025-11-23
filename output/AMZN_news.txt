@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: A Magnificent AI Bet? Stanley Druckenmiller’s Latest Tech Moves
+URL: https://www.marketbeat.com/stock-ideas/a-magnificent-ai-bet-stanley-druckenmillers-latest-tech-moves/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-11-21T22:32:00Z
+Description: Stanley Druckenmiller just made major buys in three Mag 7 stocs; see why the he's doubling down on AI hyperscalers and what it means for your portfolio
+--------------------------------------------------
+
 Title: What's Going on With Oracle? Its Stock Price Has Dropped More Than 40% in Two Months.
 URL: https://www.investopedia.com/what-is-going-on-with-oracle-its-stock-price-has-dropped-more-than-40-percent-in-two-months-11854719
 Time Published: 2025-11-21T21:20:13Z
@@ -105,14 +111,14 @@ Time Published: 2025-11-19T00:30:02Z
 Description: Analysts give AES a “Moderate Buy” rating with a target price of $15.68, suggesting about 12% upside from the current price, backed by a robust pipeline of...
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, S&P 500 rise, Dow slips as Wall Street awaits Nvidia earnings, bitcoin resumes sell-off
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-dow-slips-as-wall-street-awaits-nvidia-earnings-bitcoin-resumes-sell-off-233634143.html
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble as Wall Street awaits Nvidia earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-while-dow-holds-steady-as-wall-street-awaits-nvidia-earnings-233634171.html
 Time Published: 2025-11-18T23:36:34Z
 Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq wobble as Wall Street awaits Nvidia earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-while-dow-holds-steady-as-wall-street-awaits-nvidia-earnings-233634171.html
+Title: Stock market today: Nasdaq, S&P 500 rise, Dow slips as Wall Street awaits Nvidia earnings, bitcoin resumes sell-off
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-dow-slips-as-wall-street-awaits-nvidia-earnings-bitcoin-resumes-sell-off-233634143.html
 Time Published: 2025-11-18T23:36:34Z
 Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
 --------------------------------------------------
