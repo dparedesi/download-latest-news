@@ -1,5 +1,18 @@
 List of news related to NVIDIA NVDA:
 
+Title: The internet is loving 'Big Short' investor Michael Burry's crusade against Nvidia and the AI giants
+URL: https://www.businessinsider.com/michael-burry-big-short-meme-social-media-nvidia-palantir-ai-2025-11
+Time Published: 2025-11-22T10:52:01Z
+Full Content:
+Every time Theron publishes a story, you’ll get an alert straight to your inbox! Enter your email By clicking “Sign up”, you agree to receive emails from Business Insider. In addition, you accept Insider’s Terms of Service and Privacy Policy. Michael Burry is officially a meme. Michael Burry right now $NVDA $SPY $BTC pic.twitter.com/GWmgFMTTb6 The investor of "The Big Short" fame is lighting up social media after he bet against Nvidia and called out the chipmaker and other AI companies on X, which may have contributed to the stock market's slump on Thursday. Cassandra winsBrutal day... pic.twitter.com/DwGiTtbG59 Burry is best known for predicting and profiting from the collapse of the mid-2000s US housing bubble. His massive, contrarian wager was immortalized in the book "The Big Short" and a movie adaptation starring Christian Bale as Burry. Known for his dire warnings of crashes and recessions, Burry goes by "Cassandra" on X — a reference to the priestess from Greek mythology who was cursed to speak true prophecies but never to be believed. He burst back onto X in late October after more than two years of silence, and wasted no time firing off several warnings about a dangerous bubble in AI stocks. His hedge fund, Scion Asset Management, revealed days later that at the end of September it held bearish put options on Nvidia and Palantir with a combined notional value of $1.1 billion. Palantir CEO Alex Karp called the bets "batshit crazy" in a televised interview, spurring Burry to fire back that the AI company's boss couldn't "crack a simple 13F." In later posts, Burry said that he wasn't short and had exited the Palantir puts in October. He also terminated Scion's SEC registration, closing it to outside cash. Most recently, he took aim at Nvidia after its third-quarter earnings beat on Wednesday. He questioned the longevity of its chips, its "give-and-take deals" with other AI companies, and its stock dilution. Some market watchers rushed to ridicule his bearish stance on the AI boom after Nvidia shares popped more than 5% following its earnings beat. Live look at Michael Burry pic.twitter.com/nYJb5dHPSE Other commenters poked fun at Burry's defiance, and his willingness to go up against technology titans and the dominant market narrative. Michael Burry trying to keep the $NVDA short narrative alive after that earnings print pic.twitter.com/k1W9zfAW7o Still others have defended Burry, saying he's many things but foolish isn't one of them. 100% of people who think they’re smarter than Michael Burry are 100% not smarter than Michael Burry. pic.twitter.com/wxde2212P1 Shares of Nvidia opened higher on Thursday but swung to a 3% decline by the market's close, and fell another 1% on Friday. Nvidia is the world's most valuable public company with a market capitalization above $4 trillion, so its sudden downswing dragged the entire stock market lower on Thursday. The S&P 500 gave up a 1.9% gain to close 1.6% lower, while the Nasdaq Composite went from a 2.6% rise to a 2.2% fall, marking the indexes' largest intraday swing since April. Both closed less than 1% higher on Friday. The reversal led some market watchers to rally behind Burry, celebrating his surprise comeback and suggesting he may have been right to be skeptical. Michael Burry in the past 12 hours https://t.co/LfUscwdnrj pic.twitter.com/kN4FEtxVDu They also gave him kudos for cashing in on the chaos, even though Burry hasn't said whether he holds Nvidia puts or profited from Thursday's selloff. Michael Burry right now pic.twitter.com/87nXleZLX2 Burry also received praise for his Palantir bet, as the AI stock has tanked 25% since November 3, when it reported earnings and Burry disclosed his puts. Update: It's been 17 days since Michael Burry publicly went bearish on Palantir $PLTRIt's down -25% since pic.twitter.com/EtxvlYakpB By no means was Burry solely responsible for the market slump. Investors also soured on Nvidia after analysts flagged increases in inventories and deferred revenues, raising concerns the company's growth may have been frontloaded and could slow in future quarters. Moreover, delayed economic data showed US unemployment rose to an almost four-year high of 4.4% in September. Burry is yet to post about the online furor surrounding his crusade against the AI giants. But his followers may hear more from him very soon, as his X bio reads: "'Unchained' coming maybe sooner than Nov 25th." Jump to
+--------------------------------------------------
+
+Title: Jim Cramer Says “An All-Powerful Stock Like NVIDIA Has Started to Blind People All Over the Place”
+URL: https://finance.yahoo.com/news/jim-cramer-says-powerful-stock-072942439.html
+Time Published: 2025-11-22T07:29:42Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks on Jim Cramer’s radar recently. Cramer called it an “all-powerful stock,” as he commented: “Look, last ...
+--------------------------------------------------
+
 Title: Nvidia CEO says the company is in a no-win situation amid AI-bubble chatter, leaked meeting reveals - Fortune
 URL: https://slashdot.org/firehose.pl?op=view&amp;id=180174279
 Time Published: 2025-11-22T02:12:40Z
@@ -184,26 +197,26 @@ Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate-cut bets jump; bitcoin sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846112.html
-Time Published: 2025-11-20T23:18:46Z
-Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
---------------------------------------------------
-
 Title: Stock market today: Dow rises as Fed rate-cut bets jump; bitcoin sinks
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846058.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow, Nasdaq, S&P whipsaw higher as Fed rate-cut bets jump; bitcoin slides
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-whipsaw-higher-as-fed-rate-cut-bets-jump-bitcoin-slides-231846311.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846112.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Fed rate-cut bets jump; bitcoin sinks
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846277.html
+Time Published: 2025-11-20T23:18:46Z
+Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
+--------------------------------------------------
+
+Title: Stock market today: Dow, Nasdaq, S&P whipsaw higher as Fed rate-cut bets jump; bitcoin slides
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-whipsaw-higher-as-fed-rate-cut-bets-jump-bitcoin-slides-231846311.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
@@ -303,17 +316,4 @@ Title: AMD Stock Is the ‘King of the Hill’ Right Now. Should You Buy Shares 
 URL: https://www.barchart.com/story/news/36237912/amd-stock-is-the-king-of-the-hill-right-now-should-you-buy-shares-here
 Time Published: 2025-11-20T19:39:30Z
 Description: Wall Street eyes AMD as a new AI leader, yet rich multiples mean patience may be required.
---------------------------------------------------
-
-Title: Bitcoin, stocks crumble after Nvidia earnings and Fed uncertainty over next rate cut
-URL: https://cointelegraph.com/news/bitcoin-stocks-crumble-after-nvidia-earnings-and-fed-uncertainty-over-next-rate-cut
-Time Published: 2025-11-20T19:00:00Z
-Full Content:
-Bitcoin weakness persists as the BTC price drops to $86,000, alongside a US stock market sell-off and diminishing odds of a 50-basis-point Fed interest rate cut at the next FOMC. Key takeaways: A Q1 2025 fractal and oversold market conditions suggest BTC could consolidate before retesting the $98,000 to $100,000 zone. One analyst made a bold price prediction, suggesting that a rising wedge breakdown could open the door to a deeper correction, potentially reaching $30,000. Bitcoin (BTC) jumped after Nvidia Corp.’s stronger-than-expected revenue outlook helped calm fears of an overheating AI bubble, but the gains quickly reversed as the Dow gave up a 700-point rally to turn negative and US stocks sold off. WHY are markets crashing? Our logical explanation:There is quite literally only ONE headline that can even be partially blamed for such a sudden market crash.At 11:20 AM ET, the US Labor Department said the November and October employment "situation" will be released on… pic.twitter.com/zubNQstd5l Bitcoin fell to a new monthly low of $86,400, and data suggest more downside could be on the way. Bitcoin’s recent pullback is echoing the same bullish reversal structure that unfolded in Q1 2025, said analyst Cas Abbé. Back then, BTC lost momentum near its fresh all-time high, slipped below a key support level and decoupled from a rising stock market before bottoming out in a multi-week accumulation range. Abbé’s chart below shows the pattern resurfaced almost identically in recent months, with the analyst adding that BTC will likely enter “consolidation between $85,000 to $100,000 for 3 to 4 weeks.” More importantly, both corrections were driven by broader macro fears. In Q1 2025, the sell-off was sparked by the US tariff war. This time, the catalyst has been panic over a potential AI bubble, anxieties that weighed heavily on tech stocks and spilled into crypto before Nvidia’s upbeat revenue outlook helped calm markets. The fractal raised Bitcoin’s odds of retesting $100,000 as resistance by year’s end. Analyst BitBull supported the bullish reversal outlook, though his view leans more on the technical structure of Bitcoin’s descending channel and its deeply oversold conditions as of Thursday. BTC traded near the lower boundary of this multi-week downtrend, an area that has repeatedly acted as an accumulation zone during previous corrections. Additionally, Bitcoin’s weekly relative strength index (RSI) has dipped into oversold territory for the first time in months. Related: $90K Bitcoin price is a ‘close your eyes and bid’ opportunity: Analyst Together, BitBull argued, these signals mark potential local bottoms, adding that BTC “could rally toward $98,000 to 100,000” next. Analyst AlejandroBTC took a far more bearish stance, noting that Bitcoin has officially broken down from the large rising wedge pattern he has been warning about for months. In classical technical analysis, a rising wedge breakdown typically marks the end of a major trend, with the measured move indicating a significant decline. In this case, AlejandroBTC argues the structure projects a long-term target near the $30,000 region, a level that aligns with multiple historical support zones on the weekly chart. This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision. Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. To support the free use of our website and sustain our editorial operations, some of the links published on our site may be affiliate links. This means we may receive a commission if you click through and take action—such as signing up for a service or making a purchase. These commissions come at no additional cost to you. Our affiliate relationships help us maintain an open-access platform, but they do not influence our editorial decisions. All news, reviews, and analysis are produced with journalistic independence and integrity. Thank you for supporting responsible and accessible reporting.
---------------------------------------------------
-
-Title: Intel Could Be the Biggest Winner of TSMC’s AI Bottleneck
-URL: https://www.marketbeat.com/originals/intel-could-be-the-biggest-winner-of-tsmcs-ai-bottleneck/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-20T18:38:00Z
-Description: The AI industry's demand for chips is creating a supply bottleneck, positioning Intel's growing foundry business for significant long-term growth.
 --------------------------------------------------

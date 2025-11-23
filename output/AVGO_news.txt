@@ -26,14 +26,14 @@ Time Published: 2025-11-21T16:27:16Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +1.38%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +1.52%, and the Nasdaq 100 Index ($IUXX...
 --------------------------------------------------
 
-Title: Stock market today: Dow rises, Nasdaq slides as Fed rate-cut bets jump; bitcoin sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-nasdaq-slides-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846350.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846112.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate-cut bets jump; bitcoin sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846112.html
+Title: Stock market today: Dow rises, Nasdaq slides as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-nasdaq-slides-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846350.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
@@ -81,14 +81,14 @@ Time Published: 2025-11-20T15:06:55Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +1.74%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +1.40%, and the Nasdaq 100 Index ($IUXX...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq pop after Nvidia's earnings beat, jobs report blows past expectations
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pop-after-nvidias-earnings-beat-jobs-report-blows-past-expectations-143553475.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rally fizzles after Nvidia earnings, jobs report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-fizzles-after-nvidia-earnings-jobs-report-143553232.html
 Time Published: 2025-11-20T14:35:53Z
 Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rally fizzles after Nvidia earnings, jobs report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-fizzles-after-nvidia-earnings-jobs-report-143553232.html
+Title: Stock market today: Dow, S&P 500, Nasdaq pop after Nvidia's earnings beat, jobs report blows past expectations
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pop-after-nvidias-earnings-beat-jobs-report-blows-past-expectations-143553475.html
 Time Published: 2025-11-20T14:35:53Z
 Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
 --------------------------------------------------
@@ -184,14 +184,14 @@ Full Content:
 November 18, 2025 19:00 ET | Source: Purpose Investments Inc. Purpose Investments Inc. TORONTO, Nov. 18, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of November 2025 for its open-end exchange-traded funds and closed-end funds (“the Funds”). The ex-distribution date for all Open-End Funds is November 26, 2025. The ex-distribution date for all closed-end funds is November 28, 2025. Estimated November 2025 Distributions for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund The November 2025 distribution rates for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund are estimated to be as follows: Purpose expects to issue a press release on or about November 25, 2025, which will provide the final distribution rate for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund. The ex-distribution date will be November 26, 2025. About Purpose Investments Inc. Purpose Investments is an asset management company with more than $27 billion in assets under management. Purpose Investments has an unrelenting focus on client-centric innovation and offers a range of managed and quantitative investment products. Purpose Investments is led by well-known entrepreneur Som Seif and is a division of Purpose Unlimited, an independent technology-driven financial services company. For further information, please contact:Keera HartKeera.Hart@kaiserpartners.com905-580-1257 Commissions, trailing commissions, management fees and expenses all may be associated with investment fund investments. Please read the prospectus and other disclosure documents before investing. Investment funds are not covered by the Canada Deposit Insurance Corporation or any other government deposit insurer. There can be no assurance that the full amount of your investment in a fund will be returned to you. If the securities are purchased or sold on a stock exchange, you may pay more or receive less than the current net asset value. Investment funds are not guaranteed, their values change frequently and past performance may not be repeated. TORONTO, 20 nov. 2025 (GLOBE NEWSWIRE) -- Investissements Purpose Inc. (« Purpose ») annonce aujourd’hui une correction concernant le communiqué sur les distributions de novembre 2025 publié le 18... TORONTO, Nov. 19, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) today announced, further to its news release of September 22, 2025, that it will be delaying the merger of Purpose...
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, S&P 500 rise, Dow slips as Wall Street awaits Nvidia earnings, bitcoin resumes sell-off
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-dow-slips-as-wall-street-awaits-nvidia-earnings-bitcoin-resumes-sell-off-233634143.html
+Title: Stock market today: Nasdaq, S&P 500, Dow rise as Wall Street awaits Nvidia earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-rise-as-wall-street-awaits-nvidia-earnings-233634674.html
 Time Published: 2025-11-18T23:36:34Z
 Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, S&P 500, Dow rise as Wall Street awaits Nvidia earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-rise-as-wall-street-awaits-nvidia-earnings-233634674.html
+Title: Stock market today: Nasdaq, S&P 500 rise, Dow slips as Wall Street awaits Nvidia earnings, bitcoin resumes sell-off
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-dow-slips-as-wall-street-awaits-nvidia-earnings-bitcoin-resumes-sell-off-233634143.html
 Time Published: 2025-11-18T23:36:34Z
 Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
 --------------------------------------------------
