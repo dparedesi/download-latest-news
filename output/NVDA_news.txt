@@ -242,6 +242,12 @@ Description: This tech stock is ending the week in the red. Let's find out why.
 The post Why are WiseTech Global shares tumbling 4% today? appeared first on The Motley Fool Australia.
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846112.html
+Time Published: 2025-11-20T23:18:46Z
+Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
+--------------------------------------------------
+
 Title: Stock market today: Dow rises, Nasdaq slides as Fed rate-cut bets jump; bitcoin sinks
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-nasdaq-slides-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846350.html
 Time Published: 2025-11-20T23:18:46Z
@@ -254,20 +260,14 @@ Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate-cut bets jump; bitcoin sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846112.html
+Title: Stock market today: Dow, Nasdaq, S&P whipsaw higher as Fed rate-cut bets jump; bitcoin slides
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-whipsaw-higher-as-fed-rate-cut-bets-jump-bitcoin-slides-231846311.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Fed rate-cut bets jump; bitcoin sinks
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846277.html
-Time Published: 2025-11-20T23:18:46Z
-Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
---------------------------------------------------
-
-Title: Stock market today: Dow, Nasdaq, S&P whipsaw higher as Fed rate-cut bets jump; bitcoin slides
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-whipsaw-higher-as-fed-rate-cut-bets-jump-bitcoin-slides-231846311.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
@@ -288,7 +288,7 @@ Title: NVIDIA Announces Upcoming Event for Financial Community
 URL: https://www.globenewswire.com/news-release/2025/11/20/3192445/0/en/NVIDIA-Announces-Upcoming-Event-for-Financial-Community.html
 Time Published: 2025-11-20T22:00:00Z
 Full Content:
-November 20, 2025 17:00 ET | Source: NVIDIA NVIDIA SANTA CLARA, Calif., Nov. 20, 2025 (GLOBE NEWSWIRE) -- NVIDIA will present at the following event for the financial community: UBS Global Technology and AI ConferenceTuesday, Dec. 2, 6:35 a.m. Pacific time Interested parties can listen to the live audio webcast of NVIDIA financial presentations at investor.nvidia.com. Webcast replays are available for 90 days afterward. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing. © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Record revenue of $57.0 billion, up 22% from Q2 and up 62% from a year agoRecord Data Center revenue of $51.2 billion, up 25% from Q2 and up 66% from a year ago SANTA CLARA, Calif., Nov. 19, 2025 ... News Summary: Two new RIKEN supercomputers for scientific AI and quantum computing, powered by NVIDIA GB200 systems, will position Japan as a driving force behind AI for science, next-generation...
+November 20, 2025 17:00 ET | Source: NVIDIA NVIDIA SANTA CLARA, Calif., Nov. 20, 2025 (GLOBE NEWSWIRE) -- NVIDIA will present at the following event for the financial community: UBS Global Technology and AI ConferenceTuesday, Dec. 2, 6:35 a.m. Pacific time Interested parties can listen to the live audio webcast of NVIDIA financial presentations at investor.nvidia.com. Webcast replays are available for 90 days afterward. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing. © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Record revenue of $57.0 billion, up 22% from Q2 and up 62% from a year agoRecord Data Center revenue of $51.2 billion, up 25% from Q2 and up 66% from a year ago SANTA CLARA, Calif., Nov. 19, 2025 ... News Summary: NVIDIA NVQLink to be broadly adopted by more than a dozen supercomputing centers across the globe, joining U.S. labs and quantum builders to advance quantum computing.NVQLink connects...
 --------------------------------------------------
 
 Title: NVIDIA Announces Upcoming Event for Financial Community
