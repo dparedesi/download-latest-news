@@ -11,28 +11,3 @@ URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-ri
 Time Published: 2025-11-19T21:03:32Z
 Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
 --------------------------------------------------
-
-Title: Stock market today: Nasdaq, S&P 500 rise, Dow slips as Wall Street awaits Nvidia earnings, bitcoin resumes sell-off
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-rise-dow-slips-as-wall-street-awaits-nvidia-earnings-bitcoin-resumes-sell-off-233634143.html
-Time Published: 2025-11-18T23:36:34Z
-Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
---------------------------------------------------
-
-Title: Berkshire Hathaway's Latest Stock Moves Unveiled: What Investors Need To Know
-URL: https://www.investopedia.com/berkshire-hathaway-s-latest-stock-moves-11850694
-Time Published: 2025-11-18T16:42:11Z
-Full Content:
-As Buffett prepares to step back as CEO of Berkshire Hathaway, the company is making moves few would expect from the Oracle of Omaha. Buffett spent decades telling investors he doesn't understand technology stocks well enough to bet big on them. Yet Berkshire Hathaway's latest Securities and Exchange Commission filings show the company has made a new $4.9 billion wager on Alphabet Inc. (GOOGL), while offloading shares in long-held favorites like Apple Inc. (AAPL) and Bank of America (BAC). Are these signals that the company is shifting its investment philosophy? The surprise stake in Google’s parent company, worth about $4.9 billion, marks one of the conglomerate’s biggest moves in recent years—one that seems to challenge Buffett’s long-standing caution toward Silicon Valley. With Buffett planning to “go quiet—sort of,” as he put it last week, after his final months as CEO, the moves could mark a new era for one of the world’s most closely watched portfolios. The company’s new 17.8 million-share position in Alphabet signals a potential change in how Berkshire approaches technology stocks. The purchase stands out as Berkshire’s largest new investment of the quarter, after Buffett grew the company's massive cash pile to $382 billion while others poured their money into tech stocks this year. At the 2019 Berkshire annual meeting, Buffett and his late partner Charlie Munger said they had "screwed up" not buying Alphabet earlier, despite watching Google advertising spark massive sales across their own businesses. At the time, shares traded around $59, increasing nearly fivefold in price since. This isn't a typical Buffett buy. The Oracle of Omaha has consistently shied away from tech stocks he says he doesn't fully understand, making an exception only for Apple—which he famously reframed as a consumer products company instead. The timing could suggest Abel's growing influence as he prepares to officially take over as CEO in the New Year. Still, Berkshire's Alphabet shares are worth far less than its stakes in Coca-Cola (KO, 9.9%) and Chevron Corp. (CVX, 7.1%), continuing a portfolio historically dominated by consumer staples and energy. The cut in Apple shares is part of a longer story between the companies. Berkshire slashed its shares by almost 15% last quarter, which means it's sold about 74% of its stake in AAPL in the last two years alone. That seems to mark a systematic unwinding of what was once one of Buffett's highest-conviction bets. The steady sell-off of Bank of America stock suggests Buffett—or his team—sees limited upside in traditional banking at 2025 stock values, possibly concerned about economic headwinds or simply rebalancing away from financial services. Together, those moves continue a broader pattern of profit-taking on legendary legacy holdings. Even so, Apple remains Berkshire’s largest single investment—about 21% of its total portfolio. Meanwhile, Berkshire added $1.2 billion to its Chubb insurance stake, indicating that it remains interested in financial services when the stock price is right. Berkshire's portfolio reshuffling could offer three crucial lessons for everyday investors:
---------------------------------------------------
-
-Title: Are Wall Street Analysts Predicting Illinois Tool Works Stock Will Climb or Sink?
-URL: https://www.barchart.com/story/news/36185526/are-wall-street-analysts-predicting-illinois-tool-works-stock-will-climb-or-sink
-Time Published: 2025-11-18T14:55:04Z
-Description: As Illinois Tool Works has trailed behind the broader market over the past year, Wall Street analysts maintain a cautious outlook about the stock’s prospects...
---------------------------------------------------
-
-Title: Do Wall Street Analysts Like J. M. Smucker Stock?
-URL: https://www.barchart.com/story/news/36176898/do-wall-street-analysts-like-j-m-smucker-stock
-Time Published: 2025-11-18T10:34:06Z
-Description: J. M. Smucker has underperformed the broader market over the past year, but analysts are moderately optimistic about the stock’s prospects.
---------------------------------------------------

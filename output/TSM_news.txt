@@ -12,26 +12,26 @@ Time Published: 2025-11-21T21:05:32Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow rises as Fed rate-cut bets jump; bitcoin sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846058.html
-Time Published: 2025-11-20T23:18:46Z
-Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
---------------------------------------------------
-
 Title: Stock market today: Dow rises, Nasdaq slides as Fed rate-cut bets jump; bitcoin sinks
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-nasdaq-slides-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846350.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow, Nasdaq, S&P whipsaw higher as Fed rate-cut bets jump; bitcoin slides
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-whipsaw-higher-as-fed-rate-cut-bets-jump-bitcoin-slides-231846311.html
+Title: Stock market today: Dow rises as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846058.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate-cut bets jump; bitcoin sinks
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846112.html
+Time Published: 2025-11-20T23:18:46Z
+Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
+--------------------------------------------------
+
+Title: Stock market today: Dow, Nasdaq, S&P whipsaw higher as Fed rate-cut bets jump; bitcoin slides
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-whipsaw-higher-as-fed-rate-cut-bets-jump-bitcoin-slides-231846311.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
@@ -58,28 +58,4 @@ Title: Bank of America Securities Reiterates a Buy on Taiwan Semiconductor Manuf
 URL: https://finance.yahoo.com/news/bank-america-securities-reiterates-buy-121119080.html
 Time Published: 2025-11-19T12:11:19Z
 Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the Most Profitable Stocks to Buy Now. On November 17, Mike Yang from Bank of America...
---------------------------------------------------
-
-Title: This sector is heating up as investors get skittish on tech. Why it may be the dark horse for 2026.
-URL: https://www.marketwatch.com/story/this-sector-is-heating-up-as-investors-get-skittish-on-tech-why-it-may-be-the-dark-horse-for-2026-8ace2f65
-Time Published: 2025-11-18T15:35:00Z
-Description: With doubts building among some investors over the staying power of tech stocks, here’s one sector idea that is starting to come into its own.
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing Company Limited (TSM) Rose Following Strong Results and Positive Guidance
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f98449cc-0782-4157-97c3-44e27da08a18
-Time Published: 2025-11-18T13:34:56Z
-Description: None
---------------------------------------------------
-
-Title: Strong Demand for AI Chips Boosted Taiwan Semiconductor Manufacturing Company Limited (TSM) in Q3
-URL: https://finance.yahoo.com/news/strong-demand-ai-chips-boosted-131556880.html
-Time Published: 2025-11-18T13:15:56Z
-Description: Baron Funds released its “Baron Durable Advantage Fund” third-quarter 2025 investor letter. A copy of the letter can be downloaded here. The fund appreciated...
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing Company (TSM) Board Approves Major Investment
-URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-tsm-094545960.html
-Time Published: 2025-11-18T09:45:45Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the 15 Best Aggressive Growth Stocks to Buy Right Now. On November 11, Taiwan...
 --------------------------------------------------
