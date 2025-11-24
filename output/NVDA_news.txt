@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA’s (NVDA) “Doubters Really Have a Lot of Thinking to Do,” Says Jim Cramer
+URL: https://finance.yahoo.com/news/nvidia-nvda-doubters-really-lot-060608578.html
+Time Published: 2025-11-23T06:06:08Z
+Description: We recently published 10 Stocks Jim Cramer Talked About. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer discussed. This show was aired the ...
+--------------------------------------------------
+
 Title: Wall Street’s wild week shows just how fragile confidence in the stock market has become
 URL: https://www.marketwatch.com/story/wall-streets-wild-week-shows-just-how-fragile-confidence-in-the-stock-market-has-become-1b0353da
 Time Published: 2025-11-22T17:02:00Z
@@ -140,14 +146,14 @@ Time Published: 2025-11-21T16:23:57Z
 Description: IONQ stock is up 20% in the past 52 weeks and remains a top investment as it expands its quantum computing moat, according to investment bank J.P. Morgan.
 --------------------------------------------------
 
-Title: Are we in an AI bubble? How to protect your portfolio if your AI investments turn against you.
-URL: https://finance.yahoo.com/personal-finance/investing/article/are-we-in-an-ai-bubble-how-to-protect-your-portfolio-if-your-ai-investments-turn-against-you-152533660.html
+Title: How to protect your portfolio if you’re worried about an AI bubble
+URL: https://finance.yahoo.com/personal-finance/investing/article/how-to-protect-your-portfolio-if-youre-worried-about-an-ai-bubble-152533955.html
 Time Published: 2025-11-21T15:25:33Z
 Description: Some investors fear an AI bubble. These strategies can help safeguard your investments.
 --------------------------------------------------
 
-Title: How to protect your portfolio if you’re worried about an AI bubble
-URL: https://finance.yahoo.com/personal-finance/investing/article/how-to-protect-your-portfolio-if-youre-worried-about-an-ai-bubble-152533955.html
+Title: Are we in an AI bubble? How to protect your portfolio if your AI investments turn against you.
+URL: https://finance.yahoo.com/personal-finance/investing/article/are-we-in-an-ai-bubble-how-to-protect-your-portfolio-if-your-ai-investments-turn-against-you-152533660.html
 Time Published: 2025-11-21T15:25:33Z
 Description: Some investors fear an AI bubble. These strategies can help safeguard your investments.
 --------------------------------------------------
@@ -236,6 +242,12 @@ Description: This tech stock is ending the week in the red. Let's find out why.
 The post Why are WiseTech Global shares tumbling 4% today? appeared first on The Motley Fool Australia.
 --------------------------------------------------
 
+Title: Stock market today: Dow rises, Nasdaq slides as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-nasdaq-slides-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846350.html
+Time Published: 2025-11-20T23:18:46Z
+Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
+--------------------------------------------------
+
 Title: Stock market today: Dow rises as Fed rate-cut bets jump; bitcoin sinks
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846058.html
 Time Published: 2025-11-20T23:18:46Z
@@ -248,20 +260,14 @@ Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow rises, Nasdaq slides as Fed rate-cut bets jump; bitcoin sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-nasdaq-slides-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846350.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846277.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
 Title: Stock market today: Dow, Nasdaq, S&P whipsaw higher as Fed rate-cut bets jump; bitcoin slides
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-whipsaw-higher-as-fed-rate-cut-bets-jump-bitcoin-slides-231846311.html
-Time Published: 2025-11-20T23:18:46Z
-Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Fed rate-cut bets jump; bitcoin sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846277.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
@@ -279,17 +285,17 @@ Description: The S 500 needs to stay above 6,500 — or all bets are off.
 --------------------------------------------------
 
 Title: NVIDIA Announces Upcoming Event for Financial Community
-URL: https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6914936
-Time Published: 2025-11-20T22:00:00Z
-Full Content:
-SANTA CLARA, Calif., Nov. 20, 2025 (GLOBE NEWSWIRE) -- NVIDIA will present at the following event for the financial community: UBS Global Technology and AI ConferenceTuesday, Dec. 2, 6:35 a.m. Pacific time Interested parties can listen to the live audio webcast of NVIDIA financial presentations at investor.nvidia.com. Webcast replays are available for 90 days afterward. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing. © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries.
---------------------------------------------------
-
-Title: NVIDIA Announces Upcoming Event for Financial Community
 URL: https://www.globenewswire.com/news-release/2025/11/20/3192445/0/en/NVIDIA-Announces-Upcoming-Event-for-Financial-Community.html
 Time Published: 2025-11-20T22:00:00Z
 Full Content:
 November 20, 2025 17:00 ET | Source: NVIDIA NVIDIA SANTA CLARA, Calif., Nov. 20, 2025 (GLOBE NEWSWIRE) -- NVIDIA will present at the following event for the financial community: UBS Global Technology and AI ConferenceTuesday, Dec. 2, 6:35 a.m. Pacific time Interested parties can listen to the live audio webcast of NVIDIA financial presentations at investor.nvidia.com. Webcast replays are available for 90 days afterward. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing. © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Record revenue of $57.0 billion, up 22% from Q2 and up 62% from a year agoRecord Data Center revenue of $51.2 billion, up 25% from Q2 and up 66% from a year ago SANTA CLARA, Calif., Nov. 19, 2025 ... News Summary: Two new RIKEN supercomputers for scientific AI and quantum computing, powered by NVIDIA GB200 systems, will position Japan as a driving force behind AI for science, next-generation...
+--------------------------------------------------
+
+Title: NVIDIA Announces Upcoming Event for Financial Community
+URL: https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6914936
+Time Published: 2025-11-20T22:00:00Z
+Full Content:
+SANTA CLARA, Calif., Nov. 20, 2025 (GLOBE NEWSWIRE) -- NVIDIA will present at the following event for the financial community: UBS Global Technology and AI ConferenceTuesday, Dec. 2, 6:35 a.m. Pacific time Interested parties can listen to the live audio webcast of NVIDIA financial presentations at investor.nvidia.com. Webcast replays are available for 90 days afterward. About NVIDIANVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing. © 2025 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries.
 --------------------------------------------------
 
 Title: Why were stocks down today? What to know as Dow gives up 700-point gain
@@ -310,10 +316,4 @@ Title: Stocks Reverse Sharply Lower as Tech Stocks Get Crushed
 URL: https://www.barchart.com/story/news/36240011/stocks-reverse-sharply-lower-as-tech-stocks-get-crushed
 Time Published: 2025-11-20T21:38:47Z
 Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down by -1.56%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down by -0.84%, and the Nasdaq 100...
---------------------------------------------------
-
-Title: Stocks see biggest intraday selloff since April as Nvidia-inspired rebound falters. Here’s what investors need to know.
-URL: https://www.marketwatch.com/story/stocks-on-track-for-biggest-blown-gain-since-april-as-nvidia-inspired-rebound-falters-heres-what-investors-need-to-know-65890e35
-Time Published: 2025-11-20T21:34:00Z
-Description: An early stock-market rally gave way to broad-based selling on Thursday, as doubts about the artificial-intelligence trade re-emerged following the latest...
 --------------------------------------------------

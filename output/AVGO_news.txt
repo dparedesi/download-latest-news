@@ -93,14 +93,14 @@ Time Published: 2025-11-20T14:35:53Z
 Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq soar after Nvidia's earnings beat, jobs report blows past expectations
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-after-nvidias-earnings-beat-jobs-report-blows-past-expectations-143553808.html
+Title: Stock market today: Dow, S&P 500, Nasdaq wipe out gains in sharp reversal lower as Nvidia slides
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wipe-out-gains-in-sharp-reversal-lower-as-nvidia-slides-143553691.html
 Time Published: 2025-11-20T14:35:53Z
-Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
+Description: The US stocks rally reversed as investors parsed a September jobs data surprise and stellar Nvidia earnings.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq soar after Nvidia earnings beat, jobs report blows past expectations
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-after-nvidia-earnings-beat-jobs-report-blows-past-expectations-143553342.html
+Title: Stock market today: Dow, S&P 500, Nasdaq soar after Nvidia's earnings beat, jobs report blows past expectations
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-after-nvidias-earnings-beat-jobs-report-blows-past-expectations-143553808.html
 Time Published: 2025-11-20T14:35:53Z
 Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
 --------------------------------------------------
@@ -111,10 +111,10 @@ Time Published: 2025-11-20T14:35:53Z
 Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq wipe out gains in sharp reversal lower as Nvidia slides
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wipe-out-gains-in-sharp-reversal-lower-as-nvidia-slides-143553691.html
+Title: Stock market today: Dow, S&P 500, Nasdaq soar after Nvidia earnings beat, jobs report blows past expectations
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-after-nvidia-earnings-beat-jobs-report-blows-past-expectations-143553342.html
 Time Published: 2025-11-20T14:35:53Z
-Description: The US stocks rally reversed as investors parsed a September jobs data surprise and stellar Nvidia earnings.
+Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
 --------------------------------------------------
 
 Title: Earnings live: Walmart raises outlook again, Nvidia stock jumps after blockbuster report
