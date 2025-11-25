@@ -5,9 +5,3 @@ URL: https://finance.yahoo.com/news/buffett-alphabet-blessing-puts-valuation-100
 Time Published: 2025-11-20T14:56:37Z
 Description: Shares of the Google parent are up nearly 60% this year, making them by far the top performer among the Magnificent Seven technology giants.  The enthusiasm ...
 --------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as stocks pause sell-off streak before Nvidia earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-stocks-pause-sell-off-streak-before-nvidia-earnings-210332709.html
-Time Published: 2025-11-19T21:03:32Z
-Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
---------------------------------------------------

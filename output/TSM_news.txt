@@ -18,26 +18,26 @@ Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow rises as Fed rate-cut bets jump; bitcoin sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846058.html
-Time Published: 2025-11-20T23:18:46Z
-Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate-cut bets jump; bitcoin sinks
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846112.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Fed rate-cut bets jump; bitcoin sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846277.html
+Title: Stock market today: Dow rises as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846058.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
 
 Title: Stock market today: Dow, Nasdaq, S&P whipsaw higher as Fed rate-cut bets jump; bitcoin slides
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-whipsaw-higher-as-fed-rate-cut-bets-jump-bitcoin-slides-231846311.html
+Time Published: 2025-11-20T23:18:46Z
+Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as Fed rate-cut bets jump; bitcoin sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846277.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
@@ -52,10 +52,4 @@ Title: Taiwan Semiconductor, IBD Stock Of The Day, Gets Brief Lift From Key Cust
 URL: https://www.investors.com/research/ibd-stock-of-the-day/tsm-stock-taiwan-semiconductor-tsmc-gets-nvidia-lift/
 Time Published: 2025-11-20T17:44:38Z
 Description: Taiwan Semiconductor Manufacturing rallied briefly on a strong report from major customer Nvidia. TSM stock is the IBD Stock Of The Day.
---------------------------------------------------
-
-Title: Bank of America Securities Reiterates a Buy on Taiwan Semiconductor Manufacturing (TSM)
-URL: https://finance.yahoo.com/news/bank-america-securities-reiterates-buy-121119080.html
-Time Published: 2025-11-19T12:11:19Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the Most Profitable Stocks to Buy Now. On November 17, Mike Yang from Bank of America...
 --------------------------------------------------

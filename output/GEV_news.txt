@@ -11,9 +11,3 @@ URL: https://www.barchart.com/story/news/36225359/stocks-rally-before-the-open-o
 Time Published: 2025-11-20T11:10:59Z
 Description: December S&P 500 E-Mini futures (ESZ25) are up +1.12%, and December Nasdaq 100 E-Mini futures (NQZ25) are up +1.55% this morning as strong quarterly results ...
 --------------------------------------------------
-
-Title: Stocks Settle Higher Before Nvidia Earnings
-URL: https://www.barchart.com/story/news/36216128/stocks-settle-higher-before-nvidia-earnings
-Time Published: 2025-11-19T21:33:29Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up by +0.38%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.10%, and the Nasdaq 100...
---------------------------------------------------

@@ -81,14 +81,14 @@ Time Published: 2025-11-20T15:06:55Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +1.74%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +1.40%, and the Nasdaq 100 Index ($IUXX...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq pop after Nvidia's earnings beat, jobs report blows past expectations
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pop-after-nvidias-earnings-beat-jobs-report-blows-past-expectations-143553475.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rally fizzles after Nvidia earnings, jobs report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-fizzles-after-nvidia-earnings-jobs-report-143553232.html
 Time Published: 2025-11-20T14:35:53Z
 Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rally fizzles after Nvidia earnings, jobs report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-fizzles-after-nvidia-earnings-jobs-report-143553232.html
+Title: Stock market today: Dow, S&P 500, Nasdaq pop after Nvidia's earnings beat, jobs report blows past expectations
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pop-after-nvidias-earnings-beat-jobs-report-blows-past-expectations-143553475.html
 Time Published: 2025-11-20T14:35:53Z
 Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
 --------------------------------------------------
@@ -97,12 +97,6 @@ Title: Stock market today: Dow, S&P 500, Nasdaq soar after Nvidia's earnings bea
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-after-nvidias-earnings-beat-jobs-report-blows-past-expectations-143553808.html
 Time Published: 2025-11-20T14:35:53Z
 Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq wipe out gains in sharp reversal lower as Nvidia slides
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wipe-out-gains-in-sharp-reversal-lower-as-nvidia-slides-143553691.html
-Time Published: 2025-11-20T14:35:53Z
-Description: The US stocks rally reversed as investors parsed a September jobs data surprise and stellar Nvidia earnings.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq rise after Nvidia earnings, jobs report beats
@@ -115,6 +109,12 @@ Title: Stock market today: Dow, S&P 500, Nasdaq soar after Nvidia earnings beat,
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-after-nvidia-earnings-beat-jobs-report-blows-past-expectations-143553342.html
 Time Published: 2025-11-20T14:35:53Z
 Description: Jobs data surprise gives a lift to markets already celebrating stellar Nvidia earnings.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq wipe out gains in sharp reversal lower as Nvidia slides
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wipe-out-gains-in-sharp-reversal-lower-as-nvidia-slides-143553691.html
+Time Published: 2025-11-20T14:35:53Z
+Description: The US stocks rally reversed as investors parsed a September jobs data surprise and stellar Nvidia earnings.
 --------------------------------------------------
 
 Title: Earnings live: Walmart raises outlook again, Nvidia stock jumps after blockbuster report
@@ -133,53 +133,4 @@ Title: Get Ready for the Year-End Review – October Dividend Income Report
 URL: https://thedividendguyblog.com/get-ready-for-the-year-end-review-october-dividend-income-report/
 Time Published: 2025-11-20T10:30:01Z
 Description: In 2016, I made a life-changing decision: I took a sabbatical, put my family in a small RV, and we drove all the way to Costa Rica. Upon my return in 2017, I officially quit my job as a private banker at National Bank and started working full-time on my baby:…
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures pop after Nvidia's earnings beat with jobs report on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-pop-after-nvidias-earnings-beat-with-jobs-report-on-deck-233508629.html
-Time Published: 2025-11-19T23:35:08Z
-Description: Stocks are eyeing a rebound from a four-day losing streak following Nvidia's earnings beat.
---------------------------------------------------
-
-Title: Stocks Settle Higher Before Nvidia Earnings
-URL: https://www.barchart.com/story/news/36216128/stocks-settle-higher-before-nvidia-earnings
-Time Published: 2025-11-19T21:33:29Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up by +0.38%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.10%, and the Nasdaq 100...
---------------------------------------------------
-
-Title: Earnings live: Nvidia Q3 results beat, CEO Jensen Huang says Blackwell chip demand is 'off the charts'
-URL: https://finance.yahoo.com/news/live/earnings-live-nvidia-q3-results-beat-ceo-jensen-huang-says-blackwell-chip-demand-is-off-the-charts-213245875.html
-Time Published: 2025-11-19T21:32:45Z
-Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as stocks pause sell-off streak before Nvidia earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-stocks-pause-sell-off-streak-before-nvidia-earnings-210332709.html
-Time Published: 2025-11-19T21:03:32Z
-Description: Investors prepared for Nvidia earnings, following several days of losses for stocks.
---------------------------------------------------
-
-Title: Broadcom Stock Could Bounce Back Toward Records
-URL: https://finance.yahoo.com/news/broadcom-stock-could-bounce-back-184226473.html
-Time Published: 2025-11-19T18:42:26Z
-Description: AVGO hit an all-time high at the end of last month
---------------------------------------------------
-
-Title: Stocks Supported by Strength in Megacap Tech and Chip Stocks
-URL: https://www.barchart.com/story/news/36210333/stock-supported-by-strength-in-megacap-tech-and-chip-stocks
-Time Published: 2025-11-19T16:16:36Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.38%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.22%, and the Nasdaq 100 Index ($IUXX ) ...
---------------------------------------------------
-
-Title: Purpose Investments Inc. Announces November 2025 Distributions
-URL: https://financialpost.com/globe-newswire/purpose-investments-inc-announces-november-2025-distributions
-Time Published: 2025-11-19T00:04:29Z
-Description: TORONTO, Nov. 18, 2025 (GLOBE NEWSWIRE) — Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of November 2025 for its open-end exchange-traded funds and closed-end funds (“the Funds”).         The ex-distribution date for …
---------------------------------------------------
-
-Title: Purpose Investments Inc. Announces November 2025 Distributions
-URL: https://www.globenewswire.com/news-release/2025/11/19/3190551/0/en/Purpose-Investments-Inc-Announces-November-2025-Distributions.html
-Time Published: 2025-11-19T00:00:00Z
-Full Content:
-November 18, 2025 19:00 ET | Source: Purpose Investments Inc. Purpose Investments Inc. TORONTO, Nov. 18, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of November 2025 for its open-end exchange-traded funds and closed-end funds (“the Funds”). The ex-distribution date for all Open-End Funds is November 26, 2025. The ex-distribution date for all closed-end funds is November 28, 2025. Estimated November 2025 Distributions for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund The November 2025 distribution rates for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund are estimated to be as follows: Purpose expects to issue a press release on or about November 25, 2025, which will provide the final distribution rate for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund. The ex-distribution date will be November 26, 2025. About Purpose Investments Inc. Purpose Investments is an asset management company with more than $27 billion in assets under management. Purpose Investments has an unrelenting focus on client-centric innovation and offers a range of managed and quantitative investment products. Purpose Investments is led by well-known entrepreneur Som Seif and is a division of Purpose Unlimited, an independent technology-driven financial services company. For further information, please contact:Keera HartKeera.Hart@kaiserpartners.com905-580-1257 Commissions, trailing commissions, management fees and expenses all may be associated with investment fund investments. Please read the prospectus and other disclosure documents before investing. Investment funds are not covered by the Canada Deposit Insurance Corporation or any other government deposit insurer. There can be no assurance that the full amount of your investment in a fund will be returned to you. If the securities are purchased or sold on a stock exchange, you may pay more or receive less than the current net asset value. Investment funds are not guaranteed, their values change frequently and past performance may not be repeated. TORONTO, 20 nov. 2025 (GLOBE NEWSWIRE) -- Investissements Purpose Inc. (« Purpose ») annonce aujourd’hui une correction concernant le communiqué sur les distributions de novembre 2025 publié le 18... TORONTO, Nov. 19, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) today announced, further to its news release of September 22, 2025, that it will be delaying the merger of Purpose...
 --------------------------------------------------
