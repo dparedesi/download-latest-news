@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Earnings live: S&P 500 on track for highest revenue growth in 3 years; reports from Deere, Zoom ahead
+URL: https://finance.yahoo.com/news/live/earnings-live-sp-500-on-track-for-highest-revenue-growth-in-3-years-reports-from-deere-zoom-ahead-130405089.html
+Time Published: 2025-11-24T13:04:05Z
+Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
+--------------------------------------------------
+
+Title: Chinese chip stocks retreat as U.S. weighs allowing Nvidia to sell H200 processors in China
+URL: https://finance.yahoo.com/news/chinese-chip-stocks-retreat-u-112140456.html
+Time Published: 2025-11-24T11:21:40Z
+Description: Report raises competitive concerns for domestic semiconductor makers
+--------------------------------------------------
+
 Title: US stock market today: Full list of top pre-market movers across Dow, S&P 500 and Nasdaq as gold slides and Bitcoin keeps falling
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-full-list-of-top-pre-market-movers-across-dow-sp-500-and-nasdaq-as-gold-slides-and-bitcoin-keeps-falling/articleshow/125538716.cms
 Time Published: 2025-11-24T10:46:40Z
@@ -16,8 +28,7 @@ Description: Sentiment is way too skeptical and this is your last chance to buy 
 Title: Nvidia: I'm Not Sweating A Drop After This Q3 Meltdown
 URL: https://seekingalpha.com/article/4846971-nvidia-stock-not-sweating-drop-after-this-q3-meltdown
 Time Published: 2025-11-24T02:58:48Z
-Full Content:
-BING-JHEN HONG/iStock Editorial via Getty Images BING-JHEN HONG/iStock Editorial via Getty Images In my last coverage on NVIDIA Corporation (NVDA) (NVDA:CA), I downgraded the stock to Buy on elevated expectations going into Q3 earnings and the risk of a panic selloff This article was written by Analystâs Disclosure:I/we have a beneficial long position in the shares of SOXL either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article. Seeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.
+Description: Nvidia has $500B Blackwell/Rubin visibility into 2025 and 2026, which is a strong sign that the AI buildout is far from over. Read why NVDA stock is a Strong Buy.
 --------------------------------------------------
 
 Title: Stock market today: S&P 500, Nasdaq futures rise, sparking hopes of rebound from November losses
@@ -292,12 +303,6 @@ Description: This tech stock is ending the week in the red. Let's find out why.
 The post Why are WiseTech Global shares tumbling 4% today? appeared first on The Motley Fool Australia.
 --------------------------------------------------
 
-Title: Stock market today: Dow rises as Fed rate-cut bets jump; bitcoin sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846058.html
-Time Published: 2025-11-20T23:18:46Z
-Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
---------------------------------------------------
-
 Title: Stock market today: Dow rises, Nasdaq slides as Fed rate-cut bets jump; bitcoin sinks
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-nasdaq-slides-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846350.html
 Time Published: 2025-11-20T23:18:46Z
@@ -306,12 +311,6 @@ Description: Wall Street was set to end its latest turbulent week in what is sha
 
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate-cut bets jump; bitcoin sinks
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-rate-cut-bets-jump-bitcoin-sinks-231846112.html
-Time Published: 2025-11-20T23:18:46Z
-Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
---------------------------------------------------
-
-Title: Stock market today: Dow, Nasdaq, S&P whipsaw higher as Fed rate-cut bets jump; bitcoin slides
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-whipsaw-higher-as-fed-rate-cut-bets-jump-bitcoin-slides-231846311.html
 Time Published: 2025-11-20T23:18:46Z
 Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------
