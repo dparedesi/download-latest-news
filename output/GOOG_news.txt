@@ -5,3 +5,9 @@ URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fu
 Time Published: 2025-11-24T23:51:15Z
 Description: Markets are muted after a strong start to the week as investors take stock of a Fed-fueled rebound.
 --------------------------------------------------
+
+Title: Stock market today: Nasdaq sees biggest jump since May, S&P 500 soars as Alphabet, Tesla lead tech rally
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sees-biggest-jump-since-may-sp-500-soars-as-alphabet-tesla-lead-tech-rally-210114487.html
+Time Published: 2025-11-24T21:01:14Z
+Description: Spirits are upbeat after a Fed official signaled support for a December rate cut.
+--------------------------------------------------

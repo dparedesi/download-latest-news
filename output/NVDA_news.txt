@@ -1,9 +1,34 @@
 List of news related to NVIDIA NVDA:
 
+Title: Evercore Lifts Nvidia (NVDA) Target, Says It Remains the ‘AI Ecosystem of Choice’
+URL: https://finance.yahoo.com/news/evercore-lifts-nvidia-nvda-target-104235393.html
+Time Published: 2025-11-25T10:42:35Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Must-Watch AI Stocks on Wall Street. On November 20, Evercore ISI raised its price target on the stock to $352...
+--------------------------------------------------
+
+Title: Stocks to Watch Tuesday: Alphabet, Nvidia, Alibaba, Zoom
+URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2025/card/stocks-to-watch-tuesday-alphabet-nvidia-alibaba-zoom-lDPir4ZcVmZQwcuQ0wkM
+Time Published: 2025-11-25T10:22:53Z
+Description: ↗️ Alphabet (GOOGL, GOOG): Facebook owner Meta Platforms (META) is in talks to spend billions on Google's AI chips, the Information reported, as Google steps up efforts to compete directly with Nvidia. Shares in Alphabet, Google's parent company, rose premark…
+--------------------------------------------------
+
+Title: US stock futures dipped again: Dow, S&P 500 and Nasdaq all in red — here are the top stock gainers and losers to watch today
+URL: https://economictimes.indiatimes.com/news/international/us/us-stock-futures-dipped-again-dow-sp-500-and-nasdaq-all-in-red-here-are-the-top-stock-gainers-and-losers-to-watch-today/articleshow/125562030.cms
+Time Published: 2025-11-25T10:20:42Z
+Full Content:
+US stock futures slipped Tuesday as Dow fell 0.16%, S&P 500 eased, and Nasdaq 100 dipped 0.1% after tech’s biggest rebound since May. Nvidia dropped over 3% premarket after reports Meta may buy Google’s AI TPUs, boosting Alphabet shares. Markets still price an 80% chance of a December Fed rate cut. Key data on producer prices, retail sales, and confidence arrives today. Alibaba, Kohl’s, and Best Buy lead earnings in the holiday-shortened week. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories What exactly is the Canada Pension Plan? New CPP payments rolling out nationwide on November 26; Check all the payment dates of 2025-26 - Why is Quebec not part of CPP? Madeleine Poulin, Radio-Canada’s first female correspondent in Ottawa and Paris, dies at 87 Yoplait recalls 'Yop yogurt' drinks in Canada over plastic contamination fears under Class 1 category - Check out which flavor and best-before dates beverage are subject to recall CMA Awards: Vince Gill honored with prestigious Willie Nelson Lifetime Achievement Award at 59th CMA Awards in Tennessee MGK rocks Canadian fans with explosive Grey Cup halftime show; Are Megan Fox, MGK really working on their relationship post daughter’s birth? Roughriders end 12-year drought, beat Alouettes for 5th Grey Cup title Who is Dr Sanjeev Sirpal? Trouble mounts for New Brunswick doctor accused of sexual assault in hospitals as he faces additional charges; what do we know so far Russian humanoid robot 'AIDOL' shockingly faceplants during much-hyped public debut - WATCH Who is Ben Watsa, the future chairman of Fairfax financial and heir to Prem Watsa’s $100-billion empire? Zdeno Chára, Alexander Mogilny, Joe Thornton among eight inducted into 2025 Hockey Hall of Fame class Are Facebook ads helping users buy illegal drugs by mail in Canada - Drugs travel through an ad to a postal delivery; $9 million worth of illegal drugs were turned over to police in 2024 by Canada Post Alberta nursing care workers threaten massive strike, what are they demanding; Alberta Finance minister responds as time runs out; all you need to know Anunay Sood death: What we know about his networth, family, journey, relationships, and career Student suicide in Delhi highlights teacher harassment, mental‑health concerns PM Modi’s full speech at Ram Mandir Janmabhoomi Dhwajarohan ceremony Massive crowd floods Ayodhya for Dhwajarohan Ceremony Watch: PM Modi & Bhagwat hoist saffron flag at Ram Temple Ayodhya LIVE: Ram Mandir Grand Dhwajarohan | Sacred saffron flag hoisted | PM Modi Hayli Gubbi ash to reach North India tonight; DGCA issues advisory to airlines Karnataka: Shivakumar vs Siddaramaiah amid leadership shift speculation J&K CM speaks out seat allocation row at Vaishno Devi Medical College Ayodhya MP Awadhesh Prasad didn’t receive the Ram Temple invite Delhi-NCR chokes in severe smog: Citizens protest as AQI hits hazardous levels Student suicide in Delhi highlights teacher harassment, mental‑health concerns PM Modi’s full speech at Ram Mandir Janmabhoomi Dhwajarohan ceremony Massive crowd floods Ayodhya for Dhwajarohan Ceremony Watch: PM Modi & Bhagwat hoist saffron flag at Ram Temple Ayodhya LIVE: Ram Mandir Grand Dhwajarohan | Sacred saffron flag hoisted | PM Modi Hayli Gubbi ash to reach North India tonight; DGCA issues advisory to airlines Karnataka: Shivakumar vs Siddaramaiah amid leadership shift speculation J&K CM speaks out seat allocation row at Vaishno Devi Medical College Ayodhya MP Awadhesh Prasad didn’t receive the Ram Temple invite Delhi-NCR chokes in severe smog: Citizens protest as AQI hits hazardous levels Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Commodities Top Slideshow Top Prime Articles Private Companies Top Story Listing Top Definitions Top Market Pages Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
 Title: China Outlook Brightens on US Talks, Housing Slump Persists
 URL: https://www.fxempire.com/news/article/china-outlook-brightens-on-us-talks-housing-slump-persists-1563312
 Time Published: 2025-11-25T02:39:26Z
 Description: Improving US-China relations support the Hang Seng Index and CSI 300, though China’s property crisis, falling investment, and soft consumption continue to weigh on economic momentum.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble with retail sales, inflation data in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-with-retail-sales-inflation-data-in-focus-235115811.html
+Time Published: 2025-11-24T23:51:15Z
+Description: Markets are muted after a strong start to the week as investors take stock of a Fed-fueled rebound.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures stall after tech's biggest rally since May
@@ -12,10 +37,10 @@ Time Published: 2025-11-24T23:51:15Z
 Description: Markets are muted after a strong start to the week as investors take stock of a Fed-fuelled rebound.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble with retail sales, inflation data in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-with-retail-sales-inflation-data-in-focus-235115811.html
-Time Published: 2025-11-24T23:51:15Z
-Description: Markets are muted after a strong start to the week as investors take stock of a Fed-fueled rebound.
+Title: Mysterious trader bets millions ahead of Trump's 4PM executive order
+URL: https://www.thestreet.com/crypto/markets/mysterious-trader-millions-trump-executive-order
+Time Published: 2025-11-24T23:07:49Z
+Description: A mysterious crypto trader has gone long on two popular cryptocurrencies ahead of President Donald Trump's executive order today. Trump is expected to sign...
 --------------------------------------------------
 
 Title: Apple shares hit new all-time closing high
@@ -25,10 +50,22 @@ Full Content:
 Update font size. Reset In Nasdaq trading today, shares of Apple Inc. (AAPL) rose $5.01 to $275.92, a new all-time closing high. Apple’s all-time intraday high stands at $277.32 set on October 31, 2025. Apple’s 52-week low stands at $169.21 set on April 8, 2025, the very date on which we wrote, “Sub-$170 AAPL seems like an absolute gift to us…” Monday’s trading volume for AAPL shares was 61,882,174 versus Apple’s average trading volume of 51,066,467 shares. Apple’s PE Ratio currently stands at 36.94. Apple currently has a market value of $4.095 trillion, making it the world’s second-most valuable company. The top five U.S. publicly-traded companies, based on market value: Alphabet (GOOGL) – $3.859T Microsoft (MSFT) – $3.523T Amazon (AMZN) – $2.419T Selected companies’ current market values: • Meta Platforms (META) – $1.545T • Taiwan Semi (TSM) – $1.476T • Tesla (TSLA) – $1.389T • Berkshire Hathaway (BRK-A) – $1.098T • Walmart (WMT) – $830.442B • Netflix (NFLX) – $453.266B • Advanced Micro Devices (AMD) – $350.110B • Cisco (CSCO) – $301.231B • IBM (IBM) – $284.272B • Disney (DIS) – $183.281B • Sony (SONY) – $173.069B • Intel (INTC) – $170.718B • SoftBank (SFTBF) – $150.962B • Adobe (ADBE) – $135.205B • Spotify (SPOT) – $120.444B • Dell (DELL) – $85.539B • Nokia (NOK) – $33.772B • Hewlett-Packard (HPQ) – $22.899B • SiriusXM (SIRI) – $7.051B • BlackBerry (BB) – $2.477B • Sonos (SONO) – $2.132B • RealNetworks (RNWK) was delisted from U.S. exchanges on December 21, 2022 and is no longer publicly traded.🍩 Apple all-time high (AAPL) via NASDAQ here. MacDailyNews Take: Up, up, and away! Please help support MacDailyNews — and enjoy subscriber-only articles, comments, chat, and more — by subscribing to our Substack: macdailynews.substack.com. Thank you! Support MacDailyNews at no extra cost to you by using this link to shop at Amazon. Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Notify me of follow-up comments by email. Notify me of new posts by email. Δ This site uses Akismet to reduce spam. Learn how your comment data is processed. In Nasdaq trading today, shares of Apple Inc. rose to hit a new all-time closing high. Apple’s all-time intraday high was also set today… Apple has collaborated with renowned Japanese fashion house ISSEY MIYAKE to launch the iPhone Pocket — a limited-edition knitted carrier… Apple is poised to reclaim its position as the world’s top smartphone manufacturer, topping a raft of iPhone knockoff peddlers… In a setback for Apple TV’s budding French-language content slate, the streamer abandons its crime thriller series “The Hunt” (“Traqués”)… Singapore’s Ministry of Home Affairs announced on Tuesday that police have directed Apple and Google to block scammers from impersonating… Enter your email address to follow MacDailyNews and receive notifications of new posts by email. Email Address Follow :-)
 --------------------------------------------------
 
+Title: Stocks Finish Sharply Higher as Tech Stocks Soar
+URL: https://www.barchart.com/story/news/36293111/stocks-finish-sharply-higher-as-tech-stocks-soar
+Time Published: 2025-11-24T21:35:37Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up by +1.55%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.44%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
 Title: Earnings live: Zoom stock pops after upbeat results as CEO touts AI adoption
 URL: https://finance.yahoo.com/news/live/earnings-live-zoom-stock-pops-after-upbeat-results-as-ceo-touts-ai-adoption-213015611.html
 Time Published: 2025-11-24T21:30:15Z
 Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq sees biggest jump since May, S&P 500 soars as Alphabet, Tesla lead tech rally
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sees-biggest-jump-since-may-sp-500-soars-as-alphabet-tesla-lead-tech-rally-210114487.html
+Time Published: 2025-11-24T21:01:14Z
+Description: Spirits are upbeat after a Fed official signaled support for a December rate cut.
 --------------------------------------------------
 
 Title: I Paid for Michael Burry’s New $400 Substack So You Don’t Have To
@@ -53,6 +90,12 @@ Title: Ray Dalio Confirms the Market Is in a Bubble… But He Says It’s Not Ti
 URL: https://www.barchart.com/story/news/36291096/ray-dalio-confirms-the-market-is-in-a-bubble-but-he-says-its-not-time-to-sell-nvidia-stock-yet
 Time Published: 2025-11-24T19:24:34Z
 Description: Dalio believes we are in a bubble, but it is yet to be pricked. Does this mean you should keep holding Nvidia?
+--------------------------------------------------
+
+Title: NVIDIA Nears Buy Zone as Rumors Swirl About China Chip Deal
+URL: https://www.marketbeat.com/originals/nvidia-nears-buy-zone-as-rumors-swirl-about-china-chip-deal/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-11-24T19:23:00Z
+Description: NVIDIA may soon resume chip sales to China, offering a major upside to its already bullish stock forecast.
 --------------------------------------------------
 
 Title: Did You Buy the Dip? It Looks Like Retail Investors Are Feeling Good Again
@@ -267,48 +310,4 @@ Title: Earnings live: S&P 500 on track for highest revenue growth in 3 years, wi
 URL: https://finance.yahoo.com/news/live/earnings-live-sp-500-on-track-for-highest-revenue-growth-in-3-years-with-reports-from-deere-zoom-ahead-212338160.html
 Time Published: 2025-11-21T21:23:38Z
 Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
---------------------------------------------------
-
-Title: 12 Analysts Just Raised CrowdStrike Targets—Here’s What They See Coming
-URL: https://www.marketbeat.com/originals/12-analysts-just-raised-crowdstrike-targetsheres-what-they-see-coming/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-21T21:11:00Z
-Description: Analysts have raised CrowdStrike stock targets ahead of earnings, but high valuation and sector volatility could test support before the next move.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq bounce but end turbulent week with sharp losses
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-bounce-but-end-turbulent-week-with-sharp-losses-210532877.html
-Time Published: 2025-11-21T21:05:32Z
-Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
---------------------------------------------------
-
-Title: Here’s why $110B stimulus in Japan is affecting Bitcoin and the crypto market
-URL: https://ambcrypto.com/heres-why-110b-stimulus-in-japan-is-affecting-bitcoin-and-the-crypto-market/
-Time Published: 2025-11-21T19:00:50Z
-Full Content:
-Higher rates ahead? Could the U.S follow Japan’s path? Macro headwinds from rising debt, sticky inflation, and a strong labor market are fueling risk-off sentiment in the crypto market. Japan’s $110 billion stimulus and record 40-year bond yields are setting a precedent for the Fed. Macro-wise, the U.S economy feels all over the place right now. Take Nvidia’s [NVDA] earnings, for example – $200 billion in annualized returns should have been a major bullish catalyst. And yet, the market still sold off. However, it’s not just the crypto market. U.S equities also saw heavy losses. The S&P500, for instance, wiped out $2 trillion and Nvidia went from +6% to -3%, even after reporting $55 billion in a risk-off environment. In short, this market weakness has been driven by macro FUD. In fact, the bigger pressure seems to be coming out of East Asia, which in turn is shaping a blueprint for what could hit the crypto market next. Countries around the world are sitting on massive debt loads right now. However, Japan tops the chart. Its government debt-to-GDP ratio is around 230%, the highest globally. Put simply, Japan owes more than $2 for every $1 it produces, making it the most “indebted” country in the world. On top of that, Japan’s finance minister recently rolled out a $110 billion stimulus to combat inflation, which hit 3% in October. The plan is aimed at boosting buyer spending. The result? Japan’s 40-year bond yield surged to a record 3.77%. Source: TradingEconomics Notably, the impact of this move has investors turning bearish. Rising debt, paired with spiking government bond yields, is sucking capital out of risk assets. That leaves the Bank of Japan stuck. Cut rates and you risk fueling inflation, hold steady and markets stay under pressure. Right now, 53% of participants are betting on a rate hike at December’s BOJ meeting. And, the market is already pricing in potential moves. At the same time, Japan’s moves are setting a benchmark for the Federal Reserve, putting extra pressure on the crypto market. President Trump’s recent stimulus plan is drawing increasing scrutiny as well. A few days ago, he proposed a $2,000 payout for every household below the “high-income” bracket. At the same time, U.S. deficit spending added $619 billion during the 43-day government shutdown. Put simply, the U.S is heading deeper into a debt spiral. Analysts now expect total debt to hit $40 trillion by 2026, with the debt-to-GDP ratio already back to 124%, putting the Fed under serious pressure. Source: ZeroHedge And, it doesn’t stop there. The U.S. economy is wrestling with a data blackout, an AI-driven “bubble burst” and inflation stuck above the Fed’s 2% target. And when you stack it all up, the crypto market’s Q4 crash looks more macro-driven than ever. In this context, Japan’s latest blowout is sending a strong signal for U.S markets. Rising debt could push for a rate cut, but with inflation still hot and the labor market strong, that’s looking less likely. This will only add pressure on the crypto market heading into 2026. Disclaimer: AMBCrypto's content is meant to be informational in nature and should not be interpreted as investment advice. Trading, buying or selling cryptocurrencies should be considered a high-risk investment and every reader is advised to do their own research before making any decisions. © 2025 AMBCrypto
---------------------------------------------------
-
-Title: Anthropic Just Became AI’s Hottest Ticket—Backed by Microsoft and NVIDIA
-URL: https://www.marketbeat.com/stock-ideas/anthropic-just-became-ais-hottest-ticketbacked-by-microsoft-and-nvidia/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-21T18:27:00Z
-Description: Anthropic’s $30B Azure deal and investments from NVIDIA and Microsoft highlight the circular AI economy and the high-stakes race to dominate AI...
---------------------------------------------------
-
-Title: $1 trillion swing in 54 hours: Nvidia gains $450 billion, loses $600 billion — The swing shaking stock market
-URL: https://economictimes.indiatimes.com/news/international/us/1-trillion-swing-in-54-hours-nvidia-gains-450-billion-loses-600-billion-the-swing-shaking-stock-market/articleshow/125490646.cms
-Time Published: 2025-11-21T17:18:47Z
-Full Content:
-Nvidia saw a historic $1 trillion swing in just 54 hours. The stock first jumped $450 billion after earnings crushed forecasts. Revenue rose 62% to $57 billion. Profit hit $31.9 billion. AI chip demand drove the surge. The rally collapsed fast. Nvidia then lost about $600 billion as investors booked profits. Fears of an AI bubble grew. Rate-cut hopes faded. Geopolitical tensions added pressure. Volatility spiked sharply. The VIX moved above 26. Nvidia’s fundamentals stayed strong, but sentiment turned brutal. The stock shed nearly $19 billion in value per hour. Listen to this article in summarized format Unlock AI Briefing and Premium Content (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories CMA Awards: Vince Gill honored with prestigious Willie Nelson Lifetime Achievement Award at 59th CMA Awards in Tennessee MGK rocks Canadian fans with explosive Grey Cup halftime show; Are Megan Fox, MGK really working on their relationship post daughter’s birth? Roughriders end 12-year drought, beat Alouettes for 5th Grey Cup title Who is Dr Sanjeev Sirpal? Trouble mounts for New Brunswick doctor accused of sexual assault in hospitals as he faces additional charges; what do we know so far Russian humanoid robot 'AIDOL' shockingly faceplants during much-hyped public debut - WATCH Who is Ben Watsa, the future chairman of Fairfax financial and heir to Prem Watsa’s $100-billion empire? Zdeno Chára, Alexander Mogilny, Joe Thornton among eight inducted into 2025 Hockey Hall of Fame class Are Facebook ads helping users buy illegal drugs by mail in Canada - Drugs travel through an ad to a postal delivery; $9 million worth of illegal drugs were turned over to police in 2024 by Canada Post Alberta nursing care workers threaten massive strike, what are they demanding; Alberta Finance minister responds as time runs out; all you need to know Anunay Sood death: What we know about his networth, family, journey, relationships, and career Anunay Sood's ex-fiancée Brinda Sharma: Why did the two influencers call off their engagement? Anunay Sood’s final Instagram post just days before death: ‘Still can't believe I spent the weekend surrounded by legends and dream machines’ Anunay Sood, acclaimed travel creator with millions of followers, dies at 32 Borders can change, Sindh may return to India...: Def Min Rajnath big remark IBSA Leaders’ Summit : PM Modi calls for stronger trilateral cooperation ‘Very successful visit’ : Goyal boosts India-Israel trade, agriculture & FTA talks Kriti flags Delhi air emergency: ‘Something Must Be Done’ as AQI dips ‘Pak knows it can’t defeat India directly,’ says Fadnavis as he calls Delhi blast a proxy strike ‘Nothing Can Shake India’: SRK’s powerful tribute to 26/11 martyrs 'Smiles, handshake and hug' | PM Modi steals spotlight at G20 PM Modi meets Indian-origin tech entrepreneurs in Johannesburg G20 Summit 2025: Ramaphosa calls for firm inclusion of African priorities PM Modi in South Africa: We condemn terrorism in all forms Borders can change, Sindh may return to India...: Def Min Rajnath big remark IBSA Leaders’ Summit : PM Modi calls for stronger trilateral cooperation ‘Very successful visit’ : Goyal boosts India-Israel trade, agriculture & FTA talks Kriti flags Delhi air emergency: ‘Something Must Be Done’ as AQI dips ‘Pak knows it can’t defeat India directly,’ says Fadnavis as he calls Delhi blast a proxy strike ‘Nothing Can Shake India’: SRK’s powerful tribute to 26/11 martyrs 'Smiles, handshake and hug' | PM Modi steals spotlight at G20 PM Modi meets Indian-origin tech entrepreneurs in Johannesburg G20 Summit 2025: Ramaphosa calls for firm inclusion of African priorities PM Modi in South Africa: We condemn terrorism in all forms Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Commodities Top Story Listing Top Prime Articles Top Definitions Top Slideshow Private Companies Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Stocks Extend Rebound Rally on Dovish Williams Remarks
-URL: https://www.barchart.com/story/news/36255897/stocks-turn-mixed-on-chip-stock-weakness
-Time Published: 2025-11-21T16:27:16Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +1.38%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +1.52%, and the Nasdaq 100 Index ($IUXX...
---------------------------------------------------
-
-Title: This 1 Company Is the Nvidia of Quantum Computing. Should You Buy Its Stock Now?
-URL: https://www.barchart.com/story/news/36255837/this-1-company-is-the-nvidia-of-quantum-computing-should-you-buy-its-stock-now
-Time Published: 2025-11-21T16:23:57Z
-Description: IONQ stock is up 20% in the past 52 weeks and remains a top investment as it expands its quantum computing moat, according to investment bank J.P. Morgan.
 --------------------------------------------------
