@@ -1,5 +1,11 @@
 List of news related to Mastercard stock price MA:
 
+Title: Is Mastercard Stock Underperforming the Dow?
+URL: https://www.barchart.com/story/news/36299156/is-mastercard-stock-underperforming-the-dow
+Time Published: 2025-11-25T09:11:10Z
+Description: Even with Mastercard lagging the broader market lately, Wall Street isn’t backing down from its bullish stance.
+--------------------------------------------------
+
 Title: synthetic-data-crafter added to PyPI
 URL: https://pypi.org/project/synthetic-data-crafter/
 Time Published: 2025-11-21T06:50:51Z
