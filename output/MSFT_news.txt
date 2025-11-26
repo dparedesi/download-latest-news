@@ -55,27 +55,3 @@ Time Published: 2025-11-21T06:50:51Z
 Full Content:
 pip install synthetic-data-crafter Copy PIP instructions Released: Nov 23, 2025 Generate hyper-realistic synthetic data at scale — 750+ field types, real-world distributions, relational schemas, and one-click export to CSV, JSON, Parquet, SQL, Excel, Avro, and more. Hyper-realistic synthetic data generator — 750+ field types, real-world distributions, relational schemas, and instant export to 10+ formats. Install the latest version from PyPI: Each field in your schema requires: Options Examples: Key Labels: normal_distribution, binomial_distribution, poisson_distribution, exponential_distribution, geometric_distribution Options Examples: Options Examples: Options Examples: Options Examples: Options Examples: Options Examples: Options Examples: When exporting with all formats, your output directory will contain: Generate data that follows real-world statistical patterns: Create custom formats with regular expressions: Generate complex nested data: MIT SyntheticDataCrafter - Making test data generation simple and powerful 1.0.2 Nov 23, 2025 1.0.1 Nov 23, 2025 1.0.0 Nov 21, 2025 Download the file for your platform. If you're not sure which to choose, learn more about installing packages. Uploaded Nov 23, 2025 Source Filter files by name, interpreter, ABI, and platform. If you're not sure about the file name format, learn more about wheel file names. The dropdown lists show the available interpreters, ABIs, and platforms. Enable javascript to be able to filter the list of wheel files. Copy a direct link to the current filters Copy Uploaded Nov 23, 2025 Python 3 Details for the file synthetic_data_crafter-1.0.2.tar.gz. See more details on using hashes here. Details for the file synthetic_data_crafter-1.0.2-py3-none-any.whl. See more details on using hashes here. Status: all systems operational Developed and maintained by the Python community, for the Python community. Donate today! "PyPI", "Python Package Index", and the blocks logos are registered trademarks of the Python Software Foundation. © 2025 Python Software Foundation Site map Supported by
 --------------------------------------------------
-
-Title: Stocks Reverse Sharply Lower as Tech Stocks Get Crushed
-URL: https://www.barchart.com/story/news/36240011/stocks-reverse-sharply-lower-as-tech-stocks-get-crushed
-Time Published: 2025-11-20T21:38:47Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down by -1.56%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down by -0.84%, and the Nasdaq 100...
---------------------------------------------------
-
-Title: Can Nvidia Stock Test Wall Street’s Price Target of $350?
-URL: https://www.barchart.com/story/news/36238344/can-nvidia-stock-test-wall-streets-price-target-of-350
-Time Published: 2025-11-20T20:16:36Z
-Description: Wall Street is not buying into the bubble talk. Neither should you.
---------------------------------------------------
-
-Title: Stocks Reverse Course as Nvidia Earnings Rally Fades, VIX Spikes
-URL: https://www.barchart.com/story/news/36234328/stocks-rally-as-nvidia-earnings-boost-optimism-in-tech
-Time Published: 2025-11-20T16:12:54Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is off by -0.19%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.21%, and the Nasdaq 100 Index ($IUXX )...
---------------------------------------------------
-
-Title: Stocks Soar on Robust Nvidia Earnings
-URL: https://www.barchart.com/story/news/36232835/stocks-soar-on-robust-nvidia-earnings
-Time Published: 2025-11-20T15:06:55Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +1.74%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +1.40%, and the Nasdaq 100 Index ($IUXX...
---------------------------------------------------

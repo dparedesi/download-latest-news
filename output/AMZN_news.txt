@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble with retail sales, inflation data in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-with-retail-sales-inflation-data-in-focus-235115811.html
+Time Published: 2025-11-24T23:51:15Z
+Description: Markets are muted after a strong start to the week as investors take stock of a Fed-fueled rebound.
+--------------------------------------------------
+
 Title: Black Friday battles: Why Walmart is still thumping Target
 URL: https://finance.yahoo.com/news/black-friday-battles-why-walmart-is-still-thumping-target-113007691.html
 Time Published: 2025-11-23T11:30:07Z
@@ -48,28 +54,4 @@ Title: Caution Rises Around AWS as Redburn Lowers Amazon (AMZN) to Neutral
 URL: https://finance.yahoo.com/news/caution-rises-around-aws-redburn-152227351.html
 Time Published: 2025-11-21T15:22:27Z
 Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the AI Stocks Making Moves on Wall Street. On November 18, Rothschild & Co Redburn’s Alexander Haissl downgraded the...
---------------------------------------------------
-
-Title: Peter Thiel Dumps NVIDIA and Slashes Tesla Stake—Is the AI Bubble About to Pop?
-URL: https://www.marketbeat.com/originals/peter-thiel-dumps-nvidia-and-slashes-tesla-stakeis-the-ai-bubble-about-to-pop/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-20T23:18:00Z
-Description: Peter Thiel's fund sold all its NVIDIA shares and cut Tesla by 76%, raising red flags on AI valuations and possible bubble.
---------------------------------------------------
-
-Title: Can Nvidia Stock Test Wall Street’s Price Target of $350?
-URL: https://www.barchart.com/story/news/36238344/can-nvidia-stock-test-wall-streets-price-target-of-350
-Time Published: 2025-11-20T20:16:36Z
-Description: Wall Street is not buying into the bubble talk. Neither should you.
---------------------------------------------------
-
-Title: ‘My retirement is completely in bitcoin’: Why don’t more people do what I do?
-URL: https://www.marketwatch.com/story/my-retirement-is-completely-in-bitcoin-why-dont-more-people-do-what-i-do-34665250
-Time Published: 2025-11-20T16:21:00Z
-Description: “‘I also borrow against bitcoin. What’s the catch?”
---------------------------------------------------
-
-Title: Amazon (AMZN) Gets Vote of Confidence After Rolling Out New AI Advertising Agent
-URL: https://finance.yahoo.com/news/amazon-amzn-gets-vote-confidence-031526306.html
-Time Published: 2025-11-20T03:15:26Z
-Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the AI Stocks Analysts are Tracking Closely. On November 17, Citizens maintained its “Market Outperform” rating on...
 --------------------------------------------------
