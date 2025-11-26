@@ -6,6 +6,12 @@ Time Published: 2025-11-24T23:51:15Z
 Description: Markets are muted after a strong start to the week as investors take stock of a Fed-fueled rebound.
 --------------------------------------------------
 
+Title: Anthropic launches Claude Opus 4.5 as Google's Gemini 3 gains big backers
+URL: https://finance.yahoo.com/news/anthropic-launches-claude-opus-45-as-googles-gemini-3-gains-big-backers-191645109.html
+Time Published: 2025-11-24T19:16:45Z
+Description: Anthropic on Monday debuted its Claude Opus 4.5, which the company says is its most powerful AI model yet.
+--------------------------------------------------
+
 Title: Black Friday battles: Why Walmart is still thumping Target
 URL: https://finance.yahoo.com/news/black-friday-battles-why-walmart-is-still-thumping-target-113007691.html
 Time Published: 2025-11-23T11:30:07Z

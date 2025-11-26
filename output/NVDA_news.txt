@@ -37,10 +37,29 @@ Time Published: 2025-11-24T20:46:06Z
 Description: After de-registering Scion Asset Management, Burry is entering the next phase of his career via subscription newsletter.
 --------------------------------------------------
 
+Title: Bridgewater Associates Is Giving Up on Lyft Stock. Should You?
+URL: https://www.barchart.com/story/news/36291482/bridgewater-associates-is-giving-up-on-lyft-stock-should-you
+Time Published: 2025-11-24T19:56:49Z
+Description: Lyft’s improving fundamentals contrast sharply with Bridgewater’s full exit, raising the question of whether institutional selling or accelerating growth...
+--------------------------------------------------
+
 Title: Bank of America Forecasts $40 EPS for Nvidia Stock in Just 5 Years. Should You Buy NVDA Here?
 URL: https://www.barchart.com/story/news/36291359/bank-of-america-forecasts-40-eps-for-nvidia-stock-in-just-5-years-should-you-buy-nvda-here
 Time Published: 2025-11-24T19:43:04Z
 Description: Nvidia is the largest company globally, yet NVDA stock trades at an attractive valuation in 2025, according to Bank of America.
+--------------------------------------------------
+
+Title: Ray Dalio Confirms the Market Is in a Bubble… But He Says It’s Not Time to Sell Nvidia Stock Yet
+URL: https://www.barchart.com/story/news/36291096/ray-dalio-confirms-the-market-is-in-a-bubble-but-he-says-its-not-time-to-sell-nvidia-stock-yet
+Time Published: 2025-11-24T19:24:34Z
+Description: Dalio believes we are in a bubble, but it is yet to be pricked. Does this mean you should keep holding Nvidia?
+--------------------------------------------------
+
+Title: Did You Buy the Dip? It Looks Like Retail Investors Are Feeling Good Again
+URL: https://www.investopedia.com/did-you-buy-the-dip-it-looks-like-retail-investors-are-feeling-good-again-ai-trade-tech-11855878
+Time Published: 2025-11-24T19:22:34Z
+Full Content:
+The gloom that has hung over Wall Street in recent weeks showed signs of dissipating on Monday. The tech-heavy Nasdaq Composite was up about 2.4% in recent trading, leading the major indexes higher after lagging during Friday’s rally. Big tech shares and many of Wall Street’s favorite AI stocks were among Monday’s top gainers, with chipmakers Broadcom (AVGO) and Micron (MU) each up more than 7% and all of the Magnificent Seven stocks in the green. Dip-buying retail investors may be partly responsible. Money poured into S&P 500 exchange-traded funds last week while the index slumped, according to a UBS note, while ETF inflows as a percent of assets under management climbed to their highest level this year—both signs, the analysts wrote, of individual-investor optimism. And inflows into leveraged funds accelerated throughout the sell-off, according to Deutsche Bank analysts, another potential sign of retail's confidence. There are signs of improving investor sentiment, particularly among retail investors, heading into the Thanksgiving holiday. Retail investor behavior often reflects market sentiment, or vibes, as they usually lack the detailed market data and sophisticated algorithms of institutional investors. Sentiment is itself one of the main drivers of stock market returns. Stocks sold off last week as concerns about an AI bubble and uncertainty about the trajectory of monetary policy weighed on sentiment. The S&P 500 lost nearly 2% and the Nasdaq dropped 2.7%. Equity positioning turned underweight—indicating caution—for the first time since July, according to Deutsche Bank. Chief among investors’ concerns was whether the Federal Reserve will cut interest rates next month. Signs of a weakening labor market argue for a cut, while evidence that inflation is accelerating well above the Fed's 2% target could drive caution. Rate-cut expectations jumped all over the place last week. The September jobs report—the last piece of official labor market data policymakers are likely to see before they meet—sent mixed signals, causing expectations to plummet. But they rebounded Friday when one Fed official indicated he was open to cutting. As of Monday, market participants put the odds of a December rate cut at about 77%, up from just 30% last Wednesday. Investors are also debating whether the AI boom that’s fueled the bull market is a perilous bubble. A stronger-than-expected earnings report from chip giant Nvidia (NVDA) last week wasn’t enough to put those fears to bed. AI stocks continued to slump following the report, and many missed out on Friday’s rally entirely. Calm returned to markets Monday. The Cboe Volatility Index (VIX), known as Wall Street's “Fear Index,” recently stood at about 21, a tick above the level associated with smooth sailing for stocks. And CNN’s Fear & Greed index, which tracks seven market metrics to gauge the prevailing sentiment among investors, looked less scary after notching its most pessimistic reading since early April. Last week's AAII Sentiment Survey of individual investors, meanwhile, also showed a slightly more optimistic outlook than seen a week earlier, when nearly half of respondents were bearish. Economic data this week could test that calm. Investors will be watching jobless claims data on Wednesday for a clearer picture of the state of the job market. And the Producer Price Index for September, due Tuesday, should fill out the Fed's picture of inflation; it's likely to be the last inflation data released before the Fed makes its rate decision.
 --------------------------------------------------
 
 Title: Cathie Wood buys $16.7 million of megacap AI stock
@@ -292,22 +311,4 @@ Title: This 1 Company Is the Nvidia of Quantum Computing. Should You Buy Its Sto
 URL: https://www.barchart.com/story/news/36255837/this-1-company-is-the-nvidia-of-quantum-computing-should-you-buy-its-stock-now
 Time Published: 2025-11-21T16:23:57Z
 Description: IONQ stock is up 20% in the past 52 weeks and remains a top investment as it expands its quantum computing moat, according to investment bank J.P. Morgan.
---------------------------------------------------
-
-Title: How to protect your portfolio if you’re worried about an AI bubble
-URL: https://finance.yahoo.com/personal-finance/investing/article/how-to-protect-your-portfolio-if-youre-worried-about-an-ai-bubble-152533955.html
-Time Published: 2025-11-21T15:25:33Z
-Description: Some investors fear an AI bubble. These strategies can help safeguard your investments.
---------------------------------------------------
-
-Title: Are we in an AI bubble? How to protect your portfolio if your AI investments turn against you.
-URL: https://finance.yahoo.com/personal-finance/investing/article/are-we-in-an-ai-bubble-how-to-protect-your-portfolio-if-your-ai-investments-turn-against-you-152533660.html
-Time Published: 2025-11-21T15:25:33Z
-Description: Some investors fear an AI bubble. These strategies can help safeguard your investments.
---------------------------------------------------
-
-Title: Baird Reiterates Outperform on Nvidia (NVDA) Following Strong Q3 Results
-URL: https://finance.yahoo.com/news/baird-reiterates-outperform-nvidia-nvda-152524425.html
-Time Published: 2025-11-21T15:25:24Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Making Moves on Wall Street. On November 19, Baird reiterated an “Outperform” rating on the stock...
 --------------------------------------------------
