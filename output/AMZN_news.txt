@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Corporate Insiders Have Sold $25 Billion in Stock in Just 60 Days. Before You Panic and Sell Your Shares, Read This.
+URL: https://www.barchart.com/story/news/36308590/corporate-insiders-have-sold-25-billion-in-stock-in-just-60-days-before-you-panic-and-sell-your-shares-read-this
+Time Published: 2025-11-25T16:12:51Z
+Description: Over the last 60 days, over $25 billion in insider transactions have flooded the stock market across multiple sectors, and overwhelmingly, they’ve been sell ...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq mixed with retail sales, inflation data in focus
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-with-retail-sales-inflation-data-in-focus-143604082.html
 Time Published: 2025-11-25T14:36:04Z
@@ -10,6 +16,18 @@ Title: Stock market today: Dow, S&P 500, Nasdaq jumps as Wall Street returns to 
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jumps-as-wall-street-returns-to-rally-mode-while-nvidia-lags-143604029.html
 Time Published: 2025-11-25T14:36:04Z
 Description: Markets are muted after a strong start to the week as investors take stock of a Fed-fueled rebound.
+--------------------------------------------------
+
+Title: Fund manager who ‘pounded the table’ in support of Nvidia eight years ago now likes these AI stocks
+URL: https://www.marketwatch.com/story/fund-manager-who-pounded-the-table-to-own-nvidia-in-2017-now-likes-these-ai-stocks-24840810
+Time Published: 2025-11-25T14:33:00Z
+Description: Tony Wang, who has a knack for spotting tech winners like Nvidia, talks about the companies that are exciting him now.
+--------------------------------------------------
+
+Title: Is Amazon.com Stock Underperforming the Nasdaq?
+URL: https://www.barchart.com/story/news/36306453/is-amazon-com-stock-underperforming-the-nasdaq
+Time Published: 2025-11-25T14:25:48Z
+Description: Amazon.com has underperformed the Nasdaq over the past year, but analysts are highly optimistic about the stock’s prospects.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble with retail sales, inflation data in focus
@@ -28,48 +46,4 @@ Title: Black Friday battles: Why Walmart is still thumping Target
 URL: https://finance.yahoo.com/news/black-friday-battles-why-walmart-is-still-thumping-target-113007691.html
 Time Published: 2025-11-23T11:30:07Z
 Description: Target is out to lunch. Walmart, definitely not.
---------------------------------------------------
-
-Title: A Magnificent AI Bet? Stanley Druckenmiller’s Latest Tech Moves
-URL: https://www.marketbeat.com/stock-ideas/a-magnificent-ai-bet-stanley-druckenmillers-latest-tech-moves/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-21T22:32:00Z
-Description: Stanley Druckenmiller just made major buys in three Mag 7 stocs; see why the he's doubling down on AI hyperscalers and what it means for your portfolio
---------------------------------------------------
-
-Title: What's Going on With Oracle? Its Stock Price Has Dropped More Than 40% in Two Months.
-URL: https://www.investopedia.com/what-is-going-on-with-oracle-its-stock-price-has-dropped-more-than-40-percent-in-two-months-11854719
-Time Published: 2025-11-21T21:20:13Z
-Full Content:
-Betting big on artificial intelligence is proving to be a double-edged sword. Shares of Oracle (ORCL), the almost-50 year-old software company turned AI play, rallied furiously during the summer as investor enthusiasm for what could be the next transformative technology surged. Lately the company's stock has given up much of those gains, down more than 40% from its all-time high in September, more than other related plays including Meta Platforms (META), Palantir Technologies (PLTR) and Advanced Micro Devices (AMD), whose stocks declined at least 20% from their respective peaks. Now investors are looking at Oracle as the poster child for AI-related excess. Though concerns about AI valuations have been lingering for years, investors have recently started to pan stocks tied to the theme, weighing the amount companies are spending to develop the tech against the potential for future revenue. Oracle has come under increased scrutiny since it raised $18 billion in new debt last month to fund its infrastructure buildout, pushing its overall debt to over $100 billion. In January, Oracle announced that it was joining forces with ChatGPT maker OpenAI and Japanese tech giant Softbank on a $500 billion project, called Stargate, to develop AI infrastructure in the U.S. It's become increasingly difficult to view AI-related businesses in a vacuum, because of the relationships they've created between each other with multi-billion dollar deals. In that way Oracle's hurt could turn into pain for others. Oracle's quarterly earnings report in early September blew past Wall Street expectations, sending the stock soaring 36% in one day and briefly making co-founder and Executive Chairman Larry Ellison the world's richest person. A few weeks later, however, the company announced that longtime CEO Safra Catz would be replaced as CEO, and the stock has been declining ever since. Meanwhile, traders have started to pile into Oracle's credit-default swaps as a way to both hedge and bet against the AI trade, according to a recently published story by Bloomberg. Credit default swaps are derivative contracts that serve as a kind of insurance against the possibility that a borrower will default on its debt obligations. Consensus capital expenditures for AI hyperscalers, including Amazon (AMZN), Google (GOOGL), Meta, Microsoft (MSFT) and Oracle have risen to $533 billion now from $467 billion at the start of the third-quarter earnings season, according to Goldman Sachs. Oracle is also a major part of the web of deals between AI software makers, chip companies and cloud operators, whose circular deals—possibly indicating more self-dealing than representative of organic demand—have raised eyebrows. The Wall Street Journal reported that a large chunk of the outsize revenue backlog unveiled in its September earnings report was from an OpenAI deal. "The feedback loops created by the revenue and equity relationships between some of the largest U.S. public companies and smaller AI firms increase the risk that stress in one part of the AI ecosystem affects investors across the AI complex," Goldman analysts led by Ryan Hammond said in a report published earlier this week.
---------------------------------------------------
-
-Title: Jim Cramer Isn’t Worried by Analyst Downgrading Amazon.com (AMZN)
-URL: https://finance.yahoo.com/news/jim-cramer-isn-t-worried-192255249.html
-Time Published: 2025-11-21T19:22:55Z
-Description: We recently published 13 Stocks That Crossed Jim Cramer’s Radar. Amazon.com, Inc. (NASDAQ:AMZN) is one of the stocks Jim Cramer discussed. Amazon.com, Inc. (...
---------------------------------------------------
-
-Title: The Bull Case for AI Stocks Is ‘Far Weaker’ Than You Think…At Least According to This Analyst. 1 Stock He’s Downgrading Now.
-URL: https://www.barchart.com/story/news/36257803/the-bull-case-for-ai-stocks-is-far-weaker-than-you-think-at-least-according-to-this-analyst-1-stock-hes-downgrading-now
-Time Published: 2025-11-21T18:22:31Z
-Description: A Rothschild/Redburn analyst has downgraded Microsoft and Amazon as the bull thesis fails to play out with the intensity many have expected.
---------------------------------------------------
-
-Title: Want $4,000 per Year in Monthly Passive Income? Invest Just $2,500 in These Yield-Heavy Dividend Stocks
-URL: https://247wallst.com/investing/2025/11/21/want-4000-per-year-in-monthly-passive-income-invest-just-2500-in-these-yield-heavy-dividend-stocks/
-Time Published: 2025-11-21T16:50:03Z
-Full Content:
-Investing Sending You to Google News in 3 © Panchenko Vladimir / Shutterstock.com It would be an impressive feat to generate $4,000 in yearly passive income with just $12,500 in your account. Yet, it’s actually possible if you invest $2,500 into five carefully chosen stocks or exchange traded funds (ETFs). Not only that, but you could get paid cash distributions every month and possibly even every week. The plan is to own high-yield stocks that represent profitable businesses which pay monthly dividends. Also, you can own some ETFs offering big yields and frequent cash payouts. Allocating $2,500 toward the five assets on today’s list means you’d be investing $12,500 in total. It’s possible to earn $4,000 per year in dividends/distributions is you achieve an average yield of at least $4,000 / $12,500 or 32%. Sure, that’s ambitious and these five stocks/ETFs carry some risk; for example, any of the annual yields might get cut. On the other hand, you could become a passive income overachiever simply by holding five assets, so let’s start off with two high-paying stock picks. We’ll begin with Oxford Square Capital Corp. (NASDAQ:OXSQ), a business development company mainly specializing in bank loans and collateralized loan obligations (CLOs). Since Oxford Square Capital Corp. sends out its cash dividends on a monthly basis, you can take advantage of frequent reinvestment and compounding opportunities. It’s smart to focus on income-positive businesses in order to mitigate your overall risk level. As it turns out, Oxford Square Capital Corp. is income-positive as it reported roughly $5.56 million of third-quarter 2025 net investment income. At the moment, Oxford Square Capital Corp. offers a 22.46% forward annual dividend yield. This doesn’t measure up to our objective of achieving an average yield of at least 32%. Nevertheless, buying $2,500 worth of OXSQ stock is a good start as we’ll raise the average yield later with some mega-yield ETFs. Another stock you could invest $2,500 into is Orchid Island Capital (NYSE:ORC). This company is a real estate investment trust (REIT) that concentrates on U.S.-based residential mortgage-backed securities. Like Oxford Square Capital Corp., Orchid Island Capital pays dividends every month. Furthermore, Orchid Island Capital is a profitable business enterprise, having recorded $72.08 million in Q3 2025 net income. Being income-positive implies, more or less, that these companies should be able to continue paying monthly cash dividends. Currently, Orchid Island Capital stock investors can expect a 20.14% forward annual dividend yield. We’re still below our 32% average yield target, but there’s no need to fret as I’ve got a three-pack of ETFs that could bring massive payouts. To raise the bar in terms of overall annual yield, you could invest $2,500 into three funds from Roundhill. These ETFs all pay distributions on a weekly basis, so you can continue to receive cash payments every month or even more often than that. To provide a simplified explanation, the following Roundhill ETFs trade shares of a well-known stock as well as a type of derivatives known as swaps. This typically raises the risk level but also enables substantial income-generation opportunities. First, we have the Roundhill AMZN WeeklyPay ETF (CBOE:AMZW), which trades shares and swaps to indirectly extract income from Amazon (NASDAQ:AMZN) stock. Unlike a direct investment in Amazon stock, you’ll receive weekly cash distributions if you hold AMZW shares. Clarifying the fund’s objective, Roundhill explains that the AMZW ETF targets “enhanced returns corresponding to 120% of” the weekly performance of AMZN stock. The expected annual distribution rate of the Roundhill AMZN WeeklyPay ETF is quite hefty at 37.57%. Next up is the Roundhill TSLA WeeklyPay ETF (CBOE:TSLW), which uses similar trading strategies to indirectly derive income from Tesla (NASDAQ:TSLA) stock. In particular, the TSLW ETF aims for “enhanced returns corresponding to 120% of” the weekly performance of TSLA stock. There’s risk involved as the share price of the Roundhill TSLA WeeklyPay ETF may be volatile. However, it’s hard to resist the fund’s massive 53.28% annual distribution rate, no doubt. Then there’s the Roundhill AVGO WeeklyPay ETF (CBOE:AVGW), which attempts to achieve similar results with Broadcom (NASDAQ:AVGO) stock. Again, the share-price volatility risk shouldn’t be overlooked, but the AVGW ETF’s gigantic 54.68% distribution rate makes it a worthwhile addition to this list. So, have we reached or objective of a 32% or higher average annual yield? To fond out, we just need to add up the expected yields of OXSQ, ORC, AMZW, TSLW, and AVGW and then divide the total by five. The result is a 37.63% average annual yield between these five stocks/ETFs. Thus, we’ve put together a plan to earn at least $4,000 per year in dividends/distributions (assuming there are no yield cuts) with monthly or even weekly cash payments to your account. Latest Podcast Episode Amazon Strikes Back, And A Surprise $10,000 Portfolio Buy 38 min See us invest in our favorite AI stock ideas for free Nov 9, 2025 Live Nov 4, 2025 Want more income with less effort and capital? You’ll need to choose your investments carefully, but it’s possible to achieve… Do you need to be a millionaire to earn $4,000 per year with stocks and exchange traded funds (ETFs)? Not… Investing just $2,500 in these nine ultra-high-yield stocks that pay investors monthly can yield $3,480 annually. Successful passive income investing doesn’t have to be overly expensive or labor-intensive. With just $2,500 invested in a handful of… Investing $10,000 in each of these nine companies will generate more than $1,000 per month in passive income. How can you leverage your savings into a more secure financial future? Dividends can be a key component of your… According to the US Inflation Aggregate Index, the US dollar has lost 25% of its buying power since 2020. Regardless… Listen up, dividend overachievers! With a mere $2,500 per stock or exchange traded fund (ETF), it’s entirely possible to bring… These four ultra-high-yield stocks and an exchange-traded fund offering huge monthly dividends and may interest investors trying to build strong…
---------------------------------------------------
-
-Title: This 1 Company Is the Nvidia of Quantum Computing. Should You Buy Its Stock Now?
-URL: https://www.barchart.com/story/news/36255837/this-1-company-is-the-nvidia-of-quantum-computing-should-you-buy-its-stock-now
-Time Published: 2025-11-21T16:23:57Z
-Description: IONQ stock is up 20% in the past 52 weeks and remains a top investment as it expands its quantum computing moat, according to investment bank J.P. Morgan.
---------------------------------------------------
-
-Title: Caution Rises Around AWS as Redburn Lowers Amazon (AMZN) to Neutral
-URL: https://finance.yahoo.com/news/caution-rises-around-aws-redburn-152227351.html
-Time Published: 2025-11-21T15:22:27Z
-Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the AI Stocks Making Moves on Wall Street. On November 18, Rothschild & Co Redburn’s Alexander Haissl downgraded the...
 --------------------------------------------------

@@ -1,14 +1,13 @@
 List of news related to Mastercard stock price MA:
 
+Title: How Is Visa's Stock Performance Compared to Other Financial Stocks?
+URL: https://www.barchart.com/story/news/36302958/how-is-visa-s-stock-performance-compared-to-other-financial-stocks
+Time Published: 2025-11-25T12:53:50Z
+Description: Since Visa has outperformed relative to its industry peers over the past year, Wall Street analysts maintain a bullish outlook on its prospects.
+--------------------------------------------------
+
 Title: Is Mastercard Stock Underperforming the Dow?
 URL: https://www.barchart.com/story/news/36299156/is-mastercard-stock-underperforming-the-dow
 Time Published: 2025-11-25T09:11:10Z
 Description: Even with Mastercard lagging the broader market lately, Wall Street isn’t backing down from its bullish stance.
---------------------------------------------------
-
-Title: synthetic-data-crafter added to PyPI
-URL: https://pypi.org/project/synthetic-data-crafter/
-Time Published: 2025-11-21T06:50:51Z
-Full Content:
-pip install synthetic-data-crafter Copy PIP instructions Released: Nov 26, 2025 Generate hyper-realistic synthetic data at scale — 750+ field types, real-world distributions, relational schemas, and one-click export to CSV, JSON, Parquet, SQL, Excel, Avro, and more. Hyper-realistic synthetic data generator — 750+ field types, real-world distributions, relational schemas, and instant export to 10+ formats. Install the latest version from PyPI: Each field in your schema requires: Options Examples: Key Labels: normal_distribution, binomial_distribution, poisson_distribution, exponential_distribution, geometric_distribution Options Examples: Options Examples: Options Examples: Options Examples: Options Examples: Options Examples: Options Examples: When exporting with all formats, your output directory will contain: Generate data that follows real-world statistical patterns: Create custom formats with regular expressions: Generate complex nested data: MIT SyntheticDataCrafter - Making test data generation simple and powerful 1.0.3 Nov 26, 2025 1.0.2 Nov 23, 2025 1.0.1 Nov 23, 2025 1.0.0 Nov 21, 2025 Download the file for your platform. If you're not sure which to choose, learn more about installing packages. Uploaded Nov 26, 2025 Source Filter files by name, interpreter, ABI, and platform. If you're not sure about the file name format, learn more about wheel file names. The dropdown lists show the available interpreters, ABIs, and platforms. Enable javascript to be able to filter the list of wheel files. Copy a direct link to the current filters Copy Uploaded Nov 26, 2025 Python 3 Details for the file synthetic_data_crafter-1.0.3.tar.gz. See more details on using hashes here. Details for the file synthetic_data_crafter-1.0.3-py3-none-any.whl. See more details on using hashes here. Status: all systems operational Developed and maintained by the Python community, for the Python community. Donate today! "PyPI", "Python Package Index", and the blocks logos are registered trademarks of the Python Software Foundation. © 2025 Python Software Foundation Site map Supported by
 --------------------------------------------------

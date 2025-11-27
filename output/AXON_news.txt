@@ -1,5 +1,11 @@
 List of news related to Axon Enterprise AXON:
 
+Title: S&P 500 Rises on Rate Cut Hopes, Alphabet Challenging Nvidia
+URL: https://financialpost.com/pmn/business-pmn/sp-500-rises-on-rate-cut-hopes-alphabet-challenging-nvidia
+Time Published: 2025-11-25T20:14:00Z
+Description: US stocks gained as traders upped bets of an interest-rate cut and Alphabet Inc. threatened the dominance of Nvidia Corp. in the artificial intelligence sector.
+--------------------------------------------------
+
 Title: RBC Capital Initiates Coverage of Axon Enterprise (AXON) with ‘Outperform’, $860 PT
 URL: https://finance.yahoo.com/news/rbc-capital-initiates-coverage-axon-132754654.html
 Time Published: 2025-11-25T13:27:54Z

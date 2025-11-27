@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Fund manager who ‘pounded the table’ in support of Nvidia eight years ago now likes these AI stocks
+URL: https://www.marketwatch.com/story/fund-manager-who-pounded-the-table-to-own-nvidia-in-2017-now-likes-these-ai-stocks-24840810
+Time Published: 2025-11-25T14:33:00Z
+Description: Tony Wang, who has a knack for spotting tech winners like Nvidia, talks about the companies that are exciting him now.
+--------------------------------------------------
+
 Title: These 3 Tech Companies Are Suddenly Paying Bigger Dividends
 URL: https://www.marketbeat.com/originals/these-3-tech-companies-are-suddenly-paying-bigger-dividends/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2025-11-24T18:02:00Z
@@ -17,10 +23,4 @@ Title: TSM Stock Price Prediction: Where Taiwan Semiconductor Manufacturing Coul
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e7088cee-8240-4ca2-9dab-ba68573f5757
 Time Published: 2025-11-22T13:23:55Z
 Description: None
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq bounce but end turbulent week with sharp losses
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-bounce-but-end-turbulent-week-with-sharp-losses-210532877.html
-Time Published: 2025-11-21T21:05:32Z
-Description: Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month.
 --------------------------------------------------

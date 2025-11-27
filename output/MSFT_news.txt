@@ -6,6 +6,24 @@ Time Published: 2025-11-25T17:19:33Z
 Description: Microsoft Corporation (NASDAQ:MSFT) is one of the AI Stocks in Focus on Wall Street. On November 29, JPMorgan reiterated the stock as “Overweight,” stating...
 --------------------------------------------------
 
+Title: Fund manager who ‘pounded the table’ in support of Nvidia eight years ago now likes these AI stocks
+URL: https://www.marketwatch.com/story/fund-manager-who-pounded-the-table-to-own-nvidia-in-2017-now-likes-these-ai-stocks-24840810
+Time Published: 2025-11-25T14:33:00Z
+Description: Tony Wang, who has a knack for spotting tech winners like Nvidia, talks about the companies that are exciting him now.
+--------------------------------------------------
+
+Title: Is Microsoft Stock Underperforming the Nasdaq?
+URL: https://www.barchart.com/story/news/36304196/is-microsoft-stock-underperforming-the-nasdaq
+Time Published: 2025-11-25T13:28:46Z
+Description: Microsoft has underperformed the broader Nasdaq index over the past year. However, Wall Street analysts remain strongly optimistic about its prospects.
+--------------------------------------------------
+
+Title: Could This AI Stock Become the Next Trillion-Dollar Chip Giant?
+URL: https://www.barchart.com/story/news/36302484/could-this-ai-stock-become-the-next-trillion-dollar-chip-giant
+Time Published: 2025-11-25T12:30:02Z
+Description: Arm Holdings has the potential to be a trillion-dollar chip giant over the next 10 years.
+--------------------------------------------------
+
 Title: Microsoft (MSFT) Earns Fresh Analyst Support After Ignite and Investor Meetings
 URL: https://finance.yahoo.com/news/microsoft-msft-earns-fresh-analyst-104839063.html
 Time Published: 2025-11-25T10:48:39Z
@@ -34,42 +52,4 @@ Title: Top Wall Street analysts favor these 3 stocks for solid upside potential
 URL: https://www.cnbc.com/2025/11/23/top-wall-street-analysts-favor-these-3-stocks-for-solid-upside.html
 Time Published: 2025-11-23T12:16:42Z
 Description: TipRanks' ranking service discusses three stocks favored by Wall Street, including Microsoft and Booking Holdings.
---------------------------------------------------
-
-Title: A Magnificent AI Bet? Stanley Druckenmiller’s Latest Tech Moves
-URL: https://www.marketbeat.com/stock-ideas/a-magnificent-ai-bet-stanley-druckenmillers-latest-tech-moves/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-21T22:32:00Z
-Description: Stanley Druckenmiller just made major buys in three Mag 7 stocs; see why the he's doubling down on AI hyperscalers and what it means for your portfolio
---------------------------------------------------
-
-Title: What's Going on With Oracle? Its Stock Price Has Dropped More Than 40% in Two Months.
-URL: https://www.investopedia.com/what-is-going-on-with-oracle-its-stock-price-has-dropped-more-than-40-percent-in-two-months-11854719
-Time Published: 2025-11-21T21:20:13Z
-Full Content:
-Betting big on artificial intelligence is proving to be a double-edged sword. Shares of Oracle (ORCL), the almost-50 year-old software company turned AI play, rallied furiously during the summer as investor enthusiasm for what could be the next transformative technology surged. Lately the company's stock has given up much of those gains, down more than 40% from its all-time high in September, more than other related plays including Meta Platforms (META), Palantir Technologies (PLTR) and Advanced Micro Devices (AMD), whose stocks declined at least 20% from their respective peaks. Now investors are looking at Oracle as the poster child for AI-related excess. Though concerns about AI valuations have been lingering for years, investors have recently started to pan stocks tied to the theme, weighing the amount companies are spending to develop the tech against the potential for future revenue. Oracle has come under increased scrutiny since it raised $18 billion in new debt last month to fund its infrastructure buildout, pushing its overall debt to over $100 billion. In January, Oracle announced that it was joining forces with ChatGPT maker OpenAI and Japanese tech giant Softbank on a $500 billion project, called Stargate, to develop AI infrastructure in the U.S. It's become increasingly difficult to view AI-related businesses in a vacuum, because of the relationships they've created between each other with multi-billion dollar deals. In that way Oracle's hurt could turn into pain for others. Oracle's quarterly earnings report in early September blew past Wall Street expectations, sending the stock soaring 36% in one day and briefly making co-founder and Executive Chairman Larry Ellison the world's richest person. A few weeks later, however, the company announced that longtime CEO Safra Catz would be replaced as CEO, and the stock has been declining ever since. Meanwhile, traders have started to pile into Oracle's credit-default swaps as a way to both hedge and bet against the AI trade, according to a recently published story by Bloomberg. Credit default swaps are derivative contracts that serve as a kind of insurance against the possibility that a borrower will default on its debt obligations. Consensus capital expenditures for AI hyperscalers, including Amazon (AMZN), Google (GOOGL), Meta, Microsoft (MSFT) and Oracle have risen to $533 billion now from $467 billion at the start of the third-quarter earnings season, according to Goldman Sachs. Oracle is also a major part of the web of deals between AI software makers, chip companies and cloud operators, whose circular deals—possibly indicating more self-dealing than representative of organic demand—have raised eyebrows. The Wall Street Journal reported that a large chunk of the outsize revenue backlog unveiled in its September earnings report was from an OpenAI deal. "The feedback loops created by the revenue and equity relationships between some of the largest U.S. public companies and smaller AI firms increase the risk that stress in one part of the AI ecosystem affects investors across the AI complex," Goldman analysts led by Ryan Hammond said in a report published earlier this week.
---------------------------------------------------
-
-Title: The Bull Case for AI Stocks Is ‘Far Weaker’ Than You Think…At Least According to This Analyst. 1 Stock He’s Downgrading Now.
-URL: https://www.barchart.com/story/news/36257803/the-bull-case-for-ai-stocks-is-far-weaker-than-you-think-at-least-according-to-this-analyst-1-stock-hes-downgrading-now
-Time Published: 2025-11-21T18:22:31Z
-Description: A Rothschild/Redburn analyst has downgraded Microsoft and Amazon as the bull thesis fails to play out with the intensity many have expected.
---------------------------------------------------
-
-Title: This 1 Company Is the Nvidia of Quantum Computing. Should You Buy Its Stock Now?
-URL: https://www.barchart.com/story/news/36255837/this-1-company-is-the-nvidia-of-quantum-computing-should-you-buy-its-stock-now
-Time Published: 2025-11-21T16:23:57Z
-Description: IONQ stock is up 20% in the past 52 weeks and remains a top investment as it expands its quantum computing moat, according to investment bank J.P. Morgan.
---------------------------------------------------
-
-Title: Guggenheim Stays Bullish on Microsoft (MSFT) as Ignite Showcases AI Momentum
-URL: https://finance.yahoo.com/news/guggenheim-stays-bullish-microsoft-msft-153714846.html
-Time Published: 2025-11-21T15:36:40Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the AI Stocks Making Moves on Wall Street. On November 19, Guggenheim reiterated its Buy rating on the stock...
---------------------------------------------------
-
-Title: synthetic-data-crafter added to PyPI
-URL: https://pypi.org/project/synthetic-data-crafter/
-Time Published: 2025-11-21T06:50:51Z
-Full Content:
-pip install synthetic-data-crafter Copy PIP instructions Released: Nov 26, 2025 Generate hyper-realistic synthetic data at scale — 750+ field types, real-world distributions, relational schemas, and one-click export to CSV, JSON, Parquet, SQL, Excel, Avro, and more. Hyper-realistic synthetic data generator — 750+ field types, real-world distributions, relational schemas, and instant export to 10+ formats. Install the latest version from PyPI: Each field in your schema requires: Options Examples: Key Labels: normal_distribution, binomial_distribution, poisson_distribution, exponential_distribution, geometric_distribution Options Examples: Options Examples: Options Examples: Options Examples: Options Examples: Options Examples: Options Examples: When exporting with all formats, your output directory will contain: Generate data that follows real-world statistical patterns: Create custom formats with regular expressions: Generate complex nested data: MIT SyntheticDataCrafter - Making test data generation simple and powerful 1.0.3 Nov 26, 2025 1.0.2 Nov 23, 2025 1.0.1 Nov 23, 2025 1.0.0 Nov 21, 2025 Download the file for your platform. If you're not sure which to choose, learn more about installing packages. Uploaded Nov 26, 2025 Source Filter files by name, interpreter, ABI, and platform. If you're not sure about the file name format, learn more about wheel file names. The dropdown lists show the available interpreters, ABIs, and platforms. Enable javascript to be able to filter the list of wheel files. Copy a direct link to the current filters Copy Uploaded Nov 26, 2025 Python 3 Details for the file synthetic_data_crafter-1.0.3.tar.gz. See more details on using hashes here. Details for the file synthetic_data_crafter-1.0.3-py3-none-any.whl. See more details on using hashes here. Status: all systems operational Developed and maintained by the Python community, for the Python community. Donate today! "PyPI", "Python Package Index", and the blocks logos are registered trademarks of the Python Software Foundation. © 2025 Python Software Foundation Site map Supported by
 --------------------------------------------------
