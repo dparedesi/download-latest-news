@@ -1,19 +1,43 @@
 List of news related to Amazon stock price AMZN:
 
+Title: BNP Paribas Exane Initiates Amazon (AMZN) at Outperform, Says AI Concerns Are Overblown
+URL: https://finance.yahoo.com/news/bnp-paribas-exane-initiates-amazon-101757753.html
+Time Published: 2025-11-26T10:17:57Z
+Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the Hot AI Stocks to Keep on Your Radar. On November 24, BNP Paribas Exane initiated coverage on the stock with an...
+--------------------------------------------------
+
+Title: Tech Titans Take Center Stage: Which of These 4 AI Stocks Is the Better Buy?
+URL: https://www.barchart.com/story/news/36314076/tech-titans-take-center-stage-which-of-these-4-ai-stocks-is-the-better-buy
+Time Published: 2025-11-25T21:24:12Z
+Description: While all four present great opportunities for investors who want exposure to AI today, one is my favorite pick.
+--------------------------------------------------
+
+Title: Will the S&P 500 Rally in December? These 3 Signals Point to a Big Move Ahead
+URL: https://www.marketbeat.com/originals/will-the-s-and-p-500-rally-in-december-these-3-signals-point-to-a-big-move-ahead/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-11-25T21:09:00Z
+Description: The S&P 500 is set up to rally in December as macroeconomic headwinds ease and the AI trade is reignited. A new high may be set before year's end.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq rally for 3rd day as Fed rate cut hopes grow, Apple and Alphabet notch records
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-for-3rd-day-as-fed-rate-cut-hopes-grow-apple-and-alphabet-notch-records-210019302.html
+Time Published: 2025-11-25T21:00:19Z
+Description: Markets are muted after a strong start to the week as investors take stock of a Fed-fueled rebound.
+--------------------------------------------------
+
 Title: Corporate Insiders Have Sold $25 Billion in Stock in Just 60 Days. Before You Panic and Sell Your Shares, Read This.
 URL: https://www.barchart.com/story/news/36308590/corporate-insiders-have-sold-25-billion-in-stock-in-just-60-days-before-you-panic-and-sell-your-shares-read-this
 Time Published: 2025-11-25T16:12:51Z
 Description: Over the last 60 days, over $25 billion in insider transactions have flooded the stock market across multiple sectors, and overwhelmingly, they’ve been sell ...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq mixed with retail sales, inflation data in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-with-retail-sales-inflation-data-in-focus-143604082.html
+Title: Stock market today: Dow, S&P 500, Nasdaq jumps as Wall Street returns to rally mode while Nvidia lags
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jumps-as-wall-street-returns-to-rally-mode-while-nvidia-lags-143604029.html
 Time Published: 2025-11-25T14:36:04Z
 Description: Markets are muted after a strong start to the week as investors take stock of a Fed-fueled rebound.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq jumps as Wall Street returns to rally mode while Nvidia lags
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jumps-as-wall-street-returns-to-rally-mode-while-nvidia-lags-143604029.html
+Title: Stock market today: Dow, S&P 500, Nasdaq mixed with retail sales, inflation data in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-with-retail-sales-inflation-data-in-focus-143604082.html
 Time Published: 2025-11-25T14:36:04Z
 Description: Markets are muted after a strong start to the week as investors take stock of a Fed-fueled rebound.
 --------------------------------------------------

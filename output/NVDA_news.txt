@@ -1,16 +1,72 @@
 List of news related to NVIDIA NVDA:
 
+Title: Analysts Say Nvidia’s (NVDA) Datacenter Opportunity Is Enormous—and the AI Cycle Is ‘Stronger for Longer’
+URL: https://finance.yahoo.com/news/analysts-nvidia-nvda-datacenter-opportunity-100955937.html
+Time Published: 2025-11-26T10:09:55Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Hot AI Stocks to Keep on Your Radar. On November 24, Bernstein reiterated the stock as “Outperform,” saying...
+--------------------------------------------------
+
+Title: Nvidia says it isn't using 'circular financing' schemes. 2 famous short sellers disagree.
+URL: https://finance.yahoo.com/news/nvidia-says-it-isnt-using-circular-financing-schemes-2-famous-short-sellers-disagree-100021210.html
+Time Published: 2025-11-26T10:00:21Z
+Description: Jim Chanos and Michael Burry claim Nvidia is engaged in questionable vendor financing.
+--------------------------------------------------
+
+Title: US stock futures rising today: 5 reasons why Dow, S&P 500 and Nasdaq are gaining — here’s top pre-market movers
+URL: https://economictimes.indiatimes.com/news/international/us/us-stock-futures-rising-today-5-reasons-why-dow-sp-500-and-nasdaq-are-gaining-heres-top-pre-market-movers/articleshow/125585390.cms
+Time Published: 2025-11-26T09:29:22Z
+Full Content:
+US stock futures moved higher early Tuesday as the Dow hit 47,243, up 64 points, while the S&P 500 rose to 6,796.50 and Nasdaq futures climbed to 25,164.25. Traders reacted to steady tech buying and lighter pre-holiday volatility. Webull jumped 6.32% and Tesla gained 0.82%, while Alphabet touched a new high. Nvidia slipped 0.70% and Li Auto fell 4.20% as mixed tech sentiment shaped early trade. Listen to this article in summarized format Unlock AI Briefing and Premium Content (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Omar Abdullah slams BJP over Vaishno Devi college row 'We will respond appropriately,' Afghanistan warns Pakistan 'Indian skies protected': Safran hails India’s defence, space advances Delhi introduces its first hot air balloon rides Red Fort blast: NIA nabs Faridabad man Soyab for aiding bomber ‘Pakistan still silent on...’ : India remembers 26/11 victims after 17 years Constitution Day celebrations at Samvidhan Sadan PM Modi flags off Safran Aircraft Engine Services Facility in Hyderabad Environmentalist explains Delhi smog link to Hayli Gubbi eruption 'Arunachal is indisputably part of India,' India warns China Omar Abdullah slams BJP over Vaishno Devi college row 'We will respond appropriately,' Afghanistan warns Pakistan 'Indian skies protected': Safran hails India’s defence, space advances Delhi introduces its first hot air balloon rides Red Fort blast: NIA nabs Faridabad man Soyab for aiding bomber ‘Pakistan still silent on...’ : India remembers 26/11 victims after 17 years Constitution Day celebrations at Samvidhan Sadan PM Modi flags off Safran Aircraft Engine Services Facility in Hyderabad Environmentalist explains Delhi smog link to Hayli Gubbi eruption 'Arunachal is indisputably part of India,' India warns China Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Commodities Top Slideshow Top Prime Articles Private Companies Top Story Listing Top Definitions Top Market Pages Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures edge up as Wall Street looks to keep rallying into Thanksgiving
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-as-wall-street-looks-to-keep-rallying-into-thanksgiving-235318820.html
 Time Published: 2025-11-25T23:53:18Z
 Description: Stock futures held steady as investors realigned amid a month of losses.
 --------------------------------------------------
 
+Title: Google is Winning the AI Race by Stealing Exxon's Business Model. Here's How.
+URL: https://www.barchart.com/story/news/36315334/google-is-winning-the-ai-race-by-stealing-exxon-s-business-model-here-s-how
+Time Published: 2025-11-25T22:26:09Z
+Description: Alphabet is transforming into the ‘Big Oil’ of AI, and GOOGL stock is crushing its competition in the process.
+--------------------------------------------------
+
+Title: A $4 Billion Reason to Buy Nokia Stock Now
+URL: https://www.barchart.com/story/news/36314738/a-4-billion-reason-to-buy-nokia-stock-now
+Time Published: 2025-11-25T21:57:11Z
+Description: Nokia has agreed to invest $4 billion in U.S. R&D and manufacturing.
+--------------------------------------------------
+
+Title: Stocks Settle Higher as US Economic News Lifts Fed Rate Cut Expectations
+URL: https://www.barchart.com/story/news/36314245/stocks-settle-higher-as-us-economic-news-lifts-fed-rate-cut-expectations
+Time Published: 2025-11-25T21:35:59Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed up by +0.91%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +1.43%, and the Nasdaq 100...
+--------------------------------------------------
+
+Title: S&P 500 Gains and Losses Today: Nvidia, AMD Slide After Report of Google AI Chip Deal; Best Buy Stock Jumps
+URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-nvidia-amd-slide-after-report-of-google-ai-chip-deal-best-buy-stock-jumps-nvda-amd-bby-11856492
+Time Published: 2025-11-25T21:33:25Z
+Full Content:
+Several top AI chipmakers lost ground as a potential deal between two Big Tech giants underscored competitive pressures in the market. Meanwhile, shares of an electronics retailer moved higher after a strong quarterly report. Major U.S. equities indexes rose for the third straight session as investors grew increasingly optimistic that the Federal Reserve could cut interest rates at its December meeting. The Dow rose 1.4%, the S&P 500 gained 0.9%, and the Nasdaq ended 0.7% higher. See here for more from Investopedia on Tuesday's market moves. Keysight Technologies (KEYS) shares jumped 10% to log Tuesday's top performance in the S&P 500, after the provider of electronic test and measurement solutions topped quarterly earnings estimates. The company's sales outlook came in ahead of expectations, boosted by strong demand from AI data centers. Keysight also announced a new $1.5 billion share repurchase program. Shares of companies exposed to the housing market extended their recent rise amid growing optimism about a cut in interest rates, which would lead to lower mortgage rates. Builders FirstSource (BLDR) stock surged close to 9% Tuesday, adding to solid gains posted by the residential construction materials supplier in the prior session. Consumer electronics retailer Best Buy (BBY) reported better-than-expected same-store sales, revenue, and adjusted profit for the third quarter, and its shares powered over 5% higher. The company also raised its full-year outlook, pointing to consumer resilience as well as gains in the computer, tablet, and gaming categories as customers upgrade and replace older devices. Shares of chipmaker Advanced Micro Devices (AMD) dropped about 4%, falling the most of any S&P 500 stock Tuesday, while Nvidia (NVDA) slipped nearly 3% following a report that Meta Platforms (META) is evaluating using AI chips from Google. Shares of Google parent Alphabet (GOOGL) climbed close to 2% to finish at a fresh high. J.M. Smucker (SJM) stock lost 3.7% after the parent of its namesake fruit spreads, Jif peanut butter, and Folgers coffee released its fiscal second-quarter earnings report. Although sales for the period edged out forecasts and adjusted profit matched expectations, Smucker's full-year profit outlook disappointed. The company has raised its coffee prices as it navigates tariff pressures but said it would refrain from additional price hikes this winter after the U.S. excluded raw coffee from tariffs.
+--------------------------------------------------
+
 Title: Apple shares hit new all-time intraday and closing highs
 URL: https://macdailynews.com/2025/11/25/apple-shares-hit-new-all-time-intraday-and-closing-highs-251125/
 Time Published: 2025-11-25T21:24:26Z
 Full Content:
-Update font size. Reset In Nasdaq trading today, shares of Apple Inc. (AAPL) rose $1.05 to $276.97, a new all-time closing high. Apple today also set a new all-time intraday high of $280.38. Apple’s 52-week low stands at $169.21 set on April 8, 2025, the very date on which we wrote, “Sub-$170 AAPL seems like an absolute gift to us…” Today’s trading volume for AAPL shares was 25,804,311 versus Apple’s average trading volume of 51,609,717 shares. Apple’s PE Ratio currently stands at 37.41. Apple currently has a market value of $4.110 trillion, making it the world’s second-most valuable company. The top five U.S. publicly-traded companies, based on market value: Selected companies’ current market values: • Meta Platforms (META) – $1.604T • Taiwan Semi (TSM) – $1.476T • Tesla (TSLA) – $1.395T • Berkshire Hathaway (BRK-A) – $1.098T • Walmart (WMT) – $853.585B • Netflix (NFLX) – $442.377B • Advanced Micro Devices (AMD) – $335.588B • Cisco (CSCO) – $301.548B • IBM (IBM) – $284.608B • Disney (DIS) – $185.709B • Intel (INTC) – $170.909B • Sony (SONY) – $170.623B • SoftBank (SFTBF) – $143.702B • Adobe (ADBE) – $135.553B • Spotify (SPOT) – $120.545B • Dell (DELL) – $84.665B • Nokia (NOK) – $33.606B • Hewlett-Packard (HPQ) – $22.843B • SiriusXM (SIRI) – $7.068B • BlackBerry (BB) – $2.388B • Sonos (SONO) – $2.234B • RealNetworks (RNWK) was delisted from U.S. exchanges on December 21, 2022 and is no longer publicly traded.🍩 Apple all-time high (AAPL) via NASDAQ here. MacDailyNews Take: Bang! Zoom! To the moon! Please help support MacDailyNews — and enjoy subscriber-only articles, comments, chat, and more — by subscribing to our Substack: macdailynews.substack.com. Thank you! Support MacDailyNews at no extra cost to you by using this link to shop at Amazon. Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Notify me of follow-up comments by email. Notify me of new posts by email. Δ This site uses Akismet to reduce spam. Learn how your comment data is processed. In Nasdaq trading today, shares of Apple Inc. rose to hit a new all-time closing high. Apple’s all-time intraday high was also set today… Nearly two years after its ambitious debut, Apple’s Vision Pro headset has received a subtle yet significant refresh with the M5 chip… Apple has filed a petition at the Delhi High Court challenging India’s updated antitrust regulations, which could expose the company to… It’s April 1, 1976 — April Fool’s Day, no les — and two Steves, Jobs and Wozniak, along with a third partner named Ron Wayne, are scribbling… A group has sued Apple alleging that the company uses conflict minerals tied to human rights abuses in the Democratic Republic of Congo… Enter your email address to follow MacDailyNews and receive notifications of new posts by email. Email Address Follow :-)
+Update font size. Reset In Nasdaq trading today, shares of Apple Inc. (AAPL) rose $1.05 to $276.97, a new all-time closing high. Apple today also set a new all-time intraday high of $280.38. Apple’s 52-week low stands at $169.21 set on April 8, 2025, the very date on which we wrote, “Sub-$170 AAPL seems like an absolute gift to us…” Today’s trading volume for AAPL shares was 25,804,311 versus Apple’s average trading volume of 51,609,717 shares. Apple’s PE Ratio currently stands at 37.41. Apple currently has a market value of $4.110 trillion, making it the world’s second-most valuable company. The top five U.S. publicly-traded companies, based on market value: Selected companies’ current market values: • Meta Platforms (META) – $1.604T • Taiwan Semi (TSM) – $1.476T • Tesla (TSLA) – $1.395T • Berkshire Hathaway (BRK-A) – $1.098T • Walmart (WMT) – $853.585B • Netflix (NFLX) – $442.377B • Advanced Micro Devices (AMD) – $335.588B • Cisco (CSCO) – $301.548B • IBM (IBM) – $284.608B • Disney (DIS) – $185.709B • Intel (INTC) – $170.909B • Sony (SONY) – $170.623B • SoftBank (SFTBF) – $143.702B • Adobe (ADBE) – $135.553B • Spotify (SPOT) – $120.545B • Dell (DELL) – $84.665B • Nokia (NOK) – $33.606B • Hewlett-Packard (HPQ) – $22.843B • SiriusXM (SIRI) – $7.068B • BlackBerry (BB) – $2.388B • Sonos (SONO) – $2.234B • RealNetworks (RNWK) was delisted from U.S. exchanges on December 21, 2022 and is no longer publicly traded.🍩 Apple all-time high (AAPL) via NASDAQ here. MacDailyNews Take: Bang! Zoom! To the moon! Please help support MacDailyNews — and enjoy subscriber-only articles, comments, chat, and more — by subscribing to our Substack: macdailynews.substack.com. Thank you! Support MacDailyNews at no extra cost to you by using this link to shop at Amazon. Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Notify me of follow-up comments by email. Notify me of new posts by email. Δ This site uses Akismet to reduce spam. Learn how your comment data is processed. Apple has collaborated with renowned Japanese fashion house ISSEY MIYAKE to launch the iPhone Pocket — a limited-edition knitted carrier… Apple is poised to reclaim its position as the world’s top smartphone manufacturer, topping a raft of iPhone knockoff peddlers… In a setback for Apple TV’s budding French-language content slate, the streamer abandons its crime thriller series “The Hunt” (“Traqués”)… Singapore’s Ministry of Home Affairs announced on Tuesday that police have directed Apple and Google to block scammers from impersonating… Poland’s antitrust authority, UOKiK, announced on Tuesday that it has launched an investigation into whether Apple is abusing its dominant… Enter your email address to follow MacDailyNews and receive notifications of new posts by email. Email Address Follow :-)
+--------------------------------------------------
+
+Title: Will the S&P 500 Rally in December? These 3 Signals Point to a Big Move Ahead
+URL: https://www.marketbeat.com/originals/will-the-s-and-p-500-rally-in-december-these-3-signals-point-to-a-big-move-ahead/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-11-25T21:09:00Z
+Description: The S&P 500 is set up to rally in December as macroeconomic headwinds ease and the AI trade is reignited. A new high may be set before year's end.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq rally for 3rd day as Fed rate cut hopes grow, Apple and Alphabet notch records
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-for-3rd-day-as-fed-rate-cut-hopes-grow-apple-and-alphabet-notch-records-210019302.html
+Time Published: 2025-11-25T21:00:19Z
+Description: Markets are muted after a strong start to the week as investors take stock of a Fed-fueled rebound.
 --------------------------------------------------
 
 Title: 5 reasons to buy the Betashares Nasdaq 100 ETF
@@ -255,59 +311,4 @@ Title: Stocks Finish Sharply Higher as Tech Stocks Soar
 URL: https://www.barchart.com/story/news/36293111/stocks-finish-sharply-higher-as-tech-stocks-soar
 Time Published: 2025-11-24T21:35:37Z
 Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up by +1.55%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.44%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Earnings live: Zoom stock pops after upbeat results as CEO touts AI adoption
-URL: https://finance.yahoo.com/news/live/earnings-live-zoom-stock-pops-after-upbeat-results-as-ceo-touts-ai-adoption-213015611.html
-Time Published: 2025-11-24T21:30:15Z
-Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
---------------------------------------------------
-
-Title: Stock market today: Nasdaq sees biggest jump since May, S&P 500 soars as Alphabet, Tesla lead tech rally
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sees-biggest-jump-since-may-sp-500-soars-as-alphabet-tesla-lead-tech-rally-210114487.html
-Time Published: 2025-11-24T21:01:14Z
-Description: Spirits are upbeat after a Fed official signaled support for a December rate cut.
---------------------------------------------------
-
-Title: I Paid for Michael Burry’s New $400 Substack So You Don’t Have To
-URL: https://www.barchart.com/story/news/36291929/i-paid-for-michael-burrys-new-400-substack-so-you-dont-have-to
-Time Published: 2025-11-24T20:46:06Z
-Description: After de-registering Scion Asset Management, Burry is entering the next phase of his career via subscription newsletter.
---------------------------------------------------
-
-Title: Bridgewater Associates Is Giving Up on Lyft Stock. Should You?
-URL: https://www.barchart.com/story/news/36291482/bridgewater-associates-is-giving-up-on-lyft-stock-should-you
-Time Published: 2025-11-24T19:56:49Z
-Description: Lyft’s improving fundamentals contrast sharply with Bridgewater’s full exit, raising the question of whether institutional selling or accelerating growth...
---------------------------------------------------
-
-Title: Bank of America Forecasts $40 EPS for Nvidia Stock in Just 5 Years. Should You Buy NVDA Here?
-URL: https://www.barchart.com/story/news/36291359/bank-of-america-forecasts-40-eps-for-nvidia-stock-in-just-5-years-should-you-buy-nvda-here
-Time Published: 2025-11-24T19:43:04Z
-Description: Nvidia is the largest company globally, yet NVDA stock trades at an attractive valuation in 2025, according to Bank of America.
---------------------------------------------------
-
-Title: Ray Dalio Confirms the Market Is in a Bubble… But He Says It’s Not Time to Sell Nvidia Stock Yet
-URL: https://www.barchart.com/story/news/36291096/ray-dalio-confirms-the-market-is-in-a-bubble-but-he-says-its-not-time-to-sell-nvidia-stock-yet
-Time Published: 2025-11-24T19:24:34Z
-Description: Dalio believes we are in a bubble, but it is yet to be pricked. Does this mean you should keep holding Nvidia?
---------------------------------------------------
-
-Title: NVIDIA Nears Buy Zone as Rumors Swirl About China Chip Deal
-URL: https://www.marketbeat.com/originals/nvidia-nears-buy-zone-as-rumors-swirl-about-china-chip-deal/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-24T19:23:00Z
-Description: NVIDIA may soon resume chip sales to China, offering a major upside to its already bullish stock forecast.
---------------------------------------------------
-
-Title: Did You Buy the Dip? It Looks Like Retail Investors Are Feeling Good Again
-URL: https://www.investopedia.com/did-you-buy-the-dip-it-looks-like-retail-investors-are-feeling-good-again-ai-trade-tech-11855878
-Time Published: 2025-11-24T19:22:34Z
-Full Content:
-The gloom that has hung over Wall Street in recent weeks showed signs of dissipating on Monday. The tech-heavy Nasdaq Composite was up about 2.4% in recent trading, leading the major indexes higher after lagging during Friday’s rally. Big tech shares and many of Wall Street’s favorite AI stocks were among Monday’s top gainers, with chipmakers Broadcom (AVGO) and Micron (MU) each up more than 7% and all of the Magnificent Seven stocks in the green. Dip-buying retail investors may be partly responsible. Money poured into S&P 500 exchange-traded funds last week while the index slumped, according to a UBS note, while ETF inflows as a percent of assets under management climbed to their highest level this year—both signs, the analysts wrote, of individual-investor optimism. And inflows into leveraged funds accelerated throughout the sell-off, according to Deutsche Bank analysts, another potential sign of retail's confidence. There are signs of improving investor sentiment, particularly among retail investors, heading into the Thanksgiving holiday. Retail investor behavior often reflects market sentiment, or vibes, as they usually lack the detailed market data and sophisticated algorithms of institutional investors. Sentiment is itself one of the main drivers of stock market returns. Stocks sold off last week as concerns about an AI bubble and uncertainty about the trajectory of monetary policy weighed on sentiment. The S&P 500 lost nearly 2% and the Nasdaq dropped 2.7%. Equity positioning turned underweight—indicating caution—for the first time since July, according to Deutsche Bank. Chief among investors’ concerns was whether the Federal Reserve will cut interest rates next month. Signs of a weakening labor market argue for a cut, while evidence that inflation is accelerating well above the Fed's 2% target could drive caution. Rate-cut expectations jumped all over the place last week. The September jobs report—the last piece of official labor market data policymakers are likely to see before they meet—sent mixed signals, causing expectations to plummet. But they rebounded Friday when one Fed official indicated he was open to cutting. As of Monday, market participants put the odds of a December rate cut at about 77%, up from just 30% last Wednesday. Investors are also debating whether the AI boom that’s fueled the bull market is a perilous bubble. A stronger-than-expected earnings report from chip giant Nvidia (NVDA) last week wasn’t enough to put those fears to bed. AI stocks continued to slump following the report, and many missed out on Friday’s rally entirely. Calm returned to markets Monday. The Cboe Volatility Index (VIX), known as Wall Street's “Fear Index,” recently stood at about 21, a tick above the level associated with smooth sailing for stocks. And CNN’s Fear & Greed index, which tracks seven market metrics to gauge the prevailing sentiment among investors, looked less scary after notching its most pessimistic reading since early April. Last week's AAII Sentiment Survey of individual investors, meanwhile, also showed a slightly more optimistic outlook than seen a week earlier, when nearly half of respondents were bearish. Economic data this week could test that calm. Investors will be watching jobless claims data on Wednesday for a clearer picture of the state of the job market. And the Producer Price Index for September, due Tuesday, should fill out the Fed's picture of inflation; it's likely to be the last inflation data released before the Fed makes its rate decision.
---------------------------------------------------
-
-Title: Cathie Wood buys $16.7 million of megacap AI stock
-URL: https://www.thestreet.com/investing/cathie-wood-buys-16-7-million-of-megacap-ai-stock
-Time Published: 2025-11-24T18:07:00Z
-Description: Cathie Wood, CEO of Ark Investment Management, typically focuses on small- and mid-cap technology stocks. But she occasionally ventures into megacap growth...
 --------------------------------------------------
