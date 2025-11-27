@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: As Microsoft Partners Up with Nvidia and Anthropic, Should You Buy, Sell, or Hold MSFT Stock?
+URL: https://www.barchart.com/story/news/36312158/as-microsoft-partners-up-with-nvidia-and-anthropic-should-you-buy-sell-or-hold-msft-stock
+Time Published: 2025-11-25T20:00:03Z
+Description: Microsoft is poised to benefit from large partnerships with two of the largest and most important AI startups of our time.
+--------------------------------------------------
+
+Title: Nvidia Stock Is Selling Off on Google-Meta Deal. Should You Buy the NVDA Dip Today?
+URL: https://www.barchart.com/story/news/36312067/nvidia-stock-is-selling-off-on-google-meta-deal-should-you-buy-the-nvda-dip-today
+Time Published: 2025-11-25T19:50:36Z
+Description: Nvidia shares sink on reports Meta Platforms could soon switch to Google’s custom AI chips to power its AI data centers. But Cramer recommends sticking with ...
+--------------------------------------------------
+
 Title: Microsoft’s (MSFT) Agent 365 and Copilot App Builder Drive Bullish Analyst Outlook
 URL: https://finance.yahoo.com/news/microsoft-msft-agent-365-copilot-171933532.html
 Time Published: 2025-11-25T17:19:33Z
