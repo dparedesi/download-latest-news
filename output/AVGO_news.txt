@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Is Palo Alto Networks Stock Underperforming the Dow?
+URL: https://www.barchart.com/story/news/36355970/is-palo-alto-networks-stock-underperforming-the-dow
+Time Published: 2025-11-28T12:12:34Z
+Description: Palo Alto Networks has underperformed the Dow over the past year, yet analysts remain moderately optimistic about the stock’s prospects.
+--------------------------------------------------
+
+Title: AVGO Iron Condor Could See a 60% Return in 3 Weeks
+URL: https://www.barchart.com/story/news/36355686/avgo-iron-condor-could-see-a-60-return-in-3-weeks
+Time Published: 2025-11-28T12:00:02Z
+Description: Broadcom (AVGO) is due to report earnings after the market close on December 11th and the market is pricing in a 10.1% move in either direction.
+--------------------------------------------------
+
 Title: Goldman Sachs revamps Broadcom stock price target with a twist
 URL: https://www.thestreet.com/investing/stocks/goldman-sachs-revamps-broadcom-stock-price-target-with-a-twist
 Time Published: 2025-11-27T17:33:00Z
