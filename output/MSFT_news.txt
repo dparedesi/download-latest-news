@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: This AI Dividend Stock Is a Buy Even as the S&P 500’s Yield Falls to Dot-Com Lows
+URL: https://www.barchart.com/story/news/36349747/this-ai-dividend-stock-is-a-buy-even-as-the-s-p-500s-yield-falls-to-dot-com-lows
+Time Published: 2025-11-28T00:30:02Z
+Description: The S&P 500 Index’s dividend yield is now at levels last seen during the dot-com boom. For tech investors, though, Microsoft looks like a good buy given its ...
+--------------------------------------------------
+
 Title: Is ServiceNow Stock Underperforming the Nasdaq?
 URL: https://www.barchart.com/story/news/36338782/is-servicenow-stock-underperforming-the-nasdaq
 Time Published: 2025-11-27T07:02:28Z
@@ -106,16 +112,4 @@ Title: Microsoft Corporation (MSFT) Down More Than 12% Since Q1 2026 Results
 URL: https://finance.yahoo.com/news/microsoft-corporation-msft-down-more-135834038.html
 Time Published: 2025-11-24T13:58:34Z
 Description: ​Microsoft Corporation (NASDAQ:MSFT) is one of the Best Cloud Stocks to Buy Now. Microsoft Corporation (NASDAQ:MSFT) has declined more than 12.8% since its...
---------------------------------------------------
-
-Title: Economic data returns, retail earnings feature in holiday-shortened week: What to watch this week
-URL: https://finance.yahoo.com/news/economic-data-returns-retail-earnings-feature-in-holiday-shortened-week-what-to-watch-this-week-123746898.html
-Time Published: 2025-11-23T12:37:46Z
-Description: Investors will be tracking retail earnings and economic data as the government works through a backlog of reports delayed by the shutdown.
---------------------------------------------------
-
-Title: Top Wall Street analysts favor these 3 stocks for solid upside potential
-URL: https://www.cnbc.com/2025/11/23/top-wall-street-analysts-favor-these-3-stocks-for-solid-upside.html
-Time Published: 2025-11-23T12:16:42Z
-Description: TipRanks' ranking service discusses three stocks favored by Wall Street, including Microsoft and Booking Holdings.
 --------------------------------------------------

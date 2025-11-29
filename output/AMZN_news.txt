@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: This AI Dividend Stock Is a Buy Even as the S&P 500’s Yield Falls to Dot-Com Lows
+URL: https://www.barchart.com/story/news/36349747/this-ai-dividend-stock-is-a-buy-even-as-the-s-p-500s-yield-falls-to-dot-com-lows
+Time Published: 2025-11-28T00:30:02Z
+Description: The S&P 500 Index’s dividend yield is now at levels last seen during the dot-com boom. For tech investors, though, Microsoft looks like a good buy given its ...
+--------------------------------------------------
+
+Title: Amazon Enters Correction Zone—Time to Panic, or to Load Up?
+URL: https://www.marketbeat.com/originals/amazon-enters-correction-zonetime-to-panic-or-to-load-up/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-11-27T14:04:00Z
+Description: Amazon’s 15% correction is looking increasingly more like a reset than a reversal. Analysts are still bullish, and the fundamentals remain rock solid.
+--------------------------------------------------
+
 Title: Marvell Stock Is Down 25% in 2025, and This Analyst Says Investors Should Stay Away from the MRVL Dip
 URL: https://www.barchart.com/story/news/36332848/marvell-stock-is-down-25-in-2025-and-this-analyst-says-investors-should-stay-away-from-the-mrvl-dip
 Time Published: 2025-11-26T20:16:41Z
@@ -95,10 +107,4 @@ Title: Anthropic launches Claude Opus 4.5 as Google's Gemini 3 gains big backers
 URL: https://finance.yahoo.com/news/anthropic-launches-claude-opus-45-as-googles-gemini-3-gains-big-backers-191645109.html
 Time Published: 2025-11-24T19:16:45Z
 Description: Anthropic on Monday debuted its Claude Opus 4.5, which the company says is its most powerful AI model yet.
---------------------------------------------------
-
-Title: Black Friday battles: Why Walmart is still thumping Target
-URL: https://finance.yahoo.com/news/black-friday-battles-why-walmart-is-still-thumping-target-113007691.html
-Time Published: 2025-11-23T11:30:07Z
-Description: Target is out to lunch. Walmart, definitely not.
 --------------------------------------------------
