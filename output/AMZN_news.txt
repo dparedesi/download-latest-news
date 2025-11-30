@@ -6,10 +6,22 @@ Time Published: 2025-11-28T18:03:55Z
 Description: US stocks rose for the fifth day in a row on Friday, but the Nasdaq snapped its monthly winning streak.
 --------------------------------------------------
 
+Title: Shorting Secured Out-of-the-Money Amazon Puts Works Here
+URL: https://www.barchart.com/story/news/36360225/shorting-secured-out-of-the-money-amazon-puts-works-here
+Time Published: 2025-11-28T16:41:07Z
+Description: Last month, I recommended shorting the Amazon Inc. $235.00 strike price put option expiring today for a 1.36% yield over the month. It makes sense now to...
+--------------------------------------------------
+
 Title: Is This Under-the-Radar High-Yield AI Stock a Buy Now?
 URL: https://www.barchart.com/story/news/36356533/is-this-under-the-radar-high-yield-ai-stock-a-buy-now
 Time Published: 2025-11-28T13:00:02Z
 Description: Shutterstock offers a 6.37% dividend yield and is pivoting hard into AI data licensing and model training services, but its stock trades 45% below recent...
+--------------------------------------------------
+
+Title: AI data centers' massive demand for aluminum is crushing the US aluminum industry
+URL: https://finance.yahoo.com/news/ai-data-centers-massive-demand-for-aluminum-is-crushing-the-us-aluminum-industry-110035572.html
+Time Published: 2025-11-28T11:00:35Z
+Description: Aluminum plays a crucial role in data centers, electric vehicles, and a litany of other industries. But Big Tech's power demand is squeezing the aluminum...
 --------------------------------------------------
 
 Title: Amazon.com, Inc. (AMZN) Strengthens AI Momentum with HCLTech Partnership
@@ -113,16 +125,4 @@ Title: Is Amazon.com Stock Underperforming the Nasdaq?
 URL: https://www.barchart.com/story/news/36306453/is-amazon-com-stock-underperforming-the-nasdaq
 Time Published: 2025-11-25T14:25:48Z
 Description: Amazon.com has underperformed the Nasdaq over the past year, but analysts are highly optimistic about the stock’s prospects.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble with retail sales, inflation data in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-with-retail-sales-inflation-data-in-focus-235115811.html
-Time Published: 2025-11-24T23:51:15Z
-Description: Markets are muted after a strong start to the week as investors take stock of a Fed-fueled rebound.
---------------------------------------------------
-
-Title: Anthropic launches Claude Opus 4.5 as Google's Gemini 3 gains big backers
-URL: https://finance.yahoo.com/news/anthropic-launches-claude-opus-45-as-googles-gemini-3-gains-big-backers-191645109.html
-Time Published: 2025-11-24T19:16:45Z
-Description: Anthropic on Monday debuted its Claude Opus 4.5, which the company says is its most powerful AI model yet.
 --------------------------------------------------

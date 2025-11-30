@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Stocks Settle Higher as Chip Makers and Energy Producers Rally
+URL: https://www.barchart.com/story/news/36361590/stocks-settle-higher-as-chip-makers-and-energy-producers-rally
+Time Published: 2025-11-28T18:40:34Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed up by +0.54%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.61%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
 Title: Is Palo Alto Networks Stock Underperforming the Dow?
 URL: https://www.barchart.com/story/news/36355970/is-palo-alto-networks-stock-underperforming-the-dow
 Time Published: 2025-11-28T12:12:34Z
@@ -114,66 +120,4 @@ Title: S&P Futures Tick Lower With Focus on U.S. Retail Sales and PPI Data
 URL: https://www.barchart.com/story/news/36300743/s-p-futures-tick-lower-with-focus-on-u-s-retail-sales-and-ppi-data
 Time Published: 2025-11-25T11:12:13Z
 Description: December S&P 500 E-Mini futures (ESZ25) are trending down -0.12% this morning as investors brace for a flood of U.S. economic data, with particular attention...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble with retail sales, inflation data in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-with-retail-sales-inflation-data-in-focus-235115811.html
-Time Published: 2025-11-24T23:51:15Z
-Description: Markets are muted after a strong start to the week as investors take stock of a Fed-fueled rebound.
---------------------------------------------------
-
-Title: Bocom Initiates Broadcom (AVGO) Coverage With Buy Rating and $425 Target
-URL: https://finance.yahoo.com/news/bocom-initiates-broadcom-avgo-coverage-230406236.html
-Time Published: 2025-11-24T23:04:06Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is included among the 15 Best Long Term Stocks to Buy According to Reddit. On November⁠ 17, Bocom began cov⁠ering Broadcom Inc. (...
---------------------------------------------------
-
-Title: Stocks Finish Sharply Higher as Tech Stocks Soar
-URL: https://www.barchart.com/story/news/36293111/stocks-finish-sharply-higher-as-tech-stocks-soar
-Time Published: 2025-11-24T21:35:37Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up by +1.55%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.44%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Stock market today: Nasdaq sees biggest jump since May, S&P 500 soars as Alphabet, Tesla lead tech rally
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sees-biggest-jump-since-may-sp-500-soars-as-alphabet-tesla-lead-tech-rally-210114487.html
-Time Published: 2025-11-24T21:01:14Z
-Description: Spirits are upbeat after a Fed official signaled support for a December rate cut.
---------------------------------------------------
-
-Title: Ray Dalio Confirms the Market Is in a Bubble… But He Says It’s Not Time to Sell Nvidia Stock Yet
-URL: https://www.barchart.com/story/news/36291096/ray-dalio-confirms-the-market-is-in-a-bubble-but-he-says-its-not-time-to-sell-nvidia-stock-yet
-Time Published: 2025-11-24T19:24:34Z
-Description: Dalio believes we are in a bubble, but it is yet to be pricked. Does this mean you should keep holding Nvidia?
---------------------------------------------------
-
-Title: Did You Buy the Dip? It Looks Like Retail Investors Are Feeling Good Again
-URL: https://www.investopedia.com/did-you-buy-the-dip-it-looks-like-retail-investors-are-feeling-good-again-ai-trade-tech-11855878
-Time Published: 2025-11-24T19:22:34Z
-Full Content:
-The gloom that has hung over Wall Street in recent weeks showed signs of dissipating on Monday. The tech-heavy Nasdaq Composite was up about 2.4% in recent trading, leading the major indexes higher after lagging during Friday’s rally. Big tech shares and many of Wall Street’s favorite AI stocks were among Monday’s top gainers, with chipmakers Broadcom (AVGO) and Micron (MU) each up more than 7% and all of the Magnificent Seven stocks in the green. Dip-buying retail investors may be partly responsible. Money poured into S&P 500 exchange-traded funds last week while the index slumped, according to a UBS note, while ETF inflows as a percent of assets under management climbed to their highest level this year—both signs, the analysts wrote, of individual-investor optimism. And inflows into leveraged funds accelerated throughout the sell-off, according to Deutsche Bank analysts, another potential sign of retail's confidence. There are signs of improving investor sentiment, particularly among retail investors, heading into the Thanksgiving holiday. Retail investor behavior often reflects market sentiment, or vibes, as they usually lack the detailed market data and sophisticated algorithms of institutional investors. Sentiment is itself one of the main drivers of stock market returns. Stocks sold off last week as concerns about an AI bubble and uncertainty about the trajectory of monetary policy weighed on sentiment. The S&P 500 lost nearly 2% and the Nasdaq dropped 2.7%. Equity positioning turned underweight—indicating caution—for the first time since July, according to Deutsche Bank. Chief among investors’ concerns was whether the Federal Reserve will cut interest rates next month. Signs of a weakening labor market argue for a cut, while evidence that inflation is accelerating well above the Fed's 2% target could drive caution. Rate-cut expectations jumped all over the place last week. The September jobs report—the last piece of official labor market data policymakers are likely to see before they meet—sent mixed signals, causing expectations to plummet. But they rebounded Friday when one Fed official indicated he was open to cutting. As of Monday, market participants put the odds of a December rate cut at about 77%, up from just 30% last Wednesday. Investors are also debating whether the AI boom that’s fueled the bull market is a perilous bubble. A stronger-than-expected earnings report from chip giant Nvidia (NVDA) last week wasn’t enough to put those fears to bed. AI stocks continued to slump following the report, and many missed out on Friday’s rally entirely. Calm returned to markets Monday. The Cboe Volatility Index (VIX), known as Wall Street's “Fear Index,” recently stood at about 21, a tick above the level associated with smooth sailing for stocks. And CNN’s Fear & Greed index, which tracks seven market metrics to gauge the prevailing sentiment among investors, looked less scary after notching its most pessimistic reading since early April. Last week's AAII Sentiment Survey of individual investors, meanwhile, also showed a slightly more optimistic outlook than seen a week earlier, when nearly half of respondents were bearish. Economic data this week could test that calm. Investors will be watching jobless claims data on Wednesday for a clearer picture of the state of the job market. And the Producer Price Index for September, due Tuesday, should fill out the Fed's picture of inflation; it's likely to be the last inflation data released before the Fed makes its rate decision.
---------------------------------------------------
-
-Title: Broadcom is joining Alphabet in the AI rally. Why investors are jumping in
-URL: https://www.cnbc.com/2025/11/24/broadcom-is-joining-alphabet-in-the-ai-rally-why-investors-are-jumping-in.html
-Time Published: 2025-11-24T18:34:24Z
-Description: The move in Broadcom comes as investors continue to push shares of Google parent Alphabet higher. The two are related through their business with ASICs.
---------------------------------------------------
-
-Title: Broadcom stock surges 10% driven by AI infrastructure momentum
-URL: https://cryptobriefing.com/broadcom-stock-surges-ahead-of-earnings-on-ai-infrastructure-momentum/
-Time Published: 2025-11-24T17:35:33Z
-Full Content:
-Share this article Broadcom jumped 10% to $372 on Monday after Google’s Gemini 3 update reignited focus on their joint TPU chip development. Alphabet climbed 5% as investors responded to Gemini’s AI performance gains. Broadcom has partnered with Google since 2016 to build TPUs, now in their seventh generation. Gemini 3, trained mostly on these chips, is seen as a cost-efficient alternative to GPU-based systems. The TPU program is a growing revenue source for Broadcom as Google Cloud expands AI infrastructure. The stock is now nearing its 52-week high of $386. Sign in to your account Don’t have an account? Create one Create your account Already have an account? Sign In Forgot your password? Sign In
---------------------------------------------------
-
-Title: Stocks Supported by Strength in Tech and Fed Rate Cut Expectations
-URL: https://www.barchart.com/story/news/36286874/stocks-supported-by-strength-in-tech-and-fed-rate-cut-expectations
-Time Published: 2025-11-24T15:04:37Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.61%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.18%, and the Nasdaq 100 Index ($IUXX...
---------------------------------------------------
-
-Title: Broadcom’s Best Catalyst Yet Might Be Hiding in 2026 Forecasts
-URL: https://www.marketbeat.com/originals/broadcoms-best-catalyst-yet-might-be-hiding-in-2026-forecasts/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-24T14:10:00Z
-Description: One analyst is projecting a 36% increase in hyperscaler CapEx in 2026. Semiconductor leader Broadcom could be a significant beneficiary.
 --------------------------------------------------

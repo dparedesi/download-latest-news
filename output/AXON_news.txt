@@ -23,15 +23,3 @@ URL: https://finance.yahoo.com/news/axon-enterprise-axon-cooled-down-121306885.h
 Time Published: 2025-11-25T12:13:06Z
 Description: Carillon Tower Advisers, an investment management company, released its “Carillon Eagle Mid Cap Growth Fund” third-quarter 2025 investor letter. A copy of...
 --------------------------------------------------
-
-Title: These 3 Tech Companies Are Suddenly Paying Bigger Dividends
-URL: https://www.marketbeat.com/originals/these-3-tech-companies-are-suddenly-paying-bigger-dividends/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-24T18:02:00Z
-Description: AI-chip making giant Taiwan Semiconductor Manufacturing just boosted its dividend big time. See which other two tech stocks are also lifting their dividends.
---------------------------------------------------
-
-Title: Axon Enterprise Stock Outlook: Is Wall Street Bullish or Bearish?
-URL: https://www.barchart.com/story/news/36281676/axon-enterprise-stock-outlook-is-wall-street-bullish-or-bearish
-Time Published: 2025-11-24T11:31:35Z
-Description: Axon Enterprise has significantly underperformed the broader market over the past year, yet analysts remain strongly bullish on the stock’s prospects.
---------------------------------------------------
