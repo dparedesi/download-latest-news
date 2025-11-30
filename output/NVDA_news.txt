@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Dan Ives Says These Are the Top 3 Stocks to Buy Right Now
+URL: https://www.barchart.com/story/news/36371180/dan-ives-says-these-are-the-top-3-stocks-to-buy-right-now
+Time Published: 2025-11-29T17:00:02Z
+Description: The Wedbush analyst reckons these stocks to be table pounders at the moment.
+--------------------------------------------------
+
+Title: Nvidia (NVDA) Responds to Competition Fears as Meta Explores Google’s TPUs
+URL: https://finance.yahoo.com/news/nvidia-nvda-responds-competition-fears-110654850.html
+Time Published: 2025-11-29T11:06:54Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Making Headlines on Wall Street. On November 25, Bank of America maintained a positive outlook on...
+--------------------------------------------------
+
 Title: ChatGPT was unveiled 3 years ago, kicking off the AI revolution. For investors, it did even more.
 URL: https://finance.yahoo.com/news/chatgpt-was-unveiled-3-years-ago-kicking-off-the-ai-revolution-for-investors-it-did-even-more-110014912.html
 Time Published: 2025-11-29T11:00:14Z
@@ -296,17 +308,4 @@ Title: Tesla Is Looking for ‘Exceptional Ability’ in AI Chips. Does That Mak
 URL: https://www.barchart.com/story/news/36325799/tesla-is-looking-for-exceptional-ability-in-ai-chips-does-that-make-tsla-stock-a-buy-here
 Time Published: 2025-11-26T13:15:02Z
 Description: CEO Elon Musk has declared that the number of chips that Tesla will design will outnumber the combined strength of all chip-making rivals.
---------------------------------------------------
-
-Title: 5 Things to Know Before the Stock Market Opens
-URL: https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-november-26-2025-11857437
-Time Published: 2025-11-26T13:13:06Z
-Full Content:
-Stock futures are ticking higher as the market looks to extend its winning streak to three straight days; markets will be closed tomorrow for the Thanksgiving holiday and will have an abbreviated trading session on Friday; Nvidia has responded to reports that Google's AI chips are being considered by other tech giants; HP plans to reduce the size of its workforce; and Urban Outfitters shares are soaring after the retailer reported solid earnings and made encouraging comments about its outlook for the holiday season. Here's what you need to know today. Stock futures are pointing to a slightly higher open for major indexes this morning after two consecutive days of solid gains. Stocks have rallied this week—after falling sharply last week amid concerns about the AI trade—as investors have grown more optimistic that the Federal Reserve could cut interest rates at its next policy meeting in two weeks. Futures tied to the Dow Jones Industrial Average were up 0.1% recently, while those linked to the benchmark S&P 500 and the tech-focused Nasdaq added 0.2% and 0.3%, respectively. Gold futures were up 0.7% at $4,170 an ounce, gaining ground for the fourth straight day, while crude oil futures fell slightly to around $58 per barrel. Bitcoin was trading at $86,500 recently, down from an overnight high of just above $88,000. The yield on the 10-year Treasury note, which affects borrowing costs on all sorts of loans, was at 4.02%, up from 4.00% at yesterday's close. Traders will be able to take a breather this week after the recent stretch of volatile trading. U.S. stock and bond markets will be closed Thursday for the Thanksgiving holiday, and will have shortened trading schedules on Friday, closing at 1 p.m. and 2 p.m., respectively. After that, the next market holidays come towards the end of the year with the same shortened trading hours as Black Friday on Dec. 24, and no activity on Christmas Day and New Year's Day. Nvidia (NVDA) stock sank Tuesday and is down slightly in premarket trading Wednesday after a report suggested that its chipmaking dominance in the AI sector could be in question. A report from tech news outlet The Information said that Meta Platforms (META) is considering using AI chips made by Alphabet (GOOGL) unit Google, which is a market that Nvidia has dominated for the last several years. Nvidia responded to the report Tuesday, saying on social media that the company is "delighted by Google’s success — they’ve made great advances in AI and we continue to supply to Google." However, Nvidia said its products are still "a generation ahead of the industry" and are more flexible and powerful than Google's chips. Shares of HP (HPQ) are down this morning after the computer and printer maker released its quarterly results and unveiled a major cost-cutting initiative. After Tuesday's closing bell, HP reported revenue and profit that topped Wall Street expectations, but issued disappointing guiance, while announcing a restructuring plan aimed at saving $1 billion over the next three years. HP said it will cut between 4,000 and 6,000 jobs, up to nearly 10% of its workforce. The company said the cost-cutting effort is aimed at driving "customer satisfaction, product innovation, and productivity through artificial intelligence adoption and enablement." HP shares were down more than 2% in recent premarket trading. Urban Outfitters (URBN) shares are soaring Wednesday after the clothing retailer topped estimates in its latest earnings report. Sales came in at $1.53 billion while earnings per share were $1.28, each above the analyst consensus. In its earnings call after the bell Tuesday, CEO Richard Hayne said that November sales have been "robust," noting that the company has noticed a "slight shift in consumers' behavior," according to a transcript from AlphaSense. "We believe customers were waiting a bit longer this year to make their purchases until seasonal promotions began," Hayne said, "And we successfully met this shift with strong results in our early holiday events." Urban Outfitters shares were up 15% in premarket trading after jumping 10% Tuesday.
---------------------------------------------------
-
-Title: Earnings live: Dell stock rises, Deere and Zscaler slide in last major earnings day this week
-URL: https://finance.yahoo.com/news/live/earnings-live-dell-stock-rises-deere-and-zscaler-slide-in-last-major-earnings-day-this-week-124534758.html
-Time Published: 2025-11-26T12:45:34Z
-Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
 --------------------------------------------------
