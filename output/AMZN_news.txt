@@ -115,14 +115,14 @@ Time Published: 2025-11-25T16:12:51Z
 Description: Over the last 60 days, over $25 billion in insider transactions have flooded the stock market across multiple sectors, and overwhelmingly, they’ve been sell ...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq jumps as Wall Street returns to rally mode while Nvidia lags
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jumps-as-wall-street-returns-to-rally-mode-while-nvidia-lags-143604029.html
+Title: Stock market today: Dow, S&P 500, Nasdaq mixed with retail sales, inflation data in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-with-retail-sales-inflation-data-in-focus-143604082.html
 Time Published: 2025-11-25T14:36:04Z
 Description: Markets are muted after a strong start to the week as investors take stock of a Fed-fueled rebound.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq mixed with retail sales, inflation data in focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-with-retail-sales-inflation-data-in-focus-143604082.html
+Title: Stock market today: Dow, S&P 500, Nasdaq jumps as Wall Street returns to rally mode while Nvidia lags
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jumps-as-wall-street-returns-to-rally-mode-while-nvidia-lags-143604029.html
 Time Published: 2025-11-25T14:36:04Z
 Description: Markets are muted after a strong start to the week as investors take stock of a Fed-fueled rebound.
 --------------------------------------------------
