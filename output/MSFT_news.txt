@@ -1,5 +1,12 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Wildly Violent (and Profitable)
+URL: https://dailyreckoning.com/wildly-violent-and-profitable/
+Time Published: 2025-11-29T23:00:03Z
+Full Content:
+By Adam Sharp PostedNovember 29, 2025 The story of the world’s first IPO is a wild one. The Dutch East India Company (VOC) was founded in Amsterdam in 1602. Over the next hundred years, the VOC would dominate trade with Asia, wage multiple wars, commit genocide, and build monopolies. Along the way they sold gobs of spices, silks, and opium. But before all of that could happen, the VOC’s founders needed to raise money. So in 1602 the Dutch East India Company conducted the first initial public offering, giving all Dutchmen the chance to invest in this new venture. VOC Co-Founder Dirck Van Os | Source: Wikipedia The VOC IPO was unique because it was open to anyone, not just wealthy merchants and royalty. In total, 1,143 investors participated. Co-founder Dirck Van Os’ maid, Neeltgen Cornelis, was the second-to-last investor on the registry, having subscribed 100 guilders, which was likely her life’s savings. If Mrs. Cornelis the maid held onto her shares for the long run, she did quite well. In some years, VOC investors received a dividend equivalent to 75% of the capital they initially committed. Now, that dividend occasionally came in the form of spices (cloves and mace in particular). But hey, profit is profit… Dutch historian Lodewijk Petram has calculated the return of VOC shares (with dividends reinvested), and from its founding in 1602 through 1698, each 100 guilders invested turned into about 65,000. Source: The World’s First Stock Exchange VOC shares were groundbreaking because they were tradable on what would become the world’s first stock exchange. In addition, the Dutch East India Company introduced the concept of limited liability for shareholders. In other words, investors could only lose the amount they invested. They wouldn’t be responsible for the company’s debts or losses if the venture failed. The VOC set a new standard for how companies could raise capital and distribute profits. But the business model was downright diabolical… The VOC quickly became a publicly-traded empire. By 1637 it was worth the equivalent of around $6.9 trillion in today’s money. That’s double the value of the largest modern companies such as Apple (AAPL), Microsoft (MSFT), and Nvidia (NVDA). The Dutch East India Company maintained its own navy with around 40 warships and 200 trading vessels at any given time. It fought wars against Spain, Portugal, Britain, and various Asian powers. These great powers clashed over lucrative trade routes and assets in Asia. They fought over territories such as the Spice Islands and the Philippines, and sold opium to China. In one notorious incident, the VOC invaded the Banda Islands, the world’s only source of nutmeg and mace at the time. Back then these spices were more valuable than gold. Using mercenaries which included Japanese samurai, VOC Governor-General Jan Pieterszoon Coen brutally massacred the Bandanese, publicly executing its leaders. Of around 15,000 natives, only a few hundred are believed to have survived. The VOC brought in slaves and other workers to take over Banda’s nutmeg and mace operations. These newly-acquired plantations were wildly profitable for shareholders. The company now had a total monopoly on two of the most valuable spices, which they sold into European markets at 1,000% markups. The Dutch East India Company was basically a publicly-traded evil empire. But for many years it did succeed in its mission of rewarding shareholders. Over time, however, the company lost its monopoly on spices and trade with Asia. Nutmeg and mace were smuggled out of Banda and cultivated elsewhere. Eventually the price of these once-rare goods collapsed. Artificial monopolies can only last so long. The VOC became increasingly corrupt and bureaucratic. It took on too much debt, and in time it essentially became a ponzi scheme. Ever-increasing debt loads were required to pay dividends. That’s a classic sign of the end approaching. The British East India Company eventually became a fierce competitor and seized many of the VOC’s prime territories. In 1799 the Dutch government dissolved the VOC and absorbed its assets and debts. The company had lasted almost 200 years. Despite the evil deeds committed by the Dutch East India Company, the firm played a critical role in the history of finance. It set a new standard for how companies could raise money and distribute profits to shareholders.
+--------------------------------------------------
+
 Title: Is This Under-the-Radar High-Yield AI Stock a Buy Now?
 URL: https://www.barchart.com/story/news/36356533/is-this-under-the-radar-high-yield-ai-stock-a-buy-now
 Time Published: 2025-11-28T13:00:02Z
@@ -52,64 +59,4 @@ Title: Jefferies Maintains Buy on Microsoft (MSFT) as Copilot Adoption Accelerat
 URL: https://finance.yahoo.com/news/jefferies-maintains-buy-microsoft-msft-101155964.html
 Time Published: 2025-11-26T10:11:55Z
 Description: Microsoft Corporation (NASDAQ:MSFT) is one of the Hot AI Stocks to Keep on Your Radar. On November 24, Jefferies maintained its Buy rating on the stock with ...
---------------------------------------------------
-
-Title: Stocks Settle Higher as US Economic News Lifts Fed Rate Cut Expectations
-URL: https://www.barchart.com/story/news/36314245/stocks-settle-higher-as-us-economic-news-lifts-fed-rate-cut-expectations
-Time Published: 2025-11-25T21:35:59Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed up by +0.91%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +1.43%, and the Nasdaq 100...
---------------------------------------------------
-
-Title: Why Investors Are Suddenly Watching Nebius Stock Closely
-URL: https://www.barchart.com/story/news/36314091/why-investors-are-suddenly-watching-nebius-stock-closely
-Time Published: 2025-11-25T21:25:29Z
-Description: Nebius stock reveals an early signal of a massive cloud opportunity.
---------------------------------------------------
-
-Title: Tech Titans Take Center Stage: Which of These 4 AI Stocks Is the Better Buy?
-URL: https://www.barchart.com/story/news/36314076/tech-titans-take-center-stage-which-of-these-4-ai-stocks-is-the-better-buy
-Time Published: 2025-11-25T21:24:12Z
-Description: While all four present great opportunities for investors who want exposure to AI today, one is my favorite pick.
---------------------------------------------------
-
-Title: As Microsoft Partners Up with Nvidia and Anthropic, Should You Buy, Sell, or Hold MSFT Stock?
-URL: https://www.barchart.com/story/news/36312158/as-microsoft-partners-up-with-nvidia-and-anthropic-should-you-buy-sell-or-hold-msft-stock
-Time Published: 2025-11-25T20:00:03Z
-Description: Microsoft is poised to benefit from large partnerships with two of the largest and most important AI startups of our time.
---------------------------------------------------
-
-Title: Nvidia Stock Is Selling Off on Google-Meta Deal. Should You Buy the NVDA Dip Today?
-URL: https://www.barchart.com/story/news/36312067/nvidia-stock-is-selling-off-on-google-meta-deal-should-you-buy-the-nvda-dip-today
-Time Published: 2025-11-25T19:50:36Z
-Description: Nvidia shares sink on reports Meta Platforms could soon switch to Google’s custom AI chips to power its AI data centers. But Cramer recommends sticking with ...
---------------------------------------------------
-
-Title: Microsoft’s (MSFT) Agent 365 and Copilot App Builder Drive Bullish Analyst Outlook
-URL: https://finance.yahoo.com/news/microsoft-msft-agent-365-copilot-171933532.html
-Time Published: 2025-11-25T17:19:33Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the AI Stocks in Focus on Wall Street. On November 29, JPMorgan reiterated the stock as “Overweight,” stating...
---------------------------------------------------
-
-Title: Fund manager who ‘pounded the table’ in support of Nvidia eight years ago now likes these AI stocks
-URL: https://www.marketwatch.com/story/fund-manager-who-pounded-the-table-to-own-nvidia-in-2017-now-likes-these-ai-stocks-24840810
-Time Published: 2025-11-25T14:33:00Z
-Description: Tony Wang, who has a knack for spotting tech winners like Nvidia, talks about the companies that are exciting him now.
---------------------------------------------------
-
-Title: Is Microsoft Stock Underperforming the Nasdaq?
-URL: https://www.barchart.com/story/news/36304196/is-microsoft-stock-underperforming-the-nasdaq
-Time Published: 2025-11-25T13:28:46Z
-Description: Microsoft has underperformed the broader Nasdaq index over the past year. However, Wall Street analysts remain strongly optimistic about its prospects.
---------------------------------------------------
-
-Title: Could This AI Stock Become the Next Trillion-Dollar Chip Giant?
-URL: https://www.barchart.com/story/news/36302484/could-this-ai-stock-become-the-next-trillion-dollar-chip-giant
-Time Published: 2025-11-25T12:30:02Z
-Description: Arm Holdings has the potential to be a trillion-dollar chip giant over the next 10 years.
---------------------------------------------------
-
-Title: Microsoft (MSFT) Earns Fresh Analyst Support After Ignite and Investor Meetings
-URL: https://finance.yahoo.com/news/microsoft-msft-earns-fresh-analyst-104839063.html
-Time Published: 2025-11-25T10:48:39Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the Must-Watch AI Stocks on Wall Street. On November 20, Evercore ISI reiterated an Outperform rating on the...
 --------------------------------------------------

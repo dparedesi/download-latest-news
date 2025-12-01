@@ -30,21 +30,3 @@ URL: https://finance.yahoo.com/news/wells-fargo-raises-jpmorgan-jpm-053028777.ht
 Time Published: 2025-11-26T05:30:28Z
 Description: JPMorgan Chase & Co. (NYSE:JPM) is included among the 15 Best Stocks to Buy for Medium Term. On November 3, Wells Fargo ra⁠ised its price target on JPMorgan ...
 --------------------------------------------------
-
-Title: Are Wall Street Analysts Predicting NVR, Inc. Stock Will Climb or Sink?
-URL: https://www.barchart.com/story/news/36306306/are-wall-street-analysts-predicting-nvr-inc-stock-will-climb-or-sink
-Time Published: 2025-11-25T14:19:35Z
-Description: NVR, Inc. has underperformed the broader market over the past year, and analysts are cautious about the stock’s prospects.
---------------------------------------------------
-
-Title: Is JPMorgan Chase Stock Underperforming the Nasdaq?
-URL: https://www.barchart.com/story/news/36300320/is-jpmorgan-chase-stock-underperforming-the-nasdaq
-Time Published: 2025-11-25T10:44:50Z
-Description: JPMorgan Chase has slightly trailed the Nasdaq Composite over the past year, and Wall Street analysts maintain a reasonably bullish outlook on the stock’s...
---------------------------------------------------
-
-Title: Berkshire Hathaway Stock: Is BRK.B Outperforming the Financial Sector?
-URL: https://www.barchart.com/story/news/36300271/berkshire-hathaway-stock-is-brk-b-outperforming-the-financial-sector
-Time Published: 2025-11-25T10:36:59Z
-Description: Berkshire Hathaway has outpaced the broader financial sector over the past year, and analysts maintain a fairly upbeat outlook on the stock’s future...
---------------------------------------------------

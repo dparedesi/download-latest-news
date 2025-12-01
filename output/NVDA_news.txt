@@ -1,5 +1,12 @@
 List of news related to NVIDIA NVDA:
 
+Title: Wildly Violent (and Profitable)
+URL: https://dailyreckoning.com/wildly-violent-and-profitable/
+Time Published: 2025-11-29T23:00:03Z
+Full Content:
+By Adam Sharp PostedNovember 29, 2025 The story of the world’s first IPO is a wild one. The Dutch East India Company (VOC) was founded in Amsterdam in 1602. Over the next hundred years, the VOC would dominate trade with Asia, wage multiple wars, commit genocide, and build monopolies. Along the way they sold gobs of spices, silks, and opium. But before all of that could happen, the VOC’s founders needed to raise money. So in 1602 the Dutch East India Company conducted the first initial public offering, giving all Dutchmen the chance to invest in this new venture. VOC Co-Founder Dirck Van Os | Source: Wikipedia The VOC IPO was unique because it was open to anyone, not just wealthy merchants and royalty. In total, 1,143 investors participated. Co-founder Dirck Van Os’ maid, Neeltgen Cornelis, was the second-to-last investor on the registry, having subscribed 100 guilders, which was likely her life’s savings. If Mrs. Cornelis the maid held onto her shares for the long run, she did quite well. In some years, VOC investors received a dividend equivalent to 75% of the capital they initially committed. Now, that dividend occasionally came in the form of spices (cloves and mace in particular). But hey, profit is profit… Dutch historian Lodewijk Petram has calculated the return of VOC shares (with dividends reinvested), and from its founding in 1602 through 1698, each 100 guilders invested turned into about 65,000. Source: The World’s First Stock Exchange VOC shares were groundbreaking because they were tradable on what would become the world’s first stock exchange. In addition, the Dutch East India Company introduced the concept of limited liability for shareholders. In other words, investors could only lose the amount they invested. They wouldn’t be responsible for the company’s debts or losses if the venture failed. The VOC set a new standard for how companies could raise capital and distribute profits. But the business model was downright diabolical… The VOC quickly became a publicly-traded empire. By 1637 it was worth the equivalent of around $6.9 trillion in today’s money. That’s double the value of the largest modern companies such as Apple (AAPL), Microsoft (MSFT), and Nvidia (NVDA). The Dutch East India Company maintained its own navy with around 40 warships and 200 trading vessels at any given time. It fought wars against Spain, Portugal, Britain, and various Asian powers. These great powers clashed over lucrative trade routes and assets in Asia. They fought over territories such as the Spice Islands and the Philippines, and sold opium to China. In one notorious incident, the VOC invaded the Banda Islands, the world’s only source of nutmeg and mace at the time. Back then these spices were more valuable than gold. Using mercenaries which included Japanese samurai, VOC Governor-General Jan Pieterszoon Coen brutally massacred the Bandanese, publicly executing its leaders. Of around 15,000 natives, only a few hundred are believed to have survived. The VOC brought in slaves and other workers to take over Banda’s nutmeg and mace operations. These newly-acquired plantations were wildly profitable for shareholders. The company now had a total monopoly on two of the most valuable spices, which they sold into European markets at 1,000% markups. The Dutch East India Company was basically a publicly-traded evil empire. But for many years it did succeed in its mission of rewarding shareholders. Over time, however, the company lost its monopoly on spices and trade with Asia. Nutmeg and mace were smuggled out of Banda and cultivated elsewhere. Eventually the price of these once-rare goods collapsed. Artificial monopolies can only last so long. The VOC became increasingly corrupt and bureaucratic. It took on too much debt, and in time it essentially became a ponzi scheme. Ever-increasing debt loads were required to pay dividends. That’s a classic sign of the end approaching. The British East India Company eventually became a fierce competitor and seized many of the VOC’s prime territories. In 1799 the Dutch government dissolved the VOC and absorbed its assets and debts. The company had lasted almost 200 years. Despite the evil deeds committed by the Dutch East India Company, the firm played a critical role in the history of finance. It set a new standard for how companies could raise money and distribute profits to shareholders.
+--------------------------------------------------
+
 Title: Jim Cramer Explains Why He Says “Own, Don’t Trade the Stock of NVIDIA”
 URL: https://finance.yahoo.com/news/jim-cramer-explains-why-says-175304790.html
 Time Published: 2025-11-29T17:53:04Z
@@ -10,6 +17,12 @@ Title: Dan Ives Says These Are the Top 3 Stocks to Buy Right Now
 URL: https://www.barchart.com/story/news/36371180/dan-ives-says-these-are-the-top-3-stocks-to-buy-right-now
 Time Published: 2025-11-29T17:00:02Z
 Description: The Wedbush analyst reckons these stocks to be table pounders at the moment.
+--------------------------------------------------
+
+Title: Meta Platforms May Ditch NVIDIA Chips—Here’s Why Investors Care
+URL: https://www.marketbeat.com/originals/meta-to-buy-google-chips-why-it-could-shift-demand-from-nvidia/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-11-29T15:12:00Z
+Description: Meta Platforms may be looking to alter where it spends its AI dollars. See what benefits the firm could reap from Google and Broadcom's chips.
 --------------------------------------------------
 
 Title: Nvidia (NVDA) Responds to Competition Fears as Meta Explores Google’s TPUs
@@ -74,14 +87,14 @@ Time Published: 2025-11-28T15:10:55Z
 Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
 --------------------------------------------------
 
-Title: Dow, S&P 500, Nasdaq futures muted as rocky month draws to an end, CME restores trading
-URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-futures-muted-as-rocky-month-draws-to-an-end-cme-restores-trading-140109707.html
+Title: Dow, S&P 500, Nasdaq open muted as rocky month draws to an end, CME restores trading
+URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-open-muted-as-rocky-month-draws-to-an-end-cme-restores-trading-140109595.html
 Time Published: 2025-11-28T14:01:09Z
 Description: CME is gradually resuming operations after a futures outage that halted trading in US stock indexes.
 --------------------------------------------------
 
-Title: Dow, S&P 500, Nasdaq open muted as rocky month draws to an end, CME restores trading
-URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-open-muted-as-rocky-month-draws-to-an-end-cme-restores-trading-140109595.html
+Title: Dow, S&P 500, Nasdaq futures muted as rocky month draws to an end, CME restores trading
+URL: https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-futures-muted-as-rocky-month-draws-to-an-end-cme-restores-trading-140109707.html
 Time Published: 2025-11-28T14:01:09Z
 Description: CME is gradually resuming operations after a futures outage that halted trading in US stock indexes.
 --------------------------------------------------
@@ -296,16 +309,4 @@ Title: JPMorgan just one-upped the most bullish call on Wall Street for the S&P 
 URL: https://www.marketwatch.com/story/jpmorgan-just-one-upped-the-most-bullish-call-on-wall-street-for-the-s-p-500-next-year-c6ae8ba7
 Time Published: 2025-11-26T14:46:00Z
 Description: JPMorgan has an optimistic view on U.S. stock markets next year, and AI momentum will be playing a starring role.
---------------------------------------------------
-
-Title: Alibaba’s Profits Have Nosedived: Is BABA Still a Buy on AI and Instant Commerce Push?
-URL: https://www.barchart.com/story/news/36327851/alibabas-profits-have-nosedived-is-baba-still-a-buy-on-ai-and-instant-commerce-push
-Time Published: 2025-11-26T14:44:50Z
-Description: Alibaba's profits have nosedived amid AI and its instant commerce push. The stock is, however, a buy as both these businesses will drive long-term growth.
---------------------------------------------------
-
-Title: 5 Stocks to Buy Before Santa Claus Comes to Town
-URL: https://www.marketbeat.com/stock-ideas/5-stocks-to-buy-before-santa-claus-comes-to-town/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-26T14:35:00Z
-Description: December could be a great month for stocks with November's correction setting up significant rebound potential for names like AMD, AVGO, and APLD.
 --------------------------------------------------
