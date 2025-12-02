@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: These 5 charts hint at where stocks might go next after a wild November for the market
+URL: https://www.marketwatch.com/story/these-5-charts-hint-at-where-stocks-might-go-next-after-a-wild-november-for-the-market-47fd5583
+Time Published: 2025-11-30T17:00:00Z
+Description: November historically has been a strong month for the U.S. stock market. This year’s gains didn’t come easy.
+--------------------------------------------------
+
 Title: Wildly Violent (and Profitable)
 URL: https://dailyreckoning.com/wildly-violent-and-profitable/
 Time Published: 2025-11-29T23:00:03Z
@@ -29,34 +35,4 @@ Title: Is ServiceNow Stock Underperforming the Nasdaq?
 URL: https://www.barchart.com/story/news/36338782/is-servicenow-stock-underperforming-the-nasdaq
 Time Published: 2025-11-27T07:02:28Z
 Description: Despite its underperformance relative to the Nasdaq Composite in the past year, Wall Street maintains an enthusiastic outlook on ServiceNow’s future...
---------------------------------------------------
-
-Title: Marvell Stock Is Down 25% in 2025, and This Analyst Says Investors Should Stay Away from the MRVL Dip
-URL: https://www.barchart.com/story/news/36332848/marvell-stock-is-down-25-in-2025-and-this-analyst-says-investors-should-stay-away-from-the-mrvl-dip
-Time Published: 2025-11-26T20:16:41Z
-Description: After a sharp sell-off this year and fresh analyst doubts around Marvell’s stock, what’s the smartest move for investors now?
---------------------------------------------------
-
-Title: Baird Begins Coverage of Microsoft (MSFT) Stock
-URL: https://finance.yahoo.com/news/baird-begins-coverage-microsoft-msft-195918566.html
-Time Published: 2025-11-26T19:59:18Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the Best Quantum Computing Stocks to Invest In Right Now. On November 14, Baird began coverage of the company’s...
---------------------------------------------------
-
-Title: These 2 Energy Titans Just Scored Major Wins to Close Out November
-URL: https://www.marketbeat.com/stock-ideas/these-2-energy-titans-just-scored-major-wins-to-close-out-november/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-26T19:21:00Z
-Description: Constellation Energy and GE Vernova are two AI enablers that have soared in 2025. The companies received more positive news in November.
---------------------------------------------------
-
-Title: Is It Time to Invest in Your Kid's Favorite Gaming Platform?
-URL: https://www.marketbeat.com/originals/is-it-time-to-invest-in-your-kids-favorite-gaming-platform-roblox/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-26T16:42:00Z
-Description: Roblox is a pre-revenue company, but the gaming industry and the stock are forecast for huge growth. RBLX's current pullback presents a buying opportunity.
---------------------------------------------------
-
-Title: Jefferies Maintains Buy on Microsoft (MSFT) as Copilot Adoption Accelerates and AI Agents Emerge
-URL: https://finance.yahoo.com/news/jefferies-maintains-buy-microsoft-msft-101155964.html
-Time Published: 2025-11-26T10:11:55Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the Hot AI Stocks to Keep on Your Radar. On November 24, Jefferies maintained its Buy rating on the stock with ...
 --------------------------------------------------

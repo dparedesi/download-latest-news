@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: These 5 charts hint at where stocks might go next after a wild November for the market
+URL: https://www.marketwatch.com/story/these-5-charts-hint-at-where-stocks-might-go-next-after-a-wild-november-for-the-market-47fd5583
+Time Published: 2025-11-30T17:00:00Z
+Description: November historically has been a strong month for the U.S. stock market. This year’s gains didn’t come easy.
+--------------------------------------------------
+
 Title: Where to invest $10,000 in ASX ETFs this December
 URL: https://www.fool.com.au/2025/11/30/where-to-invest-10000-in-asx-etfs-this-december/
 Time Published: 2025-11-29T19:06:00Z
@@ -53,53 +59,4 @@ Title: Broadcom (AVGO) Surged Following the News of $10 Billion Booking Order
 URL: https://finance.yahoo.com/news/broadcom-avgo-surged-following-news-130423342.html
 Time Published: 2025-11-27T13:04:23Z
 Description: Sands Capital, an investment management company, released its “Sands Capital Select Growth Strategy” Q3 2025 investor letter. A copy of the letter can be...
---------------------------------------------------
-
-Title: Google's Gemini 3 Sends Broadcom Soaring: TPUs Take Center Stage
-URL: https://www.marketbeat.com/originals/googles-gemini-3-sends-broadcom-soaring-tpus-take-center-stage/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-26T22:58:00Z
-Description: Broadcom's virtuous relationship with Google is leading to gains. AVGO is now directly attached to what many view as the best AI model family: Gemini 3.
---------------------------------------------------
-
-Title: Tech Stocks Lead the Overall Market Higher
-URL: https://www.barchart.com/story/news/36333877/tech-stocks-lead-the-overall-market-higher
-Time Published: 2025-11-26T21:36:07Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up by +0.69%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.67%, and the Nasdaq 100...
---------------------------------------------------
-
-Title: Stocks stage powerful comeback ahead of Thanksgiving. It wasn’t enough to erase November’s losses.
-URL: https://www.marketwatch.com/story/stocks-stage-powerful-comeback-ahead-of-thanksgiving-it-wasnt-enough-to-erase-novembers-losses-32106e03
-Time Published: 2025-11-26T21:29:00Z
-Description: U.S. stocks rallied for a fourth straight day on Wednesday, having clawed back all of last week’s losses ahead of the Thanksgiving holiday.
---------------------------------------------------
-
-Title: Marvell Stock Is Down 25% in 2025, and This Analyst Says Investors Should Stay Away from the MRVL Dip
-URL: https://www.barchart.com/story/news/36332848/marvell-stock-is-down-25-in-2025-and-this-analyst-says-investors-should-stay-away-from-the-mrvl-dip
-Time Published: 2025-11-26T20:16:41Z
-Description: After a sharp sell-off this year and fresh analyst doubts around Marvell’s stock, what’s the smartest move for investors now?
---------------------------------------------------
-
-Title: Wall Street Loves Broadcom, Oscar Health, and Amazon Stocks Today
-URL: https://247wallst.com/investing/2025/11/26/wall-street-loves-broadcom-oscar-health-and-amazon-stocks-today/
-Time Published: 2025-11-26T16:00:54Z
-Full Content:
-Investing JPMorgan just reiterated an outperform rating on Amazon, noting that the dip is an opportunity. Sending You to Google News in 3 © 24/7 Wall St. It’s always a good idea to keep track of analysts’ stock upgrades. Often, they’re influenced by (1) company fundamentals, such as financial health, future growth, and even meetings with management; (2) industry and market trends, including specific market conditions and economics; (3) earnings and financial data, including earnings reports that came in better than expected, or competitive analysis of a competitor, and (4) guidance. However, before jumping into a stock just because your favorite analyst upgraded it, do your own due diligence, fundamentally and technically. That being said, here are a few heavy-hitters seeing upgrades. JPMorgan just reiterated an outperform rating on Amazon (NASDAQ: AMZN). The firm says the dip is an opportunity, noting that shares re-traced to pre-earnings levels and are now about 10% off November highs. Just yesterday, Goldman Sachs reiterated its buy rating on Amazon, noting that it’s well-positioned for the holidays. Not long ago, analysts at KeyBanc Capital said Amazon should benefit from the AI boom. The analysts say Amazon’s AWS is still growing strong. It also believes that the ramp of gigawatt data center clusters and customers like Anthropic are potential drivers of revenue acceleration into 2026. The analysts have an overweight rating on AMZN with a $300 price target. Heading into earnings next week, Broadcom (NASDAQ: AVGO) just saw a price target hike from Goldman Sachs. With a new target of $435, up from $380, the firm expects to see further sustained strength in artificial intelligence. It also expects to see updated 2026 AI revenue guidance above 100% year-over-year. “The analyst sees AI revenue for fiscal year 2026 to come in at $45.4 billion, marking an approximate year-over-year rise of 128%. This could reach $77.3 billion in 2027, rising 70% year over year,” added CNBC. Analysts at Raymond James also resumed their outperform rating on Broadcom. With a price target of $420 a share, the firm “cited Broadcom’s position as a share gainer in the AI sector, providing operators with customized alternatives to general-purpose processors. Raymond James expects continued upward estimate revisions to support its positive rating on the stock,” as noted by Investing.com. Analysts at Piper Sandler upgraded Oscar Health (NYSE: OSCR) to an overweight rating with a price target of $25 from $13. The firm noted that with enhanced premium tax credits (E-APTCs) expiring at the end of the year, OSCR’s market share and margins should expand. “If the E-APTCs are allowed to expire at the end of CY25, OSCR believes Individual ACA Marketplace enrollment could decline (20.0%) to (30.0%) in CY26. This projection implies that the Individual ACA Market sheds ~6.1M lives y/y; with enrollment collapsing from ~24.3M in CY25 to ~18.2M in CY26,” said the firm, as quoted by CNBC. “It reflects the confluence of expiring E-APTCs and federal efforts to strengthen program integrity.” Latest Podcast Episode Amazon Strikes Back, And A Surprise $10,000 Portfolio Buy 38 min See us invest in our favorite AI stock ideas for free Nov 9, 2025 Live Nov 4, 2025 Analysts are doubling down on market leaders, with fresh upgrades for Nvidia, AMD, Walmart, Amazon, and Broadcom. Firms like Cantor… The broad markets are mixed to kick off trading today. S&P 500 down -0.10% Dow Jones Industrial Average up 0.13%… The pullback is getting worse for markets. The S&P 500 is now below the 50-day moving average, which has been… The major indices could see higher highs, especially with inflation cooler than expected. In fact, CPI, or the consumer price… Alphabet, Meta, Microsoft, Apple, and Amazon are all set to post earnings this week. Plus, the Federal Reserve is expected… Is OSCR in Good Health? Oscar Health (NYSE:OSCR) is a technology-driven health insurance company specializing in individual, family, and small… December is historically strong for markets. In fact, “December could bring seasonal tailwinds back to the stock market and return… After another record session, markets are little changed. At the moment, the Dow is down about five points. The S&P… Analysts are still doubling down on market leaders, with fresh upgrades for Advanced Micro Devices, Walmart, Amazon, and Meta Platforms.…
---------------------------------------------------
-
-Title: Is Accenture Stock Underperforming the S&P 500?
-URL: https://www.barchart.com/story/news/36327797/is-accenture-stock-underperforming-the-s-p-500
-Time Published: 2025-11-26T14:41:51Z
-Description: While Accenture has lagged behind the S&P 500 Index over the past year, analysts are moderately optimistic about the stock’s prospects.
---------------------------------------------------
-
-Title: Up 130% In a Year, How High Can Broadcom Stock Go?
-URL: https://www.barchart.com/story/news/36327728/up-130-in-a-year-how-high-broadcom-stock-can-go
-Time Published: 2025-11-26T14:36:44Z
-Description: Broadcom is witnessing solid demand for its custom AI chips. However, the main caution for investors is valuation.
---------------------------------------------------
-
-Title: 5 Stocks to Buy Before Santa Claus Comes to Town
-URL: https://www.marketbeat.com/stock-ideas/5-stocks-to-buy-before-santa-claus-comes-to-town/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-26T14:35:00Z
-Description: December could be a great month for stocks with November's correction setting up significant rebound potential for names like AMD, AVGO, and APLD.
 --------------------------------------------------

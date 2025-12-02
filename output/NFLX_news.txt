@@ -5,9 +5,3 @@ URL: https://www.barchart.com/story/news/36375615/netflix-is-still-cheap-here-sh
 Time Published: 2025-11-30T14:00:02Z
 Description: Netflix recently had a 10-for-1 stock split. It's easier to sell short out-of-the-money (OTM) put options. The reason is that the collateral outlay per...
 --------------------------------------------------
-
-Title: How Is Walt Disney's Stock Performance Compared to Other Communication Services Stocks?
-URL: https://www.barchart.com/story/news/36326667/how-is-walt-disney-s-stock-performance-compared-to-other-communication-services-stocks
-Time Published: 2025-11-26T13:51:57Z
-Description: While Walt Disney has underperformed relative to its industry peers over the past year, Wall Street analysts maintain a moderately optimistic outlook on the ...
---------------------------------------------------
