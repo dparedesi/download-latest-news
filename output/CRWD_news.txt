@@ -1,9 +1,39 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures lean higher after stocks, bitcoin take a bruising
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-lean-higher-after-stocks-bitcoin-take-a-bruising-234830287.html
+Time Published: 2025-12-01T23:48:30Z
+Description: Stock futures rose after a day of strong declines as crypto markets collapsed and tech continued to grapple with valuation concerns.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures edge higher as Wall Street regains its footing
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-higher-as-wall-street-regains-its-footing-234830126.html
+Time Published: 2025-12-01T23:48:30Z
+Description: Wall Street is eyeing a comeback as the flight from risk starts to cool.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures step higher as Wall Street regains its nerve
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-step-higher-as-wall-street-regains-234830976.html
+Time Published: 2025-12-01T23:48:30Z
+Description: Wall Street is eyeing a comeback as the flight from risk starts to cool.
+--------------------------------------------------
+
 Title: Here’s Why Sands Capital Technology Innovators Fund Sold CrowdStrike Holdings (CRWD)
 URL: https://finance.yahoo.com/news/why-sands-capital-technology-innovators-132152416.html
 Time Published: 2025-12-01T13:21:52Z
 Description: Sands Capital, an investment management company, released its Q3 2025 investor letter for the “Sands Capital Technology Innovators Fund.” A copy of the...
+--------------------------------------------------
+
+Title: Option Volatility and Earnings Report for December 1 - 5
+URL: https://www.barchart.com/story/news/36383195/option-volatility-and-earnings-report-for-december-1-5
+Time Published: 2025-12-01T12:00:02Z
+Description: Earnings season is starting to wind down but we still have some big names due to report including Salesforce, Crowdstrike, Marvell Technologies, Snowflake...
+--------------------------------------------------
+
+Title: Stocks Set to Open Lower as Bond Yields Climb, U.S. PCE Inflation Data Awaited
+URL: https://www.barchart.com/story/news/36382688/stocks-set-to-open-lower-as-bond-yields-climb-u-s-pce-inflation-data-awaited
+Time Published: 2025-12-01T11:19:04Z
+Description: December S&P 500 E-Mini futures (ESZ25) are down -0.57%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.68% this morning, pointing to a lower...
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as Wall Street enters final trading month of 2025
@@ -34,10 +64,4 @@ Title: Analysts Stay Positive on CrowdStrike (CRWD) Ahead of Q3 2026 Results
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5af51830-acaa-4719-be9d-9fae139a54ac
 Time Published: 2025-11-29T05:39:21Z
 Description: None
---------------------------------------------------
-
-Title: Is CrowdStrike Ready to Rally After Its Recent Pullback?
-URL: https://www.marketbeat.com/originals/is-crowdstrike-ready-to-rally-after-its-recent-pullback/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-27T16:33:00Z
-Description: CrowdStrike stock is pulling back ahead of earnings as analysts expect strong growth and rising free cash flow, the trend may point to a year-end rebound
 --------------------------------------------------

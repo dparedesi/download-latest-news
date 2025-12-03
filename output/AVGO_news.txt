@@ -48,15 +48,3 @@ URL: https://www.barchart.com/story/news/36355686/avgo-iron-condor-could-see-a-6
 Time Published: 2025-11-28T12:00:02Z
 Description: Broadcom (AVGO) is due to report earnings after the market close on December 11th and the market is pricing in a 10.1% move in either direction.
 --------------------------------------------------
-
-Title: Goldman Sachs revamps Broadcom stock price target with a twist
-URL: https://www.thestreet.com/investing/stocks/goldman-sachs-revamps-broadcom-stock-price-target-with-a-twist
-Time Published: 2025-11-27T17:33:00Z
-Description: Broadcom’s (AVGO) stock looks virtually unstoppable, having jumped over 66% year-to-date as it moves ever so close to a $2 trillion valuation. However, with ...
---------------------------------------------------
-
-Title: Broadcom (AVGO) Surged Following the News of $10 Billion Booking Order
-URL: https://finance.yahoo.com/news/broadcom-avgo-surged-following-news-130423342.html
-Time Published: 2025-11-27T13:04:23Z
-Description: Sands Capital, an investment management company, released its “Sands Capital Select Growth Strategy” Q3 2025 investor letter. A copy of the letter can be...
---------------------------------------------------

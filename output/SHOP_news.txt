@@ -1,5 +1,17 @@
 List of news related to Shopify stock price SHOP:
 
+Title: Stocks Fall as Rising Bond Yields Spark Risk-Off Sentiment
+URL: https://www.barchart.com/story/news/36389832/stocks-fall-as-rising-bond-yields-spark-risk-off-sentiment
+Time Published: 2025-12-01T16:40:20Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.28%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.48%, and the Nasdaq 100 Index ($IUXX ...
+--------------------------------------------------
+
+Title: Stocks Pressured by Higher Bond Yields
+URL: https://www.barchart.com/story/news/36388344/stocks-pressured-by-higher-bond-yields
+Time Published: 2025-12-01T15:06:52Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.59%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.40%, and the Nasdaq 100 Index ($IUXX ...
+--------------------------------------------------
+
 Title: AI-assisted shopping is the talk of the holiday shopping season
 URL: https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-assisted-shopping-is-the-talk-of-the-holiday-shopping-season/articleshow/125684752.cms
 Time Published: 2025-12-01T04:00:45Z

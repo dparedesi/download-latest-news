@@ -43,9 +43,3 @@ URL: https://www.barchart.com/story/news/36349747/this-ai-dividend-stock-is-a-bu
 Time Published: 2025-11-28T00:30:02Z
 Description: The S&P 500 Index’s dividend yield is now at levels last seen during the dot-com boom. For tech investors, though, Microsoft looks like a good buy given its ...
 --------------------------------------------------
-
-Title: Is ServiceNow Stock Underperforming the Nasdaq?
-URL: https://www.barchart.com/story/news/36338782/is-servicenow-stock-underperforming-the-nasdaq
-Time Published: 2025-11-27T07:02:28Z
-Description: Despite its underperformance relative to the Nasdaq Composite in the past year, Wall Street maintains an enthusiastic outlook on ServiceNow’s future...
---------------------------------------------------
