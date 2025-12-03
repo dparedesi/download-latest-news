@@ -1,15 +1,27 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq step higher as Wall Street regains its footing
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-step-higher-as-wall-street-regains-its-footing-143326650.html
+Time Published: 2025-12-02T14:33:26Z
+Description: Wall Street is eyeing a comeback as the flight from risk starts to cool.
+--------------------------------------------------
+
+Title: CrowdStrike (CRWD) Emerges as Agentic SOC Leader; KeyBanc Lifts Target to $570
+URL: https://finance.yahoo.com/news/crowdstrike-crwd-emerges-agentic-soc-142532212.html
+Time Published: 2025-12-02T14:25:32Z
+Description: CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of the Buzzing AI Stocks on Wall Street. On December 1, KeyBanc raised the firm’s price target on the stock...
+--------------------------------------------------
+
+Title: CrowdStrike Holdings (CRWD) is Reaccelerating from Last Year’s Outage
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a0e053c8-59da-4272-aad6-757bd77c6be7
+Time Published: 2025-12-02T14:10:09Z
+Description: None
+--------------------------------------------------
+
 Title: Big Tech’s ‘Spend Little, Earn Lots’ Formula Is Threatened By AI
 URL: https://finance.yahoo.com/news/big-tech-spend-little-earn-102410725.html
 Time Published: 2025-12-02T10:24:10Z
 Description: A handful of behemoths like Alphabet Inc., Amazon.com Inc., Meta Platforms Inc. and Microsoft Corp. used this formula to seize market share from legacy...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures step higher as Wall Street regains its nerve
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-step-higher-as-wall-street-regains-234830976.html
-Time Published: 2025-12-01T23:48:30Z
-Description: Wall Street is eyeing a comeback as the flight from risk starts to cool.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures lean higher after stocks, bitcoin take a bruising
@@ -20,6 +32,12 @@ Description: Stock futures rose after a day of strong declines as crypto markets
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures edge higher as Wall Street regains its footing
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-higher-as-wall-street-regains-its-footing-234830126.html
+Time Published: 2025-12-01T23:48:30Z
+Description: Wall Street is eyeing a comeback as the flight from risk starts to cool.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures step higher as Wall Street regains its nerve
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-step-higher-as-wall-street-regains-234830976.html
 Time Published: 2025-12-01T23:48:30Z
 Description: Wall Street is eyeing a comeback as the flight from risk starts to cool.
 --------------------------------------------------
