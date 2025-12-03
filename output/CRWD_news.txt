@@ -1,5 +1,17 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Big Tech’s ‘Spend Little, Earn Lots’ Formula Is Threatened By AI
+URL: https://finance.yahoo.com/news/big-tech-spend-little-earn-102410725.html
+Time Published: 2025-12-02T10:24:10Z
+Description: A handful of behemoths like Alphabet Inc., Amazon.com Inc., Meta Platforms Inc. and Microsoft Corp. used this formula to seize market share from legacy...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures step higher as Wall Street regains its nerve
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-step-higher-as-wall-street-regains-234830976.html
+Time Published: 2025-12-01T23:48:30Z
+Description: Wall Street is eyeing a comeback as the flight from risk starts to cool.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures lean higher after stocks, bitcoin take a bruising
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-lean-higher-after-stocks-bitcoin-take-a-bruising-234830287.html
 Time Published: 2025-12-01T23:48:30Z
@@ -12,10 +24,10 @@ Time Published: 2025-12-01T23:48:30Z
 Description: Wall Street is eyeing a comeback as the flight from risk starts to cool.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures step higher as Wall Street regains its nerve
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-step-higher-as-wall-street-regains-234830976.html
-Time Published: 2025-12-01T23:48:30Z
-Description: Wall Street is eyeing a comeback as the flight from risk starts to cool.
+Title: Stocks Retreat as Bond Yields Rise
+URL: https://www.barchart.com/story/news/36394863/stocks-retreat-as-bond-yields-rise
+Time Published: 2025-12-01T21:35:14Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed down by -0.53%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down by -0.90%, and the Nasdaq 100...
 --------------------------------------------------
 
 Title: Here’s Why Sands Capital Technology Innovators Fund Sold CrowdStrike Holdings (CRWD)

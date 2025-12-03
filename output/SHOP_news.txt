@@ -1,5 +1,11 @@
 List of news related to Shopify stock price SHOP:
 
+Title: Stocks Retreat as Bond Yields Rise
+URL: https://www.barchart.com/story/news/36394863/stocks-retreat-as-bond-yields-rise
+Time Published: 2025-12-01T21:35:14Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed down by -0.53%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down by -0.90%, and the Nasdaq 100...
+--------------------------------------------------
+
 Title: Stocks Fall as Rising Bond Yields Spark Risk-Off Sentiment
 URL: https://www.barchart.com/story/news/36389832/stocks-fall-as-rising-bond-yields-spark-risk-off-sentiment
 Time Published: 2025-12-01T16:40:20Z
