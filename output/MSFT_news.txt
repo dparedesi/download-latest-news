@@ -1,9 +1,45 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stock market today: Dow and S&P 500 rise, Nasdaq pares losses as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-and-sp-500-rise-nasdaq-pares-losses-as-key-adp-jobs-data-shows-weakness-000151469.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
+--------------------------------------------------
+
+Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as surprise ADP jobs decline reinforces Fed rate cut bets
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-surprise-adp-jobs-decline-reinforces-fed-rate-cut-bets-000151602.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
+--------------------------------------------------
+
+Title: Marvell to buy chip startup Celestial AI for $3.25 billion, bullish on growth next year; stock rises
+URL: https://finance.yahoo.com/news/marvell-buy-chip-startup-celestial-210837707.html
+Time Published: 2025-12-02T21:08:37Z
+Description: Chipmaker Marvell Technology said on Tuesday it will buy semiconductor startup Celestial AI in a deal worth $3.25 billion and gave a bullish forecast for its...
+--------------------------------------------------
+
 Title: This Data Center Stock Could Gain Nearly 195% Over the Next 12 Months. Is It a Buy Here?
 URL: https://www.barchart.com/story/news/36409945/this-data-center-stock-could-gain-nearly-195-over-the-next-12-months-is-it-a-buy-here
 Time Published: 2025-12-02T14:30:02Z
 Description: IREN has surged impressively over the past year, with analysts seeing almost 200% further upside. But is this the right time for investors to jump in?
+--------------------------------------------------
+
+Title: Credo Technologies Posted a Blowout Quarter—Here's What's Next
+URL: https://www.marketbeat.com/originals/credo-technologies-ai-bubble-is-far-from-bursting/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-12-02T12:39:00Z
+Description: Credo Technologies is a critical cog in the AI ecosystem, and its business reflects it. Analysts are lifting targets and leading this market higher.
 --------------------------------------------------
 
 Title: Salesforce CEO Marc Benioff Just Said Gemini 3 Changed the World. Does That Make GOOGL Stock a Buy?
@@ -48,22 +84,4 @@ URL: https://dailyreckoning.com/wildly-violent-and-profitable/
 Time Published: 2025-11-29T23:00:03Z
 Full Content:
 By Adam Sharp PostedNovember 29, 2025 The story of the world’s first IPO is a wild one. The Dutch East India Company (VOC) was founded in Amsterdam in 1602. Over the next hundred years, the VOC would dominate trade with Asia, wage multiple wars, commit genocide, and build monopolies. Along the way they sold gobs of spices, silks, and opium. But before all of that could happen, the VOC’s founders needed to raise money. So in 1602 the Dutch East India Company conducted the first initial public offering, giving all Dutchmen the chance to invest in this new venture. VOC Co-Founder Dirck Van Os | Source: Wikipedia The VOC IPO was unique because it was open to anyone, not just wealthy merchants and royalty. In total, 1,143 investors participated. Co-founder Dirck Van Os’ maid, Neeltgen Cornelis, was the second-to-last investor on the registry, having subscribed 100 guilders, which was likely her life’s savings. If Mrs. Cornelis the maid held onto her shares for the long run, she did quite well. In some years, VOC investors received a dividend equivalent to 75% of the capital they initially committed. Now, that dividend occasionally came in the form of spices (cloves and mace in particular). But hey, profit is profit… Dutch historian Lodewijk Petram has calculated the return of VOC shares (with dividends reinvested), and from its founding in 1602 through 1698, each 100 guilders invested turned into about 65,000. Source: The World’s First Stock Exchange VOC shares were groundbreaking because they were tradable on what would become the world’s first stock exchange. In addition, the Dutch East India Company introduced the concept of limited liability for shareholders. In other words, investors could only lose the amount they invested. They wouldn’t be responsible for the company’s debts or losses if the venture failed. The VOC set a new standard for how companies could raise capital and distribute profits. But the business model was downright diabolical… The VOC quickly became a publicly-traded empire. By 1637 it was worth the equivalent of around $6.9 trillion in today’s money. That’s double the value of the largest modern companies such as Apple (AAPL), Microsoft (MSFT), and Nvidia (NVDA). The Dutch East India Company maintained its own navy with around 40 warships and 200 trading vessels at any given time. It fought wars against Spain, Portugal, Britain, and various Asian powers. These great powers clashed over lucrative trade routes and assets in Asia. They fought over territories such as the Spice Islands and the Philippines, and sold opium to China. In one notorious incident, the VOC invaded the Banda Islands, the world’s only source of nutmeg and mace at the time. Back then these spices were more valuable than gold. Using mercenaries which included Japanese samurai, VOC Governor-General Jan Pieterszoon Coen brutally massacred the Bandanese, publicly executing its leaders. Of around 15,000 natives, only a few hundred are believed to have survived. The VOC brought in slaves and other workers to take over Banda’s nutmeg and mace operations. These newly-acquired plantations were wildly profitable for shareholders. The company now had a total monopoly on two of the most valuable spices, which they sold into European markets at 1,000% markups. The Dutch East India Company was basically a publicly-traded evil empire. But for many years it did succeed in its mission of rewarding shareholders. Over time, however, the company lost its monopoly on spices and trade with Asia. Nutmeg and mace were smuggled out of Banda and cultivated elsewhere. Eventually the price of these once-rare goods collapsed. Artificial monopolies can only last so long. The VOC became increasingly corrupt and bureaucratic. It took on too much debt, and in time it essentially became a ponzi scheme. Ever-increasing debt loads were required to pay dividends. That’s a classic sign of the end approaching. The British East India Company eventually became a fierce competitor and seized many of the VOC’s prime territories. In 1799 the Dutch government dissolved the VOC and absorbed its assets and debts. The company had lasted almost 200 years. Despite the evil deeds committed by the Dutch East India Company, the firm played a critical role in the history of finance. It set a new standard for how companies could raise money and distribute profits to shareholders.
---------------------------------------------------
-
-Title: Is This Under-the-Radar High-Yield AI Stock a Buy Now?
-URL: https://www.barchart.com/story/news/36356533/is-this-under-the-radar-high-yield-ai-stock-a-buy-now
-Time Published: 2025-11-28T13:00:02Z
-Description: Shutterstock offers a 6.37% dividend yield and is pivoting hard into AI data licensing and model training services, but its stock trades 45% below recent...
---------------------------------------------------
-
-Title: AI data centers' massive demand for aluminum is crushing the US aluminum industry
-URL: https://finance.yahoo.com/news/ai-data-centers-massive-demand-for-aluminum-is-crushing-the-us-aluminum-industry-110035572.html
-Time Published: 2025-11-28T11:00:35Z
-Description: Aluminum plays a crucial role in data centers, electric vehicles, and a litany of other industries. But Big Tech's power demand is squeezing the aluminum...
---------------------------------------------------
-
-Title: This AI Dividend Stock Is a Buy Even as the S&P 500’s Yield Falls to Dot-Com Lows
-URL: https://www.barchart.com/story/news/36349747/this-ai-dividend-stock-is-a-buy-even-as-the-s-p-500s-yield-falls-to-dot-com-lows
-Time Published: 2025-11-28T00:30:02Z
-Description: The S&P 500 Index’s dividend yield is now at levels last seen during the dot-com boom. For tech investors, though, Microsoft looks like a good buy given its ...
 --------------------------------------------------

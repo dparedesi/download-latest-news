@@ -1,10 +1,40 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Marvell to buy chip startup Celestial AI for $3.25 billion, bullish on growth next year; stock rises
+URL: https://finance.yahoo.com/news/marvell-buy-chip-startup-celestial-210837707.html
+Time Published: 2025-12-02T21:08:37Z
+Description: Chipmaker Marvell Technology said on Tuesday it will buy semiconductor startup Celestial AI in a deal worth $3.25 billion and gave a bullish forecast for its...
+--------------------------------------------------
+
 Title: Amazon stock jumps as AWS unveils new AI chip: Is Nvidia losing its grip as Google pushes TPUs and Amazon claims Trainium 3 is 50% cheaper and 4.4× faster for AI training?
 URL: https://economictimes.indiatimes.com/news/international/us/amazon-stock-jumps-as-aws-unveils-new-ai-chip-is-nvidia-losing-its-grip-as-google-pushes-tpus-and-amazon-claims-trainium-3-is-50-cheaper-and-4-4-faster-for-ai-training/articleshow/125723280.cms
 Time Published: 2025-12-02T17:12:06Z
 Full Content:
 Amazon stock jumps after AWS unveils its in-house AI chip, Trainium3. The company claims it is 4.4x faster than its previous generation. Energy efficiency improves fourfold, while memory bandwidth gets a major boost. Each UltraServer can hold up to 144 chips. Early tests suggest AI training costs drop up to 50% versus Nvidia GPUs. Investors cheered the news, pushing AMZN shares higher. Trainium3 promises faster, cheaper AI model training and inference. Listen to this article in summarized format Unlock AI Briefing and Premium Content (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Amazon warns over 300 million users of major Black Friday impersonation scams targeting personal data What is Canada’s new colour-coded alert system and how it will ensure public safety during extreme weather Canada launches new alert system for extreme weather; Colour-coded system marks shift to impact-based forecasting Canadian Olympic swimming champion Penny Oleksiak suspended for two years over anti-doping whereabouts failures Who is Colleen Jones? Two-time World champion curler and veteran Canadian broadcaster dies at 65 What exactly is the Canada Pension Plan? New CPP payments rolling out nationwide on November 26; Check all the payment dates of 2025-26 - Why is Quebec not part of CPP? Madeleine Poulin, Radio-Canada’s first female correspondent in Ottawa and Paris, dies at 87 Yoplait recalls 'Yop yogurt' drinks in Canada over plastic contamination fears under Class 1 category - Check out which flavor and best-before dates beverage are subject to recall CMA Awards: Vince Gill honored with prestigious Willie Nelson Lifetime Achievement Award at 59th CMA Awards in Tennessee MGK rocks Canadian fans with explosive Grey Cup halftime show; Are Megan Fox, MGK really working on their relationship post daughter’s birth? Roughriders end 12-year drought, beat Alouettes for 5th Grey Cup title Who is Dr Sanjeev Sirpal? Trouble mounts for New Brunswick doctor accused of sexual assault in hospitals as he faces additional charges; what do we know so far Russian humanoid robot 'AIDOL' shockingly faceplants during much-hyped public debut - WATCH 'Differences remain...': Russia, US fail to reach Ukraine peace deal Parliament discussion on ‘Vande Mataram’, ‘SIR’ next week: Rijiju ‘Keep LIC out of politics’: Poonawalla backs FM North meets south: Kashi Tamil Sangamam 4.0 begins FM slams oppn for 'drama' over Manipur, pushes state’s GST reforms Russia plans payment solutions with India amid US sanctions Madani clarifies 'Jihad’, Supreme Court, Vande Mataram remarks Sanchar Saathi order sparks row; Jyotiraditya clarifies app is ‘optional...’ EAM Jaishankar flags bioterrorism risk Feet-touching, hugs to Maithili Thakur’s Paag: Bihar Oath Day highlights 'Differences remain...': Russia, US fail to reach Ukraine peace deal Parliament discussion on ‘Vande Mataram’, ‘SIR’ next week: Rijiju ‘Keep LIC out of politics’: Poonawalla backs FM North meets south: Kashi Tamil Sangamam 4.0 begins FM slams oppn for 'drama' over Manipur, pushes state’s GST reforms Russia plans payment solutions with India amid US sanctions Madani clarifies 'Jihad’, Supreme Court, Vande Mataram remarks Sanchar Saathi order sparks row; Jyotiraditya clarifies app is ‘optional...’ EAM Jaishankar flags bioterrorism risk Feet-touching, hugs to Maithili Thakur’s Paag: Bihar Oath Day highlights Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Commodities Top Slideshow Top Prime Articles Private Companies Top Story Listing Top Definitions Top Market Pages Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: Analysts Say AWS Will Drive ‘Significant Upside’ for Amazon. Should You Buy AMZN Stock Now?
+URL: https://www.barchart.com/story/news/36414159/analysts-say-aws-will-drive-significant-upside-for-amazon-should-you-buy-amzn-stock-now
+Time Published: 2025-12-02T17:10:38Z
+Description: Oppenheimer raised its price target on Amazon ahead of expectations for increased AWS upside.
+--------------------------------------------------
+
+Title: JPMorgan Says This Data Center Stock Can Gain Nearly 30% From Here
+URL: https://www.barchart.com/story/news/36411096/jpmorgan-says-this-data-center-stock-can-gain-nearly-30-from-here
+Time Published: 2025-12-02T15:00:02Z
+Description: JPMorgan analysts upgraded Cipher Mining’s stock from Neutral to Overweight.
+--------------------------------------------------
+
+Title: These Are the Hottest Upgrades From the Q3 Reporting Cycle
+URL: https://www.marketbeat.com/stock-ideas/these-are-the-hottest-upgrades-from-the-q3-reporting-cycle/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-12-02T14:06:00Z
+Description: Analysts are upgrading and lifting price targets for critical tech players and AI infrastructure providers, setting a high bar for 2026 price action.
+--------------------------------------------------
+
+Title: Credo Technologies Posted a Blowout Quarter—Here's What's Next
+URL: https://www.marketbeat.com/originals/credo-technologies-ai-bubble-is-far-from-bursting/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-12-02T12:39:00Z
+Description: Credo Technologies is a critical cog in the AI ecosystem, and its business reflects it. Analysts are lifting targets and leading this market higher.
 --------------------------------------------------
 
 Title: Competition Is Heating Up, But Bank of America Still Thinks AMD Stock Is a Buy Here
@@ -35,40 +65,4 @@ Title: Amazon (AMZN) Stock Gets Boost as AWS Growth Accelerates and AI Demand Su
 URL: https://finance.yahoo.com/news/amazon-amzn-stock-gets-boost-111927115.html
 Time Published: 2025-11-29T11:19:27Z
 Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the AI Stocks Making Headlines on Wall Street. On November 25, TD Cowen analyst John Blackledge reiterated a Buy...
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Dow rise to end a rocky month, Nasdaq snaps 7-month win streak
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-dow-rise-to-end-a-rocky-month-nasdaq-snaps-7-month-win-streak-180355656.html
-Time Published: 2025-11-28T18:03:55Z
-Description: US stocks rose for the fifth day in a row on Friday, but the Nasdaq snapped its monthly winning streak.
---------------------------------------------------
-
-Title: Shorting Secured Out-of-the-Money Amazon Puts Works Here
-URL: https://www.barchart.com/story/news/36360225/shorting-secured-out-of-the-money-amazon-puts-works-here
-Time Published: 2025-11-28T16:41:07Z
-Description: Last month, I recommended shorting the Amazon Inc. $235.00 strike price put option expiring today for a 1.36% yield over the month. It makes sense now to...
---------------------------------------------------
-
-Title: Is This Under-the-Radar High-Yield AI Stock a Buy Now?
-URL: https://www.barchart.com/story/news/36356533/is-this-under-the-radar-high-yield-ai-stock-a-buy-now
-Time Published: 2025-11-28T13:00:02Z
-Description: Shutterstock offers a 6.37% dividend yield and is pivoting hard into AI data licensing and model training services, but its stock trades 45% below recent...
---------------------------------------------------
-
-Title: AI data centers' massive demand for aluminum is crushing the US aluminum industry
-URL: https://finance.yahoo.com/news/ai-data-centers-massive-demand-for-aluminum-is-crushing-the-us-aluminum-industry-110035572.html
-Time Published: 2025-11-28T11:00:35Z
-Description: Aluminum plays a crucial role in data centers, electric vehicles, and a litany of other industries. But Big Tech's power demand is squeezing the aluminum...
---------------------------------------------------
-
-Title: Amazon.com, Inc. (AMZN) Strengthens AI Momentum with HCLTech Partnership
-URL: https://finance.yahoo.com/news/amazon-com-inc-amzn-strengthens-062131403.html
-Time Published: 2025-11-28T06:21:31Z
-Description: Amazon.com Inc. (NASDAQ:AMZN) is one of the AI stocks analysts are betting on. HCLTech announced a new partnership with Amazon Web Services on November 25...
---------------------------------------------------
-
-Title: This AI Dividend Stock Is a Buy Even as the S&P 500’s Yield Falls to Dot-Com Lows
-URL: https://www.barchart.com/story/news/36349747/this-ai-dividend-stock-is-a-buy-even-as-the-s-p-500s-yield-falls-to-dot-com-lows
-Time Published: 2025-11-28T00:30:02Z
-Description: The S&P 500 Index’s dividend yield is now at levels last seen during the dot-com boom. For tech investors, though, Microsoft looks like a good buy given its ...
 --------------------------------------------------

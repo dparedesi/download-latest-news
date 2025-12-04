@@ -1,9 +1,27 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: How Should You Play NVDA Stock Amid Reports That China Banned ByteDance from Using Nvidia GPUs?
+URL: https://www.barchart.com/story/news/36413452/how-should-you-play-nvda-stock-amid-reports-that-china-banned-bytedance-from-using-nvidia-gpus
+Time Published: 2025-12-02T16:45:27Z
+Description: New reports suggest that China has banned TikTok parent ByteDance from using Nvidia chips in its data centers.
+--------------------------------------------------
+
+Title: Stock Indexes Push Higher on Strength in Chip Makers
+URL: https://www.barchart.com/story/news/36412945/stock-indexes-push-higher-on-strength-in-chip-makers
+Time Published: 2025-12-02T16:15:23Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.45%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.44%, and the Nasdaq 100 Index ($IUXX...
+--------------------------------------------------
+
 Title: Some of our favorite Cyber Monday deals are still kicking
 URL: https://www.theverge.com/gadgets/835113/best-cyber-monday-deals-still-available-2025
 Time Published: 2025-12-02T15:43:50Z
 Description: Here’s a sad, yet predictable truth: most Black Friday and Cyber Monday deals are gone. But, not all of them have disappeared. In fact, some of the most popular deals, like the discounts on the Oura Ring 4, AirPods 4, and Nintendo Switch 2 are still sitting a…
+--------------------------------------------------
+
+Title: Credo Technologies Posted a Blowout Quarter—Here's What's Next
+URL: https://www.marketbeat.com/originals/credo-technologies-ai-bubble-is-far-from-bursting/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-12-02T12:39:00Z
+Description: Credo Technologies is a critical cog in the AI ecosystem, and its business reflects it. Analysts are lifting targets and leading this market higher.
 --------------------------------------------------
 
 Title: Marvell in advanced talks to buy Celestial AI in multi-billion-dollar deal: The Information
@@ -71,10 +89,4 @@ Title: What Analysts Think About AMD
 URL: https://finance.yahoo.com/news/analysts-think-amd-053912000.html
 Time Published: 2025-11-29T05:39:12Z
 Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the 15 Best Performing AI Stocks Heading into 2026. On November 25, Bank of America Securities reiterated...
---------------------------------------------------
-
-Title: Advanced Micro Devices, Inc. (AMD), Cisco, and HUMAIN Team Up to Build Saudi Arabia’s Next AI Powerhouse
-URL: https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-062129635.html
-Time Published: 2025-11-28T06:21:29Z
-Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the AI stocks analysts are betting on. Advanced Micro Devices, Inc. (NASDAQ:AMD), Cisco, and HUMAIN—a PIF...
 --------------------------------------------------
