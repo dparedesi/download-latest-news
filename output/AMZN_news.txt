@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Wall Street’s Sleeping Giant: Is Amazon About to Wake Up?
+URL: https://www.marketbeat.com/originals/wall-streets-sleeping-giant-is-amazon-about-to-wake-up/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-12-02T23:29:00Z
+Description: Amazon’s flat 2025 performance may be setting up a breakout year. With bullish analyst calls, rising AWS momentum, and a low P/E, it looks ready to run.
+--------------------------------------------------
+
 Title: Marvell to buy chip startup Celestial AI for $3.25 billion, bullish on growth next year; stock rises
 URL: https://finance.yahoo.com/news/marvell-buy-chip-startup-celestial-210837707.html
 Time Published: 2025-12-02T21:08:37Z
