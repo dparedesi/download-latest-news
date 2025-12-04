@@ -1,15 +1,15 @@
 List of news related to Microsoft stock price MSFT:
 
-Title: Stock market today: Dow and S&P 500 rise, Nasdaq pares losses as key ADP jobs data shows weakness
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-and-sp-500-rise-nasdaq-pares-losses-as-key-adp-jobs-data-shows-weakness-000151469.html
-Time Published: 2025-12-03T00:01:51Z
-Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs data shows weakness
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
+--------------------------------------------------
+
+Title: Stock market today: Dow and S&P 500 rise, Nasdaq pares losses as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-and-sp-500-rise-nasdaq-pares-losses-as-key-adp-jobs-data-shows-weakness-000151469.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
 Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
