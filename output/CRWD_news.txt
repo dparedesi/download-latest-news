@@ -66,14 +66,14 @@ Time Published: 2025-12-01T23:48:30Z
 Description: Stock futures rose after a day of strong declines as crypto markets collapsed and tech continued to grapple with valuation concerns.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures edge higher as Wall Street regains its footing
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-higher-as-wall-street-regains-its-footing-234830126.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures step higher as Wall Street regains its nerve
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-step-higher-as-wall-street-regains-234830976.html
 Time Published: 2025-12-01T23:48:30Z
 Description: Wall Street is eyeing a comeback as the flight from risk starts to cool.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures step higher as Wall Street regains its nerve
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-step-higher-as-wall-street-regains-234830976.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures edge higher as Wall Street regains its footing
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-higher-as-wall-street-regains-its-footing-234830126.html
 Time Published: 2025-12-01T23:48:30Z
 Description: Wall Street is eyeing a comeback as the flight from risk starts to cool.
 --------------------------------------------------
