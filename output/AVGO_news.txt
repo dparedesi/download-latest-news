@@ -1,9 +1,27 @@
 List of news related to Broadcom AVGO:
 
+Title: Beyond NVIDIA: 5 Semiconductor Stocks Set to Dominate 2026
+URL: https://www.marketbeat.com/stock-ideas/beyond-nvidia-5-semiconductor-stocks-set-to-dominate-2026/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-12-03T22:23:00Z
+Description: Semiconductor stocks are on track to advance in 2026 as a global supercycle gains momentum. NVIDIA is still the leader but others are also well-positioned.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as weak ADP jobs data reinforces growing Fed rate cut bets
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-weak-adp-jobs-data-reinforces-growing-fed-rate-cut-bets-210358240.html
 Time Published: 2025-12-03T21:03:58Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
+--------------------------------------------------
+
+Title: Google Is Gaining Ground in TPUs, But This 1 Other Chipmaker Is Still a Strong Buy According to Morgan Stanley
+URL: https://www.barchart.com/story/news/36438956/google-is-gaining-ground-in-tpus-but-this-1-other-chipmaker-is-still-a-strong-buy-according-to-morgan-stanley
+Time Published: 2025-12-03T19:47:55Z
+Description: Valued at a market cap of $1.8 trillion, Broadcom is a mega-cap chip stock that offers significant upside potential, according to Morgan Stanley.
+--------------------------------------------------
+
+Title: Which AI ETF Should You Buy? Perhaps None of Them.
+URL: https://www.barchart.com/story/news/36437909/which-ai-etf-should-you-buy-perhaps-none-of-them
+Time Published: 2025-12-03T18:25:26Z
+Description: There are too many ETFs, and not enough differentiators. That is making it hard for investors and traders to decide what’s right for them.
 --------------------------------------------------
 
 Title: Scientists Pointing to Hidden Power Source That Could Reshape Future of AI
@@ -31,6 +49,12 @@ Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
+Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as surprise ADP jobs decline reinforces Fed rate cut bets
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-surprise-adp-jobs-decline-reinforces-fed-rate-cut-bets-000151602.html
 Time Published: 2025-12-03T00:01:51Z
@@ -41,12 +65,6 @@ Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs da
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
---------------------------------------------------
-
-Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
-Time Published: 2025-12-03T00:01:51Z
-Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
 Title: Marvell to buy chip startup Celestial AI for $3.25 billion, bullish on growth next year; stock rises

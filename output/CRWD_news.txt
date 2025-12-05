@@ -66,12 +66,6 @@ Time Published: 2025-12-02T10:24:10Z
 Description: A handful of behemoths like Alphabet Inc., Amazon.com Inc., Meta Platforms Inc. and Microsoft Corp. used this formula to seize market share from legacy...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures step higher as Wall Street regains its nerve
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-step-higher-as-wall-street-regains-234830976.html
-Time Published: 2025-12-01T23:48:30Z
-Description: Wall Street is eyeing a comeback as the flight from risk starts to cool.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures lean higher after stocks, bitcoin take a bruising
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-lean-higher-after-stocks-bitcoin-take-a-bruising-234830287.html
 Time Published: 2025-12-01T23:48:30Z
@@ -80,6 +74,12 @@ Description: Stock futures rose after a day of strong declines as crypto markets
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures edge higher as Wall Street regains its footing
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-higher-as-wall-street-regains-its-footing-234830126.html
+Time Published: 2025-12-01T23:48:30Z
+Description: Wall Street is eyeing a comeback as the flight from risk starts to cool.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures step higher as Wall Street regains its nerve
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-step-higher-as-wall-street-regains-234830976.html
 Time Published: 2025-12-01T23:48:30Z
 Description: Wall Street is eyeing a comeback as the flight from risk starts to cool.
 --------------------------------------------------
