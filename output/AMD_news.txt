@@ -1,5 +1,17 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Morgan Stanley drops eye-popping price target on Nvidia stock
+URL: https://www.thestreet.com/investing/stocks/morgan-stanley-drops-eye-popping-price-target-on-nvidia-stock
+Time Published: 2025-12-03T22:33:00Z
+Description: Nvidia (NVDA) stock has clearly been Wall Street’s biggest AI winner, but Morgan Stanley feels it has much more room to run. Analyst Joe Moore just bumped...
+--------------------------------------------------
+
+Title: Stocks Recover on Fed Rate Cut Expectations
+URL: https://www.barchart.com/story/news/36435634/stocks-recover-on-fed-rate-cut-expectations
+Time Published: 2025-12-03T16:30:38Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.18%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.47%, and the Nasdaq 100 Index ($IUXX...
+--------------------------------------------------
+
 Title: How Should You Play NVDA Stock Amid Reports That China Banned ByteDance from Using Nvidia GPUs?
 URL: https://www.barchart.com/story/news/36413452/how-should-you-play-nvda-stock-amid-reports-that-china-banned-bytedance-from-using-nvidia-gpus
 Time Published: 2025-12-02T16:45:27Z
@@ -71,22 +83,4 @@ Title: The absolute best Cyber Monday deals you can already shop
 URL: https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025
 Time Published: 2025-11-30T08:43:50Z
 Description: Black Friday might officially be over, but that doesn’t mean the deals have simply evaporated. As we turn our attention to Cyber Monday, many of our favorite deals are still holding strong. That means you have another chance to save if you’ve been too preoccu…
---------------------------------------------------
-
-Title: Dan Ives Says These Are the Top 3 Stocks to Buy Right Now
-URL: https://www.barchart.com/story/news/36371180/dan-ives-says-these-are-the-top-3-stocks-to-buy-right-now
-Time Published: 2025-11-29T17:00:02Z
-Description: The Wedbush analyst reckons these stocks to be table pounders at the moment.
---------------------------------------------------
-
-Title: The 190 Black Friday deals you can still get
-URL: https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available
-Time Published: 2025-11-29T13:39:50Z
-Description: Black Friday is technically a thing of the past, but many of the best deals we told you about yesterday — including deep discounts on AirPods Pro 3, the Pixel Watch 4, and latest Kindle Paperwhite — are still kicking for now. In some cases, gadgets are out of…
---------------------------------------------------
-
-Title: What Analysts Think About AMD
-URL: https://finance.yahoo.com/news/analysts-think-amd-053912000.html
-Time Published: 2025-11-29T05:39:12Z
-Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the 15 Best Performing AI Stocks Heading into 2026. On November 25, Bank of America Securities reiterated...
 --------------------------------------------------

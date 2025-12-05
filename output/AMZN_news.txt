@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: IonQ Wants to Bring Quantum Computing to Medicine. Should You Buy IONQ Stock Here?
+URL: https://www.barchart.com/story/news/36433463/ionq-wants-to-bring-quantum-computing-to-medicine-should-you-buy-ionq-stock-here
+Time Published: 2025-12-03T15:00:02Z
+Description: With IonQ bringing quantum computing into healthcare, is now the time for investors to start paying attention to this stock?
+--------------------------------------------------
+
 Title: Wall Street’s Sleeping Giant: Is Amazon About to Wake Up?
 URL: https://www.marketbeat.com/originals/wall-streets-sleeping-giant-is-amazon-about-to-wake-up/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2025-12-02T23:29:00Z
@@ -59,16 +65,4 @@ Title: What Makes Figma (FIG) an Investment Choice?
 URL: https://finance.yahoo.com/news/makes-figma-fig-investment-choice-132003531.html
 Time Published: 2025-12-01T13:20:03Z
 Description: Sands Capital, an investment management company, released its Q3 2025 investor letter for the “Sands Capital Technology Innovators Fund.” A copy of the...
---------------------------------------------------
-
-Title: Down 42% From Its 52-Week High, Should You Buy the Dip in Cipher Mining Stock?
-URL: https://www.barchart.com/story/news/36370905/down-42-from-its-52-week-high-should-you-buy-the-dip-in-cipher-mining-stock
-Time Published: 2025-11-29T16:00:02Z
-Description: With Cipher Mining’s shares down big from its 52-week high, could now be the perfect time to buy the stock?
---------------------------------------------------
-
-Title: Amazon (AMZN) Stock Gets Boost as AWS Growth Accelerates and AI Demand Surges
-URL: https://finance.yahoo.com/news/amazon-amzn-stock-gets-boost-111927115.html
-Time Published: 2025-11-29T11:19:27Z
-Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the AI Stocks Making Headlines on Wall Street. On November 25, TD Cowen analyst John Blackledge reiterated a Buy...
 --------------------------------------------------

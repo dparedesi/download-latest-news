@@ -6,6 +6,12 @@ Time Published: 2025-12-03T12:56:18Z
 Description: The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.
 --------------------------------------------------
 
+Title: S&P Futures Tick Higher With U.S. Economic Data in Focus
+URL: https://www.barchart.com/story/news/36427153/s-p-futures-tick-higher-with-u-s-economic-data-in-focus
+Time Published: 2025-12-03T11:04:35Z
+Description: December S&P 500 E-Mini futures (ESZ25) are trending up +0.16% this morning as traders bet that a new round of U.S. economic data will reinforce expectations...
+--------------------------------------------------
+
 Title: CrowdStrike forecasts upbeat quarterly revenue as AI adoption fuels growth
 URL: https://finance.yahoo.com/news/crowdstrike-forecasts-upbeat-quarterly-revenue-215734046.html
 Time Published: 2025-12-02T21:57:34Z
@@ -60,16 +66,16 @@ Time Published: 2025-12-02T10:24:10Z
 Description: A handful of behemoths like Alphabet Inc., Amazon.com Inc., Meta Platforms Inc. and Microsoft Corp. used this formula to seize market share from legacy...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures lean higher after stocks, bitcoin take a bruising
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-lean-higher-after-stocks-bitcoin-take-a-bruising-234830287.html
-Time Published: 2025-12-01T23:48:30Z
-Description: Stock futures rose after a day of strong declines as crypto markets collapsed and tech continued to grapple with valuation concerns.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures step higher as Wall Street regains its nerve
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-step-higher-as-wall-street-regains-234830976.html
 Time Published: 2025-12-01T23:48:30Z
 Description: Wall Street is eyeing a comeback as the flight from risk starts to cool.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures lean higher after stocks, bitcoin take a bruising
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-lean-higher-after-stocks-bitcoin-take-a-bruising-234830287.html
+Time Published: 2025-12-01T23:48:30Z
+Description: Stock futures rose after a day of strong declines as crypto markets collapsed and tech continued to grapple with valuation concerns.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures edge higher as Wall Street regains its footing
@@ -118,16 +124,4 @@ Title: Stocks drift back toward record highs as the final month of 2025 gets und
 URL: https://finance.yahoo.com/news/stocks-drift-back-toward-record-highs-as-the-final-month-of-2025-gets-underway-what-to-watch-this-week-122743521.html
 Time Published: 2025-11-30T12:27:43Z
 Description: As the market moves into December, investors will be watching for Fed updates and a steadier performance environment than they got in November.
---------------------------------------------------
-
-Title: CrowdStrike (CRWD) Stock: PT Lifted to $580 as Analysts Expect Strong Q3 Results
-URL: https://finance.yahoo.com/news/crowdstrike-crwd-stock-pt-lifted-104844066.html
-Time Published: 2025-11-29T10:48:44Z
-Description: CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of the AI Stocks Making Headlines on Wall Street. On November 25, DA Davidson raised its price target on the ...
---------------------------------------------------
-
-Title: Analysts Stay Positive on CrowdStrike (CRWD) Ahead of Q3 2026 Results
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5af51830-acaa-4719-be9d-9fae139a54ac
-Time Published: 2025-11-29T05:39:21Z
-Description: None
 --------------------------------------------------
