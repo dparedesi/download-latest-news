@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Broadcom Inc. (AVGO): A Bull Case Theory
+URL: https://finance.yahoo.com/news/broadcom-inc-avgo-bull-case-154106732.html
+Time Published: 2025-12-04T15:41:06Z
+Description: We came across a bullish thesis on Broadcom Inc. on Nikhs’s Substack. In this article, we will summarize the bulls’ thesis on AVGO. Broadcom Inc.’s share was...
+--------------------------------------------------
+
+Title: Coherent Corp. (COHR): A Bull Case Theory
+URL: https://finance.yahoo.com/news/coherent-corp-cohr-bull-case-135447321.html
+Time Published: 2025-12-04T13:54:47Z
+Description: We came across a bullish thesis on Coherent Corp. on Mispriced Assets’s Substack by Nick Nemeth. In this article, we will summarize the bulls’ thesis on COHR...
+--------------------------------------------------
+
 Title: 3 Stocks Poised to Benefit From Google’s AI Breakthough
 URL: https://www.marketbeat.com/originals/3-stocks-poised-to-benefit-from-googles-ai-breakthough/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2025-12-03T23:22:00Z
@@ -67,16 +79,16 @@ Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs data shows weakness
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
-Time Published: 2025-12-03T00:01:51Z
-Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
---------------------------------------------------
-
 Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
 --------------------------------------------------
 
 Title: Marvell to buy chip startup Celestial AI for $3.25 billion, bullish on growth next year; stock rises
