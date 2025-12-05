@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: 3 Stocks Poised to Benefit From Google’s AI Breakthough
+URL: https://www.marketbeat.com/originals/3-stocks-poised-to-benefit-from-googles-ai-breakthough/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-12-03T23:22:00Z
+Description: Google's Gemini 3 has proven a big winner for GOOGL shares, but the company's vast AI infrastructure also benefits these three tech stocks.
+--------------------------------------------------
+
 Title: Beyond NVIDIA: 5 Semiconductor Stocks Set to Dominate 2026
 URL: https://www.marketbeat.com/stock-ideas/beyond-nvidia-5-semiconductor-stocks-set-to-dominate-2026/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2025-12-03T22:23:00Z
@@ -10,6 +16,12 @@ Title: Stock market today: Dow, S&P 500, Nasdaq rise as weak ADP jobs data reinf
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-weak-adp-jobs-data-reinforces-growing-fed-rate-cut-bets-210358240.html
 Time Published: 2025-12-03T21:03:58Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
+--------------------------------------------------
+
+Title: Morgan Stanley Expects Broadcom (AVGO) to Outpace Nvidia in 2026 AI Processor Growth
+URL: https://finance.yahoo.com/news/morgan-stanley-expects-broadcom-avgo-200859834.html
+Time Published: 2025-12-03T20:08:59Z
+Description: Broadcom Inc. (NASDAQ:AVGO) is included among the 15 Dividend Stocks that Outperform the S&P 500. On December 1, Morgan​ St‍a⁠nley r⁠aised Broadcom Inc...
 --------------------------------------------------
 
 Title: Google Is Gaining Ground in TPUs, But This 1 Other Chipmaker Is Still a Strong Buy According to Morgan Stanley
@@ -49,12 +61,6 @@ Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
-Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
-Time Published: 2025-12-03T00:01:51Z
-Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as surprise ADP jobs decline reinforces Fed rate cut bets
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-surprise-adp-jobs-decline-reinforces-fed-rate-cut-bets-000151602.html
 Time Published: 2025-12-03T00:01:51Z
@@ -65,6 +71,12 @@ Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs da
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
+--------------------------------------------------
+
+Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
 Title: Marvell to buy chip startup Celestial AI for $3.25 billion, bullish on growth next year; stock rises

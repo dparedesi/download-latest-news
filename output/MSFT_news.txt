@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Anthropic CEO: Some AI companies ‘YOLOing,’ pulling the ‘risk dial too far’
+URL: https://finance.yahoo.com/news/anthropic-ceo-some-ai-companies-yoloing-pulling-the-risk-dial-too-far-223738240.html
+Time Published: 2025-12-03T22:37:38Z
+Description: Anthropic CEO Dario Amodei warns that some competitors are taking overspending risks too far.
+--------------------------------------------------
+
+Title: Stocks Climb on Fed Rate Cut Optimism
+URL: https://www.barchart.com/story/news/36441035/stocks-climb-on-fed-rate-cut-optimism
+Time Published: 2025-12-03T21:33:25Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up by +0.30%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.86%, and the Nasdaq 100...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as weak ADP jobs data reinforces growing Fed rate cut bets
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-weak-adp-jobs-data-reinforces-growing-fed-rate-cut-bets-210358240.html
 Time Published: 2025-12-03T21:03:58Z

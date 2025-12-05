@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: 3 Stocks Poised to Benefit From Google’s AI Breakthough
+URL: https://www.marketbeat.com/originals/3-stocks-poised-to-benefit-from-googles-ai-breakthough/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-12-03T23:22:00Z
+Description: Google's Gemini 3 has proven a big winner for GOOGL shares, but the company's vast AI infrastructure also benefits these three tech stocks.
+--------------------------------------------------
+
+Title: Anthropic CEO: Some AI companies ‘YOLOing,’ pulling the ‘risk dial too far’
+URL: https://finance.yahoo.com/news/anthropic-ceo-some-ai-companies-yoloing-pulling-the-risk-dial-too-far-223738240.html
+Time Published: 2025-12-03T22:37:38Z
+Description: Anthropic CEO Dario Amodei warns that some competitors are taking overspending risks too far.
+--------------------------------------------------
+
 Title: Morgan Stanley drops eye-popping price target on Nvidia stock
 URL: https://www.thestreet.com/investing/stocks/morgan-stanley-drops-eye-popping-price-target-on-nvidia-stock
 Time Published: 2025-12-03T22:33:00Z
@@ -16,6 +28,12 @@ Title: Stock market today: Dow, S&P 500, Nasdaq rise as weak ADP jobs data reinf
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-weak-adp-jobs-data-reinforces-growing-fed-rate-cut-bets-210358240.html
 Time Published: 2025-12-03T21:03:58Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
+--------------------------------------------------
+
+Title: Netflix Stock Breaks Below 20-Day Moving Average Amid Selloff. Should You Buy the Dip?
+URL: https://www.barchart.com/story/news/36439846/netflix-stock-breaks-below-20-day-moving-average-amid-selloff-should-you-buy-the-dip
+Time Published: 2025-12-03T20:40:56Z
+Description: Here’s how you should play NFLX shares heading into 2026.
 --------------------------------------------------
 
 Title: Nvidia CEO Jensen Huang Tells Joe Rogan AI Race Is Real, But It Won’t Have a Clear Winner
@@ -132,16 +150,16 @@ Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs data shows weakness
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
-Time Published: 2025-12-03T00:01:51Z
-Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
---------------------------------------------------
-
 Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
 --------------------------------------------------
 
 Title: S&P 500 Gains and Losses Today: Boeing Climbs on Positive Outlook; Intel Extends Rally
@@ -161,7 +179,7 @@ Title: Apple shares hit new all-time intraday and closing highs
 URL: https://macdailynews.com/2025/12/02/apple-shares-hit-new-all-time-intraday-and-closing-highs-251202/
 Time Published: 2025-12-02T21:17:20Z
 Full Content:
-Update font size. Reset In Nasdaq trading today, shares of Apple Inc. (AAPL) rose $3.09 to $286.19, a new all-time closing high. Apple’s all-time intraday high was also set today at $287.40. Apple’s 52-week low stands at $169.21 set on April 8, 2025, the very date on which we wrote, “Sub-$170 AAPL seems like an absolute gift to us…” Today’s trading volume for AAPL shares was 47,782,384 versus Apple’s average trading volume of 51,471,580 shares. Apple’s PE Ratio currently stands at 38.31. Apple currently has a market value of $4.247 trillion, making it the world’s second-most valuable company. The top five U.S. publicly-traded companies, based on market value: Alphabet (GOOGL) – $3.825T Microsoft (MSFT) – $3.642T Amazon (AMZN) – $2.506T Selected companies’ current market values: • Meta Platforms (META) – $1.631T • Taiwan Semi (TSM) – $1.516T • Tesla (TSLA) – $1.428T • Berkshire Hathaway (BRK-A) – $1.095T • Walmart (WMT) – $897.039B • Netflix (NFLX) – $463.351B • Advanced Micro Devices (AMD) – $350.420B • Cisco (CSCO) – $303.721B • IBM (IBM) – $282.122B • Intel (INTC) – $207.352B • Disney (DIS) – $188.530B • Sony (SONY) – $170.415B • SoftBank (SFTBF) – $147.189B • Adobe (ADBE) – $136.936B • Spotify (SPOT) – $118.801B • Dell (DELL) – $91.402B • Nokia (NOK) – $34.354B • Hewlett-Packard (HPQ) – $23.627B • SiriusXM (SIRI) – $7.018B • BlackBerry (BB) – $2.424B • Sonos (SONO) – $2.270B • RealNetworks (RNWK) was delisted from U.S. exchanges on December 21, 2022 and is no longer publicly traded.🍩 Apple all-time high (AAPL) via NASDAQ here. MacDailyNews Take: Bang! Zoom! Please help support MacDailyNews — and enjoy subscriber-only articles, comments, chat, and more — by subscribing to our Substack: macdailynews.substack.com. Thank you! Support MacDailyNews at no extra cost to you by using this link to shop at Amazon. Looks like Apple catching up with Nvidia in market cap. When will AMD ship their GPU that can compete in all metrics with those NVIDIA GPUs? When that occurs we will see some major shifting of market caps! After all, it’s not magic, it’s engineering. iPhone sales matter more than anything to Wall Street. Certainly, actual product sales should matter more than some potential A.I. nonsense. I’m glad Wall Street is somewhat coming to its senses. It irks me that so much emphasis is put on A.I. despite only a few hardware companies are profiting from it. There are so many data centers being built, and yet the demand for A.I. doesn’t really exist for most consumers. Is there even enough energy to go around to power all those data centers, especially when the summer heat arrives? Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Notify me of follow-up comments by email. Notify me of new posts by email. Δ This site uses Akismet to reduce spam. Learn how your comment data is processed. Russia’s state communications regulator announced on Thursday that it has blocked Apple’s FaceTime video-calling service, citing its alleged… Apple on Thursday announced the winners of the 2025 App Store Awards, recognizing 17 apps and games for their technical… Apple TV on Thursday unveiled the premiere date and a first look at the third season of “Tehran,” and announced that the International… Meta has landed a major talent coup by hiring away Apple Inc.’s top design executive, Alan Dye, in a move that highlights the social media… Apple TV on Wednesday revealed first look images and the season two premiere date for its critically acclaimed Jon Hamm-led drama… Enter your email address to follow MacDailyNews and receive notifications of new posts by email. Email Address Follow :-)
+Update font size. Reset In Nasdaq trading today, shares of Apple Inc. (AAPL) rose $3.09 to $286.19, a new all-time closing high. Apple’s all-time intraday high was also set today at $287.40. Apple’s 52-week low stands at $169.21 set on April 8, 2025, the very date on which we wrote, “Sub-$170 AAPL seems like an absolute gift to us…” Today’s trading volume for AAPL shares was 47,782,384 versus Apple’s average trading volume of 51,471,580 shares. Apple’s PE Ratio currently stands at 38.31. Apple currently has a market value of $4.247 trillion, making it the world’s second-most valuable company. The top five U.S. publicly-traded companies, based on market value: Alphabet (GOOGL) – $3.825T Microsoft (MSFT) – $3.642T Amazon (AMZN) – $2.506T Selected companies’ current market values: • Meta Platforms (META) – $1.631T • Taiwan Semi (TSM) – $1.516T • Tesla (TSLA) – $1.428T • Berkshire Hathaway (BRK-A) – $1.095T • Walmart (WMT) – $897.039B • Netflix (NFLX) – $463.351B • Advanced Micro Devices (AMD) – $350.420B • Cisco (CSCO) – $303.721B • IBM (IBM) – $282.122B • Intel (INTC) – $207.352B • Disney (DIS) – $188.530B • Sony (SONY) – $170.415B • SoftBank (SFTBF) – $147.189B • Adobe (ADBE) – $136.936B • Spotify (SPOT) – $118.801B • Dell (DELL) – $91.402B • Nokia (NOK) – $34.354B • Hewlett-Packard (HPQ) – $23.627B • SiriusXM (SIRI) – $7.018B • BlackBerry (BB) – $2.424B • Sonos (SONO) – $2.270B • RealNetworks (RNWK) was delisted from U.S. exchanges on December 21, 2022 and is no longer publicly traded.🍩 Apple all-time high (AAPL) via NASDAQ here. MacDailyNews Take: Bang! Zoom! Please help support MacDailyNews — and enjoy subscriber-only articles, comments, chat, and more — by subscribing to our Substack: macdailynews.substack.com. Thank you! Support MacDailyNews at no extra cost to you by using this link to shop at Amazon. Looks like Apple catching up with Nvidia in market cap. When will AMD ship their GPU that can compete in all metrics with those NVIDIA GPUs? When that occurs we will see some major shifting of market caps! After all, it’s not magic, it’s engineering. iPhone sales matter more than anything to Wall Street. Certainly, actual product sales should matter more than some potential A.I. nonsense. I’m glad Wall Street is somewhat coming to its senses. It irks me that so much emphasis is put on A.I. despite only a few hardware companies are profiting from it. There are so many data centers being built, and yet the demand for A.I. doesn’t really exist for most consumers. Is there even enough energy to go around to power all those data centers, especially when the summer heat arrives? Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Notify me of follow-up comments by email. Notify me of new posts by email. Δ This site uses Akismet to reduce spam. Learn how your comment data is processed. Inter Miami and the Vancouver Whitecaps face off in a showdown supercharged by the blockbuster renewed rivalry between Lionel Messi and… This week, Meta landed a major talent coup by hiring away Apple’s top UI design executive, Alan Dye, in a move that highlights the social… Apple is celebrating “The Rest Is History” with the Apple Podcasts Award for Show of the Year, a recognition that “honors a show that… Russia’s state communications regulator announced on Thursday that it has blocked Apple’s FaceTime video-calling service, citing its alleged… Apple on Thursday announced the winners of the 2025 App Store Awards, recognizing 17 apps and games for their technical… Enter your email address to follow MacDailyNews and receive notifications of new posts by email. Email Address Follow :-)
 --------------------------------------------------
 
 Title: Worried About Mag 7 Concentration Risk? This ETF Could Help
@@ -294,23 +312,4 @@ Title: Competition Is Heating Up, But Bank of America Still Thinks AMD Stock Is 
 URL: https://www.barchart.com/story/news/36394508/competition-is-heating-up-but-bank-of-america-still-thinks-amd-stock-is-a-buy-here
 Time Published: 2025-12-01T21:19:33Z
 Description: While competition in the AI chip race accelerates, Bank of America remains faithful in AMD’s future.
---------------------------------------------------
-
-Title: As Nvidia Bets on Synopsys, Should You Buy, Sell, or Hold NVDA Stock in December 2025?
-URL: https://www.barchart.com/story/news/36394478/as-nvidia-bets-on-synopsys-should-you-buy-sell-or-hold-nvda-stock-in-december-2025
-Time Published: 2025-12-01T21:18:21Z
-Description: Nvidia stock extends gains as the AI chips giant reveals a $2 billion stake in Synopsys. Seaport continues to recommend selling NVDA shares heading into 2026...
---------------------------------------------------
-
-Title: Apple shares hit new all-time intraday and closing highs
-URL: https://macdailynews.com/2025/12/01/apple-shares-hit-new-all-time-intraday-and-closing-highs-90/
-Time Published: 2025-12-01T21:11:29Z
-Full Content:
-Update font size. Reset In Nasdaq trading today, shares of Apple Inc. (AAPL) rose $4.25 to $283.10, a new all-time closing high. Apple’s all-time intraday high was also set today at $283.41. Apple’s 52-week low stands at $169.21 set on April 8, 2025, the very date on which we wrote, “Sub-$170 AAPL seems like an absolute gift to us…” Today’s trading volume for AAPL shares was 40,170,975 versus Apple’s average trading volume of 51,432,647 shares. Apple’s PE Ratio currently stands at 37.90. Apple currently has a market value of $4.201 trillion, making it the world’s second-most valuable company. The top five U.S. publicly-traded companies, based on market value: Alphabet (GOOGL) – $3.814T Microsoft (MSFT) – $3.618T Amazon (AMZN) – $2.500T Selected companies’ current market values: • Meta Platforms (META) – $1.615T • Taiwan Semi (TSM) – $1.493T • Tesla (TSLA) – $1.431T • Berkshire Hathaway (BRK-A) – $1.098T • Walmart (WMT) – $891.333B • Netflix (NFLX) – $462.419B • Advanced Micro Devices (AMD) – $357.778B • Cisco (CSCO) – $300.441B • IBM (IBM) – $285.853B • Disney (DIS) – $191.965B • Intel (INTC) – $190.848B • Sony (SONY) – $171.638B • SoftBank (SFTBF) – $147.189B • Adobe (ADBE) – $136.949B • Spotify (SPOT) – $119.176B • Dell (DELL) – $88.814B • Nokia (NOK) – $33.911B • Hewlett-Packard (HPQ) – $22.928B • SiriusXM (SIRI) – $7.008B • BlackBerry (BB) – $2.373B • Sonos (SONO) – $2.242B • RealNetworks (RNWK) was delisted from U.S. exchanges on December 21, 2022 and is no longer publicly traded.🍩 Apple all-time high (AAPL) via NASDAQ here. MacDailyNews Take: To the moon, Alice! To the moon!!! Please help support MacDailyNews — and enjoy subscriber-only articles, comments, chat, and more — by subscribing to our Substack: macdailynews.substack.com. Thank you! Support MacDailyNews at no extra cost to you by using this link to shop at Amazon. Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Notify me of follow-up comments by email. Notify me of new posts by email. Δ This site uses Akismet to reduce spam. Learn how your comment data is processed. Russia’s state communications regulator announced on Thursday that it has blocked Apple’s FaceTime video-calling service, citing its alleged… Apple on Thursday announced the winners of the 2025 App Store Awards, recognizing 17 apps and games for their technical… Apple TV on Thursday unveiled the premiere date and a first look at the third season of “Tehran,” and announced that the International… Meta has landed a major talent coup by hiring away Apple Inc.’s top design executive, Alan Dye, in a move that highlights the social media… Apple TV on Wednesday revealed first look images and the season two premiere date for its critically acclaimed Jon Hamm-led drama… Enter your email address to follow MacDailyNews and receive notifications of new posts by email. Email Address Follow :-)
---------------------------------------------------
-
-Title: Nvidia May Not Be Enron, But Does NVDA Stock Still Face AI Bubble Risks Here?
-URL: https://www.barchart.com/story/news/36393628/nvidia-may-not-be-enron-but-does-nvda-stock-still-face-ai-bubble-risks-here
-Time Published: 2025-12-01T20:44:38Z
-Description: Nvidia has refuted claims from Michael Burry, saying it is not Enron in an internal memo. However, the company is not out of the woods yet if the AI rally...
 --------------------------------------------------

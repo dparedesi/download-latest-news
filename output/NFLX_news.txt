@@ -1,9 +1,28 @@
 List of news related to Netflix stock price NFLX:
 
+Title: S&P 500 Gains and Losses Today: Paramount and Netflix Slide; Microchip Technology Surges on Strong Guidance
+URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-microchip-surges-on-strong-guidance-paramount-and-netflix-slide-11861499
+Time Published: 2025-12-03T21:49:16Z
+Full Content:
+A semiconductor maker increased its quarterly forecast, with strong bookings suggesting a recovery in several key end markets, and its shares led the S&P 500 higher. Meanwhile, two major media players came under pressure as a rival evaluated their competing buyout offers. Major U.S. equities indexes gained ground in the midweek trading session as soft private-sector payroll data increased expectations of a Federal Reserve rate cut this month. The Dow jumped 0.9%, the S&P 500 added 0.3%, and the Nasdaq gained 0.2%. For more coverage from Investopedia on the day's market moves, see here. Shares of Microchip Technology (MCHP) surged 12.2%, posting the S&P 500's strongest daily performance. The maker of microcontrollers and other semiconductors raised its quarterly forecast for net sales and adjusted earnings per share, highlighting strong bookings activity and an improving backlog. Shares of fellow chipmakers ON Semiconductor (ON) and NXP Semiconductors (NXPI) rose 11% and 5.7%, respectively. Vertex Pharmaceuticals (VRTX) shares added 6.9% after Morgan Stanley upgraded the stock to "overweight" from "equal weight" and lifted its price target. Analysts pointed to growing optimism around Vertex's pipeline of kidney treatments, with data from Phase 3 clinical trials of two experimental drugs, Pove and Inaxaplin, anticipated next year. Shares of Delta Airlines (DAL) rose 3.6% after it warned that the government shutdown, which disrupted air traffic across the country, likely cost the carrier about $200 million in pre-tax profit in the current quarter. However, the company also said that demand in the current quarter is strong and is expected to remain so into next year. Shares of competitor United Airlines (UAL) rose 3.9% on Wednesday. Shares of Alexandria Real Estate Equities (ARE), a real estate investment trust (REIT) focused on life sciences properties, plunged 10.1% to suffer the steepest loss of any S&P 500 stock Wednesday. The move lower came after the firm's guidance for 2026 funds from operations, a key profitability metric for REITs, fell short of consensus expectations. The REIT also announced a 45% cut to its quarterly dividend. Sandisk (SNDK) shares fell 5.3%. Following massive year-to-date gains for the stock, bolstered by optimism for the memory card and data storage provider's AI opportunity, Sandisk joined the S&P 500 on Nov. 28. However, the stock has been trending lower since its debut. Shares of Paramount Skydance (PSKY) and Netflix (NFLX) fell 7.3% and 4.9%, respectively, as investors weighed their competing offers to buy Warner Bros. Discovery (WBD). Netflix reportedly made a mostly cash offer for the company's film and streaming assets. Paramount is reportedly exploring a contingency plan to bypass the board and take an offer directly to WBD shareholders. WBD shares edged 0.2% higher.
+--------------------------------------------------
+
+Title: Stocks Climb on Fed Rate Cut Optimism
+URL: https://www.barchart.com/story/news/36441035/stocks-climb-on-fed-rate-cut-optimism
+Time Published: 2025-12-03T21:33:25Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up by +0.30%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.86%, and the Nasdaq 100...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as weak ADP jobs data reinforces growing Fed rate cut bets
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-weak-adp-jobs-data-reinforces-growing-fed-rate-cut-bets-210358240.html
 Time Published: 2025-12-03T21:03:58Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
+--------------------------------------------------
+
+Title: Netflix Stock Breaks Below 20-Day Moving Average Amid Selloff. Should You Buy the Dip?
+URL: https://www.barchart.com/story/news/36439846/netflix-stock-breaks-below-20-day-moving-average-amid-selloff-should-you-buy-the-dip
+Time Published: 2025-12-03T20:40:56Z
+Description: Here’s how you should play NFLX shares heading into 2026.
 --------------------------------------------------
 
 Title: Japan’s 30-year bond yield soars to historic 3.41% — investors ponder as rates hit record high

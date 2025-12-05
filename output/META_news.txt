@@ -7,6 +7,12 @@ Full Content:
 AI Stat Padding Google and Meta love bragging about how widely their AI tools are being used by consumers. But are those metrics legit? For example, Mark Zuckerberg noted during Meta’s quarterly earnings in October that “more than one billion monthly actives already use Meta AI.” Wow! Sounds like a lot. Usage has also increased, Zuckerberg added, as the underlying models improve. But guess what? The basic search function on Instagram was recently replaced by Meta AI, and the app’s entire user base now defaults to that experience even if someone doesn’t want to use the feature. Meanwhile, Google is funneling people to its AI Mode for search regardless of their search engine preferences. As noted by Search Engine Roundtable, anyone who uploads a photo or document to Google is now sent to AI Mode by default instead of a traditional Google Search or Image Search. Meanwhile, in September, Google quietly began sliding a button into the Chrome URL address bar that directs queries straight into AI Mode rather than traditional search. The Defrayed Desk It’s been knives out for The Trade Desk’s 20% take rate all year. And now the largest independent DSP actually appears open to cutting its own fees. Although The Trade Desk historically has been inflexible in pricing negotiations, it’s offering agency discounts and incentives this Q4, Digiday reports. What’s changed? Mainly, increased competition from other top DSPs, Amazon in particular. Amazon DSP has been courting agencies with 0% tech fees for Amazon-owned media and 1% fees for third-party ads. Plus, TTD is under pressure to meet or exceed expectations this Q4, after missing its fourth quarter 2024 revenue guidance earlier this year. One indie agency buyer says TTD offered 1% to 2% discounts on ad tech fees for individual clients – if the agency committed to spending $500,000 more in Q4 than originally budgeted. Another buyer says they were offered post-auction discounts if they spent at least $750,000 in Q4. At the holding company level, one buyer says, TTD is making its development team available for working on tailored programmatic solutions free of charge. Another observes that TTD’s account reps are more responsive lately. All told, evidence is accumulating of an increasingly cutthroat DSP market. Open Up The Elsagates Good news: YouTube has finally found a reliable audience for the AI-generated content that’s been flooding the platform. Bad news: It’s toddlers (again). YouTube creators are increasingly monetizing by generating generic, low-quality AI slop videos intended for children, reports Bloomberg. The trend is particularly popular among entrepreneur-focused creators that make content about making money on YouTube, such as Monique Hinton and Isabella Kotsias. Both have posted videos specifically advocating that their viewers attempt to copy popular YouTube Kids trends and products, like “Baby Shark” and “Cocomelon.” This might trigger alarm bells for those who remember 2017’s Elsagate, a YouTube epoch marked by nonsensical videos of popular children’s characters (mostly Spider-Man and Elsa from “Frozen”) engaging in strange or disturbing activities. This “luridly-colored vomit,” as Forbes called it at the time, became enough of a problem that YouTube changed its community guidelines, purged thousands of videos and removed monetizable ads from millions more. Although, some might argue that these content farms didn’t disappear so much as move into new genres. But Wait! There’s More Let’s get real about agentic AI. [Cynopsis] Spotify leaned hard into human creative for its Wrapped this year. [Adweek] Kohler’s smart toilet camera, which offers feedback on gut health, isn’t actually end-to-end encrypted, and the company can access consumer data and use it to train AI, according to a former FTC advisor. [blog] The London Stock Exchange Group struck a deal with OpenAI to make its licensed financial news and data available on ChatGPT. [Bloomberg] In other data-sharing news, predictive market (aka “gambling”) company Kalshi will now supply its data to CNN’s newsrooms. [Axios] Target changes the price of some products based on consumer data. Now, thanks to a new law, New York residents know about it. [Wired] As PlayStation celebrates its 30th anniversary, here’s how Sony built its upstart gaming brand into a mainstream pop cultural touchstone. [AP] You’re Hired! Smartly appoints Brianna Gays as CMO. [blog] Here’s today’s AdExchanger.com news round-up… Want it by email? Sign up here.
 --------------------------------------------------
 
+Title: Anthropic CEO: Some AI companies ‘YOLOing,’ pulling the ‘risk dial too far’
+URL: https://finance.yahoo.com/news/anthropic-ceo-some-ai-companies-yoloing-pulling-the-risk-dial-too-far-223738240.html
+Time Published: 2025-12-03T22:37:38Z
+Description: Anthropic CEO Dario Amodei warns that some competitors are taking overspending risks too far.
+--------------------------------------------------
+
 Title: Orezone Intercepts 3.28 g/t Gold Over 26.00m and 5.55 g/t Gold Over 15.00m at P17 Zone in Advance of Hard Rock First Gold
 URL: https://www.globenewswire.com/news-release/2025/12/03/3199416/0/en/Orezone-Intercepts-3-28-g-t-Gold-Over-26-00m-and-5-55-g-t-Gold-Over-15-00m-at-P17-Zone-in-Advance-of-Hard-Rock-First-Gold.html
 Time Published: 2025-12-03T22:29:00Z
@@ -118,15 +124,15 @@ Time Published: 2025-12-02T17:12:00Z
 Description: NVIDIA secures the future of chip design by investing in Synopsys and moving critical engineering simulations to its own powerful accelerated platform.
 --------------------------------------------------
 
-Title: Centre's 'Big Brother' app faces pushback; Wakefit fixes IPO band
-URL: https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/centres-big-brother-app-faces-pushback-wakefit-fixes-ipo-band/articleshow/125719822.cms
+Title: Govt's 'Big Brother' app under fire; Meesho IPO faces investor heat
+URL: https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/govts-big-brother-app-under-fire-meesho-ipo-faces-investor-heat/articleshow/125719822.cms
 Time Published: 2025-12-02T13:22:27Z
 Full Content:
 Want this newsletter delivered to your inbox? Updated On Dec 02, 2025, 07:53 PM IST Want this newsletter delivered to your inbox? Thank you for subscribing to Daily Top 5We'll soon meet in your inbox. Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Commodities Top Prime Articles Top Slideshow Top Story Listing Top Market Pages Latest News Follow us on:
 --------------------------------------------------
 
-Title: Govt's 'Big Brother' app under fire; Meesho IPO faces investor heat
-URL: https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/govts-big-brother-app-under-fire-meesho-ipo-faces-investor-heat/articleshow/125719822.cms
+Title: Centre's 'Big Brother' app faces pushback; Wakefit fixes IPO band
+URL: https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/centres-big-brother-app-faces-pushback-wakefit-fixes-ipo-band/articleshow/125719822.cms
 Time Published: 2025-12-02T13:22:27Z
 Full Content:
 Want this newsletter delivered to your inbox? Updated On Dec 02, 2025, 07:53 PM IST Want this newsletter delivered to your inbox? Thank you for subscribing to Daily Top 5We'll soon meet in your inbox. Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Commodities Top Prime Articles Top Slideshow Top Story Listing Top Market Pages Latest News Follow us on:
@@ -285,10 +291,4 @@ Title: The Best Buy Cyber Monday Sale Has New, Exclusive Deals I Didn't See Duri
 URL: https://www.ign.com/articles/best-buy-cyber-monday-sale-best-deals-on-tvs-laptops-gaming-pcs-and-laptops
 Time Published: 2025-12-01T02:20:00Z
 Description: Get a 75" Mini-LED TV for $399, Asus laptop for $199, $250 off a Steam handheld gaming PC, and more.
---------------------------------------------------
-
-Title: Worried About Inflation? These 3 ETFs Offer Real Protection
-URL: https://www.marketbeat.com/stock-ideas/worried-about-inflation-these-3-etfs-offer-real-protection/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-11-30T16:10:00Z
-Description: Inflation has slowed but remains a major concern for many investors; these ETFs can help provide a buffer through the use of TIPS, commodities, or T-Bills.
 --------------------------------------------------
