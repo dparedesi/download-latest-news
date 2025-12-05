@@ -38,8 +38,8 @@ Time Published: 2025-12-03T16:30:38Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.18%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.47%, and the Nasdaq 100 Index ($IUXX...
 --------------------------------------------------
 
-Title: Stock market today: Dow and S&P 500 rise, Nasdaq pares losses as key ADP jobs data shows weakness
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-and-sp-500-rise-nasdaq-pares-losses-as-key-adp-jobs-data-shows-weakness-000151469.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as surprise ADP jobs decline reinforces Fed rate cut bets
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-surprise-adp-jobs-decline-reinforces-fed-rate-cut-bets-000151602.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
@@ -50,8 +50,8 @@ Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as surprise ADP jobs decline reinforces Fed rate cut bets
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-surprise-adp-jobs-decline-reinforces-fed-rate-cut-bets-000151602.html
+Title: Stock market today: Dow and S&P 500 rise, Nasdaq pares losses as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-and-sp-500-rise-nasdaq-pares-losses-as-key-adp-jobs-data-shows-weakness-000151469.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------

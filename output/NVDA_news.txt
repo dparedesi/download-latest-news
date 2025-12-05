@@ -12,6 +12,12 @@ Time Published: 2025-12-04T13:35:27Z
 Description: Brown Advisory, an investment management company, released its “Brown Advisory Large-Cap Growth Strategy” third-quarter 2025 investor letter. A copy of the...
 --------------------------------------------------
 
+Title: Palantir teams with Nvidia, CenterPoint Energy for software to speed up AI data center construction
+URL: https://finance.yahoo.com/news/palantir-teams-nvidia-centerpoint-energy-093136940.html
+Time Published: 2025-12-04T09:31:36Z
+Description: Palantir Technologies, Nvidia and U.S. utility CenterPoint Energy on Thursday said they are developing a new ​software platform to accelerate the building of...
+--------------------------------------------------
+
 Title: Jim Cramer Says “Once again, I Say Own NVIDIA, Don’t Trade It”
 URL: https://finance.yahoo.com/news/jim-cramer-says-once-again-050507071.html
 Time Published: 2025-12-04T05:05:07Z
@@ -150,22 +156,10 @@ Time Published: 2025-12-03T00:01:51Z
 Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
 --------------------------------------------------
 
-Title: Stock market today: Dow and S&P 500 rise, Nasdaq pares losses as key ADP jobs data shows weakness
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-and-sp-500-rise-nasdaq-pares-losses-as-key-adp-jobs-data-shows-weakness-000151469.html
-Time Published: 2025-12-03T00:01:51Z
-Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures keep rebound alive as key ADP jobs data looms
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-keep-rebound-alive-as-key-adp-jobs-data-looms-000151838.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
---------------------------------------------------
-
-Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
-Time Published: 2025-12-03T00:01:51Z
-Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as surprise ADP jobs decline reinforces Fed rate cut bets
@@ -174,10 +168,22 @@ Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
+Title: Stock market today: Dow and S&P 500 rise, Nasdaq pares losses as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-and-sp-500-rise-nasdaq-pares-losses-as-key-adp-jobs-data-shows-weakness-000151469.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs data shows weakness
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
+--------------------------------------------------
+
+Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
 Title: S&P 500 Gains and Losses Today: Boeing Climbs on Positive Outlook; Intel Extends Rally
@@ -304,11 +310,4 @@ Title: Accelerating Real-Time Financial Decisions with Quantitative Portfolio Op
 URL: https://developer.nvidia.com/blog/accelerating-real-time-financial-decisions-with-quantitative-portfolio-optimization/
 Time Published: 2025-12-01T23:44:52Z
 Description: Financial portfolio optimization is a difficult yet essential task that has been consistently challenged by a trade-off between computational speed and model...
---------------------------------------------------
-
-Title: The New Bubble: How AI and Passive Investing Have Turned the Market into a Powder Keg
-URL: https://www.activistpost.com/the-new-bubble-how-ai-and-passive-investing-have-turned-the-market-into-a-powder-keg/
-Time Published: 2025-12-01T23:00:00Z
-Full Content:
-The US equity market is a bubble. Here is why: In my mind, to be defined as a “bubble” the potential for a sudden “pop” needs to be there. No matter how you define it, the probability of an extremely large drawdown in the S&P 500 has exponentially increased in the past few years. This doesn’t mean it is a high probability — it just means the tail has gotten much fatter. The main reason for this is index concentration is now being coupled with earnings concentration. Firstly, passive investing has clearly contributed to the top market caps consistently outperforming over the past decade. Passive is inherently pro-momentum. As these stocks were rewarded, it became easier for the companies to use their balance sheet for buying up competitors, seeking top talent, cheap access to debt so they could buy back more shares, etc. It has been a snowball of positive forces for the big tech space in the past 15 years and FLOWS have been a big part of it. However, what has notably changed in the past few years is that their actual earnings have become much more correlated. Yes, Google and Meta at the end of the day are ad companies. Those ads are seen on the screen of an iPhone. They feed Amazon orders. And all of that runs on the cloud behind the scenes. So in a way they have always had very correlated earnings growth, but now they are intertwining even more. Headlines from the past 12 months to give a taste: The Mag 7’s earnings as a percentage of the overall index has surged higher. That is because they are feeding each other’s growth now. Their balance sheets are becoming more and more intertwined while their market caps have become fueled by similar hopes. The point here is this: passive investing led to an increase in correlation of these stocks and contributed to their outperformance. But now, AI has led to a further increase in correlation at the fundamental level. To me, this is now what defines this market as a bubble. It is not about all-time high valuations. It is the fact that the stocks are all being pushed higher by similar forces (passive flows and buybacks) while at the fundamental level they are becoming more intertwined by the OBVIOUSLY permeable, flammable, and house-of-cards AI euphoria. Speaking of nuts… We have just had 27 leveraged 3x and 5x single stock ETFs filed by Volatility Shares. 3x AMD ETF 3x AMZN ETF 3x COIN ETF 3x CRCL ETF 3x GOOGL ETF 3x MSTR ETF 3x NVDA ETF 3x PLTR ETF 3x TSLA ETF 3x Bitcoin ETF 3x Ether ETF 3x Solana ETF 3x XRP ETF 3x VIX ETF 5x AMD ETF 5x AMZN ETF 5x COIN ETF 5x CRCL ETF 5x GOOGL ETF 5x MSTR ETF 5x NVDA ETF 5x PLTR ETF 5x TSLA ETF 5x Bitcoin ETF 5x Ether ETF 5x Solana ETF 5x XRP ETF From a broader perspective… These “5x bullish” ETFs are scheduled to be listed towards the end of the year. We believe this may accurately coincide with a top in the market. Great caution is now warranted… if you’ve been with us for some time you will know that we shy away from bombastic sensationalist type of commentary and so we do not say this lightly. This is the most apprehensive we have been since the GFC for the Nasdaq and S&P 500 at least! Editor’s Note: As markets levitate on the same narrow set of names and the feedback loop tightens, investors would do well to step back and consider what happens when the momentum finally breaks. In our special report, Clash of the Systems: Thoughts on Investing at a Unique Point in Time, we take a hard look at the structural imbalances shaping this moment — and how to navigate the risks and opportunities they create. Read the full report here for free.
 --------------------------------------------------
