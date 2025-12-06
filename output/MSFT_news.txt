@@ -1,5 +1,23 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Strong Quarter, Weak Reaction: Why GitLab Shares Dropped
+URL: https://www.marketbeat.com/originals/strong-quarter-weak-reaction-why-gitlab-shares-dropped/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-12-04T21:27:00Z
+Description: GitLab stock fell 13.5% post-earnings as weak AI monetization and bearish technicals dim investor outlook.
+--------------------------------------------------
+
+Title: Microsoft Stock Recovers as Company Denies Reports of Lower AI Sales Quotas. Should You Buy It Here?
+URL: https://www.barchart.com/story/news/36458918/microsoft-stock-recovers-as-company-denies-reports-of-lower-ai-sales-quotas-should-you-buy-it-here
+Time Published: 2025-12-04T16:55:10Z
+Description: Microsoft shares recover as the multinational denies reports of lowered AI products sales quotas. D.A. Davidson sees upside in MSFT stock to $650.
+--------------------------------------------------
+
+Title: The Pullback in Oracle Stock Just Created a Buying Opportunity
+URL: https://www.barchart.com/story/news/36458748/the-pullback-in-oracle-stock-just-created-a-buying-opportunity
+Time Published: 2025-12-04T16:48:31Z
+Description: Oracle stock is down nearly 40% from its 52-week high, presenting an opportunity for long-term investors.
+--------------------------------------------------
+
 Title: Anthropic CEO: Some AI companies ‘YOLOing,’ pulling the ‘risk dial too far’
 URL: https://finance.yahoo.com/news/anthropic-ceo-some-ai-companies-yoloing-pulling-the-risk-dial-too-far-223738240.html
 Time Published: 2025-12-03T22:37:38Z
@@ -75,16 +93,16 @@ Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
-Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
-Time Published: 2025-12-03T00:01:51Z
-Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs data shows weakness
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
+--------------------------------------------------
+
+Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
 Title: Marvell to buy chip startup Celestial AI for $3.25 billion, bullish on growth next year; stock rises
@@ -134,10 +152,4 @@ Title: How Is Constellation Energy's Stock Performance Compared to Other Utiliti
 URL: https://www.barchart.com/story/news/36381323/how-is-constellation-energy-s-stock-performance-compared-to-other-utilities-stocks
 Time Published: 2025-12-01T09:57:08Z
 Description: Constellation Energy has considerably outperformed the Utilities industry over the past year, and analysts are cautiously optimistic about the stock’s...
---------------------------------------------------
-
-Title: These 5 charts hint at where stocks might go next after a wild November for the market
-URL: https://www.marketwatch.com/story/these-5-charts-hint-at-where-stocks-might-go-next-after-a-wild-november-for-the-market-47fd5583
-Time Published: 2025-11-30T17:00:00Z
-Description: November historically has been a strong month for the U.S. stock market. This year’s gains didn’t come easy.
 --------------------------------------------------

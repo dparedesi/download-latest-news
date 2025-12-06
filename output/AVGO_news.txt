@@ -1,5 +1,12 @@
 List of news related to Broadcom AVGO:
 
+Title: 3 ASX ETFs I'd buy right now to build wealth
+URL: https://www.fool.com.au/2025/12/05/3-asx-etfs-id-buy-right-now-for-strong-long-term-returns/
+Time Published: 2025-12-04T23:00:00Z
+Description: Here's why these funds could be destined to deliver big returns over the next decade.
+The post 3 ASX ETFs I'd buy right now to build wealth appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
 Title: Jamf Holding Corp. (JAMF): A Bull Case Theory
 URL: https://finance.yahoo.com/news/jamf-holding-corp-jamf-bull-170356697.html
 Time Published: 2025-12-04T17:03:56Z
@@ -21,8 +28,7 @@ Description: We came across a bullish thesis on Coherent Corp. on Mispriced Asse
 Title: Broadcom (AVGO) Price Target Raised as Google TPU Demand Surges
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bf023a6b-5516-48f9-97d7-772400511b67
 Time Published: 2025-12-04T09:11:07Z
-Full Content:
-Yahoo is part of the Yahoo family of brandsThe sites and apps that we own and operate, including Yahoo, AOL, Engadget, In The Know and Makers.Yahoo family of brands. If you do not want us and our partners to use cookies and personal data for these additional purposes, click 'Reject all'. If you would like to customise your choices, click 'Manage privacy settings'. You can withdraw your consent or change your choices at any time by clicking on the 'Privacy & cookie settings' or 'Privacy dashboard' links on our sites and apps. Find out more about how we use your personal data in our privacy policy and cookie policy.
+Description: None
 --------------------------------------------------
 
 Title: 3 Stocks Poised to Benefit From Google’s AI Breakthough
@@ -86,6 +92,12 @@ Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as surprise ADP jobs decline reinforces Fed rate cut bets
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-surprise-adp-jobs-decline-reinforces-fed-rate-cut-bets-000151602.html
 Time Published: 2025-12-03T00:01:51Z
@@ -96,12 +108,6 @@ Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key A
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs data shows weakness
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
-Time Published: 2025-12-03T00:01:51Z
-Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
 --------------------------------------------------
 
 Title: Marvell to buy chip startup Celestial AI for $3.25 billion, bullish on growth next year; stock rises
@@ -140,10 +146,4 @@ Title: Up Over 20% in 2025, These 3 Stocks Are Boosting Buyback Capacity
 URL: https://www.marketbeat.com/originals/up-over-20-in-2025-these-3-stocks-are-boosting-buyback-capacity/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2025-12-01T23:43:00Z
 Description: Check out these three stocks that are up more than 20% in 2025 and just increased their buyback capacity. One stock experiencing strong growth stands out.
---------------------------------------------------
-
-Title: These 5 charts hint at where stocks might go next after a wild November for the market
-URL: https://www.marketwatch.com/story/these-5-charts-hint-at-where-stocks-might-go-next-after-a-wild-november-for-the-market-47fd5583
-Time Published: 2025-11-30T17:00:00Z
-Description: November historically has been a strong month for the U.S. stock market. This year’s gains didn’t come easy.
 --------------------------------------------------

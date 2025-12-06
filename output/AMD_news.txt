@@ -1,5 +1,23 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: TD Cowen Says This Chip Stock (Not Nvidia) Is the Best Idea for 2026
+URL: https://www.barchart.com/story/news/36462521/td-cowen-says-this-chip-stock-not-nvidia-is-the-best-idea-for-2026
+Time Published: 2025-12-04T20:06:44Z
+Description: TD Cowen is bullish on AMD stock, citing the chipmaker's continued AI product expansion in 2025.
+--------------------------------------------------
+
+Title: The Pullback in Oracle Stock Just Created a Buying Opportunity
+URL: https://www.barchart.com/story/news/36458748/the-pullback-in-oracle-stock-just-created-a-buying-opportunity
+Time Published: 2025-12-04T16:48:31Z
+Description: Oracle stock is down nearly 40% from its 52-week high, presenting an opportunity for long-term investors.
+--------------------------------------------------
+
+Title: Stocks Pressured by Higher Bond Yields and Chip Stock Weakness
+URL: https://www.barchart.com/story/news/36456921/stocks-pressured-by-higher-bond-yields-and-chip-stock-weakness
+Time Published: 2025-12-04T15:15:22Z
+Description: The S&P 500 Index ($SPX ) (SPY ) is down up by -0.06%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.11%, and the Nasdaq 100 Index ($IUXX ) (...
+--------------------------------------------------
+
 Title: Morgan Stanley drops eye-popping price target on Nvidia stock
 URL: https://www.thestreet.com/investing/stocks/morgan-stanley-drops-eye-popping-price-target-on-nvidia-stock
 Time Published: 2025-12-03T22:33:00Z
@@ -83,16 +101,4 @@ Title: These great Cyber Monday tech deals will likely be gone tomorrow
 URL: https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas
 Time Published: 2025-12-01T09:40:58Z
 Description: December is kicking off with a bang. Cyber Monday is today, and it’s one of your last chances to score major deals before the holiday rush plows us all over. It’s a great moment to snag gadgets — many of which have been tested by The Verge — at (or close to) …
---------------------------------------------------
-
-Title: These 5 charts hint at where stocks might go next after a wild November for the market
-URL: https://www.marketwatch.com/story/these-5-charts-hint-at-where-stocks-might-go-next-after-a-wild-november-for-the-market-47fd5583
-Time Published: 2025-11-30T17:00:00Z
-Description: November historically has been a strong month for the U.S. stock market. This year’s gains didn’t come easy.
---------------------------------------------------
-
-Title: The absolute best Cyber Monday deals you can already shop
-URL: https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025
-Time Published: 2025-11-30T08:43:50Z
-Description: Black Friday might officially be over, but that doesn’t mean the deals have simply evaporated. As we turn our attention to Cyber Monday, many of our favorite deals are still holding strong. That means you have another chance to save if you’ve been too preoccu…
 --------------------------------------------------

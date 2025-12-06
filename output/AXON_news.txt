@@ -30,9 +30,3 @@ URL: https://www.cbc.ca/news/canada/edmonton/edmonton-police-facial-recognition-
 Time Published: 2025-12-03T04:37:58Z
 Description: The Edmonton Police Service will test the use of bodycams that employ facial recognition, a form of artificial intelligence. Starting Wednesday, up to 50 police officers will use the cameras for the remainder of the month. However some academics warn that the…
 --------------------------------------------------
-
-Title: Axon Enterprise’s (AXON) Acquisition Strategy Drives Bullish Analyst Sentiment Despite Earnings Miss
-URL: https://finance.yahoo.com/news/axon-enterprise-axon-acquisition-strategy-104207244.html
-Time Published: 2025-11-30T10:42:07Z
-Description: Axon Enterprise, Inc. (NASDAQ:AXON) is one of the 12 oversold global stocks to invest in. As of November 27, Axon Enterprise, Inc. (NASDAQ:AXON) stock is a...
---------------------------------------------------

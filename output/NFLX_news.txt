@@ -1,5 +1,11 @@
 List of news related to Netflix stock price NFLX:
 
+Title: Stock market today: S&P 500, Nasdaq, Dow rise as Fed-favored PCE inflation data looms
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-rise-as-fed-favored-pce-inflation-data-looms-234850919.html
+Time Published: 2025-12-04T23:48:50Z
+Description: The focus is on the delayed September PCE report on consumer inflation, the gauge favored by the Fed, to sanity-check rate-cut bets.
+--------------------------------------------------
+
 Title: S&P 500 Gains and Losses Today: Paramount and Netflix Slide; Microchip Technology Surges on Strong Guidance
 URL: https://www.investopedia.com/s-and-p-500-gains-and-losses-today-microchip-surges-on-strong-guidance-paramount-and-netflix-slide-11861499
 Time Published: 2025-12-03T21:49:16Z
@@ -38,6 +44,12 @@ Time Published: 2025-12-03T16:30:38Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.18%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.47%, and the Nasdaq 100 Index ($IUXX...
 --------------------------------------------------
 
+Title: Stock market today: Dow and S&P 500 rise, Nasdaq pares losses as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-and-sp-500-rise-nasdaq-pares-losses-as-key-adp-jobs-data-shows-weakness-000151469.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as surprise ADP jobs decline reinforces Fed rate cut bets
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-surprise-adp-jobs-decline-reinforces-fed-rate-cut-bets-000151602.html
 Time Published: 2025-12-03T00:01:51Z
@@ -50,20 +62,8 @@ Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
-Title: Stock market today: Dow and S&P 500 rise, Nasdaq pares losses as key ADP jobs data shows weakness
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-and-sp-500-rise-nasdaq-pares-losses-as-key-adp-jobs-data-shows-weakness-000151469.html
-Time Published: 2025-12-03T00:01:51Z
-Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
---------------------------------------------------
-
 Title: Is Netflix Making a Calculated Play for the Dow Jones?
 URL: https://www.marketbeat.com/originals/is-netflix-making-a-calculated-play-for-the-dow-jones/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2025-12-01T14:32:00Z
 Description: Netflix's 10-for-1 stock split may be a strategic play to meet the technical requirements for inclusion in the prestigious Dow Jones Industrial Average.
---------------------------------------------------
-
-Title: Netflix is Still Cheap Here - Shorting Out-of-the-Money Puts Works Well
-URL: https://www.barchart.com/story/news/36375615/netflix-is-still-cheap-here-shorting-out-of-the-money-puts-works-well
-Time Published: 2025-11-30T14:00:02Z
-Description: Netflix recently had a 10-for-1 stock split. It's easier to sell short out-of-the-money (OTM) put options. The reason is that the collateral outlay per...
 --------------------------------------------------

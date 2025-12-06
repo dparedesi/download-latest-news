@@ -1,5 +1,18 @@
 List of news related to Crowdstrike CRWD:
 
+Title: 3 ASX ETFs I'd buy right now to build wealth
+URL: https://www.fool.com.au/2025/12/05/3-asx-etfs-id-buy-right-now-for-strong-long-term-returns/
+Time Published: 2025-12-04T23:00:00Z
+Description: Here's why these funds could be destined to deliver big returns over the next decade.
+The post 3 ASX ETFs I'd buy right now to build wealth appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: Wall Street Loves CrowdStrike Stock After Q3 Earnings. Should You?
+URL: https://www.barchart.com/story/news/36460190/wall-street-loves-crowdstrike-stock-after-q3-earnings-should-you
+Time Published: 2025-12-04T17:30:59Z
+Description: CrowdStrike reports its third-quarter results, and Wall Street analysts are in love with it.
+--------------------------------------------------
+
 Title: CrowdStrike Holdings, Inc. (CRWD): A Bull Case Theory
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a62485b2-fb56-4806-a76f-c7e21546b77c
 Time Published: 2025-12-04T16:15:59Z
@@ -84,6 +97,12 @@ Time Published: 2025-12-02T10:24:10Z
 Description: A handful of behemoths like Alphabet Inc., Amazon.com Inc., Meta Platforms Inc. and Microsoft Corp. used this formula to seize market share from legacy...
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures edge higher as Wall Street regains its footing
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-higher-as-wall-street-regains-its-footing-234830126.html
+Time Published: 2025-12-01T23:48:30Z
+Description: Wall Street is eyeing a comeback as the flight from risk starts to cool.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures lean higher after stocks, bitcoin take a bruising
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-lean-higher-after-stocks-bitcoin-take-a-bruising-234830287.html
 Time Published: 2025-12-01T23:48:30Z
@@ -92,12 +111,6 @@ Description: Stock futures rose after a day of strong declines as crypto markets
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures step higher as Wall Street regains its nerve
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-step-higher-as-wall-street-regains-234830976.html
-Time Published: 2025-12-01T23:48:30Z
-Description: Wall Street is eyeing a comeback as the flight from risk starts to cool.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures edge higher as Wall Street regains its footing
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-higher-as-wall-street-regains-its-footing-234830126.html
 Time Published: 2025-12-01T23:48:30Z
 Description: Wall Street is eyeing a comeback as the flight from risk starts to cool.
 --------------------------------------------------
@@ -130,16 +143,4 @@ Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as Wall Street ent
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-wall-street-enters-final-trading-month-of-2025-011408966.html
 Time Published: 2025-12-01T01:14:08Z
 Description: US stock futures slid ahead of the start of December trading.
---------------------------------------------------
-
-Title: Powell, PCE and Other Key Thing to Watch this Week
-URL: https://www.barchart.com/story/news/36376508/powell-pce-and-other-key-thing-to-watch-this-week
-Time Published: 2025-11-30T18:00:02Z
-Description: Markets enter December facing a week packed with comprehensive economic data, high-profile earnings, and multiple Fed Chair Powell appearances that together ...
---------------------------------------------------
-
-Title: Stocks drift back toward record highs as the final month of 2025 gets underway: What to watch this week
-URL: https://finance.yahoo.com/news/stocks-drift-back-toward-record-highs-as-the-final-month-of-2025-gets-underway-what-to-watch-this-week-122743521.html
-Time Published: 2025-11-30T12:27:43Z
-Description: As the market moves into December, investors will be watching for Fed updates and a steadier performance environment than they got in November.
 --------------------------------------------------

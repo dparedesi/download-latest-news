@@ -1,5 +1,23 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Stock market today: S&P 500, Nasdaq, Dow rise as Fed-favored PCE inflation data looms
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-rise-as-fed-favored-pce-inflation-data-looms-234850919.html
+Time Published: 2025-12-04T23:48:50Z
+Description: The focus is on the delayed September PCE report on consumer inflation, the gauge favored by the Fed, to sanity-check rate-cut bets.
+--------------------------------------------------
+
+Title: As Amazon Launches the Trainium 3 Chip, Should You Buy, Sell, or Hold AMZN Stock?
+URL: https://www.barchart.com/story/news/36461950/as-amazon-launches-the-trainium-3-chip-should-you-buy-sell-or-hold-amzn-stock
+Time Published: 2025-12-04T19:11:37Z
+Description: Amazon just rolled out its Trainium3 chip, and the stock jumped. Should investors buy into the excitement, or is it a moment to stay cautious?
+--------------------------------------------------
+
+Title: The Pullback in Oracle Stock Just Created a Buying Opportunity
+URL: https://www.barchart.com/story/news/36458748/the-pullback-in-oracle-stock-just-created-a-buying-opportunity
+Time Published: 2025-12-04T16:48:31Z
+Description: Oracle stock is down nearly 40% from its 52-week high, presenting an opportunity for long-term investors.
+--------------------------------------------------
+
 Title: Oppenheimer Boosts Amazon (AMZN) Price Target on Strong AWS Growth Outlook
 URL: https://finance.yahoo.com/news/oppenheimer-boosts-amazon-amzn-price-075322674.html
 Time Published: 2025-12-04T07:53:22Z

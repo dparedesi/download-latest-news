@@ -1,5 +1,60 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA Corporation (NVDA) Price Target Raised as Analysts Reaffirm Buy Amid AI Market Growth
+URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-price-target-031019885.html
+Time Published: 2025-12-05T03:10:19Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the best augmented reality stocks to buy right now. On November 25, Bank of America reiterated a positive outlook ...
+--------------------------------------------------
+
+Title: Stock market today: S&P 500, Nasdaq, Dow rise as Fed-favored PCE inflation data looms
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-rise-as-fed-favored-pce-inflation-data-looms-234850919.html
+Time Published: 2025-12-04T23:48:50Z
+Description: The focus is on the delayed September PCE report on consumer inflation, the gauge favored by the Fed, to sanity-check rate-cut bets.
+--------------------------------------------------
+
+Title: 3 ASX ETFs I'd buy right now to build wealth
+URL: https://www.fool.com.au/2025/12/05/3-asx-etfs-id-buy-right-now-for-strong-long-term-returns/
+Time Published: 2025-12-04T23:00:00Z
+Description: Here's why these funds could be destined to deliver big returns over the next decade.
+The post 3 ASX ETFs I'd buy right now to build wealth appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: Stifel Says This 1 ‘Picks and Shovels’ AI Stock Is a Buy for Massive Growth in 2026
+URL: https://www.barchart.com/story/news/36463416/stifel-says-this-1-picks-and-shovels-ai-stock-is-a-buy-for-massive-growth-in-2026
+Time Published: 2025-12-04T21:06:14Z
+Description: Teradyne’s valuation looks full, but Stifel’s upgrade, growing ties to TSMC and potentially Nvidia’s Blackwell chips, and double‑digit earnings growth...
+--------------------------------------------------
+
+Title: TD Cowen Says This Chip Stock (Not Nvidia) Is the Best Idea for 2026
+URL: https://www.barchart.com/story/news/36462521/td-cowen-says-this-chip-stock-not-nvidia-is-the-best-idea-for-2026
+Time Published: 2025-12-04T20:06:44Z
+Description: TD Cowen is bullish on AMD stock, citing the chipmaker's continued AI product expansion in 2025.
+--------------------------------------------------
+
+Title: As Amazon Launches the Trainium 3 Chip, Should You Buy, Sell, or Hold AMZN Stock?
+URL: https://www.barchart.com/story/news/36461950/as-amazon-launches-the-trainium-3-chip-should-you-buy-sell-or-hold-amzn-stock
+Time Published: 2025-12-04T19:11:37Z
+Description: Amazon just rolled out its Trainium3 chip, and the stock jumped. Should investors buy into the excitement, or is it a moment to stay cautious?
+--------------------------------------------------
+
+Title: China’s EV Growth Is Stagnating. Is That Another Nail in the Coffin for Tesla Stock?
+URL: https://www.barchart.com/story/news/36461212/chinas-ev-growth-is-stagnating-is-that-another-nail-in-the-coffin-for-tesla-stock
+Time Published: 2025-12-04T18:35:48Z
+Description: Is a slowdown in the Chinese EV market leaving Tesla’s stock vulnerable to a downturn? Let's find out.
+--------------------------------------------------
+
+Title: Microsoft Stock Recovers as Company Denies Reports of Lower AI Sales Quotas. Should You Buy It Here?
+URL: https://www.barchart.com/story/news/36458918/microsoft-stock-recovers-as-company-denies-reports-of-lower-ai-sales-quotas-should-you-buy-it-here
+Time Published: 2025-12-04T16:55:10Z
+Description: Microsoft shares recover as the multinational denies reports of lowered AI products sales quotas. D.A. Davidson sees upside in MSFT stock to $650.
+--------------------------------------------------
+
+Title: The Pullback in Oracle Stock Just Created a Buying Opportunity
+URL: https://www.barchart.com/story/news/36458748/the-pullback-in-oracle-stock-just-created-a-buying-opportunity
+Time Published: 2025-12-04T16:48:31Z
+Description: Oracle stock is down nearly 40% from its 52-week high, presenting an opportunity for long-term investors.
+--------------------------------------------------
+
 Title: NVIDIA Corporation (NVDA): A Bull Case Theory
 URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-bull-case-164318356.html
 Time Published: 2025-12-04T16:43:18Z
@@ -10,6 +65,12 @@ Title: Here are NVIDIA Corporation’s (NVDA) Growth Drivers
 URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-growth-drivers-133527724.html
 Time Published: 2025-12-04T13:35:27Z
 Description: Brown Advisory, an investment management company, released its “Brown Advisory Large-Cap Growth Strategy” third-quarter 2025 investor letter. A copy of the...
+--------------------------------------------------
+
+Title: Should You Buy This Top AI Growth Stock Before 2025 Ends?
+URL: https://www.barchart.com/story/news/36451896/should-you-buy-this-top-ai-growth-stock-before-2025-ends
+Time Published: 2025-12-04T12:30:02Z
+Description: If the AI data center boom continues, Vertiv may remain one of the hottest names in the space heading into 2026.
 --------------------------------------------------
 
 Title: Palantir teams with Nvidia, CenterPoint Energy for software to speed up AI data center construction
@@ -174,16 +235,16 @@ Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs data shows weakness
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
-Time Published: 2025-12-03T00:01:51Z
-Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
---------------------------------------------------
-
 Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
 --------------------------------------------------
 
 Title: S&P 500 Gains and Losses Today: Boeing Climbs on Positive Outlook; Intel Extends Rally
@@ -203,7 +264,7 @@ Title: Apple shares hit new all-time intraday and closing highs
 URL: https://macdailynews.com/2025/12/02/apple-shares-hit-new-all-time-intraday-and-closing-highs-251202/
 Time Published: 2025-12-02T21:17:20Z
 Full Content:
-Update font size. Reset In Nasdaq trading today, shares of Apple Inc. (AAPL) rose $3.09 to $286.19, a new all-time closing high. Apple’s all-time intraday high was also set today at $287.40. Apple’s 52-week low stands at $169.21 set on April 8, 2025, the very date on which we wrote, “Sub-$170 AAPL seems like an absolute gift to us…” Today’s trading volume for AAPL shares was 47,782,384 versus Apple’s average trading volume of 51,471,580 shares. Apple’s PE Ratio currently stands at 38.31. Apple currently has a market value of $4.247 trillion, making it the world’s second-most valuable company. The top five U.S. publicly-traded companies, based on market value: Alphabet (GOOGL) – $3.825T Microsoft (MSFT) – $3.642T Amazon (AMZN) – $2.506T Selected companies’ current market values: • Meta Platforms (META) – $1.631T • Taiwan Semi (TSM) – $1.516T • Tesla (TSLA) – $1.428T • Berkshire Hathaway (BRK-A) – $1.095T • Walmart (WMT) – $897.039B • Netflix (NFLX) – $463.351B • Advanced Micro Devices (AMD) – $350.420B • Cisco (CSCO) – $303.721B • IBM (IBM) – $282.122B • Intel (INTC) – $207.352B • Disney (DIS) – $188.530B • Sony (SONY) – $170.415B • SoftBank (SFTBF) – $147.189B • Adobe (ADBE) – $136.936B • Spotify (SPOT) – $118.801B • Dell (DELL) – $91.402B • Nokia (NOK) – $34.354B • Hewlett-Packard (HPQ) – $23.627B • SiriusXM (SIRI) – $7.018B • BlackBerry (BB) – $2.424B • Sonos (SONO) – $2.270B • RealNetworks (RNWK) was delisted from U.S. exchanges on December 21, 2022 and is no longer publicly traded.🍩 Apple all-time high (AAPL) via NASDAQ here. MacDailyNews Take: Bang! Zoom! Please help support MacDailyNews — and enjoy subscriber-only articles, comments, chat, and more — by subscribing to our Substack: macdailynews.substack.com. Thank you! Support MacDailyNews at no extra cost to you by using this link to shop at Amazon. Looks like Apple catching up with Nvidia in market cap. When will AMD ship their GPU that can compete in all metrics with those NVIDIA GPUs? When that occurs we will see some major shifting of market caps! After all, it’s not magic, it’s engineering. iPhone sales matter more than anything to Wall Street. Certainly, actual product sales should matter more than some potential A.I. nonsense. I’m glad Wall Street is somewhat coming to its senses. It irks me that so much emphasis is put on A.I. despite only a few hardware companies are profiting from it. There are so many data centers being built, and yet the demand for A.I. doesn’t really exist for most consumers. Is there even enough energy to go around to power all those data centers, especially when the summer heat arrives? Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Notify me of follow-up comments by email. Notify me of new posts by email. Δ This site uses Akismet to reduce spam. Learn how your comment data is processed. Apple TV on Friday announced a season three renewal for “Platonic,” the acclaimed, global hit comedy starring Seth Rogen and Rose Byrne… Apple today announced that Jennifer Newstead will become Apple’s general counsel on March 1, 2026, following a transition of duties from… Lisa Jackson, vice president for Environment, Policy, and Social Initiatives, will retire in late January 2026. The Government Affairs… Inter Miami and the Vancouver Whitecaps face off in a showdown supercharged by the blockbuster renewed rivalry between Lionel Messi and… This week, Meta landed a major talent coup by hiring away Apple’s top UI design executive, Alan Dye, in a move that highlights the social… Enter your email address to follow MacDailyNews and receive notifications of new posts by email. Email Address Follow :-)
+Update font size. Reset In Nasdaq trading today, shares of Apple Inc. (AAPL) rose $3.09 to $286.19, a new all-time closing high. Apple’s all-time intraday high was also set today at $287.40. Apple’s 52-week low stands at $169.21 set on April 8, 2025, the very date on which we wrote, “Sub-$170 AAPL seems like an absolute gift to us…” Today’s trading volume for AAPL shares was 47,782,384 versus Apple’s average trading volume of 51,471,580 shares. Apple’s PE Ratio currently stands at 38.31. Apple currently has a market value of $4.247 trillion, making it the world’s second-most valuable company. The top five U.S. publicly-traded companies, based on market value: Alphabet (GOOGL) – $3.825T Microsoft (MSFT) – $3.642T Amazon (AMZN) – $2.506T Selected companies’ current market values: • Meta Platforms (META) – $1.631T • Taiwan Semi (TSM) – $1.516T • Tesla (TSLA) – $1.428T • Berkshire Hathaway (BRK-A) – $1.095T • Walmart (WMT) – $897.039B • Netflix (NFLX) – $463.351B • Advanced Micro Devices (AMD) – $350.420B • Cisco (CSCO) – $303.721B • IBM (IBM) – $282.122B • Intel (INTC) – $207.352B • Disney (DIS) – $188.530B • Sony (SONY) – $170.415B • SoftBank (SFTBF) – $147.189B • Adobe (ADBE) – $136.936B • Spotify (SPOT) – $118.801B • Dell (DELL) – $91.402B • Nokia (NOK) – $34.354B • Hewlett-Packard (HPQ) – $23.627B • SiriusXM (SIRI) – $7.018B • BlackBerry (BB) – $2.424B • Sonos (SONO) – $2.270B • RealNetworks (RNWK) was delisted from U.S. exchanges on December 21, 2022 and is no longer publicly traded.🍩 Apple all-time high (AAPL) via NASDAQ here. MacDailyNews Take: Bang! Zoom! Please help support MacDailyNews — and enjoy subscriber-only articles, comments, chat, and more — by subscribing to our Substack: macdailynews.substack.com. Thank you! Support MacDailyNews at no extra cost to you by using this link to shop at Amazon. Looks like Apple catching up with Nvidia in market cap. When will AMD ship their GPU that can compete in all metrics with those NVIDIA GPUs? When that occurs we will see some major shifting of market caps! After all, it’s not magic, it’s engineering. iPhone sales matter more than anything to Wall Street. Certainly, actual product sales should matter more than some potential A.I. nonsense. I’m glad Wall Street is somewhat coming to its senses. It irks me that so much emphasis is put on A.I. despite only a few hardware companies are profiting from it. There are so many data centers being built, and yet the demand for A.I. doesn’t really exist for most consumers. Is there even enough energy to go around to power all those data centers, especially when the summer heat arrives? Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Notify me of follow-up comments by email. Notify me of new posts by email. Δ This site uses Akismet to reduce spam. Learn how your comment data is processed. In the ever-evolving landscape of Big Tech, succession planning at Apple has emerged as a focal point of intrigue, blending whispers… Intel is now anticipated to secure a supply agreement with Apple for certain non-Pro iPhone chips as early as 2028. This would build on… Apple has released a revised RC build for tvOS 26.2. Apple’s initial RC had build number 23K51, but the newer release is build 23K53… Amid the electric buzz of the 2026 FIFA World Cup final draw at the Kennedy Center, Apple dropped a game-changer for MLS soccer fans… Apple TV on Friday unveiled the trailer for the all-new wildlife series “Born to be Wild,” narrated by SAG Award winner Hugh Bonneville… Enter your email address to follow MacDailyNews and receive notifications of new posts by email. Email Address Follow :-)
 --------------------------------------------------
 
 Title: Worried About Mag 7 Concentration Risk? This ETF Could Help
@@ -247,67 +308,4 @@ Title: Nvidia CFO says chipmaker yet to finalize $100 billion OpenAI deal
 URL: https://finance.yahoo.com/news/nvidia-cfo-says-chipmaker-yet-162954445.html
 Time Published: 2025-12-02T16:29:54Z
 Description: Nvidia's agreement with ChatGPT parent OpenAI to invest up to $100 billion in the startup is still not ​finalized, the chipmaker's chief financial officer...
---------------------------------------------------
-
-Title: Stock Indexes Push Higher on Strength in Chip Makers
-URL: https://www.barchart.com/story/news/36412945/stock-indexes-push-higher-on-strength-in-chip-makers
-Time Published: 2025-12-02T16:15:23Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.45%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.44%, and the Nasdaq 100 Index ($IUXX...
---------------------------------------------------
-
-Title: Why Morgan Stanley just got more bullish on Nvidia stock, even as it struggles
-URL: https://www.businessinsider.com/nvidia-stock-price-prediction-bullish-outlook-ai-chip-revenue-asia-2025-12
-Time Published: 2025-12-02T16:02:07Z
-Full Content:
-Every time Samuel publishes a story, you’ll get an alert straight to your inbox! Enter your email By clicking “Sign up”, you agree to receive emails from Business Insider. In addition, you accept Insider’s Terms of Service and Privacy Policy. Nvidia has been under pressure in recent weeks amid a rethink of the AI trade, but one top bank says investors don't have much of a reason to worry about the chip king. Nvidia stock is down 9% over the last month. Even its blockbuster third-quarter earnings failed to generate new excitement for the company and the broader AI sector. Big-name investors like Peter Thiel and SoftBank have dumped the stock, adding pressure. But Morgan Stanley's Joseph Moore this week pushed back on the downbeat narratives, increasing the bank's price target for the stock to $250 from $235 on Monday. The new target is among the highest on Wall Street, and implies a nearly 40% jump from current levels. Moore said that he thinks threats to the AI leader's market share, specifically those in Asian markets, are overstated. Speculation that Nvidia's dominance in the AI market may be threatened isn't new. Ever since the AI leader shot to the top of the tech sector following the launch of ChatGPT in November 2022, investors have wondered how long it can maintain the rank as the top AI hardware maker. Morgan Stanley doesn't see any other chipmakers as posing a significant threat to Nvidia, though, even as China prioritizes building out its own domestic semiconductor supply chain. The analysts recently visited Asia and shared their take on why Nvidia shouldn't be worried about competition from the east. "While there is much attention being paid to Chinese AI solutions, we think that they are very limited on multiple levels, including cluster size and scale out technologies, and China software still would like access to western solutions," the analysts stated in a note on Monday. Moore also said his team reconciled the ambitious $500 billion estimate for chip revenue given by CEO Jensen Huang at Nvidia's GTC event in October. "Having met with several contacts in both Asia and in the US, we are comfortable increasing estimates to get revenues to that level." While the analysts increased their price targets for both Nvidia and fellow chipmaker Broadcom, they said they still see Nvidia as the sector's clear winner. "We model for AVGO and AMD to grow their AI processor revenues slightly faster than NVDA in CY26, but that mostly just reflects supply chain limitations of a $205 bn run rate revenue stream - all key products are supply constrained through 2026," the note stated. The analysts are convinced that even as competition in the AI chip market intensifies, Nvidia will still maintain the best performance-to-cost ratio and be able to access a wider range of AI applications and workloads than its competitors. Jump to
---------------------------------------------------
-
-Title: Wall Street Is Betting on a Major Intel-Apple Chip Deal. Should You Buy INTC Stock Here?
-URL: https://www.barchart.com/story/news/36412325/wall-street-is-betting-on-a-major-intel-apple-chip-deal-should-you-buy-intc-stock-here
-Time Published: 2025-12-02T15:43:14Z
-Description: Intel’s rally rides on Apple rumors, while profits remain fragile and expectations run ahead of proof.
---------------------------------------------------
-
-Title: Dow, S&P 500, Nasdaq edge higher boosted by Nvidia rally and bitcoin bounce
-URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-rebounds-today-dow-sp-500-nasdaq-are-rising-as-wall-street-steadies-on-nvidia-and-bitcoin-gains/articleshow/125721483.cms
-Time Published: 2025-12-02T15:05:48Z
-Full Content:
-US stock market edged higher today as the Dow rose 0.05% to 47,315, the S&P 500 gained 0.32% to 6,834, and the Nasdaq jumped 0.79% to 23,459. Bitcoin steadied above $89,000 after Monday’s sharp drop. Nvidia climbed nearly 3% and led tech sentiment, while traders looked for signs of a year-end rebound after a shaky start to December. Listen to this article in summarized format Unlock AI Briefing and Premium Content (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. 'Differences remain...': Russia, US fail to reach Ukraine peace deal Parliament discussion on ‘Vande Mataram’, ‘SIR’ next week: Rijiju ‘Keep LIC out of politics’: Poonawalla backs FM North meets south: Kashi Tamil Sangamam 4.0 begins FM slams oppn for 'drama' over Manipur, pushes state’s GST reforms Russia plans payment solutions with India amid US sanctions Madani clarifies 'Jihad’, Supreme Court, Vande Mataram remarks Sanchar Saathi order sparks row; Jyotiraditya clarifies app is ‘optional...’ EAM Jaishankar flags bioterrorism risk Feet-touching, hugs to Maithili Thakur’s Paag: Bihar Oath Day highlights 'Differences remain...': Russia, US fail to reach Ukraine peace deal Parliament discussion on ‘Vande Mataram’, ‘SIR’ next week: Rijiju ‘Keep LIC out of politics’: Poonawalla backs FM North meets south: Kashi Tamil Sangamam 4.0 begins FM slams oppn for 'drama' over Manipur, pushes state’s GST reforms Russia plans payment solutions with India amid US sanctions Madani clarifies 'Jihad’, Supreme Court, Vande Mataram remarks Sanchar Saathi order sparks row; Jyotiraditya clarifies app is ‘optional...’ EAM Jaishankar flags bioterrorism risk Feet-touching, hugs to Maithili Thakur’s Paag: Bihar Oath Day highlights Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Story Listing Private Companies Top Prime Articles Most Searched IFSC Codes Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: These Are the Hottest Upgrades From the Q3 Reporting Cycle
-URL: https://www.marketbeat.com/stock-ideas/these-are-the-hottest-upgrades-from-the-q3-reporting-cycle/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-12-02T14:06:00Z
-Description: Analysts are upgrading and lifting price targets for critical tech players and AI infrastructure providers, setting a high bar for 2026 price action.
---------------------------------------------------
-
-Title: Michael Burry on why he stopped managing his hedge fund: ‘I think the stock market could be in for a number of bad years.’
-URL: https://www.marketwatch.com/story/michael-burry-on-why-he-stopped-managing-his-hedge-fund-i-think-the-stock-market-could-be-in-for-a-number-of-bad-years-3571cca4
-Time Published: 2025-12-02T12:46:00Z
-Description: In the “Against the Rules” podcast that was released, Michael Burry explained why he deregistered his hedge fund last month.
---------------------------------------------------
-
-Title: Credo Technologies Posted a Blowout Quarter—Here's What's Next
-URL: https://www.marketbeat.com/originals/credo-technologies-ai-bubble-is-far-from-bursting/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-12-02T12:39:00Z
-Description: Credo Technologies is a critical cog in the AI ecosystem, and its business reflects it. Analysts are lifting targets and leading this market higher.
---------------------------------------------------
-
-Title: Is Microchip Technology Stock Underperforming the Dow?
-URL: https://www.barchart.com/story/news/36401071/is-microchip-technology-stock-underperforming-the-dow
-Time Published: 2025-12-02T08:16:54Z
-Description: While Microchip Technology has lagged behind the Dow over the past year, analysts remain moderately optimistic about the stock’s prospects.
---------------------------------------------------
-
-Title: 3 ASX ETFs that could quietly make you rich over 20 years
-URL: https://www.fool.com.au/2025/12/02/3-asx-etfs-that-could-quietly-make-you-rich-over-20-years/
-Time Published: 2025-12-02T06:51:50Z
-Description: These funds have qualities that Warren Buffett would look for when making investments.
-The post 3 ASX ETFs that could quietly make you rich over 20 years appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: Accelerating Real-Time Financial Decisions with Quantitative Portfolio Optimization
-URL: https://developer.nvidia.com/blog/accelerating-real-time-financial-decisions-with-quantitative-portfolio-optimization/
-Time Published: 2025-12-01T23:44:52Z
-Description: Financial portfolio optimization is a difficult yet essential task that has been consistently challenged by a trade-off between computational speed and model...
 --------------------------------------------------
