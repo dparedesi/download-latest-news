@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Down 40% in the Past Month, Morgan Stanley Says This 1 Stock Is Key to the Future of AI
+URL: https://www.barchart.com/story/news/36481233/down-40-in-the-past-month-morgan-stanley-says-this-1-stock-is-key-to-the-future-of-ai
+Time Published: 2025-12-05T18:23:14Z
+Description: Morgan Stanley says there is a growing AI power gap, and IREN will be important in helping generate the power needed for AI compute.
+--------------------------------------------------
+
 Title: Strong Quarter, Weak Reaction: Why GitLab Shares Dropped
 URL: https://www.marketbeat.com/originals/strong-quarter-weak-reaction-why-gitlab-shares-dropped/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2025-12-04T21:27:00Z
@@ -87,14 +93,14 @@ Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as surprise ADP jobs decline reinforces Fed rate cut bets
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-surprise-adp-jobs-decline-reinforces-fed-rate-cut-bets-000151602.html
+Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
-Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as surprise ADP jobs decline reinforces Fed rate cut bets
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-surprise-adp-jobs-decline-reinforces-fed-rate-cut-bets-000151602.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
