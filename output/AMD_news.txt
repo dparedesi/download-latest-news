@@ -1,5 +1,23 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Advanced Micro Devices, Inc. (AMD): A Bull Case Theory
+URL: https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-200731657.html
+Time Published: 2025-12-05T20:07:31Z
+Description: We came across a bullish thesis on Advanced Micro Devices, Inc. on Investment Ideas by Antonio’s Substack by Antonio Linares. In this article, we will...
+--------------------------------------------------
+
+Title: Amazon Just Released Its Graviton5 CPU. Should You Buy, Sell, or Hold AMZN Stock Here?
+URL: https://www.barchart.com/story/news/36481480/amazon-just-released-its-graviton5-cpu-should-you-buy-sell-or-hold-amzn-stock-here
+Time Published: 2025-12-05T18:42:52Z
+Description: Is Amazon’s new Graviton5 CPU the moment that finally pushes investors to pause and rethink their stance on AMZN—hold steady, pull back, or double down?
+--------------------------------------------------
+
+Title: Stocks Rally on Benign Inflation News
+URL: https://www.barchart.com/story/news/36479118/stocks-rally-on-benign-inflation-news
+Time Published: 2025-12-05T16:18:08Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.32%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.34%, and the Nasdaq 100 Index ($IUXX...
+--------------------------------------------------
+
 Title: Is Advanced Micro Devices, Inc. (AMD) One of the Best Augmented Reality Stocks to Buy Right Now?
 URL: https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-031016530.html
 Time Published: 2025-12-05T03:10:16Z
@@ -77,34 +95,4 @@ URL: https://economictimes.indiatimes.com/tech/technology/marvell-in-advanced-ta
 Time Published: 2025-12-02T06:04:34Z
 Full Content:
 Listen to this article in summarized format (Catch all the Technology News News, and Latest News Updates on The Economic Times.) ...more Popular Categories Hot on Web In Case you missed it Top Searched Companies Other useful Links Top Calculators Top Prime Articles Top Slideshow Top Definitions Top Story Listing Private Companies Top Commodities Top Market Pages Latest News follow us on Download ET App:
---------------------------------------------------
-
-Title: Competition Is Heating Up, But Bank of America Still Thinks AMD Stock Is a Buy Here
-URL: https://www.barchart.com/story/news/36394508/competition-is-heating-up-but-bank-of-america-still-thinks-amd-stock-is-a-buy-here
-Time Published: 2025-12-01T21:19:33Z
-Description: While competition in the AI chip race accelerates, Bank of America remains faithful in AMD’s future.
---------------------------------------------------
-
-Title: The AI Race Is a Marathon, Not a Sprint. Here Is How AMD Stock Could Still Finish First.
-URL: https://www.barchart.com/story/news/36389009/the-ai-race-is-a-marathon-not-a-sprint-here-is-how-amd-stock-could-still-finish-first
-Time Published: 2025-12-01T15:49:40Z
-Description: Despite short-term turbulence and fears over potential competitive setbacks, AMD remains well-positioned in the multi-phase AI race.
---------------------------------------------------
-
-Title: Stocks Set to Open Lower as Bond Yields Climb, U.S. PCE Inflation Data Awaited
-URL: https://www.barchart.com/story/news/36382688/stocks-set-to-open-lower-as-bond-yields-climb-u-s-pce-inflation-data-awaited
-Time Published: 2025-12-01T11:19:04Z
-Description: December S&P 500 E-Mini futures (ESZ25) are down -0.57%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.68% this morning, pointing to a lower...
---------------------------------------------------
-
-Title: Advanced Micro Devices’ (AMD) Competitive Position Versus Nvidia Underpins Raymond James’ Confidence
-URL: https://finance.yahoo.com/news/advanced-micro-devices-amd-competitive-102851491.html
-Time Published: 2025-12-01T10:28:51Z
-Description: Advanced Micro Devices Inc. (NASDAQ:AMD) is among the top 10 stocks to buy from Cathie Wood’s stock portfolio. With a value of approximately $495 million...
---------------------------------------------------
-
-Title: These great Cyber Monday tech deals will likely be gone tomorrow
-URL: https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas
-Time Published: 2025-12-01T09:40:58Z
-Description: December is kicking off with a bang. Cyber Monday is today, and it’s one of your last chances to score major deals before the holiday rush plows us all over. It’s a great moment to snag gadgets — many of which have been tested by The Verge — at (or close to) …
 --------------------------------------------------

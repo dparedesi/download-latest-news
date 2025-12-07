@@ -24,28 +24,3 @@ URL: https://financialpost.com/pmn/one-tech-tip-up-your-christmas-shopping-game-
 Time Published: 2025-12-04T06:06:38Z
 Description: Shopping assistant chatbots were a novelty a year ago. Now, they’re everywhere. After rolling out AI-powered assistants, online retailers and tech companies have been adding more artificial intelligence features to make online shopping easier and more conveni…
 --------------------------------------------------
-
-Title: Stocks Retreat as Bond Yields Rise
-URL: https://www.barchart.com/story/news/36394863/stocks-retreat-as-bond-yields-rise
-Time Published: 2025-12-01T21:35:14Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed down by -0.53%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down by -0.90%, and the Nasdaq 100...
---------------------------------------------------
-
-Title: Stocks Fall as Rising Bond Yields Spark Risk-Off Sentiment
-URL: https://www.barchart.com/story/news/36389832/stocks-fall-as-rising-bond-yields-spark-risk-off-sentiment
-Time Published: 2025-12-01T16:40:20Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.28%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.48%, and the Nasdaq 100 Index ($IUXX ...
---------------------------------------------------
-
-Title: Stocks Pressured by Higher Bond Yields
-URL: https://www.barchart.com/story/news/36388344/stocks-pressured-by-higher-bond-yields
-Time Published: 2025-12-01T15:06:52Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.59%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.40%, and the Nasdaq 100 Index ($IUXX ...
---------------------------------------------------
-
-Title: AI-assisted shopping is the talk of the holiday shopping season
-URL: https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-assisted-shopping-is-the-talk-of-the-holiday-shopping-season/articleshow/125684752.cms
-Time Published: 2025-12-01T04:00:45Z
-Full Content:
-(Catch all the Technology News News, and Latest News Updates on The Economic Times.) ...more Popular Categories Hot on Web In Case you missed it Top Searched Companies Other useful Links Top Calculators Top Prime Articles Top Slideshow Top Definitions Top Story Listing Private Companies Top Commodities Top Market Pages Latest News follow us on Download ET App:
---------------------------------------------------

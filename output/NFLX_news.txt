@@ -1,5 +1,29 @@
 List of news related to Netflix stock price NFLX:
 
+Title: Stocks Finish Higher as Price Pressures Ease
+URL: https://www.barchart.com/story/news/36484232/stocks-finish-higher-as-price-pressures-ease
+Time Published: 2025-12-05T21:34:13Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed up by +0.19%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.22%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: There’s trouble ahead for stocks and gold, according to these indicators
+URL: https://www.marketwatch.com/story/theres-trouble-ahead-for-stocks-and-gold-according-to-these-indicators-928c0a7d
+Time Published: 2025-12-05T19:10:00Z
+Description: Also: What to stream as Netflix agrees to acquire Warner Bros. and HBO; and a wonderful economic scenario for dollar stores and their shareholders.
+--------------------------------------------------
+
+Title: Netflix Is Buying Warner Bros. Discovery. Should You Buy NFLX Stock?
+URL: https://www.barchart.com/story/news/36481505/netflix-is-buying-warner-bros-discovery-should-you-buy-nflx-stock
+Time Published: 2025-12-05T18:45:52Z
+Description: Netflix stock sinks as the streaming giant announces an $83 billion takeover bid for WBD assets. Analyst says NFLX shares will hit $138 by the end of 2026.
+--------------------------------------------------
+
+Title: Tesla, Netflix, and ON Semiconductor: 3 Unusually Active Cash-Secured Put Options to Sell Now
+URL: https://www.barchart.com/story/news/36481308/tesla-netflix-and-on-semiconductor-3-unusually-active-cash-secured-put-options-to-sell-now
+Time Published: 2025-12-05T18:30:02Z
+Description: Thursday’s unusual options activity included puts on popular stocks such as Tesla and Netflix. If you are entertaining the idea of selling cash-secured puts ...
+--------------------------------------------------
+
 Title: US stock market surges as S&P 500, Nasdaq and Dow jump ahead of critical Fed inflation report — Wall Street braces for rate-cut signals
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-surges-as-sp-500-nasdaq-and-dow-jump-ahead-of-critical-fed-inflation-report-wall-street-braces-for-rate-cut-signals/articleshow/125791556.cms
 Time Published: 2025-12-05T15:24:42Z
@@ -80,10 +104,4 @@ Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key A
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
---------------------------------------------------
-
-Title: Is Netflix Making a Calculated Play for the Dow Jones?
-URL: https://www.marketbeat.com/originals/is-netflix-making-a-calculated-play-for-the-dow-jones/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-12-01T14:32:00Z
-Description: Netflix's 10-for-1 stock split may be a strategic play to meet the technical requirements for inclusion in the prestigious Dow Jones Industrial Average.
 --------------------------------------------------

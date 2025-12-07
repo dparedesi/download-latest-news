@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Stocks Finish Higher as Price Pressures Ease
+URL: https://www.barchart.com/story/news/36484232/stocks-finish-higher-as-price-pressures-ease
+Time Published: 2025-12-05T21:34:13Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed up by +0.19%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.22%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: Stocks Rally on Benign Inflation News
+URL: https://www.barchart.com/story/news/36479118/stocks-rally-on-benign-inflation-news
+Time Published: 2025-12-05T16:18:08Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.32%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.34%, and the Nasdaq 100 Index ($IUXX...
+--------------------------------------------------
+
 Title: Google Is Riding the AI Wave Higher, but the Real Winner of Gemini 3 Is This Stock
 URL: https://www.barchart.com/story/news/36476936/google-is-riding-the-ai-wave-higher-but-the-real-winner-of-gemini-3-is-this-stock
 Time Published: 2025-12-05T14:22:33Z
@@ -98,18 +110,6 @@ Full Content:
 December 02, 2025 21:26 ET | Source: Purpose Investments Inc. Purpose Investments Inc. TORONTO, Dec. 02, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) today announced the estimated annual distributions of income and capital gains for its open-end exchange-traded funds and closed-end funds (the “Funds”) for the 2025 tax year. The estimated distributions represent estimated income earned and capital gains realized by the Funds during the year. Please note that these are estimated amounts only, as of December 2, 2025. Circumstances may arise which would cause these estimates to change before the Funds’ tax year end on December 15, 2025 or December 31, 2025, as applicable. Estimated Annual Capital Gain Distributions Purpose Fund Corp. Big Banc Split Corp. Purpose Ether Staking Corp. ETF Shareholders of record of ETF series of Purpose Fund Corp, Big Banc Split Corp., and Purpose Ether Staking Corp ETF. Funds on January 30, 2026 are expected to receive the capital gains distributions paid in cash on or about February 3, 2026. Notional distributions are expected to be processed on January 30, 2026. Purpose Mutual Funds Limited The notional distributions for shareholders of record of Purpose Mutual Funds Limited Funds listed in the table above are expected to be processed on December 15, 2025. Purpose Mutual Fund Trusts Details of the per unit estimated capital gain distribution amounts are as follows: Estimated Annual Distributions of Income Details of the per unit estimated income distribution amounts are as follows: Purpose expects to announce the final year-end distribution amounts for Purpose Mutual Fund Trusts with December 15, 2025 tax year-end on or about December 18, 2025. The respective unitholders of record on December 29, 2025 will receive the 2025 annual distributions paid in cash on January 5, 2026, and the ex-dividend date for the 2025 annual distributions for these ETFs (Purpose Mutual Fund Trusts) paid in cash will be December 29, 2025. Notional distributions are expected to be processed on or about December 29, 2025. Purpose expects to announce the final year-end distributions for Purpose High Interest Savings Fund – ETF Units, Purpose US Cash Fund – ETF Units, Purpose Cash Management Fund – ETF Units, and Purpose USD Cash Management Fund – ETF Units on or about December 31, 2025, if necessary. Purpose expects to announce the final annual capital gain distributions for Purpose Fund Corp., Purpose Ether Staking Corp. ETF, and Big Banc Split Corp. on or about January 23, 2026, if necessary. Purpose confirms that as of December 2, 2025, the following Funds are not expected to have annual capital gain distributions for the 2025 tax year: Purpose Fund Corp. Funds: Purpose Mutual Funds Limited Funds: Purpose Mutual Fund Trusts: Big Banc Split Corp. Please note that these are estimated amounts only, as of December 2, 2025. Circumstances may arise which would cause these estimates to change before the Funds’ tax year end on December 15, 2025 or December 31, 2025, as applicable. About Purpose Investments Purpose Investments is an asset management company with more than $27 billion under management. Purpose Investments has an unrelenting focus on client-centric innovation, and offers a range of managed and quantitative investment products. Purpose Investments is led by well-known entrepreneur Som Seif and is a division of Purpose Financial, an independent technology-driven financial services company. For further information please contact:Keera HartKeera.Hart@kaiserpartners.com905-580-1257 Commissions, trailing commissions, management fees and expenses all may be associated with investment fund investments. Please read the prospectus and other disclosure documents before investing. Investment funds are not covered by the Canada Deposit Insurance Corporation or any other government deposit insurer. There can be no assurance that the full amount of your investment in a fund will be returned to you. If the securities are purchased or sold on a stock exchange, you may pay more or receive less than the current net asset value. Investment funds are not guaranteed, their values change frequently and past performance may not be repeated. This press release is for information purposes only and does not constitute an offer to sell or a solicitation to buy the securities referred to herein. This press release is not for dissemination in the United States or for distribution to US news wire services. TORONTO, Nov. 28, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. announced today that it will proceed with changing the investment objectives for Purpose Bitcoin Yield ETF (TSX: BTCY) and Purpose... TORONTO, Nov. 28, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) is pleased to share that the Longevity Pension Fund (“Longevity” or “the Fund”) is again raising its distribution...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as surprise ADP jobs decline reinforces Fed rate cut bets
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-surprise-adp-jobs-decline-reinforces-fed-rate-cut-bets-000151602.html
-Time Published: 2025-12-03T00:01:51Z
-Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs data shows weakness
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
-Time Published: 2025-12-03T00:01:51Z
-Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
---------------------------------------------------
-
 Title: Stock market today: Dow and S&P 500 rise, Nasdaq pares losses as key ADP jobs data shows weakness
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-and-sp-500-rise-nasdaq-pares-losses-as-key-adp-jobs-data-shows-weakness-000151469.html
 Time Published: 2025-12-03T00:01:51Z
@@ -120,6 +120,18 @@ Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key A
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as surprise ADP jobs decline reinforces Fed rate cut bets
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-surprise-adp-jobs-decline-reinforces-fed-rate-cut-bets-000151602.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
 --------------------------------------------------
 
 Title: Marvell to buy chip startup Celestial AI for $3.25 billion, bullish on growth next year; stock rises
@@ -152,10 +164,4 @@ URL: https://www.globenewswire.com/news-release/2025/12/02/3197620/19933/en/ING-
 Time Published: 2025-12-02T08:01:00Z
 Full Content:
 December 02, 2025 03:01 ET | Source: Broadcom Inc. Broadcom Inc. PALO ALTO, Calif., Dec. 02, 2025 (GLOBE NEWSWIRE) -- Broadcom Inc. (NASDAQ: AVGO) and ING today announced the extension of the companies’ strategic collaboration to update ING’s private cloud infrastructure. This initiative will see ING adopt VMware Cloud Foundation 9.0 (VCF 9) as part of its private cloud strategy, supporting the company’s objective of digital service excellence across multiple regions. As a multinational financial institution, ING requires a scalable, highly secure, and compliant cloud-native environment. The implementation of VCF 9 will expand upon ING’s existing VMware virtualized environment, enabling the company to build on a modern private cloud designed for multi-region deployment and global workload mobility. VCF will help ensure operational consistency while helping meet the stringent security and data sovereignty requirements of global financial services regulation. ING will leverage the full-stack capabilities of VCF 9. Together, the VMware software portfolio will deliver a unified platform to help ING simplify its IT operations, reduce management overhead, and accelerate time-to-market for new digital banking products, with enhanced agility, security, and resilience. Professional services will support private cloud design, implementation, and ongoing optimization efforts alongside ING’s global IT team. “As we continue to accelerate the pace of digital innovation across our global operations in an uncertain world, maintaining control over data locality and security is paramount,” said Daniele Tonella, Chief Technology Officer, ING. “VMware Cloud Foundation 9 will provide us with the unified, enterprise-grade private cloud platform necessary to achieve multi-region consistency, enhance workload mobility, and confidently meet the complex cloud sovereignty and compliance requirements that underpin our commitment to our customers.” "Our expanded partnership with ING underscores VCF 9's transformative power for financial institutions,” said Hock Tan, President and CEO of Broadcom Inc. “VMware Cloud Foundation 9.0 offers a resilient, AI-ready foundation for modern private clouds, delivering cloud-like agility and efficiency. We are committed to supporting ING's modernization efforts to strengthen their global digital banking leadership." About BroadcomBroadcom Inc. (NASDAQ: AVGO) is a global technology leader that designs, develops, and supplies a broad range of semiconductor, enterprise software, and security solutions. Broadcom's category-leading product portfolio serves critical markets including cloud, data center, networking, broadband, wireless, storage, industrial, and enterprise software. Our solutions include service provider and enterprise networking and storage, mobile device and broadband connectivity, mainframe, cybersecurity, and private and hybrid cloud infrastructure. Broadcom is a Delaware corporation headquartered in Palo Alto, CA. For more information, go to www.broadcom.com. Broadcom, the pulse logo, and Connecting Everything are among the trademarks of Broadcom. The term "Broadcom" refers to Broadcom Inc., and/or its subsidiaries. Other trademarks are the property of their respective owners. Media Contacts Roger T. FortierBroadcom, Inc.roger.fortier@broadcom.com+1.408.348.1569 Eloy OntiverosBroadcom Global Communicationseloy.ontiveros@broadcom.com +1.650.427.6145 PALO ALTO, Calif., Nov. 19, 2025 (GLOBE NEWSWIRE) -- Broadcom Inc. (NASDAQ:AVGO), a global leader in semiconductor and infrastructure software solutions, today announced the availability of the... Broadcom announced plans to expand its strategic partnership with NEC Corporation to adopt a modern private cloud using VMware Cloud Foundation (VCF).
---------------------------------------------------
-
-Title: Up Over 20% in 2025, These 3 Stocks Are Boosting Buyback Capacity
-URL: https://www.marketbeat.com/originals/up-over-20-in-2025-these-3-stocks-are-boosting-buyback-capacity/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-12-01T23:43:00Z
-Description: Check out these three stocks that are up more than 20% in 2025 and just increased their buyback capacity. One stock experiencing strong growth stands out.
 --------------------------------------------------

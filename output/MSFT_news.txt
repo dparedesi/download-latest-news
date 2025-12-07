@@ -93,12 +93,6 @@ Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
-Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
-Time Published: 2025-12-03T00:01:51Z
-Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as surprise ADP jobs decline reinforces Fed rate cut bets
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-surprise-adp-jobs-decline-reinforces-fed-rate-cut-bets-000151602.html
 Time Published: 2025-12-03T00:01:51Z
@@ -109,6 +103,12 @@ Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs da
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
+--------------------------------------------------
+
+Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
 Title: Marvell to buy chip startup Celestial AI for $3.25 billion, bullish on growth next year; stock rises
@@ -127,35 +127,4 @@ Title: Credo Technologies Posted a Blowout Quarter—Here's What's Next
 URL: https://www.marketbeat.com/originals/credo-technologies-ai-bubble-is-far-from-bursting/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2025-12-02T12:39:00Z
 Description: Credo Technologies is a critical cog in the AI ecosystem, and its business reflects it. Analysts are lifting targets and leading this market higher.
---------------------------------------------------
-
-Title: Salesforce CEO Marc Benioff Just Said Gemini 3 Changed the World. Does That Make GOOGL Stock a Buy?
-URL: https://www.barchart.com/story/news/36394567/salesforce-ceo-marc-benioff-just-said-gemini-3-changed-the-world-does-that-make-googl-stock-a-buy
-Time Published: 2025-12-01T21:23:41Z
-Description: GOOGL's new AI model is turning heads in a hot resurgence, sparking fresh enthusiasm. So, is now the perfect time to scoop up GOOGL shares?
---------------------------------------------------
-
-Title: Competition Is Heating Up, But Bank of America Still Thinks AMD Stock Is a Buy Here
-URL: https://www.barchart.com/story/news/36394508/competition-is-heating-up-but-bank-of-america-still-thinks-amd-stock-is-a-buy-here
-Time Published: 2025-12-01T21:19:33Z
-Description: While competition in the AI chip race accelerates, Bank of America remains faithful in AMD’s future.
---------------------------------------------------
-
-Title: Wedbush Says This 1 Tech Giant Is the Best AI Hyperscaler Stock to Own as 2025 Ends
-URL: https://www.barchart.com/story/news/36392279/wedbush-says-this-1-tech-giant-is-the-best-ai-hyperscaler-stock-to-own-as-2025-ends
-Time Published: 2025-12-01T19:02:56Z
-Description: Wedbush analyst Dan Ives just put together his list of the top 10 stocks to own through the end of 2025.
---------------------------------------------------
-
-Title: Why Bitcoin price (BTC USD) crashed today: December crypto market sell-off reasons explained
-URL: https://economictimes.indiatimes.com/news/international/us/bitcoin-price-crash-today-btc-usd-crash-why-crypto-market-falling-sell-off-reason-explained/articleshow/125695814.cms
-Time Published: 2025-12-01T13:50:00Z
-Full Content:
-Bitcoin price crash today: Cryptocurrencies experienced significant declines on the first trading day of December, with Bitcoin dropping 5% and other major coins like Ethereum and Solana also falling. This downturn is attributed to Federal Reserve interest rate uncertainty and volatility in AI stocks, impacting investor sentiment and leading to broad selling pressure across the crypto market. Listen to this article in summarized format Unlock AI Briefing and Premium Content Bitcoin price USD crash 2025 (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Chinese spy ships have entered Indian Ocean? Navy chief Tripathi clarifies ‘Sea will drive India’s to $5 trillion economy’: Navy Chief 'Love lost over caste': Mah woman uses bf’s blood as vermilion, accuses cops of provocation Govt tables sin tax bill in Lok Sabha, tobacco products to be dearer now NHRC issues notice to Railways over Bhopal complaint on halal-only non-veg train meals EC extends voter roll revision; Oppn calls the exercise ‘impossible, irresponsible...’ NC’s Md. Ramzan, part of INDIA bloc says J&K polls were 'most fair' Rajya Sabha clash: Kharge vs Rijiju over Dhankar's exit PM welcomes new Rajya Sabha Chairman CP Radhakrishnan MPs react to Modi’s ‘No Drama’ call; Congress pushes for SIR debate Chinese spy ships have entered Indian Ocean? Navy chief Tripathi clarifies ‘Sea will drive India’s to $5 trillion economy’: Navy Chief 'Love lost over caste': Mah woman uses bf’s blood as vermilion, accuses cops of provocation Govt tables sin tax bill in Lok Sabha, tobacco products to be dearer now NHRC issues notice to Railways over Bhopal complaint on halal-only non-veg train meals EC extends voter roll revision; Oppn calls the exercise ‘impossible, irresponsible...’ NC’s Md. Ramzan, part of INDIA bloc says J&K polls were 'most fair' Rajya Sabha clash: Kharge vs Rijiju over Dhankar's exit PM welcomes new Rajya Sabha Chairman CP Radhakrishnan MPs react to Modi’s ‘No Drama’ call; Congress pushes for SIR debate Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Prime Articles Top Slideshow Top Commodities Private Companies Top Story Listing Top Definitions Most Searched IFSC Codes Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: How Is Constellation Energy's Stock Performance Compared to Other Utilities Stocks?
-URL: https://www.barchart.com/story/news/36381323/how-is-constellation-energy-s-stock-performance-compared-to-other-utilities-stocks
-Time Published: 2025-12-01T09:57:08Z
-Description: Constellation Energy has considerably outperformed the Utilities industry over the past year, and analysts are cautiously optimistic about the stock’s...
 --------------------------------------------------
