@@ -1,5 +1,11 @@
 List of news related to Layoffs Amazon:
 
+Title: Major used-car retailer gets set to join the S&P 500
+URL: https://www.thestreet.com/investing/stocks/major-used-car-retailer-gets-set-to-join-the-sp-500
+Time Published: 2025-12-06T17:33:00Z
+Description: The S&P 500’s quarterly rebalancing is due on December 22, and this year’s shake-up comes as a big surprise. In a couple of weeks' time, we’ll see the...
+--------------------------------------------------
+
 Title: Why Amazon MGM's Big Bet May Point the Way to Netflix/WBD's Future
 URL: https://bleedingcool.com/movies/why-amazon-mgms-big-bet-may-point-the-way-to-netflix-wbds-future/
 Time Published: 2025-12-06T14:47:04Z
@@ -27,16 +33,16 @@ Description: Leaders in Henrico County have discovered an innovative way to lowe
 --------------------------------------------------
 
 Title: Mark Zuckerberg rebranded Facebook for the metaverse. Four years and $70 billion in losses later, he’s moving on
+URL: https://finance.yahoo.com/news/mark-zuckerberg-rebranded-facebook-metaverse-175244214.html
+Time Published: 2025-12-05T17:52:44Z
+Description: Zuckerberg once framed the metaverse as the “successor to the mobile internet.”
+--------------------------------------------------
+
+Title: Mark Zuckerberg rebranded Facebook for the metaverse. Four years and $70 billion in losses later, he’s moving on
 URL: https://fortune.com/2025/12/05/mark-zuckerberg-metaverse-layoffs-cuts-facebook-rebrand/
 Time Published: 2025-12-05T17:52:44Z
 Full Content:
 In 2021, Mark Zuckerberg recast Facebook as Meta and declared the metaverse—a digital realm where people would work, socialize, and spend much of their lives—the company’s next great frontier. He framed it as the “successor to the mobile internet” and said Meta would be “metaverse-first.”The hype wasn’t all him. Grayscale, the investment firm specializing in crypto, called the metaverse a “trillion-dollar revenue opportunity.” Barbados even opened up an embassy in Decentraland, one of the worlds in the metaverse. Almost five years later, that bet has become one of the most expensive misadventures in tech. Meta’s Reality Labs division has racked up more than $70 billion in losses since 2021, according to Bloomberg, burning through cash on blocky virtual environments, glitchy avatars, expensive headsets, and a user base of approximately 38 people as of 2022. For many people, the problem is that the value proposition is unclear; the metaverse simply doesn’t yet deliver a must-have reason to ditch their phone or laptop. Despite years of investment, VR remains burdened by serious structural limitations, and for most users there’s simply not enough compelling content beyond niche gaming. Zuckerberg is now preparing to slash Reality Labs’ budget by as much as 30%, Bloomberg said. The cuts—which could translate to $4 billion to $6 billion in reduced spend—would hit everything from the Horizon Worlds virtual platform to the Quest hardware unit. Layoffs could come as early as January, though final decisions haven’t been made, according to Bloomberg. The move follows a strategy meeting last month at Zuckerberg’s Hawaii compound, where he reviewed Meta’s 2026 budget and asked executives to find 10% cuts across the board, the report said. Reality Labs was told to go deeper. Competition in the broader VR market simply never took off the way Meta expected, one person said. The result: a division long viewed as a money sink is finally being reined in. Wall Street cheered. Meta’s stock jumped more than 4% Thursday on the news, adding roughly $69 billion in market value. “Smart move, just late,” Craig Huber of Huber Research told Reuters. Investors have been complaining for years that the metaverse effort was an expensive distraction, one that drained resources without producing meaningful revenue. Meta didn’t immediately respond to Fortune’srequest for comment, but it insists it isn’t killing the metaverse outright. A spokesperson told the South China Morning Post that the company is “shifting some investment from metaverse toward AI glasses and wearables,” point­ing to momentum behind its Ray-Ban smart glasses, which Zuckerberg says have tripled in sales over the past year. But there’s no avoiding the reality: AI is the new obsession, and the new money pit. Meta expects to spend around $72 billion on AI this year, nearly matching everything it has lost on the metaverse since 2021. That includes massive outlays for data centers, model development, and new hardware. Investors are much more excited about AI burn than metaverse burn, but even they want clarity on how much Meta will ultimately be spending—and for how long. Across tech, companies are evaluating anything that isn’t directly tied to AI. Apple is revamping its leadership structure, partially around AI concerns. Microsoft is rethinking the “economics of AI.” Amazon, Google, and Microsoft are pouring billions into cloud infrastructure to keep up with demand. Signs point to money-losing initiatives without a clear AI angle being on the chopping block, with Meta as a dramatic example. On the company’s most recent earnings call, executives didn’t use the word “metaverse” once.
---------------------------------------------------
-
-Title: Mark Zuckerberg rebranded Facebook for the metaverse. Four years and $70 billion in losses later, he’s moving on
-URL: https://finance.yahoo.com/news/mark-zuckerberg-rebranded-facebook-metaverse-175244214.html
-Time Published: 2025-12-05T17:52:44Z
-Description: Zuckerberg once framed the metaverse as the “successor to the mobile internet.”
 --------------------------------------------------
 
 Title: Stocks Have Rebounded Ahead of the Fed Meeting—But the Market's Leaders Are Changing
