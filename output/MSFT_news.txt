@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: OpenAI goes from stock market savior to burden as AI risks mount
+URL: https://finance.yahoo.com/news/openai-goes-stock-market-savior-140007549.html
+Time Published: 2025-12-07T14:00:07Z
+Description: The maker of ChatGPT is no longer seen as being on the cutting edge of AI technology and is facing questions about its lack of profitability and the need to ...
+--------------------------------------------------
+
 Title: Gates Foundation Sells MSFT Stock—Should Investors Be Worried?
 URL: https://www.marketbeat.com/originals/gates-foundation-sells-msft-stockshould-investors-be-worried/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2025-12-06T12:21:00Z
@@ -105,14 +111,14 @@ Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
-Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
-Time Published: 2025-12-03T00:01:51Z
-Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs data shows weakness
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
+--------------------------------------------------
+
+Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------

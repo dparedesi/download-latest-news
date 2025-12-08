@@ -1,5 +1,17 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: OpenAI goes from stock market savior to burden as AI risks mount
+URL: https://finance.yahoo.com/news/openai-goes-stock-market-savior-140007549.html
+Time Published: 2025-12-07T14:00:07Z
+Description: The maker of ChatGPT is no longer seen as being on the cutting edge of AI technology and is facing questions about its lack of profitability and the need to ...
+--------------------------------------------------
+
+Title: This Top Chip Stock Could Also Be the Best Way to Play a New Trump Robotics Rally
+URL: https://www.barchart.com/story/news/36496863/this-top-chip-stock-could-also-be-the-best-way-to-play-a-new-trump-robotics-rally
+Time Published: 2025-12-07T14:00:02Z
+Description: America’s robotics race is heating up under the Trump administration, and AMD might be the cleanest way to get in early.
+--------------------------------------------------
+
 Title: Advanced Micro Devices, Inc. (AMD): A Bull Case Theory
 URL: https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-200731657.html
 Time Published: 2025-12-05T20:07:31Z

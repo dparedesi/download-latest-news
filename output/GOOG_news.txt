@@ -1,1 +1,7 @@
-No news found for Alphabet Inc stock price +GOOG
+List of news related to Alphabet Inc stock price GOOG:
+
+Title: OpenAI goes from stock market savior to burden as AI risks mount
+URL: https://finance.yahoo.com/news/openai-goes-stock-market-savior-140007549.html
+Time Published: 2025-12-07T14:00:07Z
+Description: The maker of ChatGPT is no longer seen as being on the cutting edge of AI technology and is facing questions about its lack of profitability and the need to ...
+--------------------------------------------------
