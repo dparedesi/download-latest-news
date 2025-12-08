@@ -116,6 +116,12 @@ Time Published: 2025-12-03T00:01:51Z
 Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
 --------------------------------------------------
 
+Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
+Time Published: 2025-12-03T00:01:51Z
+Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as surprise ADP jobs decline reinforces Fed rate cut bets
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-surprise-adp-jobs-decline-reinforces-fed-rate-cut-bets-000151602.html
 Time Published: 2025-12-03T00:01:51Z
@@ -126,42 +132,4 @@ Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as key ADP jobs da
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-key-adp-jobs-data-shows-weakness-000151631.html
 Time Published: 2025-12-03T00:01:51Z
 Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
---------------------------------------------------
-
-Title: Stock market today: Dow rises, S&P 500 and Nasdaq under pressure as key ADP jobs data shows weakness
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-under-pressure-as-key-adp-jobs-data-shows-weakness-000151158.html
-Time Published: 2025-12-03T00:01:51Z
-Description: Doubts over AI demand put pressure on tech and a surprise fall in private-sector employment revealed cracks in the job market.
---------------------------------------------------
-
-Title: Marvell to buy chip startup Celestial AI for $3.25 billion, bullish on growth next year; stock rises
-URL: https://finance.yahoo.com/news/marvell-buy-chip-startup-celestial-210837707.html
-Time Published: 2025-12-02T21:08:37Z
-Description: Chipmaker Marvell Technology said on Tuesday it will buy semiconductor startup Celestial AI in a deal worth $3.25 billion and gave a bullish forecast for its...
---------------------------------------------------
-
-Title: 17 dividend-stock bargains from a value manager with a stellar track record
-URL: https://www.marketwatch.com/story/17-dividend-stock-bargains-from-a-value-manager-with-a-stellar-track-record-6df0e310
-Time Published: 2025-12-02T17:11:00Z
-Description: John Buckingham, editor of the Prudent Speculator, reminds investors to be “willing to stomach volatility.”
---------------------------------------------------
-
-Title: Why Morgan Stanley just got more bullish on Nvidia stock, even as it struggles
-URL: https://www.businessinsider.com/nvidia-stock-price-prediction-bullish-outlook-ai-chip-revenue-asia-2025-12
-Time Published: 2025-12-02T16:02:07Z
-Full Content:
-Every time Samuel publishes a story, you’ll get an alert straight to your inbox! Enter your email By clicking “Sign up”, you agree to receive emails from Business Insider. In addition, you accept Insider’s Terms of Service and Privacy Policy. Nvidia has been under pressure in recent weeks amid a rethink of the AI trade, but one top bank says investors don't have much of a reason to worry about the chip king. Nvidia stock is down 9% over the last month. Even its blockbuster third-quarter earnings failed to generate new excitement for the company and the broader AI sector. Big-name investors like Peter Thiel and SoftBank have dumped the stock, adding pressure. But Morgan Stanley's Joseph Moore this week pushed back on the downbeat narratives, increasing the bank's price target for the stock to $250 from $235 on Monday. The new target is among the highest on Wall Street, and implies a nearly 40% jump from current levels. Moore said that he thinks threats to the AI leader's market share, specifically those in Asian markets, are overstated. Speculation that Nvidia's dominance in the AI market may be threatened isn't new. Ever since the AI leader shot to the top of the tech sector following the launch of ChatGPT in November 2022, investors have wondered how long it can maintain the rank as the top AI hardware maker. Morgan Stanley doesn't see any other chipmakers as posing a significant threat to Nvidia, though, even as China prioritizes building out its own domestic semiconductor supply chain. The analysts recently visited Asia and shared their take on why Nvidia shouldn't be worried about competition from the east. "While there is much attention being paid to Chinese AI solutions, we think that they are very limited on multiple levels, including cluster size and scale out technologies, and China software still would like access to western solutions," the analysts stated in a note on Monday. Moore also said his team reconciled the ambitious $500 billion estimate for chip revenue given by CEO Jensen Huang at Nvidia's GTC event in October. "Having met with several contacts in both Asia and in the US, we are comfortable increasing estimates to get revenues to that level." While the analysts increased their price targets for both Nvidia and fellow chipmaker Broadcom, they said they still see Nvidia as the sector's clear winner. "We model for AVGO and AMD to grow their AI processor revenues slightly faster than NVDA in CY26, but that mostly just reflects supply chain limitations of a $205 bn run rate revenue stream - all key products are supply constrained through 2026," the note stated. The analysts are convinced that even as competition in the AI chip market intensifies, Nvidia will still maintain the best performance-to-cost ratio and be able to access a wider range of AI applications and workloads than its competitors. Jump to
---------------------------------------------------
-
-Title: Is Broadcom Stock a Buy, Sell, or Hold Before December 11?
-URL: https://www.barchart.com/story/news/36412462/is-broadcom-stock-a-buy-sell-or-hold-before-december-11
-Time Published: 2025-12-02T15:50:41Z
-Description: Broadcom is well-positioned to deliver strong growth in Q4, driven by significant AI-led tailwinds. However, Broadcom’s shares are no bargain at current...
---------------------------------------------------
-
-Title: ING Selects VMware Cloud Foundation 9.0 as Strategic Platform for Private Cloud Modernization
-URL: https://www.globenewswire.com/news-release/2025/12/02/3197620/19933/en/ING-Selects-VMware-Cloud-Foundation-9-0-as-Strategic-Platform-for-Private-Cloud-Modernization.html
-Time Published: 2025-12-02T08:01:00Z
-Full Content:
-December 02, 2025 03:01 ET | Source: Broadcom Inc. Broadcom Inc. PALO ALTO, Calif., Dec. 02, 2025 (GLOBE NEWSWIRE) -- Broadcom Inc. (NASDAQ: AVGO) and ING today announced the extension of the companies’ strategic collaboration to update ING’s private cloud infrastructure. This initiative will see ING adopt VMware Cloud Foundation 9.0 (VCF 9) as part of its private cloud strategy, supporting the company’s objective of digital service excellence across multiple regions. As a multinational financial institution, ING requires a scalable, highly secure, and compliant cloud-native environment. The implementation of VCF 9 will expand upon ING’s existing VMware virtualized environment, enabling the company to build on a modern private cloud designed for multi-region deployment and global workload mobility. VCF will help ensure operational consistency while helping meet the stringent security and data sovereignty requirements of global financial services regulation. ING will leverage the full-stack capabilities of VCF 9. Together, the VMware software portfolio will deliver a unified platform to help ING simplify its IT operations, reduce management overhead, and accelerate time-to-market for new digital banking products, with enhanced agility, security, and resilience. Professional services will support private cloud design, implementation, and ongoing optimization efforts alongside ING’s global IT team. “As we continue to accelerate the pace of digital innovation across our global operations in an uncertain world, maintaining control over data locality and security is paramount,” said Daniele Tonella, Chief Technology Officer, ING. “VMware Cloud Foundation 9 will provide us with the unified, enterprise-grade private cloud platform necessary to achieve multi-region consistency, enhance workload mobility, and confidently meet the complex cloud sovereignty and compliance requirements that underpin our commitment to our customers.” "Our expanded partnership with ING underscores VCF 9's transformative power for financial institutions,” said Hock Tan, President and CEO of Broadcom Inc. “VMware Cloud Foundation 9.0 offers a resilient, AI-ready foundation for modern private clouds, delivering cloud-like agility and efficiency. We are committed to supporting ING's modernization efforts to strengthen their global digital banking leadership." About BroadcomBroadcom Inc. (NASDAQ: AVGO) is a global technology leader that designs, develops, and supplies a broad range of semiconductor, enterprise software, and security solutions. Broadcom's category-leading product portfolio serves critical markets including cloud, data center, networking, broadband, wireless, storage, industrial, and enterprise software. Our solutions include service provider and enterprise networking and storage, mobile device and broadband connectivity, mainframe, cybersecurity, and private and hybrid cloud infrastructure. Broadcom is a Delaware corporation headquartered in Palo Alto, CA. For more information, go to www.broadcom.com. Broadcom, the pulse logo, and Connecting Everything are among the trademarks of Broadcom. The term "Broadcom" refers to Broadcom Inc., and/or its subsidiaries. Other trademarks are the property of their respective owners. Media Contacts Roger T. FortierBroadcom, Inc.roger.fortier@broadcom.com+1.408.348.1569 Eloy OntiverosBroadcom Global Communicationseloy.ontiveros@broadcom.com +1.650.427.6145 PALO ALTO, Calif., Nov. 19, 2025 (GLOBE NEWSWIRE) -- Broadcom Inc. (NASDAQ:AVGO), a global leader in semiconductor and infrastructure software solutions, today announced the availability of the... Broadcom announced plans to expand its strategic partnership with NEC Corporation to adopt a modern private cloud using VMware Cloud Foundation (VCF).
 --------------------------------------------------

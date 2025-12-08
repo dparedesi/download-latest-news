@@ -5,15 +5,3 @@ URL: https://www.barchart.com/story/news/36491783/as-d-wave-launches-a-new-gover
 Time Published: 2025-12-06T15:00:02Z
 Description: Government-driven expansion is adding new depth to D-Wave’s momentum. What could this mean for the sustainability of its current rally?
 --------------------------------------------------
-
-Title: NVIDIA’s $2B Power Play: Securing the Future of Chip Design
-URL: https://www.marketbeat.com/originals/nvidias-2b-power-play-securing-the-future-of-chip-design/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-12-02T17:12:00Z
-Description: NVIDIA secures the future of chip design by investing in Synopsys and moving critical engineering simulations to its own powerful accelerated platform.
---------------------------------------------------
-
-Title: Barclays Analyst Bullish on Bank of America (BAC)
-URL: https://finance.yahoo.com/news/barclays-analyst-bullish-bank-america-063552855.html
-Time Published: 2025-12-02T06:35:52Z
-Description: Bank of America Corporation (NYSE:BAC) is one of the best dividend stocks in the financial sector. On November 17, Barclays analyst Jason Goldberg maintained...
---------------------------------------------------

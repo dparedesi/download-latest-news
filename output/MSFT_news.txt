@@ -116,21 +116,3 @@ URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wa
 Time Published: 2025-12-03T00:01:51Z
 Description: Key jobs data looms as one of the final potential catalysts ahead of the Federal Reserve's interest rate move.
 --------------------------------------------------
-
-Title: Marvell to buy chip startup Celestial AI for $3.25 billion, bullish on growth next year; stock rises
-URL: https://finance.yahoo.com/news/marvell-buy-chip-startup-celestial-210837707.html
-Time Published: 2025-12-02T21:08:37Z
-Description: Chipmaker Marvell Technology said on Tuesday it will buy semiconductor startup Celestial AI in a deal worth $3.25 billion and gave a bullish forecast for its...
---------------------------------------------------
-
-Title: This Data Center Stock Could Gain Nearly 195% Over the Next 12 Months. Is It a Buy Here?
-URL: https://www.barchart.com/story/news/36409945/this-data-center-stock-could-gain-nearly-195-over-the-next-12-months-is-it-a-buy-here
-Time Published: 2025-12-02T14:30:02Z
-Description: IREN has surged impressively over the past year, with analysts seeing almost 200% further upside. But is this the right time for investors to jump in?
---------------------------------------------------
-
-Title: Credo Technologies Posted a Blowout Quarter—Here's What's Next
-URL: https://www.marketbeat.com/originals/credo-technologies-ai-bubble-is-far-from-bursting/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-12-02T12:39:00Z
-Description: Credo Technologies is a critical cog in the AI ecosystem, and its business reflects it. Analysts are lifting targets and leading this market higher.
---------------------------------------------------

@@ -130,15 +130,3 @@ URL: https://finance.yahoo.com/news/intuitive-surgical-isrg-declined-due-1352052
 Time Published: 2025-12-03T13:52:05Z
 Description: Brown Advisory, an investment management company, released its “Brown Advisory Large-Cap Growth Strategy” third-quarter 2025 investor letter. A copy of the...
 --------------------------------------------------
-
-Title: This Under-$100 Growth Stock Is a Smart Buy With 80% Upside Potential
-URL: https://www.barchart.com/story/news/36405490/this-under-100-growth-stock-is-a-smart-buy-with-80-upside-potential
-Time Published: 2025-12-02T12:30:02Z
-Description: A 134% revenue surge and a $55.6 billion backlog show CoreWeave’s AI cloud is booked solid for years.
---------------------------------------------------
-
-Title: Barclays is Bullish on Oshkosh Corporation (OSK)
-URL: https://finance.yahoo.com/news/barclays-bullish-oshkosh-corporation-osk-063012935.html
-Time Published: 2025-12-02T06:30:12Z
-Description: Oshkosh Corporation (NYSE:OSK) is one of the best industrial stocks to buy. On November 25, Barclays analyst Adam Seiden began coverage of Oshkosh with a Buy...
---------------------------------------------------
