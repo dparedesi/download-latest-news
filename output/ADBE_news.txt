@@ -13,14 +13,14 @@ Time Published: 2025-12-08T05:31:34Z
 Description: Adobe Inc. (NASDAQ:ADBE) is one of the most profitable tech stocks to buy. On December 4, Citi lowered the firm’s price target on Adobe to $366 from $400...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq waver with Wall Street awaiting expected Fed rate cut
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html
+Title: Stock market today: Dow, S&P 500, Nasdaq with Wall Street awaiting expected Fed rate cut
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-steady-with-wall-street-awaiting-expected-fed-rate-cut-001431798.html
 Time Published: 2025-12-08T00:14:31Z
 Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq with Wall Street awaiting expected Fed rate cut
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-steady-with-wall-street-awaiting-expected-fed-rate-cut-001431798.html
+Title: Stock market today: Dow, S&P 500, Nasdaq waver with Wall Street awaiting expected Fed rate cut
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html
 Time Published: 2025-12-08T00:14:31Z
 Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
 --------------------------------------------------

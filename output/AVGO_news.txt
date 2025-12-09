@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Susquehanna Sees Stronger 2026 Performance From Broadcom’s (AVGO) Expanding ASIC Base
+URL: https://finance.yahoo.com/news/susquehanna-sees-stronger-2026-performance-173906007.html
+Time Published: 2025-12-08T17:39:06Z
+Description: Broadcom Inc. (NASDAQ:AVGO) is included among the 14 Best US Stocks to Buy for Long Term. On December 4, Susquehanna analyst Christopher Rolland raised the...
+--------------------------------------------------
+
 Title: US stock market today: Dow and S&P 500 are slipping as Nasdaq climbs — Netflix crashes, WBD jumps on Paramount’s takeover twist
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-why-dow-and-sp-500-are-slipping-as-the-nasdaq-climbs-netflix-crashes-wbd-jumps-on-paramounts-takeover-twist/articleshow/125838293.cms
 Time Published: 2025-12-08T15:28:57Z
@@ -20,26 +26,26 @@ Time Published: 2025-12-08T05:31:45Z
 Description: Broadcom Inc. (NASDAQ:AVGO) is one of the most profitable tech stocks to buy. On December 1, UBS raised the firm’s price target on Broadcom to $472 from $415...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slide with Wall Street awaiting expected Fed rate cut
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-steady-with-wall-street-awaiting-expected-fed-rate-cut-001431032.html
-Time Published: 2025-12-08T00:14:31Z
-Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb with Wall Street awaiting expected Fed rate cut
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-with-wall-street-awaiting-expected-fed-rate-cut-001431192.html
-Time Published: 2025-12-08T00:14:31Z
-Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq with Wall Street awaiting expected Fed rate cut
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-steady-with-wall-street-awaiting-expected-fed-rate-cut-001431798.html
 Time Published: 2025-12-08T00:14:31Z
 Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide with Wall Street awaiting expected Fed rate cut
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-steady-with-wall-street-awaiting-expected-fed-rate-cut-001431032.html
+Time Published: 2025-12-08T00:14:31Z
+Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq waver with Wall Street awaiting expected Fed rate cut
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html
+Time Published: 2025-12-08T00:14:31Z
+Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb with Wall Street awaiting expected Fed rate cut
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-with-wall-street-awaiting-expected-fed-rate-cut-001431192.html
 Time Published: 2025-12-08T00:14:31Z
 Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
 --------------------------------------------------
