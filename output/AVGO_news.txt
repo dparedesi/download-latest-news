@@ -1,7 +1,13 @@
 List of news related to Broadcom AVGO:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq waver with Wall Street awaiting expected Fed rate cut
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html
+Title: UBS Lifts Broadcom (AVGO) PT to $472, Keeps Buy Rating on Profitable Tech Stock
+URL: https://finance.yahoo.com/news/ubs-lifts-broadcom-avgo-pt-053145652.html
+Time Published: 2025-12-08T05:31:45Z
+Description: Broadcom Inc. (NASDAQ:AVGO) is one of the most profitable tech stocks to buy. On December 1, UBS raised the firm’s price target on Broadcom to $472 from $415...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb with Wall Street awaiting expected Fed rate cut
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-with-wall-street-awaiting-expected-fed-rate-cut-001431192.html
 Time Published: 2025-12-08T00:14:31Z
 Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
 --------------------------------------------------
@@ -12,8 +18,8 @@ Time Published: 2025-12-08T00:14:31Z
 Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb with Wall Street awaiting expected Fed rate cut
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-with-wall-street-awaiting-expected-fed-rate-cut-001431192.html
+Title: Stock market today: Dow, S&P 500, Nasdaq waver with Wall Street awaiting expected Fed rate cut
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html
 Time Published: 2025-12-08T00:14:31Z
 Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
 --------------------------------------------------

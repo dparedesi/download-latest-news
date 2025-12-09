@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia Corp.’s (NVDA) Long-Term Revenue Opportunity Remains Intact, Per Morgan Stanley
+URL: https://finance.yahoo.com/news/nvidia-corp-nvda-long-term-054737437.html
+Time Published: 2025-12-08T05:47:37Z
+Description: Nvidia Corporation (NASDAQ:NVDA) is among the best stocks you’ll wish you bought sooner. On Thursday, December 4, Reuters reported that a group of U.S...
+--------------------------------------------------
+
+Title: Jim Cramer Says “Companies Are Making Billions of Dollars When They Buy” NVIDIA Semis
+URL: https://finance.yahoo.com/news/jim-cramer-says-companies-making-053202731.html
+Time Published: 2025-12-08T05:32:02Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer discussed, along with the tech battleground. Cramer reiterated his “own this stock, not...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq waver with Wall Street awaiting expected Fed rate cut
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html
 Time Published: 2025-12-08T00:14:31Z
@@ -23,7 +35,7 @@ Title: finlearner 0.0.9
 URL: https://pypi.org/project/finlearner/
 Time Published: 2025-12-06T21:21:43Z
 Full Content:
-Please enable JavaScript to proceed.
+pip install finlearner Copy PIP instructions Released: Dec 6, 2025 A professional-grade financial analysis library featuring Deep Learning (LSTM, PINNs), Portfolio Optimization, and Advanced Technical Analysis. It is the final beta upgrade of finlearn. finlearner is a comprehensive Python library for financial analysis, algorithmic trading research, and deep learning-based market prediction. It combines advanced technical analysis, modern portfolio theory, and state-of-the-art LSTM models into a single, production-ready API. Whether you are a researcher, a quant developer, or a data scientist, finlearner provides the robust tools needed to analyze markets and build predictive models. You can install finlearner directly from PyPI: ⚡ Quick Start1. Market Prediction (Deep Learning)Train an LSTM model to predict future stock prices with just a few lines of code. We welcome contributions! Please see the guidelines below: 0.0.91 Dec 6, 2025 0.0.9 Dec 6, 2025 Download the file for your platform. If you're not sure which to choose, learn more about installing packages. Uploaded Dec 6, 2025 Source Filter files by name, interpreter, ABI, and platform. If you're not sure about the file name format, learn more about wheel file names. The dropdown lists show the available interpreters, ABIs, and platforms. Enable javascript to be able to filter the list of wheel files. Copy a direct link to the current filters Copy Uploaded Dec 6, 2025 Python 3 Details for the file finlearner-0.0.91.tar.gz. See more details on using hashes here. Details for the file finlearner-0.0.91-py3-none-any.whl. See more details on using hashes here. Status: all systems operational Developed and maintained by the Python community, for the Python community. Donate today! "PyPI", "Python Package Index", and the blocks logos are registered trademarks of the Python Software Foundation. © 2025 Python Software Foundation Site map Supported by
 --------------------------------------------------
 
 Title: Nvidia vs. Palantir: Which Stock Is the Better Long-Term AI Buy?
