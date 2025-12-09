@@ -1,5 +1,17 @@
 List of news related to Costco stock price COST:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq waver with Wall Street awaiting expected Fed rate cut
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html
+Time Published: 2025-12-08T00:14:31Z
+Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq with Wall Street awaiting expected Fed rate cut
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-steady-with-wall-street-awaiting-expected-fed-rate-cut-001431798.html
+Time Published: 2025-12-08T00:14:31Z
+Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
+--------------------------------------------------
+
 Title: Kroger CEO has a harsh solution to rising prices in stores
 URL: https://www.thestreet.com/retail/kroger-ceo-has-a-harsh-solution-to-rising-prices-in-stores
 Time Published: 2025-12-07T16:07:00Z
@@ -55,10 +67,4 @@ Title: Costco Wholesale Corporation (COST): A Bull Case Theory
 URL: https://finance.yahoo.com/news/costco-wholesale-corporation-cost-bull-161547946.html
 Time Published: 2025-12-04T16:15:47Z
 Description: We came across a bullish thesis on Costco Wholesale Corporation on Wonder Stocks’s Substack by Wonder Stocks. In this article, we will summarize the bulls...
---------------------------------------------------
-
-Title: Costco’s bold gamble suing Trump for tariff refunds
-URL: https://rollingout.com/2025/12/03/costcos-gamble-suing-trump-for-tariff/
-Time Published: 2025-12-03T12:19:48Z
-Description: In a striking departure from corporate America’s cautious stance, Costco has launched a legal offensive against the Trump administration, filing suit on Friday over tariffs that have extracted nearly $90 billion from U.S. importers. The wholesale retailer’s l…
 --------------------------------------------------

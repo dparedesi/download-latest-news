@@ -19,9 +19,3 @@ URL: https://financialpost.com/pmn/business-pmn/canadian-stocks-seen-outperformi
 Time Published: 2025-12-04T11:50:12Z
 Description: Canada’s equity benchmark spent the first quarter stuck in a rut as investors priced the tumult caused by US President Donald Trump’s bombast and tariffs. It’s been on a tear ever since, and strategists expect the surge to persist in 2026.
 --------------------------------------------------
-
-Title: Vanguard will now allow crypto ETFs on its platform
-URL: https://financialpost.com/investing/vanguard-allow-crypto-etfs
-Time Published: 2025-12-03T14:17:26Z
-Description: Vanguard Group has decided to allow ETFs and mutual funds that primarily hold cryptocurrencies to be traded on its platform. Read more here
---------------------------------------------------
