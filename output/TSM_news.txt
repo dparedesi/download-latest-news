@@ -6,6 +6,12 @@ Time Published: 2025-12-08T16:08:21Z
 Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the fastest-growing semiconductor stocks to buy. As of December 5, the company is a...
 --------------------------------------------------
 
+Title: Firm that called 2025 nearly perfectly — until a moment of doubt — now has highest S&P 500 target on Wall Street
+URL: https://www.marketwatch.com/story/firm-that-called-2025-nearly-perfectly-until-a-moment-of-doubt-now-has-highest-s-p-500-target-on-wall-street-be6a3a08
+Time Published: 2025-12-08T14:24:00Z
+Description: Oppenheimer says the S 500 will push ahead in 2026, boosted by the economy and corporate profits that are likely to keep holding up.
+--------------------------------------------------
+
 Title: Analysts See Continued Upside in TSMC (TSM) Amid AI Demand
 URL: https://finance.yahoo.com/news/analysts-see-continued-upside-tsmc-064851404.html
 Time Published: 2025-12-08T06:48:51Z
@@ -16,23 +22,4 @@ Title: Taiwan Semiconductor Manufacturing (TSM): A Bull Case Theory
 URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-tsm-bull-220145039.html
 Time Published: 2025-12-05T22:01:45Z
 Description: We came across a bullish thesis on Taiwan Semiconductor Manufacturing Company Limited on Nikhs’s Substack. In this article, we will summarize the bulls...
---------------------------------------------------
-
-Title: 3 ASX ETFs I'd buy right now to build wealth
-URL: https://www.fool.com.au/2025/12/05/3-asx-etfs-id-buy-right-now-for-strong-long-term-returns/
-Time Published: 2025-12-04T23:00:00Z
-Description: Here's why these funds could be destined to deliver big returns over the next decade.
-The post 3 ASX ETFs I'd buy right now to build wealth appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: Stifel Says This 1 ‘Picks and Shovels’ AI Stock Is a Buy for Massive Growth in 2026
-URL: https://www.barchart.com/story/news/36463416/stifel-says-this-1-picks-and-shovels-ai-stock-is-a-buy-for-massive-growth-in-2026
-Time Published: 2025-12-04T21:06:14Z
-Description: Teradyne’s valuation looks full, but Stifel’s upgrade, growing ties to TSMC and potentially Nvidia’s Blackwell chips, and double‑digit earnings growth...
---------------------------------------------------
-
-Title: Robust Demand Boosted Taiwan Semiconductor Manufacturing Company Limited (TSM) in Q3
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_febf9e63-3a45-4b1d-8ccb-6938d675f8ee
-Time Published: 2025-12-04T14:21:45Z
-Description: None
 --------------------------------------------------

@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Microsoft sends harsh message to millions of Microsoft 365 customers
+URL: https://www.thestreet.com/investing/microsofts-ai-jitters-look-where-the-real-money-shows-up
+Time Published: 2025-12-09T02:03:00Z
+Description: Microsoft's stock experienced volatility after some AI sellers made a headline-grabbing claim that the company failed to meet its aggressive goals and, as a ...
+--------------------------------------------------
+
 Title: Jefferies Maintains Buy on Microsoft (MSFT) Amid Strong RPO Growth and Copilot Demand
 URL: https://finance.yahoo.com/news/jefferies-maintains-buy-microsoft-msft-174132096.html
 Time Published: 2025-12-08T17:41:32Z
@@ -34,22 +40,4 @@ Title: Down 40% in the Past Month, Morgan Stanley Says This 1 Stock Is Key to th
 URL: https://www.barchart.com/story/news/36481233/down-40-in-the-past-month-morgan-stanley-says-this-1-stock-is-key-to-the-future-of-ai
 Time Published: 2025-12-05T18:23:14Z
 Description: Morgan Stanley says there is a growing AI power gap, and IREN will be important in helping generate the power needed for AI compute.
---------------------------------------------------
-
-Title: Strong Quarter, Weak Reaction: Why GitLab Shares Dropped
-URL: https://www.marketbeat.com/originals/strong-quarter-weak-reaction-why-gitlab-shares-dropped/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-12-04T21:27:00Z
-Description: GitLab stock fell 13.5% post-earnings as weak AI monetization and bearish technicals dim investor outlook.
---------------------------------------------------
-
-Title: Microsoft Stock Recovers as Company Denies Reports of Lower AI Sales Quotas. Should You Buy It Here?
-URL: https://www.barchart.com/story/news/36458918/microsoft-stock-recovers-as-company-denies-reports-of-lower-ai-sales-quotas-should-you-buy-it-here
-Time Published: 2025-12-04T16:55:10Z
-Description: Microsoft shares recover as the multinational denies reports of lowered AI products sales quotas. D.A. Davidson sees upside in MSFT stock to $650.
---------------------------------------------------
-
-Title: The Pullback in Oracle Stock Just Created a Buying Opportunity
-URL: https://www.barchart.com/story/news/36458748/the-pullback-in-oracle-stock-just-created-a-buying-opportunity
-Time Published: 2025-12-04T16:48:31Z
-Description: Oracle stock is down nearly 40% from its 52-week high, presenting an opportunity for long-term investors.
 --------------------------------------------------

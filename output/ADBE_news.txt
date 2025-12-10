@@ -1,5 +1,17 @@
 List of news related to Adobe stock price ADBE:
 
+Title: Option Volatility and Earnings Report for December 8 - 12
+URL: https://www.barchart.com/story/news/36504229/option-volatility-and-earnings-report-for-december-8-12
+Time Published: 2025-12-08T12:00:02Z
+Description: Earnings season is starting to wind down but we still have some big names due to report Q3 numbers. This week, we have Costco (COST), Broadcom (AVGO), Adobe ...
+--------------------------------------------------
+
+Title: Stocks Set to Open Higher as Investors Await Fed Meeting
+URL: https://www.barchart.com/story/news/36503620/stocks-set-to-open-higher-as-investors-await-fed-meeting
+Time Published: 2025-12-08T11:10:37Z
+Description: December S&P 500 E-Mini futures (ESZ25) are up +0.12%, and December Nasdaq 100 E-Mini futures (NQZ25) are up +0.23% this morning, pointing to a higher open...
+--------------------------------------------------
+
 Title: US stock futures today: Dow, S&P 500, Nasdaq rise as Wall Street awaits Fed rate cut — Investors also eyeing earnings from Oracle, Adobe, Broadcom, and Costco
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-futures-today-dow-sp-500-nasdaq-rise-as-wall-street-awaits-fed-rate-cut-investors-also-eyeing-earnings-from-oracle-adobe-broadcom-and-costco/articleshow/125831510.cms
 Time Published: 2025-12-08T09:43:36Z
