@@ -32,6 +32,31 @@ Time Published: 2025-12-08T20:51:06Z
 Description: US stocks fell ahead of the Federal Reserve's mid-week announcement on interest rates.
 --------------------------------------------------
 
+Title: Does Nvidia Have Too Much Cash? Unpacking the Case for More NVDA Stock Buybacks, Larger Dividends, and Less Deals.
+URL: https://www.barchart.com/story/news/36514008/does-nvidia-have-too-much-cash-unpacking-the-case-for-more-nvda-stock-buybacks-larger-dividends-and-less-deals
+Time Published: 2025-12-08T20:05:03Z
+Description: Nvidia’s massive and rapidly growing cash pile has sparked debate over whether the company should prioritize more buybacks and bigger dividends over...
+--------------------------------------------------
+
+Title: Nvidia-Backed CoreWeave's Stock Slumps. Here's What's Behind Monday's Slide
+URL: https://www.investopedia.com/nvidia-backed-coreweave-stock-slumps-here-is-what-is-behind-monday-slide-crwv-11864028
+Time Published: 2025-12-08T19:18:50Z
+Full Content:
+Shares of CoreWeave (CRWV) lost ground Monday after the cloud computing company said it would sell $2 billion in convertible senior notes. The shares were down close to 5% in recent trading. (Read our daily markets coverage here.) The data center provider backed by AI chipmaker Nvidia (NVDA) said the convertible senior notes coming due in 2031 will be made in a private offering, and initial investors would have the option to purchase an additional $300 million worth within a 13-day period from the issuance date. Convertible debt offerings can offer a relatively simple and inexpensive way for companies to raise capital. However, existing shareholders may view them negatively, as they can be dilutive and may raise concerns about a company's debt levels. CoreWeave said that a portion of the proceeds will be used for capped call transactions, with the rest for general corporate purposes. The move comes after a recent pullback in CoreWeave's shares amid worries about an AI bubble, after a big run-up in its stock following its public debut in March. Even with CoreWeave's recent losses, the stock has more than doubled from its initial public offering price.
+--------------------------------------------------
+
+Title: Bitget sees record 4,468% surge in tokenized U.S. stock futures volume
+URL: https://www.thestreet.com/crypto/markets/bitget-sees-record-4468-surge-in-tokenized-u-s-stock-futures-volume
+Time Published: 2025-12-08T19:16:56Z
+Description: Bitget, the cryptocurrency trading exchange, has recorded a staggering 4,468% surge in futures trading volume during the recent earnings season. As per the...
+--------------------------------------------------
+
+Title: Ex-Cisco CEO says 2026 will be a 'great year for AI'
+URL: https://finance.yahoo.com/news/ex-cisco-ceo-says-2026-will-be-a-great-year-for-ai-184208659.html
+Time Published: 2025-12-08T18:42:08Z
+Description: AI-driven productivity gains will deliver big earnings for companies, said John Chambers.
+--------------------------------------------------
+
 Title: Is a Global Margin Call Coming? How a Bank of Japan Rate Hike Could Trigger the Next Market Shock
 URL: https://www.barchart.com/story/news/36511473/is-a-global-margin-call-coming-how-a-bank-of-japan-rate-hike-could-trigger-the-next-market-shock
 Time Published: 2025-12-08T17:18:55Z
