@@ -1,5 +1,17 @@
 List of news related to Adobe stock price ADBE:
 
+Title: Wall Street Bullish on Adobe (ADBE) Ahead of its Q4 2025 Earnings Call
+URL: https://finance.yahoo.com/news/wall-street-bullish-adobe-adbe-163923252.html
+Time Published: 2025-12-09T16:39:23Z
+Description: ​Adobe Inc. (NASDAQ:ADBE) is one of the Good Stocks to Buy According to Analysts. Wall Street has a bullish sentiment on Adobe Inc. (NASDAQ:ADBE) ahead of...
+--------------------------------------------------
+
+Title: Stifel Nicolaus Maintains Bullish Stance on Adobe (ADBE) Stock
+URL: https://finance.yahoo.com/news/stifel-nicolaus-maintains-bullish-stance-161942303.html
+Time Published: 2025-12-09T16:19:42Z
+Description: Adobe Inc. (NASDAQ:ADBE) is one of the Most Undervalued Stocks to Buy Right Now. On November 19, Stifel Nicolaus analyst J. Parker Lane maintained a bullish ...
+--------------------------------------------------
+
 Title: A Major Shift in Adobe’s (ADBE) Risk Geometry Points to Fresh Upside
 URL: https://www.barchart.com/story/news/36512486/a-major-shift-in-adobes-adbe-risk-geometry-points-to-fresh-upside
 Time Published: 2025-12-08T18:30:02Z
@@ -31,14 +43,14 @@ Time Published: 2025-12-08T05:31:34Z
 Description: Adobe Inc. (NASDAQ:ADBE) is one of the most profitable tech stocks to buy. On December 4, Citi lowered the firm’s price target on Adobe to $366 from $400...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq waver with Wall Street awaiting expected Fed rate cut
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html
+Title: Stock market today: Dow, S&P 500, Nasdaq with Wall Street awaiting expected Fed rate cut
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-steady-with-wall-street-awaiting-expected-fed-rate-cut-001431798.html
 Time Published: 2025-12-08T00:14:31Z
 Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq with Wall Street awaiting expected Fed rate cut
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-steady-with-wall-street-awaiting-expected-fed-rate-cut-001431798.html
+Title: Stock market today: Dow, S&P 500, Nasdaq waver with Wall Street awaiting expected Fed rate cut
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html
 Time Published: 2025-12-08T00:14:31Z
 Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
 --------------------------------------------------
