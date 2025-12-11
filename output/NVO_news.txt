@@ -1,5 +1,17 @@
 List of news related to Novo Nordisk NVO:
 
+Title: Argus Downgrades Novo Nordisk A/S (NVO) to Hold From Buy
+URL: https://finance.yahoo.com/news/argus-downgrades-novo-nordisk-nvo-162849614.html
+Time Published: 2025-12-10T16:28:49Z
+Description: Novo Nordisk A/S (NYSE:NVO) is one of the best pharma stocks to invest in. Argus analyst Jasper Hellweg downgraded Novo Nordisk A/S (NYSE:NVO) to Hold from...
+--------------------------------------------------
+
+Title: Analysts See Upside In Novo Nordisk A/S (NVO) Driven By Diabetes And Obesity Trends
+URL: https://finance.yahoo.com/news/analysts-see-upside-novo-nordisk-153304960.html
+Time Published: 2025-12-10T15:33:04Z
+Description: Novo Nordisk A/S (NYSE:NVO) is among the cheap healthcare stocks to buy heading into 2026. On December 5, Kerry Holford, an analyst at Berenberg Bank...
+--------------------------------------------------
+
 Title: 5 High Short-Interest Stocks to Buy Before Q1 2026
 URL: https://www.marketbeat.com/originals/5-high-short-interest-stocks-to-buy-before-q1-2026/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2025-12-09T14:32:00Z
@@ -12,14 +24,14 @@ Time Published: 2025-12-08T20:51:06Z
 Description: US stocks fell ahead of the Federal Reserve's mid-week announcement on interest rates.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq waver with Wall Street awaiting expected Fed rate cut
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html
+Title: Stock market today: Dow, S&P 500, Nasdaq with Wall Street awaiting expected Fed rate cut
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-steady-with-wall-street-awaiting-expected-fed-rate-cut-001431798.html
 Time Published: 2025-12-08T00:14:31Z
 Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq with Wall Street awaiting expected Fed rate cut
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-steady-with-wall-street-awaiting-expected-fed-rate-cut-001431798.html
+Title: Stock market today: Dow, S&P 500, Nasdaq waver with Wall Street awaiting expected Fed rate cut
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html
 Time Published: 2025-12-08T00:14:31Z
 Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
 --------------------------------------------------
