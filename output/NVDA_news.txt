@@ -1,5 +1,12 @@
 List of news related to NVIDIA NVDA:
 
+Title: Aster eliminates fees on stock perpetual trading
+URL: https://cryptobriefing.com/aster-stock-perpetual-trading/
+Time Published: 2025-12-10T17:15:00Z
+Full Content:
+Share this article Aster announced today it has eliminated all trading fees on its stock perpetual futures products. The platform now offers 0% maker and taker fees across all listed stock perp contracts, including names like NVIDIA (NVDA), Tesla (TSLA), Amazon (AMZN), and Apple (AAPL). Under the new structure, takers pay zero fees, while makers not only trade for free but also earn points through Aster Harvest’s Stage 4 rewards program. These points are designed to incentivize liquidity and reward active market participants. Sign in to your account Don’t have an account? Create one Create your account Already have an account? Sign In Forgot your password? Sign In
+--------------------------------------------------
+
 Title: US stock market today: Dow, S&P 500, Nasdaq on pause as all eyes on Fed verdict — a likely rate cut; silver tops the charts while Nvidia and Intel slip
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-dow-sp-500-nasdaq-on-pause-as-all-eyes-on-fed-verdict-a-likely-rate-cut-silver-tops-the-charts-while-nvidia-and-intel-slip/articleshow/125892972.cms
 Time Published: 2025-12-10T15:19:25Z
@@ -311,10 +318,4 @@ Title: Jim Cramer Says “Companies Are Making Billions of Dollars When They Buy
 URL: https://finance.yahoo.com/news/jim-cramer-says-companies-making-053202731.html
 Time Published: 2025-12-08T05:32:02Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer discussed, along with the tech battleground. Cramer reiterated his “own this stock, not...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq waver with Wall Street awaiting expected Fed rate cut
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html
-Time Published: 2025-12-08T00:14:31Z
-Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
 --------------------------------------------------
