@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Semiconductor Billings Are Surging. That Creates a Buying Opportunity in This 1 Chip Stock.
+URL: https://www.barchart.com/story/news/36525547/semiconductor-billings-are-surging-that-creates-a-buying-opportunity-in-this-1-chip-stock
+Time Published: 2025-12-09T12:30:02Z
+Description: DRAM billings were up 90% in November.
+--------------------------------------------------
+
 Title: Stocks Retreat as Bond Yields Rise
 URL: https://www.barchart.com/story/news/36515514/stocks-retreat-as-bond-yields-rise
 Time Published: 2025-12-08T21:35:39Z
@@ -47,28 +53,4 @@ Title: This Top Chip Stock Could Also Be the Best Way to Play a New Trump Roboti
 URL: https://www.barchart.com/story/news/36496863/this-top-chip-stock-could-also-be-the-best-way-to-play-a-new-trump-robotics-rally
 Time Published: 2025-12-07T14:00:02Z
 Description: America’s robotics race is heating up under the Trump administration, and AMD might be the cleanest way to get in early.
---------------------------------------------------
-
-Title: Advanced Micro Devices, Inc. (AMD): A Bull Case Theory
-URL: https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-200731657.html
-Time Published: 2025-12-05T20:07:31Z
-Description: We came across a bullish thesis on Advanced Micro Devices, Inc. on Investment Ideas by Antonio’s Substack by Antonio Linares. In this article, we will...
---------------------------------------------------
-
-Title: Amazon Just Released Its Graviton5 CPU. Should You Buy, Sell, or Hold AMZN Stock Here?
-URL: https://www.barchart.com/story/news/36481480/amazon-just-released-its-graviton5-cpu-should-you-buy-sell-or-hold-amzn-stock-here
-Time Published: 2025-12-05T18:42:52Z
-Description: Is Amazon’s new Graviton5 CPU the moment that finally pushes investors to pause and rethink their stance on AMZN—hold steady, pull back, or double down?
---------------------------------------------------
-
-Title: Stocks Rally on Benign Inflation News
-URL: https://www.barchart.com/story/news/36479118/stocks-rally-on-benign-inflation-news
-Time Published: 2025-12-05T16:18:08Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.32%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.34%, and the Nasdaq 100 Index ($IUXX...
---------------------------------------------------
-
-Title: Is Advanced Micro Devices, Inc. (AMD) One of the Best Augmented Reality Stocks to Buy Right Now?
-URL: https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-031016530.html
-Time Published: 2025-12-05T03:10:16Z
-Description: Advanced Micro Devices Inc. (NASDAQ:AMD) is one of the best augmented reality stocks to buy right now. On November 20, Raymond James resumed coverage of...
 --------------------------------------------------

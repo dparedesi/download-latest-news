@@ -23,15 +23,3 @@ URL: https://finance.yahoo.com/news/piper-sandler-keeps-overweight-amazon-110508
 Time Published: 2025-12-06T11:05:08Z
 Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the AI Stocks Analysts are Tracking Closely. On December 3, Piper Sandler analyst Tom Champion reiterated an...
 --------------------------------------------------
-
-Title: Amazon Just Released Its Graviton5 CPU. Should You Buy, Sell, or Hold AMZN Stock Here?
-URL: https://www.barchart.com/story/news/36481480/amazon-just-released-its-graviton5-cpu-should-you-buy-sell-or-hold-amzn-stock-here
-Time Published: 2025-12-05T18:42:52Z
-Description: Is Amazon’s new Graviton5 CPU the moment that finally pushes investors to pause and rethink their stance on AMZN—hold steady, pull back, or double down?
---------------------------------------------------
-
-Title: Amazon.com, Inc. (AMZN): A Bull Case Theory
-URL: https://finance.yahoo.com/news/amazon-com-inc-amzn-bull-025230413.html
-Time Published: 2025-12-05T02:52:30Z
-Description: We came across a bullish thesis on Amazon.com, Inc. on Capitalist Letter’s Substack by Oguz Erkan. In this article, we will summarize the bulls’ thesis on...
---------------------------------------------------

@@ -47,9 +47,3 @@ URL: https://www.marketbeat.com/originals/gates-foundation-sells-msft-stockshoul
 Time Published: 2025-12-06T12:21:00Z
 Description: The Gates Foundation sold 65% of its Microsoft stake, but analysts say the move reflects rebalancing, not fading confidence, which makes MSFT stock a buy
 --------------------------------------------------
-
-Title: Down 40% in the Past Month, Morgan Stanley Says This 1 Stock Is Key to the Future of AI
-URL: https://www.barchart.com/story/news/36481233/down-40-in-the-past-month-morgan-stanley-says-this-1-stock-is-key-to-the-future-of-ai
-Time Published: 2025-12-05T18:23:14Z
-Description: Morgan Stanley says there is a growing AI power gap, and IREN will be important in helping generate the power needed for AI compute.
---------------------------------------------------

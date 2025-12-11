@@ -1,5 +1,23 @@
 List of news related to Broadcom AVGO:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slip with Fed rate decision on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-with-fed-rate-decision-on-deck-235110185.html
+Time Published: 2025-12-09T23:51:10Z
+Description: US stock futures remain largely in a holding pattern, with all eyes on the Fed committee's meeting to decide on an interest rate cut.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble with Fed rate decision on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-with-fed-rate-decision-on-deck-235110298.html
+Time Published: 2025-12-09T23:51:10Z
+Description: US stock futures remain largely in a holding pattern, with all eyes on the Fed committee's meeting to decide on an interest rate cut.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures waver with Fed rate decision on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-waver-with-fed-rate-decision-on-deck-235110760.html
+Time Published: 2025-12-09T23:51:10Z
+Description: US stock futures remain largely in a holding pattern, with all eyes on the Fed committee's meeting to decide on an interest rate cut.
+--------------------------------------------------
+
 Title: Wall Street Firm Stays Bullish on Broadcom (AVGO) Ahead of December 11 Earnings
 URL: https://finance.yahoo.com/news/wall-street-firm-stays-bullish-173352386.html
 Time Published: 2025-12-09T17:33:52Z
@@ -121,28 +139,4 @@ Title: Crucial Fed decision looms as stocks fly high near records: What to watch
 URL: https://finance.yahoo.com/news/crucial-fed-decision-looms-as-stocks-fly-high-near-records-what-to-watch-this-week-124542958.html
 Time Published: 2025-12-07T12:45:42Z
 Description: This week, we're closely watching the Fed's comments and dot plot, a nervous bond market, bitcoin, and signs of a Santa Claus rally.
---------------------------------------------------
-
-Title: Stocks Finish Higher as Price Pressures Ease
-URL: https://www.barchart.com/story/news/36484232/stocks-finish-higher-as-price-pressures-ease
-Time Published: 2025-12-05T21:34:13Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed up by +0.19%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.22%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Stocks Rally on Benign Inflation News
-URL: https://www.barchart.com/story/news/36479118/stocks-rally-on-benign-inflation-news
-Time Published: 2025-12-05T16:18:08Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.32%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.34%, and the Nasdaq 100 Index ($IUXX...
---------------------------------------------------
-
-Title: Google Is Riding the AI Wave Higher, but the Real Winner of Gemini 3 Is This Stock
-URL: https://www.barchart.com/story/news/36476936/google-is-riding-the-ai-wave-higher-but-the-real-winner-of-gemini-3-is-this-stock
-Time Published: 2025-12-05T14:22:33Z
-Description: While Google grabs headlines with Gemini 3, this semiconductor giant is quietly becoming the real beneficiary of the AI wave.
---------------------------------------------------
-
-Title: Broadcom (AVGO) Forecast: AI Revenue Beyond This Year’s 50–60% Surge
-URL: https://finance.yahoo.com/news/broadcom-avgo-forecast-ai-revenue-133555603.html
-Time Published: 2025-12-05T13:35:55Z
-Description: Harding Loevner, an asset management company, released its “Global Equity Strategy” third-quarter 2025 investor letter. A copy of the letter can be...
 --------------------------------------------------
