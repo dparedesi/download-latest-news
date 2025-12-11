@@ -1,13 +1,13 @@
 List of news related to Broadcom AVGO:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slip with Fed rate decision on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-with-fed-rate-decision-on-deck-235110185.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble with Fed rate decision on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-with-fed-rate-decision-on-deck-235110298.html
 Time Published: 2025-12-09T23:51:10Z
 Description: US stock futures remain largely in a holding pattern, with all eyes on the Fed committee's meeting to decide on an interest rate cut.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures wobble with Fed rate decision on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-wobble-with-fed-rate-decision-on-deck-235110298.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slip with Fed rate decision on deck
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-with-fed-rate-decision-on-deck-235110185.html
 Time Published: 2025-12-09T23:51:10Z
 Description: US stock futures remain largely in a holding pattern, with all eyes on the Fed committee's meeting to decide on an interest rate cut.
 --------------------------------------------------
