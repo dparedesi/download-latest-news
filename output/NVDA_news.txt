@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: If Google wins AI race, Nvidia is 'in trouble,' says author of Jensen Huang biography
+URL: https://finance.yahoo.com/news/if-google-wins-ai-race-nvidia-is-in-trouble-says-author-of-jensen-huang-biography-184624884.html
+Time Published: 2025-12-11T18:46:24Z
+Description: Jensen Huang biography author Stephen Witt explains why Google's self-developed AI model, Gemini, could pose a threat to Nvidia's AI dominance
+--------------------------------------------------
+
 Title: US stock market today falls: S&P 500 and Nasdaq are down while Dow gains - Oracle and Nvidia lead today's biggest tech losses
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-falls-after-fed-cuts-rate-why-sp-500-and-nasdaq-are-down-while-dow-gains-oracle-and-nvidia-lead-todays-biggest-tech-losses/articleshow/125916263.cms
 Time Published: 2025-12-11T15:36:14Z
@@ -32,16 +38,16 @@ Time Published: 2025-12-10T23:35:26Z
 Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures plummet after Fed decision as Oracle sinks after earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-plummet-after-fed-decision-as-oracle-sinks-after-earnings-233526664.html
-Time Published: 2025-12-10T23:35:26Z
-Description: US stock futures were inconsistent across the major gauges as the Fed rate cut and Oracle's significant loss dragged the needle in different directions.
---------------------------------------------------
-
 Title: Stock market today: Dow hits record high while Nasdaq, S&P 500 slide as Oracle earnings revive AI spending fears
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-hits-record-high-while-nasdaq-sp-500-slide-as-oracle-earnings-revive-ai-spending-fears-233526385.html
 Time Published: 2025-12-10T23:35:26Z
 Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures plummet after Fed decision as Oracle sinks after earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-plummet-after-fed-decision-as-oracle-sinks-after-earnings-233526664.html
+Time Published: 2025-12-10T23:35:26Z
+Description: US stock futures were inconsistent across the major gauges as the Fed rate cut and Oracle's significant loss dragged the needle in different directions.
 --------------------------------------------------
 
 Title: The Top 3 Investment Themes That Will Dominate 2026
@@ -156,16 +162,16 @@ Full Content:
 Broadcom (AVGO) is slated to release its fiscal fourth-quarter results after the market closes on Thursday, with traders expecting the chipmaker's stock could hit fresh record highs after the report. Based on current options pricing, Broadcom stock is expected to rise or fall by up to 6% by the end of the week. Based on Monday's closing price, that would lift Broadcom's stock to around $425 on the high end, further past the intraday record of $407 the stock set on Monday, or push it down to about $377. Last quarter, Broadcom's revenue hit a record $15.95 billion as the company topped estimates, prompting some analysts to call Broadcom a "Magnificent 8" stock that could continue to grow alongside Nvidia (NVDA) if the AI industry keeps expanding. Broadcom stock rallied following the report, setting multiple record highs in the months since. Broadcom designs AI chips used by several big tech companies—including Google, Meta and OpenAI—to train and run AI models such as ChatGPT and Gemini. Broadcom stock has been less affected than shares of other tech giants by the recent concerns over an AI bubble. Analysts from Bank of America and Morgan Stanley each recently raised their price targets for Broadcom stock, but noted that the chip designer faces long-term risks. The analysts said that Alphabet's (GOOGL) Google is looking to design its own future generations of AI chips in house, rather than the current generation that it has designed in partnership with Broadcom. That could put Broadcom's market share at risk if Google is successful and eventually looks to sell its designs to other current Broadcom customers. Broadcom's revenue is expected to jump 24% year-over-year to another record high of $17.48 billion, while adjusted earnings per share are projected to come in at $1.88, compared to $1.42 in the like period a year ago. Analysts are overwhelmingly bullish on Broadcom stock, with all 12 analysts with current ratings tracked by Visible Alpha rating the chipmaker as a "buy." The stock has an an average price target of $432.02, as analysts expect shares to continue rising to record levels.
 --------------------------------------------------
 
-Title: Oracle stock sinks, on track for worst loss since early 2000s as AI costs jump past Wall Street estimates
-URL: https://finance.yahoo.com/news/oracle-stock-sinks-on-track-for-worst-loss-since-early-2000s-as-ai-costs-jump-past-wall-street-estimates-200454018.html
-Time Published: 2025-12-09T20:04:54Z
-Description: Oracle reported earnings after the bell on Wednesday.
---------------------------------------------------
-
 Title: Oracle stock sinks as AI costs jump past Wall Street estimates
 URL: https://finance.yahoo.com/news/oracle-stock-sinks-as-ai-costs-jump-past-wall-street-estimates-200454370.html
 Time Published: 2025-12-09T20:04:54Z
 Description: Oracle stock fell as much as 15% Thursday after the tech firm's quarterly AI costs rose ahead of Wall Street's expectations and revenue fell short.
+--------------------------------------------------
+
+Title: Oracle stock sinks, on track for worst loss since early 2000s as AI costs jump past Wall Street estimates
+URL: https://finance.yahoo.com/news/oracle-stock-sinks-on-track-for-worst-loss-since-early-2000s-as-ai-costs-jump-past-wall-street-estimates-200454018.html
+Time Published: 2025-12-09T20:04:54Z
+Description: Oracle reported earnings after the bell on Wednesday.
 --------------------------------------------------
 
 Title: Goldman and Bernstein Signal More Upside Ahead for NVIDIA (NVDA)
@@ -311,10 +317,4 @@ Title: Is a Global Margin Call Coming? How a Bank of Japan Rate Hike Could Trigg
 URL: https://www.barchart.com/story/news/36511473/is-a-global-margin-call-coming-how-a-bank-of-japan-rate-hike-could-trigger-the-next-market-shock
 Time Published: 2025-12-08T17:18:55Z
 Description: John Rowland explains why the yen is called the “currency of misery,” and how market mechanics out of Japan could send Wall Street spiraling.
---------------------------------------------------
-
-Title: As Palantir Announces a TWG Partnership, Should You Buy, Sell, or Hold PLTR Stock?
-URL: https://www.barchart.com/story/news/36511444/as-palantir-announces-a-twg-partnership-should-you-buy-sell-or-hold-pltr-stock
-Time Published: 2025-12-08T17:17:31Z
-Description: Palantir expands AI footprint with TWG deal, but sky-high valuation keeps investors cautious.
 --------------------------------------------------
