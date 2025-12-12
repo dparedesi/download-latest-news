@@ -1,5 +1,11 @@
 List of news related to Uber stock price UBER:
 
+Title: Stocks Rally as Fed Cuts Interest Rates and Boosts Liquidity
+URL: https://www.barchart.com/story/news/36559924/stocks-rally-as-fed-cuts-interest-rates-and-boosts-liquidity
+Time Published: 2025-12-10T21:38:32Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up by +0.67%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +1.05%, and the Nasdaq 100...
+--------------------------------------------------
+
 Title: Algorithms and Capitalism: Cleaning Up The Waze Parade
 URL: https://battellemedia.com/archives/2025/12/algorithms-and-capitalism-cleaning-up-the-waze-parade
 Time Published: 2025-12-10T20:07:44Z

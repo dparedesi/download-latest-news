@@ -1,13 +1,7 @@
 List of news related to Broadcom AVGO:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures tumble after Fed decision as Oracle earnings fall short
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-tumble-after-fed-decision-as-oracle-earnings-fall-short-233526540.html
-Time Published: 2025-12-10T23:35:26Z
-Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
---------------------------------------------------
-
-Title: Stock market today: Dow hits record high while Nasdaq, S&P 500 slide as Oracle earnings revive AI spending fears
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-hits-record-high-while-nasdaq-sp-500-slide-as-oracle-earnings-revive-ai-spending-fears-233526385.html
+Title: Stock market today: Dow gains while Nasdaq, S&P 500 slide as Oracle earnings revive AI spending fears
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-gains-while-nasdaq-sp-500-slide-as-oracle-earnings-revive-ai-spending-fears-233526438.html
 Time Published: 2025-12-10T23:35:26Z
 Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
 --------------------------------------------------
@@ -18,26 +12,26 @@ Time Published: 2025-12-10T23:35:26Z
 Description: US stock futures were inconsistent across the major gauges as the Fed rate cut and Oracle's significant loss dragged the needle in different directions.
 --------------------------------------------------
 
-Title: Stock market today: Dow gains while Nasdaq, S&P 500 slide as Oracle earnings revive AI spending fears
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-gains-while-nasdaq-sp-500-slide-as-oracle-earnings-revive-ai-spending-fears-233526438.html
-Time Published: 2025-12-10T23:35:26Z
-Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
---------------------------------------------------
-
 Title: Stock market today: Dow vaults toward record high as Oracle's slide weighs on S&P 500, Nasdaq
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-vaults-toward-record-high-as-oracles-slide-weighs-on-sp-500-nasdaq-233526728.html
 Time Published: 2025-12-10T23:35:26Z
 Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slump as Oracle earnings reignite AI spending fears
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slump-as-oracle-earnings-reignite-ai-spending-fears-233526300.html
+Title: Stock market today: Dow hits record high while Nasdaq, S&P 500 slide as Oracle earnings revive AI spending fears
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-hits-record-high-while-nasdaq-sp-500-slide-as-oracle-earnings-revive-ai-spending-fears-233526385.html
 Time Published: 2025-12-10T23:35:26Z
 Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as Oracle earnings reignite AI spending fears
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-oracle-earnings-reignite-ai-spending-fears-233526181.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures tumble after Fed decision as Oracle earnings fall short
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-tumble-after-fed-decision-as-oracle-earnings-fall-short-233526540.html
+Time Published: 2025-12-10T23:35:26Z
+Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slump as Oracle earnings reignite AI spending fears
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slump-as-oracle-earnings-reignite-ai-spending-fears-233526300.html
 Time Published: 2025-12-10T23:35:26Z
 Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
 --------------------------------------------------
@@ -52,6 +46,18 @@ Title: Stock market today: Nasdaq, S&P 500 slide, Dow gains as Oracle earnings s
 URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-slide-dow-gains-as-oracle-earnings-stoke-ai-spending-fears-233526960.html
 Time Published: 2025-12-10T23:35:26Z
 Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as Oracle earnings reignite AI spending fears
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-oracle-earnings-reignite-ai-spending-fears-233526181.html
+Time Published: 2025-12-10T23:35:26Z
+Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
+--------------------------------------------------
+
+Title: Stocks Rally as Fed Cuts Interest Rates and Boosts Liquidity
+URL: https://www.barchart.com/story/news/36559924/stocks-rally-as-fed-cuts-interest-rates-and-boosts-liquidity
+Time Published: 2025-12-10T21:38:32Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up by +0.67%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +1.05%, and the Nasdaq 100...
 --------------------------------------------------
 
 Title: Dividend Growth Is Heating Up: 3 Stocks With Steady Payout Gains
@@ -198,8 +204,8 @@ Time Published: 2025-12-08T00:14:31Z
 Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slide with Wall Street awaiting expected Fed rate cut
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-steady-with-wall-street-awaiting-expected-fed-rate-cut-001431032.html
+Title: Stock market today: Dow, S&P 500, Nasdaq waver with Wall Street awaiting expected Fed rate cut
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html
 Time Published: 2025-12-08T00:14:31Z
 Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
 --------------------------------------------------
@@ -210,8 +216,8 @@ Time Published: 2025-12-08T00:14:31Z
 Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq waver with Wall Street awaiting expected Fed rate cut
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide with Wall Street awaiting expected Fed rate cut
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-steady-with-wall-street-awaiting-expected-fed-rate-cut-001431032.html
 Time Published: 2025-12-08T00:14:31Z
 Description: US stock futures were steady ahead of the Federal Reserve's mid-week announcement on interest rates.
 --------------------------------------------------

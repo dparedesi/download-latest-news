@@ -1,21 +1,27 @@
 List of news related to NVIDIA NVDA:
 
-Title: Stock market today: Dow vaults toward record high as Oracle's slide weighs on S&P 500, Nasdaq
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-vaults-toward-record-high-as-oracles-slide-weighs-on-sp-500-nasdaq-233526728.html
-Time Published: 2025-12-10T23:35:26Z
-Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures plummet after Fed decision as Oracle sinks after earnings
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-plummet-after-fed-decision-as-oracle-sinks-after-earnings-233526664.html
 Time Published: 2025-12-10T23:35:26Z
 Description: US stock futures were inconsistent across the major gauges as the Fed rate cut and Oracle's significant loss dragged the needle in different directions.
 --------------------------------------------------
 
+Title: Stock market today: Dow vaults toward record high as Oracle's slide weighs on S&P 500, Nasdaq
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-vaults-toward-record-high-as-oracles-slide-weighs-on-sp-500-nasdaq-233526728.html
+Time Published: 2025-12-10T23:35:26Z
+Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
+--------------------------------------------------
+
 Title: Stock market today: Dow hits record high while Nasdaq, S&P 500 slide as Oracle earnings revive AI spending fears
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-hits-record-high-while-nasdaq-sp-500-slide-as-oracle-earnings-revive-ai-spending-fears-233526385.html
 Time Published: 2025-12-10T23:35:26Z
 Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
+--------------------------------------------------
+
+Title: The Top 3 Investment Themes That Will Dominate 2026
+URL: https://www.marketbeat.com/stock-ideas/the-top-3-investment-themes-that-will-dominate-2026/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-12-10T21:08:00Z
+Description: Investors are shifting focus to the companies building the physical economy and providing essential power while offering significant value for the future.
 --------------------------------------------------
 
 Title: As Trump Greenlights AI Chip Sales to China, Should You Buy Nvidia Stock?
@@ -124,16 +130,16 @@ Full Content:
 Broadcom (AVGO) is slated to release its fiscal fourth-quarter results after the market closes on Thursday, with traders expecting the chipmaker's stock could hit fresh record highs after the report. Based on current options pricing, Broadcom stock is expected to rise or fall by up to 6% by the end of the week. Based on Monday's closing price, that would lift Broadcom's stock to around $425 on the high end, further past the intraday record of $407 the stock set on Monday, or push it down to about $377. Last quarter, Broadcom's revenue hit a record $15.95 billion as the company topped estimates, prompting some analysts to call Broadcom a "Magnificent 8" stock that could continue to grow alongside Nvidia (NVDA) if the AI industry keeps expanding. Broadcom stock rallied following the report, setting multiple record highs in the months since. Broadcom designs AI chips used by several big tech companies—including Google, Meta and OpenAI—to train and run AI models such as ChatGPT and Gemini. Broadcom stock has been less affected than shares of other tech giants by the recent concerns over an AI bubble. Analysts from Bank of America and Morgan Stanley each recently raised their price targets for Broadcom stock, but noted that the chip designer faces long-term risks. The analysts said that Alphabet's (GOOGL) Google is looking to design its own future generations of AI chips in house, rather than the current generation that it has designed in partnership with Broadcom. That could put Broadcom's market share at risk if Google is successful and eventually looks to sell its designs to other current Broadcom customers. Broadcom's revenue is expected to jump 24% year-over-year to another record high of $17.48 billion, while adjusted earnings per share are projected to come in at $1.88, compared to $1.42 in the like period a year ago. Analysts are overwhelmingly bullish on Broadcom stock, with all 12 analysts with current ratings tracked by Visible Alpha rating the chipmaker as a "buy." The stock has an an average price target of $432.02, as analysts expect shares to continue rising to record levels.
 --------------------------------------------------
 
-Title: Oracle stock sinks as AI costs jump past Wall Street estimates
-URL: https://finance.yahoo.com/news/oracle-stock-sinks-as-ai-costs-jump-past-wall-street-estimates-200454370.html
-Time Published: 2025-12-09T20:04:54Z
-Description: Oracle stock fell as much as 15% Thursday after the tech firm's quarterly AI costs rose ahead of Wall Street's expectations and revenue fell short.
---------------------------------------------------
-
 Title: Oracle stock sinks, on track for worst loss since early 2000s as AI costs jump past Wall Street estimates
 URL: https://finance.yahoo.com/news/oracle-stock-sinks-on-track-for-worst-loss-since-early-2000s-as-ai-costs-jump-past-wall-street-estimates-200454018.html
 Time Published: 2025-12-09T20:04:54Z
 Description: Oracle reported earnings after the bell on Wednesday.
+--------------------------------------------------
+
+Title: Oracle stock sinks as AI costs jump past Wall Street estimates
+URL: https://finance.yahoo.com/news/oracle-stock-sinks-as-ai-costs-jump-past-wall-street-estimates-200454370.html
+Time Published: 2025-12-09T20:04:54Z
+Description: Oracle stock fell as much as 15% Thursday after the tech firm's quarterly AI costs rose ahead of Wall Street's expectations and revenue fell short.
 --------------------------------------------------
 
 Title: Goldman and Bernstein Signal More Upside Ahead for NVIDIA (NVDA)
@@ -310,10 +316,4 @@ URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-
 Time Published: 2025-12-08T15:28:57Z
 Full Content:
 Dow slipped 0.24% and the S&P 500 dipped 0.10% while the Nasdaq edged up 0.10%. Traders priced in an 88% chance of a Fed rate cut. Netflix fell 3.27% as Warner Bros. Discovery jumped 6.70% after Paramount launched a $108 billion hostile takeover bid, shaking the media sector. Listen to this article in summarized format Unlock AI Briefing and Premium Content (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Chinese J-15s lock radar on Japanese F-15s; Japan PM vows response as fighter jets of the two countries face off Amazon warns over 300 million users of major Black Friday impersonation scams targeting personal data What is Canada’s new colour-coded alert system and how it will ensure public safety during extreme weather Canada launches new alert system for extreme weather; Colour-coded system marks shift to impact-based forecasting Canadian Olympic swimming champion Penny Oleksiak suspended for two years over anti-doping whereabouts failures Who is Colleen Jones? Two-time World champion curler and veteran Canadian broadcaster dies at 65 What exactly is the Canada Pension Plan? New CPP payments rolling out nationwide on November 26; Check all the payment dates of 2025-26 - Why is Quebec not part of CPP? Madeleine Poulin, Radio-Canada’s first female correspondent in Ottawa and Paris, dies at 87 Yoplait recalls 'Yop yogurt' drinks in Canada over plastic contamination fears under Class 1 category - Check out which flavor and best-before dates beverage are subject to recall CMA Awards: Vince Gill honored with prestigious Willie Nelson Lifetime Achievement Award at 59th CMA Awards in Tennessee MGK rocks Canadian fans with explosive Grey Cup halftime show; Are Megan Fox, MGK really working on their relationship post daughter’s birth? Roughriders end 12-year drought, beat Alouettes for 5th Grey Cup title Who is Dr Sanjeev Sirpal? Trouble mounts for New Brunswick doctor accused of sexual assault in hospitals as he faces additional charges; what do we know so far Adani confirms ₹10000 cr footprint in Telangana in 3 years Congress suspends Navjot Kaur Sidhu after ‘₹500 crore suitcase’ remark Priyanka Gandhi 'fact-checks' PM Modi on 1937 Vande Mataram review PM on why congress reviewed the National Song in 1937 PM Modi speaks on 150 years of Vande Mataram in Lok Sabha | Full Speech Dileep acquitted after 8-year trial; 6 convicted in 2017 actress assault case ‘End cruelty of 10-minute delivery’: Raghav Chadha raises gig workers’ plight in RS Railways expand with 124 coaches, 89 trains amid IndiGo crisis 150 Years of Vande Mataram: PM Modi’s special address in Lok Sabha 'Russia must be held accountable… for daily strikes, constant terror' : Zelenskyy Adani confirms ₹10000 cr footprint in Telangana in 3 years Congress suspends Navjot Kaur Sidhu after ‘₹500 crore suitcase’ remark Priyanka Gandhi 'fact-checks' PM Modi on 1937 Vande Mataram review PM on why congress reviewed the National Song in 1937 PM Modi speaks on 150 years of Vande Mataram in Lok Sabha | Full Speech Dileep acquitted after 8-year trial; 6 convicted in 2017 actress assault case ‘End cruelty of 10-minute delivery’: Raghav Chadha raises gig workers’ plight in RS Railways expand with 124 coaches, 89 trains amid IndiGo crisis 150 Years of Vande Mataram: PM Modi’s special address in Lok Sabha 'Russia must be held accountable… for daily strikes, constant terror' : Zelenskyy Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Definitions Top Slideshow Top Story Listing Private Companies Top Prime Articles Most Searched IFSC Codes Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Stocks Mixed as Bond Yields Rise
-URL: https://www.barchart.com/story/news/36509223/stocks-mixed-as-bond-yields-rise
-Time Published: 2025-12-08T15:08:59Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.02%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.25%, and the Nasdaq 100 Index ($IUXX ...
 --------------------------------------------------
