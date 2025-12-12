@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stock market today: Dow vaults toward record high as Oracle's slide weighs on S&P 500, Nasdaq
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-vaults-toward-record-high-as-oracles-slide-weighs-on-sp-500-nasdaq-233526728.html
+Time Published: 2025-12-10T23:35:26Z
+Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
+--------------------------------------------------
+
 Title: This Semiconductor Giant Is in Talks With Microsoft for Custom Chips. Should You Buy Its Stock Now?
 URL: https://www.barchart.com/story/news/36538299/this-semiconductor-giant-is-in-talks-with-microsoft-for-custom-chips-should-you-buy-its-stock-now
 Time Published: 2025-12-09T21:31:43Z
@@ -71,10 +77,4 @@ Title: OpenAI goes from stock market savior to burden as AI risks mount
 URL: https://finance.yahoo.com/news/openai-goes-stock-market-savior-140007549.html
 Time Published: 2025-12-07T14:00:07Z
 Description: The maker of ChatGPT is no longer seen as being on the cutting edge of AI technology and is facing questions about its lack of profitability and the need to ...
---------------------------------------------------
-
-Title: Gates Foundation Sells MSFT Stock—Should Investors Be Worried?
-URL: https://www.marketbeat.com/originals/gates-foundation-sells-msft-stockshould-investors-be-worried/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-12-06T12:21:00Z
-Description: The Gates Foundation sold 65% of its Microsoft stake, but analysts say the move reflects rebalancing, not fading confidence, which makes MSFT stock a buy
 --------------------------------------------------

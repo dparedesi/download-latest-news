@@ -1,5 +1,23 @@
 List of news related to Adobe stock price ADBE:
 
+Title: Mizuho Securities Reiterates Buy Rating on Adobe (ADBE) Ahead of Q4 Results With $450 PT
+URL: https://finance.yahoo.com/news/mizuho-securities-reiterates-buy-rating-180215671.html
+Time Published: 2025-12-10T18:02:15Z
+Description: With significant hedge fund interest and upside potential, Adobe Inc. (NASDAQ:ADBE) secures a spot on our list of the 15 best AI stocks to watch in December ...
+--------------------------------------------------
+
+Title: Fed Cuts Rates for Third Time This Year, Signals One More in 2026
+URL: https://www.barchart.com/story/news/36554236/stock-investors-are-cautious-ahead-of-fomc-results-and-powell-comments
+Time Published: 2025-12-10T16:13:39Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down up +0.34%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.67%, and the Nasdaq 100 Index ($IUXX ) ...
+--------------------------------------------------
+
+Title: Stock Index Futures Muted Amid Caution Ahead of Fed Rate Decision
+URL: https://www.barchart.com/story/news/36546542/stock-index-futures-dip-amid-caution-ahead-of-fed-rate-decision
+Time Published: 2025-12-10T11:10:05Z
+Description: December S&P 500 E-Mini futures (ESZ25) are down -0.01%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.05% this morning as investors refrain...
+--------------------------------------------------
+
 Title: Stocks Settle Mixed Ahead of Wednesday’s FOMC Decision
 URL: https://www.barchart.com/story/news/36538333/stocks-settle-mixed-ahead-of-wednesdays-fomc-decision
 Time Published: 2025-12-09T21:33:58Z
