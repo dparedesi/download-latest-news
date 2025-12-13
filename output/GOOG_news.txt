@@ -18,9 +18,3 @@ URL: https://finance.yahoo.com/news/why-fpa-source-capital-continues-133422858.h
 Time Published: 2025-12-08T13:34:22Z
 Description: Investment management company First Pacific Advisors recently released its third-quarter 2025 investor letter for the “FPA Source Capital.” A copy of the...
 --------------------------------------------------
-
-Title: OpenAI goes from stock market savior to burden as AI risks mount
-URL: https://finance.yahoo.com/news/openai-goes-stock-market-savior-140007549.html
-Time Published: 2025-12-07T14:00:07Z
-Description: The maker of ChatGPT is no longer seen as being on the cutting edge of AI technology and is facing questions about its lack of profitability and the need to ...
---------------------------------------------------

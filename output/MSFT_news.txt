@@ -1,10 +1,35 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stock market today: Dow jumps X post to record, S&P 500 climbs above 6,900 for first time
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-650-points-to-post-record-sp-500-climbs-above-6900-for-first-time-210051184.html
+Time Published: 2025-12-11T21:00:51Z
+Description: The Dow and S&P 500 notched new records on Thursday as US stocks mostly rose, with tech stocks under more pressure after Oracle (ORCL) earnings revived AI...
+--------------------------------------------------
+
+Title: Is Adobe Stock a Buy, Sell, or Hold on New OpenAI Partnership?
+URL: https://www.barchart.com/story/news/36579404/is-adobe-stock-a-buy-sell-or-hold-on-new-openai-partnership
+Time Published: 2025-12-11T19:24:54Z
+Description: With Adobe now plugging into ChatGPT’s massive userbase, should investors buy, sell, or hold the stock at this point?
+--------------------------------------------------
+
+Title: Microsoft (MSFT) Announces $23 Billion Investment Plan, Morgan Stanley Reiterates “Buy” Rating
+URL: https://finance.yahoo.com/news/microsoft-msft-announces-23-billion-163345589.html
+Time Published: 2025-12-11T16:33:45Z
+Description: Microsoft Corporation (NASDAQ:MSFT) is one of the 15 best AI stocks to watch in December 2025. Accelerating its global AI push, Microsoft Corporation...
+--------------------------------------------------
+
 Title: Steve Ballmer’s Net Worth Up $20 Billion on Microsoft’s Success
 URL: https://247wallst.com/investing/2025/12/11/steve-ballmers-net-worth-up-20-billion-on-microsofts-success/
 Time Published: 2025-12-11T15:15:08Z
 Full Content:
 Investing Sending You to Google News in 3 © Francois Durand / Getty Images News via Getty Images Steve Ballmer, the former CEO of Microsoft Corp. (NASDAQ: MSFT), has a net worth of $166 billion, up $20 billion this year. That makes him the eighth richest person in the world, according to the Bloomberg Billionaire list. The secret of the rise is simple. Ballmer kept a large portion of his shares in Microsoft when he left the company in 2014. At the time, he had been the chief executive officer for 14 years. He was also one of the first people Bill Gates hired after he started the company. Today, Ballmer owns 4% of Microsoft, which makes him the company’s largest individual shareholder. Microsoft has a market value of $3.56 trillion. That makes it the fourth most valuable company in the world, just behind Alphabet and ahead of Amazon. The huge increase in Ballmer’s net worth is due largely to Microsoft’s stock being up 124% in the past five years. The S&P 500 is 88% higher in the same period. A much smaller portion of Ballmer’s net worth is based on his ownership of the L.A. Clippers. He bought the team for $2 billion in 2014. According to Forbes, the team is worth $7.5 billion today. Finally, Ballmer gets $1 billion in dividends each year from Microsoft holdings. The forward yield is only 0.76%, but he owns 333 million shares. Microsoft Stock Price Prediction and Forecast 2025-2030 Our top personal finance-related articles today. Your wallet will thank you later. Former Microsoft CEO Steve Balmer makes $1 billion a year from Microsoft dividends. He is one of the richest people… Steve Ballmer's net worth is $143 billion, according to Bloomberg. He makes $1 billion a year in Microsoft dividend payments. Former Microsoft CEO Steve Ballmer is the sixth richest person in the world. Those on the list above him all… Unlike most of the world’s richest people, Steve Ballmer did not start a company or inherit money from a rich… This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through… Microsoft co-founder Bill Gates has lost $40 billion in net worth so far in 2025. His primary investments are Microsoft… Nvidia CEO Jensen Huang has become the ninth richest person in the world. Huang’s fortune is closely tied to the… Microsoft Sweden, via Wikimedia Commons In a surprise announcement this morning, Microsoft Corp. (NASDAQ: MSFT) revealed that CEO Steve Ballmer “has… The net worth of Microsoft co-founder Bill Gates has increased by $9 billion this year to $168 billion. That makes…
+--------------------------------------------------
+
+Title: Bill Gates Has a Warning for AI Investors
+URL: https://www.investopedia.com/bill-gates-has-a-warning-for-ai-investors-stocks-nvidia-nvda-11866392
+Time Published: 2025-12-11T14:18:48Z
+Full Content:
+One of America’s legendary tech founders has a warning for AI investors: They can't all be winners. “Not all of these valuations will end up going up. Some of them will go down," Bill Gates, co-founder of tech giant Microsoft (MSFT), said of AI stocks in an interview with CNBC on Wednesday. "It’s going to be hyper-competitive. A reasonable percentage of those companies won’t be worth that much.” Microsoft is among the tech giants whose massive investments in artificial intelligence have fueled the AI bubble debate raging on Wall Street. The so-called hyperscalers—Microsoft, Alphabet (GOOG), Amazon (AMZN), Meta Platforms (META), and Oracle (ORCL)—are expected to spend $400 billion on infrastructure—much of it dedicated to training and running AI models—this year, and more than $500 billion next year. The AI boom has been the driving force behind the stock market rally for much of the past three years. But the rally has faltered in recent months due to lofty valuations and concerns that tech giants are overspending on AI. Some experts are reminding investors to pick and choose. Some investors worry the sheer size of those figures has encouraged speculation on Wall Street, causing some AI stocks to trade at eye-watering valuations. Software firm Palantir (PLTR) has a price-to-earnings ratio of more than 400, one of the highest in the S&P 500. Shares of chip designers Broadcom (AVGO) and Advanced Micro Devices (AMD) have soared this year on hopes they can take market share from AI chip leader Nvidia (NVDA); those gains have nudged their PE ratios above 100, more than three times that of the S&P 500 as a whole. Then there's the cohort of unprofitable startups commanding lofty valuations in private markets. OpenAI, the company behind ChatGPT, isn't expected to turn a profit before the end of the decade. Yet the start up was valued at $500 billion in October, which would make it the 16th largest public company in America. The AI buildout has turbocharged the sales and profits of some companies, leaving their valuations relatively steady despite big stock gains. AI demand has accelerated growth in the cloud computing businesses of Alphabet, Microsoft, and Amazon, all three of which have PE ratios hovering around 30. Booming demand for Nvidia’s chips made it a $4.5 trillion company, but shares trade at a relatively modest 45 times earnings. Bubble jitters have hit tech stocks several times since ChatGPT sparked the AI craze on Wall Street. In November, the Magnificent Seven nearly entered a technical correction. Less established competitors like Oracle (ORCL) and CoreWeave (CRWV) have performed even worse. As with past pullbacks, investors shook off valuation concerns and bought the dip, lifting tech stocks out of their slump. As of Wednesday, the tech-heavy Nasdaq Composite was just 1% off its record high from late October. Stock valuations aside, Gate said he's confident in AI's potential to transform society and power advancements in health, education, and agriculture. AI, he said, "is a technology that's deeply profound, that will reshape the world. There’s not the slightest doubt about that."
 --------------------------------------------------
 
 Title: Stock market today: Dow vaults toward record high as Oracle's slide weighs on S&P 500, Nasdaq
@@ -78,10 +103,4 @@ Title: Barclays Maintains Overweight on Microsoft (MSFT), Cites Strong Monetizat
 URL: https://finance.yahoo.com/news/barclays-maintains-overweight-microsoft-msft-064722054.html
 Time Published: 2025-12-08T06:47:22Z
 Description: Microsoft Corporation (NASDAQ:MSFT) is among the best stocks you’ll wish you bought sooner. On December 5, Barclays maintained its Overweight rating and a...
---------------------------------------------------
-
-Title: OpenAI goes from stock market savior to burden as AI risks mount
-URL: https://finance.yahoo.com/news/openai-goes-stock-market-savior-140007549.html
-Time Published: 2025-12-07T14:00:07Z
-Description: The maker of ChatGPT is no longer seen as being on the cutting edge of AI technology and is facing questions about its lack of profitability and the need to ...
 --------------------------------------------------

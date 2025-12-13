@@ -1,5 +1,17 @@
 List of news related to American Express stock price AXP:
 
+Title: Stock market today: Dow jumps X post to record, S&P 500 climbs above 6,900 for first time
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-650-points-to-post-record-sp-500-climbs-above-6900-for-first-time-210051184.html
+Time Published: 2025-12-11T21:00:51Z
+Description: The Dow and S&P 500 notched new records on Thursday as US stocks mostly rose, with tech stocks under more pressure after Oracle (ORCL) earnings revived AI...
+--------------------------------------------------
+
+Title: The Fed will help drive a 10% gain for stocks in 2026, says one of Wall Street’s most accurate forecasters, Tom Lee
+URL: https://www.marketwatch.com/story/the-fed-will-help-drive-a-10-gain-for-stocks-in-2026-says-one-of-wall-streets-most-accurate-forecasters-tom-lee-ecf85aeb
+Time Published: 2025-12-11T14:44:00Z
+Description: A wall of worry headed into 2026 won’t stop stocks from logging more gains, says Fundstrat’s Tom Lee.
+--------------------------------------------------
+
 Title: Stock market today: Dow vaults toward record high as Oracle's slide weighs on S&P 500, Nasdaq
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-vaults-toward-record-high-as-oracles-slide-weighs-on-sp-500-nasdaq-233526728.html
 Time Published: 2025-12-10T23:35:26Z
