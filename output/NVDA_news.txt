@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Oracle Stock Hit Hard: Why Its AI Pipeline Could Drive a 2026 Rally
+URL: https://www.marketbeat.com/originals/oracle-stock-hit-hard-why-its-ai-pipeline-could-drive-a-2026-rally/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-12-11T22:16:00Z
+Description: Oracle is on track for a robust rebound as its rapidly expanding RPO is converted into revenue and profits: December price weakness is a buying opportunity.
+--------------------------------------------------
+
 Title: Dow, S&P 500 end at records because investors feel good about the economy — beyond the AI boom
 URL: https://www.marketwatch.com/story/dow-s-p-500-end-at-records-because-investors-feel-good-about-the-economy-beyond-the-ai-boom-0dcad0b9
 Time Published: 2025-12-11T21:51:00Z
@@ -150,6 +156,12 @@ Time Published: 2025-12-11T09:54:15Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Trending AI Stocks on Wall Street. On December 9, Wells Fargo analyst Aaron Rakers reiterated an “Overweight” ...
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures plummet after Fed decision as Oracle sinks after earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-plummet-after-fed-decision-as-oracle-sinks-after-earnings-233526664.html
+Time Published: 2025-12-10T23:35:26Z
+Description: US stock futures were inconsistent across the major gauges as the Fed rate cut and Oracle's significant loss dragged the needle in different directions.
+--------------------------------------------------
+
 Title: Stock market today: Dow vaults toward record high as Oracle's slide weighs on S&P 500, Nasdaq
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-vaults-toward-record-high-as-oracles-slide-weighs-on-sp-500-nasdaq-233526728.html
 Time Published: 2025-12-10T23:35:26Z
@@ -160,12 +172,6 @@ Title: Stock market today: Dow hits record high while Nasdaq, S&P 500 slide as O
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-hits-record-high-while-nasdaq-sp-500-slide-as-oracle-earnings-revive-ai-spending-fears-233526385.html
 Time Published: 2025-12-10T23:35:26Z
 Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures plummet after Fed decision as Oracle sinks after earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-plummet-after-fed-decision-as-oracle-sinks-after-earnings-233526664.html
-Time Published: 2025-12-10T23:35:26Z
-Description: US stock futures were inconsistent across the major gauges as the Fed rate cut and Oracle's significant loss dragged the needle in different directions.
 --------------------------------------------------
 
 Title: The Top 3 Investment Themes That Will Dominate 2026
@@ -280,16 +286,16 @@ Full Content:
 Broadcom (AVGO) is slated to release its fiscal fourth-quarter results after the market closes on Thursday, with traders expecting the chipmaker's stock could hit fresh record highs after the report. Based on current options pricing, Broadcom stock is expected to rise or fall by up to 6% by the end of the week. Based on Monday's closing price, that would lift Broadcom's stock to around $425 on the high end, further past the intraday record of $407 the stock set on Monday, or push it down to about $377. Last quarter, Broadcom's revenue hit a record $15.95 billion as the company topped estimates, prompting some analysts to call Broadcom a "Magnificent 8" stock that could continue to grow alongside Nvidia (NVDA) if the AI industry keeps expanding. Broadcom stock rallied following the report, setting multiple record highs in the months since. Broadcom designs AI chips used by several big tech companies—including Google, Meta and OpenAI—to train and run AI models such as ChatGPT and Gemini. Broadcom stock has been less affected than shares of other tech giants by the recent concerns over an AI bubble. Analysts from Bank of America and Morgan Stanley each recently raised their price targets for Broadcom stock, but noted that the chip designer faces long-term risks. The analysts said that Alphabet's (GOOGL) Google is looking to design its own future generations of AI chips in house, rather than the current generation that it has designed in partnership with Broadcom. That could put Broadcom's market share at risk if Google is successful and eventually looks to sell its designs to other current Broadcom customers. Broadcom's revenue is expected to jump 24% year-over-year to another record high of $17.48 billion, while adjusted earnings per share are projected to come in at $1.88, compared to $1.42 in the like period a year ago. Analysts are overwhelmingly bullish on Broadcom stock, with all 12 analysts with current ratings tracked by Visible Alpha rating the chipmaker as a "buy." The stock has an an average price target of $432.02, as analysts expect shares to continue rising to record levels.
 --------------------------------------------------
 
-Title: Oracle stock sinks as AI costs jump past Wall Street estimates
-URL: https://finance.yahoo.com/news/oracle-stock-sinks-as-ai-costs-jump-past-wall-street-estimates-200454370.html
-Time Published: 2025-12-09T20:04:54Z
-Description: Oracle stock fell as much as 15% Thursday after the tech firm's quarterly AI costs rose ahead of Wall Street's expectations and revenue fell short.
---------------------------------------------------
-
 Title: Oracle stock sinks, on track for worst loss since early 2000s as AI costs jump past Wall Street estimates
 URL: https://finance.yahoo.com/news/oracle-stock-sinks-on-track-for-worst-loss-since-early-2000s-as-ai-costs-jump-past-wall-street-estimates-200454018.html
 Time Published: 2025-12-09T20:04:54Z
 Description: Oracle reported earnings after the bell on Wednesday.
+--------------------------------------------------
+
+Title: Oracle stock sinks as AI costs jump past Wall Street estimates
+URL: https://finance.yahoo.com/news/oracle-stock-sinks-as-ai-costs-jump-past-wall-street-estimates-200454370.html
+Time Published: 2025-12-09T20:04:54Z
+Description: Oracle stock fell as much as 15% Thursday after the tech firm's quarterly AI costs rose ahead of Wall Street's expectations and revenue fell short.
 --------------------------------------------------
 
 Title: Goldman and Bernstein Signal More Upside Ahead for NVIDIA (NVDA)
@@ -309,10 +315,4 @@ URL: https://247wallst.com/investing/2025/12/09/wall-street-is-still-pounding-th
 Time Published: 2025-12-09T16:53:28Z
 Full Content:
 Investing Sending You to Google News in 3 © pestoverde / Flickr Nvidia (NASDAQ: NVDA) is pushing higher on a report from Truth Social that the tech giant could ship its H200 chips to “approved customers” in China and other high-demand areas. All under the condition that a quarter of sales be paid to the U.S. government. As a result, analysts at Bernstein just initiated an outperform rating on NVDA, noting that if reports are accurate, NVDA can ship chips to some customers in China, which is a positive development. Just yesterday, analysts at Bernstein reiterated an outperform rating on Nvidia, citing a significant opportunity with data centers. After all, artificial intelligence will continue to create massive demand for data centers. Right now, according to MIT Technology Review, there are about 3,000 data centers across the U.S. Plus, according to a report from McKinsey, $5.2 trillion in AI infrastructure investments will be needed by 2030. Shares of Micron (NASDAQ: MU) are down about $2.62 at the moment. However, Deutsche Bank analysts see more upside heading into earnings. The firm reiterated its buy rating on MU ahead of the company’s earnings on December 17, with a price target of $280, up from $200. The firm believes MU is well-positioned to benefit from the memory cycle, with HBM driving structural changes in the semiconductor industry. And down, but not out, shares of Netflix (NASDAQ: NFLX) are being viewed positively by analysts at Needham. The firm has a buy rating on NFLX and doesn’t believe it needs Warner Bros. Discovery. According to the firm, “NFLX buying WBD would put $83B of additional value at risk of being disrupted by GenAI. Without WBD, NFLX is more global, more nimble, more tech-first, and has more flexibility with the Hollywood unions (called Guilds),” as quoted by CNBC. Just the other day, Evercore ISI reiterated an outperform rating on NFLX. The firm noted, “We acknowledge that NFLX shares have been largely reactive to recent developments re: potential strategic outcomes. But we believe Netflix’s long-term fundamental outlook is increasingly strengthening, thanks to its highly compelling value proposition, its excellent execution track record, and its improved global, competitive positioning,” as quoted by CNBC. Our top personal finance-related articles today. Your wallet will thank you later. Live Updates Get The Best Micron Technology Live Earnings Coverage Like This Every Quarter Get earnings reminders, our top analysis… Even with the trade war and a high likelihood that the government won’t open until after Thanksgiving, markets are still… UBS is bullish on Applied Materials (NASDAQ: AMAT). Just this morning, the firm upgraded AMAT to a buy rating with… With the U.S. battle over rare earth, Morgan Stanley just upgraded MP Materials (NYSE: MP) to an overweight rating with… After testing all-time highs, the major indices are in the red this morning. Dow futures are down 301 points. Nasdaq… The broad markets are mixed to kick off trading today. S&P 500 down -0.10% Dow Jones Industrial Average up 0.13%… Analysts are doubling down on market leaders, with fresh upgrades for Nvidia, AMD, Walmart, Amazon, and Broadcom. Firms like Cantor… Analysts are still upgrading Nvidia heading into earnings. Just today, analysts at William Blair reiterated an outperform rating on Nvidia… The pullback is getting worse for markets. The S&P 500 is now below the 50-day moving average, which has been…
---------------------------------------------------
-
-Title: Wall Street Bullish on NVIDIA Corporation (NVDA), Amidst New Partnerships
-URL: https://finance.yahoo.com/news/wall-street-bullish-nvidia-corporation-163939121.html
-Time Published: 2025-12-09T16:39:39Z
-Description: ​NVIDIA Corporation (NASDAQ:NVDA) is one of the Good Stocks to Buy According to Analysts. On December 3, NVIDIA Corporation (NASDAQ:NVDA) was reiterated with...
 --------------------------------------------------
