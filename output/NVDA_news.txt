@@ -1,5 +1,12 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia share price: NVDA stocks fall big even after big H200 AI chips development. What to know?
+URL: https://economictimes.indiatimes.com/news/international/us/nvidia-share-price-nvda-stocks-fall-big-even-after-big-h200-ai-chips-development-what-to-know/articleshow/125938550.cms
+Time Published: 2025-12-12T18:15:06Z
+Full Content:
+Nvidia has told Chinese clients it is evaluating adding production capacity for its powerful H200 AI chips after orders exceeded its current output level, according to two sources briefed on the matter. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Who is Lululemon CEO Calvin McDonald and why is he stepping down? Who was Debbie Zakaib, Alexandre Taillefer’s wife and a leading voice in Quebec fashion and gastronomy and how did she die? Quote of the Day by Justin Trudeau: "We shouldn’t be afraid of the word feminist. Men and women should use it..." Michael Ma: Hong Kong-born Canadian Conservative MP Michael Ma locks X account after crossing the floor to join Liberals Danielle Smith makes history as first Alberta Premier in almost 90 years to face citizen-led recall amid allegations of ignoring constituents and weakening public services Ryan James Wedding: What the FBI's most wanted fugitive's new photo reveals about the Canadian Olympic snowboarder's whereabouts Canada’s US ambassador Kirsten Hillman to step down after Trump halts trade talks; ex-BlackRock chairman Mark Wiseman seen as successor MacKenzie Scott announces $7.1 billion in 2025 giving; here’s where Jeff Bezos’ ex-wife’s net worth stands Canada panics as desperation for doctors grows, launches lightning-fast 14-day work permit for foreign medics Human trafficking in Canada on the rise in 2024, Nova Scotia and Ontario report the highest rates, women and girls make up over 90 percent of victims Chinese J-15s lock radar on Japanese F-15s; Japan PM vows response as fighter jets of the two countries face off Amazon warns over 300 million users of major Black Friday impersonation scams targeting personal data What is Canada’s new colour-coded alert system and how it will ensure public safety during extreme weather Andaman & Nicobar: ‘Build India of Savarkar’s dreams,’ says Shah Zubeen Case: Assam SIT files 12,000-page chargesheet Delhi: 1984 riot victims' families get government jobs Prada partners with India to take Kolhapuri Chappals global Census 2027: First digital census with caste enumeration India launches first hydrogen fuel-cell vessel in Varanasi Don't remain quiet on corruption: Piyush Goyal Former Union minister Shivraj Patil passes away in Latur at 90 ‘Constant handshakes’: WH clarifies bandages on Trump’s hand PM Modi speaks to Trump on India-US ties amid tariff saga Andaman & Nicobar: ‘Build India of Savarkar’s dreams,’ says Shah Zubeen Case: Assam SIT files 12,000-page chargesheet Delhi: 1984 riot victims' families get government jobs Prada partners with India to take Kolhapuri Chappals global Census 2027: First digital census with caste enumeration India launches first hydrogen fuel-cell vessel in Varanasi Don't remain quiet on corruption: Piyush Goyal Former Union minister Shivraj Patil passes away in Latur at 90 ‘Constant handshakes’: WH clarifies bandages on Trump’s hand PM Modi speaks to Trump on India-US ties amid tariff saga Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Commodities Top Slideshow Top Prime Articles Private Companies Top Story Listing Top Definitions Top Market Pages Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
 Title: ‘Nvidia May Open the Gate’: NVDA Weighs Higher H200 Output as China Interest Grows - TipRanks
 URL: https://slashdot.org/firehose.pl?op=view&amp;id=180370415
 Time Published: 2025-12-12T16:32:57Z
@@ -201,6 +208,12 @@ Time Published: 2025-12-11T09:54:15Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Trending AI Stocks on Wall Street. On December 9, Wells Fargo analyst Aaron Rakers reiterated an “Overweight” ...
 --------------------------------------------------
 
+Title: Stock market today: Dow hits record high while Nasdaq, S&P 500 slide as Oracle earnings revive AI spending fears
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-hits-record-high-while-nasdaq-sp-500-slide-as-oracle-earnings-revive-ai-spending-fears-233526385.html
+Time Published: 2025-12-10T23:35:26Z
+Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
+--------------------------------------------------
+
 Title: Stock market today: Dow vaults toward record high as Oracle's slide weighs on S&P 500, Nasdaq
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-vaults-toward-record-high-as-oracles-slide-weighs-on-sp-500-nasdaq-233526728.html
 Time Published: 2025-12-10T23:35:26Z
@@ -211,12 +224,6 @@ Title: Stock market today: Dow, S&P 500, Nasdaq futures plummet after Fed decisi
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-plummet-after-fed-decision-as-oracle-sinks-after-earnings-233526664.html
 Time Published: 2025-12-10T23:35:26Z
 Description: US stock futures were inconsistent across the major gauges as the Fed rate cut and Oracle's significant loss dragged the needle in different directions.
---------------------------------------------------
-
-Title: Stock market today: Dow hits record high while Nasdaq, S&P 500 slide as Oracle earnings revive AI spending fears
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-hits-record-high-while-nasdaq-sp-500-slide-as-oracle-earnings-revive-ai-spending-fears-233526385.html
-Time Published: 2025-12-10T23:35:26Z
-Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
 --------------------------------------------------
 
 Title: The Top 3 Investment Themes That Will Dominate 2026
@@ -309,10 +316,4 @@ Title: This Semiconductor Giant Is in Talks With Microsoft for Custom Chips. Sho
 URL: https://www.barchart.com/story/news/36538299/this-semiconductor-giant-is-in-talks-with-microsoft-for-custom-chips-should-you-buy-its-stock-now
 Time Published: 2025-12-09T21:31:43Z
 Description: Broadcom is reportedly looking to co-design custom-made chips with Microsoft.
---------------------------------------------------
-
-Title: Apple Stock Marks a Solid Comeback. Is AAPL a Buy, Sell, or Hold for 2026?
-URL: https://www.barchart.com/story/news/36538106/apple-stock-marks-a-solid-comeback-is-aapl-a-buy-sell-or-hold-for-2026
-Time Published: 2025-12-09T21:24:40Z
-Description: Apple stock has outperformed the broader market, and enthusiasm for the iPhone 17 lineup has played a significant role in the rebound.
 --------------------------------------------------

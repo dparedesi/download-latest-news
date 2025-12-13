@@ -6,6 +6,12 @@ Time Published: 2025-12-11T12:32:52Z
 Description: ​Novo Nordisk A/S (NYSE:NVO) is one of the Cheap NYSE Stocks to Buy Now. On December 5, Reuters reported that Novo Nordisk A/S (NYSE:NVO) partnered with...
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as Oracle earnings reignite AI spending fears
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-oracle-earnings-reignite-ai-spending-fears-233526181.html
+Time Published: 2025-12-10T23:35:26Z
+Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slump as Oracle earnings reignite AI spending fears
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slump-as-oracle-earnings-reignite-ai-spending-fears-233526300.html
 Time Published: 2025-12-10T23:35:26Z
@@ -14,12 +20,6 @@ Description: Oracle's revenue miss is reviving the AI bubble debate, dampening s
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slip as Oracle earnings stoke AI spending fears
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-oracle-earnings-stoke-ai-spending-fears-233526371.html
-Time Published: 2025-12-10T23:35:26Z
-Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as Oracle earnings reignite AI spending fears
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-oracle-earnings-reignite-ai-spending-fears-233526181.html
 Time Published: 2025-12-10T23:35:26Z
 Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
 --------------------------------------------------
