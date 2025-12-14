@@ -173,7 +173,8 @@ US Stock market today opened mixed as tech stocks stumbled. Oracle earnings shoc
 Title: Bitcoin and equity futures fall alongside mining stocks as Oracle leads AI stock decline
 URL: https://blockspace.media/insight/bitcoin-and-equity-futures-fall-alongside-mining-stocks-as-oracle-leads-ai-stock-decline/
 Time Published: 2025-12-11T15:09:49Z
-Description: Oracle shares plunged over 13% following a revenue miss, while Bitcoin’s slide below $91,000 exerted broad downward pressure on digital asset miners.
+Full Content:
+Cryptocurrency prices and equity futures retreated on Thursday morning, signaling a negative start for major indices. Bitcoin fell 2.11% to $90,090, setting a bearish tone for digital asset miners, while a sharp decline in Oracle shares weighed heavily on the broader AI sector. Bitcoin mining equities tracked the drop in spot cryptocurrency prices, facing widespread losses in pre-market trading. CleanSpark (NASDAQ: CLSK) and Hut 8 (NASDAQ: HUT) led the decline, falling 3.03% and 3.19%, respectively. MARA (NASDAQ: MARA) dropped 2.6%, while TeraWulf (NASDAQ: WULF) and IREN (NASDAQ: IREN) posted losses of roughly 2.5% each. Other industry participants followed the sector-wide sell-off. Riot Platforms (NASDAQ: RIOT) dropped 2.38%, Core Scientific (NASDAQ: CORZ) declined 2.02%, and Americant Bitcoin (Nasdaq: ABTC) fell 1.04%. Artificial intelligence stocks faced significant selling pressure, driven primarily by Oracle (NYSE: ORCL), which plummeted 13.18%. A Reuters report on December 11 revealed that the sell-off came after Oracle’s quarterly cloud revenue miss, despite year-over-year growth. Compounding investor concerns, the company raised its capital expenditure outlook to $50 billion for 2026 to fund AI infrastructure, a move market observers noted would add to an existing debt load. The negative sentiment impacted other AI leaders, with Nvidia (NASDAQ: NVDA) falling 1.59%. Oracle also highlighted reliance on a limited number of large partners, such as OpenAI, raising concerns regarding concentration risk. The weakness in tech and crypto dragged down broader market futures. S&P 500 futures dropped 0.32% and Nasdaq futures decreased 0.52% in early trading hours, positioning the markets for a lower open. Bitcoin’s first industry publication. From tech to venture to mining, Blockspace has the info and audience Bitcoin builders listen to. Get articles just like this delivered to your inbox By subscribing, you agree to the Blockspace Privacy Policy and Terms and Conditions.
 --------------------------------------------------
 
 Title: Stocks Mixed as a Plunge in Oracle Weighs on Tech Stocks
@@ -245,16 +246,16 @@ Time Published: 2025-12-10T23:35:26Z
 Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures plummet after Fed decision as Oracle sinks after earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-plummet-after-fed-decision-as-oracle-sinks-after-earnings-233526664.html
-Time Published: 2025-12-10T23:35:26Z
-Description: US stock futures were inconsistent across the major gauges as the Fed rate cut and Oracle's significant loss dragged the needle in different directions.
---------------------------------------------------
-
 Title: Stock market today: Dow hits record high while Nasdaq, S&P 500 slide as Oracle earnings revive AI spending fears
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-hits-record-high-while-nasdaq-sp-500-slide-as-oracle-earnings-revive-ai-spending-fears-233526385.html
 Time Published: 2025-12-10T23:35:26Z
 Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures plummet after Fed decision as Oracle sinks after earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-plummet-after-fed-decision-as-oracle-sinks-after-earnings-233526664.html
+Time Published: 2025-12-10T23:35:26Z
+Description: US stock futures were inconsistent across the major gauges as the Fed rate cut and Oracle's significant loss dragged the needle in different directions.
 --------------------------------------------------
 
 Title: The Top 3 Investment Themes That Will Dominate 2026
