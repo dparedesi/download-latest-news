@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Cisco Stock Just Set a New All-Time High for the First Time in 25 Years. Should You Buy CSCO Here?
+URL: https://www.barchart.com/story/news/36596164/cisco-stock-just-set-a-new-all-time-high-for-the-first-time-in-25-years-should-you-buy-csco-here
+Time Published: 2025-12-12T16:39:41Z
+Description: Cisco stock is trading near all-time highs as the networking giant continues to benefit from a widening AI moat in 2025.
+--------------------------------------------------
+
 Title: Stock market today: Dow jumps X post to record, S&P 500 climbs above 6,900 for first time
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-650-points-to-post-record-sp-500-climbs-above-6900-for-first-time-210051184.html
 Time Published: 2025-12-11T21:00:51Z
@@ -85,22 +91,4 @@ Title: Microsoft sends harsh message to millions of Microsoft 365 customers
 URL: https://www.thestreet.com/investing/microsofts-ai-jitters-look-where-the-real-money-shows-up
 Time Published: 2025-12-09T02:03:00Z
 Description: Microsoft's stock experienced volatility after some AI sellers made a headline-grabbing claim that the company failed to meet its aggressive goals and, as a ...
---------------------------------------------------
-
-Title: Jefferies Maintains Buy on Microsoft (MSFT) Amid Strong RPO Growth and Copilot Demand
-URL: https://finance.yahoo.com/news/jefferies-maintains-buy-microsoft-msft-174132096.html
-Time Published: 2025-12-08T17:41:32Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is included among the 14 Best US Stocks to Buy for Long Term. In its research note on December 4, Jefferies highlighted...
---------------------------------------------------
-
-Title: Peter Schiff once said he'd ‘be a lot richer’ if he invested all his money in the ‘Magnificent 7’ a decade ago.
-URL: https://finance.yahoo.com/news/peter-schiff-once-said-hed-101300862.html
-Time Published: 2025-12-08T10:13:00Z
-Description: Despite missing out on a golden opportunity, Schiff claims he wouldn’t change his strategy.
---------------------------------------------------
-
-Title: Barclays Maintains Overweight on Microsoft (MSFT), Cites Strong Monetization Potential
-URL: https://finance.yahoo.com/news/barclays-maintains-overweight-microsoft-msft-064722054.html
-Time Published: 2025-12-08T06:47:22Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is among the best stocks you’ll wish you bought sooner. On December 5, Barclays maintained its Overweight rating and a...
 --------------------------------------------------

@@ -1,5 +1,11 @@
 List of news related to GE Vernova stock price GEV:
 
+Title: Stocks Sink as Chip Stocks Retreat and Bond Yields Climb
+URL: https://www.barchart.com/story/news/36600802/stocks-sink-as-chip-stocks-retreat-and-bond-yields-climb
+Time Published: 2025-12-12T21:33:36Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed down by -1.07%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down by -0.51%, and the Nasdaq 100...
+--------------------------------------------------
+
 Title: The Fed will help drive a 10% gain for stocks in 2026, says one of Wall Street’s most accurate forecasters, Tom Lee
 URL: https://www.marketwatch.com/story/the-fed-will-help-drive-a-10-gain-for-stocks-in-2026-says-one-of-wall-streets-most-accurate-forecasters-tom-lee-ecf85aeb
 Time Published: 2025-12-11T14:44:00Z
@@ -54,10 +60,4 @@ Title: Stock Index Futures Muted Amid Caution Ahead of Fed Rate Decision
 URL: https://www.barchart.com/story/news/36546542/stock-index-futures-dip-amid-caution-ahead-of-fed-rate-decision
 Time Published: 2025-12-10T11:10:05Z
 Description: December S&P 500 E-Mini futures (ESZ25) are down -0.01%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.05% this morning as investors refrain...
---------------------------------------------------
-
-Title: How Is GE Vernova Stock Performance Compared to Other Renewable Energy Stocks?
-URL: https://www.barchart.com/story/news/36509115/how-is-ge-vernova-stock-performance-compared-to-other-renewable-energy-stocks
-Time Published: 2025-12-08T15:02:14Z
-Description: GE Vernova stock has outperformed the other renewable energy stocks over the past year, while analysts remain fairly bullish about its prospects.
 --------------------------------------------------
