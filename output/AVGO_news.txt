@@ -35,7 +35,7 @@ Title: Bitcoin Plunges Below $90K as AI Worries Drag Nasdaq, Crypto Stocks Down
 URL: https://www.coindesk.com/markets/2025/12/12/bitcoin-plunges-below-usd90k-as-ai-worries-drag-nasdaq-crypto-stocks-down
 Time Published: 2025-12-12T16:04:27Z
 Full Content:
-Artificial intelligence-focused stocks are coming under pressure on Friday, dragging tech-related equities and bitcoin BTC$89,772.09 lower during the early U.S. session. Chipmaker Broadcom (AVGO), the ninth largest asset by market cap, tumbled 10% despite strong earnings as its outlook disappointed investors' lofty expectations. The Nasdaq index was down over 1% in the first hour of the session. Adding that to Oracle's 10% slump on Thursday and a further 3% decline on Friday, as investor concerns are mounting that the red-hot AI theme that fueled much of this year's stock market gains might be fizzling out. Bitcoin, trading around $92,500 overnight, plunged 2% following the U.S. stock market open to $89,800 recently, extending the choppy action through the week. A consistent theme this week has been bitcoin setting intraday lows during U.S. trading hours, a pattern that has led to the filing of the proposed AfterDark Hours ETF. Bitcoin miners, some of which have been increasingly leaning into AI for diversification, showed a similar reaction to Broadcom’s miss. Hut 8 (HUT) fell more than 5%. Iren (RIEN) and Riot (RIOT) dropped about 4%, while Cipher(CIFR) and Iren (IREN) both were down about 2% over the past day. Crypto-related stocks also fell alongside the Nasdaq. Robinhood (HOOD) and Strategy (MSTR) were both down nearly 2%. Stablecoin issuer Circle (CRCL) was hit hard and fell more than 5%. Coinbase (COIN) dropped slightly. Markets had already been under pressure after Federal Reserve chair Jerome Powell's speech on Wednesday, which hinted at a possible rate cut pause in January. As a result, markets now expect only two rate cuts in 2026 instead of three. Chicago Fed President Austan Goolsbee, who was against a December rate cut, however, said he expects more in 2026 than the current median projection. Several other members of the Federal Reserve will also speak over the course of today as the central bank's blackout period following its December meeting on Wednesday has ended. Traders will be looking for any guidance on whether Fed officials agree with Powell on potentially holding rates steady in January. More For You Protocol Research: GoPlus Security What to know: More For You Doha Bank Issues $150M Digital Bond Using Euroclear’s DLT Platform The deal achieved T+0 settlement on a permissioned distributed ledger rather than a public blockchain, reflecting a growing regional shift toward regulated digital bond infrastructure. What to know: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
+Artificial intelligence-focused stocks are coming under pressure on Friday, dragging tech-related equities and bitcoin BTC$89,887.59 lower during the early U.S. session. Chipmaker Broadcom (AVGO), the ninth largest asset by market cap, tumbled 10% despite strong earnings as its outlook disappointed investors' lofty expectations. The Nasdaq index was down over 1% in the first hour of the session. Adding that to Oracle's 10% slump on Thursday and a further 3% decline on Friday, as investor concerns are mounting that the red-hot AI theme that fueled much of this year's stock market gains might be fizzling out. Bitcoin, trading around $92,500 overnight, plunged 2% following the U.S. stock market open to $89,800 recently, extending the choppy action through the week. A consistent theme this week has been bitcoin setting intraday lows during U.S. trading hours, a pattern that has led to the filing of the proposed AfterDark Hours ETF. Bitcoin miners, some of which have been increasingly leaning into AI for diversification, showed a similar reaction to Broadcom’s miss. Hut 8 (HUT) fell more than 5%. Iren (RIEN) and Riot (RIOT) dropped about 4%, while Cipher(CIFR) and Iren (IREN) both were down about 2% over the past day. Crypto-related stocks also fell alongside the Nasdaq. Robinhood (HOOD) and Strategy (MSTR) were both down nearly 2%. Stablecoin issuer Circle (CRCL) was hit hard and fell more than 5%. Coinbase (COIN) dropped slightly. Markets had already been under pressure after Federal Reserve chair Jerome Powell's speech on Wednesday, which hinted at a possible rate cut pause in January. As a result, markets now expect only two rate cuts in 2026 instead of three. Chicago Fed President Austan Goolsbee, who was against a December rate cut, however, said he expects more in 2026 than the current median projection. Several other members of the Federal Reserve will also speak over the course of today as the central bank's blackout period following its December meeting on Wednesday has ended. Traders will be looking for any guidance on whether Fed officials agree with Powell on potentially holding rates steady in January. More For You Protocol Research: GoPlus Security What to know: More For You Fear and Greed Index in Fear 30% of the Past Year, Bitcoin Back in Extreme Fear The latest death cross in November has so far marked a bottom of around $80,000, aligning with prior examples this cycle. What to know: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
 --------------------------------------------------
 
 Title: Stock Market Live December 12: Trump to Ease Marijuana Regulation, S&P 500 (VOO) Flat
@@ -216,32 +216,14 @@ Time Published: 2025-12-11T09:47:24Z
 Description: Broadcom Inc. (NASDAQ:AVGO) is one of the Trending AI Stocks on Wall Street. On December 8, HSBC analyst Frank Lee reiterated a Buy rating on the stock with ...
 --------------------------------------------------
 
-Title: Stock market today: Dow gains while Nasdaq, S&P 500 slide as Oracle earnings revive AI spending fears
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-gains-while-nasdaq-sp-500-slide-as-oracle-earnings-revive-ai-spending-fears-233526438.html
-Time Published: 2025-12-10T23:35:26Z
-Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures tumble after Fed decision as Oracle earnings fall short
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-tumble-after-fed-decision-as-oracle-earnings-fall-short-233526540.html
-Time Published: 2025-12-10T23:35:26Z
-Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
---------------------------------------------------
-
 Title: Stock market today: Dow vaults toward record high as Oracle's slide weighs on S&P 500, Nasdaq
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-vaults-toward-record-high-as-oracles-slide-weighs-on-sp-500-nasdaq-233526728.html
 Time Published: 2025-12-10T23:35:26Z
 Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
 --------------------------------------------------
 
-Title: Stock market today: Dow hits record high while Nasdaq, S&P 500 slide as Oracle earnings revive AI spending fears
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-hits-record-high-while-nasdaq-sp-500-slide-as-oracle-earnings-revive-ai-spending-fears-233526385.html
-Time Published: 2025-12-10T23:35:26Z
-Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slump as Oracle earnings reignite AI spending fears
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slump-as-oracle-earnings-reignite-ai-spending-fears-233526300.html
+Title: Stock market today: Dow gains while Nasdaq, S&P 500 slide as Oracle earnings revive AI spending fears
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-gains-while-nasdaq-sp-500-slide-as-oracle-earnings-revive-ai-spending-fears-233526438.html
 Time Published: 2025-12-10T23:35:26Z
 Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
 --------------------------------------------------
@@ -252,6 +234,30 @@ Time Published: 2025-12-10T23:35:26Z
 Description: US stock futures were inconsistent across the major gauges as the Fed rate cut and Oracle's significant loss dragged the needle in different directions.
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures tumble after Fed decision as Oracle earnings fall short
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-tumble-after-fed-decision-as-oracle-earnings-fall-short-233526540.html
+Time Published: 2025-12-10T23:35:26Z
+Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
+--------------------------------------------------
+
+Title: Stock market today: Dow hits record high while Nasdaq, S&P 500 slide as Oracle earnings revive AI spending fears
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-hits-record-high-while-nasdaq-sp-500-slide-as-oracle-earnings-revive-ai-spending-fears-233526385.html
+Time Published: 2025-12-10T23:35:26Z
+Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq, S&P 500 slide, Dow gains as Oracle earnings stoke AI spending fears
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-slide-dow-gains-as-oracle-earnings-stoke-ai-spending-fears-233526960.html
+Time Published: 2025-12-10T23:35:26Z
+Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slump as Oracle earnings reignite AI spending fears
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slump-as-oracle-earnings-reignite-ai-spending-fears-233526300.html
+Time Published: 2025-12-10T23:35:26Z
+Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slip as Oracle earnings stoke AI spending fears
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-oracle-earnings-stoke-ai-spending-fears-233526371.html
 Time Published: 2025-12-10T23:35:26Z
@@ -260,12 +266,6 @@ Description: Oracle's revenue miss is reviving the AI bubble debate, dampening s
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as Oracle earnings reignite AI spending fears
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-oracle-earnings-reignite-ai-spending-fears-233526181.html
-Time Published: 2025-12-10T23:35:26Z
-Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
---------------------------------------------------
-
-Title: Stock market today: Nasdaq, S&P 500 slide, Dow gains as Oracle earnings stoke AI spending fears
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-slide-dow-gains-as-oracle-earnings-stoke-ai-spending-fears-233526960.html
 Time Published: 2025-12-10T23:35:26Z
 Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
 --------------------------------------------------

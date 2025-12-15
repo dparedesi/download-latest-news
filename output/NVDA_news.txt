@@ -252,16 +252,16 @@ Time Published: 2025-12-10T23:35:26Z
 Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures plummet after Fed decision as Oracle sinks after earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-plummet-after-fed-decision-as-oracle-sinks-after-earnings-233526664.html
-Time Published: 2025-12-10T23:35:26Z
-Description: US stock futures were inconsistent across the major gauges as the Fed rate cut and Oracle's significant loss dragged the needle in different directions.
---------------------------------------------------
-
 Title: Stock market today: Dow hits record high while Nasdaq, S&P 500 slide as Oracle earnings revive AI spending fears
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-hits-record-high-while-nasdaq-sp-500-slide-as-oracle-earnings-revive-ai-spending-fears-233526385.html
 Time Published: 2025-12-10T23:35:26Z
 Description: Oracle's revenue miss is reviving the AI bubble debate, dampening spirits on Wall Street.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures plummet after Fed decision as Oracle sinks after earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-plummet-after-fed-decision-as-oracle-sinks-after-earnings-233526664.html
+Time Published: 2025-12-10T23:35:26Z
+Description: US stock futures were inconsistent across the major gauges as the Fed rate cut and Oracle's significant loss dragged the needle in different directions.
 --------------------------------------------------
 
 Title: The Top 3 Investment Themes That Will Dominate 2026
