@@ -1,5 +1,11 @@
 List of news related to JPMorgan stock price JPM:
 
+Title: 3 Finance Stocks to Buy on Rising 10-Year Treasury Rates
+URL: https://www.marketbeat.com/originals/3-finance-stocks-to-buy-on-rising-10-year-treasury-rates/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-12-14T13:49:00Z
+Description: Rising 10-year Treasury rates are creating new opportunities in financial stocks. See why JPMorgan, Morgan Stanley, and Prudential could outperform in 2026
+--------------------------------------------------
+
 Title: Morgan Stanley Maintains An Equal Weight Rating On JPMorgan Chase & Co. (JPM)
 URL: https://finance.yahoo.com/news/morgan-stanley-maintains-equal-weight-174116438.html
 Time Published: 2025-12-13T17:41:16Z
@@ -10,10 +16,4 @@ Title: Jamie Dimon Has Long Been Sounding the Economic Alarm. After the Fed’s 
 URL: https://www.barchart.com/story/news/36563189/jamie-dimon-has-long-been-sounding-the-economic-alarm-after-the-feds-latest-rate-cut-can-you-still-bank-on-jpmorgan-stock
 Time Published: 2025-12-11T02:10:53Z
 Description: A nearly 5% plunge in JPM shares on Tuesday is reason for caution with the leader of U.S. bank stocks.
---------------------------------------------------
-
-Title: Stock Index Futures Muted Amid Caution Ahead of Fed Rate Decision
-URL: https://www.barchart.com/story/news/36546542/stock-index-futures-dip-amid-caution-ahead-of-fed-rate-decision
-Time Published: 2025-12-10T11:10:05Z
-Description: December S&P 500 E-Mini futures (ESZ25) are down -0.01%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.05% this morning as investors refrain...
 --------------------------------------------------
