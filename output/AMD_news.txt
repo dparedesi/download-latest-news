@@ -1,5 +1,23 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: OpenAI is the 2025 Yahoo Finance Company of the Year
+URL: https://finance.yahoo.com/news/openai-is-the-2025-yahoo-finance-company-of-the-year-120054312.html
+Time Published: 2025-12-15T12:00:54Z
+Description: The ChatGPT maker sparked this generation's tech revolution. Can AI's biggest engine continue to drive its gold rush?
+--------------------------------------------------
+
+Title: Microsoft's AI advantage isn't all about OpenAI — and Wall Street loves it
+URL: https://finance.yahoo.com/news/microsofts-ai-advantage-isnt-all-about-openai--and-wall-street-loves-it-120048687.html
+Time Published: 2025-12-15T12:00:48Z
+Description: Investors say Microsoft's real edge comes from its sprawling AI ecosystem and growing independence from any single model provider.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq sink as data-packed last full week of trading kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-data-packed-last-full-week-of-trading-kicks-off-095332835.html
+Time Published: 2025-12-15T09:53:32Z
+Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as data-packed last full week of trading kicks off
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-data-packed-last-full-week-of-trading-kicks-off-095332636.html
 Time Published: 2025-12-15T09:53:32Z
@@ -8,12 +26,6 @@ Description: Investors are bracing for a flurry of key delayed data this week to
 
 Title: Stock market today: Dow, S&P 500, Nasdaq wobble as data-packed last full week of trading kicks off
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-data-packed-last-full-week-of-trading-kicks-off-095332531.html
-Time Published: 2025-12-15T09:53:32Z
-Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq sink as data-packed last full week of trading kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-data-packed-last-full-week-of-trading-kicks-off-095332835.html
 Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------
