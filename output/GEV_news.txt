@@ -18,21 +18,3 @@ URL: https://www.barchart.com/story/news/36600802/stocks-sink-as-chip-stocks-ret
 Time Published: 2025-12-12T21:33:36Z
 Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed down by -1.07%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down by -0.51%, and the Nasdaq 100...
 --------------------------------------------------
-
-Title: The Fed will help drive a 10% gain for stocks in 2026, says one of Wall Street’s most accurate forecasters, Tom Lee
-URL: https://www.marketwatch.com/story/the-fed-will-help-drive-a-10-gain-for-stocks-in-2026-says-one-of-wall-streets-most-accurate-forecasters-tom-lee-ecf85aeb
-Time Published: 2025-12-11T14:44:00Z
-Description: A wall of worry headed into 2026 won’t stop stocks from logging more gains, says Fundstrat’s Tom Lee.
---------------------------------------------------
-
-Title: PayPal downgraded, Roku upgraded: Wall Street's top analyst calls
-URL: https://finance.yahoo.com/news/paypal-downgraded-roku-upgraded-wall-143941621.html
-Time Published: 2025-12-11T14:39:41Z
-Description: PayPal downgraded, Roku upgraded: Wall Street's top analyst calls
---------------------------------------------------
-
-Title: Stocks Slip Before the Open as Oracle Dents Sentiment After Fed Cut
-URL: https://www.barchart.com/story/news/36567992/stocks-slip-before-the-open-as-oracle-dents-sentiment-after-fed-cut
-Time Published: 2025-12-11T11:20:29Z
-Description: December S&P 500 E-Mini futures (ESZ25) are down -0.35%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.65% this morning as Oracle rekindled...
---------------------------------------------------

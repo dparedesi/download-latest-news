@@ -1,5 +1,23 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Forget the AI Bubble and Buy Nvidia Stock for 2026: Here’s Why
+URL: https://www.barchart.com/story/news/36627230/forget-the-ai-bubble-and-buy-nvidia-stock-for-2026-heres-why
+Time Published: 2025-12-15T16:23:31Z
+Description: Nvidia stock has come off its 2025 highs, among others, amid concerns over the feared AI bubble. However, it makes sense to buy NVDA stock at these...
+--------------------------------------------------
+
+Title: Stocks Climb in Anticipation of Fed-Friendly US Economic News
+URL: https://www.barchart.com/story/news/36625560/stocks-climb-in-anticipation-of-fed-friendly-us-economic-news
+Time Published: 2025-12-15T14:57:12Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.39%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.27%, and the Nasdaq 100 Index ($IUXX...
+--------------------------------------------------
+
+Title: The AI boom will turn to bust in 2026, says this forecaster who offers his trade of the year
+URL: https://www.marketwatch.com/story/the-ai-boom-will-turn-to-bust-next-year-says-this-forecaster-who-offers-his-trade-of-the-year-9c2a2332
+Time Published: 2025-12-15T14:30:00Z
+Description: High valuations leave stocks vulnerable to a big tech sell-off, according to BCA Research
+--------------------------------------------------
+
 Title: OpenAI is the 2025 Yahoo Finance Company of the Year
 URL: https://finance.yahoo.com/news/openai-is-the-2025-yahoo-finance-company-of-the-year-120054312.html
 Time Published: 2025-12-15T12:00:54Z
@@ -12,6 +30,12 @@ Time Published: 2025-12-15T12:00:48Z
 Description: Investors say Microsoft's real edge comes from its sprawling AI ecosystem and growing independence from any single model provider.
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as data-packed last full week of trading kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-data-packed-last-full-week-of-trading-kicks-off-095332636.html
+Time Published: 2025-12-15T09:53:32Z
+Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq wobble as data-packed last full week of trading kicks off
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-data-packed-last-full-week-of-trading-kicks-off-095332531.html
 Time Published: 2025-12-15T09:53:32Z
@@ -20,12 +44,6 @@ Description: Investors are bracing for a flurry of key delayed data this week to
 
 Title: Stock market today: Dow, S&P 500, Nasdaq sink as data-packed last full week of trading kicks off
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-data-packed-last-full-week-of-trading-kicks-off-095332835.html
-Time Published: 2025-12-15T09:53:32Z
-Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as data-packed last full week of trading kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-data-packed-last-full-week-of-trading-kicks-off-095332636.html
 Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------
@@ -41,36 +59,4 @@ URL: https://247wallst.com/investing/2025/12/12/soxs-may-pay-a-20-dividend-but-i
 Time Published: 2025-12-12T16:11:39Z
 Full Content:
 Investing Sending You to Google News in 3 © 24/7 Wall St. Direxion Daily Semiconductor Bear 3x Shares (NYSEARCA:SOXS) offers a contrarian bet against the AI boom, delivering three times the inverse daily performance of semiconductor stocks. While the ETF has attracted attention for its dividend distributions, understanding how this fund generates income reveals why it’s fundamentally different from traditional dividend investments. SOXS doesn’t hold semiconductor stocks or collect dividends from companies like NVIDIA (NASDAQ:NVDA) or Advanced Micro Devices (NASDAQ:AMD). Instead, the fund uses derivatives including swaps and futures to achieve -3x daily exposure to the ICE Semiconductor Index. Approximately 66% of the fund’s $1.1 billion in assets sits in cash collateral, primarily Goldman Sachs (NYSE:GS) Treasury Instruments, generating interest income. Additional distributions come from gains when semiconductor stocks decline and the fund profits from short positions. The fund paid $0.056 per share in its September 2025 distribution. Based on the current price of $2.95, this translates to an annualized yield of approximately 7.6%. Some sources cite yields approaching 20% by projecting forward based on historical volatility in distributions, which ranged from $0.056 to $0.185 quarterly throughout 2025. SOXS distributions are highly unstable because they depend on two volatile factors: interest rates on cash collateral and gains from semiconductor stock declines. When semiconductors rally, as they have throughout 2025, the fund generates minimal profits from short positions while experiencing severe price decay from daily rebalancing costs. The fund’s 0.97% expense ratio and daily reset mechanism create structural headwinds. SOXS has declined 87% year-to-date in 2025, falling from $22.12 to $2.95. Over five years, the fund has lost 99.86% of its value. A 10% yield provides little consolation when the underlying ETF loses 87% of its value. Our top personal finance-related articles today. Your wallet will thank you later. Leveraged ETFs demand a different monitoring framework than buy-and-hold funds, and SOXL’s 3x daily exposure to semiconductors makes the distinction… What Is YMAX, and Why the Buzz? The YieldMax Universe Fund of Option Income ETFs (NYSEARCA:YMAX), launched in January 2024,… Global X Nasdaq 100 Covered Call ETF (NASDAQ:QYLD) transforms the Nasdaq-100’s top technology stocks into an 11% monthly dividend by… What Is YMAG, and Why the Hype? The YieldMax Magnificent 7 Fund of Option Income ETFs (NYSEARCA:YMAG), launched in January… It’s an age-old question in the world of exchange traded funds (ETFs): Should you go for the highest yield, or… The YieldMax MSTR Option Income Strategy ETF (NYSEARCA:MSTY) has become a hot topic among income-seeking investors, thanks to its impressive… The Global X SuperDividend ETF (NYSEARCA:SDIV) generates its 8% yield by investing in 100 of the highest dividend-yielding equities across… What Is ULTY, and Why All the Fuss? The YieldMax Ultra Option Income Strategy ETF (NYSEARCA:ULTY), launched on February 28,… Income-focused investors face a persistent challenge: finding yield without sacrificing capital stability. The SPDR Blackstone High Income ETF (NYSEARCA:HYBL) blends…
---------------------------------------------------
-
-Title: Oracle Stock Hit Hard: Why Its AI Pipeline Could Drive a 2026 Rally
-URL: https://www.marketbeat.com/originals/oracle-stock-hit-hard-why-its-ai-pipeline-could-drive-a-2026-rally/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-12-11T22:16:00Z
-Description: Oracle is on track for a robust rebound as its rapidly expanding RPO is converted into revenue and profits: December price weakness is a buying opportunity.
---------------------------------------------------
-
-Title: Stocks Mixed as a Plunge in Oracle Weighs on Tech Stocks
-URL: https://www.barchart.com/story/news/36574931/stocks-mixed-as-a-plunge-in-oracle-weighs-on-tech-stocks
-Time Published: 2025-12-11T15:04:56Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.34%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.59%, and the Nasdaq 100 Index ($IUXX ) ...
---------------------------------------------------
-
-Title: The Fed will help drive a 10% gain for stocks in 2026, says one of Wall Street’s most accurate forecasters, Tom Lee
-URL: https://www.marketwatch.com/story/the-fed-will-help-drive-a-10-gain-for-stocks-in-2026-says-one-of-wall-streets-most-accurate-forecasters-tom-lee-ecf85aeb
-Time Published: 2025-12-11T14:44:00Z
-Description: A wall of worry headed into 2026 won’t stop stocks from logging more gains, says Fundstrat’s Tom Lee.
---------------------------------------------------
-
-Title: Bill Gates Has a Warning for AI Investors
-URL: https://www.investopedia.com/bill-gates-has-a-warning-for-ai-investors-stocks-nvidia-nvda-11866392
-Time Published: 2025-12-11T14:18:48Z
-Full Content:
-One of America’s legendary tech founders has a warning for AI investors: They can't all be winners. “Not all of these valuations will end up going up. Some of them will go down," Bill Gates, co-founder of tech giant Microsoft (MSFT), said of AI stocks in an interview with CNBC on Wednesday. "It’s going to be hyper-competitive. A reasonable percentage of those companies won’t be worth that much.” Microsoft is among the tech giants whose massive investments in artificial intelligence have fueled the AI bubble debate raging on Wall Street. The so-called hyperscalers—Microsoft, Alphabet (GOOG), Amazon (AMZN), Meta Platforms (META), and Oracle (ORCL)—are expected to spend $400 billion on infrastructure—much of it dedicated to training and running AI models—this year, and more than $500 billion next year. The AI boom has been the driving force behind the stock market rally for much of the past three years. But the rally has faltered in recent months due to lofty valuations and concerns that tech giants are overspending on AI. Some experts are reminding investors to pick and choose. Some investors worry the sheer size of those figures has encouraged speculation on Wall Street, causing some AI stocks to trade at eye-watering valuations. Software firm Palantir (PLTR) has a price-to-earnings ratio of more than 400, one of the highest in the S&P 500. Shares of chip designers Broadcom (AVGO) and Advanced Micro Devices (AMD) have soared this year on hopes they can take market share from AI chip leader Nvidia (NVDA); those gains have nudged their PE ratios above 100, more than three times that of the S&P 500 as a whole. Then there's the cohort of unprofitable startups commanding lofty valuations in private markets. OpenAI, the company behind ChatGPT, isn't expected to turn a profit before the end of the decade. Yet the start up was valued at $500 billion in October, which would make it the 16th largest public company in America. The AI buildout has turbocharged the sales and profits of some companies, leaving their valuations relatively steady despite big stock gains. AI demand has accelerated growth in the cloud computing businesses of Alphabet, Microsoft, and Amazon, all three of which have PE ratios hovering around 30. Booming demand for Nvidia’s chips made it a $4.5 trillion company, but shares trade at a relatively modest 45 times earnings. Bubble jitters have hit tech stocks several times since ChatGPT sparked the AI craze on Wall Street. In November, the Magnificent Seven nearly entered a technical correction. Less established competitors like Oracle (ORCL) and CoreWeave (CRWV) have performed even worse. As with past pullbacks, investors shook off valuation concerns and bought the dip, lifting tech stocks out of their slump. As of Wednesday, the tech-heavy Nasdaq Composite was just 1% off its record high from late October. Stock valuations aside, Gate said he's confident in AI's potential to transform society and power advancements in health, education, and agriculture. AI, he said, "is a technology that's deeply profound, that will reshape the world. There’s not the slightest doubt about that."
---------------------------------------------------
-
-Title: Micron Stock Has Gained More Than 200% This Year. Why Experts See Additional Record Highs on the Horizon.
-URL: https://www.investopedia.com/micron-stock-has-gained-200-percent-this-year-why-experts-see-more-record-highs-on-the-horizon-11865821
-Time Published: 2025-12-11T10:00:00Z
-Full Content:
-One of the hottest AI stocks appears to have more room to run. Shares of Micron Technology (MU) have surged to all-time highs this week as analysts continue to raise their targets for the memory chip maker ahead of next week's earnings report. Citi analysts on Wednesday lifted their price target to $300 from $275, now double where their target for the stock was in early September. The analysts said the increasing demand for the advanced memory chips used to run artificial intelligence models should help bring in "large capital infusions" that help Micron and other memory chip makers boost their manufacturing capabilities to meet demand. Micron shares rose more than 4% Wednesday to a record closing high of just below $264. The stock price has more than tripled since the start of the year. Micron supplies memory components to other manufacturers such as Nvidia (NVDA) and Advanced Micro Devices (AMD), making Micron one of many beneficiaries of the AI trade. Micron is the top performing stock in the Nasdaq 100 this year, and only four stocks in the S&P 500 have posted bigger gains in 2025. Artificial intelligence companies are looking to buy the chips as fast as they can be made, leading to a shortage of memory chips that Citi analysts say is causing "unprecedented increases" in pricing, which should further boost Micron's sales and profits. Deutsche Bank analysts on Tuesday hiked their own price target to $280 from $200, calling Micron "well poised to benefit" from changes in the memory-chip market. The analysts also called Micron "particularly attractive among the memory names given its unique ability to prioritize profitability over market share in this environment." Morgan Stanley analysts raised their own price target for Micron last month to $325 from $220 after upgrading the stock in October, calling the memory chip maker a "top pick" because of how that dramatic increase in pricing for memory products could boost sales and profits in the next year, even if prices start to normalize. Analysts are largely bullish on Micron stock, but its average price target suggest that some analysts think the chip maker's stock has hit its ceiling, or are waiting until after next week's report to adjust their view. The 11 analysts with current ratings tracked by Visible Alpha are split between nine "buy" and two "hold" ratings, with the average price target among those analysts at around $237.
 --------------------------------------------------

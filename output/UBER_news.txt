@@ -24,15 +24,3 @@ URL: https://finance.yahoo.com/news/alphabet-googl-focus-analysts-highlight-1459
 Time Published: 2025-12-12T14:59:26Z
 Description: Alphabet Inc. (NASDAQ:GOOGL) is one of the AI Stocks Analysts Are Watching Closely. On December 10, Citizens reiterated its “Market Outperform” rating on the...
 --------------------------------------------------
-
-Title: Wall Street Bullish on Uber Technologies (UBER), Here’s Why
-URL: https://finance.yahoo.com/news/wall-street-bullish-uber-technologies-123304925.html
-Time Published: 2025-12-11T12:33:04Z
-Description: ​Uber Technologies, Inc. (NYSE:UBER) is one of the Cheap NYSE Stocks to Buy Now. On December 8, Brian Nowak from Morgan Stanley reiterated a Buy rating on...
---------------------------------------------------
-
-Title: Stocks Slip Before the Open as Oracle Dents Sentiment After Fed Cut
-URL: https://www.barchart.com/story/news/36567992/stocks-slip-before-the-open-as-oracle-dents-sentiment-after-fed-cut
-Time Published: 2025-12-11T11:20:29Z
-Description: December S&P 500 E-Mini futures (ESZ25) are down -0.35%, and December Nasdaq 100 E-Mini futures (NQZ25) are down -0.65% this morning as Oracle rekindled...
---------------------------------------------------

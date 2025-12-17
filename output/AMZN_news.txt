@@ -1,26 +1,19 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Marvell’s CEO Says the Company Didn’t Lose Any Orders. Why Was Wall Street So Worried, and How Should You Play MRVL Stock Here?
+URL: https://www.barchart.com/story/news/36628363/marvells-ceo-says-the-company-didnt-lose-any-orders-why-was-wall-street-so-worried-and-how-should-you-play-mrvl-stock-here
+Time Published: 2025-12-15T17:18:31Z
+Description: Marvell’s recent selloff reflects market fears over potential loss of hyperscaler orders, but management and some analysts push back on those concerns...
+--------------------------------------------------
+
+Title: Forget the AI Bubble and Buy Nvidia Stock for 2026: Here’s Why
+URL: https://www.barchart.com/story/news/36627230/forget-the-ai-bubble-and-buy-nvidia-stock-for-2026-heres-why
+Time Published: 2025-12-15T16:23:31Z
+Description: Nvidia stock has come off its 2025 highs, among others, amid concerns over the feared AI bubble. However, it makes sense to buy NVDA stock at these...
+--------------------------------------------------
+
 Title: OpenAI is the 2025 Yahoo Finance Company of the Year
 URL: https://finance.yahoo.com/news/openai-is-the-2025-yahoo-finance-company-of-the-year-120054312.html
 Time Published: 2025-12-15T12:00:54Z
 Description: The ChatGPT maker sparked this generation's tech revolution. Can AI's biggest engine continue to drive its gold rush?
---------------------------------------------------
-
-Title: 3 Recently Downgraded Stocks to Avoid in 2026
-URL: https://www.marketbeat.com/originals/3-recently-downgraded-stocks-to-avoid-in-2026/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-12-11T23:07:00Z
-Description: Earnings season has come and gone, and analysts were impressed with the market as a whole. However, downgrades were still handed out, including these 3...
---------------------------------------------------
-
-Title: Stock market today: Dow jumps X post to record, S&P 500 climbs above 6,900 for first time
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-650-points-to-post-record-sp-500-climbs-above-6900-for-first-time-210051184.html
-Time Published: 2025-12-11T21:00:51Z
-Description: The Dow and S&P 500 notched new records on Thursday as US stocks mostly rose, with tech stocks under more pressure after Oracle (ORCL) earnings revived AI...
---------------------------------------------------
-
-Title: Bill Gates Has a Warning for AI Investors
-URL: https://www.investopedia.com/bill-gates-has-a-warning-for-ai-investors-stocks-nvidia-nvda-11866392
-Time Published: 2025-12-11T14:18:48Z
-Full Content:
-One of America’s legendary tech founders has a warning for AI investors: They can't all be winners. “Not all of these valuations will end up going up. Some of them will go down," Bill Gates, co-founder of tech giant Microsoft (MSFT), said of AI stocks in an interview with CNBC on Wednesday. "It’s going to be hyper-competitive. A reasonable percentage of those companies won’t be worth that much.” Microsoft is among the tech giants whose massive investments in artificial intelligence have fueled the AI bubble debate raging on Wall Street. The so-called hyperscalers—Microsoft, Alphabet (GOOG), Amazon (AMZN), Meta Platforms (META), and Oracle (ORCL)—are expected to spend $400 billion on infrastructure—much of it dedicated to training and running AI models—this year, and more than $500 billion next year. The AI boom has been the driving force behind the stock market rally for much of the past three years. But the rally has faltered in recent months due to lofty valuations and concerns that tech giants are overspending on AI. Some experts are reminding investors to pick and choose. Some investors worry the sheer size of those figures has encouraged speculation on Wall Street, causing some AI stocks to trade at eye-watering valuations. Software firm Palantir (PLTR) has a price-to-earnings ratio of more than 400, one of the highest in the S&P 500. Shares of chip designers Broadcom (AVGO) and Advanced Micro Devices (AMD) have soared this year on hopes they can take market share from AI chip leader Nvidia (NVDA); those gains have nudged their PE ratios above 100, more than three times that of the S&P 500 as a whole. Then there's the cohort of unprofitable startups commanding lofty valuations in private markets. OpenAI, the company behind ChatGPT, isn't expected to turn a profit before the end of the decade. Yet the start up was valued at $500 billion in October, which would make it the 16th largest public company in America. The AI buildout has turbocharged the sales and profits of some companies, leaving their valuations relatively steady despite big stock gains. AI demand has accelerated growth in the cloud computing businesses of Alphabet, Microsoft, and Amazon, all three of which have PE ratios hovering around 30. Booming demand for Nvidia’s chips made it a $4.5 trillion company, but shares trade at a relatively modest 45 times earnings. Bubble jitters have hit tech stocks several times since ChatGPT sparked the AI craze on Wall Street. In November, the Magnificent Seven nearly entered a technical correction. Less established competitors like Oracle (ORCL) and CoreWeave (CRWV) have performed even worse. As with past pullbacks, investors shook off valuation concerns and bought the dip, lifting tech stocks out of their slump. As of Wednesday, the tech-heavy Nasdaq Composite was just 1% off its record high from late October. Stock valuations aside, Gate said he's confident in AI's potential to transform society and power advancements in health, education, and agriculture. AI, he said, "is a technology that's deeply profound, that will reshape the world. There’s not the slightest doubt about that."
 --------------------------------------------------

@@ -1,9 +1,21 @@
 List of news related to Adobe stock price ADBE:
 
+Title: Stocks Turn Lower on AI Spending Concerns
+URL: https://www.barchart.com/story/news/36627858/stocks-turn-lower-on-ai-spending-concerns
+Time Published: 2025-12-15T16:56:50Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.15%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.24%, and the Nasdaq 100 Index ($IUXX ...
+--------------------------------------------------
+
 Title: Costco downgraded, Dollar General upgraded: Wall Street's top analyst calls
 URL: https://finance.yahoo.com/news/costco-downgraded-dollar-general-upgraded-145736293.html
 Time Published: 2025-12-15T14:57:36Z
 Description: Costco downgraded, Dollar General upgraded: Wall Street's top analyst calls
+--------------------------------------------------
+
+Title: Stocks Climb in Anticipation of Fed-Friendly US Economic News
+URL: https://www.barchart.com/story/news/36625560/stocks-climb-in-anticipation-of-fed-friendly-us-economic-news
+Time Published: 2025-12-15T14:57:12Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.39%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.27%, and the Nasdaq 100 Index ($IUXX...
 --------------------------------------------------
 
 Title: Adobe Gets Post-Earnings Lift: Long-Term Outlook Favors Upside
@@ -22,22 +34,4 @@ Title: Adobe Impresses the Market With Strong Free Cash Flow - Is ADBE Stock Wor
 URL: https://www.barchart.com/story/news/36593122/adobe-impresses-the-market-with-strong-free-cash-flow-is-adbe-stock-worth-buying
 Time Published: 2025-12-12T14:00:02Z
 Description: Adobe Inc.'s fiscal Q4 revenue was up 10% YoY and +11% YoY for the FY. Moreover, its free cash flow (FCF) margins were over 41.45%. That implies ADBE stock...
---------------------------------------------------
-
-Title: Is Adobe Stock a Buy, Sell, or Hold on New OpenAI Partnership?
-URL: https://www.barchart.com/story/news/36579404/is-adobe-stock-a-buy-sell-or-hold-on-new-openai-partnership
-Time Published: 2025-12-11T19:24:54Z
-Description: With Adobe now plugging into ChatGPT’s massive userbase, should investors buy, sell, or hold the stock at this point?
---------------------------------------------------
-
-Title: Stocks Mixed as a Plunge in Oracle Weighs on Tech Stocks
-URL: https://www.barchart.com/story/news/36574931/stocks-mixed-as-a-plunge-in-oracle-weighs-on-tech-stocks
-Time Published: 2025-12-11T15:04:56Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.34%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.59%, and the Nasdaq 100 Index ($IUXX ) ...
---------------------------------------------------
-
-Title: The Fed will help drive a 10% gain for stocks in 2026, says one of Wall Street’s most accurate forecasters, Tom Lee
-URL: https://www.marketwatch.com/story/the-fed-will-help-drive-a-10-gain-for-stocks-in-2026-says-one-of-wall-streets-most-accurate-forecasters-tom-lee-ecf85aeb
-Time Published: 2025-12-11T14:44:00Z
-Description: A wall of worry headed into 2026 won’t stop stocks from logging more gains, says Fundstrat’s Tom Lee.
 --------------------------------------------------
