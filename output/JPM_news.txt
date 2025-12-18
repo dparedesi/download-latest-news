@@ -1,9 +1,21 @@
 List of news related to JPMorgan stock price JPM:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq trade mixed as Wall Street weighs odds of rate cuts, Oracle sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-trade-mixed-as-wall-street-weighs-odds-of-rate-cuts-oracle-sinks-235109998.html
+Time Published: 2025-12-16T23:51:09Z
+Description: Stocks are leaning higher as oil gains after Trump placed a blockade on tankers off Venezuela.
+--------------------------------------------------
+
 Title: Oil prices fall to four-year low below $55 as supply glut shows up
 URL: https://finance.yahoo.com/news/oil-prices-fall-to-four-year-low-below-55-as-supply-glut-shows-up-163301602.html
 Time Published: 2025-12-16T16:33:01Z
 Description: Oil prices spiraled downward on Tuesday as the coming oversupply wave picked up momentum.
+--------------------------------------------------
+
+Title: Big Tech stocks are getting cheaper, and that could mean gains of up to 60%
+URL: https://www.marketwatch.com/story/big-tech-stocks-are-getting-cheaper-and-that-could-mean-gains-of-up-to-60-fdf1b70c
+Time Published: 2025-12-16T13:00:00Z
+Description: S 500 stocks may be expensive relative to their historical averages, but many are cheaper than they were at the start of the quarter.
 --------------------------------------------------
 
 Title: Is Charles River Laboratories Stock Underperforming the Dow?

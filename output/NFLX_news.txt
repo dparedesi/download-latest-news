@@ -1,13 +1,25 @@
 List of news related to Netflix stock price NFLX:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq wobble as data-packed last full week of trading kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-data-packed-last-full-week-of-trading-kicks-off-095332531.html
-Time Published: 2025-12-15T09:53:32Z
-Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
+Title: Stock market today: Dow, S&P 500, Nasdaq trade mixed as Wall Street weighs odds of rate cuts, Oracle sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-trade-mixed-as-wall-street-weighs-odds-of-rate-cuts-oracle-sinks-235109998.html
+Time Published: 2025-12-16T23:51:09Z
+Description: Stocks are leaning higher as oil gains after Trump placed a blockade on tankers off Venezuela.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq sink as data-packed last full week of trading kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-data-packed-last-full-week-of-trading-kicks-off-095332835.html
+Title: Paramount Threw a Wrench in Netflix's Bid to Acquire Warner Bros.
+URL: https://www.marketbeat.com/originals/paramount-threw-a-wrench-in-netflixs-bid-to-acquire-warner-bros/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-12-16T15:10:00Z
+Description: Netflix and Paramount Skydance are continuing to wage war against each other as they vie for Warner Bros Discovery. See the latest developments here.
+--------------------------------------------------
+
+Title: Big Tech stocks are getting cheaper, and that could mean gains of up to 60%
+URL: https://www.marketwatch.com/story/big-tech-stocks-are-getting-cheaper-and-that-could-mean-gains-of-up-to-60-fdf1b70c
+Time Published: 2025-12-16T13:00:00Z
+Description: S 500 stocks may be expensive relative to their historical averages, but many are cheaper than they were at the start of the quarter.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble as data-packed last full week of trading kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-data-packed-last-full-week-of-trading-kicks-off-095332531.html
 Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------
@@ -18,8 +30,8 @@ Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------
 
-Title: Wall Street Is Souring on Netflix Stock Amid Warner Bros. Deal Drama. Is It Time to Ditch NFLX Now?
-URL: https://www.barchart.com/story/news/36595421/wall-street-is-souring-on-netflix-stock-amid-warner-bros-deal-drama-is-it-time-to-ditch-nflx-now
-Time Published: 2025-12-12T15:52:49Z
-Description: Seaport cut its price target on Netflix, and several other analysts have downgraded NFLX stock.
+Title: Stock market today: Dow, S&P 500, Nasdaq sink as data-packed last full week of trading kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-data-packed-last-full-week-of-trading-kicks-off-095332835.html
+Time Published: 2025-12-15T09:53:32Z
+Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------
