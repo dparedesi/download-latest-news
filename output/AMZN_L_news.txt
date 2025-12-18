@@ -1,6 +1,12 @@
 List of news related to Layoffs Amazon:
 
 Title: AWS CEO says replacing young employees with AI is ‘one of the dumbest ideas’—and bad for business: ‘At some point the whole thing explodes on itself’
+URL: https://finance.yahoo.com/news/aws-ceo-says-replacing-young-172627801.html
+Time Published: 2025-12-16T17:26:27Z
+Description: Amazon laid off 14,000 employees this fall, but CEO Andy Jassy denied the reductions were related to AI.
+--------------------------------------------------
+
+Title: AWS CEO says replacing young employees with AI is ‘one of the dumbest ideas’—and bad for business: ‘At some point the whole thing explodes on itself’
 URL: https://fortune.com/2025/12/16/aws-ceo-matt-garman-ai-displacing-junior-employees-dumbest-idea-amazon-layoffs/
 Time Published: 2025-12-16T17:26:27Z
 Full Content:

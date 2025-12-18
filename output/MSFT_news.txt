@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Big Tech Stocks Look Downright Dangerous Here. How I’m Positioning Right Now.
+URL: https://www.barchart.com/story/news/36652701/big-tech-stocks-look-downright-dangerous-here-how-im-positioning-right-now
+Time Published: 2025-12-16T19:03:24Z
+Description: These inverse and leveraged FANG-focused ETFs are worth a look here.
+--------------------------------------------------
+
 Title: Can Microsoft Stock Reach $1K?
 URL: https://finance.yahoo.com/news/microsoft-stock-reach-1k-144329081.html
 Time Published: 2025-12-16T14:43:29Z
@@ -49,14 +55,14 @@ Time Published: 2025-12-15T12:00:02Z
 Description: Tech stocks came under serious selling pressure on Friday with the market concerned about Oracle’s (ORCL) debt issuance and general AI capital expenditures. ...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq wobble as data-packed last full week of trading kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-data-packed-last-full-week-of-trading-kicks-off-095332531.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as data-packed last full week of trading kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-data-packed-last-full-week-of-trading-kicks-off-095332636.html
 Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as data-packed last full week of trading kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-data-packed-last-full-week-of-trading-kicks-off-095332636.html
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble as data-packed last full week of trading kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-data-packed-last-full-week-of-trading-kicks-off-095332531.html
 Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------
