@@ -1,5 +1,12 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: 3 ASX ETFs that could be perfect for beginners
+URL: https://www.fool.com.au/2025/12/18/3-asx-etfs-that-could-be-perfect-for-beginners/
+Time Published: 2025-12-18T05:35:00Z
+Description: New to investing? Here are three top funds to consider.
+The post 3 ASX ETFs that could be perfect for beginners appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
 Title: MRVL, AMZN and MSFT: Breaking Down the Wall Street Controversy
 URL: https://www.marketbeat.com/originals/mrvl-amzn-and-msft-breaking-down-the-wall-street-controversy/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2025-12-16T23:41:00Z
@@ -73,14 +80,14 @@ Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as data-packed last full week of trading kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-data-packed-last-full-week-of-trading-kicks-off-095332636.html
+Title: Stock market today: Dow, S&P 500, Nasdaq sink as data-packed last full week of trading kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-data-packed-last-full-week-of-trading-kicks-off-095332835.html
 Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq sink as data-packed last full week of trading kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-data-packed-last-full-week-of-trading-kicks-off-095332835.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as data-packed last full week of trading kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-data-packed-last-full-week-of-trading-kicks-off-095332636.html
 Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------
