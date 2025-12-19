@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stocks Retreat as AI Infrastructure Companies and Chip Makers Fall
+URL: https://www.barchart.com/story/news/36671778/stocks-retreat-as-ai-infrastructure-companies-and-chip-makers-fall
+Time Published: 2025-12-17T16:24:19Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.61%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.12%, and the Nasdaq 100 Index ($IUXX ...
+--------------------------------------------------
+
 Title: MetaX soars 700% in debut as China AI chips push lures investors
 URL: https://finance.yahoo.com/news/chinese-ai-chipmaker-metax-shares-021911316.html
 Time Published: 2025-12-17T02:19:11Z
@@ -36,8 +42,8 @@ Time Published: 2025-12-15T12:00:48Z
 Description: Investors say Microsoft's real edge comes from its sprawling AI ecosystem and growing independence from any single model provider.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq wobble as data-packed last full week of trading kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-data-packed-last-full-week-of-trading-kicks-off-095332531.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as data-packed last full week of trading kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-data-packed-last-full-week-of-trading-kicks-off-095332636.html
 Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------
@@ -48,8 +54,8 @@ Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as data-packed last full week of trading kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-data-packed-last-full-week-of-trading-kicks-off-095332636.html
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble as data-packed last full week of trading kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-data-packed-last-full-week-of-trading-kicks-off-095332531.html
 Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------

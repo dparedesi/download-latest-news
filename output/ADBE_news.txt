@@ -41,9 +41,3 @@ URL: https://www.barchart.com/story/news/36625560/stocks-climb-in-anticipation-o
 Time Published: 2025-12-15T14:57:12Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.39%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.27%, and the Nasdaq 100 Index ($IUXX...
 --------------------------------------------------
-
-Title: Adobe Gets Post-Earnings Lift: Long-Term Outlook Favors Upside
-URL: https://www.marketbeat.com/originals/adobe-gets-post-earnings-lift-long-term-outlook-favors-upside/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-12-13T12:27:00Z
-Description: Down more than 40% from its highs, are markets too bearish on Adobe? The stock's low valuation suggests that this could be the case after earnings.
---------------------------------------------------
