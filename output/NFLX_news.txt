@@ -68,6 +68,12 @@ Time Published: 2025-12-16T13:00:00Z
 Description: S 500 stocks may be expensive relative to their historical averages, but many are cheaper than they were at the start of the quarter.
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble as data-packed last full week of trading kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-data-packed-last-full-week-of-trading-kicks-off-095332531.html
+Time Published: 2025-12-15T09:53:32Z
+Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as data-packed last full week of trading kicks off
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-data-packed-last-full-week-of-trading-kicks-off-095332636.html
 Time Published: 2025-12-15T09:53:32Z
@@ -76,12 +82,6 @@ Description: Investors are bracing for a flurry of key delayed data this week to
 
 Title: Stock market today: Dow, S&P 500, Nasdaq sink as data-packed last full week of trading kicks off
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-data-packed-last-full-week-of-trading-kicks-off-095332835.html
-Time Published: 2025-12-15T09:53:32Z
-Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq wobble as data-packed last full week of trading kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-data-packed-last-full-week-of-trading-kicks-off-095332531.html
 Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------
