@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Forget Nvidia and Broadcom. This Forgotten Retail Stock Is a Top Performer in 2025.
+URL: https://www.barchart.com/story/news/36694357/forget-nvidia-and-broadcom-this-forgotten-retail-stock-is-a-top-performer-in-2025
+Time Published: 2025-12-18T16:26:19Z
+Description: Shares of this departmental store chain are up by 50% this year.
+--------------------------------------------------
+
+Title: As Nvidia Launches New Nemotron 3 Models, Should You Buy, Sell, or Hold NVDA Stock?
+URL: https://www.barchart.com/story/news/36690497/as-nvidia-launches-new-nemotron-3-models-should-you-buy-sell-or-hold-nvda-stock
+Time Published: 2025-12-18T13:46:43Z
+Description: Nvidia remains a high‑growth AI infrastructure leader, but after a $4 trillion valuation and recent volatility, the setup looks best as a hold with a buy‑the...
+--------------------------------------------------
+
 Title: From biotech to defense, here are 10 top stock picks for 2026 from UBS
 URL: https://www.businessinsider.com/top-stock-picks-defense-biotech-investing-ideas-ubs-amzn-pep-2025-12
 Time Published: 2025-12-18T10:15:01Z
@@ -45,14 +57,14 @@ Time Published: 2025-12-17T14:51:45Z
 Description: Despite Amazon’s muted share price performance so far in 2025, the company’s underlying fundamentals remain strong and are gaining momentum.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as oil climbs and Wall Street weighs jobs data signals
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-oil-climbs-and-wall-street-weighs-jobs-data-signals-235109965.html
+Title: Stock market today: Dow, S&P 500, Nasdaq trade mixed as Wall Street weighs odds of rate cuts, Oracle sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-trade-mixed-as-wall-street-weighs-odds-of-rate-cuts-oracle-sinks-235109998.html
 Time Published: 2025-12-16T23:51:09Z
 Description: Stocks are leaning higher as oil gains after Trump placed a blockade on tankers off Venezuela.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq trade mixed as Wall Street weighs odds of rate cuts, Oracle sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-trade-mixed-as-wall-street-weighs-odds-of-rate-cuts-oracle-sinks-235109998.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as oil climbs and Wall Street weighs jobs data signals
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-oil-climbs-and-wall-street-weighs-jobs-data-signals-235109965.html
 Time Published: 2025-12-16T23:51:09Z
 Description: Stocks are leaning higher as oil gains after Trump placed a blockade on tankers off Venezuela.
 --------------------------------------------------

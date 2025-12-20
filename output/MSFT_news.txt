@@ -1,5 +1,23 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stocks Settle Higher on Upbeat Tech Outlook and Cooling Inflation
+URL: https://www.barchart.com/story/news/36701084/stocks-settle-higher-on-upbeat-tech-outlook-and-cooling-inflation
+Time Published: 2025-12-18T21:33:40Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up by +0.79%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.14%, and the Nasdaq 100...
+--------------------------------------------------
+
+Title: Forget Nvidia and Broadcom. This Forgotten Retail Stock Is a Top Performer in 2025.
+URL: https://www.barchart.com/story/news/36694357/forget-nvidia-and-broadcom-this-forgotten-retail-stock-is-a-top-performer-in-2025
+Time Published: 2025-12-18T16:26:19Z
+Description: Shares of this departmental store chain are up by 50% this year.
+--------------------------------------------------
+
+Title: Stocks Rally as Chip Makers Soar and US Price Pressures Ease
+URL: https://www.barchart.com/story/news/36694068/stocks-rally-as-chip-makers-soar-and-us-price-pressures-ease
+Time Published: 2025-12-18T16:13:28Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +1.28%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.82%, and the Nasdaq 100 Index ($IUXX...
+--------------------------------------------------
+
 Title: Is Microsoft Corporation (MSFT) One of Billionaire David Tepper’s Top Stock Picks Heading into 2026?
 URL: https://finance.yahoo.com/news/microsoft-corporation-msft-one-billionaire-061513753.html
 Time Published: 2025-12-18T06:15:13Z
@@ -102,10 +120,4 @@ Title: Stock market today: Dow, S&P 500, Nasdaq sink as data-packed last full we
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-data-packed-last-full-week-of-trading-kicks-off-095332835.html
 Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
---------------------------------------------------
-
-Title: Corporate America is scrambling to hire energy traders as the AI boom pressures electricity costs
-URL: https://finance.yahoo.com/news/corporate-america-is-scrambling-to-hire-energy-traders-as-the-ai-boom-pressures-electricity-costs-153051473.html
-Time Published: 2025-12-14T16:00:51Z
-Description: As electricity demand has soared, corporate America is looking to the power trading industry.
 --------------------------------------------------
