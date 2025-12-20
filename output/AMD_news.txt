@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Cantor Keeps Overweight on AMD Despite Target Cut, Citing Strong AI Tailwinds
+URL: https://finance.yahoo.com/news/cantor-keeps-overweight-amd-despite-225349228.html
+Time Published: 2025-12-18T22:53:49Z
+Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is included among the 12 Best Long Term US Stocks to Buy Now. On December 16, Cantor Fitzgerald cut its price...
+--------------------------------------------------
+
 Title: Stocks Settle Higher on Upbeat Tech Outlook and Cooling Inflation
 URL: https://www.barchart.com/story/news/36701084/stocks-settle-higher-on-upbeat-tech-outlook-and-cooling-inflation
 Time Published: 2025-12-18T21:33:40Z
@@ -80,14 +86,14 @@ Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq sink as data-packed last full week of trading kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-data-packed-last-full-week-of-trading-kicks-off-095332835.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as data-packed last full week of trading kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-data-packed-last-full-week-of-trading-kicks-off-095332636.html
 Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as data-packed last full week of trading kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-data-packed-last-full-week-of-trading-kicks-off-095332636.html
+Title: Stock market today: Dow, S&P 500, Nasdaq sink as data-packed last full week of trading kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-data-packed-last-full-week-of-trading-kicks-off-095332835.html
 Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------
