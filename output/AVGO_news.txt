@@ -206,14 +206,14 @@ Time Published: 2025-12-15T23:08:28Z
 Description: Investors counted down to the delayed release of the November jobs report, seen as pivotal to the path of interest rates next year.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slide with all eyes on delayed jobs report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-with-all-eyes-on-delayed-jobs-report-230828112.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures stall with all eyes on delayed jobs report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-with-all-eyes-on-delayed-jobs-report-230828682.html
 Time Published: 2025-12-15T23:08:28Z
 Description: Investors counted down to the delayed release of the November jobs report, seen as pivotal to the path of interest rates next year.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures stall with all eyes on delayed jobs report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-with-all-eyes-on-delayed-jobs-report-230828682.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slide with all eyes on delayed jobs report
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-with-all-eyes-on-delayed-jobs-report-230828112.html
 Time Published: 2025-12-15T23:08:28Z
 Description: Investors counted down to the delayed release of the November jobs report, seen as pivotal to the path of interest rates next year.
 --------------------------------------------------

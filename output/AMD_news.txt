@@ -86,14 +86,14 @@ Time Published: 2025-12-15T12:00:48Z
 Description: Investors say Microsoft's real edge comes from its sprawling AI ecosystem and growing independence from any single model provider.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as data-packed last full week of trading kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-data-packed-last-full-week-of-trading-kicks-off-095332636.html
+Title: Stock market today: Dow, S&P 500, Nasdaq wobble as data-packed last full week of trading kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-data-packed-last-full-week-of-trading-kicks-off-095332531.html
 Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq wobble as data-packed last full week of trading kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-wobble-as-data-packed-last-full-week-of-trading-kicks-off-095332531.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as data-packed last full week of trading kicks off
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-data-packed-last-full-week-of-trading-kicks-off-095332636.html
 Time Published: 2025-12-15T09:53:32Z
 Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------
