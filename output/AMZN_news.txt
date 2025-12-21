@@ -75,14 +75,14 @@ Time Published: 2025-12-17T14:51:45Z
 Description: Despite Amazon’s muted share price performance so far in 2025, the company’s underlying fundamentals remain strong and are gaining momentum.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq trade mixed as Wall Street weighs odds of rate cuts, Oracle sinks
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-trade-mixed-as-wall-street-weighs-odds-of-rate-cuts-oracle-sinks-235109998.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as oil climbs and Wall Street weighs jobs data signals
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-oil-climbs-and-wall-street-weighs-jobs-data-signals-235109965.html
 Time Published: 2025-12-16T23:51:09Z
 Description: Stocks are leaning higher as oil gains after Trump placed a blockade on tankers off Venezuela.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise as oil climbs and Wall Street weighs jobs data signals
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-oil-climbs-and-wall-street-weighs-jobs-data-signals-235109965.html
+Title: Stock market today: Dow, S&P 500, Nasdaq trade mixed as Wall Street weighs odds of rate cuts, Oracle sinks
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-trade-mixed-as-wall-street-weighs-odds-of-rate-cuts-oracle-sinks-235109998.html
 Time Published: 2025-12-16T23:51:09Z
 Description: Stocks are leaning higher as oil gains after Trump placed a blockade on tankers off Venezuela.
 --------------------------------------------------
