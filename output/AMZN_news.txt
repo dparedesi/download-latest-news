@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Instacart Is Under Investigation. Should You Buy the Dip in CART Stock?
+URL: https://www.barchart.com/story/news/36729894/instacart-is-under-investigation-should-you-buy-the-dip-in-cart-stock
+Time Published: 2025-12-20T16:00:02Z
+Description: With Instacart facing intense regulatory scrutiny, is this dip a buying opportunity or a warning sign to stay on the sidelines?
+--------------------------------------------------
+
+Title: Did Nvidia Just Lose Its Spot as Wall Street’s AI Chip Darling? JPMorgan Says This ‘Overall Top Pick’ Is Better.
+URL: https://www.barchart.com/story/news/36729168/did-nvidia-just-lose-its-spot-as-wall-streets-ai-chip-darling-jpmorgan-says-this-overall-top-pick-is-better
+Time Published: 2025-12-20T14:00:02Z
+Description: What exactly does Broadcom do, and why are Wall Street’s biggest investors loading up on shares?
+--------------------------------------------------
+
 Title: “It’s About AWS,” Says Jim Cramer About Amazon.com (AMZN)
 URL: https://finance.yahoo.com/news/aws-says-jim-cramer-amazon-144758650.html
 Time Published: 2025-12-19T14:47:58Z

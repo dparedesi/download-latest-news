@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Did Nvidia Just Lose Its Spot as Wall Street’s AI Chip Darling? JPMorgan Says This ‘Overall Top Pick’ Is Better.
+URL: https://www.barchart.com/story/news/36729168/did-nvidia-just-lose-its-spot-as-wall-streets-ai-chip-darling-jpmorgan-says-this-overall-top-pick-is-better
+Time Published: 2025-12-20T14:00:02Z
+Description: What exactly does Broadcom do, and why are Wall Street’s biggest investors loading up on shares?
+--------------------------------------------------
+
+Title: Is NVIDIA Corporation (NVDA) the Best S&P 500 Stock to Buy Now?
+URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-best-p-115627257.html
+Time Published: 2025-12-20T11:56:27Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is among the 14 Best S&P 500 Stocks to Buy Now. On December 17, Morgan Stanley analyst Joseph Moore maintained a Buy rating ...
+--------------------------------------------------
+
 Title: SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end
 URL: https://finance.yahoo.com/news/exclusive-softbank-races-fulfill-22-233202534.html
 Time Published: 2025-12-19T23:32:02Z
@@ -301,17 +313,4 @@ Title: Best-Performing Dow Stock of 2025 Will Surprise You
 URL: https://finance.yahoo.com/news/best-performing-dow-stock-2025-203054632.html
 Time Published: 2025-12-16T20:30:54Z
 Description: No, it's not Nvidia, or any of its tech titans for that matter
---------------------------------------------------
-
-Title: Investing Pros Feel Good About Stocks These Days. That Might Not Be a Good Thing.
-URL: https://www.investopedia.com/investing-pros-feel-good-about-stocks-these-days-that-might-not-be-a-good-thing-11870361
-Time Published: 2025-12-16T19:33:02Z
-Full Content:
-Professional money managers are feeling better about the stock market than they have in years. That may be cause for caution. The smart money is more bullish than at any time since July 2021, according to Bank of America’s December Global Fund Manager Survey, which showed optimism about the economic outlook at multi-year highs and cash levels at record lows. That may sound bullish—but the reading has pushed BofA’s "Bull & Bear Indicator" up to 7.9, a tenth of a point away from what the bank considers a "sell signal.” Why is that? The indicator is premised on the idea that market returns are driven by positioning, profit, and policy. The best time to buy risk assets, according to BofA, is when investor positioning is extremely bearish, profit expectations are recessionary, and policymakers are stimulating the economy—and the best time to exit is when positioning is bullish, profits are expected to skyrocketed, and policy is tightening. Investor sentiment is often a pivotal factor determining how the stock market responds to economic data, policy decisions, and corporate news. Excessive optimism can cause investors to overlook warning signs, while excessive pessimism can lead investors to overstate the significance of negative signals. Positioning is extremely bullish today, according to BofA. Fund managers' cash levels were at a record-low 3.3% when the survey was conducted between Dec. 5 and 11. Investors are more overweight stocks and commodities—a reflection of risk appetite—than any point since February 2022. Optimism about corporate profits is also running high. Nearly two-thirds of surveyed investors expect global earnings to increase over the next year, the largest share since August 2021. (A FactSet analysis estimates full-year 2025 earnings growth at above 12%, above the 10-year average.) Only 3% of those surveyed expect the global economy to fall into a recession over the next year. Policy, meanwhile, isn't looking too restrictive at present. Last week, a divided Federal Reserve cut interest rates for the third time this year, electing to support a weakening labor market despite signs inflation is sticking above its 2% target. Labor market data released Tuesday could bolster arguments to continue cutting rates early next year. The tax bill signed into law by President Donald Trump in July is also expected to boost economic growth next year. The Bull & Bear Indicator has flashed “sell” 16 times since 2002. More often than not, the S&P 500 rises in the three months after a sell signal. But historically, pullbacks have been larger than advances, and the index posted an average three-month return of -1.4% during those 16 periods. The indicator has sent two sell signals this year, in July and October. Both came about a month before stretches of exceptional volatility, but neither foretold a prolonged slump. The S&P 500 rose 7.5% in the three months that followed July’s signal. Since the alarm went off in October, the index is up about 1%. Some other sentiment measures are flashing some concern, but don't appear overly dramatic. CNN's Fear & Greed index was recently in a neutral range, less bearish than in recent weeks. And the weekly AAII survey of individual investor sentiment has lately tipped bullish or neutral after recovering from more downbeat readings last month. The VIX, Wall Street's "fear gauge," remains in a zone generally denoting calm. Investors are increasingly concerned about the AI trade that’s defined the bull market of the past three years. Nearly 40% of investors said an AI bubble was the biggest risk facing markets next year. Nearly 20% said the biggest threat to stocks was a “disorderly rise in bond yields.” When asked what would be the most likely cause of distress in credit markets, nearly 30% of those surveyed said “AI hyperscaler capex,” the second-most common response. December’s survey marks the first time respondents have expressed any concern that AI spending could destabilize debt markets. Investor concerns about big tech’s massive spending on AI infrastructure have been a headwind for tech stocks in recent months. The Roundhill Magnificent Seven ETF (MAGS) is down about 4% since hitting a record high in late October. On Monday, one-time darlings of the AI trade, Nvidia (NVDA) and Oracle (ORCL), were trading about 15% and 40% below their respective all-time highs.
---------------------------------------------------
-
-Title: JPMorgan Says to Sell NVDA March $160 Puts. Should You Actually?
-URL: https://www.barchart.com/story/news/36652867/jpmorgan-says-to-sell-nvda-march-160-puts-should-you-actually
-Time Published: 2025-12-16T19:13:09Z
-Description: Here’s what the chart is saying about Nvidia’s future stock price, and what the put trade would mean for you.
 --------------------------------------------------
