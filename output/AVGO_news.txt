@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Stocks Rally as Strength in Tech Boosts Market Sentiment
+URL: https://www.barchart.com/story/news/36721504/stocks-rally-as-strength-in-tech-boosts-market-sentiment
+Time Published: 2025-12-19T21:33:33Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed up by +0.88%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.38%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: Jim Cramer Says He Is “Not That Worried About Broadcom”
+URL: https://finance.yahoo.com/news/jim-cramer-says-not-worried-191452712.html
+Time Published: 2025-12-19T19:14:52Z
+Description: Broadcom Inc. (NASDAQ:AVGO) is one of the stocks Jim Cramer recently discussed. Cramer highlighted that he trusts the company CEO and commented: “Last week...
+--------------------------------------------------
+
 Title: Nvidia stock gains on Trump chip export review, sparking rally in chipmakers
 URL: https://finance.yahoo.com/news/nvidia-stock-gains-on-trump-chip-export-review-sparking-rally-in-chipmakers-160401242.html
 Time Published: 2025-12-19T16:04:01Z
@@ -171,7 +183,7 @@ Title: CoreWeave collapse sparks fears of cracks in AI infrastructure boom
 URL: https://www.coindesk.com/markets/2025/12/16/coreweave-collapse-sparks-fears-of-cracks-in-ai-infrastructure-boom
 Time Published: 2025-12-16T15:34:37Z
 Full Content:
-CoreWeave (CRWV) has seen its share price fall more than 60% from its June record amid growing concerns that the AI infrastructure boom may have peaked. New details reported Tuesday by the Wall Street Journal highlight how fragile the buildout has become as operational delays collide with heavy leverage and tightening credit conditions. Investors are increasingly focused on two core risks with CRWV, according to the story. First, the company relies heavily on high interest debt to finance purchases of advanced AI chips from NVIDIA (NVDA). Second, the company depends on a small number of large customers, including OpenAI, Microsoft (MSFT) and Meta (META), for the majority of its revenue. Some of CoreWeave’s problems stemmed from a basic construction setback, the story continued. Heavy rainstorms in North Texas delayed concrete pours at a major data center site, pushing back delivery timelines for computing capacity. Which shows even routine infrastructure bottlenecks can disrupt trillion dollar AI investment plans. Investor confidence weakened further in late October when CoreWeave’s proposed $9 billion acquisition of Core Scientific collapsed. Core Scientific (CORZ), a former bitcoin miner turned data center landlord, rejected the deal after shareholders warned it would expose them to CoreWeave’s volatile share price and leveraged balance sheet. Shares of Oracle (ORCL) and Broadcom (AVGO) have fallen by double digit percentages in the past week after recent third quarter earnings, both companies flagging slower timing for AI related spending. The crypto and AI mining spillover has occurred as a result of new diversified revenues for bitcoin miners. IREN (IREN) and Cipher Mining (CIFR) have pivoted toward AI focused on high performance computing, signing customers including Microsoft. Each had previously surged over 500% this year, but both are down about 50% in recent weeks.. Another cause for concern, meanwhile, is that the bitcoin mining sector is increasingly relying on debt to fund expansion. CoreWeave shares have fallen a further 4% on Tuesday, trading below $70 for the first time since May. More For You Protocol Research: GoPlus Security What to know: More For You Fidelity's Jurrien Timmer: Expect lame 2026 as four-year bitcoin cycle appears intact The director of global macro at the asset management giant remains a secular bull on bitcoin, but isn't optimistic about the next year. What to know: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
+CoreWeave (CRWV) has seen its share price fall more than 60% from its June record amid growing concerns that the AI infrastructure boom may have peaked. New details reported Tuesday by the Wall Street Journal highlight how fragile the buildout has become as operational delays collide with heavy leverage and tightening credit conditions. Investors are increasingly focused on two core risks with CRWV, according to the story. First, the company relies heavily on high interest debt to finance purchases of advanced AI chips from NVIDIA (NVDA). Second, the company depends on a small number of large customers, including OpenAI, Microsoft (MSFT) and Meta (META), for the majority of its revenue. Some of CoreWeave’s problems stemmed from a basic construction setback, the story continued. Heavy rainstorms in North Texas delayed concrete pours at a major data center site, pushing back delivery timelines for computing capacity. Which shows even routine infrastructure bottlenecks can disrupt trillion dollar AI investment plans. Investor confidence weakened further in late October when CoreWeave’s proposed $9 billion acquisition of Core Scientific collapsed. Core Scientific (CORZ), a former bitcoin miner turned data center landlord, rejected the deal after shareholders warned it would expose them to CoreWeave’s volatile share price and leveraged balance sheet. Shares of Oracle (ORCL) and Broadcom (AVGO) have fallen by double digit percentages in the past week after recent third quarter earnings, both companies flagging slower timing for AI related spending. The crypto and AI mining spillover has occurred as a result of new diversified revenues for bitcoin miners. IREN (IREN) and Cipher Mining (CIFR) have pivoted toward AI focused on high performance computing, signing customers including Microsoft. Each had previously surged over 500% this year, but both are down about 50% in recent weeks.. Another cause for concern, meanwhile, is that the bitcoin mining sector is increasingly relying on debt to fund expansion. CoreWeave shares have fallen a further 4% on Tuesday, trading below $70 for the first time since May. More For You Protocol Research: GoPlus Security What to know: Meer voor jou Tom Lee responds to controversy surrounding Fundstrat’s differing bitcoin outlooks A debate on X over seemingly conflicting bitcoin forecasts from Fundstrat analysts drew a response from Tom Lee, highlighting differing mandates and time horizons. Wat u moet weten: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
 --------------------------------------------------
 
 Title: Broadcom Can’t Stop Falling. Overreaction or AI Stock Warning Sign?
@@ -198,90 +210,4 @@ Title: Big Tech stocks are getting cheaper, and that could mean gains of up to 6
 URL: https://www.marketwatch.com/story/big-tech-stocks-are-getting-cheaper-and-that-could-mean-gains-of-up-to-60-fdf1b70c
 Time Published: 2025-12-16T13:00:00Z
 Description: S 500 stocks may be expensive relative to their historical averages, but many are cheaper than they were at the start of the quarter.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures steady with all eyes on delayed jobs report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-steady-with-all-eyes-on-delayed-jobs-report-230828232.html
-Time Published: 2025-12-15T23:08:28Z
-Description: Investors counted down to the delayed release of the November jobs report, seen as pivotal to the path of interest rates next year.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures stall with all eyes on delayed jobs report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-with-all-eyes-on-delayed-jobs-report-230828682.html
-Time Published: 2025-12-15T23:08:28Z
-Description: Investors counted down to the delayed release of the November jobs report, seen as pivotal to the path of interest rates next year.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slide with all eyes on delayed jobs report
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-with-all-eyes-on-delayed-jobs-report-230828112.html
-Time Published: 2025-12-15T23:08:28Z
-Description: Investors counted down to the delayed release of the November jobs report, seen as pivotal to the path of interest rates next year.
---------------------------------------------------
-
-Title: These Experts Have 6 Top Internet Stock Picks Lined Up for Next Year
-URL: https://www.investopedia.com/these-experts-have-6-top-internet-stock-picks-lined-up-for-next-year-11867336
-Time Published: 2025-12-15T19:59:15Z
-Full Content:
-Jefferies has some ideas about where tech investors should look after a tough stretch for the sector. Tech stocks took a hit last week, with cloud computing giant Oracle (ORCL) and chipmaker Broadcom (AVGO) at the forefront after quarterly earnings that failed to impress investors amid growing skepticism around the AI trade. But Jefferies analysts told clients amid Thursday's selloff that they still see gains for some standouts in the sector, which they identified for their "peer-leading growth" and strong fundamentals. All but one of the stocks Jefferies highlighted have already seen big gains 2025, outperforming both the S&P 500 and industry peers. Here are the analysts' ideas. Worries about an AI bubble have rattled markets in recent months, weighing on the tech sector. Some tech stocks have fared better than others, leaving many investors wondering how to pick winners from a crowded field of stocks, many which have retreated from recent highs. One of Jefferies' top picks is adtech company AppLovin (APP). Though the stock's torrid rise was wracked by short-seller allegations of sketchy practices earlier this year, it has still more than doubled in value in 2025, reaching a fresh high near $725 last week. Jefferies said it sees more gains ahead, with AppLovin expected to make a change in the first half of 2026 that would dramatically expand its business by opening up access to its referral-based advertising platform to more customers. Even among Wall Street's biggest AppLovin bulls, few are quite as bullish as Jefferies, however, with a Street-high target of $860 suggesting nearly 30% upside from Friday's close. Reddit (RDDT), Spotify (SPOT) and Roku (ROKU), which have all added over a third of their value in 2025, were among Jefferies' top picks based on hopes that new features and user experience improvements could drive higher engagement and share prices. Jefferies has a $325 target for Reddit and $135 objective for Roku, suggesting gains of about 45% and 33%, respectively. The firm's $800 target for Spotify would point to a roughly 26% rise. All three levels exceed the consensus projections of analysts surveyed by Visible Alpha. Uber (UBER) and Zillow (Z) rounded out the group. Uber, which is up some 40% year-to-date, could climb another roughly 40%, to $120, said Jefferies, with gains from robotaxi partnerships, new delivery customers, and inroads with previously underrepresented demographic groups seen helping sustain its recent momentum. Zillow, which as of Friday was down some 17% from its September highs above $90 amid worries about ongoing legal challenges, competition, and a muted housing market, finished last week less than 1% higher from where it was when the year began—then fell further today. Jefferies said it sees a full recovery for the stock and more, with a $100 target as the real estate marketplace rolls out new tools and incentives for agents.
---------------------------------------------------
-
-Title: Apple’s AI Server Chip “Baltra” Likely To Be Used Primarily For AI Inference
-URL: https://wccftech.com/apples-ai-server-chip-baltra-likely-to-be-used-primarily-for-ai-inference/
-Time Published: 2025-12-15T19:07:35Z
-Description: It is common knowledge that Apple is a vertical integration afficionado, preferring to retain key technological nodes in-house wherever feasible, with its sprawling custom silicon design efforts offering perhaps the most apt illustration of this paradigm. Ent…
---------------------------------------------------
-
-Title: Marvell’s CEO Says the Company Didn’t Lose Any Orders. Why Was Wall Street So Worried, and How Should You Play MRVL Stock Here?
-URL: https://www.barchart.com/story/news/36628363/marvells-ceo-says-the-company-didnt-lose-any-orders-why-was-wall-street-so-worried-and-how-should-you-play-mrvl-stock-here
-Time Published: 2025-12-15T17:18:31Z
-Description: Marvell’s recent selloff reflects market fears over potential loss of hyperscaler orders, but management and some analysts push back on those concerns...
---------------------------------------------------
-
-Title: Broadcom Stock Dips Post Earnings: Is AVGO a Buy, Sell, or Hold?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3349913d-ed1c-4d0e-9730-626ef0207c9d
-Time Published: 2025-12-15T16:52:58Z
-Description: None
---------------------------------------------------
-
-Title: Forget the AI Bubble and Buy Nvidia Stock for 2026: Here’s Why
-URL: https://www.barchart.com/story/news/36627230/forget-the-ai-bubble-and-buy-nvidia-stock-for-2026-heres-why
-Time Published: 2025-12-15T16:23:31Z
-Description: Nvidia stock has come off its 2025 highs, among others, amid concerns over the feared AI bubble. However, it makes sense to buy NVDA stock at these...
---------------------------------------------------
-
-Title: Premarket Movers: Dollar General Still Surging Higher on Earnings
-URL: https://247wallst.com/investing/2025/12/15/premarket-movers-dollar-general-still-surging-higher-on-earnings/
-Time Published: 2025-12-15T14:34:58Z
-Full Content:
-Investing Shares of Dollar General are up another $3.80 a share in premarket. All as it continues to gap higher on strong earnings and a dividend. Sending You to Google News in 3 © ESB Professional / Shutterstock.com Shares of Dollar General (NYSE: DG) are up another $3.80 a share in premarket. All as it continues to gap higher on strong earnings and a dividend. Not only did the company just declare a 59-cent dividend (payable on January 20 to shareholders of record as of January 6), it also just earned a profit of $1.28, up 44% year over year, and 35 cents better than expected. Sales of $10.65 billion, up 4.6% year over year, beat estimates by $50 million. For fiscal year 2025, DG expects to see net sales increase by 4.7% to 4.9%, which is up from an earlier range of 4.3% to 4.8%. That translates into sales of $42.52 billion to $42.6 billion, which is above estimates of $42.49 billion. Same store sales growth is now seen jumping 2.5% to 2.7%, which is up from 2.1% to 2.6%. Fueling upside, analysts at JPMorgan just upgraded the DG stock to an overweight rating with a price target of $66. The firm is bullish on store remodels, stocking, and chain improvements. Shares of Tesla (NASDAQ: TSLA) are up about $5 a share in premarket. That’s after tacking on $12.09 a share on Friday. According to analysts at Barclays, vehicle deliveries are losing importance, as noted by Teslarati.com. “Even CEO Elon Musk has implied at times that the automotive side, as a whole, will only make up a small percentage of Tesla’s total valuation, as Optimus and AI begin to shine with importance,” they added. In fact, according to a Musk note on X.com, “Almost all of Tesla’s value long-term will be from AI & robots, both vehicle & humanoid…” Barclays has an equal weight holding on TSLA with a price target of $350 a share. Broadcom (NASDAQ: AVGO) took a massive hit late last week, falling $46.44 on Friday. All after management warned of margin pressures. However, this morning, the stock is slowly regaining lost ground, gaining $3 in premarket. Helping, analysts at Morgan Stanley still expect AVGO to see strong growth moving forward. With an overweight rating on AVGO, Morgan Stanley has a $462 price target on AVGO. They also believe the latest pullback is an overreaction. Analysts at Bank of America have a $500 price target with a buy rating. Goldman Sachs has a $450 price target with a buy rating. UBS has a $472 price target with a buy rating. And Bernstein has a $475 price target with an outperform rating. Our top personal finance-related articles today. Your wallet will thank you later. Shares of Micron (NASDAQ: MU) are up about 14%, or by $31 this morning. All thanks to strong earnings. EPS… After soaring in 2023 and 2024, shares of Tesla (NASDAQ:TSLA) were battered throughout the first half of 2025. The largest U.S.… Tesla (NASDAQ: TSLA) hasn’t been the safest stock on the market. Most of that was because of protests and his involvement in… Tesla Motors is scheduled to report its third-quarter financial results after the markets close on Wednesday. With AI bubble talk, markets are swimming in red. However, that’s not stopping analysts from pounding the table over stocks… Tesla’s shares edged higher after Morgan Stanley analysts hiked their price target on the stock, citing bullishness on the company’s… The “Trump rally” is gone for Tesla (NASDAQ:TSLA). After nearly doubling in value between Nov. 5 and Dec. 17 to… Tesla saw some rekindled pressure on its stock on Tuesday, and it wasn't even from a rogue tweet from CEO… The latest secondary stock offering from Tesla Motors was perhaps even a bigger success than expected.
---------------------------------------------------
-
-Title: Morgan Stanley drops eye-popping Broadcom price target after event
-URL: https://www.thestreet.com/investing/stocks/morgan-stanley-drops-eye-popping-broadcom-price-target-after-event
-Time Published: 2025-12-15T14:33:00Z
-Description: Broadcom (AVGO) just reported another monster quarter, then saw its stock take a beating. Shares tanked 11% to nearly $360, erasing over $200 billion in...
---------------------------------------------------
-
-Title: The AI boom will turn to bust in 2026, says this forecaster who offers his trade of the year
-URL: https://www.marketwatch.com/story/the-ai-boom-will-turn-to-bust-next-year-says-this-forecaster-who-offers-his-trade-of-the-year-9c2a2332
-Time Published: 2025-12-15T14:30:00Z
-Description: High valuations leave stocks vulnerable to a big tech sell-off, according to BCA Research
---------------------------------------------------
-
-Title: OpenAI is the 2025 Yahoo Finance Company of the Year
-URL: https://finance.yahoo.com/news/openai-is-the-2025-yahoo-finance-company-of-the-year-120054312.html
-Time Published: 2025-12-15T12:00:54Z
-Description: The ChatGPT maker sparked this generation's tech revolution. Can AI's biggest engine continue to drive its gold rush?
---------------------------------------------------
-
-Title: Stocks Set to Open Higher as Dip Buyers Step In After Selloff, Key U.S. Economic Data Awaited
-URL: https://www.barchart.com/story/news/36620436/stocks-set-to-open-higher-as-dip-buyers-step-in-after-selloff-key-u-s-economic-data-awaited
-Time Published: 2025-12-15T11:21:44Z
-Description: December S&P 500 E-Mini futures (ESZ25) are up +0.48%, and December Nasdaq 100 E-Mini futures (NQZ25) are up +0.49% this morning, signaling a partial rebound...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq sink as data-packed last full week of trading kicks off
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-data-packed-last-full-week-of-trading-kicks-off-095332835.html
-Time Published: 2025-12-15T09:53:32Z
-Description: Investors are bracing for a flurry of key delayed data this week to help set bets for rate cuts in 2026.
 --------------------------------------------------

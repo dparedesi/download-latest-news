@@ -24,27 +24,3 @@ URL: https://finance.yahoo.com/news/bernstein-reiterates-buy-rating-adobe-034721
 Time Published: 2025-12-16T03:47:21Z
 Description: ​Adobe Inc. (NASDAQ:ADBE) is one of the Best SaaS Stocks to Buy Right Now. On December 12, Mark Moerdler from Bernstein reiterated a Buy rating on Adobe Inc....
 --------------------------------------------------
-
-Title: Stocks Fall Ahead of US November Payroll Report
-URL: https://www.barchart.com/story/news/36632922/stocks-fall-ahead-of-us-november-payroll-report
-Time Published: 2025-12-15T21:36:35Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed down by -0.16%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down by -0.09%, and the Nasdaq 100...
---------------------------------------------------
-
-Title: Stocks Turn Lower on AI Spending Concerns
-URL: https://www.barchart.com/story/news/36627858/stocks-turn-lower-on-ai-spending-concerns
-Time Published: 2025-12-15T16:56:50Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.15%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.24%, and the Nasdaq 100 Index ($IUXX ...
---------------------------------------------------
-
-Title: Costco downgraded, Dollar General upgraded: Wall Street's top analyst calls
-URL: https://finance.yahoo.com/news/costco-downgraded-dollar-general-upgraded-145736293.html
-Time Published: 2025-12-15T14:57:36Z
-Description: Costco downgraded, Dollar General upgraded: Wall Street's top analyst calls
---------------------------------------------------
-
-Title: Stocks Climb in Anticipation of Fed-Friendly US Economic News
-URL: https://www.barchart.com/story/news/36625560/stocks-climb-in-anticipation-of-fed-friendly-us-economic-news
-Time Published: 2025-12-15T14:57:12Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +0.39%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.27%, and the Nasdaq 100 Index ($IUXX...
---------------------------------------------------
