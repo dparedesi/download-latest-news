@@ -18,6 +18,12 @@ Time Published: 2025-12-19T21:25:05Z
 Description: Palantir has teamed up with Nvidia and CenterPoint Energy to launch its new Chain Reaction platform.
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq rise as Oracle, Nvidia lead AI trade resurgence
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-oracle-nvidia-lead-ai-trade-resurgence-210423219.html
+Time Published: 2025-12-19T21:04:23Z
+Description: US stocks rose as 2025's last full week of trading drew to a close, with Wall Street weighing catch-up jobs and inflation data.
+--------------------------------------------------
+
 Title: Alibaba Group (BABA) Has Shown Interest to Buy H200 Chips From NVDA
 URL: https://finance.yahoo.com/news/alibaba-group-baba-shown-interest-195249890.html
 Time Published: 2025-12-19T19:52:49Z
@@ -308,10 +314,4 @@ Title: JPMorgan Says to Sell NVDA March $160 Puts. Should You Actually?
 URL: https://www.barchart.com/story/news/36652867/jpmorgan-says-to-sell-nvda-march-160-puts-should-you-actually
 Time Published: 2025-12-16T19:13:09Z
 Description: Here’s what the chart is saying about Nvidia’s future stock price, and what the put trade would mean for you.
---------------------------------------------------
-
-Title: Big Tech Stocks Look Downright Dangerous Here. How I’m Positioning Right Now.
-URL: https://www.barchart.com/story/news/36652701/big-tech-stocks-look-downright-dangerous-here-how-im-positioning-right-now
-Time Published: 2025-12-16T19:03:24Z
-Description: These inverse and leveraged FANG-focused ETFs are worth a look here.
 --------------------------------------------------
