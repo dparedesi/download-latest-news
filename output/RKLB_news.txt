@@ -1,5 +1,11 @@
 List of news related to Rocket Lab RKLB:
 
+Title: Jim Cramer on Rocket Lab: “I Think It’s a Very Good Spec”
+URL: https://finance.yahoo.com/news/jim-cramer-rocket-lab-think-150753397.html
+Time Published: 2025-12-21T15:07:53Z
+Description: Rocket Lab Corporation (NASDAQ:RKLB) is one of the stocks Jim Cramer shed light on. A caller asked if Cramer would include the stock “in the end of the year ...
+--------------------------------------------------
+
 Title: Rocket Lab Successfully Launches for iQPS, Ends 2025 with 21 Launches and 100% Mission Success
 URL: https://financialpost.com/globe-newswire/rocket-lab-successfully-launches-for-iqps-ends-2025-with-21-launches-and-100-mission-success
 Time Published: 2025-12-21T08:04:24Z

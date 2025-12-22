@@ -1,5 +1,17 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Where is Taiwan Semiconductor Manufacturing (TSM) Headed According to Analysts?
+URL: https://finance.yahoo.com/news/where-taiwan-semiconductor-manufacturing-tsm-145725336.html
+Time Published: 2025-12-21T14:57:25Z
+Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the most widely held stocks by hedge funds in 2025. Reuters reported on December 17...
+--------------------------------------------------
+
+Title: Intel stock soared in 2025. But the chipmaker still has a long road ahead.
+URL: https://finance.yahoo.com/news/intel-stock-soared-in-2025-but-the-chipmaker-still-has-a-long-road-ahead-140004121.html
+Time Published: 2025-12-21T14:00:04Z
+Description: Intel's manufacturing business still needs to win a big customer.
+--------------------------------------------------
+
 Title: Did Nvidia Just Lose Its Spot as Wall Street’s AI Chip Darling? JPMorgan Says This ‘Overall Top Pick’ Is Better.
 URL: https://www.barchart.com/story/news/36729168/did-nvidia-just-lose-its-spot-as-wall-streets-ai-chip-darling-jpmorgan-says-this-overall-top-pick-is-better
 Time Published: 2025-12-20T14:00:02Z
