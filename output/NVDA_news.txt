@@ -200,16 +200,16 @@ Time Published: 2025-12-17T23:11:43Z
 Description: Nvidia board member Harvey Jones sold more than $44 ​million worth of company stock, a ‌regulatory filing showed on Wednesday.  Jones, who has ‌served as a...
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq futures rise as CPI inflation eases in November, Micron boosts tech
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-rise-as-cpi-inflation-eases-in-november-micron-boosts-tech-230752938.html
-Time Published: 2025-12-17T23:07:52Z
-Description: Stock futures jumped following the latest reading on consumer inflation that could help set expectations for the path of interest rates.
---------------------------------------------------
-
 Title: Stock market today: S&P 500, Nasdaq futures rise as Micron boosts tech after sell-off, CPI report looms
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-rise-as-micron-boosts-tech-after-sell-off-cpi-report-looms-230752790.html
 Time Published: 2025-12-17T23:07:52Z
 Description: The wait is on for the latest reading on consumer inflation that could help set expectations for the path of interest rates.
+--------------------------------------------------
+
+Title: Stock market today: S&P 500, Nasdaq futures rise as CPI inflation eases in November, Micron boosts tech
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-rise-as-cpi-inflation-eases-in-november-micron-boosts-tech-230752938.html
+Time Published: 2025-12-17T23:07:52Z
+Description: Stock futures jumped following the latest reading on consumer inflation that could help set expectations for the path of interest rates.
 --------------------------------------------------
 
 Title: This Tech Stock Takes the S&P 500 Top Spot in 2025
