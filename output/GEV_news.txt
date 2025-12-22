@@ -1,5 +1,11 @@
 List of news related to GE Vernova stock price GEV:
 
+Title: GE Vernova (GEV): Reassessing Valuation After Jefferies Upgrade, Higher Targets, Bigger Buyback and Dividend Hike
+URL: https://finance.yahoo.com/news/ge-vernova-gev-reassessing-valuation-051521995.html
+Time Published: 2025-12-20T05:15:21Z
+Description: GE Vernova (GEV) just gave investors a fresh catalyst by pairing a Jefferies upgrade with higher long term revenue targets, a doubled dividend, and an...
+--------------------------------------------------
+
 Title: Bank of America revamps forecast for 'bridge-to-grid' AI stock
 URL: https://www.thestreet.com/investing/stocks/bank-of-america-revamps-forecast-for-bridge-to-grid-ai-stock
 Time Published: 2025-12-19T04:07:00Z
@@ -29,16 +35,4 @@ Title: Stocks Retreat as AI Infrastructure Companies and Chip Makers Fall
 URL: https://www.barchart.com/story/news/36671778/stocks-retreat-as-ai-infrastructure-companies-and-chip-makers-fall
 Time Published: 2025-12-17T16:24:19Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.61%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.12%, and the Nasdaq 100 Index ($IUXX ...
---------------------------------------------------
-
-Title: 3 AI Names With Big Buybacks: GEV, PSTG, and LSCC Signal Confidence
-URL: https://www.marketbeat.com/stock-ideas/3-ai-names-with-big-buybacks-gev-pstg-and-lscc-signal-confidence/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-12-16T17:48:00Z
-Description: GEV, PSTG, and LSCC are three AI stocks lifting their buyback authorizations. After a massive 27% drop, PSTG's announcement is a clear signal of confidence.
---------------------------------------------------
-
-Title: Is A. O. Smith Stock Underperforming the Dow?
-URL: https://www.barchart.com/story/news/36641219/is-a-o-smith-stock-underperforming-the-dow
-Time Published: 2025-12-16T11:18:16Z
-Description: Although A. O. Smith has lagged behind the Dow over the past year, analysts remain moderately optimistic about the stock’s prospects.
 --------------------------------------------------
