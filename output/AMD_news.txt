@@ -1,5 +1,17 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Analyst who predicted Palantir rally picks top stock for 2026
+URL: https://www.thestreet.com/investing/stocks/analyst-who-predicted-palantir-rally-picks-top-stock-for-2026
+Time Published: 2025-12-21T21:36:17Z
+Description: Stephen Guilfoyle has been navigating Wall Street longer than most. His career stretches back to working on the New York Stock Exchange floor in 1987, when...
+--------------------------------------------------
+
+Title: Amazon Could Invest $10 Billion in OpenAI. Should You Invest in AMZN Stock First?
+URL: https://www.barchart.com/story/news/36735974/amazon-could-invest-10-billion-in-openai-should-you-invest-in-amzn-stock-first
+Time Published: 2025-12-21T19:30:02Z
+Description: Amazon is reportedly weighing a bold multi-billion $ bet on OpenAI, which can deepen its dominance in the AI race. Is AMZN a buy now?
+--------------------------------------------------
+
 Title: Advanced Micro Devices (AMD) Down More Than 13.9%, Here’s What You Need to Know
 URL: https://finance.yahoo.com/news/advanced-micro-devices-amd-down-144525898.html
 Time Published: 2025-12-21T14:45:25Z
@@ -66,16 +78,4 @@ Title: As Nvidia Launches New Nemotron 3 Models, Should You Buy, Sell, or Hold N
 URL: https://www.barchart.com/story/news/36690497/as-nvidia-launches-new-nemotron-3-models-should-you-buy-sell-or-hold-nvda-stock
 Time Published: 2025-12-18T13:46:43Z
 Description: Nvidia remains a high‑growth AI infrastructure leader, but after a $4 trillion valuation and recent volatility, the setup looks best as a hold with a buy‑the...
---------------------------------------------------
-
-Title: Stocks Retreat as AI Infrastructure Companies and Chip Makers Fall
-URL: https://www.barchart.com/story/news/36671778/stocks-retreat-as-ai-infrastructure-companies-and-chip-makers-fall
-Time Published: 2025-12-17T16:24:19Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down by -0.61%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down by -0.12%, and the Nasdaq 100 Index ($IUXX ...
---------------------------------------------------
-
-Title: MetaX soars 700% in debut as China AI chips push lures investors
-URL: https://finance.yahoo.com/news/chinese-ai-chipmaker-metax-shares-021911316.html
-Time Published: 2025-12-17T02:19:11Z
-Description: MetaX Integrated Circuits jumped 700% in its Shanghai market debut as the Chinese AI chipmaker tapped into strong momentum triggered by Beijing's push to...
 --------------------------------------------------

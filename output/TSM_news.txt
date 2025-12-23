@@ -29,15 +29,3 @@ URL: https://finance.yahoo.com/news/bernstein-asserts-outperform-rating-taiwan-0
 Time Published: 2025-12-18T06:15:07Z
 Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of billionaire David Tepper’s top stock picks heading into 2026. On December 10...
 --------------------------------------------------
-
-Title: How emerging-market stocks can keep trouncing the S&P 500
-URL: https://www.marketwatch.com/story/how-emerging-markets-stocks-can-keep-trouncing-the-s-p-500-3717fc49
-Time Published: 2025-12-17T18:46:00Z
-Description: Emerging-market stocks have broadly crushed the U.S. equities market this year, in one of the biggest market surprises of 2025.
---------------------------------------------------
-
-Title: Energy stocks are the new bonds, this strategist argues
-URL: https://www.marketwatch.com/story/energy-stocks-are-the-new-bonds-this-strategist-argues-ae4db842
-Time Published: 2025-12-17T13:45:00Z
-Description: In an inflationary setting, why hold bonds at all, says Louis-Vincent Gave
---------------------------------------------------
