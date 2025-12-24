@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: Truist Reaffirms Buy on NVIDIA (NVDA), Raises PT to $275 on AI Infrastructure Upside
+URL: https://finance.yahoo.com/news/truist-reaffirms-buy-nvidia-nvda-075136854.html
+Time Published: 2025-12-23T07:51:36Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks in the Spotlight for Investors. On December 19, Truist reiterated the stock at “Buy” and raised its ...
+--------------------------------------------------
+
+Title: Stock Indexes Close Higher on Strength in Tech Stocks
+URL: https://www.barchart.com/story/news/36752104/stock-indexes-close-higher-on-strength-in-tech-stocks
+Time Published: 2025-12-22T22:21:25Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +0.64%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.47%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: The Case for Nvidia Stock Hitting $275 in 2026
+URL: https://www.barchart.com/story/news/36751671/the-case-for-nvidia-stock-hitting-275-in-2026
+Time Published: 2025-12-22T21:57:49Z
+Description: After a historic run and a healthy pause, Wedbush sees AI’s next chapter setting up Nvidia and the broader tech sector for 2026.
+--------------------------------------------------
+
 Title: GitHub - ashishpatel26/500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrat
 URL: https://github.com/ashishpatel26/500-AI-Agents-Projects
 Time Published: 2025-12-22T21:06:27Z
