@@ -1,15 +1,21 @@
 List of news related to AST SpaceMobile ASTS:
 
+Title: Stock market today: S&P 500, Nasdaq, Dow waver after surprise GDP growth trims rate-cut bets
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-waver-after-surprise-gdp-growth-trims-rate-cut-bets-233402502.html
+Time Published: 2025-12-22T23:34:02Z
+Description: Tuesday's flurry of delayed data releases could fill in gaps in Wall Street's picture of the economy.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slip after US GDP unexpectedly accelerates
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-after-us-gdp-growth-unexpectedly-accelerates-233402073.html
 Time Published: 2025-12-22T23:34:02Z
 Description: Tuesday's flurry of delayed data releases could fill in gaps in Wall Street's picture of the economy.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq, Dow waver after surprise GDP growth trims rate-cut bets
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-waver-after-surprise-gdp-growth-trims-rate-cut-bets-233402502.html
-Time Published: 2025-12-22T23:34:02Z
-Description: Tuesday's flurry of delayed data releases could fill in gaps in Wall Street's picture of the economy.
+Title: RKLB, ASTS, TDG: Insiders are Selling These 3 Space Stocks
+URL: https://www.marketbeat.com/originals/rklb-asts-tdg-insiders-are-selling-these-3-space-stocks/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-12-22T17:17:00Z
+Description: Insiders are selling three key space stocks, including two that are up more than 150% in 2025. See which sales create cause for concern.
 --------------------------------------------------
 
 Title: ASTS stock spikes before holiday launch
