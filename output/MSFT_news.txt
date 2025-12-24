@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: ‘Top Pick’ Amazon Had a Dismal Year: What’s AMZN Stock’s Forecast for 2026?
+URL: https://www.barchart.com/story/news/36747182/top-pick-amazon-had-a-dismal-year-whats-amzn-stocks-forecast-for-2026
+Time Published: 2025-12-22T17:22:04Z
+Description: Amazon is set to end 2025 as the worst-performing member of the Magnificent 7. The stock's forecast appears positive given the tepid valuations and growth...
+--------------------------------------------------
+
 Title: Microsoft Corporation (MSFT) Expands AI Footprint With Major Partnerships and Cybercrime Platform Rollout
 URL: https://finance.yahoo.com/news/microsoft-corporation-msft-expands-ai-133946510.html
 Time Published: 2025-12-22T13:39:46Z
@@ -16,41 +22,4 @@ Title: Analysts See 33% Upside To Microsoft Corporation (MSFT)
 URL: https://finance.yahoo.com/news/analysts-see-33-upside-microsoft-115622194.html
 Time Published: 2025-12-20T11:56:22Z
 Description: Microsoft Corporation (NASDAQ:MSFT) is among the 14 Best S&P 500 Stocks to Buy Now. As of the close of business on December 17, Wall Street analysts have a...
---------------------------------------------------
-
-Title: Stocks Settle Higher on Upbeat Tech Outlook and Cooling Inflation
-URL: https://www.barchart.com/story/news/36701084/stocks-settle-higher-on-upbeat-tech-outlook-and-cooling-inflation
-Time Published: 2025-12-18T21:33:40Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up by +0.79%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up by +0.14%, and the Nasdaq 100...
---------------------------------------------------
-
-Title: Forget Nvidia and Broadcom. This Forgotten Retail Stock Is a Top Performer in 2025.
-URL: https://www.barchart.com/story/news/36694357/forget-nvidia-and-broadcom-this-forgotten-retail-stock-is-a-top-performer-in-2025
-Time Published: 2025-12-18T16:26:19Z
-Description: Shares of this departmental store chain are up by 50% this year.
---------------------------------------------------
-
-Title: Stocks Rally as Chip Makers Soar and US Price Pressures Ease
-URL: https://www.barchart.com/story/news/36694068/stocks-rally-as-chip-makers-soar-and-us-price-pressures-ease
-Time Published: 2025-12-18T16:13:28Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up by +1.28%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up by +0.82%, and the Nasdaq 100 Index ($IUXX...
---------------------------------------------------
-
-Title: Is Microsoft Corporation (MSFT) One of Billionaire David Tepper’s Top Stock Picks Heading into 2026?
-URL: https://finance.yahoo.com/news/microsoft-corporation-msft-one-billionaire-061513753.html
-Time Published: 2025-12-18T06:15:13Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of billionaire David Tepper’s top stock picks heading into 2026. On December 11, the company inked a strategic...
---------------------------------------------------
-
-Title: Microsoft (MSFT) Pledges to Invest $17.5 billion in AI and Cloud Computing in India
-URL: https://finance.yahoo.com/news/microsoft-msft-pledges-invest-17-053932811.html
-Time Published: 2025-12-18T05:39:32Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the Top AI and Technology Stocks to Buy According to Hedge Funds. On December 9, Bloomberg reported that...
---------------------------------------------------
-
-Title: 3 ASX ETFs that could be perfect for beginners
-URL: https://www.fool.com.au/2025/12/18/3-asx-etfs-that-could-be-perfect-for-beginners/
-Time Published: 2025-12-18T05:35:00Z
-Description: New to investing? Here are three top funds to consider.
-The post 3 ASX ETFs that could be perfect for beginners appeared first on The Motley Fool Australia.
 --------------------------------------------------

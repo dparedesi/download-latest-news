@@ -1,5 +1,17 @@
 List of news related to AST SpaceMobile ASTS:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slip after US GDP unexpectedly accelerates
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-after-us-gdp-growth-unexpectedly-accelerates-233402073.html
+Time Published: 2025-12-22T23:34:02Z
+Description: Tuesday's flurry of delayed data releases could fill in gaps in Wall Street's picture of the economy.
+--------------------------------------------------
+
+Title: Stock market today: S&P 500, Nasdaq, Dow waver after surprise GDP growth trims rate-cut bets
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-waver-after-surprise-gdp-growth-trims-rate-cut-bets-233402502.html
+Time Published: 2025-12-22T23:34:02Z
+Description: Tuesday's flurry of delayed data releases could fill in gaps in Wall Street's picture of the economy.
+--------------------------------------------------
+
 Title: ASTS stock spikes before holiday launch
 URL: https://rollingout.com/2025/12/22/asts-stock-spikes-before-holiday-launch/
 Time Published: 2025-12-22T16:15:41Z
@@ -16,16 +28,4 @@ Title: AST SpaceMobile (ASTS) Climbs 6.6% Ahead of Next-Gen Satellite Launch
 URL: https://finance.yahoo.com/news/ast-spacemobile-asts-climbs-6-163909292.html
 Time Published: 2025-12-19T16:39:09Z
 Description: We recently published 10 Firms Stealing the Show on Wall Street. AST SpaceMobile, Inc. (NASDAQ:ASTS) is one of the best performers on Thursday. AST...
---------------------------------------------------
-
-Title: AST SpaceMobile (ASTS) Slashes 9.5% Ahead of Rescheduled BlueBird 6 Launch
-URL: https://finance.yahoo.com/news/ast-spacemobile-asts-slashes-9-131535127.html
-Time Published: 2025-12-18T13:15:35Z
-Description: We recently published 10 Big Names Investors Are Dumping. AST SpaceMobile (NASDAQ:ASTS) is one of the worst performers on Wednesday. AST SpaceMobile declined...
---------------------------------------------------
-
-Title: Scotiabank Upgrades AST SpaceMobile (ASTS), Citing Improved Valuation After 50% Market Cap Pullback
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_449b3c9a-832b-4e8d-bf83-b8f320e2d4ac
-Time Published: 2025-12-18T08:25:16Z
-Description: None
 --------------------------------------------------
