@@ -18,14 +18,14 @@ Time Published: 2025-12-23T13:27:02Z
 Description: None
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slip after US GDP unexpectedly accelerates
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-after-us-gdp-growth-unexpectedly-accelerates-233402073.html
+Title: Stock market today: S&P 500, Nasdaq, Dow waver after surprise GDP growth trims rate-cut bets
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-waver-after-surprise-gdp-growth-trims-rate-cut-bets-233402502.html
 Time Published: 2025-12-22T23:34:02Z
 Description: Tuesday's flurry of delayed data releases could fill in gaps in Wall Street's picture of the economy.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq, Dow waver after surprise GDP growth trims rate-cut bets
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-waver-after-surprise-gdp-growth-trims-rate-cut-bets-233402502.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slip after US GDP unexpectedly accelerates
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-after-us-gdp-growth-unexpectedly-accelerates-233402073.html
 Time Published: 2025-12-22T23:34:02Z
 Description: Tuesday's flurry of delayed data releases could fill in gaps in Wall Street's picture of the economy.
 --------------------------------------------------
