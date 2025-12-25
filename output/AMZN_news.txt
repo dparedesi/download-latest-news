@@ -6,6 +6,12 @@ Time Published: 2025-12-23T14:32:00Z
 Description: On what’s looking like another record day for precious metals, Yardeni Research is now saying will reach $6,000 by the end of 2026.
 --------------------------------------------------
 
+Title: The 3 Fastest-Growing Stocks Heading Into 2026
+URL: https://www.barchart.com/story/news/36761040/the-3-fastest-growing-stocks-heading-into-2026
+Time Published: 2025-12-23T13:27:15Z
+Description: Growth meets opportunity in these three AI-related stocks.
+--------------------------------------------------
+
 Title: ‘Top Pick’ Amazon Had a Dismal Year: What’s AMZN Stock’s Forecast for 2026?
 URL: https://www.barchart.com/story/news/36747182/top-pick-amazon-had-a-dismal-year-whats-amzn-stocks-forecast-for-2026
 Time Published: 2025-12-22T17:22:04Z
@@ -65,10 +71,4 @@ Title: Did Nvidia Just Lose Its Spot as Wall Street’s AI Chip Darling? JPMorga
 URL: https://www.barchart.com/story/news/36729168/did-nvidia-just-lose-its-spot-as-wall-streets-ai-chip-darling-jpmorgan-says-this-overall-top-pick-is-better
 Time Published: 2025-12-20T14:00:02Z
 Description: What exactly does Broadcom do, and why are Wall Street’s biggest investors loading up on shares?
---------------------------------------------------
-
-Title: “It’s About AWS,” Says Jim Cramer About Amazon.com (AMZN)
-URL: https://finance.yahoo.com/news/aws-says-jim-cramer-amazon-144758650.html
-Time Published: 2025-12-19T14:47:58Z
-Description: We recently published 12 Stocks on Jim Cramer’s Radar. Amazon.com, Inc. (NASDAQ:AMZN) is one of the stocks on Jim Cramer’s radar. Amazon.com, Inc...
 --------------------------------------------------

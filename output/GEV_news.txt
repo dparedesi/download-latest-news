@@ -17,9 +17,3 @@ URL: https://finance.yahoo.com/news/ge-vernova-gev-reassessing-valuation-0515219
 Time Published: 2025-12-20T05:15:21Z
 Description: GE Vernova (GEV) just gave investors a fresh catalyst by pairing a Jefferies upgrade with higher long term revenue targets, a doubled dividend, and an...
 --------------------------------------------------
-
-Title: Bank of America revamps forecast for 'bridge-to-grid' AI stock
-URL: https://www.thestreet.com/investing/stocks/bank-of-america-revamps-forecast-for-bridge-to-grid-ai-stock
-Time Published: 2025-12-19T04:07:00Z
-Description: U.S. stocks have been swinging as investors debate whether the AI boom is turning into a bubble. Over the past five days, the tech-heavy Nasdaq Composite has...
---------------------------------------------------
