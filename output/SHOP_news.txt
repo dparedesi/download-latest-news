@@ -1,5 +1,11 @@
 List of news related to Shopify stock price SHOP:
 
+Title: Amazon faces 'leader's dilemma' — fight AI shopping bots or join them
+URL: https://www.cnbc.com/2025/12/24/amazon-faces-a-dilemma-fight-ai-shopping-agents-or-join-them.html
+Time Published: 2025-12-24T12:00:02Z
+Description: Agents like OpenAI's Instant Checkout and Perplexity's Instant Buy threaten to reshape the e-commerce landscape.
+--------------------------------------------------
+
 Title: Vulnerability Summary for the Week of December 15, 2025
 URL: https://www.cisa.gov/news-events/bulletins/sb25-356
 Time Published: 2025-12-22T13:52:39Z
