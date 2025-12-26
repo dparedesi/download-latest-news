@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: This Dividend-Yielding Tech Stock Looks a ‘Compelling Buy’ for 2026 After 2 Years of Underperformance
+URL: https://www.barchart.com/story/news/36784733/this-dividend-yielding-tech-stock-looks-a-compelling-buy-for-2026-after-2-years-of-underperformance
+Time Published: 2025-12-25T00:30:02Z
+Description: Microsoft is set to underperform markets for the second consecutive year. Dan Ives of Wedbush, meanwhile, sees it as a “compelling” buy and predicts nearly...
+--------------------------------------------------
+
 Title: Wedbush Calls Microsoft (MSFT) a Core AI Winner With $625 Price Target
 URL: https://finance.yahoo.com/news/wedbush-calls-microsoft-msft-core-075951622.html
 Time Published: 2025-12-24T07:59:51Z
@@ -47,10 +53,4 @@ Title: Microsoft Corporation (MSFT) and Cognizant Announce a Multi-Year Partners
 URL: https://finance.yahoo.com/news/microsoft-corporation-msft-cognizant-announce-145718967.html
 Time Published: 2025-12-21T14:57:18Z
 Description: Microsoft Corporation (NASDAQ:MSFT) is one of the most widely held stocks by hedge funds in 2025. Microsoft Corporation (NASDAQ:MSFT) and Cognizant announced...
---------------------------------------------------
-
-Title: Analysts See 33% Upside To Microsoft Corporation (MSFT)
-URL: https://finance.yahoo.com/news/analysts-see-33-upside-microsoft-115622194.html
-Time Published: 2025-12-20T11:56:22Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is among the 14 Best S&P 500 Stocks to Buy Now. As of the close of business on December 17, Wall Street analysts have a...
 --------------------------------------------------

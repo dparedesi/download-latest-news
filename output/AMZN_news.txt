@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: This Dividend-Yielding Tech Stock Looks a ‘Compelling Buy’ for 2026 After 2 Years of Underperformance
+URL: https://www.barchart.com/story/news/36784733/this-dividend-yielding-tech-stock-looks-a-compelling-buy-for-2026-after-2-years-of-underperformance
+Time Published: 2025-12-25T00:30:02Z
+Description: Microsoft is set to underperform markets for the second consecutive year. Dan Ives of Wedbush, meanwhile, sees it as a “compelling” buy and predicts nearly...
+--------------------------------------------------
+
 Title: A $61 Billion Reason to Buy Amazon Stock for 2026
 URL: https://www.barchart.com/story/news/36778609/a-61-billion-reason-to-buy-amazon-stock-for-2026
 Time Published: 2025-12-24T14:30:02Z
@@ -71,16 +77,4 @@ Title: Here's your big free reminder on AI stocks for 2026
 URL: https://finance.yahoo.com/news/heres-your-big-free-reminder-on-ai-stocks-for-2026-133036552.html
 Time Published: 2025-12-21T13:30:36Z
 Description: You have to think beyond "Magnificent" stocks in 2026!
---------------------------------------------------
-
-Title: Instacart Is Under Investigation. Should You Buy the Dip in CART Stock?
-URL: https://www.barchart.com/story/news/36729894/instacart-is-under-investigation-should-you-buy-the-dip-in-cart-stock
-Time Published: 2025-12-20T16:00:02Z
-Description: With Instacart facing intense regulatory scrutiny, is this dip a buying opportunity or a warning sign to stay on the sidelines?
---------------------------------------------------
-
-Title: Did Nvidia Just Lose Its Spot as Wall Street’s AI Chip Darling? JPMorgan Says This ‘Overall Top Pick’ Is Better.
-URL: https://www.barchart.com/story/news/36729168/did-nvidia-just-lose-its-spot-as-wall-streets-ai-chip-darling-jpmorgan-says-this-overall-top-pick-is-better
-Time Published: 2025-12-20T14:00:02Z
-Description: What exactly does Broadcom do, and why are Wall Street’s biggest investors loading up on shares?
 --------------------------------------------------
