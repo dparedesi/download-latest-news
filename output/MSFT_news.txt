@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Microsoft (MSFT) Fell Due to Concerns About Its Relationship With OpenAI
+URL: https://finance.yahoo.com/news/microsoft-msft-fell-due-concerns-130001362.html
+Time Published: 2025-12-26T13:00:01Z
+Description: Harbor Capital Appreciation Fund, an investment management company, released its Q3 2025 investor letter. A copy of the same can be downloaded here. The...
+--------------------------------------------------
+
 Title: CEO Satya Nadella Is Doubling Down on AI at Microsoft. Does That Make MSFT Stock a Buy Here?
 URL: https://www.barchart.com/story/news/36788851/ceo-satya-nadella-is-doubling-down-on-ai-at-microsoft-does-that-make-msft-stock-a-buy-here
 Time Published: 2025-12-25T15:00:02Z
