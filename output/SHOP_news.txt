@@ -5,10 +5,3 @@ URL: https://www.cnbc.com/2025/12/24/amazon-faces-a-dilemma-fight-ai-shopping-ag
 Time Published: 2025-12-24T12:00:02Z
 Description: Agents like OpenAI's Instant Checkout and Perplexity's Instant Buy threaten to reshape the e-commerce landscape.
 --------------------------------------------------
-
-Title: Vulnerability Summary for the Week of December 15, 2025
-URL: https://www.cisa.gov/news-events/bulletins/sb25-356
-Time Published: 2025-12-22T13:52:39Z
-Full Content:
-An official website of the United States government Here’s how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites. no-cost Cyber ServicesSecure by design Holiday Online Shopping SafetyShields UpReport A Cyber Issue Search no-cost Cyber ServicesSecure by design Holiday Online Shopping SafetyShields UpReport A Cyber Issue The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded in the past week. In some cases, the vulnerabilities in the bulletin may not yet have assigned CVSS scores. Vulnerabilities are based on the Common Vulnerabilities and Exposures (CVE) vulnerability naming standard and are organized according to severity, determined by the Common Vulnerability Scoring System (CVSS) standard. The division of high, medium, and low severities correspond to the following scores: Entries may include additional information provided by organizations and efforts sponsored by CISA. This information may include identifying information, values, definitions, and related links. Patch information is provided when available. Please note that some of the information in the bulletin is compiled from external, open-source reports and is not a direct result of CISA analysis. Back to top Back to top Back to top Back to top We recently updated our anonymous product survey; we welcome your feedback.
---------------------------------------------------

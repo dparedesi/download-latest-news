@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: NVIDIA’s $20B Groq Deal Is a Warning Shot to AI Rivals
+URL: https://www.marketbeat.com/originals/nvidias-20b-groq-deal-is-a-warning-shot-to-ai-rivals/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-12-26T20:12:00Z
+Description: NVIDIA fortified its long-term competitive moat by acquiring the fastest chip technology available to dominate the next phase of artificial intelligence...
+--------------------------------------------------
+
 Title: Microsoft (MSFT) Fell Due to Concerns About Its Relationship With OpenAI
 URL: https://finance.yahoo.com/news/microsoft-msft-fell-due-concerns-130001362.html
 Time Published: 2025-12-26T13:00:01Z
@@ -59,16 +65,4 @@ Title: The 3 Fastest-Growing Stocks Heading Into 2026
 URL: https://www.barchart.com/story/news/36761040/the-3-fastest-growing-stocks-heading-into-2026
 Time Published: 2025-12-23T13:27:15Z
 Description: Growth meets opportunity in these three AI-related stocks.
---------------------------------------------------
-
-Title: ‘Top Pick’ Amazon Had a Dismal Year: What’s AMZN Stock’s Forecast for 2026?
-URL: https://www.barchart.com/story/news/36747182/top-pick-amazon-had-a-dismal-year-whats-amzn-stocks-forecast-for-2026
-Time Published: 2025-12-22T17:22:04Z
-Description: Amazon is set to end 2025 as the worst-performing member of the Magnificent 7. The stock's forecast appears positive given the tepid valuations and growth...
---------------------------------------------------
-
-Title: Microsoft Corporation (MSFT) Expands AI Footprint With Major Partnerships and Cybercrime Platform Rollout
-URL: https://finance.yahoo.com/news/microsoft-corporation-msft-expands-ai-133946510.html
-Time Published: 2025-12-22T13:39:46Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the best forever stocks to buy according to hedge funds. On December 12, Microsoft Corp. (NASDAQ:MSFT) CEO...
 --------------------------------------------------
