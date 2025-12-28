@@ -1,1 +1,7 @@
-No news found for Alphabet Inc Class A stock price +GOOGL
+List of news related to Alphabet Inc Class A stock price GOOGL:
+
+Title: Google's Gemini Eating ChatGPT's Lunch: Market Share Gain From 5% To 18% Is 'Clearest Signal' That Alphabet Is Winning AI War
+URL: https://finance.yahoo.com/news/googles-gemini-eating-chatgpts-lunch-163103026.html
+Time Published: 2025-12-27T16:31:03Z
+Description: Alphabet Inc.'s (NASDAQ:GOOG) (NASDAQ:GOOGL) Gemini is executing a silent takeover of the generative AI market, surging to an 18.2% traffic share in just one...
+--------------------------------------------------
