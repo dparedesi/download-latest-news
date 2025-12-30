@@ -1,5 +1,18 @@
 List of news related to Amazon stock price AMZN:
 
+Title: The most talked-about stocks online: Microsoft takes the top spot
+URL: https://www.digitaljournal.com/business/the-most-talked-about-stocks-online-microsoft-takes-the-top-spot/article
+Time Published: 2025-12-28T22:18:07Z
+Description: Microsoft is the most talked about stock online, scoring 80.75 out of 100 in the index. 
+The post The most talked-about stocks online: Microsoft takes the top spot appeared first on Digital Journal.
+--------------------------------------------------
+
+Title: Nvidia Stock Had a Volatile 2025: What’s the 2026 Forecast?
+URL: https://www.barchart.com/story/news/36805702/nvidia-stock-had-a-volatile-2025-whats-the-2026-forecast
+Time Published: 2025-12-28T14:30:02Z
+Description: As Nvidia is set to begin exports of H200 chips to China in 2026, its outlook appears positive. So, after a volatile 2025, could it deliver decent returns...
+--------------------------------------------------
+
 Title: NVIDIA’s $20B Groq Deal Is a Warning Shot to AI Rivals
 URL: https://www.marketbeat.com/originals/nvidias-20b-groq-deal-is-a-warning-shot-to-ai-rivals/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2025-12-26T20:12:00Z
@@ -28,10 +41,4 @@ Title: This Dividend-Yielding Tech Stock Looks a ‘Compelling Buy’ for 2026 A
 URL: https://www.barchart.com/story/news/36784733/this-dividend-yielding-tech-stock-looks-a-compelling-buy-for-2026-after-2-years-of-underperformance
 Time Published: 2025-12-25T00:30:02Z
 Description: Microsoft is set to underperform markets for the second consecutive year. Dan Ives of Wedbush, meanwhile, sees it as a “compelling” buy and predicts nearly...
---------------------------------------------------
-
-Title: A $61 Billion Reason to Buy Amazon Stock for 2026
-URL: https://www.barchart.com/story/news/36778609/a-61-billion-reason-to-buy-amazon-stock-for-2026
-Time Published: 2025-12-24T14:30:02Z
-Description: With AWS doubling power capacity, Nova and Bedrock deepening its AI stack, Wall Street assigning a Strong Buy rating, plus roughly 30% upside as data‑center ...
 --------------------------------------------------

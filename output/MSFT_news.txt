@@ -1,5 +1,12 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: The most talked-about stocks online: Microsoft takes the top spot
+URL: https://www.digitaljournal.com/business/the-most-talked-about-stocks-online-microsoft-takes-the-top-spot/article
+Time Published: 2025-12-28T22:18:07Z
+Description: Microsoft is the most talked about stock online, scoring 80.75 out of 100 in the index. 
+The post The most talked-about stocks online: Microsoft takes the top spot appeared first on Digital Journal.
+--------------------------------------------------
+
 Title: Here’s What Dan Ives Think About Microsoft Corporation (MSFT)
 URL: https://finance.yahoo.com/news/dan-ives-think-microsoft-corporation-182047975.html
 Time Published: 2025-12-28T18:20:47Z
@@ -40,16 +47,4 @@ Title: This Dividend-Yielding Tech Stock Looks a ‘Compelling Buy’ for 2026 A
 URL: https://www.barchart.com/story/news/36784733/this-dividend-yielding-tech-stock-looks-a-compelling-buy-for-2026-after-2-years-of-underperformance
 Time Published: 2025-12-25T00:30:02Z
 Description: Microsoft is set to underperform markets for the second consecutive year. Dan Ives of Wedbush, meanwhile, sees it as a “compelling” buy and predicts nearly...
---------------------------------------------------
-
-Title: Wedbush Calls Microsoft (MSFT) a Core AI Winner With $625 Price Target
-URL: https://finance.yahoo.com/news/wedbush-calls-microsoft-msft-core-075951622.html
-Time Published: 2025-12-24T07:59:51Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the AI Stocks Making Waves on Wall Street. On December 22, Wedbush reiterated the stock as “Outperform,” with a...
---------------------------------------------------
-
-Title: H.C. Wainwright Reaffirms Buy on WhiteFiber (WYFI) Following Nscale Agreement
-URL: https://finance.yahoo.com/news/h-c-wainwright-reaffirms-buy-075534679.html
-Time Published: 2025-12-24T07:55:34Z
-Description: WhiteFiber, Inc. (NASDAQ:WYFI) is one of the AI Stocks Making Waves on Wall Street. On December 22, H.C. Wainwright reiterated a “Buy” rating on the stock...
 --------------------------------------------------
