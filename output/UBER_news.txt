@@ -25,9 +25,3 @@ URL: https://www.cnbc.com/2025/12/26/oracle-stock-on-pace-for-worst-quarter-sinc
 Time Published: 2025-12-26T12:00:01Z
 Description: Investors want to know if Oracle, under new CEOs Clay Magouyrk and Mike Sicilia, can pay for and deliver data centers packed with Nvidia chips for OpenAI.
 --------------------------------------------------
-
-Title: Uber and Lyft Partner With Baidu (BIDU) to Launch Driverless Taxi Trials in the UK
-URL: https://finance.yahoo.com/news/uber-lyft-partner-baidu-bidu-170039303.html
-Time Published: 2025-12-25T17:00:39Z
-Description: Baidu, Inc. (NASDAQ:BIDU) is one of the best rising tech stocks to buy now. A significant escalation in the global race toward autonomous mobility occurred...
---------------------------------------------------

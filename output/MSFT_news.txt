@@ -24,27 +24,3 @@ URL: https://finance.yahoo.com/news/microsoft-msft-fell-due-concerns-130001362.h
 Time Published: 2025-12-26T13:00:01Z
 Description: Harbor Capital Appreciation Fund, an investment management company, released its Q3 2025 investor letter. A copy of the same can be downloaded here. The...
 --------------------------------------------------
-
-Title: CEO Satya Nadella Is Doubling Down on AI at Microsoft. Does That Make MSFT Stock a Buy Here?
-URL: https://www.barchart.com/story/news/36788851/ceo-satya-nadella-is-doubling-down-on-ai-at-microsoft-does-that-make-msft-stock-a-buy-here
-Time Published: 2025-12-25T15:00:02Z
-Description: As Microsoft CEO Satya Nadella is going all-in on AI, is the stock worth buying at current prices?
---------------------------------------------------
-
-Title: Dan Ives Loves This Under-the-Radar AI Stock for 2026
-URL: https://www.barchart.com/story/news/36787957/dan-ives-loves-this-under-the-radar-ai-stock-for-2026
-Time Published: 2025-12-25T12:30:02Z
-Description: Wall Street likes Nebius’s AI scale story, but investors are paying upfront for growth that still needs to prove durable.
---------------------------------------------------
-
-Title: Powerball Jackpot: $1.7 Billion Could Buy 131,645 Ounces of Gold, 3.15 Million Nvidia Shares And More — 10 After‑Tax Spending Ideas
-URL: https://finance.yahoo.com/news/powerball-jackpot-1-7-billion-114604320.html
-Time Published: 2025-12-25T11:46:04Z
-Description: The Powerball drawing set for Wednesday, Dec. 24, is currently the fourth-largest U.S. lottery jackpot ever at $1.7 billion. Here's a look at the latest...
---------------------------------------------------
-
-Title: This Dividend-Yielding Tech Stock Looks a ‘Compelling Buy’ for 2026 After 2 Years of Underperformance
-URL: https://www.barchart.com/story/news/36784733/this-dividend-yielding-tech-stock-looks-a-compelling-buy-for-2026-after-2-years-of-underperformance
-Time Published: 2025-12-25T00:30:02Z
-Description: Microsoft is set to underperform markets for the second consecutive year. Dan Ives of Wedbush, meanwhile, sees it as a “compelling” buy and predicts nearly...
---------------------------------------------------
