@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Bristol Gate US Equity Strategy: NVDA’s Demand Today is Broadcom’s (AVGO) Opportunity Tomorrow
+URL: https://finance.yahoo.com/news/bristol-gate-us-equity-strategy-130823220.html
+Time Published: 2025-12-31T13:08:23Z
+Description: Bristol Gate Capital Partners, an investment management company, published its Q3 2025 investor letter for the “US Equity Strategy”. A copy of the letter can...
+--------------------------------------------------
+
+Title: The Quantum Shield: Hardening AI & Critical Infrastructure
+URL: https://financialpost.com/globe-newswire/the-quantum-shield-hardening-ai-critical-infrastructure
+Time Published: 2025-12-31T12:47:10Z
+Description: Issued on behalf of QSE – Quantum Secure Encryption Corp. VANCOUVER, British Columbia, Dec. 31, 2025 (GLOBE NEWSWIRE) — USA News Group News Commentary – The post-quantum cryptography market is projected to surge from US$1.35 billion in 2025 to US$22.68 billio…
+--------------------------------------------------
+
 Title: The Lazy Way to Play NVIDIA’s $20B Groq Deal
 URL: https://www.marketbeat.com/originals/the-lazy-way-to-play-nvidias-20b-groq-deal/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2025-12-30T13:24:00Z

@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA Corporation (NVDA) To Make its Largest Purchase From Groq
+URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-largest-purchase-164212458.html
+Time Published: 2025-12-31T16:42:12Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is among the Best Performing Quantum Computing Stocks in 2025. On December 24, CNBC reported that NVIDIA Corporation...
+--------------------------------------------------
+
+Title: Is Nvidia (NVDA) One of the Best Stocks for the Next Decade?
+URL: https://finance.yahoo.com/news/nvidia-nvda-one-best-stocks-161250912.html
+Time Published: 2025-12-31T16:12:50Z
+Description: Nvidia Corporation (NASDAQ:NVDA) is one of the best stocks for the next decade. Nvidia Corporation (NASDAQ:NVDA) sports a consensus Buy rating on Wall Street...
+--------------------------------------------------
+
 Title: Wedbush Names Its Top 5 AI Stocks for 2026 that Are Not Nvidia (NVDA) - TipRanks
 URL: https://slashdot.org/firehose.pl?op=view&amp;id=180490619
 Time Published: 2025-12-31T08:12:21Z
@@ -11,6 +23,12 @@ URL: https://www.globenewswire.com/news-release/2025/12/31/3211664/0/en/Purpose-
 Time Published: 2025-12-31T02:38:00Z
 Full Content:
 December 30, 2025 21:38 ET | Source: Purpose Investments Inc. Purpose Investments Inc. TORONTO, Dec. 30, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) today announced the final annual capital gain and income distributions for its open-end exchange-traded funds structured as mutual fund trusts (the “Funds”) with a December 15, 2025 tax year-end. The notional distributions represent capital gains realized and income earned by the Funds, as applicable, during the year. Details of the per-unit distribution amounts are as follows: Final Annual Notional Capital Gain Distributions Final Notional Income Distributions Notional capital gain and income distributions for the above-listed funds were applied to the ETF series unitholders of record at the close of business on December 30, 2025. The ex-distribution date is December 30, 2025. Purpose confirms that, further to the December 18, 2025 press release, Berkshire Hathaway (BRK) Yield Shares Purpose ETF will not declare a special annual capital gain distribution. Purpose expects to announce the final year-end distributions for Purpose High Interest Savings Fund – ETF Units, Purpose US Cash Fund – ETF Units, Purpose Cash Management Fund – ETF Units, and Purpose USD Cash Management Fund – ETF Units on or about December 31, 2025, if necessary. Actual breakdown of taxable amounts of notional (reinvested) and cash distributions for the 2025 tax year, including tax factor allocations, will be reported to the brokers through CDS Clearing and Depository Services Inc. in early 2026. About Purpose Investments Purpose Investments is an asset management company with more than $30 billion under management. Purpose Investments has an unrelenting focus on client-centric innovation, and offers a range of managed and quantitative investment products. Purpose Investments is led by well-known entrepreneur Som Seif and is a division of Purpose Unlimited, an independent technology-driven financial services company. For further information please contact:Keera HartKeera.Hart@kaiserpartners.com905-580-1257 Commissions, trailing commissions, management fees and expenses all may be associated with investment fund investments. Please read the prospectus and other disclosure documents before investing. Investment funds are not covered by the Canada Deposit Insurance Corporation or any other government deposit insurer. There can be no assurance that the full amount of your investment in a fund will be returned to you. If the securities are purchased or sold on a stock exchange, you may pay more or receive less than the current net asset value. Investment funds are not guaranteed, their values change frequently and past performance may not be repeated. This press release is for information purposes only and does not constitute an offer to sell or a solicitation to buy the securities referred to herein. This press release is not for dissemination in the United States or for distribution to US news wire services. TORONTO, Dec. 30, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. announced today the final December 2025 distribution rates for Purpose High Interest Savings Fund, Purpose US Cash Fund, Purpose... TORONTO, Dec. 22, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. is pleased to announce the 2025 fourth quarter distributions for Purpose Specialty Lending Trust. ...
+--------------------------------------------------
+
+Title: Veteran analyst resets AI stock buy list for 2026
+URL: https://www.thestreet.com/investing/stocks/veteran-analyst-resets-ai-stock-buy-list-for-2026
+Time Published: 2025-12-31T01:37:00Z
+Description: For the better part of the past couple of years, the AI trade has felt like a one-stock story. Clearly, Nvidia (NVDA) has dominated the headlines and the...
 --------------------------------------------------
 
 Title: Software taketh away faster than hardware giveth: Why C++ programmers keep growing fast despite competition, safety, and AI
