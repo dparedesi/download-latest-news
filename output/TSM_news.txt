@@ -1,13 +1,13 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: The Lazy Way to Play NVIDIA’s $20B Groq Deal
+URL: https://www.marketbeat.com/originals/the-lazy-way-to-play-nvidias-20b-groq-deal/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-12-30T13:24:00Z
+Description: The acquisition of Groq by NVIDIA signals a shift toward AI inference that investors can capture through specific semiconductor ETFs focused on growth.
+--------------------------------------------------
+
 Title: Taiwan Semiconductor Manufacturing Company Limited (TSM) Rebounded Strongly in Q3
 URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-limited-135329870.html
 Time Published: 2025-12-29T13:53:29Z
 Description: Hardman Johnston Global Advisors, an investment management company, released its “Hardman Johnston Global Equity Strategy” investor letter for the third...
---------------------------------------------------
-
-Title: Strong Demand Lifted Taiwan Semiconductor Manufacturing Company Limited (TSM) in Q3
-URL: https://finance.yahoo.com/news/strong-demand-lifted-taiwan-semiconductor-130409738.html
-Time Published: 2025-12-26T13:04:09Z
-Description: Harbor Capital Appreciation Fund, an investment management company, released its Q3 2025 investor letter. A copy of the same can be downloaded here. The...
 --------------------------------------------------
