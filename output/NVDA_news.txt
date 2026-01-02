@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia Could Buy AI21 Next. What Does That Mean for NVDA Stock?
+URL: https://www.barchart.com/story/news/36843526/nvidia-could-buy-ai21-next-what-does-that-mean-for-nvda-stock
+Time Published: 2025-12-31T17:36:00Z
+Description: Reports peg the deal could be for $2 billion to $3 billion.
+--------------------------------------------------
+
 Title: NVIDIA Corporation (NVDA) To Make its Largest Purchase From Groq
 URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-largest-purchase-164212458.html
 Time Published: 2025-12-31T16:42:12Z
@@ -10,6 +16,24 @@ Title: Is Nvidia (NVDA) One of the Best Stocks for the Next Decade?
 URL: https://finance.yahoo.com/news/nvidia-nvda-one-best-stocks-161250912.html
 Time Published: 2025-12-31T16:12:50Z
 Description: Nvidia Corporation (NASDAQ:NVDA) is one of the best stocks for the next decade. Nvidia Corporation (NASDAQ:NVDA) sports a consensus Buy rating on Wall Street...
+--------------------------------------------------
+
+Title: Stocks Slide on Weakness in Megacap Tech Stocks
+URL: https://www.barchart.com/story/news/36841492/stocks-slide-on-weakness-in-megacap-tech-stocks
+Time Published: 2025-12-31T14:57:54Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.15%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
+Title: Why Lam Research Is a Must-Own Pick-and-Shovel Stock for the AI Boom
+URL: https://www.barchart.com/story/news/36840627/why-lam-research-is-a-must-own-picks-and-shovels-stock-for-the-ai-boom
+Time Published: 2025-12-31T13:45:01Z
+Description: Lam Research stock soared 141% in 2025 on surging AI-driven demand for advanced semiconductor equipment, solidifying its position as a premier pick-and...
+--------------------------------------------------
+
+Title: How the Mag 7’s 2025 Laggards Could Turn Into 2026 Winners
+URL: https://www.marketbeat.com/stock-ideas/how-the-mag-7s-2025-laggards-could-turn-into-2026-winners/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-12-31T12:05:00Z
+Description: This year, investors didn't bet the big returns they expected from the Magnificent Seven. Looking forward, there are reasons to be hopeful.
 --------------------------------------------------
 
 Title: Wedbush Names Its Top 5 AI Stocks for 2026 that Are Not Nvidia (NVDA) - TipRanks
@@ -272,40 +296,4 @@ Title: Making fortunes and letting it ride: 13 New Year investing resolutions
 URL: https://finance.yahoo.com/news/making-fortunes-and-letting-it-ride-13-new-year-investing-resolutions-110024454.html
 Time Published: 2025-12-28T11:00:24Z
 Description: You can always be better.
---------------------------------------------------
-
-Title: Prediction: 1 Hypergrowth Stock That Will Run Circles Around Nvidia Through 2030 - Yahoo Finance
-URL: https://slashdot.org/firehose.pl?op=view&amp;id=180464747
-Time Published: 2025-12-27T15:32:55Z
-Description: Prediction: 1 Hypergrowth Stock That Will Run Circles Around Nvidia Through 2030Yahoo Finance These 6 stocks will lead the $1 trillion chip surge in 2026, BofA saysYahoo Finance Protect Your Retirement: Avoid These 3 AI Stocks Right NowThe Motley Fool Predict…
---------------------------------------------------
-
-Title: 6 under-the-radar stocks to play the AI boom in 2026: BofA
-URL: https://finance.yahoo.com/news/6-under-the-radar-stocks-to-play-the-ai-boom-in-2026-bofa-150019301.html
-Time Published: 2025-12-27T15:00:19Z
-Description: While Nvidia and Broadcom dominate, Bank of America's Vivek Arya says some specialized small- and mid-caps are essential for the next $1 trillion chip surge
---------------------------------------------------
-
-Title: Nvidia Stock Is ‘Ripe’ for Gains in 2026, According to This Top Analyst
-URL: https://www.barchart.com/story/news/36801753/nvidia-stock-is-ripe-for-gains-in-2026-according-to-this-top-analyst
-Time Published: 2025-12-27T14:30:02Z
-Description: Nvidia has lost some shine in 2025. But as AI fears cool, Cantor Fitzgerald sees the weakness as temporary, calling the stock a top pick for 2026.
---------------------------------------------------
-
-Title: NVIDIA (NVDA)’s Got More IP Than a Dog Food Company, Says Jim Cramer
-URL: https://finance.yahoo.com/news/nvidia-nvda-got-more-ip-092159692.html
-Time Published: 2025-12-27T09:21:59Z
-Description: We recently published 9 Stocks Jim Cramer Talked About. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks on Jim Cramer talked about. NVIDIA Corporation ...
---------------------------------------------------
-
-Title: Analysts Maintain Positive Outlook on AMD With China Demand as a Catalyst
-URL: https://finance.yahoo.com/news/analysts-maintain-positive-outlook-amd-074440489.html
-Time Published: 2025-12-27T07:44:40Z
-Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the AI Stocks Investors Are Watching. On December 23, Raymond James reiterated the stock as “Outperform,”...
---------------------------------------------------
-
-Title: Bernstein Sees Strong AI Tailwinds Supporting Nvidia (NVDA) Into 2026
-URL: https://finance.yahoo.com/news/bernstein-sees-strong-ai-tailwinds-073433046.html
-Time Published: 2025-12-27T07:34:33Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Investors Are Watching. On December 19, Bernstein analyst Stacy Rasgon reiterated an “Outperform...
 --------------------------------------------------
