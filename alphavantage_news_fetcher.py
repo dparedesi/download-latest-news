@@ -81,36 +81,51 @@ def get_latest_news(symbol, session, api_key, news_limit):
             data = response.json()
         except json.JSONDecodeError as e:
             logging.error(f"Error decoding JSON for symbol {symbol}: {str(e)}")
-            return f"Error decoding JSON for {symbol}"
+            return []
 
         if "feed" not in data or not data["feed"]:
             logging.info(f"No news found for {symbol}")
-            return f"No news found for {symbol}"
+            return []
 
         news_items = []
         for index, item in enumerate(data["feed"][:news_limit], 1):
             logging.info(f"Processing news item {index} for {symbol}")
-            news_items.append(f"Title: {item['title']}")
-            news_items.append(f"URL: {item['url']}")
-            news_items.append(f"Time Published: {item['time_published']}")
-            news_items.append(f"Summary: {item['summary']}")
+
+            # Map AlphaVantage fields to our common schema
+            news_item = {
+                'title': item['title'],
+                'url': item['url'],
+                'published_at': item['time_published'], # format is YYYYMMDDTHHMMSS
+                'description': item['summary'],
+                'sentiment_score': float(item.get('overall_sentiment_score', 0)),
+                'sentiment_label': item.get('overall_sentiment_label', 'Neutral').capitalize() # Usually "Bullish", "Bearish", etc. or "Neutral"
+            }
+
+            # Normalize sentiment label to match TextBlob's Positive/Negative/Neutral
+            # AlphaVantage labels: Bearish, Somewhat-Bearish, Neutral, Somewhat-Bullish, Bullish
+            label = news_item['sentiment_label']
+            if 'Bullish' in label:
+                news_item['sentiment_label'] = 'Positive'
+            elif 'Bearish' in label:
+                news_item['sentiment_label'] = 'Negative'
+            else:
+                news_item['sentiment_label'] = 'Neutral'
+
             content = get_article_content(item['url'], session)
             if content:
-                news_items.append(f"Content: {content}")
-            news_items.append("-" * 50)
+                news_item['content'] = content
+            else:
+                news_item['content'] = item['summary']
+
+            news_items.append(news_item)
             time.sleep(1)
 
-        return "\n".join(news_items)
+        return news_items
 
     except requests.RequestException as e:
         error_message = f"Error fetching news for {symbol}: {str(e)}"
         logging.error(error_message)
-        return error_message
-
-def truncate_content(content, max_length=5000):
-    if len(content) > max_length:
-        return content[:max_length] + "... (truncated)"
-    return content
+        return []
 
 def sanitize_filename(filename):
     return re.sub(r'[\\/*?:"<>|]', "", filename)
@@ -121,26 +136,37 @@ def main():
     output_folder = create_output_folder()
     session = create_session()
     
-    consolidated_news = []
+    all_news = []
 
     for symbol, query in config['queries']:
         logging.info(f"Processing symbol: {symbol} (Query: {query})")
         
         latest_news = get_latest_news(symbol, session, config['api_key'], config['news_limit'])
         safe_symbol = sanitize_filename(symbol)
-        with open(os.path.join(output_folder, f'{safe_symbol}_news.txt'), 'w', encoding='utf-8') as f:
-            f.write(latest_news)
         
-        if latest_news.startswith("No news found") or latest_news.startswith("Error fetching news"):
-            logging.warning(latest_news)
+        if not latest_news:
+            logging.warning(f"No news found for {symbol}")
+            with open(os.path.join(output_folder, f'{safe_symbol}_news.json'), 'w', encoding='utf-8') as f:
+                json.dump([], f)
         else:
             logging.info(f"Successfully processed {symbol} (Query: {query})")
-            consolidated_news.append(f"News for {symbol} ({query}):\n{latest_news}\n\n{'='*70}\n\n")
+            # Save individual JSON
+            with open(os.path.join(output_folder, f'{safe_symbol}_news.json'), 'w', encoding='utf-8') as f:
+                json.dump(latest_news, f, indent=2)
+
+            all_news.extend(latest_news)
+
         logging.info("-" * 50)
 
-    with open(os.path.join(output_folder, 'consolidated_news.txt'), 'w', encoding='utf-8') as f:
-        f.write("\n".join(consolidated_news))
-    logging.info("Consolidated news file created successfully")
+    # Sort all news items by date (AlphaVantage format YYYYMMDDTHHMMSS)
+    # We might need to ensure the sorting key works for both string formats if we were mixing, but here we are consistent within the script.
+    if all_news:
+        sorted_all_news = sorted(all_news, key=lambda x: x['published_at'], reverse=True)
+        with open(os.path.join(output_folder, 'consolidated_news.json'), 'w', encoding='utf-8') as f:
+            json.dump(sorted_all_news, f, indent=2)
+        logging.info("Consolidated news file created successfully")
+    else:
+        logging.warning("No news found for any query. Consolidated news file not created.")
 
 if __name__ == "__main__":
     main()

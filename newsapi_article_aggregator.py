@@ -12,6 +12,7 @@ import re
 import json
 from operator import itemgetter
 import os.path
+from textblob import TextBlob
 
 def setup_logging():
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -139,25 +140,39 @@ def get_latest_news(query, session, api_key, news_limit, exclude_domains):
         logging.error(error_message)
         return []
 
+def get_sentiment(text):
+    blob = TextBlob(text)
+    polarity = blob.sentiment.polarity
+    if polarity > 0.05:
+        label = "Positive"
+    elif polarity < -0.05:
+        label = "Negative"
+    else:
+        label = "Neutral"
+    return polarity, label
+
 def process_news_item(item, session):
     news_item = {
-        'title': f"Title: {item['title']}",
-        'url': f"URL: {item['url']}",
+        'title': item['title'],
+        'url': item['url'],
         'published_at': item['publishedAt'],
-        'time_published': f"Time Published: {item['publishedAt']}",
+        'description': item['description']
     }
     
     content = get_article_content(item['url'], session)
     
     if content:
-        news_item['content'] = f"Full Content:\n{content}"
+        news_item['content'] = content
     else:
-        news_item['content'] = f"Description: {item['description']}"
+        news_item['content'] = item['description'] if item['description'] else ""
     
-    return news_item
+    # Calculate sentiment
+    text_for_sentiment = f"{news_item['title']} {news_item['content']}"
+    polarity, label = get_sentiment(text_for_sentiment)
+    news_item['sentiment_score'] = polarity
+    news_item['sentiment_label'] = label
 
-def format_news_item(item):
-    return f"{item['title']}\n{item['url']}\n{item['time_published']}\n{item['content']}\n{'-' * 50}"
+    return news_item
 
 def sanitize_filename(filename):
     return re.sub(r'[\\/*?:"<>|]', "", filename)
@@ -171,20 +186,17 @@ def process_query(query_tuple, session, api_key, news_limit, exclude_domains, ou
     
     if not latest_news:
         logging.warning(f"No news found for {query} (Symbol: {symbol})")
-        with open(os.path.join(output_folder, f'{safe_symbol}_news.txt'), 'w', encoding='utf-8') as f:
-            f.write(f"No news found for {query}")
+        # Write empty list to JSON
+        with open(os.path.join(output_folder, f'{safe_symbol}_news.json'), 'w', encoding='utf-8') as f:
+            json.dump([], f)
         return None
     else:
         # Sort news items by date
         sorted_news = sorted(latest_news, key=lambda x: x['published_at'], reverse=True)
-        formatted_news = [format_news_item(item) for item in sorted_news]
         
-        # Remove "-etfdailynews" from the query for the header
-        clean_query = query.replace('-etfdailynews', '').strip()
-        news_content = f"List of news related to {clean_query.replace('+', '')}:\n\n" + "\n\n".join(formatted_news)
-        
-        with open(os.path.join(output_folder, f'{safe_symbol}_news.txt'), 'w', encoding='utf-8') as f:
-            f.write(news_content)
+        # Save as JSON
+        with open(os.path.join(output_folder, f'{safe_symbol}_news.json'), 'w', encoding='utf-8') as f:
+            json.dump(sorted_news, f, indent=2)
         
         logging.info(f"Successfully processed {query} (Symbol: {symbol})")
         return {'symbol': symbol, 'query': query, 'news': sorted_news}
@@ -213,10 +225,9 @@ def main():
     if all_news:
         # Sort all news items by date
         sorted_all_news = sorted(all_news, key=itemgetter('published_at'), reverse=True)
-        consolidated_news = [format_news_item(item) for item in sorted_all_news]
 
-        with open(os.path.join(output_folder, 'consolidated_news.txt'), 'w', encoding='utf-8') as f:
-            f.write("\n\n".join(consolidated_news))
+        with open(os.path.join(output_folder, 'consolidated_news.json'), 'w', encoding='utf-8') as f:
+            json.dump(sorted_all_news, f, indent=2)
         logging.info("Consolidated news file created successfully")
     else:
         logging.warning("No news found for any query. Consolidated news file not created.")
