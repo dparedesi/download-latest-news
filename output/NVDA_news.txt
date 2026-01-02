@@ -1,5 +1,29 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stocks wild ride in 2025 sets the stage for 2026
+URL: https://www.thestreet.com/investing/the-major-stories-that-moved-stocks-in-2025
+Time Published: 2025-12-31T22:10:02Z
+Description: Editor's Note: Todd Campbell, TheStreet's co-editor-in-chief, a 30-year Wall Street veteran and former Series 7/65 licensed advisor, analyzes 2025's biggest ...
+--------------------------------------------------
+
+Title: Sleeping With the Enemy: Inside the NVIDIA-Intel Deal
+URL: https://www.marketbeat.com/originals/sleeping-with-the-enemy-inside-the-nvidia-intel-deal/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2025-12-31T21:39:00Z
+Description: NVIDIA has officially joined forces with Intel to secure essential packaging capacity and stabilize the future of the domestic semiconductor industry.
+--------------------------------------------------
+
+Title: Stocks Settle Lower on Tech Weakness and Higher Bond Yields
+URL: https://www.barchart.com/story/news/36845992/stocks-settle-lower-on-tech-weakness-and-higher-bond-yields
+Time Published: 2025-12-31T21:34:36Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed down -0.74%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.63%, and the Nasdaq 100...
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq post double-digit gains in 2025 as AI trade powers market once again
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-post-double-digit-gains-in-2025-as-ai-trade-powers-market-once-again-210012468.html
+Time Published: 2025-12-31T21:00:12Z
+Description: Wall Street prepared to wrap up an eventful, roller-coaster trading year with sizable gains.
+--------------------------------------------------
+
 Title: Nvidia Could Buy AI21 Next. What Does That Mean for NVDA Stock?
 URL: https://www.barchart.com/story/news/36843526/nvidia-could-buy-ai21-next-what-does-that-mean-for-nvda-stock
 Time Published: 2025-12-31T17:36:00Z
@@ -284,16 +308,4 @@ Title: NVIDIA Corporation (NVDA) Reorganizes Cloud Division
 URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-reorganizes-cloud-164345107.html
 Time Published: 2025-12-28T16:43:45Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) is among the Growth Stock Portfolio: 12 Stock Picks By Ken Fisher. Thefly reported on December 23, 2025, that NVIDIA...
---------------------------------------------------
-
-Title: Nvidia Stock Had a Volatile 2025: What’s the 2026 Forecast?
-URL: https://www.barchart.com/story/news/36805702/nvidia-stock-had-a-volatile-2025-whats-the-2026-forecast
-Time Published: 2025-12-28T14:30:02Z
-Description: As Nvidia is set to begin exports of H200 chips to China in 2026, its outlook appears positive. So, after a volatile 2025, could it deliver decent returns...
---------------------------------------------------
-
-Title: Making fortunes and letting it ride: 13 New Year investing resolutions
-URL: https://finance.yahoo.com/news/making-fortunes-and-letting-it-ride-13-new-year-investing-resolutions-110024454.html
-Time Published: 2025-12-28T11:00:24Z
-Description: You can always be better.
 --------------------------------------------------
