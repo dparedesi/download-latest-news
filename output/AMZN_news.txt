@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Are These 3 Leading Defensive Stocks Too Crowded Heading Into 2026?
+URL: https://www.marketbeat.com/stock-ideas/are-these-3-leading-defensive-stocks-too-crowded-heading-into-2026/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2026-01-01T13:19:00Z
+Description: Walmart, Costco, and Procter & Gamble may be too crowded in 2026; see how these defensive stocks may perform if the economy booms, stalls, or stays flat
+--------------------------------------------------
+
 Title: Stocks wild ride in 2025 sets the stage for 2026
 URL: https://www.thestreet.com/investing/the-major-stories-that-moved-stocks-in-2025
 Time Published: 2025-12-31T22:10:02Z
@@ -40,17 +46,4 @@ Title: Why Amazon stock could have nearly 50% upside in 2026
 URL: https://finance.yahoo.com/news/why-amazon-stock-could-have-nearly-50-upside-in-2026-131405626.html
 Time Published: 2025-12-29T13:14:05Z
 Description: Amazon's stock could bounce back in 2026 after a rough 2025.
---------------------------------------------------
-
-Title: The most talked-about stocks online: Microsoft takes the top spot
-URL: https://www.digitaljournal.com/business/the-most-talked-about-stocks-online-microsoft-takes-the-top-spot/article
-Time Published: 2025-12-28T22:18:07Z
-Description: Microsoft is the most talked about stock online, scoring 80.75 out of 100 in the index. 
-The post The most talked-about stocks online: Microsoft takes the top spot appeared first on Digital Journal.
---------------------------------------------------
-
-Title: Nvidia Stock Had a Volatile 2025: What’s the 2026 Forecast?
-URL: https://www.barchart.com/story/news/36805702/nvidia-stock-had-a-volatile-2025-whats-the-2026-forecast
-Time Published: 2025-12-28T14:30:02Z
-Description: As Nvidia is set to begin exports of H200 chips to China in 2026, its outlook appears positive. So, after a volatile 2025, could it deliver decent returns...
 --------------------------------------------------

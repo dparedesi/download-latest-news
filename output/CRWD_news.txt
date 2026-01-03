@@ -1,5 +1,17 @@
 List of news related to Crowdstrike CRWD:
 
+Title: CrowdStrike Insiders Are Offloading CRWD Stock. Should You?
+URL: https://www.barchart.com/story/news/36854595/crowdstrike-insiders-are-offloading-crwd-stock-should-you
+Time Published: 2026-01-01T21:27:06Z
+Description: Insider selling at CrowdStrike has investors on edge, but with fundamentals still strong, is it worth following suit?
+--------------------------------------------------
+
+Title: After Record Runs for Western Digital and Sandisk in 2025, Consider This 1 Data Center Storage Stock for 2026
+URL: https://www.barchart.com/story/news/36854356/after-record-runs-for-western-digital-and-sandisk-in-2025-consider-this-1-data-center-storage-stock-for-2026
+Time Published: 2026-01-01T20:15:34Z
+Description: As AI spending shifted deeper into data centers, storage stocks stole the show in 2025. Now investors gaze onward to Pure Storage stock for 2026.
+--------------------------------------------------
+
 Title: J.P. Morgan Maintains Bullish Stance on CrowdStrike Holdings (CRWD) Stock
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a8ff8781-5fac-4975-941c-c7850cac5f97
 Time Published: 2025-12-31T16:56:57Z
@@ -49,17 +61,4 @@ Title: Here’s What Weighed on Fiserv’s (FISV) Performance
 URL: https://finance.yahoo.com/news/weighed-fiserv-fisv-performance-142953664.html
 Time Published: 2025-12-29T14:29:53Z
 Description: Bailard Inc., an investment management company, released its third-quarter 2025 investor letter for “Bailard Technology Strategy”. A copy of the letter can...
---------------------------------------------------
-
-Title: The most talked-about stocks online: Microsoft takes the top spot
-URL: https://www.digitaljournal.com/business/the-most-talked-about-stocks-online-microsoft-takes-the-top-spot/article
-Time Published: 2025-12-28T22:18:07Z
-Description: Microsoft is the most talked about stock online, scoring 80.75 out of 100 in the index. 
-The post The most talked-about stocks online: Microsoft takes the top spot appeared first on Digital Journal.
---------------------------------------------------
-
-Title: Jim Cramer Considers CrowdStrike One of the “Best of Breed” in Cybersecurity
-URL: https://finance.yahoo.com/news/jim-cramer-considers-crowdstrike-one-161602139.html
-Time Published: 2025-12-28T16:16:02Z
-Description: CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of the stocks Jim Cramer discussed along with macroeconomic conditions. Cramer highlighted the company’s...
 --------------------------------------------------

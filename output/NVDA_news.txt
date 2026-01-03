@@ -1,5 +1,18 @@
 List of news related to NVIDIA NVDA:
 
+Title: 5 fantastic ASX ETFs for beginners in 2026
+URL: https://www.fool.com.au/2026/01/02/5-fantastic-asx-etfs-for-beginners-in-2026/
+Time Published: 2026-01-02T02:49:20Z
+Description: These funds are highly rated for a reason. Here's what you need to know about them.
+The post 5 fantastic ASX ETFs for beginners in 2026 appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: NVDA, NKE, and CM: Bet on These 3 Stocks With Surging Unusual Options Activity for 2026 Gains
+URL: https://www.barchart.com/story/news/36853790/nvda-nke-and-cm-bet-on-these-3-stocks-with-surging-unusual-options-activity-for-2026-gains
+Time Published: 2026-01-01T18:30:02Z
+Description: As we enter 2026, options investors expect another year of volatility, with profits made and lost by betting on stocks with surging unusual options activity....
+--------------------------------------------------
+
 Title: NVIDIA (NVDA)’s List of Clients Is “Insanely Long,” Says Jim Cramer
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5aee8bcf-c8eb-4b47-8e55-57619e6af141
 Time Published: 2026-01-01T13:43:28Z
@@ -274,16 +287,16 @@ Time Published: 2025-12-29T11:22:54Z
 Description: March S&P 500 E-Mini futures (ESH26) are down -0.24%, and March Nasdaq 100 E-Mini futures (NQH26) are down -0.44% this morning, pointing to a lower open on...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slip with Wall Street set to wrap up wild 2025
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-with-wall-street-set-to-wrap-up-wild-2025-110404385.html
-Time Published: 2025-12-29T11:04:04Z
-Description: Wall Street was set to open the final three days of trading in a rollercoaster 2025 that looks likely to end with sizable gains.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slide as Nvidia, Tesla fall to start 2025's final week
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-nvidia-tesla-fall-to-start-2025s-final-week-110404612.html
 Time Published: 2025-12-29T11:04:04Z
 Description: Wall Street opened the final three days of trading in a rollercoaster 2025 that looks likely to end with sizable gains.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slip with Wall Street set to wrap up wild 2025
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-with-wall-street-set-to-wrap-up-wild-2025-110404385.html
+Time Published: 2025-12-29T11:04:04Z
+Description: Wall Street was set to open the final three days of trading in a rollercoaster 2025 that looks likely to end with sizable gains.
 --------------------------------------------------
 
 Title: What Is the Best Artificial Intelligence (AI) Stock to Hold for the Next 10 Years? - Yahoo Finance
@@ -296,17 +309,4 @@ Title: The Best Artificial Intelligence (AI) Stocks to Buy Ahead of 2026, Accord
 URL: https://slashdot.org/firehose.pl?op=view&amp;id=180472565
 Time Published: 2025-12-29T05:52:25Z
 Description: The Best Artificial Intelligence (AI) Stocks to Buy Ahead of 2026, According to Wall Street Analysts (Hint: Not Palantir)Yahoo Finance These 6 stocks will lead the $1 trillion chip surge in 2026, BofA saysYahoo Finance What Is the Best Artificial Intelligence…
---------------------------------------------------
-
-Title: Sign up, Fund A$500 (Hold 30 Days) Get A$50 Cash @WEBULLBonus
-URL: https://www.ozbargain.com.au/node/942369
-Time Published: 2025-12-29T04:00:33Z
-Description: Bhh Invitee1.You have not previously registered your email address or phone number with Webull Australia.2.You havesuccessfully received aunique referral linkfrom …
---------------------------------------------------
-
-Title: The most talked-about stocks online: Microsoft takes the top spot
-URL: https://www.digitaljournal.com/business/the-most-talked-about-stocks-online-microsoft-takes-the-top-spot/article
-Time Published: 2025-12-28T22:18:07Z
-Description: Microsoft is the most talked about stock online, scoring 80.75 out of 100 in the index. 
-The post The most talked-about stocks online: Microsoft takes the top spot appeared first on Digital Journal.
 --------------------------------------------------
