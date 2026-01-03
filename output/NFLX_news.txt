@@ -1,5 +1,11 @@
 List of news related to Netflix stock price NFLX:
 
+Title: Bear Put Spread Screener Results for January 2nd
+URL: https://www.barchart.com/story/news/36858762/bear-put-spread-screener-results-for-january-2nd
+Time Published: 2026-01-02T12:00:02Z
+Description: With markets pulling back on Wednesday, it’s a good time to check in on our bear put spread screener.
+--------------------------------------------------
+
 Title: CNBC: WARNER expected to reject PARAMOUNT's latest hostile bid...
 URL: https://finance.yahoo.com/news/warner-bros-expected-reject-paramounts-144909247.html
 Time Published: 2025-12-30T15:28:37Z

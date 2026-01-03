@@ -1,5 +1,11 @@
 List of news related to Stocks with massive upside potential:
 
+Title: What Makes Eli Lilly And Co. (LLY) a Worthy Holding?
+URL: https://finance.yahoo.com/news/makes-eli-lilly-co-lly-125310707.html
+Time Published: 2026-01-02T12:53:10Z
+Description: Alpha Wealth Funds, LLC, an investment management company, released its Q3 2025 letter for the “Insiders Fund”. A copy of the letter can be downloaded here. ...
+--------------------------------------------------
+
 Title: Markets begin 2026 on a flat note as ITC crash overshadows auto sector rally
 URL: https://www.thehindubusinessline.com/markets/markets-begin-2026-on-a-flat-note-as-itc-crash-overshadows-auto-sector-rally/article70460261.ece
 Time Published: 2026-01-01T12:03:23Z
@@ -72,7 +78,7 @@ Title: Sabotaging Bitcoin
 URL: https://blog.dshr.org/2025/12/sabotaging-bitcoin.html
 Time Published: 2025-12-30T20:53:59Z
 Full Content:
-I'm David Rosenthal, and this is a place to discuss the work I'm doing in Digital Preservation. In When the AI bubble pops, Nvidia becomes the most important software company overnight, Tobias Mann speculates about the aftermath of the AI crash, when the world will be awash in data centers full of Nvidia GPUs not doing AI. The sub-head is:"Want to survive the crash? Find another way to make money with GPUs"This leads me to wonder what the hash rate of a 1GW data center full of Nvidia's finest chips would be, and whether this might make the outsider attack feasible. Let's guess that they'd be half as efficient as Bitmain's, so you'd need 19 of these data centers. That's probably more than are going to get built before the crash, so the answer is no. Post a Comment
+I'm David Rosenthal, and this is a place to discuss the work I'm doing in Digital Preservation. In When the AI bubble pops, Nvidia becomes the most important software company overnight, Tobias Mann speculates about the aftermath of the AI crash, when the world will be awash in data centers full of Nvidia GPUs not doing AI. The sub-head is:"Want to survive the crash? Find another way to make money with GPUs"This leads me to wonder what the hash rate of a 1GW data center full of Nvidia's finest chips would be, and whether this might make the outsider attack feasible. Let's guess that they'd be half as efficient as Bitmain's, so you'd need 19 of these data centers. That's probably more than are going to get built before the crash, so the answer is no. A Bitcoin sabotage would hit the US, then India, then Europe. But the US the hardest. Bitmain is mainland Chinese (and has a subsidiary subject to US sanctions). If an attack would come from anyone, it would most likely be a result of economic war (real war, not 'war') between the US and China, with the hit to India a bonus for the Chinese. Such an attack would likely be unforeseeable until it happens (barring any internal leaks).The Bitcoin futures market shouldn't be the only way to profit from a Bitcoin sabotage. I'm not clued in to know what second order market effects to expect, though, but someone probably has a good idea. Post a Comment
 --------------------------------------------------
 
 Title: The 2026 Cannabis Wildcard: How Tax Reform Could Reset Stock Valuations
