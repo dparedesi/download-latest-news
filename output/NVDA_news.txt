@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Nasdaq, Dow, S&P 500 waver as Wall Street kicks off 2026
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-dow-sp-500-waver-as-wall-street-kicks-off-2026-081338412.html
+Time Published: 2026-01-02T08:13:38Z
+Description: Wall Street is kicking off trading in 2026 after its third consecutive year of double-digit percentage gains.
+--------------------------------------------------
+
 Title: 5 fantastic ASX ETFs for beginners in 2026
 URL: https://www.fool.com.au/2026/01/02/5-fantastic-asx-etfs-for-beginners-in-2026/
 Time Published: 2026-01-02T02:49:20Z
@@ -303,10 +309,4 @@ Title: What Is the Best Artificial Intelligence (AI) Stock to Hold for the Next 
 URL: https://slashdot.org/firehose.pl?op=view&amp;id=180472901
 Time Published: 2025-12-29T07:32:57Z
 Description: What Is the Best Artificial Intelligence (AI) Stock to Hold for the Next 10 Years?Yahoo Finance These 6 stocks will lead the $1 trillion chip surge in 2026, BofA saysYahoo Finance Prediction: 1 Artificial Intelligence (AI) Stock That Will Outperform Nvidia in…
---------------------------------------------------
-
-Title: The Best Artificial Intelligence (AI) Stocks to Buy Ahead of 2026, According to Wall Street Analysts (Hint: Not Palantir) - Yahoo Finance
-URL: https://slashdot.org/firehose.pl?op=view&amp;id=180472565
-Time Published: 2025-12-29T05:52:25Z
-Description: The Best Artificial Intelligence (AI) Stocks to Buy Ahead of 2026, According to Wall Street Analysts (Hint: Not Palantir)Yahoo Finance These 6 stocks will lead the $1 trillion chip surge in 2026, BofA saysYahoo Finance What Is the Best Artificial Intelligence…
 --------------------------------------------------
