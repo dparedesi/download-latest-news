@@ -1,5 +1,18 @@
 List of news related to NVIDIA NVDA:
 
+Title: bedsheet added to PyPI
+URL: https://pypi.org/project/bedsheet/
+Time Published: 2026-01-02T18:19:11Z
+Full Content:
+Please enable JavaScript to proceed.
+--------------------------------------------------
+
+Title: 'Queen City' Charlotte was the king of the stock market in 2025
+URL: https://www.cnbc.com/2026/01/02/queen-city-charlotte-was-the-king-of-the-stock-market-in-2025.html
+Time Published: 2026-01-02T18:05:18Z
+Description: Lithium and steel outshined A.I. in 2025, at least when it comes to CNBC's exclusive Power City Indexes.
+--------------------------------------------------
+
 Title: NVIDIA (NVDA) Expands AI Leadership with SchedMD Acquisition and Open-Source Focus
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_91036426-fa8d-4a7c-8283-531473381627
 Time Published: 2026-01-02T14:10:28Z
@@ -297,16 +310,4 @@ URL: https://247wallst.com/investing/2025/12/29/here-are-mondays-top-wall-street
 Time Published: 2025-12-29T12:52:55Z
 Full Content:
 Investing Sending You to Google News in 3 © Chaay_Tee / iStock via Getty Images The futures are trading lower as we begin the final trading week of 2025, albeit a holiday-shortened one once again. The major indices all finished the session modestly lower on Friday, with the venerable S&P 500 taking early bows as it hit a fresh all-time high, joining the Dow Jones Industrial Average and the Nasdaq, which recently entered all-time high territory. With just two full trading days left in the year, you can expect some volatility this week as investors and traders make final portfolio adjustments to close out the year. With sellers sneaking in late Friday, the Dow Jones Industrial closed at 48,710, down 0.04%, while the aforementioned S&P 500 backed off its intra-day all-time high print to close at 6.929 down 0.03%. The Nasdaq finished the day at 21,593, down 0.09%. Yields were flat to moderately lower on Friday as portfolio shuffling and some light profit-taking seemed to be the order for the day. The strong GDP data have challenged expectations for aggressive interest rate cuts next year, supporting a more hawkish stance among some Fed officials. Market pricing currently implies up to two rate cuts in 2026, while the median policymaker projection points to only one. Goldman Sachs said in the fall that it expects two more 25-basis-point reductions in 2026. The 30-year long bond closed Friday at 4.82% while the benchmark 10-year note was last seen at 4.13%. Both major oil benchmarks closed lower on Friday, with analysts pointing to the usual thin post-holiday trading as concerns about a looming global supply glut outweigh geopolitical supply risks, despite recent disruptions from actions against Venezuela and the ongoing Ukraine conflict. Brent Crude closed the day at $60.87, down 2.2%, while West Texas Intermediate finished Friday’s session at $56.94, down 2.2%. The big winner on Friday was Natural Gas, which had taken a beating over the previous two weeks, as it surged 3.5% higher to close at $4.39. Analysts cited cold weather, high LNG exports, and tighter storage levels, which are expected to drive winter demand upward despite warmer spells. Plus, short covering after a 20%+ move down was a possible reason for the gains. Gold continued to race higher after smashing through the $4500 mark earlier in the week, to finish Friday at $4,494. More positive coverage at Goldman Sachs, which sees the precious metal hitting $4,900 in 2026 and says “Gold remains our single favorite long commodity,” was a factor in Friday’s move higher. Silver also continued on a moonshot parabolic move, closing Friday at $75.98. Both remain at all-time highs, and investors could see additional substantial gains as we head into 2026. The crypto market saw another day of high volatility and generally mixed to lower trading on Friday, with major assets like Bitcoin initially rising modestly before sliding later in the day due to the typical thin holiday liquidity and a surge in precious metals pricing that drew significant investor capital in end-of-year moves. At 8 a.m. EST on Monday, Bitcoin was quoted at $87,580, while Ethereum was seen at $2,962. 24/7 Wall St. reviews dozens of analyst research reports daily to identify new investment ideas for both investors and traders. Some of these daily analyst calls cover stocks to buy. Other calls cover stocks to sell or avoid. Remember that no single analyst call should ever be used as a basis to buy or sell a stock. Here are some of the top Wall Street analyst upgrades, downgrades, and initiations seen on Monday, December 29, 2025. Our top personal finance-related articles today. Your wallet will thank you later. Pre-Market Stock Futures: The futures are trading flat after investors and traders returned from the Christmas holiday to find a… Pre-Market Stock Futures: The shortened holiday week is here, and the futures are trading higher this morning. Most traders and… Pre-Market Stock Futures: Futures are trading higher as we get ready to start a holiday-shortened trading week after an outstanding… Monday's top analyst upgrades and downgrades included Apple, Broadcom, Costco Wholesale, C3.ai, Deere, First Solar, Hormel Foods, Kroger, Lowe's Companies,… Pre-Market Stock Futures: The futures are trading modestly higher as Thanksgiving Eve has finally arrived. After a slow start on… Tuesday's top analyst upgrades and downgrades included Array Technologies, CarMax, Caterpillar, Cleveland-Cliffs, Eaton, First Solar, Intercontinental Exchange, Medical Properties Trust,… Monday's top analyst upgrades and downgrades included Advanced Micro Devices, Global Payments, Lululemon Athletica, Mastercard, Mosaic, Netflix, Nordstrom, Pinterest, Travelers… Friday's top analyst upgrades and downgrades included Alcoa, Charles Schwab, Cognizant Technology Solutions, IBM, Newmont, Okta, Philip Morris International, Roblox,… Pre-Market Stock Futures: Futures are trading lower on Monday as traders and investors return from the Thanksgiving holiday, preparing to…
---------------------------------------------------
-
-Title: 3 Semiconductor Stocks Well-Poised for a Comeback in 2026
-URL: https://finance.yahoo.com/news/3-semiconductor-stocks-well-poised-124000935.html
-Time Published: 2025-12-29T12:40:00Z
-Description: Semiconductor stocks, such as NVDA, MU and APH, are positioned to gain momentum in 2026 as AI, memory and data center demand drive the next growth wave.
---------------------------------------------------
-
-Title: Nvidia takes $5 billion stake in Intel under September agreement
-URL: https://finance.yahoo.com/news/nvidia-takes-5-billion-stake-121442962.html
-Time Published: 2025-12-29T12:14:42Z
-Description: Nvidia has purchased Intel shares worth $5 billion, the ​American semiconductor firm said in ‌a filing on Monday, carrying out a transaction ‌announced in...
 --------------------------------------------------
