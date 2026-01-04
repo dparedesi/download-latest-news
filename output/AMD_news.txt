@@ -1,5 +1,23 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stocks Settle Mixed on Strength in Chip Makers and Weakness in Megacap Tech
+URL: https://www.barchart.com/story/news/36865389/stocks-settle-mixed-on-strength-in-chip-makers-and-weakness-in-megacap-tech
+Time Published: 2026-01-02T21:37:59Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed up +0.19%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.66%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: Stocks Give Up Early Gains as Megacap Tech Shares Fall
+URL: https://www.barchart.com/story/news/36862088/stocks-give-up-early-gains-as-megacap-tech-shares-fall
+Time Published: 2026-01-02T16:29:44Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.05%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
+Title: Dear AMD Stock Fans, Mark Your Calendars for January 5
+URL: https://www.barchart.com/story/news/36861877/dear-amd-stock-fans-mark-your-calendars-for-january-5
+Time Published: 2026-01-02T16:08:01Z
+Description: AMD CEO Dr. Lisa Su will deliver the CES keynote on Jan. 5.
+--------------------------------------------------
+
 Title: TD Cowen Names Advanced Micro Devices (AMD) One of its Best Ideas for 2026
 URL: https://finance.yahoo.com/news/td-cowen-names-advanced-micro-141033407.html
 Time Published: 2026-01-02T14:10:33Z
@@ -16,22 +34,4 @@ Title: AMD's Lisa Su Pays Tribute To Former IBM CEO Lou Gerstner: An 'Amazingly 
 URL: https://finance.yahoo.com/news/amds-lisa-su-pays-tribute-023106844.html
 Time Published: 2025-12-31T02:31:06Z
 Description: Chipmaker Advanced Micro Devices Inc.’s (NASDAQ:AMD) CEO, Lisa Su, reflected on the influence of former IBM (NYSE:IBM) CEO Lou Gerstner on her early career, ...
---------------------------------------------------
-
-Title: AMD Stock Is Up 78% in 2025. What to Expect for Shares in 2026... and Beyond
-URL: https://www.barchart.com/story/news/36817373/amd-stock-is-up-78-in-2025-what-to-expect-for-shares-in-2026-and-beyond
-Time Published: 2025-12-29T19:42:16Z
-Description: AMD stock had a blockbuster 2025 but Mizuho sees it climbing further next year. Here’s what could drive AMD shares higher in 2026.
---------------------------------------------------
-
-Title: AMD stock faces its next big test in 2026
-URL: https://www.thestreet.com/investing/amd-stock-faces-its-next-big-test-in-2026
-Time Published: 2025-12-29T17:03:00Z
-Description: For the better part of the last decade, Advanced Micro Devices (AMD) lived in Nvidia’s shadow. In 2025, that changed. AMD stock took off handsomely (up 78...
---------------------------------------------------
-
-Title: Stocks Set to Open Lower as Investors Trim Risk at Year-End, Fed Minutes Awaited
-URL: https://www.barchart.com/story/news/36810716/stocks-set-to-open-lower-as-investors-trim-risk-fed-minutes-awaited
-Time Published: 2025-12-29T11:22:54Z
-Description: March S&P 500 E-Mini futures (ESH26) are down -0.24%, and March Nasdaq 100 E-Mini futures (NQH26) are down -0.44% this morning, pointing to a lower open on...
 --------------------------------------------------

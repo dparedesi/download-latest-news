@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Forget the Magnificent 7, it's now the Magnificent 2
+URL: https://www.thestreet.com/investing/stocks/forget-the-magnificient-7-its-now-the-magnificient-2
+Time Published: 2026-01-02T19:57:40Z
+Description: Over my nearly 30-year career tracking the stock market professionally, I've seen a lot of trends come and go. Investors who jumped on these trends late paid...
+--------------------------------------------------
+
 Title: Are These 3 Leading Defensive Stocks Too Crowded Heading Into 2026?
 URL: https://www.marketbeat.com/stock-ideas/are-these-3-leading-defensive-stocks-too-crowded-heading-into-2026/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2026-01-01T13:19:00Z
@@ -34,16 +40,4 @@ Title: A Christmas Stress Test: Why Diesel Pricing Stress Means Profits
 URL: https://www.marketbeat.com/stock-ideas/a-christmas-stress-test-why-diesel-pricing-stress-means-profits/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2025-12-30T17:22:00Z
 Description: Diesel prices surged despite weak freight demand as supply tightened. Valero Energy and Phillips 66 are capturing higher margins while shippers face rising...
---------------------------------------------------
-
-Title: Dan Ives Is Betting on Cyber-AI for 2026. 1 Stock to Load Up on Now.
-URL: https://www.barchart.com/story/news/36817786/dan-ives-is-betting-on-cyber-ai-for-2026-1-stock-to-load-up-on-now
-Time Published: 2025-12-29T20:25:33Z
-Description: Wedbush’s Dan Ives is bullish on cybersecurity firm CrowdStrike amid the AI trend.
---------------------------------------------------
-
-Title: Why Amazon stock could have nearly 50% upside in 2026
-URL: https://finance.yahoo.com/news/why-amazon-stock-could-have-nearly-50-upside-in-2026-131405626.html
-Time Published: 2025-12-29T13:14:05Z
-Description: Amazon's stock could bounce back in 2026 after a rough 2025.
 --------------------------------------------------

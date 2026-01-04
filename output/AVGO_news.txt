@@ -1,9 +1,21 @@
 List of news related to Broadcom AVGO:
 
+Title: Forget the Magnificent 7, it's now the Magnificent 2
+URL: https://www.thestreet.com/investing/stocks/forget-the-magnificient-7-its-now-the-magnificient-2
+Time Published: 2026-01-02T19:57:40Z
+Description: Over my nearly 30-year career tracking the stock market professionally, I've seen a lot of trends come and go. Investors who jumped on these trends late paid...
+--------------------------------------------------
+
 Title: 'Queen City' Charlotte was the king of the stock market in 2025
 URL: https://www.cnbc.com/2026/01/02/queen-city-charlotte-was-the-king-of-the-stock-market-in-2025.html
 Time Published: 2026-01-02T18:05:18Z
 Description: Lithium and steel outshined A.I. in 2025, at least when it comes to CNBC's exclusive Power City Indexes.
+--------------------------------------------------
+
+Title: Stocks Give Up Early Gains as Megacap Tech Shares Fall
+URL: https://www.barchart.com/story/news/36862088/stocks-give-up-early-gains-as-megacap-tech-shares-fall
+Time Published: 2026-01-02T16:29:44Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.05%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
 --------------------------------------------------
 
 Title: Benchmark Boosts Broadcom’s (AVGO) Price Target Amid AI Chip Growth
@@ -59,10 +71,4 @@ Title: The Lazy Way to Play NVIDIA’s $20B Groq Deal
 URL: https://www.marketbeat.com/originals/the-lazy-way-to-play-nvidias-20b-groq-deal/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2025-12-30T13:24:00Z
 Description: The acquisition of Groq by NVIDIA signals a shift toward AI inference that investors can capture through specific semiconductor ETFs focused on growth.
---------------------------------------------------
-
-Title: Broadcom's Insider Selling: A Big Red Flag, or Business as Usual?
-URL: https://www.marketbeat.com/originals/broadcoms-insider-selling-a-big-red-flag-or-business-as-usual/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-12-29T17:43:00Z
-Description: Insider selling is hitting Broadcom after its latest earnings release. However, should investors fret over these sales, or take them with a big grain of salt...
 --------------------------------------------------
