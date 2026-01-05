@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: This could be a better — and safer — way into the AI trade in 2026
+URL: https://www.marketwatch.com/story/this-could-be-a-better-and-safer-way-into-the-ai-trade-in-2026-3dd06697
+Time Published: 2026-01-03T14:00:00Z
+Description: Investors might be well served to look beyond semiconductor makers to take part in the AI boom — and more toward the companies that make manufacturing and...
+--------------------------------------------------
+
 Title: Forget the Magnificent 7, it's now the Magnificent 2
 URL: https://www.thestreet.com/investing/stocks/forget-the-magnificient-7-its-now-the-magnificient-2
 Time Published: 2026-01-02T19:57:40Z
@@ -65,10 +71,4 @@ Title: The Quantum Shield: Hardening AI & Critical Infrastructure
 URL: https://financialpost.com/globe-newswire/the-quantum-shield-hardening-ai-critical-infrastructure
 Time Published: 2025-12-31T12:47:10Z
 Description: Issued on behalf of QSE – Quantum Secure Encryption Corp. VANCOUVER, British Columbia, Dec. 31, 2025 (GLOBE NEWSWIRE) — USA News Group News Commentary – The post-quantum cryptography market is projected to surge from US$1.35 billion in 2025 to US$22.68 billio…
---------------------------------------------------
-
-Title: The Lazy Way to Play NVIDIA’s $20B Groq Deal
-URL: https://www.marketbeat.com/originals/the-lazy-way-to-play-nvidias-20b-groq-deal/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2025-12-30T13:24:00Z
-Description: The acquisition of Groq by NVIDIA signals a shift toward AI inference that investors can capture through specific semiconductor ETFs focused on growth.
 --------------------------------------------------
