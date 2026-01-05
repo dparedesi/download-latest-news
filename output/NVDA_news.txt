@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: I Asked ChatGPT To Create My 2026 Investment Plan: Here’s What It Said
+URL: https://finance.yahoo.com/news/asked-chatgpt-create-2026-investment-144829414.html
+Time Published: 2026-01-04T14:48:29Z
+Description: Discover ChatGPT’s recommended 2026 investment plan, portfolio strategy and key trends, like AI and inflation to help shape your smartest money moves.
+--------------------------------------------------
+
 Title: GOOGL Stock Rocked in 2025, But Is Google’s 2026 Forecast as Bright?
 URL: https://www.barchart.com/story/news/36871752/googl-stock-rocked-in-2025-but-is-googles-2026-forecast-as-bright
 Time Published: 2026-01-03T17:00:02Z
@@ -73,6 +79,12 @@ Title: NVIDIA (NVDA) Expands AI Leadership with SchedMD Acquisition and Open-Sou
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_91036426-fa8d-4a7c-8283-531473381627
 Time Published: 2026-01-02T14:10:28Z
 Description: None
+--------------------------------------------------
+
+Title: CES 2026: What to expect from the tech industry’s biggest show of the year
+URL: https://finance.yahoo.com/news/ces-2026-what-to-expect-from-the-tech-industrys-biggest-show-of-the-year-140552142.html
+Time Published: 2026-01-02T14:05:52Z
+Description: CES 2026 kicks off in Las Vegas on Jan. 6. Here's what to expect from the tech industry's biggest event.
 --------------------------------------------------
 
 Title: We Asked ChatGPT What the Top-Performing Stocks of 2026 Will Be: Do Investing Experts Agree?
