@@ -1,25 +1,25 @@
 List of news related to NVIDIA NVDA:
 
-Title: Stock market today: S&P 500, Nasdaq rise after US takedown in Venezuela as AI hopes revive
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-after-us-takedown-in-venezuela-as-ai-hopes-revive-235634319.html
-Time Published: 2026-01-04T23:56:34Z
-Description: The US military action in Venezuela early into the weekend took focus as markets headed into the first full trading week of the new year.
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq futures rise after US takedown in Venezuela as AI hopes revive
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-rise-after-us-takedown-in-venezuela-as-ai-hopes-revive-235634887.html
-Time Published: 2026-01-04T23:56:34Z
-Description: The US military action in Venezuela early into the weekend took focus as markets headed into the first full trading week of the new year.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq rise as techs revive, while oil majors jump after US strike in Venezuela
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-techs-revive-while-oil-majors-jump-after-us-strike-in-venezuela-235634967.html
 Time Published: 2026-01-04T23:56:34Z
 Description: Wall Street is assessing the US military strike and capture of President Maduro in Venezuela, while hopes for AI demand buoy techs.
 --------------------------------------------------
 
+Title: Stock market today: S&P 500, Nasdaq rise after US takedown in Venezuela as AI hopes revive
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-after-us-takedown-in-venezuela-as-ai-hopes-revive-235634319.html
+Time Published: 2026-01-04T23:56:34Z
+Description: The US military action in Venezuela early into the weekend took focus as markets headed into the first full trading week of the new year.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures rise after US takedown in Venezuela as AI hopes revive
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-after-us-takedown-in-venezuela-as-ai-hopes-revive-235634688.html
+Time Published: 2026-01-04T23:56:34Z
+Description: The US military action in Venezuela early into the weekend took focus as markets headed into the first full trading week of the new year.
+--------------------------------------------------
+
+Title: Stock market today: S&P 500, Nasdaq futures rise after US takedown in Venezuela as AI hopes revive
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-rise-after-us-takedown-in-venezuela-as-ai-hopes-revive-235634887.html
 Time Published: 2026-01-04T23:56:34Z
 Description: The US military action in Venezuela early into the weekend took focus as markets headed into the first full trading week of the new year.
 --------------------------------------------------
