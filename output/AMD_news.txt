@@ -29,15 +29,3 @@ URL: https://finance.yahoo.com/news/td-cowen-names-advanced-micro-141033407.html
 Time Published: 2026-01-02T14:10:33Z
 Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) ranks among the best AI stocks to buy according to analysts. On December 2, TD Cowen restated its Buy rating and...
 --------------------------------------------------
-
-Title: Is Advanced Micro Devices (AMD) the Best New Stock from David Tepper’s Portfolio?
-URL: https://finance.yahoo.com/news/advanced-micro-devices-amd-best-102540614.html
-Time Published: 2025-12-31T10:25:40Z
-Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the new stocks David Tepper has bought. As of December 29, the average price target for AMD suggests an...
---------------------------------------------------
-
-Title: AMD's Lisa Su Pays Tribute To Former IBM CEO Lou Gerstner: An 'Amazingly Curious' Leader Who Shaped Her Early Career
-URL: https://finance.yahoo.com/news/amds-lisa-su-pays-tribute-023106844.html
-Time Published: 2025-12-31T02:31:06Z
-Description: Chipmaker Advanced Micro Devices Inc.’s (NASDAQ:AMD) CEO, Lisa Su, reflected on the influence of former IBM (NYSE:IBM) CEO Lou Gerstner on her early career, ...
---------------------------------------------------

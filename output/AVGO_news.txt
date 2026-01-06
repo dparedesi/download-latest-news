@@ -54,21 +54,3 @@ URL: https://thedividendguyblog.com/most-popular-stocks/
 Time Published: 2026-01-01T10:30:49Z
 Description: Every year, I like to step back and ask a simple question: what are seasoned dividend growth investors actually holding? Not what’s trending on social media. Not what’s getting hyped on TV. I’m talking about real portfolios—built over time by people who are a…
 --------------------------------------------------
-
-Title: Nvidia Could Buy AI21 Next. What Does That Mean for NVDA Stock?
-URL: https://www.barchart.com/story/news/36843526/nvidia-could-buy-ai21-next-what-does-that-mean-for-nvda-stock
-Time Published: 2025-12-31T17:36:00Z
-Description: Reports peg the deal could be for $2 billion to $3 billion.
---------------------------------------------------
-
-Title: Bristol Gate US Equity Strategy: NVDA’s Demand Today is Broadcom’s (AVGO) Opportunity Tomorrow
-URL: https://finance.yahoo.com/news/bristol-gate-us-equity-strategy-130823220.html
-Time Published: 2025-12-31T13:08:23Z
-Description: Bristol Gate Capital Partners, an investment management company, published its Q3 2025 investor letter for the “US Equity Strategy”. A copy of the letter can...
---------------------------------------------------
-
-Title: The Quantum Shield: Hardening AI & Critical Infrastructure
-URL: https://financialpost.com/globe-newswire/the-quantum-shield-hardening-ai-critical-infrastructure
-Time Published: 2025-12-31T12:47:10Z
-Description: Issued on behalf of QSE – Quantum Secure Encryption Corp. VANCOUVER, British Columbia, Dec. 31, 2025 (GLOBE NEWSWIRE) — USA News Group News Commentary – The post-quantum cryptography market is projected to surge from US$1.35 billion in 2025 to US$22.68 billio…
---------------------------------------------------

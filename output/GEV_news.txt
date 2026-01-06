@@ -11,9 +11,3 @@ URL: https://finance.yahoo.com/news/jim-cramer-discusses-ge-vernova-060630544.ht
 Time Published: 2026-01-01T06:06:30Z
 Description: We recently published 10 Stocks on Jim Cramer’s Radar. GE Vernova Inc. (NYSE:GEV) is one of the stocks on Jim Cramer’s radar. GE Vernova Inc. (NYSE:GEV) is...
 --------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq post double-digit gains in 2025 as AI trade powers market once again
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-post-double-digit-gains-in-2025-as-ai-trade-powers-market-once-again-210012468.html
-Time Published: 2025-12-31T21:00:12Z
-Description: Wall Street prepared to wrap up an eventful, roller-coaster trading year with sizable gains.
---------------------------------------------------
