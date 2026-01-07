@@ -1,5 +1,11 @@
 List of news related to Novo Nordisk NVO:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq nudge higher after Dow's rally to record
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-nudge-higher-after-dows-rally-to-record-143551914.html
+Time Published: 2026-01-06T14:35:51Z
+Description: US stock futures were steady Monday night as investors took time to settle following a record close for the Dow Jones.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather after Dow's record rally
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-take-a-breather-after-dows-record-rally-235217697.html
 Time Published: 2026-01-05T23:52:17Z
