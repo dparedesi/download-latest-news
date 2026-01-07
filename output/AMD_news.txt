@@ -1,5 +1,17 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Wall Street clashes on Nvidia's AI cycle expiration date following Jensen Huang's CES keynote
+URL: https://finance.yahoo.com/news/wall-street-clashes-on-nvidias-ai-cycle-expiration-date-following-jensen-huangs-ces-keynote-174045521.html
+Time Published: 2026-01-06T17:40:45Z
+Description: Wedbush's Dan Ives sees a $6 trillion path for the chip giant, but DA Davidson's Gil Luria warns that the "AI party" could face a hangover if the data center...
+--------------------------------------------------
+
+Title: Advanced Micro Devices’ Quarterly Earnings Preview: What You Need to Know
+URL: https://www.barchart.com/story/news/36899734/advanced-micro-devices-quarterly-earnings-preview-what-you-need-to-know
+Time Published: 2026-01-06T10:09:01Z
+Description: Advanced Micro Devices is scheduled to release its fiscal fourth-quarter earnings soon, and analysts project a double-digit earnings growth.
+--------------------------------------------------
+
 Title: AMD and its Partners Share their Vision for “AI Everywhere, for Everyone” at CES 2026
 URL: https://financialpost.com/globe-newswire/amd-and-its-partners-share-their-vision-for-ai-everywhere-for-everyone-at-ces-2026
 Time Published: 2026-01-06T04:34:09Z
