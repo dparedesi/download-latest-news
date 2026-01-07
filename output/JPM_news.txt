@@ -1,5 +1,17 @@
 List of news related to JPMorgan stock price JPM:
 
+Title: Market Minute 1-5-26- Energy Stocks, Gold Jump After Maduro Raid
+URL: https://finance.yahoo.com/news/market-minute-1-5-26-140900271.html
+Time Published: 2026-01-05T14:09:00Z
+Description: Stocks are mixed in the early going today, while gold and silver are jumping again. Crude oil is modestly higher along with the dollar, while Treasuries are ...
+--------------------------------------------------
+
+Title: What You Need to Know Ahead of Boeing's Earnings Release
+URL: https://www.barchart.com/story/news/36884854/what-you-need-to-know-ahead-of-boeing-s-earnings-release
+Time Published: 2026-01-05T13:33:12Z
+Description: Boeing is expected to unveil its fiscal fourth-quarter earnings soon, and analysts project a notable double-digit profit growth.
+--------------------------------------------------
+
 Title: GOOGL, AMZN, and DASH: J.P. Morgan Picks the Top Internet Stocks to Buy for 2026
 URL: https://finance.yahoo.com/news/googl-amzn-dash-j-p-120955523.html
 Time Published: 2026-01-05T12:09:55Z
@@ -10,10 +22,4 @@ Title: Beyond the Santa Claus Rally—5 Quality Stocks to Buy in 2026
 URL: https://www.marketbeat.com/stock-ideas/beyond-the-santa-claus-rally5-quality-stocks-to-buy-in-2026/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2026-01-02T20:41:00Z
 Description: There may not be a Santa Claus rally, but 2026 still looks bullish; here are five high-quality stocks that could benefit from earnings growth and lower rates
---------------------------------------------------
-
-Title: NVDA, NKE, and CM: Bet on These 3 Stocks With Surging Unusual Options Activity for 2026 Gains
-URL: https://www.barchart.com/story/news/36853790/nvda-nke-and-cm-bet-on-these-3-stocks-with-surging-unusual-options-activity-for-2026-gains
-Time Published: 2026-01-01T18:30:02Z
-Description: As we enter 2026, options investors expect another year of volatility, with profits made and lost by betting on stocks with surging unusual options activity....
 --------------------------------------------------
