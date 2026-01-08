@@ -6,14 +6,20 @@ Time Published: 2026-01-07T05:03:00Z
 Description: I concluded last year with two in-depth articles about Nvidia. I thought when I was writing “What’s next for Nvidia stock in 2026” that there wouldn’t be any...
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq waver as jobs data, Trump's Venezuela oil deal take focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-jobs-data-trumps-venezuela-oil-deal-take-focus-002323425.html
+Title: Stock market today: Dow, S&P 500, Nasdaq edge down with eyes on Trump's Venezuela oil deal, looming jobs data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-edge-down-with-eyes-on-trumps-venezuela-oil-deal-looming-jobs-data-002323961.html
 Time Published: 2026-01-07T00:23:23Z
 Description: Markets are holding steady after a roaring start to the week, with Venezuela, CES, and jobs data releases all in focus.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq edge down with eyes on Trump's Venezuela oil deal, looming jobs data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-edge-down-with-eyes-on-trumps-venezuela-oil-deal-looming-jobs-data-002323961.html
+Title: Stock market today: Dow, S&P 500, Nasdaq edge down as jobs data, Trump's Venezuela oil deal take focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-edge-down-as-jobs-data-trumps-venezuela-oil-deal-take-focus-002323719.html
+Time Published: 2026-01-07T00:23:23Z
+Description: Markets are holding steady after a roaring start to the week, with Venezuela, CES, and jobs data releases all in focus.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq waver as jobs data, Trump's Venezuela oil deal take focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-jobs-data-trumps-venezuela-oil-deal-take-focus-002323425.html
 Time Published: 2026-01-07T00:23:23Z
 Description: Markets are holding steady after a roaring start to the week, with Venezuela, CES, and jobs data releases all in focus.
 --------------------------------------------------
@@ -22,12 +28,6 @@ Title: Stock market today: S&P 500, Nasdaq nudge up but Dow lags as jobs data, T
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-nudge-up-but-dow-lags-as-jobs-data-trumps-venezuela-oil-deal-take-focus-002323778.html
 Time Published: 2026-01-07T00:23:23Z
 Description: The S&P 500 is eyeing a fresh record after a roaring start to the week, with Venezuela, CES, and jobs data releases all in focus.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq edge down as jobs data, Trump's Venezuela oil deal take focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-edge-down-as-jobs-data-trumps-venezuela-oil-deal-take-focus-002323719.html
-Time Published: 2026-01-07T00:23:23Z
-Description: Markets are holding steady after a roaring start to the week, with Venezuela, CES, and jobs data releases all in focus.
 --------------------------------------------------
 
 Title: 3 unstoppable growth ETFs to stock up on in 2026 and beyond
@@ -100,18 +100,18 @@ Time Published: 2026-01-06T13:21:00Z
 Description: Some 2026 predictions from a handful of market veterans including Steve Eisman, says watch out for old economy stocks to shine this year.
 --------------------------------------------------
 
-Title: NVIDIA BlueField-4 が次世代 AI 向けの新たな AI ネイティブ ストレージ インフラを推進
-URL: https://prtimes.jp/main/html/rd/p/000000582.000012662.html
-Time Published: 2026-01-06T04:40:30Z
-Full Content:
-PR TIMESのご利用について 資料をダウンロード NVIDIA ニュース概要: NVIDIA BlueField-4 は、ギガスケール推論向けに設計された新しい種類の AI ネイティブ ストレージ インフラである NVIDIA Inference Context Memory Storage Platform に搭載され、エージェント型 AI の高速化とスケーリングを実現 新しいストレージ プロセッサ プラットフォームは、超高速の長期記憶と短期記憶を備えたロング コンテキスト処理エージェント型 AI システム向けに設計 推論コンテキスト メモリ ストレージ プラットフォームは、AI エージェントの長期記憶を拡張し、ラックスケール AI システムのクラスター間における高帯域幅のコンテキスト共有を可能にし、1 秒あたりのトークン処理数と電力効率を最大 5 倍向上 NVIDIA Spectrum-X Ethernet により実現されるマルチターン AI エージェント向けの拡張コンテキスト メモリは、応答性を向上させ、GPU あたりのスループットを強化し、エージェント型推論の効率的なスケーリングをサポート ラスベガス — CES — 2026 年 1 月 5 日 — NVIDIA は本日、フルスタック NVIDIA BlueField プラットフォームの一部である NVIDIA BlueField®-4 データ プロセッサが、次世代 AI フロンティア向けの新たな AI ネイティブ ストレージ インフラである NVIDIA Inference Context Memory Storage Platform に搭載されることを発表しました。 AI モデルが数兆のパラメータと多段階推論にまで拡張されるにつれて、膨大な量のコンテキスト データが生成されます。これはキーバリュー (KV) キャッシュで表され、精度、ユーザー体験、継続性にとって極めて重要です。 KV キャッシュを GPU に長期保存することはできません。マルチエージェント システムでのリアルタイム推論のボトルネックが発生する可能性があるためです。 AI ネイティブ アプリケーションには、このデータを保存および共有するための新たな種類のスケーラブルなインフラが必要です。 NVIDIA Inference Context Memory Storage Platform は、GPU メモリ容量を拡張し、ノード間での高速共有を可能にし、従来のストレージと比較で 1 秒あたりのトークン数を最大 5 倍に増強し、最大 5 倍の電力効率を実現するコンテキスト メモリのインフラを提供します。 NVIDIA の創業者/ CEO である ジェンスン フアン（Jensen Huang） は、次のように述べています。「AI はコンピューティング スタック全体を変革し、そして今度はストレージに革命をもたらします。AIはもはや単発のチャットボットではなく、現実世界を理解し、長期的な視点で推論を行い、事実に基づいて行動し続け、ツールを使用して実際の作業をこなし、短期記憶と長期記憶の両方を保持する知的なパートナーになりつつあります。BlueField-4 を活用して、NVIDIA とそのソフトウェアおよびハードウェア パートナーは、AI の次世代フロンティア向けにストレージ スタックを再構築します。」 NVIDIA Inference Context Memory Storage Platform では、KV キャッシュ容量を拡大し、ラックスケール AI システムのクラスター間でのコンテキスト共有を加速します。マルチターン AI エージェント向けの永続的なコンテキストにより、応答性を向上させ、AI ファクトリのスループットを強化し、長コンテキストのマルチエージェント推論の効率的なスケーリングをサポートします。 NVIDIA BlueField-4 搭載プラットフォームの主な機能は、以下の通りです。 NVIDIA Rubin クラスターレベルの KV キャッシュ容量は、ロング コンテキスト、マルチターンのエージェント型推論に必要なスケールと効率を実現 従来のストレージと比較して最大 5 倍の電力効率を実現 NVIDIA DOCA™ フレームワークにより実現され、NVIDIA NIXL ライブラリおよび NVIDIA Dynamo ソフトウェアと緊密に統合された AI ノード間で KV キャッシュのスマートな高速共有により、1 秒あたりのトークン数を最大化し、最初のトークン生成までにかかる時間を短縮し、マルチターン応答性を向上 NVIDIA BlueField-4 で管理されるハードウェア アクセラレーション対応の KV キャッシュ配置により、メタデータのオーバーヘッドを排除し、データ移動を削減し、また、GPU ノードからの安全で分離されたアクセスを保証 NVIDIA Spectrum-X™ Ethernet により実現される効率的なデータ共有と検索が、AI ネイティブ KV キャッシュへの RDMA ベースのアクセスをサポートする高性能ネットワーク ファブリックとして機能 AIC、Cloudian、DDN、Dell Technologies、HPE、Hitachi Vantara、IBM、Nutanix、Pure Storage、Supermicro、VAST Data、WEKA などのストレージ イノベーターが、BlueField-4 を搭載した次世代 AI ストレージ プラットフォームをいち早く構築しています。BlueField-4 は 2026 年後半に提供開始予定です。 詳細は、CES における NVIDIA Live をご覧ください。 ※本発表資料は米国時間 2026年 1 月 5 日に発表されたプレスリリースの抄訳です。 NVIDIA についてNVIDIA (NASDAQ: NVDA) は、AI とアクセラレーテッド コンピューティングの世界的リーダーです。 このプレスリリースには、メディア関係者向けの情報があります メディアユーザー登録を行うと、企業担当者の連絡先や、イベント・記者会見の情報など様々な特記情報を閲覧できます。※内容はプレスリリースにより異なります。 すべての画像 このプレスリリース内で使われている画像ファイルがダウンロードできます 89フォロワー Copyright © PR TIMES Corporation All Rights Reserved.
---------------------------------------------------
-
 Title: NVIDIA 、安全なリーズニング ベースの自動運転車両開発を加速させる、オープンソース AI モデルとツール群の Alpamayo ファミリーを発表
 URL: https://prtimes.jp/main/html/rd/p/000000583.000012662.html
 Time Published: 2026-01-06T04:40:30Z
 Full Content:
 PR TIMESのご利用について 資料をダウンロード NVIDIA ニュース概要: NVIDIA が自動運転におけるロングテールの課題に対処するために設計されたオープン VLA モデルを初公開、Alpamayo ファミリーには、AV 開発向けのシミュレーション ツールとデータセットも含まれる Alpamayo 1、AlpaSim、Physical AI Open Datasetにより、人間のような判断力で認識、リーズニング、行動する車両の開発が可能に。開発者はモデルをファインチューン、抽出、テストすることが可能になり、安全性、堅牢性、拡張性が向上 Alpamayo を活用することで、JLR、Lucid、Uber などのモビリティ業界における主要な企業や、Berkeley DeepDrive などの AV 研究コミュニティが、安全かつリーズニング ベースのレベル 4 自動運転の展開ロードマップを迅速に推進することが可能に ラスベガス — CES — 2026 年 1 月 5 日 — NVIDIA は本日、安全なリーズニング ベースの次世代自動運転車 (AV) 開発を加速させるために設計されたオープン AI モデル、シミュレーション ツール、データセットから構成される NVIDIA Alpamayo ファミリーを発表しました。 自動運転車は、膨大な範囲の条件下で安全に動作しなければなりません。 「ロングテール」と呼ばれる稀で複雑なシナリオは、自律システムが安全に習得すべき最も困難な課題の一つであり続けています。従来の AV アーキテクチャでは、認識と計画が分離されているため、新たな状況や異常な状況が発生した場合の拡張性が制限される可能性があります。 近年、エンドツーエンド学習は著しい進歩を遂げていますが、このようなロングテールの稀なケースを克服するには、特にモデルが学習経験の範囲外の状況に直面した際に、因果関係を安全にリーズニングできるモデルが必要です。 Alpamayo ファミリーは、思考の連鎖に基づくリーズニング ベースの視覚言語行動 (VLA) モデルを活用し、AV の意思決定に人間に近い思考を導入しています。これらのシステムは、新たな、または稀なシナリオを段階的に検討し、運転能力と説明可能性を向上させます。これはインテリジェント車両の信頼性と安全性の向上に不可欠であり、NVIDIA Halos 安全システムによって裏付けされます。 NVIDIA の創業者/CEO であるジェンスン フアン (Jensen Huang) は、次のように述べています。「フィジカル AI にとっての ChatGPT の瞬間が到来しました。つまり、マシンが現実世界を理解し、リーズニングし、行動し始めるのです。ロボタクシーは、真っ先にその恩恵を受けます。Alpamayo は自動運転車にリーズニング能力をもたらし、稀なシナリオを熟考させながら、複雑な環境でも安全に運転し、運転判断を説明することを可能にします。安全でスケーラブルな自動運転の基盤となります。」 リーズニングをベースとした、自動運転のための完全でオープンなエコシステムAlpamayo は、オープン モデル、シミュレーション フレームワーク、データセットという 3 つの基本的要素を統合し、自動車開発者や研究チームが利用できる一貫性のあるオープンなエコシステムを形成します。 Alpamayo モデルは、車両内で直接実行されるのではなく、大規模な教師モデルとして機能し、開発者がファイン チューニングを行い完全な自律運転スタックの基盤へと集約できます。 CES で NVIDIA は以下を公開しました： Alpamayo 1: AV 研究コミュニティ向けに設計された業界初のChain-of-Thoughtリーズニング VLA モデルが、Hugging Face で公開されました。100 億個のパラメータを持つアーキテクチャの Alpamayo 1 は、映像入力を用いてリーズニング トレースとともに軌跡を生成し、各決定の背後にあるロジックを示します。 開発者は Alpamayo 1 を車両開発向けの小型ランタイム モデルに適用することも、リーズニング ベースの評価ツールや自動ラベリング システムなどの AV 開発ツールの基盤として活用することもできます。 Alpamayo 1 では、オープン モデル ウェイトとオープンソースの推論スクリプトを提供します。 Alpamayo ファミリーの将来のモデルでは、より多くのパラメータ、より詳細なリーズニング能力、入出力の柔軟性の向上、商用利用の選択肢が含まれる予定です。 AlpaSim: 高精度な AV 開発のための、完全なオープンソースのエンドツーエンドのシミュレーション フレームワークであり、GitHub で公開中です。 リアルなセンサー モデリング、設定可能な交通動態、スケーラブルな閉ループ テスト環境を提供し、迅速な検証とポリシーの調整を可能にします。 Physical AI Open Dataset: NVIDIA では、最も多様性のある AV 向けの大規模オープン データセットを提供しています。広範囲な地域と条件下で収集された 1,700 時間以上の走行データが含まれ、リーズニング アーキテクチャの進化に不可欠な、稀で複雑な実世界のエッジケースを網羅しています。これらのデータセットは Hugging Face で利用できます。 これらのツールを組み合わせることで、リーズニング ベースの AVスタック向けに自己強化型開発ループが実現されます。 自動運転業界全体が Alpamayo を支持 Lucid、JLR、Uber、Berkeley DeepDrive などのモビリティ業界のリーダーや業界のエキスパートが レベル 4 の自動化を可能にするリーズニング ベースの自動運転スタック開発に向け、Alpamayo に高い関心を寄せています。 Lucid Motors の ADAS および自動運転担当バイス プレジデント、Kai Stepper 氏は、次のように述べています。「フィジカル AI への移行は、単にデータを処理するだけでなく、実世界の行動をリーズニングできる AI システムの必要性が高まっていることを示唆しています。進化の重要な要素は、高度なシミュレーション環境、豊富なデータセット、そしてリーズニング モデルです。」 JLR の製品エンジニアリング担当エグゼクティブ ディレクター、 Thomas Müller 氏は、次のように述べています。「オープンで透明性のある AI 開発は、責任ある自動運転技術の進歩のために不可欠です。Alpamayo などのモデルのオープンソース化により、NVIDIA は自動運転エコシステム全体のイノベーションを加速させ、開発者や研究者に複雑な実世界のシナリオに安全に対処するための新しいツールを提供しています」 Uber の自律移動および配送部門グローバル責任者である Sarfraz Maredia 氏は、次のように述べています。「ロングテールで予測不可能な運転シナリオへの対処は、自動運転における本質的な課題の 1 つです。Alpamayo は、フィジカル AI の加速、透明性の向上、安全なレベル 4自動運転の展開に向けた、エキサイティングな新たな可能性を業界に提供します」 S&P Global のシニア プリンシパル アナリストである Owen Chen 氏は、次のように述べています。「Alpamayo 1 により、車両は複雑な環境を解釈し、未知の状況を予測し、未経験のシナリオでも安全に判断できるようになります。このモデルのオープンソース性により、業界全体のイノベーションが加速され、パートナー各社が独自のニーズに合わせてテクノロジを調整し、改良することができます」 Berkeley DeepDrive の共同ディレクターである Wei Zhan 氏は、次のように述べています。「Alpamayo ポートフォリオの追加は、研究コミュニティにとって大きな飛躍です。NVIDIA がAlpamayoのオープンな提供を決定したことは変革的であり、そのアクセス性と機能性により、私たちは前例のない規模でのトレーニングが可能になります。自律運転をメインストリームに推進するために必要な柔軟性とリソースが得られます」 Alpamayo 以外に、開発者は NVIDIA Cosmos™ および NVIDIA Omniverse™ プラットフォームを含む、NVIDIA の豊富なツールとモデル ライブラリを活用できます。 開発者は、独自の車両 データをもとにモデル リリースをファイン チューンし、NVIDIA DRIVE AGX Thor™ アクセラレーテッド コンピューティングで構築された NVIDIA DRIVE Hyperion™ アーキテクチャに統合し、商用展開前にシミュレーション環境でパフォーマンスを検証できます。 詳細は、CES における NVIDIA Live をご覧ください。 ※本発表資料は米国時間 2026 年 1 月 5 日に発表されたプレスリリースの抄訳です。 NVIDIAについて NVIDIA (NASDAQ: NVDA) はAIとアクセラレーテッド コンピューティングの世界的なリーダーです。 このプレスリリースには、メディア関係者向けの情報があります メディアユーザー登録を行うと、企業担当者の連絡先や、イベント・記者会見の情報など様々な特記情報を閲覧できます。※内容はプレスリリースにより異なります。 すべての画像 このプレスリリース内で使われている画像ファイルがダウンロードできます 89フォロワー Copyright © PR TIMES Corporation All Rights Reserved.
+--------------------------------------------------
+
+Title: NVIDIA BlueField-4 が次世代 AI 向けの新たな AI ネイティブ ストレージ インフラを推進
+URL: https://prtimes.jp/main/html/rd/p/000000582.000012662.html
+Time Published: 2026-01-06T04:40:30Z
+Full Content:
+PR TIMESのご利用について 資料をダウンロード NVIDIA ニュース概要: NVIDIA BlueField-4 は、ギガスケール推論向けに設計された新しい種類の AI ネイティブ ストレージ インフラである NVIDIA Inference Context Memory Storage Platform に搭載され、エージェント型 AI の高速化とスケーリングを実現 新しいストレージ プロセッサ プラットフォームは、超高速の長期記憶と短期記憶を備えたロング コンテキスト処理エージェント型 AI システム向けに設計 推論コンテキスト メモリ ストレージ プラットフォームは、AI エージェントの長期記憶を拡張し、ラックスケール AI システムのクラスター間における高帯域幅のコンテキスト共有を可能にし、1 秒あたりのトークン処理数と電力効率を最大 5 倍向上 NVIDIA Spectrum-X Ethernet により実現されるマルチターン AI エージェント向けの拡張コンテキスト メモリは、応答性を向上させ、GPU あたりのスループットを強化し、エージェント型推論の効率的なスケーリングをサポート ラスベガス — CES — 2026 年 1 月 5 日 — NVIDIA は本日、フルスタック NVIDIA BlueField プラットフォームの一部である NVIDIA BlueField®-4 データ プロセッサが、次世代 AI フロンティア向けの新たな AI ネイティブ ストレージ インフラである NVIDIA Inference Context Memory Storage Platform に搭載されることを発表しました。 AI モデルが数兆のパラメータと多段階推論にまで拡張されるにつれて、膨大な量のコンテキスト データが生成されます。これはキーバリュー (KV) キャッシュで表され、精度、ユーザー体験、継続性にとって極めて重要です。 KV キャッシュを GPU に長期保存することはできません。マルチエージェント システムでのリアルタイム推論のボトルネックが発生する可能性があるためです。 AI ネイティブ アプリケーションには、このデータを保存および共有するための新たな種類のスケーラブルなインフラが必要です。 NVIDIA Inference Context Memory Storage Platform は、GPU メモリ容量を拡張し、ノード間での高速共有を可能にし、従来のストレージと比較で 1 秒あたりのトークン数を最大 5 倍に増強し、最大 5 倍の電力効率を実現するコンテキスト メモリのインフラを提供します。 NVIDIA の創業者/ CEO である ジェンスン フアン（Jensen Huang） は、次のように述べています。「AI はコンピューティング スタック全体を変革し、そして今度はストレージに革命をもたらします。AIはもはや単発のチャットボットではなく、現実世界を理解し、長期的な視点で推論を行い、事実に基づいて行動し続け、ツールを使用して実際の作業をこなし、短期記憶と長期記憶の両方を保持する知的なパートナーになりつつあります。BlueField-4 を活用して、NVIDIA とそのソフトウェアおよびハードウェア パートナーは、AI の次世代フロンティア向けにストレージ スタックを再構築します。」 NVIDIA Inference Context Memory Storage Platform では、KV キャッシュ容量を拡大し、ラックスケール AI システムのクラスター間でのコンテキスト共有を加速します。マルチターン AI エージェント向けの永続的なコンテキストにより、応答性を向上させ、AI ファクトリのスループットを強化し、長コンテキストのマルチエージェント推論の効率的なスケーリングをサポートします。 NVIDIA BlueField-4 搭載プラットフォームの主な機能は、以下の通りです。 NVIDIA Rubin クラスターレベルの KV キャッシュ容量は、ロング コンテキスト、マルチターンのエージェント型推論に必要なスケールと効率を実現 従来のストレージと比較して最大 5 倍の電力効率を実現 NVIDIA DOCA™ フレームワークにより実現され、NVIDIA NIXL ライブラリおよび NVIDIA Dynamo ソフトウェアと緊密に統合された AI ノード間で KV キャッシュのスマートな高速共有により、1 秒あたりのトークン数を最大化し、最初のトークン生成までにかかる時間を短縮し、マルチターン応答性を向上 NVIDIA BlueField-4 で管理されるハードウェア アクセラレーション対応の KV キャッシュ配置により、メタデータのオーバーヘッドを排除し、データ移動を削減し、また、GPU ノードからの安全で分離されたアクセスを保証 NVIDIA Spectrum-X™ Ethernet により実現される効率的なデータ共有と検索が、AI ネイティブ KV キャッシュへの RDMA ベースのアクセスをサポートする高性能ネットワーク ファブリックとして機能 AIC、Cloudian、DDN、Dell Technologies、HPE、Hitachi Vantara、IBM、Nutanix、Pure Storage、Supermicro、VAST Data、WEKA などのストレージ イノベーターが、BlueField-4 を搭載した次世代 AI ストレージ プラットフォームをいち早く構築しています。BlueField-4 は 2026 年後半に提供開始予定です。 詳細は、CES における NVIDIA Live をご覧ください。 ※本発表資料は米国時間 2026年 1 月 5 日に発表されたプレスリリースの抄訳です。 NVIDIA についてNVIDIA (NASDAQ: NVDA) は、AI とアクセラレーテッド コンピューティングの世界的リーダーです。 このプレスリリースには、メディア関係者向けの情報があります メディアユーザー登録を行うと、企業担当者の連絡先や、イベント・記者会見の情報など様々な特記情報を閲覧できます。※内容はプレスリリースにより異なります。 すべての画像 このプレスリリース内で使われている画像ファイルがダウンロードできます 89フォロワー Copyright © PR TIMES Corporation All Rights Reserved.
 --------------------------------------------------
 
 Title: Nvidia unveils open-source AI for autonomous driving, ships in Mercedes-Benz CLA in Q1 2026
@@ -230,12 +230,6 @@ Time Published: 2026-01-04T23:56:34Z
 Description: Wall Street is assessing the US military strike and capture of President Maduro in Venezuela, while hopes for AI demand buoy techs.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq rise after US takedown in Venezuela as AI hopes revive
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-after-us-takedown-in-venezuela-as-ai-hopes-revive-235634319.html
-Time Published: 2026-01-04T23:56:34Z
-Description: The US military action in Venezuela early into the weekend took focus as markets headed into the first full trading week of the new year.
---------------------------------------------------
-
 Title: Stock market today: S&P 500, Nasdaq futures rise after US takedown in Venezuela as AI hopes revive
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-rise-after-us-takedown-in-venezuela-as-ai-hopes-revive-235634887.html
 Time Published: 2026-01-04T23:56:34Z
@@ -244,6 +238,12 @@ Description: The US military action in Venezuela early into the weekend took foc
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures rise after US takedown in Venezuela as AI hopes revive
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-after-us-takedown-in-venezuela-as-ai-hopes-revive-235634688.html
+Time Published: 2026-01-04T23:56:34Z
+Description: The US military action in Venezuela early into the weekend took focus as markets headed into the first full trading week of the new year.
+--------------------------------------------------
+
+Title: Stock market today: S&P 500, Nasdaq rise after US takedown in Venezuela as AI hopes revive
+URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-after-us-takedown-in-venezuela-as-ai-hopes-revive-235634319.html
 Time Published: 2026-01-04T23:56:34Z
 Description: The US military action in Venezuela early into the weekend took focus as markets headed into the first full trading week of the new year.
 --------------------------------------------------
