@@ -98,16 +98,16 @@ Time Published: 2026-01-07T03:32:20Z
 Description: None
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq edge down with eyes on Trump's Venezuela oil deal, looming jobs data
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-edge-down-with-eyes-on-trumps-venezuela-oil-deal-looming-jobs-data-002323961.html
-Time Published: 2026-01-07T00:23:23Z
-Description: Markets are holding steady after a roaring start to the week, with Venezuela, CES, and jobs data releases all in focus.
---------------------------------------------------
-
 Title: Stock market today: S&P 500, Nasdaq nudge up but Dow lags as jobs data, Trump's Venezuela oil deal take focus
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-nudge-up-but-dow-lags-as-jobs-data-trumps-venezuela-oil-deal-take-focus-002323778.html
 Time Published: 2026-01-07T00:23:23Z
 Description: The S&P 500 is eyeing a fresh record after a roaring start to the week, with Venezuela, CES, and jobs data releases all in focus.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq edge down with eyes on Trump's Venezuela oil deal, looming jobs data
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-edge-down-with-eyes-on-trumps-venezuela-oil-deal-looming-jobs-data-002323961.html
+Time Published: 2026-01-07T00:23:23Z
+Description: Markets are holding steady after a roaring start to the week, with Venezuela, CES, and jobs data releases all in focus.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq edge down as jobs data, Trump's Venezuela oil deal take focus
