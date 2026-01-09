@@ -1,5 +1,11 @@
 List of news related to AST SpaceMobile ASTS:
 
+Title: Stocks Settle Mostly Lower as Early Rally Fades
+URL: https://www.barchart.com/story/news/36936097/stocks-settle-mostly-lower-as-early-rally-fades
+Time Published: 2026-01-07T21:37:36Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed down -0.34%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.94%, and the Nasdaq 100...
+--------------------------------------------------
+
 Title: Stocks Hover Near Record Highs on Mixed US Economic News
 URL: https://www.barchart.com/story/news/36930508/stocks-hover-near-record-highs-on-mixed-us-economic-news
 Time Published: 2026-01-07T16:21:41Z
