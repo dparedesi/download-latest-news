@@ -1,5 +1,29 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA Hints At Relaunching Older Gaming GPUs With New Technologies To Tackle Challenges In Current Market, Says Future of Graphics Is Neural Rendering - Wccfte
+URL: https://slashdot.org/firehose.pl?op=view&amp;id=180548599
+Time Published: 2026-01-08T16:32:18Z
+Description: NVIDIA Hints At Relaunching Older Gaming GPUs With New Technologies To Tackle Challenges In Current Market, Says Future of Graphics Is Neural RenderingWccftech CEO Jensen Huang says Nvidia could potentially resurrect old GPUs to address shortages and high pri…
+--------------------------------------------------
+
+Title: Nvidia CEO Jensen Huang settles the Tesla autonomy debate
+URL: https://www.thestreet.com/automotive/nvidia-ceo-jensen-huang-settles-the-tesla-autonomy-debate
+Time Published: 2026-01-08T16:07:00Z
+Description: The Tesla autonomy debate has always been part engineering argument, part social‑media war, so when a clip that changed the tone surfaced on X, I was not...
+--------------------------------------------------
+
+Title: Alphabet overtakes Apple as world's second-most valuable company behind Nvidia
+URL: https://finance.yahoo.com/news/alphabet-overtakes-apple-as-worlds-second-most-valuable-company-behind-nvidia-154751861.html
+Time Published: 2026-01-08T15:47:51Z
+Description: Alphabet notched a market capitalization of roughly $4 trillion on Thursday.
+--------------------------------------------------
+
+Title: Truist Raises NVIDIA (NVDA) PT After Nemotron 3 AI Model Launch
+URL: https://finance.yahoo.com/news/truist-raises-nvidia-nvda-pt-150936819.html
+Time Published: 2026-01-08T15:09:36Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the must-buy AI stocks to invest in. On December 19, Truist raised the price target on NVIDIA Corporation...
+--------------------------------------------------
+
 Title: Google parent hits $3.88 trillion m-cap, edges past Apple to become second most valued co
 URL: https://economictimes.indiatimes.com/markets/us-stocks/news/google-parent-hits-3-88-trillion-m-cap-edges-past-apple-to-become-second-most-valued-co/articleshow/126405265.cms
 Time Published: 2026-01-08T02:42:02Z
@@ -74,12 +98,6 @@ Time Published: 2026-01-07T03:32:20Z
 Description: None
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq edge down as jobs data, Trump's Venezuela oil deal take focus
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-edge-down-as-jobs-data-trumps-venezuela-oil-deal-take-focus-002323719.html
-Time Published: 2026-01-07T00:23:23Z
-Description: Markets are holding steady after a roaring start to the week, with Venezuela, CES, and jobs data releases all in focus.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq edge down with eyes on Trump's Venezuela oil deal, looming jobs data
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-edge-down-with-eyes-on-trumps-venezuela-oil-deal-looming-jobs-data-002323961.html
 Time Published: 2026-01-07T00:23:23Z
@@ -90,6 +108,12 @@ Title: Stock market today: S&P 500, Nasdaq nudge up but Dow lags as jobs data, T
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-nudge-up-but-dow-lags-as-jobs-data-trumps-venezuela-oil-deal-take-focus-002323778.html
 Time Published: 2026-01-07T00:23:23Z
 Description: The S&P 500 is eyeing a fresh record after a roaring start to the week, with Venezuela, CES, and jobs data releases all in focus.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq edge down as jobs data, Trump's Venezuela oil deal take focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-edge-down-as-jobs-data-trumps-venezuela-oil-deal-take-focus-002323719.html
+Time Published: 2026-01-07T00:23:23Z
+Description: Markets are holding steady after a roaring start to the week, with Venezuela, CES, and jobs data releases all in focus.
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq waver as jobs data, Trump's Venezuela oil deal take focus
@@ -189,14 +213,14 @@ Full Content:
 Nvidia (NVDA) held its CES 2026 keynote today, and as expected, Jensen Huang dropped a massive amount of news on the autonomous driving front. The biggest takeaway? Nvidia is moving beyond just “perceiving” the road to “reasoning” about it with a new family of open-source models called Alpamayo, which will power new autonomous and driver-assistance features. Starting with Mercedes-Benz as soon as this quarter. Here’s the breakdown of everything Nvidia announced for self-driving technology today. Nvidia is calling this the “ChatGPT moment for physical AI.” The company unveiled Alpamayo, a family of open-source AI models designed to solve the “long tail” problem of autonomous driving, those rare, weird edge cases that usually cause self-driving stacks to disengage or fail. The flagship is Alpamayo 1, a 10-billion-parameter Vision-Language-Action (VLA) model. Unlike traditional AV stacks that just detect objects and plan a path, Alpamayo uses “chain-of-thought” reasoning. It processes video input and generates a trajectory, but crucially, it also outputs the logic behind its decision. Jensen Huang explained that the model can “think through rare scenarios” and explain its driving decisions. To sweeten the deal for developers, Nvidia is going the open-source route. They are releasing: This is a clear play to become the default “Android of Autonomy” while Tesla continues to keep its Full Self-Driving (FSD) stack completely closed. We’ve been hearing about the Nvidia-Mercedes partnership for years, but today we got a concrete timeline. Huang confirmed that the 2025 Mercedes-Benz CLA will be the first production vehicle to ship with Nvidia’s entire AV stack, including the new Alpamayo reasoning capabilities. While it’s officially launching as a “Level 2+” system, much like Tesla’s ‘Full Self-Driving’, which in reality is a level 2 driver assistance system as it requires attention from the driver at all times, it appears that the goal is to push toward level 4 capabilities. Here’s how Mercedes describes the system right now: With Mercedes-Benz’s MB.DRIVE ASSIST PRO, driving assistance and navigation merge to create a completely new and safe driving experience. At the press of a button, the vehicle can help navigate through the city streets – from the parking lot to the destination – with advanced SAE-Level 2 assistance. Thanks to Mercedes-Benz’s cooperative steering approach, steering adaptions are possible at any time without deactivating the system. The sensor stack consists of 30 sensors, including 10 cameras, 5 radar sensors and 12 ultrasonic sensors. Powering all this backend training and simulation is Nvidia’s new Vera Rubin platform, the successor to Blackwell. It’s a six-chip AI platform that Nvidia claims is now in full production. While much of this is data-center focused, the “Rubin” GPUs and “Vera” CPUs are what will likely be training the next iterations of Alpamayo that end up in your car. This is a very interesting move from Nvidia. "while Tesla continues to keep its Full Self-Driving (FSD) stack completely closed" who remembers Tesla "all our patents are belong to you" pledge? The fact that Alpamayo outputs a “reasoning trace” is huge for regulators who are terrified of black-box AI models crashing cars without us knowing why. The open-source aspect is also brilliant. By giving away the model and the simulator, Nvidia ensures that startups and other automakers get hooked on their CUDA ecosystem. If you can’t build an autonomous system by yourself (which, let’s be honest, most legacy automakers can’t), you now just grab Alpamayo and run it on Nvidia chips. As for the Mercedes CLA, “Level 2+” that feels like plans to deliver something like Tesla has with FSD without the promise of unsupervised self-driving, something Tesla has consistently failed to deliver despite selling it to its customers since 2016. If Mercedes actually ships a car in Q1 that can have similar capabilities as Tesla’s FSD, and it is based on an open-sourced system that any automaker can buy, it could shake up the industry and start to commoditize this idea of “level 2+” autonomous systems. FTC: We use income earning auto affiliate links. More. Subscribe to Electrek on YouTube for exclusive videos and subscribe to the podcast. Fred is the Editor in Chief and Main Writer at Electrek. You can send tips on Twitter (DMs open) or via email: fred@9to5mac.com Through Zalkon.com, you can check out Fred’s portfolio and get monthly green stock investment ideas. Get an edge on MMA with the best stats EnergySage helps you get the best price possible on a home solar installation for free and without hassel.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather after Dow's record rally
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-take-a-breather-after-dows-record-rally-235217697.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb after Dow's record-setting rally
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-take-a-breather-after-dows-record-setting-rally-235217838.html
 Time Published: 2026-01-05T23:52:17Z
 Description: US stock futures were steady Monday night as investors took time to settle following a record close for the Dow Jones.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb after Dow's record-setting rally
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-take-a-breather-after-dows-record-setting-rally-235217838.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures take a breather after Dow's record rally
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-take-a-breather-after-dows-record-rally-235217697.html
 Time Published: 2026-01-05T23:52:17Z
 Description: US stock futures were steady Monday night as investors took time to settle following a record close for the Dow Jones.
 --------------------------------------------------
@@ -290,28 +314,4 @@ URL: https://economictimes.indiatimes.com/news/international/us/us-stock-futures
 Time Published: 2026-01-05T09:33:01Z
 Full Content:
 US stock market launched into the first full trading week of 2026 with a decisive upward tilt as investors weighed the seismic impact of a US-led military operation in Venezuela. By early Monday morning, Dow Jones Industrial Average futures rose 51 points to 48,667.00, while the S&P 500 futures climbed 0.27% to 6,919.00. Leading the charge, the tech-heavy Nasdaq 100 futures surged 0.56% to 25,527.50. Gold prices surged above $4,420 an ounce. Oil prices briefly dipped before stabilizing, with Brent near $60 and WTI around $57. Listen to this article in summarized format Unlock AI Briefing and Premium Content (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Quote of the Day by Dan Aykroyd: 'I’m sorry I live in the greatest country in the world. I’m sorry! I’m sorry, but Canadians apologize so much because...' Endangered Masai giraffe Kiko dies in tragic behind-the-scenes accident at Toronto Zoo Quote of Day by G.A. Cohen: ‘Of course, not everybody likes camping trips…’ — How a socialist philosopher used a camping trip to explain socialism Quote of the day by Justin Bieber: ‘ You can’t fly unless you let yourself…’ This famous character surprised fans at the Vancouver Stranger Things finale watch party as decade-long series comes to an end Southern BC braces for coastal flooding as high tides, onshore winds, and incoming storms threaten shorelines Quote of the day by Dwayne Johnson: ‘Success isn't always about greatness, it's about…’ Canadian woman charged after ignoring warnings, illegally crossing US border, and kicking federal agent Canada urges citizens to avoid travelling to Venezuela following US strikes and President Maduro’s capture; Air Canada rolls out free flight change policy As H3N2 flu brings US to its knees, experts warn Canadians, urge them to exercise caution; here’s what you need to know as holiday season ends Barrie could get new millionaire soon: $1M Maxmillion’s lottery ticket for December 30 draw was sold in Barrie but prize remains unclaimed due to this big reason Quote of the day by World’s richest man Elon Musk: ‘If I'm not in love, if I'm…’ Quote of the Day by Canadian philosopher Marshall McLuhan: ‘American youth attributes much more importance to arriving at driver's license age than…’ Trump outlines pressure plan for India as US seizes Venezuela ICGS Samudra Pratap Commissioned; Rajnath Hails Make in India Delhi Assembly winter session begins amid pollution, CAG storm Trump says on Venezuela mission: ‘Don't ask me who's in charge… We're in charge’ Umar, Sharjeel’s role central to conspiracy: SC 'They wanted to make me happy': Trump on Modi & Russian oil ‘Elect our candidates… & we’ll ensure water reaches homes,’ says Owaisi ‘First, he will form a team...': Expert on Trump Venezuela plan Jitendra Singh pushes private sector role in R&D ‘Rectify glitches or halt SIR’: Mamata writes to CEC Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Prime Articles Top Slideshow Top Commodities Private Companies Top Story Listing Top Definitions Most Searched IFSC Codes Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq rise after US takedown in Venezuela as AI hopes revive
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-after-us-takedown-in-venezuela-as-ai-hopes-revive-235634319.html
-Time Published: 2026-01-04T23:56:34Z
-Description: The US military action in Venezuela early into the weekend took focus as markets headed into the first full trading week of the new year.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq rise as techs revive, while oil majors jump after US strike in Venezuela
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-techs-revive-while-oil-majors-jump-after-us-strike-in-venezuela-235634967.html
-Time Published: 2026-01-04T23:56:34Z
-Description: Wall Street is assessing the US military strike and capture of President Maduro in Venezuela, while hopes for AI demand buoy techs.
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq futures rise after US takedown in Venezuela as AI hopes revive
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-rise-after-us-takedown-in-venezuela-as-ai-hopes-revive-235634887.html
-Time Published: 2026-01-04T23:56:34Z
-Description: The US military action in Venezuela early into the weekend took focus as markets headed into the first full trading week of the new year.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise after US takedown in Venezuela as AI hopes revive
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-after-us-takedown-in-venezuela-as-ai-hopes-revive-235634688.html
-Time Published: 2026-01-04T23:56:34Z
-Description: The US military action in Venezuela early into the weekend took focus as markets headed into the first full trading week of the new year.
 --------------------------------------------------
