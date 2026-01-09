@@ -1,5 +1,17 @@
 List of news related to JPMorgan stock price JPM:
 
+Title: Stocks Hover Near Record Highs on Mixed US Economic News
+URL: https://www.barchart.com/story/news/36930508/stocks-hover-near-record-highs-on-mixed-us-economic-news
+Time Published: 2026-01-07T16:21:41Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
+Title: Stocks Supported by Lower Bond Yields
+URL: https://www.barchart.com/story/news/36929069/stocks-supported-by-lower-bond-yields
+Time Published: 2026-01-07T15:07:34Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.13%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
 Title: Market Minute 1-5-26- Energy Stocks, Gold Jump After Maduro Raid
 URL: https://finance.yahoo.com/news/market-minute-1-5-26-140900271.html
 Time Published: 2026-01-05T14:09:00Z
