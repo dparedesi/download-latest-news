@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: These Are the 3 Best Data Center Stocks to Buy for 2026
+URL: https://www.barchart.com/story/news/36952682/these-are-the-3-best-data-center-stocks-to-buy-for-2026
+Time Published: 2026-01-08T17:12:23Z
+Description: Analysts favor this trio for 2026 as AI workloads push demand across chips, hyperscale cloud, and data-center connectivity.
+--------------------------------------------------
+
 Title: AWS Clears OCC Security Review as BMO Raises Amazon (AMZN) PT to $304
 URL: https://finance.yahoo.com/news/aws-clears-occ-security-review-150930329.html
 Time Published: 2026-01-08T15:09:30Z
@@ -54,10 +60,4 @@ Title: GOOGL, AMZN, and DASH: J.P. Morgan Picks the Top Internet Stocks to Buy f
 URL: https://finance.yahoo.com/news/googl-amzn-dash-j-p-120955523.html
 Time Published: 2026-01-05T12:09:55Z
 Description: The AI revolution set the tone in 2025 for digital companies and internet stocks alike. What started as experimentation quickly turned into execution, as...
---------------------------------------------------
-
-Title: Top Wall Street analysts suggest these 3 stocks for their growth prospects
-URL: https://www.cnbc.com/2026/01/04/top-wall-street-analysts-suggest-these-3-stocks-for-their-growth-prospects.html
-Time Published: 2026-01-04T12:20:47Z
-Description: TipRanks discusses three stocks, including Amazon and Microsoft, favored by some top pros on Wall Street.
 --------------------------------------------------

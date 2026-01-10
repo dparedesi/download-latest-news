@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Stocks Settle Mixed on Sector Rotation
+URL: https://www.barchart.com/story/news/36957434/stocks-settle-mixed-on-sector-rotation
+Time Published: 2026-01-08T21:39:02Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +0.01%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.55%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: These Are the 3 Best Data Center Stocks to Buy for 2026
+URL: https://www.barchart.com/story/news/36952682/these-are-the-3-best-data-center-stocks-to-buy-for-2026
+Time Published: 2026-01-08T17:12:23Z
+Description: Analysts favor this trio for 2026 as AI workloads push demand across chips, hyperscale cloud, and data-center connectivity.
+--------------------------------------------------
+
 Title: The 3 Best Cybersecurity Stocks to Buy for 2026
 URL: https://www.barchart.com/story/news/36934097/the-3-best-cybersecurity-stocks-to-buy-for-2026
 Time Published: 2026-01-07T19:57:09Z

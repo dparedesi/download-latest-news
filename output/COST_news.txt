@@ -1,5 +1,11 @@
 List of news related to Costco stock price COST:
 
+Title: Stocks Settle Mixed on Sector Rotation
+URL: https://www.barchart.com/story/news/36957434/stocks-settle-mixed-on-sector-rotation
+Time Published: 2026-01-08T21:39:02Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +0.01%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.55%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
 Title: Google’s AI inbox could change how you use Gmail — here’s what’s coming
 URL: https://economictimes.indiatimes.com/news/international/us/googles-ai-inbox-could-change-how-you-use-gmail-heres-whats-coming/articleshow/126420113.cms
 Time Published: 2026-01-08T18:34:23Z

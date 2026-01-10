@@ -17,9 +17,3 @@ URL: https://www.barchart.com/story/news/36929069/stocks-supported-by-lower-bond
 Time Published: 2026-01-07T15:07:34Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.13%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
 --------------------------------------------------
-
-Title: ASTSpaceMobile (ASTS) Jumps 16% as Firm Gears Up for BlueBird 7
-URL: https://finance.yahoo.com/news/astspacemobile-asts-jumps-16-firm-125059970.html
-Time Published: 2026-01-04T12:50:59Z
-Description: We recently published 10 Stocks Already Shocking 2026 With Massive Gains. AST SpaceMobile, Inc. (NASDAQ:ASTS) was one of the top performers last week. AST...
---------------------------------------------------
