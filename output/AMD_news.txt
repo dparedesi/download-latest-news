@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: AI memory is sold out, causing an unprecedented surge in prices
+URL: https://www.cnbc.com/2026/01/10/micron-ai-memory-shortage-hbm-nvidia-samsung.html
+Time Published: 2026-01-10T12:00:01Z
+Description: Three primary memory vendors — Micron, SK Hynix and Samsung Electronics — make up nearly the entire RAM market, and they're benefitting from this shortage.
+--------------------------------------------------
+
 Title: Stocks Settle Mixed on Sector Rotation
 URL: https://www.barchart.com/story/news/36957434/stocks-settle-mixed-on-sector-rotation
 Time Published: 2026-01-08T21:39:02Z

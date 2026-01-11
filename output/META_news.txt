@@ -1,5 +1,24 @@
 List of news related to Meta stock price META:
 
+Title: Investor Michael Burry reveals options bet against Oracle
+URL: https://fortune.com/2026/01/10/big-short-investor-michael-burry-put-options-bet-oracle-stock-orcl/
+Time Published: 2026-01-10T15:41:53Z
+Full Content:
+Michael Burry, the famed investor who has drawn attention in recent months for criticism of the artificial intelligence boom, is betting against Oracle Corp. Burry owns put options on Oracle shares, he said in a Substack post after markets closed on Friday. Puts typically increase in value as the price of the underlying asset falls. Burry, who revealed bearish bets against AI chipmaker Nvidia Corp. and Palantir Technologies Inc. in November, also directly shorted Oracle during the last six months, he said. Oracle is known for its database software but has recently pushed aggressively into cloud-computing services, requiring a costly build out of data center capacity, for which it is taking on significant debt. “I do not like how it is positioned or the investments it is making. It did not need to do what it is doing, and I do not know why it is doing this. Maybe ego,” Burry wrote in response to a reader who asked why he had decided to bet against Nvidia and not Oracle. He didn’t disclose details about the put options. The view follows a volatile year for Oracle shares. The stock jumped 36% in a single session in September after the company issued a bullish forecast for its cloud business, signaling surging demand tied to artificial intelligence. Those gains quickly faded, however, as investors focused on rising capital expenditures, questions around the structure of some cloud deals and a swelling debt load linked to data-center expansion. Oracle finished the year about 40% below its September peak. Oracle has about $95 billion of debt outstanding, making it the biggest corporate issuer outside the financial sector in the Bloomberg high-grade index. The company didn’t immediately respond to a request for comment outside of regular business hours. Burry, who became famous for betting against the US housing market during the 2008 financial crisis, said he has avoided shorting larger technology companies whose businesses extend well beyond AI, citing Meta Platforms Inc., Alphabet Inc. and Microsoft Corp. as examples. “If I short Meta, I’m also shorting its social media and advertising dominance. If I short Alphabet, I’m shorting Google Search in all its forms, Android, Waymo, etc. If I short Microsoft, I’m shorting a global office productivity SaaS goliath,” Burry wrote. “The big ones are not pure shorts on AI.” Those companies, he said, are likely to rein in spending over time, absorb losses from overbuilt capacity and potentially write down assets, while remaining dominant in their core businesses. “These three will not go away,” he added. He said he would short OpenAI at a $500 billion valuation, underscoring his broader skepticism about the pace and economics of the AI buildout. Burry described Nvidia as the most concentrated way to express a bearish view on the artificial intelligence trade. “Nvidia also is the most loved, and least doubted,” he wrote. “So shorting it is cheap, and its puts are cheaper than some of the other big shorts out there that are more doubted.”
+--------------------------------------------------
+
+Title: CoreWeave (CRWV) Emerges as an AI Infrastructure Stock to Watch After Truist Initiation
+URL: https://finance.yahoo.com/news/coreweave-crwv-emerges-ai-infrastructure-124539079.html
+Time Published: 2026-01-10T12:45:39Z
+Description: CoreWeave, Inc. (NASDAQ:CRWV) is one of the AI Stocks Gaining Attention on Wall Street. On January 6, Truist Securities analyst Arvind Ramnani initiated...
+--------------------------------------------------
+
+Title: AI memory is sold out, causing an unprecedented surge in prices
+URL: https://www.cnbc.com/2026/01/10/micron-ai-memory-shortage-hbm-nvidia-samsung.html
+Time Published: 2026-01-10T12:00:01Z
+Description: Three primary memory vendors — Micron, SK Hynix and Samsung Electronics — make up nearly the entire RAM market, and they're benefitting from this shortage.
+--------------------------------------------------
+
 Title: Billionaire Chase Coleman Abruptly Dumps $3,490,202,000 of Meta, Buys Tech Stock That’s Soared 2x in Six Months
 URL: https://dailyhodl.com/2026/01/10/billionaire-chase-coleman-abruptly-dumps-3490202000-of-meta-buys-tech-stock-thats-soared-2x-in-six-months/
 Time Published: 2026-01-10T08:04:08Z
@@ -168,13 +187,13 @@ Description: Nvidia Corp. shares are down about 8% since hitting a record on Oct
 --------------------------------------------------
 
 Title: Nvidia’s US$4 trillion stock rally faces more threats than ever
-URL: https://financialpost.com/investing/nvidias-stock-rally-faces-threats
+URL: https://financialpost.com/news/nvidias-stock-rally-faces-threats
 Time Published: 2026-01-06T14:27:57Z
 Description: The world’s most valuable company is on shaky stock market footing as 2026 gets underway. Find out more here
 --------------------------------------------------
 
 Title: Nvidia’s US$4 trillion stock rally faces more threats than ever
-URL: https://financialpost.com/news/nvidias-stock-rally-faces-threats
+URL: https://financialpost.com/investing/nvidias-stock-rally-faces-threats
 Time Published: 2026-01-06T14:27:57Z
 Description: The world’s most valuable company is on shaky stock market footing as 2026 gets underway. Find out more here
 --------------------------------------------------
