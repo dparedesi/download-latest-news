@@ -1,5 +1,11 @@
 List of news related to JPMorgan stock price JPM:
 
+Title: JPMorgan (JPM)’s Multiple is an Insult to CEO Jamie Dimon, Says Jim Cramer
+URL: https://finance.yahoo.com/news/jpmorgan-jpm-multiple-insult-ceo-194635337.html
+Time Published: 2026-01-09T19:46:35Z
+Description: We recently published 11 Stocks on Jim Cramer’s Radar. JPMorgan Chase & Co. (NYSE:JPM) is one of the stocks on Jim Cramer radar. Banking giant JPMorgan Chase...
+--------------------------------------------------
+
 Title: Stocks Settle Mostly Lower as Early Rally Fades
 URL: https://www.barchart.com/story/news/36936097/stocks-settle-mostly-lower-as-early-rally-fades
 Time Published: 2026-01-07T21:37:36Z
@@ -16,22 +22,4 @@ Title: Stocks Supported by Lower Bond Yields
 URL: https://www.barchart.com/story/news/36929069/stocks-supported-by-lower-bond-yields
 Time Published: 2026-01-07T15:07:34Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.13%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: Market Minute 1-5-26- Energy Stocks, Gold Jump After Maduro Raid
-URL: https://finance.yahoo.com/news/market-minute-1-5-26-140900271.html
-Time Published: 2026-01-05T14:09:00Z
-Description: Stocks are mixed in the early going today, while gold and silver are jumping again. Crude oil is modestly higher along with the dollar, while Treasuries are ...
---------------------------------------------------
-
-Title: What You Need to Know Ahead of Boeing's Earnings Release
-URL: https://www.barchart.com/story/news/36884854/what-you-need-to-know-ahead-of-boeing-s-earnings-release
-Time Published: 2026-01-05T13:33:12Z
-Description: Boeing is expected to unveil its fiscal fourth-quarter earnings soon, and analysts project a notable double-digit profit growth.
---------------------------------------------------
-
-Title: GOOGL, AMZN, and DASH: J.P. Morgan Picks the Top Internet Stocks to Buy for 2026
-URL: https://finance.yahoo.com/news/googl-amzn-dash-j-p-120955523.html
-Time Published: 2026-01-05T12:09:55Z
-Description: The AI revolution set the tone in 2025 for digital companies and internet stocks alike. What started as experimentation quickly turned into execution, as...
 --------------------------------------------------

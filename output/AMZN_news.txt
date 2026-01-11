@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: This TSX darling rose 120% in 2025, and analysts are hiking their price targets again
+URL: https://financialpost.com/investing/tsx-stock-rose-120-2025-analysts-hike-price-targets
+Time Published: 2026-01-09T22:40:50Z
+Description: The Week in Stocks: RBC's Top 30 investment ideas list makeover, Big Banks as a counterweight to Big Tech and price target hikes. Read on.
+--------------------------------------------------
+
 Title: Here’s What the Street Thinks About Amazon.com (AMZN)
 URL: https://finance.yahoo.com/news/street-thinks-amazon-com-amzn-155638447.html
 Time Published: 2026-01-09T15:56:38Z
@@ -66,10 +72,4 @@ Title: 5 Stocks Wall Street Repriced Higher Heading Into 2026
 URL: https://www.marketbeat.com/stock-ideas/5-stocks-wall-street-repriced-higher-heading-into-2026/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2026-01-06T12:11:00Z
 Description: Bullish analyst trends were continued in Q4 as upgrades and revisions provided support and lift for critical tech stocks; double-digit upsides forecast for...
---------------------------------------------------
-
-Title: GOOGL, AMZN, and DASH: J.P. Morgan Picks the Top Internet Stocks to Buy for 2026
-URL: https://finance.yahoo.com/news/googl-amzn-dash-j-p-120955523.html
-Time Published: 2026-01-05T12:09:55Z
-Description: The AI revolution set the tone in 2025 for digital companies and internet stocks alike. What started as experimentation quickly turned into execution, as...
 --------------------------------------------------
