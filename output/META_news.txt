@@ -161,13 +161,13 @@ Description: Nvidia Corp. shares are down about 8% since hitting a record on Oct
 --------------------------------------------------
 
 Title: Nvidia’s US$4 trillion stock rally faces more threats than ever
-URL: https://financialpost.com/news/nvidias-stock-rally-faces-threats
+URL: https://financialpost.com/investing/nvidias-stock-rally-faces-threats
 Time Published: 2026-01-06T14:27:57Z
 Description: The world’s most valuable company is on shaky stock market footing as 2026 gets underway. Find out more here
 --------------------------------------------------
 
 Title: Nvidia’s US$4 trillion stock rally faces more threats than ever
-URL: https://financialpost.com/investing/nvidias-stock-rally-faces-threats
+URL: https://financialpost.com/news/nvidias-stock-rally-faces-threats
 Time Published: 2026-01-06T14:27:57Z
 Description: The world’s most valuable company is on shaky stock market footing as 2026 gets underway. Find out more here
 --------------------------------------------------
