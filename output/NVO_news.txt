@@ -12,15 +12,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dd33d7a9
 Time Published: 2026-01-09T19:45:51Z
 Description: None
 --------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq nudge higher after Dow's rally to record
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-nudge-higher-after-dows-rally-to-record-143551914.html
-Time Published: 2026-01-06T14:35:51Z
-Description: US stock futures were steady Monday night as investors took time to settle following a record close for the Dow Jones.
---------------------------------------------------
-
-Title: Bitcoin’s weakness is saying there will be a handoff to old-economy stocks, these market veterans say
-URL: https://www.marketwatch.com/story/bitcoins-weakness-is-saying-there-will-be-a-handoff-to-old-economy-stocks-these-market-veterans-say-184da9aa
-Time Published: 2026-01-06T13:21:00Z
-Description: Some 2026 predictions from a handful of market veterans including Steve Eisman, says watch out for old economy stocks to shine this year.
---------------------------------------------------
