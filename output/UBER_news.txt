@@ -1,5 +1,11 @@
 List of news related to Uber stock price UBER:
 
+Title: The AI revolution is here. Will the economy survive the transition?
+URL: https://post.substack.com/p/the-ai-revolution-is-here-will-the
+Time Published: 2026-01-11T05:47:01Z
+Description: The man who predicted the 2008 crash, Anthropic’s co-founder, and a leading AI podcaster jump into a Google doc to debate the future of AI—and, possibly, our lives
+--------------------------------------------------
+
 Title: Nvidia, Tesla chase same self-driving goal via varying paths
 URL: https://www.bloomberg.com/news/articles/2026-01-10/nvidia-and-tesla-chase-same-self-driving-goal-via-varying-paths
 Time Published: 2026-01-11T04:09:34Z
