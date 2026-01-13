@@ -12,21 +12,3 @@ URL: https://finance.yahoo.com/news/scotiabank-downgrades-ast-spacemobile-asts-1
 Time Published: 2026-01-09T11:31:21Z
 Description: AST SpaceMobile Inc. (NASDAQ:ASTS) is one of the hot tech stocks to invest in. On January 7, Scotiabank downgraded AST SpaceMobile to Underperform from...
 --------------------------------------------------
-
-Title: Stocks Settle Mostly Lower as Early Rally Fades
-URL: https://www.barchart.com/story/news/36936097/stocks-settle-mostly-lower-as-early-rally-fades
-Time Published: 2026-01-07T21:37:36Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed down -0.34%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.94%, and the Nasdaq 100...
---------------------------------------------------
-
-Title: Stocks Hover Near Record Highs on Mixed US Economic News
-URL: https://www.barchart.com/story/news/36930508/stocks-hover-near-record-highs-on-mixed-us-economic-news
-Time Published: 2026-01-07T16:21:41Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.10%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
-
-Title: Stocks Supported by Lower Bond Yields
-URL: https://www.barchart.com/story/news/36929069/stocks-supported-by-lower-bond-yields
-Time Published: 2026-01-07T15:07:34Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.13%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
