@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Jim Cramer Discusses NVIDIA (NVDA)’s Accelerated Computing Market
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8500b50b-400a-473b-9498-817efc130bc8
+Time Published: 2026-01-12T07:26:47Z
+Description: None
+--------------------------------------------------
+
 Title: Magnificent 7’s stock market dominance shows signs of cracking
 URL: https://finance.yahoo.com/news/magnificent-7-stock-market-dominance-140007016.html
 Time Published: 2026-01-11T14:00:07Z
