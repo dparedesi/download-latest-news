@@ -1,1 +1,13 @@
-No news found for Mastercard stock price +MA
+List of news related to Mastercard stock price MA:
+
+Title: Equity Indexes Recover Early Losses as Precious Metals Reach New Record Highs
+URL: https://www.barchart.com/story/news/37001041/stocks-fall-slightly-as-fed-independence-threatened
+Time Published: 2026-01-12T16:15:59Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.28%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.15%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
+Title: Stocks Retreat on Concerns Over Fed Independence
+URL: https://www.barchart.com/story/news/36999567/stocks-retreat-on-concerns-over-fed-independence
+Time Published: 2026-01-12T14:57:23Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.23%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.58%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------

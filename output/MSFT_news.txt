@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Will AAPL Stock Rally Again in 2026 to Help Apple Regain the Throne as the Biggest Company?
+URL: https://www.barchart.com/story/news/37001983/will-aapl-stock-rally-again-in-2026-to-help-apple-regain-the-throne-as-the-biggest-company
+Time Published: 2026-01-12T17:07:00Z
+Description: Apple has continued its underperformance in 2026. Will AAPL stock go back up, and the company reclaim the title of the world's biggest company this year?
+--------------------------------------------------
+
 Title: Wells Fargo Maintains Outperform on Microsoft (MSFT) Despite Lowered Target
 URL: https://finance.yahoo.com/news/wells-fargo-maintains-outperform-microsoft-164056898.html
 Time Published: 2026-01-12T16:40:56Z
@@ -16,22 +22,4 @@ Title: 30-year veteran analyst reveals game plan for 2026
 URL: https://www.thestreet.com/investing/stocks/wall-street-strategist-sam-stovall-lays-out-gameplan-for-2026
 Time Published: 2026-01-09T02:37:00Z
 Description: Sam Stovall has been navigating stocks for a long time. Stovall is the Chief Investment Strategist at CFRA, and his stock market experience is rooted in over...
---------------------------------------------------
-
-Title: Microsoft’s (MSFT) AI Strategy Reinforces Its Position as a Long-Term Winner, Analyst Says
-URL: https://finance.yahoo.com/news/microsoft-msft-ai-strategy-reinforces-220418792.html
-Time Published: 2026-01-08T22:04:18Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the AI Stocks on the Market’s Radar. On January 5, Jefferies analyst Brent Thill reiterated a Buy rating on the...
---------------------------------------------------
-
-Title: Stocks Settle Mixed on Sector Rotation
-URL: https://www.barchart.com/story/news/36957434/stocks-settle-mixed-on-sector-rotation
-Time Published: 2026-01-08T21:39:02Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +0.01%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.55%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Wedbush Reiterates Outperform on Microsoft (MSFT) on Azure AI Momentum
-URL: https://finance.yahoo.com/news/wedbush-reiterates-outperform-microsoft-msft-150932736.html
-Time Published: 2026-01-08T15:09:32Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the must-buy AI stocks to invest in. On December 22, Wedbush predicted that Microsoft Corporation (NASDAQ:MSFT)...
 --------------------------------------------------
