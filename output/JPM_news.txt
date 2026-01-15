@@ -7,8 +7,8 @@ Full Content:
 Good morning. Earnings season is underway. JPMorgan Chase reported fourth-quarter 2025 earnings on Tuesday, with investors looking past solid headline results to focus on higher expected costs and a one-time reserve tied to the Apple Card deal, sending shares modestly lower. The bank posted net income of $13 billion, down 7% from a year earlier due to a $2.2 billion pre-tax credit reserve build related to its pending acquisition of the Apple Card portfolio from Goldman Sachs. Revenue rose 7% to $46.8 billion, while net interest income climbed 7% to $25.1 billion, driven by higher revolving credit card balances and improved deposit margins. Morningstar Director Sean Dunlop wrote in a note on Tuesday that as the first bank to report results and the largest bank in the U.S., JPMorgan’s earnings serve as “a barometer of consumer, corporate, and financial system health.” He added that JPMorgan’s “broad-based revenue growth suggests all three remain in good shape, though management’s tone and excess reserves point to a cautious outlook beyond 2026.” Dunlop raised his fair value estimate for JPM shares to $289 from $259, while still viewing the stock as expensive. CFO Jeremy Barnum said on the earnings call that consumers and small businesses remain resilient. JPMorgan projected 2026 expenses of about $105 billion, with Barnum describing the increase as a function of structural optimism and the need to invest to stay ahead. “More generally, the environment is only getting more competitive, and so it remains critical to ensure that we are making the necessary investments to secure our position against both traditional and non-traditional competitors,” he explained. During the Q&A session, CEO Jamie Dimon said higher spending, including on technology and AI, is necessary to compete with fintechs such as Revolut and SoFi, as well as established financial firms like Charles Schwab. “These are good players,” Dimon said to analysts on the call. “We analyze what they do and how they do it… We are going to stay out front — so help us God. We’re not going to try to meet some expense target and then 10 years from now you’d be asking us the question, ‘How did JPMorgan get left behind?’” Barnum also warned that President Donald Trump’s proposal to cap credit card interest rates at 10% would likely reduce access to credit rather than help consumers, arguing that intense competition already compresses margins and that price controls would force broad lending cutbacks — especially for higher-risk borrowers. Sheryl Estradasheryl.estrada@fortune.com Betsabe Botaitis was appointed CFO of P2P.org, a non-custodial institutional staking provider. Botaitis brings over 20 years of leadership across financial services, fintech, and Web3, with experience building governance and operations in high-growth organizations. Most recently, Botaitis served as CFO and treasurer at Hedera. Botaitis' career spans both traditional financial institutions and crypto-native organizations. She began in retail banking before holding senior finance roles at Citigroup and LendingClub, and later co-founding and serving as CFO of a blockchain company. Julie Feder was appointed CFO of Obsidian Therapeutics, Inc., a clinical-stage biotechnology company. Feder brings over 20 years of strategic finance experience in life sciences and health care. Feder joins Obsidian from Aura Biosciences, where she served as CFO for six years. Before Aura, she was CFO at Verastem. Before that, Feder spent six years at the Clinton Health Access Initiative, Inc., as CFO. Global law firm Hogan Lovells has published its Employment Horizons for 2026 report. The firm analyzes the most pressing issues impacting employers worldwide. This year's report examines emerging developments such as new rules on AI and data use in the workplace, shifting protections for vulnerable workers, evolving pay transparency requirements, changes to working time and family‑friendly policies, and renewed scrutiny of non‑compete agreements. AI is speeding up a big change in the job market: instead of hiring mainly for job titles, employers are increasingly hiring for skills, according to a new report. Wharton and Accenture created the Wharton-Accenture Skills Index (WAsX), a regular, data-based measure that shows which skills are valuable, which are not, and how fast these priorities are changing over time. In the report, an analysis finds that generalist skills like communication and leadership are oversupplied, while technical, analytical, and execution-focused skills remain scarce. Another finding is that skills have price tags—but value is contextual. For example, “strategic analysis” is linked to an $8,000 increase in annual pay for sales representatives, but a $10,000 decrease for validation engineers. AI is reducing demand for routine cognitive work (writing, basic analysis) while increasing demand for operations, compliance, and judgment-based skills. "Companies like ours think in terms of occasions because, simply, that’s when we do our business — when people come together, it’s often a moment for a tall, frosty beer, whether with or without alcohol." —Rahul Goyal, president and CEO of Molson Coors Beverage Company, writes in a Fortune opinion piece.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause ahead of bank earnings, looming tariff ruling
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-ahead-of-bank-earnings-looming-tariff-ruling-000622092.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slip amid upbeat bank earnings, Iran fears
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-amid-upbeat-bank-earnings-iran-fears-000622380.html
 Time Published: 2026-01-14T00:06:22Z
 Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
 --------------------------------------------------
@@ -19,8 +19,8 @@ Time Published: 2026-01-14T00:06:22Z
 Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slip amid upbeat bank earnings, Iran fears
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-amid-upbeat-bank-earnings-iran-fears-000622380.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause ahead of bank earnings, looming tariff ruling
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-ahead-of-bank-earnings-looming-tariff-ruling-000622092.html
 Time Published: 2026-01-14T00:06:22Z
 Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
 --------------------------------------------------
@@ -62,16 +62,16 @@ Time Published: 2026-01-12T23:49:52Z
 Description: Wall Street is bracing for a CPI report against a backdrop of local and foreign political disruption.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures waver as CPI inflation eases, JPMorgan kicks off earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-waver-as-cpi-inflation-eases-jpmorgan-kicks-off-earnings-234952642.html
-Time Published: 2026-01-12T23:49:52Z
-Description: Wall Street is bracing for a CPI report against a backdrop of local and foreign political disruption.
---------------------------------------------------
-
 Title: Stock market today: S&P 500, Dow, Nasdaq mixed as CPI inflation eases, JPMorgan kicks off earnings
 URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-dow-nasdaq-mixed-as-cpi-inflation-eases-jpmorgan-kicks-off-earnings-234952160.html
 Time Published: 2026-01-12T23:49:52Z
 Description: Wall Street is reacting to "core" CPI coming in below expectations against a backdrop of local and foreign political disruption.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures waver as CPI inflation eases, JPMorgan kicks off earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-waver-as-cpi-inflation-eases-jpmorgan-kicks-off-earnings-234952642.html
+Time Published: 2026-01-12T23:49:52Z
+Description: Wall Street is bracing for a CPI report against a backdrop of local and foreign political disruption.
 --------------------------------------------------
 
 Title: Equity Indexes Recover Early Losses as Precious Metals Reach New Record Highs
