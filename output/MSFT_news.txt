@@ -1,5 +1,12 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: degiro-portfolio added to PyPI
+URL: https://pypi.org/project/degiro-portfolio/
+Time Published: 2026-01-13T23:52:09Z
+Full Content:
+pip install degiro-portfolio Copy PIP instructions Released: Jan 14, 2026 DEGIRO portfolio tracking and visualization application A web application for tracking and visualizing your DEGIRO portfolio with interactive charts and performance analytics. Interactive portfolio dashboard showing holdings summary, stock price charts, position value percentage, investment tranche tracking, and market index comparison Detailed view showing Microsoft's performance with multiple chart types including price history, position value %, investment tranches, and performance vs market indices The degiro-portfolio CLI provides easy server management: Additional tasks are available via invoke: The project includes a comprehensive Playwright-based test suite covering UI, API endpoints, and interactive features. Test Coverage: See tests/README.md for detailed testing documentation. The repository includes example_data.xlsx with sample AI and European tech stock transactions for demonstration purposes. To try the application with this demo data: The example portfolio includes: US Tech Stocks: European Tech Stocks: Install dependencies: Import transaction data: Fetch historical stock prices: Start the web server: Open your browser: Navigate to http://localhost:8000 Once the application is running, the main page displays: To update with new transactions: 0.2.3 Jan 14, 2026 0.2.2 Jan 13, 2026 Download the file for your platform. If you're not sure which to choose, learn more about installing packages. Uploaded Jan 14, 2026 Source Filter files by name, interpreter, ABI, and platform. If you're not sure about the file name format, learn more about wheel file names. The dropdown lists show the available interpreters, ABIs, and platforms. Enable javascript to be able to filter the list of wheel files. Copy a direct link to the current filters Copy Uploaded Jan 14, 2026 Python 3 Details for the file degiro_portfolio-0.2.3.tar.gz. See more details on using hashes here. The following attestation bundles were made for degiro_portfolio-0.2.3.tar.gz: Publisher: publish.yml on jdrumgoole/degiro-portfolio Details for the file degiro_portfolio-0.2.3-py3-none-any.whl. See more details on using hashes here. The following attestation bundles were made for degiro_portfolio-0.2.3-py3-none-any.whl: Publisher: publish.yml on jdrumgoole/degiro-portfolio Status: all systems operational Developed and maintained by the Python community, for the Python community. Donate today! "PyPI", "Python Package Index", and the blocks logos are registered trademarks of the Python Software Foundation. © 2026 Python Software Foundation Site map Supported by
+--------------------------------------------------
+
 Title: Should You Buy VST Stock in January 2026 as Vistra Strikes a Major Nuclear Deal with Meta Platforms?
 URL: https://www.barchart.com/story/news/37004093/should-you-buy-vst-stock-in-january-2026-as-vistra-strikes-a-major-nuclear-deal-with-meta-platforms
 Time Published: 2026-01-12T19:06:26Z
@@ -16,16 +23,4 @@ Title: Wells Fargo Maintains Outperform on Microsoft (MSFT) Despite Lowered Targ
 URL: https://finance.yahoo.com/news/wells-fargo-maintains-outperform-microsoft-164056898.html
 Time Published: 2026-01-12T16:40:56Z
 Description: Microsoft Corporation (NASDAQ:MSFT) is among the best software infrastructure stocks to buy according to hedge funds. On Thursday, January 8, Wells Fargo...
---------------------------------------------------
-
-Title: Microsoft Corporation (MSFT) Announces the Acquisition of Osmos
-URL: https://finance.yahoo.com/news/microsoft-corporation-msft-announces-acquisition-092140915.html
-Time Published: 2026-01-09T09:21:40Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is one of the best major stocks to invest in right now. Microsoft Corporation (NASDAQ:MSFT) announced the acquisition of ...
---------------------------------------------------
-
-Title: 30-year veteran analyst reveals game plan for 2026
-URL: https://www.thestreet.com/investing/stocks/wall-street-strategist-sam-stovall-lays-out-gameplan-for-2026
-Time Published: 2026-01-09T02:37:00Z
-Description: Sam Stovall has been navigating stocks for a long time. Stovall is the Chief Investment Strategist at CFRA, and his stock market experience is rooted in over...
 --------------------------------------------------

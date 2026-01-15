@@ -1,5 +1,31 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq slide amid upbeat bank earnings, Iran fears
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-resume-slide-as-more-bank-earnings-fresh-economic-data-roll-in-000622793.html
+Time Published: 2026-01-14T00:06:22Z
+Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
+--------------------------------------------------
+
+Title: degiro-portfolio added to PyPI
+URL: https://pypi.org/project/degiro-portfolio/
+Time Published: 2026-01-13T23:52:09Z
+Full Content:
+pip install degiro-portfolio Copy PIP instructions Released: Jan 14, 2026 DEGIRO portfolio tracking and visualization application A web application for tracking and visualizing your DEGIRO portfolio with interactive charts and performance analytics. Interactive portfolio dashboard showing holdings summary, stock price charts, position value percentage, investment tranche tracking, and market index comparison Detailed view showing Microsoft's performance with multiple chart types including price history, position value %, investment tranches, and performance vs market indices The degiro-portfolio CLI provides easy server management: Additional tasks are available via invoke: The project includes a comprehensive Playwright-based test suite covering UI, API endpoints, and interactive features. Test Coverage: See tests/README.md for detailed testing documentation. The repository includes example_data.xlsx with sample AI and European tech stock transactions for demonstration purposes. To try the application with this demo data: The example portfolio includes: US Tech Stocks: European Tech Stocks: Install dependencies: Import transaction data: Fetch historical stock prices: Start the web server: Open your browser: Navigate to http://localhost:8000 Once the application is running, the main page displays: To update with new transactions: 0.2.3 Jan 14, 2026 0.2.2 Jan 13, 2026 Download the file for your platform. If you're not sure which to choose, learn more about installing packages. Uploaded Jan 14, 2026 Source Filter files by name, interpreter, ABI, and platform. If you're not sure about the file name format, learn more about wheel file names. The dropdown lists show the available interpreters, ABIs, and platforms. Enable javascript to be able to filter the list of wheel files. Copy a direct link to the current filters Copy Uploaded Jan 14, 2026 Python 3 Details for the file degiro_portfolio-0.2.3.tar.gz. See more details on using hashes here. The following attestation bundles were made for degiro_portfolio-0.2.3.tar.gz: Publisher: publish.yml on jdrumgoole/degiro-portfolio Details for the file degiro_portfolio-0.2.3-py3-none-any.whl. See more details on using hashes here. The following attestation bundles were made for degiro_portfolio-0.2.3-py3-none-any.whl: Publisher: publish.yml on jdrumgoole/degiro-portfolio Status: all systems operational Developed and maintained by the Python community, for the Python community. Donate today! "PyPI", "Python Package Index", and the blocks logos are registered trademarks of the Python Software Foundation. © 2026 Python Software Foundation Site map Supported by
+--------------------------------------------------
+
+Title: If You Missed the Boat, Nvidia (NVDA) Stock Options Are Giving You Another Ticket
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d16c3fa4-72ba-47b2-984e-f07d240ed831
+Time Published: 2026-01-13T18:30:02Z
+Full Content:
+Your privacy is important to us Yahoo is part of the Yahoo family of brandsThe sites and apps that we own and operate, including Yahoo and Engadget, and our digital advertising service, Yahoo Advertising.Yahoo family of brands. If you do not want us and our partners to use cookies and personal data for these additional purposes, click 'Reject all'. If you would like to customise your choices, click 'Manage privacy settings'. You can withdraw your consent or change your choices at any time by clicking on the 'Privacy and Cookie settings' or 'Privacy dashboard' links on our sites and apps. Find out more about how we use your personal data in our Privacy Policy and Cookie Policy.
+--------------------------------------------------
+
+Title: 6 stocks and ETFs that these unsung market heroes see outperforming in 2026
+URL: https://www.marketwatch.com/story/6-stocks-and-etfs-that-these-unsung-market-heroes-see-outperforming-in-2026-0aef8bb8
+Time Published: 2026-01-13T15:39:00Z
+Description: Top stock-market newsletter editors share gems from their ‘buy’ list.
+--------------------------------------------------
+
 Title: NVIDIA と Lilly が、AI 時代の創薬を再構築するための共同イノベーション AI ラボを発表
 URL: https://prtimes.jp/main/html/rd/p/000000585.000012662.html
 Time Published: 2026-01-13T08:44:02Z
@@ -107,48 +133,4 @@ Title: BofA Maintains Buy on Nvidia (NVDA) Following CES AI Updates
 URL: https://finance.yahoo.com/news/bofa-maintains-buy-nvidia-nvda-082143740.html
 Time Published: 2026-01-10T08:21:43Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Analysts Are Watching Closely. On January 6, Bank of America reiterated the stock as “Buy,” noting...
---------------------------------------------------
-
-Title: Micron vs. NVIDIA: One AI Chip Stock is Poised to Win Big in 2026
-URL: https://finance.yahoo.com/news/micron-vs-nvidia-one-ai-200500396.html
-Time Published: 2026-01-09T20:05:00Z
-Description: Micron surged past Nvidia last year as AI-driven HBM chip demand lifted revenue and profits. Can it keep the edge in 2026 as Nvidia scales Blackwell?
---------------------------------------------------
-
-Title: NVIDIA (NVDA)’s Gonna Have a Great Q1, Says Jim Cramer
-URL: https://finance.yahoo.com/news/nvidia-nvda-gonna-great-q1-194850064.html
-Time Published: 2026-01-09T19:48:50Z
-Description: We recently published 11 Stocks on Jim Cramer’s Radar. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks on Jim Cramer radar. On the day of this show, AI...
---------------------------------------------------
-
-Title: Here's What President Trump Said About Intel's CEO That's Boosting the Stock Friday
-URL: https://www.investopedia.com/here-is-what-president-trump-said-about-intel-ceo-that-is-boosting-the-stock-friday-intc-11882254
-Time Published: 2026-01-09T18:40:48Z
-Full Content:
-Intel's stock hit its highest point in nearly two years Friday, thanks to a social media post. The chipmaker's stock was up nearly 10% in recent trading, making it one of the best-performing stocks in the S&P 500 Friday after President Trump praised Intel (INTC) CEO Lip-Bu Tan on social media. "I just finished a great meeting with the very successful Intel CEO, Lip-Bu Tan," Trump said in a Truth Social post Thursday, and that the U.S. government is "proud" to be an Intel shareholder. Just a few months earlier, Trump had pushed for Lip-Bu Tan to resign amid concerns about Tan's stakes in Chinese companies. However, Trump changed his tune just days later after meeting with the CEO in August, and brokered a deal that saw the U.S. government take a 10% stake in the chipmaker. Intel's stock has gotten a big boost from Trump's show of support, though it remains well off its historical highs as the embattled chipmaker works to convince investors of a sustainable turnaround in its business. A high-profile partnership with Nvidia (NVDA) followed not long after the government announced its stake, helped lift Intel's stock in the second half of last year, along with rumors about potential new customers. The shares nearly doubled in value last year, with most of those gains coming between early August and December. Intel's recent gains have also made the stock one of the top performers in the S&P 500 to start the year, with shares adding close to one-quarter of their value in January so far. A number of other semiconductor stocks followed Intel higher Friday, including Broadcom (AVGO), Micron Technology (MU), and Advanced Micro Devices (AMD), contributing to a broader market rally that pushed the S&P 500 to a new high.
---------------------------------------------------
-
-Title: Jim Cramer on NVIDIA: “It’s Insanely Cheap”
-URL: https://finance.yahoo.com/news/jim-cramer-nvidia-insanely-cheap-170529609.html
-Time Published: 2026-01-09T17:05:29Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Magnificent Seven stocks Jim Cramer recently reviewed. Cramer believes that the stock will again be a huge...
---------------------------------------------------
-
-Title: Nvidia (NVDA) Stock: Poaching Google's Marketing Leader Signals New Strategy - CoinCentral
-URL: https://coincentral.com/nvidia-nvda-stock-poaching-googles-marketing-leader-signals-new-strategy/
-Time Published: 2026-01-09T09:53:11Z
-Full Content:
-Nvidia made a key leadership move Thursday by hiring its first chief marketing officer. The company tapped Google Cloud marketing veteran Alison Wagonfeld for the newly created position. NVIDIA Corporation, NVDA Wagonfeld announced her departure from Google on LinkedIn. She will join Nvidia in late January after spending nearly a decade at the search giant. At Google, Wagonfeld led marketing for the cloud computing business. She worked closely with Google Cloud CEO Thomas Kurian and Chief Marketing Officer Lorraine Twohill. Her new role at Nvidia consolidates marketing responsibilities that were previously split among several people. She will report directly to CEO Jensen Huang. The hire comes as Nvidia looks to expand beyond just chip sales. The company wants to position itself as a full AI platform provider offering software, systems, and services. Wagonfeld’s move from Google to Nvidia highlights the relationship between the two tech companies. “I’m thrilled to be moving from one AI leader to another at such a transformational time,” she wrote on LinkedIn. She emphasized that Google and Nvidia maintain a strong partnership. The two companies plan to continue their collaboration despite her switch. This partnership angle matters for investors. Some analysts have worried about competition from Google’s Tensor Processing Units potentially eating into Nvidia’s dominance. Signs of cooperation rather than rivalry could ease these concerns. The market may view Wagonfeld’s hire as confirmation that the two companies see themselves as partners rather than enemies. Nvidia stock fell 2.2% during Thursday’s trading session. Shares remained flat in after-hours trading following the announcement. The stock has struggled to break out recently. It’s down 1% over the past three months despite strong demand indicators for AI chips. Nvidia remains the dominant provider of artificial intelligence chips. But the stock has been range-bound for several months as investors digest its rapid gains from earlier periods. The company faces questions about maintaining its market leadership as competitors ramp up their own chip offerings. Google’s TPUs represent one potential challenge to Nvidia’s position. Wagonfeld brings deep experience in marketing complex technology products to enterprise customers. Her background at Google Cloud could help Nvidia refine its messaging as it expands beyond hardware. The appointment reflects Nvidia’s evolution from a chip company to a broader AI infrastructure provider. Creating a CMO role signals the company’s intent to strengthen its brand and market positioning during this transition. Discover top-performing stocks in AI, Crypto, and Technology with expert analysis. 📈 Futures & Crypto Trader 🔍 Sharing charts, strategies, & mindset tips to help you level up 🚨 Not Financial Advice Follow on X @Pro_Trader_Edge
---------------------------------------------------
-
-Title: Citi Maintains a Buy on NVIDIA Corporation (NVDA)
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4e4b1ba4-d741-4b9d-b72a-eb0c44d1d5ff
-Time Published: 2026-01-09T09:21:45Z
-Description: None
---------------------------------------------------
-
-Title: 30-year veteran analyst reveals game plan for 2026
-URL: https://www.thestreet.com/investing/stocks/wall-street-strategist-sam-stovall-lays-out-gameplan-for-2026
-Time Published: 2026-01-09T02:37:00Z
-Description: Sam Stovall has been navigating stocks for a long time. Stovall is the Chief Investment Strategist at CFRA, and his stock market experience is rooted in over...
 --------------------------------------------------
