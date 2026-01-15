@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Small Names, Big Impact: The Stocks Behind NVIDIA’s Rubin
+URL: https://www.marketbeat.com/stock-ideas/small-caps-big-moats-inside-nvidias-rubin-suppliers-list/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2026-01-13T17:36:00Z
+Description: Investors are pivoting to specialized suppliers that solve power and speed bottlenecks for next-generation AI infrastructure to capture higher growth...
+--------------------------------------------------
+
 Title: Earnings live: Delta Air Lines, JPMorgan Chase to kick off fourth quarter reporting season
 URL: https://finance.yahoo.com/news/live/earnings-live-delta-air-lines-jpmorgan-chase-to-kick-off-fourth-quarter-reporting-season-080036116.html
 Time Published: 2026-01-13T08:00:36Z
