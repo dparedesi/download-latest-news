@@ -1,9 +1,21 @@
 List of news related to Bank of America stock price BAC:
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause ahead of bank earnings, looming tariff ruling
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-ahead-of-bank-earnings-looming-tariff-ruling-000622092.html
-Time Published: 2026-01-14T00:06:22Z
-Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
+Title: TD Cowen Raises Bank of America (BAC) PT Citing Solid Earnings Outlook, Favorable Repricing Trends
+URL: https://finance.yahoo.com/news/td-cowen-raises-bank-america-175342572.html
+Time Published: 2026-01-14T17:53:42Z
+Description: Bank of America Corporation (NYSE:BAC) is one of the cheap S&P 500 stocks to invest in now. On January 7, TD Cowen raised the firm’s price target on Bank of ...
+--------------------------------------------------
+
+Title: Stocks Retreat as Big Tech Falters
+URL: https://www.barchart.com/story/news/37043512/stocks-retreat-as-big-tech-falters
+Time Published: 2026-01-14T16:26:38Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.96%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.57%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
+Title: Stock Index Futures Slip With Focus on U.S. Retail Sales and PPI Data, More Big Bank Earnings on Tap
+URL: https://www.barchart.com/story/news/37035107/stock-index-futures-slip-with-focus-on-u-s-retail-sales-and-ppi-data-more-big-bank-earnings-on-tap
+Time Published: 2026-01-14T11:14:01Z
+Description: March S&P 500 E-Mini futures (ESH26) are down -0.44%, and March Nasdaq 100 E-Mini futures (NQH26) are down -0.66% this morning as investors trim risk ahead...
 --------------------------------------------------
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slip amid upbeat bank earnings, Iran fears
@@ -14,6 +26,12 @@ Description: Bank earnings set the tone this week, with a potential Supreme Cour
 
 Title: Stock market today: Dow, S&P 500, Nasdaq slide amid upbeat bank earnings, Iran fears
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-resume-slide-as-more-bank-earnings-fresh-economic-data-roll-in-000622793.html
+Time Published: 2026-01-14T00:06:22Z
+Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause ahead of bank earnings, looming tariff ruling
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-ahead-of-bank-earnings-looming-tariff-ruling-000622092.html
 Time Published: 2026-01-14T00:06:22Z
 Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
 --------------------------------------------------
@@ -30,14 +48,14 @@ Time Published: 2026-01-12T23:49:52Z
 Description: Wall Street is reacting to "core" CPI coming in below expectations against a backdrop of local and foreign political disruption.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures waver as CPI inflation eases, JPMorgan kicks off earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-waver-as-cpi-inflation-eases-jpmorgan-kicks-off-earnings-234952642.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures stall after Fed drama as CPI inflation check looms
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-after-fed-drama-as-cpi-inflation-check-looms-234952386.html
 Time Published: 2026-01-12T23:49:52Z
 Description: Wall Street is bracing for a CPI report against a backdrop of local and foreign political disruption.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures stall after Fed drama as CPI inflation check looms
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-after-fed-drama-as-cpi-inflation-check-looms-234952386.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures waver as CPI inflation eases, JPMorgan kicks off earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-waver-as-cpi-inflation-eases-jpmorgan-kicks-off-earnings-234952642.html
 Time Published: 2026-01-12T23:49:52Z
 Description: Wall Street is bracing for a CPI report against a backdrop of local and foreign political disruption.
 --------------------------------------------------

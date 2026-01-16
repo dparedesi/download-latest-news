@@ -1,5 +1,29 @@
 List of news related to NVIDIA NVDA:
 
+Title: China drafting purchase rules for Nvidia H200 chips, Nikkei Asia reports
+URL: https://finance.yahoo.com/news/china-drafting-purchase-rules-nvidia-032124261.html
+Time Published: 2026-01-15T03:21:24Z
+Description: China is working to set rules on how many advanced artificial ​intelligence chip companies can buy from foreign ‌makers such as Nvidia, Nikkei Asia reported...
+--------------------------------------------------
+
+Title: Stock market today: Nasdaq futures lead Dow, S&P 500 higher as TSMC's strong outlook buoys AI hopes
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-futures-lead-dow-sp-500-higher-as-tsmcs-strong-outlook-buoys-ai-hopes-235521821.html
+Time Published: 2026-01-14T23:55:21Z
+Description: Investors have been buffeted by industry losses and geopolitical issues.
+--------------------------------------------------
+
+Title: Mizuho Raises PT on NVIDIA (NVDA) Stock
+URL: https://finance.yahoo.com/news/mizuho-raises-pt-nvidia-nvda-175302588.html
+Time Published: 2026-01-14T17:53:02Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the Best Fundamental Stocks to Buy According to Analysts. On January 9, Mizuho analyst Vijay Rakesh lifted the...
+--------------------------------------------------
+
+Title: Stocks Retreat as Big Tech Falters
+URL: https://www.barchart.com/story/news/37043512/stocks-retreat-as-big-tech-falters
+Time Published: 2026-01-14T16:26:38Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.96%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.57%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: Nvidia stock falls as China reportedly restricts imports of H200 chips
 URL: https://finance.yahoo.com/news/nvidia-stock-falls-as-china-reportedly-restricts-imports-of-h200-chips-155203605.html
 Time Published: 2026-01-14T15:52:03Z
@@ -19,6 +43,12 @@ Full Content:
 NVIDIA's architectural design changes with its new Vera Rubin GPUs will consume a significant proportion of global memory resources this year, when such resources are already in short supply, worsening the memory crunch for all smartphone OEMs, including giants such as Apple and Samsung. These firms would likely have to raise the prices of their 2026-launching smartphones to compensate for the ongoing price-led demand destruction in the memory sphere, as per a new note from KeyBanc. NVIDIA has implemented a number of AI-critical design changes in its new Vera Rubin AI GPUs, which serve to further restrict the already-constrained global memory market and create far-reaching turbulence even for some of the globe's industrial titans such as Apple and Samsung. AI query processing creates a huge temporary memory log for context building purposes, aptly called the KV Cache. For NVIDIA's AI systems, this memory log is currently stored within the high bandwidth memory (HBM) modules. However, with its Vera Rubin AI GPUs, NVIDIA is implementing a new solution, called the Inference Memory Context Storage (ICMS), which will act as a dedicated memory resource for the KV Cache. As we noted in a dedicated post recently, this solution means NVIDIA could pack around 16 TB of NAND per GPU in a rack, which equates to 1,152 TB in a single NVL72 configuration. Now, KeyBanc has added additional color to this critical context by noting that NVIDIA's new AI GPUs could consume as much memory this year as between 100 million to 150 million smartphones, equating to around 10 percent of the global smartphone market: "NVIDIA’s (NVDA) latest Vera CPU utilizes 1.5TB of memory—up from Grace’s 512GB—implying that NVIDIA will require 20 billion gigabits (Gb) of memory this year. This consumption is equivalent to 100–150 million smartphones, or just under 10% of the total smartphone market." These dynamics are worsening the overall situation even for tech titans such as Apple and Samsung. For instance, we reported recently that while Apple has secured access to sufficient NAND resources through the first quarter of 2026, KIOXIA was expected to raise its pricing for Apple once a long-term NAND supply agreement is signed, as per an assessment by Morgan Stanley. Of course, DRAM constitutes an even bigger bottleneck for Apple, especially as Apple had previously secured access to DRAM under very favorable long-term contracts. As such, Morgan Stanley now expects Apple to secure access to DRAM resources through Q1 2026 only with a sequential price hike of over 50 percent. To make matters worse, Apple is experiencing upheaval within other sections of its sprawling supply chain. According to a new Nikkei Asia report, the Cupertino giant is reportedly struggling to secure sufficient supplies of high-end glass fiber cloth (T-glass). For the benefit of those who might not be aware, a substrate serves as the base on which Integrated Circuits (ICs) and other components are placed, while also playing a critical role in heat dissipation.A T-glass, on the other hand, is a special fiberglass with a high silica content that is often used within the substrate for microchips, providing a myriad of benefits, including better thermal stability, a flatter surface for intricate wiring, and higher reliability. Apple purchases almost all of its T-glass from Japan's Nitto Boseki (Nittobo). However, AI-related demand has reportedly exhausted Nittobo's existing supply capacity, forcing Apple to directly approach the Japanese government for assistance in securing enough T-glass supply. The Cupertino giant is also trying to secure its T-glass from alternative sources, including Mitsubishi Gas Chemical, which also relies on Nittobo's T-glass. In the interim, Apple is reportedly mulling using a lower-quality T-glass, but such a move would require extensive prior testing. Samsung's DS division has recently raised the price of DRAM supplied to Samsung's MX division by about 60–70%.They’re pushing such an absurd condition even on MX, which is part of the same family— so just imagine how much they’re raising prices for other companies.I think the… Interestingly, even Samsung, which produces its own memory, is not immune to the ongoing demand-destruction-via-price-hikes dynamics in the memory sphere. As per anecdotal reports, Samsung's DS division, which produces memory chips, has agreed to provide those chips to Samsung's MX mobile division only at price hikes of around 60 percent to 70 percent. The situation has prompted Samsung to raise the price of its upcoming Galaxy S26 series by between $30 and $60 in select regions, including its home market of South Korea. On the whole, given the fact that memory accounts for around 20 percent of a given smartphone's Bill of Materials (BOM), KeyBanc analysts believe that OEMs like Samsung and Apple "may need to raise handset prices by $100–$150, which could negatively weigh on demand." Follow Wccftech on Google to get more of our news coverage in your feeds. © 2026 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
 --------------------------------------------------
 
+Title: Four reasons to buy this overlooked group of stocks early in 2026
+URL: https://www.marketwatch.com/story/four-reasons-to-buy-this-overlooked-group-of-stocks-early-in-2026-50e33545
+Time Published: 2026-01-14T13:02:00Z
+Description: Small-cap companies in the U.S. are expected by analysts to increase profits much more quickly than larger companies as they see the greatest benefits from...
+--------------------------------------------------
+
 Title: ライフ サイエンスの主要なリーダーが NVIDIA BioNeMo プラットフォームを採用、AI 駆動の創薬を高速化
 URL: https://prtimes.jp/main/html/rd/p/000000586.000012662.html
 Time Published: 2026-01-14T07:47:14Z
@@ -36,7 +66,7 @@ Title: degiro-portfolio added to PyPI
 URL: https://pypi.org/project/degiro-portfolio/
 Time Published: 2026-01-13T23:52:09Z
 Full Content:
-Please enable JavaScript to proceed.
+pip install degiro-portfolio Copy PIP instructions Released: Jan 14, 2026 DEGIRO portfolio tracking and visualization application A web application for tracking and visualizing your DEGIRO portfolio with interactive charts and performance analytics. Interactive portfolio dashboard showing holdings summary, stock price charts, position value percentage, investment tranche tracking, and market index comparison Detailed view showing Microsoft's performance with multiple chart types including price history, position value %, investment tranches, and performance vs market indices The degiro-portfolio CLI provides easy server management: Additional tasks are available via invoke: The project includes a comprehensive Playwright-based test suite covering UI, API endpoints, and interactive features. Test Coverage: See tests/README.md for detailed testing documentation. The repository includes example_data.xlsx with sample AI and European tech stock transactions for demonstration purposes. To try the application with this demo data: The example portfolio includes: US Tech Stocks: European Tech Stocks: Install dependencies: Import transaction data: Fetch historical stock prices: Start the web server: Open your browser: Navigate to http://localhost:8000 Once the application is running, the main page displays: To update with new transactions: 0.2.3 Jan 14, 2026 0.2.2 Jan 13, 2026 Download the file for your platform. If you're not sure which to choose, learn more about installing packages. Uploaded Jan 14, 2026 Source Filter files by name, interpreter, ABI, and platform. If you're not sure about the file name format, learn more about wheel file names. The dropdown lists show the available interpreters, ABIs, and platforms. Enable javascript to be able to filter the list of wheel files. Copy a direct link to the current filters Copy Uploaded Jan 14, 2026 Python 3 Details for the file degiro_portfolio-0.2.3.tar.gz. See more details on using hashes here. The following attestation bundles were made for degiro_portfolio-0.2.3.tar.gz: Publisher: publish.yml on jdrumgoole/degiro-portfolio Details for the file degiro_portfolio-0.2.3-py3-none-any.whl. See more details on using hashes here. The following attestation bundles were made for degiro_portfolio-0.2.3-py3-none-any.whl: Publisher: publish.yml on jdrumgoole/degiro-portfolio Status: all systems operational Developed and maintained by the Python community, for the Python community. Donate today! "PyPI", "Python Package Index", and the blocks logos are registered trademarks of the Python Software Foundation. © 2026 Python Software Foundation Site map Supported by
 --------------------------------------------------
 
 Title: Nvidia Stock Could Be Just a Few Weeks Away from a Major Downside Catalyst. How to Play NVDA Here.
@@ -158,22 +188,4 @@ Title: Magnificent 7’s stock market dominance shows signs of cracking
 URL: https://finance.yahoo.com/news/magnificent-7-stock-market-dominance-140007016.html
 Time Published: 2026-01-11T14:00:07Z
 Description: For the first time since 2022, when the Federal Reserve started raising interest rates, the majority of the Magnificent 7 tech giants performed worse than...
---------------------------------------------------
-
-Title: Nvidia takes on Tesla with what Jensen Huang calls the 'ChatGPT moment' for self-driving
-URL: https://finance.yahoo.com/news/nvidia-takes-on-tesla-with-what-jensen-huang-calls-the-chatgpt-moment-for-self-driving-160045664.html
-Time Published: 2026-01-10T16:00:45Z
-Description: "The ChatGPT moment for physical AI is here — when machines begin to understand, reason, and act in the real world," Nvidia CEO Jensen Huang said from CES in...
---------------------------------------------------
-
-Title: CoreWeave (CRWV) Emerges as an AI Infrastructure Stock to Watch After Truist Initiation
-URL: https://finance.yahoo.com/news/coreweave-crwv-emerges-ai-infrastructure-124539079.html
-Time Published: 2026-01-10T12:45:39Z
-Description: CoreWeave, Inc. (NASDAQ:CRWV) is one of the AI Stocks Gaining Attention on Wall Street. On January 6, Truist Securities analyst Arvind Ramnani initiated...
---------------------------------------------------
-
-Title: BofA Maintains Buy on Nvidia (NVDA) Following CES AI Updates
-URL: https://finance.yahoo.com/news/bofa-maintains-buy-nvidia-nvda-082143740.html
-Time Published: 2026-01-10T08:21:43Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Analysts Are Watching Closely. On January 6, Bank of America reiterated the stock as “Buy,” noting...
 --------------------------------------------------
