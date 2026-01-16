@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Palantir and CrowdStrike: Daniel Ives Reveals His Top AI Stocks for 2026
+URL: https://finance.yahoo.com/news/palantir-crowdstrike-daniel-ives-reveals-110620738.html
+Time Published: 2026-01-15T11:06:20Z
+Description: AI has been generating hype and headlines over the past three years, since OpenAI launched the generative AI revolution with the release of ChatGPT. Since...
+--------------------------------------------------
+
 Title: CrowdStrike CEO says AI agents are unpredictable as company snaps up more cybersecurity startups
 URL: https://finance.yahoo.com/news/crowdstrike-ceo-says-ai-agents-are-unpredictable-as-company-snaps-up-more-cybersecurity-startups-165836482.html
 Time Published: 2026-01-14T16:58:36Z
