@@ -1,5 +1,17 @@
 List of news related to Bank of America stock price BAC:
 
+Title: Luxury Slump Bankrupts Saks Fifth Avenue
+URL: https://realinvestmentadvice.com/resources/blog/luxury-slump-bankrupts-saks-fifth-avenue/
+Time Published: 2026-01-15T09:10:00Z
+Description: "With the debt payment looming, time ran out." That succinct summary ended a Wall Street Journal article titled: Saks Global Files for Bankruptcy, Undone by Debt and a Luxury Slump. A year ago, Saks Fifth Avenue's parent company purchased its chief rival, Nei…
+--------------------------------------------------
+
+Title: Stock Indexes Settle Lower on Tech Weakness
+URL: https://www.barchart.com/story/news/37048717/stock-indexes-settle-lower-on-tech-weakness
+Time Published: 2026-01-14T21:39:08Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed down -0.53%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.09%, and the Nasdaq 100...
+--------------------------------------------------
+
 Title: TD Cowen Raises Bank of America (BAC) PT Citing Solid Earnings Outlook, Favorable Repricing Trends
 URL: https://finance.yahoo.com/news/td-cowen-raises-bank-america-175342572.html
 Time Published: 2026-01-14T17:53:42Z
@@ -24,14 +36,14 @@ Time Published: 2026-01-14T00:06:22Z
 Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause ahead of bank earnings, looming tariff ruling
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-ahead-of-bank-earnings-looming-tariff-ruling-000622092.html
+Title: Stock market today: Dow, S&P 500, Nasdaq slide amid upbeat bank earnings, Iran fears
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-resume-slide-as-more-bank-earnings-fresh-economic-data-roll-in-000622793.html
 Time Published: 2026-01-14T00:06:22Z
 Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq slide amid upbeat bank earnings, Iran fears
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-resume-slide-as-more-bank-earnings-fresh-economic-data-roll-in-000622793.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause ahead of bank earnings, looming tariff ruling
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-ahead-of-bank-earnings-looming-tariff-ruling-000622092.html
 Time Published: 2026-01-14T00:06:22Z
 Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
 --------------------------------------------------
