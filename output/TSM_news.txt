@@ -1,5 +1,17 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: TSMC’s Strong Outlook Fires Up Hopes of Sustained AI Boom - Yahoo Finance
+URL: https://slashdot.org/firehose.pl?op=view&amp;id=180588694
+Time Published: 2026-01-15T18:53:11Z
+Description: TSMC’s Strong Outlook Fires Up Hopes of Sustained AI BoomYahoo Finance Chip stocks pop after TSMC's earnings beat boosts confidence in industrywide demandCNBC These stocks are the biggest winners as TSMC earnings supercharge the AI tradeMarketWatch TSM Stock:…
+--------------------------------------------------
+
+Title: 4 semiconductor stocks giving the AI boom 'more legs'
+URL: https://finance.yahoo.com/news/4-semiconductor-stocks-giving-the-ai-boom-more-legs-175135867.html
+Time Published: 2026-01-15T17:51:35Z
+Description: Crossmark Global Investments chief market strategist Victoria Fernandez explains why a new wave of earnings from the semiconductor sector signals the AI race...
+--------------------------------------------------
+
 Title: US stock market surges today: Why Dow, S&P 500, and Nasdaq rebounded after a four-day losing streak - Chip stocks rally as TSMC earnings revive AI confidence
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-surges-today-why-dow-sp-500-and-nasdaq-rebounded-after-a-four-day-losing-streak-chip-stocks-rally-as-tsmc-earnings-revive-ai-confidence/articleshow/126548716.cms
 Time Published: 2026-01-15T15:13:25Z
