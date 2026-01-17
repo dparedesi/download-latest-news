@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: TSMC's Q4 earnings reignite AI bubble debate
+URL: https://www.thestreet.com/investing/stocks/taiwansemiconductors-q4-earnings-reignite-ai-bubble-debate
+Time Published: 2026-01-16T02:37:00Z
+Description: Taiwan Semiconductor Manufacturing Company's shares soared 5% intraday on Thursday, reaching a new 52-week high. This followed its fourth-quarter earnings...
+--------------------------------------------------
+
 Title: 5 AI Chip Stocks Most Exposed to Trump’s New 25% Tariff
 URL: https://247wallst.com/investing/2026/01/15/5-ai-chip-stocks-most-exposed-to-trumps-new-25-tariff/
 Time Published: 2026-01-15T21:47:37Z
