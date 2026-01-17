@@ -30,6 +30,12 @@ Time Published: 2026-01-14T11:14:01Z
 Description: March S&P 500 E-Mini futures (ESH26) are down -0.44%, and March Nasdaq 100 E-Mini futures (NQH26) are down -0.66% this morning as investors trim risk ahead...
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause ahead of bank earnings, looming tariff ruling
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-ahead-of-bank-earnings-looming-tariff-ruling-000622092.html
+Time Published: 2026-01-14T00:06:22Z
+Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slip amid upbeat bank earnings, Iran fears
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-amid-upbeat-bank-earnings-iran-fears-000622380.html
 Time Published: 2026-01-14T00:06:22Z
@@ -42,22 +48,10 @@ Time Published: 2026-01-14T00:06:22Z
 Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause ahead of bank earnings, looming tariff ruling
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-ahead-of-bank-earnings-looming-tariff-ruling-000622092.html
-Time Published: 2026-01-14T00:06:22Z
-Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
---------------------------------------------------
-
 Title: Analysts Say Capital One Stock Is a ‘Strong Buy.’ Did Trump Just Change That?
 URL: https://www.barchart.com/story/news/37022858/analysts-say-capital-one-stock-is-a-strong-buy-did-trump-just-change-that
 Time Published: 2026-01-13T16:56:51Z
 Description: Capital One stock fell 6% yesterday after Donald Trump proposed a one-year 10% cap on the interest rates that American credit card companies can charge...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures stall after Fed drama as CPI inflation check looms
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-after-fed-drama-as-cpi-inflation-check-looms-234952386.html
-Time Published: 2026-01-12T23:49:52Z
-Description: Wall Street is bracing for a CPI report against a backdrop of local and foreign political disruption.
 --------------------------------------------------
 
 Title: Stock market today: S&P 500, Dow, Nasdaq mixed as CPI inflation eases, JPMorgan kicks off earnings
@@ -68,6 +62,12 @@ Description: Wall Street is reacting to "core" CPI coming in below expectations 
 
 Title: Stock market today: Dow, S&P 500, Nasdaq futures waver as CPI inflation eases, JPMorgan kicks off earnings
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-waver-as-cpi-inflation-eases-jpmorgan-kicks-off-earnings-234952642.html
+Time Published: 2026-01-12T23:49:52Z
+Description: Wall Street is bracing for a CPI report against a backdrop of local and foreign political disruption.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures stall after Fed drama as CPI inflation check looms
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-after-fed-drama-as-cpi-inflation-check-looms-234952386.html
 Time Published: 2026-01-12T23:49:52Z
 Description: Wall Street is bracing for a CPI report against a backdrop of local and foreign political disruption.
 --------------------------------------------------
