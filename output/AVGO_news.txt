@@ -1,5 +1,37 @@
 List of news related to Broadcom AVGO:
 
+Title: Morgan Stanley tips 12% upside for US stocks in 2026. Here are 3 ASX ETFs offering exposure
+URL: https://www.fool.com.au/2026/01/16/morgan-stanley-tips-12-upside-for-us-stocks-in-2026-here-are-3-asx-etfs-offering-exposure/
+Time Published: 2026-01-16T02:41:35Z
+Description: Top broker Morgan Stanley thinks there is more growth for US stocks to come in 2026. Here are 3 ASX ETFS offering exposure. 
+The post Morgan Stanley tips 12% upside for US stocks in 2026. Here are 3 ASX ETFs offering exposure appeared first on The Motley Fool…
+--------------------------------------------------
+
+Title: TSMC's Strong Earnings Sparked a Tech Stock Rally Thursday. What Does It Mean for the AI Trade?
+URL: https://www.investopedia.com/tsmc-strong-earnings-sparked-a-tech-rally-thursday-what-does-it-mean-for-the-ai-trade-11886185
+Time Published: 2026-01-15T20:14:09Z
+Full Content:
+Record earnings from contract chipmaker Taiwan Semiconductor Manufacturing Co. (TSM) sparked big stock gains Thursday, suggesting there's still gas in the tank to fuel the AI rally. TSMC on Thursday reported record quarterly profit of 505 billion new Taiwan dollars ($16 billion) on record revenue of more than NT$1 trillion ($33.1 billion). Both figures were well ahead of consensus estimates from Wall Street analysts. TSMC's U.S.-listed shares were up more than 5% in late-afternoon trading. Wall Street's response to TSMC's results underscored investors' appetite for evidence of AI-driven growth. Shares of chipmaking equipment providers Applied Materials (AMAT) and KLA Corp. (KLAC) soared 7% and 8%, respectively, pacing S&P 500 advancers, after TSMC forecast it would increase its spending on equipment and infrastructure by at least 25% this year. The AI trade stumbled in the finals months of 2025 as investors questioned the sustainability and wisdom of Silicon Valley's massive AI spending. Those concerns were on the back burner Thursday when TSMC's record results reinforced high expectations for companies with significant exposure to the AI data center buildout, including chip designers and data storage device makers. TSMC's earnings and spending plans also signaled healthy demand for AI chips, boosting the stocks of designers such as Nvidia (NVDA), Advanced Micro Devices (AMD) and Broadcom (AVGO). Wall Street's attitude toward AI has shifted over the past year. When once investors were happy to reward companies for their AI ambitions, Wall Street is increasingly looking for evidence that AI investments are delivering tangible financial benefits. “As the investment cycle continues to mature, markets are likely to exemplify greater emphasis on monetization and earnings in 2026,” wrote Wedbush analysts in a research note on Thursday. Wedbush expects the market will be led this year by companies that can demonstrate AI-related spending is improving cash flows or profit margins. That shift has produced a widening divide between the tech sector's haves and have-nots. The PHLX Semiconductor Index (SOX) is up 12% since the start of the year, propelled higher by stocks like Micron (MU) and Lam Research Corp (LRCX), whose top and bottom lines are being bolstered by AI demand. Shares of data storage device maker Sandisk (SNDK) have risen about 70% since the start of the year—more than double the return of the S&P 500’s next-best performing stock—amid insatiable demand for the storage and memory solutions required to operate the most powerful AI models. Meanwhile, concerns about AI monetization have weighed on shares of software giants Intuit (INTU), ServiceNow (NOW) and Adobe (ADBE), which some investors worry may struggle to fend off AI-native competition and adapt their pricing models to a new tech paradigm.
+--------------------------------------------------
+
+Title: Ultra Clean Holdings, Inc. (UCTT): A Bull Case Theory
+URL: https://finance.yahoo.com/news/ultra-clean-holdings-inc-uctt-180323961.html
+Time Published: 2026-01-15T18:03:23Z
+Description: We came across a bullish thesis on Ultra Clean Holdings, Inc. on MarketBeat’s YouTube Channel. In this article, we will summarize the bulls’ thesis on UCTT. ...
+--------------------------------------------------
+
+Title: Taiwan Semi Stock Just Hit a New All-Time High But AI Fears Remain
+URL: https://www.barchart.com/story/news/37066859/taiwan-semi-stock-just-hit-a-new-all-time-high-but-ai-fears-remain
+Time Published: 2026-01-15T17:35:02Z
+Description: Taiwan Semiconductor (TSM) shares are trading at new all-time highs. Shares are up nearly 70% over the past 52 weeks. TSM maintains a 100% technical “Buy...
+--------------------------------------------------
+
+Title: Stocks Climb Before the Open as TSMC Reignites AI Optimism, U.S. Economic Data and Earnings in Focus
+URL: https://www.barchart.com/story/news/37056480/stocks-climb-before-the-open-as-tsmc-reignites-ai-optimism-u-s-economic-data-and-earnings-in-focus
+Time Published: 2026-01-15T11:19:58Z
+Description: March S&P 500 E-Mini futures (ESH26) are up +0.37%, and March Nasdaq 100 E-Mini futures (NQH26) are up +0.74% this morning after Taiwan Semiconductor...
+--------------------------------------------------
+
 Title: Stock Indexes Settle Lower on Tech Weakness
 URL: https://www.barchart.com/story/news/37048717/stock-indexes-settle-lower-on-tech-weakness
 Time Published: 2026-01-14T21:39:08Z

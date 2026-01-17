@@ -11,9 +11,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cccdb5f5
 Time Published: 2026-01-12T14:31:17Z
 Description: None
 --------------------------------------------------
-
-Title: This ETF Is Proof That the Healthcare Rebound Is Real
-URL: https://www.marketbeat.com/originals/this-etf-is-proof-that-the-healthcare-rebound-is-real/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2026-01-11T16:03:00Z
-Description: Track healthcare’s 2026 setup: GLP-1 drug adoption, a valuation gap vs. tech, and why VHT offers broad exposure with low fees and dividends.
---------------------------------------------------
