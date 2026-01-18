@@ -30,6 +30,12 @@ Time Published: 2026-01-14T11:14:01Z
 Description: March S&P 500 E-Mini futures (ESH26) are down -0.44%, and March Nasdaq 100 E-Mini futures (NQH26) are down -0.66% this morning as investors trim risk ahead...
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slip amid upbeat bank earnings, Iran fears
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-amid-upbeat-bank-earnings-iran-fears-000622380.html
+Time Published: 2026-01-14T00:06:22Z
+Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause ahead of bank earnings, looming tariff ruling
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-ahead-of-bank-earnings-looming-tariff-ruling-000622092.html
 Time Published: 2026-01-14T00:06:22Z
@@ -42,57 +48,8 @@ Time Published: 2026-01-14T00:06:22Z
 Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slip amid upbeat bank earnings, Iran fears
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-amid-upbeat-bank-earnings-iran-fears-000622380.html
-Time Published: 2026-01-14T00:06:22Z
-Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
---------------------------------------------------
-
 Title: Analysts Say Capital One Stock Is a ‘Strong Buy.’ Did Trump Just Change That?
 URL: https://www.barchart.com/story/news/37022858/analysts-say-capital-one-stock-is-a-strong-buy-did-trump-just-change-that
 Time Published: 2026-01-13T16:56:51Z
 Description: Capital One stock fell 6% yesterday after Donald Trump proposed a one-year 10% cap on the interest rates that American credit card companies can charge...
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Dow, Nasdaq mixed as CPI inflation eases, JPMorgan kicks off earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-dow-nasdaq-mixed-as-cpi-inflation-eases-jpmorgan-kicks-off-earnings-234952160.html
-Time Published: 2026-01-12T23:49:52Z
-Description: Wall Street is reacting to "core" CPI coming in below expectations against a backdrop of local and foreign political disruption.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures waver as CPI inflation eases, JPMorgan kicks off earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-waver-as-cpi-inflation-eases-jpmorgan-kicks-off-earnings-234952642.html
-Time Published: 2026-01-12T23:49:52Z
-Description: Wall Street is bracing for a CPI report against a backdrop of local and foreign political disruption.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures stall after Fed drama as CPI inflation check looms
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-after-fed-drama-as-cpi-inflation-check-looms-234952386.html
-Time Published: 2026-01-12T23:49:52Z
-Description: Wall Street is bracing for a CPI report against a backdrop of local and foreign political disruption.
---------------------------------------------------
-
-Title: 5 Things to Know Before the Stock Market Opens
-URL: https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-january-12-2026-11883331
-Time Published: 2026-01-12T13:34:48Z
-Full Content:
-Stock futures are losing ground this morning as investors digest news the Trump administration is investigating Federal Reserve Chair Jerome Powell; the Fed Chair said in a video statement late Sunday that the Justice Department has subpoenaed the Fed and is threatening criminal charges over his Senate testimony regarding the renovation of the Fed building; the uncertainty around potential threats to the Fed's independence is helping to drive gold prices to new record highs; shares of financial services companies are falling after a proposal from President Trump to cap credit card interest rates; and Walmart stock is rising after the retail giant announced a new partnership with Google to integrate Walmart and Sam's Club products into Google's Gemini AI chatbot. Here's what you need to know. Stock futures are pointing to a lower open as investors react to a new wave of uncertainty around the independence of the Federal Reserve. (more below) Futures tied to the S&P 500 were down 0.5% recently, while those linked to the Dow Jones Industrial Average and the Nasdaq dropped 0.6% and 0.7%, respectively. The Dow and S&P 500 are pulling back ahead of a busy week of earnings reports after closing at record highs to end last week. Gold futures surged to a record high amid the Fed uncertainty, and were recently up more than 2% at around $4,600 an ounce. The yield on the 10-year Treasury note, which affects borrowing costs on all sorts of consumer loans, was at 4.21%, up from 4.17% at Friday's close and trading at its highest level since early September. Bitcoin was at $90,600, down from an overnight high of around $92,300. Federal Reserve Chair Jerome Powell said in a statement Sunday night that the Fed received grand jury subpoenas from the DOJ on Friday regarding potential criminal charges. The subpoenas are related to Powell's testimony to Congress last year about Fed building renovations that President Trump has criticized Powell for previously. In a video statement, Powell said the investigation is not actually about the renovation. "The threat of criminal charges is a consequence of the Federal Reserve setting interest rates based on our best assessment of what will serve the public, rather than following the preferences of the President," Powell said. Trump spent months attacking Powell last year for not lowering interest rates as much as he thought they should be lowered, which Trump said was hurting the economy. Powell said Sunday that the outcome of this investigation will determine whether the Fed will maintain its independence and set rates based on economic evidence, or "whether instead monetary policy will be directed by political pressure or intimidation." Gold prices are surging this morning as investors turn to safe haven investments following the news of the DOJ investigation into Powell. Gold futures were up 2.3% at $4,605 an ounce recently, trading at all-time-high levels. Concerns that the independence of the Fed were among the many factors that helped drive the price of gold to a number of record highs last year. Gold typically does well in times of uncertainty, as investors look to put their money in safer long term assets like gold rather than more volatile investments like stocks. The precious metal was already rising to start the year thanks to renewed geopolitical uncertainty after the Trump administration's military operation in Venezuela and concerns over whether the U.S. could get involved in deadly protests in Iran. Shares of several financial services companies are sliding Monday after President Trump over the weekend suggested that credit card interest rates should be capped. Trump said on social media late Friday that Americans are being "ripped off" by rates of 20% to 30%, and said that effective Jan. 20 he would be calling for a one-year cap of 10%. Why the cap would be one-year long and how the cap would be accomplished remain unclear, but the idea is still affecting shares of credit card companies in premarket trading. Capital One Financial (COF) stock dropped 7%, while Citigroup (C) and American Express (AXP) were each down about 4%, and JPMorgan Chase (JPM), Bank of America (BAC) and Wells Fargo (WFC) also lost ground. Executives from several of those institutions will get a chance to respond to that idea this week as the big banks kick off the new quarterly earnings season, starting with JPMorgan on Tuesday. Walmart (WMT) shares are rising after the retail giant announced a new partnership with Alphabet's (GOOGL) Google over the weekend. Users in the Gemini app will soon start to receive Walmart and Sam's Club products as part of their search results when they ask for things like recommendations for camping equipment. The companies said that customers will be able to navigate from Gemini to Walmart to buy products, and will be able to link their Walmart and Gemini accounts to get recommendations and other benefits. Walmart shares were up more than 3% in recent premarket trading, poised to open at what would be a new record high. The deal is the latest tech-focused step for Walmart, which has worked to implement new tech features in its app and automation across its distribution centers, and even moved its stock listing to the Nasdaq Exchange last month.
---------------------------------------------------
-
-Title: Option Volatility And Earnings Report For January 12 - 16
-URL: https://www.barchart.com/story/news/36994193/option-volatility-and-earnings-report-for-january-12-16
-Time Published: 2026-01-12T12:00:02Z
-Description: Earnings season kicks into gear this week with banks and tech stocks taking center stage. This week we have Bank of America, Taiwan Semiconductor, JP Morgan,...
---------------------------------------------------
-
-Title: Bank earnings to cap banner 2025, set the table for growth in 2026: 'Everything is moving up at the same time'
-URL: https://finance.yahoo.com/news/bank-earnings-to-cap-banner-2025-set-the-table-for-growth-in-2026-everything-is-moving-up-at-the-same-time-100007938.html
-Time Published: 2026-01-12T10:00:07Z
-Description: Big Bank earnings will kick off Q4 earnings season this week. It will be a celebration of sorts for the industry after another banner year for shares of the ...
---------------------------------------------------
-
-Title: Bank of America (BAC)’s Multiple is An Insult to Its CEO, Says Jim Cramer
-URL: https://finance.yahoo.com/news/bank-america-bac-multiple-insult-072656809.html
-Time Published: 2026-01-12T07:26:56Z
-Description: We recently published 10 Stocks Jim Cramer Talked About. Bank of America Corporation (NYSE:BAC) is one of the stocks on Jim Cramer talked about. Bank of...
 --------------------------------------------------

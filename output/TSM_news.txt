@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq slip, chip stocks rise as Wall Street ends volatile week lower
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-chip-stocks-rise-as-wall-street-ends-volatile-week-lower-210151640.html
+Time Published: 2026-01-16T21:01:51Z
+Description: Stocks closed modestly lower to end a week packed with developments and earnings ahead of the long weekend.
+--------------------------------------------------
+
 Title: Fund manager pulls plug on popular semiconductor stock
 URL: https://www.thestreet.com/investing/stocks/fund-manager-pulls-plug-on-popular-semiconductor-stock
 Time Published: 2026-01-16T18:33:00Z
@@ -122,23 +128,4 @@ Title: Earnings live: Delta Air Lines, JPMorgan Chase to kick off fourth quarter
 URL: https://finance.yahoo.com/news/live/earnings-live-delta-air-lines-jpmorgan-chase-to-kick-off-fourth-quarter-reporting-season-080036116.html
 Time Published: 2026-01-13T08:00:36Z
 Description: Results from Delta Air Lines and JPMorgan this week get fourth quarter earnings season underway.
---------------------------------------------------
-
-Title: Nvidia Shares Slide After Massive H200 Orders Hit Regulatory Snag
-URL: https://finance.yahoo.com/news/nvidia-stock-wobbles-even-ceo-151023750.html
-Time Published: 2026-01-12T15:10:23Z
-Description: Nvidia Stock Wobbles Even as CEO Flags 'Very High' H200 Demand
---------------------------------------------------
-
-Title: Economic calendar: Why bank earnings, CPI, and key economic data could move markets this week
-URL: https://economictimes.indiatimes.com/news/international/us/economic-calendar-why-bank-earnings-cpi-and-key-economic-data-could-move-markets-this-week/articleshow/126484053.cms
-Time Published: 2026-01-12T12:28:03Z
-Full Content:
-Economic calendar this week January 2026: Investors brace for a significant week. Major US banks like JPMorgan Chase kick off earnings season. Key economic reports on inflation, retail sales, and housing will offer crucial insights. Federal Reserve officials' speeches may signal future interest rate decisions. This confluence of data and corporate results will shape market direction. Economic calendar this week January 2026 (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Quotes of the day by Winston Churchill: ‘We make a living by what we get, but we make a life…’ Quote of the day by Nelson Mandela: ‘Money won’t create success, the…’ Quote of the day by Kobe Bryant: ‘Once you know what failure feels like, determination chases….’ Quote of the day by Leonardo da Vinci: 'Marriage is like putting your hand into a bag of snakes in the hope of pulling out...' Canada updates travel advisory list with ‘Avoid All Travel’ destinations: What you need to know before planning your next trip Quote of the Day by Swiss-born philosopher Rousseau: ‘To write a good love letter, you ought to begin without knowing what you mean to say, and to finish…’ Ontario’s Lotto Max streak continues as $55 million jackpot is won in Eastern Ontario, days after $80 million London victory Quote of the day by Muhammad Ali: ‘If my mind can conceive it, if my heart can believe it, then…’ Canada’s restaurant industry on the brink? 4,000 closures predicted in 2026 amid soaring costs and shrinking consumer spending Ninth case of chronic wasting disease detected in BC Deer near Jaffray, wildlife threat intensifies, hunters urged to take precautions Quote of the day by Karl Marx: ‘Capital is dead labor, which, vampire-like, lives only by…’ Canadian military veteran alleges fat-shaming and inappropriate conduct by WestJet crew during Christmas Eve flight Katy Perry shares intimate moments with Justin Trudeau amid co-parenting with Orlando Bloom ED vs Mamata: SC pauses FIR against ED officials, issues notices Apaches, Tanks, Missiles & Drone power show at 78th Army Day Parade Trump to attend Davos as global cooperation cast into doubt Mayanagri votes: Bollywood stars turn up to cast ballots India stresses for Global South agenda as PM Modi inaugurates CSPOC 2026 Makar Sankranti: Ayodhya, Ujjain, Varanasi See Rush Maharashtra civic polls begin across 29 corporations 'More positions than Kama Sutra': Starmer ignites fiery clash in UK Parl Trump says he has been told killings in Iran are stopping 'We don’t want to be owned by US': Greenland FM Motzfeldt Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Story Listing Top Prime Articles Top Definitions Private Companies Top Slideshow Most Searched IFSC Codes Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Option Volatility And Earnings Report For January 12 - 16
-URL: https://www.barchart.com/story/news/36994193/option-volatility-and-earnings-report-for-january-12-16
-Time Published: 2026-01-12T12:00:02Z
-Description: Earnings season kicks into gear this week with banks and tech stocks taking center stage. This week we have Bank of America, Taiwan Semiconductor, JP Morgan,...
 --------------------------------------------------

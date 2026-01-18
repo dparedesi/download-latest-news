@@ -1,5 +1,29 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Super Micro Computer Is One of the Most Shorted Stocks. Could a Squeeze Take It Higher in 2026?
+URL: https://www.barchart.com/story/news/37090884/super-micro-computer-is-one-of-the-most-shorted-stocks-could-a-squeeze-take-it-higher-in-2026
+Time Published: 2026-01-16T22:05:24Z
+Description: New data shows that SMCI is the No. 3 most shorted stock by hedge funds. Here's what else to know about Super Micro Computer.
+--------------------------------------------------
+
+Title: Stocks Finish Slightly Lower as Bond Yields Climb
+URL: https://www.barchart.com/story/news/37090196/stocks-finish-slightly-lower-as-bond-yields-climb
+Time Published: 2026-01-16T21:38:27Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed down -0.06%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.17%, and the Nasdaq 100 Index (...
+--------------------------------------------------
+
+Title: OpenAI has committed billions to recent chip deals. Some big names have been left out
+URL: https://www.cnbc.com/2026/01/16/openai-chip-deal-with-cerebras-adds-to-roster-of-nvidia-amd-broadcom.html
+Time Published: 2026-01-16T20:00:01Z
+Description: OpenAI has inked multibillion-dollar deals with AI chipmakers including Nvidia, AMD, Broadcom and Cerebras.
+--------------------------------------------------
+
+Title: Stocks Turn Mixed as Bond Yields Climb
+URL: https://www.barchart.com/story/news/37085237/stocks-turn-lower-as-bond-yields-climb
+Time Published: 2026-01-16T16:14:18Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.07%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: Taiwan Semi Stock Just Hit a New All-Time High But AI Fears Remain
 URL: https://www.barchart.com/story/news/37066859/taiwan-semi-stock-just-hit-a-new-all-time-high-but-ai-fears-remain
 Time Published: 2026-01-15T17:35:02Z

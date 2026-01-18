@@ -1,5 +1,17 @@
 List of news related to Netflix stock price NFLX:
 
+Title: Stocks Finish Slightly Lower as Bond Yields Climb
+URL: https://www.barchart.com/story/news/37090196/stocks-finish-slightly-lower-as-bond-yields-climb
+Time Published: 2026-01-16T21:38:27Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed down -0.06%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.17%, and the Nasdaq 100 Index (...
+--------------------------------------------------
+
+Title: Dear Netflix Stock Fans, Mark Your Calendars for January 20
+URL: https://www.barchart.com/story/news/37089407/dear-netflix-stock-fans-mark-your-calendars-for-january-20
+Time Published: 2026-01-16T21:03:10Z
+Description: Netflix is scheduled to report its Q4 earnings on Jan. 20. Could the release prove a much-needed catalyst for NFLX shares to recover?
+--------------------------------------------------
+
 Title: As Trump Casts Doubt on the Netflix-Warner Bros. Discovery Deal, How Should You Play NFLX Stock?
 URL: https://www.barchart.com/story/news/37044975/as-trump-casts-doubt-on-the-netflix-warner-bros-discovery-deal-how-should-you-play-nflx-stock
 Time Published: 2026-01-14T17:46:00Z
@@ -17,16 +29,4 @@ Title: Stock Index Futures Slip With Focus on U.S. Retail Sales and PPI Data, Mo
 URL: https://www.barchart.com/story/news/37035107/stock-index-futures-slip-with-focus-on-u-s-retail-sales-and-ppi-data-more-big-bank-earnings-on-tap
 Time Published: 2026-01-14T11:14:01Z
 Description: March S&P 500 E-Mini futures (ESH26) are down -0.44%, and March Nasdaq 100 E-Mini futures (NQH26) are down -0.66% this morning as investors trim risk ahead...
---------------------------------------------------
-
-Title: As Netflix Drops 33%, Is NFLX Stock Buy Ahead of Q4 Earnings?
-URL: https://www.barchart.com/story/news/37001444/as-netflix-drops-33-is-nflx-stock-buy-ahead-of-q4-earnings
-Time Published: 2026-01-12T16:45:07Z
-Description: Netflix's stock has lost substantial value ahead of the Q4 earnings release. The stock has declined despite the solid underlying business performance.
---------------------------------------------------
-
-Title: Is Netflix a Buy Ahead of Earnings? It Looks Like It
-URL: https://www.marketbeat.com/originals/is-netflix-a-buy-ahead-of-earnings-it-looks-like-it/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2026-01-12T13:25:00Z
-Description: Netflix looks deeply oversold heading into earnings, and with low expectations and strong analyst support, this dip may offer an attractive entry point.
 --------------------------------------------------

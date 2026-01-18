@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq slip, chip stocks rise as Wall Street ends volatile week lower
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-chip-stocks-rise-as-wall-street-ends-volatile-week-lower-210151640.html
+Time Published: 2026-01-16T21:01:51Z
+Description: Stocks closed modestly lower to end a week packed with developments and earnings ahead of the long weekend.
+--------------------------------------------------
+
 Title: Could a Short Squeeze Start Brewing in BARK Stock Following a New Go-Private Offer?
 URL: https://www.barchart.com/story/news/37046306/could-a-short-squeeze-start-brewing-in-bark-stock-following-a-new-go-private-offer
 Time Published: 2026-01-14T19:04:54Z
@@ -16,23 +22,4 @@ Title: Why Amazon’s ‘Overbought’ Signal Isn’t a Red Flag
 URL: https://www.marketbeat.com/originals/why-amazons-overbought-signal-isnt-a-red-flag/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2026-01-13T20:11:00Z
 Description: Amazon’s overbought RSI is a signal of strength, and with earnings due towards the end of the month, there are several reasons to think this is just the...
---------------------------------------------------
-
-Title: Meta Platforms Just Gave Oklo a Nuclear Boost. Should You Buy OKLO Stock Here?
-URL: https://www.barchart.com/story/news/37004411/meta-platforms-just-gave-oklo-a-nuclear-boost-should-you-buy-oklo-stock-here
-Time Published: 2026-01-12T19:29:55Z
-Description: Oklo stock surged 8% on Friday and is now up 300% in the past 12 months as it inks big-ticket agreements with Meta and other tech giants.
---------------------------------------------------
-
-Title: Should You Buy VST Stock in January 2026 as Vistra Strikes a Major Nuclear Deal with Meta Platforms?
-URL: https://www.barchart.com/story/news/37004093/should-you-buy-vst-stock-in-january-2026-as-vistra-strikes-a-major-nuclear-deal-with-meta-platforms
-Time Published: 2026-01-12T19:06:26Z
-Description: Meta has joined hands with the diversified electricity company, among others, to build its AI supercluster in New Albany, Ohio.
---------------------------------------------------
-
-Title: Two Low-Cost Airlines Plan to Merge. Wall Street Likes the Deal.
-URL: https://www.investopedia.com/two-low-cost-airlines-plan-to-merge-wall-street-likes-the-deal-algt-scny-11883381
-Time Published: 2026-01-12T16:37:52Z
-Full Content:
-Investors see sunshine for Sun Country Airlines stock following news that it plans to merge with another ultra-low-cost carrier. Sun Country (SNCY) shares were up some 12% Monday, a day after the airline agreed to combine with fellow ultra-low-cost carrier Allegiant Travel Company (ALGT) to "create a leading leisure-focused U.S. airline." Allegiant's stock was down about 6%. (Read Investopedia's live coverage of today's trading here.) Las Vegas-based Allegiant will acquire Minneapolis-based Sun Country for $1.5 billion in cash and stock, including $400 million of net debt. The deal might not not be the last move to consolidate the domestic low-cost space. Spirit Airlines owner Spirit Aviation (FLYY) entered the Chapter 11 restructuring process for the second time in less than a year in late August. Frontier Group (ULCC), the parent of Frontier Airlines, replaced longtime CEO Barry Biffle last month amid a sharply declining stock price. The deal, which would merge two low-cost air carriers, could herald more merger activity in the sector. Investors applauded the news that Sun Country and Allegiant planned to merge, with the companies seen as reliably profitable and serving complimentary markets. Upon closing, which is expected in the second half of 2026, Allegiant and Sun Country shareholders would own about 67% and 33%, respectively, of the combined company, which would continue under the Allegiant name. Each would operate separately until they obtain a single operating certificate from the Federal Aviation Administration. Allegiant CEO Gregory Anderson would serve as the combined company's CEO, while Sun Country CEO Jude Bricker would join the board and serve as an advisor to Anderson. The new company would be headquartered in Las Vegas but keep "a significant presence" in Minneapolis-St. Paul, according to the release announcing the deal. "Allegiant and Sun Country are well positioned to create one of the most adaptable and resilient airline models in the industry, with the ability to respond quickly to changing market conditions, traveler demand, and charter and cargo partner needs," the release said. The deal may not face substantial regulatory concern, as the carriers have served different markets. Allegiant flies routes with little competition from small cities, while Sun Country handles cargo flights for Amazon (AMZN), charter routes, and scheduled flights across the U.S. and to international destinations in Mexico, Canada, Central America, and the Caribbean. Deutsche Bank analysts called the deal a "merger of two equally well-run low-fare airlines" with reliably solid margins. "As two of the industry's most profitable airlines, we view them as 'equals,' particularly as they are the only two low-fare carriers that have been consistently profitable," they wrote.
 --------------------------------------------------
