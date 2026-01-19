@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Goldman Sachs revamps Microsoft stock price target before earnings
+URL: https://www.thestreet.com/investing/stocks/goldman-sachs-revamps-microsoft-stock-price-target-before-earnings
+Time Published: 2026-01-17T19:17:00Z
+Description: Goldman Sachs just struck a remarkably confident tone on Microsoft (MSFT)stock just ahead of a key earnings report on January 28. The firm slapped the...
+--------------------------------------------------
+
 Title: 3 Unstoppable Monopolies You Should be Buying Now
 URL: https://247wallst.com/investing/2026/01/15/3-unstoppable-monopolies-you-should-be-buying-now/
 Time Published: 2026-01-15T20:26:51Z
@@ -35,17 +41,4 @@ Title: This Trade for Microsoft Profits if the Stock Stays Above $435
 URL: https://www.barchart.com/story/news/37036074/this-trade-for-microsoft-profits-if-the-stock-stays-above-435
 Time Published: 2026-01-14T12:00:02Z
 Description: The price of Microsoft stock has dropped in recent months and the company is due to report earnings on January 28th after the market close.
---------------------------------------------------
-
-Title: degiro-portfolio added to PyPI
-URL: https://pypi.org/project/degiro-portfolio/
-Time Published: 2026-01-13T23:52:09Z
-Full Content:
-Please enable JavaScript to proceed.
---------------------------------------------------
-
-Title: Small Names, Big Impact: The Stocks Behind NVIDIA’s Rubin
-URL: https://www.marketbeat.com/stock-ideas/small-caps-big-moats-inside-nvidias-rubin-suppliers-list/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2026-01-13T17:36:00Z
-Description: Investors are pivoting to specialized suppliers that solve power and speed bottlenecks for next-generation AI infrastructure to capture higher growth...
 --------------------------------------------------
