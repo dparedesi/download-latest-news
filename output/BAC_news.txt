@@ -30,6 +30,12 @@ Time Published: 2026-01-14T11:14:01Z
 Description: March S&P 500 E-Mini futures (ESH26) are down -0.44%, and March Nasdaq 100 E-Mini futures (NQH26) are down -0.66% this morning as investors trim risk ahead...
 --------------------------------------------------
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slip amid upbeat bank earnings, Iran fears
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-amid-upbeat-bank-earnings-iran-fears-000622380.html
+Time Published: 2026-01-14T00:06:22Z
+Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures hit pause ahead of bank earnings, looming tariff ruling
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hit-pause-ahead-of-bank-earnings-looming-tariff-ruling-000622092.html
 Time Published: 2026-01-14T00:06:22Z
@@ -38,12 +44,6 @@ Description: Bank earnings set the tone this week, with a potential Supreme Cour
 
 Title: Stock market today: Dow, S&P 500, Nasdaq slide amid upbeat bank earnings, Iran fears
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-resume-slide-as-more-bank-earnings-fresh-economic-data-roll-in-000622793.html
-Time Published: 2026-01-14T00:06:22Z
-Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slip amid upbeat bank earnings, Iran fears
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-amid-upbeat-bank-earnings-iran-fears-000622380.html
 Time Published: 2026-01-14T00:06:22Z
 Description: Bank earnings set the tone this week, with a potential Supreme Court tariff ruling due Wednesday.
 --------------------------------------------------
