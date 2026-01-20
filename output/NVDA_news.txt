@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: 5-star analyst drops jaw-dropping price target on AMD stock
+URL: https://www.thestreet.com/technology/5-star-analyst-drops-jaw-dropping-price-target-on-amd-stock
+Time Published: 2026-01-19T17:33:00Z
+Description: A top Wall Street analyst just dropped one of the boldest calls on Advanced Micro Devices (AMD), slapping an eye-popping price target in the process. Wells...
+--------------------------------------------------
+
 Title: Nvidia Suppliers Pause Output After China Blocks H200 Chips
 URL: https://finance.yahoo.com/news/nvidia-suppliers-pause-output-china-151839971.html
 Time Published: 2026-01-19T15:18:39Z
