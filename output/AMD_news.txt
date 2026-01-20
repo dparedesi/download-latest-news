@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: As Trump Hits AMD MI325X Chips with a 25% Tariff, How Should You Play AMD Stock?
+URL: https://www.barchart.com/story/news/37110962/as-trump-hits-amd-mi325x-chips-with-a-25-tariff-how-should-you-play-amd-stock
+Time Published: 2026-01-19T14:30:02Z
+Description: President Donald Trump announced that AMD and Nvidia will face 25% tariffs on certain chip imports.
+--------------------------------------------------
+
 Title: Strong Analyst Sentiment on Advanced Micro Devices (AMD) Amid CES AI Processor Launches Despite Nvidia Competition
 URL: https://finance.yahoo.com/news/strong-analyst-sentiment-advanced-micro-111619431.html
 Time Published: 2026-01-18T11:16:19Z
