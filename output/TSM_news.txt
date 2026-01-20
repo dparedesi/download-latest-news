@@ -93,21 +93,3 @@ URL: https://www.barchart.com/story/news/37056480/stocks-climb-before-the-open-a
 Time Published: 2026-01-15T11:19:58Z
 Description: March S&P 500 E-Mini futures (ESH26) are up +0.37%, and March Nasdaq 100 E-Mini futures (NQH26) are up +0.74% this morning after Taiwan Semiconductor...
 --------------------------------------------------
-
-Title: Stock market today: Nasdaq futures lead Dow, S&P 500 higher as TSMC's strong outlook buoys AI hopes
-URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-futures-lead-dow-sp-500-higher-as-tsmcs-strong-outlook-buoys-ai-hopes-235521821.html
-Time Published: 2026-01-14T23:55:21Z
-Description: Investors have been buffeted by industry losses and geopolitical issues.
---------------------------------------------------
-
-Title: Looking to ‘Sell America’ Amid Fed Drama? Here’s 1 ETF to Buy.
-URL: https://www.barchart.com/story/news/37039806/looking-to-sell-america-amid-fed-drama-heres-1-etf-to-buy
-Time Published: 2026-01-14T14:00:02Z
-Description: 'Sell America' fear is rising again, and this non-U.S. ETF could be a wise buy to stay diversified and invested globally while U.S. policy risks swirl.
---------------------------------------------------
-
-Title: Factors Led Mar Vista’s U.S. Quality Strategy’s New Addition: Taiwan Semiconductor (TSM)
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_eaa9bb24-d50b-4893-b63f-6d2ef962888c
-Time Published: 2026-01-14T13:15:39Z
-Description: None
---------------------------------------------------

@@ -35,15 +35,3 @@ URL: https://www.barchart.com/story/news/37066859/taiwan-semi-stock-just-hit-a-n
 Time Published: 2026-01-15T17:35:02Z
 Description: Taiwan Semiconductor (TSM) shares are trading at new all-time highs. Shares are up nearly 70% over the past 52 weeks. TSM maintains a 100% technical “Buy...
 --------------------------------------------------
-
-Title: AMD stock bets shift after analyst drops $15 billon message
-URL: https://www.thestreet.com/investing/stocks/amd-stock-shifts-after-analyst-drops-comments-before-earnings
-Time Published: 2026-01-14T18:03:00Z
-Description: AMD(Advanced Micro Devices) is set to announce its Q4 and full fiscal year 2025 report on February 3, 2026, after the market close. Ahead of this, the semico...
---------------------------------------------------
-
-Title: AMD Is Almost Sold Out of CPUs for 2026. Does That Make AMD Stock a Buy Now?
-URL: https://www.barchart.com/story/news/37037465/amd-is-almost-sold-out-of-cpus-for-2026-does-that-make-amd-stock-a-buy-now
-Time Published: 2026-01-14T12:55:01Z
-Description: AMD stock inches higher as KeyBanc issues a bullish note in its favor. Here’s why the investment firm is recommending sticking with AMD shares in 2026.
---------------------------------------------------

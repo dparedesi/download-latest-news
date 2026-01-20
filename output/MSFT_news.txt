@@ -36,21 +36,3 @@ URL: https://thedividendguyblog.com/reviewing-all-my-stocks-december-dividend-in
 Time Published: 2026-01-15T10:30:15Z
 Description: In 2016, I made a life-changing decision: I took a sabbatical, put my family in a small RV, and we drove all the way to Costa Rica. Upon my return in 2017, I officially quit my job as a private banker at National Bank and started working full-time on my baby:…
 --------------------------------------------------
-
-Title: Stock Indexes Settle Lower on Tech Weakness
-URL: https://www.barchart.com/story/news/37048717/stock-indexes-settle-lower-on-tech-weakness
-Time Published: 2026-01-14T21:39:08Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed down -0.53%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.09%, and the Nasdaq 100...
---------------------------------------------------
-
-Title: Stocks Retreat as Big Tech Falters
-URL: https://www.barchart.com/story/news/37043512/stocks-retreat-as-big-tech-falters
-Time Published: 2026-01-14T16:26:38Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.96%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.57%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: This Trade for Microsoft Profits if the Stock Stays Above $435
-URL: https://www.barchart.com/story/news/37036074/this-trade-for-microsoft-profits-if-the-stock-stays-above-435
-Time Published: 2026-01-14T12:00:02Z
-Description: The price of Microsoft stock has dropped in recent months and the company is due to report earnings on January 28th after the market close.
---------------------------------------------------
