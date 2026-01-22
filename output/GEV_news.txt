@@ -5,15 +5,3 @@ URL: https://finance.yahoo.com/news/ge-vernova-inc-gev-big-114533561.html
 Time Published: 2026-01-17T11:45:33Z
 Description: GE Vernova Inc. (NYSE:GEV) is among the stocks with the best earnings growth for the next 5 years. On January 12, Austin Wang from GLJ Research substantially...
 --------------------------------------------------
-
-Title: Stocks Finish Slightly Lower as Bond Yields Climb
-URL: https://www.barchart.com/story/news/37090196/stocks-finish-slightly-lower-as-bond-yields-climb
-Time Published: 2026-01-16T21:38:27Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed down -0.06%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.17%, and the Nasdaq 100 Index (...
---------------------------------------------------
-
-Title: Stocks Turn Mixed as Bond Yields Climb
-URL: https://www.barchart.com/story/news/37085237/stocks-turn-lower-as-bond-yields-climb
-Time Published: 2026-01-16T16:14:18Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.07%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------

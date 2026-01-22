@@ -23,21 +23,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1817563d
 Time Published: 2026-01-19T09:19:16Z
 Description: None
 --------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq slip, chip stocks rise as Wall Street ends volatile week lower
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slip-chip-stocks-rise-as-wall-street-ends-volatile-week-lower-210151640.html
-Time Published: 2026-01-16T21:01:51Z
-Description: Stocks closed modestly lower to end a week packed with developments and earnings ahead of the long weekend.
---------------------------------------------------
-
-Title: Fund manager pulls plug on popular semiconductor stock
-URL: https://www.thestreet.com/investing/stocks/fund-manager-pulls-plug-on-popular-semiconductor-stock
-Time Published: 2026-01-16T18:33:00Z
-Description: I've been investing in stocks since the early 1990s, and joined Wall Street's sell side nearly 30 years ago, so I remember clearly when semiconductor chip...
---------------------------------------------------
-
-Title: TSMC's Q4 earnings reignite AI bubble debate
-URL: https://www.thestreet.com/investing/stocks/taiwansemiconductors-q4-earnings-reignite-ai-bubble-debate
-Time Published: 2026-01-16T02:37:00Z
-Description: Taiwan Semiconductor Manufacturing Company's shares soared 5% intraday on Thursday, reaching a new 52-week high. This followed its fourth-quarter earnings...
---------------------------------------------------
