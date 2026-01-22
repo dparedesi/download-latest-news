@@ -6,16 +6,16 @@ Time Published: 2026-01-20T23:45:25Z
 Description: Stock futures are wavering in the wait for Trump to speak in Davos, where he plans meetings on the Greenland crisis.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slip after brutal sell-off as Trump speaks in Davos
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-after-brutal-sell-off-as-trump-speaks-in-davos-234525806.html
-Time Published: 2026-01-20T23:45:25Z
-Description: Stock futures are wavering in the wait for Trump to speak in Davos, where he plans meetings on the Greenland crisis.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500, Nasdaq turn higher after brutal sell-off as Trump speaks in Davos
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-after-brutal-sell-off-as-trump-rules-out-force-on-greenland-154955543.html
 Time Published: 2026-01-20T23:45:25Z
 Description: Stocks open higher as Trump speaks in Davos, where he plans meetings on the Greenland crisis.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slip after brutal sell-off as Trump speaks in Davos
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-after-brutal-sell-off-as-trump-speaks-in-davos-234525806.html
+Time Published: 2026-01-20T23:45:25Z
+Description: Stock futures are wavering in the wait for Trump to speak in Davos, where he plans meetings on the Greenland crisis.
 --------------------------------------------------
 
 Title: Netflix share price: Is it right time to buy NFLX stocks? Check Netflix earnings report release time
