@@ -17,9 +17,3 @@ URL: https://finance.yahoo.com/news/microsoft-corporation-msft-seen-37-055353770
 Time Published: 2026-01-18T05:53:53Z
 Description: We recently compiled a list of the 10 Best Investments During A Recession. Microsoft Corporation tops our list for being one of the best investments during a...
 --------------------------------------------------
-
-Title: Goldman Sachs revamps Microsoft stock price target before earnings
-URL: https://www.thestreet.com/investing/stocks/goldman-sachs-revamps-microsoft-stock-price-target-before-earnings
-Time Published: 2026-01-17T19:17:00Z
-Description: Goldman Sachs just struck a remarkably confident tone on Microsoft (MSFT)stock just ahead of a key earnings report on January 28. The firm slapped the...
---------------------------------------------------

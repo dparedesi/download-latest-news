@@ -1,9 +1,35 @@
 List of news related to NVIDIA NVDA:
 
+Title: Intelligent Machines 854: Welcome to the Pitt
+URL: https://twit.tv/shows/intelligent-machines/episodes/854
+Time Published: 2026-01-22T02:51:57Z
+Full Content:
+Jan 21st 2026 AI: A Brand or a Breakthrough? Think you know the story of AI's rise and fall? This episode upends conventional wisdom with guest historian Thomas Haigh, who reveals why the infamous "AI winter" might just be a myth and why the field’s biggest failures fueled today's breakthroughs. Download or subscribe to Intelligent Machines at https://twit.tv/shows/intelligent-machines. Join Club TWiT for Ad-Free Podcasts!Support what you love and get ad-free audio and video feeds, a members-only Discord, and exclusive content. Join today: https://twit.tv/clubtwit Join Club TWiT for Ad-Free Podcasts!Support what you love and get ad-free audio and video feeds, a members-only Discord, and exclusive content. Join Club TWiT today! Download Options HD Video Audio YouTube (Right-click and Save As... to download)
+--------------------------------------------------
+
 Title: Nvidia Stock (NVDA) Rallies on Reports of Increased GPU Prices - TipRanks
 URL: https://slashdot.org/firehose.pl?op=view&amp;id=180633916
 Time Published: 2026-01-21T18:13:23Z
 Description: Nvidia Stock (NVDA) Rallies on Reports of Increased GPU PricesTipRanks NVIDIA's GPU Memory Bundles Cost Less Than AMD's, Note AIB PartnersTechPowerUp AMD Promises to Try and Keep GPU Prices Low Against the Ravages of the RAM ShortageGizmodo AMD vows to fight …
+--------------------------------------------------
+
+Title: H200 Component Production Is Halted. What That Means for Nvidia, and Should You Buy the NVDA Stock Dip Here?
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f35f9e1f-a1d7-4164-9234-c6660dd0e925
+Time Published: 2026-01-21T17:03:37Z
+Description: None
+--------------------------------------------------
+
+Title: Nvidia Could Launch a New PC This Year. Should You Buy NVDA Stock First?
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_15aae3b7-1884-4739-8f88-f889891f519e
+Time Published: 2026-01-21T16:27:04Z
+Description: None
+--------------------------------------------------
+
+Title: February 25th Will Be a Make or Break Day for NVDL
+URL: https://247wallst.com/investing/2026/01/21/february-25th-will-be-a-make-or-break-day-for-nvdl/
+Time Published: 2026-01-21T13:18:54Z
+Full Content:
+Investing NVDL has attracted $4.7B in assets by offering 2x daily leverage on Nvidia (NVDA). Daily compounding erodes returns during volatility. Nvidia posted 62.5% year-over-year revenue growth. Growth below 40% quarterly would trigger a repricing lower. Nvidia’s data center sales represent over 80% of total revenue. Next earnings report lands February 25. Sending You to Google News in 3 © Shutterstock / JRdes NVDL offers a straightforward but unforgiving proposition: double Nvidia’s daily return, every day. Since launching in December 2022, it has attracted $4.7 billion in assets by amplifying the defining AI infrastructure stock. Shares sit around $79, down nearly 10% year to date after NVDA slipped 4.5% through mid-January. That divergence matters. NVDL didn’t deliver exactly double NVDA’s decline because daily leverage compounds, a mechanical reality that erodes returns when the underlying stock swings sideways or trends down. For anyone holding or considering NVDL, the most important factor to watch is Nvidia’s ability to sustain revenue growth above 50% annually. That threshold matters because NVDA’s valuation premium, a forward price-to-earnings ratio around 24, depends on maintaining hypergrowth in data center demand. The company posted 62.5% revenue growth year over year in its most recent quarter ending October 2025, reaching $57 billion in sales. That pace is decelerating from the triple-digit growth rates seen throughout fiscal 2025. If quarterly revenue growth drops below 40%, expect the stock to reprice lower, and NVDL to magnify that move violently. Track Nvidia’s quarterly earnings releases, which occur roughly every three months. The next report lands February 25, 2026, after market close. Pay attention to three figures: data center revenue growth, gross margin trajectory, and management’s guidance for the following quarter. Data center sales represent over 80% of total revenue, and any sign of slowing hyperscaler spending from Microsoft, Amazon, or Google will hit the stock hard. Gross margin, currently above 75%, reflects Nvidia’s pricing power. If that figure compresses due to competitive pressure from custom AI chips, it signals eroding dominance. NVDL resets its leverage every day, which means it doesn’t deliver double NVDA’s return over longer periods. In volatile or sideways markets, daily compounding works against you. NVDA’s RSI currently sits at 40.4, down from 51.8 just four days earlier, signaling weakening momentum without reaching oversold territory below 30. If NVDA continues chopping sideways while investors wait for the next earnings catalyst, NVDL will underperform a simple 2x calculation due to volatility decay. This isn’t a flaw, it’s how daily leveraged products work. Direxion’s SOXL offers 3x daily leverage on the broader semiconductor sector through the ICE Semiconductor Index, which includes NVDA but also TSMC, Broadcom, and AMD. While more aggressive, it spreads single-stock risk across the chip industry. If you’re concerned about Nvidia-specific execution risk, like supply constraints or competitive threats from custom silicon, SOXL provides sector exposure without total dependence on one company’s quarterly performance. Watch Nvidia’s data center revenue growth and NVDL’s daily compounding behavior. Those two factors will determine whether this ETF continues amplifying gains or eroding capital through volatility. Our top personal finance-related articles today. Your wallet will thank you later. Leveraged ETFs demand a different monitoring framework than buy-and-hold funds, and SOXL’s 3x daily exposure to semiconductors makes the distinction… NVIDIA (NASDAQ:NVDA) is getting hit on 2 fronts today as the stock drops 5% as of 1:45 p.m. EST, curtailing… 24/7 Wall Street Insights Nvidia is scheduled to enact a 10-for-1 forward stock split on June 7, 2024. Nvidia is… The Defiance Daily Target 2X Short MSTR ETF (NASDAQ:SMST) and GraniteShares 2x Long NVDA Daily ETF (NASDAQ:NVDL) are both down… Direxion Daily AMZN Bull 2X Shares (NYSEARCA:AMZU) offers 200% daily exposure to Amazon (NASDAQ:AMZN), but its mechanics reveal why it’s… A Historic Valuation Milestone In a historic moment yesterday, Nvidia (NASDAQ:NVDA) became the first company ever to surpass a $4… When the world’s most vocal Bitcoin maximalist names a stock alongside BTC as a “best performing asset of the decade,”… The iShares Core S&P Total U.S. Stock Market ETF (NYSE:ITOT) returned 16.4% through mid-December, tracking the broad U.S. equity market’s… When financial stocks rally, a 3x leveraged ETF can deliver outsized gains. When they stumble, losses compound just as fast.…
 --------------------------------------------------
 
 Title: Nvidia Vs. Dogecoin: A Historic Ratio Suggests A Possible Rotation, Says Trader
@@ -168,22 +194,4 @@ Title: Top Wall Street analysts are confident about these three stocks for the l
 URL: https://www.cnbc.com/2026/01/18/top-wall-street-analysts-are-confident-about-these-three-stocks-for-the-long-term.html
 Time Published: 2026-01-18T12:30:59Z
 Description: TipRanks highlights three stocks, including Broadcom and Meta Platforms, favored by Wall Street pros.
---------------------------------------------------
-
-Title: Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9935f5a6-254f-4939-b168-de7f382322e3
-Time Published: 2026-01-17T17:53:39Z
-Description: None
---------------------------------------------------
-
-Title: Nvidia Stock Only Seems to Be Losing Its AI Halo. This Analyst Says It’s Time to Buy. - Barron's
-URL: https://slashdot.org/firehose.pl?op=view&amp;id=180606770
-Time Published: 2026-01-17T17:52:35Z
-Description: Nvidia Stock Only Seems to Be Losing Its AI Halo. This Analyst Says It’s Time to Buy.Barron's NVIDIA Corporation (NVDA) Faces China H200 Tariff Headwind, Yet Wolfe Stays BullishYahoo Finance Nvidia Stock Is Flat But Not For Long (NASDAQ:NVDA)Seeking Alpha Nvi…
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA) Faces China H200 Tariff Headwind, Yet Wolfe Stays Bullish
-URL: https://finance.yahoo.com/news/nvidia-corporation-nvda-faces-china-114521535.html
-Time Published: 2026-01-17T11:45:21Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is among the stocks with the best earnings growth for the next 5 years. On January 15, Wolfe Research maintained an...
 --------------------------------------------------
