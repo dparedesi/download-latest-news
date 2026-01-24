@@ -1,5 +1,17 @@
 List of news related to Netflix stock price NFLX:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq rise for second day in a row as Greenland drama fades
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-for-second-day-in-a-row-as-greenland-drama-fades-210027669.html
+Time Published: 2026-01-22T21:02:28Z
+Description: Wall Street was given respite from tariff turmoil as Trump announced he was backing away from the Greenland acquisition.
+--------------------------------------------------
+
+Title: Three Hot Options Plays, Each with Its Own Twist
+URL: https://www.barchart.com/story/news/37179833/three-hot-options-plays-each-with-its-own-twist
+Time Published: 2026-01-22T18:30:02Z
+Description: There were 1,425 unusually active options on Wednesday, a day that included several ups and downs resulting from Davos. Ultimately, the S&P 500 closed up...
+--------------------------------------------------
+
 Title: Stocks Settle Sharply Higher as President Trump Claims Deal on Greenland
 URL: https://www.barchart.com/story/news/37160789/stocks-settle-sharply-higher-as-president-trump-claims-deal-on-greenland
 Time Published: 2026-01-21T21:46:04Z
@@ -18,8 +30,8 @@ Time Published: 2026-01-21T15:55:05Z
 Description: Netflix is now offering an all-cash deal to buy Warner Bros.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slip after brutal sell-off as Trump speaks in Davos
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-after-brutal-sell-off-as-trump-speaks-in-davos-234525806.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slip after brutal sell-off in wait for Trump's Davos speech
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-after-brutal-sell-off-in-wait-for-trumps-davos-speech-234525201.html
 Time Published: 2026-01-20T23:45:25Z
 Description: Stock futures are wavering in the wait for Trump to speak in Davos, where he plans meetings on the Greenland crisis.
 --------------------------------------------------
@@ -30,8 +42,8 @@ Time Published: 2026-01-20T23:45:25Z
 Description: Stocks open higher as Trump speaks in Davos, where he plans meetings on the Greenland crisis.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slip after brutal sell-off in wait for Trump's Davos speech
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-after-brutal-sell-off-in-wait-for-trumps-davos-speech-234525201.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures slip after brutal sell-off as Trump speaks in Davos
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-after-brutal-sell-off-as-trump-speaks-in-davos-234525806.html
 Time Published: 2026-01-20T23:45:25Z
 Description: Stock futures are wavering in the wait for Trump to speak in Davos, where he plans meetings on the Greenland crisis.
 --------------------------------------------------
@@ -48,18 +60,4 @@ URL: https://www.investopedia.com/here-is-how-much-traders-expect-netflix-stock-
 Time Published: 2026-01-19T18:54:22Z
 Full Content:
 Netflix is set to report fourth-quarter earnings after the market closes Tuesday, with traders anticipating a big swing in the streaming giant's stock following the results. Options pricing suggests traders expect Netflix (NFLX) stock could move up to 7% in either direction by the end of the week. At the high end, a move of that size from Friday's level at $88 would push the stock up to around $94, recovering some of its recent losses. At the low end, shares could slip below $82, their lowest level in over a year. Netflix shares are down nearly 30% since the company's last quarterly report in October, when an earnings miss due to a surprise tax expense sent the shares tumbling 10% the day after the results. The shares have also been pressured over the last month by worries about the streaming giant's pending acquisition of Warner Bros. Discovery (WBD), which has faced some pushback from politicians and rival bidder Paramount Skydance (PSKY). Netflix executives will likely receive a number of questions about the deal with Warner Bros. Discovery, including how the company plans to pay for the purchase amid reports that it is considering making its offer all-cash rather than a mix of cash and stock. Netflix is expected to report a nearly 17% jump in revenue to $11.97 billion, while earnings per share are expected to gain nearly 30% year-over-year to $0.55, according to estimates compiled by Visible Alpha. Goldman Sachs analysts told clients earlier this month that they expect the fourth-quarter report to "reflect a solid end to 2025 as management continues to execute well against its core areas of strategic focus," such as growing user engagement and scaling live sports and gaming offerings, along with Netflix's ad business. However, the analysts said investors' attention could be more focused on questions surrounding the Warner Bros. deal, including regulatory uncertainty, competition from Paramount, and how Netflix's business will operate until the deal potentially closes. Ahead of Tuesday's results, most Wall Street analysts are bullish on Netflix stock. Of the 10 analysts with current ratings tracked by Visible Alpha, eight consider the stock a "buy," compared to two "hold" ratings. Their average price target of $135 would suggest over 50% upside from its recent level.
---------------------------------------------------
-
-Title: HSBC Bullish on Netflix (NFLX) Growth Amid Monetization, International Expansion and Strategic Acquisitions
-URL: https://finance.yahoo.com/news/hsbc-bullish-netflix-nflx-growth-111613527.html
-Time Published: 2026-01-18T11:16:13Z
-Description: Netflix, Inc. (NASDAQ:NFLX) is included in our list of the best stocks to buy right now. On January 12, 2026, HSBC analyst Mohammed Khallouf assumed coverage...
---------------------------------------------------
-
-Title: What to Expect in Markets This Week: Trump Davos Speech, MLK Holiday,
-PCE Inflation, Netflix, Intel Earnings
-URL: https://www.investopedia.com/what-to-expect-in-markets-this-week-trump-davos-speech-mlk-holiday-pce-inflation-netflix-intel-earnings-11886065
-Time Published: 2026-01-18T10:00:00Z
-Full Content:
-It's a short trading week due to the Martin Luther King Jr. holiday, but there is still plenty happening. Stock and bond markets are closed for the holiday on Monday, the day the World Economic Forum begins in Davos, Switzerland. President Donald Trump is expected to speak on Wednesday in Davos, where he is expected to address housing market reforms and other economic topics. The delayed Personal Consumption Expenditures price index for October and November is scheduled for release, as is the final reading for third-quarter Gross Domestic Product. Netflix and Intel lead the tech firms on this week’s earnings calendar. United Airlines, Johnson & Johnson, Travelers Companies, GE Aerospace, and 3M are also reporting this week. Read to the bottom for our calendar of key events—and one more thing. Housing affordability is expected to be a key topic for Trump during his Wednesday address in Davos. He has announced several housing market reform proposals, including banning large institutional investors from buying homes and instructing Fannie Mae and Freddie Mac to purchase mortgage bonds to help lower borrowing costs. PCE inflation data for October and November will be released on Thursday as the Bureau of Economic Analysis continues to catch up on reports delayed by last year’s government shutdown. The Fed’s preferred measure of prices follows last week’s Consumer Price Index report showing that inflation continued to cool. Officials will be closely watching the inflation reading ahead of next week’s Federal Reserve meeting, with central bankers divided over whether to continue to lower interest rates. The U.S. Supreme Court will hear oral arguments in Fed Governor Lisa Cook's challenge to Trump's efforts to fire her. Netflix’s report and commentary, set for Tuesday, could offer additional insight into the streaming giant’s efforts to acquire Warner Brothers Discovery, which could be upgraded to an all-cash offer to match bids from rival Paramount Skydance. Netflix missed on its most recent quarterly earnings due to a tax hit in Brazil. Also reporting is Intel, the stock of which stock has been surging on optimism over its new AI PC chip and significant investments into the company from the U.S. government, Nvidia, and others. GE Aerospace, also slated to report, has seen its stock price near all-time highs after its most recent earnings showed strong demand for commercial and military aviation. Investors will be watching United Airlines’ report after rival Delta Air Lines reported a weaker-than-expected profit outlook, sending shares of airlines lower. Several Dow Jones Industrial Average components are also scheduled this week, including 3M, Johnson & Johnson, Procter & Gamble, and Travelers Companies. Quick Links: Recap Last Week’s Trading | Read Investopedia’s Latest News Monday, Jan. 19 Tuesday, Jan. 20 Wednesday, Jan. 21 Thursday, Jan. 22 Friday, Jan. 23 Americans last year said they regretted not saving enough money and making too many impulse buys. Investopedia’s Trina Paul has more on how you can avoid these money mistakes in 2026.
 --------------------------------------------------

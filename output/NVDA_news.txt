@@ -1,5 +1,29 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq futures stall after volatile week as Intel earnings fall short
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-after-volatile-week-as-intel-earnings-fall-short-234147705.html
+Time Published: 2026-01-22T23:41:47Z
+Description: Wall Street is regrouping after a rollercoaster week defined by Trump's on-and-off messages regarding Greenland.
+--------------------------------------------------
+
+Title: Jim Cramer says he's not abandoning the Mag 7 stocks despite recent struggles. Here's why
+URL: https://www.cnbc.com/2026/01/22/jim-cramer-says-hes-not-bailing-on-the-mag-7-amid-storage-stock-rally.html
+Time Published: 2026-01-22T23:23:35Z
+Description: "I think that the money will ultimately flow back to most" of the Magnificent Seven stocks, CNBC's Jim Cramer said.
+--------------------------------------------------
+
+Title: Why Taiwan Semiconductor and Meta Could Be the Hidden Bull Case for Broadcom
+URL: https://www.marketbeat.com/originals/why-taiwan-semiconductor-and-meta-could-be-the-hidden-bull-case-for-broadcom/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2026-01-22T16:27:00Z
+Description: While investors continue to sell Broadcom shares in 2026, news from TSMC and Meta Platforms lends support to a bullish outlook on the stock.
+--------------------------------------------------
+
+Title: AMD Stock Outperformed Nvidia. Is It Still a Buy?
+URL: https://www.barchart.com/story/news/37177519/amd-stock-outperformed-nvidia-is-it-still-a-buy
+Time Published: 2026-01-22T16:19:35Z
+Description: The recent rally in AMD stock has driven its valuation higher. Even so, the shares look attractive.
+--------------------------------------------------
+
 Title: US stock market rallied for a second straight day: Why the Dow, S&P 500, and Nasdaq are climbing toward record highs as Greenland tensions ease and key inflation data looms
 URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-rallied-for-a-second-straight-day-why-the-dow-sp-500-and-nasdaq-are-climbing-toward-record-highs-as-greenland-tensions-ease-and-key-inflation-data-looms/articleshow/127166974.cms
 Time Published: 2026-01-22T15:11:06Z
@@ -17,6 +41,12 @@ Title: People Should Have Listened to NVIDIA (NVDA)’s CEO, Says Jim Cramer
 URL: https://finance.yahoo.com/news/people-listened-nvidia-nvda-ceo-114644985.html
 Time Published: 2026-01-22T11:46:44Z
 Description: We recently published 15 Stocks on Jim Cramer’s Radar. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks on Jim Cramer’s radar. NVIDIA Corporation...
+--------------------------------------------------
+
+Title: AI power and infrastructure needs boomed in 2025. At Davos, the AI story for 2026 remains the same.
+URL: https://finance.yahoo.com/news/ai-power-and-infrastructure-needs-boomed-in-2025-at-davos-the-ai-story-for-2026-remains-the-same-100005093.html
+Time Published: 2026-01-22T10:00:05Z
+Description: The AI industry's greatest bottleneck, power, drove a boom in infrastructure throughout 2025. At Davos, leaders signal that 2026 is likely to see more of the...
 --------------------------------------------------
 
 Title: Intelligent Machines 854: Welcome to the Pitt
@@ -219,22 +249,4 @@ URL: https://www.fool.com.au/2026/01/19/5-strong-asx-etfs-to-buy-in-your-30s/
 Time Published: 2026-01-19T06:25:21Z
 Description: Looking to build wealth? Here are five funds to consider.
 The post 5 strong ASX ETFs to buy in your 30s appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: Jefferies Remains Bullish on NVIDIA Corporation (NVDA)
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4eb5e492-d31f-4a3f-a204-ad709e08da9a
-Time Published: 2026-01-18T17:29:42Z
-Description: None
---------------------------------------------------
-
-Title: 2 Top Flying Car Stocks That Cathie Wood Can’t Get Enough Of
-URL: https://www.barchart.com/story/news/37102788/2-top-flying-car-stocks-that-cathie-wood-cant-get-enough-of
-Time Published: 2026-01-18T14:30:02Z
-Description: Cathie Wood is doubling down on these two urban air mobility stocks as eVTOL technology inches toward commercial reality.
---------------------------------------------------
-
-Title: Top Wall Street analysts are confident about these three stocks for the long term
-URL: https://www.cnbc.com/2026/01/18/top-wall-street-analysts-are-confident-about-these-three-stocks-for-the-long-term.html
-Time Published: 2026-01-18T12:30:59Z
-Description: TipRanks highlights three stocks, including Broadcom and Meta Platforms, favored by Wall Street pros.
 --------------------------------------------------

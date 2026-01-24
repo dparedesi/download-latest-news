@@ -1,5 +1,35 @@
 List of news related to Broadcom AVGO:
 
+Title: Jim Cramer says he's not abandoning the Mag 7 stocks despite recent struggles. Here's why
+URL: https://www.cnbc.com/2026/01/22/jim-cramer-says-hes-not-bailing-on-the-mag-7-amid-storage-stock-rally.html
+Time Published: 2026-01-22T23:23:35Z
+Description: "I think that the money will ultimately flow back to most" of the Magnificent Seven stocks, CNBC's Jim Cramer said.
+--------------------------------------------------
+
+Title: Three Hot Options Plays, Each with Its Own Twist
+URL: https://www.barchart.com/story/news/37179833/three-hot-options-plays-each-with-its-own-twist
+Time Published: 2026-01-22T18:30:02Z
+Description: There were 1,425 unusually active options on Wednesday, a day that included several ups and downs resulting from Davos. Ultimately, the S&P 500 closed up...
+--------------------------------------------------
+
+Title: Analysts Remain Bullish on Broadcom (AVGO) While Cathie Adds Over 143,000 AVGO Shares
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_38579152-694d-4388-a7b7-5360cf7ae2ff
+Time Published: 2026-01-22T18:08:56Z
+Description: None
+--------------------------------------------------
+
+Title: Why Taiwan Semiconductor and Meta Could Be the Hidden Bull Case for Broadcom
+URL: https://www.marketbeat.com/originals/why-taiwan-semiconductor-and-meta-could-be-the-hidden-bull-case-for-broadcom/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2026-01-22T16:27:00Z
+Description: While investors continue to sell Broadcom shares in 2026, news from TSMC and Meta Platforms lends support to a bullish outlook on the stock.
+--------------------------------------------------
+
+Title: Broadcom Earnings Preview: What to Expect
+URL: https://www.barchart.com/story/news/37173286/broadcom-earnings-preview-what-to-expect
+Time Published: 2026-01-22T13:40:45Z
+Description: Broadcom is expected to announce its first-quarter results soon, and analysts are projecting a double-digit profit increase.
+--------------------------------------------------
+
 Title: As Taiwan Semi Hikes Its Dividend 20%, Should You Buy TSM Stock?
 URL: https://www.barchart.com/story/news/37163143/as-taiwan-semi-hikes-its-dividend-20-should-you-buy-tsm-stock
 Time Published: 2026-01-22T00:30:02Z
@@ -86,22 +116,4 @@ Title: What Does the Street Think About Broadcom Inc. (AVGO)?
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_819df88d-b078-4c58-9d10-1a008bfbb52d
 Time Published: 2026-01-19T09:19:18Z
 Description: None
---------------------------------------------------
-
-Title: Wells Fargo Upgrades Broadcom Inc. (AVGO) to Overweight From Equal Weight
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_87c28d39-d28c-4cd0-bfcc-0b93e55f1eae
-Time Published: 2026-01-18T17:29:44Z
-Description: None
---------------------------------------------------
-
-Title: Top Wall Street analysts are confident about these three stocks for the long term
-URL: https://www.cnbc.com/2026/01/18/top-wall-street-analysts-are-confident-about-these-three-stocks-for-the-long-term.html
-Time Published: 2026-01-18T12:30:59Z
-Description: TipRanks highlights three stocks, including Broadcom and Meta Platforms, favored by Wall Street pros.
---------------------------------------------------
-
-Title: Analysts Bullish on Broadcom (AVGO) Amid Strong AI Chip Outlook
-URL: https://finance.yahoo.com/news/analysts-bullish-broadcom-avgo-amid-111607957.html
-Time Published: 2026-01-18T11:16:07Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of the best stocks to buy right now. On January 11, 2026, Mizuho revisited semiconductor stocks and shared its revised...
 --------------------------------------------------
