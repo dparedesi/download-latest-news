@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA (NVDA) Invests $150 million in Baseten
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e214cb81-5147-4a50-ad27-e2a094160bf5
+Time Published: 2026-01-23T17:33:23Z
+Description: None
+--------------------------------------------------
+
 Title: Apple turning to Intel for future iPhone chips, analyst reaffirms
 URL: https://9to5mac.com/2026/01/23/apple-turning-to-intel-for-future-iphone-chips-analyst-reaffirms/
 Time Published: 2026-01-23T16:36:10Z
