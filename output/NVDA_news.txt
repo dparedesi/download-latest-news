@@ -1,10 +1,22 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA (NVDA) CEO Jensen Huang Frames AI as the Largest Infrastructure Buildout in Human History
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5a901b4c-378d-4b7c-9f02-447fdcc3471f
+Time Published: 2026-01-24T14:29:26Z
+Description: None
+--------------------------------------------------
+
 Title: These Two Charts Sum Up the AI Stock Rally in 2026
 URL: https://www.investopedia.com/these-two-charts-sum-up-the-ai-stock-rally-in-2026-11891429
 Time Published: 2026-01-23T19:54:54Z
 Full Content:
 Artificial intelligence is once again fueling a scorching tech stock rally, but the rising tide is notably not lifting all boats. Shares of companies making memory and data storage devices soared in the first weeks of 2026, fueled by a shortage of the hardware essential to training and running AI models. Sandisk (SNDK) stock has doubled in value in less than a month, while Western Digital (WDC) and Micron (MU) have each gained more than 30%. They’ve been joined by semi caps, the firms whose products enable the design and fabrication of the chips powering the AI revolution. Lam Research Corp. (LRCX) stock was up more than 25% as of Thursday's close, followed closely behind by Applied Materials (AMAT) and KLA Corp. (KLAC), each up nearly 20%. The AI rally has been the driving force behind the stock market for more than three years. But the AI trade has repeatedly shape-shifted, with investors bidding up certain sub-sectors and industries as new bottlenecks in the AI infrastructure buildout emerge. Then there’s Intel (INTC), one of the best-performing stocks in the S&P 500 this year. Wall Street is betting that investments by the federal government and AI king-maker Nvidia (NVDA) will help the storied chipmaker turn things around after years of trouble. The stock plummeted on Friday after the company issued a disappointing outlook for the current quarter, reminding investors that the turnaround they seek will be “a multiyear journey,” in the words of CEO Lip-Bu Tan. On the flip side are software stocks, beaten down by concerns that artificial intelligence is more threat than opportunity at the moment. Software giants like Intuit (INTU), ServiceNow (NOW), Adobe (ADBE) and Salesforce (CRM) are among the worst-performing stocks in the S&P 500 this year. Investors are worried AI-native start-ups are poised to take share from enterprise software incumbents whose deployment of AI agents has moved slower than expected. AI is also seen as a threat to the seat-based pricing model that helps make software-as-a-service companies stable and profitable. Investors are also down on software stocks because most of the industry isn't profiting from AI nearly as much as "pick-and-shovel-makers" like Nvidia—at least not yet. Software executives can attribute small profit margin gains to AI-driven efficiency, but investors are more excited to hear Micron say its high-bandwidth memory chips are sold out through this year because of AI demand. Digital marketing software company Applovin (APP) is one of the few exceptions. The stock soared more than 700% in 2024 and doubled in value last year, because of strong revenue and earnings growth that executives attribute to its AI-powered platforms. (Several short-sellers attribute the meteoric growth to shady practices.) Applovin stock's previous gains are a big reason it's the S&P 500’s worst performer this year. Investors have taken some very profitable chips off the table amid a slump driven by software pessimism and, earlier this week, more allegations Applovin's platforms facilitate illegal activity. The stock was down 22% heading into Friday’s session.
+--------------------------------------------------
+
+Title: Tesla is a 'believe or not' religion, not a stock based on fundamentals: Robinhood exec
+URL: https://finance.yahoo.com/news/tesla-is-a-believe-or-not-religion-not-a-stock-based-on-fundamentals-robinhood-exec-192320023.html
+Time Published: 2026-01-23T19:23:20Z
+Description: As the EV giant prepares to report fourth quarter earnings on Jan. 28, retail sentiment remains detached from traditional valuation metrics.
 --------------------------------------------------
 
 Title: Cathie Wood buys $10.7 million of sinking AI stock
