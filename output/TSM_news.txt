@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Cathie Wood buys $10.7 million of sinking AI stock
+URL: https://www.thestreet.com/investing/cathie-wood-buys-10-7-million-of-sinking-ai-stock
+Time Published: 2026-01-23T19:17:00Z
+Description: Cathie Wood, head of Ark Investment Management, targets "disruptive" tech companies and actively manages her positions. She often adds shares when prices...
+--------------------------------------------------
+
 Title: Why Taiwan Semiconductor and Meta Could Be the Hidden Bull Case for Broadcom
 URL: https://www.marketbeat.com/originals/why-taiwan-semiconductor-and-meta-could-be-the-hidden-bull-case-for-broadcom/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2026-01-22T16:27:00Z
@@ -21,23 +27,5 @@ Description: Shares of Taiwan Semiconductor Manufacturing Company (TSM) slid 4.4
 Title: Taiwan Semiconductor Manufacturing Company (TSM)’s Call Was Amazing, Says Jim Cramer
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dc33b0b0-8a08-42d6-8a16-947444991359
 Time Published: 2026-01-20T11:00:12Z
-Description: None
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing (TSM): “Enabler of the AI Era.”
-URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-tsm-enabler-142631998.html
-Time Published: 2026-01-19T14:26:31Z
-Description: Wedgewood Partners, an investment management company, released its fourth-quarter 2025 investor letter. The firm anticipates stronger market volatility in...
---------------------------------------------------
-
-Title: Ignore the China Drama and Buy Applied Materials Stock
-URL: https://www.barchart.com/story/news/37110577/ignore-the-china-drama-and-buy-applied-materials-stock
-Time Published: 2026-01-19T14:00:02Z
-Description: One analyst has a clear message for Applied Materials stock with a rating upgrade.
---------------------------------------------------
-
-Title: Here’s What Analysts Are Saying About Taiwan Semiconductor Manufacturing (TSM) Post Earnings
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1817563d-123d-4608-b21d-8a5a4d356a7e
-Time Published: 2026-01-19T09:19:16Z
 Description: None
 --------------------------------------------------
