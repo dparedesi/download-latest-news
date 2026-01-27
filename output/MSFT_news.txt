@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq rise to kick off big week of Big Tech earnings, Fed meeting
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-to-kick-off-big-week-of-big-tech-earnings-fed-meeting-110341652.html
+Time Published: 2026-01-26T11:03:41Z
+Description: Markets are treading carefully ahead of a Fed rate decision and a big week of earnings from the likes of Apple and Meta.
+--------------------------------------------------
+
 Title: Bitcoin options show pro traders expect more downside, but also plan to accumulate
 URL: https://cointelegraph.com/news/bitcoin-options-show-pro-traders-expect-more-downside-but-also-plan-to-accumulate
 Time Published: 2026-01-23T01:04:19Z

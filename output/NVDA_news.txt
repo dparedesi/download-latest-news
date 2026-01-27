@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq rise to kick off big week of Big Tech earnings, Fed meeting
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-to-kick-off-big-week-of-big-tech-earnings-fed-meeting-110341652.html
+Time Published: 2026-01-26T11:03:41Z
+Description: Markets are treading carefully ahead of a Fed rate decision and a big week of earnings from the likes of Apple and Meta.
+--------------------------------------------------
+
+Title: NVIDIA (NVDA)’s Stock “Can’t Get Out of its Way,” Says Jim Cramer
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0513817a-bb94-417c-81d7-8179679436ee
+Time Published: 2026-01-26T10:33:51Z
+Description: None
+--------------------------------------------------
+
 Title: entityspine added to PyPI
 URL: https://pypi.org/project/entityspine/
 Time Published: 2026-01-26T06:03:57Z
