@@ -17,21 +17,3 @@ URL: https://www.barchart.com/story/news/37179833/three-hot-options-plays-each-w
 Time Published: 2026-01-22T18:30:02Z
 Description: There were 1,425 unusually active options on Wednesday, a day that included several ups and downs resulting from Davos. Ultimately, the S&P 500 closed up...
 --------------------------------------------------
-
-Title: Stocks Settle Sharply Higher as President Trump Claims Deal on Greenland
-URL: https://www.barchart.com/story/news/37160789/stocks-settle-sharply-higher-as-president-trump-claims-deal-on-greenland
-Time Published: 2026-01-21T21:46:04Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +1.16%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +1.21%, and the Nasdaq 100 Index ($...
---------------------------------------------------
-
-Title: Stock market today: Dow surges 550 points, S&P 500, Nasdaq jump as Trump backs off Greenland tariff threats
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-surges-550-points-sp-500-nasdaq-jump-as-trump-backs-off-greenland-tariff-threats-210059834.html
-Time Published: 2026-01-21T21:00:59Z
-Description: Stocks open higher as Trump speaks in Davos, where he plans meetings on the Greenland crisis.
---------------------------------------------------
-
-Title: Netflix Just Upped Its Bid for Warner Bros. to All Cash. What Does That Mean for NFLX Stock?
-URL: https://www.barchart.com/story/news/37154004/netflix-just-upped-its-bid-for-warner-bros-to-all-cash-what-does-that-mean-for-nflx-stock
-Time Published: 2026-01-21T15:55:05Z
-Description: Netflix is now offering an all-cash deal to buy Warner Bros.
---------------------------------------------------

@@ -17,9 +17,3 @@ URL: https://www.barchart.com/story/news/37163143/as-taiwan-semi-hikes-its-divid
 Time Published: 2026-01-22T00:30:02Z
 Description: Taiwan Semiconductor continues to increase its payout. Is the growth sustainable? Here's what to know.
 --------------------------------------------------
-
-Title: Stocks Settle Sharply Higher as President Trump Claims Deal on Greenland
-URL: https://www.barchart.com/story/news/37160789/stocks-settle-sharply-higher-as-president-trump-claims-deal-on-greenland
-Time Published: 2026-01-21T21:46:04Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +1.16%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +1.21%, and the Nasdaq 100 Index ($...
---------------------------------------------------

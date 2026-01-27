@@ -17,9 +17,3 @@ URL: https://www.barchart.com/story/news/37163143/as-taiwan-semi-hikes-its-divid
 Time Published: 2026-01-22T00:30:02Z
 Description: Taiwan Semiconductor continues to increase its payout. Is the growth sustainable? Here's what to know.
 --------------------------------------------------
-
-Title: Veteran analyst revisits key semiconductor stock amid tech earnings season
-URL: https://www.thestreet.com/investing/stocks/veteran-analyst-revisits-key-chip-stock-amid-earnings-season
-Time Published: 2026-01-21T19:03:00Z
-Description: Shares of Taiwan Semiconductor Manufacturing Company (TSM) slid 4.45% on Jan. 20, erasing most of last week’s post-earnings gains amid a broader market slump...
---------------------------------------------------

@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia CEO Jensen Huang gives AI warning Wall Street can’t ignore
+URL: https://www.thestreet.com/economy/nvidia-ceo-jensen-huang-gives-ai-warning-wall-street-cant-ignore
+Time Published: 2026-01-25T19:47:00Z
+Description: Nvidia CEO Jensen Huang didn't deliver the same old "dog and pony show" at Davos. Everyone expected another long talk about chips; instead, he flipped the...
+--------------------------------------------------
+
 Title: Intel’s Nvidia-Like Rally Faces a Reality Check: Should You Buy the Dip In INTC Stock?
 URL: https://www.barchart.com/story/news/37219060/intels-nvidia-like-rally-faces-a-reality-check-should-you-buy-the-dip-in-intc-stock
 Time Published: 2026-01-25T17:00:02Z
@@ -9,8 +15,7 @@ Description: Intel stock is trading sharply lower today after the company gave s
 Title: Goldman Reaffirms Preference for Nvidia (NVDA) in AI Compute Ecosystem
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6f14c7c2-1388-4a9f-a526-ed5f52830d35
 Time Published: 2026-01-25T09:13:53Z
-Full Content:
-Your privacy is important to us Yahoo is part of the Yahoo family of brandsThe sites and apps that we own and operate, including Yahoo and Engadget, and our digital advertising service, Yahoo Advertising.Yahoo family of brands. If you do not want us and our partners to use cookies and personal data for these additional purposes, click 'Reject all'. If you would like to customise your choices, click 'Manage privacy settings'. You can withdraw your consent or change your choices at any time by clicking on the 'Privacy and Cookie settings' or 'Privacy dashboard' links on our sites and apps. Find out more about how we use your personal data in our Privacy Policy and Cookie Policy.
+Description: None
 --------------------------------------------------
 
 Title: Alphabet, IBM and 3 other tech stocks could be big winners this earnings season - MarketWatch
@@ -148,67 +153,4 @@ Title: As Taiwan Semi Hikes Its Dividend 20%, Should You Buy TSM Stock?
 URL: https://www.barchart.com/story/news/37163143/as-taiwan-semi-hikes-its-dividend-20-should-you-buy-tsm-stock
 Time Published: 2026-01-22T00:30:02Z
 Description: Taiwan Semiconductor continues to increase its payout. Is the growth sustainable? Here's what to know.
---------------------------------------------------
-
-Title: Stocks Settle Sharply Higher as President Trump Claims Deal on Greenland
-URL: https://www.barchart.com/story/news/37160789/stocks-settle-sharply-higher-as-president-trump-claims-deal-on-greenland
-Time Published: 2026-01-21T21:46:04Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +1.16%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +1.21%, and the Nasdaq 100 Index ($...
---------------------------------------------------
-
-Title: Stock market today: Dow surges 550 points, S&P 500, Nasdaq jump as Trump backs off Greenland tariff threats
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-surges-550-points-sp-500-nasdaq-jump-as-trump-backs-off-greenland-tariff-threats-210059834.html
-Time Published: 2026-01-21T21:00:59Z
-Description: Stocks open higher as Trump speaks in Davos, where he plans meetings on the Greenland crisis.
---------------------------------------------------
-
-Title: Veteran analyst revisits key semiconductor stock amid tech earnings season
-URL: https://www.thestreet.com/investing/stocks/veteran-analyst-revisits-key-chip-stock-amid-earnings-season
-Time Published: 2026-01-21T19:03:00Z
-Description: Shares of Taiwan Semiconductor Manufacturing Company (TSM) slid 4.45% on Jan. 20, erasing most of last week’s post-earnings gains amid a broader market slump...
---------------------------------------------------
-
-Title: Nvidia Stock (NVDA) Rallies on Reports of Increased GPU Prices - TipRanks
-URL: https://slashdot.org/firehose.pl?op=view&amp;id=180633916
-Time Published: 2026-01-21T18:13:23Z
-Description: Nvidia Stock (NVDA) Rallies on Reports of Increased GPU PricesTipRanks NVIDIA's GPU Memory Bundles Cost Less Than AMD's, Note AIB PartnersTechPowerUp AMD Promises to Try and Keep GPU Prices Low Against the Ravages of the RAM ShortageGizmodo AMD vows to fight …
---------------------------------------------------
-
-Title: H200 Component Production Is Halted. What That Means for Nvidia, and Should You Buy the NVDA Stock Dip Here?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f35f9e1f-a1d7-4164-9234-c6660dd0e925
-Time Published: 2026-01-21T17:03:37Z
-Description: None
---------------------------------------------------
-
-Title: Nvidia Could Launch a New PC This Year. Should You Buy NVDA Stock First?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_15aae3b7-1884-4739-8f88-f889891f519e
-Time Published: 2026-01-21T16:27:04Z
-Description: None
---------------------------------------------------
-
-Title: February 25th Will Be a Make or Break Day for NVDL
-URL: https://247wallst.com/investing/2026/01/21/february-25th-will-be-a-make-or-break-day-for-nvdl/
-Time Published: 2026-01-21T13:18:54Z
-Full Content:
-Investing NVDL has attracted $4.7B in assets by offering 2x daily leverage on Nvidia (NVDA). Daily compounding erodes returns during volatility. Nvidia posted 62.5% year-over-year revenue growth. Growth below 40% quarterly would trigger a repricing lower. Nvidia’s data center sales represent over 80% of total revenue. Next earnings report lands February 25. Sending You to Google News in 3 © Shutterstock / JRdes NVDL offers a straightforward but unforgiving proposition: double Nvidia’s daily return, every day. Since launching in December 2022, it has attracted $4.7 billion in assets by amplifying the defining AI infrastructure stock. Shares sit around $79, down nearly 10% year to date after NVDA slipped 4.5% through mid-January. That divergence matters. NVDL didn’t deliver exactly double NVDA’s decline because daily leverage compounds, a mechanical reality that erodes returns when the underlying stock swings sideways or trends down. For anyone holding or considering NVDL, the most important factor to watch is Nvidia’s ability to sustain revenue growth above 50% annually. That threshold matters because NVDA’s valuation premium, a forward price-to-earnings ratio around 24, depends on maintaining hypergrowth in data center demand. The company posted 62.5% revenue growth year over year in its most recent quarter ending October 2025, reaching $57 billion in sales. That pace is decelerating from the triple-digit growth rates seen throughout fiscal 2025. If quarterly revenue growth drops below 40%, expect the stock to reprice lower, and NVDL to magnify that move violently. Track Nvidia’s quarterly earnings releases, which occur roughly every three months. The next report lands February 25, 2026, after market close. Pay attention to three figures: data center revenue growth, gross margin trajectory, and management’s guidance for the following quarter. Data center sales represent over 80% of total revenue, and any sign of slowing hyperscaler spending from Microsoft, Amazon, or Google will hit the stock hard. Gross margin, currently above 75%, reflects Nvidia’s pricing power. If that figure compresses due to competitive pressure from custom AI chips, it signals eroding dominance. NVDL resets its leverage every day, which means it doesn’t deliver double NVDA’s return over longer periods. In volatile or sideways markets, daily compounding works against you. NVDA’s RSI currently sits at 40.4, down from 51.8 just four days earlier, signaling weakening momentum without reaching oversold territory below 30. If NVDA continues chopping sideways while investors wait for the next earnings catalyst, NVDL will underperform a simple 2x calculation due to volatility decay. This isn’t a flaw, it’s how daily leveraged products work. Direxion’s SOXL offers 3x daily leverage on the broader semiconductor sector through the ICE Semiconductor Index, which includes NVDA but also TSMC, Broadcom, and AMD. While more aggressive, it spreads single-stock risk across the chip industry. If you’re concerned about Nvidia-specific execution risk, like supply constraints or competitive threats from custom silicon, SOXL provides sector exposure without total dependence on one company’s quarterly performance. Watch Nvidia’s data center revenue growth and NVDL’s daily compounding behavior. Those two factors will determine whether this ETF continues amplifying gains or eroding capital through volatility. Our top personal finance-related articles today. Your wallet will thank you later. Leveraged ETFs demand a different monitoring framework than buy-and-hold funds, and SOXL’s 3x daily exposure to semiconductors makes the distinction… NVIDIA (NASDAQ:NVDA) is getting hit on 2 fronts today as the stock drops 5% as of 1:45 p.m. EST, curtailing… 24/7 Wall Street Insights Nvidia is scheduled to enact a 10-for-1 forward stock split on June 7, 2024. Nvidia is… The Defiance Daily Target 2X Short MSTR ETF (NASDAQ:SMST) and GraniteShares 2x Long NVDA Daily ETF (NASDAQ:NVDL) are both down… Direxion Daily AMZN Bull 2X Shares (NYSEARCA:AMZU) offers 200% daily exposure to Amazon (NASDAQ:AMZN), but its mechanics reveal why it’s… A Historic Valuation Milestone In a historic moment yesterday, Nvidia (NASDAQ:NVDA) became the first company ever to surpass a $4… When the world’s most vocal Bitcoin maximalist names a stock alongside BTC as a “best performing asset of the decade,”… The iShares Core S&P Total U.S. Stock Market ETF (NYSE:ITOT) returned 16.4% through mid-December, tracking the broad U.S. equity market’s… When financial stocks rally, a 3x leveraged ETF can deliver outsized gains. When they stumble, losses compound just as fast.…
---------------------------------------------------
-
-Title: Nvidia Vs. Dogecoin: A Historic Ratio Suggests A Possible Rotation, Says Trader
-URL: https://bitcoinist.com/nvidia-vs-dogecoin-historic-ratio-rotation/
-Time Published: 2026-01-21T01:00:31Z
-Full Content:
-Trader Cryptollica (@Cryptollica) is arguing that an old relative-value signal is “back” in crypto markets, pointing to the DOGE/NVIDIA ratio and an unusually depressed Dogecoin RSI reading as evidence that capital could rotate from AI-linked equities into high-beta meme coins. In a post on X, Cryptollica said the DOGE/NVIDIA chart has returned to a long-term support zone that previously preceded outsized Dogecoin outperformance versus Nvidia in prior cycles. “THE SIGNAL IS BACK. IT’S HAPPENING AGAIN (2017… 2021… NOW),” the trader wrote. “The last two times this specific signal flashed on the DOGE/NVIDIA chart, we saw the biggest wealth transfer in history. The crowd is chasing the AI top. The algorithm is loading the Meme bottom. (Altcoin bottom).” The core claim is less about Dogecoin in isolation and more about positioning on a ratio between what Cryptollica framed as two cultural extremes: “You are watching the wrong chart. This is the ratio of ‘The World’s Most Valuable Company’ (AI) vs. ‘The World’s Most Famous Meme’.” From that framing, the trader leans into a cycle-rhymes narrative, asserting that the ratio has repeatedly found channel support before a DOGE-led surge. “Structure is repeating history,” Cryptollica wrote, attaching specific historical comparisons. “2017: Ratio hit channel support – DOGE outperformed NVDA by 100x. 2021: Ratio hit channel support – DOGE outperformed NVDA by 50x. NOW: We are back at the exact same support line.” The posts also attach a broader liquidity-rotation story that has circulated in various forms across risk markets: when one trade stops working, capital seeks the next high-beta outlet: “When the AI Bubble exhales, that liquidity doesn’t vanish. It rotates into High-Beta Speculation,” the trader wrote. “The crowd is buying NVDA at the top. The algorithm is positioning for the DOGE reversal.” In another post, Cryptollica shifted from the ratio to Dogecoin’s weekly momentum indicator, sharing a second chart highlighting RSI levels and labeling prior cycle lows. “Here you are witnessing an opportunity that only comes around once every 12 years,” the trader wrote. “Over the past 12 years (2014–2026), Dogecoin’s RSI has dropped this low only 4 times. Every single one was an epic buying opportunity.” The post describes those four moments as a sequence of cycle bottoms, including an “all-time low” first cycle bottom, a “cycle bottom + COVID crash,” a “last cycle bottom,” and “RIGHT NOW!” Cryptollica concluded with a blunt decision frame: “Math or emotions — which one decides for you?” While neither post includes an explicit price target, the analyst said in early December that he expects Dogecoin to reach $1.30 over the medium term, citing a parallel channel top on the 3-day DOGE/USD chart. At press time, DOGE traded at $0.12581. For updates and exclusive offers enter your email. Jake Simmons has been a Bitcoin enthusiast since 2016. Ever since he heard about Bitcoin, he has been studying the topic every day and trying to share his knowledge with others. His goal is to contribute to Bitcoin's financial revolution, which will replace the fiat money system. Besides BTC and crypto, Jake studied Business Informatics at a university. After graduation in 2017, he has been working in the blockchain and crypto sector. You can follow Jake on Twitter at @realJakeSimmons. Bitcoin news portal providing breaking news, guides, price analysis about decentralized digital money & blockchain technology. © 2025 Bitcoinist. All Rights Reserved.
---------------------------------------------------
-
-Title: Purpose Investments Inc. Announces January 2026 Distributions
-URL: https://financialpost.com/globe-newswire/purpose-investments-inc-announces-january-2026-distributions
-Time Published: 2026-01-21T00:33:06Z
-Description: TORONTO, Jan. 20, 2026 (GLOBE NEWSWIRE) — Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of January 2026 for its open-end exchange-traded funds and closed-end funds (“the Funds”). The ex-distribution date for all Open-…
---------------------------------------------------
-
-Title: Purpose Investments Inc. Announces January 2026 Distributions
-URL: https://www.globenewswire.com/news-release/2026/01/21/3222365/0/en/Purpose-Investments-Inc-Announces-January-2026-Distributions.html
-Time Published: 2026-01-21T00:30:00Z
-Full Content:
-January 20, 2026 19:30 ET | Source: Purpose Investments Inc. Purpose Investments Inc. TORONTO, Jan. 20, 2026 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of January 2026 for its open-end exchange-traded funds and closed-end funds (“the Funds”). The ex-distribution date for all Open-End Funds is January 28, 2026. The ex-distribution date for all closed-end funds is January 30, 2026. Estimated January 2026 Distributions for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund The January 2026 distribution rates for the Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund are estimated to be as follows: Purpose expects to issue a press release on or about January 27, 2026, which will provide the final distribution rate for Purpose USD Cash Management Fund, Purpose Cash Management Fund, Purpose High Interest Savings Fund, and Purpose US Cash Fund. The ex-distribution date will be January 28, 2026. About Purpose Investments Inc. Purpose Investments is an asset management company with more than $31 billion in assets under management. Purpose Investments has an unrelenting focus on client-centric innovation and offers a range of managed and quantitative investment products. Purpose Investments is led by well-known entrepreneur Som Seif and is a division of Purpose Unlimited, an independent technology-driven financial services company. For further information, please contact:Keera HartKeera.Hart@kaiserpartners.com905-580-1257 Commissions, trailing commissions, management fees and expenses all may be associated with investment fund investments. Please read the prospectus and other disclosure documents before investing. Investment funds are not covered by the Canada Deposit Insurance Corporation or any other government deposit insurer. There can be no assurance that the full amount of your investment in a fund will be returned to you. If the securities are purchased or sold on a stock exchange, you may pay more or receive less than the current net asset value. Investment funds are not guaranteed, their values change frequently and past performance may not be repeated. TORONTO, Dec. 30, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) today announced the final annual capital gain and income distributions for its open-end exchange-traded funds... TORONTO, Dec. 30, 2025 (GLOBE NEWSWIRE) -- Purpose Investments Inc. announced today the final December 2025 distribution rates for Purpose High Interest Savings Fund, Purpose US Cash Fund, Purpose...
 --------------------------------------------------
