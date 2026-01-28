@@ -5,15 +5,3 @@ URL: https://www.barchart.com/story/news/37192672/nasdaq-futures-fall-as-intel-s
 Time Published: 2026-01-23T11:23:34Z
 Description: March Nasdaq 100 E-Mini futures (NQH26) are trending down -0.20% this morning as a lackluster forecast from semiconductor giant Intel weighed on sentiment.
 --------------------------------------------------
-
-Title: AMD Stock Outperformed Nvidia. Is It Still a Buy?
-URL: https://www.barchart.com/story/news/37177519/amd-stock-outperformed-nvidia-is-it-still-a-buy
-Time Published: 2026-01-22T16:19:35Z
-Description: The recent rally in AMD stock has driven its valuation higher. Even so, the shares look attractive.
---------------------------------------------------
-
-Title: As Taiwan Semi Hikes Its Dividend 20%, Should You Buy TSM Stock?
-URL: https://www.barchart.com/story/news/37163143/as-taiwan-semi-hikes-its-dividend-20-should-you-buy-tsm-stock
-Time Published: 2026-01-22T00:30:02Z
-Description: Taiwan Semiconductor continues to increase its payout. Is the growth sustainable? Here's what to know.
---------------------------------------------------

@@ -1,10 +1,29 @@
 List of news related to NVIDIA NVDA:
 
+Title: Where to invest $10,000 in ASX ETFs
+URL: https://www.fool.com.au/2026/01/27/where-to-invest-10000-in-asx-etfs/
+Time Published: 2026-01-26T20:44:45Z
+Description: Let's see why these funds could be great options for investors looking to invest in the best stocks in the world.
+The post Where to invest $10,000 in ASX ETFs appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: Wall Street Sours on Intel After Q4 Earnings. Should You Buy the Dip or Stay Far, Far Away?
+URL: https://www.barchart.com/story/news/37230786/wall-street-sours-on-intel-after-q4-earnings-should-you-buy-the-dip-or-stay-far-far-away
+Time Published: 2026-01-26T15:46:03Z
+Description: Intel stock fell 17% on Friday after the chipmaker provided less-than-impressive guidance for Q1 of 2026.
+--------------------------------------------------
+
+Title: Nvidia Just Got a Green Light in China. Is It Ready to Roar?
+URL: https://www.barchart.com/story/news/37229550/nvidia-just-got-a-green-light-in-china-is-it-ready-to-roar
+Time Published: 2026-01-26T14:45:01Z
+Description: Nvidia's resurgence in China could propel NVDA stock higher in 2026, with renewed AI chip sales potentially driving revenue growth amid fair valuations and...
+--------------------------------------------------
+
 Title: Coreweave stock gains 9% on fresh $2 billion Nvidia investment
 URL: https://www.coindesk.com/markets/2026/01/26/coreweave-shares-rise-9-on-fresh-usd2-billion-nvidia-investment
 Time Published: 2026-01-26T13:53:19Z
 Full Content:
-Shares of Coreweave (CRWV) rose 9% during pre-market trading on Monday after AI powerhouse Nvidia (NVDA) invested another $2 billion in an effort to accelerate the company's buildout of next-generation data centers built specifically for AI workloads. The funding, which came through the purchase of CoreWeave’s Class A stock at $87.20 per share, will help the company scale up to more than 5 gigawatts of AI-dedicated data centers, or “AI factories,” by the end of the decade. CRWV closed at $92.98 on Friday. With the early gain, the stock is trading just above $101. NVDA shares are lower by 0.5% pre-market. Nvidia's backing provides more than capital. The deal also extends a years-long collaboration that aligns both firms on hardware, software and data center strategy. The companies will also test CoreWeave’s software stack, including its resource scheduling platform Mission Control, with an eye toward integrating it into Nvidia's broader ecosystem. “CoreWeave’s deep AI factory expertise, platform software, and unmatched execution velocity are recognized across the industry," Jensen Huang, founder and CEO of Nvidia said in a statement. Nvidia last September entered into a $6.3 billion agreement with CoreWeave to purchase unsold computing capacity through 2032. CoreWeave started as a bitcoin mining company in 2017 under the name Atlantic Crypto, but quickly pivoted to cloud computing and AI after the crypto crash in 2018. More For You Pudgy Penguins: A New Blueprint for Tokenized Culture Pudgy Penguins is building a multi-vertical consumer IP platform — combining phygital products, games, NFTs and PENGU to monetize culture at scale. What to know: Pudgy Penguins is emerging as one of the strongest NFT-native brands of this cycle, shifting from speculative “digital luxury goods” into a multi-vertical consumer IP platform. Its strategy is to acquire users through mainstream channels first; toys, retail partnerships and viral media, then onboard them into Web3 through games, NFTs and the PENGU token. The ecosystem now spans phygital products (> $13M retail sales and >1M units sold), games and experiences (Pudgy Party surpassed 500k downloads in two weeks), and a widely distributed token (airdropped to 6M+ wallets). While the market is currently pricing Pudgy at a premium relative to traditional IP peers, sustained success depends on execution across retail expansion, gaming adoption and deeper token utility. More For You BNB rises 2.5%, nears $900 mark as prediction market growth signals utility expansion A new physically backed BNB exchange-traded product launched on Nasdaq Stockholm, adding to existing investment options. What to know:
+Shares of Coreweave (CRWV) rose 9% during pre-market trading on Monday after AI powerhouse Nvidia (NVDA) invested another $2 billion in an effort to accelerate the company's buildout of next-generation data centers built specifically for AI workloads. The funding, which came through the purchase of CoreWeave’s Class A stock at $87.20 per share, will help the company scale up to more than 5 gigawatts of AI-dedicated data centers, or “AI factories,” by the end of the decade. CRWV closed at $92.98 on Friday. With the early gain, the stock is trading just above $101. NVDA shares are lower by 0.5% pre-market. Nvidia's backing provides more than capital. The deal also extends a years-long collaboration that aligns both firms on hardware, software and data center strategy. The companies will also test CoreWeave’s software stack, including its resource scheduling platform Mission Control, with an eye toward integrating it into Nvidia's broader ecosystem. “CoreWeave’s deep AI factory expertise, platform software, and unmatched execution velocity are recognized across the industry," Jensen Huang, founder and CEO of Nvidia said in a statement. Nvidia last September entered into a $6.3 billion agreement with CoreWeave to purchase unsold computing capacity through 2032. CoreWeave started as a bitcoin mining company in 2017 under the name Atlantic Crypto, but quickly pivoted to cloud computing and AI after the crypto crash in 2018. More For You Pudgy Penguins: A New Blueprint for Tokenized Culture Pudgy Penguins is building a multi-vertical consumer IP platform — combining phygital products, games, NFTs and PENGU to monetize culture at scale. What to know: Pudgy Penguins is emerging as one of the strongest NFT-native brands of this cycle, shifting from speculative “digital luxury goods” into a multi-vertical consumer IP platform. Its strategy is to acquire users through mainstream channels first; toys, retail partnerships and viral media, then onboard them into Web3 through games, NFTs and the PENGU token. The ecosystem now spans phygital products (> $13M retail sales and >1M units sold), games and experiences (Pudgy Party surpassed 500k downloads in two weeks), and a widely distributed token (airdropped to 6M+ wallets). While the market is currently pricing Pudgy at a premium relative to traditional IP peers, sustained success depends on execution across retail expansion, gaming adoption and deeper token utility. More For You Bitcoin climbs above $89,000 as U.S. dollar tumbles on President Trump's remarks The president said he isn't concerned about the dollar's recent declines, sending the greenback plunging even lower. What to know:
 --------------------------------------------------
 
 Title: Lenovo Legion gaming laptop with AMD Strix Halo shows up alongside NVIDIA N1X update - VideoCardz.com
@@ -123,66 +142,4 @@ Title: Nasdaq Futures Fall as Intel Sinks on Disappointing Outlook, U.S. PMI Dat
 URL: https://www.barchart.com/story/news/37192672/nasdaq-futures-fall-as-intel-sinks-on-disappointing-outlook-u-s-pmi-data-in-focus
 Time Published: 2026-01-23T11:23:34Z
 Description: March Nasdaq 100 E-Mini futures (NQH26) are trending down -0.20% this morning as a lackluster forecast from semiconductor giant Intel weighed on sentiment.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures stall after volatile week as Intel earnings fall short
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-stall-after-volatile-week-as-intel-earnings-fall-short-234147705.html
-Time Published: 2026-01-22T23:41:47Z
-Description: Wall Street is regrouping after a rollercoaster week defined by Trump's on-and-off messages regarding Greenland.
---------------------------------------------------
-
-Title: Jim Cramer says he's not abandoning the Mag 7 stocks despite recent struggles. Here's why
-URL: https://www.cnbc.com/2026/01/22/jim-cramer-says-hes-not-bailing-on-the-mag-7-amid-storage-stock-rally.html
-Time Published: 2026-01-22T23:23:35Z
-Description: "I think that the money will ultimately flow back to most" of the Magnificent Seven stocks, CNBC's Jim Cramer said.
---------------------------------------------------
-
-Title: Why Taiwan Semiconductor and Meta Could Be the Hidden Bull Case for Broadcom
-URL: https://www.marketbeat.com/originals/why-taiwan-semiconductor-and-meta-could-be-the-hidden-bull-case-for-broadcom/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2026-01-22T16:27:00Z
-Description: While investors continue to sell Broadcom shares in 2026, news from TSMC and Meta Platforms lends support to a bullish outlook on the stock.
---------------------------------------------------
-
-Title: AMD Stock Outperformed Nvidia. Is It Still a Buy?
-URL: https://www.barchart.com/story/news/37177519/amd-stock-outperformed-nvidia-is-it-still-a-buy
-Time Published: 2026-01-22T16:19:35Z
-Description: The recent rally in AMD stock has driven its valuation higher. Even so, the shares look attractive.
---------------------------------------------------
-
-Title: US stock market rallied for a second straight day: Why the Dow, S&P 500, and Nasdaq are climbing toward record highs as Greenland tensions ease and key inflation data looms
-URL: https://economictimes.indiatimes.com/news/international/us/us-stock-market-rallied-for-a-second-straight-day-why-the-dow-sp-500-and-nasdaq-are-climbing-toward-record-highs-as-greenland-tensions-ease-and-key-inflation-data-looms/articleshow/127166974.cms
-Time Published: 2026-01-22T15:11:06Z
-Full Content:
-US stock market rallied for a second straight day as investor confidence improved. The Dow Jones rose 245 points, while the S&P 500 and Nasdaq neared record highs. Investors cheered the withdrawal of threatened 10% tariffs on European allies. Markets now pivot to the crucial PCE inflation index release. This data remains the Federal Reserve’s favorite gauge for determining future interest rate cuts. Listen to this article in summarized format Unlock AI Briefing and Premium Content (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Health Canada sounds alarm on counterfeit Ozempic and Mounjaro as fake drugs surge across Canada, posing serious health risks Quote of the day by Mother Teresa: ‘If you are humble, nothing will touch you, neither praise nor disgrace, because…’ Canada braces for intensifying heat as 2026 forecast to rank among the hottest years ever recorded Quote of the day by Vladimir Lenin: ‘There are decades where nothing happens, and there are…’ Only 17 per cent of Americans back annexing Canada, survey finds, as majority reject Trump’s expansionist agenda Canadian teenager identified as Piper James found dead surrounded by dingoes on world’s largest sand island in Australia ‘Workforce adjustment notices’ reach Health Canada as thousands of federal workers’ jobs are at risk Canada Weather: Snow advisories issued in Central Ontario as region braces for snow squalls, multiple alerts in place, travellers warned; here’s what you need to know Quote of the day by Guru Nanak: ‘Burn worldly love, rub the ashes and make ink of it, make the heart the pen…’ Quote of the day by NBA ‘MVP’ Steve Nash: ‘You have to rely on your preparation and really be…' Quote of the Day: ‘Most people do not really want freedom, because…’ Father of psychoanalysis Sigmund Freud’s take on price of freedom Quote of the day by Queen Elizabeth II: ‘It’s worth remembering that it is often the small steps, not the giant leaps, that…’ Shell and Mitsubishi explore exit options from LNG Canada amid expansion talks and market uncertainty ‘Board Of Peace’ takes off, Pak in, India absent from stage India, Namibia sign electoral MoU as 70 nations join IICDEM 2026 ‘Remove him from Dy CM post’: Goyal attacks Udhayanidhi ‘K'taka Governor’s office has become BJP office?’: Kharge Top five ‘Trump moments’ at WEF Davos you can’t miss Trump lifts Europe tariffs after NATO talks Trump reveals his plan to acquire Greenland ‘Losers...': Trump tears into Europe at Davos 'Venezuela is going to do fantastically well…' Trump issues global economy warning at DAVOS ‘Board Of Peace’ takes off, Pak in, India absent from stage India, Namibia sign electoral MoU as 70 nations join IICDEM 2026 ‘Remove him from Dy CM post’: Goyal attacks Udhayanidhi ‘K'taka Governor’s office has become BJP office?’: Kharge Top five ‘Trump moments’ at WEF Davos you can’t miss Trump lifts Europe tariffs after NATO talks Trump reveals his plan to acquire Greenland ‘Losers...': Trump tears into Europe at Davos 'Venezuela is going to do fantastically well…' Trump issues global economy warning at DAVOS Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Slideshow Top Prime Articles Top Commodities Most Searched IFSC Codes Top Definitions Private Companies Top Story Listing Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
---------------------------------------------------
-
-Title: Intel earnings set to test stock rally as Wall Street grows bullish on chipmaker’s AI position
-URL: https://finance.yahoo.com/news/intel-earnings-set-to-test-stock-rally-as-wall-street-grows-bullish-on-chipmakers-ai-position-143443999.html
-Time Published: 2026-01-22T14:34:43Z
-Description: Intel is set to report fourth quarter earnings results after the bell.
---------------------------------------------------
-
-Title: People Should Have Listened to NVIDIA (NVDA)’s CEO, Says Jim Cramer
-URL: https://finance.yahoo.com/news/people-listened-nvidia-nvda-ceo-114644985.html
-Time Published: 2026-01-22T11:46:44Z
-Description: We recently published 15 Stocks on Jim Cramer’s Radar. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks on Jim Cramer’s radar. NVIDIA Corporation...
---------------------------------------------------
-
-Title: AI power and infrastructure needs boomed in 2025. At Davos, the AI story for 2026 remains the same.
-URL: https://finance.yahoo.com/news/ai-power-and-infrastructure-needs-boomed-in-2025-at-davos-the-ai-story-for-2026-remains-the-same-100005093.html
-Time Published: 2026-01-22T10:00:05Z
-Description: The AI industry's greatest bottleneck, power, drove a boom in infrastructure throughout 2025. At Davos, leaders signal that 2026 is likely to see more of the...
---------------------------------------------------
-
-Title: Intelligent Machines 854: Welcome to the Pitt
-URL: https://twit.tv/shows/intelligent-machines/episodes/854
-Time Published: 2026-01-22T02:51:57Z
-Full Content:
-Jan 21st 2026 AI: A Brand or a Breakthrough? Think you know the story of AI's rise and fall? This episode upends conventional wisdom with guest historian Thomas Haigh, who reveals why the infamous "AI winter" might just be a myth and why the field’s biggest failures fueled today's breakthroughs. Download or subscribe to Intelligent Machines at https://twit.tv/shows/intelligent-machines. Join Club TWiT for Ad-Free Podcasts!Support what you love and get ad-free audio and video feeds, a members-only Discord, and exclusive content. Join today: https://twit.tv/clubtwit Join Club TWiT for Ad-Free Podcasts!Support what you love and get ad-free audio and video feeds, a members-only Discord, and exclusive content. Join Club TWiT today! Download Options HD Video Audio YouTube (Right-click and Save As... to download)
---------------------------------------------------
-
-Title: As Taiwan Semi Hikes Its Dividend 20%, Should You Buy TSM Stock?
-URL: https://www.barchart.com/story/news/37163143/as-taiwan-semi-hikes-its-dividend-20-should-you-buy-tsm-stock
-Time Published: 2026-01-22T00:30:02Z
-Description: Taiwan Semiconductor continues to increase its payout. Is the growth sustainable? Here's what to know.
 --------------------------------------------------
