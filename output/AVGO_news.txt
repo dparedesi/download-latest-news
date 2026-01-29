@@ -1,7 +1,7 @@
 List of news related to Broadcom AVGO:
 
-Title: Cathie Wood buys $10.7 million of sinking AI stock
-URL: https://www.thestreet.com/investing/cathie-wood-buys-10-7-million-of-sinking-ai-stock
-Time Published: 2026-01-23T19:17:00Z
-Description: Cathie Wood, head of Ark Investment Management, targets "disruptive" tech companies and actively manages her positions. She often adds shares when prices...
+Title: Broader Market Rallies on Tech Strength and Solid Earnings
+URL: https://www.barchart.com/story/news/37253050/broader-market-rallies-on-tech-strength-and-solid-earnings
+Time Published: 2026-01-27T16:15:20Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.47%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.84%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
 --------------------------------------------------
