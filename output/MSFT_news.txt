@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Microsoft's Free Cash Flow Crashes Due to High Capex - But Is MSFT Stock's Dip Overdone?
+URL: https://www.barchart.com/story/news/37327171/microsoft-s-free-cash-flow-crashes-due-to-high-capex-but-is-msft-stock-s-dip-overdone
+Time Published: 2026-01-30T18:54:11Z
+Description: Microsoft reported strong operating cash flow, but much lower free cash flow due to a massive increase in AI-related capex spending. But management said this...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq slide after Trump picks Warsh for Fed; gold, silver plunge
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-after-trump-picks-warsh-for-fed-gold-silver-plunge-181435040.html
 Time Published: 2026-01-30T18:14:35Z
@@ -82,16 +88,4 @@ Title: Is Wall Street Bullish or Bearish on Microsoft Stock?
 URL: https://www.barchart.com/story/news/37242661/is-wall-street-bullish-or-bearish-on-microsoft-stock
 Time Published: 2026-01-27T09:18:08Z
 Description: Though Microsoft has lagged behind the broader market over the past year, Wall Street analysts maintain a bullish outlook on the stock’s prospects.
---------------------------------------------------
-
-Title: Netflix, Meta upgraded: Wall Street's top analyst calls
-URL: https://finance.yahoo.com/news/netflix-meta-upgraded-wall-streets-145018319.html
-Time Published: 2026-01-26T14:50:18Z
-Description: Netflix, Meta upgraded: Wall Street's top analyst calls
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq rise to kick off big week of Big Tech earnings, Fed meeting
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-to-kick-off-big-week-of-big-tech-earnings-fed-meeting-110341652.html
-Time Published: 2026-01-26T11:03:41Z
-Description: Markets are treading carefully ahead of a Fed rate decision and a big week of earnings from the likes of Apple and Meta.
 --------------------------------------------------
