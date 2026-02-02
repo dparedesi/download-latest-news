@@ -77,15 +77,3 @@ URL: https://www.barchart.com/story/news/37277134/get-ready-for-asic-shipments-t
 Time Published: 2026-01-28T16:30:41Z
 Description: Broadcom is an AI stock with significant upside potential for shareholders, thanks to its leadership in the ASIC design segment.
 --------------------------------------------------
-
-Title: Dear Amazon Stock Fans, More Layoffs Are Coming This Week
-URL: https://www.barchart.com/story/news/37254765/dear-amazon-stock-fans-more-layoffs-are-coming-this-week
-Time Published: 2026-01-27T17:25:24Z
-Description: Amazon faces another round of layoffs as it reins in costs, even while pouring billions into AI and cloud infrastructure ahead of earnings.
---------------------------------------------------
-
-Title: Is Wall Street Bullish or Bearish on Microsoft Stock?
-URL: https://www.barchart.com/story/news/37242661/is-wall-street-bullish-or-bearish-on-microsoft-stock
-Time Published: 2026-01-27T09:18:08Z
-Description: Though Microsoft has lagged behind the broader market over the past year, Wall Street analysts maintain a bullish outlook on the stock’s prospects.
---------------------------------------------------

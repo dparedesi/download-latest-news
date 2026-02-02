@@ -35,9 +35,3 @@ URL: https://www.barchart.com/story/news/37277134/get-ready-for-asic-shipments-t
 Time Published: 2026-01-28T16:30:41Z
 Description: Broadcom is an AI stock with significant upside potential for shareholders, thanks to its leadership in the ASIC design segment.
 --------------------------------------------------
-
-Title: Broader Market Rallies on Tech Strength and Solid Earnings
-URL: https://www.barchart.com/story/news/37253050/broader-market-rallies-on-tech-strength-and-solid-earnings
-Time Published: 2026-01-27T16:15:20Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.47%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.84%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
