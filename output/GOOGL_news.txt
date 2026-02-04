@@ -1,5 +1,14 @@
 List of news related to Alphabet Inc Class A stock price GOOGL:
 
+Title: Europe just started building a 'kill switch' for U.S. tech
+URL: https://www.morningstar.com/news/marketwatch/2026020252/europe-just-started-building-a-kill-switch-for-us-tech-and-the-market-isnt-priced-for-it-says-this-strategist
+Time Published: 2026-02-02T20:40:06Z
+Description: Article URL: https://www.morningstar.com/news/marketwatch/2026020252/europe-just-started-building-a-kill-switch-for-us-tech-and-the-market-isnt-priced-for-it-says-this-strategist
+Comments URL: https://news.ycombinator.com/item?id=46861191
+Points: 14
+# Comment…
+--------------------------------------------------
+
 Title: Google to Pay $135 Million to Resolve the Android Data Transfer Lawsuit
 URL: https://finance.yahoo.com/news/google-pay-135-million-resolve-140616678.html
 Time Published: 2026-02-02T14:06:16Z

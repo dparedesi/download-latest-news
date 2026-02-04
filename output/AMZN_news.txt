@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Groundhog Day Gloom? Why the Nasdaq Is Shaking Off Phil's Shadow and Facing Reality
+URL: https://www.barchart.com/story/news/37360974/groundhog-day-gloom-why-the-nasdaq-is-shaking-off-phil-s-shadow-and-facing-reality
+Time Published: 2026-02-02T15:44:57Z
+Description: Punxsutawney Phil says six more weeks of winter. Traders say, "That explains the mood." Jokes aside, a key seasonal pattern is lining up for the Nasdaq—and...
+--------------------------------------------------
+
 Title: Before Amazon Invests $50 Billion in OpenAI, How Should You Play AMZN Stock?
 URL: https://www.barchart.com/story/news/37347028/before-amazon-invests-50-billion-in-openai-how-should-you-play-amzn-stock
 Time Published: 2026-02-01T14:00:02Z
@@ -16,10 +22,4 @@ Title: This AI Chip Stock Could Power the Next Decade. Is It a Buy Ahead of Its 
 URL: https://www.barchart.com/story/news/37326449/this-ai-chip-stock-could-power-the-next-decade-is-it-a-buy-ahead-of-its-next-earnings-report
 Time Published: 2026-01-30T17:46:19Z
 Description: The world’s biggest tech firms are building their AI future with the help of Arm Holdings. Here's what to expect when ARM reports Q3 results on Feb. 4.
---------------------------------------------------
-
-Title: Nvidia Could Use Intel’s Foundry in 2028. Is It Worth Buying INTC Stock Now and Waiting?
-URL: https://www.barchart.com/story/news/37305147/nvidia-could-use-intels-foundry-in-2028-is-it-worth-buying-intc-stock-now-and-waiting
-Time Published: 2026-01-29T19:08:38Z
-Description: Nvidia’s 2028 foundry interest boosts Intel’s long-term case, but near-term execution risks and supply limits still cloud the stock’s path.
 --------------------------------------------------

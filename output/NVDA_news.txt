@@ -1,10 +1,49 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia (NVDA) Stock Sinks As Market Gains: Here's Why
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7427de2a-f229-4be7-b982-95a3e64edd4a
+Time Published: 2026-02-02T22:45:02Z
+Description: None
+--------------------------------------------------
+
+Title: AMD to report Q4 earnings amid AI spending concerns
+URL: https://finance.yahoo.com/news/amd-to-report-q4-earnings-amid-ai-spending-concerns-204747721.html
+Time Published: 2026-02-02T20:47:47Z
+Description: AMD will report its Q4 earnings after the bell on Tuesday.
+--------------------------------------------------
+
+Title: Europe just started building a 'kill switch' for U.S. tech
+URL: https://www.morningstar.com/news/marketwatch/2026020252/europe-just-started-building-a-kill-switch-for-us-tech-and-the-market-isnt-priced-for-it-says-this-strategist
+Time Published: 2026-02-02T20:40:06Z
+Description: Article URL: https://www.morningstar.com/news/marketwatch/2026020252/europe-just-started-building-a-kill-switch-for-us-tech-and-the-market-isnt-priced-for-it-says-this-strategist
+Comments URL: https://news.ycombinator.com/item?id=46861191
+Points: 14
+# Comment…
+--------------------------------------------------
+
 Title: Dow jumps more than 400 points today: Why the Dow Jones is gaining almost 1% after the metals shock - can it last?
 URL: https://economictimes.indiatimes.com/news/international/us/dow-jumps-more-than-400-points-today-why-the-dow-jones-is-gaining-almost-1-after-the-metals-shock-can-it-last/articleshow/127867180.cms
 Time Published: 2026-02-02T16:49:54Z
 Full Content:
 Dow jumps more than 400 points today: The Dow Jones Industrial Average surged 418.37 points on Monday to reach 49,310.84. This 0.86% gain defied a historic $20 billion liquidation in precious metals. A surprise 52.6% ISM Manufacturing reading fueled the rally. This data proved the US economy is expanding. Investors cheered Kevin Warsh’s Fed nomination. Markets now bet on a stable dollar. This "flight to quality" pushed stocks higher. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. (Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.) Download The Economic Times News App to get Daily International News Updates. Explore More Stories Transport Canada recalls nearly 20,000 Toyota vehicles over serious injury risk; Check out the reason behind this decision Quote of the day by ancient Greek philosopher Aristotle: 'Friendship is a single soul dwelling in...' Justin Bieber’s emotional return lights up Grammys 2026 after long hiatus Ashes of Creation future in jeopardy: CEO of Intrepid Studios Steven Sharif steps down, board’s WARN Act sends video game in cold storage; here’s what you need to know Quote of the day on truth and threat by Snoop Dogg: ‘I tell the truth and…’ ‘Canada is not Minnesota’: Canadian Minister makes big claim on immigration, opens up on US immigration raids weeks after Good and Pretti’s killing; here’s what he said Word of the Day: Lectern Extreme winter weather set to grip Canada this weekend, snow, freezing temperatures, and heavy rain across five provinces Three missing Quebec girls rescued in Richmond Hill, Toronto man and teen charged with human trafficking, police warn of potential additional victims Trump escalates US-Canada trade tensions, threatens Bombardier jets and 50 percent tariffs over aircraft certification dispute Quote of the day by Steve Jobs: ‘Innovation distinguishes between a…’ Who are the Alberta separatists, and what are their demands? Quote of the Day by Michael J Fox: 'I think the scariest person in the world is the person with no...' Trump spoke with Modi, says US ambassador Sergio Gor Manipur: BJP initiates process to elect new CM ‘BJP threatened him with Sinchan Scam files': Raut ‘Political manipulation’: China slams Grammy win for Dalai Lama Amit Shah: ‘No attack on Opposition’s nationalism’ Chidambaram slams FM: ‘Why no mention of tariff in budget?’ India, China surge in IMF GDP outlook, Musk calls it wake-up call for US FM Sitharaman highlights India’s 17% global GDP contribution T-20 WC: ICC warns of ‘serious fallout’ after Pak boycotts India match New Texas Democratic rep Menefee vows to dismantle ICE Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Prime Articles Top Definitions Top Slideshow Top Commodities Top Story Listing Private Companies Top Market Pages Latest News Follow us on: Find this comment offensive? Choose your reason below and click on the Report button. This will alert our moderators to take action Reason for reporting: Your Reason has been Reported to the admin. Log In/Connect with: Will be displayed Will not be displayed Will be displayed Stories you might be interested in
+--------------------------------------------------
+
+Title: Could Meta Platforms Stock Hit $1,000 in 2026?
+URL: https://www.barchart.com/story/news/37361442/could-meta-platforms-stock-hit-1-000-in-2026
+Time Published: 2026-02-02T16:17:05Z
+Description: META stock rose above $700 after the company released its Q4 2025 earnings. Are shares headed to $1,000 next?
+--------------------------------------------------
+
+Title: Groundhog Day Gloom? Why the Nasdaq Is Shaking Off Phil's Shadow and Facing Reality
+URL: https://www.barchart.com/story/news/37360974/groundhog-day-gloom-why-the-nasdaq-is-shaking-off-phil-s-shadow-and-facing-reality
+Time Published: 2026-02-02T15:44:57Z
+Description: Punxsutawney Phil says six more weeks of winter. Traders say, "That explains the mood." Jokes aside, a key seasonal pattern is lining up for the Nasdaq—and...
+--------------------------------------------------
+
+Title: The First Batch of H200 Shipments Could Soon Be Heading to China. What Does That Mean for Nvidia Stock.
+URL: https://www.barchart.com/story/news/37360384/the-first-batch-of-h200-shipments-could-soon-be-heading-to-china-what-does-that-mean-for-nvidia-stock
+Time Published: 2026-02-02T15:11:00Z
+Description: China has apparently approved the first orders of H200 chips from companies like Alibaba and ByteDance.
 --------------------------------------------------
 
 Title: US stock market on the move today: Dow and S&P 500 surge, but why is Nasdaq down - Gold, silver and bitcoin rebound from historic crash
@@ -111,41 +150,4 @@ Title: Stock Index Futures Slip as Trump Picks Warsh for Fed Chair
 URL: https://www.barchart.com/story/news/37318088/stock-index-futures-slip-as-next-fed-chair-nomination-looms
 Time Published: 2026-01-30T11:30:12Z
 Description: March S&P 500 E-Mini futures (ESH26) are down -0.40%, and March Nasdaq 100 E-Mini futures (NQH26) are down -0.47% this morning after U.S. President Donald...
---------------------------------------------------
-
-Title: Cramer says Microsoft and Meta's earnings offer a clear lesson: Don't give up on the tech giants
-URL: https://www.cnbc.com/2026/01/29/cramer-lesson-investors-microsoft-meta-earnings.html
-Time Published: 2026-01-29T23:48:48Z
-Description: Shares of Microsoft fell almost 10% Thursday while Meta jumped roughly 10% after earnings from both tech giants Wednesday.
---------------------------------------------------
-
-Title: Nvidia Could Use Intel’s Foundry in 2028. Is It Worth Buying INTC Stock Now and Waiting?
-URL: https://www.barchart.com/story/news/37305147/nvidia-could-use-intels-foundry-in-2028-is-it-worth-buying-intc-stock-now-and-waiting
-Time Published: 2026-01-29T19:08:38Z
-Description: Nvidia’s 2028 foundry interest boosts Intel’s long-term case, but near-term execution risks and supply limits still cloud the stock’s path.
---------------------------------------------------
-
-Title: As Nvidia Eyes an OpenAI Investment, Should You Buy, Sell, or Hold NVDA Stock?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f3de0d82-aa4b-4e4e-990c-8f5b6381e40b
-Time Published: 2026-01-29T18:27:48Z
-Description: None
---------------------------------------------------
-
-Title: How do I open a ‘Trump account’? The IRS has one simple solution for you.
-URL: https://www.marketwatch.com/story/how-do-i-open-a-trump-account-the-irs-has-one-simple-solution-for-you-41da00e3
-Time Published: 2026-01-29T14:56:00Z
-Description: People can’t contribute money to the tax-advantaged investment accounts for children until July, but they can start the process of opening one now
---------------------------------------------------
-
-Title: NVIDIA (NVDA) Invests $2B in CoreWeave, Expands AI Data Center Partnership
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_32278349-9e1a-49ba-a45f-34ce6f4ae794
-Time Published: 2026-01-29T07:07:53Z
-Description: None
---------------------------------------------------
-
-Title: ‘Paper’ Bitcoin Isn’t Suppressing Price – Silver Shows Why, Jeff Park Says
-URL: http://www.newsbtc.com/bitcoin-news/paper-bitcoin-suppressing-price-silver-jeff-park/
-Time Published: 2026-01-29T04:00:58Z
-Full Content:
-Strict editorial policy that focuses on accuracy, relevance, and impartiality Morbi pretium leo et nisl aliquam mollis. Quisque arcu lorem, ultricies quis pellentesque nec, ullamcorper eu odio. Bitcoin’s unusually subdued options pricing and weak month-to-date activity are setting up what ProCap CIO and Bitwise adviser Jeff Park calls a dangerous asymmetry: upside momentum is unlikely without volatility, and the longer BTC stays “quiet,” the more violent the eventual move could be. In a post via X on Jan.27, Park described the current tape as “still a trader’s market,” arguing that low implied volatility and thin participation are a poor foundation for a clean grind higher. “It is very unlikely for Bitcoin to find momentum to the upside without experiencing significantly higher volatility,” he wrote. “The fact that we are at ~38 IV combined with horrible volume MTD gives me pause (lower than ANY month of 2025, and especially bad for January in general) when you can see what the metals complex is doing. You literally can’t imagine a worse set up for disappointment.” Park’s reference point is a silver market that has gone from strong to disorderly. Silver prices have surged above $117 per ounce on Monday, with reports pointing to a speculative bid layered on top of tight physical conditions and heavy retail participation via bars, coins, and physically backed ETFs. The move also featured a sharp single-day jump. On Jan. 26, the most-active silver futures contract rose 14%, the largest one-day gain since 1985. That price action coincided with a staggering surge in trading and options activity across silver vehicles. Bloomberg ETF analyst Eric Balchunas highlighted the scale: “WHOA: The volume in the SLV is $32b.. that 15x its avg and by far the most volume of any security on the planet. For context, SPY is $24b, NVDA and TSLA $16b. Can’t remember the last time something so relatively small took over like this. Game Stop maybe.” WHOA: The volume in the $SLV is $32b.. that 15x its avg and by far the most volume of any security on the planet. For context, $SPY is $24b, $NVDA and $TSLA $16b. Can’t remember the last time something so relatively small took over like this. Game Stop maybe. pic.twitter.com/s6lVajUq4J — Eric Balchunas (@EricBalchunas) January 26, 2026 He later added that SLV “ended up trading $40b worth of shares [on Monday],” adding: “To put that into perspective, that’s more than it traded in all of Q1 last year. Jan + Feb +Mar = $35b. Options volume also in stratosphere. It’s already done $1.5b in pre-market, which is 3x more than any other ETF, 5x more than Tesla, Nvidia. Again, reminds me of Game Stop in its how is this even possible-ness.” A common crypto refrain is that “synthetic” or “paper” bitcoin suppresses spot price. Park argued the opposite dynamic is often underappreciated and he used silver to illustrate how leverage and market structure can turn into the catalyst. “People often blame incorrectly that ‘synthetic/paper’ bitcoin is the cause of price suppression,” Park wrote. “I have long argued it is quite the opposite, which you can see how it manifests in silver below- Silver didn’t have a 6-sigma event because the spot market was so vibrant.” In his telling, silver’s melt-up wasn’t driven by orderly spot demand; it was driven by the “shenanigans” inside financialized exposure. “Silver’s record-setting meltup comes from all the shenanigans behind ‘paper silver’ where margin rules, leveraged instruments and vehicles, and liquidity and maturity transformation mismatches create tremendous pressure on breaking points where no physical supply can be introduced fast enough to counter the velocity of paper supply,” he said. “For Park, the takeaway is directional but not calendar-specific. “To root for Bitcoin is to root for its volatility,” he wrote. “Anyone who tells you otherwise does not understand the fundamentals of the commodities market … It may not be today or yet tomorrow, but eventually Bitcoin is going to rip many faces off. Volatility or bust.” At press time, BTC traded at $89,430. Jake Simmons, a dedicated crypto journalist, has been passionate about Bitcoin since 2016 when he first learned about it. Through his extensive work with NewsBTC.com and Bitcoinist.com, Jake has become a trusted voice in the crypto community, guiding newcomers and seasoned enthusiasts alike towards a deeper understanding of this dynamic field. Jake Simmons, a dedicated crypto journalist, has been passionate about Bitcoin since 2016 when he first learned about it. Through his extensive work with NewsBTC.com and Bitcoinist.com, Jake has become a trusted voice in the crypto community, guiding newcomers and seasoned enthusiasts alike towards a deeper understanding of this dynamic field. His mission is simple yet profound: to demystify Bitcoin and cryptocurrencies and make them accessible to everyone. With a professional career in the Bitcoin and crypto scene that began right after graduating with a degree in Information Systems in 2017, Jake has immersed himself in the industry. Jake joined the NewsBTC Group in late 2022. His educational background provides him with the technical prowess and analytical skills necessary to dissect complex topics and present them in an understandable format. Whether you are a casual reader curious about Bitcoin or an investor seeking to navigate the latest market trends, Jake’s insights offer valuable perspectives that bridge the gap between complex technology and everyday usage. Jake is not just a reporter on technological trends; he is a firm believer in the transformative potential of Bitcoin over traditional fiat currencies. To him, the current financial system is on the brink of chaos, propelled by unchecked government actions and flawed Keynesian economic policies. Drawing from the principles of the Austrian school of economics, Jake views Bitcoin not merely as a digital asset but as a crucial step towards rectifying a failing monetary system. His libertarian views reinforce his stance that just as the church was separated from the state, so too should money be freed from governmental control. For Jake, Bitcoin represents more than just an investment; it's a peaceful revolution. He envisions a future where Bitcoin fosters a sustainable and responsible financial framework for generations to come. His advocacy is not about opposition but about evolution, about laying the groundwork for a system that prioritizes transparency and equity over secrecy and inequality. As a journalist, Jake’s articles are crafted with the precision of a scholar and the passion of a true believer. He provides not only news but also thoughtful analysis that connects the dots between daily developments and larger economic theories. His work is a beacon for those lost in the technical jargon often associated with crypto discussions, illuminating the practical implications and benefits of these technologies. In summary, Jake Simmons is not just reporting on a revolution; he wants to be part of it, fully committed to enhancing public understanding and adoption of Bitcoin and cryptocurrencies. His work is more than just a collection of articles; it’s a resource, a guide, and a companion for anyone ready to explore the potential of this digital frontier. Whether you are taking your first steps into crypto or are a veteran looking to stay on top of the latest trends, Jake’s insights provide clarity and foresight in an often unpredictable industry. Join him on this journey to reshape the world of finance, one post at a time. You can engage with his latest takes on Twitter: @realJakeSimmons. Disclaimer: The information found on NewsBTC is for educational purposes only. It does not represent the opinions of NewsBTC on whether to buy, sell or hold any investments and naturally investing carries risks. You are advised to conduct your own research before making any investment decisions. Use information provided on this website entirely at your own risk. The crypto market is entering a phase that seasoned investors recognize immediately. Price action has slowed, volatility has cooled, and... Bitcoin’s (BTC) sharp sell‑off has intensified pressure on Strategy, the company formerly known as MicroStrategy, even as it continues to... Après une fin de semaine tendue, les marchés ont basculé vers un réflexe ressenti comme prioritaire : la liquidité. Le... Strict editorial policy that focuses on accuracy, relevance, and impartiality Morbi pretium leo et nisl aliquam mollis. Quisque arcu lorem, ultricies quis pellentesque nec, ullamcorper eu odio. NewsBTC is a cryptocurrency news service that covers bitcoin news today, technical analysis & forecasts for bitcoin price and other altcoins. Here at NewsBTC, we are dedicated to enlightening everyone about bitcoin and other cryptocurrencies. We cover BTC news related to bitcoin exchanges, bitcoin mining and price forecasts for various cryptocurrencies. © 2025 NewsBTC. All Rights Reserved. © 2025 NewsBTC. All Rights Reserved.
 --------------------------------------------------

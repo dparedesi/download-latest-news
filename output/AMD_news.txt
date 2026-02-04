@@ -1,5 +1,20 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Europe just started building a 'kill switch' for U.S. tech
+URL: https://www.morningstar.com/news/marketwatch/2026020252/europe-just-started-building-a-kill-switch-for-us-tech-and-the-market-isnt-priced-for-it-says-this-strategist
+Time Published: 2026-02-02T20:40:06Z
+Description: Article URL: https://www.morningstar.com/news/marketwatch/2026020252/europe-just-started-building-a-kill-switch-for-us-tech-and-the-market-isnt-priced-for-it-says-this-strategist
+Comments URL: https://news.ycombinator.com/item?id=46861191
+Points: 14
+# Comment…
+--------------------------------------------------
+
+Title: Stock Indexes Climb as Chip Makers and AI Infrastructure Stocks Rebound
+URL: https://www.barchart.com/story/news/37360436/stock-indexes-climb-as-chip-makers-and-ai-infrastructure-stocks-rebound
+Time Published: 2026-02-02T15:14:15Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.25%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.57%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: Microsoft investors fret as capital spending and Azure growth decouple
 URL: https://siliconangle.com/2026/02/01/microsoft-investors-fret-capital-spending-azure-growth-decouple/
 Time Published: 2026-02-01T16:11:05Z

@@ -1,5 +1,14 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Europe just started building a 'kill switch' for U.S. tech
+URL: https://www.morningstar.com/news/marketwatch/2026020252/europe-just-started-building-a-kill-switch-for-us-tech-and-the-market-isnt-priced-for-it-says-this-strategist
+Time Published: 2026-02-02T20:40:06Z
+Description: Article URL: https://www.morningstar.com/news/marketwatch/2026020252/europe-just-started-building-a-kill-switch-for-us-tech-and-the-market-isnt-priced-for-it-says-this-strategist
+Comments URL: https://news.ycombinator.com/item?id=46861191
+Points: 14
+# Comment…
+--------------------------------------------------
+
 Title: Here Is Why TSMC Could Be Investing More In the US?
 URL: https://finance.yahoo.com/news/why-tsmc-could-investing-more-145158668.html
 Time Published: 2026-02-02T14:51:58Z
@@ -34,10 +43,4 @@ Title: Taiwan Semiconductor Manufacturing (TSM) Plans to Invest $165 Billion in 
 URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-tsm-plans-210515307.html
 Time Published: 2026-01-30T21:05:15Z
 Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the High-Flying Stocks to Buy Right Now. On January 23, Reuters reported that Taiwan ...
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing Company Limited (TSM) Widens Its Lead as AI Fuels Margin Expansion
-URL: https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-limited-070756782.html
-Time Published: 2026-01-29T07:07:56Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM), or TSMC, is among Goldman Sachs’ top semiconductor stock picks. On January 16, Morgan Stanley ...
 --------------------------------------------------
