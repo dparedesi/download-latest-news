@@ -20,6 +20,12 @@ Time Published: 2026-02-03T23:45:46Z
 Description: Wall Street is seeing investors turn away from AI darlings toward safer investments after a rout in the sector led to losses across major gauges.
 --------------------------------------------------
 
+Title: Stock market today: Dow, Nasdaq, S&P 500 sink as tech falters amid flood of earnings
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-sink-as-tech-falters-amid-flood-of-earnings-192429486.html
+Time Published: 2026-02-03T19:24:29Z
+Description: Stocks are leaning higher following a strong start to February trade.
+--------------------------------------------------
+
 Title: Novo Nordisk's sales increased by 6% in Danish kroner and by 10% at constant exchange rates to DKK 309.1 billion in 2025
 URL: https://www.globenewswire.com/news-release/2026/02/03/3231383/0/en/Novo-Nordisk-s-sales-increased-by-6-in-Danish-kroner-and-by-10-at-constant-exchange-rates-to-DKK-309-1-billion-in-2025.html
 Time Published: 2026-02-03T16:38:00Z
