@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: GameStop Insider Lawrence Cheng Is Buying GME Stock. Should You?
+URL: https://www.barchart.com/story/news/37385689/gamestop-insider-lawrence-cheng-is-buying-gme-stock-should-you
+Time Published: 2026-02-03T15:45:39Z
+Description: As Ryan Cohen sparks M&A hopes, a GameStop insider is buying shares. Here's what investors should know right now.
+--------------------------------------------------
+
+Title: Nvidia stock gets major reality check on '$100B' number
+URL: https://www.thestreet.com/investing/nvidia-stock-gets-major-reality-check-on-100b-number
+Time Published: 2026-02-03T06:07:00Z
+Description: There's no denying it: Nvidia (NVDA) is priced for perfection. Regardless of your personal opinion, the standard mega-cap argument is no longer valid, with...
+--------------------------------------------------
+
 Title: Here's How Much Alphabet Stock Is Expected to Move After Earnings on Wednesday
 URL: https://www.investopedia.com/here-s-how-much-alphabet-stock-is-expected-to-move-after-earnings-on-wednesday-goog-googl-11895184
 Time Published: 2026-02-02T21:05:08Z
@@ -57,22 +69,4 @@ Title: Citi Maintains a Buy on Microsoft Corporation (MSFT)
 URL: https://finance.yahoo.com/news/citi-maintains-buy-microsoft-corporation-073834923.html
 Time Published: 2026-02-01T07:38:34Z
 Description: ​Microsoft Corporation (NASDAQ:MSFT) is one of the Best Software Stocks to Buy According to Wall Street Analysts. On January 30, Tyler Radke from Citi...
---------------------------------------------------
-
-Title: Microsoft's Free Cash Flow Crashes Due to High Capex - But Is MSFT Stock's Dip Overdone?
-URL: https://www.barchart.com/story/news/37327171/microsoft-s-free-cash-flow-crashes-due-to-high-capex-but-is-msft-stock-s-dip-overdone
-Time Published: 2026-01-30T18:54:11Z
-Description: Microsoft reported strong operating cash flow, but much lower free cash flow due to a massive increase in AI-related capex spending. But management said this...
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq slide after Trump picks Warsh for Fed; gold, silver plunge
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-after-trump-picks-warsh-for-fed-gold-silver-plunge-181435040.html
-Time Published: 2026-01-30T18:14:35Z
-Description: Major gauges are set to end the week higher with earnings and the Fed holding investor attention.
---------------------------------------------------
-
-Title: This AI Chip Stock Could Power the Next Decade. Is It a Buy Ahead of Its Next Earnings Report?
-URL: https://www.barchart.com/story/news/37326449/this-ai-chip-stock-could-power-the-next-decade-is-it-a-buy-ahead-of-its-next-earnings-report
-Time Published: 2026-01-30T17:46:19Z
-Description: The world’s biggest tech firms are building their AI future with the help of Arm Holdings. Here's what to expect when ARM reports Q3 results on Feb. 4.
 --------------------------------------------------

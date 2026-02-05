@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Why This Analyst Thinks Amazon Is a Cheap Stock to Buy Now
+URL: https://www.barchart.com/story/news/37386832/why-this-analyst-thinks-amazon-is-a-cheap-stock-to-buy-now
+Time Published: 2026-02-03T16:39:37Z
+Description: Amazon might be one of the most undervalued tech giants in the market right now, according to a top-rated Wall Street analyst who sees major upside ahead.
+--------------------------------------------------
+
+Title: GameStop Insider Lawrence Cheng Is Buying GME Stock. Should You?
+URL: https://www.barchart.com/story/news/37385689/gamestop-insider-lawrence-cheng-is-buying-gme-stock-should-you
+Time Published: 2026-02-03T15:45:39Z
+Description: As Ryan Cohen sparks M&A hopes, a GameStop insider is buying shares. Here's what investors should know right now.
+--------------------------------------------------
+
 Title: Groundhog Day Gloom? Why the Nasdaq Is Shaking Off Phil's Shadow and Facing Reality
 URL: https://www.barchart.com/story/news/37360974/groundhog-day-gloom-why-the-nasdaq-is-shaking-off-phil-s-shadow-and-facing-reality
 Time Published: 2026-02-02T15:44:57Z
@@ -10,16 +22,4 @@ Title: Before Amazon Invests $50 Billion in OpenAI, How Should You Play AMZN Sto
 URL: https://www.barchart.com/story/news/37347028/before-amazon-invests-50-billion-in-openai-how-should-you-play-amzn-stock
 Time Published: 2026-02-01T14:00:02Z
 Description: As headlines swirl about Amazon potentially investing $50 billion in OpenAI, how should investors approach AMZN stock right now?
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq slide after Trump picks Warsh for Fed; gold, silver plunge
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-after-trump-picks-warsh-for-fed-gold-silver-plunge-181435040.html
-Time Published: 2026-01-30T18:14:35Z
-Description: Major gauges are set to end the week higher with earnings and the Fed holding investor attention.
---------------------------------------------------
-
-Title: This AI Chip Stock Could Power the Next Decade. Is It a Buy Ahead of Its Next Earnings Report?
-URL: https://www.barchart.com/story/news/37326449/this-ai-chip-stock-could-power-the-next-decade-is-it-a-buy-ahead-of-its-next-earnings-report
-Time Published: 2026-01-30T17:46:19Z
-Description: The world’s biggest tech firms are building their AI future with the help of Arm Holdings. Here's what to expect when ARM reports Q3 results on Feb. 4.
 --------------------------------------------------
