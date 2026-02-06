@@ -1,5 +1,18 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: AMD's Stock Got Crushed Today. CEO Lisa Su Says Demand Is 'On Fire'
+URL: https://www.investopedia.com/amd-s-stock-got-crushed-today-ceo-lisa-su-says-demand-is-on-fire-11899868
+Time Published: 2026-02-04T22:51:05Z
+Full Content:
+Investors dropped shares of Advanced Micro Devices after its latest earnings. Its CEO says they should be excited about what's ahead this year. Shares of AMD (AMD), regarded by some as a top alternative to AI chip leader Nvidia (NVDA), plunged over 17% Wednesday, leaving them in the red year-to-date despite quarterly earnings that topped Wall Street estimates. Analysts said lofty expectations, along with concerns that a surprise boost from China sales may have helped smooth over softer growth elsewhere, and uncertainty about the competitiveness of its next generation of products, weighed on sentiment. Lisa Su, however, is upbeat. AMD, long seen as a second fiddle to chip industry leader Nvidia, could face a big test this year with its latest AI products set to launch in the second half. She told CNBC in a televised interview Wednesday that demand for its chips is “on fire” with the results showing “strength across the entire business.” The CEO also said she sees 2026 as a “big inflection year” for the company, as it prepares to roll out its next generation of AI chips in the second half. Revenue from AMD's MI450, designed to compete with Nvidia’s Rubin chips, is expected to start contributing to AMD’s revenue in the third quarter, Su told investors during a conference call Tuesday, according to a transcript provided by AlphaSense. Su, who told CNBC that AI is “accelerating at a pace I would not have imagined,” projected that AMD's data center segment—responsible for the bulk of its revenue—could rise more than 60% annually over the next three to five years as the industry grows. AMD's shares finished the day around $200 apiece, dropping further below Wall Street's consensus price target, near $276, after Wednesday's drop. Tech shares took a hit Wednesday; read Investopedia's full coverage of today's trading here.
+--------------------------------------------------
+
+Title: Broader Market Falls as Chipmakers and AI Stocks Tumble
+URL: https://www.barchart.com/story/news/30628/broader-market-falls-as-chipmakers-and-ai-stocks-tumble
+Time Published: 2026-02-04T21:43:33Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed down -0.51%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.53%, and the Nasdaq 100 Index ...
+--------------------------------------------------
+
 Title: Why Nvidia, AMD, Palantir and Intel crashed today: what’s happening with AI stocks as Nasdaq falls over 300 points
 URL: https://economictimes.indiatimes.com/news/international/us/why-nvidia-amd-palantir-and-intel-crashed-today-whats-happening-with-ai-stocks-as-nasdaq-falls-over-300-points/articleshow/127914614.cms
 Time Published: 2026-02-04T16:31:11Z
