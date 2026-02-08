@@ -1,9 +1,21 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Apple Stock Is Steady as a Rock Amid AI Selloff: How to Play AAPL Stock
+URL: https://www.barchart.com/story/news/77713/apple-stock-is-steady-as-a-rock-amid-ai-selloff-how-to-play-aapl-stock
+Time Published: 2026-02-06T19:25:18Z
+Description: Apple stock is outperforming its Big Tech peers this year, which have sold off as the AI rally has reversed course. Here's how to play AAPL stock now.
+--------------------------------------------------
+
 Title: Stock market today: Dow soars 1,000 points, leading S&P 500, Nasdaq higher as Wall Street rebounds from rout
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-crosses-50000-mark-leading-sp-500-nasdaq-higher-as-wall-street-rebounds-from-rout-192439513.html
 Time Published: 2026-02-06T18:58:14Z
 Description: Wall Street is weighing whether the AI fears behind the recent tech-driven sell-off were exaggerated.
+--------------------------------------------------
+
+Title: As Spotify Launches Book Sales, Should You Buy, Sell, or Hold SPOT Stock?
+URL: https://www.barchart.com/story/news/76626/as-spotify-launches-book-sales-should-you-buy-sell-or-hold-spot-stock
+Time Published: 2026-02-06T18:21:37Z
+Description: Spotify has announced its entry into the physical books market through a partnership with Bookshop.org.
 --------------------------------------------------
 
 Title: MSTR stock rallies 23% today despite Strategy's $12.4 billion net loss as Bitcoin (BTC USD) rebounds to $70,000 – analysts' stock price target revealed
@@ -121,10 +133,4 @@ Title: GameStop Insider Lawrence Cheng Is Buying GME Stock. Should You?
 URL: https://www.barchart.com/story/news/37385689/gamestop-insider-lawrence-cheng-is-buying-gme-stock-should-you
 Time Published: 2026-02-03T15:45:39Z
 Description: As Ryan Cohen sparks M&A hopes, a GameStop insider is buying shares. Here's what investors should know right now.
---------------------------------------------------
-
-Title: Groundhog Day Gloom? Why the Nasdaq Is Shaking Off Phil's Shadow and Facing Reality
-URL: https://www.barchart.com/story/news/37360974/groundhog-day-gloom-why-the-nasdaq-is-shaking-off-phil-s-shadow-and-facing-reality
-Time Published: 2026-02-02T15:44:57Z
-Description: Punxsutawney Phil says six more weeks of winter. Traders say, "That explains the mood." Jokes aside, a key seasonal pattern is lining up for the Nasdaq—and...
 --------------------------------------------------
