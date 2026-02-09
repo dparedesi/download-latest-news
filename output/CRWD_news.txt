@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Citi Reiterates Buy on CrowdStrike Holdings, Inc. (CRWD), Raises Target on Strong Cybersecurity Spending Trends
+URL: https://finance.yahoo.com/news/citi-reiterates-buy-crowdstrike-holdings-204308521.html
+Time Published: 2026-02-07T20:43:08Z
+Description: We recently published an article titled 13 High Growth Cloud Stocks to Buy. On January 13, Citi raised its price target on CrowdStrike Holdings, Inc...
+--------------------------------------------------
+
 Title: CrowdStrike Holdings, Inc. (CRWD): A Bull Case Theory
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b2b2cfa0-d2c7-4949-af83-ab3b7c78cb27
 Time Published: 2026-02-07T16:52:38Z
@@ -10,10 +16,4 @@ Title: CrowdStrike (CRWD) Acquires SGNL For $740M To Support Identity Security A
 URL: https://finance.yahoo.com/news/crowdstrike-crwd-acquires-sgnl-740m-122015983.html
 Time Published: 2026-02-05T12:20:15Z
 Description: CrowdStrike Holdings Inc. (NASDAQ:CRWD) is one of the stocks that should double by 2030. On January 9, CrowdStrike announced a $740 million deal to acquire...
---------------------------------------------------
-
-Title: AI disruption fears rock software stocks again. How Jim Cramer is navigating the sell-off
-URL: https://www.cnbc.com/2026/02/03/ai-disruption-fears-rock-software-stocks-how-jim-cramer-navigating-sell-off.html
-Time Published: 2026-02-03T23:40:47Z
-Description: CNBC's Jim Cramer said the sell-off in software reflects a shift in how investors value future growth rather than a collapse in earnings.
 --------------------------------------------------

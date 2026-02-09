@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Jim Cramer On Amazon Stock Slip: Not Saying Downside Overdone, 'I Figure Tomorrow's Pretty Ugly'
+URL: https://finance.yahoo.com/news/jim-cramer-amazon-stock-slip-233145336.html
+Time Published: 2026-02-07T23:31:45Z
+Description: On Thursday, Amazon.com, Inc. (NASDAQ:AMZN) shares slid sharply in after-hours trading despite a fourth-quarter revenue beat. Amazon Beats Q4 Revenue, Guides...
+--------------------------------------------------
+
 Title: The Saturday Spread: Reducing Uncertainty in an Uncertain World (AMZN, CHWY, EXPE)
 URL: https://www.barchart.com/story/news/88953/the-saturday-spread-reducing-uncertainty-in-an-uncertain-world-amzn-chwy-expe
 Time Published: 2026-02-07T15:15:01Z
@@ -127,22 +133,4 @@ Title: This Blue-Chip Dividend Stock Is Now Part of the Trillion-Dollar Club. Is
 URL: https://www.barchart.com/story/news/27338/this-blue-chip-dividend-stock-is-now-part-of-the-trillion-dollar-club-is-it-still-a-buy-here
 Time Published: 2026-02-04T19:17:02Z
 Description: For dividend investors, Walmart still looks like a steady compounder. But WMT stock may only see gradual gains punctuated by valuation‑driven pullbacks...
---------------------------------------------------
-
-Title: Stock market today: Dow, Nasdaq, S&P 500 sink as tech falters amid flood of earnings
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-500-sink-as-tech-falters-amid-flood-of-earnings-192429486.html
-Time Published: 2026-02-03T19:24:29Z
-Description: Stocks are leaning higher following a strong start to February trade.
---------------------------------------------------
-
-Title: Why This Analyst Thinks Amazon Is a Cheap Stock to Buy Now
-URL: https://www.barchart.com/story/news/37386832/why-this-analyst-thinks-amazon-is-a-cheap-stock-to-buy-now
-Time Published: 2026-02-03T16:39:37Z
-Description: Amazon might be one of the most undervalued tech giants in the market right now, according to a top-rated Wall Street analyst who sees major upside ahead.
---------------------------------------------------
-
-Title: GameStop Insider Lawrence Cheng Is Buying GME Stock. Should You?
-URL: https://www.barchart.com/story/news/37385689/gamestop-insider-lawrence-cheng-is-buying-gme-stock-should-you
-Time Published: 2026-02-03T15:45:39Z
-Description: As Ryan Cohen sparks M&A hopes, a GameStop insider is buying shares. Here's what investors should know right now.
 --------------------------------------------------
