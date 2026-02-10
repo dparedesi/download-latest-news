@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Broader Analyst Sentiment on Broadcom Inc. (AVGO) Remains Bullish Amid Growing Demand for Google’s TPUs
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4745a72e-2dcd-4664-a5ee-a888dfb0ff77
+Time Published: 2026-02-08T21:17:49Z
+Description: None
+--------------------------------------------------
+
 Title: Broadcom (AVGO) Should Be Up A Lot, Says Jim Cramer
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_24539090-30a0-492d-95e0-bd00058d7618
 Time Published: 2026-02-08T18:30:22Z
@@ -47,47 +53,4 @@ Title: Stocks Slip Before the Open as Tech-Led Selloff Continues, Amazon Earning
 URL: https://www.barchart.com/story/news/40576/stocks-muted-before-the-open-as-tech-led-selloff-stalls-amazon-earnings-on-tap
 Time Published: 2026-02-05T11:26:29Z
 Description: March S&P 500 E-Mini futures (ESH26) are down -0.42%, and March Nasdaq 100 E-Mini futures (NQH26) are down -0.55% this morning, pointing to further losses on...
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq poised to add to tech sell-off as Google sinks, Amazon looms, silver tanks
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-poised-to-add-to-tech-sell-off-as-google-sinks-amazon-looms-silver-tanks-234925545.html
-Time Published: 2026-02-04T23:49:25Z
-Description: Wall Street is looking to Amazon with high hopes after a rough week in tech, as silver plunges again and bitcoin drops toward $70,000.
---------------------------------------------------
-
-Title: Jim Cramer says the tech sell-off proves why this old investing rule still matters
-URL: https://www.cnbc.com/2026/02/04/jim-cramer-tech-sell-off-proves-why-old-investing-rule-still-matters.html
-Time Published: 2026-02-04T23:27:33Z
-Description: Tech is not the only investable part of the market, CNBC's Jim Cramer stressed Wednesday.
---------------------------------------------------
-
-Title: Broader Market Falls as Chipmakers and AI Stocks Tumble
-URL: https://www.barchart.com/story/news/30628/broader-market-falls-as-chipmakers-and-ai-stocks-tumble
-Time Published: 2026-02-04T21:43:33Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed down -0.51%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.53%, and the Nasdaq 100 Index ...
---------------------------------------------------
-
-Title: The tech stock free fall doesn’t make any sense, BofA says in rebuke to investors while doubling down on the sector’s longevity
-URL: https://finance.yahoo.com/news/tech-stock-free-fall-doesn-193944250.html
-Time Published: 2026-02-04T19:39:44Z
-Description: Investors see weak ROI ahead as they also see AI adoption so pervasive that it makes whole business models obsolete. Both can’t be true, BofA says.
---------------------------------------------------
-
-Title: The tech stocks free fall doesn’t make any sense, BofA says in rebuke to investors while doubling down on the sector’s longevity
-URL: https://fortune.com/2026/02/04/why-saas-stocks-tech-selloff-freefall-like-deepseek-2025-overblown-paradox-irrational/
-Time Published: 2026-02-04T19:39:44Z
-Full Content:
-As semiconductor stocks undergo another bout of severe volatility, Bank of America Global Research has issued a sharp rebuke to prevailing market sentiment, labeling fears driving the current tech-sector selloff as logically impossible. In a note released Tuesday, analysts argued that investors are currently pricing in what Fortune’s Jim Edwards called a “free fall” based on beliefs that BofA considers “internally inconsistent.” BofA senior analyst Vivek Arya’s team put together the note that recalled the famous John Maynard Keynes quote that markets can remain irrational longer than investors can remain solvent, “yet we believe recent software-led moves weighing on leading AI chip stocks appear internally inconsistent.” The market appears to be reacting, as Edwards noted, to Palantir CEO Alex Karp’s typically outspoken argument on a Monday night earnings call. AI is now so good at writing and managing enterprise software that many software-as-a-service (SaaS) companies risk becoming irrelevant. The ensuing selloff wiped out $300 billion in market cap, with Microsoft, Salesforce, and ServiceNow taking significant hits. Jason Lemkin, the so-called godfather of SaaS, wrote on his blog that early 2026 was seeing a “crash” in SaaS stocks, while BofA’s Arya described it as an “indiscriminate selloff” that resembles the reaction to China’s DeepSeek in January 2025. That moment proved an “overblown selloff,” and this moment just doesn’t make logical sense, Arya argued. The SaaS selloff relies on two mutually exclusive scenarios BofA wrote: “AI capex [capital expenditure] deteriorating to the point of weak ROI and unsustainable growth, while simultaneously … AI adoption will be so pervasive and productivity-enhancing that long-standing software workflows and business models become obsolete. Both outcomes cannot occur at once.” If AI is powerful enough to disrupt established industries, the infrastructure spending supporting it cannot collapse. Conversely, if the spending is collapsing owing to poor returns, the technology cannot be pervasive enough to threaten legacy software models. Far from predicting a crash, BofA is doubling down on the sector’s longevity. BofA forecasts that AI capex will quadruple to reach $1.2 trillion by 2030, driven by the need for leading compute, memory, and networking capabilities. The report emphasizes that we are still in the early innings of this story. “AI is a tool, not a widespread product … yet,” the analysts write, noting that harnessing intelligence for commercial products will take “the next several years.” Continued investment is required not just for training models to improve accuracy, but to sustain “inference”—the actual processing of user traffic. Without this infrastructure, hyperscalers serving billions of users simply cannot expand. Contrary to Arya’s point, the current volatility may be seen as risk repricing under uncertainty, rather than as an illogical or paradoxical conclusion. Markets don’t wait for equilibrium logic to resolve before repricing risk because investors discount future cash flows, not conceptual coherence. When an influential earnings release like Palantir’s drops, increasing uncertainty around other companies’ earnings projections, both optimism (for infrastructure builders) and pessimism (for SaaS players losing pricing power) can coexist. Today’s chip valuations have also already priced in years of double-digit growth, so any friction in the build-out justifies short-term selloffs. If AI remains mostly a tool awaiting monetization, then current market valuations may already have overestimated future returns. Investors are now adjusting expectations to match the slower commercialization timeline that BofA itself admits is still “several years” away. Just as AI is reshaping software, it is also reshaping investor time horizons, and that adjustment may be a rational reason for volatility, not a contradiction. BofA argues that the selloff has created an attractive entry point. Leading names such as Nvidia (NVDA), Broadcom (AVGO), AMD, and Credo Technology (CRDO) are trading near or below 1x projected earnings growth (PEG). This is notably cheaper than the S&P 500 and large-cap growth peers, which trade at 1.5x-2x. Furthermore, BofA suggests the market is worried about the wrong things. While investors fret about demand constraints, earnings commentary from major tech firms continues to point to supply constraints. The real bottlenecks for the AI build-out are “power, land, data center shells,” and components like advanced memory and optics. These physical limitations act as a “natural governor on overbuild risk,” preventing the glut of supply that bears are fearing. The firm concludes that the chip industry remains “positively levered to the AI build-out,” and that current pricing discounts a deceleration in earnings that simply “may not materialize.” For this story, Fortune journalists used generative AI as a research tool. An editor verified the accuracy of the information before publishing.
---------------------------------------------------
-
-Title: Broadcom Inc. (AVGO): A Bull Case Theory
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a3479250-d285-4669-ae08-9a7928da1cf7
-Time Published: 2026-02-04T19:20:33Z
-Description: None
---------------------------------------------------
-
-Title: Could Broadcom Inc (AVGO) Double Its Revenue in Two Years?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3b55c925-0a96-4d17-92b4-ef96f31fa0d7
-Time Published: 2026-02-04T01:57:56Z
-Description: None
 --------------------------------------------------
