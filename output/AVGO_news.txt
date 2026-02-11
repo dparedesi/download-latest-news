@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Stocks Recover Early Losses as Tech Stocks Rebound
+URL: https://www.barchart.com/story/news/109628/stocks-recover-early-losses-as-tech-stocks-rebound
+Time Published: 2026-02-09T16:14:27Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.46%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: Broader Analyst Sentiment on Broadcom Inc. (AVGO) Remains Bullish Amid Growing Demand for Google’s TPUs
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4745a72e-2dcd-4664-a5ee-a888dfb0ff77
 Time Published: 2026-02-08T21:17:49Z
@@ -41,16 +47,4 @@ Title: Stock market today: Dow soars 1,000 points, leading S&P 500, Nasdaq highe
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-crosses-50000-mark-leading-sp-500-nasdaq-higher-as-wall-street-rebounds-from-rout-192439513.html
 Time Published: 2026-02-06T18:58:14Z
 Description: Wall Street is weighing whether the AI fears behind the recent tech-driven sell-off were exaggerated.
---------------------------------------------------
-
-Title: Stock market today: S&P 500, Nasdaq sink, adding to tech sell-off after jobs data as Google slides, Amazon looms
-URL: https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-sink-adding-to-tech-sell-off-after-jobs-data-as-google-slides-amazon-looms-143533634.html
-Time Published: 2026-02-05T14:35:33Z
-Description: Wall Street is looking to Amazon with high hopes after a rough week in tech, as silver plunges again and bitcoin drops toward $70,000.
---------------------------------------------------
-
-Title: Stocks Slip Before the Open as Tech-Led Selloff Continues, Amazon Earnings on Tap
-URL: https://www.barchart.com/story/news/40576/stocks-muted-before-the-open-as-tech-led-selloff-stalls-amazon-earnings-on-tap
-Time Published: 2026-02-05T11:26:29Z
-Description: March S&P 500 E-Mini futures (ESH26) are down -0.42%, and March Nasdaq 100 E-Mini futures (NQH26) are down -0.55% this morning, pointing to further losses on...
 --------------------------------------------------

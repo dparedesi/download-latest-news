@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq put rally on hold as Wall Street braces for start of data deluge
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-put-rally-on-hold-as-wall-street-braces-for-start-of-data-deluge-235207637.html
+Time Published: 2026-02-09T23:52:07Z
+Description: Wall Street is gearing up for a closely watched jobs report amid a cooling labor market.
+--------------------------------------------------
+
 Title: Strong Analyst Sentiment on Taiwan Semiconductor Manufacturing (TSM) As AI Demand Drives Massive 2026 Capital Spending
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_59500544-a7be-4f9b-bac7-cdc375780d1a
 Time Published: 2026-02-08T15:26:55Z

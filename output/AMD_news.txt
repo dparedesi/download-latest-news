@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stocks Recover Early Losses as Tech Stocks Rebound
+URL: https://www.barchart.com/story/news/109628/stocks-recover-early-losses-as-tech-stocks-rebound
+Time Published: 2026-02-09T16:14:27Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.46%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
+--------------------------------------------------
+
 Title: Cathie Wood buys $43 million of megacap tech stock
 URL: https://www.thestreet.com/investing/cathie-wood-buys-43-million-of-alphabet-stock
 Time Published: 2026-02-08T16:46:09Z
@@ -16,16 +22,4 @@ Title: Jim Cramer Discusses Key Factor For Advanced Micro Devices (AMD)
 URL: https://finance.yahoo.com/news/jim-cramer-discusses-key-factor-150901216.html
 Time Published: 2026-02-07T15:09:01Z
 Description: We recently published 12 Stocks Jim Cramer Talked About. Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the stocks that Jim Cramer talked about. Chip...
---------------------------------------------------
-
-Title: Morgan Stanley tweaks AMD stock price target post-earnings
-URL: https://www.thestreet.com/investing/stocks/morgan-stanley-tweaks-amd-stock-price-target-post-earnings
-Time Published: 2026-02-05T18:33:00Z
-Description: Despite another robust quarterly performance, Advanced Micro Devices (AMD) finds itself in an uncomfortable backdrop. Morgan Stanley just cut its AMD stock...
---------------------------------------------------
-
-Title: The Move in AMD Stock After Earnings Was Much Larger Than the Average. Why?
-URL: https://www.barchart.com/story/news/49055/the-move-in-amd-stock-after-earnings-was-much-larger-than-the-average-why
-Time Published: 2026-02-05T15:42:13Z
-Description: AMD stock crashed much more than the options market implied or what is historically observed after the company’s earnings. Find out why.
 --------------------------------------------------

@@ -18,9 +18,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b2b2cfa0
 Time Published: 2026-02-07T16:52:38Z
 Description: None
 --------------------------------------------------
-
-Title: CrowdStrike (CRWD) Acquires SGNL For $740M To Support Identity Security Against AI-Powered Threats
-URL: https://finance.yahoo.com/news/crowdstrike-crwd-acquires-sgnl-740m-122015983.html
-Time Published: 2026-02-05T12:20:15Z
-Description: CrowdStrike Holdings Inc. (NASDAQ:CRWD) is one of the stocks that should double by 2030. On January 9, CrowdStrike announced a $740 million deal to acquire...
---------------------------------------------------
