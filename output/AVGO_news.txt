@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Broader Market Falls Ahead of Wednesday’s US Jobs Report
+URL: https://www.barchart.com/story/news/141675/broader-marker-falls-ahead-of-wednesdays-us-jobs-report
+Time Published: 2026-02-10T21:32:38Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -0.33%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($...
+--------------------------------------------------
+
 Title: Stock Index Futures Muted With U.S. Retail Sales Data in Focus
 URL: https://www.barchart.com/story/news/125554/stock-index-futures-steady-with-u-s-retail-sales-data-in-focus
 Time Published: 2026-02-10T11:21:58Z

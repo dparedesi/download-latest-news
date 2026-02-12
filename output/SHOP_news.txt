@@ -6,6 +6,12 @@ Time Published: 2026-02-10T23:57:48Z
 Description: The January jobs report blew past expectations, bolstering the case for interest rates to stay on hold.
 --------------------------------------------------
 
+Title: Broader Market Falls Ahead of Wednesday’s US Jobs Report
+URL: https://www.barchart.com/story/news/141675/broader-marker-falls-ahead-of-wednesdays-us-jobs-report
+Time Published: 2026-02-10T21:32:38Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -0.33%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($...
+--------------------------------------------------
+
 Title: Shopify (SHOP) Stock Surge Validates Rowan Street Capital’s Thesis
 URL: https://finance.yahoo.com/news/shopify-shop-stock-surge-validates-131201093.html
 Time Published: 2026-02-10T13:12:01Z
