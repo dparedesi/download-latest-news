@@ -17,9 +17,3 @@ URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-pu
 Time Published: 2026-02-09T23:52:07Z
 Description: Wall Street is gearing up for a closely watched jobs report amid a cooling labor market.
 --------------------------------------------------
-
-Title: Microsoft (MSFT) Has a Lot of Firepower, Says Jim Cramer
-URL: https://finance.yahoo.com/news/microsoft-msft-lot-firepower-says-150753675.html
-Time Published: 2026-02-07T15:07:53Z
-Description: We recently published 12 Stocks Jim Cramer Talked About. Microsoft Corporation (NASDAQ:MSFT) is one of the stocks that Jim Cramer talked about. Software...
---------------------------------------------------
