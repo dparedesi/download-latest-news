@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: JPMorgan doubles down on S&P 500 target for one key reason
+URL: https://www.thestreet.com/investing/jp-morgan-doubles-down-on-sp-500-target-for-one-key-reason
+Time Published: 2026-02-12T17:10:12Z
+Description: The S&P 500 might not be done climbing. Elyse Ausenbaugh, head of investment strategy at JPMorgan Wealth Management, doubled down on the bank’s S&P 500...
+--------------------------------------------------
+
+Title: AWS Momentum Supports Amazon.com’s (AMZN) Expanding AI and Cloud Strategy
+URL: https://finance.yahoo.com/news/aws-momentum-supports-amazon-com-153923010.html
+Time Published: 2026-02-12T15:39:23Z
+Description: Amazon Inc. (NASDAQ:AMZN) is among the best machine learning stocks to buy according to analysts. Following its Q4 2025 results, UBS lowered its price target...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq put rally on hold as Wall Street braces for start of data deluge
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-put-rally-on-hold-as-wall-street-braces-for-start-of-data-deluge-235207637.html
 Time Published: 2026-02-09T23:52:07Z
