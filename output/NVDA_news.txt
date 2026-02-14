@@ -1,9 +1,39 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia Deepens AI Inference Push With Groq Deal And Rubin Platform
+URL: https://finance.yahoo.com/news/nvidia-deepens-ai-inference-push-021355437.html
+Time Published: 2026-02-13T02:13:55Z
+Description: Nvidia agreed to acquire Groq's AI inference chip assets for $20b, aiming to expand its position in AI deployment hardware. The company introduced its new...
+--------------------------------------------------
+
+Title: The Next Semiconductor Winner Might Not Be Nvidia
+URL: https://www.barchart.com/story/news/194542/the-next-semiconductor-winner-might-not-be-nvidia
+Time Published: 2026-02-12T22:25:52Z
+Description: The AI boom is creating room for more than one winner.
+--------------------------------------------------
+
+Title: 4,500 Reasons to Buy Amazon Stock Today
+URL: https://www.barchart.com/story/news/189291/4-500-reasons-to-buy-amazon-stock-today
+Time Published: 2026-02-12T18:38:39Z
+Description: The FCC has approved the launch of Amazon's 4,500 satellites.
+--------------------------------------------------
+
+Title: What Does Alphabet’s $31.5 Billion Bond Sale Really Mean for GOOGL Stock Investors?
+URL: https://www.barchart.com/story/news/187874/what-does-alphabets-31-5-billion-bond-sale-really-mean-for-googl-stock-investors
+Time Published: 2026-02-12T17:12:58Z
+Description: Alphabet’s $31.5 billion bond sale signals an aggressive push to fund AI-driven growth, and this article examines whether the move strengthens GOOGL’s long...
+--------------------------------------------------
+
 Title: What NVIDIA Corp.’s (NVDA) OpenAI Talks Mean for the Expanding AI Ecosystem
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_84db624f-1d53-42b8-9375-6f219375096b
 Time Published: 2026-02-12T15:39:40Z
 Description: None
+--------------------------------------------------
+
+Title: Stocks Mixed on Strength in Chipmakers and Weakness in Cisco Systems
+URL: https://www.barchart.com/story/news/184971/stocks-mixed-on-strength-in-chipmakers-and-weakness-in-cisco-systems
+Time Published: 2026-02-12T15:07:56Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.20%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.32%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
 --------------------------------------------------
 
 Title: NVIDIA (NVDA) Must Comply with Strict U.S. Licensing Terms for Its H200 AI Chips China Exports
@@ -19,16 +49,16 @@ Full Content:
 This is a Mint Premium article gifted to you. Subscribe to enjoy similar stories. Nvidia and Broadcom are increasingly being drawn into direct competition as artificial-intelligence companies look for the most cost-efficient way to train and run AI models. Analysts at UBS think demand is growing quickly for Broadcom’s processors as an alternative. Nvidia has enjoyed several years as the dominant provider of AI chips due to its strength in graphics-processing units (GPUs). However, the growth of Google’s Tensor Processing Units (TPUs)—which Broadcom helped design—has brought the biggest competitive challenge yet. The major change in the market this year is the potential ramping up of TPU sales to external clients. AI start-up Anthropic has made two major orders for them, totaling $21 billion, and social-media company Meta Platforms is also in talks to use the processors, according to The Wall Street Journal. “Many have turned to TPU as an intermediate alternative to GPU and we believe demand is accelerating significantly," wrote UBS analyst Timothy Arcuri in a research note this week. Arcuri forecasts that Broadcom will ship around 3.7 million TPUs this year, rising to more than five million in 2027. That would contribute to Broadcom generating AI revenue of around $60 billion in 2026, rising to $106 billion in 2027. By comparison, Nvidia is expected to generate around $300 billion in data-center sales for its fiscal 2027 year, ending in January next year, largely due to GPU sales, according to FactSet. The average selling price of Google and Broadcom’s TPUs is set to be between $10,500 and $15,000, headed for around $20,000 in the next few years, according to the UBS analyst. Nvidia doesn’t disclose the individual price of its chips but analysts generally put the cost of its latest Blackwell chips at between $40,000 and $50,000 per unit. That can make TPUs more attractive for inference—the process of generating answers or results from AI—although Nvidia continues to hold an advantage when it comes to training AI models. “According to benchmarks, the latest Ironwood TPU performance is comparable to [Nvidia’s] GB300 for inference, but is ~1/2 of that in training. Anecdotally, a model that could be trained in 35-50 days on latest NVDA GPUs would take ~3 months of training on TPUs," wrote Arcuri. Analysts at Mizuho estimate that currently between 20% and 40% of AI workloads are dedicated to inference, and that will grow to between 60% and 80% over the next five years. However, Nvidia could potentially strike back in the inference market with the use of technology from AI hardware start-up Groq. Nvidia recently agreed to purchase a nonexclusive license for technology from privately held Groq, which specializes in inference hardware. Nvidia paid $20 billion for Groq’s technology, including compensation packages for many of the company’s employees who joined Nvidia, The Wall Street Journal reported. Write to Adam Clark at adam.clark@barrons.com Download the Mint app and read premium stories Log in to our website to save your bookmarks. It'll just take a moment. You are just one step away from creating your watchlist! Oops! Looks like you have exceeded the limit to bookmark the image. Remove some to bookmark this image. Your session has expired, please login again. You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder. This is a subscriber only feature Subscribe Now to get daily updates on WhatsApp
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as January jobs report exceeds expectations
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-january-jobs-report-exceeds-expectations-235748329.html
-Time Published: 2026-02-10T23:57:48Z
-Description: All eyes are on the January jobs report for a steer on rate cuts, as signs of weakness emerge in the labor market.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500 waver, Nasdaq slides after January jobs report smashes expectations
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-waver-nasdaq-slides-after-january-jobs-report-smashes-expectations-235748121.html
 Time Published: 2026-02-10T23:57:48Z
 Description: The January jobs report blew past expectations, bolstering the case for interest rates to stay on hold.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as January jobs report exceeds expectations
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-january-jobs-report-exceeds-expectations-235748329.html
+Time Published: 2026-02-10T23:57:48Z
+Description: All eyes are on the January jobs report for a steer on rate cuts, as signs of weakness emerge in the labor market.
 --------------------------------------------------
 
 Title: Stock-Split Watch: Is Nvidia (NVDA) Next?
@@ -100,35 +130,4 @@ URL: https://www.fool.com.au/2026/02/09/why-are-asx-200-tech-shares-like-wisetec
 Time Published: 2026-02-09T00:29:29Z
 Description: ASX 200 tech shares are surging higher today. But why?
 The post Why are ASX 200 tech shares like WiseTech and NextDC going gangbusters on Monday appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: NVIDIA (NVDA) Has All the Memory In the World, Says Jim Cramer
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_87a4aea6-9486-4fe4-9632-a047188261ae
-Time Published: 2026-02-08T18:29:26Z
-Description: None
---------------------------------------------------
-
-Title: Nvidia CEO delivers 1-word reality check as software stocks crack
-URL: https://www.thestreet.com/investing/nvidia-ceo-delivers-1-word-reality-check-as-software-stocks-crack
-Time Published: 2026-02-08T17:37:00Z
-Description: A brutal global sell-off in software is causing headaches the world over. The question is very simple. Is AI about to eat the application layer or...
---------------------------------------------------
-
-Title: NVIDIA (NVDA) Eyes More Efficient Weather Forecasting With the Launch of Three Open-Source Artificial Intelligence Models
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2f684f8a-4810-4998-80f2-43e827706129
-Time Published: 2026-02-08T15:26:54Z
-Description: None
---------------------------------------------------
-
-Title: Expert Reveals One Costly Retirement Mistake to Avoid if You Plan to Retire in 2026
-URL: https://www.investopedia.com/expert-reveals-one-costly-retirement-mistake-to-avoid-in-2026-11901507
-Time Published: 2026-02-08T10:00:00Z
-Full Content:
-A lot has happened in the world of personal finance in the past year—from the passage of new tax legislation to the AI boom that has lifted the stock market to record highs. For individuals planning to retire in 2026, the financial landscape can be challenging. To help pre-retirees decipher what's happening, Investopedia connected with retirement expert Jean Chatzky. She has been in the personal finance space for decades, writing as a columnist for AARP and spending nearly 25 years as a financial editor at NBC. This is an excerpt of the conversation, edited for brevity and clarity. INVESTOPEDIA: Should people close to retirement worry about the concentration of the stock market in AI stocks like Nvidia (NVDA) and Google (GOOGL)? What can people do about it? JEAN CHATZKY: People should be worried unless they have been engaged in active rebalancing. When the stock market runs hot, our [target] asset allocations tend to get out of whack. There's a lot of research on rebalancing intentions versus rebalancing in actuality. Essentially, what it shows is that a lot of people say that they rebalance [but] . . . just don't do it. In a bull market, you end up overweighted in certain categories of stocks, like AI. Therefore, [you] are taking more risk than you intended to take. INVESTOPEDIA: For pre-retirees who are concerned about the state of the economy due to tariffs and signs of softening consumer demand—especially among those who are low or middle income—is there anything they should do? CHATZKY: Besides rebalancing, I think the number one thing that people should be looking at is delaying Social Security. The lever that is actually going to make a big difference in retirement is Social Security. Delaying Social Security until you get as close to 70 as possible is a really smart move for the majority of people who can afford to do it [because it increases the size of your monthly benefit]. The second thing that I would say to look at, if you are feeling unconfident, is your ability to keep earning. Staying in the workforce a little bit longer is incredibly powerful. When you stay in, you give your retirement assets time to grow and [you] may still be able to contribute [to retirement savings accounts]. INVESTOPEDIA: If someone encounters a downturn at the beginning of retirement, should they consider changing their withdrawal strategy? CHATZKY: The 4% rule becomes really problematic when you have a downturn in the first few years of your retirement. . . One of the headwinds that we're facing is that retirement is going to be a lot longer for people than they anticipate. A couple of things for people who are heading into retirement [to bear in mind]: it's really important to move some money into cash and fixed income, with an emphasis on cash. You want to have a good couple of years of your money in cash, so if you encounter a down market in the first couple of years of retirement, you don't have to sell assets at a loss in order to fund your lifestyle. [Also, if] you are going to follow a variation of the 4% rule during your withdrawal phase, you're going to want to take your foot off the gas a bit and not withdraw 4% during those years when the market is down. And for those worried about volatility in the market, I like the idea of covering essential expenses with a combination of Social Security and some form of guaranteed protected income, like pension income or an annuity. INVESTOPEDIA: What are some common mistakes you see pre-retirees make? CHATZKY: For a long time, there was a rule [of thumb] that you were probably going to spend 70% to 80% of your pre-retirement income in retirement. What we're seeing in the data, is that it's just not true. The folks at Chase—they have a great trove of data on how people actually spend in retirement—the three years before retirement and the three years after, people spend more, and tend to spend more on bucket list items, like big trips but also home improvements. The goal is to take a look at what your life costs now and [consider] how that is going to change when you enter retirement.
---------------------------------------------------
-
-Title: What Does the Street Think About NVIDIA Corporation (NVDA)?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f6c76d07-d2ec-4a10-a3c4-42a9f55a78f1
-Time Published: 2026-02-08T08:48:45Z
-Description: None
 --------------------------------------------------

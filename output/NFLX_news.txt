@@ -1,5 +1,11 @@
 List of news related to Netflix stock price NFLX:
 
+Title: Big Warner Bros. shareholders are losing patience with the Paramount-Netflix bidding war
+URL: https://www.marketwatch.com/story/big-warner-bros-shareholders-are-getting-restless-in-this-paramount-netflix-bidding-war-3491dab8
+Time Published: 2026-02-12T22:28:00Z
+Description: Institutional owners of Warner Bros. shares might jump ship as Paramount ups the ante.
+--------------------------------------------------
+
 Title: Netflix stock (NFLX) down 5%, hits 52-week low - here's what investors need to know
 URL: https://economictimes.indiatimes.com/news/international/us/netflix-stock-nflx-down-5-hits-52-week-low-heres-what-investors-need-to-know/articleshow/128270068.cms
 Time Published: 2026-02-12T17:59:10Z
@@ -17,10 +23,4 @@ Title: 2 Subscription Economy Winners That Still Dominate Their Niches
 URL: https://www.marketbeat.com/stock-ideas/2-subscription-economy-winners-that-still-dominate-their-niches/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2026-02-09T19:42:00Z
 Description: The subscription economy is booming, and market leaders Netflix and Adobe offer value and growth potential for investors looking for buy-low opportunities.
---------------------------------------------------
-
-Title: Netflix, Inc. (NFLX)’s Warner Bros. Acquisition Faces Regulatory Scrutiny Amid Mixed Analyst Outlook
-URL: https://finance.yahoo.com/news/netflix-inc-nflx-warner-bros-092723210.html
-Time Published: 2026-02-08T09:27:23Z
-Description: Netflix Inc. (NASDAQ:NFLX) is one of the best blue-chip stocks with a 52-week low to buy right now. On January 27, Reuters reported that the U.S. Senate...
 --------------------------------------------------

@@ -38,15 +38,3 @@ URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fu
 Time Published: 2026-02-09T00:14:01Z
 Description: Wall Street is set for a packed week defined by jobs and inflation reports.
 --------------------------------------------------
-
-Title: Novo Nordisk A/S (NVO) Eyes Solidifying Its Market Position with Increased Advertising Spending
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d07b78a1-3cb3-4ee4-a35f-b2c74f353e88
-Time Published: 2026-02-08T15:27:06Z
-Description: None
---------------------------------------------------
-
-Title: Novo Nordisk (NVO) Faces Pricing Pressure While Defending Wegovy Franchise and Advancing Oral GLP-1s
-URL: https://finance.yahoo.com/news/novo-nordisk-nvo-faces-pricing-093005706.html
-Time Published: 2026-02-08T09:30:05Z
-Description: Novo Nordisk A/S (NYSE:NVO) is one of the best affordable long term stocks to buy according to hedge funds. On February 5, Novo Nordisk A/S (NYSE:NVO) said...
---------------------------------------------------

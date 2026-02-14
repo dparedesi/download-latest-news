@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: As Cathie Wood Gobbles Up the Dip in Broadcom Stock, Should You Add AVGO Too?
+URL: https://www.barchart.com/story/news/184022/as-cathie-wood-gobbles-up-the-dip-in-broadcom-stock-should-you-add-avgo-too
+Time Published: 2026-02-12T14:30:02Z
+Description: Cathie Wood added AVGO shares across her funds last week.
+--------------------------------------------------
+
 Title: UBS Remains Bullish on Broadcom (AVGO) Amid Strong Server Demand and Limited Near-Term Earnings Upside
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_63cc9a84-c8ce-4f7a-9500-b8023d898197
 Time Published: 2026-02-11T19:26:10Z
@@ -34,22 +40,4 @@ Title: Stocks Recover Early Losses as Tech Stocks Rebound
 URL: https://www.barchart.com/story/news/109628/stocks-recover-early-losses-as-tech-stocks-rebound
 Time Published: 2026-02-09T16:14:27Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.46%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Broader Analyst Sentiment on Broadcom Inc. (AVGO) Remains Bullish Amid Growing Demand for Google’s TPUs
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4745a72e-2dcd-4664-a5ee-a888dfb0ff77
-Time Published: 2026-02-08T21:17:49Z
-Description: None
---------------------------------------------------
-
-Title: Broadcom (AVGO) Should Be Up A Lot, Says Jim Cramer
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_24539090-30a0-492d-95e0-bd00058d7618
-Time Published: 2026-02-08T18:30:22Z
-Description: None
---------------------------------------------------
-
-Title: Where is Broadcom Inc. (AVGO) Headed?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2e84f7f0-1570-4431-ae28-53447f60fa6f
-Time Published: 2026-02-08T08:48:46Z
-Description: None
 --------------------------------------------------

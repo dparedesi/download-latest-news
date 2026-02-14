@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: The Next Semiconductor Winner Might Not Be Nvidia
+URL: https://www.barchart.com/story/news/194542/the-next-semiconductor-winner-might-not-be-nvidia
+Time Published: 2026-02-12T22:25:52Z
+Description: The AI boom is creating room for more than one winner.
+--------------------------------------------------
+
 Title: Broader Market Falls Ahead of Wednesday’s US Jobs Report
 URL: https://www.barchart.com/story/news/141675/broader-marker-falls-ahead-of-wednesdays-us-jobs-report
 Time Published: 2026-02-10T21:32:38Z
@@ -16,10 +22,4 @@ Title: Stocks Recover Early Losses as Tech Stocks Rebound
 URL: https://www.barchart.com/story/news/109628/stocks-recover-early-losses-as-tech-stocks-rebound
 Time Published: 2026-02-09T16:14:27Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.46%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Cathie Wood buys $43 million of megacap tech stock
-URL: https://www.thestreet.com/investing/cathie-wood-buys-43-million-of-alphabet-stock
-Time Published: 2026-02-08T16:46:09Z
-Description: It’s been a rocky start to the year for Cathie Wood, the head of Ark Investment Management. As of Feb. 6, Wood’s flagship Ark Innovation ETF (ARKK) was down ...
 --------------------------------------------------
