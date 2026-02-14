@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA Corporation (NVDA) Gains After CEO Signals Long AI Infrastructure Runway
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_738cd26f-5f8a-4d7a-a7a2-1cc81e8b8320
+Time Published: 2026-02-13T15:09:29Z
+Description: None
+--------------------------------------------------
+
+Title: Goldman Sachs Expects Beat and Raise Quarter for NVIDIA (NVDA)
+URL: https://finance.yahoo.com/news/goldman-sachs-expects-beat-raise-145443095.html
+Time Published: 2026-02-13T14:54:43Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) ranks among the best high growth high margin stocks to buy now. On February 5, Goldman Sachs revised its Buy rating for...
+--------------------------------------------------
+
 Title: Nvidia Deepens AI Inference Push With Groq Deal And Rubin Platform
 URL: https://finance.yahoo.com/news/nvidia-deepens-ai-inference-push-021355437.html
 Time Published: 2026-02-13T02:13:55Z
