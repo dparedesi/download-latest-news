@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Nvidia's stock is down and AMD is up. The culprit may be Arista.
+URL: https://www.cnbc.com/2026/02/13/nvidias-stock-is-down-and-amd-is-up-the-culprit-may-be-arista-.html
+Time Published: 2026-02-13T20:38:27Z
+Description: Shares of Nvidia fell on Friday, while rival Advanced Micro Devices rallied after the CEO of Arista Networks said her company is shifting some workloads.
+--------------------------------------------------
+
 Title: The Next Semiconductor Winner Might Not Be Nvidia
 URL: https://www.barchart.com/story/news/194542/the-next-semiconductor-winner-might-not-be-nvidia
 Time Published: 2026-02-12T22:25:52Z
@@ -16,10 +22,4 @@ Title: Stock Index Futures Muted With U.S. Retail Sales Data in Focus
 URL: https://www.barchart.com/story/news/125554/stock-index-futures-steady-with-u-s-retail-sales-data-in-focus
 Time Published: 2026-02-10T11:21:58Z
 Description: March S&P 500 E-Mini futures (ESH26) are up +0.03%, and March Nasdaq 100 E-Mini futures (NQH26) are up +0.04% this morning, taking a breather after a recent ...
---------------------------------------------------
-
-Title: Stocks Recover Early Losses as Tech Stocks Rebound
-URL: https://www.barchart.com/story/news/109628/stocks-recover-early-losses-as-tech-stocks-rebound
-Time Published: 2026-02-09T16:14:27Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.46%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------

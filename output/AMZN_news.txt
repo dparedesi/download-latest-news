@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Amazon Bets Big on BETA: Why Analysts See 50% Upside
+URL: https://www.marketbeat.com/originals/amazon-bets-big-on-beta-why-analysts-see-50-upside/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2026-02-13T18:55:00Z
+Description: Strategic investment from Amazon and a strong cash position signal major upside for BETA Technologies as it approaches critical commercial milestones.
+--------------------------------------------------
+
 Title: 4,500 Reasons to Buy Amazon Stock Today
 URL: https://www.barchart.com/story/news/189291/4-500-reasons-to-buy-amazon-stock-today
 Time Published: 2026-02-12T18:38:39Z
@@ -22,16 +28,4 @@ Title: Buy This 1 ‘VC-Style’ Stock Now for 74% Upside, According to Analysts
 URL: https://www.barchart.com/story/news/184682/buy-this-1-vc-style-stock-now-for-74-upside-according-to-analysts
 Time Published: 2026-02-12T15:00:02Z
 Description: This high-risk, high-reward e-commerce player is being viewed as a VC-style bet with massive long-term upside potential.
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq put rally on hold as Wall Street braces for start of data deluge
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-put-rally-on-hold-as-wall-street-braces-for-start-of-data-deluge-235207637.html
-Time Published: 2026-02-09T23:52:07Z
-Description: Wall Street is gearing up for a closely watched jobs report amid a cooling labor market.
---------------------------------------------------
-
-Title: Should You Buy the Post-Earnings Dip in Amazon Stock?
-URL: https://www.barchart.com/story/news/113352/should-you-buy-the-post-earnings-dip-in-amazon-stock
-Time Published: 2026-02-09T19:43:29Z
-Description: Are investors considering buying Amazon stock after it dropped more than 5% post its Q4 earnings?
 --------------------------------------------------

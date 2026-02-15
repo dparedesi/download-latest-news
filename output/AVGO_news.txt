@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: This New ETF Bolsters ‘America First’ Tech Stocks in Defiance of 'Sell America' Trade
+URL: https://www.barchart.com/story/news/209852/this-new-etf-bolsters-america-first-tech-stocks-in-defiance-of-sell-america-trade
+Time Published: 2026-02-13T16:07:55Z
+Description: As the "sell America" trade has gained popularity, the launch of USMD is doubling down on "America First" tech trades. Here's what to know.
+--------------------------------------------------
+
 Title: Broadcom Inc. (AVGO) Draws ARK Investment Amid Positive AI Growth Outlook
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0f7fb692-20f1-4262-99fc-5232a533b70d
 Time Published: 2026-02-13T15:09:39Z
@@ -40,10 +46,4 @@ Title: Stock Index Futures Muted With U.S. Retail Sales Data in Focus
 URL: https://www.barchart.com/story/news/125554/stock-index-futures-steady-with-u-s-retail-sales-data-in-focus
 Time Published: 2026-02-10T11:21:58Z
 Description: March S&P 500 E-Mini futures (ESH26) are up +0.03%, and March Nasdaq 100 E-Mini futures (NQH26) are up +0.04% this morning, taking a breather after a recent ...
---------------------------------------------------
-
-Title: Stocks Recover Early Losses as Tech Stocks Rebound
-URL: https://www.barchart.com/story/news/109628/stocks-recover-early-losses-as-tech-stocks-rebound
-Time Published: 2026-02-09T16:14:27Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.46%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
 --------------------------------------------------

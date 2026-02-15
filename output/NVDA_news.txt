@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq gains fizzle to cap week of sharp losses as AI fears grow
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-to-cap-week-of-sharp-losses-as-ai-fears-grow-210219798.html
+Time Published: 2026-02-13T21:02:19Z
+Description: Odds of a Fed rate cut in June nudge higher after 'core' consumer inflation comes in at its lowest rate in four years.
+--------------------------------------------------
+
+Title: This New ETF Bolsters ‘America First’ Tech Stocks in Defiance of 'Sell America' Trade
+URL: https://www.barchart.com/story/news/209852/this-new-etf-bolsters-america-first-tech-stocks-in-defiance-of-sell-america-trade
+Time Published: 2026-02-13T16:07:55Z
+Description: As the "sell America" trade has gained popularity, the launch of USMD is doubling down on "America First" tech trades. Here's what to know.
+--------------------------------------------------
+
 Title: NVIDIA Corporation (NVDA) Gains After CEO Signals Long AI Infrastructure Runway
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_738cd26f-5f8a-4d7a-a7a2-1cc81e8b8320
 Time Published: 2026-02-13T15:09:29Z
@@ -61,16 +73,16 @@ Full Content:
 This is a Mint Premium article gifted to you. Subscribe to enjoy similar stories. Nvidia and Broadcom are increasingly being drawn into direct competition as artificial-intelligence companies look for the most cost-efficient way to train and run AI models. Analysts at UBS think demand is growing quickly for Broadcom’s processors as an alternative. Nvidia has enjoyed several years as the dominant provider of AI chips due to its strength in graphics-processing units (GPUs). However, the growth of Google’s Tensor Processing Units (TPUs)—which Broadcom helped design—has brought the biggest competitive challenge yet. The major change in the market this year is the potential ramping up of TPU sales to external clients. AI start-up Anthropic has made two major orders for them, totaling $21 billion, and social-media company Meta Platforms is also in talks to use the processors, according to The Wall Street Journal. “Many have turned to TPU as an intermediate alternative to GPU and we believe demand is accelerating significantly," wrote UBS analyst Timothy Arcuri in a research note this week. Arcuri forecasts that Broadcom will ship around 3.7 million TPUs this year, rising to more than five million in 2027. That would contribute to Broadcom generating AI revenue of around $60 billion in 2026, rising to $106 billion in 2027. By comparison, Nvidia is expected to generate around $300 billion in data-center sales for its fiscal 2027 year, ending in January next year, largely due to GPU sales, according to FactSet. The average selling price of Google and Broadcom’s TPUs is set to be between $10,500 and $15,000, headed for around $20,000 in the next few years, according to the UBS analyst. Nvidia doesn’t disclose the individual price of its chips but analysts generally put the cost of its latest Blackwell chips at between $40,000 and $50,000 per unit. That can make TPUs more attractive for inference—the process of generating answers or results from AI—although Nvidia continues to hold an advantage when it comes to training AI models. “According to benchmarks, the latest Ironwood TPU performance is comparable to [Nvidia’s] GB300 for inference, but is ~1/2 of that in training. Anecdotally, a model that could be trained in 35-50 days on latest NVDA GPUs would take ~3 months of training on TPUs," wrote Arcuri. Analysts at Mizuho estimate that currently between 20% and 40% of AI workloads are dedicated to inference, and that will grow to between 60% and 80% over the next five years. However, Nvidia could potentially strike back in the inference market with the use of technology from AI hardware start-up Groq. Nvidia recently agreed to purchase a nonexclusive license for technology from privately held Groq, which specializes in inference hardware. Nvidia paid $20 billion for Groq’s technology, including compensation packages for many of the company’s employees who joined Nvidia, The Wall Street Journal reported. Write to Adam Clark at adam.clark@barrons.com Download the Mint app and read premium stories Log in to our website to save your bookmarks. It'll just take a moment. You are just one step away from creating your watchlist! Oops! Looks like you have exceeded the limit to bookmark the image. Remove some to bookmark this image. Your session has expired, please login again. You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder. This is a subscriber only feature Subscribe Now to get daily updates on WhatsApp
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as January jobs report exceeds expectations
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-january-jobs-report-exceeds-expectations-235748329.html
-Time Published: 2026-02-10T23:57:48Z
-Description: All eyes are on the January jobs report for a steer on rate cuts, as signs of weakness emerge in the labor market.
---------------------------------------------------
-
 Title: Stock market today: Dow, S&P 500 waver, Nasdaq slides after January jobs report smashes expectations
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-waver-nasdaq-slides-after-january-jobs-report-smashes-expectations-235748121.html
 Time Published: 2026-02-10T23:57:48Z
 Description: The January jobs report blew past expectations, bolstering the case for interest rates to stay on hold.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures climb as January jobs report exceeds expectations
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-january-jobs-report-exceeds-expectations-235748329.html
+Time Published: 2026-02-10T23:57:48Z
+Description: All eyes are on the January jobs report for a steer on rate cuts, as signs of weakness emerge in the labor market.
 --------------------------------------------------
 
 Title: Stock-Split Watch: Is Nvidia (NVDA) Next?
@@ -110,36 +122,4 @@ URL: https://www.businessinsider.com/ai-stock-picks-openai-nvidia-google-corewea
 Time Published: 2026-02-10T10:15:01Z
 Full Content:
 Every time Naomi publishes a story, you’ll get an alert straight to your inbox! Enter your email By clicking “Sign up”, you agree to receive emails from Business Insider. In addition, you accept Insider’s Terms of Service and Privacy Policy. OpenAI's next funding round could be good news for four Big Tech stocks with links to the ChatGPT creator, DA Davidson says. OpenAI isn't publicly traded — at least not yet — but DA Davidson says a fresh wave of hype is coming on the heels of its next fundraising round, and it could could boost four stocks in its orbit. "We have been very critical on OpenAI overpromising, asking for government handouts and being spread too thin," DA Davidson analysts, led by Gil Luria, wrote about the AI company. "We believe OpenAI's behavior led to the underperformance in shares of NVDA, MSFT, CRWV and especially ORCL over the last 5 months." OpenAI is reportedly closing in on another fundraising round, with recent reports suggesting a $50 billion investment from Middle Eastern sovereign wealth funds is in the works. Futurum CEO and analyst Daniel Newman told Business Insider that they expect the next funding round will bring OpenAI's valuation to $750 billion to $850 billion. The analyst described the appetite for OpenAI in his conversations with investors to be "pretty insatiable." DA Davidson analysts wrote that they expect that yet another multibillion-dollar OpenAI funding round will reignite enthusiasm for the company and lift some connected AI stocks. "Since the market is currently assigning the OpenAI relationship a negative value, we believe the fundraise will serve as a catalyst for outperformance," they wrote of Oracle, CoreWeave, Nvidia, and Microsoft. OpenAI has come under fire for its reliance on debt and growing competition challenging its dominant position. The company is partnered with Oracle to build $500 billion of data centers as part of its Stargate project. OpenAI has yet to turn a profit. Another concern weighing on OpenAI is the notion that Alphabet's Google Gemini has caught up in the AI race. "We believe that a revamped OpenAI will return to its position as Google's top challenger and with a fresh stack of capital be able to live up to its obligations this year, including to Oracle," they said. The analysts upgraded Oracle to Buy from Neutral on their expectation that new funding for OpenAI will be a positive catalyst for the stock as well as general sentiment about OpenAI and the connected players. "We expect that as investors go back to seeing OpenAI as a winner, the public companies in its orbit could re-rate significantly. Most importantly that should drive outperformance in NVDA and MSFT, but also in CRWV, and even ORCL, which we are upgrading today based on our updated view on OpenAI," Their more bullish stance on OpenAI comes after the company corrected course. "OpenAI has started focusing on its core frontier model and ChatGPT, while de-emphasizing some marginals initiatives. This includes going down the path of turning on ads, which will be critical for increased monetization and reduced cash burn." They also noted a shift in the company's management that suggests they see a need to align with Nvidia, Microsoft, and Amazon, rather than compete. Jump to
---------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq put rally on hold as Wall Street braces for start of data deluge
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-put-rally-on-hold-as-wall-street-braces-for-start-of-data-deluge-235207637.html
-Time Published: 2026-02-09T23:52:07Z
-Description: Wall Street is gearing up for a closely watched jobs report amid a cooling labor market.
---------------------------------------------------
-
-Title: Nvidia Reportedly Faces Gaming GPU Delays: Does That Weaken the Bull Case for NVDA Stock Here?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7d982566-6825-4167-8cd2-69b0fb30c4f4
-Time Published: 2026-02-09T19:30:19Z
-Description: None
---------------------------------------------------
-
-Title: Stocks Recover Early Losses as Tech Stocks Rebound
-URL: https://www.barchart.com/story/news/109628/stocks-recover-early-losses-as-tech-stocks-rebound
-Time Published: 2026-02-09T16:14:27Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.46%, the Dow Jones Industrials Index ($DOWI ) (DIA ) is up +0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
-
-Title: Thiel Bypasses Palantir and Nvidia for Meta, Tesla, Apple in Contrarian AI Play
-URL: https://247wallst.com/investing/2026/02/09/thiel-bypasses-palantir-and-nvidia-for-meta-tesla-apple-in-contrarian-ai-play/
-Time Published: 2026-02-09T12:15:11Z
-Full Content:
-Investing Peter Thiel’s fund owns Meta (META), Tesla (TSLA) and Apple (AAPL) but holds no Palantir or Nvidia. This contrarian bet focuses on three AI application plays that use artificial intelligence rather than selling the infrastructure. Sending You to Google News in 3 © Summit Art Creations / Shutterstock.com Peter Thiel’s hedge fund is making a contrarian AI bet that avoids the sector’s most obvious winners. Despite co-founding Palantir Technologies (NASDAQ: PLTR | PLTR Price Prediction), Thiel’s fund doesn’t own a single share of the company. He’s also skipping Nvidia (NASDAQ: NVDA), the chip giant that has delivered 1,268% returns over five years. Instead, his portfolio focuses on three AI application plays that use artificial intelligence rather than selling the infrastructure. The fund’s largest AI position is Meta Platforms (NASDAQ: META), where Thiel served as a board member from 2005 to 2022 after his early Facebook investment. Meta just reported Q4 revenue of $59.89 billion, up 24% year-over-year, driven by AI-powered advertising improvements. The stock is trading at $661.46, essentially flat for 2026 with a 0.21% year-to-date gain. Tesla (NASDAQ: TSLA) represents Thiel’s bet on physical AI through autonomous driving and robotics. The company reported Q4 revenue of $24.90 billion, down 3% year-over-year, with CEO Musk positioning Tesla as a “physical AI company.” The stock is down 8.59% year-to-date and trades at $411.11. Thiel also established a new position in Apple Inc. (NASDAQ: AAPL) in the third quarter of 2025, utilizing capital from the liquidation of his Nvidia holdings. Apple now makes up roughly 27% of the portfolio. Thiel is betting on the iPhone maker’s capacity to profit from AI using its large user base. Year to date, the stock is up 2.30% and trades at $278.12. The Palantir absence is particularly striking. While the company posted explosive 137% year-over-year U.S. commercial revenue growth to $507 million in Q4, the stock has crashed 23.54% year-to-date. Insider transaction data shows CEO Alex Karp and other executives sold over 700,000 shares between November 2025 and January 2026, while Thiel’s name is conspicuously absent from recent filings. His strategy prioritizes AI users over AI builders. Our top personal finance-related articles today. Your wallet will thank you later. Billionaire Peter Thiel runs the hedge fund Thiel Macro and is known for playing a significant role in identifying growth… Peter Thiel just wrote a $3 million check to fight California’s wealth tax proposal. That’s his largest political donation in… Live Updates Apple CEO Eyes Departure Nov 17, 2025 at 3:32 PM EST Apple (Nasdaq; AAPL | AAPL Price Prediction)… Serial entrepreneur Peter Thiel became a billionaire through founding or backing some of the most successful companies in existence, mostly… As we come to the close of 2025, tech stocks are gaining pace, and they’ve remained one of the best… Nvidia‘s (NASDAQ:NVDA | NVDA Price Prediction) evolution from a gaming chips maker to the premier supplier for AI systems has… Peter Thiel is among the most prominent founders and investors among the younger generation. The Palantir Technologies (NYSE:PLTR | PLTR… Now is not the time to sit back and wait for the next big stock market drop. This is… Palantir Technologies (NASDAQ:PLTR | PLTR Price Prediction) shares surged 283% in 2024, leading the S&P 500 toward its second year…
---------------------------------------------------
-
-Title: Why are ASX 200 tech shares like WiseTech and NextDC going gangbusters on Monday
-URL: https://www.fool.com.au/2026/02/09/why-are-asx-200-tech-shares-like-wisetech-and-nextdc-going-gangbusters-on-monday/
-Time Published: 2026-02-09T00:29:29Z
-Description: ASX 200 tech shares are surging higher today. But why?
-The post Why are ASX 200 tech shares like WiseTech and NextDC going gangbusters on Monday appeared first on The Motley Fool Australia.
 --------------------------------------------------
