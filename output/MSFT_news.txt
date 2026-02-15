@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Why Wedbush Thinks Norway Could Be Key for This Quantum Computing Stock -- and the Entire Industry
+URL: https://www.barchart.com/story/news/225383/why-wedbush-thinks-norway-could-be-key-for-this-quantum-computing-stock-and-the-entire-industry
+Time Published: 2026-02-14T16:30:02Z
+Description: Norway's sovereign wealth fund invested $200 million in IonQ, $39 million in Rigetti, and $4 million in D-Wave. Wedbush sees this as a potential turning...
+--------------------------------------------------
+
 Title: OpenAI Launches OpenAI for Healthcare: 4 Key Focus Areas — Care Quality, Admin Efficiency, Clinical Solutions, Health Data Protection
 URL: https://blockchain.news/flashnews/openai-launches-openai-for-healthcare-4-key-focus-areas-care-quality-admin-efficiency-clinical-solutions-health-data-protection
 Time Published: 2026-02-14T07:59:41Z

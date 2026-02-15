@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Why Wedbush Thinks Norway Could Be Key for This Quantum Computing Stock -- and the Entire Industry
+URL: https://www.barchart.com/story/news/225383/why-wedbush-thinks-norway-could-be-key-for-this-quantum-computing-stock-and-the-entire-industry
+Time Published: 2026-02-14T16:30:02Z
+Description: Norway's sovereign wealth fund invested $200 million in IonQ, $39 million in Rigetti, and $4 million in D-Wave. Wedbush sees this as a potential turning...
+--------------------------------------------------
+
 Title: Amazon Bets Big on BETA: Why Analysts See 50% Upside
 URL: https://www.marketbeat.com/originals/amazon-bets-big-on-beta-why-analysts-see-50-upside/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2026-02-13T18:55:00Z
