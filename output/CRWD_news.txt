@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Morgan Stanley flags $45B hidden cybersecurity opportunity
+URL: https://www.thestreet.com/investing/stocks/morgan-stanley-flags-45b-hidden-cybersecurity-opportunity
+Time Published: 2026-02-15T18:47:00Z
+Description: Artificial intelligence-driven panic erased approximately $300 billion of market value on Feb. 3 across the software industry, according to Forbes...
+--------------------------------------------------
+
 Title: Who’s Left In the 10x ARR Club? The Incredible Shrinking Elite of Public B2B Companies Still Trading at 10x+ Revenue. But … The Best Is Yet To Come.
 URL: https://www.saastr.com/whos-left-in-the-10x-arr-club-the-incredible-shrinking-elite-of-public-b2b-companies-still-trading-at-10x-revenue-but-the-best-is-yet-to-come/
 Time Published: 2026-02-14T15:11:54Z
