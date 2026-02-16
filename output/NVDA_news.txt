@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA (NVDA) Invented Its Category, Says Jim Cramer
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0872f82b-95e8-47a0-b07f-6322938478a4
+Time Published: 2026-02-15T15:13:52Z
+Description: None
+--------------------------------------------------
+
 Title: market-data-mcp added to PyPI
 URL: https://pypi.org/project/market-data-mcp/
 Time Published: 2026-02-14T22:41:18Z
