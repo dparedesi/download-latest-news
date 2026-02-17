@@ -1,5 +1,18 @@
 List of news related to NVIDIA NVDA:
 
+Title: Is NVIDIA (NVDA) Clifford Asness’ Top Pick?
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_17ce5862-e4f6-4324-a747-54f880c59fb2
+Time Published: 2026-02-15T22:50:24Z
+Description: None
+--------------------------------------------------
+
+Title: The ultimate 4-ETF portfolio for ASX investors in 2026
+URL: https://www.fool.com.au/2026/02/16/the-ultimate-4-etf-portfolio-for-asx-investors-in-2026/
+Time Published: 2026-02-15T22:19:20Z
+Description: You don't need to buy hundreds of shares to build a winning portfolio.
+The post The ultimate 4-ETF portfolio for ASX investors in 2026 appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
 Title: NVIDIA (NVDA) Invented Its Category, Says Jim Cramer
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0872f82b-95e8-47a0-b07f-6322938478a4
 Time Published: 2026-02-15T15:13:52Z
@@ -84,17 +97,4 @@ Title: Stocks Mixed on Strength in Chipmakers and Weakness in Cisco Systems
 URL: https://www.barchart.com/story/news/184971/stocks-mixed-on-strength-in-chipmakers-and-weakness-in-cisco-systems
 Time Published: 2026-02-12T15:07:56Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.20%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.32%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
---------------------------------------------------
-
-Title: NVIDIA (NVDA) Must Comply with Strict U.S. Licensing Terms for Its H200 AI Chips China Exports
-URL: https://finance.yahoo.com/news/nvidia-nvda-must-comply-strict-192614699.html
-Time Published: 2026-02-11T19:26:14Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the best performing S&P 500 stocks in the last five years. Reuters reported on February 10, 2026, that NVIDIA...
---------------------------------------------------
-
-Title: Nvidia and Broadcom’s AI chips will go head-to-head. How they compare.
-URL: https://www.livemint.com/companies/nvidia-and-broadcom-s-ai-chips-will-go-head-to-head-how-they-compare-11770817437974.html
-Time Published: 2026-02-11T13:47:03Z
-Full Content:
-This is a Mint Premium article gifted to you. Subscribe to enjoy similar stories. Nvidia and Broadcom are increasingly being drawn into direct competition as artificial-intelligence companies look for the most cost-efficient way to train and run AI models. Analysts at UBS think demand is growing quickly for Broadcom’s processors as an alternative. Nvidia has enjoyed several years as the dominant provider of AI chips due to its strength in graphics-processing units (GPUs). However, the growth of Google’s Tensor Processing Units (TPUs)—which Broadcom helped design—has brought the biggest competitive challenge yet. The major change in the market this year is the potential ramping up of TPU sales to external clients. AI start-up Anthropic has made two major orders for them, totaling $21 billion, and social-media company Meta Platforms is also in talks to use the processors, according to The Wall Street Journal. “Many have turned to TPU as an intermediate alternative to GPU and we believe demand is accelerating significantly," wrote UBS analyst Timothy Arcuri in a research note this week. Arcuri forecasts that Broadcom will ship around 3.7 million TPUs this year, rising to more than five million in 2027. That would contribute to Broadcom generating AI revenue of around $60 billion in 2026, rising to $106 billion in 2027. By comparison, Nvidia is expected to generate around $300 billion in data-center sales for its fiscal 2027 year, ending in January next year, largely due to GPU sales, according to FactSet. The average selling price of Google and Broadcom’s TPUs is set to be between $10,500 and $15,000, headed for around $20,000 in the next few years, according to the UBS analyst. Nvidia doesn’t disclose the individual price of its chips but analysts generally put the cost of its latest Blackwell chips at between $40,000 and $50,000 per unit. That can make TPUs more attractive for inference—the process of generating answers or results from AI—although Nvidia continues to hold an advantage when it comes to training AI models. “According to benchmarks, the latest Ironwood TPU performance is comparable to [Nvidia’s] GB300 for inference, but is ~1/2 of that in training. Anecdotally, a model that could be trained in 35-50 days on latest NVDA GPUs would take ~3 months of training on TPUs," wrote Arcuri. Analysts at Mizuho estimate that currently between 20% and 40% of AI workloads are dedicated to inference, and that will grow to between 60% and 80% over the next five years. However, Nvidia could potentially strike back in the inference market with the use of technology from AI hardware start-up Groq. Nvidia recently agreed to purchase a nonexclusive license for technology from privately held Groq, which specializes in inference hardware. Nvidia paid $20 billion for Groq’s technology, including compensation packages for many of the company’s employees who joined Nvidia, The Wall Street Journal reported. Write to Adam Clark at adam.clark@barrons.com Download the Mint app and read premium stories Log in to our website to save your bookmarks. It'll just take a moment. You are just one step away from creating your watchlist! Oops! Looks like you have exceeded the limit to bookmark the image. Remove some to bookmark this image. Your session has expired, please login again. You are now subscribed to our newsletters. In case you can’t find any email from our side, please check the spam folder. This is a subscriber only feature Subscribe Now to get daily updates on WhatsApp
 --------------------------------------------------
