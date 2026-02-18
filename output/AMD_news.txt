@@ -11,9 +11,3 @@ URL: https://www.cnbc.com/2026/02/13/nvidias-stock-is-down-and-amd-is-up-the-cul
 Time Published: 2026-02-13T20:38:27Z
 Description: Shares of Nvidia fell on Friday, while rival Advanced Micro Devices rallied after the CEO of Arista Networks said her company is shifting some workloads.
 --------------------------------------------------
-
-Title: The Next Semiconductor Winner Might Not Be Nvidia
-URL: https://www.barchart.com/story/news/194542/the-next-semiconductor-winner-might-not-be-nvidia
-Time Published: 2026-02-12T22:25:52Z
-Description: The AI boom is creating room for more than one winner.
---------------------------------------------------

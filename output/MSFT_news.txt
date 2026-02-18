@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: 1 Ultimate Picks-and-Shovels AI Stock That Has a Billionaire Investor Loading Up
+URL: https://www.barchart.com/story/news/240008/1-ultimate-picks-and-shovels-ai-stock-that-has-a-billionaire-investor-loading-up
+Time Published: 2026-02-16T14:00:02Z
+Description: Elliott Management just made a power move that has the market buzzing, taking an undisclosed stake in London Stock Exchange Group.
+--------------------------------------------------
+
 Title: Why Wedbush Thinks Norway Could Be Key for This Quantum Computing Stock -- and the Entire Industry
 URL: https://www.barchart.com/story/news/225383/why-wedbush-thinks-norway-could-be-key-for-this-quantum-computing-stock-and-the-entire-industry
 Time Published: 2026-02-14T16:30:02Z
@@ -17,10 +23,4 @@ Title: Nebius' Q4 Earnings Miss Doesn't Change Its Growth Narrative
 URL: https://www.marketbeat.com/originals/nebius-q4-earnings-miss-doesnt-change-its-growth-narrative/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2026-02-13T23:28:00Z
 Description: Nebius is rapidly expanding its data center footprint to meet robust demand, and growth is forecast to exceed 500% this year.
---------------------------------------------------
-
-Title: Street Reassesses Microsoft (MSFT) Amid Azure Growth and Capex Concerns
-URL: https://finance.yahoo.com/news/street-reassesses-microsoft-msft-amid-153855197.html
-Time Published: 2026-02-12T15:38:55Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is among the best machine learning stocks to buy according to analysts. On February 5, Bloomberg reported that Stifel...
 --------------------------------------------------

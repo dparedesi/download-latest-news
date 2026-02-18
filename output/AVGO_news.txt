@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: These 2 Dividend ETFs Could Shine if Rate Cuts Hit Again in 2026
+URL: https://www.marketbeat.com/originals/vig-vs-schd-which-dividend-growth-etf-will-have-a-better-year/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2026-02-16T13:23:00Z
+Description: As rates remain low, the SCHD offers defensive sectors and strong yield, while the VIG provides tech exposure alongside income.
+--------------------------------------------------
+
 Title: Jim Cramer Discusses Broadcom (AVGO) Stock
 URL: https://finance.yahoo.com/news/jim-cramer-discusses-broadcom-avgo-151357096.html
 Time Published: 2026-02-15T15:13:57Z
@@ -23,10 +29,4 @@ Title: Broadcom Inc. (AVGO) Draws ARK Investment Amid Positive AI Growth Outlook
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0f7fb692-20f1-4262-99fc-5232a533b70d
 Time Published: 2026-02-13T15:09:39Z
 Description: None
---------------------------------------------------
-
-Title: As Cathie Wood Gobbles Up the Dip in Broadcom Stock, Should You Add AVGO Too?
-URL: https://www.barchart.com/story/news/184022/as-cathie-wood-gobbles-up-the-dip-in-broadcom-stock-should-you-add-avgo-too
-Time Published: 2026-02-12T14:30:02Z
-Description: Cathie Wood added AVGO shares across her funds last week.
 --------------------------------------------------

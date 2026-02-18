@@ -11,21 +11,3 @@ URL: https://finance.yahoo.com/news/da-davidson-gives-taiwan-semiconductor-12415
 Time Published: 2026-02-16T12:41:55Z
 Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the 15 AI Stocks That Are Skyrocketing. On February 12, DA Davidson initiated...
 --------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures falter after AI-stoked sell-off with CPI inflation on deck
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-falter-after-ai-stoked-sell-off-with-cpi-inflation-on-deck-234823587.html
-Time Published: 2026-02-12T23:48:23Z
-Description: Investors are bracing for a report on the consumer price index for January, a key input for Fed policy making on rates.
---------------------------------------------------
-
-Title: Stock market today: CPI inflation cools more than expected, putting pressure on S&P 500, Dow, Nasdaq
-URL: https://finance.yahoo.com/news/live/stock-market-today-cpi-inflation-cools-more-than-expected-putting-pressure-on-sp-500-dow-nasdaq-234823957.html
-Time Published: 2026-02-12T23:48:23Z
-Description: Odds of a Fed rate cut in June nudge higher after 'core' consumer inflation comes in at its lowest rate in four years.
---------------------------------------------------
-
-Title: Demand Boom Lifted Taiwan Semiconductor Manufacturing Company Limited (TSM) to New Heights
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b5e040db-d22c-49ea-81a9-cd7431d842b2
-Time Published: 2026-02-12T15:26:31Z
-Description: None
---------------------------------------------------
