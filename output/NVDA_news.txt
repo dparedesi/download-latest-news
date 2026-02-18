@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Stock market today: Nasdaq, S&P 500 slide to kick off shortened week with AI fears in focus
+URL: https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-slide-to-kick-off-shortened-week-with-ai-fears-in-focus-143417547.html
+Time Published: 2026-02-17T14:34:17Z
+Description: Wall Street is in the middle of an AI shake-up as a tech sell-off has now extended to a wide range of industries.
+--------------------------------------------------
+
+Title: ‘Get Ready’: Investor Says Nvidia Stock (NVDA) Has a Big Move Ahead - TipRanks
+URL: https://slashdot.org/firehose.pl?op=view&amp;id=180810200
+Time Published: 2026-02-17T12:52:25Z
+Description: ‘Get Ready’: Investor Says Nvidia Stock (NVDA) Has a Big Move AheadTipRanks Where Will Nvidia Be in 1 Year?Yahoo Finance Nvidia Stock Falls. 2 Reasons to Be Positive About Its AI Chips.Barron's NVIDIA Analysts Say Buy Ahead of Q4 Earnings, With ConvictionMark…
+--------------------------------------------------
+
 Title: 3 amazing ASX ETFs for beginners to buy
 URL: https://www.fool.com.au/2026/02/17/3-amazing-asx-etfs-for-beginners-to-buy/
 Time Published: 2026-02-17T06:25:39Z
