@@ -11,9 +11,3 @@ URL: https://www.barchart.com/story/news/231882/is-amd-stock-a-buy-why-wall-stre
 Time Published: 2026-02-15T15:00:02Z
 Description: AMD is well-positioned for strong growth in 2026, driven by rising demand in the data center and PC markets.
 --------------------------------------------------
-
-Title: Nvidia's stock is down and AMD is up. The culprit may be Arista.
-URL: https://www.cnbc.com/2026/02/13/nvidias-stock-is-down-and-amd-is-up-the-culprit-may-be-arista-.html
-Time Published: 2026-02-13T20:38:27Z
-Description: Shares of Nvidia fell on Friday, while rival Advanced Micro Devices rallied after the CEO of Arista Networks said her company is shifting some workloads.
---------------------------------------------------

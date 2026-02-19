@@ -1,5 +1,11 @@
 List of news related to Adobe stock price ADBE:
 
+Title: Market Update: Afternoon Gains for Major Indexes
+URL: https://www.barchart.com/story/news/260226/stocks-retreat-on-ai-anxiety
+Time Published: 2026-02-17T16:22:24Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.29%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
+--------------------------------------------------
+
 Title: Adobe Inc (ADBE)’s Upside Potential Tested by Lawsuits and Strategy Shifts
 URL: https://finance.yahoo.com/news/adobe-inc-adbe-upside-potential-110449137.html
 Time Published: 2026-02-17T11:04:49Z

@@ -1,5 +1,17 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Market Update: Afternoon Gains for Major Indexes
+URL: https://www.barchart.com/story/news/260226/stocks-retreat-on-ai-anxiety
+Time Published: 2026-02-17T16:22:24Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.29%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
+--------------------------------------------------
+
+Title: CrowdStrike Is Challenging Its 20-Day Moving Average. Should You Bet on CRWD Stock Now?
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_be3c5c21-a405-4a83-83da-11bd1999f441
+Time Published: 2026-02-17T14:44:32Z
+Description: None
+--------------------------------------------------
+
 Title: NordVPN Partners With CrowdStrike (CRWD) to Boost Consumer Threat Protection
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_96560d8c-02f8-424f-9c77-e47fe124da5e
 Time Published: 2026-02-17T12:06:22Z
@@ -23,10 +35,4 @@ Title: CrowdStrike (CRWD) Draws Fresh Optimism as HSBC Sees Attractive Entry Poi
 URL: https://finance.yahoo.com/news/crowdstrike-crwd-draws-fresh-optimism-142308170.html
 Time Published: 2026-02-14T14:23:08Z
 Description: CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is one of the AI stocks currently on Wall Street’s radar. Crowdstrike is trading at an attractive valuation...
---------------------------------------------------
-
-Title: Your Encryption Is Already Outdated. A $6.15 Trillion Fix Is Underway
-URL: https://financialpost.com/globe-newswire/your-encryption-is-already-outdated-a-6-15-trillion-fix-is-underway
-Time Published: 2026-02-13T16:45:04Z
-Description: Issued on behalf of QSE – Quantum Secure Encryption Corp. VANCOUVER, British Columbia, Feb. 13, 2026 (GLOBE NEWSWIRE) — USA News Group News Commentary – Gartner projects worldwide IT spending will hit $6.15 trillion in 2026, with data center spending alone su…
 --------------------------------------------------
