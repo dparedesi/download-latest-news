@@ -1,9 +1,21 @@
 List of news related to Meta stock price META:
 
+Title: Iran-U.S. talks and Ukraine-Russia negotiations in focus — progress in sight?
+URL: https://www.cnbc.com/2026/02/18/iran-us-talks-and-ukraine-russia-negotiations-in-focus-progress-in-sight.html
+Time Published: 2026-02-18T08:10:02Z
+Description: Geopolitics will be the main theme of the day, with markets watching the high-stakes talks between the U.S. and Iran, as well as Ukraine and Russia.
+--------------------------------------------------
+
 Title: Stock market today: Live updates
 URL: https://www.cnbc.com/2026/02/17/stock-market-today-live-updates.html
 Time Published: 2026-02-17T23:02:46Z
 Description: The major averages posted slim gains on Tuesday, kicking off a holiday-shortened week.
+--------------------------------------------------
+
+Title: Bank of America resets Nvidia stock forecast
+URL: https://www.thestreet.com/investing/stocks/bank-of-america-resets-nvidia-stock-forecast
+Time Published: 2026-02-17T22:47:00Z
+Description: Nvidia (NVDA) stock has gained about 32% over the past year, at the time of writing, Tuesday afternoon, Feb. 17, according to Yahoo Finance. Meanwhile, the...
 --------------------------------------------------
 
 Title: The memory shortage is driving up the cost of your next laptop
