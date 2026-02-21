@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Cantor Fitzgerald doubles down on crypto stock
+URL: https://www.thestreet.com/crypto/markets/cantor-fitzgerald-bets-big-on-ai-pivoting-miner
+Time Published: 2026-02-19T21:35:48Z
+Description: Cantor Fitzgerald significantly expanded its stake in Bitcoin (BTC) mining and AI cloud firm IREN Ltd (Nasdaq: IREN). In a Feb. 17 filing with the U.S...
+--------------------------------------------------
+
 Title: Broadcom Introduces Industry’s First 6G Digital Front-End SoC for Massive MIMO
 URL: https://www.globenewswire.com/news-release/2026/02/19/3241148/19933/en/Broadcom-Introduces-Industry-s-First-6G-Digital-Front-End-SoC-for-Massive-MIMO.html
 Time Published: 2026-02-19T14:00:00Z
@@ -56,10 +62,4 @@ Title: These 2 Dividend ETFs Could Shine if Rate Cuts Hit Again in 2026
 URL: https://www.marketbeat.com/originals/vig-vs-schd-which-dividend-growth-etf-will-have-a-better-year/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2026-02-16T13:23:00Z
 Description: As rates remain low, the SCHD offers defensive sectors and strong yield, while the VIG provides tech exposure alongside income.
---------------------------------------------------
-
-Title: Jim Cramer Discusses Broadcom (AVGO) Stock
-URL: https://finance.yahoo.com/news/jim-cramer-discusses-broadcom-avgo-151357096.html
-Time Published: 2026-02-15T15:13:57Z
-Description: We recently published 13 Stocks Jim Cramer Talked About. Broadcom Inc. (NASDAQ:AVGO) is one of the stocks that Jim Cramer talked about. Broadcom Inc...
 --------------------------------------------------
