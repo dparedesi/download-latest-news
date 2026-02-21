@@ -1,10 +1,15 @@
 List of news related to NVIDIA NVDA:
 
+Title: 1 Analyst Thinks This Stock is The "Godfather of AI"
+URL: https://www.barchart.com/story/news/326021/1-analyst-thinks-this-stock-is-the-godfather-of-ai
+Time Published: 2026-02-20T12:30:02Z
+Description: The tech selloff has not spared Nvidia, but this dip could be a golden entry point for long-term AI investors.
+--------------------------------------------------
+
 Title: Nvidia (NVDA) Partners With Meta Platforms in Multiyear Deal for Millions of Blackwell and Rubin AI Chips
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5682319f-40b9-49f1-a5b9-a32e6e96e2b2
 Time Published: 2026-02-20T09:07:44Z
-Full Content:
-Your privacy is important to us Yahoo is part of the Yahoo family of brandsThe sites and apps that we own and operate, including Yahoo and Engadget, and our digital advertising service, Yahoo Advertising.Yahoo family of brands. If you do not want us and our partners to use cookies and personal data for these additional purposes, click 'Reject all'. If you would like to customise your choices, click 'Manage privacy settings'. You can withdraw your consent or change your choices at any time by clicking on the 'Privacy and Cookie settings' or 'Privacy dashboard' links on our sites and apps. Find out more about how we use your personal data in our Privacy Policy and Cookie Policy.
+Description: None
 --------------------------------------------------
 
 Title: Nvidia Dumps $100 Billion Plan for a Much Smaller OpenAI Investment Bet
