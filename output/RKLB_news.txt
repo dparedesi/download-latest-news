@@ -1,5 +1,11 @@
 List of news related to Rocket Lab RKLB:
 
+Title: Earnings live: Nvidia earnings will offer crucial AI update, cap off 'Magnificent Seven' results
+URL: https://finance.yahoo.com/news/live/earnings-live-nvidia-earnings-will-offer-crucial-ai-update-cap-off-magnificent-seven-results-214902871.html
+Time Published: 2026-02-20T21:49:02Z
+Description: The S&P 500 was on track for double-digit earnings growth, with more than half of companies having reported Q4 results so far.
+--------------------------------------------------
+
 Title: AST SpaceMobile, Intuitive Machines, and Rocket Lab Tumble While Iridium Gains
 URL: https://247wallst.com/investing/2026/02/17/ast-spacemobile-intuitive-machines-and-rocket-lab-tumble-while-iridium-gains/
 Time Published: 2026-02-17T13:39:25Z

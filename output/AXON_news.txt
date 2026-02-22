@@ -1,5 +1,11 @@
 List of news related to Axon Enterprise AXON:
 
+Title: Earnings live: Nvidia earnings will offer crucial AI update, cap off 'Magnificent Seven' results
+URL: https://finance.yahoo.com/news/live/earnings-live-nvidia-earnings-will-offer-crucial-ai-update-cap-off-magnificent-seven-results-214902871.html
+Time Published: 2026-02-20T21:49:02Z
+Description: The S&P 500 was on track for double-digit earnings growth, with more than half of companies having reported Q4 results so far.
+--------------------------------------------------
+
 Title: Axon Enterprise Inc (AXON)’s Expanding Role in Digital Infrastructure and Law Enforcement
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_37222321-dedb-47f4-88cb-61fe4c8c8eca
 Time Published: 2026-02-17T11:04:56Z
