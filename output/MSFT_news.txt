@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stocks Settle Higher as SCOTUS Rejects President Trump’s Tariffs
+URL: https://www.barchart.com/story/news/337060/stocks-settle-higher-as-scotus-rejects-president-trumps-tariffs
+Time Published: 2026-02-20T21:33:54Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed up +0.69%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.47%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
+Title: Stocks Rebound as Supreme Court Strikes Down President Trump’s Tariffs
+URL: https://www.barchart.com/story/news/331609/stocks-rebound-as-supreme-court-strikes-down-president-trumps-tariffs
+Time Published: 2026-02-20T16:25:45Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.58%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
+--------------------------------------------------
+
 Title: As Microsoft Extends 20% OpenAI Deal, Is the Bull Case for MSFT Stronger Here?
 URL: https://www.barchart.com/story/news/313188/as-microsoft-extends-20-openai-deal-is-the-bull-case-for-msft-stronger-here
 Time Published: 2026-02-19T20:39:18Z
@@ -40,16 +52,4 @@ Title: Melius Research Downgrades Microsoft Corporation (MSFT) Stock to Hold
 URL: https://finance.yahoo.com/news/melius-research-downgrades-microsoft-corporation-123439830.html
 Time Published: 2026-02-17T12:34:39Z
 Description: Microsoft Corporation (NASDAQ:MSFT) is among the 14 Best Cloud Computing Stocks to Buy Right Now. On February 9, Melius Research downgraded the company’s...
---------------------------------------------------
-
-Title: Meta's Platfroms' New Bull: Why Billionaire Bill Ackman Is Buying
-URL: https://www.marketbeat.com/originals/metas-platfroms-new-bull-why-billionaire-bill-ackman-is-buying/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2026-02-16T19:01:00Z
-Description: Billionaire and hedge fund manager Bill Ackman just called Meta Platforms "deeply discounted", acquiring a multi-billion dollar stake in the company.
---------------------------------------------------
-
-Title: 1 Ultimate Picks-and-Shovels AI Stock That Has a Billionaire Investor Loading Up
-URL: https://www.barchart.com/story/news/240008/1-ultimate-picks-and-shovels-ai-stock-that-has-a-billionaire-investor-loading-up
-Time Published: 2026-02-16T14:00:02Z
-Description: Elliott Management just made a power move that has the market buzzing, taking an undisclosed stake in London Stock Exchange Group.
 --------------------------------------------------
