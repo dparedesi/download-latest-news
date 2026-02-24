@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Billionaire fund manager drops $2.8 billion on Big Tech stocks
+URL: https://www.thestreet.com/investing/stocks/billionaire-fund-manager-drops-2-8-billion-on-big-tech-stocks
+Time Published: 2026-02-23T17:33:00Z
+Description: Billionaire fund manager Steven Cohen went all-in on tech, cannonballing in a space that’s been under serious duress of late. His hedge fund, Point72...
+--------------------------------------------------
+
 Title: DA Davidson Assigns TSMC (TSM) a Buy Rating Amid AI Demand Growth
 URL: https://finance.yahoo.com/news/da-davidson-assigns-tsmc-tsm-083811149.html
 Time Published: 2026-02-19T08:38:11Z
