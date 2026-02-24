@@ -1,5 +1,11 @@
 List of news related to Meta stock price META:
 
+Title: The AI boom is helping Samsung and coming for Apple
+URL: https://finance.yahoo.com/news/the-ai-boom-is-helping-samsung-and-coming-for-apple-110057196.html
+Time Published: 2026-02-23T11:00:57Z
+Description: Samsung is using the AI chip shortage to juice its margins. That could hurt Apple.
+--------------------------------------------------
+
 Title: How the AI debt binge shattered hyperscalers’ ‘unspoken contract’ with investors
 URL: https://www.cnbc.com/2026/02/23/big-techs-ai-bond-binge-shatters-unspoken-contract-with-investors.html
 Time Published: 2026-02-23T06:06:22Z

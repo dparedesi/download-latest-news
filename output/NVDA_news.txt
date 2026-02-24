@@ -1,5 +1,18 @@
 List of news related to NVIDIA NVDA:
 
+Title: The AI boom is helping Samsung and coming for Apple
+URL: https://finance.yahoo.com/news/the-ai-boom-is-helping-samsung-and-coming-for-apple-110057196.html
+Time Published: 2026-02-23T11:00:57Z
+Description: Samsung is using the AI chip shortage to juice its margins. That could hurt Apple.
+--------------------------------------------------
+
+Title: Circle Internet, crypto miners report earnings: Crypto Week Ahead
+URL: https://www.coindesk.com/markets/2026/02/23/circle-internet-crypto-miners-report-earnings-crypto-week-ahead
+Time Published: 2026-02-23T09:24:02Z
+Full Content:
+You are reading Crypto Week Ahead: a comprehensive list of what's coming up in the world of cryptocurrencies and blockchain in the coming days, as well as the major macroeconomic events that will influence digital asset markets. For an updated daily email reminder of what's expected, click here to sign up for Crypto Daybook Americas. You won't want to start your day without it. The week will be dominated by earnings reports from crypto-related companies, though the repercussions of the U.S. Supreme Court's decision on tariffs on Friday are also likely to ripple through markets. Miners including MARA Holdings (MARA) and Hut 8 (HUT) are on the roster, and will fuel the conversation over diversification into high-performance computing centers and support for AI. Also on the AI front, Nvidia (NVDA), a maker of chips for the AI industry and the world's largest publicly traded company by market capitalization, reports earnings on Wednesday. Circle Internet (CRCL), issuer of the second-largest stablecoin, USDC, is also on Wednesday's list. In the wider economy, a number of U.S. Federal Reserve policymakers are set to make speeches in the coming days. And don't forget the U.S.-Iran talks, which resume on Geneva on Thursday even as both sides build up their military preparations. (All times ET) More For You Bitcoin's price discovery is moving to Chicago CME’s shift to nonstop derivatives access may accelerate institutional migration away from traditional crypto exchanges, according to the Chief Commercial Officer of XBTO. What to know: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
+--------------------------------------------------
+
 Title: Nvidia re-enters PC market with AI-powered laptop chips (NVDA:NASDAQ) - Seeking Alpha
 URL: https://slashdot.org/firehose.pl?op=view&amp;id=180843904
 Time Published: 2026-02-22T22:32:29Z
