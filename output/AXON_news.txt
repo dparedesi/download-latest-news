@@ -1,5 +1,11 @@
 List of news related to Axon Enterprise AXON:
 
+Title: Earnings live: Domino's stock rises, Dominion Energy stock slips as investors await crucial update from Nvidia
+URL: https://finance.yahoo.com/news/live/earnings-live-dominos-stock-rises-dominion-energy-stock-slips-as-investors-await-crucial-update-from-nvidia-132417105.html
+Time Published: 2026-02-23T13:24:17Z
+Description: The S&P 500 was on track for double-digit earnings growth, with more than half of companies having reported Q4 results so far.
+--------------------------------------------------
+
 Title: Earnings live: Nvidia earnings will offer crucial AI update, cap off 'Magnificent Seven' results
 URL: https://finance.yahoo.com/news/live/earnings-live-nvidia-earnings-will-offer-crucial-ai-update-cap-off-magnificent-seven-results-214902871.html
 Time Published: 2026-02-20T21:49:02Z
