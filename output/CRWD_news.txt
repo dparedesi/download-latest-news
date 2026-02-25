@@ -1,5 +1,17 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Stocks Finish Sharply Lower on Trade Uncertainty and AI-Disruption Fears
+URL: https://www.barchart.com/story/news/373073/stocks-finish-sharply-lower-on-trade-uncertainty-and-ai-disruption-fears
+Time Published: 2026-02-23T21:36:15Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed down -1.04%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.66%, and the Nasdaq 100 Index ...
+--------------------------------------------------
+
+Title: CrowdStrike Hits Oversold Territory on Anthropic AI Launch. Should You Buy CRWD Stock on the Dip?
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_235fdbc8-f294-4c1e-a1f0-eb9b68c6ff89
+Time Published: 2026-02-23T20:59:06Z
+Description: None
+--------------------------------------------------
+
 Title: Claude Code Security Causes A SaaS-Pocalypse In Cybersecurity
 URL: https://www.forrester.com/blogs/claude-code-security-causes-a-saas-pocalypse-in-cybersecurity/
 Time Published: 2026-02-23T18:49:29Z

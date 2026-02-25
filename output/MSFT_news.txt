@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stocks Finish Sharply Lower on Trade Uncertainty and AI-Disruption Fears
+URL: https://www.barchart.com/story/news/373073/stocks-finish-sharply-lower-on-trade-uncertainty-and-ai-disruption-fears
+Time Published: 2026-02-23T21:36:15Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed down -1.04%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.66%, and the Nasdaq 100 Index ...
+--------------------------------------------------
+
 Title: Does Microsoft Deserve Its Decade-Low Multiple?
 URL: https://247wallst.com/investing/2026/02/22/does-microsoft-deserve-its-decade-low-multiple/
 Time Published: 2026-02-22T13:37:05Z
