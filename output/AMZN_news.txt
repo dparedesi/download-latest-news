@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Amazon (AMZN) Stock Rebounds Slightly After Sharp Sell-Off on Heavy AI Spending Concerns, Trades Near $205
+URL: https://www.ibtimes.com.au/amazon-amzn-stock-rebounds-slightly-after-sharp-sell-off-heavy-ai-spending-concerns-trades-near-1862012
+Time Published: 2026-02-24T16:25:17Z
+Description: Amazon.com Inc.'s stock has pulled back sharply in early 2026, shedding more than 10% year-to-date amid investor worries over the company's aggressive $200 billion capital expenditure plan for artificial intelligence infrastructure, even as its core AWS cloud…
+--------------------------------------------------
+
 Title: Amazon (AMZN) Feels Misunderstood, Says Jim Cramer
 URL: https://finance.yahoo.com/news/amazon-amzn-feels-misunderstood-says-170555488.html
 Time Published: 2026-02-22T17:05:55Z
