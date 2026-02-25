@@ -1,5 +1,11 @@
 List of news related to Adobe stock price ADBE:
 
+Title: Stocks Slip on US Trade Uncertainty
+URL: https://www.barchart.com/story/news/365170/stocks-slip-on-us-trade-uncertainty
+Time Published: 2026-02-23T15:01:48Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.22%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.24%, and the Nasdaq 100 Index ($IUXX...
+--------------------------------------------------
+
 Title: Adobe (ADBE) Stock Has Been Beaten Up But the Smart Money Remains Resilient
 URL: https://www.barchart.com/story/news/352800/adobe-adbe-stock-has-been-beaten-up-but-the-smart-money-remains-resilient
 Time Published: 2026-02-22T15:30:02Z
@@ -10,10 +16,4 @@ Title: Reasons Why Adobe (ADBE) Offers Such Impressive Upside
 URL: https://finance.yahoo.com/news/reasons-why-adobe-adbe-offers-163645712.html
 Time Published: 2026-02-20T16:36:45Z
 Description: Adobe Incorporated (NASDAQ:ADBE) is one of the 12 oversold software stocks to invest in. On January 14, Robert Oliver of Baird reiterated his Neutral rating ...
---------------------------------------------------
-
-Title: Why Wall Street Is Turning Cautious on Adobe Inc. (ADBE)
-URL: https://finance.yahoo.com/news/why-wall-street-turning-cautious-054246646.html
-Time Published: 2026-02-19T05:42:46Z
-Description: Adobe Inc. (NASDAQ:ADBE) is among the most profitable software stocks to buy now. On February 11, Adobe Inc. (NASDAQ:ADBE) reached a new low of $257.64 over ...
 --------------------------------------------------

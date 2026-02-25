@@ -6,6 +6,12 @@ Time Published: 2026-02-23T13:24:17Z
 Description: The S&P 500 was on track for double-digit earnings growth, with more than half of companies having reported Q4 results so far.
 --------------------------------------------------
 
+Title: Do Wall Street Analysts Like Axon Enterprise Stock?
+URL: https://www.barchart.com/story/news/361264/do-wall-street-analysts-like-axon-enterprise-stock
+Time Published: 2026-02-23T12:48:18Z
+Description: Axon Enterprise has markedly lagged the broader market over the past year, but analysts remain strongly bullish on the stock’s outlook.
+--------------------------------------------------
+
 Title: Earnings live: Nvidia earnings will offer crucial AI update, cap off 'Magnificent Seven' results
 URL: https://finance.yahoo.com/news/live/earnings-live-nvidia-earnings-will-offer-crucial-ai-update-cap-off-magnificent-seven-results-214902871.html
 Time Published: 2026-02-20T21:49:02Z
