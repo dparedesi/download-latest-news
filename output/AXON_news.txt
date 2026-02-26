@@ -1,5 +1,17 @@
 List of news related to Axon Enterprise AXON:
 
+Title: Stocks Rebound as Software Stocks Recover
+URL: https://www.barchart.com/story/news/390594/stocks-rebound-as-software-stocks-recover
+Time Published: 2026-02-24T14:59:35Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.17%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
+--------------------------------------------------
+
+Title: Stock Index Futures Mixed With Focus on Trump’s SOTU Address and U.S. Economic Data
+URL: https://www.barchart.com/story/news/382929/stock-index-futures-gain-after-ai-scare-trumps-sotu-address-and-u-s-economic-data-in-focus
+Time Published: 2026-02-24T11:29:07Z
+Description: March S&P 500 E-Mini futures (ESH26) are down -0.04%, and March Nasdaq 100 E-Mini futures (NQH26) are up +0.21% this morning as sentiment remains cautious...
+--------------------------------------------------
+
 Title: Stocks Finish Sharply Lower on Trade Uncertainty and AI-Disruption Fears
 URL: https://www.barchart.com/story/news/373073/stocks-finish-sharply-lower-on-trade-uncertainty-and-ai-disruption-fears
 Time Published: 2026-02-23T21:36:15Z
@@ -16,10 +28,4 @@ Title: Do Wall Street Analysts Like Axon Enterprise Stock?
 URL: https://www.barchart.com/story/news/361264/do-wall-street-analysts-like-axon-enterprise-stock
 Time Published: 2026-02-23T12:48:18Z
 Description: Axon Enterprise has markedly lagged the broader market over the past year, but analysts remain strongly bullish on the stock’s outlook.
---------------------------------------------------
-
-Title: Earnings live: Nvidia earnings will offer crucial AI update, cap off 'Magnificent Seven' results
-URL: https://finance.yahoo.com/news/live/earnings-live-nvidia-earnings-will-offer-crucial-ai-update-cap-off-magnificent-seven-results-214902871.html
-Time Published: 2026-02-20T21:49:02Z
-Description: The S&P 500 was on track for double-digit earnings growth, with more than half of companies having reported Q4 results so far.
 --------------------------------------------------
