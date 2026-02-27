@@ -6,10 +6,28 @@ Time Published: 2026-02-25T16:10:17Z
 Description: None
 --------------------------------------------------
 
+Title: Stocks Climb Ahead of Nvidia’s Earnings Results
+URL: https://www.barchart.com/story/news/418543/stocks-climb-ahead-of-nvidias-earnings-results
+Time Published: 2026-02-25T16:07:30Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.47%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.21%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
+--------------------------------------------------
+
+Title: As Intel Partners with SambaNova, Should You Buy, Sell, or Hold INTC Stock?
+URL: https://www.barchart.com/story/news/418533/as-intel-partners-with-sambanova-should-you-buy-sell-or-hold-intc-stock
+Time Published: 2026-02-25T16:06:43Z
+Description: Intel will be a part of the company's $350 million financing round.
+--------------------------------------------------
+
 Title: TD Cowen Adjusts Broadcom (AVGO) Valuation, Highlights Long-Term AI Tailwinds
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4fc26bb9-4563-4582-b78d-e4aaab2ca28f
 Time Published: 2026-02-25T15:58:05Z
 Description: None
+--------------------------------------------------
+
+Title: Is Accenture Stock Underperforming the Nasdaq?
+URL: https://www.barchart.com/story/news/411222/is-accenture-stock-underperforming-the-nasdaq
+Time Published: 2026-02-25T12:11:58Z
+Description: Accenture has trailed the Nasdaq Composite Index over the past year, yet analyst sentiment remains moderately positive on its outlook.
 --------------------------------------------------
 
 Title: Ambarella, Inc. (AMBA): A Bull Case Theory
@@ -58,10 +76,4 @@ Title: Broadcom Inc. (AVGO) Draws Mixed Analyst Views as AI ASIC Momentum Faces 
 URL: https://finance.yahoo.com/news/broadcom-inc-avgo-draws-mixed-165258453.html
 Time Published: 2026-02-22T16:52:58Z
 Description: Broadcom Inc. (NASDAQ:AVGO) is one the Top 10 AI Stocks in Focus on Wall Street. Despite optimism around the company’s AI exposure, recent analyst commentary...
---------------------------------------------------
-
-Title: Ray Dalio Sours On America And Sold These Tech Stocks
-URL: https://247wallst.com/investing/2026/02/21/ray-dalio-sours-on-america-and-sold-these-tech-stocks/
-Time Published: 2026-02-21T19:12:34Z
-Description: Legendary investor Ray Dalio has repeatedly expressed concerns about the U.S. economy. He’s discussed the unsustainable debt and geopolitical conflicts and...
 --------------------------------------------------
