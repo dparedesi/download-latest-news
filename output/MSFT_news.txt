@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stocks Retreat on AI Disruption Concerns and Geopolitical Risks
+URL: https://www.barchart.com/story/news/471861/stocks-retreat-on-ai-disruption-concerns-and-geopolitical-risks
+Time Published: 2026-02-27T16:14:55Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.61%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -1.17%, and the Nasdaq 100 Index ($IUXX...
+--------------------------------------------------
+
 Title: Director Stanton John Just Bought $2 Million of Microsoft Stock. Should You Buy MSFT Too?
 URL: https://www.barchart.com/story/news/444742/director-stanton-john-just-bought-2-million-of-microsoft-stock-should-you-buy-msft-too
 Time Published: 2026-02-26T15:15:02Z
@@ -46,10 +52,4 @@ Title: Microsoft (MSFT) Stock Closes at $428.15 as Cloud and AI Momentum Offsets
 URL: https://www.ibtimes.com.au/microsoft-msft-stock-closes-42815-cloud-ai-momentum-offsets-broader-tech-caution-1862004
 Time Published: 2026-02-24T15:48:59Z
 Description: Microsoft Corporation (NASDAQ: MSFT) shares finished Monday, February 23, 2026, at $428.15, down 0.68% from the prior session's $431.09 close
---------------------------------------------------
-
-Title: Stocks Finish Sharply Lower on Trade Uncertainty and AI-Disruption Fears
-URL: https://www.barchart.com/story/news/373073/stocks-finish-sharply-lower-on-trade-uncertainty-and-ai-disruption-fears
-Time Published: 2026-02-23T21:36:15Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed down -1.04%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.66%, and the Nasdaq 100 Index ...
 --------------------------------------------------

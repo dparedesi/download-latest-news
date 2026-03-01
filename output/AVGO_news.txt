@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Stocks Retreat on AI Disruption Concerns and Geopolitical Risks
+URL: https://www.barchart.com/story/news/471861/stocks-retreat-on-ai-disruption-concerns-and-geopolitical-risks
+Time Published: 2026-02-27T16:14:55Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.61%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -1.17%, and the Nasdaq 100 Index ($IUXX...
+--------------------------------------------------
+
 Title: Broadcom Ships Industry First 2 nm Custom Compute SoC Built on Its 3.5D eXtreme Dimension System in Package Platform
 URL: https://www.madshrimps.be/news/broadcom-ships-industry-first-2-nm-custom-compute-soc-built-on-its-3-5d-extreme-dimension-system-in-package-platform/
 Time Published: 2026-02-27T07:03:58Z
@@ -24,7 +30,7 @@ Title: Bitcoin falls back below $67,000, rapidly giving back Wednesday's gains
 URL: https://www.coindesk.com/markets/2026/02/26/bitcoin-falls-back-below-usd67-000-rapidly-giving-back-wednesday-s-gains
 Time Published: 2026-02-26T15:37:58Z
 Full Content:
-Crypto markets are in retreat during U.S. morning hours on Thursday, rapidly reversing yesterday's strong gains. Just under $67,000, bitcoin BTC$63,709.23 has pulled back more than 4% after touching $70,000 late on Wednesday. Ether (ETH) and solana (SOL) are showing similar declines. The selloff comes alongside a 2% decline in the Nasdaq following Nvidia's (NVDA) earnings last night. While Nvidia didn't disappoint, investors are selling the news after the stock's sizable run higher into the earnings event. NVDA is lower by 4.8%, with related names like Broadcom (AVGO), Micron (MU) and Intel (INTC) also sharply lower. Curiously, the software names are nicely higher today, with the Software Sector ETF (IGV) ahead more than 2%. Bitcoin's correlation with this embattled group has been well documented, but to BTC bulls' chagrin, they apparently only move together when IGV heads lower. A check of stocks finds Coinbase (COIN) down 1%, Strategy (MSTR) down 2.3%, and Galaxy Digital (GLXY) down 3%. Outperforming is stablecoin issuer Circle Financial (CRCL), up another 3.3% today, and bringing its two-day post-earnings advance to about 40%. More For You Crypto community fear of Iran choking oil supply and crashing markets may be overblown A full closure of the strait is unlikely or impractical, some experts argue. What to know: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
+Crypto markets are in retreat during U.S. morning hours on Thursday, rapidly reversing yesterday's strong gains. Just under $67,000, bitcoin BTC$67,548.38 has pulled back more than 4% after touching $70,000 late on Wednesday. Ether (ETH) and solana (SOL) are showing similar declines. The selloff comes alongside a 2% decline in the Nasdaq following Nvidia's (NVDA) earnings last night. While Nvidia didn't disappoint, investors are selling the news after the stock's sizable run higher into the earnings event. NVDA is lower by 4.8%, with related names like Broadcom (AVGO), Micron (MU) and Intel (INTC) also sharply lower. Curiously, the software names are nicely higher today, with the Software Sector ETF (IGV) ahead more than 2%. Bitcoin's correlation with this embattled group has been well documented, but to BTC bulls' chagrin, they apparently only move together when IGV heads lower. A check of stocks finds Coinbase (COIN) down 1%, Strategy (MSTR) down 2.3%, and Galaxy Digital (GLXY) down 3%. Outperforming is stablecoin issuer Circle Financial (CRCL), up another 3.3% today, and bringing its two-day post-earnings advance to about 40%. More For You U.S.-Iran war attracts $600 million bets on Polymarket The prediction market has spun up over a dozen Iran-related contracts since Saturday's strikes, with the Khamenei removal market alone pulling in $45 million in volume. What to know: Disclosure & Polices: CoinDesk is an award-winning media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of editorial policies. CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of Bullish (NYSE:BLSH), an institutionally focused global digital asset platform that provides market infrastructure and information services. Bullish owns and invests in digital asset businesses and digital assets and CoinDesk employees, including journalists, may receive Bullish equity-based compensation.
 --------------------------------------------------
 
 Title: Broadcom Inc. (AVGO) Launches BroadPeak, Here’s What You Should Know
@@ -73,28 +79,4 @@ Title: Is Broadcom Stock Outperforming the Nasdaq?
 URL: https://www.barchart.com/story/news/384343/is-broadcom-stock-outperforming-the-nasdaq
 Time Published: 2026-02-24T12:10:31Z
 Description: Broadcom has outperformed the S&P 500 over the past year, and Wall Street remains very bullish about the company’s growth trajectory.
---------------------------------------------------
-
-Title: Citi Lowers PT on Broadcom Inc. (AVGO) Stock
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0623db52-8967-4a4b-aa7a-a6fabb6a0aff
-Time Published: 2026-02-23T21:15:30Z
-Description: None
---------------------------------------------------
-
-Title: Broadcom (AVGO) Draws Investor Interest Amid AI Growth Expectations
-URL: https://finance.yahoo.com/news/broadcom-avgo-draws-investor-interest-194928256.html
-Time Published: 2026-02-23T19:49:28Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of Goldman Sachs’s top growth stock picks. On February 17, Cathie Wood’s ARK ETF disclosed that it acquired 24,205 shares ...
---------------------------------------------------
-
-Title: Billionaire fund manager drops $2.8 billion on Big Tech stocks
-URL: https://www.thestreet.com/investing/stocks/billionaire-fund-manager-drops-2-8-billion-on-big-tech-stocks
-Time Published: 2026-02-23T17:33:00Z
-Description: Billionaire fund manager Steven Cohen went all-in on tech, cannonballing in a space that’s been under serious duress of late. His hedge fund, Point72...
---------------------------------------------------
-
-Title: Where Will Broadcom (AVGO) Be in 5 Years?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d9e31182-dd90-42d1-b64d-279564a5f40a
-Time Published: 2026-02-23T16:09:43Z
-Description: None
 --------------------------------------------------

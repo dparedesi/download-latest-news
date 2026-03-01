@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Apple to Purchase 100M Chips from Taiwan Semiconductor Manufacturing (TSM) Arizona Facility
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e23458d4-050c-437a-bd11-78ff04f0ff02
+Time Published: 2026-02-27T21:06:11Z
+Description: None
+--------------------------------------------------
+
 Title: TSMC Raises Dividend 28% While 38% Revenue Growth Reframes the Geopolitical Risk
 URL: https://247wallst.com/investing/2026/02/25/tsmc-raises-dividend-28-while-38-revenue-growth-reframes-the-geopolitical-risk/
 Time Published: 2026-02-25T18:33:25Z
@@ -18,10 +24,4 @@ URL: https://www.fool.com.au/2026/02/24/3-fantastic-asx-etfs-that-could-be-much-
 Time Published: 2026-02-24T07:58:04Z
 Description: Looking to invest in ETFs? Here are three that could grow strongly.
 The post 3 fantastic ASX ETFs that could be much bigger in 2030 appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: Billionaire fund manager drops $2.8 billion on Big Tech stocks
-URL: https://www.thestreet.com/investing/stocks/billionaire-fund-manager-drops-2-8-billion-on-big-tech-stocks
-Time Published: 2026-02-23T17:33:00Z
-Description: Billionaire fund manager Steven Cohen went all-in on tech, cannonballing in a space that’s been under serious duress of late. His hedge fund, Point72...
 --------------------------------------------------
