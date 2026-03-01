@@ -1,5 +1,11 @@
 List of news related to Uber stock price UBER:
 
+Title: Via Transportation, Inc. (VIA): A Bull Case Theory
+URL: https://finance.yahoo.com/news/via-transportation-inc-via-bull-150254374.html
+Time Published: 2026-02-28T15:02:54Z
+Description: We came across a bullish thesis on Via Transportation, Inc. on r/ValueInvesting by mrmrmrj. In this article, we will summarize the bulls’ thesis on VIA. Via ...
+--------------------------------------------------
+
 Title: Alchemy introduces autonomous payment rails for AI agents on Base
 URL: https://cointelegraph.com/news/alchemy-ai-agents-pay-access-blockchain-data-usdc
 Time Published: 2026-02-27T20:15:31Z
