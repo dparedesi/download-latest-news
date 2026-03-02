@@ -18,21 +18,3 @@ URL: https://finance.yahoo.com/news/piper-sandler-remains-positive-adobe-0949239
 Time Published: 2026-02-25T09:49:23Z
 Description: Adobe Inc. (NASDAQ:ADBE) is one of the 12 Cheap Technology Stocks to Invest In According to Hedge Funds. On February 3, Piper Sandler downgraded Adobe Inc. (...
 --------------------------------------------------
-
-Title: Stocks Settle Higher as AI Disruption Fears Ease
-URL: https://www.barchart.com/story/news/398774/stocks-settle-higher-as-ai-disruption-fears-ease
-Time Published: 2026-02-24T21:33:12Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed up +0.77%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.76%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: Adobe (ADBE) Stock Faces Sharp Decline Amid AI Disruption Concerns, Trading Near 52-Week Lows
-URL: https://www.ibtimes.com.au/adobe-adbe-stock-faces-sharp-decline-amid-ai-disruption-concerns-trading-near-52-week-lows-1862010
-Time Published: 2026-02-24T16:07:48Z
-Description: Adobe Inc.'s stock has endured a steep sell-off in early 2026, dropping more than 26% year-to-date and trading near its 52-week low as investors grapple with fears that generative artificial intelligence could upend the company's dominant position in creative…
---------------------------------------------------
-
-Title: Stocks Rebound as Software Stocks Recover
-URL: https://www.barchart.com/story/news/390594/stocks-rebound-as-software-stocks-recover
-Time Published: 2026-02-24T14:59:35Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.17%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
---------------------------------------------------

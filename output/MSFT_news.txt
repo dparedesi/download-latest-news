@@ -47,15 +47,3 @@ URL: https://www.barchart.com/story/news/417999/ionq-just-won-a-golden-dome-cont
 Time Published: 2026-02-25T15:41:58Z
 Description: IonQ’s Golden Dome contract eligibility boosts its defense profile, but lofty valuations keep the quantum stock a high-risk, high-reward bet.
 --------------------------------------------------
-
-Title: 3 Cheap Software Stocks to Buy on the Dip Now
-URL: https://www.barchart.com/story/news/396618/3-cheap-software-stocks-to-buy-on-the-dip-now
-Time Published: 2026-02-24T20:19:32Z
-Description: UBS says software is deeply oversold. So, for investors willing to lean in, these three stocks flash buy-the-dip signals.
---------------------------------------------------
-
-Title: Microsoft (MSFT) Stock Closes at $428.15 as Cloud and AI Momentum Offsets Broader Tech Caution
-URL: https://www.ibtimes.com.au/microsoft-msft-stock-closes-42815-cloud-ai-momentum-offsets-broader-tech-caution-1862004
-Time Published: 2026-02-24T15:48:59Z
-Description: Microsoft Corporation (NASDAQ: MSFT) shares finished Monday, February 23, 2026, at $428.15, down 0.68% from the prior session's $431.09 close
---------------------------------------------------
