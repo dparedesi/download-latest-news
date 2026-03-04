@@ -1,5 +1,11 @@
 List of news related to Novo Nordisk NVO:
 
+Title: MongoDB downgraded, Block upgraded: Wall Street's top analyst calls
+URL: https://finance.yahoo.com/news/mongodb-downgraded-block-upgraded-wall-143311526.html
+Time Published: 2026-03-03T14:33:11Z
+Description: MongoDB downgraded, Block upgraded: Wall Street's top analyst calls
+--------------------------------------------------
+
 Title: Election of employee representatives to the Board of Directors of Novo Nordisk A/S
 URL: https://www.globenewswire.com/news-release/2026/03/02/3247604/0/en/Election-of-employee-representatives-to-the-Board-of-Directors-of-Novo-Nordisk-A-S.html
 Time Published: 2026-03-02T15:55:00Z
