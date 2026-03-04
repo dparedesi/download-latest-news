@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Why are there only 30 stocks in the Dow? The case for (& against) a narrow index
+URL: https://www.thestreet.com/investing/why-only-30-stocks-in-dow
+Time Published: 2026-03-02T23:16:06Z
+Description: The Dow Jones Industrial Average is a widely followed measure used by investors and analysts to gauge the performance of the U.S. stock market. For more than...
+--------------------------------------------------
+
 Title: Prediction: This Will Be Microsoft's Stock Price in 3 Years. (Hint: You're Going to Want to Buy Now) - The Motley Fool
 URL: https://slashdot.org/firehose.pl?op=view&amp;id=180877866
 Time Published: 2026-03-01T11:32:26Z
