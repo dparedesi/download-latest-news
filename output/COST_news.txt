@@ -1,13 +1,13 @@
 List of news related to Costco stock price COST:
 
-Title: Stock market today: Dow plunges over 1,100 points, S&P 500 and Nasdaq sink as oil surges amid war worries
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-over-1100-points-sp-500-and-nasdaq-sink-as-oil-surges-amid-war-worries-150425235.html
+Title: Stock market today: Dow falls by 700 points, S&P 500 and Nasdaq sink as oil surges amid war worries
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-by-700-points-sp-500-and-nasdaq-sink-as-oil-surges-amid-war-worries-150425336.html
 Time Published: 2026-03-03T15:04:25Z
 Description: The fresh wave of Israeli-led attacks has jolted markets that on Monday mostly managed to shake off the initial shock of the outbreak.
 --------------------------------------------------
 
-Title: Stock market today: Dow falls by 700 points, S&P 500 and Nasdaq sink as oil surges amid war worries
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-falls-by-700-points-sp-500-and-nasdaq-sink-as-oil-surges-amid-war-worries-150425336.html
+Title: Stock market today: Dow plunges over 1,100 points, S&P 500 and Nasdaq sink as oil surges amid war worries
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-over-1100-points-sp-500-and-nasdaq-sink-as-oil-surges-amid-war-worries-150425235.html
 Time Published: 2026-03-03T15:04:25Z
 Description: The fresh wave of Israeli-led attacks has jolted markets that on Monday mostly managed to shake off the initial shock of the outbreak.
 --------------------------------------------------
