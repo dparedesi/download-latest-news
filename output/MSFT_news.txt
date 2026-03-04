@@ -17,15 +17,3 @@ URL: https://www.barchart.com/story/news/471861/stocks-retreat-on-ai-disruption-
 Time Published: 2026-02-27T16:14:55Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.61%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -1.17%, and the Nasdaq 100 Index ($IUXX...
 --------------------------------------------------
-
-Title: Director Stanton John Just Bought $2 Million of Microsoft Stock. Should You Buy MSFT Too?
-URL: https://www.barchart.com/story/news/444742/director-stanton-john-just-bought-2-million-of-microsoft-stock-should-you-buy-msft-too
-Time Published: 2026-02-26T15:15:02Z
-Description: A new filing shows that an insider bought the dip in Microsoft.
---------------------------------------------------
-
-Title: Microsoft Stock Rebounds Sharply on Eased AI Concerns, Partnership News as Shares Climb Toward $401
-URL: https://www.ibtimes.com.au/microsoft-stock-rebounds-sharply-eased-ai-concerns-partnership-news-shares-climb-toward-401-1862208
-Time Published: 2026-02-26T13:31:23Z
-Description: Microsoft Corp. shares surged nearly 3% in heavy trading Wednesday, snapping a recent pullback as investors found reassurance from comments easing fears over AI disruption and new strategic collaborations bolstered confidence in the tech giant's cloud and art…
---------------------------------------------------

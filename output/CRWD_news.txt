@@ -17,15 +17,3 @@ URL: https://www.barchart.com/story/news/471861/stocks-retreat-on-ai-disruption-
 Time Published: 2026-02-27T16:14:55Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.61%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -1.17%, and the Nasdaq 100 Index ($IUXX...
 --------------------------------------------------
-
-Title: 'Claude Just Killed Our Startup': This SF Founder Says AI Made Her Product Obsolete Overnight
-URL: https://finance.yahoo.com/news/claude-just-killed-startup-sf-173105543.html
-Time Published: 2026-02-26T17:31:05Z
-Description: Ira Bodnar, founder of San Francisco–based startup Ryze, said her company's core product was effectively made obsolete overnight following rapid AI...
---------------------------------------------------
-
-Title: CrowdStrike (CRWD)’s Killing It, Says Jim Cramer
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0b39d420-c98a-4940-9e33-5f3d87243f85
-Time Published: 2026-02-26T15:22:19Z
-Description: None
---------------------------------------------------
