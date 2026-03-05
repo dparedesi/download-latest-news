@@ -1,9 +1,22 @@
 List of news related to Taiwan Semiconductor TSM:
 
-Title: Stock market today: Dow plunges over 1,100 points, S&P 500 and Nasdaq sink as oil surges amid war worries
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-over-1100-points-sp-500-and-nasdaq-sink-as-oil-surges-amid-war-worries-150425235.html
-Time Published: 2026-03-03T15:04:25Z
-Description: The fresh wave of Israeli-led attacks has jolted markets that on Monday mostly managed to shake off the initial shock of the outbreak.
+Title: Stock market today: Dow, S&P 500, Nasdaq futures fall as Iran reportedly calls for talks to end conflict
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-iran-reportedly-calls-for-talks-to-end-conflict-234948450.html
+Time Published: 2026-03-03T23:49:48Z
+Description: Investors are weighing a NYT report that Iran has indirectly approached the US to discuss terms for ending the conflict.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq futures pare losses as Iran war volatility continues
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-turn-higher-as-iran-war-volatility-continues-234948079.html
+Time Published: 2026-03-03T23:49:48Z
+Description: Wall Street is scrambling to settle as the war in the Middle East is causing volatility across the board.
+--------------------------------------------------
+
+Title: The easy way to invest globally is with these ASX ETFs
+URL: https://www.fool.com.au/2026/03/04/the-easy-way-to-invest-globally-is-with-these-asx-etfs/
+Time Published: 2026-03-03T23:32:23Z
+Description: Let's see which funds could help with global investing.
+The post The easy way to invest globally is with these ASX ETFs appeared first on The Motley Fool Australia.
 --------------------------------------------------
 
 Title: Stock market today: Dow falls by 700 points, S&P 500 and Nasdaq sink as oil surges amid war worries
@@ -12,14 +25,21 @@ Time Published: 2026-03-03T15:04:25Z
 Description: The fresh wave of Israeli-led attacks has jolted markets that on Monday mostly managed to shake off the initial shock of the outbreak.
 --------------------------------------------------
 
+Title: Stock market today: Dow plunges over 1,100 points, S&P 500 and Nasdaq sink as oil surges amid war worries
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-over-1100-points-sp-500-and-nasdaq-sink-as-oil-surges-amid-war-worries-150425235.html
+Time Published: 2026-03-03T15:04:25Z
+Description: The fresh wave of Israeli-led attacks has jolted markets that on Monday mostly managed to shake off the initial shock of the outbreak.
+--------------------------------------------------
+
+Title: Intel (INTC) Hopes To Continue Surge And Avoid Another Disappointment
+URL: https://247wallst.com/investing/2026/03/03/intel-intc-hopes-to-continue-surge-and-avoid-another-disappointment/
+Time Published: 2026-03-03T14:28:18Z
+Full Content:
+Investing Intel’s stocks face competitive and execution risks but could continue to gain momentum if Apple becomes an anchor customer. Intel could benefit if the GPU shortage and the rapid growth of AI drive extreme CPU demand. One challenge for Intel is that Taiwan Semiconductor has become more aggressive about expanding in the U.S. Sending You to Google News in 3 At the start of 2026, 24/7 Wall St. Analyst and AI Investor Podcast co-host, Eric Bleeker, said that Intel was one stock that was really standing out to him as a potential buy. Bleeker recently went further in depth about why he still likes Intel, but does acknowledge that it does face potential challenges. Among them is that Taiwan Semiconductor has become more aggressive about expanding in the U.S. Samsung is also investing heavily in America. “Despite those cons, there are real pros,” Bleeker explains. “First, Apple is deep into qualifying Intel’s foundry, and that process should be completed relatively soon. I believe there’s a high chance Apple moves some production into Intel’s factories, giving them that critical anchor customer.” Bleeker announced during a recent episode of The AI Investor Podcast that he’ll be investing $10,000 into Intel, but would have considered $20,000 if it were still trading in the mid-thirties like it was in December. In our first Trends podcast, we said we would almost surely be adding Intel (NASDAQ: INTC), and I honestly went back and forth a bit on this name. Intel had reported earnings. The trend we really liked, and identified early in January before it started taking off, was a shortage of CPUs this year because as agentic AI takes off, it’s going to lead to much more CPU usage. That gives Intel a starting point, and then more momentum to build its foundry business. Once again, Intel is trying to manufacture chips for other companies, similar to Taiwan Semiconductor (NYSE: TSM), but so far they haven’t been able to land major customers. You need a major customer because there’s a flywheel effect in the foundry business. By getting customers, you increase utilization of your factories, which helps improve yields. Better yields improve economics and make the company more attractive to additional customers. It’s a chicken-and-egg problem to secure those initial customers, and that’s what Intel has been struggling with. There’s also a national interest component. We think there will be strong incentives to push customers toward Intel so America has a domestic foundry. Chips are now a vital strategic asset, and relying heavily on Taiwan Semiconductor, which produces about 90% of advanced chips and operates in a potential geopolitical flashpoint with China, creates risk. One challenge for Intel is that Taiwan Semiconductor has become more aggressive about expanding in the U.S. Samsung is also investing heavily in America. They’ve been a laggard in advanced logic, but with strong memory profits, they’re reinvesting to make another competitive push. That’s another headwind for Intel. Despite those cons, there are real pros. First, Apple (NASDAQ: AAPL) | AAPL Price Prediction is deep into qualifying Intel’s foundry, and that process should be completed relatively soon. I believe there’s a high chance Apple moves some production into Intel’s factories, giving them that critical anchor customer. Second, hyperscalers like Meta (NASDAQ: META), Amazon (NASDAQ: AMZN), Google (NASDAQ: GOOGL), and Microsoft (NASDAQ: MSFT) are spending $100 to $200 billion annually building data centers. These American companies are developing their own chips, and there will likely be pressure to manufacture those chips domestically. If Intel begins ramping production and secures a win with Apple, it could become an attractive option for them. Third, there’s the advanced packaging opportunity. There were reports that Nvidia (NASDAQ: NVDA) would not use Intel’s foundries, but recent developments suggest Nvidia will use Intel for advanced packaging. That creates a backdoor opportunity for Intel to win more business. Finally, Intel recently reported earnings and the stock dropped. Demand for CPUs is acute, and we were right about that, but Intel didn’t forecast it properly and didn’t have the right inventory to serve it. Still, I believe the GPU shortage and the rapid growth of AI, particularly agentic AI systems that are creating recursive self-improvement loops in areas like coding, will drive extreme CPU demand. Even if Intel was behind, this should create a tailwind throughout the year, helping improve results and fund the foundry buildout. The bottom line is we’re going to invest $10,000 into Intel. Would I have invested $20,000 if it were still trading in the mid-thirties like in December? Possibly. But it’s now trading in the mid-forties, so we’ll size it a bit smaller. We’re making this $10,000 investment to capture the CPU opportunity and provide diversification away from Taiwan Semiconductor, which has been an outstanding performer in the portfolio. I’m comfortable with a $10,000 investment into Intel. Latest Podcast Episode New Portfolio Buys, NVIDIA Updates And A HUGE Announcement 38 min See us invest in our favorite AI stock ideas for free Live Live Intel (NASDAQ: INTC) has experienced a dramatic shift in fortunes over the past year. Once viewed as a failing chipmaker… Summary: During a recent episode of The AI Investor Podcast, co-host Eric Bleeker cited Onto Innovation as a smart… The artificial intelligence (AI) revolution has expanded rapidly since 2023, powering applications from chatbots to autonomous systems and driving trillions… It’s not even Inauguration Day yet, but Donald Trump is making headlines across the financial world. Friday night he launched… The semiconductor manufacturer also benefits from rising geopolitical tensions between the U.S. and China, as it is considered a hedge in… Shares of Intel (NASDAQ:INTC) are up 4% heading into midday trading Wednesday on reports that the world’s leading contract chipmaker,… Intel (NASDAQ:INTC) has long eyed its foundry business as a path to revival. Launched in 2021 as Intel Foundry Services… In a seismic move shaking up the semiconductor world, Nvidia (NASDAQ:NVDA) announced yesterday it was pouring $5 billion into its… Shining a Spotlight on Intel Intel (NASDAQ:INTC) has emerged from the shadows of its semiconductor rivals, capturing the attention of…
+--------------------------------------------------
+
 Title: Here’s how far oil is away from dragging stocks into a bear market, according to Morgan Stanley
 URL: https://www.marketwatch.com/story/heres-how-far-oil-is-away-from-dragging-stocks-into-a-bear-market-according-to-morgan-stanley-b8e1932b
 Time Published: 2026-03-02T14:33:00Z
 Description: History shows market can recover quite quickly from geopolitical shocks
---------------------------------------------------
-
-Title: Apple to Purchase 100M Chips from Taiwan Semiconductor Manufacturing (TSM) Arizona Facility
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e23458d4-050c-437a-bd11-78ff04f0ff02
-Time Published: 2026-02-27T21:06:11Z
-Description: None
 --------------------------------------------------
