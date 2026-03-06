@@ -1,5 +1,44 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA CEO ジェンスン フアンと世界のテクノロジ リーダーが GTC 2026 で AI の時代を披露
+URL: https://prtimes.jp/main/html/rd/p/000000590.000012662.html
+Time Published: 2026-03-05T04:51:22Z
+Full Content:
+PR TIMESのご利用について 資料をダウンロード NVIDIA NVIDIA は本日、AI とアクセラレーテッドコンピューティングに関する世界最大級のカンファレンスである GTC を、今年 3 月 16 日から 19 日までカリフォルニア州サンノゼで開催することを発表しました。開発者、研究者、ビジネスリーダー、AI ネイティブ企業など、3 万人を超える参加者が 190 カ国以上から集まり、AI がいかに不可欠なインフラとなり、新たな産業時代を牽引していくのかを探ります。 NVIDIA の創業者/CEO であるジェンスン フアン (Jensen Huang) は次のように述べています。「GTC は AI 産業時代の震源地です。AI はもはや単一のブレークスルーやアプリケーションではなく、欠かせないインフラです。あらゆる企業が AI を活用し、あらゆる国が AI を構築するでしょう。エネルギーやチップからインフラ、モデル、アプリケーションに至るまで、スタックのあらゆるレイヤーが同時に進化しており、GTC ではそのすべてが現実のものとなるのを目にすることができるでしょう」 GTC 2026 の見どころ 基調講演：フアンは、3 月 17 日 (火) 午前 4時 (日本時間)より SAP センターで基調講演を行います。基調講演では、アクセラレーテッド コンピューティングや AI ファクトリーからオープンモデル、エージェント システム、フィジカル AI に至るまで、AI スタック全体にわたる NVIDIA の最新の進歩について概説し、今後の業界の方向性を決定づけます。基調講演はライブストリーミング配信され、nvidia.com においてオンデマンドで視聴できます。オンラインでの基調講演の視聴は登録は不要です。 AI は 5 層のケーキ：GTC では、エネルギー、チップ、インフラ、モデル、アプリケーションに至るまで、AI のあらゆるレイヤーを紹介します。基調講演、セッション、デモを通じて、参加者は各レイヤーが独自のパートナー、テクノロジ、熟練労働者からなるエコシステムを持っていること、そしてこれらのレイヤーの連携が、史上最大規模のインフラ拡張をどのように推進しているかを実感できます。 1,000 以上のセッション：AI ファクトリーや大規模推論からロボティクス、デジタルツイン、科学計算、量子コンピューティング、エンタープライズ AI の導入まで、GTC セッションでは AI スタックのあらゆるレイヤーの構築、スケーリング、最適化、そしてそれらが実際の運用環境でどのように相互接続されるかを深く掘り下げます。フアンは、A16Z、AI2、AMP Coalition、Black Forest Labs、Cursor、Reflection AI、Thinking Machines Lab の業界リーダーと共に、オープン フロンティア モデルの最新技術と今後の展望について議論します。 GTC Live 基調講演プレゲームショー：プレゲームショーでは、業界リーダーが AI の先駆的なアクセラレーテッド コンピューティング、人類史上最大規模のインフラ構築を支える 5 層スタック、そしてそれを世界中に展開するために必要なエコシステムについて議論します。バーチャル参加者は、3 月17日 (火) 午前 1 時 (日本時間) からオンラインでライブ配信されるプレゲームショーを視聴できます。注目の講演者には、Perplexity CEO の Aravind Srinivas 氏、LangChain CEO の Harrison Chase 氏、Skild AI CEO の Deepak Pathak 氏、OpenEvidence CEO の Daniel Nadler 氏、Mistral AI CEO のArthur Mensch 氏などが名を連ねます。 ハンズオン トレーニングと認定資格：開発者とエンジニアは、終日開催される 9 つのワークショップ、60 以上のハンズオン ラボ、そして現地での認定資格取得の機会を通じて、AI、アクセラレーテッド コンピューティング、ネットワーキング、データサイエンス、フィジカル AI といった分野における需要の高いスキルを習得できます。また、セルフペース コース、教育者向けプログラム、個別のトレーニング コンサルテーションも提供され、拡大する AI インフラ構築を支える人材の育成を支援します。 スタートアップ、投資家、そして AI エコシステム：NVIDIA Inceptionに参加する 240 社以上のスタートアップ企業が、フィジカル AI、ロボティクス、生成 AI、エンタープライズ アプリケーションなど、幅広いテクノロジを展示します。スタートアップとベンチャーに特化したプログラム、大手ベンチャー企業による AI Day、そして NVentures のエンゲージメント セッションを通して、AI 産業スタックのあらゆるレイヤーで活躍する創業者と投資家を繋ぎます。 開発者と研究のためのトラック：GTC で、開発者は NVIDIA のエンジニアやパートナーから直接学び、次世代の AI アプリケーションを構築するグローバル エコシステムに参加できます。技術解説、CUDA® セッション、インフラ ワークショップでは、大規模モデルのトレーニング、推論の最適化、クラウド、エッジ、ソブリン環境全体にわたる AI サービスの展開について探求します。 150 件を超えるポスター発表では、モデルのイノベーション、ロボティクス、システム アーキテクチャ、新しい AI アプリケーションなど、世界中の AI コミュニティによる最先端の研究が紹介されます。 業界をまたぎ、世界中に広がる AI：GTC は、サンノゼのダウンタウンを 10 か所の会場からなる AI キャンパスへと変貌させます。Cesar Chavez Park では、飲食、エンターテイメント、ライブ プログラミングを楽しめる昼夜マーケットが開催されます。All-In Podcast では、3 月 18 日 (水) に展示会場からのインタビューを配信します。3 月 19 日 (木) の学生とコミュニティ デーでは、GTC をより幅広いコミュニティに割引料金で開放します。 地域ごとにカスタマイズされたコンテンツとプログラムを含むバーチャル プログラムも、オンライン セッション カタログからご覧いただけます。 グローバルリーダーのラインナップ：クラウド プラットフォーム、モデルラボ、アプリケーション開発者、ロボティクス企業など、AI 産業システムのあらゆるレイヤーを構築する組織の代表者が、AI があらゆる業界の生産性と変革をどのように推進しているかを共有します。 参加企業には、Adobe、Agile Robots、Agility Robotics、AI2、AMP Coalition、Black Forest Labs、Canva、CodeRabbit、Cohere、Crusoe Energy Systems、Cursor、Dassault Systèmes、Decagon、General Motors、Genspark、Google DeepMind、Hugging Face、IBM Research、idealworks、Inception Labs、Johnson & Johnson、Kimi (Moonshot AI)、L'Oréal、Lucid Motors、Magic AI、Meta、Microsoft、OpenAI、Poolside、Physical Intelligence、Reflection AI、Runway、Siemens、Shopify、Snap、Tesla、Together AI、Thinking Machines Lab、Uber Technologies、Universal Robots、米国エネルギー省、Vention などが含まれます。 NVIDIA 金融アナリスト Q&A NVIDIAは、3 月 18日 (水) 午前 2 時 (日本時間) に投資家およびアナリスト向けの Q&A セッションを開催します。ウェブキャストは investor.nvidia.com でご覧いただけます。 ※本発表資料は米国時間 2026 年 3 月 3 日に発表されたプレスリリースの抄訳です。 NVIDIAについて NVIDIA (NASDAQ: NVDA) はAIとアクセラレーテッド コンピューティングの世界的なリーダーです。 このプレスリリースには、メディア関係者向けの情報があります メディアユーザー登録を行うと、企業担当者の連絡先や、イベント・記者会見の情報など様々な特記情報を閲覧できます。※内容はプレスリリースにより異なります。 すべての画像 このプレスリリース内で使われている画像ファイルがダウンロードできます 90フォロワー Copyright © PR TIMES Corporation All Rights Reserved.
+--------------------------------------------------
+
+Title: The easy way to build a diversified ASX share portfolio
+URL: https://www.fool.com.au/2026/03/05/the-easy-way-to-build-a-diversified-asx-share-portfolio/
+Time Published: 2026-03-05T03:14:41Z
+Description: It isn't as hard as you think to build a winning investment portfolio.
+The post The easy way to build a diversified ASX share portfolio appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: Buy Nvidia Shares Ahead of GTC, Says Wells Fargo - TipRanks
+URL: https://slashdot.org/firehose.pl?op=view&amp;id=180908026
+Time Published: 2026-03-05T02:32:29Z
+Description: Buy Nvidia Shares Ahead of GTC, Says Wells FargoTipRanks Prediction: Nvidia (NVDA) Will Be Worth More Than Alphabet, Apple, Amazon, Tesla, Meta, and Microsoft Combined by 2030Yahoo Finance What Nvidia’s Surprising Stock Dip Says About Market SentimentMornings…
+--------------------------------------------------
+
+Title: Cramer says the oil market is signaling the Iran war won't spiral — and that's bullish for stocks
+URL: https://www.cnbc.com/2026/03/04/jim-cramer-oil-is-flashing-a-bullish-signal-for-stocks-amid-iran-war.html
+Time Published: 2026-03-04T23:47:01Z
+Description: "The oil market always seems to know everything," CNBC's Jim Cramer said Wednesday.
+--------------------------------------------------
+
+Title: Nvidia CEO Jensen Huang says it may not invest further in OpenAI, Anthropic with IPOs on the horizon
+URL: https://www.notebookcheck.net/Nvidia-CEO-Jensen-Huang-says-it-may-not-invest-further-in-OpenAI-Anthropic-with-IPOs-on-the-horizon.1242682.0.html
+Time Published: 2026-03-04T21:44:00Z
+Full Content:
+NVIDIA Corp (NASDAQ: NVDA) might finally be putting the brakes on some of its investment activity, much of which has raised eyebrows in certain quarters that have highlighted its role as the 'Central Bank of AI', offering financing to, investing in, and also selling to its customers. Nvidia's CEO, Jensen Huang has indicated that this activity might no longer be in play at Morgan Stanley's Technology, Media, and Telecom ⁠conference earlier today. This comes at a time when both OpenAI and Anthropic are looking to go public later this year, with the former targeting a reported $1 Trillion IPO. It is important to point out that while Nvidia has invested in multiple AI partners and related industries including CoreWeave Inc (which has since IPOed and trades under the ticker NASDAQ: CRWV), Lumentum Holdings Inc (NASDAQ: LITE) and Coherent Corp. (NYSE: COHR) to name some of the more prominent ones, it has shown more reluctance of late when it comes to investing copious amounts in a single partner. This is particularly true for OpenAI, which saw Nvidia's CEO backtrack on what many saw as an $100 billion investment in the former before the chip designer ultimately invested $30 billion in what he terms a "consequential company". Anthropic, which has seen its own share of controversy and praise, took the top spot on Apple's storefront after a very public spat with the United States Department of War that included concerns about fully automated weapons and mass surveillance. While both OpenAI and Anthropic have reduced guardrails around their offerings, with the former going as far as to remove the word 'safely' from its mission statement, the latter still seems to not be willing to cross certain lines, even when threatened with what are effectively sanctions on its Claude AI model's future deployment in government. This has, in turn, made it a popular cause to rally around, even as the Pentagon's demand that Claude be available for "all lawful purposes" remains unmet. Nvidia itself beat earnings, recording an impressive 73% gain in revenue and nearly doubling its earnings per share versus the same period last year, and has a growing amount of cash at hand, even as it continues to invest somewhat cautiously in what many feel is a somewhat overbought AI industry at this point in time. However, given that many retail and institutional investors keep a close eye on Nvidia's moves, many of which result in large revaluations of the companies it invests in, it is a welcome investor and a sign of confidence in a company's operations, which often leads them to go out of their way to cater to what is the world's largest company in terms of market cap. Reuters
+--------------------------------------------------
+
+Title: A $2 Billion Reason to Buy Lumentum Stock Now
+URL: https://www.barchart.com/story/news/561625/a-2-billion-reason-to-buy-lumentum-stock-now
+Time Published: 2026-03-04T15:22:45Z
+Description: Nvidia’s $2 billion investment validates Lumentum Holdings as a critical AI infrastructure supplier, strengthening its long-term growth outlook.
+--------------------------------------------------
+
 Title: Tesla billionaire buys 1M Nvidia shares, plans another 1M purchase
 URL: https://cryptobriefing.com/nvidia-stock-acquisition-1m-shares/
 Time Published: 2026-03-04T12:37:23Z
@@ -13,16 +52,16 @@ Time Published: 2026-03-04T09:32:18Z
 Description: Why Nvidia Stock (NVDA) Is Down Today after a 3% Gain on MondayTipRanks Is Nvidia Ready to Reclaim Its Leadership Role?Barron's Thinking of buying Nvidia stock? Consider also buying dozens just like it.Yahoo Finance Prediction: Nvidia's Feb. 25 Earnings Repor…
 --------------------------------------------------
 
-Title: Billionaire Tesla whale says he bought a million Nvidia shares
-URL: https://financialpost.com/investing/tesla-whale-bought-million-nvidia-shares
-Time Published: 2026-03-04T08:53:11Z
-Description: Billionaire Leo KoGuan, one of the biggest individual shareholders of Tesla Inc., said he bought one million shares of Nvidia Corp. Read on
---------------------------------------------------
-
 Title: Billionaire Tesla Whale Says He Bought 1 Million Nvidia Shares
 URL: https://financialpost.com/pmn/business-pmn/billionaire-tesla-whale-says-he-bought-1-million-nvidia-shares
 Time Published: 2026-03-04T08:53:11Z
 Description: Billionaire Leo KoGuan, who emerged a few years ago as one of the biggest individual shareholders of Tesla Inc., said he bought 1 million shares of Nvidia Corp. on Tuesday.
+--------------------------------------------------
+
+Title: Billionaire Tesla whale says he bought a million Nvidia shares
+URL: https://financialpost.com/investing/tesla-whale-bought-million-nvidia-shares
+Time Published: 2026-03-04T08:53:11Z
+Description: Billionaire Leo KoGuan, one of the biggest individual shareholders of Tesla Inc., said he bought one million shares of Nvidia Corp. Read on
 --------------------------------------------------
 
 Title: Prediction: Nvidia (NVDA) Will Be Worth More Than Alphabet, Apple, Amazon, Tesla, Meta, and Microsoft Combined by 2030 - The Motley Fool
@@ -175,23 +214,4 @@ Title: Jim Cramer Says “NVIDIA Gave You Everything You Could Ever Want”
 URL: https://finance.yahoo.com/news/jim-cramer-says-nvidia-gave-000402367.html
 Time Published: 2026-03-01T00:04:02Z
 Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer put under the microscope. Cramer discussed the stock in detail during the episode, as he...
---------------------------------------------------
-
-Title: Jim Cramer Says “NVIDIA Is the Bedrock of the Fourth Industrial Revolution”
-URL: https://finance.yahoo.com/news/jim-cramer-says-nvidia-bedrock-172040987.html
-Time Published: 2026-02-28T17:20:40Z
-Description: NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks Jim Cramer Recently Discussed. Cramer discussed the stock post-earnings as he said: I think AI helps...
---------------------------------------------------
-
-Title: Jim Cramer Doesn’t Believe NVIDIA (NVDA) Is Engaged In Circular Deals
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2b0f406c-b2a6-4f5d-8888-99a6b7179d84
-Time Published: 2026-02-28T17:14:05Z
-Description: None
---------------------------------------------------
-
-Title: Here’s why OpenAI’s $110B raise is a major headwind for crypto
-URL: https://ambcrypto.com/heres-why-openais-110b-raise-is-a-major-headwind-for-crypto/
-Time Published: 2026-02-28T16:00:36Z
-Full Content:
-How AI funding is widening the “long-term” conviction gap between crypto and equities. The race for dominance in Artificial Intelligence (AI) is clearly accelerating. While the U.S and China have long competed to lead the sector, competition is now intensifying within U.S-based tech firms as well. The recent FUD surrounding Anthropic clearly illustrates this shift. In this climate, OpenAI’s $110 billion capital raise carries weight. It reinforces the United States’ investment capacity in AI infrastructure, a development that may indirectly pressure liquidity across the crypto market. Source: Glassnode Notably, the timing of this move is particularly unfavorable for crypto. As the chart above indicates, Bitcoin’s [BTC] 90-day Realized Profit/Loss Ratio has fallen below 1.0, signaling that realized losses are now exceeding realized gains. This is a direct deterioration in net investor profitability. Historically, this has aligned with tighter liquidity, as rising losses tend to reduce risk appetite and limit capital inflows into the crypto market. Against this backdrop, OpenAI’s move further concentrates capital in tech, giving equities a relative liquidity edge over digital assets. In fact, hard data seemed to confirm this divergence further. Despite sentiment shocks tied to Anthropic and DeepSeek, inflows into tech remain structurally intact. According to AMBCrypto, this structural resilience is precisely what is currently absent in the crypto market. Nvidia is central to understanding where crypto is falling behind. As AMBCrypto highlighted, NVDA beat expectations in its latest Q4 earnings report, delivering strong revenue growth. However, that fundamental strength didn’t fully translate into price continuation. On the charts, NVDA was down 6.65% at press time, marking its weakest weekly close in nearly four months. Such a divergence between fundamentals and price action is a setup that can trigger tactical capital rotation into crypto. Source: TradingView (NVDA/USD) However, according to The Kobeissi Letter, underlying demand for NVDA is anything but weak. Retail investors reportedly bought around $360 million worth of NVDA shares following the earnings release – The largest opening-session retail inflow on record. According to AMBCrypto, this reflects the structural gap between equities and crypto. Weak technical performances and macro FUD have not slowed capital flows towards tech, supporting its long-term market position. In this context, growing NVDA demand isn’t a fluke. Instead, it’s a sign of where investor conviction is flowing. It’s a gap that deepens further for crypto with each AI-led market event, most recently OpenAI’s $110 billion funding. Disclaimer: AMBCrypto's content is meant to be informational in nature and should not be interpreted as investment advice. Trading, buying or selling cryptocurrencies should be considered a high-risk investment and every reader is advised to do their own research before making any decisions. © 2026 AMBCrypto
 --------------------------------------------------
