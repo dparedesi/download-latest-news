@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Down 15% in 2026, Should You Buy the Dip in Microsoft Stock?
+URL: https://www.barchart.com/story/news/594329/down-15-in-2026-should-you-buy-the-dip-in-microsoft-stock
+Time Published: 2026-03-05T21:42:47Z
+Description: Microsoft stock has pulled back sharply in 2026 despite strong earnings and AI-driven growth, prompting investors to reconsider whether the dip presents a...
+--------------------------------------------------
+
 Title: Microsoft (MSFT) Determined To Keep Leveraging On OpenAI Partnership
 URL: https://finance.yahoo.com/news/microsoft-msft-determined-keep-leveraging-072754419.html
 Time Published: 2026-03-05T07:27:54Z
@@ -23,10 +29,4 @@ Title: Why are there only 30 stocks in the Dow? The case for (& against) a narro
 URL: https://www.thestreet.com/investing/why-only-30-stocks-in-dow
 Time Published: 2026-03-02T23:16:06Z
 Description: The Dow Jones Industrial Average is a widely followed measure used by investors and analysts to gauge the performance of the U.S. stock market. For more than...
---------------------------------------------------
-
-Title: Prediction: This Will Be Microsoft's Stock Price in 3 Years. (Hint: You're Going to Want to Buy Now) - The Motley Fool
-URL: https://slashdot.org/firehose.pl?op=view&amp;id=180877866
-Time Published: 2026-03-01T11:32:26Z
-Description: Prediction: This Will Be Microsoft's Stock Price in 3 Years. (Hint: You're Going to Want to Buy Now)The Motley Fool Here’s What Weighed on Microsoft’s (MSFT) PerformanceYahoo Finance How Low Can Microsoft Stock Go?Forbes Microsoft Shares Look More Attractive …
 --------------------------------------------------
