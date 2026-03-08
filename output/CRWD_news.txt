@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Defense-tech stocks are the hot trade as Iran conflict widens
+URL: https://www.marketwatch.com/story/defense-tech-stocks-are-the-hot-trade-as-iran-conflict-widens-c8a5951c
+Time Published: 2026-03-06T22:04:00Z
+Description: In a week when conflict in Iran sent the U.S. equity market into a tailspin, technology stocks tied to cybersecurity and artificial intelligence have proved ...
+--------------------------------------------------
+
 Title: CrowdStrike Holdings, Inc. (CRWD) Price Target Reduced to $500 at Jefferies
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9148141d-2a17-4b5a-a48c-df189e01640b
 Time Published: 2026-03-06T17:29:12Z

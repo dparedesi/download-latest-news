@@ -1,5 +1,11 @@
 List of news related to Meta stock price META:
 
+Title: The $200 Billion Question: Is Amazon Finally Ready to Pay a Dividend?
+URL: https://www.barchart.com/story/news/617144/the-200-billion-question-is-amazon-finally-ready-to-pay-a-dividend
+Time Published: 2026-03-07T00:00:02Z
+Description: Will Amazon pay a dividend? I'll explain AMZN’s $200B AI spend, the peer pressure within the MAG7 lineup, and whether the company can actually pay a dividend...
+--------------------------------------------------
+
 Title: What If… AI Compute Costs Soar?
 URL: https://commonsware.com/blog/2026/03/06/what-if-ai-compute-costs-soar.html
 Time Published: 2026-03-06T23:06:50Z
