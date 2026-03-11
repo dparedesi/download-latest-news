@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Dear Oracle Stock Fans, Mark Your Calendars for March 10
+URL: https://www.barchart.com/story/news/649277/dear-oracle-stock-fans-mark-your-calendars-for-march-10
+Time Published: 2026-03-09T20:15:35Z
+Description: Oracle stock is heading into a key earnings event as investors evaluate whether its explosive cloud backlog and AI infrastructure momentum can sustain long...
+--------------------------------------------------
+
+Title: 150,000 Reasons to Buy IREN Stock Here
+URL: https://www.barchart.com/story/news/647271/150-000-reasons-to-buy-iren-stock-here
+Time Published: 2026-03-09T18:26:28Z
+Description: IREN’s aggressive GPU expansion and multibillion-dollar AI cloud contracts are positioning the company as a rapidly emerging hyperscale AI infrastructure...
+--------------------------------------------------
+
 Title: Microsoft adds higher-priced Office tier with Copilot as it tries to juice sales with AI
 URL: https://www.cnbc.com/2026/03/09/microsoft-office-365-e7-copilot-ai.html
 Time Published: 2026-03-09T13:00:01Z
