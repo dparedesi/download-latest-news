@@ -11,9 +11,3 @@ URL: https://www.ibtimes.com.au/netflix-stock-closes-higher-investors-cheer-deal
 Time Published: 2026-03-06T11:03:07Z
 Description: Netflix Inc. (NASDAQ: NFLX) shares closed at $99.17 on Thursday, March 5, 2026, up $0.51 or 0.52% from the previous session, according to data from Yahoo Finance, Bloomberg and other financial platforms.
 --------------------------------------------------
-
-Title: Netflix Shares Hover Near $99 Amid Relief Rally After Scrapping Warner Bros. Deal
-URL: https://www.ibtimes.com.au/netflix-shares-hover-near-99-amid-relief-rally-after-scrapping-warner-bros-deal-1862686
-Time Published: 2026-03-05T15:18:07Z
-Description: Netflix Inc. (NASDAQ: NFLX) stock traded in a narrow range near $99 in early March 2026 trading, extending a five-day rally that lifted shares roughly 25% from recent lows as investors cheered the company's decision to abandon a high-stakes acquisition pursui…
---------------------------------------------------
