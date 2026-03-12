@@ -13,14 +13,14 @@ Time Published: 2026-03-10T12:26:00Z
 Description: See why insider buying at KKR, Figma, and Reddit is drawing attention after steep selloffs, and what the purchases may signal for these beaten-down stocks.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures rise, oil slides after volatile day on Wall Street
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-oil-slides-after-volatile-day-on-wall-street-224255037.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures falter, oil slides as Wall Street weighs Iran war signals
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-falter-oil-slides-as-wall-street-weighs-iran-war-signals-224255455.html
 Time Published: 2026-03-09T22:42:55Z
 Description: Wall Street is adjusting to a historic spike and fall in oil prices after the global economy was thrown into disarray.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures falter, oil slides as Wall Street weighs Iran war signals
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-falter-oil-slides-as-wall-street-weighs-iran-war-signals-224255455.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures rise, oil slides after volatile day on Wall Street
+URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-oil-slides-after-volatile-day-on-wall-street-224255037.html
 Time Published: 2026-03-09T22:42:55Z
 Description: Wall Street is adjusting to a historic spike and fall in oil prices after the global economy was thrown into disarray.
 --------------------------------------------------
