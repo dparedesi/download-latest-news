@@ -35,9 +35,3 @@ URL: https://www.barchart.com/story/news/617144/the-200-billion-question-is-amaz
 Time Published: 2026-03-07T00:00:02Z
 Description: Will Amazon pay a dividend? I'll explain AMZN’s $200B AI spend, the peer pressure within the MAG7 lineup, and whether the company can actually pay a dividend...
 --------------------------------------------------
-
-Title: Microsoft (MSFT) Stock Price Today: Shares Climb to $410.68 on March 5, 2026
-URL: https://www.ibtimes.com.au/microsoft-msft-stock-price-today-shares-climb-41068-march-5-2026-1862773
-Time Published: 2026-03-06T11:40:46Z
-Description: Microsoft Corp. (NASDAQ: MSFT) shares closed at $410.68 on Thursday, March 5, 2026, up $5.48 or 1.35% from the previous session, according to data from Yahoo Finance, Investing.com and Nasdaq.
---------------------------------------------------
