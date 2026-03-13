@@ -17,15 +17,3 @@ URL: https://www.barchart.com/story/news/646191/it-s-too-early-to-buy-the-dip-in
 Time Published: 2026-03-09T17:16:25Z
 Description: While Alphabet stock has fallen close to $300 levels, it might still be a bit soon to buy the dip.
 --------------------------------------------------
-
-Title: Dow Jones Industrial Average Falls 453 Points as Oil Surge and Weak Jobs Data Weigh on Markets
-URL: https://www.ibtimes.com.au/dow-jones-industrial-average-falls-453-points-oil-surge-weak-jobs-data-weigh-markets-1862926
-Time Published: 2026-03-07T13:18:42Z
-Description: The Dow Jones Industrial Average closed lower Friday, shedding more than 450 points amid a sharp spike in oil prices and disappointing February jobs data that heightened concerns over economic slowdown and persistent inflation pressures.
---------------------------------------------------
-
-Title: The $200 Billion Question: Is Amazon Finally Ready to Pay a Dividend?
-URL: https://www.barchart.com/story/news/617144/the-200-billion-question-is-amazon-finally-ready-to-pay-a-dividend
-Time Published: 2026-03-07T00:00:02Z
-Description: Will Amazon pay a dividend? I'll explain AMZN’s $200B AI spend, the peer pressure within the MAG7 lineup, and whether the company can actually pay a dividend...
---------------------------------------------------
