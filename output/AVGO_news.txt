@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Strong Wall Street Sentiment on Broadcom (AVGO) Amid $100+ Billion AI Chip Sales Forecast
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bf61669b-e9a5-4e21-9c9c-715ab3e8431d
+Time Published: 2026-03-15T07:25:31Z
+Description: None
+--------------------------------------------------
+
 Title: Broadcom (AVGO) Introduces VMware Telco Cloud Platform 9 to Support 5G, AI Workloads
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9012c3cc-3d40-464b-9a5e-98bdf24684a0
 Time Published: 2026-03-14T10:18:31Z
