@@ -1,13 +1,13 @@
 List of news related to Axon Enterprise AXON:
 
-Title: Industrials lead S&P 500 in surprise earnings beat on defence, AI demand
-URL: https://financialpost.com/investing/industrials-lead-sp-500-earnings-beat-defense-ai-demand
-Time Published: 2026-03-16T10:33:42Z
-Description: U.S. industrial companies delivered the biggest earnings surprise of any sector last quarter, with profits topping estimates. Find out more.
---------------------------------------------------
-
 Title: Industrials Lead S&P 500 Earnings Beat on Defense, AI Demand
 URL: https://financialpost.com/pmn/business-pmn/industrials-lead-sp-500-earnings-beat-on-defense-ai-demand
 Time Published: 2026-03-16T10:33:42Z
 Description: US industrial companies delivered the biggest earnings surprise of any sector last quarter, with profits topping estimates as defense demand, commercial aerospace and artificial intelligence-related capital spending powered results.
+--------------------------------------------------
+
+Title: Industrials lead S&P 500 in surprise earnings beat on defence, AI demand
+URL: https://financialpost.com/investing/industrials-lead-sp-500-earnings-beat-defense-ai-demand
+Time Published: 2026-03-16T10:33:42Z
+Description: U.S. industrial companies delivered the biggest earnings surprise of any sector last quarter, with profits topping estimates. Find out more.
 --------------------------------------------------
