@@ -1,5 +1,11 @@
 List of news related to Vanguard Group Inc:
 
+Title: The Two Forces Reshaping Your Portfolio – February Dividend Income Report
+URL: https://thedividendguyblog.com/the-two-forces-reshaping-your-portfolio-february/
+Time Published: 2026-03-19T10:30:45Z
+Description: In 2016, I made a life-changing decision: I took a sabbatical, put my family in a small RV, and we drove all the way to Costa Rica. Upon my return in 2017, I officially quit my job as a private banker at National Bank and started working full-time on my baby:…
+--------------------------------------------------
+
 Title: How Vanguard transformed analytics with Amazon Redshift multi-warehouse architecture
 URL: https://aws.amazon.com/blogs/big-data/how-vanguard-transformed-analytics-with-amazon-redshift-multi-warehouse-architecture/
 Time Published: 2026-03-18T18:07:54Z
