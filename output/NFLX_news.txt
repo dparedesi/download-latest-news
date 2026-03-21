@@ -11,9 +11,3 @@ URL: https://www.barchart.com/story/news/772161/is-live-nation-entertainment-sto
 Time Published: 2026-03-16T14:11:43Z
 Description: As Live Nation Entertainment has outpaced the Dow Jones Industrials Average over the past year, Wall Street analysts maintain a bullish outlook on the...
 --------------------------------------------------
-
-Title: Netflix Stock Closes at $95.31 on March 13 Amid Volatile March Trading
-URL: https://www.ibtimes.com.au/netflix-stock-closes-9531-march-13-amid-volatile-march-trading-1863351
-Time Published: 2026-03-15T14:02:16Z
-Description: Netflix Inc. (NFLX) shares closed at $95.31 on Friday, March 13, 2026, up $1.00 or 1.06% from the previous day's close, as investors digested recent company developments and broader market sentiment in an otherwise choppy month for the streaming giant.
---------------------------------------------------

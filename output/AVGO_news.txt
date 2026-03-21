@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Broadcom Just Shipped the World’s First Quantum-Safe Network Encryption — 3 Reasons AVGO Investors Should Pay Attention
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6c898480-0cef-4fa7-9c84-0aa65531fc25
+Time Published: 2026-03-19T18:54:18Z
+Description: None
+--------------------------------------------------
+
 Title: The Two Forces Reshaping Your Portfolio – February Dividend Income Report
 URL: https://thedividendguyblog.com/the-two-forces-reshaping-your-portfolio-february/
 Time Published: 2026-03-19T10:30:45Z
@@ -58,17 +64,5 @@ Description: None
 Title: Is Broadcom Inc. (AVGO) A Good Stock To Buy Now?
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0dcf6b42-57aa-4286-92df-10b0ba3c8f00
 Time Published: 2026-03-16T00:56:57Z
-Description: None
---------------------------------------------------
-
-Title: Broadcom Inc. (AVGO) Announces the Availability of the Taurus™ BCM83640
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a23a79e0-dfda-4db6-ab3d-be0c7ed6303a
-Time Published: 2026-03-15T18:36:49Z
-Description: None
---------------------------------------------------
-
-Title: Strong Wall Street Sentiment on Broadcom (AVGO) Amid $100+ Billion AI Chip Sales Forecast
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bf61669b-e9a5-4e21-9c9c-715ab3e8431d
-Time Published: 2026-03-15T07:25:31Z
 Description: None
 --------------------------------------------------
