@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Stocks Plunge on US Plans to Escalate Iran War
+URL: https://www.barchart.com/story/news/871956/stocks-plunge-on-us-plans-to-escalate-iran-war
+Time Published: 2026-03-20T20:36:13Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed down -1.51%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.96%, and the Nasdaq 100 Index ...
+--------------------------------------------------
+
 Title: Coinbase unveils 24/7 stock futures for global traders in derivatives push
 URL: https://cryptobriefing.com/coinbase-stock-perpetual-futures/
 Time Published: 2026-03-20T12:30:23Z
@@ -25,10 +31,4 @@ Title: Microsoft Expands AI Strategy with Copilot and Agent 365 Updates
 URL: https://finance.yahoo.com/news/microsoft-expands-ai-strategy-copilot-120806519.html
 Time Published: 2026-03-17T12:08:06Z
 Description: Microsoft Corporation (NASDAQ:MSFT) ranks among the best FAANG+ stocks to invest in right now. Barclays reaffirmed its Overweight rating and $600 price...
---------------------------------------------------
-
-Title: Microsoft (MSFT) Stock Rebounds Modestly on March 16 Amid Broader Market Recovery and Ongoing AI Optimism
-URL: https://www.ibtimes.com.au/microsoft-msft-stock-rebounds-modestly-march-16-amid-broader-market-recovery-ongoing-ai-optimism-1863545
-Time Published: 2026-03-16T14:50:43Z
-Description: Microsoft Corp. (NASDAQ: MSFT) shares advanced modestly in early trading on March 16, 2026, as the tech giant participated in a broader equity rebound fueled by easing geopolitical tensions and a retreat in oil prices.
 --------------------------------------------------

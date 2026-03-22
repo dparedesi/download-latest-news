@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Aletheia and Cantor Fitzgerald Stay Bullish on Broadcom (AVGO) After Earnings
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3d9590c5-8972-4a16-902b-f2fca5eadb7e
+Time Published: 2026-03-20T20:41:07Z
+Description: None
+--------------------------------------------------
+
+Title: Stocks Plunge on US Plans to Escalate Iran War
+URL: https://www.barchart.com/story/news/871956/stocks-plunge-on-us-plans-to-escalate-iran-war
+Time Published: 2026-03-20T20:36:13Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed down -1.51%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.96%, and the Nasdaq 100 Index ...
+--------------------------------------------------
+
 Title: Broadcom Just Shipped the World’s First Quantum-Safe Network Encryption — 3 Reasons AVGO Investors Should Pay Attention
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6c898480-0cef-4fa7-9c84-0aa65531fc25
 Time Published: 2026-03-19T18:54:18Z
@@ -58,11 +70,5 @@ Description: None
 Title: Broadcom (AVGO) Sees Fresh Analyst Optimism
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_af0f5274-7525-46ad-9316-55da339b54ef
 Time Published: 2026-03-17T06:56:31Z
-Description: None
---------------------------------------------------
-
-Title: Is Broadcom Inc. (AVGO) A Good Stock To Buy Now?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0dcf6b42-57aa-4286-92df-10b0ba3c8f00
-Time Published: 2026-03-16T00:56:57Z
 Description: None
 --------------------------------------------------
