@@ -60,21 +60,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7bb43d49
 Time Published: 2026-03-18T14:06:30Z
 Description: None
 --------------------------------------------------
-
-Title: Broadcom Inc. (AVGO): Billionaire Ken Fisher’s Favorite Chip Stock
-URL: https://finance.yahoo.com/news/broadcom-inc-avgo-billionaire-ken-202327069.html
-Time Published: 2026-03-17T20:23:27Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of Billionaire Ken Fisher’s 15 Most Notable Moves for 2026. Broadcom Inc. (NASDAQ:AVGO) is a relatively newer addition to ...
---------------------------------------------------
-
-Title: Broadcom (AVGO) AI Chip Revenue Could Exceed $100 Billion by 2027, Rosenblatt Maintains Buy
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_138a42ec-fefb-47f2-b180-32010f62843d
-Time Published: 2026-03-17T12:42:18Z
-Description: None
---------------------------------------------------
-
-Title: Broadcom (AVGO) Sees Fresh Analyst Optimism
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_af0f5274-7525-46ad-9316-55da339b54ef
-Time Published: 2026-03-17T06:56:31Z
-Description: None
---------------------------------------------------
