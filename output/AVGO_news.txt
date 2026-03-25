@@ -6,6 +6,12 @@ Time Published: 2026-03-23T16:02:01Z
 Description: Broadcom Inc. (NASDAQ:AVGO) is among the 5 Tech Stocks with Best Earnings Growth in 2026. On March 5, Cantor Fitzgerald maintained an Overweight rating on...
 --------------------------------------------------
 
+Title: Stocks Rally as President Trump Eases Iran Threats
+URL: https://www.barchart.com/story/news/900181/stocks-rally-as-president-trump-eases-iran-threats
+Time Published: 2026-03-23T15:21:07Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +2.10%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +2.30%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
+--------------------------------------------------
+
 Title: Broadcom Inc. (AVGO) Positioned for Robust Growth in 200T AI Era
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_81195e70-c500-4fd1-b6b6-bfa13920cb38
 Time Published: 2026-03-22T16:53:08Z
@@ -28,16 +34,4 @@ Title: Stocks Plunge on US Plans to Escalate Iran War
 URL: https://www.barchart.com/story/news/871956/stocks-plunge-on-us-plans-to-escalate-iran-war
 Time Published: 2026-03-20T20:36:13Z
 Description: The S&P 500 Index ($SPX ) (SPY ) on Friday closed down -1.51%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.96%, and the Nasdaq 100 Index ...
---------------------------------------------------
-
-Title: Broadcom Just Shipped the World’s First Quantum-Safe Network Encryption — 3 Reasons AVGO Investors Should Pay Attention
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6c898480-0cef-4fa7-9c84-0aa65531fc25
-Time Published: 2026-03-19T18:54:18Z
-Description: None
---------------------------------------------------
-
-Title: The Two Forces Reshaping Your Portfolio – February Dividend Income Report
-URL: https://thedividendguyblog.com/the-two-forces-reshaping-your-portfolio-february/
-Time Published: 2026-03-19T10:30:45Z
-Description: In 2016, I made a life-changing decision: I took a sabbatical, put my family in a small RV, and we drove all the way to Costa Rica. Upon my return in 2017, I officially quit my job as a private banker at National Bank and started working full-time on my baby:…
 --------------------------------------------------

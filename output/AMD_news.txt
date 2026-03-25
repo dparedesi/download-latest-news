@@ -5,3 +5,9 @@ URL: https://finance.yahoo.com/markets/stocks/articles/1-trillion-opportunity-ad
 Time Published: 2026-03-23T16:02:03Z
 Description: Advanced Micro Devices, Inc. (NASDAQ:AMD) is among the 5 Tech Stocks with Best Earnings Growth in 2026. On March 3, Advanced Micro Devices, Inc. (NASDAQ:AMD)...
 --------------------------------------------------
+
+Title: Stocks Rally as President Trump Eases Iran Threats
+URL: https://www.barchart.com/story/news/900181/stocks-rally-as-president-trump-eases-iran-threats
+Time Published: 2026-03-23T15:21:07Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +2.10%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +2.30%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
+--------------------------------------------------
