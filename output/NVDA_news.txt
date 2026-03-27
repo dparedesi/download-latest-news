@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: 2 Lesser-Known Photonics Firms May Play an Outsized Role in AI
+URL: https://www.marketbeat.com/stock-ideas/2-lesser-known-photonics-firms-may-play-an-outsized-role-in-ai/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2026-03-25T17:49:00Z
+Description: Photonics companies could make the next stage of AI infrastructure development possible, and firms like Coherent and Nova could stand to benefit most.
+--------------------------------------------------
+
 Title: Nvidia Stock Has Had a Monster Run. This Bear Call Strategy Pays You If the Party Is Over.
 URL: https://www.barchart.com/story/news/947381/nvidia-stock-has-had-a-monster-run-this-bear-call-strategy-pays-you-if-the-party-is-over
 Time Published: 2026-03-25T14:53:06Z
