@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia Stock Has Had a Monster Run. This Bear Call Strategy Pays You If the Party Is Over.
+URL: https://www.barchart.com/story/news/947381/nvidia-stock-has-had-a-monster-run-this-bear-call-strategy-pays-you-if-the-party-is-over
+Time Published: 2026-03-25T14:53:06Z
+Description: NVIDIA's rally may cool in 2026, but a bear call spread can still generate income in a neutral or slightly bearish market.
+--------------------------------------------------
+
+Title: The AI Gatekeeper: TSMC's Chokehold Signals Dominance
+URL: https://www.marketbeat.com/originals/the-ai-gatekeeper-tsmcs-chokehold-signals-dominance/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2026-03-25T12:51:00Z
+Description: Taiwan Semiconductor Manufacturing Company's manufacturing bottleneck for advanced chips confirms its dominant role in the AI industry.
+--------------------------------------------------
+
 Title: Stock Index Futures Jump as Hopes for End to Middle East Conflict Boost Sentiment
 URL: https://www.barchart.com/story/news/938914/stock-index-futures-jump-as-hopes-for-end-to-middle-east-conflict-boost-sentiment
 Time Published: 2026-03-25T10:35:14Z
@@ -110,35 +122,4 @@ Title: Nvidia Corp (NVDA) Sets Sights on Chinese Customers After H200 License Ap
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_437d176b-0fdf-48ca-95c7-e6d0c7a7e10c
 Time Published: 2026-03-22T16:52:11Z
 Description: None
---------------------------------------------------
-
-Title: Is NVIDIA Corporation (NVDA) A Good Stock To Buy Now?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d22341af-ccbe-4b5d-8d22-5c827b090660
-Time Published: 2026-03-21T21:05:39Z
-Description: None
---------------------------------------------------
-
-Title: Elon Musk Is Still a ‘Huge Admirer’ of Jensen Huang and Plans to Keep Buying Nvidia Chips. Does That Make NVDA Stock a Buy on the Dip?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_741f289b-8335-442f-a67c-cb9037903a0d
-Time Published: 2026-03-21T16:00:02Z
-Description: None
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA) Unveils Agent Toolkit For Creating Specialized AI Agents
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_81fe6619-7f82-4be1-86c6-25d05c637705
-Time Published: 2026-03-21T12:43:32Z
-Description: None
---------------------------------------------------
-
-Title: New Street Research Adds NVIDIA (NVDA) to Best Ideas List for 2026
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4c61788a-950a-49e2-8c9b-08f7d4d638a4
-Time Published: 2026-03-21T10:33:30Z
-Description: None
---------------------------------------------------
-
-Title: Coinbase to Launch Stock Futures, Why This Is Big For Crypto
-URL: https://bitcoinist.com/coinbase-launch-stock-futures-is-big-for-crypto/
-Time Published: 2026-03-21T06:00:04Z
-Full Content:
-Coinbase, one of the largest cryptocurrency centralized exchanges (CEX) in the United States, has just announced the launching of stock perpetual futures for non-US traders. The CEX’s expansion, announced today in a blog post on its official website, isn’t just about stepping beyond U.S. borders to give global traders ongoing leveraged exposure via perpetual futures. It also marks Coinbase’s push beyond crypto into traditional assets, turning this rollout into a fresh bet on the growing trend toward tokenized stocks and 24/7 markets, driven by both TradFi and DeFi players. Recently, Europe’s largest asset manager Amundi announced the launching of a tokenized fund on Ethereum and Stellar, as covered by Bitcoinist just today. The stock market closes. These don’t. Stock perpetual futures are now live for:$AAPL$MSFT$GOOGL$AMZN$NVDA$META$TSLA$SPY$QQQ Now trading 24/7 for eligible traders outside the US. Read more: https://t.co/EeLpluhtxa pic.twitter.com/AvRN11X9Bh — Coinbase Markets 🛡️ (@CoinbaseMarkets) March 20, 2026 Coinbase frames this launch as part of its broader “Everything Exchange” strategy, aiming to bring crypto, traditional assets, and new tokenized products into one venue. Today, Coinbase expands its global derivatives offering with the launch of stock perpetual futures, becoming one of the first major centralized venues to offer this product. This launch strengthens Coinbase’s position in international derivatives and advances our long-term strategy of building the Everything Exchange where traders can access crypto, traditional, and emerging assets side by side. Over the past year, Coinbase has laid the regulatory and product runway for this leap. It first rolled out crypto perpetual futures to U.S. retail traders under CFTC oversight in mid‑2025, then pushed derivatives into Europe via a MiFID II license obtained through its Bux acquisition, reaching 26 countries in an earlier March 2026 expansion that landed alongside its stock index futures debut. The CEX itself describes perpetual futures as “a type of derivative contract that enables traders to speculate on the price of an asset (…) without needing to buy or own the underlying asset itself.” Unlike standard futures, never expire, so traders can keep positions open indefinitely as long as they meet the margin requirements. At launch, contracts cover the “Magnificent Seven” tech stocks: Apple, Microsoft, Alphabet, Amazon, NVIDIA, Meta Platforms, and Tesla. In certain permitted jurisdictions, perpetual futures on benchmark ETFs tracking, the S&P 500 (SPY) and the tech‑heavy Nasdaq‑100 (QQQ), are also available. Leverage goes up to 10x on individual stock perpetuals and up to 20x on ETF perpetuals. All contracts are settled in USDC, Coinbase’s preferred stablecoin. The platform uses unified margin across perpetual and spot positions, allowing more capital-efficient portfolio management and risk offsets. Coinbase is methodically weaving spot, futures, and now stock‑linked perpetuals into a single, always‑on risk platform that changes how both retail and institutions express views across markets. For traders, that unlocks new basis trades between spot stocks and perpetuals, tighter cross‑asset plays between crypto and U.S. equities, and more complex hedging around macro events and earnings. The flip side is obvious: deeper leverage stacks mean a higher risk of cascading liquidations and sharper, event‑driven volatility when the Fed speaks, data prints hit, or Big Tech reports. Cover image from Perplexity, BTCUSD chart from Tradingview For updates and exclusive offers enter your email. Bitcoin news portal providing breaking news, guides, price analysis about decentralized digital money & blockchain technology. © 2025 Bitcoinist. All Rights Reserved.
 --------------------------------------------------
