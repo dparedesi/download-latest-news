@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Analysts Expect Higher TPU Shipments. Why That Makes Broadcom Stock a Buy Now.
+URL: https://www.barchart.com/story/news/990598/analysts-expect-higher-tpu-shipments-why-that-makes-broadcom-stock-a-buy-now
+Time Published: 2026-03-26T20:04:56Z
+Description: Analysts are bullish on Broadcom stock, expecting more than 40% upside from an increase in TPU units.
+--------------------------------------------------
+
+Title: Broadcom Insiders Are Selling Stock. Is AVGO Finally at the End of the Road?
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_320469bc-8192-42e2-a636-d81b9f81a70b
+Time Published: 2026-03-26T14:00:02Z
+Description: None
+--------------------------------------------------
+
 Title: Broadcom (AVGO) Announces Launch of In-Flight Network Encryption Solution
 URL: https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-announces-launch-flight-110145426.html
 Time Published: 2026-03-25T11:01:45Z
@@ -28,10 +40,4 @@ Title: Stocks Rally as President Trump Eases Iran Threats
 URL: https://www.barchart.com/story/news/900181/stocks-rally-as-president-trump-eases-iran-threats
 Time Published: 2026-03-23T15:21:07Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +2.10%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +2.30%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
---------------------------------------------------
-
-Title: Broadcom Inc. (AVGO) Positioned for Robust Growth in 200T AI Era
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_81195e70-c500-4fd1-b6b6-bfa13920cb38
-Time Published: 2026-03-22T16:53:08Z
-Description: None
 --------------------------------------------------
