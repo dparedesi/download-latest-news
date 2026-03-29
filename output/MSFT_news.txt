@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Sony PS5 Price Hikes: Why Raised Prices Could Signal a Red Flag for the Global Economy
+URL: https://www.barchart.com/story/news/1014531/sony-ps5-price-hikes-why-raised-prices-could-signal-a-red-flag-for-the-global-economy
+Time Published: 2026-03-27T21:28:26Z
+Description: SONY raised its PS5 prices by $150. Here’s what it means for the Sony stock as well as the global economy.
+--------------------------------------------------
+
 Title: MSFW Paid $0.97 One Week and $0.097 Another. That Volatility Is the Real Risk
 URL: https://247wallst.com/investing/2026/03/27/msfw-paid-0-97-one-week-and-0-097-another-that-volatility-is-the-real-risk/
 Time Published: 2026-03-27T15:50:28Z
@@ -17,16 +23,4 @@ Title: Microsoft’s Next AI Leg: Can MSFT Still Outperform From Here?
 URL: https://www.marketbeat.com/originals/microsofts-next-ai-leg-can-msft-still-outperform-from-here/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2026-03-24T22:32:00Z
 Description: Microsoft stock is near a 52-week low with a lower valuation as investors weigh AI growth, Azure performance, and rising infrastructure spending
---------------------------------------------------
-
-Title: Stocks Rally as President Trump Eases Iran Threats
-URL: https://www.barchart.com/story/news/900181/stocks-rally-as-president-trump-eases-iran-threats
-Time Published: 2026-03-23T15:21:07Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +2.10%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +2.30%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
---------------------------------------------------
-
-Title: Top 5 Companies Where Peter Thiel Invested the Most: Palantir Leads with $10B+ Stake
-URL: https://www.ibtimes.com.au/top-5-companies-where-peter-thiel-invested-most-palantir-leads-10b-stake-1864153
-Time Published: 2026-03-23T12:47:34Z
-Description: SAN FRANCISCO — Peter Thiel, the billionaire co-founder of PayPal and Palantir Technologies and a prominent venture capitalist through Founders Fund, has built one of the most influential investment portfolios in tech history. As of March 2026, his holdings r…
 --------------------------------------------------
