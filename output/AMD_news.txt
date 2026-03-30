@@ -18,9 +18,3 @@ URL: https://www.ibtimes.com.au/5-biggest-premarket-early-session-gainers-among-
 Time Published: 2026-03-26T11:46:28Z
 Description: NEW YORK — S&P 500 futures declined Thursday as investors weighed persistent uncertainty over a potential de-escalation in the Middle East conflict, with oil prices remaining elevated and weighing on broader risk sentiment.
 --------------------------------------------------
-
-Title: AMD Is Rapidly Expanding into South Korea. Can That Move the Needle for AMD Stock?
-URL: https://www.barchart.com/story/news/923186/amd-is-rapidly-expanding-into-south-korea-can-that-move-the-needle-for-amd-stock
-Time Published: 2026-03-24T15:30:04Z
-Description: AMD accelerates its expansion process into South Korea with negotiations underway for 10,000 MI355 AI accelerators.
---------------------------------------------------
