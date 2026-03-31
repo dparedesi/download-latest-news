@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Broadcom Inc. (AVGO) Introduces Its Symantec CBX Platform
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a837ad5-7115-449f-a37b-1d716518ea4e
+Time Published: 2026-03-29T20:20:10Z
+Description: None
+--------------------------------------------------
+
 Title: Broadcom (AVGO) Bags Another US Government Defense Deal
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2d0eb115-1a3d-4c6f-ba54-a38740feed9f
 Time Published: 2026-03-28T15:18:42Z
@@ -34,10 +40,4 @@ Title: Broadcom Insiders Are Selling Stock. Is AVGO Finally at the End of the Ro
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_320469bc-8192-42e2-a636-d81b9f81a70b
 Time Published: 2026-03-26T14:00:02Z
 Description: None
---------------------------------------------------
-
-Title: Broadcom (AVGO) Announces Launch of In-Flight Network Encryption Solution
-URL: https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-announces-launch-flight-110145426.html
-Time Published: 2026-03-25T11:01:45Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of the 10 Most Profitable S&P 500 Stocks to Buy Now. On March 19, 2026, Broadcom Inc. (NASDAQ:AVGO) announced it is...
 --------------------------------------------------

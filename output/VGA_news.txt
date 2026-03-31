@@ -12,9 +12,3 @@ URL: https://www.investopedia.com/how-does-your-income-compare-to-the-top-10-of-
 Time Published: 2026-03-26T10:30:00Z
 Description: To be in the top 10% in the U.S., you must earn at least $210,000 per year or have at least $1.8 million of net worth.
 --------------------------------------------------
-
-Title: Vanguard Announces Cash Distributions for the Vanguard ETFs
-URL: https://financialpost.com/globe-newswire/vanguard-announces-cash-distributions-for-the-vanguard-etfs-109
-Time Published: 2026-03-25T20:07:26Z
-Description: (VBU, VBG, VGAB, VAB, VSB, VSC, VCB, VGV, VLB, VRIF, VBAL, VCNS, VCIP, VGRO and VVSG) TORONTO, March 25, 2026 (GLOBE NEWSWIRE) — Vanguard Investments Canada Inc. today announced the final March 2026 cash distributions for certain Vanguard ETFs, listed below, …
---------------------------------------------------
