@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Markets Turn Negative as Crude Oil Prices Surge
+URL: https://www.barchart.com/story/news/1043414/stocks-supported-by-lower-bond-yields
+Time Published: 2026-03-30T15:20:55Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.75%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.21%, and the Nasdaq 100 Index ($IUXX...
+--------------------------------------------------
+
 Title: Broadcom Inc. (AVGO) Introduces Its Symantec CBX Platform
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a837ad5-7115-449f-a37b-1d716518ea4e
 Time Published: 2026-03-29T20:20:10Z
@@ -27,17 +33,5 @@ Description: As artificial intelligence infrastructure spending accelerates in 2
 Title: Broadcom (AVGO) Powers the AI Boom — Bullish despite the Pullback
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_06da636a-2b3e-4945-b091-dd8225a071d3
 Time Published: 2026-03-27T06:50:49Z
-Description: None
---------------------------------------------------
-
-Title: Analysts Expect Higher TPU Shipments. Why That Makes Broadcom Stock a Buy Now.
-URL: https://www.barchart.com/story/news/990598/analysts-expect-higher-tpu-shipments-why-that-makes-broadcom-stock-a-buy-now
-Time Published: 2026-03-26T20:04:56Z
-Description: Analysts are bullish on Broadcom stock, expecting more than 40% upside from an increase in TPU units.
---------------------------------------------------
-
-Title: Broadcom Insiders Are Selling Stock. Is AVGO Finally at the End of the Road?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_320469bc-8192-42e2-a636-d81b9f81a70b
-Time Published: 2026-03-26T14:00:02Z
 Description: None
 --------------------------------------------------
