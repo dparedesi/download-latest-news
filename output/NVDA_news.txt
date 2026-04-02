@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: Morning Brief: Stocks roar back, plus our giant, action-packed Q1 roundup
+URL: https://finance.yahoo.com/news/morning-brief-stocks-roar-back-plus-our-giant-action-packed-q1-roundup-100033568.html
+Time Published: 2026-04-01T10:00:33Z
+Description: Power rankings, winners and losers, and the questions we have for Q2.
+--------------------------------------------------
+
+Title: Beta: A Powerful But Faulty Tool For Managing Risk
+URL: https://realinvestmentadvice.com/resources/blog/beta-a-powerful-but-faulty-tool-for-managing-risk/
+Time Published: 2026-04-01T09:19:00Z
+Description: When investors want to reduce risk, one commonly used tool is beta. For instance, an investor may sell higher-beta stocks and replace them with lower-beta ones to cushion against an expected market decline. Such a strategy is intuitive and widely used; howeve…
+--------------------------------------------------
+
+Title: NVIDIA Corporation (NVDA) Positioned to Benefit as Customers Ramp up AI Hardware Spend
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_122f9843-9cf0-4e89-950b-b2d89daaa3b7
+Time Published: 2026-03-31T22:35:49Z
+Description: None
+--------------------------------------------------
+
 Title: Should You Chase the Nvidia-Triggered Rally in Marvell Stock Today?
 URL: https://www.barchart.com/story/news/1073940/should-you-chase-the-nvidia-triggered-rally-in-marvell-stock-today
 Time Published: 2026-03-31T20:13:45Z
