@@ -11,9 +11,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e9346978
 Time Published: 2026-03-31T18:13:22Z
 Description: None
 --------------------------------------------------
-
-Title: Affirm: A Solid Footing or More Volatility Ahead?
-URL: https://www.marketbeat.com/originals/affirm-a-solid-footing-or-more-volatility-ahead/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2026-03-29T11:34:00Z
-Description: Affirm stock is gaining attention as the buy-now-pay-later lender shows growth and improving profitability, but risks remain in credit quality and...
---------------------------------------------------
