@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Taiwan Semiconductor Manufacturing (TSM): Billionaire Steve Cohen Likes This Chip Stock
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2b7cfb8a-bed0-46dd-9e06-5758e7506356
+Time Published: 2026-04-03T21:44:56Z
+Description: None
+--------------------------------------------------
+
 Title: Taiwan Semiconductor Manufacturing Company Limited (TSM) is a Buy on Strong AI Chip Demand
 URL: https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-limited-154514989.html
 Time Published: 2026-04-03T15:45:14Z
@@ -29,16 +35,4 @@ Title: It’s time to get defensive, say Morgan Stanley strategists. Hold more c
 URL: https://www.marketwatch.com/story/its-time-to-get-defensive-say-morgan-stanley-strategists-increase-cash-and-make-these-moves-00cd9e15
 Time Published: 2026-03-31T12:28:00Z
 Description: Strategists lowered their rating on global stocks while saying investors should hold onto more cash and U.S. Treasury securities.
---------------------------------------------------
-
-Title: Strong Demand Lifted Taiwan Semiconductor Manufacturing Company Limited (TSM) Higher in Q4
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4e52973b-52a6-430c-b1e4-bf458f0ac934
-Time Published: 2026-03-30T13:01:06Z
-Description: None
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing Co. (TSM) is Benefiting from Strong Underlying Business Growth
-URL: https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-co-tsm-125604873.html
-Time Published: 2026-03-30T12:56:04Z
-Description: Ruane, Cunniff LP, an investment adviser managing Sequoia Strategy, released its Q4 2025 investor letter. A copy of the letter can be downloaded here...
 --------------------------------------------------

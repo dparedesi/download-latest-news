@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Broadcom Inc. (AVGO): Billionaire Steve Cohen Almost Doubles Stake
+URL: https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-billionaire-steve-214258758.html
+Time Published: 2026-04-03T21:42:58Z
+Description: Broadcom Inc. (NASDAQ:AVGO) is one of the 10 Best Stocks to Invest In According to Billionaire Steve Cohen. Broadcom Inc. (NASDAQ:AVGO) is one of the long...
+--------------------------------------------------
+
+Title: Broadcom (AVGO) and Carahsoft Announce $970M BPA with DISA
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_96f16e18-c8b8-4f0c-9a49-323af53162b9
+Time Published: 2026-04-03T18:01:31Z
+Description: None
+--------------------------------------------------
+
 Title: S&P 500 wipes $830 billion as US stock market today opens after President Trump Iran war speech — Dow Jones, S&P 500, Nasdaq crash on oil surge fears as Nvidia, Apple, Google, Amazon sink deep in red
 URL: https://economictimes.indiatimes.com/news/international/us/sp-500-wipes-830-billion-as-us-stock-market-today-opens-after-president-trump-iran-war-speech-dow-jones-sp-500-nasdaq-crash-on-oil-surge-fears-as-nvidia-apple-google-amazon-sink-deep-in-red/articleshow/129981316.cms
 Time Published: 2026-04-02T14:07:12Z
@@ -29,10 +41,4 @@ Title: Analysts See 61% Upside to Broadcom Inc. (AVGO)
 URL: https://finance.yahoo.com/markets/stocks/articles/analysts-see-61-upside-broadcom-223656556.html
 Time Published: 2026-03-31T22:36:56Z
 Description: Broadcom Inc. (NASDAQ:AVGO) is among the 8 Stocks Owned by President Donald Trump in his Stock Portfolio. As of the close of business on March 30, it sports ...
---------------------------------------------------
-
-Title: Markets Turn Negative as Crude Oil Prices Surge
-URL: https://www.barchart.com/story/news/1043414/stocks-supported-by-lower-bond-yields
-Time Published: 2026-03-30T15:20:55Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.75%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.21%, and the Nasdaq 100 Index ($IUXX...
 --------------------------------------------------
