@@ -223,13 +223,6 @@ Time Published: 2026-04-01T14:52:46Z
 Description: Inspired in part by Amazon's success in using LLMs to eliminate the cost of Java programmers, Amazon founder and Washington Post owner Jeff Bezos on Wednesday announced that the Post is pivoting to a 'modern' all-GenAI content format. "Our HR AI agents are no…
 --------------------------------------------------
 
-Title: H-1B selection rate rises; VC IPO windfall in 2025
-URL: https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/h-1b-selection-rate-rises-vc-ipo-windfall-in-2025/articleshow/129953443.cms
-Time Published: 2026-04-01T13:44:16Z
-Full Content:
-Want this newsletter delivered to your inbox? Updated On Apr 01, 2026, 08:45 PM IST Want this newsletter delivered to your inbox? Thank you for subscribing to Daily Top 5We'll soon meet in your inbox. Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Commodities Top Prime Articles Top Story Listing Top Definitions Top Slideshow Top Market Pages Latest News Follow us on:
---------------------------------------------------
-
 Title: H-1B selection rate rises; VCs' IPOs windfall in 2025
 URL: https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/h-1b-selection-rate-rises-vcs-ipos-windfall-in-2025/articleshow/129953443.cms
 Time Published: 2026-04-01T13:44:16Z
@@ -239,6 +232,13 @@ Want this newsletter delivered to your inbox? Updated On Apr 01, 2026, 08:45 PM 
 
 Title: H-1B selection rate rises; VCs' IPO windfall in 2025
 URL: https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/h-1b-selection-rate-rises-vcs-ipo-windfall-in-2025/articleshow/129953443.cms
+Time Published: 2026-04-01T13:44:16Z
+Full Content:
+Want this newsletter delivered to your inbox? Updated On Apr 01, 2026, 08:45 PM IST Want this newsletter delivered to your inbox? Thank you for subscribing to Daily Top 5We'll soon meet in your inbox. Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Commodities Top Prime Articles Top Story Listing Top Definitions Top Slideshow Top Market Pages Latest News Follow us on:
+--------------------------------------------------
+
+Title: H-1B selection rate rises; VC IPO windfall in 2025
+URL: https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/h-1b-selection-rate-rises-vc-ipo-windfall-in-2025/articleshow/129953443.cms
 Time Published: 2026-04-01T13:44:16Z
 Full Content:
 Want this newsletter delivered to your inbox? Updated On Apr 01, 2026, 08:45 PM IST Want this newsletter delivered to your inbox? Thank you for subscribing to Daily Top 5We'll soon meet in your inbox. Hot on Web In Case you missed it Top Searched Companies Top Calculators Top Commodities Top Prime Articles Top Story Listing Top Definitions Top Slideshow Top Market Pages Latest News Follow us on:
