@@ -18,9 +18,3 @@ URL: https://finance.yahoo.com/news/morning-brief-stocks-roar-back-plus-our-gian
 Time Published: 2026-04-01T10:00:33Z
 Description: Power rankings, winners and losers, and the questions we have for Q2.
 --------------------------------------------------
-
-Title: It’s time to get defensive, say Morgan Stanley strategists. Hold more cash and make these moves.
-URL: https://www.marketwatch.com/story/its-time-to-get-defensive-say-morgan-stanley-strategists-increase-cash-and-make-these-moves-00cd9e15
-Time Published: 2026-03-31T12:28:00Z
-Description: Strategists lowered their rating on global stocks while saying investors should hold onto more cash and U.S. Treasury securities.
---------------------------------------------------
