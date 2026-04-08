@@ -12,6 +12,12 @@ Time Published: 2026-04-07T15:06:14Z
 Description: Broadcom stock rose on Tuesday, after the company announced new chip deals with Google and Anthropic.
 --------------------------------------------------
 
+Title: Stock Index Futures Slip as Trump’s Hormuz Deadline Looms
+URL: https://www.barchart.com/story/news/1171867/stock-index-futures-muted-as-trumps-hormuz-deadline-looms
+Time Published: 2026-04-07T10:34:51Z
+Description: June S&P 500 E-Mini futures (ESM26) are down -0.26%, and June Nasdaq 100 E-Mini futures (NQM26) are down -0.38% this morning as investors remain wary ahead...
+--------------------------------------------------
+
 Title: Is Broadcom (AVGO) The Best AI Chip Stock to Buy Today?
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aafc375f-2dda-4ae7-9392-144c8b03c029
 Time Published: 2026-04-06T15:01:56Z
