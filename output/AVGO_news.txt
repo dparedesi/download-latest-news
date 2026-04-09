@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: As Broadcom Expands AI Deals With Google and Anthropic, Should You Buy AVGO Stock?
+URL: https://www.barchart.com/story/news/1182658/as-broadcom-expands-ai-deals-with-google-and-anthropic-should-you-buy-avgo-stock
+Time Published: 2026-04-07T18:24:41Z
+Description: Broadcom has strengthened its position in the AI hardware ecosystem through expanded partnerships with Alphabet’s Google and AI startup Anthropic.
+--------------------------------------------------
+
+Title: Stock Losses Deepen as Iran War Looks to Intensify
+URL: https://www.barchart.com/story/news/1179392/stock-losses-deepen-as-iran-war-looks-to-intensify
+Time Published: 2026-04-07T15:12:17Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.90%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.76%, and the Nasdaq 100 Index ($IUXX...
+--------------------------------------------------
+
 Title: Here’s Why Broadcom (AVGO) Is Among Oppenheimer’s Top Picks
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_09c95e84-2a87-4760-921c-dbbf1ace8736
 Time Published: 2026-04-07T15:07:01Z
@@ -12,6 +24,12 @@ Time Published: 2026-04-07T15:06:14Z
 Description: Broadcom stock rose on Tuesday, after the company announced new chip deals with Google and Anthropic.
 --------------------------------------------------
 
+Title: A generational buying opportunity has opened up for U.S. tech stocks, says Goldman Sachs
+URL: https://www.marketwatch.com/story/a-generational-buying-opportunity-has-opened-up-for-u-s-tech-stocks-says-goldman-sachs-df565a1c
+Time Published: 2026-04-07T13:44:00Z
+Description: Investors are now faced with the best opportunity in decades to buy beaten-down tech stocks, say Goldman Sachs strategists.
+--------------------------------------------------
+
 Title: Stock Index Futures Slip as Trump’s Hormuz Deadline Looms
 URL: https://www.barchart.com/story/news/1171867/stock-index-futures-muted-as-trumps-hormuz-deadline-looms
 Time Published: 2026-04-07T10:34:51Z
@@ -21,17 +39,5 @@ Description: June S&P 500 E-Mini futures (ESM26) are down -0.26%, and June Nasda
 Title: Is Broadcom (AVGO) The Best AI Chip Stock to Buy Today?
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aafc375f-2dda-4ae7-9392-144c8b03c029
 Time Published: 2026-04-06T15:01:56Z
-Description: None
---------------------------------------------------
-
-Title: Broadcom Inc. (AVGO): Billionaire Steve Cohen Almost Doubles Stake
-URL: https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-billionaire-steve-214258758.html
-Time Published: 2026-04-03T21:42:58Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of the 10 Best Stocks to Invest In According to Billionaire Steve Cohen. Broadcom Inc. (NASDAQ:AVGO) is one of the long...
---------------------------------------------------
-
-Title: Broadcom (AVGO) and Carahsoft Announce $970M BPA with DISA
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_96f16e18-c8b8-4f0c-9a49-323af53162b9
-Time Published: 2026-04-03T18:01:31Z
 Description: None
 --------------------------------------------------
