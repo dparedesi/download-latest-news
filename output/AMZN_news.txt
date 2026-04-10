@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Amazon Stock Jumps 4.5% as AI Optimism Eases Fears Over $200 Billion CapEx Spending Spree
+URL: https://www.ibtimes.com.au/amazon-stock-jumps-45-ai-optimism-eases-fears-over-200-billion-capex-spending-spree-1865912
+Time Published: 2026-04-09T16:54:34Z
+Description: Amazon.com Inc. shares surged more than 4% midday Thursday, trading near $231 as investors appeared to embrace the company's massive artificial intelligence infrastructure push, brushing aside earlier concerns about ballooning capital expenditures and focusin…
+--------------------------------------------------
+
+Title: Amazon CEO Jassy says company could sell AI chips, raising stakes for Nvidia, AMD
+URL: https://finance.yahoo.com/sectors/technology/article/amazon-ceo-jassy-says-company-could-sell-ai-chips-raising-stakes-for-nvidia-amd-142835117.html
+Time Published: 2026-04-09T14:28:35Z
+Description: Amazon CEO Andy Jassy laid out plans to potentially sell AI chips and robots in his annual shareholder newsletter.
+--------------------------------------------------
+
 Title: Is Microsoft (MSFT) One of the Hedge Fund Favorites with Strong Setup in 2026?
 URL: https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-one-hedge-fund-142324839.html
 Time Published: 2026-04-08T14:23:24Z
