@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: NVIDIA vs AMD 2026: AI Chip Showdown – Who Dominates Data Centers as Blackwell and MI400 Battle?
+URL: https://www.ibtimes.com.au/nvidia-vs-amd-2026-ai-chip-showdown-who-dominates-data-centers-blackwell-mi400-battle-1866177
+Time Published: 2026-04-11T13:21:34Z
+Description: SANTA CLARA, Calif. — As artificial intelligence infrastructure spending surges into 2026, the rivalry between NVIDIA Corp. and Advanced Micro Devices Inc. intensifies, with NVIDIA maintaining overwhelming dominance in AI accelerators while AMD gains ground t…
+--------------------------------------------------
+
 Title: Stocks Settle Mixed Awaiting US-Iran Peace Talks
 URL: https://www.barchart.com/story/news/1249054/stocks-settle-mixed-awaiting-us-iran-peace-talks
 Time Published: 2026-04-10T20:36:11Z
