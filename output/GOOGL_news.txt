@@ -5,9 +5,3 @@ URL: https://www.ibtimes.com.au/alphabet-class-c-shares-surge-33-31396-ai-moment
 Time Published: 2026-04-08T15:32:00Z
 Description: Alphabet Inc.'s Class C shares (NASDAQ: GOOG) climbed more than 3% midday Wednesday, reaching $313.96, as investors cheered fresh signs of strength in the company's artificial intelligence initiatives and cloud computing business amid a broader technology sec…
 --------------------------------------------------
-
-Title: Alphabet Shares Dip 0.47% as Investors Weigh AI Spending vs. Antitrust Risks Ahead of Q1 Earnings
-URL: https://www.ibtimes.com.au/alphabet-shares-dip-047-investors-weigh-ai-spending-vs-antitrust-risks-ahead-q1-earnings-1865691
-Time Published: 2026-04-07T14:17:45Z
-Description: Alphabet Inc. Class C shares (NASDAQ: GOOG) slipped 1.40 points, or 0.47%, to $296.26 in morning trading Tuesday, April 7, 2026, as investors continued to balance the company's aggressive artificial intelligence investments against ongoing antitrust pressures…
---------------------------------------------------

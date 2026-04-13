@@ -23,21 +23,3 @@ URL: https://www.barchart.com/story/news/1199487/stocks-soar-as-us-and-iran-agre
 Time Published: 2026-04-08T14:08:21Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +2.35%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +2.78%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
 --------------------------------------------------
-
-Title: As Bulls and Bears Battle Over AI, $350 Is the Key Number to Watch for Microsoft Stock
-URL: https://www.barchart.com/story/news/1183209/as-bulls-and-bears-battle-over-ai-350-is-the-key-number-to-watch-for-microsoft-stock
-Time Published: 2026-04-07T19:00:13Z
-Description: Microsoft (MSFT) is undergoing a significant market repricing as its exclusive AI leadership premium fades amid intensifying competition from Google, yet the...
---------------------------------------------------
-
-Title: The dividend yield on the S&P 500 is now at 50-year lows. Here's the biggest problem.
-URL: https://finance.yahoo.com/news/the-dividend-yield-on-the-sp-500-is-now-at-50-year-lows-heres-the-biggest-problem-153809624.html
-Time Published: 2026-04-07T15:38:09Z
-Description: Where'd all the dividends go?
---------------------------------------------------
-
-Title: Bank of America resets Apple stock forecast
-URL: https://www.thestreet.com/investing/stocks/bank-of-america-resets-apple-stock-forecast
-Time Published: 2026-04-07T11:03:00Z
-Description: Apple (AAPL) stock has lost about 4.6% year to date, at the time of writing, Monday afternoon, April 6, according to Yahoo Finance. Meanwhile, the SPDR S&P...
---------------------------------------------------
