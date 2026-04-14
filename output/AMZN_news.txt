@@ -23,15 +23,3 @@ URL: https://finance.yahoo.com/sectors/technology/article/amazon-ceo-jassy-says-
 Time Published: 2026-04-09T14:28:35Z
 Description: Amazon CEO Andy Jassy laid out plans to potentially sell AI chips and robots in his annual shareholder newsletter.
 --------------------------------------------------
-
-Title: Is Microsoft (MSFT) One of the Hedge Fund Favorites with Strong Setup in 2026?
-URL: https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-one-hedge-fund-142324839.html
-Time Published: 2026-04-08T14:23:24Z
-Description: Microsoft Corporation (NASDAQ:MSFT) is included in our list of the 14 hedge fund favorites with strong setup in 2026. As of April 3, 2026, the consensus...
---------------------------------------------------
-
-Title: 10 Stocks Warren Buffett Has Been Aggressively Selling in 2026 as Berkshire Builds Record Cash
-URL: https://www.ibtimes.com.au/10-stocks-warren-buffett-has-been-aggressively-selling-2026-berkshire-builds-record-cash-1865813
-Time Published: 2026-04-08T13:55:46Z
-Description: Warren Buffett, the legendary investor who stepped down as Berkshire Hathaway CEO at the end of 2025, continued his pattern of net stock selling into early 2026, trimming major holdings to amass a record cash pile now exceeding $373 billion.
---------------------------------------------------
