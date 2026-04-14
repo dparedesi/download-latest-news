@@ -1,1 +1,7 @@
-No news found for Axon Enterprise +AXON
+List of news related to Axon Enterprise AXON:
+
+Title: Edmonton police emails, documents provide new information on Canada-first AI facial recognition bodycam pilot
+URL: https://www.cbc.ca/news/canada/edmonton/edmonton-police-emails-documents-provide-new-information-on-canada-first-ai-facial-recognition-bodycam-pilot-9.7157991
+Time Published: 2026-04-13T10:00:00Z
+Description: Key details include a “critical fault” system outage, possible extension of pilot project and that facial recognition model was supplied by Corsight AI, a company whose technology has reportedly been used for mass surveillance in Gaza.
+--------------------------------------------------
