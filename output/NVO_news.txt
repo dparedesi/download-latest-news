@@ -1,5 +1,12 @@
 List of news related to Novo Nordisk NVO:
 
+Title: Novo Bets on OpenAI to Rebuild Its Obesity Edge
+URL: https://www.tradingview.com/news/gurufocus:1ce3c21cf094b:0-novo-bets-on-openai-to-rebuild-its-obesity-edge/
+Time Published: 2026-04-14T19:14:58Z
+Full Content:
+Novo Nordisk NVO rose 3.46% on the Copenhagen exchange after partnering with OpenAI to deploy AI across drug discovery, manufacturing, and commercial operations, as it looks to regain momentum in the fast-growing obesity drug market. The collaboration will begin with pilot programs and is expected to be fully integrated by the end of 2026. Financial terms were not disclosed. Novo plans to use AI to analyze complex datasets, identify potential drug candidates, and streamline clinical trial design, regulatory preparation, and supply chain management, while OpenAI will run the workforce training. CEO Mike Doustdar said the deal is not intended to cut further workforce but to lift productivity. He had already eliminated 9,000 roles shortly after taking over last year. Eli Lilly LLY secured U.S. approval for its oral weight-loss drug this month, pressing an advantage in a market analysts expect to top $100 billion a year within a decade. AI adoption is wide across pharma but executives concede it still hasn't produced a major new drug. Select market data provided by ICE Data Services. Select reference data provided by FactSet. Copyright © 2026 FactSet Research Systems Inc.Copyright © 2026, American Bankers Association. CUSIP Database provided by FactSet Research Systems Inc. All rights reserved. SEC fillings and other documents provided by Quartr.© 2026 TradingView, Inc.
+--------------------------------------------------
+
 Title: Vltava Fund Sold Novo Nordisk (NVO) on Fear of Deteriorating Financial Outlook
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3f9c403f-cac0-4087-8bf9-bf84c39165ca
 Time Published: 2026-04-14T13:22:24Z
