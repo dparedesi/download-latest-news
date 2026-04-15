@@ -19,9 +19,3 @@ URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7bdda08e
 Time Published: 2026-04-10T05:01:38Z
 Description: None
 --------------------------------------------------
-
-Title: Jim Cramer Shares Why Novo Nordisk (NVO) Might Feel The Heat From Eli Lilly
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ad804ccc-76be-4d72-9965-df857630d9f3
-Time Published: 2026-04-09T14:07:32Z
-Description: None
---------------------------------------------------

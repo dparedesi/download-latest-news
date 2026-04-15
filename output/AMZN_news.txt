@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Jassy Is Selling the Amazon AI Story: Should You Buy AMZN Stock Here?
+URL: https://www.barchart.com/story/news/1280271/jassy-is-selling-the-amazon-ai-story-should-you-buy-amzn-stock-here
+Time Published: 2026-04-13T18:49:10Z
+Description: Amazon CEO Andy Jassy is upbeat on the company's AI business and sees it as a long-term opportunity.
+--------------------------------------------------
+
 Title: Amazon Price Prediction: Bull and Bear Case
 URL: https://247wallst.com/investing/2026/04/13/amazon-price-prediction-bull-and-bear-case/
 Time Published: 2026-04-13T14:35:22Z
@@ -11,28 +17,4 @@ Title: Stock market today: Dow, S&P 500, Nasdaq trim losses after Trump orders H
 URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-trim-losses-after-trump-orders-hormuz-blockade-against-iran-142624712.html
 Time Published: 2026-04-13T14:26:24Z
 Description: The major US gauges sank as tensions over the Strait of Hormuz revived worries about inflation and damage to the global economy.
---------------------------------------------------
-
-Title: As Amazon Takes on Chipmakers, Should You Buy AMZN Stock Here?
-URL: https://www.barchart.com/story/news/1230176/as-amazon-takes-on-chipmakers-should-you-buy-amzn-stock-here
-Time Published: 2026-04-09T20:49:00Z
-Description: Amazon stock pushed higher as the company revealed plans of selling AI chips and announces $25 billion data center investment in Mississippi. Here’s why...
---------------------------------------------------
-
-Title: Amazon Stock Jumps 4.5% as AI Optimism Eases Fears Over $200 Billion CapEx Spending Spree
-URL: https://www.ibtimes.com.au/amazon-stock-jumps-45-ai-optimism-eases-fears-over-200-billion-capex-spending-spree-1865912
-Time Published: 2026-04-09T16:54:34Z
-Description: Amazon.com Inc. shares surged more than 4% midday Thursday, trading near $231 as investors appeared to embrace the company's massive artificial intelligence infrastructure push, brushing aside earlier concerns about ballooning capital expenditures and focusin…
---------------------------------------------------
-
-Title: 1 Growth Stock Smart Money Is Buying Aggressively
-URL: https://www.barchart.com/story/news/1223300/1-growth-stock-smart-money-is-buying-aggressively
-Time Published: 2026-04-09T14:45:10Z
-Description: While others chase hype, this under-the-radar cloud player is delivering real growth.
---------------------------------------------------
-
-Title: Amazon CEO Jassy says company could sell AI chips, raising stakes for Nvidia, AMD
-URL: https://finance.yahoo.com/sectors/technology/article/amazon-ceo-jassy-says-company-could-sell-ai-chips-raising-stakes-for-nvidia-amd-142835117.html
-Time Published: 2026-04-09T14:28:35Z
-Description: Amazon CEO Andy Jassy laid out plans to potentially sell AI chips and robots in his annual shareholder newsletter.
 --------------------------------------------------

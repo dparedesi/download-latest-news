@@ -5,9 +5,3 @@ URL: https://www.ibtimes.com.au/alphabet-stock-dips-pre-market-ai-spending-antit
 Time Published: 2026-04-13T13:13:48Z
 Description: NEW YORK — Alphabet Inc. Class C shares closed Friday at $315.72, unchanged on the day, but slipped in pre-market trading Monday to around $313.60, down about 0.67%, as investors weighed heavy capital spending on artificial intelligence infrastructure against…
 --------------------------------------------------
-
-Title: Alphabet Stock Climbs Modestly as Google Expands AI Chip Partnership With Intel Amid Ceasefire Relief Rally
-URL: https://www.ibtimes.com.au/alphabet-stock-climbs-modestly-google-expands-ai-chip-partnership-intel-amid-ceasefire-relief-1865909
-Time Published: 2026-04-09T16:44:48Z
-Description: Alphabet Inc. Class C shares rose modestly midday Thursday, trading near $316 as investors digested the latest developments in the company's aggressive artificial intelligence push, including an expanded partnership with Intel on AI infrastructure, while broa…
---------------------------------------------------
