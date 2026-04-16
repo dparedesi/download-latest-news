@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: The Semiconductor Sector Is Hitting All-Time Highs: 2 Stocks Leading the Charge
+URL: https://www.marketbeat.com/originals/the-semiconductor-sector-is-hitting-all-time-highs-2-stocks-leading-the-charge/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2026-04-14T17:00:00Z
+Description: The popular semiconductor ETF (SMH) is up almost 23.% YTD and trading near its all-time highs as AI infrastructure spending continues to accelerate.
+--------------------------------------------------
+
 Title: 10 Best AI Stocks to Buy in 2026 as Artificial Intelligence Spending Accelerates
 URL: https://www.ibtimes.com.au/10-best-ai-stocks-buy-2026-artificial-intelligence-spending-accelerates-1866526
 Time Published: 2026-04-14T13:28:25Z
@@ -23,22 +29,4 @@ Title: These tech stocks have been sizzling hot with the Iran conflict raging
 URL: https://finance.yahoo.com/news/these-tech-stocks-have-been-sizzling-hot-with-the-iran-conflict-raging-142840915.html
 Time Published: 2026-04-13T14:28:40Z
 Description: The SOX has been rocking.
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing (TSM): The Best Under-The-Radar AI Stock in Billionaire Ken Fisher’s Portfolio?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fccaa8c9-265e-42de-9534-7b2c59f24870
-Time Published: 2026-04-10T21:24:23Z
-Description: None
---------------------------------------------------
-
-Title: 5 Things to Know Before the Stock Market Opens
-URL: https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-april-10-2026-11947204
-Time Published: 2026-04-10T11:20:12Z
-Description: News of the day for April 10, 2026
---------------------------------------------------
-
-Title: TSMC Shares Surge Past 2,000 TWD as AI Demand Fuels Record Q1 Revenue Surge
-URL: https://www.ibtimes.com.au/tsmc-shares-surge-past-2000-twd-ai-demand-fuels-record-q1-revenue-surge-1866048
-Time Published: 2026-04-10T09:42:06Z
-Description: TAIPEI, Taiwan — Taiwan Semiconductor Manufacturing Co. shares rocketed to a fresh intraday high of 2,000 Taiwan dollars Friday, jumping 2.30% as investors cheered the world's largest contract chipmaker's explosive growth fueled by insatiable demand for artif…
 --------------------------------------------------

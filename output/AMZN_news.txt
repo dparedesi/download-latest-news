@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Heavy, Unusual Volume in Amazon Options Ahead of Earnings in Two Weeks
+URL: https://www.barchart.com/story/news/1302168/heavy-unusual-volume-in-amazon-options-ahead-of-earnings-in-two-weeks
+Time Published: 2026-04-14T17:30:02Z
+Description: A Barchart report today shows huge, unusual volume in Amazon Inc options ahead of its earnings due out at the end of the month. Investors are piling into...
+--------------------------------------------------
+
+Title: Stocks Climb on US-Iran Peace Talk Optimism and a Favorable PPI Report
+URL: https://www.barchart.com/story/news/1297803/stocks-climb-on-us-iran-peace-talk-optimism-and-a-favorable-ppi-report
+Time Published: 2026-04-14T14:00:19Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.39%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.13%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
+--------------------------------------------------
+
 Title: Jassy Is Selling the Amazon AI Story: Should You Buy AMZN Stock Here?
 URL: https://www.barchart.com/story/news/1280271/jassy-is-selling-the-amazon-ai-story-should-you-buy-amzn-stock-here
 Time Published: 2026-04-13T18:49:10Z
