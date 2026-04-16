@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: VOO vs. QQQ vs. SPY — Which ETF Is the Best Buy Right Now?
+URL: https://finance.yahoo.com/markets/stocks/articles/voo-vs-qqq-vs-spy-104138064.html
+Time Published: 2026-04-15T10:41:38Z
+Description: When it comes to investing in the broader U.S. market, ETFs like Vanguard S&P 500 ETF (VOO) from Vanguard, the SPDR S&P 500 ETF Trust (SPY) from State Street...
+--------------------------------------------------
+
+Title: Nvidia Expands AI Push With Quantum Models - Yahoo Finance
+URL: https://slashdot.org/firehose.pl?op=view&amp;id=181717434
+Time Published: 2026-04-15T09:12:09Z
+Description: Nvidia Expands AI Push With Quantum ModelsYahoo Finance NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum ComputersNVIDIA Newsroom Assessing Nvidia (NVDA) Valuation After Ising Quantum AI Launch And Strong Recent…
+--------------------------------------------------
+
+Title: Stocks Rally on a Push for Diplomacy to End US-Iran War
+URL: https://www.barchart.com/story/news/1305540/stocks-rally-on-a-push-for-diplomacy-to-end-us-iran-war
+Time Published: 2026-04-14T20:33:09Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed up +1.18%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.66%, and the Nasdaq 100 Index...
+--------------------------------------------------
+
 Title: Up 716% Over the Past Year, How Much Higher Can IREN Stock Go?
 URL: https://www.barchart.com/story/news/1303259/up-716-over-the-past-year-how-much-higher-can-iren-stock-go
 Time Published: 2026-04-14T18:48:41Z
