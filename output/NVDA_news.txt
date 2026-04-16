@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Up 716% Over the Past Year, How Much Higher Can IREN Stock Go?
+URL: https://www.barchart.com/story/news/1303259/up-716-over-the-past-year-how-much-higher-can-iren-stock-go
+Time Published: 2026-04-14T18:48:41Z
+Description: With IREN shares soaring a massive triple-digit over the past year, is there still more fuel left in the tank?
+--------------------------------------------------
+
 Title: D-Wave CEO says Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs
 URL: https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html
 Time Published: 2026-04-14T18:02:49Z
