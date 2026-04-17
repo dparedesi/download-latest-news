@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: ASML Earnings Show AI’s Real Engine Is Still Hardware
+URL: https://app.moby.co/home/news/news-asml-earnings-show-ais-real-engine-is-still-hardware?utm_source=yahoo_finance&amp;utm_medium=rss
+Time Published: 2026-04-15T19:00:19Z
+Description: The AI boom isn’t just code and chatbots, it’s factories, bottlenecks, and a global industrial race.
+--------------------------------------------------
+
 Title: AI's Cash Splash Continues: Meta Platforms and Broadcom Expand Custom Chip Partnership
 URL: https://www.barchart.com/story/news/1326314/ai-s-cash-splash-continues-meta-platforms-and-broadcom-expand-custom-chip-partnership
 Time Published: 2026-04-15T18:17:16Z
