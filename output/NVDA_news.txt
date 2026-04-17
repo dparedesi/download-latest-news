@@ -1,10 +1,41 @@
 List of news related to NVIDIA NVDA:
 
+Title: 3 amazing ASX ETFs that are beginner-friendly
+URL: https://www.fool.com.au/2026/04/16/3-amazing-asx-etfs-that-are-beginner-friendly/
+Time Published: 2026-04-16T00:11:08Z
+Description: Let's see why these funds could be great options for beginner investors in 2026.
+The post 3 amazing ASX ETFs that are beginner-friendly appeared first on The Motley Fool Australia.
+--------------------------------------------------
+
+Title: AI's Cash Splash Continues: Meta Platforms and Broadcom Expand Custom Chip Partnership
+URL: https://www.barchart.com/story/news/1326314/ai-s-cash-splash-continues-meta-platforms-and-broadcom-expand-custom-chip-partnership
+Time Published: 2026-04-15T18:17:16Z
+Description: Hyperscalers are ramping AI infrastructure spending to record levels this year, with a string of major partnerships and funding rounds across the sector...
+--------------------------------------------------
+
+Title: A Tectonic Shift in AI Is Underway and AMD Stock Is No Longer a ‘Discount’ Competitor to Nvidia. It’s a Bet on the Future.
+URL: https://www.barchart.com/story/news/1325858/a-tectonic-shift-in-ai-is-underway-and-amd-stock-is-no-longer-a-discount-competitor-to-nvidia-its-a-bet-on-the-future
+Time Published: 2026-04-15T18:03:26Z
+Description: AMD is evolving from a budget alternative into a formidable competitor to Nvidia by overcoming the CUDA software barrier. This analysis examines AMD’s...
+--------------------------------------------------
+
 Title: Long Elon, short Jensen: A research firm says retail traders are flocking back to Tesla and pivoting from Nvidia
 URL: https://www.businessinsider.com/tesla-stock-nvidia-elon-musk-tsla-nvda-retail-traders-2026-4
 Time Published: 2026-04-15T16:16:38Z
 Full Content:
 Every time Samuel publishes a story, you’ll get an alert straight to your inbox! Enter your email By clicking “Sign up”, you agree to receive emails from Business Insider. In addition, you accept Insider’s Terms of Service and Privacy Policy. Retail traders are flocking back to an old favorite. According to data from Vanda Research, which tracks retail investor flows into stocks and ETFs, Tesla is seeing a renewed buying spree among retail investors following a tough start to this year. Tesla stock is down 15% in 2026, and retail traders seem to be seizing on the opportunity to buy it on the dip. At the same time, Vanda said that individual investors are rotating away from Nvidia. "NVDA is seeing sustained retail outflows after an extended period of buying," the report stated. "In contrast, NVDA has seen multiple successive sessions of net selling, a reversal from the record buying we saw in and around prior earnings. The last time the 5-day net buying was this weak (-$294mn) was last May." Vanda added that this pattern recalls a similar scenario that played out last year, when retail traders pulled out of Nvidia after the market rally following Donald Trump's Liberation Day tariff announcements. However, they quickly returned and resumed heavy buying, helping spark new momentum for the stock. Vanda also said last month that retail investors had become net sellers of stocks for the first time in three years amid the volatility created by the Iran war, though they've since resumed buying. "TSLA has seen $216mn of net buying over the past 5 days, making it the most actively bought retail name again. This comes as 1M rolling retail flows have moved to their highest since late Oct last year — with retail persistently buying the dip," Vanda noted. Tesla CEO Elon Musk is a popular figure among retail traders. While Wall Street analysts have raised concerns about Musk's various ventures, Vanda's data suggests that everyday traders are still upbeat. According to Vanda, their pivot from Nvidia might not be an explicitly bearish position, and the same selling pattern has been seen in previous tax seasons as investors take profits to help cover their IRS bills. The research firm noted that tax day selling pressure is likely to pass soon. It said the data reflect a positive shift in investor sentiment, likely to help the market recover. "Under the hood, retail engagement remains strong, with TSLA, PLTR, MSFT and AAPL dominating the most actively traded names," the report stated. "If retail flows do inflect higher post-tax day, this big tech cohort is likely to lead. But we would expect buying to broaden out across the usual retail favorites." Jump to
+--------------------------------------------------
+
+Title: As Michael Burry Adds to His Nvidia Puts, Should You Buy, Sell, or Hold NVDA Stock?
+URL: https://www.barchart.com/story/news/1323577/as-michael-burry-adds-to-his-nvidia-puts-should-you-buy-sell-or-hold-nvda-stock
+Time Published: 2026-04-15T16:00:51Z
+Description: Michael Burry just added to his Nvidia put options, comparing it to Cisco's dot-com crash. Here's what NVDA investors need to know right now.
+--------------------------------------------------
+
+Title: $2,600 for Sandisk Stock? Why the Bull Case at Evercore Forecasts a Whopping 191% Upside Potential.
+URL: https://www.barchart.com/story/news/1323071/2-600-for-sandisk-stock-why-the-bull-case-at-evercore-forecasts-a-whopping-191-upside-potential
+Time Published: 2026-04-15T15:33:49Z
+Description: The firm believes the memory supply shortage issue will continue to favor the company.
 --------------------------------------------------
 
 Title: NVIDIA Stock Climbs 1.7% on AI Supercomputer Ramp as Blackwell Demand Fuels 2026 Growth Bets
@@ -142,22 +173,4 @@ Title: NVIDIA Stock 2026: Buy or Sell NVDA as AI Demand and Blackwell Ramp Fuel 
 URL: https://www.ibtimes.com.au/nvidia-stock-2026-buy-sell-nvda-ai-demand-blackwell-ramp-fuel-strong-buy-consensus-1866225
 Time Published: 2026-04-12T09:36:29Z
 Description: NEW YORK — NVIDIA Corp. (NASDAQ: NVDA) shares closed at approximately $188.63 on April 10, 2026, with Wall Street analysts maintaining a strong consensus "Buy" or "Strong Buy" rating as the company rides explosive demand for its AI GPUs, particularly the Blac…
---------------------------------------------------
-
-Title: ‘Big Short’ Michael Burry sends signal on Nvidia stock
-URL: https://www.thestreet.com/investing/stocks/big-short-michael-burry-sends-signal-on-nvidia-stock
-Time Published: 2026-04-11T22:07:00Z
-Description: Short-seller Michael Burry just made his view on Nvidia (NVDA) stock a lot harder to ignore. In a new Substack post, the popular investor disclosed that he...
---------------------------------------------------
-
-Title: Cadence (CDNS), Nvidia (NVDA) Expand Agentic AI Collaboration
-URL: https://finance.yahoo.com/sectors/technology/articles/cadence-cdns-nvidia-nvda-expand-173608112.html
-Time Published: 2026-04-11T17:36:08Z
-Description: Cadence Design Systems Inc. (NASDAQ:CDNS) is one of the 9 Best QQQ Stocks to Buy Now. On March 16, Cadence announced an expanded collaboration with Nvidia...
---------------------------------------------------
-
-Title: While the Stock Market Was Rallying, Palantir Stock Sold Off. Should You Buy the Dip in PLTR?
-URL: https://www.barchart.com/story/news/1258008/while-the-stock-market-was-rallying-palantir-stock-sold-off-should-you-buy-the-dip-in-pltr
-Time Published: 2026-04-11T15:30:02Z
-Description: Shares of the Alex Karp-led company nosedived by more than 14% on the ceasefire news.
 --------------------------------------------------

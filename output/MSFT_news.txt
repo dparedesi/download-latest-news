@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: AI's Cash Splash Continues: Meta Platforms and Broadcom Expand Custom Chip Partnership
+URL: https://www.barchart.com/story/news/1326314/ai-s-cash-splash-continues-meta-platforms-and-broadcom-expand-custom-chip-partnership
+Time Published: 2026-04-15T18:17:16Z
+Description: Hyperscalers are ramping AI infrastructure spending to record levels this year, with a string of major partnerships and funding rounds across the sector...
+--------------------------------------------------
+
+Title: A Tectonic Shift in AI Is Underway and AMD Stock Is No Longer a ‘Discount’ Competitor to Nvidia. It’s a Bet on the Future.
+URL: https://www.barchart.com/story/news/1325858/a-tectonic-shift-in-ai-is-underway-and-amd-stock-is-no-longer-a-discount-competitor-to-nvidia-its-a-bet-on-the-future
+Time Published: 2026-04-15T18:03:26Z
+Description: AMD is evolving from a budget alternative into a formidable competitor to Nvidia by overcoming the CUDA software barrier. This analysis examines AMD’s...
+--------------------------------------------------
+
 Title: Stocks Rally on a Push for Diplomacy to End US-Iran War
 URL: https://www.barchart.com/story/news/1305540/stocks-rally-on-a-push-for-diplomacy-to-end-us-iran-war
 Time Published: 2026-04-14T20:33:09Z

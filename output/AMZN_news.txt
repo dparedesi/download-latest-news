@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: AI's Cash Splash Continues: Meta Platforms and Broadcom Expand Custom Chip Partnership
+URL: https://www.barchart.com/story/news/1326314/ai-s-cash-splash-continues-meta-platforms-and-broadcom-expand-custom-chip-partnership
+Time Published: 2026-04-15T18:17:16Z
+Description: Hyperscalers are ramping AI infrastructure spending to record levels this year, with a string of major partnerships and funding rounds across the sector...
+--------------------------------------------------
+
+Title: Amazon Stock Is Overbought Amid Globalstar Deal. Is a Pullback Coming?
+URL: https://www.barchart.com/story/news/1316564/amazon-stock-is-overbought-amid-globalstar-deal-is-a-pullback-coming
+Time Published: 2026-04-15T11:45:02Z
+Description: Amazon stock rallied on Tuesday after announcing Globalstar acquisition. Goldman Sachs explains why AMZN shares are worth buying despite an overbought RSI.
+--------------------------------------------------
+
 Title: Heavy, Unusual Volume in Amazon Options Ahead of Earnings in Two Weeks
 URL: https://www.barchart.com/story/news/1302168/heavy-unusual-volume-in-amazon-options-ahead-of-earnings-in-two-weeks
 Time Published: 2026-04-14T17:30:02Z
