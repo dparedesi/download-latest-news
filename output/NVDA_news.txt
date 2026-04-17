@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Jim Cramer Still Hasn’t Figured Out Why NVIDIA (NVDA) Stock is Down
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d073126a-95ee-4bc6-89b9-29be105f6678
+Time Published: 2026-04-16T16:44:45Z
+Description: None
+--------------------------------------------------
+
+Title: Taiwan Semiconductor CEO just dropped a hint about the next move in AI stocks
+URL: https://finance.yahoo.com/news/taiwan-semiconductor-ceo-just-dropped-a-hint-about-the-next-move-in-ai-stocks-120227431.html
+Time Published: 2026-04-16T12:02:27Z
+Description: Important note from Taiwan Semiconductor.
+--------------------------------------------------
+
 Title: 3 amazing ASX ETFs that are beginner-friendly
 URL: https://www.fool.com.au/2026/04/16/3-amazing-asx-etfs-that-are-beginner-friendly/
 Time Published: 2026-04-16T00:11:08Z
