@@ -1,5 +1,11 @@
 List of news related to AST SpaceMobile ASTS:
 
+Title: A giant cell tower is going to space this weekend
+URL: https://www.theverge.com/tech/913752/blue-origin-reusable-rocket-test-ast-sapcemobile
+Time Published: 2026-04-17T11:28:46Z
+Description: This weekend's scheduled Blue Origin rocket launch is rather momentous. Success would signal an end to SpaceX's monopoly on reusable orbital launch vehicles, and set up a three-way race to make that "No Service" indicator on your phone disappear forever. On S…
+--------------------------------------------------
+
 Title: AST SpaceMobile Announces BlueBird 7 Launch Date of Sunday, April 19, Invites Retail Investors to Attend Live Launch Event at Cape Canaveral
 URL: https://apnews.com/press-release/business-wire/ast-spacemobile-announces-bluebird-7-launch-date-of-sunday-april-19-invites-retail-investors-to-attend-live-launch-event-at-cape-canaveral-32a00223a8d749b09c7c19fdf429a79c
 Time Published: 2026-04-17T01:50:57Z
