@@ -1,5 +1,11 @@
 List of news related to Uber stock price UBER:
 
+Title: Uber raises stake in Delivery Hero in $318 million deal
+URL: https://www.cnbc.com/2026/04/17/uber-raises-stake-delivery-hero-prosus.html
+Time Published: 2026-04-17T06:24:22Z
+Description: Prosus has been forced by European regulators to sell down its Delivery Hero stake in order to proceed with a proposed acquisition of Just Eat.
+--------------------------------------------------
+
 Title: 20VC x SaaStr: “I Don’t Buy Dario Anymore” — Mythos Withheld Over Zero-Days, Meta’s Muse Spark Gets Back in the Game, SpaceX at $2T on 108x Revenue, and Why 60% Agents Are the Slow Death Spiral for Public SaaS
 URL: https://www.saastr.com/20vc-x-saastr-i-dont-buy-dario-anymore-mythos-withheld-over-zero-days-metas-muse-spark-gets-back-in-the-game-spacex-at-2t-on-108x-revenue-and-why-60-agents-are-the-slow-death-sp/
 Time Published: 2026-04-16T16:48:28Z
