@@ -1,1 +1,7 @@
-No news found for Shopify stock price +SHOP
+List of news related to Shopify stock price SHOP:
+
+Title: Unusual Options Activity Hints That a Big Fish Is Rolling Covered Calls on Shopify Stock
+URL: https://www.barchart.com/story/news/1351112/unusual-options-activity-hints-that-a-big-fish-is-rolling-covered-calls-on-shopify-stock
+Time Published: 2026-04-16T17:30:02Z
+Description: One of Shopify’s unusually active call options yesterday had a Vol/OI ratio of 335.96, nearly double the second-highest. A closer look suggests that a big...
+--------------------------------------------------

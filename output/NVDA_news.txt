@@ -6,6 +6,18 @@ Time Published: 2026-04-16T16:44:45Z
 Description: None
 --------------------------------------------------
 
+Title: Nvidia's impressive rally faces one big test
+URL: https://finance.yahoo.com/news/nvidias-impressive-rally-faces-one-big-test-163054251.html
+Time Published: 2026-04-16T16:30:54Z
+Description: Be on the lookout, Nvidia bulls.
+--------------------------------------------------
+
+Title: As Nvidia Sparks a Rally in IONQ Stock, Is the Quantum Computing Company a Buy, Sell, or Hold?
+URL: https://www.barchart.com/story/news/1347545/as-nvidia-sparks-a-rally-in-ionq-stock-is-the-quantum-computing-company-a-buy-sell-or-hold
+Time Published: 2026-04-16T14:33:55Z
+Description: IonQ stock extends gains as Nvidia launches Ising AI models. Here’s what the rollout really means for IONQ shares.
+--------------------------------------------------
+
 Title: Taiwan Semiconductor CEO just dropped a hint about the next move in AI stocks
 URL: https://finance.yahoo.com/news/taiwan-semiconductor-ceo-just-dropped-a-hint-about-the-next-move-in-ai-stocks-120227431.html
 Time Published: 2026-04-16T12:02:27Z
@@ -15,8 +27,7 @@ Description: Important note from Taiwan Semiconductor.
 Title: NVIDIA Corporation (NVDA) Turns to AI-Powered Robots to Power Industrial Revolution
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_37b4230b-3f5e-4b4e-8812-2c07aeadbf88
 Time Published: 2026-04-16T09:27:13Z
-Full Content:
-Your privacy is important to us Yahoo is part of the Yahoo family of brandsThe sites and apps that we own and operate, including Yahoo and Engadget, and our digital advertising service, Yahoo Advertising.Yahoo family of brands. If you do not want us and our partners to use cookies and personal data for these additional purposes, click 'Reject all'. If you would like to customise your choices, click 'Manage privacy settings'. You can withdraw your consent or change your choices at any time by clicking on the 'Privacy and Cookie settings' or 'Privacy dashboard' links on our sites and apps. Find out more about how we use your personal data in our Privacy Policy and Cookie Policy.
+Description: None
 --------------------------------------------------
 
 Title: 3 amazing ASX ETFs that are beginner-friendly
@@ -54,7 +65,7 @@ Title: Long Elon, short Jensen: A research firm says retail traders are flocking
 URL: https://www.businessinsider.com/tesla-stock-nvidia-elon-musk-tsla-nvda-retail-traders-2026-4
 Time Published: 2026-04-15T16:16:38Z
 Full Content:
-Retail traders are flocking back to an old favorite. According to data from Vanda Research, which tracks retail investor flows into stocks and ETFs, Tesla is seeing a renewed buying spree among retail investors following a tough start to this year. Tesla stock is down 15% in 2026, and retail traders seem to be seizing on the opportunity to buy it on the dip. At the same time, Vanda said that individual investors are rotating away from Nvidia. "NVDA is seeing sustained retail outflows after an extended period of buying," the report stated. "In contrast, NVDA has seen multiple successive sessions of net selling, a reversal from the record buying we saw in and around prior earnings. The last time the 5-day net buying was this weak (-$294mn) was last May." Vanda added that this pattern recalls a similar scenario that played out last year, when retail traders pulled out of Nvidia after the market rally following Donald Trump's Liberation Day tariff announcements. However, they quickly returned and resumed heavy buying, helping spark new momentum for the stock. Vanda also said last month that retail investors had become net sellers of stocks for the first time in three years amid the volatility created by the Iran war, though they've since resumed buying. "TSLA has seen $216mn of net buying over the past 5 days, making it the most actively bought retail name again. This comes as 1M rolling retail flows have moved to their highest since late Oct last year — with retail persistently buying the dip," Vanda noted. Tesla CEO Elon Musk is a popular figure among retail traders. While Wall Street analysts have raised concerns about Musk's various ventures, Vanda's data suggests that everyday traders are still upbeat. According to Vanda, their pivot from Nvidia might not be an explicitly bearish position, and the same selling pattern has been seen in previous tax seasons as investors take profits to help cover their IRS bills. The research firm noted that tax day selling pressure is likely to pass soon. It said the data reflect a positive shift in investor sentiment, likely to help the market recover. "Under the hood, retail engagement remains strong, with TSLA, PLTR, MSFT and AAPL dominating the most actively traded names," the report stated. "If retail flows do inflect higher post-tax day, this big tech cohort is likely to lead. But we would expect buying to broaden out across the usual retail favorites." Jump to Every time publishes a story, you’ll get an alert straight to your inbox! Every time a new story is published, you’ll get an alert straight to your inbox! Enter your email By clicking “Sign up”, you agree to receive emails from Business Insider. In addition, you accept Insider’s Terms of Service and Privacy Policy.
+Retail traders are flocking back to an old favorite. According to data from Vanda Research, which tracks retail investor flows into stocks and ETFs, Tesla is seeing a renewed buying spree among retail investors following a tough start to this year. Tesla stock is down 15% in 2026, and retail traders seem to be seizing on the opportunity to buy it on the dip. At the same time, Vanda said that individual investors are rotating away from Nvidia. "NVDA is seeing sustained retail outflows after an extended period of buying," the report stated. "In contrast, NVDA has seen multiple successive sessions of net selling, a reversal from the record buying we saw in and around prior earnings. The last time the 5-day net buying was this weak (-$294mn) was last May." Vanda added that this pattern recalls a similar scenario that played out last year, when retail traders pulled out of Nvidia after the market rally following Donald Trump's Liberation Day tariff announcements. However, they quickly returned and resumed heavy buying, helping spark new momentum for the stock. Vanda also said last month that retail investors had become net sellers of stocks for the first time in three years amid the volatility created by the Iran war, though they've since resumed buying. "TSLA has seen $216mn of net buying over the past 5 days, making it the most actively bought retail name again. This comes as 1M rolling retail flows have moved to their highest since late Oct last year — with retail persistently buying the dip," Vanda noted. Tesla CEO Elon Musk is a popular figure among retail traders. While Wall Street analysts have raised concerns about Musk's various ventures, Vanda's data suggests that everyday traders are still upbeat. According to Vanda, their pivot from Nvidia might not be an explicitly bearish position, and the same selling pattern has been seen in previous tax seasons as investors take profits to help cover their IRS bills. The research firm noted that tax day selling pressure is likely to pass soon. It said the data reflect a positive shift in investor sentiment, likely to help the market recover. "Under the hood, retail engagement remains strong, with TSLA, PLTR, MSFT and AAPL dominating the most actively traded names," the report stated. "If retail flows do inflect higher post-tax day, this big tech cohort is likely to lead. But we would expect buying to broaden out across the usual retail favorites." Jump to Every time publishes a story, you’ll get an alert straight to your inbox! Every time a new story is published, you’ll get an alert straight to your inbox! By clicking “Sign up”, you agree to receive emails from Business Insider. In addition, you accept Insider’s Terms of Service and Privacy Policy.
 --------------------------------------------------
 
 Title: As Michael Burry Adds to His Nvidia Puts, Should You Buy, Sell, or Hold NVDA Stock?
@@ -173,35 +184,11 @@ Title: sibyl-research added to PyPI
 URL: https://pypi.org/project/sibyl-research/
 Time Published: 2026-04-13T18:31:22Z
 Full Content:
-pip install sibyl-research Copy PIP instructions Released: Apr 13, 2026 AI-powered deep research agent — market analysis, trend prediction, topic research with multi-LLM support AI-powered deep research agent. Ask any question — Sibyl searches the web across multiple sources, reads dozens of pages, cross-references findings, and generates an executive-quality research report with analysis, predictions, and citations. Not just another search summarizer. Sibyl is a research analysis platform — it does structured comparisons, SWOT analysis, Google Trends tracking, event timelines, and financial data visualization. All from a single question. Then in Claude Code: "Research the impact of AI on software engineering jobs over the next 5 years" "Compare NVIDIA vs AMD vs Intel for AI workloads" "SWOT analysis of Tesla in 2026" Sibyl works with any LLM. Auto-detects from environment variables: Or configure multiple providers with roles: Reports generated by Sibyl on real topics: MIT 0.2.1 Apr 13, 2026 0.2.0 Apr 13, 2026 0.1.0 Apr 13, 2026 Download the file for your platform. If you're not sure which to choose, learn more about installing packages. Uploaded Apr 13, 2026 Source Filter files by name, interpreter, ABI, and platform. If you're not sure about the file name format, learn more about wheel file names. The dropdown lists show the available interpreters, ABIs, and platforms. Enable javascript to be able to filter the list of wheel files. Copy a direct link to the current filters Copy Uploaded Apr 13, 2026 Python 3 Details for the file sibyl_research-0.2.1.tar.gz. See more details on using hashes here. Details for the file sibyl_research-0.2.1-py3-none-any.whl. See more details on using hashes here. Status: all systems operational Developed and maintained by the Python community, for the Python community. Donate today! "PyPI", "Python Package Index", and the blocks logos are registered trademarks of the Python Software Foundation. © 2026 Python Software Foundation Site map Supported by
+Please enable JavaScript to proceed.
 --------------------------------------------------
 
 Title: These tech stocks have been sizzling hot with the Iran conflict raging
 URL: https://finance.yahoo.com/news/these-tech-stocks-have-been-sizzling-hot-with-the-iran-conflict-raging-142840915.html
 Time Published: 2026-04-13T14:28:40Z
 Description: The SOX has been rocking.
---------------------------------------------------
-
-Title: Magnificent 7 stocks are splitting again: Chart of the Day
-URL: https://finance.yahoo.com/news/magnificent-7-stocks-are-splitting-again-chart-of-the-day-173828916.html
-Time Published: 2026-04-12T17:38:28Z
-Description: The stock market’s latest rally is reviving a familiar trade — but not all of the Magnificent Seven are coming along for the ride.
---------------------------------------------------
-
-Title: Wall Street strategists say it's time to 'jump in' with tech stocks amid Iran ceasefire
-URL: https://finance.yahoo.com/news/wall-street-strategists-say-its-time-to-jump-in-with-tech-stocks-amid-iran-ceasefire-133019529.html
-Time Published: 2026-04-12T13:25:14Z
-Description: While geopolitical tensions keep the market on edge, some experts see a rare opening in hammered tech names.
---------------------------------------------------
-
-Title: Russell 2000 Tracking for New Highs: What’s Next for ETF Traders?
-URL: https://www.marketbeat.com/originals/russell-2000-tracking-for-new-highs-whats-next-for-etf-traders/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
-Time Published: 2026-04-12T11:50:00Z
-Description: The Russell 2000 and ETFs that track it are on track to hit all-time highs soon, then extend the rallies through year-end as activity accelerates.
---------------------------------------------------
-
-Title: NVIDIA Stock 2026: Buy or Sell NVDA as AI Demand and Blackwell Ramp Fuel Strong Buy Consensus
-URL: https://www.ibtimes.com.au/nvidia-stock-2026-buy-sell-nvda-ai-demand-blackwell-ramp-fuel-strong-buy-consensus-1866225
-Time Published: 2026-04-12T09:36:29Z
-Description: NEW YORK — NVIDIA Corp. (NASDAQ: NVDA) shares closed at approximately $188.63 on April 10, 2026, with Wall Street analysts maintaining a strong consensus "Buy" or "Strong Buy" rating as the company rides explosive demand for its AI GPUs, particularly the Blac…
 --------------------------------------------------
