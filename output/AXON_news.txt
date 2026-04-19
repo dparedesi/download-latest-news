@@ -26,9 +26,3 @@ URL: https://finance.yahoo.com/sectors/energy/articles/rare-earth-trap-china-out
 Time Published: 2026-04-15T00:00:00Z
 Description: China didn’t stumble into rare earth dominance. It spent 30 years building a processing monopoly and systematically crushing every Western attempt to compete
 --------------------------------------------------
-
-Title: Edmonton police emails, documents provide new information on Canada-first AI facial recognition bodycam pilot
-URL: https://www.cbc.ca/news/canada/edmonton/edmonton-police-emails-documents-provide-new-information-on-canada-first-ai-facial-recognition-bodycam-pilot-9.7157991
-Time Published: 2026-04-13T10:00:00Z
-Description: Key details include a “critical fault” system outage, possible extension of pilot project and that facial recognition model was supplied by Corsight AI, a company whose technology has reportedly been used for mass surveillance in Gaza.
---------------------------------------------------

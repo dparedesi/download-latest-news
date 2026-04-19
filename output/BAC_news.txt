@@ -11,9 +11,3 @@ URL: https://www.barchart.com/story/news/1305540/stocks-rally-on-a-push-for-dipl
 Time Published: 2026-04-14T20:33:09Z
 Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed up +1.18%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.66%, and the Nasdaq 100 Index...
 --------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq trim losses after Trump orders Hormuz blockade against Iran
-URL: https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-trim-losses-after-trump-orders-hormuz-blockade-against-iran-142624712.html
-Time Published: 2026-04-13T14:26:24Z
-Description: The major US gauges sank as tensions over the Strait of Hormuz revived worries about inflation and damage to the global economy.
---------------------------------------------------
