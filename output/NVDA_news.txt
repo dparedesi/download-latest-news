@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Morning Brief: The future of Netflix is now
+URL: https://finance.yahoo.com/news/morning-brief-the-future-of-netflix-is-now-100051740.html
+Time Published: 2026-04-18T10:00:51Z
+Description: The stock market put in another surge on Friday to close out a week of record highs.
+--------------------------------------------------
+
+Title: Nvidia Corp. (NVDA) Announces New Open-Source Quantum AI Model
+URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-corp-nvda-announces-open-084809766.html
+Time Published: 2026-04-18T08:48:09Z
+Description: NVIDIA Corp. (NASDAQ:NVDA) is one of the 10 Best Data Center Stocks To Buy For the Long Term. In the past year, the stock grew 95.44%, while it posted 5.03% ...
+--------------------------------------------------
+
 Title: Purpose Investments Inc. Announces April 2026 Distributions
 URL: https://financialpost.com/globe-newswire/purpose-investments-inc-announces-april-2026-distributions
 Time Published: 2026-04-17T23:04:57Z
