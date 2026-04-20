@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: The AI trade is fueling the market to record highs despite Iran war
+URL: https://finance.yahoo.com/news/the-ai-trade-is-fueling-the-market-to-record-highs-despite-iran-war-130540185.html
+Time Published: 2026-04-19T13:05:40Z
+Description: The AI trade has been able to insulate itself from disruptions caused by the Middle East war.
+--------------------------------------------------
+
 Title: Jim Cramer Didn’t Hold Back When Discussing Taiwan Semiconductor (TSM) Sellers
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_24d8a2bb-1a09-440e-85fb-7831b2091f94
 Time Published: 2026-04-19T04:31:31Z
