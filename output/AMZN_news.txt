@@ -30,15 +30,3 @@ URL: https://www.barchart.com/story/news/1316564/amazon-stock-is-overbought-amid
 Time Published: 2026-04-15T11:45:02Z
 Description: Amazon stock rallied on Tuesday after announcing Globalstar acquisition. Goldman Sachs explains why AMZN shares are worth buying despite an overbought RSI.
 --------------------------------------------------
-
-Title: Heavy, Unusual Volume in Amazon Options Ahead of Earnings in Two Weeks
-URL: https://www.barchart.com/story/news/1302168/heavy-unusual-volume-in-amazon-options-ahead-of-earnings-in-two-weeks
-Time Published: 2026-04-14T17:30:02Z
-Description: A Barchart report today shows huge, unusual volume in Amazon Inc options ahead of its earnings due out at the end of the month. Investors are piling into...
---------------------------------------------------
-
-Title: Stocks Climb on US-Iran Peace Talk Optimism and a Favorable PPI Report
-URL: https://www.barchart.com/story/news/1297803/stocks-climb-on-us-iran-peace-talk-optimism-and-a-favorable-ppi-report
-Time Published: 2026-04-14T14:00:19Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.39%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.13%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
---------------------------------------------------
