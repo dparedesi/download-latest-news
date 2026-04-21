@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: The Nasdaq's Historic Rally Doesn't Mean the Risk Is Gone
+URL: https://www.marketbeat.com/originals/the-nasdaqs-historic-rally-doesnt-mean-the-risk-is-gone/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
+Time Published: 2026-04-19T16:30:00Z
+Description: Marc Chaikin of Chaikin Analytics shares seven bullish stock picks across AI infrastructure and semiconductors while warning investors to trim software and...
+--------------------------------------------------
+
 Title: AI Boom and Energy Surge: 5 S&P 500 Stocks Analysts Say Could Soar in 2026
 URL: https://www.ibtimes.com.au/ai-boom-energy-surge-5-sp-500-stocks-analysts-say-could-soar-2026-1867009
 Time Published: 2026-04-19T12:11:55Z
@@ -16,22 +22,4 @@ Title: Microsoft Stock Warning: Why Piper Sandler Analysts Just Slashed Their MS
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5a56fe8b-16a4-4c06-ae58-00d39404c758
 Time Published: 2026-04-16T15:24:03Z
 Description: None
---------------------------------------------------
-
-Title: ASML Earnings Show AI’s Real Engine Is Still Hardware
-URL: https://app.moby.co/home/news/news-asml-earnings-show-ais-real-engine-is-still-hardware?utm_source=yahoo_finance&amp;utm_medium=rss
-Time Published: 2026-04-15T19:00:19Z
-Description: The AI boom isn’t just code and chatbots, it’s factories, bottlenecks, and a global industrial race.
---------------------------------------------------
-
-Title: AI's Cash Splash Continues: Meta Platforms and Broadcom Expand Custom Chip Partnership
-URL: https://www.barchart.com/story/news/1326314/ai-s-cash-splash-continues-meta-platforms-and-broadcom-expand-custom-chip-partnership
-Time Published: 2026-04-15T18:17:16Z
-Description: Hyperscalers are ramping AI infrastructure spending to record levels this year, with a string of major partnerships and funding rounds across the sector...
---------------------------------------------------
-
-Title: A Tectonic Shift in AI Is Underway and AMD Stock Is No Longer a ‘Discount’ Competitor to Nvidia. It’s a Bet on the Future.
-URL: https://www.barchart.com/story/news/1325858/a-tectonic-shift-in-ai-is-underway-and-amd-stock-is-no-longer-a-discount-competitor-to-nvidia-its-a-bet-on-the-future
-Time Published: 2026-04-15T18:03:26Z
-Description: AMD is evolving from a budget alternative into a formidable competitor to Nvidia by overcoming the CUDA software barrier. This analysis examines AMD’s...
 --------------------------------------------------
