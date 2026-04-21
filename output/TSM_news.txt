@@ -1,5 +1,17 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Taiwan Semiconductor Manufacturing (TSM) Reports Q1 EPS Beat
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_92d4ddf4-9ef4-4fa4-92f6-627595358631
+Time Published: 2026-04-20T13:11:44Z
+Description: None
+--------------------------------------------------
+
+Title: Semiconductor stocks haven't been this hot since the dot-com bubble — and it could end badly
+URL: https://finance.yahoo.com/news/semiconductor-stocks-havent-been-this-hot-since-the-dot-com-bubble--and-it-could-end-badly-131124176.html
+Time Published: 2026-04-20T13:11:24Z
+Description: The Philadelphia Semiconductor Sector Index — better known among traders as the SOX — has surged 30% in the past 13 days, marking the largest rally of this...
+--------------------------------------------------
+
 Title: The AI trade is fueling the market to record highs despite Iran war
 URL: https://finance.yahoo.com/news/the-ai-trade-is-fueling-the-market-to-record-highs-despite-iran-war-130540185.html
 Time Published: 2026-04-19T13:05:40Z
