@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Jim Cramer Notes “The Total Addressable Market for NVIDIA’s Products Keeps Expanding”
+URL: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-total-addressable-171915742.html
+Time Published: 2026-04-21T17:19:15Z
+Description: NVIDIA Corporation (NASDAQ:NVDA) was among Jim Cramer’s recent stock calls on Mad Money. Cramer recommended buying the stock on any dip, as he stated...
+--------------------------------------------------
+
+Title: NVIDIA Corporation (NVDA): Nancy Pelosi Is Bullish on This Chip Giant
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_89011d77-0cf0-4392-b1f8-14dd56fc699d
+Time Published: 2026-04-21T14:47:09Z
+Description: None
+--------------------------------------------------
+
 Title: NVIDIA Corporation (NVDA): Mature Growth Phase Follows Triple-Digit Gains
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_20fdc099-3e02-4900-a08a-282b377d198a
 Time Published: 2026-04-20T21:09:29Z
