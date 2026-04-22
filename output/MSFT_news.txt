@@ -1,5 +1,11 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Intel Hit Its Highest Price in 25 Years. Here's Why It Will Make a New All-Time High
+URL: https://www.barchart.com/story/news/1400380/intel-hit-its-highest-price-in-25-years-here-s-why-it-will-make-a-new-all-time-high
+Time Published: 2026-04-20T13:00:02Z
+Description: Intel’s year-to-date stock performance, alongside its strategic moves in data centers and foundry operations, sets up the chipmaker to make new all-time...
+--------------------------------------------------
+
 Title: The Nasdaq's Historic Rally Doesn't Mean the Risk Is Gone
 URL: https://www.marketbeat.com/originals/the-nasdaqs-historic-rally-doesnt-mean-the-risk-is-gone/?utm_source=yahoofinance&amp;utm_medium=yahoofinance
 Time Published: 2026-04-19T16:30:00Z
@@ -16,10 +22,4 @@ Title: Nasdaq scores longest winning streak since 1992 as historic stock-market 
 URL: https://www.marketwatch.com/story/nasdaq-heads-toward-its-longest-winning-streak-since-1992-as-historic-stock-market-comeback-continues-e84c2c59
 Time Published: 2026-04-17T21:32:00Z
 Description: A rally that has already catapulted stocks higher with a velocity rarely seen before continued to pick up speed on Friday.
---------------------------------------------------
-
-Title: Microsoft Stock Warning: Why Piper Sandler Analysts Just Slashed Their MSFT Price Target by More Than 15%
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5a56fe8b-16a4-4c06-ae58-00d39404c758
-Time Published: 2026-04-16T15:24:03Z
-Description: None
 --------------------------------------------------
