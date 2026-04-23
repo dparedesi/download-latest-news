@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Missed Nvidia? AMD Could Be Your Second Chance to Earn Massive AI Gains
+URL: https://www.barchart.com/story/news/1431810/missed-nvidia-amd-could-be-your-second-chance-to-earn-massive-ai-gains
+Time Published: 2026-04-21T19:01:31Z
+Description: AMD could be the next big AI opportunity after Nvidia’s historic run.
+--------------------------------------------------
+
 Title: Jim Cramer Notes “The Total Addressable Market for NVIDIA’s Products Keeps Expanding”
 URL: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-total-addressable-171915742.html
 Time Published: 2026-04-21T17:19:15Z
