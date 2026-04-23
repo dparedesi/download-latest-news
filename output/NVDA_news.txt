@@ -1,5 +1,23 @@
 List of news related to NVIDIA NVDA:
 
+Title: One new clue that Nvidia's Jensen Huang and TSMC are right about AI demand strength
+URL: https://finance.yahoo.com/news/one-new-clue-that-nvidias-jensen-huang-and-tsmc-are-right-about-ai-demand-strength-162138937.html
+Time Published: 2026-04-22T16:21:38Z
+Description: Another bullish sign on AI demand.
+--------------------------------------------------
+
+Title: Here’s Nightview Fund’s Views on NVIDIA (NVDA)
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_40b1c800-ae7b-4339-92a6-8c92148d215e
+Time Published: 2026-04-22T12:39:46Z
+Description: None
+--------------------------------------------------
+
+Title: Cadence Design And Nvidia (NVDA) Partnering to Boost AI Robo Development
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a0de23d4-27f3-4b10-b286-8742069af829
+Time Published: 2026-04-22T11:34:40Z
+Description: None
+--------------------------------------------------
+
 Title: NVIDIA CEO Jensen Huang Says Manufacturing Bottlenecks Are a ‘2–3 Year Problem.’ Here’s What That Means for Investors
 URL: https://247wallst.com/investing/2026/04/21/nvidia-ceo-jensen-huang-says-manufacturing-bottlenecks-are-a-2-3-year-problem-heres-what-that-means-for-investors/
 Time Published: 2026-04-21T20:01:54Z
