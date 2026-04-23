@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Intel to report first quarter earnings as CPUs become key to AI growth
+URL: https://finance.yahoo.com/sectors/technology/article/intel-to-report-first-quarter-earnings-as-cpus-become-key-to-ai-growth-191552358.html
+Time Published: 2026-04-22T19:15:52Z
+Description: Intel will report its first quarter earnings after the bell on Thursday.
+--------------------------------------------------
+
 Title: One new clue that Nvidia's Jensen Huang and TSMC are right about AI demand strength
 URL: https://finance.yahoo.com/news/one-new-clue-that-nvidias-jensen-huang-and-tsmc-are-right-about-ai-demand-strength-162138937.html
 Time Published: 2026-04-22T16:21:38Z
