@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: The U.S. stock market is progressing toward a bubble — and here’s where the extremes are right now
+URL: https://www.marketwatch.com/story/the-u-s-stock-market-is-progressing-toward-a-bubble-and-heres-where-the-extremes-are-right-now-aa601879
+Time Published: 2026-04-22T12:05:00Z
+Description: As the market moves toward a bubble, BofA analysts highlight where the froth already is.
+--------------------------------------------------
+
 Title: Taiwan Semiconductor Manufacturing (TSM) Reports Q1 EPS Beat
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_92d4ddf4-9ef4-4fa4-92f6-627595358631
 Time Published: 2026-04-20T13:11:44Z
@@ -28,17 +34,4 @@ Title: Jim Cramer Didn’t Hold Back When Discussing Taiwan Semiconductor (TSM) 
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_24d8a2bb-1a09-440e-85fb-7831b2091f94
 Time Published: 2026-04-19T04:31:31Z
 Description: None
---------------------------------------------------
-
-Title: Looking for ASX ETFs to buy and hold? Here are 3 top picks
-URL: https://www.fool.com.au/2026/04/19/looking-for-asx-etfs-to-buy-and-hold-here-are-3-top-picks/
-Time Published: 2026-04-18T22:37:00Z
-Description: These funds are highly rated for good reason. Let's see what they offer.
-The post Looking for ASX ETFs to buy and hold? Here are 3 top picks appeared first on The Motley Fool Australia.
---------------------------------------------------
-
-Title: Analysts rerate Taiwan Semiconductor stock after earnings
-URL: https://www.thestreet.com/investing/stocks/analysts-rerate-taiwan-semiconductor-stock-after-earnings
-Time Published: 2026-04-18T18:33:00Z
-Description: Taiwan Semiconductor Manufacturing Company (TSM) just reported a quarter that’s forcing analysts to reassess the company. Revenue growth came in strong, but ...
 --------------------------------------------------
