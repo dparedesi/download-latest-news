@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: NVIDIA Corporation (NVDA) Sets Sight on $11B Quantum Computing Opportunity With Ising
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_320c2749-3c01-4a08-b25b-b97effa1cf5d
+Time Published: 2026-04-22T20:48:17Z
+Description: None
+--------------------------------------------------
+
+Title: Stocks Settle Higher as Nasdaq Posts a Record High on Tech Strength
+URL: https://www.barchart.com/story/news/1459130/stocks-settle-higher-as-nasdaq-posts-a-record-high-on-tech-strength
+Time Published: 2026-04-22T20:35:34Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +1.05%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.69%, and the Nasdaq 100 Index (...
+--------------------------------------------------
+
 Title: Intel to report first quarter earnings as CPUs become key to AI growth
 URL: https://finance.yahoo.com/sectors/technology/article/intel-to-report-first-quarter-earnings-as-cpus-become-key-to-ai-growth-191552358.html
 Time Published: 2026-04-22T19:15:52Z
