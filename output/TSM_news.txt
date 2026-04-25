@@ -1,5 +1,17 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Jim Cramer Isn’t Worried About Taiwan Semiconductor Manufacturing’s (TSM) Share Price Weakness
+URL: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-isn-t-worried-193616098.html
+Time Published: 2026-04-23T19:36:16Z
+Description: We recently shared Jim Cramer Rubbished Circular AI Deals & Commented On These 18 Stocks. Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is...
+--------------------------------------------------
+
+Title: Taiwan Semiconductor Manufacturing (TSM) – Among the Best Global Stocks to Buy According to Wall Street Analysts
+URL: https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-among-164459486.html
+Time Published: 2026-04-23T16:44:59Z
+Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is included among the 10 Best Global Stocks to Buy According to Wall Street Analysts. Taiwan...
+--------------------------------------------------
+
 Title: Semiconductor stocks like Nvidia and Micron are on a remarkable streak
 URL: https://finance.yahoo.com/news/semiconductor-stocks-like-nvidia-and-micron-are-on-a-remarkable-streak-150827239.html
 Time Published: 2026-04-23T15:08:27Z
@@ -46,16 +58,4 @@ Title: Intel Hit Its Highest Price in 25 Years. Here's Why It Will Make a New Al
 URL: https://www.barchart.com/story/news/1400380/intel-hit-its-highest-price-in-25-years-here-s-why-it-will-make-a-new-all-time-high
 Time Published: 2026-04-20T13:00:02Z
 Description: Intel’s year-to-date stock performance, alongside its strategic moves in data centers and foundry operations, sets up the chipmaker to make new all-time...
---------------------------------------------------
-
-Title: The AI trade is fueling the market to record highs despite Iran war
-URL: https://finance.yahoo.com/news/the-ai-trade-is-fueling-the-market-to-record-highs-despite-iran-war-130540185.html
-Time Published: 2026-04-19T13:05:40Z
-Description: The AI trade has been able to insulate itself from disruptions caused by the Middle East war.
---------------------------------------------------
-
-Title: Jim Cramer Didn’t Hold Back When Discussing Taiwan Semiconductor (TSM) Sellers
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_24d8a2bb-1a09-440e-85fb-7831b2091f94
-Time Published: 2026-04-19T04:31:31Z
-Description: None
 --------------------------------------------------
