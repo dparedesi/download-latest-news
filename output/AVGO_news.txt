@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Nvidia stock clinches record close, pushing market cap over $5 trillion once again
+URL: https://finance.yahoo.com/sectors/technology/article/nvidia-stock-clinches-record-close-pushing-market-cap-over-5-trillion-once-again-173529477.html
+Time Published: 2026-04-24T17:35:29Z
+Description: Nvidia was on pace for a record-high close as the AI leader and most valuable company in the world crossed the $5 trillion valuation mark again.
+--------------------------------------------------
+
 Title: Broadcom Inc. (AVGO): Safe Play Within Semiconductor Sector
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_941f1a29-7790-4ee7-ac86-3be7d64d7be2
 Time Published: 2026-04-24T14:37:29Z

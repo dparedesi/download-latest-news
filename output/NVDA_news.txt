@@ -1,5 +1,17 @@
 List of news related to NVIDIA NVDA:
 
+Title: Buying chip stocks is getting pricey. Traders don't care
+URL: https://www.cnbc.com/2026/04/24/buying-chip-stocks-is-getting-pricey-traders-dont-care.html
+Time Published: 2026-04-24T19:02:15Z
+Description: None
+--------------------------------------------------
+
+Title: Nvidia stock clinches record close, pushing market cap over $5 trillion once again
+URL: https://finance.yahoo.com/sectors/technology/article/nvidia-stock-clinches-record-close-pushing-market-cap-over-5-trillion-once-again-173529477.html
+Time Published: 2026-04-24T17:35:29Z
+Description: Nvidia was on pace for a record-high close as the AI leader and most valuable company in the world crossed the $5 trillion valuation mark again.
+--------------------------------------------------
+
 Title: Nvidia hits $5 trillion market cap again as NVDA stock jumps over 5% in a single session today— can surging AI demand justify this breakout, or is valuation risk quietly building?
 URL: https://economictimes.indiatimes.com/news/international/us/nvda-stock-nvidia-hits-5-trillion-market-cap-again-as-nvda-jumps-over-5-in-a-single-session-today-can-surging-ai-demand-justify-this-breakout-or-is-valuation-risk-quietly-building/articleshow/130498777.cms
 Time Published: 2026-04-24T15:57:49Z

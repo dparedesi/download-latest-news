@@ -1,5 +1,11 @@
 List of news related to Shopify stock price SHOP:
 
+Title: Inside Doba Pilot: The unified AI system redefining what a dropshipping platform can do
+URL: https://www.digitaljournal.com/tech-science/inside-doba-pilot-the-unified-ai-system-redefining-what-a-dropshipping-platform-can-do/article
+Time Published: 2026-04-24T18:22:59Z
+Description: Doba's March 2026 release of Doba Pilot is a direct response to that gap. Doba Pilot is a structural rethinking of how a dropshipping platform should function. The system accepts natural language instructions from sellers and executes the corresponding workfl…
+--------------------------------------------------
+
 Title: Can Shopify Inc. (SHOP) Double in the Next 5 Years?
 URL: https://finance.yahoo.com/markets/stocks/articles/shopify-inc-shop-double-next-113540624.html
 Time Published: 2026-04-22T11:35:40Z
