@@ -81,9 +81,3 @@ URL: https://www.marketwatch.com/story/the-u-s-stock-market-is-progressing-towar
 Time Published: 2026-04-22T12:05:00Z
 Description: As the market moves toward a bubble, BofA analysts highlight where the froth already is.
 --------------------------------------------------
-
-Title: Missed Nvidia? AMD Could Be Your Second Chance to Earn Massive AI Gains
-URL: https://www.barchart.com/story/news/1431810/missed-nvidia-amd-could-be-your-second-chance-to-earn-massive-ai-gains
-Time Published: 2026-04-21T19:01:31Z
-Description: AMD could be the next big AI opportunity after Nvidia’s historic run.
---------------------------------------------------
