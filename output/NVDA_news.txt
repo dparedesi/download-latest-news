@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Cerebras Systems Close to IPO, Here’s What It Means For Nvidia (NVDA)
+URL: https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-close-ipo-means-223222531.html
+Time Published: 2026-04-26T22:32:22Z
+Description: ​NVIDIA Corporation (NASDAQ:NVDA) is one of the Best Stocks to Buy While the Market Is Down. ​On April 18, Reuters announced that Cerebras Systems, which is ...
+--------------------------------------------------
+
 Title: 'A return to optimism': Wall Street strategists are bullish on the AI trade
 URL: https://finance.yahoo.com/markets/article/a-return-to-optimism-wall-street-strategists-are-bullish-on-the-ai-trade-143000172.html
 Time Published: 2026-04-26T14:30:00Z
@@ -85,53 +91,5 @@ Title: Is Dell Stock An Under-Analyzed Capital Compounder Opportunity?
 URL: https://www.trefis.com/articles/597223/is-dell-stock-an-under-analyzed-capital-compounder-opportunity/2026-04-23?source=yahoo&amp;from=DELL-2026-04-23
 Time Published: 2026-04-23T13:55:39Z
 Full Content:
-Dell Technologies (DELL) operates as a capital compounder, a business model defined by the systematic reduction of shares outstanding. Over the last twelve months, the company reduced its share count by 6.0%, funded by a record $7.5 billion returned to shareholders in FY2026. While Dell’s underlying net income grew at roughly 34.5% annually over the last three years, earnings per share expanded at 39.1%. This “denominator effect” – essentially dividing the profit across fewer shares: ownership percentages grow even during periods of flat earnings. Over three years, that dynamic has produced 429% in price appreciation, approximately 74.2% annualized. Dell’s compounding is supported by two big drivers, which should be durable over the medium term. The first is AI infrastructure: Dell’s AI-optimized server backlog reached $43 billion in early 2026, with AI revenue projected to reach $50 billion by FY2027. The second is the commercial PC refresh triggered by the end of Microsoft support for Windows 10 in October 2025, which has stabilized the Client Solutions Group and provided consistent base-layer cash flow to fund buybacks. The AI boom has driven up semiconductor stocks like AMD (AMD) and Nvidia (NVDA) to record highs. Is it too late to enter AMD stock? How Does Dell Compound? Dell operates a negative cash conversion cycle, collecting payment from customers before it settles obligations with suppliers. The cash conversion cycle measures the time between paying for inventory and receiving customer payment; a negative cycle means the company is effectively funded by its supply chain. With accounts payable currently covering 3.2x inventory, Dell holds $34 billion in interest-free supplier financing to subsidize its capital allocation. An interest coverage ratio of 5.6x confirms operating earnings cover debt obligations by a substantial margin, keeping the structure well-supported. This advantage produces an operating-cash-to-net-income ratio of 1.9x, allowing share retirement to exceed reported accounting profits in any given year. A Look At The Fundamentals What To Monitor Two metrics determine whether the model continues to perform at its current rate. First is the AI backlog. At $43 billion in early 2026, the backlog is the leading indicator for future revenue conversion. Investors should track whether it continues to grow and at what pace orders are converting to recognized revenue. High-value infrastructure, including the PowerEdge XE9680, commands higher price points and reinforces the supply chain dynamics that sustain the negative cash cycle. It’s also important to track how Dell’s margins and growth compare with peers such as Super Micro Computer (SMCI) and HP Enterprise (HPE) The second is capital discipline. The model holds as long as accounts payable coverage remains near its current level. A recent $10 billion increase in the share repurchase authorization, paired with an 80% free cash flow payout policy, reflects continued balance sheet discipline. A funding ratio of 1.1 confirms buyback commitments are fully covered by annual cash generation, with a modest buffer intact. Both metrics are reported each quarter, giving investors clear and observable benchmarks. Is DELL The Right Investment For You? Identifying a capital engine like DELL is only the diagnostic phase; the critical “so what” for the sophisticated investor lies in how such a machine is integrated into a resilient, multi-cycle strategy. While the data highlights DELL as a premier compounder, all individual equities carry idiosyncratic risks that can expose a portfolio to unmanaged drawdowns if held in isolation. Trefis High Quality Portfolio (HQ) is designed to look past the surface-level narratives to surface these hidden mechanical opportunities, weaving them into a holistic framework designed to prioritize both capital preservation and consistent compounding. 6-Day Rally Sends Datadog Stock Up 23% 11-Day Rally Sends ON Semiconductor Stock Up 38% Apollo Global Management Stock Surges 22%, With A 6-Day Winning Spree 7-Day Rally Sends Oklo Stock Up 43% Only One S&P 500 Stock Trading At 52-Week Low Stocks Trading At 52-Week Low Small Cap Stocks Trading At 52-Week High Mid Cap Stocks Trading At 52-Week High Large Cap Stocks Trading At 52-Week High S&P 500 Stocks Trading At 52-Week High
---------------------------------------------------
-
-Title: NVIDIA Corporation (NVDA) Sets Sight on $11B Quantum Computing Opportunity With Ising
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_320c2749-3c01-4a08-b25b-b97effa1cf5d
-Time Published: 2026-04-22T20:48:17Z
-Description: None
---------------------------------------------------
-
-Title: Stocks Settle Higher as Nasdaq Posts a Record High on Tech Strength
-URL: https://www.barchart.com/story/news/1459130/stocks-settle-higher-as-nasdaq-posts-a-record-high-on-tech-strength
-Time Published: 2026-04-22T20:35:34Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +1.05%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.69%, and the Nasdaq 100 Index (...
---------------------------------------------------
-
-Title: Intel to report first quarter earnings as CPUs become key to AI growth
-URL: https://finance.yahoo.com/sectors/technology/article/intel-to-report-first-quarter-earnings-as-cpus-become-key-to-ai-growth-191552358.html
-Time Published: 2026-04-22T19:15:52Z
-Description: Intel will report its first quarter earnings after the bell on Thursday.
---------------------------------------------------
-
-Title: One new clue that Nvidia's Jensen Huang and TSMC are right about AI demand strength
-URL: https://finance.yahoo.com/news/one-new-clue-that-nvidias-jensen-huang-and-tsmc-are-right-about-ai-demand-strength-162138937.html
-Time Published: 2026-04-22T16:21:38Z
-Description: Another bullish sign on AI demand.
---------------------------------------------------
-
-Title: Can Ternus Come Up with the New Story That Apple Stock Badly Needs
-URL: https://www.barchart.com/story/news/1452065/can-ternus-come-up-with-the-new-story-that-apple-stock-badly-needs
-Time Published: 2026-04-22T15:22:14Z
-Description: Apple will get a new CEO when John Ternus takes over the position later this year. Will he have the story that can help AAPL stock gain some momentum?
---------------------------------------------------
-
-Title: Here’s Nightview Fund’s Views on NVIDIA (NVDA)
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_40b1c800-ae7b-4339-92a6-8c92148d215e
-Time Published: 2026-04-22T12:39:46Z
-Description: None
---------------------------------------------------
-
-Title: The U.S. stock market is progressing toward a bubble — and here’s where the extremes are right now
-URL: https://www.marketwatch.com/story/the-u-s-stock-market-is-progressing-toward-a-bubble-and-heres-where-the-extremes-are-right-now-aa601879
-Time Published: 2026-04-22T12:05:00Z
-Description: As the market moves toward a bubble, BofA analysts highlight where the froth already is.
---------------------------------------------------
-
-Title: Cadence Design And Nvidia (NVDA) Partnering to Boost AI Robo Development
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a0de23d4-27f3-4b10-b286-8742069af829
-Time Published: 2026-04-22T11:34:40Z
-Description: None
+Dell Technologies (DELL) operates as a capital compounder, a business model defined by the systematic reduction of shares outstanding. Over the last twelve months, the company reduced its share count by 6.0%, funded by a record $7.5 billion returned to shareholders in FY2026. While Dell’s underlying net income grew at roughly 34.5% annually over the last three years, earnings per share expanded at 39.1%. This “denominator effect” – essentially dividing the profit across fewer shares: ownership percentages grow even during periods of flat earnings. Over three years, that dynamic has produced 429% in price appreciation, approximately 74.2% annualized. Dell’s compounding is supported by two big drivers, which should be durable over the medium term. The first is AI infrastructure: Dell’s AI-optimized server backlog reached $43 billion in early 2026, with AI revenue projected to reach $50 billion by FY2027. The second is the commercial PC refresh triggered by the end of Microsoft support for Windows 10 in October 2025, which has stabilized the Client Solutions Group and provided consistent base-layer cash flow to fund buybacks. The AI boom has driven up semiconductor stocks like AMD (AMD) and Nvidia (NVDA) to record highs. Is it too late to enter AMD stock? How Does Dell Compound? Dell operates a negative cash conversion cycle, collecting payment from customers before it settles obligations with suppliers. The cash conversion cycle measures the time between paying for inventory and receiving customer payment; a negative cycle means the company is effectively funded by its supply chain. With accounts payable currently covering 3.2x inventory, Dell holds $34 billion in interest-free supplier financing to subsidize its capital allocation. An interest coverage ratio of 5.6x confirms operating earnings cover debt obligations by a substantial margin, keeping the structure well-supported. This advantage produces an operating-cash-to-net-income ratio of 1.9x, allowing share retirement to exceed reported accounting profits in any given year. A Look At The Fundamentals What To Monitor Two metrics determine whether the model continues to perform at its current rate. First is the AI backlog. At $43 billion in early 2026, the backlog is the leading indicator for future revenue conversion. Investors should track whether it continues to grow and at what pace orders are converting to recognized revenue. High-value infrastructure, including the PowerEdge XE9680, commands higher price points and reinforces the supply chain dynamics that sustain the negative cash cycle. It’s also important to track how Dell’s margins and growth compare with peers such as Super Micro Computer (SMCI) and HP Enterprise (HPE) The second is capital discipline. The model holds as long as accounts payable coverage remains near its current level. A recent $10 billion increase in the share repurchase authorization, paired with an 80% free cash flow payout policy, reflects continued balance sheet discipline. A funding ratio of 1.1 confirms buyback commitments are fully covered by annual cash generation, with a modest buffer intact. Both metrics are reported each quarter, giving investors clear and observable benchmarks. Is DELL The Right Investment For You? Identifying a capital engine like DELL is only the diagnostic phase; the critical “so what” for the sophisticated investor lies in how such a machine is integrated into a resilient, multi-cycle strategy. While the data highlights DELL as a premier compounder, all individual equities carry idiosyncratic risks that can expose a portfolio to unmanaged drawdowns if held in isolation. Trefis High Quality Portfolio (HQ) is designed to look past the surface-level narratives to surface these hidden mechanical opportunities, weaving them into a holistic framework designed to prioritize both capital preservation and consistent compounding. Why Does TTD Stock Keep Falling? Is Amazon Stock Overvalued? Does United Rentals Stock Qualify As A Top-Tier Capital Compounder? Beyond Price Action: Does NOW Offer Genuine Diversification? Is Las Vegas Sands Stock Poised for a Rally? 4 Catalysts to Monitor Over In The Next 2 Quarters For AAPL Stock Truist Financial Earnings Show Strong EPS Jump Could Qualys Stock’s Cash Flow Spark the Next Rally? Abbott Laboratories Stock Hands $28 Bil Back – Worth a Look? Nike Stock Hands $28 Bil Back – Worth a Look?
 --------------------------------------------------

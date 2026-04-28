@@ -18,9 +18,3 @@ URL: https://www.barchart.com/story/news/1470681/stocks-slip-before-the-open-on-
 Time Published: 2026-04-23T10:33:31Z
 Description: June S&P 500 E-Mini futures (ESM26) are down -0.53%, and June Nasdaq 100 E-Mini futures (NQM26) are down -0.56% this morning as stalled U.S.-Iran talks and...
 --------------------------------------------------
-
-Title: Stocks Settle Higher as Nasdaq Posts a Record High on Tech Strength
-URL: https://www.barchart.com/story/news/1459130/stocks-settle-higher-as-nasdaq-posts-a-record-high-on-tech-strength
-Time Published: 2026-04-22T20:35:34Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +1.05%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.69%, and the Nasdaq 100 Index (...
---------------------------------------------------

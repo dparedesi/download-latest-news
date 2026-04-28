@@ -5,9 +5,3 @@ URL: https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-among-best
 Time Published: 2026-04-23T20:27:38Z
 Description: GE Vernova Inc. (NYSE:GEV) is included among the 10 Best US Stocks to Invest in for Long Term. On April 16, Oppenheimer analyst Colin Rusch raised the firm’s...
 --------------------------------------------------
-
-Title: Stocks Settle Higher as Nasdaq Posts a Record High on Tech Strength
-URL: https://www.barchart.com/story/news/1459130/stocks-settle-higher-as-nasdaq-posts-a-record-high-on-tech-strength
-Time Published: 2026-04-22T20:35:34Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +1.05%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.69%, and the Nasdaq 100 Index (...
---------------------------------------------------

@@ -60,9 +60,3 @@ URL: https://beincrypto.com/taiwan-stock-market-overtakes-uk-ai/
 Time Published: 2026-04-23T12:56:15Z
 Description: Taiwan's market cap hit $4.14 trillion, passing the UK, as AI chip demand fueled record foreign inflows and TSMC profits.
 --------------------------------------------------
-
-Title: The U.S. stock market is progressing toward a bubble — and here’s where the extremes are right now
-URL: https://www.marketwatch.com/story/the-u-s-stock-market-is-progressing-toward-a-bubble-and-heres-where-the-extremes-are-right-now-aa601879
-Time Published: 2026-04-22T12:05:00Z
-Description: As the market moves toward a bubble, BofA analysts highlight where the froth already is.
---------------------------------------------------
