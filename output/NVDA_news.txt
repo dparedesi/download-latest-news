@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Beijing Moves to Block $2 Billion Meta-Manus Deal
+URL: https://app.moby.co/home/news/news-beijing-moves-to-block-meta-manus-merger?utm_source=yahoo_finance&amp;utm_medium=rss
+Time Published: 2026-04-27T20:44:33Z
+Description: China isn't going to tolerate the Singapore-washing anymore. To that end, it has moved to unwind the Meta-Manus acquisition.
+--------------------------------------------------
+
 Title: Nvidia stock hits record high, market cap reaches $5.2 trillion after massive surge
 URL: https://economictimes.indiatimes.com/news/international/us/nvidia-stock-hits-record-high-market-cap-reaches-5-2-trillion-after-massive-surge/articleshow/130562450.cms
 Time Published: 2026-04-27T18:38:24Z
