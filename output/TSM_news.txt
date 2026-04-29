@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Taiwan Semi’s Latest Breakthrough Isn’t Just Bad for ASML Stock, It Could Disrupt the Entire Chip Industry
+URL: https://www.barchart.com/story/news/1538589/taiwan-semis-latest-breakthrough-isnt-just-bad-for-asml-stock-it-could-disrupt-the-entire-chip-industry
+Time Published: 2026-04-27T15:18:59Z
+Description: Taiwan Semiconductor's A13 Process and N2U could sidestep ASML's $400 million High-NA machines, raising questions about the company's moat.
+--------------------------------------------------
+
 Title: Marvell Technology (MRVL) Price Target Increase by $21 Following Strong Sector Signals
 URL: https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-price-target-071033979.html
 Time Published: 2026-04-27T07:10:33Z
@@ -29,40 +35,4 @@ Title: ON Semiconductor (ON) Gets Double-Digit PT Hike, Hits 2-Year High
 URL: https://finance.yahoo.com/markets/stocks/articles/semiconductor-gets-double-digit-pt-000834653.html
 Time Published: 2026-04-24T00:08:34Z
 Description: ON Semiconductor Corp. (NASDAQ:ON) is one of the 10 Stocks Posting Outsized Gains. ON Semiconductor climbed to an over two-year high on Thursday, extending a...
---------------------------------------------------
-
-Title: Jim Cramer Isn’t Worried About Taiwan Semiconductor Manufacturing’s (TSM) Share Price Weakness
-URL: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-isn-t-worried-193616098.html
-Time Published: 2026-04-23T19:36:16Z
-Description: We recently shared Jim Cramer Rubbished Circular AI Deals & Commented On These 18 Stocks. Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is...
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing (TSM) – Among the Best Global Stocks to Buy According to Wall Street Analysts
-URL: https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-among-164459486.html
-Time Published: 2026-04-23T16:44:59Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is included among the 10 Best Global Stocks to Buy According to Wall Street Analysts. Taiwan...
---------------------------------------------------
-
-Title: Semiconductor stocks like Nvidia and Micron are on a remarkable streak
-URL: https://finance.yahoo.com/news/semiconductor-stocks-like-nvidia-and-micron-are-on-a-remarkable-streak-150827239.html
-Time Published: 2026-04-23T15:08:27Z
-Description: It's a wow moment for semiconductor stocks.
---------------------------------------------------
-
-Title: Does Taiwan Semiconductor Manufacturing Co (TSM) Hold an Underappreciated Pricing Power?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d6b1e573-499c-4b28-97b5-d8170d9666e3
-Time Published: 2026-04-23T13:44:55Z
-Description: None
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing Company (TSM) in Focus as Barclays Raises Target After Strong Earnings
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d2fd09a1-85b5-46f0-ae3b-575fb844329b
-Time Published: 2026-04-23T13:34:00Z
-Description: None
---------------------------------------------------
-
-Title: How Did AI Turn Taiwan Into a $4 Trillion Economic Powerhouse?
-URL: https://beincrypto.com/taiwan-stock-market-overtakes-uk-ai/
-Time Published: 2026-04-23T12:56:15Z
-Description: Taiwan's market cap hit $4.14 trillion, passing the UK, as AI chip demand fueled record foreign inflows and TSMC profits.
 --------------------------------------------------

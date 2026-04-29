@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Amazon's Chip Business Is Bigger Than AMD, Could Soon Pass Broadcom, Intel
+URL: https://www.barchart.com/story/news/1541033/amazon-s-chip-business-is-bigger-than-amd-could-soon-pass-broadcom-intel
+Time Published: 2026-04-27T17:49:49Z
+Description: Amazon’s chip business is scaling rapidly and approaching the size of top semiconductor firms, yet investors still largely value the company as a cloud and...
+--------------------------------------------------
+
 Title: Broadcom hits $2 trillion valuation: How AI chip surge, Google and Meta deals, and ETF buzz is driving AVGO rally
 URL: https://economictimes.indiatimes.com/news/international/us/broadcom-hits-2-trillion-valuation-how-ai-chip-surge-google-and-meta-deals-and-etf-buzz-is-driving-avgo-rally/articleshow/130554545.cms
 Time Published: 2026-04-27T12:38:59Z
@@ -28,17 +34,5 @@ Description: Nvidia was on pace for a record-high close as the AI leader and mos
 Title: Broadcom Inc. (AVGO): Safe Play Within Semiconductor Sector
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_941f1a29-7790-4ee7-ac86-3be7d64d7be2
 Time Published: 2026-04-24T14:37:29Z
-Description: None
---------------------------------------------------
-
-Title: Semiconductor stocks like Nvidia and Micron are on a remarkable streak
-URL: https://finance.yahoo.com/news/semiconductor-stocks-like-nvidia-and-micron-are-on-a-remarkable-streak-150827239.html
-Time Published: 2026-04-23T15:08:27Z
-Description: It's a wow moment for semiconductor stocks.
---------------------------------------------------
-
-Title: Broadcom (AVGO) and Meta Announce Multi-Year AI Infrastructure Partnership
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2f6bb61f-e617-4467-b005-89d14a231bb0
-Time Published: 2026-04-23T13:33:55Z
 Description: None
 --------------------------------------------------
