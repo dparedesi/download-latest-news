@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: Nvidia’s (NVDA) Explosive Run May See Limits Going Forward, Warns JPMorgan
+URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-explosive-run-may-225206639.html
+Time Published: 2026-04-27T22:52:06Z
+Description: Chipmaker Nvidia (NVDA) has seen a strong rally recently, but not everyone on Wall Street believes it can keep going at the same pace. Indeed, JPMorgan (JPM)...
+--------------------------------------------------
+
 Title: Beijing Moves to Block $2 Billion Meta-Manus Deal
 URL: https://app.moby.co/home/news/news-beijing-moves-to-block-meta-manus-merger?utm_source=yahoo_finance&amp;utm_medium=rss
 Time Published: 2026-04-27T20:44:33Z
