@@ -1,5 +1,42 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Microsoft (MSFT) – Among the 10 Innovative Dividend Stocks to Buy Right Now
+URL: https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-among-10-innovative-224320892.html
+Time Published: 2026-04-30T22:43:20Z
+Description: Microsoft Corporation (NASDAQ:MSFT) is included among the 10 Innovative Dividend Stocks to Buy Right Now. On April 28, BMO Capital Markets lowered its price ...
+--------------------------------------------------
+
+Title: S&P 500 and Nasdaq 100 Rally to Record Highs on Earnings Optimism
+URL: https://www.barchart.com/story/news/1630377/s-p-500-and-nasdaq-100-rally-to-record-highs-on-earnings-optimism
+Time Published: 2026-04-30T20:24:22Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +1.02%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +1.62%, and the Nasdaq 100 Index ($...
+--------------------------------------------------
+
+Title: Everyone’s Talking About NVIDIA. Smart Money Is Watching CrowdStrike Instead
+URL: https://247wallst.com/investing/2026/04/30/everyones-talking-about-nvidia-smart-money-is-watching-crowdstrike-instead/
+Time Published: 2026-04-30T18:27:31Z
+Full Content:
+Investing CrowdStrike (CRWD) reported Q4 ARR of $5.25B, up 24% YoY with record net new ARR of $330.7M (+47% YoY), while Falcon Flex ARR surged 120% YoY to $1.69B. NVIDIA (NVDA) trades at 44x trailing earnings with a $5.26T market cap and Polymarket traders pricing in a ceiling of $220 by April. Microsoft (MSFT) enables CrowdStrike Falcon purchases through Azure Marketplace, creating a distribution advantage. CrowdStrike is the security infrastructure required for every enterprise AI deployment, providing the same tailwind as NVIDIA but at a different valuation multiple and with significantly lower analyst coverage. The analyst who called NVIDIA in 2010 just named his top 10 stocks and CrowdStrike wasn't one of them. Get them here FREE. Sending You to Google News in 3 © insta_photos / Shutterstock.com NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) is up 96.1% over the past year and just crossed a $5.26 trillion market cap on the same agentic AI thesis Evercore and Wedbush keep recycling around Microsoft (NASDAQ:MSFT)’s 50-day moving average. But here’s what you should actually be watching. The case against chasing NVIDIA at this level is straightforward. The stock trades at 44 times trailing earnings, every long-only fund on the planet already owns it, and management itself flagged that no China data center compute revenue is assumed in Q1 FY27 guidance. Polymarket traders are already pricing in the ceiling: a 0.321 probability of NVDA finishing April above $220 and only a 0.069 probability of $230. That distribution describes a consensus trade with a price cap stamped on it. Jensen Huang’s “agentic AI inflection point has arrived” line is true and already fully reflected in a stock that compounded 1,294% over five years. The redirect is CrowdStrike (NASDAQ:CRWD), sitting at down 2.94% year to date against NVIDIA’s 14.31% YTD gain. Three reasons that gap closes. One: CrowdStrike is the security tax on the AI buildout. CEO George Kurtz framed it directly on the most recent call: “As enterprises rapidly adopt AI, CrowdStrike is mission-critical infrastructure, securing AI across every layer from GPU to agent to prompt.” Every dollar that flows into NVIDIA hardware has to be defended in production. Q4 FY26 ending ARR reached $5.25 billion, up 24% YoY, with record net new ARR of $330.7 million, up 47% YoY. The growth is accelerating into FY27. Two: the Microsoft tie-in the title actually points to. CrowdStrike’s expanded strategic alliance with Microsoft enables Falcon purchases via Azure Marketplace, and AWS named it the first cybersecurity partner via SaaS Quick Launch in AWS Marketplace. When analysts cheer Microsoft’s chart, they are cheering a distribution channel CrowdStrike plugs directly into. Three: Falcon literally runs on the NVIDIA stack. Charlotte AI AgentWorks was built with NVIDIA technologies, and Falcon Cloud Security is integrated with NVIDIA NIM microservices and NeMo Safety. Same tailwind, different layer, different multiple. The fundamentals back the redirect. Q4 free cash flow came in at $376.36 million, a 29% margin. Falcon Flex ARR reached $1.69 billion, up over 120% YoY. Platform consolidation is visible across the customer base: 50% of customers run six or more modules, 34% run seven, 24% run eight. Management guided FY27 revenue to $5.87 billion to $5.93 billion, with a long-term aspiration of $20 billion in ending ARR by FY36. Keybanc moved to Overweight on April 21 with a $525 price target, and the analyst consensus target sits at $491.72 against a current price of $454.99. Reddit activity on CrowdStrike over the past month registered as “very_low” to “low” with only one to two qualified mentions per observation period. That silence is the tell. A retirement portfolio gets paid for owning the quiet, profitable company structurally tied to the loud trend everyone else is overpaying to access through one mega-cap ticker. Move CrowdStrike to the top of your research list before the consensus catches up. Our top personal finance-related articles today. Your wallet will thank you later. NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) is up 96.1% over the past year and just crossed a $5.26 trillion… CrowdStrike Holdings (NASDAQ:CRWD | CRWD Price Prediction) currently trades at $426.51, while the Wall Street consensus price target sits at… Jim Cramer used his Mad Money segment on April 21 to argue that investors who dumped CrowdStrike Holdings (NASDAQ:CRWD |… Anthropic’s Claude Mythos Preview demonstrated that AI can now surpass all but the most skilled humans at finding and exploiting… Benchmark analyst Yi Fu Lee initiated coverage of CrowdStrike Holdings (NASDAQ:CRWD | CRWD Price Prediction) with a Buy rating and… Wall Street is sending a split but net-bullish signal on CRWD after CrowdStrike’s record fourth quarter. Two firms raised price… An analyst firm just put its stamp of approval on cybersecurity leader CrowdStrike (NASDAQ:CRWD | CRWD Price Prediction). Mizuho upgraded… CrowdStrike (NASDAQ:CRWD | CRWD Price Prediction) stock is trading up 4% in Monday afternoon trading, with shares around $383 after opening… CrowdStrike (NASDAQ:CRWD | CRWD Price Prediction) stock is sliding hard this morning. CRWD shares are down 7% on Friday, trading around…
+--------------------------------------------------
+
+Title: Dozens of Experts Built This Simple Stock Screener for Traders & Investors. It Was Me.
+URL: https://www.barchart.com/story/news/1624786/dozens-of-experts-built-this-simple-stock-screener-for-traders-investors-it-was-me
+Time Published: 2026-04-30T16:12:58Z
+Description: Find out the major metrics that really matter when it comes to finding quality stocks, no matter how you prefer to play the market.
+--------------------------------------------------
+
+Title: Stocks See Support from Lower Crude Prices, While Mega-Cap Tech Earnings are Mixed
+URL: https://www.barchart.com/story/news/1621672/stocks-see-support-from-lower-crude-prices-while-mega-cap-tech-earnings-are-mixed
+Time Published: 2026-04-30T14:07:55Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.08%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.73%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
+--------------------------------------------------
+
+Title: Citi Turn More Positive on Microsoft Corporation (MSFT) Ahead of Fiscal Q3 Results
+URL: https://finance.yahoo.com/markets/stocks/articles/citi-turn-more-positive-microsoft-095247997.html
+Time Published: 2026-04-30T09:52:47Z
+Description: We recently compiled a list of the 10 Most Popular Stocks on Robinhood in 2026. Microsoft Corporation is one of the most popular Robinhood stocks. TheFly...
+--------------------------------------------------
+
 Title: Polen Global Growth Q1 2026 Commentary
 URL: https://seekingalpha.com/article/4896258-polen-global-growth-q1-2026-commentary
 Time Published: 2026-04-30T02:00:00Z
@@ -92,10 +129,4 @@ Title: What To Expect For Microsoft Stock's 2026 Outlook, According To Experts
 URL: https://www.forbes.com/sites/investor-hub/article/microsoft-msft-stock-outlook-2026/
 Time Published: 2026-04-27T10:30:00Z
 Description: What do experts expect for Microsoft stock in 2026? Read this analysis of MSFT's growth trends and analyst price targets for the 2026 fiscal year to get a better idea.
---------------------------------------------------
-
-Title: Is Seagate Technology Holdings plc (STX) A Good Stock To Buy Now?
-URL: https://finance.yahoo.com/markets/stocks/articles/seagate-technology-holdings-plc-stx-215443195.html
-Time Published: 2026-04-26T21:54:43Z
-Description: Is STX a good stock to buy? We came across a bullish thesis on Seagate Technology Holdings plc on r/AIPortfolios by manojs. In this article, we will...
 --------------------------------------------------

@@ -1,5 +1,23 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: S&P 500 and Nasdaq 100 Rally to Record Highs on Earnings Optimism
+URL: https://www.barchart.com/story/news/1630377/s-p-500-and-nasdaq-100-rally-to-record-highs-on-earnings-optimism
+Time Published: 2026-04-30T20:24:22Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +1.02%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +1.62%, and the Nasdaq 100 Index ($...
+--------------------------------------------------
+
+Title: Dozens of Experts Built This Simple Stock Screener for Traders & Investors. It Was Me.
+URL: https://www.barchart.com/story/news/1624786/dozens-of-experts-built-this-simple-stock-screener-for-traders-investors-it-was-me
+Time Published: 2026-04-30T16:12:58Z
+Description: Find out the major metrics that really matter when it comes to finding quality stocks, no matter how you prefer to play the market.
+--------------------------------------------------
+
+Title: AMD Stock Just Got a New Street-High Price Target. Should You Buy Shares Here?
+URL: https://www.barchart.com/story/news/1619169/amd-stock-just-got-a-new-street-high-price-target-should-you-buy-shares-here
+Time Published: 2026-04-30T13:00:02Z
+Description: With last year's record revenue and a solid momentum, could AMD be cast into an upcoming role in building data center expansion?
+--------------------------------------------------
+
 Title: Advanced Micro Devices Shares Have Surged Over 52% YTD As It Continues Expansion
 URL: https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-shares-surged-085013843.html
 Time Published: 2026-04-30T08:50:13Z
@@ -85,10 +103,4 @@ Title: As Intel Triggers a Major Rally in Semiconductor Companies, DA Davidson H
 URL: https://www.barchart.com/story/news/1538146/as-intel-triggers-a-major-rally-in-semiconductor-companies-da-davidson-hikes-its-amd-stock-price-target-by-more-than-70
 Time Published: 2026-04-27T14:47:54Z
 Description: Intel's surprising quarter has given one major analyst all the ammunition needed to completely rethink Advanced Micro's story.
---------------------------------------------------
-
-Title: Advanced Micro (AMD) Climbs 25% as Analyst Goes Bullish, Hikes PT by 70%
-URL: https://finance.yahoo.com/markets/stocks/articles/advanced-micro-amd-climbs-25-104058407.html
-Time Published: 2026-04-26T10:40:58Z
-Description: Advanced Micro Devices Inc. (NASDAQ:AMD) is one of the 10 Stocks With Double-, Triple-Digit Returns. Advanced Micro Devices climbed by 24.9 percent week-on...
 --------------------------------------------------

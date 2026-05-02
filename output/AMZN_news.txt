@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Should You Buy the Dip in Nvidia Stock Today?
+URL: https://www.barchart.com/story/news/1628530/should-you-buy-the-dip-in-nvidia-stock-today
+Time Published: 2026-04-30T19:22:59Z
+Description: Nvidia stock is sinking as Google and Amazon tout in-house chips on thier Q1 earnings calls. BofA still recommends buying the dip in NVDA shares today.
+--------------------------------------------------
+
+Title: 3 Reasons Why Marvell Stock is a Buy Now
+URL: https://www.barchart.com/story/news/1628055/3-reasons-why-marvell-stock-is-a-buy-now
+Time Published: 2026-04-30T18:45:36Z
+Description: Marvell Technology is turning AI demand into long-term, high-visibility revenue growth.
+--------------------------------------------------
+
 Title: Amazon stock price, earnings, profits and net sales rise after strong first-quarter cloud growth
 URL: https://economictimes.indiatimes.com/news/international/us/amazon-stock-price-earnings-profits-and-net-sales-rise-after-strong-first-quarter-cloud-growth/articleshow/130618076.cms
 Time Published: 2026-04-29T21:57:14Z
@@ -37,10 +49,4 @@ Title: Amazon's Chip Business Is Bigger Than AMD, Could Soon Pass Broadcom, Inte
 URL: https://www.barchart.com/story/news/1541033/amazon-s-chip-business-is-bigger-than-amd-could-soon-pass-broadcom-intel
 Time Published: 2026-04-27T17:49:49Z
 Description: Amazon’s chip business is scaling rapidly and approaching the size of top semiconductor firms, yet investors still largely value the company as a cloud and...
---------------------------------------------------
-
-Title: Morgan Stanley revamps Oracle stock price target
-URL: https://www.thestreet.com/investing/stocks/morgan-stanley-revamps-oracle-stock-price-target
-Time Published: 2026-04-26T20:23:00Z
-Description: Oracle (ORCL) is a tech giant. Its revenue sources are enterprise software, cloud services, and database technologies. Oracle Cloud Infrastructure (OCI) unit...
 --------------------------------------------------
