@@ -125,15 +125,3 @@ URL: https://www.barchart.com/story/news/1559822/michael-burry-disagrees-with-th
 Time Published: 2026-04-28T13:00:02Z
 Description: Burry's stake in Microsoft suggests the discount on the software giant is now too big to ignore.
 --------------------------------------------------
-
-Title: Apple Is Falling Behind in AI. Will a New CEO Revive Apple Stock?
-URL: https://www.barchart.com/story/news/1540837/apple-is-falling-behind-in-ai-will-a-new-ceo-revive-apple-stock
-Time Published: 2026-04-27T17:29:49Z
-Description: The market is no longer rewarding stability. Apple needs an AI breakthrough to reignite its stock.
---------------------------------------------------
-
-Title: What To Expect For Microsoft Stock's 2026 Outlook, According To Experts
-URL: https://www.forbes.com/sites/investor-hub/article/microsoft-msft-stock-outlook-2026/
-Time Published: 2026-04-27T10:30:00Z
-Description: What do experts expect for Microsoft stock in 2026? Read this analysis of MSFT's growth trends and analyst price targets for the 2026 fiscal year to get a better idea.
---------------------------------------------------

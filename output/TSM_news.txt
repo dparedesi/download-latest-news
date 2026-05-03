@@ -22,8 +22,7 @@ Description: TORONTO, April 30, 2026 (GLOBE NEWSWIRE) — Northland Power Inc. (
 Title: TSMC: Expect More All-Time Highs Ahead
 URL: https://seekingalpha.com/article/4896271-tsmc-stock-expect-more-all-time-highs-ahead
 Time Published: 2026-04-30T03:18:49Z
-Full Content:
-BING-JHEN HONG/iStock Editorial via Getty Images BING-JHEN HONG/iStock Editorial via Getty Images In late January, I upgraded Taiwan Semiconductor Manufacturing Company Limited (TSM) back to a buy rating since growth was set to reaccelerate and the valuation had corrected. I concluded that my downgrade This article was written by Analystâs Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article. Seeking Alpha's Disclosure: Past performance is no guarantee of future results. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole. Seeking Alpha is not a licensed securities dealer, broker or US investment adviser or investment bank. Our analysts are third party authors that include both professional investors and individual investors who may not be licensed or certified by any institute or regulatory body.
+Description: Taiwan Semiconductor Manufacturing is reiterated a Buy after strong Q1 results and upbeat Q2 guidance. See here for more on TSM stock.
 --------------------------------------------------
 
 Title: 'Magnificent 7' earnings rush reveals AI spending surge, with hyperscaler capex set to reach $725 billion in 2026
@@ -54,22 +53,4 @@ Title: Demand Surge Fuels Taiwan Semiconductor Manufacturing Company’s (TSM) R
 URL: https://finance.yahoo.com/markets/stocks/articles/demand-surge-fuels-taiwan-semiconductor-143549698.html
 Time Published: 2026-04-28T14:35:49Z
 Description: Wedgewood Partners, an investment management company, released its first-quarter 2026 investor letter. A copy of the letter can be downloaded here. The...
---------------------------------------------------
-
-Title: Nvidia’s (NVDA) Explosive Run May See Limits Going Forward, Warns JPMorgan
-URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-explosive-run-may-225206639.html
-Time Published: 2026-04-27T22:52:06Z
-Description: Chipmaker Nvidia (NVDA) has seen a strong rally recently, but not everyone on Wall Street believes it can keep going at the same pace. Indeed, JPMorgan (JPM)...
---------------------------------------------------
-
-Title: Taiwan Semi’s Latest Breakthrough Isn’t Just Bad for ASML Stock, It Could Disrupt the Entire Chip Industry
-URL: https://www.barchart.com/story/news/1538589/taiwan-semis-latest-breakthrough-isnt-just-bad-for-asml-stock-it-could-disrupt-the-entire-chip-industry
-Time Published: 2026-04-27T15:18:59Z
-Description: Taiwan Semiconductor's A13 Process and N2U could sidestep ASML's $400 million High-NA machines, raising questions about the company's moat.
---------------------------------------------------
-
-Title: Marvell Technology (MRVL) Price Target Increase by $21 Following Strong Sector Signals
-URL: https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-price-target-071033979.html
-Time Published: 2026-04-27T07:10:33Z
-Description: Marvell Technology, Inc. (NASDAQ:MRVL) is one of the 10 New Contenders for S&P 500 Index. On April 13, 2026, B. Riley expressed confidence in Marvell...
 --------------------------------------------------

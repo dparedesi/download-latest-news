@@ -18,9 +18,3 @@ URL: https://www.barchart.com/story/news/1559822/michael-burry-disagrees-with-th
 Time Published: 2026-04-28T13:00:02Z
 Description: Burry's stake in Microsoft suggests the discount on the software giant is now too big to ignore.
 --------------------------------------------------
-
-Title: Tech Earnings Optimism Powers Stocks Higher
-URL: https://www.barchart.com/story/news/1544118/tech-earnings-optimism-powers-stocks-higher
-Time Published: 2026-04-27T20:34:03Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +0.12%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.13%, and the Nasdaq 100 Index ($...
---------------------------------------------------
