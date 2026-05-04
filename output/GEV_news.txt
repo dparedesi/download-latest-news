@@ -11,21 +11,3 @@ URL: https://finance.yahoo.com/sectors/energy/articles/ge-vernova-gev-rallies-hi
 Time Published: 2026-04-29T19:20:53Z
 Description: GE Vernova Inc. (NYSE:GEV) is included among the 7 Energy Stocks that Just Hit New All-Time Highs. GE Vernova Inc. (NYSE:GEV) engages in the provision of...
 --------------------------------------------------
-
-Title: Stocks Fall on AI Jitters and Surging Crude Oil Prices
-URL: https://www.barchart.com/story/news/1571176/stocks-fall-on-ai-jitters-and-surging-crude-oil-prices
-Time Published: 2026-04-28T20:35:11Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -0.49%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.05%, and the Nasdaq 100 Index...
---------------------------------------------------
-
-Title: GE Vernova (GEV) Soared to All-Time High This Month. Here is Why
-URL: https://finance.yahoo.com/sectors/energy/articles/ge-vernova-gev-soared-time-181011925.html
-Time Published: 2026-04-28T18:10:11Z
-Description: With gains of 25.20% between April 1 and April 27, GE Vernova Inc. (NYSE:GEV) is included in our list of the 7 Energy & Utility Stocks that are on Fire in...
---------------------------------------------------
-
-Title: AI Fears and Surging Crude Oil Prices Weigh on Stocks
-URL: https://www.barchart.com/story/news/1563863/ai-fears-and-surging-crude-oil-prices-weigh-on-stocks
-Time Published: 2026-04-28T15:15:10Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.66%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.03%, and the Nasdaq 100 Index ($IUXX ) (QQQ ...
---------------------------------------------------
