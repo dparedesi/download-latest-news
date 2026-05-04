@@ -1,5 +1,11 @@
 List of news related to AST SpaceMobile ASTS:
 
+Title: Jim Cramer on AST SpaceMobile: “I Like Space, I Like This One”
+URL: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-ast-spacemobile-space-160156701.html
+Time Published: 2026-05-03T16:01:56Z
+Description: AST SpaceMobile, Inc. (NASDAQ:ASTS) was among the stocks Jim Cramer highlighted, as he discussed the massive AI infrastructure buildout. Answering a caller’s...
+--------------------------------------------------
+
 Title: For AT&T, Disaster Recovery Includes Flying COWs and a Robot Dog
 URL: https://me.pcmag.com/en/old-wireless-carriers/36880/for-att-disaster-recovery-includes-flying-cows-and-a-robot-dog
 Time Published: 2026-05-01T13:00:00Z
