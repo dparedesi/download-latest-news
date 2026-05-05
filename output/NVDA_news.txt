@@ -6,6 +6,12 @@ Time Published: 2026-05-03T18:13:42Z
 Description: None
 --------------------------------------------------
 
+Title: Palantir Q1 revenue jumps 85% on booming US business
+URL: https://finance.yahoo.com/markets/article/palantir-q1-revenue-jumps-85-on-booming-us-business-141825352.html
+Time Published: 2026-05-03T14:18:25Z
+Description: Palantir reported Q1 earnings on Monday after the bell.
+--------------------------------------------------
+
 Title: NVIDIA (NVDA): Among the Best American Stocks to Buy in the Technology Sector
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e2e57894-b6b1-4379-819b-a9e4379046ad
 Time Published: 2026-05-02T22:39:37Z
