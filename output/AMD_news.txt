@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Morgan Stanley revisits surging AMD stock price target
+URL: https://www.thestreet.com/investing/stocks/morgan-stanley-revisits-surging-amd-stock-price-target
+Time Published: 2026-05-05T17:23:06Z
+Description: Few stocks have captured the Artificial Intelligence (AI) moment quite like Advanced Micro Devices. Advanced Micro Devices, Inc. (AMD) has climbed 59% year...
+--------------------------------------------------
+
 Title: Three insights you might have missed from theCUBE’s coverage of Google Cloud Next
 URL: https://siliconangle.com/2026/05/04/agentic-ai-infrastructure-googlecloudnext/
 Time Published: 2026-05-04T21:27:18Z
