@@ -1,13 +1,13 @@
 List of news related to NVIDIA NVDA:
 
-Title: Stock market today: Nasdaq, S&P 500, Dow gain on rising hopes for Iran peace, upbeat tech earnings
-URL: https://finance.yahoo.com/markets/stocks/live/stock-market-today-nasdaq-sp-500-dow-gain-on-rising-hopes-for-iran-peace-upbeat-tech-earnings-231128773.html
+Title: Stock market today: Nasdaq, S&P 500, Dow rally on rising hopes for Iran peace, upbeat tech earnings
+URL: https://finance.yahoo.com/markets/stocks/live/stock-market-today-nasdaq-sp-500-dow-rally-on-rising-hopes-for-iran-peace-upbeat-tech-earnings-231128444.html
 Time Published: 2026-05-05T23:11:28Z
 Description: Markets are eyeing signs of easing in Mideast tensions and impressive AI-fueled tech earnings.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, S&P 500, Dow rally on rising hopes for Iran peace, upbeat tech earnings
-URL: https://finance.yahoo.com/markets/stocks/live/stock-market-today-nasdaq-sp-500-dow-rally-on-rising-hopes-for-iran-peace-upbeat-tech-earnings-231128444.html
+Title: Stock market today: Nasdaq, S&P 500, Dow gain on rising hopes for Iran peace, upbeat tech earnings
+URL: https://finance.yahoo.com/markets/stocks/live/stock-market-today-nasdaq-sp-500-dow-gain-on-rising-hopes-for-iran-peace-upbeat-tech-earnings-231128773.html
 Time Published: 2026-05-05T23:11:28Z
 Description: Markets are eyeing signs of easing in Mideast tensions and impressive AI-fueled tech earnings.
 --------------------------------------------------
@@ -81,7 +81,7 @@ Title: BlackBerry Stock Pops Monday, Adding to Its Recent Rally. Here's What Has
 URL: https://www.investopedia.com/blackberry-stock-pops-monday-adding-to-its-recent-rally-here-is-what-has-investors-excited-bb-11964990
 Time Published: 2026-05-04T15:55:12Z
 Full Content:
-Get personalized, AI-powered answers built on 27+ years of trusted expertise. BlackBerry's stock has been on a tear lately amid some signs of fresh growth. Could it be on its way to making a comeback? Shares of BlackBerry (BB) were up over 5% in recent trading, at their highest point in more than a year, following a report from The Wall Street Journal over the weekend pointing to strong growth in its QNX business that makes the software behind a wide range of driver assistance programs, among other things. Though well off their 2008 highs, Monday's move adds to a torrid rally for BlackBerry's stock this year, leaving the shares up more than 50% for 2026 so far. The report could boost confidence in a comeback for BlackBerry, powered by software rather than the hardware it was once known for. BlackBerry, which no longer makes phones, said in its latest earnings report last month that QNX's software is now being used in over 275 million cars worldwide, with the QNX segment accounting for nearly half of Blackberry's fiscal 2026 revenue at $268 million. QNX is also working to grow its reach beyond safety systems in cars, with its software also powering medical devices and other industrial machinery, per the Journal. BlackBerry shares have also benefitted in recent weeks from optimism around QNX's expanded partnership with Nvidia (NVDA), as the AI chip leader signed on to use QNX software alongside its own hardware to develop more uses for physical AI. Nvidia shares were down about 1% in recent trading, and have added about 5% since the start of the year. Get personalized, AI-powered answers built on 27+ years of trusted expertise.
+BlackBerry's stock has been on a tear lately amid some signs of fresh growth. Could it be on its way to making a comeback? Shares of BlackBerry (BB) were up over 5% in recent trading, at their highest point in more than a year, following a report from The Wall Street Journal over the weekend pointing to strong growth in its QNX business that makes the software behind a wide range of driver assistance programs, among other things. Though well off their 2008 highs, Monday's move adds to a torrid rally for BlackBerry's stock this year, leaving the shares up more than 50% for 2026 so far. The report could boost confidence in a comeback for BlackBerry, powered by software rather than the hardware it was once known for. BlackBerry, which no longer makes phones, said in its latest earnings report last month that QNX's software is now being used in over 275 million cars worldwide, with the QNX segment accounting for nearly half of Blackberry's fiscal 2026 revenue at $268 million. QNX is also working to grow its reach beyond safety systems in cars, with its software also powering medical devices and other industrial machinery, per the Journal. BlackBerry shares have also benefitted in recent weeks from optimism around QNX's expanded partnership with Nvidia (NVDA), as the AI chip leader signed on to use QNX software alongside its own hardware to develop more uses for physical AI. Nvidia shares were down about 1% in recent trading, and have added about 5% since the start of the year.
 --------------------------------------------------
 
 Title: Nvidia’s Stock Plunged 90% Twice Before Becoming Most Valuable Company
