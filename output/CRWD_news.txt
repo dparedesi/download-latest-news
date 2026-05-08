@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: CrowdStrike Stock: Analyst Estimates & Ratings
+URL: https://www.barchart.com/story/news/1744126/crowdstrike-stock-analyst-estimates-ratings
+Time Published: 2026-05-06T14:37:10Z
+Description: CrowdStrike has underperformed the broader market over the past year, but analysts are highly optimistic about the stock’s prospects.
+--------------------------------------------------
+
 Title: CrowdStrike (CRWD) Integrates Anthropic’s Claude Opus 4.7 to Enhance Falcon Platform AI Capabilities
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d98b4465-4853-47ce-964f-f84ffad3bf64
 Time Published: 2026-05-05T14:18:45Z
