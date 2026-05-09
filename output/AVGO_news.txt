@@ -6,14 +6,14 @@ Time Published: 2026-05-06T16:03:00Z
 Description: Numbers in earnings reports come and go. Every quarter brings a new beat, a new record, a new reason to pay attention. But occasionally, a single line in a...
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, S&P 500, Dow gain on rising hopes for Iran peace, upbeat tech earnings
-URL: https://finance.yahoo.com/markets/stocks/live/stock-market-today-nasdaq-sp-500-dow-gain-on-rising-hopes-for-iran-peace-upbeat-tech-earnings-231128773.html
+Title: Stock market today: Nasdaq, S&P 500, Dow rally on rising hopes for Iran peace, upbeat tech earnings
+URL: https://finance.yahoo.com/markets/stocks/live/stock-market-today-nasdaq-sp-500-dow-rally-on-rising-hopes-for-iran-peace-upbeat-tech-earnings-231128444.html
 Time Published: 2026-05-05T23:11:28Z
 Description: Markets are eyeing signs of easing in Mideast tensions and impressive AI-fueled tech earnings.
 --------------------------------------------------
 
-Title: Stock market today: Nasdaq, S&P 500, Dow rally on rising hopes for Iran peace, upbeat tech earnings
-URL: https://finance.yahoo.com/markets/stocks/live/stock-market-today-nasdaq-sp-500-dow-rally-on-rising-hopes-for-iran-peace-upbeat-tech-earnings-231128444.html
+Title: Stock market today: Nasdaq, S&P 500, Dow gain on rising hopes for Iran peace, upbeat tech earnings
+URL: https://finance.yahoo.com/markets/stocks/live/stock-market-today-nasdaq-sp-500-dow-gain-on-rising-hopes-for-iran-peace-upbeat-tech-earnings-231128773.html
 Time Published: 2026-05-05T23:11:28Z
 Description: Markets are eyeing signs of easing in Mideast tensions and impressive AI-fueled tech earnings.
 --------------------------------------------------
@@ -34,10 +34,4 @@ Title: 2 Semiconductor Stocks to Own in May
 URL: https://finance.yahoo.com/markets/stocks/articles/2-semiconductor-stocks-own-may-183706075.html
 Time Published: 2026-05-04T18:37:06Z
 Description: AVGO and AMAT tend outperform in May over the last decade
---------------------------------------------------
-
-Title: Jobs day, semiconductor earnings, and stock market momentum: What to watch this week
-URL: https://finance.yahoo.com/markets/article/jobs-day-semiconductor-earnings-and-stock-market-momentum-what-to-watch-this-week-100000536.html
-Time Published: 2026-05-03T10:00:00Z
-Description: The April jobs report, earnings reports from major semiconductor companies, and a strong start to the month for US equities outline a busy week for investors...
 --------------------------------------------------
