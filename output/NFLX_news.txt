@@ -18,9 +18,3 @@ URL: https://finance.yahoo.com/markets/stocks/articles/analyst-downgrades-netfli
 Time Published: 2026-05-06T18:54:51Z
 Description: With an upside potential of 24.92% as of May 3, Netflix, Inc. (NASDAQ:NFLX) is included among the 10 Best Fortune 500 Stocks to Buy According to Analysts...
 --------------------------------------------------
-
-Title: Roblox Stock Plunged as Child Safety Measures Hurt Its Bottom Line, But the Average Analyst Still Thinks It Can Rise 86% From Here
-URL: https://www.barchart.com/story/news/1719660/roblox-stock-plunged-as-child-safety-measures-hurt-its-bottom-line-but-the-average-analyst-still-thinks-it-can-rise-86-from-here
-Time Published: 2026-05-05T19:22:31Z
-Description: Shares of the company tumbled as the measures led to a lowered full-year revenue guidance.
---------------------------------------------------
