@@ -1,5 +1,12 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Cerebras To Raise IPO Price Amid Strong Demand
+URL: https://www.cryptoprowl.com/releases/cerebras-to-raise-ipo-price-amid-strong-demand-4440
+Time Published: 2026-05-11T12:49:00Z
+Full Content:
+Cerebras Systems is planning to raise the size and price of its initial public offering (IPO) as demand for the artificial intelligence (A.I.) chipmaker’s stock intensifies. Multiple media reports say that Cerebras is considering a new IPO price range of $150 U.S. to $160 U.S. a share, up from $115 U.S. to $125 U.S. previously. The company is also going to raise the number of shares marketed to 30 million from 28 million. At the top of the new range, Cerebras would raise $4.8 billion U.S. from its IPO, up from an initial estimate of $3.5 billion U.S. Cerebras’ IPO has drawn orders for more than 20 times the number of shares available as management at the chipmaker looks to handle surging demand. Cerebras is scheduled to hold its market debut on May 13. It will list its shares on the Nasdaq (NASDAQ: $NDAQ ) exchange under the ticker symbol “CBRS.” Silicon Valley-based Cerebras makes specialized chips for running advanced A.I. models at data centres and is a rival of market leader Nvidia (NASDAQ: $NVDA ). Cerebras is seeing soaring demand for its processors, which are better suited for inference, the computations that allow A.I. models to respond to user queries, than the graphics processing units (GPUs) that the industry has long relied on for A.I. model training. Analysts say Cerebras’ microchips are suited well for the next phase of the A.I. revolution. This is the second attempt by Cerebras to go public. The company first filed for an IPO in 2024 but pulled that plan last year amid choppy market conditions. Cerebras recently lined up Amazon (NASDAQ: $AMZN ) and OpenAI, two of the world’s largest builders of A.I. infrastructure, as customers. The Cerebras IPO is expected to be the biggest share sale globally so far this year, according to data from Dealogic.
+--------------------------------------------------
+
 Title: Rackspace Has Nearly Quadrupled in 2026 but a New Deal with AMD Could Keep the Gains Coming for RXT Stock
 URL: https://www.barchart.com/story/news/1806535/rackspace-has-nearly-quadrupled-in-2026-but-a-new-deal-with-amd-could-keep-the-gains-coming-for-rxt-stock
 Time Published: 2026-05-08T15:58:38Z
