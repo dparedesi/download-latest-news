@@ -1,5 +1,17 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Munich Re Proves It Can Weather Any Storm
+URL: https://app.moby.co/home/news/news-munich-re-proves-it-can-weather-any-storm?utm_source=yahoo_finance&amp;utm_medium=rss
+Time Published: 2026-05-12T19:57:54Z
+Description: The world’s largest reinsurer just printed a €1.7 billion (about $2 billion) profit while holding the line against a softening market and the private credit ...
+--------------------------------------------------
+
+Title: This is Why Stifel is Cautious on Microsoft Corporation (MSFT), A Top Tech Stock in Louis Navellier’s Portfolio
+URL: https://finance.yahoo.com/sectors/technology/articles/why-stifel-cautious-microsoft-corporation-181439226.html
+Time Published: 2026-05-12T18:14:39Z
+Description: Microsoft Corporation (NASDAQ:MSFT) is one of the top tech stocks in Louis Navellier’s portfolio. On May 6, Stifel reiterated its Hold rating on Microsoft...
+--------------------------------------------------
+
 Title: Microsoft Stock Rises to $409 as Cloud, AI Growth Offset Heavy Capex in Strong Q3
 URL: https://www.ibtimes.com.au/microsoft-stock-rises-409-cloud-ai-growth-offset-heavy-capex-strong-q3-1868686
 Time Published: 2026-05-12T17:01:13Z
