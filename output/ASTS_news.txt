@@ -32,14 +32,14 @@ Time Published: 2026-05-11T10:40:47Z
 Description: June S&P 500 E-Mini futures (ESM26) are down -0.03%, and June Nasdaq 100 E-Mini futures (NQM26) are down -0.04% this morning, pointing to a muted open on...
 --------------------------------------------------
 
-Title: Earnings live updates: Plug Power, Hims & Hers set to kick off week of quarterly updates
-URL: https://finance.yahoo.com/markets/live/earnings-live-updates-plug-power-hims--hers-set-to-kick-off-week-of-quarterly-updates-103000722.html
+Title: Earnings live updates: Birkenstock shares sink on earnings miss, Alibaba stock falls
+URL: https://finance.yahoo.com/markets/live/earnings-live-updates-birkenstock-shares-sink-on-earnings-miss-alibaba-stock-falls-103000470.html
 Time Published: 2026-05-11T10:30:00Z
 Description: The pace of first quarter earnings reports eases this week as economic data takes center stage, but investors will still be on the lookout for results from a...
 --------------------------------------------------
 
-Title: Earnings live updates: Birkenstock shares sink on earnings miss, Alibaba stock falls
-URL: https://finance.yahoo.com/markets/live/earnings-live-updates-birkenstock-shares-sink-on-earnings-miss-alibaba-stock-falls-103000470.html
+Title: Earnings live updates: Plug Power, Hims & Hers set to kick off week of quarterly updates
+URL: https://finance.yahoo.com/markets/live/earnings-live-updates-plug-power-hims--hers-set-to-kick-off-week-of-quarterly-updates-103000722.html
 Time Published: 2026-05-11T10:30:00Z
 Description: The pace of first quarter earnings reports eases this week as economic data takes center stage, but investors will still be on the lookout for results from a...
 --------------------------------------------------
