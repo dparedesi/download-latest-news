@@ -6,6 +6,12 @@ Time Published: 2026-05-12T16:03:00Z
 Description: There's a certain kind of analyst who doesn't talk much when he's wrong and doesn't celebrate long when he's right. Stephen "Sarge" Guilfoyle is that kind of...
 --------------------------------------------------
 
+Title: Forget the SpaceX IPO: Why Rocket Lab Is the Smarter Space Stock Buy
+URL: https://www.barchart.com/story/news/1871726/forget-the-spacex-ipo-why-rocket-lab-is-the-smarter-space-stock-buy
+Time Published: 2026-05-12T11:30:02Z
+Description: SpaceX’s IPO could become one of the market’s biggest events, but history suggests mega IPOs often disappoint after launch. Rocket Lab is taking a different ...
+--------------------------------------------------
+
 Title: Rocket Lab stock jumps for second day as SpaceX IPO looms
 URL: https://finance.yahoo.com/sectors/technology/article/rocket-lab-stock-jumps-for-second-day-as-spacex-ipo-looms-180717617.html
 Time Published: 2026-05-11T18:07:17Z
@@ -22,16 +28,4 @@ Title: Rocket Lab Stock Rockets 34% on Neutron Milestone and Major New Defense C
 URL: https://www.ibtimes.com.au/rocket-lab-stock-rockets-34-neutron-milestone-major-new-defense-contracts-1868489
 Time Published: 2026-05-10T08:42:32Z
 Description: NEW YORK — Rocket Lab USA Inc. (NASDAQ: RKLB) shares surged 34.32% on Thursday to close at $105.54, marking one of the largest single-day gains in the company's history as investors cheered a successful static fire test of its medium-lift Neutron rocket and t…
---------------------------------------------------
-
-Title: Rocket Lab stock blasts back to record highs
-URL: https://finance.yahoo.com/markets/article/rocket-lab-stock-blasts-back-to-record-highs-155700117.html
-Time Published: 2026-05-08T15:57:00Z
-Description: Rocket Lab stock jumped more than 25% Friday, hitting its first intraday record high since January and underscoring how space stocks are back on Wall...
---------------------------------------------------
-
-Title: HubSpot downgraded, Qualcomm upgraded: Wall Street's top analyst calls
-URL: https://finance.yahoo.com/markets/stocks/articles/hubspot-downgraded-qualcomm-upgraded-wall-140024229.html
-Time Published: 2026-05-08T14:00:24Z
-Description: HubSpot downgraded, Qualcomm upgraded: Wall Street's top analyst calls
 --------------------------------------------------
