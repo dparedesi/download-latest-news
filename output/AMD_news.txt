@@ -1,5 +1,23 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Alphabet is the top holding of this five-star fund that is also finding 240% gains in the ‘unsexy’ side of the AI buildout
+URL: https://www.marketwatch.com/story/alphabet-is-the-top-holding-of-this-five-star-fund-that-is-also-finding-240-gains-in-the-unsexy-side-of-the-ai-buildout-f0ce376f
+Time Published: 2026-05-13T13:47:00Z
+Description: Moving across market caps has kept the Chase Growth Fund agile and one step ahead of the S 500.
+--------------------------------------------------
+
+Title: Intel Stock Just Got a New Street-High Price Target. Wall Street Is Starting to Believe Its Foundry Can Work.
+URL: https://www.barchart.com/story/news/1903959/intel-stock-just-got-a-new-street-high-price-target-wall-street-is-starting-to-believe-its-foundry-can-work
+Time Published: 2026-05-13T13:00:02Z
+Description: A potential Apple partnership and a new street-high price target are fueling fresh optimism that Intel’s foundry ambitions may finally be paying off.
+--------------------------------------------------
+
+Title: This Veteran Analyst Says AMD Stock Could Be the Next Big AI Infrastructure Winner
+URL: https://www.barchart.com/story/news/1900570/this-veteran-analyst-says-amd-stock-could-be-the-next-big-ai-infrastructure-winner
+Time Published: 2026-05-13T11:30:02Z
+Description: AMD is turning from an AI challenger into a serious infrastructure force as server CPU demand accelerates.
+--------------------------------------------------
+
 Title: Gamma And Momentum: A Recipe For Spikes And Tears
 URL: https://realinvestmentadvice.com/resources/blog/gamma-and-momentum-a-recipe-for-spikes-and-tears/
 Time Published: 2026-05-13T09:52:00Z
@@ -69,10 +87,4 @@ Title: Advanced Micro Devices (AMD) Doesn’t Need to Beat Nvidia (NVDA) To Be a
 URL: https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-doesn-134832094.html
 Time Published: 2026-05-10T13:48:32Z
 Description: We just covered Cathie Wood’s 11 Biggest AI and Data Center Stock Picks. Advanced Micro Devices Inc (NASDAQ:AMD) ranks #3 (see Cathie Wood’s 5 Biggest AI and...
---------------------------------------------------
-
-Title: Analysts turn heads with AMD stock forecast after massive rally
-URL: https://www.thestreet.com/investing/stocks/analysts-turn-heads-with-amd-stock-forecast-after-massive-rally
-Time Published: 2026-05-09T18:47:00Z
-Description: Shares of Advanced Micro Devices (AMD) are up 112.5% year-to-date, with the majority of the gains achieved in recent weeks. From March 31 through May 8, AMD ...
 --------------------------------------------------
