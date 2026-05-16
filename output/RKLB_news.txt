@@ -17,15 +17,3 @@ URL: https://finance.yahoo.com/sectors/technology/article/rocket-lab-stock-jumps
 Time Published: 2026-05-11T18:07:17Z
 Description: Rocket Lab stock extended its surge for a second consecutive trading day Monday as investors continue buying following the company's strong quarterly report ...
 --------------------------------------------------
-
-Title: Cathie Wood buys $12.9 million of tumbling tech stock
-URL: https://www.thestreet.com/investing/stocks/cathie-wood-buys-12-9-million-of-tumbling-tech-stock-coreweave-crwv
-Time Published: 2026-05-10T22:32:34Z
-Description: Cathie Wood, chief of Ark Investment Management, is known for making bold bets on fast-moving tech stocks. Sometimes her trades move just as quickly as the...
---------------------------------------------------
-
-Title: Rocket Lab Stock Rockets 34% on Neutron Milestone and Major New Defense Contracts
-URL: https://www.ibtimes.com.au/rocket-lab-stock-rockets-34-neutron-milestone-major-new-defense-contracts-1868489
-Time Published: 2026-05-10T08:42:32Z
-Description: NEW YORK — Rocket Lab USA Inc. (NASDAQ: RKLB) shares surged 34.32% on Thursday to close at $105.54, marking one of the largest single-day gains in the company's history as investors cheered a successful static fire test of its medium-lift Neutron rocket and t…
---------------------------------------------------
