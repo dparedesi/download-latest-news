@@ -1,5 +1,23 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Cerebras Stock Pulls Back After Blockbuster IPO. Here's What's Next for the Potential Nvidia Rival.
+URL: https://www.barchart.com/story/news/1963965/cerebras-stock-pulls-back-after-blockbuster-ipo-here-s-what-s-next-for-the-potential-nvidia-rival
+Time Published: 2026-05-15T19:22:41Z
+Description: Cerebras stock retreated as its blockbuster debut triggered massive profit-taking. But long-term investors should consider buying CBRS shares on this dip.
+--------------------------------------------------
+
+Title: The market is at the start of the next commodity supercycle, Carlyle's Jeff Currie says
+URL: https://finance.yahoo.com/markets/article/the-market-is-at-the-start-of-the-next-commodity-supercycle-carlyles-jeff-currie-says-181208277.html
+Time Published: 2026-05-15T18:12:08Z
+Description: The market is entering the next commodity supercycle, Carlyle Group's Jeff Currie argues.
+--------------------------------------------------
+
+Title: Oracle Went From Tech Dinosaur to AI Heavyweight
+URL: https://www.barchart.com/story/news/1962255/oracle-went-from-tech-dinosaur-to-ai-heavyweight
+Time Published: 2026-05-15T17:24:58Z
+Description: Oracle’s legacy became its biggest AI advantage.
+--------------------------------------------------
+
 Title: How Microsoft Stock Rises 50% To $600
 URL: https://www.trefis.com/articles/599455/how-microsoft-stock-rises-50-to-600/2026-05-15
 Time Published: 2026-05-15T11:02:00Z
@@ -55,24 +73,4 @@ Title: Does Microsoft pay a dividend? Its yield and payout explained
 URL: https://www.thestreet.com/investing/stocks/microsoft-dividend
 Time Published: 2026-05-12T22:20:30Z
 Description: Looking for an investment that delivers both long-term growth and consistent income? Look no further than hybrid stocks like Microsoft (MSFT). Just like...
---------------------------------------------------
-
-Title: Dear Plug Power Stock Fans, Mark Your Calendars for May 11
-URL: https://www.barchart.com/story/news/1852583/dear-plug-power-stock-fans-mark-your-calendars-for-may-11
-Time Published: 2026-05-11T15:59:25Z
-Description: The company is set to report its Q1 results after market hours.
---------------------------------------------------
-
-Title: Arista Networks: Bridging the Gap To $200
-URL: https://www.trefis.com/articles/598979/arista-networks-bridging-the-gap-to-200/2026-05-11
-Time Published: 2026-05-11T15:52:20Z
-Full Content:
-Arista Networks Inc. (NYSE: ANET) is currently flashing a signal that often makes momentum investors pause: a 49x trailing earnings multiple, its highest in several years. Historically, Arista finds its comfort zone closer to 38x, leading many to wonder if the stock has finally reached a valuation peak. While industry veterans like Cisco Systems Inc (NASDAQ: CSCO) trade at much lower multiples, Arista has traditionally commanded a premium as the high-velocity challenger in the data center. However, a surface-level P/E ratio ignores a fundamental acceleration in the company’s core business. For the first time, Arista isn’t just a cloud networking alternative. It is the primary architect of the AI back-end. With revenue growth now nearly double its three-year average and a clear path toward a $200 price target, the real risk might not be the high multiple, but missing the 40% upside from AI-driven operating leverage. Image by Luke Robertson from Pixabay The primary justification for Arista’s multiple is a marked acceleration in the top line. Revenue increased 35.1% in the most recent quarter, significantly higher than the 18% three-year CAGR. This type of momentum is becoming the defining characteristic of AI infrastructure winners. Arista recently raised its 2026 revenue guidance to $11.5 billion, a 27.7% annual increase, underpinned by a structural pivot toward AI fabrics. This projection suggests a steady climb from $9.6 billion today to over $15 billion by 2028. As investors assess the broader hardware landscape, understanding how different silicon providers are navigating this shift is essential; for instance, What Is Happening With Advanced Micro Devices Stock? explores how computing demand is paralleling networking needs. Revenue growth is paired with a resilient, high-margin profile. Arista’s net margin stands at 38.3% for the last twelve months. While this is slightly below its 40.7% peak due to supply chain trade-offs and customer mix, the company’s operating leverage remains best-in-class. Maintaining this discipline is critical as AI deployments scale, particularly as Arista competes for wallet share against cloud rivals and networking peers like Dell Technologies (NYSE: DELL). If Arista’s margins stabilize at 40% as supply constraints ease, the earnings base would move from $3.7 billion today to roughly $6.1 billion over the next cycle. This 65% jump in total earnings is fundamentally supported by the projected $3.5 billion in AI-specific revenue and the operational efficiency inherent in Arista’s software-driven model. This trend toward massive scaling is also visible in integrated players, as detailed in What Could Set Broadcom Stock on Fire, where networking and custom silicon synergies drive similar margin expansion. If earnings grow by 65%, the P/E multiple will likely ease from its current peak. We assume the multiple compresses from 49x to 42x as the hyper-growth phase matures. Even with this compression, applying a 42x multiple to the expanded earnings base results in a stock price of $201.60. This is approximately 42% above the current trading price of $141.77 (as of May 9, 2026). Arista offers notable upside potential at current levels, but the thesis requires growth to stay at or above the 25% rate. If AI infrastructure spending collapses, the current 49x multiple will be hard to defend against legacy incumbents or internal “do-it-yourself” networking projects from hyperscalers like Amazon (NASDAQ: AMZN), Meta Platforms (NASDAQ: META), or Alphabet (NASDAQ: GOOGL). Ultimately, the specific timeline is less critical than the trajectory. As long as Arista maintains this cycle of revenue compounding and AI market share gains, the stock price is likely to follow the upward path of its expanding fundamentals. While Arista’s pivot shows promise, individual hardware stocks are notoriously vulnerable to sudden shifts in growth cycles. For investors seeking to capitalize on these types of structural breakouts while mitigating the volatility of a single-ticker bet, the Trefis High Quality Portfolio offers a more resilient approach. By targeting the same fundamental compounding seen in Cisco’s best-case scenariobut across a broader set of winners – the HQ Portfolio has delivered 105% returns since inception, consistently outperforming its benchmark (a combination of the S&P 500, S&P Mid-Cap, and Russell 2000). Why did HQ outperform? See the full story behind the HQ Portfolio performance metrics. and the five key reasons for its consistent success. S&P 500 Movers | Winners: LITE, COHR, GLW | Losers: DG, ZTS, TTD Market Movers | Winners: MRAM, PRSO, GSIT | Losers: RPGL, CREG, LHAI How Low Can Opendoor Stock Fall? Cisco Systems Stock Can Sink, Here Is How Is McDonald’s Stock A Trap Or A Missed Opportunity? Apple Stock: Alpha Engine Or Portfolio Diversifier? Qualcomm’s 70% Rally May Be Just the Start McDonald’s Earnings: Global Comps Strong, But Consumer Headwinds Signal Caution How Dell Technologies Stock Gained 120% Is JNJ Stock Setup For A Rerating?
---------------------------------------------------
-
-Title: Cerebras To Raise IPO Price Amid Strong Demand
-URL: https://www.cryptoprowl.com/releases/cerebras-to-raise-ipo-price-amid-strong-demand-4440
-Time Published: 2026-05-11T12:49:00Z
-Full Content:
-Cerebras Systems is planning to raise the size and price of its initial public offering (IPO) as demand for the artificial intelligence (A.I.) chipmaker’s stock intensifies. Multiple media reports say that Cerebras is considering a new IPO price range of $150 U.S. to $160 U.S. a share, up from $115 U.S. to $125 U.S. previously. The company is also going to raise the number of shares marketed to 30 million from 28 million. At the top of the new range, Cerebras would raise $4.8 billion U.S. from its IPO, up from an initial estimate of $3.5 billion U.S. Cerebras’ IPO has drawn orders for more than 20 times the number of shares available as management at the chipmaker looks to handle surging demand. Cerebras is scheduled to hold its market debut on May 13. It will list its shares on the Nasdaq (NASDAQ: $NDAQ ) exchange under the ticker symbol “CBRS.” Silicon Valley-based Cerebras makes specialized chips for running advanced A.I. models at data centres and is a rival of market leader Nvidia (NASDAQ: $NVDA ). Cerebras is seeing soaring demand for its processors, which are better suited for inference, the computations that allow A.I. models to respond to user queries, than the graphics processing units (GPUs) that the industry has long relied on for A.I. model training. Analysts say Cerebras’ microchips are suited well for the next phase of the A.I. revolution. This is the second attempt by Cerebras to go public. The company first filed for an IPO in 2024 but pulled that plan last year amid choppy market conditions. Cerebras recently lined up Amazon (NASDAQ: $AMZN ) and OpenAI, two of the world’s largest builders of A.I. infrastructure, as customers. The Cerebras IPO is expected to be the biggest share sale globally so far this year, according to data from Dealogic.
 --------------------------------------------------

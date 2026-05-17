@@ -11,9 +11,3 @@ URL: https://www.barchart.com/story/news/1871726/forget-the-spacex-ipo-why-rocke
 Time Published: 2026-05-12T11:30:02Z
 Description: SpaceX’s IPO could become one of the market’s biggest events, but history suggests mega IPOs often disappoint after launch. Rocket Lab is taking a different ...
 --------------------------------------------------
-
-Title: Rocket Lab stock jumps for second day as SpaceX IPO looms
-URL: https://finance.yahoo.com/sectors/technology/article/rocket-lab-stock-jumps-for-second-day-as-spacex-ipo-looms-180717617.html
-Time Published: 2026-05-11T18:07:17Z
-Description: Rocket Lab stock extended its surge for a second consecutive trading day Monday as investors continue buying following the company's strong quarterly report ...
---------------------------------------------------
