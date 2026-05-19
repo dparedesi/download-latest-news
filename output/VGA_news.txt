@@ -1,7 +1,7 @@
 List of news related to Vanguard Group Inc:
 
-Title: Why Nvidia Earnings May Matter More To The S&P 500 Than Fed Minutes Right Now
-URL: https://finance.yahoo.com/news/why-nvidia-earnings-may-matter-140129771.html
-Time Published: 2026-05-13T14:01:29Z
-Description: For years, Federal Reserve minutes were among Wall Street's most market-moving events. But in today's AI-driven rally, one earnings report may now rival...
+Title: Infected with TDSS and Google Keeps redirecting
+URL: https://www.bleepingcomputer.com/forums/t/816189/infected-with-tdss-and-google-keeps-redirecting/
+Time Published: 2026-05-18T02:37:43Z
+Description: Infected with TDSS and Google Keeps redirecting - posted in Virus, Trojan, Spyware, and Malware Removal Help: Malwarebytes keeps scanning new trojans in my files and says there is 3 registry keys in my HKLM, I removed Temp Files and Cache Files of the python.…
 --------------------------------------------------
