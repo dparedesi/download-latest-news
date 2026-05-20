@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: AMD Reveals A $6.5 Million Marvell Bet That's Already Soaring
+URL: https://finance.yahoo.com/markets/stocks/articles/amd-reveals-6-5-million-193114312.html
+Time Published: 2026-05-18T19:31:14Z
+Description: Advanced Micro Devices Inc. disclosed a new position in Marvell Technology Inc. in its latest 13F filing, revealing a stake that appears to have already...
+--------------------------------------------------
+
 Title: Citi Hikes Intel Price Target to $130: The Agentic CPU Boom Reshapes the Story
 URL: https://247wallst.com/investing/2026/05/18/citi-hikes-intel-price-target-to-130-the-agentic-cpu-boom-reshapes-the-story/
 Time Published: 2026-05-18T15:29:42Z
