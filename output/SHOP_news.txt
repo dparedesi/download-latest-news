@@ -1,5 +1,11 @@
 List of news related to Shopify stock price SHOP:
 
+Title: Would you let robots spend your money? Google is betting on it
+URL: https://www.theverge.com/news/932927/google-io-agentic-ai-shopping-universal-cart
+Time Published: 2026-05-19T17:07:06Z
+Description: Google is going all in on AI-driven shopping even as some competitors back off. At Google I/O, the company unveiled the latest iteration of its AI commerce tools: a "Universal Cart" that works across different retailers and Google products like Gemini - and e…
+--------------------------------------------------
+
 Title: Cathie Wood sells $40.6 million of popular semiconductor stock
 URL: https://www.thestreet.com/investing/stocks/cathie-wood-sells-40-6-million-of-taiwan-semiconductor-stock-tsmc-tsm
 Time Published: 2026-05-16T23:23:51Z
