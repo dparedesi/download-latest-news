@@ -5,9 +5,3 @@ URL: https://www.theverge.com/news/932927/google-io-agentic-ai-shopping-universa
 Time Published: 2026-05-19T17:07:06Z
 Description: Google is going all in on AI-driven shopping even as some competitors back off. At Google I/O, the company unveiled the latest iteration of its AI commerce tools: a "Universal Cart" that works across different retailers and Google products like Gemini - and e…
 --------------------------------------------------
-
-Title: Cathie Wood sells $40.6 million of popular semiconductor stock
-URL: https://www.thestreet.com/investing/stocks/cathie-wood-sells-40-6-million-of-taiwan-semiconductor-stock-tsmc-tsm
-Time Published: 2026-05-16T23:23:51Z
-Description: Cathie Wood, chief of Ark Investment Management, is known for actively trading her holdings, sometimes selling stocks during sharp market pullbacks...
---------------------------------------------------

@@ -1,5 +1,11 @@
 List of news related to Adobe stock price ADBE:
 
+Title: Stocks Rally as Crude Oil and Bond Yields Slump
+URL: https://www.barchart.com/story/news/2041754/stocks-rally-as-crude-oil-and-bond-yields-slump
+Time Published: 2026-05-20T15:17:22Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.78%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.75%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) ...
+--------------------------------------------------
+
 Title: Stocks Pressured by Tech Weakness and Rising Bond Yields
 URL: https://www.barchart.com/story/news/2017638/stocks-pressured-by-tech-weakness-and-rising-bond-yields
 Time Published: 2026-05-19T14:13:02Z
