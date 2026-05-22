@@ -14,13 +14,6 @@ The post How to build a $150,000 ASX share portfolio from scratch appeared first
 --------------------------------------------------
 
 Title: I DOWNLOADED A FAKE FACEIT CLIENT AND RUN IT, I SUSPECT IT MIGHT BE A TROJAN!!
-URL: https://www.bleepingcomputer.com/forums/t/816218/i-downloaded-a-fake-faceit-client-and-run-it-i-suspect-it-might-be-a-trojan/
-Time Published: 2026-05-19T10:36:06Z
-Description: I DOWNLOADED A FAKE FACEIT CLIENT AND RUN IT, I SUSPECT IT MIGHT BE A TROJAN!! - posted in Virus, Trojan, Spyware, and Malware Removal Help: Hi everyone,
-Im writing this to find help to fix my mistake. I downloaded a fake faceit client to play csgo and I real…
---------------------------------------------------
-
-Title: I DOWNLOADED A FAKE FACEIT CLIENT AND RUN IT, I SUSPECT IT MIGHT BE A TROJAN!!
 URL: https://www.bleepingcomputer.com/forums/t/816219/i-downloaded-a-fake-faceit-client-and-run-it-i-suspect-it-might-be-a-trojan/
 Time Published: 2026-05-19T10:36:06Z
 Description: I DOWNLOADED A FAKE FACEIT CLIENT AND RUN IT, I SUSPECT IT MIGHT BE A TROJAN!! - posted in Virus, Trojan, Spyware, and Malware Removal Help: Hi everyone,
@@ -29,6 +22,13 @@ Im writing this to find help to fix my mistake. I downloaded a fake faceit clien
 
 Title: I DOWNLOADED A FAKE FACEIT CLIENT AND RUN IT, I SUSPECT IT MIGHT BE A TROJAN!!
 URL: https://www.bleepingcomputer.com/forums/t/816220/i-downloaded-a-fake-faceit-client-and-run-it-i-suspect-it-might-be-a-trojan/
+Time Published: 2026-05-19T10:36:06Z
+Description: I DOWNLOADED A FAKE FACEIT CLIENT AND RUN IT, I SUSPECT IT MIGHT BE A TROJAN!! - posted in Virus, Trojan, Spyware, and Malware Removal Help: Hi everyone,
+Im writing this to find help to fix my mistake. I downloaded a fake faceit client to play csgo and I real…
+--------------------------------------------------
+
+Title: I DOWNLOADED A FAKE FACEIT CLIENT AND RUN IT, I SUSPECT IT MIGHT BE A TROJAN!!
+URL: https://www.bleepingcomputer.com/forums/t/816218/i-downloaded-a-fake-faceit-client-and-run-it-i-suspect-it-might-be-a-trojan/
 Time Published: 2026-05-19T10:36:06Z
 Description: I DOWNLOADED A FAKE FACEIT CLIENT AND RUN IT, I SUSPECT IT MIGHT BE A TROJAN!! - posted in Virus, Trojan, Spyware, and Malware Removal Help: Hi everyone,
 Im writing this to find help to fix my mistake. I downloaded a fake faceit client to play csgo and I real…
