@@ -12,12 +12,6 @@ Time Published: 2026-05-20T10:57:25Z
 Description: Dover has underperformed the broader market over the past year, but analysts are cautiously optimistic about the stock’s prospects.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq gain as oil prices fall, bond sell-off eases
-URL: https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-gain-as-oil-prices-fall-bond-sell-off-eases-222757467.html
-Time Published: 2026-05-19T22:27:57Z
-Description: Investors are bracing for Nvidia earnings for a steer on the outlook for the AI trade.
---------------------------------------------------
-
 Title: Stock market today: S&P 500, Nasdaq rise in countdown to Nvidia earnings
 URL: https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-rise-in-countdown-to-nvidia-earnings-222757111.html
 Time Published: 2026-05-19T22:27:57Z
@@ -26,6 +20,12 @@ Description: Investors are bracing for Nvidia earnings for a steer on the outloo
 
 Title: Stock market today: Dow, S&P 500, Nasdaq rise in countdown to Nvidia earnings
 URL: https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-in-countdown-to-nvidia-earnings-222757031.html
+Time Published: 2026-05-19T22:27:57Z
+Description: Investors are bracing for Nvidia earnings for a steer on the outlook for the AI trade.
+--------------------------------------------------
+
+Title: Stock market today: Dow, S&P 500, Nasdaq gain as oil prices fall, bond sell-off eases
+URL: https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-gain-as-oil-prices-fall-bond-sell-off-eases-222757467.html
 Time Published: 2026-05-19T22:27:57Z
 Description: Investors are bracing for Nvidia earnings for a steer on the outlook for the AI trade.
 --------------------------------------------------
