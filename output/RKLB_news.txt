@@ -1,5 +1,11 @@
 List of news related to Rocket Lab RKLB:
 
+Title: Rocket Lab's latest bold move rattles investors
+URL: https://www.thestreet.com/investing/stocks/rocket-lab-stock-price-tumbles-as-3b-share-sale-spooks-investors
+Time Published: 2026-05-22T02:17:00Z
+Description: Rocket Lab (RKLB) investors woke up to a different stock than the one they went to bed with. On May 20, RKLB closed at a fresh record of $134.28, up 5.47% on...
+--------------------------------------------------
+
 Title: Rocket Lab Awarded $90M Contract to Build GEO Satellites Hosting Space Domain Awareness Payload for U.S. Space Force
 URL: https://www.globenewswire.com/news-release/2026/05/22/3299858/0/en/Rocket-Lab-Awarded-90M-Contract-to-Build-GEO-Satellites-Hosting-Space-Domain-Awareness-Payload-for-U-S-Space-Force.html
 Time Published: 2026-05-22T00:00:00Z
