@@ -1,5 +1,11 @@
 List of news related to Rocket Lab RKLB:
 
+Title: Mission Success: Rocket Lab Completes 9th Electron Launch for Synspective
+URL: https://financialpost.com/globe-newswire/mission-success-rocket-lab-completes-9th-electron-launch-for-synspective
+Time Published: 2026-05-22T10:43:55Z
+Description: MAHIA, New Zealand, May 22, 2026 (GLOBE NEWSWIRE) — Rocket Lab Corporation (Nasdaq: RKLB), a global leader in launch services and space systems, today announced the successful deployment of the latest satellite for Synspective, marking the ninth dedicated mis…
+--------------------------------------------------
+
 Title: Rocket Lab's latest bold move rattles investors
 URL: https://www.thestreet.com/investing/stocks/rocket-lab-stock-price-tumbles-as-3b-share-sale-spooks-investors
 Time Published: 2026-05-22T02:17:00Z
