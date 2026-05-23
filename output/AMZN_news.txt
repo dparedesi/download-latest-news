@@ -1,5 +1,29 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Why Wall Street Thinks Amazon Stock Can Rally 40% to $370
+URL: https://www.barchart.com/story/news/2071348/why-wall-street-thinks-amazon-stock-can-rally-40-to-370
+Time Published: 2026-05-21T19:30:49Z
+Description: Amazon appears well-positioned to sustain its growth trajectory despite ongoing concerns around elevated AI and infrastructure spending.
+--------------------------------------------------
+
+Title: Dear Future OpenAI Stock Investors, Mark Your Calendars for May 22
+URL: https://www.barchart.com/story/news/2067252/dear-future-openai-stock-investors-mark-your-calendars-for-may-22
+Time Published: 2026-05-21T15:42:42Z
+Description: Wall Street is watching May 22 closely as OpenAI reportedly prepares for a potentially confidential IPO filing.
+--------------------------------------------------
+
+Title: ARM’s Growth Catalysts Outweigh Concerns Related to Antitrust Investigation
+URL: https://www.barchart.com/story/news/2064554/arms-growth-catalysts-outweigh-concerns-related-to-antitrust-investigation
+Time Published: 2026-05-21T13:30:02Z
+Description: Arm faces a new antitrust investigation in the U.S. over its dominant position in semiconductor licensing.
+--------------------------------------------------
+
+Title: How to Generate Income While Staying Bullish on Amazon Stock
+URL: https://www.barchart.com/story/news/2059474/how-to-generate-income-while-staying-bullish-on-amazon
+Time Published: 2026-05-21T11:00:02Z
+Description: Amazon looks ready to bounce back from the recent bout of selling and looks like a good bullish candidate for the remainder of the year.
+--------------------------------------------------
+
 Title: Bitcoin rallies through $77K despite spot BTC ETF outflows topping $2B
 URL: https://cointelegraph.com/markets/bitcoin-rallies-through-77k-despite-spot-btc-etf-outflows-topping-2b
 Time Published: 2026-05-20T21:22:03Z
@@ -105,10 +129,4 @@ Title: Tech stocks today: Tech stocks fall as investors gear up for Nvidia earni
 URL: https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-tech-stocks-fall-as-investors-gear-up-for-nvidia-earnings-openai-v-elon-musk-trial-decision-111103131.html
 Time Published: 2026-05-18T11:11:03Z
 Description: Nvidia earnings report is expected to be the main event for tech investors this week.
---------------------------------------------------
-
-Title: Disney’s Next Battle Won’t Be Against Netflix
-URL: https://www.barchart.com/story/news/1983863/disneys-next-battle-wont-be-against-netflix
-Time Published: 2026-05-17T14:00:02Z
-Description: Watch as Disney aims for something bigger than streaming dominance.
 --------------------------------------------------
