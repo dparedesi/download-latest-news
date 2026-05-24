@@ -1,5 +1,23 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: We’re Not in a Bubble. Wall Street Just Hasn’t Caught Up With the New ‘Physics’ of the Stock Market.
+URL: https://www.barchart.com/story/news/2101982/were-not-in-a-bubble-wall-street-just-hasnt-caught-up-with-the-new-physics-of-the-stock-market
+Time Published: 2026-05-23T13:30:02Z
+Description: Traditional signals about the overheating of the U.S. stock market are ceasing to work in the age of digital transformation.
+--------------------------------------------------
+
+Title: These cybersecurity stocks are poised for rapid growth through 2028, and some of them are cheap right now
+URL: https://www.marketwatch.com/story/these-cybersecurity-stocks-are-poised-for-rapid-growth-through-2028-and-some-of-them-are-cheap-right-now-cf924a36
+Time Published: 2026-05-23T13:00:00Z
+Description: Many providers of cybersecurity hardware, software and services are expected to put up tremendous sales numbers as the AI build-out continues.
+--------------------------------------------------
+
+Title: Microsoft MSFT Stock Dips Slightly as AI Cloud Momentum Continues in May 2026
+URL: https://www.ibtimes.com.au/microsoft-q3-2026-ai-growth-revenue-surge-1869364
+Time Published: 2026-05-23T12:30:09Z
+Description: Microsoft's fiscal Q3 2026 results show an 18% revenue increase, driven by AI and cloud growth, despite stock volatility and regulatory challenges.
+--------------------------------------------------
+
 Title: Nvidia shifts strategy, and S&P 500 index fund investors are along for the ride
 URL: https://cryptobriefing.com/nvidia-strategy-shift-sp500-index-fund-impact/
 Time Published: 2026-05-23T00:08:10Z
