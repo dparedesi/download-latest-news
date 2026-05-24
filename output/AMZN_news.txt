@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: SoftBank Stock Spikes as OpenAI Prepares for Historic IPO
+URL: https://www.barchart.com/story/news/2090998/softbank-stock-spikes-as-openai-prepares-for-historic-ipo
+Time Published: 2026-05-22T18:24:05Z
+Description: SoftBank shares surged over 30% in two days as OpenAI edges closer to a historic IPO. Here's what investors need to know before buying the stock.
+--------------------------------------------------
+
 Title: Why Wall Street Thinks Amazon Stock Can Rally 40% to $370
 URL: https://www.barchart.com/story/news/2071348/why-wall-street-thinks-amazon-stock-can-rally-40-to-370
 Time Published: 2026-05-21T19:30:49Z
@@ -98,35 +104,4 @@ Title: Yahoo Finance unleashes AlphaSpace: Here's how you can use it to prepare 
 URL: https://finance.yahoo.com/markets/article/yahoo-finance-unleashes-alphaspace-heres-how-you-can-use-it-to-prepare-for-nvidia-earnings-day-100500232.html
 Time Published: 2026-05-19T10:05:00Z
 Description: Yahoo Finance's AlphaSpace is here, and it's a game-changer for the average investor.
---------------------------------------------------
-
-Title: Amazon.com Inc. (AMZN): Mark Cuban Remains Bullish in AI Era
-URL: https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-mark-215457284.html
-Time Published: 2026-05-18T21:54:57Z
-Description: We just covered the Mark Cuban Stock Portfolio: 8 Best Stocks to Buy and Amazon.com, Inc. (NASDAQ:AMZN) ranks 1st on this list. For Mark Cuban, Amazon.com...
---------------------------------------------------
-
-Title: Here’s What TD Cowen Thinks About Amazon.com (AMZN)
-URL: https://finance.yahoo.com/markets/stocks/articles/td-cowen-thinks-amazon-com-195853220.html
-Time Published: 2026-05-18T19:58:53Z
-Description: ​Amazon.com, Inc. (NASDAQ:AMZN) is one of the Best Stocks to Invest in For 5 Years According to Billionaires. On May 14, TD Cowen reiterated a Buy rating on ...
---------------------------------------------------
-
-Title: Nvidia Stock Hit Record Highs on Huang’s China Visit. Q1 Earnings Could Take NVDA Even Higher.
-URL: https://www.barchart.com/story/news/1998942/nvidia-stock-hit-record-highs-on-huangs-china-visit-q1-earnings-could-take-nvda-even-higher
-Time Published: 2026-05-18T17:38:32Z
-Description: NVDA stock recently hit record highs, but its upcoming earnings report could be the next major catalyst.
---------------------------------------------------
-
-Title: Could Amazon Really Hit $375 This Year? Here’s Why It’s Possible
-URL: https://247wallst.com/investing/2026/05/18/could-amazon-really-hit-375-this-year-heres-why-its-possible/
-Time Published: 2026-05-18T13:13:11Z
-Full Content:
-Investing Amazon (AMZN) delivered Q1 results with AWS growing 28% year over year (fastest in 15 quarters), a chips business at $20 billion annual run rate, and EPS of $2.78 beating estimates by 61%, yet shares remain at $264.14 despite fundamentals suggesting higher valuations. AWS AI revenue is running at over $15 billion with triple-digit growth and Anthropic committed over $100 billion in spending, positioning Amazon’s infrastructure business for sustained margin expansion as Trainium chips reduce data center costs. The analyst who called NVIDIA in 2010 just named his top 10 stocks and Amazon wasn't one of them. Get them here FREE. Sending You to Google News in 3 © jetcityimage / iStock Editorial via Getty Images Amazon (NASDAQ:AMZN | AMZN Price Prediction) just delivered a quarter that should make every bear reconsider. AWS grew 28% year over year, the fastest pace in 15 quarters, the chips business crossed a $20 billion annual run rate, and EPS came in at $2.78 versus a $1.73 estimate. Yet shares closed at $264.14 on May 15, well below where fundamentals suggest they should be. Can Amazon reach $375 a share in 2026? Despite Q1 results that CFO Brian Olsavsky framed around a 13.1% operating margin, the highest ever, shares have given back recent gains. Momentum has cooled. The MACD histogram flipped negative on May 11 and deepened to -2.0243 by May 15, while RSI dropped from 81.1 on May 6 to 58.6 in nine sessions. Two overhangs explain it. First, Berkshire Hathaway fully exited its Amazon position in Q1 2026, a headline that traveled. Second, free cash flow has collapsed under a $200 billion 2026 capex plan, with $43.2 billion spent in Q1 alone. With a beta of 1.468, AMZN amplifies every macro wobble. The consensus target sits at $311.55, with 14 Strong Buys, 48 Buys, 5 Holds, and zero Sells among 67 analysts. That is bullish, but the price target feels stale. Quarterly EPS growth ran at 74.8% year over year and revenue at 16.6%. Yet consensus implies less than 18% upside from here. The Street appears anchored to old growth assumptions before AWS reaccelerated and before the chips business hit a $50 billion implied standalone run rate. With $364 billion in AWS backlog and Trainium nearly fully subscribed through Trainium3, the operating leverage story has years left. Reaching $375 from today’s price of $264.14 requires a gain of 42%. With forward EPS of roughly $8.22 (derived from the 32 forward P/E), a price of $375 implies a forward P/E of 46x. The consensus target of $311.55 implies roughly 38x, meaning the bold target requires about 7.7x of additional multiple expansion. Can Amazon earn that? Yes, if three things keep working: CEO Andy Jassy framed it directly: “We’re in the middle of some of the biggest inflections of our lifetime, we’re well positioned to lead, and I’m very optimistic about what’s ahead for our customers and Amazon.” The single biggest risk is a capex-driven free cash flow squeeze that forces the market to value Amazon on FCF rather than earnings power. At $264.14, AMZN trades at roughly 32x forward earnings, with trailing EPS of $8.35 producing a similar 32x trailing multiple. Valuation is reasonable given EPS growth of 74.8% YoY and ROE of 24.3%. Shares sit between the 52-week low of $196 and high of $278.56, closer to the top end. The stock has compounded meaningfully over the past decade, and the current setup pairs that long-run engine with a once-in-a-cycle AI infrastructure buildout. Reaching $375 means a 42% gain and a forward P/E of 46x. That is a stretch, but it is achievable. Three things need to go right: AWS holds the 28% growth pace into the back half of 2026, the chips business converts $225 billion in Trainium commitments into reported revenue, and Q2 lands inside the $194 to $199 billion sales guide. A tariff shock or sharp rate tightening would derail the multiple expansion story quickly. We’ve outlined the blueprint for how Amazon could reach $375 in 2026. Vandita Jadeja is a financial copywriter who loves to read and write about stocks. She believes in buying and holding for long term gains. Her knowledge of words and numbers helps her write clear stock analysis. She has contributed to several publications, including the Joy Wallet, Benzinga, The Motley Fool and InvestorPlace. Our top personal finance-related articles today. Your wallet will thank you later. Raymond James lifted its price target on Amazon (NASDAQ:AMZN | AMZN Price Prediction) stock to $280 from $225, maintaining its… Our Amazon (NASDAQ:AMZN | AMZN Price Prediction) view is straightforward: the cloud and AI infrastructure story is accelerating, the model… Most mega-cap and Mag 7 names are either asset-light platforms or asset-heavy industrials. Amazon is one of the very few… Amazon (NASDAQ:AMZN | AMZN Price Prediction) just delivered its fifth consecutive quarter beating Wall Street’s EPS bar, and the trailing… Shopify (NASDAQ: SHOP | SHOP Price Prediction) and Amazon (NASDAQ: AMZN) just reported earnings that frame two opposite philosophies in… Andy Jassy is going all in. Amazon (NASDAQ:AMZN | AMZN Price Prediction) plans to deploy roughly $200 billion in CapEx… A caller on Bloomberg Businessweek’s Big Tech Special earnings panel captured the strangest dynamic in this market with a single… Amazon (NASDAQ:AMZN | AMZN Price Prediction) trades at $233.65 as of writing. The 24/7 Wall St. price target for Amazon… Amazon (NASDAQ:AMZN | AMZN Price Prediction) has delivered accelerating numbers, a widening moat, and a valuation that makes sense for…
---------------------------------------------------
-
-Title: Tech stocks today: Tech stocks fall as investors gear up for Nvidia earnings, OpenAI v. Elon Musk trial decision
-URL: https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-tech-stocks-fall-as-investors-gear-up-for-nvidia-earnings-openai-v-elon-musk-trial-decision-111103131.html
-Time Published: 2026-05-18T11:11:03Z
-Description: Nvidia earnings report is expected to be the main event for tech investors this week.
 --------------------------------------------------

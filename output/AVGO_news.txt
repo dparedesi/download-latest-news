@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: SMH vs SOXX: Which Semiconductor ETF Should You Buy in 2026?
+URL: http://www.etf.com/sections/news/smh-vs-soxx-which-semiconductor-etf-should-you-buy-2026?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss
+Time Published: 2026-05-22T22:32:46Z
+Description: <p>SMH and SOXX are the two biggest semiconductor ETFs on the market — but they're not the same fund. Here's exactly how they differ, which one has...
+--------------------------------------------------
+
 Title: Inflation Fears Weighed on Broadcom (AVGO) in Q1
 URL: https://finance.yahoo.com/markets/stocks/articles/inflation-fears-weighed-broadcom-avgo-132922719.html
 Time Published: 2026-05-22T13:29:22Z
@@ -19,13 +25,13 @@ Description: We just covered the 10 Best Pick and Shovel AI Stocks to Buy for th
 --------------------------------------------------
 
 Title: Jim Cramer froze on live TV after seeing Trump's 3,700 stock trades — here's what's in the president's portfolio
-URL: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-froze-live-tv-140000925.html
+URL: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-froze-on-live-tv-after-seeing-trump39s-3700-stock-trades--here39s-what39s-in-the-president39s-portfolio-140000901.html
 Time Published: 2026-05-21T14:00:00Z
 Description: New ethics filings reveal a portfolio concentrated in the exact companies shaping his administration's biggest deals.
 --------------------------------------------------
 
 Title: Jim Cramer froze on live TV after seeing Trump's 3,700 stock trades — here's what's in the president's portfolio
-URL: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-froze-on-live-tv-after-seeing-trump39s-3700-stock-trades--here39s-what39s-in-the-president39s-portfolio-140000901.html
+URL: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-froze-live-tv-140000925.html
 Time Published: 2026-05-21T14:00:00Z
 Description: New ethics filings reveal a portfolio concentrated in the exact companies shaping his administration's biggest deals.
 --------------------------------------------------
@@ -86,47 +92,4 @@ URL: https://cryptobriefing.com/tuttle-magnificent-10-etf-filing/
 Time Published: 2026-05-19T01:54:07Z
 Full Content:
 Searching... The asset manager is betting that seven magnificent companies just aren't enough, expanding its tech-heavy ETF lineup with three AI-adjacent names. Share Tuttle Capital Management is filing for a new ETF that stretches the now-iconic “Magnificent 7” concept to include ten companies. The three additions: Advanced Micro Devices, Broadcom, and Palantir. If you’ve spent any time in markets over the past two years, you already know the Magnificent 7. Apple, Microsoft, Alphabet, Amazon, Meta, Nvidia, and Tesla became shorthand for the handful of mega-cap tech stocks carrying the entire S&P 500 on their backs. Tuttle is now arguing that the club needs more members. The proposed Magnificent 10 ETF would bundle all seven original names alongside AMD, Broadcom (AVGO), and Palantir (PLTR). The filing follows Tuttle’s existing work in this space. The firm launched its Magnificent 7 Income Blast ETF, ticker MAGO, in December 2025. That fund uses a systematic options strategy to generate income while providing exposure to the original seven stocks. The new Magnificent 10 fund is expected to follow a similar playbook, layering options strategies on top of a broader basket of leading tech and AI companies. Tuttle isn’t operating in a vacuum here. The Cboe launched its own Magnificent 10 Index, ticker MGTN, in September 2025. That index was designed specifically to capture the leading US tech and growth firms positioned to benefit from AI advancement and digital transformation. Cboe has gone further, rolling out futures and options contracts on the MGTN index to meet growing institutional demand for concentrated tech exposure. The competitive ETF landscape around these mega-cap tech themes has been heating up steadily. Roundhill Investments already offers its MAGS ETF, which provides equal-weighted exposure to the original Magnificent 7. The asset manager is betting that seven magnificent companies just aren't enough, expanding its tech-heavy ETF lineup with three AI-adjacent names. Share Tuttle Capital Management is filing for a new ETF that stretches the now-iconic “Magnificent 7” concept to include ten companies. The three additions: Advanced Micro Devices, Broadcom, and Palantir. If you’ve spent any time in markets over the past two years, you already know the Magnificent 7. Apple, Microsoft, Alphabet, Amazon, Meta, Nvidia, and Tesla became shorthand for the handful of mega-cap tech stocks carrying the entire S&P 500 on their backs. Tuttle is now arguing that the club needs more members. The proposed Magnificent 10 ETF would bundle all seven original names alongside AMD, Broadcom (AVGO), and Palantir (PLTR). The filing follows Tuttle’s existing work in this space. The firm launched its Magnificent 7 Income Blast ETF, ticker MAGO, in December 2025. That fund uses a systematic options strategy to generate income while providing exposure to the original seven stocks. The new Magnificent 10 fund is expected to follow a similar playbook, layering options strategies on top of a broader basket of leading tech and AI companies. Tuttle isn’t operating in a vacuum here. The Cboe launched its own Magnificent 10 Index, ticker MGTN, in September 2025. That index was designed specifically to capture the leading US tech and growth firms positioned to benefit from AI advancement and digital transformation. Cboe has gone further, rolling out futures and options contracts on the MGTN index to meet growing institutional demand for concentrated tech exposure. The competitive ETF landscape around these mega-cap tech themes has been heating up steadily. Roundhill Investments already offers its MAGS ETF, which provides equal-weighted exposure to the original Magnificent 7. All content is for informational purposes only and does not constitute investment advice. CryptoBriefing does not provide recommendations to buy, sell, or hold any asset or contract. See our Disclaimer & Risk Disclosure. © Decentral Media and Crypto Briefing® 2026. Sign in to your account Create your account Already have an account? Sign In Forgot your password? Sign In Daily news, analysis & market insights delivered free.
---------------------------------------------------
-
-Title: Stocks Settle Mixed as Iran War Remains Unresolved
-URL: https://www.barchart.com/story/news/2002014/stocks-settle-mixed-as-iran-war-remains-unresolved
-Time Published: 2026-05-18T20:35:50Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed down -0.07%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.32%, and the Nasdaq 100 Index ($...
---------------------------------------------------
-
-Title: TD Cowen Raises PT on Broadcom (AVGO), Keeps a Buy
-URL: https://finance.yahoo.com/markets/stocks/articles/td-cowen-raises-pt-broadcom-200000293.html
-Time Published: 2026-05-18T20:00:00Z
-Description: ​Broadcom Inc. (NASDAQ:AVGO) is one of the Best Stocks to Invest in For 5 Years According to Billionaires. On May 15, TD Cowen raised its price target on...
---------------------------------------------------
-
-Title: Broadcom Stock Rises on AI Chip Boom as Citi Raises Target to $500 — Mogaz
-URL: https://www.mogazmasr.com/108379
-Time Published: 2026-05-18T16:38:37Z
-Full Content:
-Breaking news Broadcom stock has climbed almost 90% over the past 52 weeks, and Citi says the rally may have more room to run. Ahead of second-quarter earnings, the bank lifted its price target for AVGO shares to $500 and said the company’s total AI revenue could reach $115 billion in 2027. The call comes as Broadcom CEO Hock Tan said in March 2026 that the company is positioned to generate more than $100 billion in AI revenue from chips in 2027. Citi went further, saying AI revenue from chips could hit $180 billion in 2028, a forecast that underscores how central the business has become to the Palo Alto company’s valuation. Broadcom’s rise has been driven by custom AI chip agreements with Alphabet’s Google, Meta, Anthropic, OpenAI and two unnamed customers. The company, which makes semiconductor and infrastructure software solutions across networking connectivity, wireless device connectivity, servers and storage systems, broadband and industrial markets, has built a portfolio of 19,000 patents and spent $11 billion on research and development in FY25. The numbers behind the business have been strong. Broadcom reported $63.9 billion in revenue in FY25 and $26.9 billion in free cash flow. In Q1 FY26, free cash flow reached $8 billion, while the company spent $3.1 billion on cash dividends and $7.8 billion on stock repurchases, giving it room to keep returning capital even as it pushes deeper into AI chips. That spending power matters because the company’s growth story is also capital intensive. A possible $35 billion financing from Apollo Global Management and Blackstone could provide a larger cash buffer, adding another layer of support as Broadcom expands its AI chip business. The stock’s recent move reflects how investors are weighing that growth against the scale of the opportunity. There is still one question that will shape the next leg of the trade: whether Broadcom can keep turning custom AI demand into sustained revenue at the pace investors and analysts now expect. For now, 42 analysts covering AVGO still rate the stock a consensus Strong Buy. Subscribe to our newsletter to get our newest articles instantly!
---------------------------------------------------
-
-Title: Is Broadcom (AVGO) the Fastest Growing S&P 500 Stock to Buy Now?
-URL: https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-fastest-growing-p-150828687.html
-Time Published: 2026-05-18T15:08:28Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of the 10 Fastest Growing S&P 500 Stocks to Buy Now. On May 14, 2026, Wells Fargo raised the firm’s price target on...
---------------------------------------------------
-
-Title: Jim Cramer Reveals Why Broadcom (AVGO) Is Powerful
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_095d00dc-dced-4b36-b2f5-eb5cba42253b
-Time Published: 2026-05-18T14:49:23Z
-Description: None
---------------------------------------------------
-
-Title: Veteran analyst upgrades Arista stock price on AI demand surge
-URL: https://www.thestreet.com/investing/stocks/raymond-james-flips-arista-anet-to-outperform-with-164-target
-Time Published: 2026-05-18T14:37:00Z
-Description: Wall Street rarely changes its mind twice on the same stock within three weeks. With Arista Networks (ANET), it just did. On May 15, a bullish call flipped...
---------------------------------------------------
-
-Title: Broadcom Surges On New Data Center Framework: Wall Street Vastly Underestimating AI Power Needs
-URL: https://finance.yahoo.com/markets/stocks/articles/broadcom-surges-data-center-framework-123105306.html
-Time Published: 2026-05-18T12:31:05Z
-Description: Wells Fargo analyst Aaron Rakers turned more bullish on Broadcom Inc, arguing that Wall Street may still be underestimating the scale of AI infrastructure...
 --------------------------------------------------
