@@ -13,8 +13,8 @@ Time Published: 2026-05-20T11:02:47Z
 Description: T. Rowe Price has underperformed the broader market over the past year, and analysts are moderately bearish about the stock’s prospects.
 --------------------------------------------------
 
-Title: Stock market today: S&P 500, Nasdaq rise in countdown to Nvidia earnings
-URL: https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-rise-in-countdown-to-nvidia-earnings-222757111.html
+Title: Stock market today: Dow, S&P 500, Nasdaq rise in countdown to Nvidia earnings
+URL: https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-in-countdown-to-nvidia-earnings-222757031.html
 Time Published: 2026-05-19T22:27:57Z
 Description: Investors are bracing for Nvidia earnings for a steer on the outlook for the AI trade.
 --------------------------------------------------
@@ -25,8 +25,8 @@ Time Published: 2026-05-19T22:27:57Z
 Description: Investors are bracing for Nvidia earnings for a steer on the outlook for the AI trade.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq rise in countdown to Nvidia earnings
-URL: https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-in-countdown-to-nvidia-earnings-222757031.html
+Title: Stock market today: S&P 500, Nasdaq rise in countdown to Nvidia earnings
+URL: https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-rise-in-countdown-to-nvidia-earnings-222757111.html
 Time Published: 2026-05-19T22:27:57Z
 Description: Investors are bracing for Nvidia earnings for a steer on the outlook for the AI trade.
 --------------------------------------------------
