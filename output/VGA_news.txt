@@ -1,5 +1,11 @@
 List of news related to Vanguard Group Inc:
 
+Title: Vanguard Announces Cash Distributions for the Vanguard ETFs
+URL: https://financialpost.com/globe-newswire/vanguard-announces-cash-distributions-for-the-vanguard-etfs-112
+Time Published: 2026-05-25T18:26:06Z
+Description: (VBU, VBG, VGAB, VAB, VSB, VSC, VCB, VGV, VLB, VRIF and VVSG) TORONTO, May 25, 2026 (GLOBE NEWSWIRE) — Vanguard Investments Canada Inc. today announced the final May 2026 cash distributions for certain Vanguard ETFs, listed below, that trade on Cboe Canada an…
+--------------------------------------------------
+
 Title: 18 ways AI is rewriting the future of financial services: Key insights from the AWS Financial Services Symposium
 URL: https://siliconangle.com/2026/05/22/ai-in-financial-services-moves-beyond-pilots-profits-awsfinserv/
 Time Published: 2026-05-22T21:00:51Z
