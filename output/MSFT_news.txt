@@ -42,15 +42,3 @@ URL: https://www.marketwatch.com/story/buffett-indicator-warns-of-a-market-top-8
 Time Published: 2026-05-22T20:32:00Z
 Description: From a grotesque 230% valuation gap to a ticking energy crisis, this unstoppable market is more fragile than it looks.
 --------------------------------------------------
-
-Title: Dear Future OpenAI Stock Investors, Mark Your Calendars for May 22
-URL: https://www.barchart.com/story/news/2067252/dear-future-openai-stock-investors-mark-your-calendars-for-may-22
-Time Published: 2026-05-21T15:42:42Z
-Description: Wall Street is watching May 22 closely as OpenAI reportedly prepares for a potentially confidential IPO filing.
---------------------------------------------------
-
-Title: ARM’s Growth Catalysts Outweigh Concerns Related to Antitrust Investigation
-URL: https://www.barchart.com/story/news/2064554/arms-growth-catalysts-outweigh-concerns-related-to-antitrust-investigation
-Time Published: 2026-05-21T13:30:02Z
-Description: Arm faces a new antitrust investigation in the U.S. over its dominant position in semiconductor licensing.
---------------------------------------------------
