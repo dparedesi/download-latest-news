@@ -1,5 +1,17 @@
 List of news related to Crowdstrike CRWD:
 
+Title: Rapid7 (RPD) Releases Findings of Q1 Threat Landscape Report
+URL: https://finance.yahoo.com/markets/stocks/articles/rapid7-rpd-releases-findings-q1-062802601.html
+Time Published: 2026-05-27T06:28:02Z
+Description: Rapid7, Inc. (NASDAQ:RPD) is one of the 10 Best Cybersecurity Stocks to Buy According to Short Sellers. On May 21, the company unveiled its Q1 2026 Threat...
+--------------------------------------------------
+
+Title: CrowdStrike Holdings (CRWD) Launches New Integration with Claude Compliance API
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_681f28f2-d8b1-49f2-841d-fe80578d169a
+Time Published: 2026-05-27T06:27:57Z
+Description: None
+--------------------------------------------------
+
 Title: 3 exciting ASX ETFs to buy and hold for 10 years
 URL: https://www.fool.com.au/2026/05/27/3-exciting-asx-etfs-to-buy-and-hold-for-10-years-2/
 Time Published: 2026-05-26T21:20:24Z
