@@ -1,5 +1,14 @@
 List of news related to Vanguard Group Inc:
 
+Title: Show HN: Simple news aggregator with source bias meters
+URL: https://unbiasthenews.com
+Time Published: 2026-05-29T18:21:24Z
+Description: Article URL: https://unbiasthenews.com
+Comments URL: https://news.ycombinator.com/item?id=48327194
+Points: 2
+# Comments: 0
+--------------------------------------------------
+
 Title: Malware?, extortion and cookie logging.
 URL: https://www.bleepingcomputer.com/forums/t/816420/malware-extortion-and-cookie-logging/
 Time Published: 2026-05-28T20:25:05Z
