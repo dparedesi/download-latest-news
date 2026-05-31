@@ -1,5 +1,17 @@
 List of news related to Layoffs Amazon:
 
+Title: Why Amazon is Regretting Its Strict AI Adoption Mandate
+URL: https://www.geeky-gadgets.com/amazon-vp-regrets-ai-strategy/
+Time Published: 2026-05-30T14:00:00Z
+Description: Amazon’s approach to artificial intelligence (AI) has faced significant challenges, as highlighted by Brendan Dell. One notable issue is the company’s reliance on strict adoption metrics, such as requiring 80% usage of its internal AI coding system, Kira. Thi…
+--------------------------------------------------
+
+Title: Meta has struggled at selling anything other than ads. Will AI be different?
+URL: https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html
+Time Published: 2026-05-30T12:00:01Z
+Description: Meta is making a major push to expand its business beyond online advertising, but past efforts show that success is far from guaranteed.
+--------------------------------------------------
+
 Title: Show HN: Simple news aggregator with source bias meters
 URL: https://unbiasthenews.com
 Time Published: 2026-05-29T18:21:24Z
