@@ -40,9 +40,3 @@ URL: https://www.barchart.com/story/news/2170808/is-costco-stock-underperforming
 Time Published: 2026-05-28T10:09:27Z
 Description: While Costco has not kept pace with the Nasdaq Composite over the past year, analysts remain moderately upbeat on the stock’s future.
 --------------------------------------------------
-
-Title: Stock market today: Dow drops, S&P 500 and Nasdaq waver following US strikes near Strait of Hormuz
-URL: https://finance.yahoo.com/economy/live/stock-market-today-dow-drops-sp-500-and-nasdaq-waver-following-us-strikes-near-strait-of-hormuz-231358123.html
-Time Published: 2026-05-27T23:13:58Z
-Description: US stock futures edged up as a wave of tech earnings boosted confidence in the AI trade.
---------------------------------------------------
