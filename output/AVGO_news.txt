@@ -1,5 +1,12 @@
 List of news related to Broadcom AVGO:
 
+Title: Broadcom Connects the AI Edge with Comprehensive Multi-Gig Broadband and Wi-Fi 8 Innovations
+URL: https://www.globenewswire.com/news-release/2026/06/01/3304701/19933/en/Broadcom-Connects-the-AI-Edge-with-Comprehensive-Multi-Gig-Broadband-and-Wi-Fi-8-Innovations.html
+Time Published: 2026-06-01T20:05:00Z
+Full Content:
+June 01, 2026 16:05 ET | Source: Broadcom Inc. Broadcom Inc. PALO ALTO, Calif., June 01, 2026 (GLOBE NEWSWIRE) -- Broadcom Inc. (NASDAQ: AVGO), a global technology leader that designs, develops, and supplies semiconductor and infrastructure software solutions, today showcased its broadband Edge AI portfolio. The lineup of AI-ready broadband solutions includes a 50G PON gateway SoC, a comprehensive Wi-Fi 8 product family, and a joint 5G and Wi-Fi 8 fixed wireless access (FWA) platform solution. Designed to enhance intelligence and security across smart homes and enterprises, these solutions deliver the deterministic low latency, localized processing, and robust reliability essential for next-generation connected AI applications. The introduction of new applications, such as instantaneous, conversational AI assistants, requires highly demanding network performance. Truly fluid conversations with AI agents depend not only on performance and bandwidth, but also on ultra-low end-to-end latency from the cloud to the end-user's device. When aggregated across the entire network path, even a few milliseconds of delay can disrupt the user experience. Broadcom’s newest integrated Wi-Fi 8 and broadband solutions are engineered to maximize performance while minimizing total latency and making the edge more intelligent. The CPU and neural processing unit (NPU) capabilities can enable these broadband devices to operate as intelligent agentic orchestrators. Operators and OEMs can leverage the chips’ capabilities to dynamically route compute between the edge and the cloud, while simultaneously serving as the local agentic compute engine. This ecosystem of devices also ensures ultra-fast connectivity even in dense urban environments where Wi-Fi airspace is heavily congested and broadband infrastructure is shared. "The true potential of the intelligent broadband edge requires a fundamentally new foundation for the smart home and the smart enterprise," said Vijay Nagarajan, vice president of marketing in Broadcom’s Wireless and Broadband Communications Division. "By deploying NPUs across our Wi-Fi 8 and broadband solutions, we empower service providers to secure user privacy, reduce network congestion, and deliver the multi-gigabit, sub-millisecond connectivity that enables the AI era." Broadcom is enabling an intelligent, secure, and unified edge that dynamically directs AI workloads for optimal processing efficiency. Built on five successive waves of Wi-Fi 8 innovation and dedicated broadband platforms, the broadband Edge AI portfolio includes: By deploying embedded localized AI processing units for residential and enterprise applications, Broadcom has created a broadband fabric that will enable service providers, enterprises, and OEMs to power the intelligent devices of tomorrow. For more info on Broadcom’s Edge AI, please visit here. About BroadcomBroadcom Inc. (NASDAQ: AVGO) is a technology leader that designs, develops, and supplies semiconductors and infrastructure software for global organizations’ complex, mission-critical needs. Broadcom combines long-term R&D investment with superb execution to deliver the best technology, at scale. Broadcom is a Delaware corporation headquartered in Palo Alto, CA. For more information, visit www.broadcom.com. Broadcom, the pulse logo, and Connecting Everything are among the trademarks of Broadcom. The term "Broadcom" refers to Broadcom Inc., and/or its subsidiaries. Other trademarks are the property of their respective owners. Press Contact:Khanh LamGlobal Communicationspress.relations@broadcom.comTelephone: +1 408 433 8649 PALO ALTO, Calif., May 27, 2026 (GLOBE NEWSWIRE) -- Broadcom Inc. (NASDAQ: AVGO), a global technology leader that designs, develops, and supplies semiconductor and infrastructure software solutions,... PALO ALTO, Calif., May 27, 2026 (GLOBE NEWSWIRE) -- Broadcom Inc. (NASDAQ: AVGO), a global technology leader that designs, develops, and supplies semiconductor and infrastructure software solutions,...
+--------------------------------------------------
+
 Title: Broadcom Inc. (AVGO): One of the Premier Stocks to Buy Right Now According to AI
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a4e57db0-52e8-4d22-b3ec-b10759380aa7
 Time Published: 2026-06-01T16:53:59Z
@@ -74,28 +81,4 @@ Title: Jim Cramer Explains “Why We’ve Stuck With Broadcom”
 URL: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-ve-105003922.html
 Time Published: 2026-05-29T10:50:03Z
 Description: Broadcom Inc. (NASDAQ:AVGO) was among the stocks Jim Cramer discussed on Mad Money, highlighting several companies with market caps over a trillion dollars. ...
---------------------------------------------------
-
-Title: S&P 500 and Nasdaq 100 Post Record Highs on US-Iran Truce Reports
-URL: https://www.barchart.com/story/news/2186291/s-p-500-and-nasdaq-100-post-record-highs-on-us-iran-truce-reports
-Time Published: 2026-05-28T20:36:38Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +0.58%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.05%, and the Nasdaq 100 Index ($...
---------------------------------------------------
-
-Title: Broadcom (AVGO): Top 10 Steve Cohen Stock To Buy
-URL: https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-top-10-steve-131433990.html
-Time Published: 2026-05-28T13:14:33Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of the 10 Best Stocks in Steve Cohen’s Portfolio. Broadcom Inc. (NASDAQ:AVGO) renewed its partnership with London Stock...
---------------------------------------------------
-
-Title: Is Broadcom (AVGO) One of the 10 Safe Stocks to Buy for the Long Term in 2026?
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c3d86fd5-f1e0-415b-bea7-d3e13db92d6d
-Time Published: 2026-05-28T12:52:02Z
-Description: None
---------------------------------------------------
-
-Title: Broadcom (AVGO) Could Be Positioned For The Next Big Shift In AI Infrastructure
-URL: https://finance.yahoo.com/sectors/technology/articles/broadcom-avgo-could-positioned-next-115314220.html
-Time Published: 2026-05-28T11:53:14Z
-Description: With a five-year EPS forecast of 49.11%, Broadcom Inc. (NASDAQ:AVGO) is among the 12 Best Future Stocks to Buy Right Now. On May 19, Evercore ISI analyst...
 --------------------------------------------------
