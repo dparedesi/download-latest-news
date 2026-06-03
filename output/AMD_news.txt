@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Nvidia's new PC chips represent CEO Huang's bid to win at every layer of AI stack
+URL: https://www.cnbc.com/2026/06/02/nvidias-new-pc-chips-are-ceos-bid-to-own-every-part-of-ai-stack.html
+Time Published: 2026-06-02T12:00:01Z
+Description: Nvidia's announced entry into the PC chip market sent shares of AMD, Intel and Qualcomm lower as Wall Street recognized the threat.
+--------------------------------------------------
+
 Title: Nvidia’s AI Monopoly Could Push It to Become a $10 Trillion Company by 2030
 URL: https://www.barchart.com/story/news/2242075/nvidias-ai-monopoly-could-push-it-to-become-a-10-trillion-company-by-2030
 Time Published: 2026-06-01T19:49:28Z
