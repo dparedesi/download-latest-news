@@ -32,6 +32,12 @@ Time Published: 2026-06-02T13:52:58Z
 Description: GOOGL Drops Premarket: $80B Equity Raise For AI Buildout Sparks Dilution FearsYahoo Finance Alphabet plans to raise $80 billion from stock sales to fund AI build-outCNBC Alphabet’s Mega Fundraising Shows the Value of Being a Public CompanyWSJ Broadcom Advance…
 --------------------------------------------------
 
+Title: How Is Palo Alto Networks’ Stock Performance Compared to Other Cybersecurity Stocks?
+URL: https://www.barchart.com/story/news/2257864/how-is-palo-alto-networks-stock-performance-compared-to-other-cybersecurity-stocks
+Time Published: 2026-06-02T12:47:16Z
+Description: While Palo Alto Networks has underperformed the broader cybersecurity industry over the past year, analysts maintain a very bullish outlook.
+--------------------------------------------------
+
 Title: Alphabet Announces $80B Fund Raise, Berkshire Hathaway To Invest $10B In Private Placement - Yahoo Finance
 URL: https://slashdot.org/firehose.pl?op=view&amp;id=183551790
 Time Published: 2026-06-02T11:52:30Z
@@ -118,17 +124,4 @@ Description:  At a Glance
 
 
 <li>Marke…
---------------------------------------------------
-
-Title: Bitcoin falls out of the global top 10 assets as market cap dips below $1.5T
-URL: https://cointelegraph.com/markets/bitcoin-falls-out-of-the-global-top-10-assets-as-its-market-cap-dips-below-15t
-Time Published: 2026-05-29T12:09:23Z
-Full Content:
-Bitcoin’s market cap has dropped below $1.5 trillion, pushing it out of the world’s top 10 assets amid AI stock and precious metal rallies. Bitcoin’s (BTC) latest drawdown to $72,000 has coincided with a sharp drop in its market capitalization, pushing it out of the global top 10 assets by market cap. Key takeaways: Bitcoin’s price has dropped sharply from around $83,000 in early May to as low as $72,400 on Thursday. This was accompanied by a fall in its market capitalization to $1.45 trillion from $1.66 trillion. Bitcoin market cap, USD. Source: Cointelegraph/TradingView As a result, the leading cryptocurrency has slipped out of the world’s top 10 assets by market cap, ranking thirteenth globally. Related: Bitcoin’s major holders halt buys as demand slows: CryptoQuant Bitcoin is now below Saudi Aramco, Tesla and Meta Platforms, reflecting a broader rotation of capital away from crypto amid strong performance in AI-driven stocks and precious metals. Top global assets by market cap. Source: Companiesmarketcap.com The recent BTC price decline comes amid fresh geopolitical tensions and growing macroeconomic uncertainties, coinciding with a rally in precious metals to historical highs, showing increasing demand for traditional safe-haven assets. Gold surged to an all-time high of $5,600 per ounce in January before easing back to around $4,486, while silver climbed as high as $120 per ounce and now trades near $76. These rallies in metals pushed gold and silver to become the world’s largest and fifth-largest assets by market cap, respectively, as shown in the table above. Artificial intelligence and semiconductor stocks have also significantly outperformed Bitcoin in 2026, with companies such as Taiwan Semiconductor Manufacturing Company (TSMC) and Broadcom (AVGO) overtaking BTC in market cap. Meanwhile, Micron Technology recently crossed the $1 trillion valuation mark amid the ongoing AI and semiconductor-driven rally. “Things are starting to look scary,” 0xMarioNawfal said in a Thursday X post, referring to Bitcoin’s current position in global rankings. Fellow analyst Manly had a contrary view, saying that the drop doesn’t change Bitcoin’s scarcity as a long-term bullish factor, while Fexir said, Bitcoin’s realized price, average cost basis of all coins in circulation, is about to print a “death cross,” indicating waning momentum, according to analyst Axel Adler Jr. The chart below shows that Bitcoin is showing signs of exhaustion with a pending dead cross between its realized price and the 365-day moving average. The last time the indicator produced this bearish crossover was in the middle of the 2022 bear market, preceding a 52% decline to $15,500 from $69,000. The losses were also 52% during the 2018 macro drawdown. Bitcoin realized price with a pending “death cross.” Source: AxelAdlerJr Note that in both instances, the crossover followed a sharp drop in BTC price toward the realized price. Bitcoin is currently trading 35% above its realized price at $54,200. This means a 52% drop from around this level could take BTC price to the low $30,000s, an occurrence that many analysts argue is unlikely. More on the subject Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries. All news, reviews, and analyses are produced with full journalistic independence and integrity. For more details on our standards and processes, please read our Editorial Policy.
---------------------------------------------------
-
-Title: Jim Cramer Explains “Why We’ve Stuck With Broadcom”
-URL: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-ve-105003922.html
-Time Published: 2026-05-29T10:50:03Z
-Description: Broadcom Inc. (NASDAQ:AVGO) was among the stocks Jim Cramer discussed on Mad Money, highlighting several companies with market caps over a trillion dollars. ...
 --------------------------------------------------
