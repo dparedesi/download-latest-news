@@ -1,5 +1,11 @@
 List of news related to Shopify stock price SHOP:
 
+Title: Morgan Stanley Raises its Price Target on Block (XYZ)
+URL: https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-raises-price-target-164927781.html
+Time Published: 2026-06-04T16:49:27Z
+Description: Block, Inc. (NYSE:XYZ) is one of the 15 Most Promising Stocks to Buy Right Now. On May 29, 2026, Morgan Stanley analyst James Faucette raised the firm’s...
+--------------------------------------------------
+
 Title: The Best E-Commerce Software for 2026
 URL: https://uk.pcmag.com/e-commerce-software/42210/the-best-e-commerce-software
 Time Published: 2026-06-02T15:42:09Z
