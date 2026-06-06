@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: NVIDIA vs AMD: Which AI Stock Offers Better Value and Growth for Investors in 2026
+URL: https://www.ibtimes.com.au/nvidia-vs-amd-2026-ai-chip-battle-1870144
+Time Published: 2026-06-05T07:48:43Z
+Description: In 2026, NVIDIA and AMD compete fiercely in the AI chip market. NVIDIA leads in AI training, while AMD gains in inference workloads. Both face challenges and opportunities in a maturing AI landscape.
+--------------------------------------------------
+
 Title: AMD Is Up 55% in a Month and Trouncing Intel. Should Intel Stockholders Switch to AMD Now?
 URL: https://247wallst.com/investing/2026/06/04/amd-is-up-55-in-a-month-and-trouncing-intel-should-intel-stockholders-switch-to-amd-now/
 Time Published: 2026-06-04T18:56:50Z
