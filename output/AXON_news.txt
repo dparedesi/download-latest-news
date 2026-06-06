@@ -1,5 +1,12 @@
 List of news related to Axon Enterprise AXON:
 
+Title: axon-lang 2.8.0
+URL: https://pypi.org/project/axon-lang/2.8.0/
+Time Published: 2026-06-05T04:54:06Z
+Full Content:
+Please enable JavaScript to proceed.
+--------------------------------------------------
+
 Title: axon-lang 2.7.0
 URL: https://pypi.org/project/axon-lang/2.7.0/
 Time Published: 2026-06-03T21:34:15Z

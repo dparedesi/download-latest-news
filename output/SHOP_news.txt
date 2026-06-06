@@ -1,5 +1,11 @@
 List of news related to Shopify stock price SHOP:
 
+Title: Is Roper Technologies Stock Underperforming the Nasdaq?
+URL: https://www.barchart.com/story/news/2311982/is-roper-technologies-stock-underperforming-the-nasdaq
+Time Published: 2026-06-04T19:55:47Z
+Description: Though Roper Technologies has lagged behind the broader Nasdaq Composite over the past year, Wall Street analysts remain moderately optimistic about the stoc...
+--------------------------------------------------
+
 Title: Morgan Stanley Raises its Price Target on Block (XYZ)
 URL: https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-raises-price-target-164927781.html
 Time Published: 2026-06-04T16:49:27Z
