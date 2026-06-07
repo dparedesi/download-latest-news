@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Wall Street's hottest trade is cracking in a trillion-dollar wipeout
+URL: https://finance.yahoo.com/markets/article/wall-streets-hottest-trade-is-cracking-in-a-trillion-dollar-wipeout-184540683.html
+Time Published: 2026-06-05T18:45:40Z
+Description: Chip stocks are turning a rough session on Friday into a rout, erasing more than $1 trillion in market value.
+--------------------------------------------------
+
 Title: Taiwan Semiconductor Manufacturing Signs Major AI Deal With Nvidia
 URL: https://finance.yahoo.com/sectors/technology/articles/taiwan-semiconductor-manufacturing-signs-major-095940607.html
 Time Published: 2026-06-05T09:59:40Z
@@ -54,16 +60,4 @@ Title: What Shapes Taiwan Semiconductor Manufacturing Company Limited (TSM) Brow
 URL: https://finance.yahoo.com/markets/stocks/articles/shapes-taiwan-semiconductor-manufacturing-company-133811803.html
 Time Published: 2026-06-03T13:38:11Z
 Description: Brown Advisory, an investment management company, released its “Brown Advisory Global Leaders Strategy” for the first quarter of 2026 investor letter. A copy...
---------------------------------------------------
-
-Title: Taiwan Semiconductor (TSM): One of the Most Owned Stocks by Hedge Funds?
-URL: https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsm-one-most-230332296.html
-Time Published: 2026-06-01T23:03:32Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the 12 Stocks Most Bought by Hedge Funds in Q1 2026. On May 28, Reuters reported that...
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing (TSM): One of the Best Stocks According to AI
-URL: https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-one-165315302.html
-Time Published: 2026-06-01T16:53:15Z
-Description: We just covered the 10 Best Stocks to Buy Right Now According to AI and Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) ranks 1st on this list....
 --------------------------------------------------
