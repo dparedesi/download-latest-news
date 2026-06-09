@@ -1,5 +1,23 @@
 List of news related to Microsoft stock price MSFT:
 
+Title: Netflix’s Underperforming Stock Needs a New Story. It Can’t Be AI.
+URL: https://www.barchart.com/story/news/2347842/netflixs-underperforming-stock-needs-a-new-story-it-cant-be-ai
+Time Published: 2026-06-07T18:00:02Z
+Description: Netflix's stock has been underperforming for a year now. The company needs to come up with a new story to win over markets.
+--------------------------------------------------
+
+Title: Microsoft Announces Majorana 2 Quantum Chip as Wedbush Calls It Another ‘Validation’ for the Industry
+URL: https://www.barchart.com/story/news/2346995/microsoft-announces-majorana-2-quantum-chip-as-wedbush-calls-it-another-validation-for-the-industry
+Time Published: 2026-06-07T14:15:02Z
+Description: Microsoft declared its Majorana 2 topological quantum processor, a second-generation chip aimed at significantly improving qubit reliability and scalability....
+--------------------------------------------------
+
+Title: Dear Future ERock Stock Fans, Mark Your Calendars for June 10
+URL: https://www.barchart.com/story/news/2346834/dear-future-erock-stock-fans-mark-your-calendars-for-june-10
+Time Published: 2026-06-07T13:45:02Z
+Description: Power solutions provider ERock is expected to take to the market on June 10.
+--------------------------------------------------
+
 Title: The Dow's Split Personality: Why Some Winners Soar While Others Drag Down the Dow
 URL: https://www.barchart.com/story/news/2341785/the-dow-s-split-personality-why-some-winners-soar-while-others-drag-down-the-dow
 Time Published: 2026-06-06T17:00:02Z
@@ -22,22 +40,4 @@ Title: Wedbush’s Dan Ives Sees 30% Upside for ‘Mispriced’ Mag 7 Stock, Say
 URL: https://dailyhodl.com/2026/06/04/wedbushs-dan-ives-sees-30-upside-for-mispriced-mag-7-stock-says-ai-could-hit-monetization-phase-in-coming-months/
 Time Published: 2026-06-04T13:00:23Z
 Description: Hedge fund veteran Dan Ives believes one Mag 7 tech stock is undervalued and will soon print massive gains. In a new CNBC interview, Ives says that Microsoft (MSFT) could surge by more than 30% from its current value as he expects artificial intelligence (AI)…
---------------------------------------------------
-
-Title: Stocks Retreat as US-Iran Peace Hopes in Doubt
-URL: https://www.barchart.com/story/news/2290872/stocks-retreat-as-us-iran-peace-hopes-in-doubt
-Time Published: 2026-06-03T20:35:46Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed down -0.74%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.21%, and the Nasdaq 100...
---------------------------------------------------
-
-Title: Dear Amazon Stock Fans, Mark Your Calendars for June 23
-URL: https://www.barchart.com/story/news/2283729/dear-amazon-stock-fans-mark-your-calendars-for-june-23
-Time Published: 2026-06-03T14:24:53Z
-Description: Amazon is set for its Prime Day Sale scheduled for June 23-26.
---------------------------------------------------
-
-Title: Navigating Microsoft Corporation (MSFT) Delivered Positive Results Against Market Skepticism
-URL: https://finance.yahoo.com/markets/stocks/articles/navigating-microsoft-corporation-msft-delivered-132745725.html
-Time Published: 2026-06-03T13:27:45Z
-Description: Brown Advisory, an investment management company, released its “Brown Advisory Global Leaders Strategy” for the first quarter of 2026 investor letter. A copy...
 --------------------------------------------------
