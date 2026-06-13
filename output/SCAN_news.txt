@@ -1,5 +1,18 @@
 List of news related to Stocks with massive upside potential:
 
+Title: 4 reasons investors should buckle up for a stretch of big stock-market swings
+URL: https://www.businessinsider.com/stock-market-outlook-stocks-volatility-investing-trading-invest-rates-tech-2026-6#article
+Time Published: 2026-06-12T09:20:01Z
+Full Content:
+It's been a wild week of a trading for US stocks, but market pros say investors should get used to it. Wall Street is seeing volatility resurface, with stocks rocked by a re-escalation in the Iran war and squashed hopes of any interest rate cuts from the Federal Reserve in 2026. The equity market has been surprisingly resilient in the first half of the year, but it's been far from a straight line up. The S&P 500 has recovered from its Iran-war lows at the end of March and then some, climbing to fresh record highs nearly 100 days into the war. The mega-IPOs from SpaceX, Anthropic, and OpenAI are expected to add to mounting volatility risks as liquidity shifts and investors flock to the colossal offerings, but beyond the historic IPOs, here are four reasons stock market volatility could continue. The Cboe Volatility Index, otherwise known as the VIX, is often considered the stock market's fear gauge. In recent trading sessions the VIX has surged, seeing its largest year-to-date single day jump of nearly 40%, topping the volatility spikes during the onset of the war in Iran. Take a smarter break in your day - and see how far you get. Piper Sandler's chief market technician Craig Johnson flagged that the VIX is above key levels, signaling investors are risk-off. "The VIX rose by 11.8% after recapturing the 50-/200-day MAs, remaining above a critical resistance level of 20. Historically, a sustained level above 20 indicates an increase in equity volatility," he wrote. Tech has been one of the top-performing sectors in 2026, second only to energy, which has been driven higher by the historic Iran-war oil disruption. The outsize influence of tech makes the market all the more sensitive to higher rates. The market has repriced its expectations for the Federal Reserve to lower rates, pricing in a hold or even a rate hike through the rest of this year, compared to two to three cuts expected at the start of the year. The 10-year Treasury yield is around 4.52%, above the level often flagged as a negative indicator for the equity outlook, after surging on the onset of the war in Iran. The 2-year yield was at 4.14%, above the current Fed rate, supporting a potential hike. "Technology stocks are sensitive to interest rates: Higher rates can have a greater impact on growth-oriented sectors such as technology, contributing to larger market swings," Cross Border Wealth explained. Within tech, AI spending has dominated the market narrative with Big Tech investing billions into AI. The massive capex has fueled the AI trade on Wall Street and could contribute to heightened volatility. Goldman Sachs analysts noted that AI spending is likely to exceed tech companies' guides, which implies additional upside for the earnings and stock price of AI infrastructure beneficiaries. Earnings have dominated tech-driven market moves higher, with some flagging it's creating an AI earnings bubble, but recently valuations have expanded. "Recent valuation expansion and positioning dynamics suggest additional volatility ahead," Goldman said, adding that the P/E of the median AI infrastructure stock has hit its highest multiple since the launch of ChatGPT. They outlined, "Rapid price appreciation, elevated valuations, and crowded positioning in some slices of the infrastructure complex increase the risk of volatility." Historically midterm election years tend to be volatile for equities. Since 1970, midterm years have a median return standard deviation of almost 16%, compared with 13% in other years, according to research from Capital Group. The stock market does tend to follow what Piper Sandler called a "jump, slump, and pump" progression. This cycle is consistent with a trading pattern that has emerged through Trump's presidencies, outlined by Jeffery Hirsch, a longtime market strategist and the editor of the Stock Trader's Almanac. Similarly, Oppenheimer analysts highlighted a "sell in July for a big October buy" strategy that also signals stock volatility ahead. Jump to Every time publishes a story, you’ll get an alert straight to your inbox! Look out for an alert in your inbox the next time publishes a story! Every time a new story is published, you’ll get an alert straight to your inbox! Look out for an alert in your inbox the next time a new story is published! By clicking “Sign up”, you agree to receive emails from Business Insider. In addition, you accept Insider’s Terms of Service and Privacy Policy.
+--------------------------------------------------
+
+Title: BP Commences Commercial Production of Gas at ACG Field in Azerbaijan
+URL: https://finance.yahoo.com/sectors/energy/articles/bp-commences-commercial-production-gas-043301264.html
+Time Published: 2026-06-12T04:33:01Z
+Description: With an annual dividend yield of 4.56%, BP p.l.c. (NYSE:BP) is included among the 10 High Yield Crude Oil Stocks to Buy Now. BP p.l.c. (NYSE:BP) is a British...
+--------------------------------------------------
+
 Title: SpaceX Draws Hordes of Investors, Some Unlikely or Unknowing
 URL: https://www.thedailyupside.com/finance/spacex-draws-hordes-of-investors-some-unlikely-or-unknowing/
 Time Published: 2026-06-12T04:01:00Z
@@ -288,16 +301,4 @@ Title: Is Venture Global, Inc. (VG) A Good Stock To Buy Now?
 URL: https://finance.yahoo.com/markets/stocks/articles/venture-global-inc-vg-good-133424944.html
 Time Published: 2026-06-11T13:34:24Z
 Description: Is VG a good stock to buy? We came across a bullish thesis on Venture Global, Inc. on r/wallstreetbets by JafarFromAfar2. In this article, we will summarize ...
---------------------------------------------------
-
-Title: Is Wingstop Inc. (WING) A Good Stock To Buy Now?
-URL: https://finance.yahoo.com/markets/stocks/articles/wingstop-inc-wing-good-stock-133411633.html
-Time Published: 2026-06-11T13:34:11Z
-Description: Is WING a good stock to buy? We came across a bullish thesis on Wingstop Inc. on Horizons Investing’s Substack by Cade. In this article, we will summarize th...
---------------------------------------------------
-
-Title: South Korea's stock market rout isn't a vote against the country, market exchange chief says
-URL: https://www.cnbc.com/2026/06/11/south-korea-kospi-selloff-foreign-investors-krx.html
-Time Published: 2026-06-11T12:35:55Z
-Description: "This is a rebalancing exercise, and has nothing to do with any loss of conviction in the Korean market," Korea Exchange CEO Jeong Eun-bo said.
 --------------------------------------------------
