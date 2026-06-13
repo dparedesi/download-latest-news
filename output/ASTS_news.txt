@@ -1,5 +1,11 @@
 List of news related to AST SpaceMobile ASTS:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq rise in wait for historic SpaceX debut amid hopes for Iran-US peace
+URL: https://finance.yahoo.com/markets/live/stock-market-today-friday-june-12-dow-sp-500-nasdaq-spacex-ipo-230015001.html
+Time Published: 2026-06-11T23:00:15Z
+Description: Wall Street geared up for SpaceX's market debut and assessed prospects for an end to US-Iran hostilities.
+--------------------------------------------------
+
 Title: The Day the Market Puts a Price on the Final Frontier
 URL: https://www.prnewswire.com/news-releases/the-day-the-market-puts-a-price-on-the-final-frontier-302797663.html
 Time Published: 2026-06-11T12:45:00Z

@@ -1,5 +1,23 @@
 List of news related to Adobe stock price ADBE:
 
+Title: Stock market today: Dow, S&P 500, Nasdaq rise in wait for historic SpaceX debut amid hopes for Iran-US peace
+URL: https://finance.yahoo.com/markets/live/stock-market-today-friday-june-12-dow-sp-500-nasdaq-spacex-ipo-230015001.html
+Time Published: 2026-06-11T23:00:15Z
+Description: Wall Street geared up for SpaceX's market debut and assessed prospects for an end to US-Iran hostilities.
+--------------------------------------------------
+
+Title: Stocks Edge Higher as Chipmakers and AI Stocks Rebound
+URL: https://www.barchart.com/story/news/2422896/stocks-edge-higher-as-chipmakers-and-ai-stocks-rebound
+Time Published: 2026-06-11T14:07:43Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.20%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.43%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
+Title: Stocks Climb Before the Open on U.S.-Iran Peace Hopes, PPI Data in Focus
+URL: https://www.barchart.com/story/news/2416856/stocks-climb-before-the-open-on-u-s-iran-peace-hopes-ppi-data-in-focus
+Time Published: 2026-06-11T10:39:30Z
+Description: June S&P 500 E-Mini futures (ESM26) are up +0.79%, and June Nasdaq 100 E-Mini futures (NQM26) are up +1.21% this morning as investors stepped in to buy the...
+--------------------------------------------------
+
 Title: Stocks Settle Sharply Lower on Escalating Middle East Tensions
 URL: https://www.barchart.com/story/news/2408795/stocks-settle-sharply-lower-on-escalating-middle-east-tensions
 Time Published: 2026-06-10T20:38:17Z
@@ -16,11 +34,4 @@ Title: Stocks Erase Early Gains as Chipmakers Turn Lower
 URL: https://www.barchart.com/story/news/2381403/stocks-erase-early-gains-as-chipmakers-turn-lower
 Time Published: 2026-06-09T15:23:34Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.28%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ...
---------------------------------------------------
-
-Title: What to Expect in Markets This Week: May CPI Report, Updates from Tech Giants
-URL: https://www.investopedia.com/what-to-expect-in-markets-this-week-a-new-consumer-price-index-reading-and-updates-from-tech-giants-11991100
-Time Published: 2026-06-07T10:00:00Z
-Full Content:
-Inflation could be the story of the week—if it's not a big IPO. Investors will get another look at how the conflict with Iran is hitting prices when the Consumer Price Index report for May arrives Wednesday. The CPI jumped 3.8% year-over-year in April, the largest annual rise in nearly three years, with gas prices up more than 28%. The war with Iran has largely sealed off the Strait of Hormuz, typically used to ship 20% of the world’s oil, fertilizer and other resources. “Core” inflation, which excludes the volatile food and energy categories, rose 2.8% year-over-year, suggesting that oil and gas inflation is spreading to other segments of the economy. The Producer Price Index, which tracks wholesale prices, rose 6% year-over-year in April. And the Personal Consumption Expenditures price index, which tracks money spent by and on behalf of households, rose 3.8% year-over-year in April. Inflation influences how the Fed sets interest rates, which impacts borrowing rates for everything from buying a home to paying off credit cards. Cost-of-living increases are particularly burdensome for working-class households, since prices tend to accelerate fastest for low-cost versions of goods.) Investors will also be on the lookout for developments in the tech sector. Adobe is slated to report results, and Apple to hype up new releases. And then there's SpaceX. The Elon Musk-led company has filed paperwork indicating that its IPO could raise $75 billion and put its valuation at $1.75 trillion. The IPO could happen as soon as this week and, eventually, be followed by the listing of two other billion-dollar companies: Anthropic and OpenAI. The Dow Industrials, Nasdaq Composite and S&P 500 retreated last week, dragged lower by a dramatic pullback in tech shares. The S&P saw a nine-week streak of gains come to an end. Bitcoin, meanwhile, finished the week around $60,000 after falling under that level on Friday, tapping levels more than 50% below last year's record highs. Concerns that the Fed might shift toward raising rates this year, driven by a stronger-than-expected monthly jobs number, also weighed on stocks. A full market recap is available here. Here's a look at notable events happening this week. TradingView publishes a more detailed calendar, but clicking the link will take you off the Investopedia site. Some economists think the U.S. economy could weather a permanent closure of the Strait of Hormuz, Diccon Hyatt reports. The AI buildout has revived shares of Dotcom-era darlings like Hewlett Packard, Colin Laidley reports. (It's also made Michael Dell a very rich man.) Job openings hit a two-year high last month, Hyatt writes. And what effect could the SpaceX IPO have on your favorite index-tracking funds? Crystal Kim had the story. Get personalized, AI-powered answers built on 27+ years of trusted expertise.
 --------------------------------------------------
