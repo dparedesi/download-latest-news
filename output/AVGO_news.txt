@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: $35B AI Infrastructure Platform Plan Affirms Broadcom Inc. (AVGO) As a Promising Growth Stock to Buy
+URL: https://finance.yahoo.com/markets/stocks/articles/35b-ai-infrastructure-platform-plan-192530880.html
+Time Published: 2026-06-13T19:25:30Z
+Description: Broadcom Inc. (NASDAQ:AVGO) is one of the most promising growth stocks to buy now. On June 9, Broadcom Inc. (NASDAQ:AVGO) announced it is teaming up with...
+--------------------------------------------------
+
+Title: Broadcom (AVGO) Expands Spring Security With Largest Open-Source Update in 23-Year History
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0c77ab04-04b9-45d3-be96-c5db8846f846
+Time Published: 2026-06-13T17:59:55Z
+Description: None
+--------------------------------------------------
+
 Title: Is Broadcom Inc. (AVGO) A Good Stock To Buy Now?
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_26a6d8b6-c9b3-487d-9795-89bdaf66c562
 Time Published: 2026-06-13T16:57:48Z
@@ -91,14 +103,14 @@ Time Published: 2026-06-10T06:29:37Z
 Description: Investors are focusing on AI leaders like Nvidia, Microsoft, and Alphabet for 2026, as these companies drive advancements in chips, cloud computing, and data infrastructure amid robust capital spending.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures sink as techs slide, US-Iran truce teeters
-URL: https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-as-techs-slide-us-iran-truce-teeters-215056429.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures pare losses as CPI report lands, US-Iran truce teeters
+URL: https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-pare-losses-as-cpi-report-lands-us-iran-truce-teeters-215056909.html
 Time Published: 2026-06-09T21:50:56Z
 Description: Markets are also assessing the odds for a Mideast peace plan after the US and Irn traded strikes.
 --------------------------------------------------
 
-Title: Stock market today: Dow, S&P 500, Nasdaq futures pare losses as CPI report lands, US-Iran truce teeters
-URL: https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-pare-losses-as-cpi-report-lands-us-iran-truce-teeters-215056909.html
+Title: Stock market today: Dow, S&P 500, Nasdaq futures sink as techs slide, US-Iran truce teeters
+URL: https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-as-techs-slide-us-iran-truce-teeters-215056429.html
 Time Published: 2026-06-09T21:50:56Z
 Description: Markets are also assessing the odds for a Mideast peace plan after the US and Irn traded strikes.
 --------------------------------------------------
