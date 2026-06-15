@@ -12,9 +12,3 @@ URL: https://www.barchart.com/story/news/2399788/oklo-buys-precision-manufacturi
 Time Published: 2026-06-10T13:00:03Z
 Description: Oklo acquired ARMEC, a Tennessee-based precision manufacturing company with over 20 years of experience in high-tolerance nuclear components, to accelerate i...
 --------------------------------------------------
-
-Title: How Is AMETEK's Stock Performance Compared to Other Industrial Stocks?
-URL: https://www.barchart.com/story/news/2379055/how-is-ametek-s-stock-performance-compared-to-other-industrial-stocks
-Time Published: 2026-06-09T13:20:58Z
-Description: Although AMETEK has lagged behind its peers over the past year, Wall Street analysts maintain a moderately optimistic outlook on the stock’s prospects.
---------------------------------------------------

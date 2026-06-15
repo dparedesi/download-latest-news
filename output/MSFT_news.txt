@@ -120,27 +120,3 @@ URL: https://finance.yahoo.com/markets/stocks/articles/ai-monetization-timelines
 Time Published: 2026-06-10T13:20:03Z
 Description: The London Company, an investment management company, released its first-quarter 2026 investor letter for its “The London Company Income Equity Strategy”. A ...
 --------------------------------------------------
-
-Title: Broader Market Settles Lower as Chip Stocks Sink
-URL: https://www.barchart.com/story/news/2387060/broader-market-pressured-as-chip-stocks-sink
-Time Published: 2026-06-09T20:34:36Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -0.26%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.17%, and the Nasdaq 100 Index (...
---------------------------------------------------
-
-Title: Stocks Erase Early Gains as Chipmakers Turn Lower
-URL: https://www.barchart.com/story/news/2381403/stocks-erase-early-gains-as-chipmakers-turn-lower
-Time Published: 2026-06-09T15:23:34Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.28%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ...
---------------------------------------------------
-
-Title: Unrealized Potential of Microsoft’s (MSFT) Role in Advancing Agentic AI
-URL: https://finance.yahoo.com/markets/stocks/articles/unrealized-potential-microsoft-msft-role-145532014.html
-Time Published: 2026-06-09T14:55:32Z
-Description: Sands Capital Management, LLC released its Q1 2026 investor letter for its “Select Growth Strategy”. A copy of the letter is available to download here...
---------------------------------------------------
-
-Title: MongoDB vs. Datadog: Only 1 Growth Stock Could Make Investors Richer
-URL: https://www.barchart.com/story/news/2380490/mongodb-vs-datadog-only-1-growth-stock-could-make-investors-richer
-Time Published: 2026-06-09T14:33:50Z
-Description: One of these software stocks has the stronger path to creating long-term wealth.
---------------------------------------------------
