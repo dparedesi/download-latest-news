@@ -23,15 +23,3 @@ URL: https://finance.yahoo.com/markets/stocks/articles/buy-amazon-com-amzn-17301
 Time Published: 2026-06-11T17:30:17Z
 Description: Amazon.com, Inc. (NASDAQ:AMZN) is one of the 13 Best Stocks to Invest In According to Billionaire Ken Griffin. eCommerce and cloud computing giant Amazon.com...
 --------------------------------------------------
-
-Title: Stocks Settle Sharply Lower on Escalating Middle East Tensions
-URL: https://www.barchart.com/story/news/2408795/stocks-settle-sharply-lower-on-escalating-middle-east-tensions
-Time Published: 2026-06-10T20:38:17Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed down -1.62%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.87%, and the Nasdaq 100 Ind...
---------------------------------------------------
-
-Title: Mizuho Doubles Down on WDC Stock as AI Storage Demand Shows No Signs of Slowing Down
-URL: https://www.barchart.com/story/news/2402785/mizuho-doubles-down-on-wdc-stock-as-ai-storage-demand-shows-no-signs-of-slowing-down
-Time Published: 2026-06-10T14:54:09Z
-Description: Mizuho is bullish on AI storage and sees 35% upside in Western Digital Corp.
---------------------------------------------------
