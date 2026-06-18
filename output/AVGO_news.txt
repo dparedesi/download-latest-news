@@ -1,5 +1,17 @@
 List of news related to Broadcom AVGO:
 
+Title: Wall Street can’t stop talking about ‘MANGOS’ stocks as the ‘Magnificent Seven’ becomes passé
+URL: https://www.marketwatch.com/story/wall-street-cant-stop-talking-about-mangos-stocks-as-the-magnificent-seven-becomes-passe-61b5a453
+Time Published: 2026-06-16T21:47:00Z
+Description: Wall Street has a new way to sell the artificial-intelligence trade: take the companies investors most want to own, including some they still cannot buy, and...
+--------------------------------------------------
+
+Title: Tesla booted from the ‘Magnificent Seven’ by a top fund manager. Here is the tech giant he’s crowned.
+URL: https://www.marketwatch.com/story/a-veteran-investor-is-kicking-tesla-out-of-the-magnificent-seven-replacing-it-with-this-tech-giant-a2828cec
+Time Published: 2026-06-16T21:19:00Z
+Description: T. Rowe Price fund manager David Giroux says Big Tech isn’t in a bubble, but there’s value in healthcare and utilities.
+--------------------------------------------------
+
 Title: Goldman Sachs has blunt message for AI stock investors
 URL: https://www.thestreet.com/investing/goldman-sachs-forecast-ai-stock-investors
 Time Published: 2026-06-15T16:16:34Z
