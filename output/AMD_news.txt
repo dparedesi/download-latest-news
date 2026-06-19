@@ -1,5 +1,17 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Bernstein sees something in AMD beyond Nvidia’s shadow
+URL: https://www.thestreet.com/investing/stocks/bernstein-sees-something-in-amd-beyond-nvidias-shadow
+Time Published: 2026-06-18T17:07:00Z
+Description: Advanced Micro Devices (AMD)’s AI story might be getting a lot bigger in a place investors haven’t been watching closely enough. According to TheFly, Bernste...
+--------------------------------------------------
+
+Title: Dow Rebounds 261 Points as Intel-Apple Chip Deal and Iran Peace Accord Lift Wall Street
+URL: https://www.ibtimes.com.au/wall-street-rebounds-intel-apple-chip-deal-1870852
+Time Published: 2026-06-18T13:50:43Z
+Description: Wall Street rebounded as Intel and Apple announced a U.S. chip manufacturing partnership, boosting tech stocks. The Dow Jones rose 261 points, recovering from previous losses due to Fed projections.
+--------------------------------------------------
+
 Title: Stocks Retreat as Fed Signals Possible Higher Interest Rates
 URL: https://www.barchart.com/story/news/2523544/stocks-retreat-as-fed-signals-possible-higher-interest-rates
 Time Published: 2026-06-17T20:35:47Z
