@@ -1,15 +1,39 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Cutting Jobs and Chasing AI: How to Play the Rackspace Stock Transformation Story Here
+URL: https://www.barchart.com/story/news/2545863/cutting-jobs-and-chasing-ai-how-to-play-the-rackspace-stock-transformation-story-here
+Time Published: 2026-06-18T21:05:05Z
+Description: Rackspace technology has signed a deal with AMD while also announcing layoffs.
+--------------------------------------------------
+
+Title: Stocks Sharply Higher as US-Iran Peace Deal Eases Inflation Risks
+URL: https://www.barchart.com/story/news/2545263/stocks-sharply-higher-as-us-iran-peace-deal-eases-inflation-risks
+Time Published: 2026-06-18T20:34:23Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +1.08%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.14%, and the Nasdaq 100 Index ($...
+--------------------------------------------------
+
 Title: Bernstein sees something in AMD beyond Nvidia’s shadow
 URL: https://www.thestreet.com/investing/stocks/bernstein-sees-something-in-amd-beyond-nvidias-shadow
 Time Published: 2026-06-18T17:07:00Z
 Description: Advanced Micro Devices (AMD)’s AI story might be getting a lot bigger in a place investors haven’t been watching closely enough. According to TheFly, Bernste...
 --------------------------------------------------
 
+Title: Stocks Rally as President Trump Signs a Preliminary Deal to End the US-Iran War
+URL: https://www.barchart.com/story/news/2538897/stocks-rally-as-president-trump-signs-a-preliminary-deal-to-end-the-us-iran-war
+Time Published: 2026-06-18T14:18:58Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.73%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.53%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
+--------------------------------------------------
+
 Title: Dow Rebounds 261 Points as Intel-Apple Chip Deal and Iran Peace Accord Lift Wall Street
 URL: https://www.ibtimes.com.au/wall-street-rebounds-intel-apple-chip-deal-1870852
 Time Published: 2026-06-18T13:50:43Z
 Description: Wall Street rebounded as Intel and Apple announced a U.S. chip manufacturing partnership, boosting tech stocks. The Dow Jones rose 261 points, recovering from previous losses due to Fed projections.
+--------------------------------------------------
+
+Title: Bank of America strategist says the market recently did something similar to the 2000 dot-com bubble. Protect yourself.
+URL: https://finance.yahoo.com/markets/stocks/articles/bank-america-strategist-says-market-105500207.html
+Time Published: 2026-06-18T10:55:00Z
+Description: After a record May, only 20 of the S&P 500’s stocks also managed to close at record highs — the same as in March 2000.
 --------------------------------------------------
 
 Title: Stocks Retreat as Fed Signals Possible Higher Interest Rates
