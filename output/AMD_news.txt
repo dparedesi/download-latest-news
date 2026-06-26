@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: AMD’s MEXT Acquisition Is More Important Than Markets Realize. Here’s How It Solves the Memory Bottleneck.
+URL: https://www.barchart.com/story/news/2634524/amds-mext-acquisition-is-more-important-than-markets-realize-heres-how-it-solves-the-memory-bottleneck
+Time Published: 2026-06-24T20:17:30Z
+Description: MEXT bridges the gap between low-cost flash memory and expensive DRAM, helping data centers improve their efficiency as a result.
+--------------------------------------------------
+
 Title: Nvidia's Upbeat Forecast Lifts SMH's Earnings Outlook
 URL: https://www.trefis.com/articles/604317/nvidias-upbeat-forecast-lifts-smhs-earnings-outlook/2026-06-24
 Time Published: 2026-06-24T17:59:07Z
