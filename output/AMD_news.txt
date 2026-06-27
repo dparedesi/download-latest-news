@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Meet Micron, the under-the-radar chipmaker that just reported a 346% sales surge and helped stop a global AI selloff
+URL: https://finance.yahoo.com/technology/articles/meet-micron-under-radar-chipmaker-070200887.html
+Time Published: 2026-06-26T07:02:00Z
+Description: The company behind the memory chips powering AI started in a dentist’s basement in Boise.
+--------------------------------------------------
+
 Title: Show HN: Every site gives a different P/E ratio, so I open-sourced the math
 URL: https://github.com/JerBouma/FinanceToolkit
 Time Published: 2026-06-26T06:13:19Z
