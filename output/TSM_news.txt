@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Emerging markets are now an AI chip trade: Chart of the Day
+URL: https://finance.yahoo.com/markets/article/emerging-markets-are-now-an-ai-chip-trade-chart-of-the-day-115540648.html
+Time Published: 2026-06-28T11:55:40Z
+Description: It's getting harder to diversify out of the global AI chip trade.
+--------------------------------------------------
+
 Title: Susquehanna Lifts PT on Taiwan Semiconductor Manufacturing (TSM) – Here’s Why
 URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b2bfa347-594a-45a6-b40f-ffe70e362b64
 Time Published: 2026-06-27T19:08:29Z
