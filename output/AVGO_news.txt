@@ -1,5 +1,11 @@
 List of news related to Broadcom AVGO:
 
+Title: Stock Indexes Finish Sharply Higher as Tech Soars
+URL: https://www.barchart.com/story/news/3040537/stock-indexes-finish-sharply-higher-as-tech-soars
+Time Published: 2026-06-29T20:37:31Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +1.18%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.59%, and the Nasdaq 100 Index ($IU...
+--------------------------------------------------
+
 Title: OpenAI’s Wild Week: A Custom Chip, 40% of the World’s DRAM, and a $500 Million Bet to Kill the Common Cold
 URL: https://247wallst.com/investing/2026/06/29/openais-wild-week-a-custom-chip-40-of-the-worlds-dram-and-a-500-million-bet-to-kill-the-common-cold/
 Time Published: 2026-06-29T15:15:40Z
