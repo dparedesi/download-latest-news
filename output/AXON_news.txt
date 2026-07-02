@@ -1,5 +1,12 @@
 List of news related to Axon Enterprise AXON:
 
+Title: A Look at Trump's Major Tech Stock Buys
+URL: https://www.newser.com/story/392031/a-look-at-trumps-major-tech-stock-buys.html
+Time Published: 2026-07-01T11:30:00Z
+Full Content:
+President Trump's latest financial disclosure shows a well-timed shopping spree in Big Tech stocks. On Aug. 18, 2025, Trump reported making three back-to-back buys in Apple, Microsoft, and Nvidia, with each trade valued between $5 million and $25 million, according to the filing, which lists holdings in ranges rather than exact figures. The Nvidia buy came one week after Trump announced a deal under which Nvidia and AMD would give the US government 15% of certain chip sales to China in exchange for export approval, reopening an important Chinese revenue channel for Nvidia, per CNBC. Earlier that month, Apple said it would boost its US investment by another $100 billion. The filing also shows Trump bought between $500,000 and $1 million of Amazon shares on Sept. 23, the day a federal trial opened in Seattle over an FTC lawsuit accusing Amazon of misleading customers into Prime subscriptions. The case wrapped up two days later with Amazon agreeing to pay a $1 billion civil penalty and provide $1.5 billion in refunds to some 35 million customers. Trump also purchased between $1 and $5 million of Axon Enterprise shares on Feb. 10, two weeks before ICE began pursuing a proposed $220 million contract for Axon Tasers, per CNBC. That "immediately raised eyebrows," per 24/7 Wall St., though the White House has denied any conflicts of interest, saying investment decisions are made by third-party managers, not Trump or his family members.
+--------------------------------------------------
+
 Title: CNBC Daily Open: An A-grade showing for Alphabet on its Dow debut
 URL: https://www.cnbc.com/2026/06/30/cnbc-daily-open-alphabet-debuts-on-dow-with-an-a-grade-showing.html
 Time Published: 2026-06-30T00:54:39Z

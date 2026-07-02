@@ -1,5 +1,11 @@
 List of news related to Layoffs Amazon:
 
+Title: Range anxiety
+URL: https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain
+Time Published: 2026-07-01T11:00:02Z
+Description: The storm developed quickly over west central Illinois on April 17th, first as a single high-intensity system called a supercell, and then later that evening transforming into a long squall line of thunderstorms. Tucked inside a wall of wind were several smal…
+--------------------------------------------------
+
 Title: Big Tech is spending billions to not employ people
 URL: https://www.businessinsider.com/how-big-tech-is-spending-billions-to-not-employ-people-2026-7#article
 Time Published: 2026-07-01T09:31:01Z
@@ -39,6 +45,12 @@ URL: https://www.thehindubusinessline.com/info-tech/microsoft-to-cut-nearly-25-o
 Time Published: 2026-07-01T01:35:42Z
 Full Content:
 -249.70 -80.50 -108.00 + 108.00 + 7,555.00 -249.70 -80.50 -80.50 -108.00 -108.00 + 108.00 Microsoft had roughly 228,000 full-time employees as of June 30, ‌2025, according to an SEC filing ​last year. | Photo Credit: REUTERS/GONZALO FUENTES Microsoft is planning to cut under 2.5% of ​its workforce in the latest round of ‌layoffs that could be announced as early as ​next week, Business Insider reported on ⁠Tuesday, citing sources. Reuters could not immediately verify the report. U.S. companies have continued to trim headcount in ‌recent months, with a fresh wave of layoffs across the technology, media and finance ‌sectors as firms rein in costs, ‌while investing ⁠heavily in AI infrastructure. Here are a ⁠few details: * The layoffs will impact thousands of roles, including sales and consulting, as well as jobs at ​the Xbox gaming division, ‌the Business Insider report said. * Microsoft declined to comment on the report. * Microsoft had roughly 228,000 full-time employees as of June 30, ‌2025, according to an SEC filing ​last year. * Xbox, which raised prices of its gaming consoles worldwide, citing a ⁠deepening global components crisis, is planning major layoffs and significant cuts to marketing and other budgets, ‌Bloomberg News reported earlier this month. * The Windows maker is also considering options for its Xbox gaming unit, including a potential spinoff or restructuring as a wholly owned subsidiary, The Information reported earlier in June. * In July ‌2025, the company said it would lay off nearly ​4% of its workforce, in one of its largest layoffs in recent years. * ⁠Across the technology sector, Meta announced plans this year ⁠to cut 10% of its workforce, and Amazon laid out plans to eliminate ‌roughly 16,000 jobs globally. Published on July 1, 2026 Copyright© 2026, THG PUBLISHING PVT LTD. or its affiliated companies. All rights reserved. BACK TO TOP Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments. We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle. Terms & conditions | Institutional Subscriber
+--------------------------------------------------
+
+Title: Microsoft to cut under 2.5% of workforce in latest layoffs, Business Insider reports
+URL: https://finance.yahoo.com/markets/stocks/articles/microsoft-cut-under-2-5-232459745.html
+Time Published: 2026-06-30T23:24:59Z
+Description: Microsoft is planning to cut under 2.5% of its workforce in the latest round of layoffs ‌that could be announced as early as next week, Business ‌Insider rep...
 --------------------------------------------------
 
 Title: 007 First Light’s developer lays off staff but claims its next franchise will continue
