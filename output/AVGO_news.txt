@@ -85,21 +85,3 @@ URL: https://finance.yahoo.com/markets/article/this-is-not-what-a-risk-off-month
 Time Published: 2026-06-27T11:08:32Z
 Description: Many of the market's biggest winners this month are hiding in places investors were not watching a month ago.
 --------------------------------------------------
-
-Title: Broadcom Just Quietly Became OpenAI’s Preferred Choice for AI Inference. Here’s What That Means for AVGO Stock.
-URL: https://www.barchart.com/story/news/3004748/broadcom-just-quietly-became-openais-preferred-choice-for-ai-inference-heres-what-that-means-for-avgo-stock
-Time Published: 2026-06-26T18:51:20Z
-Description: The company’s "Jalapeno" chip is a positive sign for investors as the AI-inference race heats up.
---------------------------------------------------
-
-Title: OpenAI, Broadcom (AVGO) Unveil “Jalapeño” AI Accelerator for Enhanced LLM Inference
-URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_80ac5977-961d-4cfc-bbf8-bdd7fb3ba352
-Time Published: 2026-06-26T08:06:07Z
-Description: None
---------------------------------------------------
-
-Title: Broadcom, OpenAI deal hit as infrastructure costs take center stage
-URL: https://www.thestreet.com/investing/stocks/broadcom-openai-deal-hit-as-infrastructure-costs-take-center-stage
-Time Published: 2026-06-26T04:08:05Z
-Description: The artificial intelligence race is no longer only about building the biggest models or buying the most powerful chips. It is also becoming a cost-control pr...
---------------------------------------------------
