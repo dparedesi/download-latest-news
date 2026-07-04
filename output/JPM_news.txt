@@ -1,5 +1,12 @@
 List of news related to JPMorgan stock price JPM:
 
+Title: JPMorgan Says Strategy's Bitcoin Sales Add Risks to Crypto Market
+URL: https://www.cryptoprowl.com/releases/jpmorgan-says-strategys-bitcoin-sales-add-risks-to-crypto-market-6055
+Time Published: 2026-07-02T18:17:00Z
+Full Content:
+JPMorgan Chase (NYSE: $JPM ) says that Strategy’s newly adopted policy that enables it to sell its Bitcoin (CRYPTO: $BTC ) holdings adds new risks to the cryptocurrency market. Analysts at the largest U.S. bank say that Strategy's (MSTR) decision to allow selective Bitcoin sales to fund the dividend on its preferred stock (NASDAQ: $STRC ) has introduced “two-way risk” into crypto markets, increasing both uncertainty and volatility. JPMorgan is critical of Strategy’s new policy that allows for Bitcoin sales to support preferred dividend payments, while also authorizing preferred stock repurchases and share buybacks. Strategy said recently that it currently has $2.55 billion U.S. of cash reserves to help cover its preferred stock dividend payments for the next 17 months. JPMorgan's crypto analysts say that “a higher coverage of 24-36 months would be needed to make investors more comfortable with the idea that Strategy would not need to sell Bitcoins in the foreseeable future.” Lead crypto analyst at JPMorgan, Nikolaos Panigirtzoglou, writes in the report that Strategy is now the largest corporate holder of Bitcoin with 847,363 BTC on its balance sheet. The sheer size of Strategy’s Bitcoin holdings means that any shift toward selling the digital asset, even occasionally, could lead to greater volatility in the crypto market, says JPMorgan. Panigirtzoglou notes that Bitcoin came under heavy pressure in June after Strategy disclosed in a June 1 regulatory filing that it sold 32 BTC to fund dividend payments. JPMorgan says that Michael Saylor's Strategy now owns roughly 4% of Bitcoin's circulating supply and is the largest corporate buyer of the digital asset. Given Strategy's size, the prospect of the company both buying and selling Bitcoin creates unnecessary two-way flow risk for the market, with greater price volatility likely. Bitcoin is currently trading at $61,700 U.S. MSTR stock has fallen 75% in the last 12 months to trade at $99.86 U.S. per share.
+--------------------------------------------------
+
 Title: Commercial Real Estate Finance Is Entering the Crypto Age
 URL: http://commercialobserver.com/2026/06/commercial-real-estate-finance-cryptocurrency-stable-coins/
 Time Published: 2026-06-30T10:30:01Z

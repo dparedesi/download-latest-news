@@ -107,21 +107,3 @@ URL: https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-best-high-gr
 Time Published: 2026-06-29T09:58:43Z
 Description: Broadcom Inc. (NASDAQ:AVGO) is one of the High Growth Semiconductor Stocks to Buy Now. On June 24, Reuters reported that OpenAI, in partnership with Broadcom...
 --------------------------------------------------
-
-Title: Broadcom Inc. (AVGO) is Avoiding Acquisitions in Favor of AI Organic Development
-URL: https://finance.yahoo.com/technology/ai/articles/broadcom-inc-avgo-avoiding-acquisitions-184431264.html
-Time Published: 2026-06-28T18:44:31Z
-Description: Broadcom Inc. (NASDAQ:AVGO) is one of the 10 Best Semiconductor Stocks to Buy According to Billionaires. since Chief Executive Officer Hock Tan stated that a...
---------------------------------------------------
-
-Title: 5 AI Hardware Stocks Create a New ‘MANIA’ Trade That Replaces the Magnificent 7. Hedge Your Bets on the Hot Tickers with These 2 Leveraged ETFs.
-URL: https://www.barchart.com/story/news/3023086/5-ai-hardware-stocks-create-a-new-mania-trade-that-replaces-the-magnificent-7-hedge-your-bets-on-the-hot-tickers-with-these-2-leveraged-etfs
-Time Published: 2026-06-28T13:00:02Z
-Description: Micron, AMD, Intel, Broadcom, and Nvidia are the new pop stars of the stock market.
---------------------------------------------------
-
-Title: 'We don't view this as a bubble' that will pop soon: Wall Street weighs surging AI costs on stock market rally
-URL: https://finance.yahoo.com/markets/article/we-dont-view-this-as-a-bubble-that-will-pop-soon-wall-street-weighs-surging-ai-costs-on-stock-market-rally-115642288.html
-Time Published: 2026-06-28T11:56:42Z
-Description: Wall Street analysts told Yahoo Finance that Micron's earnings proved AI demand remains strong.
---------------------------------------------------
