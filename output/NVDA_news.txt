@@ -114,8 +114,7 @@ Full Content:
 Title: Taiwan detains two Super Micro employees in alleged Nvidia AI server export probe - report
 URL: https://seekingalpha.com/news/4609540-taiwan-detains-two-super-micro-employees-in-alleged-nvidia-ai-server-export-probe---report
 Time Published: 2026-07-02T07:46:44Z
-Full Content:
-PonyWang/iStock via Getty Images Taiwanese prosecutors detained two Super Micro (SMCI) employees, while two others were released on bail and barred from leaving Taiwan over the alleged illegal export of advanced AI servers containing Nvidia (NVDA) chips to China, Reuters reported. In a letter to
+Description: Taiwan detained Super Micro staff over alleged illegal exports of Nvidia AI servers to China.
 --------------------------------------------------
 
 Title: Michael Burry makes first-ever bet against longtime favorite stock
