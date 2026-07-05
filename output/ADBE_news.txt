@@ -43,9 +43,3 @@ URL: https://www.barchart.com/story/news/3077563/adobe-just-bought-what-its-ai-s
 Time Published: 2026-07-01T13:15:01Z
 Description: The acquisition of Topaz Labs will help Adobe offer both content creation and content enhancement tools to users.
 --------------------------------------------------
-
-Title: Stock Indexes Push Higher as Megacap Tech Stocks Rally
-URL: https://www.barchart.com/story/news/3035683/stock-indexes-push-higher-as-megacap-tech-stocks-rally
-Time Published: 2026-06-29T15:16:03Z
-Description: The S&P 500 Index ($SPX ) (SPY ) is up +0.73% today; the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
---------------------------------------------------
