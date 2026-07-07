@@ -1,25 +1,13 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Mark Zuckerberg Doubles Down on Raw Computing Power to Challenge AWS and Microsoft. What That Means for META Stock.
+URL: https://www.barchart.com/story/news/3133814/mark-zuckerberg-doubles-down-on-raw-computing-power-to-challenge-aws-and-microsoft-what-that-means-for-meta-stock
+Time Published: 2026-07-05T18:30:02Z
+Description: Meta wants to sell its extra AI horsepower to the highest bidder, and that could shake up the cloud computing pecking order.
+--------------------------------------------------
+
 Title: SpaceX Just Changed the Rules for Every Future IPO. The Market is Now Eyeing These 2 Upcoming IPOs.
 URL: https://www.barchart.com/story/news/3119107/spacex-just-changed-the-rules-for-every-future-ipo-the-market-is-now-eyeing-these-2-upcoming-ipos
 Time Published: 2026-07-03T17:30:02Z
 Description: OpenAI and Anthropic appear uniquely positioned to become the market's next blockbuster listings.
---------------------------------------------------
-
-Title: Here’s What the Street Thinks About Cerebras Systems (CBRS)
-URL: https://finance.yahoo.com/markets/stocks/articles/street-thinks-cerebras-systems-cbrs-193754863.html
-Time Published: 2026-07-01T19:37:54Z
-Description: Cerebras Systems Inc. (NASDAQ:CBRS) is one of the most promising future stocks to buy right now. Cerebras Systems Inc. (NASDAQ:CBRS) received several rating...
---------------------------------------------------
-
-Title: Alphabet stock rally exposes Google’s unusual AI problem
-URL: https://www.thestreet.com/investing/alphabet-stock-rally-exposes-googles-unusual-ai-problem
-Time Published: 2026-07-01T16:47:00Z
-Description: Alphabet (GOOGL) just got one of the most renowned promotions in the stock market. Google parent Alphabet officially entered the Dow Jones Industrial Average...
---------------------------------------------------
-
-Title: Ulta Beauty Stock Hits a New 52-Week Low: If It’s Not in the Buy Zone, It’s Awfully Close
-URL: https://www.barchart.com/story/news/3080230/ulta-beauty-stock-hits-a-new-52-week-low-if-its-not-in-the-buy-zone-its-awfully-close
-Time Published: 2026-07-01T15:12:06Z
-Description: Ulta Beauty hit a new 52-week low of $443.60 on Tuesday. It was the beauty retailer’s fifth new 52-week low of the past 12 months. While the technical analys...
 --------------------------------------------------
