@@ -1,5 +1,11 @@
 List of news related to NVIDIA NVDA:
 
+Title: As chip sector takes it on the chin, traders bet on a big Nvidia rally
+URL: https://www.cnbc.com/2026/07/07/as-chip-sector-takes-it-on-the-chin-traders-bet-on-a-big-nvidia-rally-.html
+Time Published: 2026-07-07T19:56:25Z
+Description: Shares of Nvidia fought into the green despite a 5% sell-off in chip stocks tracked by the VanEck Semiconductor ETF (SMH).
+--------------------------------------------------
+
 Title: Micron gives Wall Street reason to rethink AI winners
 URL: https://www.thestreet.com/investing/micron-gives-wall-street-reason-to-rethink-ai-winners
 Time Published: 2026-07-07T17:07:00Z
