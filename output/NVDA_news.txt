@@ -1,10 +1,28 @@
 List of news related to NVIDIA NVDA:
 
+Title: The Fastest Grower In The Bargain Bin: NVDA
+URL: https://www.trefis.com/articles/605952/the-fastest-grower-in-the-bargain-bin-nvda/2026-07-07
+Time Published: 2026-07-07T11:48:04Z
+Description: A company growing faster than almost any other is being valued as if its best days are behind it, and the numbers tell a fascinating story.
+--------------------------------------------------
+
+Title: NVIDIA Corporation (NVDA) Shares Only Slightly Up Since Jim Cramer Recommended Owning Them
+URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-shares-only-093844337.html
+Time Published: 2026-07-07T09:38:44Z
+Description: We recently published Jim Cramer’s Biggest Losers: 10 Stocks That Just Didn’t Work Out. NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks discussed by Ji...
+--------------------------------------------------
+
 Title: NVIDIA Quashes Rubin & Kyber Rack Delay Rumors, Says “Chip Roadmap Is Intact”
 URL: https://wccftech.com/nvidia-quashes-rubin-kyber-rack-delay-rumors-says-chip-roadmap-is-intact/
 Time Published: 2026-07-07T05:35:17Z
 Full Content:
 NVIDIA has denied reports of a delay regarding its upcoming Rubin & Kyber products, stating that its chip roadmap remains intact. Recently, there have been many rumors regarding a delay in NVIDIA's upcoming products, such as Rubin, Rubin Ultra, and the respective Kyber racks. $NVDA - *NVIDIA SAYS AI CHIP ROADMAP REMAINS INTACT*NVIDIA DISPUTES SEMIANALYSIS DELAY REPORT Nvidia says its roadmap intact. That, to me, means buy The rumor was initiated by SemiAnalysis, which said that Kyber racks featuring the NVIDIA Rubin Ultra chips were delayed to 2028. This was a follow-up to previous commentary, which said that NVIDIA had cancelled its plans for the quad-die (4-Reticle) Rubin Ultra chips, scaling the design to a dual-die (2-Reticle) solution. The Rubin chips are currently shipping in Oberon racks, while Rubin Ultra will be shipping in Kyber racks. The Rubin Ultra racks will scale up to 576 GPUs in the NVL576 rack, offering unmatched AI capabilities. Now, as per NVIDIA, these rumors hold no weight, and the company has confirmed that its AI and chip roadmap remains intact. NVIDIA was relatively quick this time to respond to these rumors, as these reports could have a negative effect on the company's relations and ongoing deals with its partners. NVIDIA's AI chips have long been hit with rumors regarding delays, cancellations, and design flaws. Both Blackwell and Blackwell Ultra faced a similar situation where the chips were said to have gone back to the drawing board after "allegedly" encountering major performance issues related to thermal design and HBM compatibility. These were debunked immediately when NVIDIA Blackwell & Blackwell Ultra entered production and the first samples shipped out to partners ahead of schedule. Even Rubin faced similar rumors & within a few days, NVIDIA announced volume production on the full chip, matching the specs of the official announcement. Both Rubin GPUs and Vera CPUs were delivered to the first customers on time, and production once again commenced ahead of schedule. It looks like Rubin Ultra rumors are simply not true, and NVIDIA is debunking them right away. The fact is that while the competition continues to unveil products that they claim offer better TCO, better efficiency, better compute, and better AI, NVIDIA has so far led all AI workloads in a multitude of public and open-source benchmarks, while the competition has failed to come even near the might of NVIDIA. NVIDIA also continues to offer immense optimizations through its CUDA and CUDA-X stack for AI, further boosting the capabilities of its existing hardware while prepping for what's coming next. About the author: A Software Engineer by training and a PC enthusiast by passion, Hassan Mujtaba serves as Wccftech's Senior Editor for hardware section. With years of experience in the industry, he specializes in deep-dive technical analysis of next-generation CPU and GPU architectures, motherboards, and cooling solutions. His work involves not only breaking news on upcoming technologies but also extensive hands-on reviews and benchmarking. Follow Wccftech on Google to get more of our news coverage in your feeds. © 2026 WCCF TECH INC. 700 - 401 West Georgia Street, Vancouver, BC, Canada
+--------------------------------------------------
+
+Title: Stock Indexes Settle Higher as Big Tech and Chip Stocks Rally
+URL: https://www.barchart.com/story/news/3149449/stock-indexes-settle-higher-as-big-tech-and-chip-stocks-rally
+Time Published: 2026-07-06T20:33:20Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +0.72%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.29%, and the Nasdaq 100 Index ($IU...
 --------------------------------------------------
 
 Title: Can NVIDIA’s (NVDA) New Indonesia AI Campus Deal Unlock $30 Billion for a Partner?

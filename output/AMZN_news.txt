@@ -1,5 +1,17 @@
 List of news related to Amazon stock price AMZN:
 
+Title: If the stock market’s double bubble bursts, it could usher in the next crash
+URL: https://www.marketwatch.com/story/if-the-stock-markets-double-bubble-bursts-it-could-usher-in-the-next-crash-de54c1b2
+Time Published: 2026-07-06T21:11:00Z
+Description: While valuations still look extreme relative to history, the recent pace of corporate earnings growth has also meaningfully diverged from the long-term trend...
+--------------------------------------------------
+
+Title: Amid Strong, Positive Catalysts and the Endorsement of Goldman Sachs, Amazon Stock Looks Very Attractive
+URL: https://www.barchart.com/story/news/3150038/amid-strong-positive-catalysts-and-the-endorsement-of-goldman-sachs-amazon-stock-looks-very-attractive
+Time Published: 2026-07-06T21:01:15Z
+Description: AMZN stock should get a huge boost from the company's AI and satellite businesses.
+--------------------------------------------------
+
 Title: Jefferies Says Microsoft Stands Out in Strong Cloud Spending as Azure Gains Market Share. What This Means for MSFT Stock.
 URL: https://www.barchart.com/story/news/3148287/jefferies-says-microsoft-stands-out-in-strong-cloud-spending-as-azure-gains-market-share-what-this-means-for-msft-stock
 Time Published: 2026-07-06T19:44:35Z

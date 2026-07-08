@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Stock Indexes Settle Higher as Big Tech and Chip Stocks Rally
+URL: https://www.barchart.com/story/news/3149449/stock-indexes-settle-higher-as-big-tech-and-chip-stocks-rally
+Time Published: 2026-07-06T20:33:20Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +0.72%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.29%, and the Nasdaq 100 Index ($IU...
+--------------------------------------------------
+
 Title: Advanced Micro Devices stock rebounds after massive AI research expansion
 URL: https://cryptobriefing.com/amd-stock-rebounds-ai-research-expansion/
 Time Published: 2026-07-06T14:44:53Z
