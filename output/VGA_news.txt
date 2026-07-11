@@ -1,5 +1,16 @@
 List of news related to Vanguard Group Inc:
 
+Title: Affected by bad captcha session stealer. LummaStealer & NeedleStealer, etc
+URL: https://www.bleepingcomputer.com/forums/t/817208/affected-by-bad-captcha-session-stealer-lummastealer-needlestealer-etc/
+Time Published: 2026-07-10T05:38:53Z
+Description: Affected by bad captcha session stealer. LummaStealer & NeedleStealer, etc - posted in Virus, Trojan, Spyware, and Malware Removal Help: Quick computer specs:
+Windows 11
+12th Gen Intel Processor
+Tuf Gaming z690-plus wifi D4 mobo
+64 ram
+Several ssd and one hdd…
+--------------------------------------------------
+
 Title: Autonomous Underwater Vehicles (AUV) Emerging as Fastest-Growing Segment in Naval Defense Tech
 URL: https://www.prnewswire.com/news-releases/autonomous-underwater-vehicles-auv-emerging-as-fastest-growing-segment-in-naval-defense-tech-302822025.html
 Time Published: 2026-07-09T14:43:00Z
