@@ -44,22 +44,3 @@ URL: https://www.marketwatch.com/story/why-these-global-stocks-with-a-high-barri
 Time Published: 2026-07-07T13:37:00Z
 Description: Goldman Sachs says the HALO trade has worked well this year, but a tougher phase relying on earnings performance lies ahead.
 --------------------------------------------------
-
-Title: The AI Trade Is Off to a Hot Start This Week as Chip, Memory Stocks Surge
-URL: https://www.investopedia.com/ai-trade-is-off-to-hot-start-this-week-as-chip-memory-stocks-surge-intc-amd-nvda-mu-12012383
-Time Published: 2026-07-06T17:23:03Z
-Full Content:
-The AI trade is off to a strong start this week, with several chip and memory stocks among the biggest gainers in the S&P 500 and Nasdaq on Monday. Data storage company Western Digital (WDC) soared more than 7% to pace advancers in the tech-heavy Nasdaq 100, while chipmaker Advanced Micro Devices (AMD) rose nearly 7%, and Qualcomm (QCOM) and Seagate Technology (STX) each gained roughly 6%. Major AI names including Taiwan Semiconductor Manufacturing (TSM) and Broadcom (AVGO) both advanced about 4%, while Nvidia (NVDA), Micron Technology (MU) and Intel (INTC) also finished the session higher. The Philadelphia Semiconductor Index (SOX) rose more than 2% and the Roundhill Memory ETF (DRAM) climbed 7%. Monday’s gains could be taken as an encouraging signal that the AI trade is in for a positive week following a recent volatile stretch. Chip stocks are recovering from a recent pullback, as analysts have remained bullish on the outlook for the AI trade despite the volatility that has plagued tech stocks. Bank of America analysts wrote Monday that they see the recent slump as “a healthy reset, not a structural change in AI demand,” and said that periods of consolidation in the tech sector are “often followed by renewed momentum as investors regain confidence in the next leg of earnings and capex growth.” The analysts said they expect cloud and AI spending to reach $1.5 trillion next year, up about 40% to 50% year-over-year, noting that spending should be spread among multiple sectors including memory, chips and networking hardware, benefitting a wide range of stocks. UPDATE: This article has been updated to reflect Monday’s closing prices.
---------------------------------------------------
-
-Title: Is Taiwan Semiconductor Manufacturing (TSM) One of the Top AI Stocks to Buy According to Philippe Laffont?
-URL: https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-manufacturing-tsm-one-152448167.html
-Time Published: 2026-07-06T15:24:48Z
-Description: Taiwan Semiconductor Manufacturing Company Ltd. (NYSE:TSM) is one of the top AI stocks to buy, according to billionaire Philippe Laffont. On June 29, Barclay...
---------------------------------------------------
-
-Title: Exceptional Momentum Powers Taiwan Semiconductor Manufacturing’s (TSM) Rally
-URL: https://finance.yahoo.com/markets/stocks/articles/exceptional-momentum-powers-taiwan-semiconductor-151708380.html
-Time Published: 2026-07-06T15:17:08Z
-Description: RiverPark Advisors, an investment advisory firm and sponsor of the RiverPark family of mutual funds, released its “RiverPark Large Growth Fund” Q1 2026 inves...
---------------------------------------------------
