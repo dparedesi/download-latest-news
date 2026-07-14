@@ -1,5 +1,17 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: TSMC Shares Rise as June Sales Surge a Historic 68% Amid Strong AI Chip Demand Ahead of Earnings
+URL: https://www.ibtimes.com.au/tsmc-june-sales-surge-ai-growth-preview-1872227
+Time Published: 2026-07-13T14:33:25Z
+Description: TSMC's June sales rose 67.9% year-over-year, driven by AI demand, previewing strong second-quarter earnings. Analysts view TSMC as a key player in AI infrastructure, despite geopolitical and competitive pressures.
+--------------------------------------------------
+
+Title: Tech stocks live updates: Tech stocks fall as AI trade faces scrutiny, SK Hynix falls
+URL: https://finance.yahoo.com/technology/live/tech-stocks-live-updates-ai-trade-sk-hynix-124717493.html
+Time Published: 2026-07-13T12:47:17Z
+Description: Tech stocks fell on Monday amid an ongoing debate over artificial intelligence spending and profitability.
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slip as US and Iran exchange fire, oil jumps
 URL: https://finance.yahoo.com/markets/live/stock-market-today-monday-july-13-dow-sp-nasdaq-113249278.html
 Time Published: 2026-07-13T11:32:49Z
