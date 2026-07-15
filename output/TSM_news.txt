@@ -1,9 +1,22 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Ahead of Taiwan Semiconductor Earnings, Here's What Barchart Data Says Comes Next for TSM Stock
+URL: https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e00e42d4-3969-42ce-82ff-c0343c005191
+Time Published: 2026-07-13T17:12:16Z
+Full Content:
+Your privacy is important to us At Yahoo, we use CookiesCookies (including similar technologies such as web storage) allow the operators of websites and apps to store and read information from your device. Learn more in our cookie policy.cookies to: If you do not want us and our partners to use cookies and personal data for these additional purposes, click 'Reject all'. If you would like to customise your choices, click 'Manage privacy settings'. You can withdraw your consent or change your choices at any time by clicking on the 'Privacy and Cookie settings' or 'Privacy dashboard' links on our sites and apps. Find out more about how we use your personal data in our Privacy Policy and Cookie Policy.
+--------------------------------------------------
+
 Title: TSMC Shares Rise as June Sales Surge a Historic 68% Amid Strong AI Chip Demand Ahead of Earnings
 URL: https://www.ibtimes.com.au/tsmc-june-sales-surge-ai-growth-preview-1872227
 Time Published: 2026-07-13T14:33:25Z
 Description: TSMC's June sales rose 67.9% year-over-year, driven by AI demand, previewing strong second-quarter earnings. Analysts view TSMC as a key player in AI infrastructure, despite geopolitical and competitive pressures.
+--------------------------------------------------
+
+Title: AMD Is Following Nvidia’s Playbook. Here’s Why Investors Should Pay Attention.
+URL: https://www.barchart.com/story/news/3254916/amd-is-following-nvidias-playbook-heres-why-investors-should-pay-attention
+Time Published: 2026-07-13T14:20:16Z
+Description: AMD's latest partnership isn't about selling more chips today. It's about competing with Nvidia by helping build the AI factories of tomorrow.
 --------------------------------------------------
 
 Title: Tech stocks live updates: Tech stocks fall as AI trade faces scrutiny, SK Hynix falls
