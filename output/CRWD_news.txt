@@ -1,1 +1,7 @@
-No news found for Crowdstrike +CRWD
+List of news related to Crowdstrike CRWD:
+
+Title: CrowdStrike, Fortinet and others surge on IBM warning of customer spending shift
+URL: https://finance.yahoo.com/markets/stocks/article/crowdstrike-fortinet-and-others-surge-on-ibm-warning-of-customer-spending-shift-165538094.html
+Time Published: 2026-07-14T16:55:38Z
+Description: CrowdStrike and other cybersecurity-related stocks surged as IBM warned of a spending shift among enterprise customers.
+--------------------------------------------------
