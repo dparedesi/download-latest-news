@@ -1,5 +1,11 @@
 List of news related to JPMorgan stock price JPM:
 
+Title: S&P Futures Muted as Investors Weigh Big Bank Earnings, U.S. Inflation Data and Warsh’s Testimony in Focus
+URL: https://www.barchart.com/story/news/3268984/s-p-futures-muted-with-focus-on-u-s-inflation-data-and-warshs-testimony-big-bank-earnings-on-tap
+Time Published: 2026-07-14T10:26:40Z
+Description: September S&P 500 E-Mini futures (ESU26) are down -0.06% this morning as investors digest earnings reports from big U.S. banks, with the focus now turning to...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures slip as US and Iran exchange fire, oil jumps
 URL: https://finance.yahoo.com/markets/live/stock-market-today-monday-july-13-dow-sp-nasdaq-113249278.html
 Time Published: 2026-07-13T11:32:49Z
