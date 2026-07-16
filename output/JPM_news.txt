@@ -1,5 +1,11 @@
 List of news related to JPMorgan stock price JPM:
 
+Title: A Bullish Price Surprise Says FactSet Research Stock Is Turning the Corner. How to Play FDS Here.
+URL: https://www.barchart.com/story/news/3280439/a-bullish-price-surprise-says-factset-research-stock-is-turning-the-corner-how-to-play-fds-here
+Time Published: 2026-07-14T18:29:24Z
+Description: FactSet shares jumped 6% yesterday. The stock remains down 43% over the past 12 months. With new CEO Sanoke Viswanathan, a Google Cloud AI partnership, stron...
+--------------------------------------------------
+
 Title: S&P Futures Muted as Investors Weigh Big Bank Earnings, U.S. Inflation Data and Warsh’s Testimony in Focus
 URL: https://www.barchart.com/story/news/3268984/s-p-futures-muted-with-focus-on-u-s-inflation-data-and-warshs-testimony-big-bank-earnings-on-tap
 Time Published: 2026-07-14T10:26:40Z
@@ -23,10 +29,4 @@ URL: https://www.investopedia.com/what-to-expect-in-markets-this-week-june-infla
 Time Published: 2026-07-12T14:12:33Z
 Full Content:
 Inflation will loom large this week, with the government releasing new Consumer Price Index data and big bank earnings shedding light on how Americans are keeping up. The June CPI reading, due Tuesday, comes as factors shaping the cost-of-living are in flux and Federal Reserve officials eye the possibility of higher interest rates. The CPI jumped 4.2% year-over-year in May, driven by a spike in fuel prices. Fed Chair Kevin Warsh has suggested that inflation risks may be abating, though he spoke before President Donald Trump declared the ceasefire over. Investors will get the chance to hear from Warsh when he testifies before Congress Tuesday. Meanwhile, a handful of big national banks are reporting their second-quarter results this week. Bank executives are likely to discuss the outlook for IPOs, mergers and acquisitions, trading activity, and the state of the U.S. economy at large. Most of the major banks handed in better-than-expected numbers last quarter, but their leaders laid out a number of concerns. JPMorgan Chase CEO Jamie Dimon worried about stagflation, to name one, while Goldman Sachs Chief David Solomon said uncertainty may limit IPOs. Hurdles aside, financial sector stocks have recently been one of the stock market’s top-performing sectors. The industry is seeing commercial and industrial loan growth, and brisk capital markets activity thanks to enthusiasm over AI. Some analysts expect the momentum to continue. Two out of three of the major U.S. indexes finished with weekly gains, with only the Dow retreating, as investors continued to assess and reassess the health of the AI trade. The S&P 500 and Nasdaq added 1.2% and 1.7%, respectively, last week, while the Dow fell 0.5%. Friday brought with it two big stock-market stories: the debut of South Korean chip giant SK Hynix, and the setting of a new closing low for shares of SpaceX. For more, read Friday’s market recap here. Here’s a rundown of major events happening this week. TradingView publishes a more detailed calendar, but clicking the link will take you off the Investopedia site. Within a decade, restrictions on international students may lower the GDP by $480 billion, Diccon Hyatt reports. Wages for recent grads haven’t kept pace with inflation and are now below 2020 rates, Elizabeth Guevara reports. Here’s what to know about Trump Accounts, a new way parents can invest on their children’s behalf, Trina Paul writes.
---------------------------------------------------
-
-Title: How To Earn $500 A Month From JPMorgan Stock Ahead Of Q2 Earnings
-URL: https://finance.yahoo.com/markets/stocks/articles/earn-500-month-jpmorgan-stock-033119186.html
-Time Published: 2026-07-10T03:31:19Z
-Description: JPMorgan Chase & Co. will release earnings for its second quarter before the opening bell on Tuesday, July 14. Analysts expect the company to report quarterl...
 --------------------------------------------------
