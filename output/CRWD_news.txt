@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: IBM's historic crash exposes a deeper tech divide: Chart of the Day
+URL: https://finance.yahoo.com/markets/article/ibms-historic-crash-exposes-a-deeper-tech-divide-chart-of-the-day-100000015.html
+Time Published: 2026-07-15T10:00:00Z
+Description: IBM's dismal preliminary results put a company-specific face on a larger change: Software and chip stocks are no longer moving in anything close to lockstep.
+--------------------------------------------------
+
 Title: UBS Raises its Price Target on CrowdStrike Holdings, Inc. (CRWD)
 URL: https://finance.yahoo.com/markets/stocks/articles/ubs-raises-price-target-crowdstrike-185457577.html
 Time Published: 2026-07-14T18:54:57Z
