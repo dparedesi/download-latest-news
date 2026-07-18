@@ -5,9 +5,3 @@ URL: https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops
 Time Published: 2026-07-15T19:15:56Z
 Description: I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as "the future of policing in the digital age." As press, I was prohibited from entering, but from a number of nearby l…
 --------------------------------------------------
-
-Title: Is it easier to become a stock picker in a stock picker's market?
-URL: https://finance.yahoo.com/economy/article/is-it-easier-to-become-a-stock-picker-in-a-stock-pickers-market-140752298.html
-Time Published: 2026-07-12T14:07:52Z
-Description: Thinking about the challenge of trading individual stocks to generate above-average returns.
---------------------------------------------------

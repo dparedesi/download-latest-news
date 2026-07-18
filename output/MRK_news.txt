@@ -1,5 +1,17 @@
 List of news related to Merck & Co stock price MRK:
 
+Title: Stocks Settle Lower as Chipmakers and AI Stocks Slump
+URL: https://www.barchart.com/story/news/3325828/stocks-settle-lower-as-chipmakers-and-ai-stocks-slump
+Time Published: 2026-07-16T20:39:45Z
+Description: The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -0.51%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.20%, and the Nasdaq 100 Inde...
+--------------------------------------------------
+
+Title: Stocks Pressured by a Renewed Selloff in Chipmakers
+URL: https://www.barchart.com/story/news/3318928/stocks-pressured-by-a-renewed-selloff-in-chipmakers
+Time Published: 2026-07-16T14:07:30Z
+Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.46%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.04%, and the Nasdaq 100 Index ($IUXX ) (QQ...
+--------------------------------------------------
+
 Title: Earnings Preview: What To Expect From Merck & Co.'s Report
 URL: https://www.barchart.com/story/news/3271902/earnings-preview-what-to-expect-from-merck-co-s-report
 Time Published: 2026-07-14T12:10:42Z
