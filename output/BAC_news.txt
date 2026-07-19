@@ -24,15 +24,3 @@ URL: https://www.barchart.com/story/news/3268984/s-p-futures-muted-with-focus-on
 Time Published: 2026-07-14T10:26:40Z
 Description: September S&P 500 E-Mini futures (ESU26) are down -0.06% this morning as investors digest earnings reports from big U.S. banks, with the focus now turning to...
 --------------------------------------------------
-
-Title: Stock market today: Dow, S&P 500, Nasdaq futures slip as US and Iran exchange fire, oil jumps
-URL: https://finance.yahoo.com/markets/live/stock-market-today-monday-july-13-dow-sp-nasdaq-113249278.html
-Time Published: 2026-07-13T11:32:49Z
-Description: Markets were subdued ahead of a busy week for markets, with inflation reports, bank earnings, and geopolitical risk hanging in the balance.
---------------------------------------------------
-
-Title: Option Volatility And Earnings Report For July 13 - 17
-URL: https://www.barchart.com/story/news/3250135/option-volatility-and-earnings-report-for-july-13-17
-Time Published: 2026-07-13T11:00:02Z
-Description: Earnings season kicks into gear this week with banks and tech stocks taking center stage. This week we have Bank of America, Taiwan Semiconductor, JP Morgan,...
---------------------------------------------------
