@@ -17,9 +17,3 @@ URL: https://www.barchart.com/story/news/3318928/stocks-pressured-by-a-renewed-s
 Time Published: 2026-07-16T14:07:30Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is down -0.46%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.04%, and the Nasdaq 100 Index ($IUXX ) (QQ...
 --------------------------------------------------
-
-Title: Earnings Preview: What To Expect From Merck & Co.'s Report
-URL: https://www.barchart.com/story/news/3271902/earnings-preview-what-to-expect-from-merck-co-s-report
-Time Published: 2026-07-14T12:10:42Z
-Description: Merck & Co. is expected to announce its second-quarter earnings in August, and Wall Street forecasts a double-digit decline in its profits.
---------------------------------------------------
