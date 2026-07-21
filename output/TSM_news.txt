@@ -104,15 +104,3 @@ URL: https://www.thestreet.com/investing/stocks/tsmc-taiwan-semiconductor-manufa
 Time Published: 2026-07-16T01:37:00Z
 Description: Few companies have a clearer view of where the AI boom is heading than TSMC. And of course, with that, investors increasingly look to the company for answers...
 --------------------------------------------------
-
-Title: Applied Materials CEO Just Reinforced the AI Investment Thesis. How to Play AMAT Stock Here.
-URL: https://www.barchart.com/story/news/3301509/applied-materials-ceo-just-reinforced-the-ai-investment-thesis-how-to-play-amat-stock-here
-Time Published: 2026-07-15T17:35:57Z
-Description: Applied Materials shares jumped after management signaled AI-driven semiconductor spending could remain elevated for years, reinforcing the company's multiye...
---------------------------------------------------
-
-Title: The Hidden Layer of the AI Boom: Robotics, Packaging Equipment Companies Are Thriving
-URL: https://financialpost.com/globe-newswire/the-hidden-layer-of-the-ai-boom-robotics-packaging-equipment-companies-are-thriving
-Time Published: 2026-07-15T12:35:01Z
-Description: AUSTIN, Texas, July 15, 2026 (GLOBE NEWSWIRE) — AINewsWire Editorial Coverage: When people talk about the AI buildout, they tend to reach for the same shorthand: chips. But the more instructive story is unfolding one level down, in the precision automation, r…
---------------------------------------------------
