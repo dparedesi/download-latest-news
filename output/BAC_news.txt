@@ -12,9 +12,3 @@ URL: https://finance.yahoo.com/markets/article/big-banks-record-wall-street-prof
 Time Published: 2026-07-18T11:55:40Z
 Description: Wall Street's biggest banks just posted a record first half, turbocharged by stock trading, dealmaking, and financing tied to the AI boom.
 --------------------------------------------------
-
-Title: Jim Cramer says AI bubble fears miss the market’s real risk
-URL: https://www.thestreet.com/fed/jim-cramer-says-ai-bubble-fears-miss-the-markets-real-risk
-Time Published: 2026-07-16T14:07:00Z
-Description: Investors worried about another dot-com crash may be asking the wrong question. Jim Cramer argues that pockets of speculation do not make the entire stock ma...
---------------------------------------------------
