@@ -1,5 +1,12 @@
 List of news related to AST SpaceMobile ASTS:
 
+Title: Better, faster satellite-to-mobile is nearly here: Will it kill off our telcos?
+URL: https://www.nzherald.co.nz/business/better-faster-satellite-to-mobile-is-nearly-here-will-it-kill-off-our-telcos/premium/FSR7S5CRVJEJDM6X3W2GFMFCAY/
+Time Published: 2026-07-22T19:00:00Z
+Full Content:
+Peter Nathan joins Comvita’s board after 14 years helping build a2 Milk’s success.
+--------------------------------------------------
+
 Title: The UFO ETF Is Crashing Back to Earth as SpaceX Stock Treads Water Below $135
 URL: https://www.barchart.com/story/news/3391320/the-ufo-etf-is-crashing-back-to-earth-as-spacex-stock-treads-water-below-135
 Time Published: 2026-07-21T20:36:11Z
@@ -9,8 +16,7 @@ Description: There’s no denying that the space industry has plenty of long-ter
 Title: INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of AST SpaceMobile, Inc. - ASTS
 URL: https://www.globenewswire.com/news-release/2026/07/21/3330852/1087/en/INVESTOR-ALERT-Pomerantz-Law-Firm-Investigates-Claims-On-Behalf-of-Investors-of-AST-SpaceMobile-Inc-ASTS.html
 Time Published: 2026-07-21T17:22:00Z
-Full Content:
-July 21, 2026 13:22 ET | Source: Pomerantz LLP Pomerantz LLP NEW YORK, July 21, 2026 (GLOBE NEWSWIRE) -- Pomerantz LLP is investigating claims on behalf of investors of AST SpaceMobile, Inc. (“AST” or the “Company”) (NASDAQ: ASTS). Such investors are advised to contact Danielle Peyton at newaction@pomlaw.com or 646-581-9980, ext. 7980. The investigation concerns whether AST and certain of its officers and/or directors have engaged in securities fraud or other unlawful business practices. [Click here for information about joining the class action] On January 7, 2026, Scotiabank downgraded AST to Sell, citing, among other things, significant competition from SpaceX’s Starlink, slow customer adoption, and delays in launching AST’s satellites. Following the downgrade, AST’s stock price fell $11.76 per share, or 12.06%, to close at $85.73 per share on January 7, 2026. Then, on July 15, 2026, AST issued a press release “announc[ing] the pricing of $1.0 billion aggregate principal amount of 1.625% convertible senior notes due 2034”. On this news, AST’s stock price fell $11.30 per share, or 17.04%, to close at $55.01 per share on July 16, 2026. Pomerantz LLP, with offices in New York, Chicago, Los Angeles, London, Paris, and Tel Aviv, is acknowledged as one of the premier firms in the areas of corporate, securities, and antitrust class litigation. Founded by the late Abraham L. Pomerantz, known as the dean of the class action bar, Pomerantz pioneered the field of securities class actions. Today, more than 85 years later, Pomerantz continues in the tradition he established, fighting for the rights of the victims of securities fraud, breaches of fiduciary duty, and corporate misconduct. The Firm has recovered numerous multimillion-dollar damages awards on behalf of class members. See www.pomlaw.com. Attorney advertising. Prior results do not guarantee similar outcomes. CONTACT:Danielle PeytonPomerantz LLPdpeyton@pomlaw.com646-581-9980 ext. 7980 NEW YORK, July 21, 2026 (GLOBE NEWSWIRE) -- Pomerantz LLP announces that a class action lawsuit has been filed against Embecta Corp. (“Embecta” or the “Company”) (NASDAQ: EMBC). Such investors are... NEW YORK, July 21, 2026 (GLOBE NEWSWIRE) -- Pomerantz LLP announces that a class action lawsuit has been filed against Microsoft Corporation (“Microsoft” or the “Company”) (NASDAQ: MSFT). Such...
+Description: NEW YORK, July 21, 2026 (GLOBE NEWSWIRE) -- Pomerantz LLP is investigating claims on behalf of investors of AST SpaceMobile, Inc. (“AST” or the “Company”) (NASDAQ: ASTS).   Such investors are advised to contact Danielle Peyton at newaction@pomlaw.com or 646-5…
 --------------------------------------------------
 
 Title: The Space Economy Is Heading for $1.8 Trillion. The Bottleneck Nobody Talks About Is Getting There
