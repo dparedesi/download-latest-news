@@ -1,5 +1,11 @@
 List of news related to Rocket Lab RKLB:
 
+Title: The UFO ETF Is Crashing Back to Earth as SpaceX Stock Treads Water Below $135
+URL: https://www.barchart.com/story/news/3391320/the-ufo-etf-is-crashing-back-to-earth-as-spacex-stock-treads-water-below-135
+Time Published: 2026-07-21T20:36:11Z
+Description: There’s no denying that the space industry has plenty of long-term potential. But as I’ve seen for a decade, pulling future returns forward is a recipe for d...
+--------------------------------------------------
+
 Title: The Space Economy Is Heading for $1.8 Trillion. The Bottleneck Nobody Talks About Is Getting There
 URL: https://www.prnewswire.com/news-releases/the-space-economy-is-heading-for-1-8-trillion-the-bottleneck-nobody-talks-about-is-getting-there-302830042.html
 Time Published: 2026-07-20T22:22:00Z
@@ -11,16 +17,4 @@ Title: CEO: SpaceX's record IPO was the space economy's opening act. Here's what
 URL: https://finance.yahoo.com/technology/article/ceo-spacexs-record-ipo-was-the-space-economys-opening-act-heres-what-comes-next-140618299.html
 Time Published: 2026-07-18T14:06:18Z
 Description: The space economy is already having its strongest year on record, and there are still two quarters to go.
---------------------------------------------------
-
-Title: 19 (mostly) tech stocks that have fallen at least 25% in July
-URL: https://www.marketwatch.com/story/18-tech-stocks-that-have-fallen-at-least-30-during-july-4c373d5e
-Time Published: 2026-07-17T21:45:00Z
-Description: Seven of the worst performers for the month were still up by triple digits for 2026.
---------------------------------------------------
-
-Title: Why Piper Sandler Likes AST SpaceMobile (ASTS) Stock Over Other Space Stocks
-URL: https://www.barchart.com/story/news/3339359/why-piper-sandler-likes-ast-spacemobile-asts-stock-over-other-space-stocks
-Time Published: 2026-07-17T17:07:32Z
-Description: Piper Sandler issued a bullish note in favor of AST SpaceMobile stock. Here’s why analyst Alexander Potter recommends buying ASTS shares.
 --------------------------------------------------
