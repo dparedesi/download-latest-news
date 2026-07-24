@@ -1,10 +1,28 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: TSMC Stock: A $64 Billion Bet Even as AI Bubble Fears Grow
+URL: https://www.barchart.com/story/news/3410056/tsmc-stock-a-64-billion-bet-even-as-ai-bubble-fears-grow
+Time Published: 2026-07-22T18:05:25Z
+Description: If TSMC believed there was an AI bubble, it wouldn't be spending $64 billion.
+--------------------------------------------------
+
+Title: Taiwan Semi Is Raising Wafer Manufacturing Prices. Why That’s Good News for TSM Stock.
+URL: https://www.barchart.com/story/news/3408634/taiwan-semi-is-raising-wafer-manufacturing-prices-why-thats-good-news-for-tsm-stock
+Time Published: 2026-07-22T16:49:20Z
+Description: As demand for AI chips continues to surge, TSMC is leveraging its pricing power to drive stronger margins and support long-term growth.
+--------------------------------------------------
+
 Title: Prediction: TSMC Stock Will Outperform the S&P 500 Over the Next Five Years
 URL: https://247wallst.com/investing/2026/07/22/prediction-tsmc-stock-will-outperform-the-sp-500-over-the-next-five-years/
 Time Published: 2026-07-22T15:30:25Z
 Full Content:
 Investing TSMC (TSM) grew net income 77% and shares are up 40% year to date, though an 8% pullback has reset near-term sentiment. At a forward P/E of 25 and a PEG near 1, TSMC's valuation looks historically cheap for a company targeting a 25% revenue CAGR through 2029. Hitting $1,000 by 2031 demands 18.6% annualized gains, a target that looks credible if 2nm and A13 nodes ramp on schedule and AI hyperscaler capex holds. Act now: the analyst who called NVIDIA in 2010 just named his top 10 AI stocks — and Taiwan Semiconductor Manufacturing didn't make the cut. Grab the names FREE today. Sending You to Google News in 3 © Peellden / Wikimedia Commons Taiwan Semiconductor Manufacturing (NYSE:TSM | TSM Price Prediction) delivered Q2 2026 revenue of $40.20 billion, up 36% year over year, with gross margin of 67.7% and net income growth of 77.4%. Shares are up 40.43% year to date against just 9.73% for the S&P 500. Can TSMC hit $1,000 per share by 2031 and outperform the index over the next five years? The stock is down 8.12% over the past month, even as fundamentals strengthened. Management warned that Q3 2026 gross margin will step down to a 65% to 67% range as the 2nm node ramps steeply, and the market is treating that dip as a peak-margin signal. Add a beta of 1.246, sector rotation out of chips, and net insider selling across 112 recent transactions, and you get a stock digesting a big move. This is a sentiment story. The Street’s consensus target sits at $522.82, backed by 5 Strong Buy, 12 Buy, and 2 Hold ratings, with zero Sells. Our base case lands at $527.98, implying 24.35% upside with a 90% confidence score. Bull case: $608.43. Bear case: $429.43. Consensus is too conservative on the multi-year path. With 89% of analysts bullish, an ROE of 40%, and a 247Factor of 1.148 powered by technology sector momentum and 77.4% earnings growth, this looks like AI infrastructure with a moat. Reaching $1,000 from today’s price of $424.61 requires a gain of 135.5%. Over five years, that annualizes to roughly 18.6%, which sits right on our 5-year bull case of $984.38 at 18.31% annualized. With forward EPS of $17.32, a price of $1,000 implies a forward P/E of 58x. Our base case of $527.98 already implies a 31x multiple, meaning the bold target requires 27x of additional multiple expansion on today’s earnings base. The story only works if EPS keeps compounding. Management’s 2024 to 2029 revenue CAGR target approaching 25% in USD, plus 2nm ramping into H2 2026 and the A13 technology debut, drives the compression story. As earnings scale, the forward multiple at $1,000 collapses back toward the current 25x forward P/E. Bullish retail chatter around TSMC’s $100 billion US manufacturing commitment and South Korea’s 52% export surge on tripling semiconductor shipments supports demand. The main risk is geopolitical rupture across the Taiwan Strait. At $424.61, TSMC trades at a forward P/E of 25 and a PEG of 1.009, remarkable for a company growing earnings 77% year over year. Shares sit 9% below their 52-week high of $479 and well above the 52-week low of $221.66. Over the last decade the stock returned 1,811.43% against 244.45% for the S&P 500. That is a foundry monopoly on advanced nodes translating into shareholder returns. Reaching $1,000 by 2031 requires a 135.5% gain from here. A stretch, but credible. Three things need to go right: 2nm and A13 must ramp on schedule and hold pricing power, AI capex among hyperscalers must stay on the multi-year track, and TSMC must convert that $52 billion to $56 billion 2026 capex budget into share gains rather than commoditized capacity. A Taiwan Strait shock derails it. We’ve outlined the blueprint for how Taiwan Semiconductor Manufacturing could reach $1,000 in 2031. Contact [email protected] for any questions or corrections. Vandita Jadeja is a financial copywriter who loves to read and write about stocks. She believes in buying and holding for long term gains. Her knowledge of words and numbers helps her write clear stock analysis. She has contributed to several publications, including the Joy Wallet, Benzinga, The Motley Fool and InvestorPlace. Our top personal finance-related articles today. Your wallet will thank you later. Taiwan Semiconductor Manufacturing (NYSE:TSM | TSM Price Prediction) screens favorably at $427.92, with shares sitting roughly 4% below the 52-week… Taiwan Semiconductor Manufacturing (NYSE:TSM | TSM Price Prediction) just put the rest of the chip sector on notice. Monthly revenue… TSMC just posted its biggest profit surge in years while the stock quietly slipped from its highs, and that gap… Let me cut to the chase. Taiwan Semiconductor Manufacturing (NYSE:TSM | TSM Price Prediction) trades at $404.54, and our 24/7… A decade ago, Taiwan Semiconductor Manufacturing (NYSE: TSM | TSM Price Prediction) was respected but boring. It made chips for… NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) has drawn attention from near-term investors below $200, while Taiwan Semiconductor Manufacturing (NYSE:TSM) has… Taiwan Semiconductor Manufacturing (NYSE:TSM | TSM Price Prediction) trades at $412.32, with the stock pressing against a 52-week high of… Taiwan Semiconductor Manufacturing (NYSE:TSM | TSM Price Prediction) has been one of the defining AI infrastructure trades of the past… Broadcom (NASDAQ:AVGO | AVGO Price Prediction) and Taiwan Semiconductor Manufacturing (NYSE:TSM) just reported quarters that put both stocks within striking…
+--------------------------------------------------
+
+Title: Taiwan Semiconductor Just Doubled Down on the AI Megatrend. Why TSMC Still Has Room to Run.
+URL: https://www.barchart.com/story/news/3403389/taiwan-semiconductor-just-doubled-down-on-the-ai-megatrend-why-tsmc-still-has-room-to-run
+Time Published: 2026-07-22T13:00:02Z
+Description: TSMC beat earnings estimates, raised its full-year outlook, and reinforced confidence in the long-term AI boom.
 --------------------------------------------------
 
 Title: Intel to report Q2 earnings as chip stocks bounce off recent losses
@@ -78,10 +96,4 @@ Title: What IBM, Micron, and Sandisk all have in common
 URL: https://finance.yahoo.com/markets/article/what-ibm-micron-and-sandisk-all-have-in-common-123000163.html
 Time Published: 2026-07-19T12:30:00Z
 Description: A week of tech stock crashes!
---------------------------------------------------
-
-Title: Massive TSMC deal is huge stride for US in high-tech race
-URL: https://www.thestreet.com/investing/stocks/tsmc-tsm-arizona-265-billion-stock-drop-capex
-Time Published: 2026-07-18T23:03:00Z
-Description: Washington spent four years trying to convince the world's most important chipmaker to build in America. On Thursday, July 16, it got a positive answer. Taiw...
 --------------------------------------------------
