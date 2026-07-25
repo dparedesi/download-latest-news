@@ -1,5 +1,11 @@
 List of news related to Advanced Micro Devices stock price AMD:
 
+Title: Cathie Wood buys $8.7 million of beaten-down AI stock
+URL: https://www.thestreet.com/investing/stocks/cathie-wood-buys-8-7-million-of-beaten-down-ai-stock-tempus-ai
+Time Published: 2026-07-24T02:33:00Z
+Description: Cathie Wood, CEO of Ark Investment Management, is known for buying her favorite growth stocks during sharp pullbacks. That's exactly what she's doing with Te...
+--------------------------------------------------
+
 Title: Wedbush Sees AMD’s Microsoft Deal as the Start of a Sharp AI Ramp, But It’s Not a Reason to Dive In Here
 URL: https://www.barchart.com/story/news/3433685/wedbush-sees-amds-microsoft-deal-as-the-start-of-a-sharp-ai-ramp-but-its-not-a-reason-to-dive-in-here
 Time Published: 2026-07-23T18:53:34Z
