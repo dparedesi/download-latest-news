@@ -42,9 +42,3 @@ URL: https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html
 Time Published: 2026-07-21T11:56:14Z
 Description: Investors and economists are deliberating what the latest exchange in hostilities will mean for the broader economy.
 --------------------------------------------------
-
-Title: Why Costco Is Thriving As The Antithesis Of Amazon
-URL: https://thewalrus.ca/costco-is-the-anti-amazon-and-its-thriving/
-Time Published: 2026-07-20T17:02:00Z
-Description: While most retailers today assume that consumers want ever greater assortment, Costco’s popularity speaks to a countervailing desire for less choice. Indeed, the pre-selection of items for sale in their warehouses is part of the value proposition. – The Walrus
---------------------------------------------------

@@ -42,9 +42,3 @@ URL: https://www.barchart.com/story/news/3378260/stock-index-futures-climb-as-ch
 Time Published: 2026-07-21T10:36:03Z
 Description: September S&P 500 E-Mini futures (ESU26) are up +0.57%, and September Nasdaq 100 E-Mini futures (NQU26) are up +1.39% this morning, pointing to a higher open...
 --------------------------------------------------
-
-Title: Stocks Edge Higher as Chipmakers Rebound
-URL: https://www.barchart.com/story/news/3365255/stocks-edge-higher-as-chipmakers-rebound
-Time Published: 2026-07-20T14:12:32Z
-Description: The S&P 500 Index ($SPX ) (SPY ) today is up +0.46%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.14%, and the Nasdaq 100 Index ($IUXX ) (QQQ...
---------------------------------------------------
