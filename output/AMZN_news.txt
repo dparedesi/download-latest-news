@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Amazon Stock Just Hit a Major Hurdle Ahead of Earnings
+URL: https://www.barchart.com/story/news/3470152/amazon-stock-just-hit-a-major-hurdle-ahead-of-earnings
+Time Published: 2026-07-26T17:30:02Z
+Description: A Senate investigation has created fresh uncertainty for Amazon just days before earnings, but Wall Street remains focused on AWS growth and AI investments.
+--------------------------------------------------
+
 Title: No Matter Who Wins the Smartphone and AI Chip Races, ARM Stock Still Benefits
 URL: https://www.barchart.com/story/news/3465389/no-matter-who-wins-the-smartphone-and-ai-chip-races-arm-stock-still-benefits
 Time Published: 2026-07-25T19:30:02Z
