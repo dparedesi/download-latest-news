@@ -55,38 +55,20 @@ Time Published: 2026-07-22T13:00:02Z
 Description: TSMC beat earnings estimates, raised its full-year outlook, and reinforced confidence in the long-term AI boom.
 --------------------------------------------------
 
-Title: Intel to report Q2 earnings as chip stocks bounce off recent losses
-URL: https://finance.yahoo.com/markets/stocks/article/intel-to-report-q2-earnings-as-chip-stocks-bounce-off-recent-losses-121538508.html
-Time Published: 2026-07-22T12:15:38Z
-Description: Intel will report its Q2 earnings after the bell on Thursday.
---------------------------------------------------
-
 Title: Intel stock falls nearly 8% despite big Q2 earnings beat
 URL: https://finance.yahoo.com/markets/stocks/article/intel-stock-falls-nearly-8-despite-big-q2-earnings-beat-121538508.html
 Time Published: 2026-07-22T12:15:38Z
 Description: Intel stock fell almost 8% on Friday after posting blowout Q2 earnings after the bell on Thursday.
 --------------------------------------------------
 
+Title: Intel to report Q2 earnings as chip stocks bounce off recent losses
+URL: https://finance.yahoo.com/markets/stocks/article/intel-to-report-q2-earnings-as-chip-stocks-bounce-off-recent-losses-121538508.html
+Time Published: 2026-07-22T12:15:38Z
+Description: Intel will report its Q2 earnings after the bell on Thursday.
+--------------------------------------------------
+
 Title: Taiwan Semiconductor (TSM) Stock Is Down Nearly 15% This Month Despite Record AI Demand. Here Is Why
 URL: https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsm-stock-down-061104350.html
 Time Published: 2026-07-22T06:11:04Z
 Description: Taiwan Semiconductor Manufacturing Company (NYSE:TSM) reported results on July 16, 2026, triggering a selloff that extended the stock’s decline for the month...
---------------------------------------------------
-
-Title: Intel Stock Just Got a Stunning Price Target Hike Ahead of Earnings. How to Play INTC From Here.
-URL: https://www.barchart.com/story/news/3390981/intel-stock-just-got-a-stunning-price-target-hike-ahead-of-earnings-how-to-play-intc-from-here
-Time Published: 2026-07-21T20:26:09Z
-Description: Susquehanna raised its target on INTC stock ahead of July 23 earnings, citing stronger server demand even as Wall Street remains divided on Intel.
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing Company Limited (TSM) Doubled Since Giverny Capital Asset Management’s Entry
-URL: https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-limited-143723648.html
-Time Published: 2026-07-21T14:37:23Z
-Description: Giverny Capital Asset Management, LLC, an investment management company, recently published its second-quarter 2026 investor letter. A copy of the letter can...
---------------------------------------------------
-
-Title: TSMC’s AI Boom Is Just Getting Started: Why Investors Should Buy the Pullback in TSM Stock Now
-URL: https://www.barchart.com/story/news/3382278/tsmcs-ai-boom-is-just-getting-started-why-investors-should-buy-the-pullback-in-tsm-stock-now
-Time Published: 2026-07-21T13:00:02Z
-Description: TSMC earnings, AI demand, and analyst targets point higher. What does this mean for investors?
 --------------------------------------------------
