@@ -1,5 +1,11 @@
 List of news related to AST SpaceMobile ASTS:
 
+Title: Top Wall Street analysts back these 3 stocks for their long-term growth potential
+URL: https://www.cnbc.com/2026/07/26/top-analysts-back-these-3-stocks-for-their-long-term-growth-potential.html
+Time Published: 2026-07-26T11:33:11Z
+Description: Investors with a long-term horizon should look beyond the ongoing noise and focus on stocks that are well-positioned to generate strong returns.
+--------------------------------------------------
+
 Title: SpaceX stops accepting Falcon 9 bookings beyond 2028, betting everything on Starship
 URL: https://cryptobriefing.com/spacex-falcon-9-bookings-end-2028-starship/
 Time Published: 2026-07-24T14:44:45Z
@@ -17,5 +23,5 @@ Title: Better, faster satellite-to-mobile is nearly here: Will it kill off our t
 URL: https://www.nzherald.co.nz/business/better-faster-satellite-to-mobile-is-nearly-here-will-it-kill-off-our-telcos/premium/FSR7S5CRVJEJDM6X3W2GFMFCAY/
 Time Published: 2026-07-22T19:00:00Z
 Full Content:
-The S&P/NZX50 Index closed at 13,850.69, up 78.40 points or 0.57%.
+A vaccine for endangered birds like takahē and kākāpō is already being used.
 --------------------------------------------------

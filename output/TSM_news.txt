@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Freeport-McMoRan Inc. (FCX) and Digital Realty Trust, Inc. (DLR) Highlight the Companies Cashing In on AI Infrastructure
+URL: https://finance.yahoo.com/technology/ai/articles/freeport-mcmoran-inc-fcx-digital-104751465.html
+Time Published: 2026-07-26T10:47:51Z
+Description: Big tech companies are spending close to $700 billion this year building AI data centers. Most of the attention goes to chipmakers like Nvidia. However, two...
+--------------------------------------------------
+
 Title: Semiconductor Crossroads: Healthy Consolidation or Deeper Repricing?
 URL: https://finance.yahoo.com/markets/stocks/articles/semiconductor-crossroads-healthy-consolidation-deeper-191601632.html
 Time Published: 2026-07-24T19:16:01Z
@@ -55,16 +61,16 @@ Time Published: 2026-07-22T13:00:02Z
 Description: TSMC beat earnings estimates, raised its full-year outlook, and reinforced confidence in the long-term AI boom.
 --------------------------------------------------
 
-Title: Intel stock falls nearly 8% despite big Q2 earnings beat
-URL: https://finance.yahoo.com/markets/stocks/article/intel-stock-falls-nearly-8-despite-big-q2-earnings-beat-121538508.html
-Time Published: 2026-07-22T12:15:38Z
-Description: Intel stock fell almost 8% on Friday after posting blowout Q2 earnings after the bell on Thursday.
---------------------------------------------------
-
 Title: Intel to report Q2 earnings as chip stocks bounce off recent losses
 URL: https://finance.yahoo.com/markets/stocks/article/intel-to-report-q2-earnings-as-chip-stocks-bounce-off-recent-losses-121538508.html
 Time Published: 2026-07-22T12:15:38Z
 Description: Intel will report its Q2 earnings after the bell on Thursday.
+--------------------------------------------------
+
+Title: Intel stock falls nearly 8% despite big Q2 earnings beat
+URL: https://finance.yahoo.com/markets/stocks/article/intel-stock-falls-nearly-8-despite-big-q2-earnings-beat-121538508.html
+Time Published: 2026-07-22T12:15:38Z
+Description: Intel stock fell almost 8% on Friday after posting blowout Q2 earnings after the bell on Thursday.
 --------------------------------------------------
 
 Title: Taiwan Semiconductor (TSM) Stock Is Down Nearly 15% This Month Despite Record AI Demand. Here Is Why
