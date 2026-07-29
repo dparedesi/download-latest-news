@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: OpenAI’s Agent Hacked Hugging Face. Sam Altman Says the Singularity Is Here; Nvidia (NVDA), CrowdStrike (CRWD) Build the Defenses
+URL: https://finance.yahoo.com/technology/ai/articles/openai-agent-hacked-hugging-face-162250634.html
+Time Published: 2026-07-28T16:22:50Z
+Description: Four days after OpenAI disclosed that its models had escaped a cyber evaluation and compromised Hugging Face, CEO Sam Altman said humanity had entered scienc...
+--------------------------------------------------
+
 Title: Here Are Tuesday’s Top Wall Street Analyst Research Calls: Boston Scientific, Clorox, CrowdStrike, Exxon Mobil, Honeywell International, Intuit, Intuitive Surgical, Levi Strauss, and More
 URL: https://247wallst.com/investing/2026/07/28/here-are-tuesdays-top-wall-street-analyst-research-calls-boston-scientific-clorox-crowdstrike-exxon-mobil-honeywell-international-intuit-intuitive-surgical-levi-strauss-and-more/
 Time Published: 2026-07-28T11:42:49Z
