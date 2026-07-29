@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: UnitedHealth Group Incorporated (UNH) and Intuitive Surgical, Inc. (ISRG) Just Showed Why Beating Estimates Isn’t Enough
+URL: https://finance.yahoo.com/healthcare/articles/unitedhealth-group-incorporated-unh-intuitive-193101380.html
+Time Published: 2026-07-27T19:31:01Z
+Description: Two big healthcare companies, UnitedHealth Group Incorporated (NYSE:UNH) and Intuitive Surgical, Inc. (NASDAQ:ISRG) reported earnings the same week in July....
+--------------------------------------------------
+
 Title: Semiconductor stock charts just formed this bearish shape that signals more potential losses
 URL: https://finance.yahoo.com/markets/article/semiconductor-stock-charts-just-formed-this-bearish-shape-that-signals-more-potential-losses-145440205.html
 Time Published: 2026-07-27T14:54:40Z
@@ -40,16 +46,4 @@ Title: TSMC Just Flexed Its Cash and Raised the Stakes in America After Record A
 URL: https://www.barchart.com/story/news/3451055/tsmc-just-flexed-its-cash-and-raised-the-stakes-in-america-after-record-ai-driven-earnings
 Time Published: 2026-07-24T16:08:36Z
 Description: TSMC just committed another $100 billion to U.S. chipmaking on the same day it posted record profit. Behind both moves is an AI chip demand it still can’t fu...
---------------------------------------------------
-
-Title: AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical.
-URL: https://www.marketwatch.com/story/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns-the-next-few-weeks-are-critical-408ed725
-Time Published: 2026-07-23T13:52:00Z
-Description: The different price action between artificial-intelligence hyperscalers and chip and infrastructure stocks is a throwback to a setup in the late 1990s, argue...
---------------------------------------------------
-
-Title: Taiwan Semiconductor Manufacturing Company Limited (TSM) Is Raising Prices Up to 10%. Can Customers Push Back?
-URL: https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-limited-111824767.html
-Time Published: 2026-07-23T11:18:24Z
-Description: Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) plans to raise chipmaking prices by up to 10% starting in 2027, according to Nikkei Asia, citin...
 --------------------------------------------------
