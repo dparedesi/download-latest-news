@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Why This Analyst Is Betting AMD Stock Can Hit $1,250 in the Next Year
+URL: https://www.barchart.com/story/news/3487076/why-this-analyst-is-betting-amd-stock-can-hit-1-250-in-the-next-year
+Time Published: 2026-07-27T20:38:45Z
+Description: Baird doubled AMD’s price target to $1,250 based on its AI prospects.
+--------------------------------------------------
+
 Title: UnitedHealth Group Incorporated (UNH) and Intuitive Surgical, Inc. (ISRG) Just Showed Why Beating Estimates Isn’t Enough
 URL: https://finance.yahoo.com/healthcare/articles/unitedhealth-group-incorporated-unh-intuitive-193101380.html
 Time Published: 2026-07-27T19:31:01Z
