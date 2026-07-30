@@ -35,21 +35,3 @@ URL: https://finance.yahoo.com/technology/ai/articles/freeport-mcmoran-inc-fcx-d
 Time Published: 2026-07-26T10:47:51Z
 Description: Big tech companies are spending close to $700 billion this year building AI data centers. Most of the attention goes to chipmakers like Nvidia. However, two...
 --------------------------------------------------
-
-Title: Semiconductor Crossroads: Healthy Consolidation or Deeper Repricing?
-URL: https://finance.yahoo.com/markets/stocks/articles/semiconductor-crossroads-healthy-consolidation-deeper-191601632.html
-Time Published: 2026-07-24T19:16:01Z
-Description: The semiconductor market, which has significantly outperformed the broader market in 2026 is seeing a pullback in July. The factors driving this rise include...
---------------------------------------------------
-
-Title: Nvidia’s Rivals Are Coming for Its Crown, But the Smartest AI Bet Sits Further Down the Tech Stack
-URL: https://www.barchart.com/story/news/3453083/nvidias-rivals-are-coming-for-its-crown-but-the-smartest-ai-bet-sits-further-down-the-tech-stack
-Time Published: 2026-07-24T18:21:51Z
-Description: Hyperscalers are building custom AI chips to cut their reliance on Nvidia. But whoever wins, every chip still runs through the same handful of companies, fro...
---------------------------------------------------
-
-Title: TSMC Just Flexed Its Cash and Raised the Stakes in America After Record AI-Driven Earnings
-URL: https://www.barchart.com/story/news/3451055/tsmc-just-flexed-its-cash-and-raised-the-stakes-in-america-after-record-ai-driven-earnings
-Time Published: 2026-07-24T16:08:36Z
-Description: TSMC just committed another $100 billion to U.S. chipmaking on the same day it posted record profit. Behind both moves is an AI chip demand it still can’t fu...
---------------------------------------------------
