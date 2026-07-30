@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: CrowdStrike (CRWD) Rides the AI Threat Wave, But Can It Lead the Pack?
+URL: https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-rides-ai-threat-081016258.html
+Time Published: 2026-07-29T08:10:16Z
+Description: AI is now greatly advancing both sides of the cybersecurity war, with data increasingly favoring attackers. This isn’t an isolated data point, as Check Point...
+--------------------------------------------------
+
 Title: OpenAI’s Agent Hacked Hugging Face. Sam Altman Says the Singularity Is Here; Nvidia (NVDA), CrowdStrike (CRWD) Build the Defenses
 URL: https://finance.yahoo.com/technology/ai/articles/openai-agent-hacked-hugging-face-162250634.html
 Time Published: 2026-07-28T16:22:50Z
