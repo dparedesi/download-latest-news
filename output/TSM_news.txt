@@ -1,5 +1,17 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Broadcom Just Signed a $200 Billion AI Agreement. It Solves the Company’s Biggest Problem.
+URL: https://www.barchart.com/story/news/3530768/broadcom-just-signed-a-200-billion-ai-agreement-it-solves-the-companys-biggest-problem
+Time Published: 2026-07-29T17:16:02Z
+Description: Broadcom’s projected $200 billion Samsung partnership is less about size and more about securing the AI chip supply chain for years to come.
+--------------------------------------------------
+
+Title: A profit squeeze is coming for tech. This manager is betting on these unglamorous stocks instead.
+URL: https://www.marketwatch.com/story/a-profit-squeeze-is-coming-for-tech-this-manager-is-betting-on-these-unglamorous-stocks-instead-ea19a2ab
+Time Published: 2026-07-29T13:30:00Z
+Description: MFS Investment Management’s chief global investment strategist, Robert Almeida, says investors are focusing too much on the Federal Reserve, when their atten...
+--------------------------------------------------
+
 Title: Why This Analyst Is Betting AMD Stock Can Hit $1,250 in the Next Year
 URL: https://www.barchart.com/story/news/3487076/why-this-analyst-is-betting-amd-stock-can-hit-1-250-in-the-next-year
 Time Published: 2026-07-27T20:38:45Z
