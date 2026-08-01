@@ -1,5 +1,11 @@
 List of news related to Bank of America stock price BAC:
 
+Title: BofA sees more upside in Seagate’s AI storage trade
+URL: https://www.thestreet.com/investing/stocks/seagate-stx-q4-earnings-ai-storage-demand
+Time Published: 2026-07-30T11:03:00Z
+Description: Seagate Technology (STX) makes high-capacity hard drives used by cloud providers and large corporate data centers. Those drives store training files, model o...
+--------------------------------------------------
+
 Title: Are Wall Street Analysts Bullish on Fortinet Stock?
 URL: https://www.barchart.com/story/news/3519043/are-wall-street-analysts-bullish-on-fortinet-stock
 Time Published: 2026-07-29T08:58:41Z

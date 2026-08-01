@@ -1,5 +1,11 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Arm’s Biggest Opportunity Comes With Its Biggest Risk
+URL: https://www.barchart.com/story/news/3559646/arms-biggest-opportunity-comes-with-its-biggest-risk
+Time Published: 2026-07-30T18:52:54Z
+Description: Arm delivered record earnings, but investors are now weighing its fast-growing AI ambitions against an increasingly demanding valuation and rising regulatory...
+--------------------------------------------------
+
 Title: Stock market today: Dow, S&P 500, Nasdaq futures rebound ahead of inflation data
 URL: https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-30-dow-sp-500-nasdaq-082255995.html
 Time Published: 2026-07-30T08:22:55Z
@@ -106,17 +112,4 @@ Title: Stocks Set to Open Sharply Higher as Oil Prices Sink, Big Tech Earnings a
 URL: https://www.barchart.com/story/news/3475622/stocks-set-to-open-sharply-higher-as-oil-prices-sink-big-tech-earnings-and-fed-meeting-in-focus
 Time Published: 2026-07-27T10:37:40Z
 Description: September S&P 500 E-Mini futures (ESU26) are up +0.98%, and September Nasdaq 100 E-Mini futures (NQU26) are up +1.59% this morning, pointing to a sharply hig...
---------------------------------------------------
-
-Title: Amazon Stock Just Hit a Major Hurdle Ahead of Earnings
-URL: https://www.barchart.com/story/news/3470152/amazon-stock-just-hit-a-major-hurdle-ahead-of-earnings
-Time Published: 2026-07-26T17:30:02Z
-Description: A Senate investigation has created fresh uncertainty for Amazon just days before earnings, but Wall Street remains focused on AWS growth and AI investments.
---------------------------------------------------
-
-Title: What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft Earnings; Fed Interest Rate Decision
-URL: https://www.investopedia.com/what-to-expect-in-markets-this-week-amazon-apple-meta-microsoft-earnings-fed-interest-rate-decision-12025525
-Time Published: 2026-07-26T12:40:00Z
-Full Content:
-America’s AI buildout will be in the spotlight this week, with some of the world’s biggest tech companies due to hand in their latest results and Federal Reserve officials expected to take up the topic when they meet. A number of Fed officials have suggested that spending on AI infrastructure could be a more persistent cause of inflation than energy shocks stemming from the war with Iran. The Federal Open Markets Committee, which sets monetary policy, is likely to discuss AI and other factors influencing inflation when it meets Tuesday and Wednesday. The central bank is unlikely to adjust interest rates this week, but rate hikes may be coming later in the year, some Fed watchers say. An update on the Fed’s preferred measure of inflation is set to come Thursday, along with gross domestic product data. What Amazon, Apple, Microsoft and Meta Platforms have to say about their AI spending may be of more interest than the numbers they hand in this week. Last week, Alphabet handily beat expectations, but its stock sank after the parent company of Google and YouTube raised its projected expenditures on AI infrastructure. Tech companies are selling stock and using debt to finance the construction and operation of AI data centers, leaving investors concerned about whether these investments will pay off. Investors will listen closely for updates on the Magnificent 7 members’ efforts to monetize AI. Meta, which reports on Wednesday, is reportedly looking to launch a cloud computing business that may sell the social media giant’s excess compute capacity or access to AI models. Amazon, which is scheduled to report on Thursday, is charging customers more to rent hardware needed to train and run AI models. The tech giants’ capital expenditures also have implications for chip, memory and data storage stocks, which have recently lost momentum, but have been some of the best performers in the stock market this year. A number of companies that supply AI hardware are slated to report too, including Seagate Technology, Qualcomm and Arm Holdings. The major stock indexes finished Friday’s session mixed as oil prices pulled back following signs that Pakistan was pushing for new U.S.-Iran peace talks. The blue-chip Dow Jones Industrial Average and benchmark S&P 500 rose 0.5% and 0.1%, respectively. The tech-heavy Nasdaq fell 0.6% as chip stocks came under pressure. The indexes still posted losses for the week, marking the second consecutive week that all three fell. Global benchmark Brent crude futures retreated 4% to around $96.73 a barrel, a day after crossing the $100-a-barrel threshold for the first time since May. (Read our coverage of Friday’s market action here.) Here’s a look at the top events this week. TradingView publishes a more detailed calendar, but clicking the link will take you off the Investopedia site. The group behind the S&P 500 launched a digital assets index that excludes bitcoin, Crystal Kim reports. Some experts are warning of a potential slowdown in earnings growth later this year, with rising oil prices threatening to squeeze profit margins, Colin Laidley writes. And Americans are starting more businesses, but hiring fewer workers, thanks in part to AI. Do you have a news tip for Investopedia reporters? Please email us at [email protected]
 --------------------------------------------------
