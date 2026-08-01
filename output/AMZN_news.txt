@@ -1,5 +1,23 @@
 List of news related to Amazon stock price AMZN:
 
+Title: Nasdaq Futures Rally on Upbeat Amazon Earnings and Chip Stock Strength
+URL: https://www.barchart.com/story/news/3572513/nasdaq-futures-rally-on-upbeat-amazon-earnings-and-chip-stock-strength
+Time Published: 2026-07-31T10:42:51Z
+Description: September Nasdaq 100 E-Mini futures (NQU26) are up +1.12% this morning as investors continued to pile back into AI-related stocks following upbeat earnings f...
+--------------------------------------------------
+
+Title: AMZN Stock Soars 12% in Pre-Market Trading After Blowout Q2 Results as Analyst Says Amazon Is Already 'Monetizing' Its AI Investments
+URL: https://finance.yahoo.com/markets/stocks/articles/amzn-stock-soars-12-pre-084044960.html
+Time Published: 2026-07-31T08:40:44Z
+Description: Amazon.com, Inc. (NASDAQ:AMZN) shares surged over 12% in Friday’s pre-market trading after the e-commerce and cloud-computing giant reported stronger-than-ex...
+--------------------------------------------------
+
+Title: Amazon Stock Pops 9.5% After-Hours as AWS Fuels Earnings Beat: Jim Cramer Calls it 'Astonishing'
+URL: https://finance.yahoo.com/markets/stocks/articles/amazon-stock-pops-9-5-023240167.html
+Time Published: 2026-07-31T02:32:40Z
+Description: Amazon.com, Inc. (NASDAQ:AMZN) shares jumped Thursday after the company delivered stronger-than-expected second-quarter earnings, with investors and analysts...
+--------------------------------------------------
+
 Title: Arm’s Biggest Opportunity Comes With Its Biggest Risk
 URL: https://www.barchart.com/story/news/3559646/arms-biggest-opportunity-comes-with-its-biggest-risk
 Time Published: 2026-07-30T18:52:54Z
