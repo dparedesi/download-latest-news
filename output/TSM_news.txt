@@ -1,5 +1,11 @@
 List of news related to Taiwan Semiconductor TSM:
 
+Title: Semiconductor ETFs Draw Cash This Week as Chip Stocks Rally
+URL: https://finance.yahoo.com/markets/stocks/articles/semiconductor-etfs-draw-cash-week-184528988.html
+Time Published: 2026-07-31T18:45:28Z
+Description: Chip stocks rallied this week on a wave of strong tech earnings, and investors rewarded semiconductor ETFs with a rush of new cash. Three funds tracking the...
+--------------------------------------------------
+
 Title: AMD Fell 8% as China Unveils New Technology — the Real Risk Is the Multiple, Not the Lithography
 URL: https://finance.yahoo.com/markets/stocks/articles/amd-fell-8-china-unveils-163317303.html
 Time Published: 2026-07-30T16:33:17Z
@@ -35,28 +41,4 @@ Title: A profit squeeze is coming for tech. This manager is betting on these ung
 URL: https://www.marketwatch.com/story/a-profit-squeeze-is-coming-for-tech-this-manager-is-betting-on-these-unglamorous-stocks-instead-ea19a2ab
 Time Published: 2026-07-29T13:30:00Z
 Description: MFS Investment Management’s chief global investment strategist, Robert Almeida, says investors are focusing too much on the Federal Reserve, when their atten...
---------------------------------------------------
-
-Title: Why This Analyst Is Betting AMD Stock Can Hit $1,250 in the Next Year
-URL: https://www.barchart.com/story/news/3487076/why-this-analyst-is-betting-amd-stock-can-hit-1-250-in-the-next-year
-Time Published: 2026-07-27T20:38:45Z
-Description: Baird doubled AMD’s price target to $1,250 based on its AI prospects.
---------------------------------------------------
-
-Title: UnitedHealth Group Incorporated (UNH) and Intuitive Surgical, Inc. (ISRG) Just Showed Why Beating Estimates Isn’t Enough
-URL: https://finance.yahoo.com/healthcare/articles/unitedhealth-group-incorporated-unh-intuitive-193101380.html
-Time Published: 2026-07-27T19:31:01Z
-Description: Two big healthcare companies, UnitedHealth Group Incorporated (NYSE:UNH) and Intuitive Surgical, Inc. (NASDAQ:ISRG) reported earnings the same week in July....
---------------------------------------------------
-
-Title: Semiconductor stock charts just formed this bearish shape that signals more potential losses
-URL: https://finance.yahoo.com/markets/article/semiconductor-stock-charts-just-formed-this-bearish-shape-that-signals-more-potential-losses-145440205.html
-Time Published: 2026-07-27T14:54:40Z
-Description: Look out below for semis?
---------------------------------------------------
-
-Title: Beijing Just Aimed at Taiwan Semiconductor Manufacturing Company (NYSE:TSM). Here’s Why the Bull Case Still Wins
-URL: https://finance.yahoo.com/markets/stocks/articles/beijing-just-aimed-taiwan-semiconductor-140827384.html
-Time Published: 2026-07-27T14:08:27Z
-Description: On July 21, the Financial Times reported that China’s Ministry of Commerce is considering implementing export controls that would bar Taiwan Semiconductor Ma...
 --------------------------------------------------
