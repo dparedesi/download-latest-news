@@ -12,6 +12,18 @@ Time Published: 2026-08-03T13:35:30Z
 Description: GameStop announces a $1.4 billion convertible notes exchange to reduce debt, increasing shares and impacting market dynamics. The move aligns with strategic shifts under CEO Ryan Cohen.
 --------------------------------------------------
 
+Title: Option Volatility And Earnings Report For Aug 3 - 7
+URL: https://www.barchart.com/story/news/3609646/option-volatility-and-earnings-report-for-aug-3-7
+Time Published: 2026-08-03T11:00:02Z
+Description: It is another big week on the earnings front with a lots of big name companies reporting. This week could make or break the market. This week we have SpaceX,...
+--------------------------------------------------
+
+Title: Stocks Set to Open Higher as Oil Sinks on U.S.-Iran Deal Hopes, Jobs Data and Earnings Awaited
+URL: https://www.barchart.com/story/news/3609244/stocks-set-to-open-higher-as-oil-sinks-on-u-s-iran-deal-hopes-jobs-data-and-earnings-awaited
+Time Published: 2026-08-03T10:30:04Z
+Description: September S&P 500 E-Mini futures (ESU26) are up +0.57%, and September Nasdaq 100 E-Mini futures (NQU26) are up +0.47% this morning, pointing to a higher open...
+--------------------------------------------------
+
 Title: I’m a diehard Android user, but I still envy these 7 iOS features
 URL: https://www.androidauthority.com/diehard-android-user-ios-features-i-want-3691074/
 Time Published: 2026-08-03T10:00:05Z

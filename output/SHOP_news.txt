@@ -1,5 +1,17 @@
 List of news related to Shopify stock price SHOP:
 
+Title: Option Volatility And Earnings Report For Aug 3 - 7
+URL: https://www.barchart.com/story/news/3609646/option-volatility-and-earnings-report-for-aug-3-7
+Time Published: 2026-08-03T11:00:02Z
+Description: It is another big week on the earnings front with a lots of big name companies reporting. This week could make or break the market. This week we have SpaceX,...
+--------------------------------------------------
+
+Title: Stocks Set to Open Higher as Oil Sinks on U.S.-Iran Deal Hopes, Jobs Data and Earnings Awaited
+URL: https://www.barchart.com/story/news/3609244/stocks-set-to-open-higher-as-oil-sinks-on-u-s-iran-deal-hopes-jobs-data-and-earnings-awaited
+Time Published: 2026-08-03T10:30:04Z
+Description: September S&P 500 E-Mini futures (ESU26) are up +0.57%, and September Nasdaq 100 E-Mini futures (NQU26) are up +0.47% this morning, pointing to a higher open...
+--------------------------------------------------
+
 Title: Cathie Wood sells $5.5 million of surging tech stock
 URL: https://www.thestreet.com/investing/stocks/cathie-wood-sells-5-5-million-of-surging-tech-stock-snowflake-snow
 Time Published: 2026-08-02T16:33:00Z
