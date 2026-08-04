@@ -1,5 +1,17 @@
 List of news related to Uber stock price UBER:
 
+Title: Tesla rival trims spending plans despite revenue beat
+URL: https://www.thestreet.com/investing/stocks/rivn-rivian-trims-2026-spending-plans-despite-revenue-beat
+Time Published: 2026-08-03T16:41:53Z
+Description: Valued at a market cap of $22 billion, electric vehicle manufacturer Rivian has underperformed the broader markets in recent years. Down 80% from all-time hi...
+--------------------------------------------------
+
+Title: GameStop Shares Drop Over 7% After $1.4 Billion Debt-for-Equity Exchange Announced
+URL: https://www.ibtimes.com.au/gamestop-debt-swap-share-dilution-1873451
+Time Published: 2026-08-03T13:35:30Z
+Description: GameStop announces a $1.4 billion convertible notes exchange to reduce debt, increasing shares and impacting market dynamics. The move aligns with strategic shifts under CEO Ryan Cohen.
+--------------------------------------------------
+
 Title: I’m a diehard Android user, but I still envy these 7 iOS features
 URL: https://www.androidauthority.com/diehard-android-user-ios-features-i-want-3691074/
 Time Published: 2026-08-03T10:00:05Z
