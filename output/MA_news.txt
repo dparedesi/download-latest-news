@@ -11,16 +11,3 @@ URL: https://www.barchart.com/story/news/3553641/stocks-rebound-as-microsoft-ear
 Time Published: 2026-07-30T14:06:27Z
 Description: The S&P 500 Index ($SPX ) (SPY ) today is up +1.12%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ )...
 --------------------------------------------------
-
-Title: Stocks Plunge on a Rout in Chipmakers and a Hawkish Fed Hold
-URL: https://www.barchart.com/story/news/3535091/stocks-plunge-on-a-rout-in-chipmakers-and-a-hawkish-fed-hold
-Time Published: 2026-07-29T20:37:23Z
-Description: The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed down -1.52%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -2.19%, and the Nasdaq 100 Ind...
---------------------------------------------------
-
-Title: Bernstein Lowers Price Target On Circle Stock
-URL: https://www.cryptoprowl.com/releases/bernstein-lowers-price-target-on-circle-stock-6285
-Time Published: 2026-07-29T14:06:00Z
-Full Content:
-Wall Street brokerage Bernstein has lowered its price target on the stock of stablecoin issuer Circle Internet Group (NYSE: $CRCL ). In a note to clients, Bernstein lowered its price target on CRCL stock to $140 U.S. from $190 U.S. while keeping a Buy-equivalent outperform rating on the shares. Crypto analyst Gautam Chhugani writes that the Open USD consortium that pressured the stock is a lesser threat than the market realizes. And Bernstein’s lowered price target still implies plenty of upside for the stock. Circle Internet Group’s stock closed at $64.32 U.S. on July 28, meaning the new $140 U.S. price target is 118% higher than the current share price. CRCL stock has fallen 15% in the last month after the launch of Open USD, a stablecoin consortium backed by more than 140 payment, banking, and fintech names. The Open USD consortium includes heavy hitters such as Visa (NYSE: $V ), Mastercard (NYSE: $MA ), and Stripe, among others. Bernstein's Chhugani argues that Circle has been signing memorandums of understanding (MOUs) with the same entities named in the alliance. He says the fears are overblown. The analyst also notes that Visa executives recently said that the credit card giant intends to remain “multi-coin and multi-chain” despite the formation of the consortium. Visa executives added that their role is to help clients connect to the stablecoin ecosystem rather than to pick winners. CRCL stock has dropped 65% over the past 12 months to trade at $64.32 U.S. per share.
---------------------------------------------------

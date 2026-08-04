@@ -1,14 +1,21 @@
 List of news related to Uber stock price UBER:
 
+Title: TWiT 1095: Horses and Sailboats - Folding Phones Get Cute and Expensive in a Race With Apple
+URL: https://twit.tv/shows/this-week-in-tech/episodes/1095
+Time Published: 2026-08-03T03:20:36Z
+Full Content:
+Aug 2nd 2026 Folding Phones Get Cute and Expensive in a Race With Apple From foldable phones that out-price laptops to AI models that escape their digital cages, this episode dives into the wild next phase of tech innovation and its unexpected risks. See how the giants are scrambling to keep up as hardware, software, and even outer space are up for grabs. Download or subscribe to This Week in Tech at https://twit.tv/shows/this-week-in-tech Join Club TWiT for Ad-Free Podcasts!Support what you love and get ad-free audio and video feeds, a members-only Discord, and exclusive content. Join today: https://twit.tv/clubtwit Join Club TWiT for Ad-Free Podcasts!Support what you love and get ad-free audio and video feeds, a members-only Discord, and exclusive content. Join Club TWiT today! Download Options HD Video Audio YouTube (Right-click and Save As... to download)
+--------------------------------------------------
+
+Title: Wall Street Is Rewarding AI Results, Not Just AI Spending
+URL: https://www.barchart.com/story/news/3603901/wall-street-is-rewarding-ai-results-not-just-ai-spending
+Time Published: 2026-08-02T21:19:26Z
+Description: The market is buying CEO Andy Jassy's spending plan for Amazon.
+--------------------------------------------------
+
 Title: What to Expect in Markets this Week: SpaceX’s First Earnings Report; Earnings From Chip and Memory Giants; Jobs Report
 URL: https://www.investopedia.com/what-to-expect-in-markets-this-week-spacex-s-first-earnings-report-earnings-from-chip-and-memory-giants-spcx-elon-musk-12031285
 Time Published: 2026-08-02T09:00:00Z
 Full Content:
 Elon Musk gets plenty of attention. He’ll get even more this week. SpaceX is set to issue its first quarterly earnings report as a public company Tuesday afternoon, calling attention to Silicon Valley’s surging investment in AI and the supply chain supporting the buildout. The results will follow a volatile seven weeks for Elon Musk’s newly public moonshot. The rocket, connectivity and AI company sold shares for $135 in the largest initial public offering on record in June. The stock shot up in its first days, surpassing $225, and then steadily slid, falling below its IPO price and touching a low of $107 last week. Enthusiasm for SpaceX stock has flagged amid operational setbacks and a pullback in AI stocks. Tech giants have issued new stock and used debt to finance their increasingly expensive AI data center buildout, raising questions about when the investments will pay off. Investors recently dumped shares of several Magnificent 7 members, including Musk’s EV maker Tesla, after the companies indicated their AI spending spree is far from over. SpaceX and its counterparts’ big AI spending has been a tailwind for chip, memory and data storage stocks, which have soared this year as builders snapped up their products. Suppliers, including Advanced Micro Devices, Western Digital and SanDisk, will report this week, along with energy companies benefiting from the AI boom. This week also offers earnings from outside Silicon Valley. A number of consumer companies report, including the streaming service Spotify and media giants Paramount Skydance and Walt Disney. Results are also expected from McDonald’s, Wendy’s and the parent company of Burger King and Popeyes. The major stock indexes plunged mid-week, though they managed to end the week with gains across the board, helped by an upbeat finish to Friday’s session. The Dow had its worst day in 15 months on Wednesday as the Federal Reserve left interest rates unchanged. Stocks started to regain ground Thursday, when data showed the Fed’s preferred inflation index cooled in June. Mega-cap tech stocks added to the turbulence throughout the week with mixed earnings reports. For the month, the Nasdaq Composite fell 3.2%, while the Dow edged higher and the S&P 500 just ticked lower. For more, read Friday’s market recap here. Here’s a look at major events this week. TradingView publishes a more detailed calendar, but clicking the link will take you off the Investopedia site. American wealth hasn’t ridden on the stock market this much since the 1950s, Peter Gratton writes. GDP grew slower than expected last quarter, but could rebound later this year, Diccon Hyatt reports. Delta (DAL) and DraftKings (DKNG) are launching a free, in-flight “sports knowledge contest,” Aaron Rennie reports. And here’s Daniel Liberto’s look at the levels of mortgage debt held by retirees.
---------------------------------------------------
-
-Title: Are Wall Street Analysts Predicting Uber Technologies Stock Will Climb or Sink?
-URL: https://www.barchart.com/story/news/3526102/are-wall-street-analysts-predicting-uber-technologies-stock-will-climb-or-sink
-Time Published: 2026-07-29T13:17:18Z
-Description: Uber Technologies has underperformed the broader market over the past year, but analysts are highly optimistic about the stock’s prospects.
 --------------------------------------------------
