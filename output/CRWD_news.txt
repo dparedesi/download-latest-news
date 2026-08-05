@@ -1,5 +1,11 @@
 List of news related to Crowdstrike CRWD:
 
+Title: 131 Poisoned AI Packages Hit Microsoft’s (MSFT) npm. CrowdStrike (CRWD) Couldn’t Ask for a Better Sales Pitch
+URL: https://finance.yahoo.com/technology/ai/articles/131-poisoned-ai-packages-hit-123042550.html
+Time Published: 2026-08-04T12:30:42Z
+Description: CrowdStrike Holdings, Inc. (NASDAQ:CRWD) said on August 3 that a North Korea-linked adversary injected a malicious dependency into at least 131 Mastra AI fra...
+--------------------------------------------------
+
 Title: SpaceX’s stock is down nearly 50% from its high. Why it’s still not a bargain.
 URL: https://www.marketwatch.com/story/spacexs-stock-is-down-nearly-50-from-its-high-why-its-still-not-a-bargain-65b528ad
 Time Published: 2026-08-03T17:05:00Z
